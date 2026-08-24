@@ -1,0 +1,632 @@
+﻿Main PokerStars n°242636590886 : Tournoi #3566497872, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 23/03/2023 22:58:21 CET [23/03/2023 17:58:21 ET]
+Table '3566497872 1' 3-max Siège #1 est au bouton.
+Place 1: alinparis (300 en jetons) 
+Place 2: phil541402 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+phil541402 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 9s]
+alinparis : suit. 20
+phil541402 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Kd Qc 6h]
+phil541402 : parole 
+psychoman59 : parole 
+alinparis : parole 
+*** TOURNANT *** [Kd Qc 6h] [8h]
+phil541402 : parole 
+psychoman59 : parole 
+alinparis : parole 
+*** RIVIÈRE *** [Kd Qc 6h 8h] [Js]
+phil541402 : parole 
+psychoman59 : parole 
+alinparis : mise. 20
+phil541402 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à alinparis.
+alinparis a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Kd Qc 6h 8h Js]
+Siège 1 : alinparis (bouton) a remporté (60)
+Siège 2 : phil541402 (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°242636598947 : Tournoi #3566497872, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 23/03/2023 22:58:49 CET [23/03/2023 17:58:49 ET]
+Table '3566497872 1' 3-max Siège #2 est au bouton.
+Place 1: alinparis (340 en jetons) 
+Place 2: phil541402 (280 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+alinparis : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Ks]
+phil541402 : relance. 260 à 280 et est all-in.
+psychoman59 : passe. 
+alinparis : passe. 
+Personne n'a suivi. (260) sont retournés à phil541402.
+phil541402 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : alinparis (grosse blind) s'est couché. avant Flop
+Siège 2 : phil541402 (bouton) a remporté (50)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242636603095 : Tournoi #3566497872, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 23/03/2023 22:59:03 CET [23/03/2023 17:59:03 ET]
+Table '3566497872 1' 3-max Siège #3 est au bouton.
+Place 1: alinparis (320 en jetons) 
+Place 2: phil541402 (310 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+alinparis : met la petite blind. 10
+phil541402 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Th]
+psychoman59 : passe. 
+alinparis : suit. 10
+phil541402 : parole 
+*** FLOP *** [Ad 5s Qd]
+alinparis : parole 
+phil541402 : parole 
+*** TOURNANT *** [Ad 5s Qd] [5d]
+alinparis : parole 
+phil541402 : mise. 20
+alinparis : passe. 
+Personne n'a suivi. (20) sont retournés à phil541402.
+phil541402 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Ad 5s Qd 5d]
+Siège 1 : alinparis (petite blind) s'est couché. sur le Tournant
+Siège 2 : phil541402 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°242636608458 : Tournoi #3566497872, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 23/03/2023 22:59:22 CET [23/03/2023 17:59:22 ET]
+Table '3566497872 1' 3-max Siège #1 est au bouton.
+Place 1: alinparis (300 en jetons) 
+Place 2: phil541402 (330 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+phil541402 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 5s]
+alinparis : suit. 20
+phil541402 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [6h Ks 8d]
+phil541402 : parole 
+psychoman59 : parole 
+alinparis : parole 
+*** TOURNANT *** [6h Ks 8d] [7h]
+phil541402 : parole 
+psychoman59 : parole 
+alinparis : parole 
+*** RIVIÈRE *** [6h Ks 8d 7h] [5c]
+phil541402 : mise. 60
+psychoman59 : passe. 
+alinparis : relance. 60 à 120
+phil541402 : suit. 60
+*** ABATTAGE ***
+alinparis : montre [4d Qd] (une suite, Quatre à Huit)
+phil541402 : montre [9h 8h] (une suite, Cinq à Neuf)
+phil541402 a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [6h Ks 8d 7h 5c]
+Siège 1 : alinparis (bouton) a montré [4d Qd] et a perdu avec une suite, Quatre à Huit
+Siège 2 : phil541402 (petite blind) a montré [9h 8h] et a gagné (300) avec une suite, Cinq à Neuf
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°242636625578 : Tournoi #3566497872, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 23/03/2023 23:00:20 CET [23/03/2023 18:00:20 ET]
+Table '3566497872 1' 3-max Siège #2 est au bouton.
+Place 1: alinparis (160 en jetons) 
+Place 2: phil541402 (490 en jetons) 
+Place 3: psychoman59 (250 en jetons) 
+psychoman59 : met la petite blind. 15
+alinparis : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 4h]
+phil541402 : suit. 30
+psychoman59 : passe. 
+alinparis : parole 
+*** FLOP *** [9d Qc Js]
+alinparis : mise. 30
+phil541402 : passe. 
+Personne n'a suivi. (30) sont retournés à alinparis.
+alinparis a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Tableau [9d Qc Js]
+Siège 1 : alinparis (grosse blind) a remporté (75)
+Siège 2 : phil541402 (bouton) s'est couché. sur le Flop
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242636633847 : Tournoi #3566497872, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 23/03/2023 23:00:46 CET [23/03/2023 18:00:46 ET]
+Table '3566497872 1' 3-max Siège #3 est au bouton.
+Place 1: alinparis (205 en jetons) 
+Place 2: phil541402 (460 en jetons) 
+Place 3: psychoman59 (235 en jetons) 
+alinparis : met la petite blind. 20
+phil541402 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 2h]
+psychoman59 : passe. 
+alinparis : suit. 20
+phil541402 : parole 
+*** FLOP *** [7d Ad Jd]
+alinparis : parole 
+phil541402 : mise. 40
+alinparis : relance. 40 à 80
+phil541402 : relance. 340 à 420 et est all-in.
+alinparis : suit. 85 et est all-in.
+Personne n'a suivi. (255) sont retournés à phil541402.
+*** TOURNANT *** [7d Ad Jd] [2s]
+*** RIVIÈRE *** [7d Ad Jd 2s] [6s]
+*** ABATTAGE ***
+alinparis : montre [Js 9s] (une paire de Valets)
+phil541402 : montre [3d 6d] (une couleur, hauteur As)
+phil541402 a remporté 410  lors du pot .
+alinparis a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 410 | Commission 0 
+Tableau [7d Ad Jd 2s 6s]
+Siège 1 : alinparis (petite blind) a montré [Js 9s] et a perdu avec une paire de Valets
+Siège 2 : phil541402 (grosse blind) a montré [3d 6d] et a gagné (410) avec une couleur, hauteur As
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°242636641684 : Tournoi #3566497872, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 23/03/2023 23:01:11 CET [23/03/2023 18:01:11 ET]
+Table '3566497872 1' 3-max Siège #2 est au bouton.
+Place 2: phil541402 (665 en jetons) 
+Place 3: psychoman59 (235 en jetons) 
+phil541402 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Jd]
+phil541402 : relance. 625 à 665 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (625) sont retournés à phil541402.
+phil541402 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : phil541402 (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242636644572 : Tournoi #3566497872, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 23/03/2023 23:01:20 CET [23/03/2023 18:01:20 ET]
+Table '3566497872 1' 3-max Siège #3 est au bouton.
+Place 2: phil541402 (705 en jetons) 
+Place 3: psychoman59 (195 en jetons) 
+psychoman59 : met la petite blind. 20
+phil541402 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 4c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à phil541402.
+phil541402 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : phil541402 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242636646977 : Tournoi #3566497872, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 23/03/2023 23:01:27 CET [23/03/2023 18:01:27 ET]
+Table '3566497872 1' 3-max Siège #2 est au bouton.
+Place 2: phil541402 (725 en jetons) 
+Place 3: psychoman59 (175 en jetons) 
+phil541402 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 7c]
+phil541402 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : phil541402 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°242636648931 : Tournoi #3566497872, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 23/03/2023 23:01:32 CET [23/03/2023 18:01:32 ET]
+Table '3566497872 1' 3-max Siège #3 est au bouton.
+Place 2: phil541402 (695 en jetons) 
+Place 3: psychoman59 (205 en jetons) 
+psychoman59 : met la petite blind. 30
+phil541402 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 4c]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à phil541402.
+phil541402 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : phil541402 (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242636650469 : Tournoi #3566497872, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 23/03/2023 23:01:37 CET [23/03/2023 18:01:37 ET]
+Table '3566497872 1' 3-max Siège #2 est au bouton.
+Place 2: phil541402 (725 en jetons) 
+Place 3: psychoman59 (175 en jetons) 
+phil541402 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 2d]
+phil541402 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : phil541402 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°242636652117 : Tournoi #3566497872, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 23/03/2023 23:01:42 CET [23/03/2023 18:01:42 ET]
+Table '3566497872 1' 3-max Siège #3 est au bouton.
+Place 2: phil541402 (695 en jetons) 
+Place 3: psychoman59 (205 en jetons) 
+psychoman59 : met la petite blind. 30
+phil541402 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 7d]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à phil541402.
+phil541402 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : phil541402 (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242636653794 : Tournoi #3566497872, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 23/03/2023 23:01:47 CET [23/03/2023 18:01:47 ET]
+Table '3566497872 1' 3-max Siège #2 est au bouton.
+Place 2: phil541402 (725 en jetons) 
+Place 3: psychoman59 (175 en jetons) 
+phil541402 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 9s]
+phil541402 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : phil541402 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°242636655412 : Tournoi #3566497872, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 23/03/2023 23:01:52 CET [23/03/2023 18:01:52 ET]
+Table '3566497872 1' 3-max Siège #3 est au bouton.
+Place 2: phil541402 (695 en jetons) 
+Place 3: psychoman59 (205 en jetons) 
+psychoman59 : met la petite blind. 30
+phil541402 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 4h]
+psychoman59 : relance. 145 à 205 et est all-in.
+phil541402 : suit. 145
+*** FLOP *** [Kh Tc Kd]
+*** TOURNANT *** [Kh Tc Kd] [4d]
+*** RIVIÈRE *** [Kh Tc Kd 4d] [Ah]
+*** ABATTAGE ***
+phil541402 : montre [9s Qc] (une paire de Rois)
+psychoman59 : montre [Qh 4h] (double paire, Rois et Quatre)
+psychoman59 a remporté 410  lors du pot .
+*** SYNTHÈSE ***
+Pot total 410 | Commission 0 
+Tableau [Kh Tc Kd 4d Ah]
+Siège 2 : phil541402 (grosse blind) a montré [9s Qc] et a perdu avec une paire de Rois
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Qh 4h] et a gagné (410) avec double paire, Rois et Quatre
+
+
+
+Main PokerStars n°242636660573 : Tournoi #3566497872, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 23/03/2023 23:02:06 CET [23/03/2023 18:02:06 ET]
+Table '3566497872 1' 3-max Siège #2 est au bouton.
+Place 2: phil541402 (490 en jetons) 
+Place 3: psychoman59 (410 en jetons) 
+phil541402 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Jd]
+phil541402 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : phil541402 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°242636662737 : Tournoi #3566497872, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 23/03/2023 23:02:11 CET [23/03/2023 18:02:11 ET]
+Table '3566497872 1' 3-max Siège #3 est au bouton.
+Place 2: phil541402 (460 en jetons) 
+Place 3: psychoman59 (440 en jetons) 
+psychoman59 : met la petite blind. 30
+phil541402 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Qd]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à phil541402.
+phil541402 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : phil541402 (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242636664633 : Tournoi #3566497872, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 23/03/2023 23:02:17 CET [23/03/2023 18:02:17 ET]
+Table '3566497872 1' 3-max Siège #2 est au bouton.
+Place 2: phil541402 (490 en jetons) 
+Place 3: psychoman59 (410 en jetons) 
+phil541402 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Jc]
+phil541402 : relance. 430 à 490 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (430) sont retournés à phil541402.
+phil541402 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : phil541402 (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242636668257 : Tournoi #3566497872, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 23/03/2023 23:02:27 CET [23/03/2023 18:02:27 ET]
+Table '3566497872 1' 3-max Siège #3 est au bouton.
+Place 2: phil541402 (550 en jetons) 
+Place 3: psychoman59 (350 en jetons) 
+psychoman59 : met la petite blind. 40
+phil541402 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 7s]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à phil541402.
+phil541402 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : phil541402 (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242636669929 : Tournoi #3566497872, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 23/03/2023 23:02:31 CET [23/03/2023 18:02:31 ET]
+Table '3566497872 1' 3-max Siège #2 est au bouton.
+Place 2: phil541402 (590 en jetons) 
+Place 3: psychoman59 (310 en jetons) 
+phil541402 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 8h]
+phil541402 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : phil541402 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°242636671708 : Tournoi #3566497872, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 23/03/2023 23:02:36 CET [23/03/2023 18:02:36 ET]
+Table '3566497872 1' 3-max Siège #3 est au bouton.
+Place 2: phil541402 (550 en jetons) 
+Place 3: psychoman59 (350 en jetons) 
+psychoman59 : met la petite blind. 40
+phil541402 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 7c]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à phil541402.
+phil541402 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : phil541402 (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242636673251 : Tournoi #3566497872, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 23/03/2023 23:02:40 CET [23/03/2023 18:02:40 ET]
+Table '3566497872 1' 3-max Siège #2 est au bouton.
+Place 2: phil541402 (590 en jetons) 
+Place 3: psychoman59 (310 en jetons) 
+phil541402 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 5d]
+phil541402 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : phil541402 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°242636674812 : Tournoi #3566497872, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 23/03/2023 23:02:45 CET [23/03/2023 18:02:45 ET]
+Table '3566497872 1' 3-max Siège #3 est au bouton.
+Place 2: phil541402 (550 en jetons) 
+Place 3: psychoman59 (350 en jetons) 
+psychoman59 : met la petite blind. 40
+phil541402 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Kc]
+psychoman59 : relance. 270 à 350 et est all-in.
+phil541402 : passe. 
+Personne n'a suivi. (270) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 2 : phil541402 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°242636677715 : Tournoi #3566497872, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 23/03/2023 23:02:52 CET [23/03/2023 18:02:52 ET]
+Table '3566497872 1' 3-max Siège #2 est au bouton.
+Place 2: phil541402 (470 en jetons) 
+Place 3: psychoman59 (430 en jetons) 
+phil541402 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Kd]
+phil541402 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : phil541402 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°242636679530 : Tournoi #3566497872, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 23/03/2023 23:02:57 CET [23/03/2023 18:02:57 ET]
+Table '3566497872 1' 3-max Siège #3 est au bouton.
+Place 2: phil541402 (430 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+psychoman59 : met la petite blind. 40
+phil541402 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Ks]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à phil541402.
+phil541402 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : phil541402 (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242636681457 : Tournoi #3566497872, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 23/03/2023 23:03:03 CET [23/03/2023 18:03:03 ET]
+Table '3566497872 1' 3-max Siège #2 est au bouton.
+Place 2: phil541402 (470 en jetons) 
+Place 3: psychoman59 (430 en jetons) 
+phil541402 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Ac]
+phil541402 : suit. 40
+psychoman59 : relance. 350 à 430 et est all-in.
+phil541402 : suit. 350
+*** FLOP *** [4d 7c 6s]
+*** TOURNANT *** [4d 7c 6s] [6c]
+*** RIVIÈRE *** [4d 7c 6s 6c] [Td]
+*** ABATTAGE ***
+psychoman59 : montre [Ts Ac] (double paire, Dix et Six)
+phil541402 : montre [3h Kh] (une paire de Six)
+psychoman59 a remporté 860  lors du pot .
+*** SYNTHÈSE ***
+Pot total 860 | Commission 0 
+Tableau [4d 7c 6s 6c Td]
+Siège 2 : phil541402 (bouton) (petite blind) a montré [3h Kh] et a perdu avec une paire de Six
+Siège 3 : psychoman59 (grosse blind) a montré [Ts Ac] et a gagné (860) avec double paire, Dix et Six
+
+
+
+Main PokerStars n°242636687558 : Tournoi #3566497872, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 23/03/2023 23:03:19 CET [23/03/2023 18:03:19 ET]
+Table '3566497872 1' 3-max Siège #3 est au bouton.
+Place 2: phil541402 (40 en jetons) 
+Place 3: psychoman59 (860 en jetons) 
+psychoman59 : met la petite blind. 40
+phil541402 : met la grosse blind. 40 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 7d]
+*** FLOP *** [2d Ac 4h]
+*** TOURNANT *** [2d Ac 4h] [4d]
+*** RIVIÈRE *** [2d Ac 4h 4d] [4s]
+*** ABATTAGE ***
+phil541402 : montre [5s 5d] (un full, full aux Quatre par les Cinq)
+psychoman59 : montre [Js 7d] (un brelan de Quatre)
+phil541402 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [2d Ac 4h 4d 4s]
+Siège 2 : phil541402 (grosse blind) a montré [5s 5d] et a gagné (80) avec un full, full aux Quatre par les Cinq
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Js 7d] et a perdu avec un brelan de Quatre
+
+
+
+Main PokerStars n°242636691759 : Tournoi #3566497872, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 23/03/2023 23:03:31 CET [23/03/2023 18:03:31 ET]
+Table '3566497872 1' 3-max Siège #2 est au bouton.
+Place 2: phil541402 (80 en jetons) 
+Place 3: psychoman59 (820 en jetons) 
+phil541402 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 2c]
+phil541402 : suit. 30 et est all-in.
+Personne n'a suivi. (20) sont retournés à psychoman59.
+*** FLOP *** [As 4d Js]
+*** TOURNANT *** [As 4d Js] [9s]
+*** RIVIÈRE *** [As 4d Js 9s] [Tc]
+*** ABATTAGE ***
+psychoman59 : montre [2h 2c] (une paire de Deux)
+phil541402 : montre [Ad Qd] (une paire de As)
+phil541402 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [As 4d Js 9s Tc]
+Siège 2 : phil541402 (bouton) (petite blind) a montré [Ad Qd] et a gagné (160) avec une paire de As
+Siège 3 : psychoman59 (grosse blind) a montré [2h 2c] et a perdu avec une paire de Deux
+
+
+
+Main PokerStars n°242636695938 : Tournoi #3566497872, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 23/03/2023 23:03:42 CET [23/03/2023 18:03:42 ET]
+Table '3566497872 1' 3-max Siège #3 est au bouton.
+Place 2: phil541402 (160 en jetons) 
+Place 3: psychoman59 (740 en jetons) 
+psychoman59 : met la petite blind. 50
+phil541402 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Kd]
+psychoman59 : relance. 100 à 200
+phil541402 : suit. 60 et est all-in.
+Personne n'a suivi. (40) sont retournés à psychoman59.
+*** FLOP *** [Kc 8c 6s]
+*** TOURNANT *** [Kc 8c 6s] [3c]
+*** RIVIÈRE *** [Kc 8c 6s 3c] [4d]
+*** ABATTAGE ***
+phil541402 : montre [8h As] (une paire de Huit)
+psychoman59 : montre [9d Kd] (une paire de Rois)
+psychoman59 a remporté 320  lors du pot .
+phil541402 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [Kc 8c 6s 3c 4d]
+Siège 2 : phil541402 (grosse blind) a montré [8h As] et a perdu avec une paire de Huit
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [9d Kd] et a gagné (320) avec une paire de Rois
+
+
+

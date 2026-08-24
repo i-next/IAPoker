@@ -1,0 +1,562 @@
+﻿Main PokerStars n°255905797235 : Tournoi #3883291520, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 27/04/2025 10:05:34 CET [27/04/2025 4:05:34 ET]
+Table '3883291520 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: tjneos (500 en jetons) 
+Place 3: Carper33 (500 en jetons) 
+tjneos : met la petite blind. 10
+Carper33 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Qc]
+psychoman59 : relance. 20 à 40
+tjneos : suit. 30
+Carper33 : suit. 20
+*** FLOP *** [As 7s 7d]
+tjneos : parole 
+Carper33 : mise. 20
+psychoman59 : passe. 
+tjneos : passe. 
+Personne n'a suivi. (20) sont retournés à Carper33.
+Carper33 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [As 7s 7d]
+Siège 1 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 2 : tjneos (petite blind) s'est couché. sur le Flop
+Siège 3 : Carper33 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°255905798775 : Tournoi #3883291520, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 27/04/2025 10:05:52 CET [27/04/2025 4:05:52 ET]
+Table '3883291520 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (460 en jetons) 
+Place 2: tjneos (460 en jetons) 
+Place 3: Carper33 (580 en jetons) 
+Carper33 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Ad]
+tjneos : suit. 20
+Carper33 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [3d Qd Kc]
+Carper33 : mise. 20
+psychoman59 : passe. 
+tjneos : suit. 20
+*** TOURNANT *** [3d Qd Kc] [Kh]
+Carper33 : parole 
+tjneos : mise. 40
+Carper33 : suit. 40
+*** RIVIÈRE *** [3d Qd Kc Kh] [Ac]
+Carper33 : parole 
+tjneos : mise. 80
+Carper33 : passe. 
+Personne n'a suivi. (80) sont retournés à tjneos.
+tjneos a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [3d Qd Kc Kh Ac]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : tjneos (bouton) a remporté (180)
+Siège 3 : Carper33 (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°255905801528 : Tournoi #3883291520, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 27/04/2025 10:06:26 CET [27/04/2025 4:06:26 ET]
+Table '3883291520 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (440 en jetons) 
+Place 2: tjneos (560 en jetons) 
+Place 3: Carper33 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+tjneos : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 7s]
+Carper33 : suit. 20
+psychoman59 : passe. 
+tjneos : parole 
+*** FLOP *** [3s 3d 8h]
+tjneos : parole 
+Carper33 : parole 
+*** TOURNANT *** [3s 3d 8h] [Ks]
+tjneos : mise. 50
+Carper33 : passe. 
+Personne n'a suivi. (50) sont retournés à tjneos.
+tjneos a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [3s 3d 8h Ks]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : tjneos (grosse blind) a remporté (50)
+Siège 3 : Carper33 (bouton) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°255905802872 : Tournoi #3883291520, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 27/04/2025 10:06:42 CET [27/04/2025 4:06:42 ET]
+Table '3883291520 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (430 en jetons) 
+Place 2: tjneos (590 en jetons) 
+Place 3: Carper33 (480 en jetons) 
+tjneos : met la petite blind. 10
+Carper33 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 5s]
+psychoman59 : passe. 
+tjneos : suit. 10
+Carper33 : parole 
+*** FLOP *** [8h 7d Kd]
+tjneos : mise. 20
+Carper33 : suit. 20
+*** TOURNANT *** [8h 7d Kd] [Qd]
+tjneos : mise. 40
+Carper33 : suit. 40
+*** RIVIÈRE *** [8h 7d Kd Qd] [7c]
+tjneos : mise. 60
+Carper33 : relance. 60 à 120
+tjneos : suit. 60
+*** ABATTAGE ***
+Carper33 : montre [As 8s] (double paire, Huit et Sept)
+tjneos : montre [Td 2d] (une couleur, hauteur Roi)
+tjneos a remporté 400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [8h 7d Kd Qd 7c]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : tjneos (petite blind) a montré [Td 2d] et a gagné (400) avec une couleur, hauteur Roi
+Siège 3 : Carper33 (grosse blind) a montré [As 8s] et a perdu avec double paire, Huit et Sept
+
+
+
+Main PokerStars n°255905804669 : Tournoi #3883291520, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 27/04/2025 10:07:03 CET [27/04/2025 4:07:03 ET]
+Table '3883291520 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (430 en jetons) 
+Place 2: tjneos (790 en jetons) 
+Place 3: Carper33 (280 en jetons) 
+Carper33 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Qh]
+tjneos : suit. 20
+Carper33 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Th Jd As]
+Carper33 : mise. 20
+psychoman59 : suit. 20
+tjneos : suit. 20
+*** TOURNANT *** [Th Jd As] [2d]
+Carper33 : mise. 20
+psychoman59 : suit. 20
+tjneos : suit. 20
+*** RIVIÈRE *** [Th Jd As 2d] [2s]
+Carper33 : parole 
+psychoman59 : parole 
+tjneos : parole 
+*** ABATTAGE ***
+Carper33 : montre [3s Ah] (double paire, As et Deux)
+psychoman59 : cache la main perdante. 
+tjneos : cache la main perdante. 
+Carper33 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Th Jd As 2d 2s]
+Siège 1 : psychoman59 (grosse blind) a caché la main perdante. [4d Qh]
+Siège 2 : tjneos (bouton) a caché la main perdante. [Tc Ks]
+Siège 3 : Carper33 (petite blind) a montré [3s Ah] et a gagné (180) avec double paire, As et Deux
+
+
+
+Main PokerStars n°255905807039 : Tournoi #3883291520, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 27/04/2025 10:07:32 CET [27/04/2025 4:07:32 ET]
+Table '3883291520 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (370 en jetons) 
+Place 2: tjneos (730 en jetons) 
+Place 3: Carper33 (400 en jetons) 
+psychoman59 : met la petite blind. 10
+tjneos : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Qd]
+Carper33 : suit. 20
+psychoman59 : suit. 10
+tjneos : parole 
+*** FLOP *** [As 8d 5h]
+psychoman59 : parole 
+tjneos : parole 
+Carper33 : parole 
+*** TOURNANT *** [As 8d 5h] [Td]
+psychoman59 : parole 
+tjneos : parole 
+Carper33 : mise. 20
+psychoman59 : suit. 20
+tjneos : suit. 20
+*** RIVIÈRE *** [As 8d 5h Td] [Jc]
+psychoman59 : parole 
+tjneos : parole 
+Carper33 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Jh Qd] (une paire de Valets)
+tjneos : cache la main perdante. 
+Carper33 : cache la main perdante. 
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [As 8d 5h Td Jc]
+Siège 1 : psychoman59 (petite blind) a montré [Jh Qd] et a gagné (120) avec une paire de Valets
+Siège 2 : tjneos (grosse blind) a caché la main perdante. [9s 6h]
+Siège 3 : Carper33 (bouton) a caché la main perdante. [Tc 3s]
+
+
+
+Main PokerStars n°255905809606 : Tournoi #3883291520, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 27/04/2025 10:08:03 CET [27/04/2025 4:08:03 ET]
+Table '3883291520 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (450 en jetons) 
+Place 2: tjneos (690 en jetons) 
+Place 3: Carper33 (360 en jetons) 
+tjneos : met la petite blind. 10
+Carper33 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 8h]
+psychoman59 : passe. 
+tjneos : suit. 10
+Carper33 : parole 
+*** FLOP *** [2c 5c Kd]
+tjneos : parole 
+Carper33 : parole 
+*** TOURNANT *** [2c 5c Kd] [Kc]
+tjneos : parole 
+Carper33 : parole 
+*** RIVIÈRE *** [2c 5c Kd Kc] [6c]
+tjneos : parole 
+Carper33 : parole 
+*** ABATTAGE ***
+tjneos : montre [Js 3s] (une paire de Rois)
+Carper33 : montre [2h 3d] (double paire, Rois et Deux)
+Carper33 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [2c 5c Kd Kc 6c]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : tjneos (petite blind) a montré [Js 3s] et a perdu avec une paire de Rois
+Siège 3 : Carper33 (grosse blind) a montré [2h 3d] et a gagné (40) avec double paire, Rois et Deux
+
+
+
+Main PokerStars n°255905810997 : Tournoi #3883291520, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 27/04/2025 10:08:20 CET [27/04/2025 4:08:20 ET]
+Table '3883291520 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (450 en jetons) 
+Place 2: tjneos (670 en jetons) 
+Place 3: Carper33 (380 en jetons) 
+Carper33 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 7h]
+tjneos : passe. 
+Carper33 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Qc 9s 7c]
+Carper33 : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [Qc 9s 7c] [7s]
+Carper33 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Qc 9s 7c 7s] [3d]
+Carper33 : mise. 20
+psychoman59 : relance. 60 à 80
+Carper33 : suit. 60
+*** ABATTAGE ***
+psychoman59 : montre [Qh 7h] (un full, full aux Sept par les Dames)
+Carper33 : cache la main perdante. 
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Qc 9s 7c 7s 3d]
+Siège 1 : psychoman59 (grosse blind) a montré [Qh 7h] et a gagné (240) avec un full, full aux Sept par les Dames
+Siège 2 : tjneos (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Carper33 (petite blind) a caché la main perdante. [Qd 6h]
+
+
+
+Main PokerStars n°255905813165 : Tournoi #3883291520, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 27/04/2025 10:08:46 CET [27/04/2025 4:08:46 ET]
+Table '3883291520 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (570 en jetons) 
+Place 2: tjneos (670 en jetons) 
+Place 3: Carper33 (260 en jetons) 
+psychoman59 : met la petite blind. 15
+tjneos : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 4h]
+Carper33 : suit. 30
+psychoman59 : passe. 
+tjneos : parole 
+*** FLOP *** [4c Kd 3h]
+tjneos : parole 
+Carper33 : parole 
+*** TOURNANT *** [4c Kd 3h] [7d]
+tjneos : parole 
+Carper33 : parole 
+*** RIVIÈRE *** [4c Kd 3h 7d] [Qh]
+tjneos : mise. 90
+Carper33 : suit. 90
+*** ABATTAGE ***
+tjneos : montre [8d Td] (Hauteur Roi)
+Carper33 : montre [Qc 2d] (une paire de Dames)
+Carper33 a remporté 255  lors du pot .
+*** SYNTHÈSE ***
+Pot total 255 | Commission 0 
+Tableau [4c Kd 3h 7d Qh]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : tjneos (grosse blind) a montré [8d Td] et a perdu avec Hauteur Roi
+Siège 3 : Carper33 (bouton) a montré [Qc 2d] et a gagné (255) avec une paire de Dames
+
+
+
+Main PokerStars n°255905814625 : Tournoi #3883291520, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 27/04/2025 10:09:03 CET [27/04/2025 4:09:03 ET]
+Table '3883291520 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (555 en jetons) 
+Place 2: tjneos (550 en jetons) 
+Place 3: Carper33 (395 en jetons) 
+tjneos : met la petite blind. 15
+Carper33 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 6s]
+psychoman59 : passe. 
+tjneos : suit. 15
+Carper33 : parole 
+*** FLOP *** [2s Ts 7h]
+tjneos : mise. 30
+Carper33 : suit. 30
+*** TOURNANT *** [2s Ts 7h] [Js]
+tjneos : parole 
+Carper33 : mise. 30
+tjneos : suit. 30
+*** RIVIÈRE *** [2s Ts 7h Js] [4c]
+tjneos : mise. 90
+Carper33 : relance. 90 à 180
+tjneos : passe. 
+Personne n'a suivi. (90) sont retournés à Carper33.
+Carper33 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [2s Ts 7h Js 4c]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : tjneos (petite blind) s'est couché. sur le Rivière
+Siège 3 : Carper33 (grosse blind) a remporté (360)
+
+
+
+Main PokerStars n°255905818646 : Tournoi #3883291520, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 27/04/2025 10:09:52 CET [27/04/2025 4:09:52 ET]
+Table '3883291520 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (555 en jetons) 
+Place 2: tjneos (370 en jetons) 
+Place 3: Carper33 (575 en jetons) 
+Carper33 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 5h]
+tjneos : suit. 30
+Carper33 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Kd 4d 2h]
+Carper33 : parole 
+psychoman59 : parole 
+tjneos : parole 
+*** TOURNANT *** [Kd 4d 2h] [Ks]
+Carper33 : parole 
+psychoman59 : mise. 45
+tjneos : passe. 
+Carper33 : passe. 
+Personne n'a suivi. (45) sont retournés à psychoman59.
+psychoman59 a remporté 90  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [Kd 4d 2h Ks]
+Siège 1 : psychoman59 (grosse blind) a remporté (90)
+Siège 2 : tjneos (bouton) s'est couché. sur le Tournant
+Siège 3 : Carper33 (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°255905822444 : Tournoi #3883291520, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 27/04/2025 10:10:38 CET [27/04/2025 4:10:38 ET]
+Table '3883291520 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (615 en jetons) 
+Place 2: tjneos (340 en jetons) 
+Place 3: Carper33 (545 en jetons) 
+psychoman59 : met la petite blind. 15
+tjneos : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 2h]
+Carper33 : suit. 30
+psychoman59 : passe. 
+tjneos : parole 
+*** FLOP *** [8s 6d 6c]
+tjneos : mise. 30
+Carper33 : suit. 30
+*** TOURNANT *** [8s 6d 6c] [Ah]
+tjneos : parole 
+Carper33 : parole 
+*** RIVIÈRE *** [8s 6d 6c Ah] [4c]
+tjneos : mise. 60
+Carper33 : passe. 
+Personne n'a suivi. (60) sont retournés à tjneos.
+tjneos a remporté 135  lors du pot .
+*** SYNTHÈSE ***
+Pot total 135 | Commission 0 
+Tableau [8s 6d 6c Ah 4c]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : tjneos (grosse blind) a remporté (135)
+Siège 3 : Carper33 (bouton) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°255905826107 : Tournoi #3883291520, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 27/04/2025 10:11:23 CET [27/04/2025 4:11:23 ET]
+Table '3883291520 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (600 en jetons) 
+Place 2: tjneos (415 en jetons) 
+Place 3: Carper33 (485 en jetons) 
+tjneos : met la petite blind. 15
+Carper33 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 6d]
+psychoman59 : suit. 30
+tjneos : suit. 15
+Carper33 : parole 
+*** FLOP *** [Jc 6c 6h]
+tjneos : mise. 30
+Carper33 : passe. 
+psychoman59 : suit. 30
+*** TOURNANT *** [Jc 6c 6h] [9c]
+tjneos : mise. 60
+psychoman59 : suit. 60
+*** RIVIÈRE *** [Jc 6c 6h 9c] [3h]
+tjneos : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+tjneos : montre [5s Qs] (une paire de Six)
+psychoman59 : montre [Kd 6d] (un brelan de Six)
+psychoman59 a remporté 270  lors du pot .
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Tableau [Jc 6c 6h 9c 3h]
+Siège 1 : psychoman59 (bouton) a montré [Kd 6d] et a gagné (270) avec un brelan de Six
+Siège 2 : tjneos (petite blind) a montré [5s Qs] et a perdu avec une paire de Six
+Siège 3 : Carper33 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°255905829555 : Tournoi #3883291520, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 27/04/2025 10:12:07 CET [27/04/2025 4:12:07 ET]
+Table '3883291520 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (750 en jetons) 
+Place 2: tjneos (295 en jetons) 
+Place 3: Carper33 (455 en jetons) 
+Carper33 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 5d]
+tjneos : passe. 
+Carper33 : relance. 40 à 80
+psychoman59 : relance. 670 à 750 et est all-in.
+Carper33 : suit. 375 et est all-in.
+Personne n'a suivi. (295) sont retournés à psychoman59.
+*** FLOP *** [6s Qs 5h]
+*** TOURNANT *** [6s Qs 5h] [7s]
+*** RIVIÈRE *** [6s Qs 5h 7s] [3c]
+*** ABATTAGE ***
+Carper33 : montre [Qc Qh] (un brelan de Dames)
+psychoman59 : montre [5s 5d] (un brelan de Cinq)
+Carper33 a remporté 910  lors du pot .
+*** SYNTHÈSE ***
+Pot total 910 | Commission 0 
+Tableau [6s Qs 5h 7s 3c]
+Siège 1 : psychoman59 (grosse blind) a montré [5s 5d] et a perdu avec un brelan de Cinq
+Siège 2 : tjneos (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Carper33 (petite blind) a montré [Qc Qh] et a gagné (910) avec un brelan de Dames
+
+
+
+Main PokerStars n°255905832096 : Tournoi #3883291520, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 27/04/2025 10:12:38 CET [27/04/2025 4:12:38 ET]
+Table '3883291520 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (295 en jetons) 
+Place 2: tjneos (295 en jetons) 
+Place 3: Carper33 (910 en jetons) 
+psychoman59 : met la petite blind. 20
+tjneos : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 7d]
+Carper33 : passe. 
+psychoman59 : suit. 20
+tjneos : parole 
+*** FLOP *** [Jh Js 7s]
+psychoman59 : mise. 255 et est all-in.
+tjneos : passe. 
+Personne n'a suivi. (255) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Jh Js 7s]
+Siège 1 : psychoman59 (petite blind) a remporté (80)
+Siège 2 : tjneos (grosse blind) s'est couché. sur le Flop
+Siège 3 : Carper33 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°255905833496 : Tournoi #3883291520, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 27/04/2025 10:12:55 CET [27/04/2025 4:12:55 ET]
+Table '3883291520 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (335 en jetons) 
+Place 2: tjneos (255 en jetons) 
+Place 3: Carper33 (910 en jetons) 
+tjneos : met la petite blind. 20
+Carper33 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 7s]
+psychoman59 : passe. 
+tjneos : suit. 20
+Carper33 : parole 
+*** FLOP *** [5c Ts 5d]
+tjneos : parole 
+Carper33 : parole 
+*** TOURNANT *** [5c Ts 5d] [7h]
+tjneos : parole 
+Carper33 : parole 
+*** RIVIÈRE *** [5c Ts 5d 7h] [Ac]
+tjneos : mise. 80
+Carper33 : passe. 
+Personne n'a suivi. (80) sont retournés à tjneos.
+tjneos a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [5c Ts 5d 7h Ac]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : tjneos (petite blind) a remporté (80)
+Siège 3 : Carper33 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°255905836811 : Tournoi #3883291520, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 27/04/2025 10:13:35 CET [27/04/2025 4:13:35 ET]
+Table '3883291520 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (335 en jetons) 
+Place 2: tjneos (295 en jetons) 
+Place 3: Carper33 (870 en jetons) 
+Carper33 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Ad]
+tjneos : suit. 40
+Carper33 : suit. 20
+psychoman59 : relance. 295 à 335 et est all-in.
+tjneos : passe. 
+Carper33 : suit. 295
+*** FLOP *** [9s 5d 9h]
+*** TOURNANT *** [9s 5d 9h] [7d]
+*** RIVIÈRE *** [9s 5d 9h 7d] [Tc]
+*** ABATTAGE ***
+Carper33 : montre [Qs 7c] (double paire, Neuf et Sept)
+psychoman59 : montre [5c Ad] (double paire, Neuf et Cinq)
+Carper33 a remporté 710  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 710 | Commission 0 
+Tableau [9s 5d 9h 7d Tc]
+Siège 1 : psychoman59 (grosse blind) a montré [5c Ad] et a perdu avec double paire, Neuf et Cinq
+Siège 2 : tjneos (bouton) s'est couché. avant Flop
+Siège 3 : Carper33 (petite blind) a montré [Qs 7c] et a gagné (710) avec double paire, Neuf et Sept
+
+
+

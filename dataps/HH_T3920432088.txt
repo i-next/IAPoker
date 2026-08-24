@@ -1,0 +1,24 @@
+﻿Main PokerStars n°257814066789 : Tournoi #3920432088, Freeroll  Hold'em No Limit - Match Round I, Niveau I (2000000/4000000) - 20/09/2025 10:05:00 CET [20/09/2025 4:05:00 ET]
+Table '3920432088 667' 2-max Siège #1 est au bouton.
+Place 1: psychoman59 (252 en jetons) 
+Place 2: caveiratech (252 en jetons) ne joue pas.
+psychoman59 : met l'ante. 252 et est all-in.
+caveiratech : met l'ante. 252 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 6c]
+*** FLOP *** [5s 2h Th]
+*** TOURNANT *** [5s 2h Th] [3c]
+*** RIVIÈRE *** [5s 2h Th 3c] [9d]
+*** ABATTAGE ***
+caveiratech : montre [Td 4h] (une paire de Dix)
+psychoman59 : montre [9c 6c] (une paire de Neuf)
+caveiratech a remporté 504  lors du pot .
+psychoman59 a fini le tournoi en 3237e position.
+*** SYNTHÈSE ***
+Pot total 504 | Commission 0 
+Tableau [5s 2h Th 3c 9d]
+Siège 1 : psychoman59 (bouton) a montré [9c 6c] et a perdu avec une paire de Neuf
+Siège 2 : caveiratech a montré [Td 4h] et a gagné (504) avec une paire de Dix
+
+
+

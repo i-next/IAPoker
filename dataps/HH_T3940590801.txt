@@ -1,0 +1,682 @@
+﻿Main PokerStars n°258254074607 : Tournoi #3940590801, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 25/10/2025 7:50:53 CET [25/10/2025 1:50:53 ET]
+Table '3940590801 1' 3-max Siège #1 est au bouton.
+Place 1: jobijono (500 en jetons) 
+Place 2: x_MaRLaCa_x (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+x_MaRLaCa_x : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 7d]
+jobijono : relance. 20 à 40
+x_MaRLaCa_x : relance. 60 à 100
+psychoman59 : passe. 
+jobijono : suit. 60
+*** FLOP *** [Kh 7c Td]
+x_MaRLaCa_x : parole 
+jobijono : parole 
+*** TOURNANT *** [Kh 7c Td] [5d]
+x_MaRLaCa_x : mise. 80
+jobijono : suit. 80
+*** RIVIÈRE *** [Kh 7c Td 5d] [9d]
+x_MaRLaCa_x : parole 
+jobijono : mise. 20
+x_MaRLaCa_x : suit. 20
+*** ABATTAGE ***
+jobijono : montre [Qh 6s] (Hauteur Roi)
+x_MaRLaCa_x : montre [Ad Tc] (une paire de Dix)
+x_MaRLaCa_x a remporté 420  lors du pot .
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [Kh 7c Td 5d 9d]
+Siège 1 : jobijono (bouton) a montré [Qh 6s] et a perdu avec Hauteur Roi
+Siège 2 : x_MaRLaCa_x (petite blind) a montré [Ad Tc] et a gagné (420) avec une paire de Dix
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258254076624 : Tournoi #3940590801, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 25/10/2025 7:51:22 CET [25/10/2025 1:51:22 ET]
+Table '3940590801 1' 3-max Siège #2 est au bouton.
+Place 1: jobijono (300 en jetons) 
+Place 2: x_MaRLaCa_x (720 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 10
+jobijono : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Td]
+x_MaRLaCa_x : relance. 20 à 40
+psychoman59 : relance. 440 à 480 et est all-in.
+jobijono : suit. 280 et est all-in.
+x_MaRLaCa_x : passe. 
+Personne n'a suivi. (180) sont retournés à psychoman59.
+*** FLOP *** [Qc 7s 6s]
+*** TOURNANT *** [Qc 7s 6s] [Kh]
+*** RIVIÈRE *** [Qc 7s 6s Kh] [9c]
+*** ABATTAGE ***
+psychoman59 : montre [Th Td] (une paire de Dix)
+jobijono : montre [8s Jc] (Hauteur Roi)
+psychoman59 a remporté 640  lors du pot .
+jobijono a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [Qc 7s 6s Kh 9c]
+Siège 1 : jobijono (grosse blind) a montré [8s Jc] et a perdu avec Hauteur Roi
+Siège 2 : x_MaRLaCa_x (bouton) s'est couché. avant Flop
+Siège 3 : psychoman59 (petite blind) a montré [Th Td] et a gagné (640) avec une paire de Dix
+
+
+
+Main PokerStars n°258254078348 : Tournoi #3940590801, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 25/10/2025 7:51:47 CET [25/10/2025 1:51:47 ET]
+Table '3940590801 1' 3-max Siège #3 est au bouton.
+Place 2: x_MaRLaCa_x (680 en jetons) 
+Place 3: psychoman59 (820 en jetons) 
+psychoman59 : met la petite blind. 10
+x_MaRLaCa_x : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Ad]
+psychoman59 : suit. 10
+x_MaRLaCa_x : parole 
+*** FLOP *** [3s 8s 2h]
+x_MaRLaCa_x : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3s 8s 2h] [5s]
+x_MaRLaCa_x : parole 
+psychoman59 : mise. 40
+x_MaRLaCa_x : suit. 40
+*** RIVIÈRE *** [3s 8s 2h 5s] [5c]
+x_MaRLaCa_x : parole 
+psychoman59 : mise. 120
+x_MaRLaCa_x : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [3s 8s 2h 5s 5c]
+Siège 2 : x_MaRLaCa_x (grosse blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°258254080558 : Tournoi #3940590801, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 25/10/2025 7:52:19 CET [25/10/2025 1:52:19 ET]
+Table '3940590801 1' 3-max Siège #2 est au bouton.
+Place 2: x_MaRLaCa_x (620 en jetons) 
+Place 3: psychoman59 (880 en jetons) 
+x_MaRLaCa_x : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Jh]
+x_MaRLaCa_x : relance. 20 à 40
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à x_MaRLaCa_x.
+x_MaRLaCa_x a remporté 40  lors du pot .
+x_MaRLaCa_x : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : x_MaRLaCa_x (bouton) (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258254080933 : Tournoi #3940590801, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 25/10/2025 7:52:25 CET [25/10/2025 1:52:25 ET]
+Table '3940590801 1' 3-max Siège #3 est au bouton.
+Place 2: x_MaRLaCa_x (640 en jetons) 
+Place 3: psychoman59 (860 en jetons) 
+psychoman59 : met la petite blind. 10
+x_MaRLaCa_x : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Ah]
+psychoman59 : relance. 20 à 40
+x_MaRLaCa_x : suit. 20
+*** FLOP *** [7c 8d Kc]
+x_MaRLaCa_x : parole 
+psychoman59 : parole 
+*** TOURNANT *** [7c 8d Kc] [6s]
+x_MaRLaCa_x : mise. 40
+psychoman59 : suit. 40
+*** RIVIÈRE *** [7c 8d Kc 6s] [6d]
+x_MaRLaCa_x : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+x_MaRLaCa_x : montre [9h As] (une paire de Six)
+psychoman59 : montre [9c Ah] (une paire de Six)
+x_MaRLaCa_x a remporté 80  lors du pot .
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [7c 8d Kc 6s 6d]
+Siège 2 : x_MaRLaCa_x (grosse blind) a montré [9h As] et a gagné (80) avec une paire de Six
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [9c Ah] et a gagné (80) avec une paire de Six
+
+
+
+Main PokerStars n°258254082947 : Tournoi #3940590801, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 25/10/2025 7:52:54 CET [25/10/2025 1:52:54 ET]
+Table '3940590801 1' 3-max Siège #2 est au bouton.
+Place 2: x_MaRLaCa_x (640 en jetons) 
+Place 3: psychoman59 (860 en jetons) 
+x_MaRLaCa_x : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Js]
+x_MaRLaCa_x : relance. 20 à 40
+psychoman59 : relance. 820 à 860 et est all-in.
+x_MaRLaCa_x : passe. 
+Personne n'a suivi. (820) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : x_MaRLaCa_x (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°258254083768 : Tournoi #3940590801, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 25/10/2025 7:53:05 CET [25/10/2025 1:53:05 ET]
+Table '3940590801 1' 3-max Siège #3 est au bouton.
+Place 2: x_MaRLaCa_x (600 en jetons) 
+Place 3: psychoman59 (900 en jetons) 
+psychoman59 : met la petite blind. 15
+x_MaRLaCa_x : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 7d]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à x_MaRLaCa_x.
+x_MaRLaCa_x a remporté 30  lors du pot .
+x_MaRLaCa_x : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : x_MaRLaCa_x (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258254084065 : Tournoi #3940590801, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 25/10/2025 7:53:10 CET [25/10/2025 1:53:10 ET]
+Table '3940590801 1' 3-max Siège #2 est au bouton.
+Place 2: x_MaRLaCa_x (615 en jetons) 
+Place 3: psychoman59 (885 en jetons) 
+x_MaRLaCa_x : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Ac]
+x_MaRLaCa_x : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : x_MaRLaCa_x (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°258254084695 : Tournoi #3940590801, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 25/10/2025 7:53:19 CET [25/10/2025 1:53:19 ET]
+Table '3940590801 1' 3-max Siège #3 est au bouton.
+Place 2: x_MaRLaCa_x (600 en jetons) 
+Place 3: psychoman59 (900 en jetons) 
+psychoman59 : met la petite blind. 15
+x_MaRLaCa_x : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Jh]
+psychoman59 : relance. 30 à 60
+x_MaRLaCa_x : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : x_MaRLaCa_x (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°258254085140 : Tournoi #3940590801, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 25/10/2025 7:53:26 CET [25/10/2025 1:53:26 ET]
+Table '3940590801 1' 3-max Siège #2 est au bouton.
+Place 2: x_MaRLaCa_x (570 en jetons) 
+Place 3: psychoman59 (930 en jetons) 
+x_MaRLaCa_x : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 7c]
+x_MaRLaCa_x : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : x_MaRLaCa_x (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°258254085609 : Tournoi #3940590801, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 25/10/2025 7:53:33 CET [25/10/2025 1:53:33 ET]
+Table '3940590801 1' 3-max Siège #3 est au bouton.
+Place 2: x_MaRLaCa_x (555 en jetons) 
+Place 3: psychoman59 (945 en jetons) 
+psychoman59 : met la petite blind. 15
+x_MaRLaCa_x : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 4d]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à x_MaRLaCa_x.
+x_MaRLaCa_x a remporté 30  lors du pot .
+x_MaRLaCa_x : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : x_MaRLaCa_x (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258254085947 : Tournoi #3940590801, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 25/10/2025 7:53:38 CET [25/10/2025 1:53:38 ET]
+Table '3940590801 1' 3-max Siège #2 est au bouton.
+Place 2: x_MaRLaCa_x (570 en jetons) 
+Place 3: psychoman59 (930 en jetons) 
+x_MaRLaCa_x : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Kh]
+x_MaRLaCa_x : relance. 30 à 60
+psychoman59 : suit. 30
+*** FLOP *** [Ad 6h 7h]
+psychoman59 : parole 
+x_MaRLaCa_x : mise. 45
+psychoman59 : passe. 
+Personne n'a suivi. (45) sont retournés à x_MaRLaCa_x.
+x_MaRLaCa_x a remporté 120  lors du pot .
+x_MaRLaCa_x : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Ad 6h 7h]
+Siège 2 : x_MaRLaCa_x (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°258254087315 : Tournoi #3940590801, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 25/10/2025 7:53:57 CET [25/10/2025 1:53:57 ET]
+Table '3940590801 1' 3-max Siège #3 est au bouton.
+Place 2: x_MaRLaCa_x (630 en jetons) 
+Place 3: psychoman59 (870 en jetons) 
+psychoman59 : met la petite blind. 15
+x_MaRLaCa_x : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 7c]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à x_MaRLaCa_x.
+x_MaRLaCa_x a remporté 30  lors du pot .
+x_MaRLaCa_x : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : x_MaRLaCa_x (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258254087622 : Tournoi #3940590801, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 25/10/2025 7:54:01 CET [25/10/2025 1:54:01 ET]
+Table '3940590801 1' 3-max Siège #2 est au bouton.
+Place 2: x_MaRLaCa_x (645 en jetons) 
+Place 3: psychoman59 (855 en jetons) 
+x_MaRLaCa_x : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 8d]
+x_MaRLaCa_x : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à x_MaRLaCa_x.
+x_MaRLaCa_x a remporté 60  lors du pot .
+x_MaRLaCa_x : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : x_MaRLaCa_x (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258254088111 : Tournoi #3940590801, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 25/10/2025 7:54:09 CET [25/10/2025 1:54:09 ET]
+Table '3940590801 1' 3-max Siège #3 est au bouton.
+Place 2: x_MaRLaCa_x (675 en jetons) 
+Place 3: psychoman59 (825 en jetons) 
+psychoman59 : met la petite blind. 15
+x_MaRLaCa_x : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Tc]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à x_MaRLaCa_x.
+x_MaRLaCa_x a remporté 30  lors du pot .
+x_MaRLaCa_x : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : x_MaRLaCa_x (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258254088442 : Tournoi #3940590801, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 25/10/2025 7:54:13 CET [25/10/2025 1:54:13 ET]
+Table '3940590801 1' 3-max Siège #2 est au bouton.
+Place 2: x_MaRLaCa_x (690 en jetons) 
+Place 3: psychoman59 (810 en jetons) 
+x_MaRLaCa_x : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 7s]
+x_MaRLaCa_x : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : x_MaRLaCa_x (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°258254088740 : Tournoi #3940590801, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 25/10/2025 7:54:18 CET [25/10/2025 1:54:18 ET]
+Table '3940590801 1' 3-max Siège #3 est au bouton.
+Place 2: x_MaRLaCa_x (675 en jetons) 
+Place 3: psychoman59 (825 en jetons) 
+psychoman59 : met la petite blind. 15
+x_MaRLaCa_x : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 8c]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à x_MaRLaCa_x.
+x_MaRLaCa_x a remporté 30  lors du pot .
+x_MaRLaCa_x : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : x_MaRLaCa_x (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258254089134 : Tournoi #3940590801, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 25/10/2025 7:54:23 CET [25/10/2025 1:54:23 ET]
+Table '3940590801 1' 3-max Siège #2 est au bouton.
+Place 2: x_MaRLaCa_x (690 en jetons) 
+Place 3: psychoman59 (810 en jetons) 
+x_MaRLaCa_x : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 4s]
+x_MaRLaCa_x : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à x_MaRLaCa_x.
+x_MaRLaCa_x a remporté 60  lors du pot .
+x_MaRLaCa_x : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : x_MaRLaCa_x (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258254089586 : Tournoi #3940590801, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 25/10/2025 7:54:30 CET [25/10/2025 1:54:30 ET]
+Table '3940590801 1' 3-max Siège #3 est au bouton.
+Place 2: x_MaRLaCa_x (720 en jetons) 
+Place 3: psychoman59 (780 en jetons) 
+psychoman59 : met la petite blind. 15
+x_MaRLaCa_x : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 5h]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à x_MaRLaCa_x.
+x_MaRLaCa_x a remporté 30  lors du pot .
+x_MaRLaCa_x : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : x_MaRLaCa_x (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258254089891 : Tournoi #3940590801, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 25/10/2025 7:54:34 CET [25/10/2025 1:54:34 ET]
+Table '3940590801 1' 3-max Siège #2 est au bouton.
+Place 2: x_MaRLaCa_x (735 en jetons) 
+Place 3: psychoman59 (765 en jetons) 
+x_MaRLaCa_x : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Ac]
+x_MaRLaCa_x : relance. 30 à 60
+psychoman59 : relance. 705 à 765 et est all-in.
+x_MaRLaCa_x : passe. 
+Personne n'a suivi. (705) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : x_MaRLaCa_x (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°258254090935 : Tournoi #3940590801, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 25/10/2025 7:54:49 CET [25/10/2025 1:54:49 ET]
+Table '3940590801 1' 3-max Siège #3 est au bouton.
+Place 2: x_MaRLaCa_x (675 en jetons) 
+Place 3: psychoman59 (825 en jetons) 
+psychoman59 : met la petite blind. 15
+x_MaRLaCa_x : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 8s]
+psychoman59 : suit. 15
+x_MaRLaCa_x : parole 
+*** FLOP *** [Qh 2h 9d]
+x_MaRLaCa_x : parole 
+psychoman59 : mise. 60
+x_MaRLaCa_x : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Qh 2h 9d]
+Siège 2 : x_MaRLaCa_x (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°258254092234 : Tournoi #3940590801, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 25/10/2025 7:55:09 CET [25/10/2025 1:55:09 ET]
+Table '3940590801 1' 3-max Siège #2 est au bouton.
+Place 2: x_MaRLaCa_x (645 en jetons) 
+Place 3: psychoman59 (855 en jetons) 
+x_MaRLaCa_x : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 8s]
+x_MaRLaCa_x : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : x_MaRLaCa_x (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°258254092482 : Tournoi #3940590801, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 25/10/2025 7:55:14 CET [25/10/2025 1:55:14 ET]
+Table '3940590801 1' 3-max Siège #3 est au bouton.
+Place 2: x_MaRLaCa_x (625 en jetons) 
+Place 3: psychoman59 (875 en jetons) 
+psychoman59 : met la petite blind. 20
+x_MaRLaCa_x : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 3d]
+psychoman59 : relance. 835 à 875 et est all-in.
+x_MaRLaCa_x : passe. 
+Personne n'a suivi. (835) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : x_MaRLaCa_x (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°258254092978 : Tournoi #3940590801, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 25/10/2025 7:55:22 CET [25/10/2025 1:55:22 ET]
+Table '3940590801 1' 3-max Siège #2 est au bouton.
+Place 2: x_MaRLaCa_x (585 en jetons) 
+Place 3: psychoman59 (915 en jetons) 
+x_MaRLaCa_x : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 4s]
+x_MaRLaCa_x : relance. 40 à 80
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à x_MaRLaCa_x.
+x_MaRLaCa_x a remporté 80  lors du pot .
+x_MaRLaCa_x : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : x_MaRLaCa_x (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258254093395 : Tournoi #3940590801, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 25/10/2025 7:55:29 CET [25/10/2025 1:55:29 ET]
+Table '3940590801 1' 3-max Siège #3 est au bouton.
+Place 2: x_MaRLaCa_x (625 en jetons) 
+Place 3: psychoman59 (875 en jetons) 
+psychoman59 : met la petite blind. 20
+x_MaRLaCa_x : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 9s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à x_MaRLaCa_x.
+x_MaRLaCa_x a remporté 40  lors du pot .
+x_MaRLaCa_x : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : x_MaRLaCa_x (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258254093769 : Tournoi #3940590801, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 25/10/2025 7:55:35 CET [25/10/2025 1:55:35 ET]
+Table '3940590801 1' 3-max Siège #2 est au bouton.
+Place 2: x_MaRLaCa_x (645 en jetons) 
+Place 3: psychoman59 (855 en jetons) 
+x_MaRLaCa_x : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 3h]
+x_MaRLaCa_x : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : x_MaRLaCa_x (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°258254094024 : Tournoi #3940590801, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 25/10/2025 7:55:40 CET [25/10/2025 1:55:40 ET]
+Table '3940590801 1' 3-max Siège #3 est au bouton.
+Place 2: x_MaRLaCa_x (625 en jetons) 
+Place 3: psychoman59 (875 en jetons) 
+psychoman59 : met la petite blind. 20
+x_MaRLaCa_x : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 2s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à x_MaRLaCa_x.
+x_MaRLaCa_x a remporté 40  lors du pot .
+x_MaRLaCa_x : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : x_MaRLaCa_x (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258254094292 : Tournoi #3940590801, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 25/10/2025 7:55:44 CET [25/10/2025 1:55:44 ET]
+Table '3940590801 1' 3-max Siège #2 est au bouton.
+Place 2: x_MaRLaCa_x (645 en jetons) 
+Place 3: psychoman59 (855 en jetons) 
+x_MaRLaCa_x : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Ad]
+x_MaRLaCa_x : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : x_MaRLaCa_x (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°258254094531 : Tournoi #3940590801, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 25/10/2025 7:55:48 CET [25/10/2025 1:55:48 ET]
+Table '3940590801 1' 3-max Siège #3 est au bouton.
+Place 2: x_MaRLaCa_x (625 en jetons) 
+Place 3: psychoman59 (875 en jetons) 
+psychoman59 : met la petite blind. 20
+x_MaRLaCa_x : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 7c]
+psychoman59 : suit. 20
+x_MaRLaCa_x : relance. 585 à 625 et est all-in.
+psychoman59 : suit. 585
+*** FLOP *** [5h Ah 9s]
+*** TOURNANT *** [5h Ah 9s] [Jd]
+*** RIVIÈRE *** [5h Ah 9s Jd] [6c]
+*** ABATTAGE ***
+x_MaRLaCa_x : montre [3h 3d] (une paire de Trois)
+psychoman59 : montre [Kc 7c] (Hauteur As)
+x_MaRLaCa_x a remporté 1250  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1250 | Commission 0 
+Tableau [5h Ah 9s Jd 6c]
+Siège 2 : x_MaRLaCa_x (grosse blind) a montré [3h 3d] et a gagné (1250) avec une paire de Trois
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Kc 7c] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°258254095412 : Tournoi #3940590801, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 25/10/2025 7:56:03 CET [25/10/2025 1:56:03 ET]
+Table '3940590801 1' 3-max Siège #2 est au bouton.
+Place 2: x_MaRLaCa_x (1250 en jetons) 
+Place 3: psychoman59 (250 en jetons) 
+x_MaRLaCa_x : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Qd]
+x_MaRLaCa_x : relance. 1210 à 1250 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (1210) sont retournés à x_MaRLaCa_x.
+x_MaRLaCa_x a remporté 80  lors du pot .
+x_MaRLaCa_x : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : x_MaRLaCa_x (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258254095976 : Tournoi #3940590801, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 25/10/2025 7:56:13 CET [25/10/2025 1:56:13 ET]
+Table '3940590801 1' 3-max Siège #3 est au bouton.
+Place 2: x_MaRLaCa_x (1290 en jetons) 
+Place 3: psychoman59 (210 en jetons) 
+psychoman59 : met la petite blind. 20
+x_MaRLaCa_x : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 3d]
+psychoman59 : relance. 170 à 210 et est all-in.
+x_MaRLaCa_x : suit. 170
+*** FLOP *** [Jh As Ac]
+*** TOURNANT *** [Jh As Ac] [8d]
+*** RIVIÈRE *** [Jh As Ac 8d] [4c]
+*** ABATTAGE ***
+x_MaRLaCa_x : montre [Td Ah] (un brelan de As)
+psychoman59 : montre [Kh 3d] (une paire de As)
+x_MaRLaCa_x a remporté 420  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+x_MaRLaCa_x remporte le tournoi et reçoit 0.50 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [Jh As Ac 8d 4c]
+Siège 2 : x_MaRLaCa_x (grosse blind) a montré [Td Ah] et a gagné (420) avec un brelan de As
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Kh 3d] et a perdu avec une paire de As
+
+
+

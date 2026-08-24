@@ -1,0 +1,330 @@
+﻿Main PokerStars n°253139049427 : Tournoi #3817324484, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 28/10/2024 7:30:15 CET [28/10/2024 2:30:15 ET]
+Table '3817324484 1' 3-max Siège #1 est au bouton.
+Place 1: sebadub (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: guitovh (500 en jetons) 
+psychoman59 : met la petite blind. 10
+guitovh : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 3h]
+sebadub : suit. 20
+psychoman59 : suit. 10
+guitovh : parole 
+*** FLOP *** [3s Kc 4c]
+psychoman59 : parole 
+guitovh : parole 
+sebadub : parole 
+*** TOURNANT *** [3s Kc 4c] [5c]
+psychoman59 : parole 
+guitovh : mise. 20
+sebadub : suit. 20
+psychoman59 : passe. 
+*** RIVIÈRE *** [3s Kc 4c 5c] [Kh]
+guitovh : mise. 60
+sebadub : relance. 60 à 120
+guitovh : suit. 60
+*** ABATTAGE ***
+sebadub : montre [2c 6c] (une couleur, hauteur Roi)
+guitovh : cache la main perdante. 
+sebadub a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [3s Kc 4c 5c Kh]
+Siège 1 : sebadub (bouton) a montré [2c 6c] et a gagné (340) avec une couleur, hauteur Roi
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Tournant
+Siège 3 : guitovh (grosse blind) a caché la main perdante. [2s Ah]
+
+
+
+Main PokerStars n°253139051088 : Tournoi #3817324484, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 28/10/2024 7:30:41 CET [28/10/2024 2:30:41 ET]
+Table '3817324484 1' 3-max Siège #2 est au bouton.
+Place 1: sebadub (680 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+Place 3: guitovh (340 en jetons) 
+guitovh : met la petite blind. 10
+sebadub : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Th]
+psychoman59 : passe. 
+guitovh : suit. 10
+sebadub : parole 
+*** FLOP *** [Jh Kd 2c]
+guitovh : mise. 20
+sebadub : relance. 20 à 40
+guitovh : suit. 20
+*** TOURNANT *** [Jh Kd 2c] [Tc]
+guitovh : parole 
+sebadub : mise. 80
+guitovh : passe. 
+Personne n'a suivi. (80) sont retournés à sebadub.
+sebadub a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Jh Kd 2c Tc]
+Siège 1 : sebadub (grosse blind) a remporté (120)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : guitovh (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°253139052674 : Tournoi #3817324484, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 28/10/2024 7:31:07 CET [28/10/2024 2:31:07 ET]
+Table '3817324484 1' 3-max Siège #3 est au bouton.
+Place 1: sebadub (740 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+Place 3: guitovh (280 en jetons) 
+sebadub : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd As]
+guitovh : relance. 20 à 40
+sebadub : suit. 30
+psychoman59 : relance. 440 à 480 et est all-in.
+guitovh : suit. 240 et est all-in.
+sebadub : passe. 
+Personne n'a suivi. (200) sont retournés à psychoman59.
+*** FLOP *** [2s 4h 8d]
+*** TOURNANT *** [2s 4h 8d] [5h]
+*** RIVIÈRE *** [2s 4h 8d 5h] [8h]
+*** ABATTAGE ***
+psychoman59 : montre [Jd As] (une paire de Huit)
+guitovh : montre [Ad 6d] (une paire de Huit - plus basse kicker)
+psychoman59 a remporté 600  lors du pot .
+guitovh a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [2s 4h 8d 5h 8h]
+Siège 1 : sebadub (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a montré [Jd As] et a gagné (600) avec une paire de Huit
+Siège 3 : guitovh (bouton) a montré [Ad 6d] et a perdu avec une paire de Huit
+
+
+
+Main PokerStars n°253139053829 : Tournoi #3817324484, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 28/10/2024 7:31:26 CET [28/10/2024 2:31:26 ET]
+Table '3817324484 1' 3-max Siège #2 est au bouton.
+Place 1: sebadub (700 en jetons) 
+Place 2: psychoman59 (800 en jetons) 
+psychoman59 : met la petite blind. 10
+sebadub : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 7c]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à sebadub.
+sebadub a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : sebadub (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°253139054113 : Tournoi #3817324484, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 28/10/2024 7:31:30 CET [28/10/2024 2:31:30 ET]
+Table '3817324484 1' 3-max Siège #1 est au bouton.
+Place 1: sebadub (710 en jetons) 
+Place 2: psychoman59 (790 en jetons) 
+sebadub : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 3d]
+sebadub : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Ts 7c 8c]
+psychoman59 : parole 
+sebadub : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à sebadub.
+sebadub a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Ts 7c 8c]
+Siège 1 : sebadub (bouton) (petite blind) a remporté (40)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°253139055252 : Tournoi #3817324484, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 28/10/2024 7:31:49 CET [28/10/2024 2:31:49 ET]
+Table '3817324484 1' 3-max Siège #2 est au bouton.
+Place 1: sebadub (730 en jetons) 
+Place 2: psychoman59 (770 en jetons) 
+psychoman59 : met la petite blind. 10
+sebadub : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s As]
+psychoman59 : suit. 10
+sebadub : relance. 40 à 60
+psychoman59 : relance. 710 à 770 et est all-in.
+sebadub : suit. 670 et est all-in.
+Personne n'a suivi. (40) sont retournés à psychoman59.
+*** FLOP *** [Jc 8c Qh]
+*** TOURNANT *** [Jc 8c Qh] [8s]
+*** RIVIÈRE *** [Jc 8c Qh 8s] [4d]
+*** ABATTAGE ***
+sebadub : montre [Kd Qc] (double paire, Dames et Huit)
+psychoman59 : montre [4s As] (double paire, Huit et Quatre)
+sebadub a remporté 1460  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1460 | Commission 0 
+Tableau [Jc 8c Qh 8s 4d]
+Siège 1 : sebadub (grosse blind) a montré [Kd Qc] et a gagné (1460) avec double paire, Dames et Huit
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [4s As] et a perdu avec double paire, Huit et Quatre
+
+
+
+Main PokerStars n°253139056299 : Tournoi #3817324484, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 28/10/2024 7:32:07 CET [28/10/2024 2:32:07 ET]
+Table '3817324484 1' 3-max Siège #1 est au bouton.
+Place 1: sebadub (1460 en jetons) 
+Place 2: psychoman59 (40 en jetons) 
+sebadub : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s As]
+sebadub : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : sebadub (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°253139056838 : Tournoi #3817324484, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 28/10/2024 7:32:15 CET [28/10/2024 2:32:15 ET]
+Table '3817324484 1' 3-max Siège #2 est au bouton.
+Place 1: sebadub (1450 en jetons) 
+Place 2: psychoman59 (50 en jetons) 
+psychoman59 : met la petite blind. 10
+sebadub : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 9h]
+psychoman59 : relance. 30 à 50 et est all-in.
+sebadub : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : sebadub (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°253139057581 : Tournoi #3817324484, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 28/10/2024 7:32:27 CET [28/10/2024 2:32:27 ET]
+Table '3817324484 1' 3-max Siège #1 est au bouton.
+Place 1: sebadub (1430 en jetons) 
+Place 2: psychoman59 (70 en jetons) 
+sebadub : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Ah]
+sebadub : suit. 15
+psychoman59 : relance. 40 à 70 et est all-in.
+sebadub : suit. 40
+*** FLOP *** [Th Td 5h]
+*** TOURNANT *** [Th Td 5h] [5s]
+*** RIVIÈRE *** [Th Td 5h 5s] [5c]
+*** ABATTAGE ***
+psychoman59 : montre [4s Ah] (un full, full aux Cinq par les Dix)
+sebadub : montre [Js As] (un full, full aux Cinq par les Dix)
+psychoman59 a remporté 70  lors du pot .
+sebadub a remporté 70  lors du pot .
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [Th Td 5h 5s 5c]
+Siège 1 : sebadub (bouton) (petite blind) a montré [Js As] et a gagné (70) avec un full, full aux Cinq par les Dix
+Siège 2 : psychoman59 (grosse blind) a montré [4s Ah] et a gagné (70) avec un full, full aux Cinq par les Dix
+
+
+
+Main PokerStars n°253139058414 : Tournoi #3817324484, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 28/10/2024 7:32:41 CET [28/10/2024 2:32:41 ET]
+Table '3817324484 1' 3-max Siège #2 est au bouton.
+Place 1: sebadub (1430 en jetons) 
+Place 2: psychoman59 (70 en jetons) 
+psychoman59 : met la petite blind. 15
+sebadub : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 2h]
+psychoman59 : relance. 40 à 70 et est all-in.
+sebadub : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : sebadub (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°253139058897 : Tournoi #3817324484, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 28/10/2024 7:32:49 CET [28/10/2024 2:32:49 ET]
+Table '3817324484 1' 3-max Siège #1 est au bouton.
+Place 1: sebadub (1400 en jetons) 
+Place 2: psychoman59 (100 en jetons) 
+sebadub : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 9h]
+sebadub : suit. 15
+psychoman59 : parole 
+*** FLOP *** [4d Ac 7h]
+psychoman59 : parole 
+sebadub : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à sebadub.
+sebadub a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [4d Ac 7h]
+Siège 1 : sebadub (bouton) (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°253139059640 : Tournoi #3817324484, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 28/10/2024 7:33:01 CET [28/10/2024 2:33:01 ET]
+Table '3817324484 1' 3-max Siège #2 est au bouton.
+Place 1: sebadub (1430 en jetons) 
+Place 2: psychoman59 (70 en jetons) 
+psychoman59 : met la petite blind. 15
+sebadub : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Ks]
+psychoman59 : relance. 40 à 70 et est all-in.
+sebadub : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : sebadub (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°253139060003 : Tournoi #3817324484, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 28/10/2024 7:33:07 CET [28/10/2024 2:33:07 ET]
+Table '3817324484 1' 3-max Siège #1 est au bouton.
+Place 1: sebadub (1400 en jetons) 
+Place 2: psychoman59 (100 en jetons) 
+sebadub : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Jc]
+sebadub : suit. 15
+psychoman59 : relance. 70 à 100 et est all-in.
+sebadub : suit. 70
+*** FLOP *** [Jd 8d 8h]
+*** TOURNANT *** [Jd 8d 8h] [Qs]
+*** RIVIÈRE *** [Jd 8d 8h Qs] [8c]
+*** ABATTAGE ***
+psychoman59 : montre [As Jc] (un full, full aux Huit par les Valets)
+sebadub : montre [Qh 5c] (un full, full aux Huit par les Dames)
+sebadub a remporté 200  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+sebadub gagne le tournoi - félicitations !
+sebadub gagne un ticket " €1 Step 2 MTT Power Path ticket "
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [Jd 8d 8h Qs 8c]
+Siège 1 : sebadub (bouton) (petite blind) a montré [Qh 5c] et a gagné (200) avec un full, full aux Huit par les Dames
+Siège 2 : psychoman59 (grosse blind) a montré [As Jc] et a perdu avec un full, full aux Huit par les Valets
+
+
+

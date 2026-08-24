@@ -1,0 +1,37 @@
+﻿Main PokerStars n°243441672896 : Tournoi #3585483188, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 02/05/2023 7:13:18 CET [02/05/2023 1:13:18 ET]
+Table '3585483188 1' 3-max Siège #1 est au bouton.
+Place 1: Zou67270 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: greg le chat (300 en jetons) 
+psychoman59 : met la petite blind. 10
+greg le chat : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Ac]
+Zou67270 : suit. 20
+psychoman59 : suit. 10
+greg le chat : parole 
+*** FLOP *** [Kh 5d As]
+psychoman59 : parole 
+greg le chat : parole 
+Zou67270 : mise. 20
+psychoman59 : relance. 50 à 70
+greg le chat : passe. 
+Zou67270 : relance. 50 à 120
+psychoman59 : relance. 160 à 280 et est all-in.
+Zou67270 : suit. 160 et est all-in.
+*** TOURNANT *** [Kh 5d As] [9c]
+*** RIVIÈRE *** [Kh 5d As 9c] [Td]
+*** ABATTAGE ***
+psychoman59 : montre [6d Ac] (une paire de As)
+Zou67270 : montre [Ad Jh] (une paire de As - Roi+Valet kicker)
+Zou67270 a remporté 620  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [Kh 5d As 9c Td]
+Siège 1 : Zou67270 (bouton) a montré [Ad Jh] et a gagné (620) avec une paire de As
+Siège 2 : psychoman59 (petite blind) a montré [6d Ac] et a perdu avec une paire de As
+Siège 3 : greg le chat (grosse blind) s'est couché. sur le Flop
+
+
+

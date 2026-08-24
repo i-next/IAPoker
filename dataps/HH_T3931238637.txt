@@ -1,0 +1,103 @@
+﻿Main PokerStars n°257879013744 : Tournoi #3931238637, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/09/2025 9:00:09 CET [25/09/2025 3:00:09 ET]
+Table '3931238637 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: S.Alcantara (500 en jetons) 
+Place 3: clydetxu (500 en jetons) 
+S.Alcantara : met la petite blind. 10
+clydetxu : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 2d]
+psychoman59 : suit. 20
+S.Alcantara : suit. 10
+clydetxu : parole 
+*** FLOP *** [5s Ks Jd]
+S.Alcantara : mise. 20
+clydetxu : suit. 20
+psychoman59 : passe. 
+*** TOURNANT *** [5s Ks Jd] [Ad]
+S.Alcantara : mise. 20
+clydetxu : relance. 70 à 90
+S.Alcantara : passe. 
+Personne n'a suivi. (70) sont retournés à clydetxu.
+clydetxu a remporté 140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [5s Ks Jd Ad]
+Siège 1 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 2 : S.Alcantara (petite blind) s'est couché. sur le Tournant
+Siège 3 : clydetxu (grosse blind) a remporté (140)
+
+
+
+Main PokerStars n°257879015131 : Tournoi #3931238637, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/09/2025 9:00:33 CET [25/09/2025 3:00:33 ET]
+Table '3931238637 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (480 en jetons) 
+Place 2: S.Alcantara (440 en jetons) 
+Place 3: clydetxu (580 en jetons) 
+clydetxu : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 4h]
+S.Alcantara : relance. 40 à 60
+clydetxu : passe. 
+psychoman59 : relance. 420 à 480 et est all-in.
+S.Alcantara : suit. 380 et est all-in.
+Personne n'a suivi. (40) sont retournés à psychoman59.
+*** FLOP *** [3s Kd Kc]
+*** TOURNANT *** [3s Kd Kc] [6s]
+*** RIVIÈRE *** [3s Kd Kc 6s] [Ts]
+*** ABATTAGE ***
+psychoman59 : montre [4d 4h] (double paire, Rois et Quatre)
+S.Alcantara : montre [As 6c] (double paire, Rois et Six)
+S.Alcantara a remporté 890  lors du pot .
+*** SYNTHÈSE ***
+Pot total 890 | Commission 0 
+Tableau [3s Kd Kc 6s Ts]
+Siège 1 : psychoman59 (grosse blind) a montré [4d 4h] et a perdu avec double paire, Rois et Quatre
+Siège 2 : S.Alcantara (bouton) a montré [As 6c] et a gagné (890) avec double paire, Rois et Six
+Siège 3 : clydetxu (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257879016308 : Tournoi #3931238637, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/09/2025 9:00:54 CET [25/09/2025 3:00:54 ET]
+Table '3931238637 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (40 en jetons) 
+Place 2: S.Alcantara (890 en jetons) 
+Place 3: clydetxu (570 en jetons) 
+psychoman59 : met la petite blind. 10
+S.Alcantara : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 3s]
+clydetxu : relance. 20 à 40
+psychoman59 : suit. 30 et est all-in.
+S.Alcantara : suit. 20
+*** FLOP *** [2s 9s 3h]
+S.Alcantara : parole 
+clydetxu : parole 
+*** TOURNANT *** [2s 9s 3h] [9d]
+S.Alcantara : mise. 40
+clydetxu : suit. 40
+*** RIVIÈRE *** [2s 9s 3h 9d] [5h]
+S.Alcantara : mise. 100
+clydetxu : relance. 160 à 260
+S.Alcantara : relance. 550 à 810 et est all-in.
+clydetxu : suit. 230 et est all-in.
+Personne n'a suivi. (320) sont retournés à S.Alcantara.
+*** ABATTAGE ***
+S.Alcantara : montre [2c 9h] (un full, full aux Neuf par les Deux)
+clydetxu : montre [4d Ah] (une suite, As à Cinq)
+S.Alcantara a remporté 1060  parallèle lors du pot .
+psychoman59 : montre [Ac 3s] (double paire, Neuf et Trois)
+S.Alcantara a remporté 120  principal lors du pot .
+clydetxu a fini le tournoi en 2e position.
+psychoman59 a fini le tournoi en 3e position.
+S.Alcantara remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 1180 Principal pot 120. Parallèle pot 1060. | Commission 0 
+Tableau [2s 9s 3h 9d 5h]
+Siège 1 : psychoman59 (petite blind) a montré [Ac 3s] et a perdu avec double paire, Neuf et Trois
+Siège 2 : S.Alcantara (grosse blind) a montré [2c 9h] et a gagné (1180) avec un full, full aux Neuf par les Deux
+Siège 3 : clydetxu (bouton) a montré [4d Ah] et a perdu avec une suite, As à Cinq
+
+
+

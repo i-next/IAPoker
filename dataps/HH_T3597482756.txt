@@ -1,0 +1,122 @@
+﻿Main PokerStars n°243969648752 : Tournoi #3597482756, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 29/05/2023 8:06:44 CET [29/05/2023 2:06:44 ET]
+Table '3597482756 1' 3-max Siège #1 est au bouton.
+Place 1: leo felicidad (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: SDONALD14 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+SDONALD14 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 2h]
+leo felicidad : passe. 
+psychoman59 : suit. 10
+SDONALD14 : parole 
+*** FLOP *** [Jc 6s As]
+psychoman59 : parole 
+SDONALD14 : parole 
+*** TOURNANT *** [Jc 6s As] [8d]
+psychoman59 : parole 
+SDONALD14 : parole 
+*** RIVIÈRE *** [Jc 6s As 8d] [3d]
+psychoman59 : parole 
+SDONALD14 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Qh 2h] (Hauteur As)
+SDONALD14 : montre [2d Qd] (Hauteur As)
+psychoman59 a remporté 20  lors du pot .
+SDONALD14 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Jc 6s As 8d 3d]
+Siège 1 : leo felicidad (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [Qh 2h] et a gagné (20) avec Hauteur As
+Siège 3 : SDONALD14 (grosse blind) a montré [2d Qd] et a gagné (20) avec Hauteur As
+
+
+
+Main PokerStars n°243969651072 : Tournoi #3597482756, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 29/05/2023 8:07:09 CET [29/05/2023 2:07:09 ET]
+Table '3597482756 1' 3-max Siège #2 est au bouton.
+Place 1: leo felicidad (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: SDONALD14 (300 en jetons) 
+SDONALD14 : met la petite blind. 10
+leo felicidad : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 5d]
+psychoman59 : passe. 
+SDONALD14 : relance. 40 à 60
+leo felicidad : suit. 40
+*** FLOP *** [8s Jd Ad]
+SDONALD14 : mise. 60
+leo felicidad : passe. 
+Personne n'a suivi. (60) sont retournés à SDONALD14.
+SDONALD14 a remporté 120  lors du pot .
+SDONALD14 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [8s Jd Ad]
+Siège 1 : leo felicidad (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : SDONALD14 (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°243969652587 : Tournoi #3597482756, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 29/05/2023 8:07:25 CET [29/05/2023 2:07:25 ET]
+Table '3597482756 1' 3-max Siège #3 est au bouton.
+Place 1: leo felicidad (240 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: SDONALD14 (360 en jetons) 
+leo felicidad : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Tc]
+SDONALD14 : passe. 
+leo felicidad : relance. 40 à 60
+psychoman59 : relance. 240 à 300 et est all-in.
+leo felicidad : suit. 180 et est all-in.
+Personne n'a suivi. (60) sont retournés à psychoman59.
+*** FLOP *** [Qs 4c Kc]
+*** TOURNANT *** [Qs 4c Kc] [9c]
+*** RIVIÈRE *** [Qs 4c Kc 9c] [Ad]
+*** ABATTAGE ***
+leo felicidad : montre [Ac 5c] (une couleur, hauteur As)
+psychoman59 : montre [As Tc] (une paire de As)
+leo felicidad a remporté 480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [Qs 4c Kc 9c Ad]
+Siège 1 : leo felicidad (petite blind) a montré [Ac 5c] et a gagné (480) avec une couleur, hauteur As
+Siège 2 : psychoman59 (grosse blind) a montré [As Tc] et a perdu avec une paire de As
+Siège 3 : SDONALD14 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°243969654941 : Tournoi #3597482756, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 29/05/2023 8:07:50 CET [29/05/2023 2:07:50 ET]
+Table '3597482756 1' 3-max Siège #1 est au bouton.
+Place 1: leo felicidad (480 en jetons) 
+Place 2: psychoman59 (60 en jetons) 
+Place 3: SDONALD14 (360 en jetons) 
+psychoman59 : met la petite blind. 15
+SDONALD14 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 3d]
+leo felicidad : relance. 450 à 480 et est all-in.
+psychoman59 : suit. 45 et est all-in.
+SDONALD14 : passe. 
+Personne n'a suivi. (420) sont retournés à leo felicidad.
+*** FLOP *** [Jh 5s 7d]
+*** TOURNANT *** [Jh 5s 7d] [Ac]
+*** RIVIÈRE *** [Jh 5s 7d Ac] [Qs]
+*** ABATTAGE ***
+psychoman59 : montre [5d 3d] (une paire de Cinq)
+leo felicidad : montre [Ad 7c] (double paire, As et Sept)
+leo felicidad a remporté 150  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Tableau [Jh 5s 7d Ac Qs]
+Siège 1 : leo felicidad (bouton) a montré [Ad 7c] et a gagné (150) avec double paire, As et Sept
+Siège 2 : psychoman59 (petite blind) a montré [5d 3d] et a perdu avec une paire de Cinq
+Siège 3 : SDONALD14 (grosse blind) s'est couché. avant Flop
+
+
+

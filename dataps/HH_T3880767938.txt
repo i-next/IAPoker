@@ -1,0 +1,143 @@
+﻿Main PokerStars n°255796779926 : Tournoi #3880767938, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 19/04/2025 7:41:59 CET [19/04/2025 1:41:59 ET]
+Table '3880767938 1' 3-max Siège #1 est au bouton.
+Place 1: Antoine.G045620 (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: Ayshapanther (500 en jetons) 
+psychoman59 : met la petite blind. 10
+Ayshapanther : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 2h]
+Antoine.G045620 : suit. 20
+psychoman59 : passe. 
+Ayshapanther : parole 
+*** FLOP *** [7c Ts 2d]
+Ayshapanther : parole 
+Antoine.G045620 : parole 
+*** TOURNANT *** [7c Ts 2d] [Jd]
+Ayshapanther : parole 
+Antoine.G045620 : mise. 20
+Ayshapanther : suit. 20
+*** RIVIÈRE *** [7c Ts 2d Jd] [Kd]
+Ayshapanther : parole 
+Antoine.G045620 : parole 
+*** ABATTAGE ***
+Ayshapanther : montre [4h 3d] (Hauteur Roi)
+Antoine.G045620 : montre [Jh 5h] (une paire de Valets)
+Antoine.G045620 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [7c Ts 2d Jd Kd]
+Siège 1 : Antoine.G045620 (bouton) a montré [Jh 5h] et a gagné (90) avec une paire de Valets
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Ayshapanther (grosse blind) a montré [4h 3d] et a perdu avec Hauteur Roi
+
+
+
+Main PokerStars n°255796781962 : Tournoi #3880767938, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 19/04/2025 7:42:25 CET [19/04/2025 1:42:25 ET]
+Table '3880767938 1' 3-max Siège #2 est au bouton.
+Place 1: Antoine.G045620 (550 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: Ayshapanther (460 en jetons) 
+Ayshapanther : met la petite blind. 10
+Antoine.G045620 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Th]
+psychoman59 : relance. 40 à 60
+Ayshapanther : relance. 40 à 100
+Antoine.G045620 : passe. 
+psychoman59 : suit. 40
+*** FLOP *** [9s 4s Td]
+Ayshapanther : mise. 220
+psychoman59 : relance. 170 à 390 et est all-in.
+Ayshapanther : suit. 140 et est all-in.
+Personne n'a suivi. (30) sont retournés à psychoman59.
+*** TOURNANT *** [9s 4s Td] [2s]
+*** RIVIÈRE *** [9s 4s Td 2s] [7h]
+*** ABATTAGE ***
+Ayshapanther : montre [Ks Kh] (une paire de Rois)
+psychoman59 : montre [Ac Th] (une paire de Dix)
+Ayshapanther a remporté 940  lors du pot .
+*** SYNTHÈSE ***
+Pot total 940 | Commission 0 
+Tableau [9s 4s Td 2s 7h]
+Siège 1 : Antoine.G045620 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a montré [Ac Th] et a perdu avec une paire de Dix
+Siège 3 : Ayshapanther (petite blind) a montré [Ks Kh] et a gagné (940) avec une paire de Rois
+
+
+
+Main PokerStars n°255796784019 : Tournoi #3880767938, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 19/04/2025 7:42:52 CET [19/04/2025 1:42:52 ET]
+Table '3880767938 1' 3-max Siège #3 est au bouton.
+Place 1: Antoine.G045620 (530 en jetons) 
+Place 2: psychoman59 (30 en jetons) 
+Place 3: Ayshapanther (940 en jetons) 
+Antoine.G045620 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Jc]
+Ayshapanther : suit. 20
+Antoine.G045620 : suit. 10
+psychoman59 : relance. 10 à 30 et est all-in.
+Ayshapanther : suit. 10
+Antoine.G045620 : suit. 10
+*** FLOP *** [As Tc 7h]
+Antoine.G045620 : parole 
+Ayshapanther : mise. 60
+Antoine.G045620 : suit. 60
+*** TOURNANT *** [As Tc 7h] [8h]
+Antoine.G045620 : parole 
+Ayshapanther : mise. 100
+Antoine.G045620 : suit. 100
+*** RIVIÈRE *** [As Tc 7h 8h] [Js]
+Antoine.G045620 : parole 
+Ayshapanther : parole 
+*** ABATTAGE ***
+Antoine.G045620 : montre [8d 6h] (une paire de Huit)
+Ayshapanther : montre [Td 4c] (une paire de Dix)
+Ayshapanther a remporté 320  parallèle lors du pot .
+psychoman59 : montre [Kc Jc] (une paire de Valets)
+psychoman59 a remporté 90  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 410 Principal pot 90. Parallèle pot 320. | Commission 0 
+Tableau [As Tc 7h 8h Js]
+Siège 1 : Antoine.G045620 (petite blind) a montré [8d 6h] et a perdu avec une paire de Huit
+Siège 2 : psychoman59 (grosse blind) a montré [Kc Jc] et a gagné (90) avec une paire de Valets
+Siège 3 : Ayshapanther (bouton) a montré [Td 4c] et a gagné (320) avec une paire de Dix
+
+
+
+Main PokerStars n°255796787624 : Tournoi #3880767938, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 19/04/2025 7:43:39 CET [19/04/2025 1:43:39 ET]
+Table '3880767938 1' 3-max Siège #1 est au bouton.
+Place 1: Antoine.G045620 (340 en jetons) 
+Place 2: psychoman59 (90 en jetons) 
+Place 3: Ayshapanther (1070 en jetons) 
+psychoman59 : met la petite blind. 10
+Ayshapanther : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 7s]
+Antoine.G045620 : relance. 40 à 60
+psychoman59 : relance. 30 à 90 et est all-in.
+Ayshapanther : suit. 70
+Antoine.G045620 : suit. 30
+*** FLOP *** [Qd Ah Jh]
+Ayshapanther : mise. 220
+Antoine.G045620 : relance. 30 à 250 et est all-in.
+Ayshapanther : suit. 30
+*** TOURNANT *** [Qd Ah Jh] [3d]
+*** RIVIÈRE *** [Qd Ah Jh 3d] [4d]
+*** ABATTAGE ***
+Ayshapanther : montre [5c Ac] (une paire de As)
+Antoine.G045620 : montre [As Td] (une paire de As - Dame+Valet+Dix kicker)
+Antoine.G045620 a remporté 500  parallèle lors du pot .
+psychoman59 : montre [Ad 7s] (une paire de As - plus basse kicker)
+Antoine.G045620 a remporté 270  principal lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 770 Principal pot 270. Parallèle pot 500. | Commission 0 
+Tableau [Qd Ah Jh 3d 4d]
+Siège 1 : Antoine.G045620 (bouton) a montré [As Td] et a gagné (770) avec une paire de As
+Siège 2 : psychoman59 (petite blind) a montré [Ad 7s] et a perdu avec une paire de As
+Siège 3 : Ayshapanther (grosse blind) a montré [5c Ac] et a perdu avec une paire de As
+
+
+

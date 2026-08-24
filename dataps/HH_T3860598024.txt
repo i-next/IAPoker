@@ -1,0 +1,575 @@
+﻿Main PokerStars n°254937313171 : Tournoi #3860598024, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 19/02/2025 7:55:06 CET [19/02/2025 1:55:06 ET]
+Table '3860598024 1' 3-max Siège #1 est au bouton.
+Place 1: 2Fret75000 (500 en jetons) 
+Place 2: oscar_costea (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+oscar_costea : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 5s]
+2Fret75000 : suit. 20
+oscar_costea : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Tc Th 2d]
+oscar_costea : mise. 20
+psychoman59 : passe. 
+2Fret75000 : suit. 20
+*** TOURNANT *** [Tc Th 2d] [7d]
+oscar_costea : mise. 20
+2Fret75000 : suit. 20
+*** RIVIÈRE *** [Tc Th 2d 7d] [8s]
+oscar_costea : mise. 40
+2Fret75000 : suit. 40
+*** ABATTAGE ***
+oscar_costea : montre [Qs 3h] (une paire de Dix)
+2Fret75000 : montre [8c 9d] (double paire, Dix et Huit)
+2Fret75000 a remporté 220  lors du pot .
+*** SYNTHÈSE ***
+Pot total 220 | Commission 0 
+Tableau [Tc Th 2d 7d 8s]
+Siège 1 : 2Fret75000 (bouton) a montré [8c 9d] et a gagné (220) avec double paire, Dix et Huit
+Siège 2 : oscar_costea (petite blind) a montré [Qs 3h] et a perdu avec une paire de Dix
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°254937314836 : Tournoi #3860598024, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 19/02/2025 7:55:35 CET [19/02/2025 1:55:35 ET]
+Table '3860598024 1' 3-max Siège #2 est au bouton.
+Place 1: 2Fret75000 (620 en jetons) 
+Place 2: oscar_costea (400 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 10
+2Fret75000 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Ac]
+oscar_costea : passe. 
+psychoman59 : suit. 10
+2Fret75000 : parole 
+*** FLOP *** [6c Td 3h]
+psychoman59 : parole 
+2Fret75000 : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à 2Fret75000.
+2Fret75000 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [6c Td 3h]
+Siège 1 : 2Fret75000 (grosse blind) a remporté (40)
+Siège 2 : oscar_costea (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°254937315909 : Tournoi #3860598024, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 19/02/2025 7:55:54 CET [19/02/2025 1:55:54 ET]
+Table '3860598024 1' 3-max Siège #3 est au bouton.
+Place 1: 2Fret75000 (640 en jetons) 
+Place 2: oscar_costea (400 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+2Fret75000 : met la petite blind. 10
+oscar_costea : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Qd]
+psychoman59 : relance. 40 à 60
+2Fret75000 : passe. 
+oscar_costea : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : 2Fret75000 (petite blind) s'est couché. avant Flop
+Siège 2 : oscar_costea (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a remporté (50)
+
+
+
+Main PokerStars n°254937316668 : Tournoi #3860598024, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 19/02/2025 7:56:07 CET [19/02/2025 1:56:07 ET]
+Table '3860598024 1' 3-max Siège #1 est au bouton.
+Place 1: 2Fret75000 (630 en jetons) 
+Place 2: oscar_costea (380 en jetons) 
+Place 3: psychoman59 (490 en jetons) 
+oscar_costea : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Th]
+2Fret75000 : relance. 40 à 60
+oscar_costea : suit. 50
+psychoman59 : passe. 
+*** FLOP *** [7d Ac 3d]
+oscar_costea : parole 
+2Fret75000 : parole 
+*** TOURNANT *** [7d Ac 3d] [8s]
+oscar_costea : parole 
+2Fret75000 : parole 
+*** RIVIÈRE *** [7d Ac 3d 8s] [3h]
+oscar_costea : mise. 100
+2Fret75000 : passe. 
+Personne n'a suivi. (100) sont retournés à oscar_costea.
+oscar_costea a remporté 140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [7d Ac 3d 8s 3h]
+Siège 1 : 2Fret75000 (bouton) s'est couché. sur le Rivière
+Siège 2 : oscar_costea (petite blind) a remporté (140)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254937318218 : Tournoi #3860598024, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 19/02/2025 7:56:34 CET [19/02/2025 1:56:34 ET]
+Table '3860598024 1' 3-max Siège #2 est au bouton.
+Place 1: 2Fret75000 (570 en jetons) 
+Place 2: oscar_costea (460 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+psychoman59 : met la petite blind. 10
+2Fret75000 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Ac]
+oscar_costea : passe. 
+oscar_costea ne joue pas.
+psychoman59 : suit. 10
+2Fret75000 : parole 
+*** FLOP *** [8h Ts Ad]
+psychoman59 : parole 
+2Fret75000 : parole 
+*** TOURNANT *** [8h Ts Ad] [7s]
+psychoman59 : mise. 40
+2Fret75000 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [8h Ts Ad 7s]
+Siège 1 : 2Fret75000 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : oscar_costea (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°254937320219 : Tournoi #3860598024, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 19/02/2025 7:57:10 CET [19/02/2025 1:57:10 ET]
+Table '3860598024 1' 3-max Siège #3 est au bouton.
+Place 1: 2Fret75000 (550 en jetons) 
+Place 2: oscar_costea (460 en jetons) ne joue pas.
+Place 3: psychoman59 (490 en jetons) 
+2Fret75000 : met la petite blind. 15
+oscar_costea : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 3h]
+psychoman59 : passe. 
+2Fret75000 : relance. 60 à 90
+oscar_costea : passe. 
+Personne n'a suivi. (60) sont retournés à 2Fret75000.
+2Fret75000 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : 2Fret75000 (petite blind) a remporté (60)
+Siège 2 : oscar_costea (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°254937320876 : Tournoi #3860598024, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 19/02/2025 7:57:21 CET [19/02/2025 1:57:21 ET]
+Table '3860598024 1' 3-max Siège #1 est au bouton.
+Place 1: 2Fret75000 (580 en jetons) 
+Place 2: oscar_costea (430 en jetons) ne joue pas.
+Place 3: psychoman59 (490 en jetons) 
+oscar_costea : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Kd]
+2Fret75000 : suit. 30
+oscar_costea : passe. 
+psychoman59 : parole 
+*** FLOP *** [5c As 8h]
+psychoman59 : parole 
+2Fret75000 : parole 
+*** TOURNANT *** [5c As 8h] [3s]
+psychoman59 : parole 
+2Fret75000 : mise. 30
+psychoman59 : suit. 30
+*** RIVIÈRE *** [5c As 8h 3s] [4s]
+psychoman59 : parole 
+2Fret75000 : mise. 90
+psychoman59 : passe. 
+Personne n'a suivi. (90) sont retournés à 2Fret75000.
+2Fret75000 a remporté 135  lors du pot .
+*** SYNTHÈSE ***
+Pot total 135 | Commission 0 
+Tableau [5c As 8h 3s 4s]
+Siège 1 : 2Fret75000 (bouton) a remporté (135)
+Siège 2 : oscar_costea (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°254937322949 : Tournoi #3860598024, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 19/02/2025 7:57:57 CET [19/02/2025 1:57:57 ET]
+Table '3860598024 1' 3-max Siège #2 est au bouton.
+Place 1: 2Fret75000 (655 en jetons) 
+Place 2: oscar_costea (415 en jetons) ne joue pas.
+Place 3: psychoman59 (430 en jetons) 
+psychoman59 : met la petite blind. 15
+2Fret75000 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h As]
+oscar_costea : passe. 
+psychoman59 : relance. 400 à 430 et est all-in.
+2Fret75000 : suit. 400
+*** FLOP *** [4h 3h 3c]
+*** TOURNANT *** [4h 3h 3c] [9s]
+*** RIVIÈRE *** [4h 3h 3c 9s] [8d]
+*** ABATTAGE ***
+psychoman59 : montre [8h As] (double paire, Huit et Trois)
+2Fret75000 : montre [Qc Ks] (une paire de Trois)
+psychoman59 a remporté 860  lors du pot .
+*** SYNTHÈSE ***
+Pot total 860 | Commission 0 
+Tableau [4h 3h 3c 9s 8d]
+Siège 1 : 2Fret75000 (grosse blind) a montré [Qc Ks] et a perdu avec une paire de Trois
+Siège 2 : oscar_costea (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [8h As] et a gagné (860) avec double paire, Huit et Trois
+
+
+
+Main PokerStars n°254937323691 : Tournoi #3860598024, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 19/02/2025 7:58:11 CET [19/02/2025 1:58:11 ET]
+Table '3860598024 1' 3-max Siège #3 est au bouton.
+Place 1: 2Fret75000 (225 en jetons) 
+Place 2: oscar_costea (415 en jetons) ne joue pas.
+Place 3: psychoman59 (860 en jetons) 
+2Fret75000 : met la petite blind. 15
+oscar_costea : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Jd]
+psychoman59 : passe. 
+2Fret75000 : relance. 60 à 90
+oscar_costea : passe. 
+Personne n'a suivi. (60) sont retournés à 2Fret75000.
+2Fret75000 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : 2Fret75000 (petite blind) a remporté (60)
+Siège 2 : oscar_costea (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°254937324125 : Tournoi #3860598024, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 19/02/2025 7:58:18 CET [19/02/2025 1:58:18 ET]
+Table '3860598024 1' 3-max Siège #1 est au bouton.
+Place 1: 2Fret75000 (255 en jetons) 
+Place 2: oscar_costea (385 en jetons) ne joue pas.
+Place 3: psychoman59 (860 en jetons) 
+oscar_costea : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Kh]
+2Fret75000 : passe. 
+oscar_costea : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : 2Fret75000 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : oscar_costea (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°254937324413 : Tournoi #3860598024, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 19/02/2025 7:58:23 CET [19/02/2025 1:58:23 ET]
+Table '3860598024 1' 3-max Siège #2 est au bouton.
+Place 1: 2Fret75000 (255 en jetons) 
+Place 2: oscar_costea (370 en jetons) ne joue pas.
+Place 3: psychoman59 (875 en jetons) 
+psychoman59 : met la petite blind. 15
+2Fret75000 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 4h]
+oscar_costea : passe. 
+psychoman59 : relance. 845 à 875 et est all-in.
+2Fret75000 : suit. 225 et est all-in.
+Personne n'a suivi. (620) sont retournés à psychoman59.
+*** FLOP *** [Qd Kh Ac]
+*** TOURNANT *** [Qd Kh Ac] [Kc]
+*** RIVIÈRE *** [Qd Kh Ac Kc] [9c]
+*** ABATTAGE ***
+psychoman59 : montre [4c 4h] (double paire, Rois et Quatre)
+2Fret75000 : montre [9d Ks] (un full, full aux Rois par les Neuf)
+2Fret75000 a remporté 510  lors du pot .
+*** SYNTHÈSE ***
+Pot total 510 | Commission 0 
+Tableau [Qd Kh Ac Kc 9c]
+Siège 1 : 2Fret75000 (grosse blind) a montré [9d Ks] et a gagné (510) avec un full, full aux Rois par les Neuf
+Siège 2 : oscar_costea (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [4c 4h] et a perdu avec double paire, Rois et Quatre
+
+
+
+Main PokerStars n°254937325239 : Tournoi #3860598024, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 19/02/2025 7:58:38 CET [19/02/2025 1:58:38 ET]
+Table '3860598024 1' 3-max Siège #3 est au bouton.
+Place 1: 2Fret75000 (510 en jetons) 
+Place 2: oscar_costea (370 en jetons) ne joue pas.
+Place 3: psychoman59 (620 en jetons) 
+2Fret75000 : met la petite blind. 15
+oscar_costea : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Jh]
+psychoman59 : suit. 30
+2Fret75000 : relance. 60 à 90
+oscar_costea : passe. 
+psychoman59 : suit. 60
+*** FLOP *** [Jd 5s 9h]
+2Fret75000 : parole 
+psychoman59 : mise. 530 et est all-in.
+2Fret75000 : suit. 420 et est all-in.
+Personne n'a suivi. (110) sont retournés à psychoman59.
+*** TOURNANT *** [Jd 5s 9h] [5h]
+*** RIVIÈRE *** [Jd 5s 9h 5h] [Ks]
+*** ABATTAGE ***
+2Fret75000 : montre [Ad 8s] (une paire de Cinq)
+psychoman59 : montre [8h Jh] (double paire, Valets et Cinq)
+psychoman59 a remporté 1050  lors du pot .
+2Fret75000 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 1050 | Commission 0 
+Tableau [Jd 5s 9h 5h Ks]
+Siège 1 : 2Fret75000 (petite blind) a montré [Ad 8s] et a perdu avec une paire de Cinq
+Siège 2 : oscar_costea (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a montré [8h Jh] et a gagné (1050) avec double paire, Valets et Cinq
+
+
+
+Main PokerStars n°254937326929 : Tournoi #3860598024, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 19/02/2025 7:59:06 CET [19/02/2025 1:59:06 ET]
+Table '3860598024 1' 3-max Siège #2 est au bouton.
+Place 2: oscar_costea (340 en jetons) ne joue pas.
+Place 3: psychoman59 (1160 en jetons) 
+oscar_costea : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 2d]
+oscar_costea : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : oscar_costea (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°254937327207 : Tournoi #3860598024, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 19/02/2025 7:59:11 CET [19/02/2025 1:59:11 ET]
+Table '3860598024 1' 3-max Siège #3 est au bouton.
+Place 2: oscar_costea (325 en jetons) ne joue pas.
+Place 3: psychoman59 (1175 en jetons) 
+psychoman59 : met la petite blind. 20
+oscar_costea : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 2d]
+psychoman59 : relance. 40 à 80
+oscar_costea : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : oscar_costea (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°254937327407 : Tournoi #3860598024, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 19/02/2025 7:59:15 CET [19/02/2025 1:59:15 ET]
+Table '3860598024 1' 3-max Siège #2 est au bouton.
+Place 2: oscar_costea (285 en jetons) ne joue pas.
+Place 3: psychoman59 (1215 en jetons) 
+oscar_costea : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 4s]
+oscar_costea : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : oscar_costea (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°254937327528 : Tournoi #3860598024, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 19/02/2025 7:59:17 CET [19/02/2025 1:59:17 ET]
+Table '3860598024 1' 3-max Siège #3 est au bouton.
+Place 2: oscar_costea (265 en jetons) ne joue pas.
+Place 3: psychoman59 (1235 en jetons) 
+psychoman59 : met la petite blind. 20
+oscar_costea : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s As]
+psychoman59 : relance. 40 à 80
+oscar_costea : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : oscar_costea (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°254937327806 : Tournoi #3860598024, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 19/02/2025 7:59:22 CET [19/02/2025 1:59:22 ET]
+Table '3860598024 1' 3-max Siège #2 est au bouton.
+Place 2: oscar_costea (225 en jetons) ne joue pas.
+Place 3: psychoman59 (1275 en jetons) 
+oscar_costea : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 6h]
+oscar_costea : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : oscar_costea (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°254937327905 : Tournoi #3860598024, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 19/02/2025 7:59:24 CET [19/02/2025 1:59:24 ET]
+Table '3860598024 1' 3-max Siège #3 est au bouton.
+Place 2: oscar_costea (205 en jetons) ne joue pas.
+Place 3: psychoman59 (1295 en jetons) 
+psychoman59 : met la petite blind. 20
+oscar_costea : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 6h]
+psychoman59 : relance. 40 à 80
+oscar_costea : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : oscar_costea (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°254937328223 : Tournoi #3860598024, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 19/02/2025 7:59:29 CET [19/02/2025 1:59:29 ET]
+Table '3860598024 1' 3-max Siège #2 est au bouton.
+Place 2: oscar_costea (165 en jetons) ne joue pas.
+Place 3: psychoman59 (1335 en jetons) 
+oscar_costea : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 8d]
+oscar_costea : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : oscar_costea (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°254937328326 : Tournoi #3860598024, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 19/02/2025 7:59:31 CET [19/02/2025 1:59:31 ET]
+Table '3860598024 1' 3-max Siège #3 est au bouton.
+Place 2: oscar_costea (145 en jetons) ne joue pas.
+Place 3: psychoman59 (1355 en jetons) 
+psychoman59 : met la petite blind. 20
+oscar_costea : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 2h]
+psychoman59 : relance. 40 à 80
+oscar_costea : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : oscar_costea (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°254937328666 : Tournoi #3860598024, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 19/02/2025 7:59:36 CET [19/02/2025 1:59:36 ET]
+Table '3860598024 1' 3-max Siège #2 est au bouton.
+Place 2: oscar_costea (105 en jetons) ne joue pas.
+Place 3: psychoman59 (1395 en jetons) 
+oscar_costea : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Ad]
+oscar_costea : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : oscar_costea (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°254937328781 : Tournoi #3860598024, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 19/02/2025 7:59:38 CET [19/02/2025 1:59:38 ET]
+Table '3860598024 1' 3-max Siège #3 est au bouton.
+Place 2: oscar_costea (85 en jetons) ne joue pas.
+Place 3: psychoman59 (1415 en jetons) 
+psychoman59 : met la petite blind. 20
+oscar_costea : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 9h]
+psychoman59 : relance. 40 à 80
+oscar_costea : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : oscar_costea (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°254937329066 : Tournoi #3860598024, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 19/02/2025 7:59:43 CET [19/02/2025 1:59:43 ET]
+Table '3860598024 1' 3-max Siège #2 est au bouton.
+Place 2: oscar_costea (45 en jetons) ne joue pas.
+Place 3: psychoman59 (1455 en jetons) 
+oscar_costea : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 3d]
+oscar_costea : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : oscar_costea (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°254937329185 : Tournoi #3860598024, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 19/02/2025 7:59:45 CET [19/02/2025 1:59:45 ET]
+Table '3860598024 1' 3-max Siège #3 est au bouton.
+Place 2: oscar_costea (25 en jetons) ne joue pas.
+Place 3: psychoman59 (1475 en jetons) 
+psychoman59 : met la petite blind. 20
+oscar_costea : met la grosse blind. 25 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 9s]
+psychoman59 : suit. 5
+oscar_costea : passe. 
+psychoman59 a remporté 50  lors du pot .
+oscar_costea a fini le tournoi en 2e position.
+psychoman59 gagne le tournoi - félicitations !
+psychoman59 gagne un ticket " €1 Step 2 MTT Power Path ticket "
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 2 : oscar_costea (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (50)
+
+
+

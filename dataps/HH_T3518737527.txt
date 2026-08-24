@@ -1,0 +1,66 @@
+﻿Main PokerStars n°240595373901 : Tournoi #3518737527, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/12/2022 11:12:51 CET [21/12/2022 5:12:51 ET]
+Table '3518737527 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: muniezzz (300 en jetons) 
+Place 3: coco03130 (300 en jetons) 
+muniezzz : met la petite blind. 10
+coco03130 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 6h]
+psychoman59 : passe. 
+muniezzz : suit. 10
+coco03130 : parole 
+*** FLOP *** [Qc Js Tc]
+muniezzz : mise. 20
+coco03130 : relance. 20 à 40
+muniezzz : suit. 20
+*** TOURNANT *** [Qc Js Tc] [5c]
+muniezzz : parole 
+coco03130 : parole 
+*** RIVIÈRE *** [Qc Js Tc 5c] [9h]
+muniezzz : parole 
+coco03130 : mise. 20
+muniezzz : suit. 20
+*** ABATTAGE ***
+coco03130 : montre [Kh Ad] (une suite, Dix à As)
+muniezzz : cache la main perdante. 
+coco03130 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Qc Js Tc 5c 9h]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : muniezzz (petite blind) a caché la main perdante. [8h 3s]
+Siège 3 : coco03130 (grosse blind) a montré [Kh Ad] et a gagné (160) avec une suite, Dix à As
+
+
+
+Main PokerStars n°240595378407 : Tournoi #3518737527, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/12/2022 11:13:21 CET [21/12/2022 5:13:21 ET]
+Table '3518737527 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: muniezzz (220 en jetons) 
+Place 3: coco03130 (380 en jetons) 
+coco03130 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 4s]
+muniezzz : passe. 
+coco03130 : suit. 10
+psychoman59 : relance. 280 à 300 et est all-in.
+coco03130 : suit. 280
+*** FLOP *** [2d 9h Ah]
+*** TOURNANT *** [2d 9h Ah] [7c]
+*** RIVIÈRE *** [2d 9h Ah 7c] [8h]
+*** ABATTAGE ***
+coco03130 : montre [Ac 9c] (double paire, As et Neuf)
+psychoman59 : montre [4c 4s] (une paire de Quatre)
+coco03130 a remporté 600  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [2d 9h Ah 7c 8h]
+Siège 1 : psychoman59 (grosse blind) a montré [4c 4s] et a perdu avec une paire de Quatre
+Siège 2 : muniezzz (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : coco03130 (petite blind) a montré [Ac 9c] et a gagné (600) avec double paire, As et Neuf
+
+
+

@@ -1,0 +1,77 @@
+﻿Main PokerStars n°254167612531 : Tournoi #3841591597, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 03/01/2025 7:56:49 CET [03/01/2025 1:56:49 ET]
+Table '3841591597 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: canter333 (500 en jetons) 
+Place 3: anthonyplct (500 en jetons) 
+canter333 : met la petite blind. 10
+anthonyplct : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 7h]
+psychoman59 : passe. 
+canter333 : passe. 
+Personne n'a suivi. (10) sont retournés à anthonyplct.
+anthonyplct a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : canter333 (petite blind) s'est couché. avant Flop
+Siège 3 : anthonyplct (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°254167613129 : Tournoi #3841591597, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 03/01/2025 7:56:58 CET [03/01/2025 1:56:58 ET]
+Table '3841591597 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: canter333 (490 en jetons) 
+Place 3: anthonyplct (510 en jetons) 
+anthonyplct : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 8c]
+canter333 : passe. 
+anthonyplct : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Qs Th 8s]
+anthonyplct : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à anthonyplct.
+anthonyplct a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Qs Th 8s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : canter333 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : anthonyplct (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°254167614110 : Tournoi #3841591597, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 03/01/2025 7:57:13 CET [03/01/2025 1:57:13 ET]
+Table '3841591597 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (480 en jetons) 
+Place 2: canter333 (490 en jetons) 
+Place 3: anthonyplct (530 en jetons) 
+psychoman59 : met la petite blind. 10
+canter333 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Js]
+anthonyplct : relance. 60 à 80
+psychoman59 : relance. 400 à 480 et est all-in.
+canter333 : suit. 460
+anthonyplct : passe. 
+*** FLOP *** [3h 4d 9c]
+*** TOURNANT *** [3h 4d 9c] [8s]
+*** RIVIÈRE *** [3h 4d 9c 8s] [2s]
+*** ABATTAGE ***
+psychoman59 : montre [As Js] (Hauteur As)
+canter333 : montre [Ad Qh] (Hauteur As - Dame kicker)
+canter333 a remporté 1040  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 1040 | Commission 0 
+Tableau [3h 4d 9c 8s 2s]
+Siège 1 : psychoman59 (petite blind) a montré [As Js] et a perdu avec Hauteur As
+Siège 2 : canter333 (grosse blind) a montré [Ad Qh] et a gagné (1040) avec Hauteur As
+Siège 3 : anthonyplct (bouton) s'est couché. avant Flop
+
+
+

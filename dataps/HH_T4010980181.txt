@@ -1,0 +1,1703 @@
+﻿Main PokerStars n°261235129801 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/06/2026 10:34:40 CET [24/06/2026 4:34:40 ET]
+Table '4010980181 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: ssdlupg (500 en jetons) 
+Place 3: Papa1811 (500 en jetons) 
+ssdlupg : met la petite blind. 10
+Papa1811 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 4h]
+psychoman59 : passe. 
+ssdlupg : suit. 10
+Papa1811 : parole 
+*** FLOP *** [9d 3c 7c]
+ssdlupg : parole 
+Papa1811 : parole 
+*** TOURNANT *** [9d 3c 7c] [Ts]
+ssdlupg : parole 
+Papa1811 : parole 
+*** RIVIÈRE *** [9d 3c 7c Ts] [Tc]
+ssdlupg : parole 
+Papa1811 : parole 
+*** ABATTAGE ***
+ssdlupg : montre [2s Qs] (une paire de Dix)
+Papa1811 : cache la main perdante. 
+ssdlupg a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [9d 3c 7c Ts Tc]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : ssdlupg (petite blind) a montré [2s Qs] et a gagné (40) avec une paire de Dix
+Siège 3 : Papa1811 (grosse blind) a caché la main perdante. [2c 4d]
+
+
+
+Main PokerStars n°261235132144 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/06/2026 10:35:16 CET [24/06/2026 4:35:16 ET]
+Table '4010980181 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: ssdlupg (520 en jetons) 
+Place 3: Papa1811 (480 en jetons) 
+Papa1811 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Qh]
+ssdlupg : passe. 
+Papa1811 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Qc Kd Jh]
+Papa1811 : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [Qc Kd Jh] [3h]
+Papa1811 : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [Qc Kd Jh 3h] [8d]
+Papa1811 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Papa1811 : montre [6c Ts] (Hauteur Roi)
+psychoman59 : montre [9c Qh] (une paire de Dames)
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Qc Kd Jh 3h 8d]
+Siège 1 : psychoman59 (grosse blind) a montré [9c Qh] et a gagné (120) avec une paire de Dames
+Siège 2 : ssdlupg (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Papa1811 (petite blind) a montré [6c Ts] et a perdu avec Hauteur Roi
+
+
+
+Main PokerStars n°261235133805 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/06/2026 10:35:42 CET [24/06/2026 4:35:42 ET]
+Table '4010980181 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (560 en jetons) 
+Place 2: ssdlupg (520 en jetons) 
+Place 3: Papa1811 (420 en jetons) 
+psychoman59 : met la petite blind. 10
+ssdlupg : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 3c]
+Papa1811 a dépassé le temps imparti.
+Papa1811 : passe. 
+Papa1811 ne joue pas.
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à ssdlupg.
+ssdlupg a remporté 20  lors du pot .
+ssdlupg : ne montre pas sa main. 
+Papa1811 est revenu.
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : ssdlupg (grosse blind) a remporté (20)
+Siège 3 : Papa1811 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261235134759 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/06/2026 10:35:57 CET [24/06/2026 4:35:57 ET]
+Table '4010980181 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (550 en jetons) 
+Place 2: ssdlupg (530 en jetons) 
+Place 3: Papa1811 (420 en jetons) 
+ssdlupg : met la petite blind. 10
+Papa1811 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 5d]
+psychoman59 : relance. 40 à 60
+ssdlupg : passe. 
+Papa1811 : suit. 40
+*** FLOP *** [Qd 4c Jd]
+Papa1811 : parole 
+psychoman59 : mise. 65
+Papa1811 : suit. 65
+*** TOURNANT *** [Qd 4c Jd] [9h]
+Papa1811 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à Papa1811.
+Papa1811 a remporté 260  lors du pot .
+Papa1811 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 260 | Commission 0 
+Tableau [Qd 4c Jd 9h]
+Siège 1 : psychoman59 (bouton) s'est couché. sur le Tournant
+Siège 2 : ssdlupg (petite blind) s'est couché. avant Flop
+Siège 3 : Papa1811 (grosse blind) a remporté (260)
+
+
+
+Main PokerStars n°261235137420 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/06/2026 10:36:39 CET [24/06/2026 4:36:39 ET]
+Table '4010980181 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (425 en jetons) 
+Place 2: ssdlupg (520 en jetons) 
+Place 3: Papa1811 (555 en jetons) 
+Papa1811 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s As]
+ssdlupg : passe. 
+Papa1811 : relance. 20 à 40
+psychoman59 : suit. 20
+*** FLOP *** [Ts 2h Ah]
+Papa1811 : mise. 20
+psychoman59 : relance. 365 à 385 et est all-in.
+Papa1811 : passe. 
+Personne n'a suivi. (365) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Ts 2h Ah]
+Siège 1 : psychoman59 (grosse blind) a remporté (120)
+Siège 2 : ssdlupg (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Papa1811 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261235139028 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/06/2026 10:37:06 CET [24/06/2026 4:37:06 ET]
+Table '4010980181 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (485 en jetons) 
+Place 2: ssdlupg (520 en jetons) 
+Place 3: Papa1811 (495 en jetons) 
+psychoman59 : met la petite blind. 10
+ssdlupg : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d As]
+Papa1811 : relance. 20 à 40
+psychoman59 : suit. 30
+ssdlupg : suit. 20
+*** FLOP *** [Kd 2s 5s]
+psychoman59 : parole 
+ssdlupg : parole 
+Papa1811 : parole 
+*** TOURNANT *** [Kd 2s 5s] [8s]
+psychoman59 : parole 
+ssdlupg : parole 
+Papa1811 : parole 
+*** RIVIÈRE *** [Kd 2s 5s 8s] [Ks]
+psychoman59 : mise. 60
+ssdlupg : passe. 
+Papa1811 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Kd 2s 5s 8s Ks]
+Siège 1 : psychoman59 (petite blind) a remporté (120)
+Siège 2 : ssdlupg (grosse blind) s'est couché. sur le Rivière
+Siège 3 : Papa1811 (bouton) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°261235141556 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 24/06/2026 10:37:46 CET [24/06/2026 4:37:46 ET]
+Table '4010980181 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (565 en jetons) 
+Place 2: ssdlupg (480 en jetons) 
+Place 3: Papa1811 (455 en jetons) 
+ssdlupg : met la petite blind. 15
+Papa1811 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Ac]
+psychoman59 : suit. 30
+ssdlupg : suit. 15
+Papa1811 : parole 
+*** FLOP *** [Tc Th Kd]
+ssdlupg : parole 
+Papa1811 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Tc Th Kd] [8c]
+ssdlupg : parole 
+Papa1811 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Tc Th Kd 8c] [6c]
+ssdlupg : parole 
+Papa1811 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+ssdlupg : montre [3s Qh] (une paire de Dix)
+Papa1811 : montre [Ad 7s] (une paire de Dix - As kicker)
+psychoman59 : montre [5h Ac] (une paire de Dix)
+Papa1811 a remporté 45  lors du pot .
+psychoman59 a remporté 45  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [Tc Th Kd 8c 6c]
+Siège 1 : psychoman59 (bouton) a montré [5h Ac] et a gagné (45) avec une paire de Dix
+Siège 2 : ssdlupg (petite blind) a montré [3s Qh] et a perdu avec une paire de Dix
+Siège 3 : Papa1811 (grosse blind) a montré [Ad 7s] et a gagné (45) avec une paire de Dix
+
+
+
+Main PokerStars n°261235143987 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 24/06/2026 10:38:25 CET [24/06/2026 4:38:25 ET]
+Table '4010980181 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (580 en jetons) 
+Place 2: ssdlupg (450 en jetons) 
+Place 3: Papa1811 (470 en jetons) 
+Papa1811 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Th]
+ssdlupg : passe. 
+Papa1811 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Td 8s Qd]
+Papa1811 : mise. 30
+psychoman59 : suit. 30
+*** TOURNANT *** [Td 8s Qd] [5h]
+Papa1811 : mise. 30
+psychoman59 : suit. 30
+*** RIVIÈRE *** [Td 8s Qd 5h] [8d]
+Papa1811 : mise. 30
+psychoman59 : suit. 30
+*** ABATTAGE ***
+Papa1811 : montre [2h Qh] (double paire, Dames et Huit)
+psychoman59 : cache la main perdante. 
+Papa1811 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Td 8s Qd 5h 8d]
+Siège 1 : psychoman59 (grosse blind) a caché la main perdante. [6h Th]
+Siège 2 : ssdlupg (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Papa1811 (petite blind) a montré [2h Qh] et a gagné (240) avec double paire, Dames et Huit
+
+
+
+Main PokerStars n°261235145427 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 24/06/2026 10:38:47 CET [24/06/2026 4:38:47 ET]
+Table '4010980181 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (460 en jetons) 
+Place 2: ssdlupg (450 en jetons) 
+Place 3: Papa1811 (590 en jetons) 
+psychoman59 : met la petite blind. 15
+ssdlupg : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Th]
+Papa1811 : suit. 30
+psychoman59 : suit. 15
+ssdlupg : parole 
+*** FLOP *** [9c 3h 8s]
+psychoman59 : mise. 45
+ssdlupg : suit. 45
+Papa1811 : suit. 45
+*** TOURNANT *** [9c 3h 8s] [Qc]
+psychoman59 : mise. 75
+ssdlupg : suit. 75
+Papa1811 : passe. 
+*** RIVIÈRE *** [9c 3h 8s Qc] [Jh]
+psychoman59 : mise. 310 et est all-in.
+ssdlupg : passe. 
+Personne n'a suivi. (310) sont retournés à psychoman59.
+psychoman59 a remporté 375  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 375 | Commission 0 
+Tableau [9c 3h 8s Qc Jh]
+Siège 1 : psychoman59 (petite blind) a remporté (375)
+Siège 2 : ssdlupg (grosse blind) s'est couché. sur le Rivière
+Siège 3 : Papa1811 (bouton) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°261235149143 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 24/06/2026 10:39:46 CET [24/06/2026 4:39:46 ET]
+Table '4010980181 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (685 en jetons) 
+Place 2: ssdlupg (300 en jetons) 
+Place 3: Papa1811 (515 en jetons) 
+ssdlupg : met la petite blind. 15
+Papa1811 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Ad]
+psychoman59 : suit. 30
+ssdlupg : suit. 15
+Papa1811 : parole 
+*** FLOP *** [3d 7c 3c]
+ssdlupg : parole 
+Papa1811 : mise. 30
+psychoman59 : passe. 
+ssdlupg : suit. 30
+*** TOURNANT *** [3d 7c 3c] [8c]
+ssdlupg : parole 
+Papa1811 : mise. 30
+ssdlupg : suit. 30
+*** RIVIÈRE *** [3d 7c 3c 8c] [Th]
+ssdlupg : parole 
+Papa1811 : parole 
+*** ABATTAGE ***
+ssdlupg : montre [Ks 7s] (double paire, Sept et Trois)
+Papa1811 : montre [9c 8h] (double paire, Huit et Trois)
+Papa1811 a remporté 210  lors du pot .
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Tableau [3d 7c 3c 8c Th]
+Siège 1 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 2 : ssdlupg (petite blind) a montré [Ks 7s] et a perdu avec double paire, Sept et Trois
+Siège 3 : Papa1811 (grosse blind) a montré [9c 8h] et a gagné (210) avec double paire, Huit et Trois
+
+
+
+Main PokerStars n°261235152037 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 24/06/2026 10:40:32 CET [24/06/2026 4:40:32 ET]
+Table '4010980181 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (655 en jetons) 
+Place 2: ssdlupg (210 en jetons) 
+Place 3: Papa1811 (635 en jetons) 
+Papa1811 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Ac]
+ssdlupg : passe. 
+Papa1811 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [2c 4c 9d]
+Papa1811 : parole 
+psychoman59 : mise. 60
+Papa1811 : suit. 60
+*** TOURNANT *** [2c 4c 9d] [6s]
+Papa1811 : parole 
+psychoman59 : mise. 90
+Papa1811 : passe. 
+Personne n'a suivi. (90) sont retournés à psychoman59.
+psychoman59 a remporté 180  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [2c 4c 9d 6s]
+Siège 1 : psychoman59 (grosse blind) a remporté (180)
+Siège 2 : ssdlupg (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Papa1811 (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°261235155095 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/06/2026 10:41:19 CET [24/06/2026 4:41:19 ET]
+Table '4010980181 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (745 en jetons) 
+Place 2: ssdlupg (210 en jetons) 
+Place 3: Papa1811 (545 en jetons) 
+psychoman59 : met la petite blind. 20
+ssdlupg : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Jh]
+Papa1811 : passe. 
+psychoman59 : relance. 705 à 745 et est all-in.
+ssdlupg : passe. 
+Personne n'a suivi. (705) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (petite blind) a remporté (80)
+Siège 2 : ssdlupg (grosse blind) s'est couché. avant Flop
+Siège 3 : Papa1811 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261235155973 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/06/2026 10:41:33 CET [24/06/2026 4:41:33 ET]
+Table '4010980181 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (785 en jetons) 
+Place 2: ssdlupg (170 en jetons) 
+Place 3: Papa1811 (545 en jetons) 
+ssdlupg : met la petite blind. 20
+Papa1811 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Ts]
+psychoman59 : passe. 
+ssdlupg : suit. 20
+Papa1811 : relance. 40 à 80
+ssdlupg : suit. 40
+*** FLOP *** [4s Tc Qs]
+ssdlupg : parole 
+Papa1811 : mise. 120
+ssdlupg : passe. 
+Personne n'a suivi. (120) sont retournés à Papa1811.
+Papa1811 a remporté 160  lors du pot .
+Papa1811 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [4s Tc Qs]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : ssdlupg (petite blind) s'est couché. sur le Flop
+Siège 3 : Papa1811 (grosse blind) a remporté (160)
+
+
+
+Main PokerStars n°261235157712 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/06/2026 10:42:00 CET [24/06/2026 4:42:00 ET]
+Table '4010980181 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (785 en jetons) 
+Place 2: ssdlupg (90 en jetons) 
+Place 3: Papa1811 (625 en jetons) 
+Papa1811 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 7d]
+ssdlupg : passe. 
+Papa1811 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 2 : ssdlupg (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Papa1811 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261235158348 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/06/2026 10:42:09 CET [24/06/2026 4:42:09 ET]
+Table '4010980181 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (805 en jetons) 
+Place 2: ssdlupg (90 en jetons) 
+Place 3: Papa1811 (605 en jetons) 
+psychoman59 : met la petite blind. 20
+ssdlupg : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Th]
+Papa1811 : suit. 40
+psychoman59 : passe. 
+ssdlupg : parole 
+*** FLOP *** [2c 7s 3h]
+ssdlupg : parole 
+Papa1811 : parole 
+*** TOURNANT *** [2c 7s 3h] [6d]
+ssdlupg : mise. 50 et est all-in.
+Papa1811 : suit. 50
+*** RIVIÈRE *** [2c 7s 3h 6d] [Ks]
+*** ABATTAGE ***
+ssdlupg : montre [4s 5c] (une suite, Trois à Sept)
+Papa1811 : montre [Tc 8c] (Hauteur Roi)
+ssdlupg a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [2c 7s 3h 6d Ks]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : ssdlupg (grosse blind) a montré [4s 5c] et a gagné (200) avec une suite, Trois à Sept
+Siège 3 : Papa1811 (bouton) a montré [Tc 8c] et a perdu avec Hauteur Roi
+
+
+
+Main PokerStars n°261235160266 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/06/2026 10:42:38 CET [24/06/2026 4:42:38 ET]
+Table '4010980181 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (785 en jetons) 
+Place 2: ssdlupg (200 en jetons) 
+Place 3: Papa1811 (515 en jetons) 
+ssdlupg : met la petite blind. 20
+Papa1811 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 5d]
+psychoman59 : passe. 
+ssdlupg : suit. 20
+Papa1811 : parole 
+*** FLOP *** [5s 2h Js]
+ssdlupg : parole 
+Papa1811 : parole 
+*** TOURNANT *** [5s 2h Js] [Jh]
+ssdlupg : parole 
+Papa1811 : mise. 40
+ssdlupg : passe. 
+Personne n'a suivi. (40) sont retournés à Papa1811.
+Papa1811 a remporté 80  lors du pot .
+Papa1811 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [5s 2h Js Jh]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : ssdlupg (petite blind) s'est couché. sur le Tournant
+Siège 3 : Papa1811 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°261235163586 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/06/2026 10:43:29 CET [24/06/2026 4:43:29 ET]
+Table '4010980181 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (785 en jetons) 
+Place 2: ssdlupg (160 en jetons) 
+Place 3: Papa1811 (555 en jetons) 
+Papa1811 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 7h]
+ssdlupg : passe. 
+Papa1811 : suit. 20
+psychoman59 : relance. 745 à 785 et est all-in.
+Papa1811 : passe. 
+Personne n'a suivi. (745) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (80)
+Siège 2 : ssdlupg (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Papa1811 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261235164647 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/06/2026 10:43:44 CET [24/06/2026 4:43:44 ET]
+Table '4010980181 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (825 en jetons) 
+Place 2: ssdlupg (160 en jetons) 
+Place 3: Papa1811 (515 en jetons) 
+psychoman59 : met la petite blind. 30
+ssdlupg : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 6d]
+Papa1811 : suit. 60
+psychoman59 : passe. 
+ssdlupg : parole 
+*** FLOP *** [4d 8s 2c]
+ssdlupg : parole 
+Papa1811 : parole 
+*** TOURNANT *** [4d 8s 2c] [3h]
+ssdlupg : parole 
+Papa1811 : mise. 60
+ssdlupg : suit. 60
+*** RIVIÈRE *** [4d 8s 2c 3h] [9s]
+ssdlupg : parole 
+Papa1811 : parole 
+*** ABATTAGE ***
+ssdlupg : montre [5c Ks] (Hauteur Roi)
+Papa1811 : montre [2s 3s] (double paire, Trois et Deux)
+Papa1811 a remporté 270  lors du pot .
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Tableau [4d 8s 2c 3h 9s]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : ssdlupg (grosse blind) a montré [5c Ks] et a perdu avec Hauteur Roi
+Siège 3 : Papa1811 (bouton) a montré [2s 3s] et a gagné (270) avec double paire, Trois et Deux
+
+
+
+Main PokerStars n°261235166436 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/06/2026 10:44:12 CET [24/06/2026 4:44:12 ET]
+Table '4010980181 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (795 en jetons) 
+Place 2: ssdlupg (40 en jetons) 
+Place 3: Papa1811 (665 en jetons) 
+ssdlupg : met la petite blind. 30
+Papa1811 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Jd]
+psychoman59 : passe. 
+ssdlupg : suit. 10 et est all-in.
+Personne n'a suivi. (20) sont retournés à Papa1811.
+*** FLOP *** [As 2h 3s]
+*** TOURNANT *** [As 2h 3s] [2c]
+*** RIVIÈRE *** [As 2h 3s 2c] [Js]
+*** ABATTAGE ***
+ssdlupg : montre [5c Tc] (une paire de Deux)
+Papa1811 : montre [4h 5d] (une suite, As à Cinq)
+Papa1811 a remporté 80  lors du pot .
+ssdlupg a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [As 2h 3s 2c Js]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : ssdlupg (petite blind) a montré [5c Tc] et a perdu avec une paire de Deux
+Siège 3 : Papa1811 (grosse blind) a montré [4h 5d] et a gagné (80) avec une suite, As à Cinq
+
+
+
+Main PokerStars n°261235167669 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/06/2026 10:44:32 CET [24/06/2026 4:44:32 ET]
+Table '4010980181 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (795 en jetons) 
+Place 3: Papa1811 (705 en jetons) 
+Papa1811 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 4c]
+Papa1811 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Qd 3s 4h]
+psychoman59 : parole 
+Papa1811 : parole 
+*** TOURNANT *** [Qd 3s 4h] [Tc]
+psychoman59 : parole 
+Papa1811 : parole 
+*** RIVIÈRE *** [Qd 3s 4h Tc] [8c]
+psychoman59 : parole 
+Papa1811 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [9h 4c] (une paire de Quatre)
+Papa1811 : cache la main perdante. 
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Qd 3s 4h Tc 8c]
+Siège 1 : psychoman59 (grosse blind) a montré [9h 4c] et a gagné (120) avec une paire de Quatre
+Siège 3 : Papa1811 (bouton) (petite blind) a caché la main perdante. [5d 7s]
+
+
+
+Main PokerStars n°261235169589 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/06/2026 10:45:02 CET [24/06/2026 4:45:02 ET]
+Table '4010980181 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (855 en jetons) 
+Place 3: Papa1811 (645 en jetons) 
+psychoman59 : met la petite blind. 30
+Papa1811 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 2h]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Papa1811.
+Papa1811 a remporté 60  lors du pot .
+Papa1811 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Papa1811 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°261235170065 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/06/2026 10:45:09 CET [24/06/2026 4:45:09 ET]
+Table '4010980181 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (825 en jetons) 
+Place 3: Papa1811 (675 en jetons) 
+Papa1811 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 4h]
+Papa1811 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Ah Ks Jh]
+psychoman59 : parole 
+Papa1811 : parole 
+*** TOURNANT *** [Ah Ks Jh] [7h]
+psychoman59 : parole 
+Papa1811 : parole 
+*** RIVIÈRE *** [Ah Ks Jh 7h] [5h]
+psychoman59 : parole 
+Papa1811 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [8s 4h] (une couleur, hauteur As)
+Papa1811 : cache la main perdante. 
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Ah Ks Jh 7h 5h]
+Siège 1 : psychoman59 (grosse blind) a montré [8s 4h] et a gagné (120) avec une couleur, hauteur As
+Siège 3 : Papa1811 (bouton) (petite blind) a caché la main perdante. [4s 9s]
+
+
+
+Main PokerStars n°261235171623 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/06/2026 10:45:34 CET [24/06/2026 4:45:34 ET]
+Table '4010980181 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (885 en jetons) 
+Place 3: Papa1811 (615 en jetons) 
+psychoman59 : met la petite blind. 30
+Papa1811 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Kc]
+psychoman59 : relance. 825 à 885 et est all-in.
+Papa1811 : passe. 
+Personne n'a suivi. (825) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 3 : Papa1811 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261235172360 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/06/2026 10:45:45 CET [24/06/2026 4:45:45 ET]
+Table '4010980181 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (945 en jetons) 
+Place 3: Papa1811 (555 en jetons) 
+Papa1811 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Jc]
+Papa1811 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Qh Jh 7s]
+psychoman59 : parole 
+Papa1811 : mise. 60
+psychoman59 : suit. 60
+*** TOURNANT *** [Qh Jh 7s] [Ah]
+psychoman59 : parole 
+Papa1811 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à Papa1811.
+Papa1811 a remporté 240  lors du pot .
+Papa1811 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Qh Jh 7s Ah]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : Papa1811 (bouton) (petite blind) a remporté (240)
+
+
+
+Main PokerStars n°261235173734 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/06/2026 10:46:06 CET [24/06/2026 4:46:06 ET]
+Table '4010980181 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (825 en jetons) 
+Place 3: Papa1811 (675 en jetons) 
+psychoman59 : met la petite blind. 30
+Papa1811 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 2d]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Papa1811.
+Papa1811 a remporté 60  lors du pot .
+Papa1811 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Papa1811 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°261235174091 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/06/2026 10:46:12 CET [24/06/2026 4:46:12 ET]
+Table '4010980181 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (795 en jetons) 
+Place 3: Papa1811 (705 en jetons) 
+Papa1811 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Kc]
+Papa1811 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Jd Ad Ac]
+psychoman59 : parole 
+Papa1811 : parole 
+*** TOURNANT *** [Jd Ad Ac] [Kd]
+psychoman59 : parole 
+Papa1811 : parole 
+*** RIVIÈRE *** [Jd Ad Ac Kd] [6s]
+psychoman59 : mise. 60
+Papa1811 : suit. 60
+*** ABATTAGE ***
+psychoman59 : montre [6h Kc] (double paire, As et Rois)
+Papa1811 : cache la main perdante. 
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Jd Ad Ac Kd 6s]
+Siège 1 : psychoman59 (grosse blind) a montré [6h Kc] et a gagné (240) avec double paire, As et Rois
+Siège 3 : Papa1811 (bouton) (petite blind) a caché la main perdante. [2h 2d]
+
+
+
+Main PokerStars n°261235175510 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/06/2026 10:46:34 CET [24/06/2026 4:46:34 ET]
+Table '4010980181 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (915 en jetons) 
+Place 3: Papa1811 (585 en jetons) 
+psychoman59 : met la petite blind. 30
+Papa1811 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 3s]
+psychoman59 : suit. 30
+Papa1811 : parole 
+*** FLOP *** [Kd 9s 2s]
+Papa1811 : parole 
+psychoman59 : mise. 120
+Papa1811 : suit. 120
+*** TOURNANT *** [Kd 9s 2s] [Qh]
+Papa1811 : parole 
+psychoman59 : mise. 180
+Papa1811 : relance. 180 à 360
+psychoman59 : relance. 180 à 540
+Papa1811 : suit. 45 et est all-in.
+Personne n'a suivi. (135) sont retournés à psychoman59.
+*** RIVIÈRE *** [Kd 9s 2s Qh] [6c]
+*** ABATTAGE ***
+Papa1811 : montre [Js Tc] (une suite, Neuf à Roi)
+psychoman59 : montre [Kc 3s] (une paire de Rois)
+Papa1811 a remporté 1170  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1170 | Commission 0 
+Tableau [Kd 9s 2s Qh 6c]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Kc 3s] et a perdu avec une paire de Rois
+Siège 3 : Papa1811 (grosse blind) a montré [Js Tc] et a gagné (1170) avec une suite, Neuf à Roi
+
+
+
+Main PokerStars n°261235178123 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 24/06/2026 10:47:15 CET [24/06/2026 4:47:15 ET]
+Table '4010980181 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (330 en jetons) 
+Place 3: Papa1811 (1170 en jetons) 
+Papa1811 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 9s]
+Papa1811 : suit. 40
+psychoman59 : parole 
+*** FLOP *** [Ad 2s Qd]
+psychoman59 : parole 
+Papa1811 : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à Papa1811.
+Papa1811 a remporté 160  lors du pot .
+Papa1811 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Ad 2s Qd]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : Papa1811 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°261235179181 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 24/06/2026 10:47:32 CET [24/06/2026 4:47:32 ET]
+Table '4010980181 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (250 en jetons) 
+Place 3: Papa1811 (1250 en jetons) 
+psychoman59 : met la petite blind. 40
+Papa1811 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 8h]
+psychoman59 : relance. 170 à 250 et est all-in.
+Papa1811 : passe. 
+Personne n'a suivi. (170) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (160)
+Siège 3 : Papa1811 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261235180109 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 24/06/2026 10:47:46 CET [24/06/2026 4:47:46 ET]
+Table '4010980181 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (330 en jetons) 
+Place 3: Papa1811 (1170 en jetons) 
+Papa1811 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 3h]
+Papa1811 : suit. 40
+psychoman59 : parole 
+*** FLOP *** [Js 2s Ad]
+psychoman59 : parole 
+Papa1811 : parole 
+*** TOURNANT *** [Js 2s Ad] [8s]
+psychoman59 : parole 
+Papa1811 : parole 
+*** RIVIÈRE *** [Js 2s Ad 8s] [5s]
+psychoman59 : parole 
+Papa1811 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Kc 3h] (Hauteur As)
+Papa1811 : cache la main perdante. 
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Js 2s Ad 8s 5s]
+Siège 1 : psychoman59 (grosse blind) a montré [Kc 3h] et a gagné (160) avec Hauteur As
+Siège 3 : Papa1811 (bouton) (petite blind) a caché la main perdante. [6d 4h]
+
+
+
+Main PokerStars n°261235181795 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 24/06/2026 10:48:12 CET [24/06/2026 4:48:12 ET]
+Table '4010980181 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (410 en jetons) 
+Place 3: Papa1811 (1090 en jetons) 
+psychoman59 : met la petite blind. 40
+Papa1811 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 8d]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Papa1811.
+Papa1811 a remporté 80  lors du pot .
+Papa1811 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Papa1811 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°261235182261 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 24/06/2026 10:48:19 CET [24/06/2026 4:48:19 ET]
+Table '4010980181 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (370 en jetons) 
+Place 3: Papa1811 (1130 en jetons) 
+Papa1811 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 2s]
+Papa1811 : suit. 40
+psychoman59 : parole 
+*** FLOP *** [5h 5d 5s]
+psychoman59 : parole 
+Papa1811 : parole 
+*** TOURNANT *** [5h 5d 5s] [Jc]
+psychoman59 : mise. 290 et est all-in.
+Papa1811 : passe. 
+Personne n'a suivi. (290) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [5h 5d 5s Jc]
+Siège 1 : psychoman59 (grosse blind) a remporté (160)
+Siège 3 : Papa1811 (bouton) (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°261235183687 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 24/06/2026 10:48:41 CET [24/06/2026 4:48:41 ET]
+Table '4010980181 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (450 en jetons) 
+Place 3: Papa1811 (1050 en jetons) 
+psychoman59 : met la petite blind. 40
+Papa1811 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 8s]
+psychoman59 : relance. 370 à 450 et est all-in.
+Papa1811 : passe. 
+Personne n'a suivi. (370) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (160)
+Siège 3 : Papa1811 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261235184445 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 24/06/2026 10:48:52 CET [24/06/2026 4:48:52 ET]
+Table '4010980181 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (530 en jetons) 
+Place 3: Papa1811 (970 en jetons) 
+Papa1811 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 6h]
+Papa1811 : suit. 40
+psychoman59 : parole 
+*** FLOP *** [9s Ts 5h]
+psychoman59 : parole 
+Papa1811 : parole 
+*** TOURNANT *** [9s Ts 5h] [5d]
+psychoman59 : parole 
+Papa1811 : parole 
+*** RIVIÈRE *** [9s Ts 5h 5d] [2s]
+psychoman59 : parole 
+Papa1811 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [2c 6h] (double paire, Cinq et Deux)
+Papa1811 : cache la main perdante. 
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [9s Ts 5h 5d 2s]
+Siège 1 : psychoman59 (grosse blind) a montré [2c 6h] et a gagné (160) avec double paire, Cinq et Deux
+Siège 3 : Papa1811 (bouton) (petite blind) a caché la main perdante. [Jc 6s]
+
+
+
+Main PokerStars n°261235186071 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 24/06/2026 10:49:17 CET [24/06/2026 4:49:17 ET]
+Table '4010980181 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (610 en jetons) 
+Place 3: Papa1811 (890 en jetons) 
+psychoman59 : met la petite blind. 40
+Papa1811 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Qc]
+psychoman59 : suit. 40
+Papa1811 : relance. 80 à 160
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à Papa1811.
+Papa1811 a remporté 160  lors du pot .
+Papa1811 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Papa1811 (grosse blind) a remporté (160)
+
+
+
+Main PokerStars n°261235186743 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 24/06/2026 10:49:27 CET [24/06/2026 4:49:27 ET]
+Table '4010980181 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (530 en jetons) 
+Place 3: Papa1811 (970 en jetons) 
+Papa1811 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Ks]
+Papa1811 : suit. 40
+psychoman59 : relance. 450 à 530 et est all-in.
+Papa1811 : passe. 
+Personne n'a suivi. (450) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (160)
+Siège 3 : Papa1811 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261235187466 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 24/06/2026 10:49:38 CET [24/06/2026 4:49:38 ET]
+Table '4010980181 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (610 en jetons) 
+Place 3: Papa1811 (890 en jetons) 
+psychoman59 : met la petite blind. 40
+Papa1811 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 7s]
+psychoman59 : suit. 40
+Papa1811 : relance. 80 à 160
+psychoman59 : suit. 80
+*** FLOP *** [Jd Tc 3c]
+Papa1811 : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à Papa1811.
+Papa1811 a remporté 320  lors du pot .
+Papa1811 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [Jd Tc 3c]
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+Siège 3 : Papa1811 (grosse blind) a remporté (320)
+
+
+
+Main PokerStars n°261235188689 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 24/06/2026 10:49:57 CET [24/06/2026 4:49:57 ET]
+Table '4010980181 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (450 en jetons) 
+Place 3: Papa1811 (1050 en jetons) 
+Papa1811 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Ad]
+Papa1811 : suit. 50
+psychoman59 : relance. 100 à 200
+Papa1811 : suit. 100
+*** FLOP *** [Ks 9h Kh]
+psychoman59 : mise. 250 et est all-in.
+Papa1811 : passe. 
+Personne n'a suivi. (250) sont retournés à psychoman59.
+psychoman59 a remporté 400  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [Ks 9h Kh]
+Siège 1 : psychoman59 (grosse blind) a remporté (400)
+Siège 3 : Papa1811 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261235189919 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 24/06/2026 10:50:16 CET [24/06/2026 4:50:16 ET]
+Table '4010980181 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (650 en jetons) 
+Place 3: Papa1811 (850 en jetons) 
+psychoman59 : met la petite blind. 50
+Papa1811 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Kd]
+psychoman59 : relance. 550 à 650 et est all-in.
+Papa1811 : passe. 
+Personne n'a suivi. (550) sont retournés à psychoman59.
+psychoman59 a remporté 200  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (200)
+Siège 3 : Papa1811 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261235190477 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 24/06/2026 10:50:25 CET [24/06/2026 4:50:25 ET]
+Table '4010980181 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (750 en jetons) 
+Place 3: Papa1811 (750 en jetons) 
+Papa1811 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 4h]
+Papa1811 : suit. 50
+psychoman59 : parole 
+*** FLOP *** [4c As 6d]
+psychoman59 : parole 
+Papa1811 : mise. 100
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à Papa1811.
+Papa1811 a remporté 200  lors du pot .
+Papa1811 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [4c As 6d]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : Papa1811 (bouton) (petite blind) a remporté (200)
+
+
+
+Main PokerStars n°261235191732 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 24/06/2026 10:50:43 CET [24/06/2026 4:50:43 ET]
+Table '4010980181 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (650 en jetons) 
+Place 3: Papa1811 (850 en jetons) 
+psychoman59 : met la petite blind. 50
+Papa1811 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 7d]
+psychoman59 : relance. 550 à 650 et est all-in.
+Papa1811 : passe. 
+Personne n'a suivi. (550) sont retournés à psychoman59.
+psychoman59 a remporté 200  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (200)
+Siège 3 : Papa1811 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261235192242 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 24/06/2026 10:50:52 CET [24/06/2026 4:50:52 ET]
+Table '4010980181 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (750 en jetons) 
+Place 3: Papa1811 (750 en jetons) 
+Papa1811 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Ts]
+Papa1811 : suit. 50
+psychoman59 : relance. 650 à 750 et est all-in.
+Papa1811 : passe. 
+Personne n'a suivi. (650) sont retournés à psychoman59.
+psychoman59 a remporté 200  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (200)
+Siège 3 : Papa1811 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261235193045 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 24/06/2026 10:51:04 CET [24/06/2026 4:51:04 ET]
+Table '4010980181 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (850 en jetons) 
+Place 3: Papa1811 (650 en jetons) 
+psychoman59 : met la petite blind. 50
+Papa1811 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 3s]
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à Papa1811.
+Papa1811 a remporté 100  lors du pot .
+Papa1811 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Papa1811 (grosse blind) a remporté (100)
+
+
+
+Main PokerStars n°261235193423 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 24/06/2026 10:51:09 CET [24/06/2026 4:51:09 ET]
+Table '4010980181 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (800 en jetons) 
+Place 3: Papa1811 (700 en jetons) 
+Papa1811 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 6s]
+Papa1811 : suit. 50
+psychoman59 : parole 
+*** FLOP *** [Jd 6h 3s]
+psychoman59 : mise. 700 et est all-in.
+Papa1811 : passe. 
+Personne n'a suivi. (700) sont retournés à psychoman59.
+psychoman59 a remporté 200  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [Jd 6h 3s]
+Siège 1 : psychoman59 (grosse blind) a remporté (200)
+Siège 3 : Papa1811 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261235194459 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 24/06/2026 10:51:26 CET [24/06/2026 4:51:26 ET]
+Table '4010980181 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (900 en jetons) 
+Place 3: Papa1811 (600 en jetons) 
+psychoman59 : met la petite blind. 50
+Papa1811 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 4d]
+psychoman59 : suit. 50
+Papa1811 : relance. 200 à 300
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à Papa1811.
+Papa1811 a remporté 200  lors du pot .
+Papa1811 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Papa1811 (grosse blind) a remporté (200)
+
+
+
+Main PokerStars n°261235195190 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 24/06/2026 10:51:37 CET [24/06/2026 4:51:37 ET]
+Table '4010980181 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (800 en jetons) 
+Place 3: Papa1811 (700 en jetons) 
+Papa1811 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 7d]
+Papa1811 : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (100)
+Siège 3 : Papa1811 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261235195696 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 24/06/2026 10:51:44 CET [24/06/2026 4:51:44 ET]
+Table '4010980181 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (850 en jetons) 
+Place 3: Papa1811 (650 en jetons) 
+psychoman59 : met la petite blind. 50
+Papa1811 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 6d]
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à Papa1811.
+Papa1811 a remporté 100  lors du pot .
+Papa1811 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Papa1811 (grosse blind) a remporté (100)
+
+
+
+Main PokerStars n°261235196089 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 24/06/2026 10:51:50 CET [24/06/2026 4:51:50 ET]
+Table '4010980181 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (800 en jetons) 
+Place 3: Papa1811 (700 en jetons) 
+Papa1811 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 7d]
+Papa1811 : suit. 50
+psychoman59 : parole 
+*** FLOP *** [8c 6s Kd]
+psychoman59 : parole 
+Papa1811 : parole 
+*** TOURNANT *** [8c 6s Kd] [2s]
+psychoman59 : parole 
+Papa1811 : parole 
+*** RIVIÈRE *** [8c 6s Kd 2s] [4s]
+psychoman59 : parole 
+Papa1811 : mise. 300
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à Papa1811.
+Papa1811 a remporté 200  lors du pot .
+Papa1811 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [8c 6s Kd 2s 4s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : Papa1811 (bouton) (petite blind) a remporté (200)
+
+
+
+Main PokerStars n°261235198167 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 24/06/2026 10:52:21 CET [24/06/2026 4:52:21 ET]
+Table '4010980181 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (700 en jetons) 
+Place 3: Papa1811 (800 en jetons) 
+psychoman59 : met la petite blind. 50
+Papa1811 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Jc]
+psychoman59 : relance. 600 à 700 et est all-in.
+Papa1811 : passe. 
+Personne n'a suivi. (600) sont retournés à psychoman59.
+psychoman59 a remporté 200  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (200)
+Siège 3 : Papa1811 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261235198813 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 24/06/2026 10:52:31 CET [24/06/2026 4:52:31 ET]
+Table '4010980181 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (800 en jetons) 
+Place 3: Papa1811 (700 en jetons) 
+Papa1811 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 2h]
+Papa1811 : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (100)
+Siège 3 : Papa1811 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261235199360 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 24/06/2026 10:52:39 CET [24/06/2026 4:52:39 ET]
+Table '4010980181 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (850 en jetons) 
+Place 3: Papa1811 (650 en jetons) 
+psychoman59 : met la petite blind. 50
+Papa1811 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 7h]
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à Papa1811.
+Papa1811 a remporté 100  lors du pot .
+Papa1811 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Papa1811 (grosse blind) a remporté (100)
+
+
+
+Main PokerStars n°261235199924 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 24/06/2026 10:52:48 CET [24/06/2026 4:52:48 ET]
+Table '4010980181 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (800 en jetons) 
+Place 3: Papa1811 (700 en jetons) 
+Papa1811 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Qs]
+Papa1811 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (120)
+Siège 3 : Papa1811 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261235200523 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 24/06/2026 10:52:57 CET [24/06/2026 4:52:57 ET]
+Table '4010980181 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (860 en jetons) 
+Place 3: Papa1811 (640 en jetons) 
+psychoman59 : met la petite blind. 60
+Papa1811 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 4d]
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à Papa1811.
+Papa1811 a remporté 120  lors du pot .
+Papa1811 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Papa1811 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°261235200887 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 24/06/2026 10:53:03 CET [24/06/2026 4:53:03 ET]
+Table '4010980181 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (800 en jetons) 
+Place 3: Papa1811 (700 en jetons) 
+Papa1811 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Ac]
+Papa1811 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (120)
+Siège 3 : Papa1811 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261235201418 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 24/06/2026 10:53:11 CET [24/06/2026 4:53:11 ET]
+Table '4010980181 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (860 en jetons) 
+Place 3: Papa1811 (640 en jetons) 
+psychoman59 : met la petite blind. 60
+Papa1811 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 6s]
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à Papa1811.
+Papa1811 a remporté 120  lors du pot .
+Papa1811 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Papa1811 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°261235201815 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 24/06/2026 10:53:17 CET [24/06/2026 4:53:17 ET]
+Table '4010980181 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (800 en jetons) 
+Place 3: Papa1811 (700 en jetons) 
+Papa1811 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Qc]
+Papa1811 : suit. 60
+psychoman59 : relance. 680 à 800 et est all-in.
+Papa1811 : passe. 
+Personne n'a suivi. (680) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (240)
+Siège 3 : Papa1811 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261235202714 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 24/06/2026 10:53:30 CET [24/06/2026 4:53:30 ET]
+Table '4010980181 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (920 en jetons) 
+Place 3: Papa1811 (580 en jetons) 
+psychoman59 : met la petite blind. 60
+Papa1811 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 2c]
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à Papa1811.
+Papa1811 a remporté 120  lors du pot .
+Papa1811 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Papa1811 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°261235203041 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 24/06/2026 10:53:36 CET [24/06/2026 4:53:36 ET]
+Table '4010980181 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (860 en jetons) 
+Place 3: Papa1811 (640 en jetons) 
+Papa1811 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Tc]
+Papa1811 : suit. 60
+psychoman59 : parole 
+*** FLOP *** [Ah Ks Th]
+psychoman59 : parole 
+Papa1811 : parole 
+*** TOURNANT *** [Ah Ks Th] [6s]
+psychoman59 : parole 
+Papa1811 : parole 
+*** RIVIÈRE *** [Ah Ks Th 6s] [3d]
+psychoman59 : mise. 120
+Papa1811 : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Ah Ks Th 6s 3d]
+Siège 1 : psychoman59 (grosse blind) a remporté (240)
+Siège 3 : Papa1811 (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°261235205116 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 24/06/2026 10:54:08 CET [24/06/2026 4:54:08 ET]
+Table '4010980181 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (980 en jetons) 
+Place 3: Papa1811 (520 en jetons) 
+psychoman59 : met la petite blind. 60
+Papa1811 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 4d]
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à Papa1811.
+Papa1811 a remporté 120  lors du pot .
+Papa1811 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Papa1811 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°261235205473 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 24/06/2026 10:54:14 CET [24/06/2026 4:54:14 ET]
+Table '4010980181 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (920 en jetons) 
+Place 3: Papa1811 (580 en jetons) 
+Papa1811 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 6h]
+Papa1811 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (120)
+Siège 3 : Papa1811 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261235205966 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 24/06/2026 10:54:22 CET [24/06/2026 4:54:22 ET]
+Table '4010980181 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (980 en jetons) 
+Place 3: Papa1811 (520 en jetons) 
+psychoman59 : met la petite blind. 60
+Papa1811 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc As]
+psychoman59 : relance. 240 à 360
+Papa1811 : passe. 
+Personne n'a suivi. (240) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (240)
+Siège 3 : Papa1811 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261235206665 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 24/06/2026 10:54:33 CET [24/06/2026 4:54:33 ET]
+Table '4010980181 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (1100 en jetons) 
+Place 3: Papa1811 (400 en jetons) 
+Papa1811 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 6s]
+Papa1811 : suit. 60
+psychoman59 : parole 
+*** FLOP *** [Th 2s 3c]
+psychoman59 : parole 
+Papa1811 : mise. 280 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (280) sont retournés à Papa1811.
+Papa1811 a remporté 240  lors du pot .
+Papa1811 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Th 2s 3c]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : Papa1811 (bouton) (petite blind) a remporté (240)
+
+
+
+Main PokerStars n°261235207975 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 24/06/2026 10:54:53 CET [24/06/2026 4:54:53 ET]
+Table '4010980181 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (980 en jetons) 
+Place 3: Papa1811 (520 en jetons) 
+psychoman59 : met la petite blind. 60
+Papa1811 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 4s]
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à Papa1811.
+Papa1811 a remporté 120  lors du pot .
+Papa1811 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Papa1811 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°261235208344 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 24/06/2026 10:54:58 CET [24/06/2026 4:54:58 ET]
+Table '4010980181 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (920 en jetons) 
+Place 3: Papa1811 (580 en jetons) 
+Papa1811 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Kd]
+Papa1811 : suit. 60
+psychoman59 : parole 
+*** FLOP *** [Ac Th 7s]
+psychoman59 : parole 
+Papa1811 : parole 
+*** TOURNANT *** [Ac Th 7s] [Tc]
+psychoman59 : parole 
+Papa1811 : parole 
+*** RIVIÈRE *** [Ac Th 7s Tc] [9h]
+psychoman59 : parole 
+Papa1811 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [5h Kd] (une paire de Dix)
+Papa1811 : cache la main perdante. 
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Ac Th 7s Tc 9h]
+Siège 1 : psychoman59 (grosse blind) a montré [5h Kd] et a gagné (240) avec une paire de Dix
+Siège 3 : Papa1811 (bouton) (petite blind) a caché la main perdante. [3h 6h]
+
+
+
+Main PokerStars n°261235209897 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 24/06/2026 10:55:26 CET [24/06/2026 4:55:26 ET]
+Table '4010980181 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1040 en jetons) 
+Place 3: Papa1811 (460 en jetons) 
+psychoman59 : met la petite blind. 60
+Papa1811 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Jd]
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à Papa1811.
+Papa1811 a remporté 120  lors du pot .
+Papa1811 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Papa1811 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°261235210091 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 24/06/2026 10:55:30 CET [24/06/2026 4:55:30 ET]
+Table '4010980181 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (980 en jetons) 
+Place 3: Papa1811 (520 en jetons) 
+Papa1811 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 9h]
+Papa1811 : suit. 60
+psychoman59 : parole 
+*** FLOP *** [Tc 5c Ts]
+psychoman59 : parole 
+Papa1811 : parole 
+*** TOURNANT *** [Tc 5c Ts] [Jc]
+psychoman59 : parole 
+Papa1811 : parole 
+*** RIVIÈRE *** [Tc 5c Ts Jc] [9c]
+psychoman59 : parole 
+Papa1811 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Js 9h] (double paire, Valets et Dix)
+Papa1811 : cache la main perdante. 
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Tc 5c Ts Jc 9c]
+Siège 1 : psychoman59 (grosse blind) a montré [Js 9h] et a gagné (240) avec double paire, Valets et Dix
+Siège 3 : Papa1811 (bouton) (petite blind) a caché la main perdante. [2d 3h]
+
+
+
+Main PokerStars n°261235211806 : Tournoi #4010980181, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VIII (75/150) - 24/06/2026 10:56:02 CET [24/06/2026 4:56:02 ET]
+Table '4010980181 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1100 en jetons) 
+Place 3: Papa1811 (400 en jetons) 
+psychoman59 : met la petite blind. 75
+Papa1811 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 6s]
+psychoman59 : suit. 75
+Papa1811 : relance. 250 à 400 et est all-in.
+psychoman59 : suit. 250
+*** FLOP *** [Ts 3d 9d]
+*** TOURNANT *** [Ts 3d 9d] [4d]
+*** RIVIÈRE *** [Ts 3d 9d 4d] [6h]
+*** ABATTAGE ***
+Papa1811 : montre [Js 2s] (Hauteur Valet)
+psychoman59 : montre [Ks 6s] (une paire de Six)
+psychoman59 a remporté 800  lors du pot .
+Papa1811 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 4.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 800 | Commission 0 
+Tableau [Ts 3d 9d 4d 6h]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Ks 6s] et a gagné (800) avec une paire de Six
+Siège 3 : Papa1811 (grosse blind) a montré [Js 2s] et a perdu avec Hauteur Valet
+
+
+

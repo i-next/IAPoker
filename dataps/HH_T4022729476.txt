@@ -1,0 +1,88 @@
+﻿Main PokerStars n°261703702173 : Tournoi #4022729476, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 10/08/2026 7:47:31 CET [10/08/2026 1:47:31 ET]
+Table '4022729476 1' 3-max Siège #1 est au bouton.
+Place 1: kikru (500 en jetons) 
+Place 2: Hardin JIC (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+Hardin JIC : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Ts]
+kikru : passe. 
+Hardin JIC : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : kikru (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Hardin JIC (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°261703702936 : Tournoi #4022729476, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 10/08/2026 7:47:47 CET [10/08/2026 1:47:47 ET]
+Table '4022729476 1' 3-max Siège #2 est au bouton.
+Place 1: kikru (500 en jetons) 
+Place 2: Hardin JIC (490 en jetons) 
+Place 3: psychoman59 (510 en jetons) 
+psychoman59 : met la petite blind. 10
+kikru : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah As]
+Hardin JIC : passe. 
+psychoman59 : relance. 40 à 60
+kikru : relance. 440 à 500 et est all-in.
+psychoman59 : suit. 440
+*** FLOP *** [3s Kd Qh]
+*** TOURNANT *** [3s Kd Qh] [8d]
+*** RIVIÈRE *** [3s Kd Qh 8d] [3h]
+*** ABATTAGE ***
+psychoman59 : montre [Ah As] (double paire, As et Trois)
+kikru : montre [8s 8h] (un full, full aux Huit par les Trois)
+kikru a remporté 1000  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1000 | Commission 0 
+Tableau [3s Kd Qh 8d 3h]
+Siège 1 : kikru (grosse blind) a montré [8s 8h] et a gagné (1000) avec un full, full aux Huit par les Trois
+Siège 2 : Hardin JIC (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [Ah As] et a perdu avec double paire, As et Trois
+
+
+
+Main PokerStars n°261703703953 : Tournoi #4022729476, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 10/08/2026 7:48:07 CET [10/08/2026 1:48:07 ET]
+Table '4022729476 1' 3-max Siège #3 est au bouton.
+Place 1: kikru (1000 en jetons) 
+Place 2: Hardin JIC (490 en jetons) 
+Place 3: psychoman59 (10 en jetons) 
+kikru : met la petite blind. 10
+Hardin JIC : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 9h]
+psychoman59 : suit. 10 et est all-in.
+kikru : suit. 10
+Hardin JIC : parole 
+*** FLOP *** [5s 7h 4d]
+kikru : parole 
+Hardin JIC : mise. 20
+kikru : suit. 20
+*** TOURNANT *** [5s 7h 4d] [Ks]
+kikru : parole 
+Hardin JIC : mise. 63
+kikru : passe. 
+Personne n'a suivi. (63) sont retournés à Hardin JIC.
+*** RIVIÈRE *** [5s 7h 4d Ks] [6d]
+*** ABATTAGE ***
+Hardin JIC : montre [7d 4c] (double paire, Sept et Quatre)
+Hardin JIC a remporté 60  parallèle lors du pot .
+psychoman59 : montre [Kh 9h] (une paire de Rois)
+Hardin JIC a remporté 30  principal lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 90 Principal pot 30. Parallèle pot 60. | Commission 0 
+Tableau [5s 7h 4d Ks 6d]
+Siège 1 : kikru (petite blind) s'est couché. sur le Tournant
+Siège 2 : Hardin JIC (grosse blind) a montré [7d 4c] et a gagné (90) avec double paire, Sept et Quatre
+Siège 3 : psychoman59 (bouton) a montré [Kh 9h] et a perdu avec une paire de Rois
+
+
+

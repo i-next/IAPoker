@@ -1,0 +1,559 @@
+﻿Main PokerStars n°261342549460 : Tournoi #4013694014, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/07/2026 9:50:42 CET [05/07/2026 3:50:42 ET]
+Table '4013694014 1' 3-max Siège #1 est au bouton.
+Place 1: Joker23T (500 en jetons) 
+Place 2: lichelmes80120 (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+lichelmes80120 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Jc]
+Joker23T : relance. 20 à 40
+lichelmes80120 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Joker23T.
+Joker23T a remporté 50  lors du pot .
+Joker23T : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : Joker23T (bouton) a remporté (50)
+Siège 2 : lichelmes80120 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261342550220 : Tournoi #4013694014, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/07/2026 9:50:55 CET [05/07/2026 3:50:55 ET]
+Table '4013694014 1' 3-max Siège #2 est au bouton.
+Place 1: Joker23T (530 en jetons) 
+Place 2: lichelmes80120 (490 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 10
+Joker23T : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Jh]
+lichelmes80120 : passe. 
+psychoman59 : suit. 10
+Joker23T : relance. 244 à 264
+psychoman59 : relance. 216 à 480 et est all-in.
+Joker23T : suit. 216
+*** FLOP *** [Jc Jd 8s]
+*** TOURNANT *** [Jc Jd 8s] [Js]
+*** RIVIÈRE *** [Jc Jd 8s Js] [7d]
+*** ABATTAGE ***
+psychoman59 : montre [Ac Jh] (un carré de Valets)
+Joker23T : montre [Kc Kh] (un full, full aux Valets par les Rois)
+psychoman59 a remporté 960  lors du pot .
+*** SYNTHÈSE ***
+Pot total 960 | Commission 0 
+Tableau [Jc Jd 8s Js 7d]
+Siège 1 : Joker23T (grosse blind) a montré [Kc Kh] et a perdu avec un full, full aux Valets par les Rois
+Siège 2 : lichelmes80120 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [Ac Jh] et a gagné (960) avec un carré de Valets
+
+
+
+Main PokerStars n°261342552221 : Tournoi #4013694014, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/07/2026 9:51:26 CET [05/07/2026 3:51:26 ET]
+Table '4013694014 1' 3-max Siège #3 est au bouton.
+Place 1: Joker23T (50 en jetons) 
+Place 2: lichelmes80120 (490 en jetons) 
+Place 3: psychoman59 (960 en jetons) 
+Joker23T : met la petite blind. 10
+lichelmes80120 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 9h]
+psychoman59 : passe. 
+Joker23T : relance. 30 à 50 et est all-in.
+lichelmes80120 : suit. 30
+*** FLOP *** [Td Ac 2h]
+*** TOURNANT *** [Td Ac 2h] [6c]
+*** RIVIÈRE *** [Td Ac 2h 6c] [9d]
+*** ABATTAGE ***
+Joker23T : montre [7c 7d] (une paire de Sept)
+lichelmes80120 : montre [4c Kc] (Hauteur As)
+Joker23T a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [Td Ac 2h 6c 9d]
+Siège 1 : Joker23T (petite blind) a montré [7c 7d] et a gagné (100) avec une paire de Sept
+Siège 2 : lichelmes80120 (grosse blind) a montré [4c Kc] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261342553869 : Tournoi #4013694014, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/07/2026 9:51:53 CET [05/07/2026 3:51:53 ET]
+Table '4013694014 1' 3-max Siège #1 est au bouton.
+Place 1: Joker23T (100 en jetons) 
+Place 2: lichelmes80120 (440 en jetons) 
+Place 3: psychoman59 (960 en jetons) 
+lichelmes80120 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 8c]
+Joker23T : relance. 80 à 100 et est all-in.
+lichelmes80120 : relance. 340 à 440 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (340) sont retournés à lichelmes80120.
+*** FLOP *** [Kc Th Qs]
+*** TOURNANT *** [Kc Th Qs] [5s]
+*** RIVIÈRE *** [Kc Th Qs 5s] [Tc]
+*** ABATTAGE ***
+lichelmes80120 : montre [Td Ac] (un brelan de Dix)
+Joker23T : montre [9c Js] (une suite, Neuf à Roi)
+Joker23T a remporté 220  lors du pot .
+*** SYNTHÈSE ***
+Pot total 220 | Commission 0 
+Tableau [Kc Th Qs 5s Tc]
+Siège 1 : Joker23T (bouton) a montré [9c Js] et a gagné (220) avec une suite, Neuf à Roi
+Siège 2 : lichelmes80120 (petite blind) a montré [Td Ac] et a perdu avec un brelan de Dix
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261342555422 : Tournoi #4013694014, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/07/2026 9:52:19 CET [05/07/2026 3:52:19 ET]
+Table '4013694014 1' 3-max Siège #2 est au bouton.
+Place 1: Joker23T (220 en jetons) 
+Place 2: lichelmes80120 (340 en jetons) 
+Place 3: psychoman59 (940 en jetons) 
+psychoman59 : met la petite blind. 10
+Joker23T : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 9c]
+lichelmes80120 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à Joker23T.
+Joker23T a remporté 20  lors du pot .
+Joker23T : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : Joker23T (grosse blind) a remporté (20)
+Siège 2 : lichelmes80120 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261342555906 : Tournoi #4013694014, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/07/2026 9:52:26 CET [05/07/2026 3:52:26 ET]
+Table '4013694014 1' 3-max Siège #3 est au bouton.
+Place 1: Joker23T (230 en jetons) 
+Place 2: lichelmes80120 (340 en jetons) 
+Place 3: psychoman59 (930 en jetons) 
+Joker23T : met la petite blind. 10
+lichelmes80120 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 2d]
+psychoman59 : relance. 20 à 40
+Joker23T : passe. 
+lichelmes80120 : relance. 300 à 340 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à lichelmes80120.
+lichelmes80120 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Siège 1 : Joker23T (petite blind) s'est couché. avant Flop
+Siège 2 : lichelmes80120 (grosse blind) a remporté (90)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261342557441 : Tournoi #4013694014, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/07/2026 9:52:51 CET [05/07/2026 3:52:51 ET]
+Table '4013694014 1' 3-max Siège #1 est au bouton.
+Place 1: Joker23T (220 en jetons) 
+Place 2: lichelmes80120 (390 en jetons) 
+Place 3: psychoman59 (890 en jetons) 
+lichelmes80120 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Tc]
+Joker23T : passe. 
+lichelmes80120 : relance. 370 à 390 et est all-in.
+psychoman59 : suit. 370
+*** FLOP *** [Js 9h Qs]
+*** TOURNANT *** [Js 9h Qs] [4c]
+*** RIVIÈRE *** [Js 9h Qs 4c] [4s]
+*** ABATTAGE ***
+lichelmes80120 : montre [2c 2s] (double paire, Quatre et Deux)
+psychoman59 : montre [Kc Tc] (une suite, Neuf à Roi)
+psychoman59 a remporté 780  lors du pot .
+lichelmes80120 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 780 | Commission 0 
+Tableau [Js 9h Qs 4c 4s]
+Siège 1 : Joker23T (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : lichelmes80120 (petite blind) a montré [2c 2s] et a perdu avec double paire, Quatre et Deux
+Siège 3 : psychoman59 (grosse blind) a montré [Kc Tc] et a gagné (780) avec une suite, Neuf à Roi
+
+
+
+Main PokerStars n°261342559024 : Tournoi #4013694014, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/07/2026 9:53:16 CET [05/07/2026 3:53:16 ET]
+Table '4013694014 1' 3-max Siège #3 est au bouton.
+Place 1: Joker23T (220 en jetons) 
+Place 3: psychoman59 (1280 en jetons) 
+psychoman59 : met la petite blind. 10
+Joker23T : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 6h]
+psychoman59 : relance. 1260 à 1280 et est all-in.
+Joker23T : passe. 
+Personne n'a suivi. (1260) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Joker23T (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°261342560029 : Tournoi #4013694014, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/07/2026 9:53:32 CET [05/07/2026 3:53:32 ET]
+Table '4013694014 1' 3-max Siège #1 est au bouton.
+Place 1: Joker23T (200 en jetons) 
+Place 3: psychoman59 (1300 en jetons) 
+Joker23T : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 9d]
+Joker23T : suit. 10
+psychoman59 : parole 
+*** FLOP *** [2s 4h 3d]
+psychoman59 : parole 
+Joker23T : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Joker23T.
+Joker23T a remporté 40  lors du pot .
+Joker23T : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [2s 4h 3d]
+Siège 1 : Joker23T (bouton) (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261342562439 : Tournoi #4013694014, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 05/07/2026 9:54:11 CET [05/07/2026 3:54:11 ET]
+Table '4013694014 1' 3-max Siège #3 est au bouton.
+Place 1: Joker23T (220 en jetons) 
+Place 3: psychoman59 (1280 en jetons) 
+psychoman59 : met la petite blind. 15
+Joker23T : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 8s]
+psychoman59 : suit. 15
+Joker23T : relance. 190 à 220 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (190) sont retournés à Joker23T.
+Joker23T a remporté 60  lors du pot .
+Joker23T : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Joker23T (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261342563469 : Tournoi #4013694014, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 05/07/2026 9:54:29 CET [05/07/2026 3:54:29 ET]
+Table '4013694014 1' 3-max Siège #1 est au bouton.
+Place 1: Joker23T (250 en jetons) 
+Place 3: psychoman59 (1250 en jetons) 
+Joker23T : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 6h]
+Joker23T : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Qs 5c 2d]
+psychoman59 : parole 
+Joker23T : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Joker23T.
+Joker23T a remporté 60  lors du pot .
+Joker23T : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Qs 5c 2d]
+Siège 1 : Joker23T (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261342565016 : Tournoi #4013694014, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 05/07/2026 9:54:53 CET [05/07/2026 3:54:53 ET]
+Table '4013694014 1' 3-max Siège #3 est au bouton.
+Place 1: Joker23T (280 en jetons) 
+Place 3: psychoman59 (1220 en jetons) 
+psychoman59 : met la petite blind. 15
+Joker23T : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Kc]
+psychoman59 : suit. 15
+Joker23T : parole 
+*** FLOP *** [Ts Js 9h]
+Joker23T : parole 
+psychoman59 : mise. 1190 et est all-in.
+Joker23T : passe. 
+Personne n'a suivi. (1190) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ts Js 9h]
+Siège 1 : Joker23T (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°261342567125 : Tournoi #4013694014, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 05/07/2026 9:55:32 CET [05/07/2026 3:55:32 ET]
+Table '4013694014 1' 3-max Siège #1 est au bouton.
+Place 1: Joker23T (250 en jetons) 
+Place 3: psychoman59 (1250 en jetons) 
+Joker23T : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 5s]
+Joker23T : suit. 15
+psychoman59 : parole 
+*** FLOP *** [3d 4c 6c]
+psychoman59 : parole 
+Joker23T : parole 
+*** TOURNANT *** [3d 4c 6c] [7c]
+psychoman59 : mise. 60
+Joker23T : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [3d 4c 6c 7c]
+Siège 1 : Joker23T (bouton) (petite blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°261342569239 : Tournoi #4013694014, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 05/07/2026 9:56:15 CET [05/07/2026 3:56:15 ET]
+Table '4013694014 1' 3-max Siège #3 est au bouton.
+Place 1: Joker23T (220 en jetons) 
+Place 3: psychoman59 (1280 en jetons) 
+psychoman59 : met la petite blind. 15
+Joker23T : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 7s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à Joker23T.
+Joker23T a remporté 30  lors du pot .
+Joker23T : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : Joker23T (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261342569560 : Tournoi #4013694014, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 05/07/2026 9:56:21 CET [05/07/2026 3:56:21 ET]
+Table '4013694014 1' 3-max Siège #1 est au bouton.
+Place 1: Joker23T (235 en jetons) 
+Place 3: psychoman59 (1265 en jetons) 
+Joker23T : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 2d]
+Joker23T : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Qc Ah Td]
+psychoman59 : parole 
+Joker23T : parole 
+*** TOURNANT *** [Qc Ah Td] [5d]
+psychoman59 : mise. 1235 et est all-in.
+Joker23T : passe. 
+Personne n'a suivi. (1235) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Qc Ah Td 5d]
+Siège 1 : Joker23T (bouton) (petite blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°261342571849 : Tournoi #4013694014, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 05/07/2026 9:57:06 CET [05/07/2026 3:57:06 ET]
+Table '4013694014 1' 3-max Siège #3 est au bouton.
+Place 1: Joker23T (205 en jetons) 
+Place 3: psychoman59 (1295 en jetons) 
+psychoman59 : met la petite blind. 20
+Joker23T : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 5s]
+psychoman59 : suit. 20
+Joker23T : parole 
+*** FLOP *** [4d Qh 4s]
+Joker23T : parole 
+psychoman59 : parole 
+*** TOURNANT *** [4d Qh 4s] [Qd]
+Joker23T : mise. 40
+psychoman59 : suit. 40
+*** RIVIÈRE *** [4d Qh 4s Qd] [9s]
+Joker23T : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Joker23T : montre [9c 8c] (double paire, Dames et Neuf)
+psychoman59 : cache la main perdante. 
+Joker23T a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [4d Qh 4s Qd 9s]
+Siège 1 : Joker23T (grosse blind) a montré [9c 8c] et a gagné (160) avec double paire, Dames et Neuf
+Siège 3 : psychoman59 (bouton) (petite blind) a caché la main perdante. [Kc 5s]
+
+
+
+Main PokerStars n°261342574204 : Tournoi #4013694014, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 05/07/2026 9:57:52 CET [05/07/2026 3:57:52 ET]
+Table '4013694014 1' 3-max Siège #1 est au bouton.
+Place 1: Joker23T (285 en jetons) 
+Place 3: psychoman59 (1215 en jetons) 
+Joker23T : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Jh]
+Joker23T : suit. 20
+psychoman59 : parole 
+*** FLOP *** [7h Ks 8s]
+psychoman59 : parole 
+Joker23T : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [7h Ks 8s] [Qh]
+psychoman59 : parole 
+Joker23T : parole 
+*** RIVIÈRE *** [7h Ks 8s Qh] [7d]
+psychoman59 : mise. 160
+Joker23T : passe. 
+Personne n'a suivi. (160) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [7h Ks 8s Qh 7d]
+Siège 1 : Joker23T (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) a remporté (160)
+
+
+
+Main PokerStars n°261342576651 : Tournoi #4013694014, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 05/07/2026 9:58:41 CET [05/07/2026 3:58:41 ET]
+Table '4013694014 1' 3-max Siège #3 est au bouton.
+Place 1: Joker23T (205 en jetons) 
+Place 3: psychoman59 (1295 en jetons) 
+psychoman59 : met la petite blind. 20
+Joker23T : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 4h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Joker23T.
+Joker23T a remporté 40  lors du pot .
+Joker23T : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Joker23T (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261342576932 : Tournoi #4013694014, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 05/07/2026 9:58:46 CET [05/07/2026 3:58:46 ET]
+Table '4013694014 1' 3-max Siège #1 est au bouton.
+Place 1: Joker23T (225 en jetons) 
+Place 3: psychoman59 (1275 en jetons) 
+Joker23T : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Ac]
+Joker23T : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Joker23T (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°261342577399 : Tournoi #4013694014, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 05/07/2026 9:58:55 CET [05/07/2026 3:58:55 ET]
+Table '4013694014 1' 3-max Siège #3 est au bouton.
+Place 1: Joker23T (205 en jetons) 
+Place 3: psychoman59 (1295 en jetons) 
+psychoman59 : met la petite blind. 20
+Joker23T : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 9d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Joker23T.
+Joker23T a remporté 40  lors du pot .
+Joker23T : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Joker23T (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261342577720 : Tournoi #4013694014, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 05/07/2026 9:59:02 CET [05/07/2026 3:59:02 ET]
+Table '4013694014 1' 3-max Siège #1 est au bouton.
+Place 1: Joker23T (225 en jetons) 
+Place 3: psychoman59 (1275 en jetons) 
+Joker23T : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Kh]
+Joker23T : relance. 185 à 225 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (185) sont retournés à Joker23T.
+Joker23T a remporté 80  lors du pot .
+Joker23T : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : Joker23T (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261342578357 : Tournoi #4013694014, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 05/07/2026 9:59:14 CET [05/07/2026 3:59:14 ET]
+Table '4013694014 1' 3-max Siège #3 est au bouton.
+Place 1: Joker23T (265 en jetons) 
+Place 3: psychoman59 (1235 en jetons) 
+psychoman59 : met la petite blind. 20
+Joker23T : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 5h]
+psychoman59 : relance. 1195 à 1235 et est all-in.
+Joker23T : passe. 
+Personne n'a suivi. (1195) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : Joker23T (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°261342578959 : Tournoi #4013694014, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 05/07/2026 9:59:26 CET [05/07/2026 3:59:26 ET]
+Table '4013694014 1' 3-max Siège #1 est au bouton.
+Place 1: Joker23T (225 en jetons) 
+Place 3: psychoman59 (1275 en jetons) 
+Joker23T : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 6c]
+Joker23T : relance. 185 à 225 et est all-in.
+psychoman59 : suit. 185
+*** FLOP *** [Td 4h 3c]
+*** TOURNANT *** [Td 4h 3c] [Kc]
+*** RIVIÈRE *** [Td 4h 3c Kc] [6d]
+*** ABATTAGE ***
+psychoman59 : montre [Ac 6c] (une paire de Six)
+Joker23T : montre [8d Jc] (Hauteur Roi)
+psychoman59 a remporté 450  lors du pot .
+Joker23T a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Tableau [Td 4h 3c Kc 6d]
+Siège 1 : Joker23T (bouton) (petite blind) a montré [8d Jc] et a perdu avec Hauteur Roi
+Siège 3 : psychoman59 (grosse blind) a montré [Ac 6c] et a gagné (450) avec une paire de Six
+
+
+

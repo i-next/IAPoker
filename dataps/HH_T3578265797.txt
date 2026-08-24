@@ -1,0 +1,83 @@
+﻿Main PokerStars n°243122928113 : Tournoi #3578265797, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/04/2023 10:51:36 CET [16/04/2023 4:51:36 ET]
+Table '3578265797 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Maxss78000 (300 en jetons) 
+Place 3: 66scorpion83 (300 en jetons) 
+Maxss78000 : met la petite blind. 10
+66scorpion83 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 2c]
+psychoman59 : passe. 
+Maxss78000 : relance. 40 à 60
+66scorpion83 : passe. 
+Personne n'a suivi. (40) sont retournés à Maxss78000.
+Maxss78000 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Maxss78000 (petite blind) a remporté (40)
+Siège 3 : 66scorpion83 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243122929696 : Tournoi #3578265797, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/04/2023 10:51:46 CET [16/04/2023 4:51:46 ET]
+Table '3578265797 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Maxss78000 (320 en jetons) 
+Place 3: 66scorpion83 (280 en jetons) 
+66scorpion83 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Ts]
+Maxss78000 : relance. 50 à 70
+66scorpion83 : passe. 
+psychoman59 : relance. 230 à 300 et est all-in.
+Maxss78000 : suit. 230
+*** FLOP *** [3c 9d 8h]
+*** TOURNANT *** [3c 9d 8h] [3s]
+*** RIVIÈRE *** [3c 9d 8h 3s] [4c]
+*** ABATTAGE ***
+psychoman59 : montre [Tc Ts] (double paire, Dix et Trois)
+Maxss78000 : montre [Ad 5c] (une paire de Trois)
+psychoman59 a remporté 610  lors du pot .
+*** SYNTHÈSE ***
+Pot total 610 | Commission 0 
+Tableau [3c 9d 8h 3s 4c]
+Siège 1 : psychoman59 (grosse blind) a montré [Tc Ts] et a gagné (610) avec double paire, Dix et Trois
+Siège 2 : Maxss78000 (bouton) a montré [Ad 5c] et a perdu avec une paire de Trois
+Siège 3 : 66scorpion83 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243122932297 : Tournoi #3578265797, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/04/2023 10:52:03 CET [16/04/2023 4:52:03 ET]
+Table '3578265797 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (610 en jetons) 
+Place 2: Maxss78000 (20 en jetons) 
+Place 3: 66scorpion83 (270 en jetons) 
+psychoman59 : met la petite blind. 10
+Maxss78000 : met la grosse blind. 20 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Ah]
+66scorpion83 : relance. 250 à 270 et est all-in.
+psychoman59 : suit. 260
+*** FLOP *** [7h Jh Js]
+*** TOURNANT *** [7h Jh Js] [2c]
+*** RIVIÈRE *** [7h Jh Js 2c] [5s]
+*** ABATTAGE ***
+psychoman59 : montre [5d Ah] (double paire, Valets et Cinq)
+66scorpion83 : montre [Kh Qc] (une paire de Valets)
+psychoman59 a remporté 500  parallèle lors du pot .
+Maxss78000 : montre [Th 6c] (une paire de Valets)
+psychoman59 a remporté 60  principal lors du pot .
+66scorpion83 a fini le tournoi en 2e position.
+Maxss78000 a fini le tournoi en 3e position.
+psychoman59 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 560 Principal pot 60. Parallèle pot 500. | Commission 0 
+Tableau [7h Jh Js 2c 5s]
+Siège 1 : psychoman59 (petite blind) a montré [5d Ah] et a gagné (560) avec double paire, Valets et Cinq
+Siège 2 : Maxss78000 (grosse blind) a montré [Th 6c] et a perdu avec une paire de Valets
+Siège 3 : 66scorpion83 (bouton) a montré [Kh Qc] et a perdu avec une paire de Valets
+
+
+

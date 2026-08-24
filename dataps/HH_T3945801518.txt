@@ -1,0 +1,990 @@
+﻿Main PokerStars n°258456299143 : Tournoi #3945801518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 10/11/2025 7:24:49 CET [10/11/2025 1:24:49 ET]
+Table '3945801518 1' 3-max Siège #1 est au bouton.
+Place 1: bonico712 (500 en jetons) 
+Place 2: barbaraulmann (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+barbaraulmann : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Kd]
+bonico712 : relance. 20 à 40
+barbaraulmann : suit. 30
+psychoman59 : suit. 20
+*** FLOP *** [5s Ad 8d]
+barbaraulmann : parole 
+psychoman59 : parole 
+bonico712 : mise. 20
+barbaraulmann : passe. 
+psychoman59 : suit. 20
+*** TOURNANT *** [5s Ad 8d] [7d]
+psychoman59 : parole 
+bonico712 : mise. 440 et est all-in.
+psychoman59 : suit. 440 et est all-in.
+*** RIVIÈRE *** [5s Ad 8d 7d] [3h]
+*** ABATTAGE ***
+psychoman59 : montre [6s Kd] (Hauteur As)
+bonico712 : montre [Th Qd] (Hauteur As - plus basse kicker)
+psychoman59 a remporté 1040  lors du pot .
+bonico712 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 1040 | Commission 0 
+Tableau [5s Ad 8d 7d 3h]
+Siège 1 : bonico712 (bouton) a montré [Th Qd] et a perdu avec Hauteur As
+Siège 2 : barbaraulmann (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a montré [6s Kd] et a gagné (1040) avec Hauteur As
+
+
+
+Main PokerStars n°258456301129 : Tournoi #3945801518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 10/11/2025 7:25:28 CET [10/11/2025 1:25:28 ET]
+Table '3945801518 1' 3-max Siège #3 est au bouton.
+Place 2: barbaraulmann (460 en jetons) 
+Place 3: psychoman59 (1040 en jetons) 
+psychoman59 : met la petite blind. 10
+barbaraulmann : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 7d]
+psychoman59 : suit. 10
+barbaraulmann : parole 
+*** FLOP *** [6h Th 4c]
+barbaraulmann : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6h Th 4c] [Ah]
+barbaraulmann : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [6h Th 4c Ah] [Jd]
+barbaraulmann : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à barbaraulmann.
+barbaraulmann a remporté 80  lors du pot .
+barbaraulmann : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [6h Th 4c Ah Jd]
+Siège 2 : barbaraulmann (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°258456302364 : Tournoi #3945801518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 10/11/2025 7:25:52 CET [10/11/2025 1:25:52 ET]
+Table '3945801518 1' 3-max Siège #2 est au bouton.
+Place 2: barbaraulmann (500 en jetons) 
+Place 3: psychoman59 (1000 en jetons) 
+barbaraulmann : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Ad]
+barbaraulmann : suit. 10
+psychoman59 : relance. 980 à 1000 et est all-in.
+barbaraulmann : suit. 480 et est all-in.
+Personne n'a suivi. (500) sont retournés à psychoman59.
+*** FLOP *** [3c 3d Tc]
+*** TOURNANT *** [3c 3d Tc] [Jh]
+*** RIVIÈRE *** [3c 3d Tc Jh] [6c]
+*** ABATTAGE ***
+psychoman59 : montre [4d Ad] (une paire de Trois)
+barbaraulmann : montre [2d 2s] (double paire, Trois et Deux)
+barbaraulmann a remporté 1000  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1000 | Commission 0 
+Tableau [3c 3d Tc Jh 6c]
+Siège 2 : barbaraulmann (bouton) (petite blind) a montré [2d 2s] et a gagné (1000) avec double paire, Trois et Deux
+Siège 3 : psychoman59 (grosse blind) a montré [4d Ad] et a perdu avec une paire de Trois
+
+
+
+Main PokerStars n°258456303252 : Tournoi #3945801518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 10/11/2025 7:26:09 CET [10/11/2025 1:26:09 ET]
+Table '3945801518 1' 3-max Siège #3 est au bouton.
+Place 2: barbaraulmann (1000 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+barbaraulmann : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 3h]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à barbaraulmann.
+barbaraulmann a remporté 20  lors du pot .
+barbaraulmann : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 2 : barbaraulmann (grosse blind) a remporté (20)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258456303553 : Tournoi #3945801518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 10/11/2025 7:26:15 CET [10/11/2025 1:26:15 ET]
+Table '3945801518 1' 3-max Siège #2 est au bouton.
+Place 2: barbaraulmann (1010 en jetons) 
+Place 3: psychoman59 (490 en jetons) 
+barbaraulmann : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c As]
+barbaraulmann : suit. 10
+psychoman59 : relance. 470 à 490 et est all-in.
+barbaraulmann : passe. 
+Personne n'a suivi. (470) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : barbaraulmann (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°258456304593 : Tournoi #3945801518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 10/11/2025 7:26:35 CET [10/11/2025 1:26:35 ET]
+Table '3945801518 1' 3-max Siège #3 est au bouton.
+Place 2: barbaraulmann (990 en jetons) 
+Place 3: psychoman59 (510 en jetons) 
+psychoman59 : met la petite blind. 10
+barbaraulmann : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 6s]
+psychoman59 : relance. 490 à 510 et est all-in.
+barbaraulmann : suit. 490
+*** FLOP *** [5d Th Ad]
+*** TOURNANT *** [5d Th Ad] [3h]
+*** RIVIÈRE *** [5d Th Ad 3h] [Ah]
+*** ABATTAGE ***
+barbaraulmann : montre [8s Qh] (une paire de As)
+psychoman59 : montre [6h 6s] (double paire, As et Six)
+psychoman59 a remporté 1020  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1020 | Commission 0 
+Tableau [5d Th Ad 3h Ah]
+Siège 2 : barbaraulmann (grosse blind) a montré [8s Qh] et a perdu avec une paire de As
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [6h 6s] et a gagné (1020) avec double paire, As et Six
+
+
+
+Main PokerStars n°258456305679 : Tournoi #3945801518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 10/11/2025 7:26:55 CET [10/11/2025 1:26:55 ET]
+Table '3945801518 1' 3-max Siège #2 est au bouton.
+Place 2: barbaraulmann (480 en jetons) 
+Place 3: psychoman59 (1020 en jetons) 
+barbaraulmann : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 9c]
+barbaraulmann : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : barbaraulmann (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°258456305997 : Tournoi #3945801518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 10/11/2025 7:27:01 CET [10/11/2025 1:27:01 ET]
+Table '3945801518 1' 3-max Siège #3 est au bouton.
+Place 2: barbaraulmann (465 en jetons) 
+Place 3: psychoman59 (1035 en jetons) 
+psychoman59 : met la petite blind. 15
+barbaraulmann : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 2d]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à barbaraulmann.
+barbaraulmann a remporté 30  lors du pot .
+barbaraulmann : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : barbaraulmann (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258456306214 : Tournoi #3945801518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 10/11/2025 7:27:05 CET [10/11/2025 1:27:05 ET]
+Table '3945801518 1' 3-max Siège #2 est au bouton.
+Place 2: barbaraulmann (480 en jetons) 
+Place 3: psychoman59 (1020 en jetons) 
+barbaraulmann : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 9s]
+barbaraulmann : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à barbaraulmann.
+barbaraulmann a remporté 60  lors du pot .
+barbaraulmann : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : barbaraulmann (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258456306590 : Tournoi #3945801518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 10/11/2025 7:27:12 CET [10/11/2025 1:27:12 ET]
+Table '3945801518 1' 3-max Siège #3 est au bouton.
+Place 2: barbaraulmann (510 en jetons) 
+Place 3: psychoman59 (990 en jetons) 
+psychoman59 : met la petite blind. 15
+barbaraulmann : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 8s]
+psychoman59 : suit. 15
+barbaraulmann : parole 
+*** FLOP *** [3s 4s 3c]
+barbaraulmann : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3s 4s 3c] [8h]
+barbaraulmann : parole 
+psychoman59 : mise. 60
+barbaraulmann : suit. 60
+*** RIVIÈRE *** [3s 4s 3c 8h] [9c]
+barbaraulmann : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+barbaraulmann : montre [5s Js] (une paire de Trois)
+psychoman59 : montre [Kd 8s] (double paire, Huit et Trois)
+psychoman59 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [3s 4s 3c 8h 9c]
+Siège 2 : barbaraulmann (grosse blind) a montré [5s Js] et a perdu avec une paire de Trois
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Kd 8s] et a gagné (180) avec double paire, Huit et Trois
+
+
+
+Main PokerStars n°258456308181 : Tournoi #3945801518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 10/11/2025 7:27:43 CET [10/11/2025 1:27:43 ET]
+Table '3945801518 1' 3-max Siège #2 est au bouton.
+Place 2: barbaraulmann (420 en jetons) 
+Place 3: psychoman59 (1080 en jetons) 
+barbaraulmann : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 5h]
+barbaraulmann : suit. 15
+psychoman59 : parole 
+*** FLOP *** [6h Js Qs]
+psychoman59 : parole 
+barbaraulmann : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à barbaraulmann.
+barbaraulmann a remporté 60  lors du pot .
+barbaraulmann : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [6h Js Qs]
+Siège 2 : barbaraulmann (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°258456309243 : Tournoi #3945801518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 10/11/2025 7:28:03 CET [10/11/2025 1:28:03 ET]
+Table '3945801518 1' 3-max Siège #3 est au bouton.
+Place 2: barbaraulmann (450 en jetons) 
+Place 3: psychoman59 (1050 en jetons) 
+psychoman59 : met la petite blind. 15
+barbaraulmann : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 9c]
+psychoman59 : relance. 60 à 90
+barbaraulmann : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : barbaraulmann (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°258456309695 : Tournoi #3945801518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 10/11/2025 7:28:12 CET [10/11/2025 1:28:12 ET]
+Table '3945801518 1' 3-max Siège #2 est au bouton.
+Place 2: barbaraulmann (420 en jetons) 
+Place 3: psychoman59 (1080 en jetons) 
+barbaraulmann : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 9c]
+barbaraulmann : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : barbaraulmann (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°258456309939 : Tournoi #3945801518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 10/11/2025 7:28:17 CET [10/11/2025 1:28:17 ET]
+Table '3945801518 1' 3-max Siège #3 est au bouton.
+Place 2: barbaraulmann (405 en jetons) 
+Place 3: psychoman59 (1095 en jetons) 
+psychoman59 : met la petite blind. 15
+barbaraulmann : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 4c]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à barbaraulmann.
+barbaraulmann a remporté 30  lors du pot .
+barbaraulmann : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : barbaraulmann (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258456310240 : Tournoi #3945801518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 10/11/2025 7:28:22 CET [10/11/2025 1:28:22 ET]
+Table '3945801518 1' 3-max Siège #2 est au bouton.
+Place 2: barbaraulmann (420 en jetons) 
+Place 3: psychoman59 (1080 en jetons) 
+barbaraulmann : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Td]
+barbaraulmann : suit. 15
+psychoman59 : parole 
+*** FLOP *** [9h Tc Ac]
+psychoman59 : parole 
+barbaraulmann : parole 
+*** TOURNANT *** [9h Tc Ac] [Qc]
+psychoman59 : parole 
+barbaraulmann : parole 
+*** RIVIÈRE *** [9h Tc Ac Qc] [Ks]
+psychoman59 : parole 
+barbaraulmann : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à barbaraulmann.
+barbaraulmann a remporté 60  lors du pot .
+barbaraulmann : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [9h Tc Ac Qc Ks]
+Siège 2 : barbaraulmann (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°258456312265 : Tournoi #3945801518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 10/11/2025 7:29:01 CET [10/11/2025 1:29:01 ET]
+Table '3945801518 1' 3-max Siège #3 est au bouton.
+Place 2: barbaraulmann (450 en jetons) 
+Place 3: psychoman59 (1050 en jetons) 
+psychoman59 : met la petite blind. 20
+barbaraulmann : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Ks]
+psychoman59 : relance. 1010 à 1050 et est all-in.
+barbaraulmann : passe. 
+Personne n'a suivi. (1010) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : barbaraulmann (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°258456312732 : Tournoi #3945801518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 10/11/2025 7:29:10 CET [10/11/2025 1:29:10 ET]
+Table '3945801518 1' 3-max Siège #2 est au bouton.
+Place 2: barbaraulmann (410 en jetons) 
+Place 3: psychoman59 (1090 en jetons) 
+barbaraulmann : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 2s]
+barbaraulmann : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : barbaraulmann (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°258456313345 : Tournoi #3945801518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 10/11/2025 7:29:21 CET [10/11/2025 1:29:21 ET]
+Table '3945801518 1' 3-max Siège #3 est au bouton.
+Place 2: barbaraulmann (390 en jetons) 
+Place 3: psychoman59 (1110 en jetons) 
+psychoman59 : met la petite blind. 20
+barbaraulmann : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 5c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à barbaraulmann.
+barbaraulmann a remporté 40  lors du pot .
+barbaraulmann : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : barbaraulmann (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258456313697 : Tournoi #3945801518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 10/11/2025 7:29:28 CET [10/11/2025 1:29:28 ET]
+Table '3945801518 1' 3-max Siège #2 est au bouton.
+Place 2: barbaraulmann (410 en jetons) 
+Place 3: psychoman59 (1090 en jetons) 
+barbaraulmann : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 4h]
+barbaraulmann : relance. 40 à 80
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à barbaraulmann.
+barbaraulmann a remporté 80  lors du pot .
+barbaraulmann : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : barbaraulmann (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258456314193 : Tournoi #3945801518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 10/11/2025 7:29:38 CET [10/11/2025 1:29:38 ET]
+Table '3945801518 1' 3-max Siège #3 est au bouton.
+Place 2: barbaraulmann (450 en jetons) 
+Place 3: psychoman59 (1050 en jetons) 
+psychoman59 : met la petite blind. 20
+barbaraulmann : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 6h]
+psychoman59 : suit. 20
+barbaraulmann : parole 
+*** FLOP *** [9d 5h Qd]
+barbaraulmann : parole 
+psychoman59 : mise. 80
+barbaraulmann : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [9d 5h Qd]
+Siège 2 : barbaraulmann (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°258456315152 : Tournoi #3945801518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 10/11/2025 7:29:56 CET [10/11/2025 1:29:56 ET]
+Table '3945801518 1' 3-max Siège #2 est au bouton.
+Place 2: barbaraulmann (410 en jetons) 
+Place 3: psychoman59 (1090 en jetons) 
+barbaraulmann : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 2s]
+barbaraulmann : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : barbaraulmann (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°258456315397 : Tournoi #3945801518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 10/11/2025 7:30:00 CET [10/11/2025 1:30:00 ET]
+Table '3945801518 1' 3-max Siège #3 est au bouton.
+Place 2: barbaraulmann (390 en jetons) 
+Place 3: psychoman59 (1110 en jetons) 
+psychoman59 : met la petite blind. 20
+barbaraulmann : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Td]
+psychoman59 : suit. 20
+barbaraulmann : parole 
+*** FLOP *** [3h Jd 3d]
+barbaraulmann : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à barbaraulmann.
+barbaraulmann a remporté 80  lors du pot .
+barbaraulmann : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [3h Jd 3d]
+Siège 2 : barbaraulmann (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°258456316446 : Tournoi #3945801518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 10/11/2025 7:30:20 CET [10/11/2025 1:30:20 ET]
+Table '3945801518 1' 3-max Siège #2 est au bouton.
+Place 2: barbaraulmann (430 en jetons) 
+Place 3: psychoman59 (1070 en jetons) 
+barbaraulmann : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 2s]
+barbaraulmann est déconnecté 
+barbaraulmann est connecté 
+barbaraulmann : relance. 40 à 80
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à barbaraulmann.
+barbaraulmann a remporté 80  lors du pot .
+barbaraulmann : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : barbaraulmann (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258456317124 : Tournoi #3945801518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 10/11/2025 7:30:33 CET [10/11/2025 1:30:33 ET]
+Table '3945801518 1' 3-max Siège #3 est au bouton.
+Place 2: barbaraulmann (470 en jetons) 
+Place 3: psychoman59 (1030 en jetons) 
+psychoman59 : met la petite blind. 20
+barbaraulmann : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Kd]
+psychoman59 : relance. 80 à 120
+barbaraulmann : suit. 80
+*** FLOP *** [4h 9d 8s]
+barbaraulmann : parole 
+psychoman59 : mise. 120
+barbaraulmann : relance. 230 à 350 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (230) sont retournés à barbaraulmann.
+barbaraulmann a remporté 480  lors du pot .
+barbaraulmann : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [4h 9d 8s]
+Siège 2 : barbaraulmann (grosse blind) a remporté (480)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°258456319133 : Tournoi #3945801518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 10/11/2025 7:31:11 CET [10/11/2025 1:31:11 ET]
+Table '3945801518 1' 3-max Siège #2 est au bouton.
+Place 2: barbaraulmann (710 en jetons) 
+Place 3: psychoman59 (790 en jetons) 
+barbaraulmann : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 2d]
+barbaraulmann : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : barbaraulmann (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°258456319442 : Tournoi #3945801518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 10/11/2025 7:31:17 CET [10/11/2025 1:31:17 ET]
+Table '3945801518 1' 3-max Siège #3 est au bouton.
+Place 2: barbaraulmann (680 en jetons) 
+Place 3: psychoman59 (820 en jetons) 
+psychoman59 : met la petite blind. 30
+barbaraulmann : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Qs]
+psychoman59 : suit. 30
+barbaraulmann : parole 
+*** FLOP *** [8c Jh 6h]
+barbaraulmann : parole 
+psychoman59 : parole 
+*** TOURNANT *** [8c Jh 6h] [3c]
+barbaraulmann : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [8c Jh 6h 3c] [Jc]
+barbaraulmann : parole 
+psychoman59 : mise. 120
+barbaraulmann : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [8c Jh 6h 3c Jc]
+Siège 2 : barbaraulmann (grosse blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°258456321130 : Tournoi #3945801518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 10/11/2025 7:31:47 CET [10/11/2025 1:31:47 ET]
+Table '3945801518 1' 3-max Siège #2 est au bouton.
+Place 2: barbaraulmann (620 en jetons) 
+Place 3: psychoman59 (880 en jetons) 
+barbaraulmann : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Jd]
+barbaraulmann : suit. 30
+psychoman59 : parole 
+*** FLOP *** [5s Qs 7s]
+psychoman59 : parole 
+barbaraulmann : mise. 120
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à barbaraulmann.
+barbaraulmann a remporté 120  lors du pot .
+barbaraulmann : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [5s Qs 7s]
+Siège 2 : barbaraulmann (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°258456322354 : Tournoi #3945801518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 10/11/2025 7:32:10 CET [10/11/2025 1:32:10 ET]
+Table '3945801518 1' 3-max Siège #3 est au bouton.
+Place 2: barbaraulmann (680 en jetons) 
+Place 3: psychoman59 (820 en jetons) 
+psychoman59 : met la petite blind. 30
+barbaraulmann : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Jc]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à barbaraulmann.
+barbaraulmann a remporté 60  lors du pot .
+barbaraulmann : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : barbaraulmann (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258456322733 : Tournoi #3945801518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 10/11/2025 7:32:17 CET [10/11/2025 1:32:17 ET]
+Table '3945801518 1' 3-max Siège #2 est au bouton.
+Place 2: barbaraulmann (710 en jetons) 
+Place 3: psychoman59 (790 en jetons) 
+barbaraulmann : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 5d]
+barbaraulmann : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : barbaraulmann (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°258456323071 : Tournoi #3945801518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 10/11/2025 7:32:24 CET [10/11/2025 1:32:24 ET]
+Table '3945801518 1' 3-max Siège #3 est au bouton.
+Place 2: barbaraulmann (680 en jetons) 
+Place 3: psychoman59 (820 en jetons) 
+psychoman59 : met la petite blind. 30
+barbaraulmann : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 6d]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à barbaraulmann.
+barbaraulmann a remporté 60  lors du pot .
+barbaraulmann : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : barbaraulmann (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258456323438 : Tournoi #3945801518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 10/11/2025 7:32:30 CET [10/11/2025 1:32:30 ET]
+Table '3945801518 1' 3-max Siège #2 est au bouton.
+Place 2: barbaraulmann (710 en jetons) 
+Place 3: psychoman59 (790 en jetons) 
+barbaraulmann : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 2c]
+barbaraulmann : suit. 30
+psychoman59 : relance. 730 à 790 et est all-in.
+barbaraulmann : passe. 
+Personne n'a suivi. (730) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : barbaraulmann (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°258456324045 : Tournoi #3945801518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 10/11/2025 7:32:42 CET [10/11/2025 1:32:42 ET]
+Table '3945801518 1' 3-max Siège #3 est au bouton.
+Place 2: barbaraulmann (650 en jetons) 
+Place 3: psychoman59 (850 en jetons) 
+psychoman59 : met la petite blind. 30
+barbaraulmann : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 7d]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à barbaraulmann.
+barbaraulmann a remporté 60  lors du pot .
+barbaraulmann : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : barbaraulmann (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258456324447 : Tournoi #3945801518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 10/11/2025 7:32:49 CET [10/11/2025 1:32:49 ET]
+Table '3945801518 1' 3-max Siège #2 est au bouton.
+Place 2: barbaraulmann (680 en jetons) 
+Place 3: psychoman59 (820 en jetons) 
+barbaraulmann : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Ts]
+barbaraulmann : suit. 30
+psychoman59 : parole 
+*** FLOP *** [5s 3h 6s]
+psychoman59 : mise. 760 et est all-in.
+barbaraulmann : passe. 
+Personne n'a suivi. (760) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [5s 3h 6s]
+Siège 2 : barbaraulmann (bouton) (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°258456325424 : Tournoi #3945801518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 10/11/2025 7:33:07 CET [10/11/2025 1:33:07 ET]
+Table '3945801518 1' 3-max Siège #3 est au bouton.
+Place 2: barbaraulmann (620 en jetons) 
+Place 3: psychoman59 (880 en jetons) 
+psychoman59 : met la petite blind. 40
+barbaraulmann : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 8s]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à barbaraulmann.
+barbaraulmann a remporté 80  lors du pot .
+barbaraulmann : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : barbaraulmann (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258456325656 : Tournoi #3945801518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 10/11/2025 7:33:12 CET [10/11/2025 1:33:12 ET]
+Table '3945801518 1' 3-max Siège #2 est au bouton.
+Place 2: barbaraulmann (660 en jetons) 
+Place 3: psychoman59 (840 en jetons) 
+barbaraulmann : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 3c]
+barbaraulmann : suit. 40
+psychoman59 : parole 
+*** FLOP *** [7h 2h 9c]
+psychoman59 : parole 
+barbaraulmann : parole 
+*** TOURNANT *** [7h 2h 9c] [Th]
+psychoman59 : parole 
+barbaraulmann : parole 
+*** RIVIÈRE *** [7h 2h 9c Th] [7c]
+psychoman59 : parole 
+barbaraulmann : parole 
+*** ABATTAGE ***
+psychoman59 : montre [4s 3c] (une paire de Sept)
+barbaraulmann : montre [Jd 4h] (une paire de Sept - Valet kicker)
+barbaraulmann a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [7h 2h 9c Th 7c]
+Siège 2 : barbaraulmann (bouton) (petite blind) a montré [Jd 4h] et a gagné (160) avec une paire de Sept
+Siège 3 : psychoman59 (grosse blind) a montré [4s 3c] et a perdu avec une paire de Sept
+
+
+
+Main PokerStars n°258456327340 : Tournoi #3945801518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 10/11/2025 7:33:43 CET [10/11/2025 1:33:43 ET]
+Table '3945801518 1' 3-max Siège #3 est au bouton.
+Place 2: barbaraulmann (740 en jetons) 
+Place 3: psychoman59 (760 en jetons) 
+psychoman59 : met la petite blind. 40
+barbaraulmann : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Js]
+psychoman59 : suit. 40
+barbaraulmann : parole 
+*** FLOP *** [Ah Qc Ad]
+barbaraulmann : parole 
+psychoman59 : mise. 160
+barbaraulmann : relance. 160 à 320
+psychoman59 : passe. 
+Personne n'a suivi. (160) sont retournés à barbaraulmann.
+barbaraulmann a remporté 480  lors du pot .
+barbaraulmann : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [Ah Qc Ad]
+Siège 2 : barbaraulmann (grosse blind) a remporté (480)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°258456328574 : Tournoi #3945801518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 10/11/2025 7:34:07 CET [10/11/2025 1:34:07 ET]
+Table '3945801518 1' 3-max Siège #2 est au bouton.
+Place 2: barbaraulmann (980 en jetons) 
+Place 3: psychoman59 (520 en jetons) 
+barbaraulmann : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Qh]
+barbaraulmann : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : barbaraulmann (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°258456328926 : Tournoi #3945801518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 10/11/2025 7:34:14 CET [10/11/2025 1:34:14 ET]
+Table '3945801518 1' 3-max Siège #3 est au bouton.
+Place 2: barbaraulmann (940 en jetons) 
+Place 3: psychoman59 (560 en jetons) 
+psychoman59 : met la petite blind. 40
+barbaraulmann : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 2c]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à barbaraulmann.
+barbaraulmann a remporté 80  lors du pot .
+barbaraulmann : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : barbaraulmann (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258456329397 : Tournoi #3945801518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 10/11/2025 7:34:24 CET [10/11/2025 1:34:24 ET]
+Table '3945801518 1' 3-max Siège #2 est au bouton.
+Place 2: barbaraulmann (980 en jetons) 
+Place 3: psychoman59 (520 en jetons) 
+barbaraulmann : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Qc]
+barbaraulmann : suit. 40
+psychoman59 : parole 
+*** FLOP *** [Qs 4s Jh]
+psychoman59 : mise. 440 et est all-in.
+barbaraulmann : suit. 440
+*** TOURNANT *** [Qs 4s Jh] [Ah]
+*** RIVIÈRE *** [Qs 4s Jh Ah] [4c]
+*** ABATTAGE ***
+psychoman59 : montre [Tc Qc] (double paire, Dames et Quatre)
+barbaraulmann : montre [Js Ks] (double paire, Valets et Quatre)
+psychoman59 a remporté 1040  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1040 | Commission 0 
+Tableau [Qs 4s Jh Ah 4c]
+Siège 2 : barbaraulmann (bouton) (petite blind) a montré [Js Ks] et a perdu avec double paire, Valets et Quatre
+Siège 3 : psychoman59 (grosse blind) a montré [Tc Qc] et a gagné (1040) avec double paire, Dames et Quatre
+
+
+
+Main PokerStars n°258456330544 : Tournoi #3945801518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 10/11/2025 7:34:45 CET [10/11/2025 1:34:45 ET]
+Table '3945801518 1' 3-max Siège #3 est au bouton.
+Place 2: barbaraulmann (460 en jetons) 
+Place 3: psychoman59 (1040 en jetons) 
+psychoman59 : met la petite blind. 40
+barbaraulmann : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 8s]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à barbaraulmann.
+barbaraulmann a remporté 80  lors du pot .
+barbaraulmann : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : barbaraulmann (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258456331000 : Tournoi #3945801518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (50/100) - 10/11/2025 7:34:54 CET [10/11/2025 1:34:54 ET]
+Table '3945801518 1' 3-max Siège #2 est au bouton.
+Place 2: barbaraulmann (500 en jetons) 
+Place 3: psychoman59 (1000 en jetons) 
+barbaraulmann : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 6d]
+barbaraulmann : suit. 50
+psychoman59 : parole 
+*** FLOP *** [Th Qd 3h]
+psychoman59 : parole 
+barbaraulmann : parole 
+*** TOURNANT *** [Th Qd 3h] [3d]
+psychoman59 : parole 
+barbaraulmann : mise. 200
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à barbaraulmann.
+barbaraulmann a remporté 200  lors du pot .
+barbaraulmann : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [Th Qd 3h 3d]
+Siège 2 : barbaraulmann (bouton) (petite blind) a remporté (200)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°258456332255 : Tournoi #3945801518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (50/100) - 10/11/2025 7:35:19 CET [10/11/2025 1:35:19 ET]
+Table '3945801518 1' 3-max Siège #3 est au bouton.
+Place 2: barbaraulmann (600 en jetons) 
+Place 3: psychoman59 (900 en jetons) 
+psychoman59 : met la petite blind. 50
+barbaraulmann : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 4c]
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à barbaraulmann.
+barbaraulmann a remporté 100  lors du pot .
+barbaraulmann : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 2 : barbaraulmann (grosse blind) a remporté (100)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258456332584 : Tournoi #3945801518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (50/100) - 10/11/2025 7:35:25 CET [10/11/2025 1:35:25 ET]
+Table '3945801518 1' 3-max Siège #2 est au bouton.
+Place 2: barbaraulmann (650 en jetons) 
+Place 3: psychoman59 (850 en jetons) 
+barbaraulmann : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 8s]
+barbaraulmann : suit. 50
+psychoman59 : relance. 750 à 850 et est all-in.
+barbaraulmann : suit. 550 et est all-in.
+Personne n'a suivi. (200) sont retournés à psychoman59.
+*** FLOP *** [8d Td 6s]
+*** TOURNANT *** [8d Td 6s] [7d]
+*** RIVIÈRE *** [8d Td 6s 7d] [Kh]
+*** ABATTAGE ***
+psychoman59 : montre [8c 8s] (un brelan de Huit)
+barbaraulmann : montre [2d Qh] (Hauteur Roi)
+psychoman59 a remporté 1300  lors du pot .
+barbaraulmann a fini le tournoi en 2e position.
+psychoman59 gagne le tournoi - félicitations !
+psychoman59 gagne un ticket " €1.50 Step 2 SnG Power Path ticket "
+*** SYNTHÈSE ***
+Pot total 1300 | Commission 0 
+Tableau [8d Td 6s 7d Kh]
+Siège 2 : barbaraulmann (bouton) (petite blind) a montré [2d Qh] et a perdu avec Hauteur Roi
+Siège 3 : psychoman59 (grosse blind) a montré [8c 8s] et a gagné (1300) avec un brelan de Huit
+
+
+

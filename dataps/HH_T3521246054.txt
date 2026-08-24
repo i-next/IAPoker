@@ -1,0 +1,158 @@
+﻿Main PokerStars n°240699061971 : Tournoi #3521246054, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/12/2022 11:27:47 CET [26/12/2022 5:27:47 ET]
+Table '3521246054 1' 3-max Siège #1 est au bouton.
+Place 1: jeff31000 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: chukchuk69 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+chukchuk69 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Ac]
+jeff31000 : relance. 20 à 40
+psychoman59 : relance. 260 à 300 et est all-in.
+chukchuk69 : passe. 
+jeff31000 : suit. 260 et est all-in.
+*** FLOP *** [9h 8d Qc]
+*** TOURNANT *** [9h 8d Qc] [5s]
+*** RIVIÈRE *** [9h 8d Qc 5s] [Qd]
+*** ABATTAGE ***
+psychoman59 : montre [Kh Ac] (une paire de Dames)
+jeff31000 : montre [Th 4d] (une paire de Dames - plus basse kicker)
+psychoman59 a remporté 620  lors du pot .
+jeff31000 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [9h 8d Qc 5s Qd]
+Siège 1 : jeff31000 (bouton) a montré [Th 4d] et a perdu avec une paire de Dames
+Siège 2 : psychoman59 (petite blind) a montré [Kh Ac] et a gagné (620) avec une paire de Dames
+Siège 3 : chukchuk69 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240699066402 : Tournoi #3521246054, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/12/2022 11:28:12 CET [26/12/2022 5:28:12 ET]
+Table '3521246054 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (620 en jetons) 
+Place 3: chukchuk69 (280 en jetons) 
+chukchuk69 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 3d]
+chukchuk69 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Td 3s 8h]
+psychoman59 : parole 
+chukchuk69 : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [Td 3s 8h] [2s]
+psychoman59 : parole 
+chukchuk69 : mise. 40
+psychoman59 : suit. 40
+*** RIVIÈRE *** [Td 3s 8h 2s] [7c]
+psychoman59 : parole 
+chukchuk69 : mise. 40
+psychoman59 : relance. 140 à 180
+chukchuk69 : suit. 140 et est all-in.
+*** ABATTAGE ***
+psychoman59 : montre [Ts 3d] (double paire, Dix et Trois)
+chukchuk69 : montre [Jd 9d] (une suite, Sept à Valet)
+chukchuk69 a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [Td 3s 8h 2s 7c]
+Siège 2 : psychoman59 (grosse blind) a montré [Ts 3d] et a perdu avec double paire, Dix et Trois
+Siège 3 : chukchuk69 (bouton) (petite blind) a montré [Jd 9d] et a gagné (560) avec une suite, Sept à Valet
+
+
+
+Main PokerStars n°240699074014 : Tournoi #3521246054, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 26/12/2022 11:28:56 CET [26/12/2022 5:28:56 ET]
+Table '3521246054 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (340 en jetons) 
+Place 3: chukchuk69 (560 en jetons) 
+psychoman59 : met la petite blind. 15
+chukchuk69 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 9s]
+psychoman59 : suit. 15
+chukchuk69 : relance. 60 à 90
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à chukchuk69.
+chukchuk69 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : chukchuk69 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°240699076161 : Tournoi #3521246054, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 26/12/2022 11:29:08 CET [26/12/2022 5:29:08 ET]
+Table '3521246054 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (310 en jetons) 
+Place 3: chukchuk69 (590 en jetons) 
+chukchuk69 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Qh]
+chukchuk69 : relance. 60 à 90
+psychoman59 : relance. 220 à 310 et est all-in.
+chukchuk69 : suit. 220
+*** FLOP *** [Tc 5d 2s]
+*** TOURNANT *** [Tc 5d 2s] [Jd]
+*** RIVIÈRE *** [Tc 5d 2s Jd] [9s]
+*** ABATTAGE ***
+psychoman59 : montre [Kh Qh] (une suite, Neuf à Roi)
+chukchuk69 : montre [Js Qs] (une paire de Valets)
+psychoman59 a remporté 620  lors du pot .
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [Tc 5d 2s Jd 9s]
+Siège 2 : psychoman59 (grosse blind) a montré [Kh Qh] et a gagné (620) avec une suite, Neuf à Roi
+Siège 3 : chukchuk69 (bouton) (petite blind) a montré [Js Qs] et a perdu avec une paire de Valets
+
+
+
+Main PokerStars n°240699079891 : Tournoi #3521246054, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 26/12/2022 11:29:29 CET [26/12/2022 5:29:29 ET]
+Table '3521246054 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (620 en jetons) 
+Place 3: chukchuk69 (280 en jetons) 
+psychoman59 : met la petite blind. 15
+chukchuk69 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 6s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à chukchuk69.
+chukchuk69 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : chukchuk69 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°240699081081 : Tournoi #3521246054, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 26/12/2022 11:29:36 CET [26/12/2022 5:29:36 ET]
+Table '3521246054 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (605 en jetons) 
+Place 3: chukchuk69 (295 en jetons) 
+chukchuk69 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 4d]
+chukchuk69 : relance. 30 à 60
+psychoman59 : relance. 545 à 605 et est all-in.
+chukchuk69 : suit. 235 et est all-in.
+Personne n'a suivi. (310) sont retournés à psychoman59.
+*** FLOP *** [8h 7s 4c]
+*** TOURNANT *** [8h 7s 4c] [Kd]
+*** RIVIÈRE *** [8h 7s 4c Kd] [8s]
+*** ABATTAGE ***
+psychoman59 : montre [Ad 4d] (double paire, Huit et Quatre)
+chukchuk69 : montre [Ah 2s] (une paire de Huit)
+psychoman59 a remporté 590  lors du pot .
+chukchuk69 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 590 | Commission 0 
+Tableau [8h 7s 4c Kd 8s]
+Siège 2 : psychoman59 (grosse blind) a montré [Ad 4d] et a gagné (590) avec double paire, Huit et Quatre
+Siège 3 : chukchuk69 (bouton) (petite blind) a montré [Ah 2s] et a perdu avec une paire de Huit
+
+
+

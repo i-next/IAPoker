@@ -1,0 +1,466 @@
+﻿Main PokerStars n°242091911701 : Tournoi #3553901618, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (15/30) - 26/02/2023 15:31:24 CET [26/02/2023 9:31:24 ET]
+Table '3553901618 1' 6-max Siège #1 est au bouton.
+Place 1: ilailachacha (1500 en jetons) 
+Place 2: HilariousPT (1500 en jetons) 
+Place 3: Brulo2213 (1500 en jetons) 
+Place 4: psychoman59 (1500 en jetons) 
+Place 5: tonecho88 (1500 en jetons) 
+Place 6: cefos21 (1500 en jetons) 
+HilariousPT : met la petite blind. 15
+Brulo2213 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Ah]
+psychoman59 : relance. 1470 à 1500 et est all-in.
+tonecho88 : passe. 
+cefos21 a dépassé le temps imparti.
+cefos21 : passe. 
+cefos21 ne joue pas.
+ilailachacha : passe. 
+HilariousPT : passe. 
+Brulo2213 : passe. 
+Personne n'a suivi. (1470) sont retournés à psychoman59.
+psychoman59 a remporté 75  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : ilailachacha (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : HilariousPT (petite blind) s'est couché. avant Flop
+Siège 3 : Brulo2213 (grosse blind) s'est couché. avant Flop
+Siège 4 : psychoman59 a remporté (75)
+Siège 5 : tonecho88 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : cefos21 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°242091919256 : Tournoi #3553901618, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (15/30) - 26/02/2023 15:31:50 CET [26/02/2023 9:31:50 ET]
+Table '3553901618 1' 6-max Siège #2 est au bouton.
+Place 1: ilailachacha (1500 en jetons) 
+Place 2: HilariousPT (1485 en jetons) 
+Place 3: Brulo2213 (1470 en jetons) 
+Place 4: psychoman59 (1545 en jetons) 
+Place 5: tonecho88 (1500 en jetons) 
+Place 6: cefos21 (1500 en jetons) ne joue pas.
+Brulo2213 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 2c]
+cefos21 est revenu.
+tonecho88 : suit. 30
+cefos21 : relance. 60 à 90
+ilailachacha : passe. 
+HilariousPT : passe. 
+Brulo2213 : passe. 
+psychoman59 : passe. 
+tonecho88 : suit. 60
+*** FLOP *** [5c 3d Ah]
+tonecho88 : parole 
+cefos21 : parole 
+*** TOURNANT *** [5c 3d Ah] [6s]
+tonecho88 : mise. 113
+cefos21 : passe. 
+Personne n'a suivi. (113) sont retournés à tonecho88.
+tonecho88 a remporté 225  lors du pot .
+*** SYNTHÈSE ***
+Pot total 225 | Commission 0 
+Tableau [5c 3d Ah 6s]
+Siège 1 : ilailachacha s'est couché. avant Flop (n'a pas misé)
+Siège 2 : HilariousPT (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Brulo2213 (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 5 : tonecho88 a remporté (225)
+Siège 6 : cefos21 s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°242091930797 : Tournoi #3553901618, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (15/30) - 26/02/2023 15:32:29 CET [26/02/2023 9:32:29 ET]
+Table '3553901618 1' 6-max Siège #3 est au bouton.
+Place 1: ilailachacha (1500 en jetons) 
+Place 2: HilariousPT (1485 en jetons) 
+Place 3: Brulo2213 (1455 en jetons) 
+Place 4: psychoman59 (1515 en jetons) 
+Place 5: tonecho88 (1635 en jetons) 
+Place 6: cefos21 (1410 en jetons) 
+psychoman59 : met la petite blind. 15
+tonecho88 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 6h]
+cefos21 : relance. 1380 à 1410 et est all-in.
+ilailachacha : passe. 
+HilariousPT : relance. 75 à 1485 et est all-in.
+Brulo2213 : passe. 
+psychoman59 : passe. 
+tonecho88 : passe. 
+Personne n'a suivi. (75) sont retournés à HilariousPT.
+*** FLOP *** [Qh 6c 9h]
+*** TOURNANT *** [Qh 6c 9h] [5h]
+*** RIVIÈRE *** [Qh 6c 9h 5h] [Qd]
+*** ABATTAGE ***
+cefos21 : montre [2h Ks] (une paire de Dames)
+HilariousPT : montre [Jd As] (une paire de Dames - As kicker)
+HilariousPT a remporté 2865  lors du pot .
+cefos21 a fini le tournoi en 6e position.
+*** SYNTHÈSE ***
+Pot total 2865 | Commission 0 
+Tableau [Qh 6c 9h 5h Qd]
+Siège 1 : ilailachacha s'est couché. avant Flop (n'a pas misé)
+Siège 2 : HilariousPT a montré [Jd As] et a gagné (2865) avec une paire de Dames
+Siège 3 : Brulo2213 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 5 : tonecho88 (grosse blind) s'est couché. avant Flop
+Siège 6 : cefos21 a montré [2h Ks] et a perdu avec une paire de Dames
+
+
+
+Main PokerStars n°242091937712 : Tournoi #3553901618, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (15/30) - 26/02/2023 15:32:52 CET [26/02/2023 9:32:52 ET]
+Table '3553901618 1' 6-max Siège #4 est au bouton.
+Place 1: ilailachacha (1500 en jetons) 
+Place 2: HilariousPT (2940 en jetons) 
+Place 3: Brulo2213 (1455 en jetons) 
+Place 4: psychoman59 (1500 en jetons) 
+Place 5: tonecho88 (1605 en jetons) 
+tonecho88 : met la petite blind. 15
+ilailachacha : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Td]
+HilariousPT : suit. 30
+Brulo2213 : suit. 30
+psychoman59 : passe. 
+tonecho88 : suit. 15
+ilailachacha : parole 
+*** FLOP *** [5s Qc Qs]
+tonecho88 : mise. 120
+ilailachacha : suit. 120
+HilariousPT : passe. 
+Brulo2213 : suit. 120
+*** TOURNANT *** [5s Qc Qs] [7d]
+tonecho88 : parole 
+ilailachacha : parole 
+Brulo2213 : mise. 180
+tonecho88 : passe. 
+ilailachacha : suit. 180
+*** RIVIÈRE *** [5s Qc Qs 7d] [6d]
+ilailachacha : parole 
+Brulo2213 : parole 
+*** ABATTAGE ***
+ilailachacha : montre [9d 5h] (double paire, Dames et Cinq)
+Brulo2213 : montre [9s 9h] (double paire, Dames et Neuf)
+Brulo2213 a remporté 840  lors du pot .
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Tableau [5s Qc Qs 7d 6d]
+Siège 1 : ilailachacha (grosse blind) a montré [9d 5h] et a perdu avec double paire, Dames et Cinq
+Siège 2 : HilariousPT s'est couché. sur le Flop
+Siège 3 : Brulo2213 a montré [9s 9h] et a gagné (840) avec double paire, Dames et Neuf
+Siège 4 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 5 : tonecho88 (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°242091955511 : Tournoi #3553901618, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (15/30) - 26/02/2023 15:33:52 CET [26/02/2023 9:33:52 ET]
+Table '3553901618 1' 6-max Siège #5 est au bouton.
+Place 1: ilailachacha (1170 en jetons) 
+Place 2: HilariousPT (2910 en jetons) 
+Place 3: Brulo2213 (1965 en jetons) 
+Place 4: psychoman59 (1500 en jetons) 
+Place 5: tonecho88 (1455 en jetons) 
+ilailachacha : met la petite blind. 15
+HilariousPT : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 6d]
+Brulo2213 : passe. 
+psychoman59 : passe. 
+tonecho88 : relance. 30 à 60
+ilailachacha : passe. 
+HilariousPT : suit. 30
+*** FLOP *** [2s 7d Jh]
+HilariousPT : parole 
+tonecho88 : mise. 60
+HilariousPT : passe. 
+Personne n'a suivi. (60) sont retournés à tonecho88.
+tonecho88 a remporté 135  lors du pot .
+*** SYNTHÈSE ***
+Pot total 135 | Commission 0 
+Tableau [2s 7d Jh]
+Siège 1 : ilailachacha (petite blind) s'est couché. avant Flop
+Siège 2 : HilariousPT (grosse blind) s'est couché. sur le Flop
+Siège 3 : Brulo2213 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : tonecho88 (bouton) a remporté (135)
+
+
+
+Main PokerStars n°242091963226 : Tournoi #3553901618, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (15/30) - 26/02/2023 15:34:18 CET [26/02/2023 9:34:18 ET]
+Table '3553901618 1' 6-max Siège #1 est au bouton.
+Place 1: ilailachacha (1155 en jetons) 
+Place 2: HilariousPT (2850 en jetons) 
+Place 3: Brulo2213 (1965 en jetons) 
+Place 4: psychoman59 (1500 en jetons) 
+Place 5: tonecho88 (1530 en jetons) 
+HilariousPT : met la petite blind. 15
+Brulo2213 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 5d]
+psychoman59 : relance. 30 à 60
+tonecho88 : passe. 
+ilailachacha : passe. 
+HilariousPT : passe. 
+Brulo2213 : suit. 30
+*** FLOP *** [2h Js 8d]
+Brulo2213 : mise. 90
+psychoman59 : passe. 
+Personne n'a suivi. (90) sont retournés à Brulo2213.
+Brulo2213 a remporté 135  lors du pot .
+Brulo2213 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 135 | Commission 0 
+Tableau [2h Js 8d]
+Siège 1 : ilailachacha (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : HilariousPT (petite blind) s'est couché. avant Flop
+Siège 3 : Brulo2213 (grosse blind) a remporté (135)
+Siège 4 : psychoman59 s'est couché. sur le Flop
+Siège 5 : tonecho88 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°242091974366 : Tournoi #3553901618, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (15/30) - 26/02/2023 15:34:55 CET [26/02/2023 9:34:55 ET]
+Table '3553901618 1' 6-max Siège #2 est au bouton.
+Place 1: ilailachacha (1155 en jetons) 
+Place 2: HilariousPT (2835 en jetons) 
+Place 3: Brulo2213 (2040 en jetons) 
+Place 4: psychoman59 (1440 en jetons) 
+Place 5: tonecho88 (1530 en jetons) 
+Brulo2213 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 6d]
+tonecho88 : suit. 30
+ilailachacha : passe. 
+HilariousPT : passe. 
+Brulo2213 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Js As 9d]
+Brulo2213 : parole 
+psychoman59 : parole 
+tonecho88 : parole 
+*** TOURNANT *** [Js As 9d] [Ac]
+Brulo2213 : mise. 90
+psychoman59 : passe. 
+tonecho88 : suit. 90
+*** RIVIÈRE *** [Js As 9d Ac] [7h]
+Brulo2213 : mise. 135
+tonecho88 : suit. 135
+*** ABATTAGE ***
+Brulo2213 : montre [Ad Th] (un brelan de As)
+tonecho88 : cache la main perdante. 
+Brulo2213 a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [Js As 9d Ac 7h]
+Siège 1 : ilailachacha s'est couché. avant Flop (n'a pas misé)
+Siège 2 : HilariousPT (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Brulo2213 (petite blind) a montré [Ad Th] et a gagné (540) avec un brelan de As
+Siège 4 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 5 : tonecho88 a caché la main perdante. [7s 6s]
+
+
+
+Main PokerStars n°242091993937 : Tournoi #3553901618, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (15/30) - 26/02/2023 15:36:01 CET [26/02/2023 9:36:01 ET]
+Table '3553901618 1' 6-max Siège #3 est au bouton.
+Place 1: ilailachacha (1155 en jetons) 
+Place 2: HilariousPT (2835 en jetons) 
+Place 3: Brulo2213 (2325 en jetons) 
+Place 4: psychoman59 (1410 en jetons) 
+Place 5: tonecho88 (1275 en jetons) 
+psychoman59 : met la petite blind. 15
+tonecho88 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Th]
+ilailachacha : passe. 
+HilariousPT : passe. 
+Brulo2213 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à tonecho88.
+tonecho88 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : ilailachacha s'est couché. avant Flop (n'a pas misé)
+Siège 2 : HilariousPT s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Brulo2213 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 5 : tonecho88 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°242091998140 : Tournoi #3553901618, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (15/30) - 26/02/2023 15:36:15 CET [26/02/2023 9:36:15 ET]
+Table '3553901618 1' 6-max Siège #4 est au bouton.
+Place 1: ilailachacha (1155 en jetons) 
+Place 2: HilariousPT (2835 en jetons) 
+Place 3: Brulo2213 (2325 en jetons) 
+Place 4: psychoman59 (1395 en jetons) 
+Place 5: tonecho88 (1290 en jetons) 
+tonecho88 : met la petite blind. 15
+ilailachacha : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Ah]
+HilariousPT : suit. 30
+Brulo2213 : passe. 
+psychoman59 : relance. 1365 à 1395 et est all-in.
+tonecho88 : passe. 
+ilailachacha : passe. 
+HilariousPT : passe. 
+Personne n'a suivi. (1365) sont retournés à psychoman59.
+psychoman59 a remporté 105  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 105 | Commission 0 
+Siège 1 : ilailachacha (grosse blind) s'est couché. avant Flop
+Siège 2 : HilariousPT s'est couché. avant Flop
+Siège 3 : Brulo2213 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : psychoman59 (bouton) a remporté (105)
+Siège 5 : tonecho88 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242092006329 : Tournoi #3553901618, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (20/40) - 26/02/2023 15:36:42 CET [26/02/2023 9:36:42 ET]
+Table '3553901618 1' 6-max Siège #5 est au bouton.
+Place 1: ilailachacha (1125 en jetons) 
+Place 2: HilariousPT (2805 en jetons) 
+Place 3: Brulo2213 (2325 en jetons) 
+Place 4: psychoman59 (1470 en jetons) 
+Place 5: tonecho88 (1275 en jetons) 
+ilailachacha : met la petite blind. 20
+HilariousPT : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 5c]
+Brulo2213 : relance. 60 à 100
+psychoman59 : passe. 
+tonecho88 : passe. 
+ilailachacha : passe. 
+HilariousPT : passe. 
+Personne n'a suivi. (60) sont retournés à Brulo2213.
+Brulo2213 a remporté 100  lors du pot .
+Brulo2213 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : ilailachacha (petite blind) s'est couché. avant Flop
+Siège 2 : HilariousPT (grosse blind) s'est couché. avant Flop
+Siège 3 : Brulo2213 a remporté (100)
+Siège 4 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : tonecho88 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°242092010899 : Tournoi #3553901618, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (20/40) - 26/02/2023 15:36:58 CET [26/02/2023 9:36:58 ET]
+Table '3553901618 1' 6-max Siège #1 est au bouton.
+Place 1: ilailachacha (1105 en jetons) 
+Place 2: HilariousPT (2765 en jetons) 
+Place 3: Brulo2213 (2385 en jetons) 
+Place 4: psychoman59 (1470 en jetons) 
+Place 5: tonecho88 (1275 en jetons) 
+HilariousPT : met la petite blind. 20
+Brulo2213 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 9h]
+psychoman59 : passe. 
+tonecho88 : passe. 
+ilailachacha : passe. 
+HilariousPT : suit. 20
+Brulo2213 : parole 
+*** FLOP *** [9s Ah Ks]
+HilariousPT : parole 
+Brulo2213 : mise. 40
+HilariousPT : passe. 
+Personne n'a suivi. (40) sont retournés à Brulo2213.
+Brulo2213 a remporté 80  lors du pot .
+Brulo2213 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [9s Ah Ks]
+Siège 1 : ilailachacha (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : HilariousPT (petite blind) s'est couché. sur le Flop
+Siège 3 : Brulo2213 (grosse blind) a remporté (80)
+Siège 4 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : tonecho88 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°242092022382 : Tournoi #3553901618, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (20/40) - 26/02/2023 15:37:36 CET [26/02/2023 9:37:36 ET]
+Table '3553901618 1' 6-max Siège #2 est au bouton.
+Place 1: ilailachacha (1105 en jetons) 
+Place 2: HilariousPT (2725 en jetons) 
+Place 3: Brulo2213 (2425 en jetons) 
+Place 4: psychoman59 (1470 en jetons) 
+Place 5: tonecho88 (1275 en jetons) 
+Brulo2213 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 2d]
+tonecho88 : relance. 80 à 120
+ilailachacha : relance. 240 à 360
+HilariousPT : passe. 
+Brulo2213 : passe. 
+psychoman59 : passe. 
+tonecho88 : suit. 240
+*** FLOP *** [Td 5c 8h]
+tonecho88 : parole 
+ilailachacha : parole 
+*** TOURNANT *** [Td 5c 8h] [Qh]
+tonecho88 : parole 
+ilailachacha : parole 
+*** RIVIÈRE *** [Td 5c 8h Qh] [Kc]
+tonecho88 : parole 
+ilailachacha : mise. 160
+tonecho88 : passe. 
+Personne n'a suivi. (160) sont retournés à ilailachacha.
+ilailachacha a remporté 780  lors du pot .
+ilailachacha : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 780 | Commission 0 
+Tableau [Td 5c 8h Qh Kc]
+Siège 1 : ilailachacha a remporté (780)
+Siège 2 : HilariousPT (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Brulo2213 (petite blind) s'est couché. avant Flop
+Siège 4 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 5 : tonecho88 s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°242092038740 : Tournoi #3553901618, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (20/40) - 26/02/2023 15:38:31 CET [26/02/2023 9:38:31 ET]
+Table '3553901618 1' 6-max Siège #3 est au bouton.
+Place 1: ilailachacha (1525 en jetons) 
+Place 2: HilariousPT (2725 en jetons) 
+Place 3: Brulo2213 (2405 en jetons) 
+Place 4: psychoman59 (1430 en jetons) 
+Place 5: tonecho88 (915 en jetons) 
+psychoman59 : met la petite blind. 20
+tonecho88 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Qc]
+ilailachacha : passe. 
+HilariousPT : passe. 
+Brulo2213 : relance. 60 à 100
+psychoman59 : suit. 80
+tonecho88 : passe. 
+*** FLOP *** [3h 7h Qd]
+psychoman59 : parole 
+Brulo2213 : mise. 160
+psychoman59 : relance. 1170 à 1330 et est all-in.
+Brulo2213 : suit. 1170
+*** TOURNANT *** [3h 7h Qd] [7s]
+*** RIVIÈRE *** [3h 7h Qd 7s] [9h]
+*** ABATTAGE ***
+psychoman59 : montre [Kd Qc] (double paire, Dames et Sept)
+Brulo2213 : montre [7c 3s] (un full, full aux Sept par les Trois)
+Brulo2213 a remporté 2900  lors du pot .
+psychoman59 a fini le tournoi en 5e position.
+*** SYNTHÈSE ***
+Pot total 2900 | Commission 0 
+Tableau [3h 7h Qd 7s 9h]
+Siège 1 : ilailachacha s'est couché. avant Flop (n'a pas misé)
+Siège 2 : HilariousPT s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Brulo2213 (bouton) a montré [7c 3s] et a gagné (2900) avec un full, full aux Sept par les Trois
+Siège 4 : psychoman59 (petite blind) a montré [Kd Qc] et a perdu avec double paire, Dames et Sept
+Siège 5 : tonecho88 (grosse blind) s'est couché. avant Flop
+
+
+

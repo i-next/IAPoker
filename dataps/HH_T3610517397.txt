@@ -1,0 +1,169 @@
+﻿Main PokerStars n°244534259980 : Tournoi #3610517397, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 29/06/2023 22:36:52 CET [29/06/2023 16:36:52 ET]
+Table '3610517397 1' 3-max Siège #1 est au bouton.
+Place 1: yagzal (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: overfl0w1337 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+overfl0w1337 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 7h]
+yagzal : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à overfl0w1337.
+overfl0w1337 a remporté 20  lors du pot .
+overfl0w1337 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : yagzal (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : overfl0w1337 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°244534264105 : Tournoi #3610517397, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 29/06/2023 22:37:03 CET [29/06/2023 16:37:03 ET]
+Table '3610517397 1' 3-max Siège #2 est au bouton.
+Place 1: yagzal (300 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: overfl0w1337 (310 en jetons) 
+overfl0w1337 : met la petite blind. 10
+yagzal : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 5d]
+psychoman59 : passe. 
+overfl0w1337 : suit. 10
+yagzal : parole 
+*** FLOP *** [7c 9h 9s]
+overfl0w1337 : parole 
+yagzal : parole 
+*** TOURNANT *** [7c 9h 9s] [7d]
+overfl0w1337 : parole 
+yagzal : parole 
+*** RIVIÈRE *** [7c 9h 9s 7d] [6s]
+overfl0w1337 : parole 
+yagzal : parole 
+*** ABATTAGE ***
+overfl0w1337 : montre [6c Kd] (double paire, Neuf et Sept)
+yagzal : cache la main perdante. 
+overfl0w1337 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [7c 9h 9s 7d 6s]
+Siège 1 : yagzal (grosse blind) a caché la main perdante. [6d Qh]
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : overfl0w1337 (petite blind) a montré [6c Kd] et a gagné (40) avec double paire, Neuf et Sept
+
+
+
+Main PokerStars n°244534287805 : Tournoi #3610517397, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 29/06/2023 22:38:13 CET [29/06/2023 16:38:13 ET]
+Table '3610517397 1' 3-max Siège #3 est au bouton.
+Place 1: yagzal (280 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: overfl0w1337 (330 en jetons) 
+yagzal : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 9s]
+overfl0w1337 : passe. 
+yagzal : relance. 250 à 280 et est all-in.
+psychoman59 : suit. 250
+*** FLOP *** [4h Qh Qc]
+*** TOURNANT *** [4h Qh Qc] [7c]
+*** RIVIÈRE *** [4h Qh Qc 7c] [Ah]
+*** ABATTAGE ***
+yagzal : montre [4s Qd] (un full, full aux Dames par les Quatre)
+psychoman59 : montre [9h 9s] (double paire, Dames et Neuf)
+yagzal a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [4h Qh Qc 7c Ah]
+Siège 1 : yagzal (petite blind) a montré [4s Qd] et a gagné (560) avec un full, full aux Dames par les Quatre
+Siège 2 : psychoman59 (grosse blind) a montré [9h 9s] et a perdu avec double paire, Dames et Neuf
+Siège 3 : overfl0w1337 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°244534296317 : Tournoi #3610517397, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 29/06/2023 22:38:38 CET [29/06/2023 16:38:38 ET]
+Table '3610517397 1' 3-max Siège #1 est au bouton.
+Place 1: yagzal (560 en jetons) 
+Place 2: psychoman59 (10 en jetons) 
+Place 3: overfl0w1337 (330 en jetons) 
+psychoman59 : met la petite blind. 10 et est all-in.
+overfl0w1337 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Ks]
+yagzal : passe. 
+Personne n'a suivi. (20) sont retournés à overfl0w1337.
+*** FLOP *** [9h Qc 6s]
+*** TOURNANT *** [9h Qc 6s] [As]
+*** RIVIÈRE *** [9h Qc 6s As] [Jc]
+*** ABATTAGE ***
+psychoman59 : montre [5d Ks] (Hauteur As)
+overfl0w1337 : montre [3d 5h] (Hauteur As - plus basse kicker)
+psychoman59 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Tableau [9h Qc 6s As Jc]
+Siège 1 : yagzal (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [5d Ks] et a gagné (20) avec Hauteur As
+Siège 3 : overfl0w1337 (grosse blind) a montré [3d 5h] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°244534300326 : Tournoi #3610517397, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 29/06/2023 22:38:50 CET [29/06/2023 16:38:50 ET]
+Table '3610517397 1' 3-max Siège #2 est au bouton.
+Place 1: yagzal (560 en jetons) 
+Place 2: psychoman59 (20 en jetons) 
+Place 3: overfl0w1337 (320 en jetons) 
+overfl0w1337 : met la petite blind. 15
+yagzal : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 8c]
+psychoman59 : suit. 20 et est all-in.
+overfl0w1337 : passe. 
+Personne n'a suivi. (10) sont retournés à yagzal.
+*** FLOP *** [Jd Jc 2s]
+*** TOURNANT *** [Jd Jc 2s] [Tc]
+*** RIVIÈRE *** [Jd Jc 2s Tc] [7d]
+*** ABATTAGE ***
+yagzal : montre [9d 2c] (double paire, Valets et Deux)
+psychoman59 : montre [7c 8c] (double paire, Valets et Sept)
+psychoman59 a remporté 55  lors du pot .
+*** SYNTHÈSE ***
+Pot total 55 | Commission 0 
+Tableau [Jd Jc 2s Tc 7d]
+Siège 1 : yagzal (grosse blind) a montré [9d 2c] et a perdu avec double paire, Valets et Deux
+Siège 2 : psychoman59 (bouton) a montré [7c 8c] et a gagné (55) avec double paire, Valets et Sept
+Siège 3 : overfl0w1337 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244534306257 : Tournoi #3610517397, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 29/06/2023 22:39:08 CET [29/06/2023 16:39:08 ET]
+Table '3610517397 1' 3-max Siège #3 est au bouton.
+Place 1: yagzal (540 en jetons) 
+Place 2: psychoman59 (55 en jetons) 
+Place 3: overfl0w1337 (305 en jetons) 
+yagzal : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Qd]
+overfl0w1337 : suit. 40
+yagzal : passe. 
+psychoman59 : relance. 15 à 55 et est all-in.
+overfl0w1337 : suit. 15
+*** FLOP *** [Ts 2h As]
+*** TOURNANT *** [Ts 2h As] [4h]
+*** RIVIÈRE *** [Ts 2h As 4h] [Jd]
+*** ABATTAGE ***
+psychoman59 : montre [2s Qd] (une paire de Deux)
+overfl0w1337 : montre [Qc Th] (une paire de Dix)
+overfl0w1337 a remporté 130  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Tableau [Ts 2h As 4h Jd]
+Siège 1 : yagzal (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a montré [2s Qd] et a perdu avec une paire de Deux
+Siège 3 : overfl0w1337 (bouton) a montré [Qc Th] et a gagné (130) avec une paire de Dix
+
+
+

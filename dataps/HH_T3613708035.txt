@@ -1,0 +1,744 @@
+﻿Main PokerStars n°244673026182 : Tournoi #3613708035, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2023 9:48:11 CET [07/07/2023 3:48:11 ET]
+Table '3613708035 1' 3-max Siège #1 est au bouton.
+Place 1: Antonio Ferrao (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: trabel_sobre98 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+trabel_sobre98 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Qd]
+Antonio Ferrao : suit. 20
+psychoman59 : suit. 10
+trabel_sobre98 : parole 
+*** FLOP *** [2h 5s 7s]
+psychoman59 : parole 
+trabel_sobre98 : parole 
+Antonio Ferrao : parole 
+*** TOURNANT *** [2h 5s 7s] [8s]
+psychoman59 : parole 
+trabel_sobre98 : parole 
+Antonio Ferrao : parole 
+*** RIVIÈRE *** [2h 5s 7s 8s] [Ad]
+psychoman59 : parole 
+trabel_sobre98 : parole 
+Antonio Ferrao : parole 
+*** ABATTAGE ***
+psychoman59 : montre [9c Qd] (Hauteur As)
+trabel_sobre98 : cache la main perdante. 
+Antonio Ferrao : cache la main perdante. 
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [2h 5s 7s 8s Ad]
+Siège 1 : Antonio Ferrao (bouton) a caché la main perdante. [Jc 4c]
+Siège 2 : psychoman59 (petite blind) a montré [9c Qd] et a gagné (60) avec Hauteur As
+Siège 3 : trabel_sobre98 (grosse blind) a caché la main perdante. [Qh 4d]
+
+
+
+Main PokerStars n°244673028626 : Tournoi #3613708035, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2023 9:48:35 CET [07/07/2023 3:48:35 ET]
+Table '3613708035 1' 3-max Siège #2 est au bouton.
+Place 1: Antonio Ferrao (280 en jetons) 
+Place 2: psychoman59 (340 en jetons) 
+Place 3: trabel_sobre98 (280 en jetons) 
+trabel_sobre98 : met la petite blind. 10
+Antonio Ferrao : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 2d]
+psychoman59 : passe. 
+trabel_sobre98 : suit. 10
+Antonio Ferrao : parole 
+*** FLOP *** [3s 9c 7c]
+trabel_sobre98 : mise. 20
+Antonio Ferrao : passe. 
+Personne n'a suivi. (20) sont retournés à trabel_sobre98.
+trabel_sobre98 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [3s 9c 7c]
+Siège 1 : Antonio Ferrao (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : trabel_sobre98 (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°244673029736 : Tournoi #3613708035, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2023 9:48:46 CET [07/07/2023 3:48:46 ET]
+Table '3613708035 1' 3-max Siège #3 est au bouton.
+Place 1: Antonio Ferrao (260 en jetons) 
+Place 2: psychoman59 (340 en jetons) 
+Place 3: trabel_sobre98 (300 en jetons) 
+Antonio Ferrao : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Jd]
+trabel_sobre98 : passe. 
+Antonio Ferrao : suit. 10
+psychoman59 : relance. 320 à 340 et est all-in.
+Antonio Ferrao : passe. 
+Personne n'a suivi. (320) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Antonio Ferrao (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : trabel_sobre98 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°244673030984 : Tournoi #3613708035, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2023 9:48:58 CET [07/07/2023 3:48:58 ET]
+Table '3613708035 1' 3-max Siège #1 est au bouton.
+Place 1: Antonio Ferrao (240 en jetons) 
+Place 2: psychoman59 (360 en jetons) 
+Place 3: trabel_sobre98 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+trabel_sobre98 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 4h]
+Antonio Ferrao : suit. 20
+psychoman59 : passe. 
+trabel_sobre98 : parole 
+*** FLOP *** [2d 5h 5s]
+trabel_sobre98 : mise. 20
+Antonio Ferrao : suit. 20
+*** TOURNANT *** [2d 5h 5s] [3d]
+trabel_sobre98 : parole 
+Antonio Ferrao : parole 
+*** RIVIÈRE *** [2d 5h 5s 3d] [3c]
+trabel_sobre98 : parole 
+Antonio Ferrao : parole 
+*** ABATTAGE ***
+trabel_sobre98 : montre [Qs 2c] (double paire, Cinq et Trois)
+Antonio Ferrao : montre [Qh 7c] (double paire, Cinq et Trois)
+trabel_sobre98 a remporté 45  lors du pot .
+Antonio Ferrao a remporté 45  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [2d 5h 5s 3d 3c]
+Siège 1 : Antonio Ferrao (bouton) a montré [Qh 7c] et a gagné (45) avec double paire, Cinq et Trois
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : trabel_sobre98 (grosse blind) a montré [Qs 2c] et a gagné (45) avec double paire, Cinq et Trois
+
+
+
+Main PokerStars n°244673033341 : Tournoi #3613708035, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 07/07/2023 9:49:21 CET [07/07/2023 3:49:21 ET]
+Table '3613708035 1' 3-max Siège #2 est au bouton.
+Place 1: Antonio Ferrao (245 en jetons) 
+Place 2: psychoman59 (350 en jetons) 
+Place 3: trabel_sobre98 (305 en jetons) 
+trabel_sobre98 : met la petite blind. 15
+Antonio Ferrao : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Qd]
+psychoman59 : passe. 
+trabel_sobre98 : relance. 30 à 60
+Antonio Ferrao : suit. 30
+*** FLOP *** [7c 2h Kh]
+trabel_sobre98 : mise. 30
+Antonio Ferrao : passe. 
+Personne n'a suivi. (30) sont retournés à trabel_sobre98.
+trabel_sobre98 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [7c 2h Kh]
+Siège 1 : Antonio Ferrao (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : trabel_sobre98 (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°244673035014 : Tournoi #3613708035, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 07/07/2023 9:49:37 CET [07/07/2023 3:49:37 ET]
+Table '3613708035 1' 3-max Siège #3 est au bouton.
+Place 1: Antonio Ferrao (185 en jetons) 
+Place 2: psychoman59 (350 en jetons) 
+Place 3: trabel_sobre98 (365 en jetons) 
+Antonio Ferrao : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 9d]
+trabel_sobre98 : passe. 
+Antonio Ferrao : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : Antonio Ferrao (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+Siège 3 : trabel_sobre98 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°244673035694 : Tournoi #3613708035, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 07/07/2023 9:49:44 CET [07/07/2023 3:49:44 ET]
+Table '3613708035 1' 3-max Siège #1 est au bouton.
+Place 1: Antonio Ferrao (170 en jetons) 
+Place 2: psychoman59 (365 en jetons) 
+Place 3: trabel_sobre98 (365 en jetons) 
+psychoman59 : met la petite blind. 15
+trabel_sobre98 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 4c]
+Antonio Ferrao : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à trabel_sobre98.
+trabel_sobre98 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : Antonio Ferrao (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : trabel_sobre98 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°244673036472 : Tournoi #3613708035, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 07/07/2023 9:49:51 CET [07/07/2023 3:49:51 ET]
+Table '3613708035 1' 3-max Siège #2 est au bouton.
+Place 1: Antonio Ferrao (170 en jetons) 
+Place 2: psychoman59 (350 en jetons) 
+Place 3: trabel_sobre98 (380 en jetons) 
+trabel_sobre98 : met la petite blind. 15
+Antonio Ferrao : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Ts]
+psychoman59 : passe. 
+trabel_sobre98 : passe. 
+Personne n'a suivi. (15) sont retournés à Antonio Ferrao.
+Antonio Ferrao a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : Antonio Ferrao (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : trabel_sobre98 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244673036994 : Tournoi #3613708035, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 07/07/2023 9:49:57 CET [07/07/2023 3:49:57 ET]
+Table '3613708035 1' 3-max Siège #3 est au bouton.
+Place 1: Antonio Ferrao (185 en jetons) 
+Place 2: psychoman59 (350 en jetons) 
+Place 3: trabel_sobre98 (365 en jetons) 
+Antonio Ferrao : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 7d]
+trabel_sobre98 : suit. 30
+Antonio Ferrao : passe. 
+psychoman59 : parole 
+*** FLOP *** [2h 8d Ah]
+psychoman59 : parole 
+trabel_sobre98 : parole 
+*** TOURNANT *** [2h 8d Ah] [3c]
+psychoman59 : parole 
+trabel_sobre98 : parole 
+*** RIVIÈRE *** [2h 8d Ah 3c] [3s]
+psychoman59 : mise. 75
+trabel_sobre98 : passe. 
+Personne n'a suivi. (75) sont retournés à psychoman59.
+psychoman59 a remporté 75  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Tableau [2h 8d Ah 3c 3s]
+Siège 1 : Antonio Ferrao (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (75)
+Siège 3 : trabel_sobre98 (bouton) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°244673039324 : Tournoi #3613708035, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 07/07/2023 9:50:19 CET [07/07/2023 3:50:19 ET]
+Table '3613708035 1' 3-max Siège #1 est au bouton.
+Place 1: Antonio Ferrao (170 en jetons) 
+Place 2: psychoman59 (395 en jetons) 
+Place 3: trabel_sobre98 (335 en jetons) 
+psychoman59 : met la petite blind. 20
+trabel_sobre98 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Jc]
+Antonio Ferrao : suit. 40
+psychoman59 : suit. 20
+trabel_sobre98 : parole 
+*** FLOP *** [8s 2s 6d]
+psychoman59 : parole 
+trabel_sobre98 : parole 
+Antonio Ferrao : mise. 40
+psychoman59 : suit. 40
+trabel_sobre98 : passe. 
+*** TOURNANT *** [8s 2s 6d] [2d]
+psychoman59 : parole 
+Antonio Ferrao : mise. 40
+psychoman59 : suit. 40
+*** RIVIÈRE *** [8s 2s 6d 2d] [2c]
+psychoman59 : mise. 100
+Antonio Ferrao : suit. 50 et est all-in.
+Personne n'a suivi. (50) sont retournés à psychoman59.
+*** ABATTAGE ***
+psychoman59 : montre [Ks Jc] (un brelan de Deux)
+Antonio Ferrao : montre [Ah 8h] (un full, full aux Deux par les Huit)
+Antonio Ferrao a remporté 380  lors du pot .
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Tableau [8s 2s 6d 2d 2c]
+Siège 1 : Antonio Ferrao (bouton) a montré [Ah 8h] et a gagné (380) avec un full, full aux Deux par les Huit
+Siège 2 : psychoman59 (petite blind) a montré [Ks Jc] et a perdu avec un brelan de Deux
+Siège 3 : trabel_sobre98 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°244673042800 : Tournoi #3613708035, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 07/07/2023 9:50:53 CET [07/07/2023 3:50:53 ET]
+Table '3613708035 1' 3-max Siège #2 est au bouton.
+Place 1: Antonio Ferrao (380 en jetons) 
+Place 2: psychoman59 (225 en jetons) 
+Place 3: trabel_sobre98 (295 en jetons) 
+trabel_sobre98 : met la petite blind. 20
+Antonio Ferrao : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 3h]
+psychoman59 : passe. 
+trabel_sobre98 : passe. 
+Personne n'a suivi. (20) sont retournés à Antonio Ferrao.
+Antonio Ferrao a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Antonio Ferrao (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : trabel_sobre98 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244673043976 : Tournoi #3613708035, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 07/07/2023 9:51:04 CET [07/07/2023 3:51:04 ET]
+Table '3613708035 1' 3-max Siège #3 est au bouton.
+Place 1: Antonio Ferrao (400 en jetons) 
+Place 2: psychoman59 (225 en jetons) 
+Place 3: trabel_sobre98 (275 en jetons) 
+Antonio Ferrao : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 8s]
+trabel_sobre98 : passe. 
+Antonio Ferrao : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Tc Ts Qd]
+Antonio Ferrao : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Tc Ts Qd] [2h]
+Antonio Ferrao : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Tc Ts Qd 2h] [3c]
+Antonio Ferrao : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Antonio Ferrao : montre [7c 6d] (une paire de Dix)
+psychoman59 : montre [3h 8s] (double paire, Dix et Trois)
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Tc Ts Qd 2h 3c]
+Siège 1 : Antonio Ferrao (petite blind) a montré [7c 6d] et a perdu avec une paire de Dix
+Siège 2 : psychoman59 (grosse blind) a montré [3h 8s] et a gagné (80) avec double paire, Dix et Trois
+Siège 3 : trabel_sobre98 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°244673047250 : Tournoi #3613708035, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 07/07/2023 9:51:36 CET [07/07/2023 3:51:36 ET]
+Table '3613708035 1' 3-max Siège #1 est au bouton.
+Place 1: Antonio Ferrao (360 en jetons) 
+Place 2: psychoman59 (265 en jetons) 
+Place 3: trabel_sobre98 (275 en jetons) 
+psychoman59 : met la petite blind. 30
+trabel_sobre98 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Td]
+Antonio Ferrao : suit. 60
+psychoman59 : suit. 30
+trabel_sobre98 : parole 
+*** FLOP *** [3s 8h 9d]
+psychoman59 : parole 
+trabel_sobre98 : parole 
+Antonio Ferrao : parole 
+*** TOURNANT *** [3s 8h 9d] [Qs]
+psychoman59 : parole 
+trabel_sobre98 : parole 
+Antonio Ferrao : parole 
+*** RIVIÈRE *** [3s 8h 9d Qs] [8s]
+psychoman59 : mise. 120
+trabel_sobre98 : passe. 
+Antonio Ferrao : suit. 120
+*** ABATTAGE ***
+psychoman59 : montre [8d Td] (un brelan de Huit)
+Antonio Ferrao : cache la main perdante. 
+psychoman59 a remporté 420  lors du pot .
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [3s 8h 9d Qs 8s]
+Siège 1 : Antonio Ferrao (bouton) a caché la main perdante. [2d 2c]
+Siège 2 : psychoman59 (petite blind) a montré [8d Td] et a gagné (420) avec un brelan de Huit
+Siège 3 : trabel_sobre98 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°244673050877 : Tournoi #3613708035, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 07/07/2023 9:52:10 CET [07/07/2023 3:52:10 ET]
+Table '3613708035 1' 3-max Siège #2 est au bouton.
+Place 1: Antonio Ferrao (180 en jetons) 
+Place 2: psychoman59 (505 en jetons) 
+Place 3: trabel_sobre98 (215 en jetons) 
+trabel_sobre98 : met la petite blind. 30
+Antonio Ferrao : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 2h]
+psychoman59 : passe. 
+trabel_sobre98 : relance. 155 à 215 et est all-in.
+Antonio Ferrao : passe. 
+Personne n'a suivi. (155) sont retournés à trabel_sobre98.
+trabel_sobre98 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : Antonio Ferrao (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : trabel_sobre98 (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°244673052013 : Tournoi #3613708035, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 07/07/2023 9:52:21 CET [07/07/2023 3:52:21 ET]
+Table '3613708035 1' 3-max Siège #3 est au bouton.
+Place 1: Antonio Ferrao (120 en jetons) 
+Place 2: psychoman59 (505 en jetons) 
+Place 3: trabel_sobre98 (275 en jetons) 
+Antonio Ferrao : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 8s]
+trabel_sobre98 : passe. 
+Antonio Ferrao : suit. 40
+psychoman59 : parole 
+*** FLOP *** [Kc Kd 4h]
+Antonio Ferrao : mise. 40 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Antonio Ferrao.
+Antonio Ferrao a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Kc Kd 4h]
+Siège 1 : Antonio Ferrao (petite blind) a remporté (160)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : trabel_sobre98 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°244673053398 : Tournoi #3613708035, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 07/07/2023 9:52:35 CET [07/07/2023 3:52:35 ET]
+Table '3613708035 1' 3-max Siège #1 est au bouton.
+Place 1: Antonio Ferrao (200 en jetons) 
+Place 2: psychoman59 (425 en jetons) 
+Place 3: trabel_sobre98 (275 en jetons) 
+psychoman59 : met la petite blind. 40
+trabel_sobre98 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 8h]
+Antonio Ferrao : suit. 80
+psychoman59 : suit. 40
+trabel_sobre98 : parole 
+*** FLOP *** [4d Ts As]
+psychoman59 : parole 
+trabel_sobre98 : mise. 195 et est all-in.
+Antonio Ferrao : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (195) sont retournés à trabel_sobre98.
+trabel_sobre98 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [4d Ts As]
+Siège 1 : Antonio Ferrao (bouton) s'est couché. sur le Flop
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 3 : trabel_sobre98 (grosse blind) a remporté (240)
+
+
+
+Main PokerStars n°244673055869 : Tournoi #3613708035, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 07/07/2023 9:52:58 CET [07/07/2023 3:52:58 ET]
+Table '3613708035 1' 3-max Siège #2 est au bouton.
+Place 1: Antonio Ferrao (120 en jetons) 
+Place 2: psychoman59 (345 en jetons) 
+Place 3: trabel_sobre98 (435 en jetons) 
+trabel_sobre98 : met la petite blind. 40
+Antonio Ferrao : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Jd]
+psychoman59 : passe. 
+trabel_sobre98 : passe. 
+Personne n'a suivi. (40) sont retournés à Antonio Ferrao.
+Antonio Ferrao a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : Antonio Ferrao (grosse blind) a remporté (80)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : trabel_sobre98 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244673056471 : Tournoi #3613708035, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 07/07/2023 9:53:04 CET [07/07/2023 3:53:04 ET]
+Table '3613708035 1' 3-max Siège #3 est au bouton.
+Place 1: Antonio Ferrao (160 en jetons) 
+Place 2: psychoman59 (345 en jetons) 
+Place 3: trabel_sobre98 (395 en jetons) 
+Antonio Ferrao : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 2h]
+trabel_sobre98 : passe. 
+Antonio Ferrao : relance. 80 à 160 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à Antonio Ferrao.
+Antonio Ferrao a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : Antonio Ferrao (petite blind) a remporté (160)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : trabel_sobre98 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°244673057774 : Tournoi #3613708035, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau VI (50/100) - 07/07/2023 9:53:16 CET [07/07/2023 3:53:16 ET]
+Table '3613708035 1' 3-max Siège #1 est au bouton.
+Place 1: Antonio Ferrao (240 en jetons) 
+Place 2: psychoman59 (265 en jetons) 
+Place 3: trabel_sobre98 (395 en jetons) 
+psychoman59 : met la petite blind. 50
+trabel_sobre98 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 2s]
+Antonio Ferrao : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à trabel_sobre98.
+trabel_sobre98 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : Antonio Ferrao (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : trabel_sobre98 (grosse blind) a remporté (100)
+
+
+
+Main PokerStars n°244673058649 : Tournoi #3613708035, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau VI (50/100) - 07/07/2023 9:53:24 CET [07/07/2023 3:53:24 ET]
+Table '3613708035 1' 3-max Siège #2 est au bouton.
+Place 1: Antonio Ferrao (240 en jetons) 
+Place 2: psychoman59 (215 en jetons) 
+Place 3: trabel_sobre98 (445 en jetons) 
+trabel_sobre98 : met la petite blind. 50
+Antonio Ferrao : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 3h]
+psychoman59 : passe. 
+trabel_sobre98 : relance. 100 à 200
+Antonio Ferrao : passe. 
+Personne n'a suivi. (100) sont retournés à trabel_sobre98.
+trabel_sobre98 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Siège 1 : Antonio Ferrao (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : trabel_sobre98 (petite blind) a remporté (200)
+
+
+
+Main PokerStars n°244673060051 : Tournoi #3613708035, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau VI (50/100) - 07/07/2023 9:53:37 CET [07/07/2023 3:53:37 ET]
+Table '3613708035 1' 3-max Siège #3 est au bouton.
+Place 1: Antonio Ferrao (140 en jetons) 
+Place 2: psychoman59 (215 en jetons) 
+Place 3: trabel_sobre98 (545 en jetons) 
+Antonio Ferrao : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 9h]
+trabel_sobre98 : passe. 
+Antonio Ferrao : relance. 40 à 140 et est all-in.
+psychoman59 : suit. 40
+*** FLOP *** [2h 3h Jd]
+*** TOURNANT *** [2h 3h Jd] [8h]
+*** RIVIÈRE *** [2h 3h Jd 8h] [Jc]
+*** ABATTAGE ***
+Antonio Ferrao : montre [Kd Qd] (une paire de Valets)
+psychoman59 : montre [8s 9h] (double paire, Valets et Huit)
+psychoman59 a remporté 280  lors du pot .
+Antonio Ferrao a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Tableau [2h 3h Jd 8h Jc]
+Siège 1 : Antonio Ferrao (petite blind) a montré [Kd Qd] et a perdu avec une paire de Valets
+Siège 2 : psychoman59 (grosse blind) a montré [8s 9h] et a gagné (280) avec double paire, Valets et Huit
+Siège 3 : trabel_sobre98 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°244673062352 : Tournoi #3613708035, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau VI (50/100) - 07/07/2023 9:53:59 CET [07/07/2023 3:53:59 ET]
+Table '3613708035 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (355 en jetons) 
+Place 3: trabel_sobre98 (545 en jetons) 
+psychoman59 : met la petite blind. 50
+trabel_sobre98 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Qh]
+psychoman59 : suit. 50
+trabel_sobre98 : parole 
+*** FLOP *** [Ad 5d Tc]
+trabel_sobre98 : parole 
+psychoman59 : mise. 255 et est all-in.
+trabel_sobre98 : passe. 
+Personne n'a suivi. (255) sont retournés à psychoman59.
+psychoman59 a remporté 200  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [Ad 5d Tc]
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (200)
+Siège 3 : trabel_sobre98 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°244673063580 : Tournoi #3613708035, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau VI (50/100) - 07/07/2023 9:54:11 CET [07/07/2023 3:54:11 ET]
+Table '3613708035 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (455 en jetons) 
+Place 3: trabel_sobre98 (445 en jetons) 
+trabel_sobre98 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 5h]
+trabel_sobre98 : relance. 345 à 445 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (345) sont retournés à trabel_sobre98.
+trabel_sobre98 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : trabel_sobre98 (bouton) (petite blind) a remporté (200)
+
+
+
+Main PokerStars n°244673064588 : Tournoi #3613708035, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau VII (60/120) - 07/07/2023 9:54:20 CET [07/07/2023 3:54:20 ET]
+Table '3613708035 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (355 en jetons) 
+Place 3: trabel_sobre98 (545 en jetons) 
+psychoman59 : met la petite blind. 60
+trabel_sobre98 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 5c]
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à trabel_sobre98.
+trabel_sobre98 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : trabel_sobre98 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°244673065115 : Tournoi #3613708035, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau VII (60/120) - 07/07/2023 9:54:25 CET [07/07/2023 3:54:25 ET]
+Table '3613708035 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (295 en jetons) 
+Place 3: trabel_sobre98 (605 en jetons) 
+trabel_sobre98 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 6s]
+trabel_sobre98 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (120)
+Siège 3 : trabel_sobre98 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244673065522 : Tournoi #3613708035, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau VII (60/120) - 07/07/2023 9:54:29 CET [07/07/2023 3:54:29 ET]
+Table '3613708035 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (355 en jetons) 
+Place 3: trabel_sobre98 (545 en jetons) 
+psychoman59 : met la petite blind. 60
+trabel_sobre98 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d As]
+psychoman59 : relance. 235 à 355 et est all-in.
+trabel_sobre98 : passe. 
+Personne n'a suivi. (235) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (240)
+Siège 3 : trabel_sobre98 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244673066556 : Tournoi #3613708035, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau VII (60/120) - 07/07/2023 9:54:39 CET [07/07/2023 3:54:39 ET]
+Table '3613708035 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (475 en jetons) 
+Place 3: trabel_sobre98 (425 en jetons) 
+trabel_sobre98 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Th]
+trabel_sobre98 : relance. 305 à 425 et est all-in.
+psychoman59 : suit. 305
+*** FLOP *** [3s Kc Jd]
+*** TOURNANT *** [3s Kc Jd] [Jc]
+*** RIVIÈRE *** [3s Kc Jd Jc] [9c]
+*** ABATTAGE ***
+psychoman59 : montre [9d Th] (double paire, Valets et Neuf)
+trabel_sobre98 : montre [Kh 9s] (double paire, Rois et Valets)
+trabel_sobre98 a remporté 850  lors du pot .
+*** SYNTHÈSE ***
+Pot total 850 | Commission 0 
+Tableau [3s Kc Jd Jc 9c]
+Siège 2 : psychoman59 (grosse blind) a montré [9d Th] et a perdu avec double paire, Valets et Neuf
+Siège 3 : trabel_sobre98 (bouton) (petite blind) a montré [Kh 9s] et a gagné (850) avec double paire, Rois et Valets
+
+
+
+Main PokerStars n°244673068022 : Tournoi #3613708035, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau VII (60/120) - 07/07/2023 9:54:53 CET [07/07/2023 3:54:53 ET]
+Table '3613708035 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (50 en jetons) 
+Place 3: trabel_sobre98 (850 en jetons) 
+psychoman59 : met la petite blind. 50 et est all-in.
+trabel_sobre98 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 2c]
+Personne n'a suivi. (70) sont retournés à trabel_sobre98.
+*** FLOP *** [2s Qc As]
+*** TOURNANT *** [2s Qc As] [9h]
+*** RIVIÈRE *** [2s Qc As 9h] [Ah]
+*** ABATTAGE ***
+trabel_sobre98 : montre [6d 5h] (une paire de As)
+psychoman59 : montre [9d 2c] (double paire, As et Neuf)
+psychoman59 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [2s Qc As 9h Ah]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [9d 2c] et a gagné (100) avec double paire, As et Neuf
+Siège 3 : trabel_sobre98 (grosse blind) a montré [6d 5h] et a perdu avec une paire de As
+
+
+
+Main PokerStars n°244673068906 : Tournoi #3613708035, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau VII (60/120) - 07/07/2023 9:55:01 CET [07/07/2023 3:55:01 ET]
+Table '3613708035 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (100 en jetons) 
+Place 3: trabel_sobre98 (800 en jetons) 
+trabel_sobre98 : met la petite blind. 60
+psychoman59 : met la grosse blind. 100 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 4d]
+trabel_sobre98 : suit. 40
+*** FLOP *** [5s 5h Ks]
+*** TOURNANT *** [5s 5h Ks] [Qc]
+*** RIVIÈRE *** [5s 5h Ks Qc] [Ts]
+*** ABATTAGE ***
+psychoman59 : montre [8d 4d] (une paire de Cinq)
+trabel_sobre98 : montre [7h 7s] (double paire, Sept et Cinq)
+trabel_sobre98 a remporté 200  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+trabel_sobre98 remporte le tournoi et reçoit 6.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [5s 5h Ks Qc Ts]
+Siège 2 : psychoman59 (grosse blind) a montré [8d 4d] et a perdu avec une paire de Cinq
+Siège 3 : trabel_sobre98 (bouton) (petite blind) a montré [7h 7s] et a gagné (200) avec double paire, Sept et Cinq
+
+
+

@@ -1,0 +1,280 @@
+﻿Main PokerStars n°243817227342 : Tournoi #3594142893, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/05/2023 11:04:00 CET [21/05/2023 5:04:00 ET]
+Table '3594142893 1' 3-max Siège #1 est au bouton.
+Place 1: Ghada16 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: Ma389 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+Ma389 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 4h]
+Ghada16 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à Ma389.
+Ma389 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : Ghada16 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Ma389 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°243817228182 : Tournoi #3594142893, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/05/2023 11:04:06 CET [21/05/2023 5:04:06 ET]
+Table '3594142893 1' 3-max Siège #2 est au bouton.
+Place 1: Ghada16 (300 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: Ma389 (310 en jetons) 
+Ma389 : met la petite blind. 10
+Ghada16 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 2s]
+psychoman59 : passe. 
+Ma389 : suit. 10
+Ghada16 : parole 
+*** FLOP *** [Ts Ks 6h]
+Ma389 : parole 
+Ghada16 : parole 
+*** TOURNANT *** [Ts Ks 6h] [Js]
+Ma389 : parole 
+Ghada16 : mise. 20
+Ma389 : suit. 20
+*** RIVIÈRE *** [Ts Ks 6h Js] [5h]
+Ma389 : parole 
+Ghada16 : mise. 20
+Ma389 : passe. 
+Personne n'a suivi. (20) sont retournés à Ghada16.
+Ghada16 a remporté 80  lors du pot .
+Ghada16 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Ts Ks 6h Js 5h]
+Siège 1 : Ghada16 (grosse blind) a remporté (80)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Ma389 (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°243817232052 : Tournoi #3594142893, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/05/2023 11:04:34 CET [21/05/2023 5:04:34 ET]
+Table '3594142893 1' 3-max Siège #3 est au bouton.
+Place 1: Ghada16 (340 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: Ma389 (270 en jetons) 
+Ghada16 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Jd]
+Ma389 : suit. 20
+Ghada16 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [4h Ac Td]
+Ghada16 : mise. 20
+psychoman59 : passe. 
+Ma389 : suit. 20
+*** TOURNANT *** [4h Ac Td] [2d]
+Ghada16 : parole 
+Ma389 : parole 
+*** RIVIÈRE *** [4h Ac Td 2d] [7c]
+Ghada16 : mise. 20
+Ma389 : suit. 20
+*** ABATTAGE ***
+Ghada16 : montre [Th 6s] (une paire de Dix)
+Ma389 : montre [6h Ad] (une paire de As)
+Ma389 a remporté 140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [4h Ac Td 2d 7c]
+Siège 1 : Ghada16 (petite blind) a montré [Th 6s] et a perdu avec une paire de Dix
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : Ma389 (bouton) a montré [6h Ad] et a gagné (140) avec une paire de As
+
+
+
+Main PokerStars n°243817237338 : Tournoi #3594142893, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 21/05/2023 11:05:12 CET [21/05/2023 5:05:12 ET]
+Table '3594142893 1' 3-max Siège #1 est au bouton.
+Place 1: Ghada16 (280 en jetons) 
+Place 2: psychoman59 (270 en jetons) 
+Place 3: Ma389 (350 en jetons) 
+psychoman59 : met la petite blind. 15
+Ma389 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Tc]
+Ghada16 : relance. 250 à 280 et est all-in.
+psychoman59 : passe. 
+Ma389 : suit. 250
+*** FLOP *** [8c Kh Jh]
+*** TOURNANT *** [8c Kh Jh] [7d]
+*** RIVIÈRE *** [8c Kh Jh 7d] [Qd]
+*** ABATTAGE ***
+Ma389 : montre [Th Ad] (une suite, Dix à As)
+Ghada16 : montre [Ah Ks] (une paire de Rois)
+Ma389 a remporté 575  lors du pot .
+Ghada16 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 575 | Commission 0 
+Tableau [8c Kh Jh 7d Qd]
+Siège 1 : Ghada16 (bouton) a montré [Ah Ks] et a perdu avec une paire de Rois
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Ma389 (grosse blind) a montré [Th Ad] et a gagné (575) avec une suite, Dix à As
+
+
+
+Main PokerStars n°243817240169 : Tournoi #3594142893, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 21/05/2023 11:05:32 CET [21/05/2023 5:05:32 ET]
+Table '3594142893 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (255 en jetons) 
+Place 3: Ma389 (645 en jetons) 
+Ma389 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 9d]
+Ma389 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [5c Ah Jd]
+psychoman59 : parole 
+Ma389 : parole 
+*** TOURNANT *** [5c Ah Jd] [8d]
+psychoman59 : parole 
+Ma389 : mise. 30
+psychoman59 : suit. 30
+*** RIVIÈRE *** [5c Ah Jd 8d] [2s]
+psychoman59 : parole 
+Ma389 : mise. 585 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (585) sont retournés à Ma389.
+Ma389 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [5c Ah Jd 8d 2s]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : Ma389 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°243817243915 : Tournoi #3594142893, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 21/05/2023 11:05:58 CET [21/05/2023 5:05:58 ET]
+Table '3594142893 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (195 en jetons) 
+Place 3: Ma389 (705 en jetons) 
+psychoman59 : met la petite blind. 15
+Ma389 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Kc]
+psychoman59 : relance. 165 à 195 et est all-in.
+Ma389 : suit. 165
+*** FLOP *** [Ks Jh 6d]
+*** TOURNANT *** [Ks Jh 6d] [Ad]
+*** RIVIÈRE *** [Ks Jh 6d Ad] [6c]
+*** ABATTAGE ***
+Ma389 : montre [8c 8h] (double paire, Huit et Six)
+psychoman59 : montre [3h Kc] (double paire, Rois et Six)
+psychoman59 a remporté 390  lors du pot .
+*** SYNTHÈSE ***
+Pot total 390 | Commission 0 
+Tableau [Ks Jh 6d Ad 6c]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [3h Kc] et a gagné (390) avec double paire, Rois et Six
+Siège 3 : Ma389 (grosse blind) a montré [8c 8h] et a perdu avec double paire, Huit et Six
+
+
+
+Main PokerStars n°243817246296 : Tournoi #3594142893, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 21/05/2023 11:06:15 CET [21/05/2023 5:06:15 ET]
+Table '3594142893 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (390 en jetons) 
+Place 3: Ma389 (510 en jetons) 
+Ma389 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Th]
+Ma389 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [6d Kc Ac]
+psychoman59 : parole 
+Ma389 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Ma389.
+Ma389 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [6d Kc Ac]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : Ma389 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°243817248081 : Tournoi #3594142893, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 21/05/2023 11:06:28 CET [21/05/2023 5:06:28 ET]
+Table '3594142893 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (350 en jetons) 
+Place 3: Ma389 (550 en jetons) 
+psychoman59 : met la petite blind. 20
+Ma389 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Qd]
+psychoman59 : relance. 310 à 350 et est all-in.
+Ma389 : suit. 310
+*** FLOP *** [Kd Qc 9d]
+*** TOURNANT *** [Kd Qc 9d] [Tc]
+*** RIVIÈRE *** [Kd Qc 9d Tc] [Kc]
+*** ABATTAGE ***
+Ma389 : montre [3c 8d] (une paire de Rois)
+psychoman59 : montre [Ts Qd] (double paire, Rois et Dames)
+psychoman59 a remporté 700  lors du pot .
+*** SYNTHÈSE ***
+Pot total 700 | Commission 0 
+Tableau [Kd Qc 9d Tc Kc]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Ts Qd] et a gagné (700) avec double paire, Rois et Dames
+Siège 3 : Ma389 (grosse blind) a montré [3c 8d] et a perdu avec une paire de Rois
+
+
+
+Main PokerStars n°243817249994 : Tournoi #3594142893, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 21/05/2023 11:06:41 CET [21/05/2023 5:06:41 ET]
+Table '3594142893 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (700 en jetons) 
+Place 3: Ma389 (200 en jetons) 
+Ma389 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h As]
+Ma389 : suit. 20
+psychoman59 : relance. 660 à 700 et est all-in.
+Ma389 : suit. 160 et est all-in.
+Personne n'a suivi. (500) sont retournés à psychoman59.
+*** FLOP *** [6c 2c 8s]
+*** TOURNANT *** [6c 2c 8s] [4h]
+*** RIVIÈRE *** [6c 2c 8s 4h] [8h]
+*** ABATTAGE ***
+psychoman59 : montre [9h As] (une paire de Huit)
+Ma389 : montre [2d Js] (double paire, Huit et Deux)
+Ma389 a remporté 400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [6c 2c 8s 4h 8h]
+Siège 2 : psychoman59 (grosse blind) a montré [9h As] et a perdu avec une paire de Huit
+Siège 3 : Ma389 (bouton) (petite blind) a montré [2d Js] et a gagné (400) avec double paire, Huit et Deux
+
+
+
+Main PokerStars n°243817252317 : Tournoi #3594142893, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 21/05/2023 11:06:58 CET [21/05/2023 5:06:58 ET]
+Table '3594142893 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (500 en jetons) 
+Place 3: Ma389 (400 en jetons) 
+psychoman59 : met la petite blind. 20
+Ma389 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Ah]
+psychoman59 : relance. 460 à 500 et est all-in.
+Ma389 : suit. 360 et est all-in.
+Personne n'a suivi. (100) sont retournés à psychoman59.
+*** FLOP *** [2c Ac Jh]
+*** TOURNANT *** [2c Ac Jh] [8h]
+*** RIVIÈRE *** [2c Ac Jh 8h] [Tc]
+*** ABATTAGE ***
+Ma389 : montre [9h 4h] (Hauteur As)
+psychoman59 : montre [2s Ah] (double paire, As et Deux)
+psychoman59 a remporté 800  lors du pot .
+Ma389 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 800 | Commission 0 
+Tableau [2c Ac Jh 8h Tc]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [2s Ah] et a gagné (800) avec double paire, As et Deux
+Siège 3 : Ma389 (grosse blind) a montré [9h 4h] et a perdu avec Hauteur As
+
+
+

@@ -1,0 +1,933 @@
+﻿Main PokerStars n°254131986213 : Tournoi #3840771408, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 01/01/2025 6:49:41 CET [01/01/2025 0:49:41 ET]
+Table '3840771408 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: Francky120611 (500 en jetons) 
+Place 3: KKKK1983 (500 en jetons) 
+Francky120611 : met la petite blind. 10
+KKKK1983 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Qs]
+psychoman59 : passe. 
+Francky120611 : suit. 10
+KKKK1983 : parole 
+*** FLOP *** [9d 9c 3d]
+Francky120611 : parole 
+KKKK1983 : parole 
+*** TOURNANT *** [9d 9c 3d] [3h]
+Francky120611 : parole 
+KKKK1983 : parole 
+*** RIVIÈRE *** [9d 9c 3d 3h] [5s]
+Francky120611 : parole 
+KKKK1983 : parole 
+*** ABATTAGE ***
+Francky120611 : montre [6h 2h] (double paire, Neuf et Trois)
+KKKK1983 : montre [6s Kc] (double paire, Neuf et Trois - Roi kicker)
+KKKK1983 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [9d 9c 3d 3h 5s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Francky120611 (petite blind) a montré [6h 2h] et a perdu avec double paire, Neuf et Trois
+Siège 3 : KKKK1983 (grosse blind) a montré [6s Kc] et a gagné (40) avec double paire, Neuf et Trois
+
+
+
+Main PokerStars n°254131988259 : Tournoi #3840771408, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 01/01/2025 6:50:05 CET [01/01/2025 0:50:05 ET]
+Table '3840771408 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: Francky120611 (480 en jetons) 
+Place 3: KKKK1983 (520 en jetons) 
+KKKK1983 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 3h]
+Francky120611 : suit. 20
+KKKK1983 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Th Qd Td]
+KKKK1983 : parole 
+psychoman59 : parole 
+Francky120611 : parole 
+*** TOURNANT *** [Th Qd Td] [Ts]
+KKKK1983 : parole 
+psychoman59 : parole 
+Francky120611 : parole 
+*** RIVIÈRE *** [Th Qd Td Ts] [Qs]
+KKKK1983 : parole 
+psychoman59 : parole 
+Francky120611 : parole 
+*** ABATTAGE ***
+KKKK1983 : montre [Jc 9s] (un full, full aux Dix par les Dames)
+psychoman59 : montre [Kh 3h] (un full, full aux Dix par les Dames)
+Francky120611 : montre [2c 4d] (un full, full aux Dix par les Dames)
+KKKK1983 a remporté 20  lors du pot .
+psychoman59 a remporté 20  lors du pot .
+Francky120611 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Th Qd Td Ts Qs]
+Siège 1 : psychoman59 (grosse blind) a montré [Kh 3h] et a gagné (20) avec un full, full aux Dix par les Dames
+Siège 2 : Francky120611 (bouton) a montré [2c 4d] et a gagné (20) avec un full, full aux Dix par les Dames
+Siège 3 : KKKK1983 (petite blind) a montré [Jc 9s] et a gagné (20) avec un full, full aux Dix par les Dames
+
+
+
+Main PokerStars n°254131990519 : Tournoi #3840771408, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 01/01/2025 6:50:30 CET [01/01/2025 0:50:30 ET]
+Table '3840771408 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: Francky120611 (480 en jetons) 
+Place 3: KKKK1983 (520 en jetons) 
+psychoman59 : met la petite blind. 10
+Francky120611 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 3d]
+KKKK1983 : passe. 
+psychoman59 : suit. 10
+Francky120611 : parole 
+*** FLOP *** [Ts Js Qs]
+psychoman59 : mise. 40
+Francky120611 : suit. 40
+*** TOURNANT *** [Ts Js Qs] [4c]
+psychoman59 : mise. 60
+Francky120611 : suit. 60
+*** RIVIÈRE *** [Ts Js Qs 4c] [7d]
+psychoman59 : parole 
+Francky120611 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [4d 3d] (une paire de Quatre)
+Francky120611 : cache la main perdante. 
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Ts Js Qs 4c 7d]
+Siège 1 : psychoman59 (petite blind) a montré [4d 3d] et a gagné (240) avec une paire de Quatre
+Siège 2 : Francky120611 (grosse blind) a caché la main perdante. [5d Kh]
+Siège 3 : KKKK1983 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°254131993114 : Tournoi #3840771408, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 01/01/2025 6:50:59 CET [01/01/2025 0:50:59 ET]
+Table '3840771408 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (620 en jetons) 
+Place 2: Francky120611 (360 en jetons) 
+Place 3: KKKK1983 (520 en jetons) 
+Francky120611 : met la petite blind. 10
+KKKK1983 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 5d]
+psychoman59 : passe. 
+Francky120611 : suit. 10
+KKKK1983 : parole 
+*** FLOP *** [Qc Td Ac]
+Francky120611 : parole 
+KKKK1983 : parole 
+*** TOURNANT *** [Qc Td Ac] [7s]
+Francky120611 : parole 
+KKKK1983 : parole 
+*** RIVIÈRE *** [Qc Td Ac 7s] [7c]
+Francky120611 : parole 
+KKKK1983 : parole 
+*** ABATTAGE ***
+Francky120611 : montre [3c Js] (une paire de Sept)
+KKKK1983 : cache la main perdante. 
+Francky120611 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Qc Td Ac 7s 7c]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Francky120611 (petite blind) a montré [3c Js] et a gagné (40) avec une paire de Sept
+Siège 3 : KKKK1983 (grosse blind) a caché la main perdante. [8c 5s]
+
+
+
+Main PokerStars n°254131995264 : Tournoi #3840771408, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 01/01/2025 6:51:24 CET [01/01/2025 0:51:24 ET]
+Table '3840771408 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (620 en jetons) 
+Place 2: Francky120611 (380 en jetons) 
+Place 3: KKKK1983 (500 en jetons) 
+KKKK1983 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Kh]
+Francky120611 : suit. 20
+KKKK1983 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Jc 4s 6h]
+KKKK1983 : parole 
+psychoman59 : parole 
+Francky120611 : mise. 20
+KKKK1983 : suit. 20
+psychoman59 : passe. 
+*** TOURNANT *** [Jc 4s 6h] [6c]
+KKKK1983 : parole 
+Francky120611 : mise. 20
+KKKK1983 : suit. 20
+*** RIVIÈRE *** [Jc 4s 6h 6c] [3s]
+KKKK1983 : parole 
+Francky120611 : mise. 60
+KKKK1983 : passe. 
+Personne n'a suivi. (60) sont retournés à Francky120611.
+Francky120611 a remporté 140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [Jc 4s 6h 6c 3s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : Francky120611 (bouton) a remporté (140)
+Siège 3 : KKKK1983 (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°254131998147 : Tournoi #3840771408, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 01/01/2025 6:51:57 CET [01/01/2025 0:51:57 ET]
+Table '3840771408 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (600 en jetons) 
+Place 2: Francky120611 (460 en jetons) 
+Place 3: KKKK1983 (440 en jetons) 
+psychoman59 : met la petite blind. 15
+Francky120611 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 5d]
+KKKK1983 : suit. 30
+psychoman59 : passe. 
+Francky120611 : parole 
+*** FLOP *** [4c 2s 8d]
+Francky120611 : parole 
+KKKK1983 : parole 
+*** TOURNANT *** [4c 2s 8d] [2c]
+Francky120611 : parole 
+KKKK1983 : mise. 30
+Francky120611 : suit. 30
+*** RIVIÈRE *** [4c 2s 8d 2c] [9d]
+Francky120611 : parole 
+KKKK1983 : parole 
+*** ABATTAGE ***
+Francky120611 : montre [7h 6c] (une paire de Deux)
+KKKK1983 : montre [Jc Ac] (une paire de Deux - As kicker)
+KKKK1983 a remporté 135  lors du pot .
+*** SYNTHÈSE ***
+Pot total 135 | Commission 0 
+Tableau [4c 2s 8d 2c 9d]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Francky120611 (grosse blind) a montré [7h 6c] et a perdu avec une paire de Deux
+Siège 3 : KKKK1983 (bouton) a montré [Jc Ac] et a gagné (135) avec une paire de Deux
+
+
+
+Main PokerStars n°254132000207 : Tournoi #3840771408, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 01/01/2025 6:52:21 CET [01/01/2025 0:52:21 ET]
+Table '3840771408 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (585 en jetons) 
+Place 2: Francky120611 (400 en jetons) 
+Place 3: KKKK1983 (515 en jetons) 
+Francky120611 : met la petite blind. 15
+KKKK1983 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Ks]
+psychoman59 : suit. 30
+Francky120611 : suit. 15
+KKKK1983 : parole 
+*** FLOP *** [3c Ac Ad]
+Francky120611 : parole 
+KKKK1983 : parole 
+psychoman59 : mise. 90
+Francky120611 : passe. 
+KKKK1983 : suit. 90
+*** TOURNANT *** [3c Ac Ad] [5c]
+KKKK1983 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [3c Ac Ad 5c] [Kc]
+KKKK1983 : mise. 135
+psychoman59 : passe. 
+Personne n'a suivi. (135) sont retournés à KKKK1983.
+KKKK1983 a remporté 270  lors du pot .
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Tableau [3c Ac Ad 5c Kc]
+Siège 1 : psychoman59 (bouton) s'est couché. sur le Rivière
+Siège 2 : Francky120611 (petite blind) s'est couché. sur le Flop
+Siège 3 : KKKK1983 (grosse blind) a remporté (270)
+
+
+
+Main PokerStars n°254132003455 : Tournoi #3840771408, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 01/01/2025 6:52:57 CET [01/01/2025 0:52:57 ET]
+Table '3840771408 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (465 en jetons) 
+Place 2: Francky120611 (370 en jetons) 
+Place 3: KKKK1983 (665 en jetons) 
+KKKK1983 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Ks]
+Francky120611 : suit. 30
+KKKK1983 : suit. 15
+psychoman59 : relance. 60 à 90
+Francky120611 : passe. 
+KKKK1983 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 90  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (90)
+Siège 2 : Francky120611 (bouton) s'est couché. avant Flop
+Siège 3 : KKKK1983 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254132004912 : Tournoi #3840771408, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 01/01/2025 6:53:14 CET [01/01/2025 0:53:14 ET]
+Table '3840771408 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (525 en jetons) 
+Place 2: Francky120611 (340 en jetons) 
+Place 3: KKKK1983 (635 en jetons) 
+psychoman59 : met la petite blind. 15
+Francky120611 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 9c]
+KKKK1983 : suit. 30
+psychoman59 : suit. 15
+Francky120611 : parole 
+*** FLOP *** [2c 8h Kh]
+psychoman59 : parole 
+Francky120611 : parole 
+KKKK1983 : mise. 45
+psychoman59 : passe. 
+Francky120611 : suit. 45
+*** TOURNANT *** [2c 8h Kh] [4h]
+Francky120611 : parole 
+KKKK1983 : parole 
+*** RIVIÈRE *** [2c 8h Kh 4h] [5s]
+Francky120611 : mise. 60
+KKKK1983 : suit. 60
+*** ABATTAGE ***
+Francky120611 : montre [7h Qh] (une couleur, hauteur Roi)
+KKKK1983 : cache la main perdante. 
+Francky120611 a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [2c 8h Kh 4h 5s]
+Siège 1 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 2 : Francky120611 (grosse blind) a montré [7h Qh] et a gagné (300) avec une couleur, hauteur Roi
+Siège 3 : KKKK1983 (bouton) a caché la main perdante. [Ks Td]
+
+
+
+Main PokerStars n°254132007301 : Tournoi #3840771408, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 01/01/2025 6:53:42 CET [01/01/2025 0:53:42 ET]
+Table '3840771408 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (495 en jetons) 
+Place 2: Francky120611 (505 en jetons) 
+Place 3: KKKK1983 (500 en jetons) 
+Francky120611 : met la petite blind. 15
+KKKK1983 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 4c]
+psychoman59 : passe. 
+Francky120611 : suit. 15
+KKKK1983 : parole 
+*** FLOP *** [Ac 2c As]
+Francky120611 : parole 
+KKKK1983 : parole 
+*** TOURNANT *** [Ac 2c As] [5s]
+Francky120611 : parole 
+KKKK1983 : parole 
+*** RIVIÈRE *** [Ac 2c As 5s] [Ah]
+Francky120611 : parole 
+KKKK1983 : parole 
+*** ABATTAGE ***
+Francky120611 : montre [3h 9c] (un brelan de As)
+KKKK1983 : montre [Th Js] (un brelan de As - Valet kicker)
+KKKK1983 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ac 2c As 5s Ah]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Francky120611 (petite blind) a montré [3h 9c] et a perdu avec un brelan de As
+Siège 3 : KKKK1983 (grosse blind) a montré [Th Js] et a gagné (60) avec un brelan de As
+
+
+
+Main PokerStars n°254132009457 : Tournoi #3840771408, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 01/01/2025 6:54:07 CET [01/01/2025 0:54:07 ET]
+Table '3840771408 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (495 en jetons) 
+Place 2: Francky120611 (475 en jetons) 
+Place 3: KKKK1983 (530 en jetons) 
+KKKK1983 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 3d]
+Francky120611 : passe. 
+KKKK1983 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 2 : Francky120611 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : KKKK1983 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254132009866 : Tournoi #3840771408, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 01/01/2025 6:54:12 CET [01/01/2025 0:54:12 ET]
+Table '3840771408 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (515 en jetons) 
+Place 2: Francky120611 (475 en jetons) 
+Place 3: KKKK1983 (510 en jetons) 
+psychoman59 : met la petite blind. 20
+Francky120611 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Jh]
+KKKK1983 : passe. 
+psychoman59 : suit. 20
+Francky120611 : parole 
+*** FLOP *** [Kh 2d Qh]
+psychoman59 : parole 
+Francky120611 : parole 
+*** TOURNANT *** [Kh 2d Qh] [Ac]
+psychoman59 : parole 
+Francky120611 : mise. 40
+psychoman59 : suit. 40
+*** RIVIÈRE *** [Kh 2d Qh Ac] [Ah]
+psychoman59 : parole 
+Francky120611 : mise. 40
+psychoman59 : suit. 40
+*** ABATTAGE ***
+Francky120611 : montre [As 5h] (un brelan de As)
+psychoman59 : cache la main perdante. 
+Francky120611 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Kh 2d Qh Ac Ah]
+Siège 1 : psychoman59 (petite blind) a caché la main perdante. [Qc Jh]
+Siège 2 : Francky120611 (grosse blind) a montré [As 5h] et a gagné (240) avec un brelan de As
+Siège 3 : KKKK1983 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°254132011788 : Tournoi #3840771408, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 01/01/2025 6:54:34 CET [01/01/2025 0:54:34 ET]
+Table '3840771408 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (395 en jetons) 
+Place 2: Francky120611 (595 en jetons) 
+Place 3: KKKK1983 (510 en jetons) 
+Francky120611 : met la petite blind. 20
+KKKK1983 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 9s]
+psychoman59 : passe. 
+Francky120611 : suit. 20
+KKKK1983 : parole 
+*** FLOP *** [6c Js Kd]
+Francky120611 : parole 
+KKKK1983 : parole 
+*** TOURNANT *** [6c Js Kd] [8c]
+Francky120611 : parole 
+KKKK1983 : parole 
+*** RIVIÈRE *** [6c Js Kd 8c] [Ac]
+Francky120611 : parole 
+KKKK1983 : parole 
+*** ABATTAGE ***
+Francky120611 : montre [Ts 5d] (Hauteur As)
+KKKK1983 : montre [6s 9d] (une paire de Six)
+KKKK1983 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [6c Js Kd 8c Ac]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Francky120611 (petite blind) a montré [Ts 5d] et a perdu avec Hauteur As
+Siège 3 : KKKK1983 (grosse blind) a montré [6s 9d] et a gagné (80) avec une paire de Six
+
+
+
+Main PokerStars n°254132013706 : Tournoi #3840771408, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 01/01/2025 6:54:56 CET [01/01/2025 0:54:56 ET]
+Table '3840771408 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (395 en jetons) 
+Place 2: Francky120611 (555 en jetons) 
+Place 3: KKKK1983 (550 en jetons) 
+KKKK1983 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 9c]
+Francky120611 : suit. 40
+KKKK1983 : passe. 
+psychoman59 : parole 
+*** FLOP *** [6s 4s Ad]
+psychoman59 : parole 
+Francky120611 : parole 
+*** TOURNANT *** [6s 4s Ad] [3s]
+psychoman59 : parole 
+Francky120611 : parole 
+*** RIVIÈRE *** [6s 4s Ad 3s] [7c]
+psychoman59 : parole 
+Francky120611 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [2d 9c] (Hauteur As)
+Francky120611 : montre [7d 9s] (une paire de Sept)
+Francky120611 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [6s 4s Ad 3s 7c]
+Siège 1 : psychoman59 (grosse blind) a montré [2d 9c] et a perdu avec Hauteur As
+Siège 2 : Francky120611 (bouton) a montré [7d 9s] et a gagné (100) avec une paire de Sept
+Siège 3 : KKKK1983 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254132015448 : Tournoi #3840771408, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 01/01/2025 6:55:17 CET [01/01/2025 0:55:17 ET]
+Table '3840771408 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (355 en jetons) 
+Place 2: Francky120611 (615 en jetons) 
+Place 3: KKKK1983 (530 en jetons) 
+psychoman59 : met la petite blind. 20
+Francky120611 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 9h]
+KKKK1983 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Francky120611.
+Francky120611 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Francky120611 (grosse blind) a remporté (40)
+Siège 3 : KKKK1983 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°254132015981 : Tournoi #3840771408, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 01/01/2025 6:55:24 CET [01/01/2025 0:55:24 ET]
+Table '3840771408 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (335 en jetons) 
+Place 2: Francky120611 (635 en jetons) 
+Place 3: KKKK1983 (530 en jetons) 
+Francky120611 : met la petite blind. 20
+KKKK1983 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Qh]
+psychoman59 : relance. 40 à 80
+Francky120611 : passe. 
+KKKK1983 : suit. 40
+*** FLOP *** [Kh Ts Js]
+KKKK1983 : parole 
+psychoman59 : mise. 255 et est all-in.
+KKKK1983 : suit. 255
+*** TOURNANT *** [Kh Ts Js] [Qd]
+*** RIVIÈRE *** [Kh Ts Js Qd] [5c]
+*** ABATTAGE ***
+KKKK1983 : montre [Th Ks] (double paire, Rois et Dix)
+psychoman59 : montre [Kc Qh] (double paire, Rois et Dames)
+psychoman59 a remporté 690  lors du pot .
+*** SYNTHÈSE ***
+Pot total 690 | Commission 0 
+Tableau [Kh Ts Js Qd 5c]
+Siège 1 : psychoman59 (bouton) a montré [Kc Qh] et a gagné (690) avec double paire, Rois et Dames
+Siège 2 : Francky120611 (petite blind) s'est couché. avant Flop
+Siège 3 : KKKK1983 (grosse blind) a montré [Th Ks] et a perdu avec double paire, Rois et Dix
+
+
+
+Main PokerStars n°254132017998 : Tournoi #3840771408, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 01/01/2025 6:55:51 CET [01/01/2025 0:55:51 ET]
+Table '3840771408 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (690 en jetons) 
+Place 2: Francky120611 (615 en jetons) 
+Place 3: KKKK1983 (195 en jetons) 
+KKKK1983 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Js]
+Francky120611 : suit. 60
+KKKK1983 : passe. 
+psychoman59 : relance. 630 à 690 et est all-in.
+Francky120611 : passe. 
+Personne n'a suivi. (630) sont retournés à psychoman59.
+psychoman59 a remporté 150  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (150)
+Siège 2 : Francky120611 (bouton) s'est couché. avant Flop
+Siège 3 : KKKK1983 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254132018737 : Tournoi #3840771408, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 01/01/2025 6:56:01 CET [01/01/2025 0:56:01 ET]
+Table '3840771408 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (780 en jetons) 
+Place 2: Francky120611 (555 en jetons) 
+Place 3: KKKK1983 (165 en jetons) 
+psychoman59 : met la petite blind. 30
+Francky120611 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Kh]
+KKKK1983 : passe. 
+psychoman59 : suit. 30
+Francky120611 : parole 
+*** FLOP *** [7s 3c 6h]
+psychoman59 : parole 
+Francky120611 : parole 
+*** TOURNANT *** [7s 3c 6h] [2d]
+psychoman59 : parole 
+Francky120611 : mise. 60
+psychoman59 : suit. 60
+*** RIVIÈRE *** [7s 3c 6h 2d] [Qd]
+psychoman59 : parole 
+Francky120611 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à Francky120611.
+Francky120611 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [7s 3c 6h 2d Qd]
+Siège 1 : psychoman59 (petite blind) s'est couché. sur le Rivière
+Siège 2 : Francky120611 (grosse blind) a remporté (240)
+Siège 3 : KKKK1983 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°254132020657 : Tournoi #3840771408, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 01/01/2025 6:56:25 CET [01/01/2025 0:56:25 ET]
+Table '3840771408 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (660 en jetons) 
+Place 2: Francky120611 (675 en jetons) 
+Place 3: KKKK1983 (165 en jetons) 
+Francky120611 : met la petite blind. 30
+KKKK1983 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 3h]
+psychoman59 : passe. 
+Francky120611 : relance. 60 à 120
+KKKK1983 : relance. 45 à 165 et est all-in.
+Francky120611 : suit. 45
+*** FLOP *** [9c 3d 9s]
+*** TOURNANT *** [9c 3d 9s] [8d]
+*** RIVIÈRE *** [9c 3d 9s 8d] [7d]
+*** ABATTAGE ***
+Francky120611 : montre [Js As] (une paire de Neuf)
+KKKK1983 : montre [6c Ad] (une paire de Neuf - plus basse kicker)
+Francky120611 a remporté 330  lors du pot .
+KKKK1983 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 330 | Commission 0 
+Tableau [9c 3d 9s 8d 7d]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Francky120611 (petite blind) a montré [Js As] et a gagné (330) avec une paire de Neuf
+Siège 3 : KKKK1983 (grosse blind) a montré [6c Ad] et a perdu avec une paire de Neuf
+
+
+
+Main PokerStars n°254132022016 : Tournoi #3840771408, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 01/01/2025 6:56:43 CET [01/01/2025 0:56:43 ET]
+Table '3840771408 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (660 en jetons) 
+Place 2: Francky120611 (840 en jetons) 
+Francky120611 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Jh]
+Francky120611 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [8s 5d Th]
+psychoman59 : parole 
+Francky120611 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à Francky120611.
+Francky120611 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [8s 5d Th]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : Francky120611 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°254132022935 : Tournoi #3840771408, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 01/01/2025 6:56:55 CET [01/01/2025 0:56:55 ET]
+Table '3840771408 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (600 en jetons) 
+Place 2: Francky120611 (900 en jetons) 
+psychoman59 : met la petite blind. 30
+Francky120611 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 7s]
+psychoman59 : suit. 30
+Francky120611 : parole 
+*** FLOP *** [8d 2s Qc]
+Francky120611 : parole 
+psychoman59 : mise. 120
+Francky120611 : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [8d 2s Qc]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 2 : Francky120611 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°254132024050 : Tournoi #3840771408, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 01/01/2025 6:57:09 CET [01/01/2025 0:57:09 ET]
+Table '3840771408 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (660 en jetons) 
+Place 2: Francky120611 (840 en jetons) 
+Francky120611 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 4c]
+Francky120611 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [7d 9c 4d]
+psychoman59 : parole 
+Francky120611 : parole 
+*** TOURNANT *** [7d 9c 4d] [Jc]
+psychoman59 : parole 
+Francky120611 : parole 
+*** RIVIÈRE *** [7d 9c 4d Jc] [Qh]
+psychoman59 : mise. 60
+Francky120611 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [7d 9c 4d Jc Qh]
+Siège 1 : psychoman59 (grosse blind) a remporté (120)
+Siège 2 : Francky120611 (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°254132025794 : Tournoi #3840771408, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 01/01/2025 6:57:32 CET [01/01/2025 0:57:32 ET]
+Table '3840771408 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (720 en jetons) 
+Place 2: Francky120611 (780 en jetons) 
+psychoman59 : met la petite blind. 30
+Francky120611 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 5s]
+psychoman59 : suit. 30
+Francky120611 : relance. 60 à 120
+psychoman59 : suit. 60
+*** FLOP *** [Jd 9d 6c]
+Francky120611 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à Francky120611.
+Francky120611 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Jd 9d 6c]
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+Siège 2 : Francky120611 (grosse blind) a remporté (240)
+
+
+
+Main PokerStars n°254132026930 : Tournoi #3840771408, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau V (40/80) - 01/01/2025 6:57:47 CET [01/01/2025 0:57:47 ET]
+Table '3840771408 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (600 en jetons) 
+Place 2: Francky120611 (900 en jetons) 
+Francky120611 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Td]
+Francky120611 : suit. 40
+psychoman59 : parole 
+*** FLOP *** [4h 8h Jc]
+psychoman59 : parole 
+Francky120611 : mise. 80
+psychoman59 : relance. 440 à 520 et est all-in.
+Francky120611 : suit. 440
+*** TOURNANT *** [4h 8h Jc] [7s]
+*** RIVIÈRE *** [4h 8h Jc 7s] [5h]
+*** ABATTAGE ***
+psychoman59 : montre [9h Td] (une suite, Sept à Valet)
+Francky120611 : montre [6h 8s] (une suite, Quatre à Huit)
+psychoman59 a remporté 1200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1200 | Commission 0 
+Tableau [4h 8h Jc 7s 5h]
+Siège 1 : psychoman59 (grosse blind) a montré [9h Td] et a gagné (1200) avec une suite, Sept à Valet
+Siège 2 : Francky120611 (bouton) (petite blind) a montré [6h 8s] et a perdu avec une suite, Quatre à Huit
+
+
+
+Main PokerStars n°254132028321 : Tournoi #3840771408, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau V (40/80) - 01/01/2025 6:58:05 CET [01/01/2025 0:58:05 ET]
+Table '3840771408 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1200 en jetons) 
+Place 2: Francky120611 (300 en jetons) 
+psychoman59 : met la petite blind. 40
+Francky120611 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 6h]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Francky120611.
+Francky120611 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : Francky120611 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°254132028811 : Tournoi #3840771408, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau V (40/80) - 01/01/2025 6:58:11 CET [01/01/2025 0:58:11 ET]
+Table '3840771408 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (1160 en jetons) 
+Place 2: Francky120611 (340 en jetons) 
+Francky120611 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 4d]
+Francky120611 : suit. 40
+psychoman59 : parole 
+*** FLOP *** [4c 3s Kd]
+psychoman59 : mise. 1080 et est all-in.
+Francky120611 : passe. 
+Personne n'a suivi. (1080) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [4c 3s Kd]
+Siège 1 : psychoman59 (grosse blind) a remporté (160)
+Siège 2 : Francky120611 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°254132029560 : Tournoi #3840771408, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau V (40/80) - 01/01/2025 6:58:21 CET [01/01/2025 0:58:21 ET]
+Table '3840771408 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1240 en jetons) 
+Place 2: Francky120611 (260 en jetons) 
+psychoman59 : met la petite blind. 40
+Francky120611 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 2h]
+psychoman59 : suit. 40
+Francky120611 : parole 
+*** FLOP *** [3h 7c 6d]
+Francky120611 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3h 7c 6d] [7d]
+Francky120611 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [3h 7c 6d 7d] [7h]
+Francky120611 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Francky120611 : montre [Qs 5s] (un brelan de Sept)
+psychoman59 : montre [Kc 2h] (un brelan de Sept - Roi kicker)
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [3h 7c 6d 7d 7h]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Kc 2h] et a gagné (160) avec un brelan de Sept
+Siège 2 : Francky120611 (grosse blind) a montré [Qs 5s] et a perdu avec un brelan de Sept
+
+
+
+Main PokerStars n°254132030764 : Tournoi #3840771408, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau V (40/80) - 01/01/2025 6:58:37 CET [01/01/2025 0:58:37 ET]
+Table '3840771408 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (1320 en jetons) 
+Place 2: Francky120611 (180 en jetons) 
+Francky120611 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 2d]
+Francky120611 : suit. 40
+psychoman59 : parole 
+*** FLOP *** [2s 4d Td]
+psychoman59 : parole 
+Francky120611 : mise. 80
+psychoman59 : relance. 80 à 160
+Francky120611 : suit. 20 et est all-in.
+Personne n'a suivi. (60) sont retournés à psychoman59.
+*** TOURNANT *** [2s 4d Td] [7d]
+*** RIVIÈRE *** [2s 4d Td 7d] [7c]
+*** ABATTAGE ***
+psychoman59 : montre [9c 2d] (double paire, Sept et Deux)
+Francky120611 : montre [3s Ts] (double paire, Dix et Sept)
+Francky120611 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [2s 4d Td 7d 7c]
+Siège 1 : psychoman59 (grosse blind) a montré [9c 2d] et a perdu avec double paire, Sept et Deux
+Siège 2 : Francky120611 (bouton) (petite blind) a montré [3s Ts] et a gagné (360) avec double paire, Dix et Sept
+
+
+
+Main PokerStars n°254132032249 : Tournoi #3840771408, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau V (40/80) - 01/01/2025 6:58:56 CET [01/01/2025 0:58:56 ET]
+Table '3840771408 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1140 en jetons) 
+Place 2: Francky120611 (360 en jetons) 
+psychoman59 : met la petite blind. 40
+Francky120611 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 8h]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Francky120611.
+Francky120611 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : Francky120611 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°254132032764 : Tournoi #3840771408, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau V (40/80) - 01/01/2025 6:59:03 CET [01/01/2025 0:59:03 ET]
+Table '3840771408 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (1100 en jetons) 
+Place 2: Francky120611 (400 en jetons) 
+Francky120611 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Ac]
+Francky120611 : suit. 40
+psychoman59 : relance. 1020 à 1100 et est all-in.
+Francky120611 : passe. 
+Personne n'a suivi. (1020) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (160)
+Siège 2 : Francky120611 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254132033420 : Tournoi #3840771408, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau V (40/80) - 01/01/2025 6:59:11 CET [01/01/2025 0:59:11 ET]
+Table '3840771408 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1180 en jetons) 
+Place 2: Francky120611 (320 en jetons) 
+psychoman59 : met la petite blind. 40
+Francky120611 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 4c]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Francky120611.
+Francky120611 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : Francky120611 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°254132033770 : Tournoi #3840771408, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau V (40/80) - 01/01/2025 6:59:16 CET [01/01/2025 0:59:16 ET]
+Table '3840771408 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (1140 en jetons) 
+Place 2: Francky120611 (360 en jetons) 
+Francky120611 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 2d]
+Francky120611 : suit. 40
+psychoman59 : parole 
+*** FLOP *** [8s Qs Th]
+psychoman59 : mise. 1060 et est all-in.
+Francky120611 : suit. 280 et est all-in.
+Personne n'a suivi. (780) sont retournés à psychoman59.
+*** TOURNANT *** [8s Qs Th] [Td]
+*** RIVIÈRE *** [8s Qs Th Td] [Js]
+*** ABATTAGE ***
+psychoman59 : montre [Ts 2d] (un brelan de Dix)
+Francky120611 : montre [As Qc] (double paire, Dames et Dix)
+psychoman59 a remporté 720  lors du pot .
+Francky120611 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 0.50 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 720 | Commission 0 
+Tableau [8s Qs Th Td Js]
+Siège 1 : psychoman59 (grosse blind) a montré [Ts 2d] et a gagné (720) avec un brelan de Dix
+Siège 2 : Francky120611 (bouton) (petite blind) a montré [As Qc] et a perdu avec double paire, Dames et Dix
+
+
+

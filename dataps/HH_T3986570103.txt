@@ -1,0 +1,453 @@
+﻿Main PokerStars n°260229632693 : Tournoi #3986570103, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/03/2026 10:57:52 CET [26/03/2026 5:57:52 ET]
+Table '3986570103 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: Kzzzx (500 en jetons) 
+Place 3: green_stormX (500 en jetons) 
+Kzzzx : met la petite blind. 10
+green_stormX : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 9s]
+psychoman59 : suit. 20
+Kzzzx : passe. 
+green_stormX : parole 
+*** FLOP *** [8s Th 8h]
+green_stormX : parole 
+psychoman59 : mise. 50
+green_stormX : suit. 50
+*** TOURNANT *** [8s Th 8h] [Ac]
+green_stormX : parole 
+psychoman59 : mise. 75
+green_stormX : suit. 75
+*** RIVIÈRE *** [8s Th 8h Ac] [Jd]
+green_stormX : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+green_stormX : montre [2c 2d] (double paire, Huit et Deux)
+psychoman59 : montre [Ts 9s] (double paire, Dix et Huit)
+psychoman59 a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [8s Th 8h Ac Jd]
+Siège 1 : psychoman59 (bouton) a montré [Ts 9s] et a gagné (300) avec double paire, Dix et Huit
+Siège 2 : Kzzzx (petite blind) s'est couché. avant Flop
+Siège 3 : green_stormX (grosse blind) a montré [2c 2d] et a perdu avec double paire, Huit et Deux
+
+
+
+Main PokerStars n°260229634271 : Tournoi #3986570103, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/03/2026 10:58:16 CET [26/03/2026 5:58:16 ET]
+Table '3986570103 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (655 en jetons) 
+Place 2: Kzzzx (490 en jetons) 
+Place 3: green_stormX (355 en jetons) 
+green_stormX : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Ac]
+Kzzzx : passe. 
+green_stormX : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (20)
+Siège 2 : Kzzzx (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : green_stormX (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260229634940 : Tournoi #3986570103, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/03/2026 10:58:26 CET [26/03/2026 5:58:26 ET]
+Table '3986570103 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (665 en jetons) 
+Place 2: Kzzzx (490 en jetons) 
+Place 3: green_stormX (345 en jetons) 
+psychoman59 : met la petite blind. 10
+Kzzzx : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Tc]
+green_stormX : suit. 20
+psychoman59 : passe. 
+Kzzzx : parole 
+*** FLOP *** [5c Qs 5h]
+Kzzzx : parole 
+green_stormX : mise. 25
+Kzzzx : suit. 25
+*** TOURNANT *** [5c Qs 5h] [4d]
+Kzzzx : parole 
+green_stormX : mise. 60
+Kzzzx : suit. 60
+*** RIVIÈRE *** [5c Qs 5h 4d] [Kh]
+Kzzzx : parole 
+green_stormX : mise. 240 et est all-in.
+Kzzzx : passe. 
+Personne n'a suivi. (240) sont retournés à green_stormX.
+green_stormX a remporté 220  lors du pot .
+*** SYNTHÈSE ***
+Pot total 220 | Commission 0 
+Tableau [5c Qs 5h 4d Kh]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Kzzzx (grosse blind) s'est couché. sur le Rivière
+Siège 3 : green_stormX (bouton) a remporté (220)
+
+
+
+Main PokerStars n°260229637601 : Tournoi #3986570103, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/03/2026 10:59:06 CET [26/03/2026 5:59:06 ET]
+Table '3986570103 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (655 en jetons) 
+Place 2: Kzzzx (385 en jetons) 
+Place 3: green_stormX (460 en jetons) 
+Kzzzx : met la petite blind. 10
+green_stormX : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Ac]
+psychoman59 : suit. 20
+Kzzzx : suit. 10
+green_stormX : parole 
+*** FLOP *** [3s 8h 9s]
+Kzzzx : parole 
+green_stormX : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3s 8h 9s] [7s]
+Kzzzx : parole 
+green_stormX : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [3s 8h 9s 7s] [9d]
+Kzzzx : parole 
+green_stormX : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Kzzzx : montre [6s 7d] (double paire, Neuf et Sept)
+green_stormX : cache la main perdante. 
+psychoman59 : cache la main perdante. 
+Kzzzx a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [3s 8h 9s 7s 9d]
+Siège 1 : psychoman59 (bouton) a caché la main perdante. [6d Ac]
+Siège 2 : Kzzzx (petite blind) a montré [6s 7d] et a gagné (60) avec double paire, Neuf et Sept
+Siège 3 : green_stormX (grosse blind) a caché la main perdante. [Qc Jh]
+
+
+
+Main PokerStars n°260229639179 : Tournoi #3986570103, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/03/2026 10:59:30 CET [26/03/2026 5:59:30 ET]
+Table '3986570103 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (635 en jetons) 
+Place 2: Kzzzx (425 en jetons) 
+Place 3: green_stormX (440 en jetons) 
+green_stormX : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Qs]
+Kzzzx : passe. 
+green_stormX : suit. 10
+psychoman59 : relance. 615 à 635 et est all-in.
+green_stormX : passe. 
+Personne n'a suivi. (615) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 2 : Kzzzx (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : green_stormX (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260229639793 : Tournoi #3986570103, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/03/2026 10:59:39 CET [26/03/2026 5:59:39 ET]
+Table '3986570103 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (655 en jetons) 
+Place 2: Kzzzx (425 en jetons) 
+Place 3: green_stormX (420 en jetons) 
+psychoman59 : met la petite blind. 10
+Kzzzx : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 2h]
+green_stormX : suit. 20
+psychoman59 : suit. 10
+Kzzzx : parole 
+*** FLOP *** [Kh 9h Ad]
+psychoman59 : parole 
+Kzzzx : parole 
+green_stormX : mise. 20
+psychoman59 : suit. 20
+Kzzzx : suit. 20
+*** TOURNANT *** [Kh 9h Ad] [7h]
+psychoman59 : parole 
+Kzzzx : mise. 60
+green_stormX : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à Kzzzx.
+Kzzzx a remporté 120  lors du pot .
+Kzzzx : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Kh 9h Ad 7h]
+Siège 1 : psychoman59 (petite blind) s'est couché. sur le Tournant
+Siège 2 : Kzzzx (grosse blind) a remporté (120)
+Siège 3 : green_stormX (bouton) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°260229642734 : Tournoi #3986570103, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 26/03/2026 11:00:22 CET [26/03/2026 6:00:22 ET]
+Table '3986570103 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (615 en jetons) 
+Place 2: Kzzzx (505 en jetons) 
+Place 3: green_stormX (380 en jetons) 
+Kzzzx : met la petite blind. 15
+green_stormX : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Qs]
+psychoman59 : suit. 30
+Kzzzx : suit. 15
+green_stormX : parole 
+*** FLOP *** [8s 5h Tc]
+Kzzzx : parole 
+green_stormX : parole 
+psychoman59 : mise. 90
+Kzzzx : passe. 
+green_stormX : passe. 
+Personne n'a suivi. (90) sont retournés à psychoman59.
+psychoman59 a remporté 90  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [8s 5h Tc]
+Siège 1 : psychoman59 (bouton) a remporté (90)
+Siège 2 : Kzzzx (petite blind) s'est couché. sur le Flop
+Siège 3 : green_stormX (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°260229643930 : Tournoi #3986570103, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 26/03/2026 11:00:38 CET [26/03/2026 6:00:38 ET]
+Table '3986570103 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (675 en jetons) 
+Place 2: Kzzzx (475 en jetons) 
+Place 3: green_stormX (350 en jetons) 
+green_stormX : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Js]
+Kzzzx : relance. 30 à 60
+green_stormX : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Kzzzx.
+Kzzzx a remporté 75  lors du pot .
+Kzzzx : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Kzzzx (bouton) a remporté (75)
+Siège 3 : green_stormX (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260229644526 : Tournoi #3986570103, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 26/03/2026 11:00:45 CET [26/03/2026 6:00:45 ET]
+Table '3986570103 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (645 en jetons) 
+Place 2: Kzzzx (520 en jetons) 
+Place 3: green_stormX (335 en jetons) 
+psychoman59 : met la petite blind. 15
+Kzzzx : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Js]
+green_stormX : passe. 
+green_stormX ne joue pas.
+green_stormX est revenu.
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à Kzzzx.
+Kzzzx a remporté 30  lors du pot .
+Kzzzx : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Kzzzx (grosse blind) a remporté (30)
+Siège 3 : green_stormX (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260229645157 : Tournoi #3986570103, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 26/03/2026 11:00:53 CET [26/03/2026 6:00:53 ET]
+Table '3986570103 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (630 en jetons) 
+Place 2: Kzzzx (535 en jetons) 
+Place 3: green_stormX (335 en jetons) 
+Kzzzx : met la petite blind. 15
+green_stormX : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 2c]
+psychoman59 : passe. 
+Kzzzx : suit. 15
+green_stormX : parole 
+*** FLOP *** [5d 6d 3c]
+Kzzzx : parole 
+green_stormX : parole 
+*** TOURNANT *** [5d 6d 3c] [Jd]
+Kzzzx : mise. 30
+green_stormX : relance. 60 à 90
+Kzzzx : passe. 
+Personne n'a suivi. (60) sont retournés à green_stormX.
+green_stormX a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [5d 6d 3c Jd]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Kzzzx (petite blind) s'est couché. sur le Tournant
+Siège 3 : green_stormX (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°260229646697 : Tournoi #3986570103, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 26/03/2026 11:01:12 CET [26/03/2026 6:01:12 ET]
+Table '3986570103 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (630 en jetons) 
+Place 2: Kzzzx (475 en jetons) 
+Place 3: green_stormX (395 en jetons) 
+green_stormX : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 2c]
+Kzzzx : passe. 
+green_stormX : suit. 15
+psychoman59 : parole 
+*** FLOP *** [6h As 4h]
+green_stormX : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6h As 4h] [Td]
+green_stormX : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à green_stormX.
+green_stormX a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [6h As 4h Td]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : Kzzzx (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : green_stormX (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°260229647832 : Tournoi #3986570103, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 26/03/2026 11:01:26 CET [26/03/2026 6:01:26 ET]
+Table '3986570103 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (600 en jetons) 
+Place 2: Kzzzx (475 en jetons) 
+Place 3: green_stormX (425 en jetons) 
+psychoman59 : met la petite blind. 15
+Kzzzx : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 4d]
+green_stormX : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à Kzzzx.
+Kzzzx a remporté 30  lors du pot .
+Kzzzx : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Kzzzx (grosse blind) a remporté (30)
+Siège 3 : green_stormX (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260229648227 : Tournoi #3986570103, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 26/03/2026 11:01:31 CET [26/03/2026 6:01:31 ET]
+Table '3986570103 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (585 en jetons) 
+Place 2: Kzzzx (490 en jetons) 
+Place 3: green_stormX (425 en jetons) 
+Kzzzx : met la petite blind. 15
+green_stormX : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 4s]
+psychoman59 : relance. 60 à 90
+Kzzzx : passe. 
+green_stormX : suit. 60
+*** FLOP *** [3c Jc 3h]
+green_stormX : parole 
+psychoman59 : mise. 195
+green_stormX : relance. 140 à 335 et est all-in.
+psychoman59 : suit. 140
+*** TOURNANT *** [3c Jc 3h] [8s]
+*** RIVIÈRE *** [3c Jc 3h 8s] [5s]
+*** ABATTAGE ***
+green_stormX : montre [Ad 3d] (un brelan de Trois)
+psychoman59 : montre [4d 4s] (double paire, Quatre et Trois)
+green_stormX a remporté 865  lors du pot .
+*** SYNTHÈSE ***
+Pot total 865 | Commission 0 
+Tableau [3c Jc 3h 8s 5s]
+Siège 1 : psychoman59 (bouton) a montré [4d 4s] et a perdu avec double paire, Quatre et Trois
+Siège 2 : Kzzzx (petite blind) s'est couché. avant Flop
+Siège 3 : green_stormX (grosse blind) a montré [Ad 3d] et a gagné (865) avec un brelan de Trois
+
+
+
+Main PokerStars n°260229649759 : Tournoi #3986570103, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 26/03/2026 11:01:51 CET [26/03/2026 6:01:51 ET]
+Table '3986570103 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (160 en jetons) 
+Place 2: Kzzzx (475 en jetons) 
+Place 3: green_stormX (865 en jetons) 
+green_stormX : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 9h]
+Kzzzx : passe. 
+green_stormX : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (30)
+Siège 2 : Kzzzx (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : green_stormX (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260229650515 : Tournoi #3986570103, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 26/03/2026 11:02:00 CET [26/03/2026 6:02:00 ET]
+Table '3986570103 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (175 en jetons) 
+Place 2: Kzzzx (475 en jetons) 
+Place 3: green_stormX (850 en jetons) 
+psychoman59 : met la petite blind. 20
+Kzzzx : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 8s]
+green_stormX : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Kzzzx.
+Kzzzx a remporté 40  lors du pot .
+Kzzzx : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Kzzzx (grosse blind) a remporté (40)
+Siège 3 : green_stormX (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260229650861 : Tournoi #3986570103, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 26/03/2026 11:02:05 CET [26/03/2026 6:02:05 ET]
+Table '3986570103 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (155 en jetons) 
+Place 2: Kzzzx (495 en jetons) 
+Place 3: green_stormX (850 en jetons) 
+Kzzzx : met la petite blind. 20
+green_stormX : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Qh]
+psychoman59 : relance. 115 à 155 et est all-in.
+Kzzzx : passe. 
+green_stormX : suit. 115
+*** FLOP *** [As 4h 2s]
+*** TOURNANT *** [As 4h 2s] [Js]
+*** RIVIÈRE *** [As 4h 2s Js] [Tc]
+*** ABATTAGE ***
+green_stormX : montre [Ah Qc] (une paire de As)
+psychoman59 : montre [7h Qh] (Hauteur As)
+green_stormX a remporté 330  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 330 | Commission 0 
+Tableau [As 4h 2s Js Tc]
+Siège 1 : psychoman59 (bouton) a montré [7h Qh] et a perdu avec Hauteur As
+Siège 2 : Kzzzx (petite blind) s'est couché. avant Flop
+Siège 3 : green_stormX (grosse blind) a montré [Ah Qc] et a gagné (330) avec une paire de As
+
+
+

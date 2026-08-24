@@ -1,0 +1,118 @@
+﻿Main PokerStars n°241955949821 : Tournoi #3550715490, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/02/2023 7:15:29 CET [20/02/2023 1:15:29 ET]
+Table '3550715490 1' 3-max Siège #1 est au bouton.
+Place 1: nonokimi (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: BOUCHONNOIS (300 en jetons) 
+psychoman59 : met la petite blind. 10
+BOUCHONNOIS : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 7d]
+nonokimi : passe. 
+psychoman59 : suit. 10
+BOUCHONNOIS : parole 
+*** FLOP *** [2d 5d 6h]
+psychoman59 : parole 
+BOUCHONNOIS : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [2d 5d 6h] [3d]
+psychoman59 : parole 
+BOUCHONNOIS : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à BOUCHONNOIS.
+BOUCHONNOIS a remporté 80  lors du pot .
+BOUCHONNOIS : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [2d 5d 6h 3d]
+Siège 1 : nonokimi (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Tournant
+Siège 3 : BOUCHONNOIS (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°241955953517 : Tournoi #3550715490, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/02/2023 7:16:07 CET [20/02/2023 1:16:07 ET]
+Table '3550715490 1' 3-max Siège #2 est au bouton.
+Place 1: nonokimi (300 en jetons) 
+Place 2: psychoman59 (260 en jetons) 
+Place 3: BOUCHONNOIS (340 en jetons) 
+BOUCHONNOIS : met la petite blind. 10
+nonokimi : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Ah]
+psychoman59 : relance. 40 à 60
+BOUCHONNOIS : passe. 
+nonokimi : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : nonokimi (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a remporté (50)
+Siège 3 : BOUCHONNOIS (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241955955181 : Tournoi #3550715490, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/02/2023 7:16:24 CET [20/02/2023 1:16:24 ET]
+Table '3550715490 1' 3-max Siège #3 est au bouton.
+Place 1: nonokimi (280 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: BOUCHONNOIS (330 en jetons) 
+nonokimi : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 3d]
+BOUCHONNOIS : relance. 70 à 90
+nonokimi : passe. 
+psychoman59 : suit. 70
+*** FLOP *** [8s 8h Th]
+psychoman59 : parole 
+BOUCHONNOIS : parole 
+*** TOURNANT *** [8s 8h Th] [5h]
+psychoman59 : parole 
+BOUCHONNOIS : parole 
+*** RIVIÈRE *** [8s 8h Th 5h] [Jh]
+psychoman59 : parole 
+BOUCHONNOIS : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Kd 3d] (une paire de Huit)
+BOUCHONNOIS : montre [2s Ad] (une paire de Huit - As kicker)
+BOUCHONNOIS a remporté 190  lors du pot .
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Tableau [8s 8h Th 5h Jh]
+Siège 1 : nonokimi (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a montré [Kd 3d] et a perdu avec une paire de Huit
+Siège 3 : BOUCHONNOIS (bouton) a montré [2s Ad] et a gagné (190) avec une paire de Huit
+
+
+
+Main PokerStars n°241955959735 : Tournoi #3550715490, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 20/02/2023 7:17:11 CET [20/02/2023 1:17:11 ET]
+Table '3550715490 1' 3-max Siège #1 est au bouton.
+Place 1: nonokimi (270 en jetons) 
+Place 2: psychoman59 (200 en jetons) 
+Place 3: BOUCHONNOIS (430 en jetons) 
+psychoman59 : met la petite blind. 15
+BOUCHONNOIS : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h As]
+nonokimi : passe. 
+psychoman59 : relance. 170 à 200 et est all-in.
+BOUCHONNOIS : suit. 170
+*** FLOP *** [Jh Qc 7c]
+*** TOURNANT *** [Jh Qc 7c] [5h]
+*** RIVIÈRE *** [Jh Qc 7c 5h] [Jd]
+*** ABATTAGE ***
+psychoman59 : montre [4h As] (une paire de Valets)
+BOUCHONNOIS : montre [Td Qs] (double paire, Dames et Valets)
+BOUCHONNOIS a remporté 400  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [Jh Qc 7c 5h Jd]
+Siège 1 : nonokimi (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [4h As] et a perdu avec une paire de Valets
+Siège 3 : BOUCHONNOIS (grosse blind) a montré [Td Qs] et a gagné (400) avec double paire, Dames et Valets
+
+
+

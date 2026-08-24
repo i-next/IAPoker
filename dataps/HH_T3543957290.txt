@@ -1,0 +1,306 @@
+﻿Main PokerStars n°241664405398 : Tournoi #3543957290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 06/02/2023 22:56:20 CET [06/02/2023 16:56:20 ET]
+Table '3543957290 1' 3-max Siège #1 est au bouton.
+Place 1: Mathieu.hln (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: 8Poool (300 en jetons) 
+psychoman59 : met la petite blind. 10
+8Poool : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 5s]
+Mathieu.hln : suit. 20
+psychoman59 : passe. 
+8Poool : parole 
+*** FLOP *** [Tc 7s 8c]
+8Poool : parole 
+Mathieu.hln : parole 
+*** TOURNANT *** [Tc 7s 8c] [9s]
+8Poool : parole 
+Mathieu.hln : parole 
+*** RIVIÈRE *** [Tc 7s 8c 9s] [As]
+8Poool : mise. 20
+Mathieu.hln : suit. 20
+*** ABATTAGE ***
+8Poool : montre [Ad 3c] (une paire de As)
+Mathieu.hln : montre [Ac 4c] (une paire de As)
+8Poool a remporté 45  lors du pot .
+Mathieu.hln a remporté 45  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [Tc 7s 8c 9s As]
+Siège 1 : Mathieu.hln (bouton) a montré [Ac 4c] et a gagné (45) avec une paire de As
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : 8Poool (grosse blind) a montré [Ad 3c] et a gagné (45) avec une paire de As
+
+
+
+Main PokerStars n°241664414318 : Tournoi #3543957290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 06/02/2023 22:56:47 CET [06/02/2023 16:56:47 ET]
+Table '3543957290 1' 3-max Siège #2 est au bouton.
+Place 1: Mathieu.hln (305 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: 8Poool (305 en jetons) 
+8Poool : met la petite blind. 10
+Mathieu.hln : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 4c]
+psychoman59 : passe. 
+8Poool : passe. 
+Personne n'a suivi. (10) sont retournés à Mathieu.hln.
+Mathieu.hln a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : Mathieu.hln (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : 8Poool (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241664416573 : Tournoi #3543957290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 06/02/2023 22:56:55 CET [06/02/2023 16:56:55 ET]
+Table '3543957290 1' 3-max Siège #3 est au bouton.
+Place 1: Mathieu.hln (315 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: 8Poool (295 en jetons) 
+Mathieu.hln : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Th]
+8Poool : passe. 
+Mathieu.hln : suit. 10
+psychoman59 : parole 
+*** FLOP *** [2h 7d Ts]
+Mathieu.hln : mise. 295 et est all-in.
+psychoman59 : suit. 270 et est all-in.
+Personne n'a suivi. (25) sont retournés à Mathieu.hln.
+*** TOURNANT *** [2h 7d Ts] [6c]
+*** RIVIÈRE *** [2h 7d Ts 6c] [9s]
+*** ABATTAGE ***
+Mathieu.hln : montre [7s 2c] (double paire, Sept et Deux)
+psychoman59 : montre [9h Th] (double paire, Dix et Neuf)
+psychoman59 a remporté 580  lors du pot .
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [2h 7d Ts 6c 9s]
+Siège 1 : Mathieu.hln (petite blind) a montré [7s 2c] et a perdu avec double paire, Sept et Deux
+Siège 2 : psychoman59 (grosse blind) a montré [9h Th] et a gagné (580) avec double paire, Dix et Neuf
+Siège 3 : 8Poool (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°241664427645 : Tournoi #3543957290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 06/02/2023 22:57:29 CET [06/02/2023 16:57:29 ET]
+Table '3543957290 1' 3-max Siège #1 est au bouton.
+Place 1: Mathieu.hln (25 en jetons) 
+Place 2: psychoman59 (580 en jetons) 
+Place 3: 8Poool (295 en jetons) 
+psychoman59 : met la petite blind. 15
+8Poool : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Qs]
+Mathieu.hln : suit. 25 et est all-in.
+psychoman59 : suit. 15
+8Poool : relance. 265 à 295 et est all-in.
+psychoman59 : suit. 265
+*** FLOP *** [7h Qd 6h]
+*** TOURNANT *** [7h Qd 6h] [2c]
+*** RIVIÈRE *** [7h Qd 6h 2c] [9h]
+*** ABATTAGE ***
+psychoman59 : montre [Kh Qs] (une paire de Dames)
+8Poool : montre [Kd Tc] (Hauteur Roi)
+psychoman59 a remporté 540  parallèle lors du pot .
+Mathieu.hln : montre [7d 9s] (double paire, Neuf et Sept)
+Mathieu.hln a remporté 75  principal lors du pot .
+8Poool a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 615 Principal pot 75. Parallèle pot 540. | Commission 0 
+Tableau [7h Qd 6h 2c 9h]
+Siège 1 : Mathieu.hln (bouton) a montré [7d 9s] et a gagné (75) avec double paire, Neuf et Sept
+Siège 2 : psychoman59 (petite blind) a montré [Kh Qs] et a gagné (540) avec une paire de Dames
+Siège 3 : 8Poool (grosse blind) a montré [Kd Tc] et a perdu avec Hauteur Roi
+
+
+
+Main PokerStars n°241664434464 : Tournoi #3543957290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 06/02/2023 22:57:50 CET [06/02/2023 16:57:50 ET]
+Table '3543957290 1' 3-max Siège #2 est au bouton.
+Place 1: Mathieu.hln (75 en jetons) 
+Place 2: psychoman59 (825 en jetons) 
+psychoman59 : met la petite blind. 15
+Mathieu.hln : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 9s]
+psychoman59 : relance. 30 à 60
+Mathieu.hln : relance. 15 à 75 et est all-in.
+psychoman59 : suit. 15
+*** FLOP *** [5h Kd Ks]
+*** TOURNANT *** [5h Kd Ks] [3c]
+*** RIVIÈRE *** [5h Kd Ks 3c] [2c]
+*** ABATTAGE ***
+Mathieu.hln : montre [Kc 8c] (un brelan de Rois)
+psychoman59 : montre [7h 9s] (une paire de Rois)
+Mathieu.hln a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Tableau [5h Kd Ks 3c 2c]
+Siège 1 : Mathieu.hln (grosse blind) a montré [Kc 8c] et a gagné (150) avec un brelan de Rois
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [7h 9s] et a perdu avec une paire de Rois
+
+
+
+Main PokerStars n°241664439166 : Tournoi #3543957290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 06/02/2023 22:58:05 CET [06/02/2023 16:58:05 ET]
+Table '3543957290 1' 3-max Siège #1 est au bouton.
+Place 1: Mathieu.hln (150 en jetons) 
+Place 2: psychoman59 (750 en jetons) 
+Mathieu.hln : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Th]
+Mathieu.hln : relance. 120 à 150 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à Mathieu.hln.
+Mathieu.hln a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Mathieu.hln (bouton) (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241664441431 : Tournoi #3543957290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 06/02/2023 22:58:12 CET [06/02/2023 16:58:12 ET]
+Table '3543957290 1' 3-max Siège #2 est au bouton.
+Place 1: Mathieu.hln (180 en jetons) 
+Place 2: psychoman59 (720 en jetons) 
+psychoman59 : met la petite blind. 15
+Mathieu.hln : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c As]
+psychoman59 : relance. 690 à 720 et est all-in.
+Mathieu.hln : suit. 150 et est all-in.
+Personne n'a suivi. (540) sont retournés à psychoman59.
+*** FLOP *** [3d 2s Qd]
+*** TOURNANT *** [3d 2s Qd] [Jc]
+*** RIVIÈRE *** [3d 2s Qd Jc] [2h]
+*** ABATTAGE ***
+Mathieu.hln : montre [Kc Qh] (double paire, Dames et Deux)
+psychoman59 : montre [3c As] (double paire, Trois et Deux)
+Mathieu.hln a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [3d 2s Qd Jc 2h]
+Siège 1 : Mathieu.hln (grosse blind) a montré [Kc Qh] et a gagné (360) avec double paire, Dames et Deux
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [3c As] et a perdu avec double paire, Trois et Deux
+
+
+
+Main PokerStars n°241664446799 : Tournoi #3543957290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 06/02/2023 22:58:28 CET [06/02/2023 16:58:28 ET]
+Table '3543957290 1' 3-max Siège #1 est au bouton.
+Place 1: Mathieu.hln (360 en jetons) 
+Place 2: psychoman59 (540 en jetons) 
+Mathieu.hln : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 5h]
+Mathieu.hln : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Kd 6d Jd]
+psychoman59 : parole 
+Mathieu.hln : parole 
+*** TOURNANT *** [Kd 6d Jd] [Kc]
+psychoman59 : parole 
+Mathieu.hln : parole 
+*** RIVIÈRE *** [Kd 6d Jd Kc] [Ts]
+psychoman59 : parole 
+Mathieu.hln : parole 
+*** ABATTAGE ***
+psychoman59 : montre [4d 5h] (une paire de Rois)
+Mathieu.hln : montre [5c 3c] (une paire de Rois)
+psychoman59 a remporté 40  lors du pot .
+Mathieu.hln a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Kd 6d Jd Kc Ts]
+Siège 1 : Mathieu.hln (bouton) (petite blind) a montré [5c 3c] et a gagné (40) avec une paire de Rois
+Siège 2 : psychoman59 (grosse blind) a montré [4d 5h] et a gagné (40) avec une paire de Rois
+
+
+
+Main PokerStars n°241664451924 : Tournoi #3543957290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 06/02/2023 22:58:44 CET [06/02/2023 16:58:44 ET]
+Table '3543957290 1' 3-max Siège #2 est au bouton.
+Place 1: Mathieu.hln (360 en jetons) 
+Place 2: psychoman59 (540 en jetons) 
+psychoman59 : met la petite blind. 20
+Mathieu.hln : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 7h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Mathieu.hln.
+Mathieu.hln a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Mathieu.hln (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241664453564 : Tournoi #3543957290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 06/02/2023 22:58:49 CET [06/02/2023 16:58:49 ET]
+Table '3543957290 1' 3-max Siège #1 est au bouton.
+Place 1: Mathieu.hln (380 en jetons) 
+Place 2: psychoman59 (520 en jetons) 
+Mathieu.hln : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 2h]
+Mathieu.hln : relance. 40 à 80
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Mathieu.hln.
+Mathieu.hln a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : Mathieu.hln (bouton) (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241664457297 : Tournoi #3543957290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 06/02/2023 22:59:01 CET [06/02/2023 16:59:01 ET]
+Table '3543957290 1' 3-max Siège #2 est au bouton.
+Place 1: Mathieu.hln (420 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 20
+Mathieu.hln : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Ks]
+psychoman59 : relance. 440 à 480 et est all-in.
+Mathieu.hln : passe. 
+Personne n'a suivi. (440) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : Mathieu.hln (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°241664459797 : Tournoi #3543957290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 06/02/2023 22:59:09 CET [06/02/2023 16:59:09 ET]
+Table '3543957290 1' 3-max Siège #1 est au bouton.
+Place 1: Mathieu.hln (380 en jetons) 
+Place 2: psychoman59 (520 en jetons) 
+Mathieu.hln : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Ks]
+Mathieu.hln : relance. 340 à 380 et est all-in.
+psychoman59 : suit. 340
+*** FLOP *** [Kd 8s 4h]
+*** TOURNANT *** [Kd 8s 4h] [9d]
+*** RIVIÈRE *** [Kd 8s 4h 9d] [4d]
+*** ABATTAGE ***
+psychoman59 : montre [Td Ks] (double paire, Rois et Quatre)
+Mathieu.hln : montre [6h 5c] (une paire de Quatre)
+psychoman59 a remporté 760  lors du pot .
+Mathieu.hln a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 760 | Commission 0 
+Tableau [Kd 8s 4h 9d 4d]
+Siège 1 : Mathieu.hln (bouton) (petite blind) a montré [6h 5c] et a perdu avec une paire de Quatre
+Siège 2 : psychoman59 (grosse blind) a montré [Td Ks] et a gagné (760) avec double paire, Rois et Quatre
+
+
+

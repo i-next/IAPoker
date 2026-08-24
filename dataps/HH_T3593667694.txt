@@ -1,0 +1,391 @@
+﻿Main PokerStars n°243796323555 : Tournoi #3593667694, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/05/2023 8:31:06 CET [20/05/2023 2:31:06 ET]
+Table '3593667694 1' 3-max Siège #1 est au bouton.
+Place 1: chirloupette (300 en jetons) 
+Place 2: kosh755 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+kosh755 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 5d]
+chirloupette : passe. 
+kosh755 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Ad As Qc]
+kosh755 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Ad As Qc] [2s]
+kosh755 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Ad As Qc 2s] [8d]
+kosh755 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+kosh755 : montre [Qd 7d] (double paire, As et Dames)
+psychoman59 : cache la main perdante. 
+kosh755 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Ad As Qc 2s 8d]
+Siège 1 : chirloupette (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : kosh755 (petite blind) a montré [Qd 7d] et a gagné (40) avec double paire, As et Dames
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [7s 5d]
+
+
+
+Main PokerStars n°243796326244 : Tournoi #3593667694, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/05/2023 8:31:28 CET [20/05/2023 2:31:28 ET]
+Table '3593667694 1' 3-max Siège #2 est au bouton.
+Place 1: chirloupette (300 en jetons) 
+Place 2: kosh755 (320 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+chirloupette : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 4s]
+kosh755 : passe. 
+psychoman59 : suit. 10
+chirloupette : parole 
+*** FLOP *** [Qh Th 7s]
+psychoman59 : parole 
+chirloupette : parole 
+*** TOURNANT *** [Qh Th 7s] [8d]
+psychoman59 : parole 
+chirloupette : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à chirloupette.
+chirloupette a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Qh Th 7s 8d]
+Siège 1 : chirloupette (grosse blind) a remporté (40)
+Siège 2 : kosh755 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°243796328452 : Tournoi #3593667694, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/05/2023 8:31:47 CET [20/05/2023 2:31:47 ET]
+Table '3593667694 1' 3-max Siège #3 est au bouton.
+Place 1: chirloupette (320 en jetons) 
+Place 2: kosh755 (320 en jetons) 
+Place 3: psychoman59 (260 en jetons) 
+chirloupette : met la petite blind. 10
+kosh755 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 8d]
+psychoman59 : passe. 
+chirloupette : suit. 10
+kosh755 : parole 
+*** FLOP *** [5c 5s Qd]
+chirloupette : parole 
+kosh755 : parole 
+*** TOURNANT *** [5c 5s Qd] [9s]
+chirloupette : mise. 40
+kosh755 : passe. 
+Personne n'a suivi. (40) sont retournés à chirloupette.
+chirloupette a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [5c 5s Qd 9s]
+Siège 1 : chirloupette (petite blind) a remporté (40)
+Siège 2 : kosh755 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°243796330073 : Tournoi #3593667694, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/05/2023 8:32:01 CET [20/05/2023 2:32:01 ET]
+Table '3593667694 1' 3-max Siège #1 est au bouton.
+Place 1: chirloupette (340 en jetons) 
+Place 2: kosh755 (300 en jetons) 
+Place 3: psychoman59 (260 en jetons) 
+kosh755 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Js]
+chirloupette : suit. 20
+kosh755 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [4c 6s Jd]
+kosh755 : parole 
+psychoman59 : mise. 60
+chirloupette : passe. 
+kosh755 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [4c 6s Jd]
+Siège 1 : chirloupette (bouton) s'est couché. sur le Flop
+Siège 2 : kosh755 (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°243796332483 : Tournoi #3593667694, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 20/05/2023 8:32:21 CET [20/05/2023 2:32:21 ET]
+Table '3593667694 1' 3-max Siège #2 est au bouton.
+Place 1: chirloupette (320 en jetons) 
+Place 2: kosh755 (280 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+psychoman59 : met la petite blind. 15
+chirloupette : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 9c]
+kosh755 : suit. 30
+psychoman59 : suit. 15
+chirloupette : parole 
+*** FLOP *** [Th Ah Qh]
+psychoman59 : parole 
+chirloupette : mise. 30
+kosh755 : suit. 30
+psychoman59 : suit. 30
+*** TOURNANT *** [Th Ah Qh] [Js]
+psychoman59 : parole 
+chirloupette : mise. 30
+kosh755 : suit. 30
+psychoman59 : suit. 30
+*** RIVIÈRE *** [Th Ah Qh Js] [3s]
+psychoman59 : parole 
+chirloupette : mise. 30
+kosh755 : suit. 30
+psychoman59 : passe. 
+*** ABATTAGE ***
+chirloupette : montre [6s Jh] (une paire de Valets)
+kosh755 : montre [Qd Td] (double paire, Dames et Dix)
+kosh755 a remporté 330  lors du pot .
+*** SYNTHÈSE ***
+Pot total 330 | Commission 0 
+Tableau [Th Ah Qh Js 3s]
+Siège 1 : chirloupette (grosse blind) a montré [6s Jh] et a perdu avec une paire de Valets
+Siège 2 : kosh755 (bouton) a montré [Qd Td] et a gagné (330) avec double paire, Dames et Dix
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°243796336035 : Tournoi #3593667694, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 20/05/2023 8:32:52 CET [20/05/2023 2:32:52 ET]
+Table '3593667694 1' 3-max Siège #3 est au bouton.
+Place 1: chirloupette (200 en jetons) 
+Place 2: kosh755 (490 en jetons) 
+Place 3: psychoman59 (210 en jetons) 
+chirloupette : met la petite blind. 15
+kosh755 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 8s]
+psychoman59 : passe. 
+chirloupette : suit. 15
+kosh755 : parole 
+*** FLOP *** [Jc Ks Kc]
+chirloupette : parole 
+kosh755 : parole 
+*** TOURNANT *** [Jc Ks Kc] [6s]
+chirloupette : mise. 30
+kosh755 : suit. 30
+*** RIVIÈRE *** [Jc Ks Kc 6s] [9s]
+chirloupette : mise. 30
+kosh755 : suit. 30
+*** ABATTAGE ***
+chirloupette : montre [6c 9d] (double paire, Rois et Neuf)
+kosh755 : cache la main perdante. 
+chirloupette a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Jc Ks Kc 6s 9s]
+Siège 1 : chirloupette (petite blind) a montré [6c 9d] et a gagné (180) avec double paire, Rois et Neuf
+Siège 2 : kosh755 (grosse blind) a caché la main perdante. [7d 6d]
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°243796338533 : Tournoi #3593667694, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 20/05/2023 8:33:12 CET [20/05/2023 2:33:12 ET]
+Table '3593667694 1' 3-max Siège #1 est au bouton.
+Place 1: chirloupette (290 en jetons) 
+Place 2: kosh755 (400 en jetons) 
+Place 3: psychoman59 (210 en jetons) 
+kosh755 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 8h]
+chirloupette : passe. 
+kosh755 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : chirloupette (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : kosh755 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°243796339303 : Tournoi #3593667694, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 20/05/2023 8:33:19 CET [20/05/2023 2:33:19 ET]
+Table '3593667694 1' 3-max Siège #2 est au bouton.
+Place 1: chirloupette (290 en jetons) 
+Place 2: kosh755 (380 en jetons) 
+Place 3: psychoman59 (230 en jetons) 
+psychoman59 : met la petite blind. 20
+chirloupette : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 8s]
+kosh755 : suit. 40
+psychoman59 : relance. 190 à 230 et est all-in.
+chirloupette : passe. 
+kosh755 : passe. 
+Personne n'a suivi. (190) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : chirloupette (grosse blind) s'est couché. avant Flop
+Siège 2 : kosh755 (bouton) s'est couché. avant Flop
+Siège 3 : psychoman59 (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°243796340652 : Tournoi #3593667694, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 20/05/2023 8:33:30 CET [20/05/2023 2:33:30 ET]
+Table '3593667694 1' 3-max Siège #3 est au bouton.
+Place 1: chirloupette (250 en jetons) 
+Place 2: kosh755 (340 en jetons) 
+Place 3: psychoman59 (310 en jetons) 
+chirloupette : met la petite blind. 20
+kosh755 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Ac]
+psychoman59 : relance. 40 à 80
+chirloupette : passe. 
+kosh755 : suit. 40
+*** FLOP *** [3c As 4d]
+kosh755 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3c As 4d] [Js]
+kosh755 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [3c As 4d Js] [8h]
+kosh755 : parole 
+psychoman59 : mise. 40
+kosh755 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 180  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [3c As 4d Js 8h]
+Siège 1 : chirloupette (petite blind) s'est couché. avant Flop
+Siège 2 : kosh755 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (bouton) a remporté (180)
+
+
+
+Main PokerStars n°243796342967 : Tournoi #3593667694, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 20/05/2023 8:33:49 CET [20/05/2023 2:33:49 ET]
+Table '3593667694 1' 3-max Siège #1 est au bouton.
+Place 1: chirloupette (230 en jetons) 
+Place 2: kosh755 (260 en jetons) 
+Place 3: psychoman59 (410 en jetons) 
+kosh755 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 9s]
+chirloupette : suit. 40
+kosh755 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [5h Tc 3s]
+kosh755 : parole 
+psychoman59 : parole 
+chirloupette : parole 
+*** TOURNANT *** [5h Tc 3s] [2h]
+kosh755 : parole 
+psychoman59 : parole 
+chirloupette : mise. 40
+kosh755 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à chirloupette.
+chirloupette a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [5h Tc 3s 2h]
+Siège 1 : chirloupette (bouton) a remporté (120)
+Siège 2 : kosh755 (petite blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°243796345896 : Tournoi #3593667694, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 20/05/2023 8:34:14 CET [20/05/2023 2:34:14 ET]
+Table '3593667694 1' 3-max Siège #2 est au bouton.
+Place 1: chirloupette (310 en jetons) 
+Place 2: kosh755 (220 en jetons) 
+Place 3: psychoman59 (370 en jetons) 
+psychoman59 : met la petite blind. 30
+chirloupette : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Qh]
+kosh755 : suit. 60
+psychoman59 : relance. 310 à 370 et est all-in.
+chirloupette : passe. 
+kosh755 : suit. 160 et est all-in.
+Personne n'a suivi. (150) sont retournés à psychoman59.
+*** FLOP *** [9s 6d Ks]
+*** TOURNANT *** [9s 6d Ks] [3d]
+*** RIVIÈRE *** [9s 6d Ks 3d] [4c]
+*** ABATTAGE ***
+psychoman59 : montre [Ac Qh] (Hauteur As)
+kosh755 : montre [Tc Kc] (une paire de Rois)
+kosh755 a remporté 500  lors du pot .
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Tableau [9s 6d Ks 3d 4c]
+Siège 1 : chirloupette (grosse blind) s'est couché. avant Flop
+Siège 2 : kosh755 (bouton) a montré [Tc Kc] et a gagné (500) avec une paire de Rois
+Siège 3 : psychoman59 (petite blind) a montré [Ac Qh] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°243796348045 : Tournoi #3593667694, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 20/05/2023 8:34:32 CET [20/05/2023 2:34:32 ET]
+Table '3593667694 1' 3-max Siège #3 est au bouton.
+Place 1: chirloupette (250 en jetons) 
+Place 2: kosh755 (500 en jetons) 
+Place 3: psychoman59 (150 en jetons) 
+chirloupette : met la petite blind. 30
+kosh755 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 3s]
+psychoman59 : passe. 
+chirloupette : relance. 120 à 180
+kosh755 : passe. 
+Personne n'a suivi. (120) sont retournés à chirloupette.
+chirloupette a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : chirloupette (petite blind) a remporté (120)
+Siège 2 : kosh755 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°243796349376 : Tournoi #3593667694, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 20/05/2023 8:34:43 CET [20/05/2023 2:34:43 ET]
+Table '3593667694 1' 3-max Siège #1 est au bouton.
+Place 1: chirloupette (310 en jetons) 
+Place 2: kosh755 (440 en jetons) 
+Place 3: psychoman59 (150 en jetons) 
+kosh755 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 9d]
+chirloupette : relance. 250 à 310 et est all-in.
+kosh755 : passe. 
+psychoman59 : suit. 90 et est all-in.
+Personne n'a suivi. (160) sont retournés à chirloupette.
+*** FLOP *** [Kd 4d Jc]
+*** TOURNANT *** [Kd 4d Jc] [6c]
+*** RIVIÈRE *** [Kd 4d Jc 6c] [7c]
+*** ABATTAGE ***
+psychoman59 : montre [Ah 9d] (Hauteur As)
+chirloupette : montre [Ks As] (une paire de Rois)
+chirloupette a remporté 330  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 330 | Commission 0 
+Tableau [Kd 4d Jc 6c 7c]
+Siège 1 : chirloupette (bouton) a montré [Ks As] et a gagné (330) avec une paire de Rois
+Siège 2 : kosh755 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [Ah 9d] et a perdu avec Hauteur As
+
+
+

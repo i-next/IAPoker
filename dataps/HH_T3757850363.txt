@@ -1,0 +1,926 @@
+﻿Main PokerStars n°250650592817 : Tournoi #3757850363, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 23/05/2024 14:04:52 CET [23/05/2024 8:04:52 ET]
+Table '3757850363 1' 3-max Siège #1 est au bouton.
+Place 1: sacha66140 (500 en jetons) 
+Place 2: pingax30 (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+pingax30 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Td]
+sacha66140 : suit. 20
+pingax30 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Ad 2s Tc]
+pingax30 : mise. 20
+psychoman59 : suit. 20
+sacha66140 : passe. 
+*** TOURNANT *** [Ad 2s Tc] [Qh]
+pingax30 : parole 
+psychoman59 : mise. 50
+pingax30 : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [Ad 2s Tc Qh]
+Siège 1 : sacha66140 (bouton) s'est couché. sur le Flop
+Siège 2 : pingax30 (petite blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (grosse blind) a remporté (100)
+
+
+
+Main PokerStars n°250650595963 : Tournoi #3757850363, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 23/05/2024 14:05:13 CET [23/05/2024 8:05:13 ET]
+Table '3757850363 1' 3-max Siège #2 est au bouton.
+Place 1: sacha66140 (480 en jetons) 
+Place 2: pingax30 (460 en jetons) 
+Place 3: psychoman59 (560 en jetons) 
+psychoman59 : met la petite blind. 10
+sacha66140 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 4h]
+pingax30 : suit. 20
+psychoman59 : suit. 10
+sacha66140 : parole 
+*** FLOP *** [9h 7s 9s]
+psychoman59 : parole 
+sacha66140 : parole 
+pingax30 : parole 
+*** TOURNANT *** [9h 7s 9s] [5h]
+psychoman59 : parole 
+sacha66140 : parole 
+pingax30 : mise. 20
+psychoman59 : passe. 
+sacha66140 : passe. 
+Personne n'a suivi. (20) sont retournés à pingax30.
+pingax30 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [9h 7s 9s 5h]
+Siège 1 : sacha66140 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : pingax30 (bouton) a remporté (60)
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°250650599853 : Tournoi #3757850363, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 23/05/2024 14:05:39 CET [23/05/2024 8:05:39 ET]
+Table '3757850363 1' 3-max Siège #3 est au bouton.
+Place 1: sacha66140 (460 en jetons) 
+Place 2: pingax30 (500 en jetons) 
+Place 3: psychoman59 (540 en jetons) 
+sacha66140 : met la petite blind. 10
+pingax30 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Jc]
+psychoman59 : relance. 20 à 40
+sacha66140 : relance. 420 à 460 et est all-in.
+pingax30 : suit. 440
+psychoman59 : passe. 
+*** FLOP *** [5s 3d Qs]
+*** TOURNANT *** [5s 3d Qs] [2s]
+*** RIVIÈRE *** [5s 3d Qs 2s] [2c]
+*** ABATTAGE ***
+sacha66140 : montre [Jd As] (une paire de Deux)
+pingax30 : montre [3c Kc] (double paire, Trois et Deux)
+pingax30 a remporté 960  lors du pot .
+sacha66140 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 960 | Commission 0 
+Tableau [5s 3d Qs 2s 2c]
+Siège 1 : sacha66140 (petite blind) a montré [Jd As] et a perdu avec une paire de Deux
+Siège 2 : pingax30 (grosse blind) a montré [3c Kc] et a gagné (960) avec double paire, Trois et Deux
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°250650602638 : Tournoi #3757850363, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 23/05/2024 14:05:58 CET [23/05/2024 8:05:58 ET]
+Table '3757850363 1' 3-max Siège #2 est au bouton.
+Place 2: pingax30 (1000 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+pingax30 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Ts]
+pingax30 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [9s 3s Qc]
+psychoman59 : parole 
+pingax30 : parole 
+*** TOURNANT *** [9s 3s Qc] [Js]
+psychoman59 : parole 
+pingax30 : parole 
+*** RIVIÈRE *** [9s 3s Qc Js] [7h]
+psychoman59 : mise. 20
+pingax30 : suit. 20
+*** ABATTAGE ***
+psychoman59 : montre [Jc Ts] (une paire de Valets)
+pingax30 : cache la main perdante. 
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [9s 3s Qc Js 7h]
+Siège 2 : pingax30 (bouton) (petite blind) a caché la main perdante. [7d 5h]
+Siège 3 : psychoman59 (grosse blind) a montré [Jc Ts] et a gagné (80) avec une paire de Valets
+
+
+
+Main PokerStars n°250650605811 : Tournoi #3757850363, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 23/05/2024 14:06:19 CET [23/05/2024 8:06:19 ET]
+Table '3757850363 1' 3-max Siège #3 est au bouton.
+Place 2: pingax30 (960 en jetons) 
+Place 3: psychoman59 (540 en jetons) 
+psychoman59 : met la petite blind. 10
+pingax30 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Kc]
+psychoman59 : relance. 520 à 540 et est all-in.
+pingax30 : passe. 
+Personne n'a suivi. (520) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : pingax30 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°250650606827 : Tournoi #3757850363, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 23/05/2024 14:06:26 CET [23/05/2024 8:06:26 ET]
+Table '3757850363 1' 3-max Siège #2 est au bouton.
+Place 2: pingax30 (940 en jetons) 
+Place 3: psychoman59 (560 en jetons) 
+pingax30 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 2h]
+pingax30 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Ks Js 9s]
+psychoman59 : parole 
+pingax30 : parole 
+*** TOURNANT *** [Ks Js 9s] [4d]
+psychoman59 : parole 
+pingax30 : parole 
+*** RIVIÈRE *** [Ks Js 9s 4d] [5h]
+psychoman59 : parole 
+pingax30 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [7h 2h] (Hauteur Roi)
+pingax30 : montre [4s 8d] (une paire de Quatre)
+pingax30 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Ks Js 9s 4d 5h]
+Siège 2 : pingax30 (bouton) (petite blind) a montré [4s 8d] et a gagné (40) avec une paire de Quatre
+Siège 3 : psychoman59 (grosse blind) a montré [7h 2h] et a perdu avec Hauteur Roi
+
+
+
+Main PokerStars n°250650610643 : Tournoi #3757850363, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 23/05/2024 14:06:51 CET [23/05/2024 8:06:51 ET]
+Table '3757850363 1' 3-max Siège #3 est au bouton.
+Place 2: pingax30 (960 en jetons) 
+Place 3: psychoman59 (540 en jetons) 
+psychoman59 : met la petite blind. 10
+pingax30 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Jd]
+psychoman59 : suit. 10
+pingax30 : parole 
+*** FLOP *** [9c Jc Ah]
+pingax30 : parole 
+psychoman59 : mise. 20
+pingax30 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [9c Jc Ah]
+Siège 2 : pingax30 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°250650612759 : Tournoi #3757850363, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 23/05/2024 14:07:05 CET [23/05/2024 8:07:05 ET]
+Table '3757850363 1' 3-max Siège #2 est au bouton.
+Place 2: pingax30 (940 en jetons) 
+Place 3: psychoman59 (560 en jetons) 
+pingax30 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Th]
+pingax30 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [2c 7c Jc]
+psychoman59 : parole 
+pingax30 : parole 
+*** TOURNANT *** [2c 7c Jc] [Ts]
+psychoman59 : mise. 30
+pingax30 : suit. 30
+*** RIVIÈRE *** [2c 7c Jc Ts] [5c]
+psychoman59 : parole 
+pingax30 : mise. 120
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à pingax30.
+pingax30 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [2c 7c Jc Ts 5c]
+Siège 2 : pingax30 (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°250650618014 : Tournoi #3757850363, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 23/05/2024 14:07:40 CET [23/05/2024 8:07:40 ET]
+Table '3757850363 1' 3-max Siège #3 est au bouton.
+Place 2: pingax30 (1000 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+psychoman59 : met la petite blind. 15
+pingax30 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 8h]
+psychoman59 : suit. 15
+pingax30 : relance. 30 à 60
+psychoman59 : suit. 30
+*** FLOP *** [7h 7d 3h]
+pingax30 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [7h 7d 3h] [Td]
+pingax30 : parole 
+psychoman59 : mise. 60
+pingax30 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [7h 7d 3h Td]
+Siège 2 : pingax30 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°250650623440 : Tournoi #3757850363, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 23/05/2024 14:08:16 CET [23/05/2024 8:08:16 ET]
+Table '3757850363 1' 3-max Siège #2 est au bouton.
+Place 2: pingax30 (940 en jetons) 
+Place 3: psychoman59 (560 en jetons) 
+pingax30 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 4h]
+pingax30 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [9d Ks 6h]
+psychoman59 : parole 
+pingax30 : parole 
+*** TOURNANT *** [9d Ks 6h] [7s]
+psychoman59 : parole 
+pingax30 : parole 
+*** RIVIÈRE *** [9d Ks 6h 7s] [Ts]
+psychoman59 : parole 
+pingax30 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [3d 4h] (Hauteur Roi)
+pingax30 : montre [3c 2c] (Hauteur Roi)
+psychoman59 a remporté 30  lors du pot .
+pingax30 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [9d Ks 6h 7s Ts]
+Siège 2 : pingax30 (bouton) (petite blind) a montré [3c 2c] et a gagné (30) avec Hauteur Roi
+Siège 3 : psychoman59 (grosse blind) a montré [3d 4h] et a gagné (30) avec Hauteur Roi
+
+
+
+Main PokerStars n°250650628735 : Tournoi #3757850363, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 23/05/2024 14:08:52 CET [23/05/2024 8:08:52 ET]
+Table '3757850363 1' 3-max Siège #3 est au bouton.
+Place 2: pingax30 (940 en jetons) 
+Place 3: psychoman59 (560 en jetons) 
+psychoman59 : met la petite blind. 15
+pingax30 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Ts]
+psychoman59 : suit. 15
+pingax30 : parole 
+*** FLOP *** [9s 3c 2s]
+pingax30 : mise. 30
+psychoman59 : suit. 30
+*** TOURNANT *** [9s 3c 2s] [Jc]
+pingax30 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [9s 3c 2s Jc] [Qd]
+pingax30 : mise. 30
+psychoman59 : relance. 30 à 60
+pingax30 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 180  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [9s 3c 2s Jc Qd]
+Siège 2 : pingax30 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (180)
+
+
+
+Main PokerStars n°250650633339 : Tournoi #3757850363, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 23/05/2024 14:09:22 CET [23/05/2024 8:09:22 ET]
+Table '3757850363 1' 3-max Siège #2 est au bouton.
+Place 2: pingax30 (850 en jetons) 
+Place 3: psychoman59 (650 en jetons) 
+pingax30 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 6h]
+pingax30 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [2c 7h Qc]
+psychoman59 : parole 
+pingax30 : parole 
+*** TOURNANT *** [2c 7h Qc] [9c]
+psychoman59 : parole 
+pingax30 : parole 
+*** RIVIÈRE *** [2c 7h Qc 9c] [9h]
+psychoman59 : parole 
+pingax30 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Kh 6h] (une paire de Neuf)
+pingax30 : cache la main perdante. 
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [2c 7h Qc 9c 9h]
+Siège 2 : pingax30 (bouton) (petite blind) a caché la main perdante. [6s Ts]
+Siège 3 : psychoman59 (grosse blind) a montré [Kh 6h] et a gagné (80) avec une paire de Neuf
+
+
+
+Main PokerStars n°250650637170 : Tournoi #3757850363, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 23/05/2024 14:09:47 CET [23/05/2024 8:09:47 ET]
+Table '3757850363 1' 3-max Siège #3 est au bouton.
+Place 2: pingax30 (810 en jetons) 
+Place 3: psychoman59 (690 en jetons) 
+psychoman59 : met la petite blind. 20
+pingax30 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 4c]
+psychoman59 : suit. 20
+pingax30 : parole 
+*** FLOP *** [6c Th 3h]
+pingax30 : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [6c Th 3h] [2d]
+pingax30 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [6c Th 3h 2d] [6h]
+pingax30 : mise. 40
+psychoman59 : relance. 40 à 80
+pingax30 : suit. 40
+*** ABATTAGE ***
+psychoman59 : montre [5d 4c] (une suite, Deux à Six)
+pingax30 : cache la main perdante. 
+psychoman59 a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [6c Th 3h 2d 6h]
+Siège 2 : pingax30 (grosse blind) a caché la main perdante. [Ts 8s]
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [5d 4c] et a gagné (320) avec une suite, Deux à Six
+
+
+
+Main PokerStars n°250650641555 : Tournoi #3757850363, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 23/05/2024 14:10:17 CET [23/05/2024 8:10:17 ET]
+Table '3757850363 1' 3-max Siège #2 est au bouton.
+Place 2: pingax30 (650 en jetons) 
+Place 3: psychoman59 (850 en jetons) 
+pingax30 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 9c]
+pingax30 : relance. 610 à 650 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (610) sont retournés à pingax30.
+pingax30 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : pingax30 (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°250650643326 : Tournoi #3757850363, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 23/05/2024 14:10:29 CET [23/05/2024 8:10:29 ET]
+Table '3757850363 1' 3-max Siège #3 est au bouton.
+Place 2: pingax30 (690 en jetons) 
+Place 3: psychoman59 (810 en jetons) 
+psychoman59 : met la petite blind. 20
+pingax30 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 4c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à pingax30.
+pingax30 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : pingax30 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°250650643974 : Tournoi #3757850363, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 23/05/2024 14:10:33 CET [23/05/2024 8:10:33 ET]
+Table '3757850363 1' 3-max Siège #2 est au bouton.
+Place 2: pingax30 (710 en jetons) 
+Place 3: psychoman59 (790 en jetons) 
+pingax30 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 9h]
+pingax30 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [2d 5c Ad]
+psychoman59 : parole 
+pingax30 : parole 
+*** TOURNANT *** [2d 5c Ad] [6c]
+psychoman59 : parole 
+pingax30 : parole 
+*** RIVIÈRE *** [2d 5c Ad 6c] [4h]
+psychoman59 : parole 
+pingax30 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Js 9h] (Hauteur As)
+pingax30 : montre [6d 9c] (une paire de Six)
+pingax30 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [2d 5c Ad 6c 4h]
+Siège 2 : pingax30 (bouton) (petite blind) a montré [6d 9c] et a gagné (80) avec une paire de Six
+Siège 3 : psychoman59 (grosse blind) a montré [Js 9h] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°250650648464 : Tournoi #3757850363, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 23/05/2024 14:11:03 CET [23/05/2024 8:11:03 ET]
+Table '3757850363 1' 3-max Siège #3 est au bouton.
+Place 2: pingax30 (750 en jetons) 
+Place 3: psychoman59 (750 en jetons) 
+psychoman59 : met la petite blind. 30
+pingax30 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh As]
+psychoman59 : relance. 690 à 750 et est all-in.
+pingax30 : passe. 
+Personne n'a suivi. (690) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : pingax30 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°250650649964 : Tournoi #3757850363, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 23/05/2024 14:11:13 CET [23/05/2024 8:11:13 ET]
+Table '3757850363 1' 3-max Siège #2 est au bouton.
+Place 2: pingax30 (690 en jetons) 
+Place 3: psychoman59 (810 en jetons) 
+pingax30 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 7c]
+pingax30 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [3c 9d 7h]
+psychoman59 : parole 
+pingax30 : mise. 60
+psychoman59 : suit. 60
+*** TOURNANT *** [3c 9d 7h] [Jc]
+psychoman59 : parole 
+pingax30 : mise. 60
+psychoman59 : suit. 60
+*** RIVIÈRE *** [3c 9d 7h Jc] [9h]
+psychoman59 : parole 
+pingax30 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Tc 7c] (double paire, Neuf et Sept)
+pingax30 : montre [Th Td] (double paire, Dix et Neuf)
+pingax30 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [3c 9d 7h Jc 9h]
+Siège 2 : pingax30 (bouton) (petite blind) a montré [Th Td] et a gagné (360) avec double paire, Dix et Neuf
+Siège 3 : psychoman59 (grosse blind) a montré [Tc 7c] et a perdu avec double paire, Neuf et Sept
+
+
+
+Main PokerStars n°250650653398 : Tournoi #3757850363, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 23/05/2024 14:11:36 CET [23/05/2024 8:11:36 ET]
+Table '3757850363 1' 3-max Siège #3 est au bouton.
+Place 2: pingax30 (870 en jetons) 
+Place 3: psychoman59 (630 en jetons) 
+psychoman59 : met la petite blind. 30
+pingax30 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 2s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à pingax30.
+pingax30 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : pingax30 (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°250650654113 : Tournoi #3757850363, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 23/05/2024 14:11:41 CET [23/05/2024 8:11:41 ET]
+Table '3757850363 1' 3-max Siège #2 est au bouton.
+Place 2: pingax30 (900 en jetons) 
+Place 3: psychoman59 (600 en jetons) 
+pingax30 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Jh]
+pingax30 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [4h 5d 5c]
+psychoman59 : parole 
+pingax30 : parole 
+*** TOURNANT *** [4h 5d 5c] [Ac]
+psychoman59 : parole 
+pingax30 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à pingax30.
+pingax30 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [4h 5d 5c Ac]
+Siège 2 : pingax30 (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°250650656946 : Tournoi #3757850363, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 23/05/2024 14:11:59 CET [23/05/2024 8:11:59 ET]
+Table '3757850363 1' 3-max Siège #3 est au bouton.
+Place 2: pingax30 (960 en jetons) 
+Place 3: psychoman59 (540 en jetons) 
+psychoman59 : met la petite blind. 30
+pingax30 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Td]
+psychoman59 : suit. 30
+pingax30 : parole 
+*** FLOP *** [8h 3h As]
+pingax30 : parole 
+psychoman59 : mise. 120
+pingax30 : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [8h 3h As]
+Siège 2 : pingax30 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°250650659084 : Tournoi #3757850363, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 23/05/2024 14:12:13 CET [23/05/2024 8:12:13 ET]
+Table '3757850363 1' 3-max Siège #2 est au bouton.
+Place 2: pingax30 (900 en jetons) 
+Place 3: psychoman59 (600 en jetons) 
+pingax30 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Ad]
+pingax30 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : pingax30 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°250650659923 : Tournoi #3757850363, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 23/05/2024 14:12:19 CET [23/05/2024 8:12:19 ET]
+Table '3757850363 1' 3-max Siège #3 est au bouton.
+Place 2: pingax30 (870 en jetons) 
+Place 3: psychoman59 (630 en jetons) 
+psychoman59 : met la petite blind. 30
+pingax30 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 2s]
+psychoman59 : suit. 30
+pingax30 : parole 
+*** FLOP *** [9c 3d Jc]
+pingax30 : parole 
+psychoman59 : mise. 60
+pingax30 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [9c 3d Jc]
+Siège 2 : pingax30 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°250650661809 : Tournoi #3757850363, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 23/05/2024 14:12:31 CET [23/05/2024 8:12:31 ET]
+Table '3757850363 1' 3-max Siège #2 est au bouton.
+Place 2: pingax30 (810 en jetons) 
+Place 3: psychoman59 (690 en jetons) 
+pingax30 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Qd]
+pingax30 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [2d Jc 5s]
+psychoman59 : parole 
+pingax30 : parole 
+*** TOURNANT *** [2d Jc 5s] [5c]
+psychoman59 : parole 
+pingax30 : parole 
+*** RIVIÈRE *** [2d Jc 5s 5c] [3d]
+psychoman59 : parole 
+pingax30 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Ts Qd] (une paire de Cinq)
+pingax30 : montre [Ah Td] (une paire de Cinq - As kicker)
+pingax30 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [2d Jc 5s 5c 3d]
+Siège 2 : pingax30 (bouton) (petite blind) a montré [Ah Td] et a gagné (120) avec une paire de Cinq
+Siège 3 : psychoman59 (grosse blind) a montré [Ts Qd] et a perdu avec une paire de Cinq
+
+
+
+Main PokerStars n°250650665910 : Tournoi #3757850363, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 23/05/2024 14:12:59 CET [23/05/2024 8:12:59 ET]
+Table '3757850363 1' 3-max Siège #3 est au bouton.
+Place 2: pingax30 (870 en jetons) 
+Place 3: psychoman59 (630 en jetons) 
+psychoman59 : met la petite blind. 40
+pingax30 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 8h]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à pingax30.
+pingax30 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : pingax30 (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°250650666739 : Tournoi #3757850363, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 23/05/2024 14:13:04 CET [23/05/2024 8:13:04 ET]
+Table '3757850363 1' 3-max Siège #2 est au bouton.
+Place 2: pingax30 (910 en jetons) 
+Place 3: psychoman59 (590 en jetons) 
+pingax30 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Kc]
+pingax30 : suit. 40
+psychoman59 : parole 
+*** FLOP *** [Th 8h As]
+psychoman59 : parole 
+pingax30 : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à pingax30.
+pingax30 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Th 8h As]
+Siège 2 : pingax30 (bouton) (petite blind) a remporté (160)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°250650668903 : Tournoi #3757850363, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 23/05/2024 14:13:18 CET [23/05/2024 8:13:18 ET]
+Table '3757850363 1' 3-max Siège #3 est au bouton.
+Place 2: pingax30 (990 en jetons) 
+Place 3: psychoman59 (510 en jetons) 
+psychoman59 : met la petite blind. 40
+pingax30 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 3d]
+psychoman59 : relance. 430 à 510 et est all-in.
+pingax30 : passe. 
+Personne n'a suivi. (430) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 2 : pingax30 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°250650672074 : Tournoi #3757850363, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 23/05/2024 14:13:39 CET [23/05/2024 8:13:39 ET]
+Table '3757850363 1' 3-max Siège #2 est au bouton.
+Place 2: pingax30 (910 en jetons) 
+Place 3: psychoman59 (590 en jetons) 
+pingax30 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Ts]
+pingax30 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : pingax30 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°250650673001 : Tournoi #3757850363, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 23/05/2024 14:13:45 CET [23/05/2024 8:13:45 ET]
+Table '3757850363 1' 3-max Siège #3 est au bouton.
+Place 2: pingax30 (870 en jetons) 
+Place 3: psychoman59 (630 en jetons) 
+psychoman59 : met la petite blind. 40
+pingax30 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Kc]
+psychoman59 : relance. 550 à 630 et est all-in.
+pingax30 : passe. 
+Personne n'a suivi. (550) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 2 : pingax30 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°250650674207 : Tournoi #3757850363, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 23/05/2024 14:13:53 CET [23/05/2024 8:13:53 ET]
+Table '3757850363 1' 3-max Siège #2 est au bouton.
+Place 2: pingax30 (790 en jetons) 
+Place 3: psychoman59 (710 en jetons) 
+pingax30 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 8h]
+pingax30 : suit. 40
+psychoman59 : parole 
+*** FLOP *** [7d Qd Th]
+psychoman59 : parole 
+pingax30 : parole 
+*** TOURNANT *** [7d Qd Th] [Tc]
+psychoman59 : parole 
+pingax30 : parole 
+*** RIVIÈRE *** [7d Qd Th Tc] [2h]
+psychoman59 : parole 
+pingax30 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [6d 8h] (une paire de Dix)
+pingax30 : montre [Ac 2d] (double paire, Dix et Deux)
+pingax30 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [7d Qd Th Tc 2h]
+Siège 2 : pingax30 (bouton) (petite blind) a montré [Ac 2d] et a gagné (160) avec double paire, Dix et Deux
+Siège 3 : psychoman59 (grosse blind) a montré [6d 8h] et a perdu avec une paire de Dix
+
+
+
+Main PokerStars n°250650678064 : Tournoi #3757850363, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 23/05/2024 14:14:18 CET [23/05/2024 8:14:18 ET]
+Table '3757850363 1' 3-max Siège #3 est au bouton.
+Place 2: pingax30 (870 en jetons) 
+Place 3: psychoman59 (630 en jetons) 
+psychoman59 : met la petite blind. 40
+pingax30 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Qs]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à pingax30.
+pingax30 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : pingax30 (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°250650678823 : Tournoi #3757850363, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 23/05/2024 14:14:23 CET [23/05/2024 8:14:23 ET]
+Table '3757850363 1' 3-max Siège #2 est au bouton.
+Place 2: pingax30 (910 en jetons) 
+Place 3: psychoman59 (590 en jetons) 
+pingax30 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 9h]
+pingax30 : suit. 40
+psychoman59 : parole 
+*** FLOP *** [3s 3h 5c]
+psychoman59 : parole 
+pingax30 : parole 
+*** TOURNANT *** [3s 3h 5c] [6d]
+psychoman59 : parole 
+pingax30 : parole 
+*** RIVIÈRE *** [3s 3h 5c 6d] [8d]
+psychoman59 : parole 
+pingax30 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Ts 9h] (une paire de Trois)
+pingax30 : montre [6s 2c] (double paire, Six et Trois)
+pingax30 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [3s 3h 5c 6d 8d]
+Siège 2 : pingax30 (bouton) (petite blind) a montré [6s 2c] et a gagné (160) avec double paire, Six et Trois
+Siège 3 : psychoman59 (grosse blind) a montré [Ts 9h] et a perdu avec une paire de Trois
+
+
+
+Main PokerStars n°250650683268 : Tournoi #3757850363, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 23/05/2024 14:14:53 CET [23/05/2024 8:14:53 ET]
+Table '3757850363 1' 3-max Siège #3 est au bouton.
+Place 2: pingax30 (990 en jetons) 
+Place 3: psychoman59 (510 en jetons) 
+psychoman59 : met la petite blind. 40
+pingax30 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Td]
+psychoman59 : suit. 40
+pingax30 : parole 
+*** FLOP *** [Qs Kh Jd]
+pingax30 : mise. 80
+psychoman59 : relance. 350 à 430 et est all-in.
+pingax30 : passe. 
+Personne n'a suivi. (350) sont retournés à psychoman59.
+psychoman59 a remporté 320  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [Qs Kh Jd]
+Siège 2 : pingax30 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (320)
+
+
+
+Main PokerStars n°250650687929 : Tournoi #3757850363, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (50/100) - 23/05/2024 14:15:22 CET [23/05/2024 8:15:22 ET]
+Table '3757850363 1' 3-max Siège #2 est au bouton.
+Place 2: pingax30 (830 en jetons) 
+Place 3: psychoman59 (670 en jetons) 
+pingax30 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 7h]
+pingax30 : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 2 : pingax30 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (100)
+
+
+
+Main PokerStars n°250650688998 : Tournoi #3757850363, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (50/100) - 23/05/2024 14:15:29 CET [23/05/2024 8:15:29 ET]
+Table '3757850363 1' 3-max Siège #3 est au bouton.
+Place 2: pingax30 (780 en jetons) 
+Place 3: psychoman59 (720 en jetons) 
+psychoman59 : met la petite blind. 50
+pingax30 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 7c]
+psychoman59 : relance. 620 à 720 et est all-in.
+pingax30 : passe. 
+Personne n'a suivi. (620) sont retournés à psychoman59.
+psychoman59 a remporté 200  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Siège 2 : pingax30 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (200)
+
+
+
+Main PokerStars n°250650690739 : Tournoi #3757850363, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (50/100) - 23/05/2024 14:15:40 CET [23/05/2024 8:15:40 ET]
+Table '3757850363 1' 3-max Siège #2 est au bouton.
+Place 2: pingax30 (680 en jetons) 
+Place 3: psychoman59 (820 en jetons) 
+pingax30 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Ah]
+pingax30 : relance. 580 à 680 et est all-in.
+psychoman59 : suit. 580
+*** FLOP *** [8d Th 7d]
+*** TOURNANT *** [8d Th 7d] [2c]
+*** RIVIÈRE *** [8d Th 7d 2c] [Ts]
+*** ABATTAGE ***
+psychoman59 : montre [Tc Ah] (un brelan de Dix)
+pingax30 : montre [Js Kd] (une paire de Dix)
+psychoman59 a remporté 1360  lors du pot .
+pingax30 a fini le tournoi en 2e position.
+psychoman59 gagne le tournoi - félicitations !
+psychoman59 gagne un ticket " €1.50 Step 2 SnG Power Path ticket "
+*** SYNTHÈSE ***
+Pot total 1360 | Commission 0 
+Tableau [8d Th 7d 2c Ts]
+Siège 2 : pingax30 (bouton) (petite blind) a montré [Js Kd] et a perdu avec une paire de Dix
+Siège 3 : psychoman59 (grosse blind) a montré [Tc Ah] et a gagné (1360) avec un brelan de Dix
+
+
+

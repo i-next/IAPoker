@@ -1,0 +1,335 @@
+﻿Main PokerStars n°240209271572 : Tournoi #3508917023, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 02/12/2022 7:51:37 CET [02/12/2022 1:51:37 ET]
+Table '3508917023 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Eskaero31130 (300 en jetons) 
+Place 3: don_jojo59 (300 en jetons) 
+Eskaero31130 : met la petite blind. 10
+don_jojo59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 5d]
+psychoman59 : passe. 
+Eskaero31130 : suit. 10
+don_jojo59 : parole 
+*** FLOP *** [Kc Jc 9d]
+Eskaero31130 : mise. 20
+don_jojo59 : passe. 
+Personne n'a suivi. (20) sont retournés à Eskaero31130.
+Eskaero31130 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Kc Jc 9d]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Eskaero31130 (petite blind) a remporté (40)
+Siège 3 : don_jojo59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°240209275049 : Tournoi #3508917023, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 02/12/2022 7:52:13 CET [02/12/2022 1:52:13 ET]
+Table '3508917023 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Eskaero31130 (320 en jetons) 
+Place 3: don_jojo59 (280 en jetons) 
+don_jojo59 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 9s]
+Eskaero31130 : passe. 
+don_jojo59 : relance. 20 à 40
+psychoman59 : suit. 20
+*** FLOP *** [5h 5c 7c]
+don_jojo59 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5h 5c 7c] [6h]
+don_jojo59 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [5h 5c 7c 6h] [Ah]
+don_jojo59 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+don_jojo59 : montre [Kd Qc] (une paire de Cinq)
+psychoman59 : cache la main perdante. 
+don_jojo59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [5h 5c 7c 6h Ah]
+Siège 1 : psychoman59 (grosse blind) a caché la main perdante. [Th 9s]
+Siège 2 : Eskaero31130 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : don_jojo59 (petite blind) a montré [Kd Qc] et a gagné (80) avec une paire de Cinq
+
+
+
+Main PokerStars n°240209277330 : Tournoi #3508917023, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 02/12/2022 7:52:36 CET [02/12/2022 1:52:36 ET]
+Table '3508917023 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (260 en jetons) 
+Place 2: Eskaero31130 (320 en jetons) 
+Place 3: don_jojo59 (320 en jetons) 
+psychoman59 : met la petite blind. 10
+Eskaero31130 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 8d]
+don_jojo59 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à Eskaero31130.
+Eskaero31130 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Eskaero31130 (grosse blind) a remporté (20)
+Siège 3 : don_jojo59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°240209279122 : Tournoi #3508917023, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 02/12/2022 7:52:54 CET [02/12/2022 1:52:54 ET]
+Table '3508917023 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (250 en jetons) 
+Place 2: Eskaero31130 (330 en jetons) 
+Place 3: don_jojo59 (320 en jetons) 
+Eskaero31130 : met la petite blind. 15
+don_jojo59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 8s]
+psychoman59 : relance. 220 à 250 et est all-in.
+Eskaero31130 : relance. 80 à 330 et est all-in.
+don_jojo59 : passe. 
+Personne n'a suivi. (80) sont retournés à Eskaero31130.
+*** FLOP *** [8h 3c 3s]
+*** TOURNANT *** [8h 3c 3s] [Jd]
+*** RIVIÈRE *** [8h 3c 3s Jd] [7h]
+*** ABATTAGE ***
+Eskaero31130 : montre [As 2d] (une paire de Trois)
+psychoman59 : montre [Ad 8s] (double paire, Huit et Trois)
+psychoman59 a remporté 530  lors du pot .
+*** SYNTHÈSE ***
+Pot total 530 | Commission 0 
+Tableau [8h 3c 3s Jd 7h]
+Siège 1 : psychoman59 (bouton) a montré [Ad 8s] et a gagné (530) avec double paire, Huit et Trois
+Siège 2 : Eskaero31130 (petite blind) a montré [As 2d] et a perdu avec une paire de Trois
+Siège 3 : don_jojo59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240209281181 : Tournoi #3508917023, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 02/12/2022 7:53:15 CET [02/12/2022 1:53:15 ET]
+Table '3508917023 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (530 en jetons) 
+Place 2: Eskaero31130 (80 en jetons) 
+Place 3: don_jojo59 (290 en jetons) 
+don_jojo59 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Qs]
+Eskaero31130 : passe. 
+don_jojo59 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [2s 6d Ks]
+don_jojo59 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à don_jojo59.
+don_jojo59 a remporté 60  lors du pot .
+don_jojo59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [2s 6d Ks]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : Eskaero31130 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : don_jojo59 (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°240209282952 : Tournoi #3508917023, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 02/12/2022 7:53:33 CET [02/12/2022 1:53:33 ET]
+Table '3508917023 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: Eskaero31130 (80 en jetons) 
+Place 3: don_jojo59 (320 en jetons) 
+psychoman59 : met la petite blind. 15
+Eskaero31130 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 4d]
+don_jojo59 : relance. 30 à 60
+psychoman59 : passe. 
+Eskaero31130 : relance. 20 à 80 et est all-in.
+don_jojo59 : suit. 20
+*** FLOP *** [4h 5c 7c]
+*** TOURNANT *** [4h 5c 7c] [Js]
+*** RIVIÈRE *** [4h 5c 7c Js] [2d]
+*** ABATTAGE ***
+Eskaero31130 : montre [8s Jc] (une paire de Valets)
+don_jojo59 : montre [8h As] (Hauteur As)
+Eskaero31130 a remporté 175  lors du pot .
+*** SYNTHÈSE ***
+Pot total 175 | Commission 0 
+Tableau [4h 5c 7c Js 2d]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Eskaero31130 (grosse blind) a montré [8s Jc] et a gagné (175) avec une paire de Valets
+Siège 3 : don_jojo59 (bouton) a montré [8h As] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°240209285176 : Tournoi #3508917023, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 02/12/2022 7:53:56 CET [02/12/2022 1:53:56 ET]
+Table '3508917023 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (485 en jetons) 
+Place 2: Eskaero31130 (175 en jetons) 
+Place 3: don_jojo59 (240 en jetons) 
+Eskaero31130 : met la petite blind. 20
+don_jojo59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 5d]
+psychoman59 : passe. 
+Eskaero31130 : suit. 20
+don_jojo59 : parole 
+*** FLOP *** [4d Qs Qc]
+Eskaero31130 : parole 
+don_jojo59 : parole 
+*** TOURNANT *** [4d Qs Qc] [9h]
+Eskaero31130 : parole 
+don_jojo59 : parole 
+*** RIVIÈRE *** [4d Qs Qc 9h] [Qh]
+Eskaero31130 : parole 
+don_jojo59 : parole 
+*** ABATTAGE ***
+Eskaero31130 : montre [8s Jd] (un brelan de Dames)
+don_jojo59 : montre [Ah 6s] (un brelan de Dames - As kicker)
+don_jojo59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [4d Qs Qc 9h Qh]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Eskaero31130 (petite blind) a montré [8s Jd] et a perdu avec un brelan de Dames
+Siège 3 : don_jojo59 (grosse blind) a montré [Ah 6s] et a gagné (80) avec un brelan de Dames
+
+
+
+Main PokerStars n°240209288803 : Tournoi #3508917023, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 02/12/2022 7:54:32 CET [02/12/2022 1:54:32 ET]
+Table '3508917023 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (485 en jetons) 
+Place 2: Eskaero31130 (135 en jetons) 
+Place 3: don_jojo59 (280 en jetons) 
+don_jojo59 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Kd]
+Eskaero31130 : passe. 
+don_jojo59 : relance. 40 à 80
+psychoman59 : suit. 40
+*** FLOP *** [9d 5h Kh]
+don_jojo59 : mise. 80
+psychoman59 : suit. 80
+*** TOURNANT *** [9d 5h Kh] [Ks]
+don_jojo59 : mise. 120 et est all-in.
+psychoman59 : suit. 120
+*** RIVIÈRE *** [9d 5h Kh Ks] [4d]
+*** ABATTAGE ***
+don_jojo59 : montre [9h Ah] (double paire, Rois et Neuf)
+psychoman59 : montre [9c Kd] (un full, full aux Rois par les Neuf)
+psychoman59 a remporté 560  lors du pot .
+don_jojo59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [9d 5h Kh Ks 4d]
+Siège 1 : psychoman59 (grosse blind) a montré [9c Kd] et a gagné (560) avec un full, full aux Rois par les Neuf
+Siège 2 : Eskaero31130 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : don_jojo59 (petite blind) a montré [9h Ah] et a perdu avec double paire, Rois et Neuf
+
+
+
+Main PokerStars n°240209291425 : Tournoi #3508917023, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 02/12/2022 7:54:59 CET [02/12/2022 1:54:59 ET]
+Table '3508917023 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (765 en jetons) 
+Place 2: Eskaero31130 (135 en jetons) 
+psychoman59 : met la petite blind. 30
+Eskaero31130 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 4h]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Eskaero31130.
+Eskaero31130 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : Eskaero31130 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°240209292055 : Tournoi #3508917023, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 02/12/2022 7:55:05 CET [02/12/2022 1:55:05 ET]
+Table '3508917023 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (735 en jetons) 
+Place 2: Eskaero31130 (165 en jetons) 
+Eskaero31130 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 4s]
+Eskaero31130 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 2 : Eskaero31130 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240209292531 : Tournoi #3508917023, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 02/12/2022 7:55:10 CET [02/12/2022 1:55:10 ET]
+Table '3508917023 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (765 en jetons) 
+Place 2: Eskaero31130 (135 en jetons) 
+psychoman59 : met la petite blind. 30
+Eskaero31130 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 2s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Eskaero31130.
+Eskaero31130 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : Eskaero31130 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°240209293017 : Tournoi #3508917023, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 02/12/2022 7:55:15 CET [02/12/2022 1:55:15 ET]
+Table '3508917023 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (735 en jetons) 
+Place 2: Eskaero31130 (165 en jetons) 
+Eskaero31130 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 9h]
+Eskaero31130 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 2 : Eskaero31130 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240209293594 : Tournoi #3508917023, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 02/12/2022 7:55:22 CET [02/12/2022 1:55:22 ET]
+Table '3508917023 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (765 en jetons) 
+Place 2: Eskaero31130 (135 en jetons) 
+psychoman59 : met la petite blind. 30
+Eskaero31130 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Ks]
+psychoman59 : relance. 60 à 120
+Eskaero31130 : relance. 15 à 135 et est all-in.
+psychoman59 : suit. 15
+*** FLOP *** [6h 9d 3c]
+*** TOURNANT *** [6h 9d 3c] [5h]
+*** RIVIÈRE *** [6h 9d 3c 5h] [9c]
+*** ABATTAGE ***
+Eskaero31130 : montre [Td Jh] (une paire de Neuf)
+psychoman59 : montre [2c Ks] (une paire de Neuf - Roi kicker)
+psychoman59 a remporté 270  lors du pot .
+Eskaero31130 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Tableau [6h 9d 3c 5h 9c]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [2c Ks] et a gagné (270) avec une paire de Neuf
+Siège 2 : Eskaero31130 (grosse blind) a montré [Td Jh] et a perdu avec une paire de Neuf
+
+
+

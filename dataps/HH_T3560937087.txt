@@ -1,0 +1,99 @@
+﻿Main PokerStars n°242395872970 : Tournoi #3560937087, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/03/2023 11:28:22 CET [12/03/2023 6:28:22 ET]
+Table '3560937087 1' 3-max Siège #1 est au bouton.
+Place 1: 59.jegere.62 (300 en jetons) 
+Place 2: Cedhuttier (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+Cedhuttier : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 2d]
+59.jegere.62 : suit. 20
+Cedhuttier : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Qc 6h 6s]
+Cedhuttier : mise. 40
+psychoman59 : passe. 
+59.jegere.62 : suit. 40
+*** TOURNANT *** [Qc 6h 6s] [9d]
+Cedhuttier : parole 
+59.jegere.62 : mise. 20
+Cedhuttier : suit. 20
+*** RIVIÈRE *** [Qc 6h 6s 9d] [3c]
+Cedhuttier : parole 
+59.jegere.62 : mise. 20
+Cedhuttier : suit. 20
+*** ABATTAGE ***
+59.jegere.62 : montre [Qh 7h] (double paire, Dames et Six)
+Cedhuttier : cache la main perdante. 
+59.jegere.62 a remporté 220  lors du pot .
+*** SYNTHÈSE ***
+Pot total 220 | Commission 0 
+Tableau [Qc 6h 6s 9d 3c]
+Siège 1 : 59.jegere.62 (bouton) a montré [Qh 7h] et a gagné (220) avec double paire, Dames et Six
+Siège 2 : Cedhuttier (petite blind) a caché la main perdante. [Kd Ac]
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°242395877009 : Tournoi #3560937087, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/03/2023 11:28:45 CET [12/03/2023 6:28:45 ET]
+Table '3560937087 1' 3-max Siège #2 est au bouton.
+Place 1: 59.jegere.62 (420 en jetons) 
+Place 2: Cedhuttier (200 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+59.jegere.62 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 8h]
+Cedhuttier : relance. 20 à 40
+psychoman59 : passe. 
+59.jegere.62 : suit. 20
+*** FLOP *** [3d Js 2d]
+59.jegere.62 : parole 
+Cedhuttier : parole 
+*** TOURNANT *** [3d Js 2d] [Qh]
+59.jegere.62 : mise. 20
+Cedhuttier : passe. 
+Personne n'a suivi. (20) sont retournés à 59.jegere.62.
+59.jegere.62 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [3d Js 2d Qh]
+Siège 1 : 59.jegere.62 (grosse blind) a remporté (90)
+Siège 2 : Cedhuttier (bouton) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242395879073 : Tournoi #3560937087, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/03/2023 11:28:57 CET [12/03/2023 6:28:57 ET]
+Table '3560937087 1' 3-max Siège #3 est au bouton.
+Place 1: 59.jegere.62 (470 en jetons) 
+Place 2: Cedhuttier (160 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+59.jegere.62 : met la petite blind. 10
+Cedhuttier : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 8s]
+psychoman59 : relance. 250 à 270 et est all-in.
+59.jegere.62 : suit. 260
+Cedhuttier : suit. 140 et est all-in.
+*** FLOP *** [8c 7d Td]
+*** TOURNANT *** [8c 7d Td] [7s]
+*** RIVIÈRE *** [8c 7d Td 7s] [Qd]
+*** ABATTAGE ***
+59.jegere.62 : montre [Tc Th] (un full, full aux Dix par les Sept)
+psychoman59 : montre [As 8s] (double paire, Huit et Sept)
+59.jegere.62 a remporté 220  parallèle lors du pot .
+Cedhuttier : montre [Ah 9c] (une paire de Sept)
+59.jegere.62 a remporté 480  principal lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+Cedhuttier a fini le tournoi en 3e position.
+59.jegere.62 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 700 Principal pot 480. Parallèle pot 220. | Commission 0 
+Tableau [8c 7d Td 7s Qd]
+Siège 1 : 59.jegere.62 (petite blind) a montré [Tc Th] et a gagné (700) avec un full, full aux Dix par les Sept
+Siège 2 : Cedhuttier (grosse blind) a montré [Ah 9c] et a perdu avec une paire de Sept
+Siège 3 : psychoman59 (bouton) a montré [As 8s] et a perdu avec double paire, Huit et Sept
+
+
+

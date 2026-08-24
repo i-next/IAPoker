@@ -1,0 +1,582 @@
+﻿Main PokerStars n°245820327876 : Tournoi #3641609779, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/09/2023 8:18:43 CET [07/09/2023 2:18:43 ET]
+Table '3641609779 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: beug11 (300 en jetons) 
+Place 3: kaki332 (300 en jetons) 
+beug11 : met la petite blind. 10
+kaki332 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Ah]
+psychoman59 : relance. 20 à 40
+beug11 : suit. 30
+kaki332 : suit. 20
+*** FLOP *** [As Qs 5c]
+beug11 : parole 
+kaki332 : parole 
+psychoman59 : mise. 60
+beug11 : passe. 
+kaki332 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [As Qs 5c]
+Siège 1 : psychoman59 (bouton) a remporté (120)
+Siège 2 : beug11 (petite blind) s'est couché. sur le Flop
+Siège 3 : kaki332 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°245820329655 : Tournoi #3641609779, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/09/2023 8:19:02 CET [07/09/2023 2:19:02 ET]
+Table '3641609779 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (380 en jetons) 
+Place 2: beug11 (260 en jetons) 
+Place 3: kaki332 (260 en jetons) 
+kaki332 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 2h]
+beug11 : suit. 20
+kaki332 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [8s 6s 8c]
+kaki332 : parole 
+psychoman59 : parole 
+beug11 : parole 
+*** TOURNANT *** [8s 6s 8c] [Td]
+kaki332 : parole 
+psychoman59 : mise. 60
+beug11 : passe. 
+kaki332 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [8s 6s 8c Td]
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 2 : beug11 (bouton) s'est couché. sur le Tournant
+Siège 3 : kaki332 (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°245820332044 : Tournoi #3641609779, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/09/2023 8:19:26 CET [07/09/2023 2:19:26 ET]
+Table '3641609779 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (420 en jetons) 
+Place 2: beug11 (240 en jetons) 
+Place 3: kaki332 (240 en jetons) 
+psychoman59 : met la petite blind. 10
+beug11 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 3c]
+kaki332 : suit. 20
+psychoman59 : suit. 10
+beug11 : relance. 20 à 40
+kaki332 : suit. 20
+psychoman59 : suit. 20
+*** FLOP *** [2h 7c Ks]
+psychoman59 : parole 
+beug11 : mise. 20
+kaki332 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à beug11.
+beug11 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [2h 7c Ks]
+Siège 1 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 2 : beug11 (grosse blind) a remporté (120)
+Siège 3 : kaki332 (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°245820334802 : Tournoi #3641609779, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 07/09/2023 8:19:54 CET [07/09/2023 2:19:54 ET]
+Table '3641609779 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (380 en jetons) 
+Place 2: beug11 (320 en jetons) 
+Place 3: kaki332 (200 en jetons) 
+beug11 : met la petite blind. 15
+kaki332 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 3d]
+psychoman59 : passe. 
+beug11 : suit. 15
+kaki332 : parole 
+*** FLOP *** [Jd Ks 7h]
+beug11 : parole 
+kaki332 : parole 
+*** TOURNANT *** [Jd Ks 7h] [Ah]
+beug11 : parole 
+kaki332 : parole 
+*** RIVIÈRE *** [Jd Ks 7h Ah] [3s]
+beug11 : mise. 30
+kaki332 : suit. 30
+*** ABATTAGE ***
+beug11 : montre [5h 3h] (une paire de Trois)
+kaki332 : cache la main perdante. 
+beug11 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Jd Ks 7h Ah 3s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : beug11 (petite blind) a montré [5h 3h] et a gagné (120) avec une paire de Trois
+Siège 3 : kaki332 (grosse blind) a caché la main perdante. [2h Qc]
+
+
+
+Main PokerStars n°245820337294 : Tournoi #3641609779, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 07/09/2023 8:20:19 CET [07/09/2023 2:20:19 ET]
+Table '3641609779 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (380 en jetons) 
+Place 2: beug11 (380 en jetons) 
+Place 3: kaki332 (140 en jetons) 
+kaki332 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 9h]
+beug11 : suit. 30
+kaki332 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Kd 7c Qd]
+kaki332 : parole 
+psychoman59 : parole 
+beug11 : parole 
+*** TOURNANT *** [Kd 7c Qd] [Ad]
+kaki332 : mise. 30
+psychoman59 : passe. 
+beug11 : suit. 30
+*** RIVIÈRE *** [Kd 7c Qd Ad] [9s]
+kaki332 : mise. 30
+beug11 : passe. 
+Personne n'a suivi. (30) sont retournés à kaki332.
+kaki332 a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Tableau [Kd 7c Qd Ad 9s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : beug11 (bouton) s'est couché. sur le Rivière
+Siège 3 : kaki332 (petite blind) a remporté (150)
+
+
+
+Main PokerStars n°245820340169 : Tournoi #3641609779, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 07/09/2023 8:20:49 CET [07/09/2023 2:20:49 ET]
+Table '3641609779 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (350 en jetons) 
+Place 2: beug11 (320 en jetons) 
+Place 3: kaki332 (230 en jetons) 
+psychoman59 : met la petite blind. 20
+beug11 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Qh]
+kaki332 : relance. 40 à 80
+psychoman59 : passe. 
+beug11 : passe. 
+Personne n'a suivi. (40) sont retournés à kaki332.
+kaki332 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : beug11 (grosse blind) s'est couché. avant Flop
+Siège 3 : kaki332 (bouton) a remporté (100)
+
+
+
+Main PokerStars n°245820341188 : Tournoi #3641609779, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 07/09/2023 8:20:59 CET [07/09/2023 2:20:59 ET]
+Table '3641609779 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (330 en jetons) 
+Place 2: beug11 (280 en jetons) 
+Place 3: kaki332 (290 en jetons) 
+beug11 : met la petite blind. 20
+kaki332 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 2c]
+psychoman59 : passe. 
+beug11 : relance. 40 à 80
+kaki332 : suit. 40
+*** FLOP *** [Kd 8s 4d]
+beug11 : mise. 40
+kaki332 : suit. 40
+*** TOURNANT *** [Kd 8s 4d] [5h]
+beug11 : mise. 160 et est all-in.
+kaki332 : suit. 160
+*** RIVIÈRE *** [Kd 8s 4d 5h] [7d]
+*** ABATTAGE ***
+beug11 : montre [Qc 3s] (Hauteur Roi)
+kaki332 : montre [2d Ac] (Hauteur As)
+kaki332 a remporté 560  lors du pot .
+beug11 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [Kd 8s 4d 5h 7d]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : beug11 (petite blind) a montré [Qc 3s] et a perdu avec Hauteur Roi
+Siège 3 : kaki332 (grosse blind) a montré [2d Ac] et a gagné (560) avec Hauteur As
+
+
+
+Main PokerStars n°245820343784 : Tournoi #3641609779, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 07/09/2023 8:21:26 CET [07/09/2023 2:21:26 ET]
+Table '3641609779 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (330 en jetons) 
+Place 3: kaki332 (570 en jetons) 
+kaki332 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Jc]
+kaki332 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Td Tc 8h]
+psychoman59 : parole 
+kaki332 : parole 
+*** TOURNANT *** [Td Tc 8h] [3h]
+psychoman59 : parole 
+kaki332 : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à kaki332.
+kaki332 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Td Tc 8h 3h]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : kaki332 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°245820346881 : Tournoi #3641609779, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 07/09/2023 8:21:57 CET [07/09/2023 2:21:57 ET]
+Table '3641609779 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (290 en jetons) 
+Place 3: kaki332 (610 en jetons) 
+psychoman59 : met la petite blind. 30
+kaki332 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 5s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à kaki332.
+kaki332 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : kaki332 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°245820347335 : Tournoi #3641609779, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 07/09/2023 8:22:02 CET [07/09/2023 2:22:02 ET]
+Table '3641609779 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (260 en jetons) 
+Place 3: kaki332 (640 en jetons) 
+kaki332 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Kd]
+kaki332 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : kaki332 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°245820348432 : Tournoi #3641609779, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 07/09/2023 8:22:13 CET [07/09/2023 2:22:13 ET]
+Table '3641609779 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (290 en jetons) 
+Place 3: kaki332 (610 en jetons) 
+psychoman59 : met la petite blind. 30
+kaki332 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 6c]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à kaki332.
+kaki332 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : kaki332 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°245820348921 : Tournoi #3641609779, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 07/09/2023 8:22:18 CET [07/09/2023 2:22:18 ET]
+Table '3641609779 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (260 en jetons) 
+Place 3: kaki332 (640 en jetons) 
+kaki332 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 3s]
+kaki332 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : kaki332 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°245820349557 : Tournoi #3641609779, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 07/09/2023 8:22:25 CET [07/09/2023 2:22:25 ET]
+Table '3641609779 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (290 en jetons) 
+Place 3: kaki332 (610 en jetons) 
+psychoman59 : met la petite blind. 30
+kaki332 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Qs]
+psychoman59 : relance. 230 à 290 et est all-in.
+kaki332 : passe. 
+Personne n'a suivi. (230) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 3 : kaki332 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°245820352124 : Tournoi #3641609779, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 07/09/2023 8:22:51 CET [07/09/2023 2:22:51 ET]
+Table '3641609779 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (350 en jetons) 
+Place 3: kaki332 (550 en jetons) 
+kaki332 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 8d]
+kaki332 : suit. 40
+psychoman59 : parole 
+*** FLOP *** [Qc 4c 5s]
+psychoman59 : parole 
+kaki332 : parole 
+*** TOURNANT *** [Qc 4c 5s] [8h]
+psychoman59 : parole 
+kaki332 : parole 
+*** RIVIÈRE *** [Qc 4c 5s 8h] [7c]
+psychoman59 : mise. 80
+kaki332 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Qc 4c 5s 8h 7c]
+Siège 1 : psychoman59 (grosse blind) a remporté (160)
+Siège 3 : kaki332 (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°245820355091 : Tournoi #3641609779, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 07/09/2023 8:23:22 CET [07/09/2023 2:23:22 ET]
+Table '3641609779 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (430 en jetons) 
+Place 3: kaki332 (470 en jetons) 
+psychoman59 : met la petite blind. 40
+kaki332 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 3h]
+psychoman59 : relance. 350 à 430 et est all-in.
+kaki332 : suit. 350
+*** FLOP *** [As 2c 5d]
+*** TOURNANT *** [As 2c 5d] [Jh]
+*** RIVIÈRE *** [As 2c 5d Jh] [8s]
+*** ABATTAGE ***
+kaki332 : montre [Th Qs] (Hauteur As)
+psychoman59 : montre [Kh 3h] (Hauteur As - Roi kicker)
+psychoman59 a remporté 860  lors du pot .
+*** SYNTHÈSE ***
+Pot total 860 | Commission 0 
+Tableau [As 2c 5d Jh 8s]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Kh 3h] et a gagné (860) avec Hauteur As
+Siège 3 : kaki332 (grosse blind) a montré [Th Qs] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°245820356585 : Tournoi #3641609779, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 07/09/2023 8:23:37 CET [07/09/2023 2:23:37 ET]
+Table '3641609779 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (860 en jetons) 
+Place 3: kaki332 (40 en jetons) 
+kaki332 : met la petite blind. 40 et est all-in.
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 5d]
+Personne n'a suivi. (40) sont retournés à psychoman59.
+*** FLOP *** [Kc 7c 9h]
+*** TOURNANT *** [Kc 7c 9h] [2h]
+*** RIVIÈRE *** [Kc 7c 9h 2h] [7h]
+*** ABATTAGE ***
+psychoman59 : montre [8d 5d] (une paire de Sept)
+kaki332 : montre [Js Ad] (une paire de Sept - As kicker)
+kaki332 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Kc 7c 9h 2h 7h]
+Siège 1 : psychoman59 (grosse blind) a montré [8d 5d] et a perdu avec une paire de Sept
+Siège 3 : kaki332 (bouton) (petite blind) a montré [Js Ad] et a gagné (80) avec une paire de Sept
+
+
+
+Main PokerStars n°245820357747 : Tournoi #3641609779, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 07/09/2023 8:23:49 CET [07/09/2023 2:23:49 ET]
+Table '3641609779 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (820 en jetons) 
+Place 3: kaki332 (80 en jetons) 
+psychoman59 : met la petite blind. 50
+kaki332 : met la grosse blind. 80 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 9s]
+psychoman59 : suit. 30
+*** FLOP *** [Jc 7c 6c]
+*** TOURNANT *** [Jc 7c 6c] [Js]
+*** RIVIÈRE *** [Jc 7c 6c Js] [8s]
+*** ABATTAGE ***
+kaki332 : montre [Kd Ts] (une paire de Valets)
+psychoman59 : montre [3h 9s] (une paire de Valets - plus basse kicker)
+kaki332 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Jc 7c 6c Js 8s]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [3h 9s] et a perdu avec une paire de Valets
+Siège 3 : kaki332 (grosse blind) a montré [Kd Ts] et a gagné (160) avec une paire de Valets
+
+
+
+Main PokerStars n°245820358890 : Tournoi #3641609779, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 07/09/2023 8:24:00 CET [07/09/2023 2:24:00 ET]
+Table '3641609779 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (740 en jetons) 
+Place 3: kaki332 (160 en jetons) 
+kaki332 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Jh]
+kaki332 : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (100)
+Siège 3 : kaki332 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°245820360016 : Tournoi #3641609779, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 07/09/2023 8:24:12 CET [07/09/2023 2:24:12 ET]
+Table '3641609779 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (790 en jetons) 
+Place 3: kaki332 (110 en jetons) 
+psychoman59 : met la petite blind. 50
+kaki332 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 9s]
+psychoman59 : relance. 100 à 200
+kaki332 : suit. 10 et est all-in.
+Personne n'a suivi. (90) sont retournés à psychoman59.
+*** FLOP *** [3c Ad Jd]
+*** TOURNANT *** [3c Ad Jd] [4d]
+*** RIVIÈRE *** [3c Ad Jd 4d] [5d]
+*** ABATTAGE ***
+kaki332 : montre [Ac 3d] (une couleur, hauteur As)
+psychoman59 : montre [Qs 9s] (Hauteur As)
+kaki332 a remporté 220  lors du pot .
+*** SYNTHÈSE ***
+Pot total 220 | Commission 0 
+Tableau [3c Ad Jd 4d 5d]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Qs 9s] et a perdu avec Hauteur As
+Siège 3 : kaki332 (grosse blind) a montré [Ac 3d] et a gagné (220) avec une couleur, hauteur As
+
+
+
+Main PokerStars n°245820361858 : Tournoi #3641609779, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 07/09/2023 8:24:30 CET [07/09/2023 2:24:30 ET]
+Table '3641609779 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (680 en jetons) 
+Place 3: kaki332 (220 en jetons) 
+kaki332 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 3c]
+kaki332 : suit. 50
+psychoman59 : parole 
+*** FLOP *** [4d Ts 4h]
+psychoman59 : parole 
+kaki332 : mise. 100
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à kaki332.
+kaki332 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [4d Ts 4h]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : kaki332 (bouton) (petite blind) a remporté (200)
+
+
+
+Main PokerStars n°245820364046 : Tournoi #3641609779, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 07/09/2023 8:24:53 CET [07/09/2023 2:24:53 ET]
+Table '3641609779 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (580 en jetons) 
+Place 3: kaki332 (320 en jetons) 
+psychoman59 : met la petite blind. 60
+kaki332 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Js]
+psychoman59 : relance. 460 à 580 et est all-in.
+kaki332 : passe. 
+Personne n'a suivi. (460) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (240)
+Siège 3 : kaki332 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°245820365821 : Tournoi #3641609779, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 07/09/2023 8:25:10 CET [07/09/2023 2:25:10 ET]
+Table '3641609779 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (700 en jetons) 
+Place 3: kaki332 (200 en jetons) 
+kaki332 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Tc]
+kaki332 : relance. 80 à 200 et est all-in.
+psychoman59 : suit. 80
+*** FLOP *** [4c 6s Ac]
+*** TOURNANT *** [4c 6s Ac] [8h]
+*** RIVIÈRE *** [4c 6s Ac 8h] [8d]
+*** ABATTAGE ***
+psychoman59 : montre [2s Tc] (une paire de Huit)
+kaki332 : montre [8s Kc] (un brelan de Huit)
+kaki332 a remporté 400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [4c 6s Ac 8h 8d]
+Siège 1 : psychoman59 (grosse blind) a montré [2s Tc] et a perdu avec une paire de Huit
+Siège 3 : kaki332 (bouton) (petite blind) a montré [8s Kc] et a gagné (400) avec un brelan de Huit
+
+
+
+Main PokerStars n°245820367235 : Tournoi #3641609779, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 07/09/2023 8:25:25 CET [07/09/2023 2:25:25 ET]
+Table '3641609779 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 3: kaki332 (400 en jetons) 
+psychoman59 : met la petite blind. 60
+kaki332 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Ad]
+psychoman59 : relance. 380 à 500 et est all-in.
+kaki332 : suit. 280 et est all-in.
+Personne n'a suivi. (100) sont retournés à psychoman59.
+*** FLOP *** [2c 6h Ac]
+*** TOURNANT *** [2c 6h Ac] [Qs]
+*** RIVIÈRE *** [2c 6h Ac Qs] [4d]
+*** ABATTAGE ***
+kaki332 : montre [Kd 3d] (Hauteur As)
+psychoman59 : montre [9s Ad] (une paire de As)
+psychoman59 a remporté 800  lors du pot .
+kaki332 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 800 | Commission 0 
+Tableau [2c 6h Ac Qs 4d]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [9s Ad] et a gagné (800) avec une paire de As
+Siège 3 : kaki332 (grosse blind) a montré [Kd 3d] et a perdu avec Hauteur As
+
+
+

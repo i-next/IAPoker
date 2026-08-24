@@ -1,0 +1,258 @@
+﻿Main PokerStars n°240512208443 : Tournoi #3516786590, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 17/12/2022 10:29:30 CET [17/12/2022 4:29:30 ET]
+Table '3516786590 1' 3-max Siège #1 est au bouton.
+Place 1: Barbushove (300 en jetons) 
+Place 2: lasvegas020662 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+lasvegas020662 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 8c]
+Barbushove : passe. 
+lasvegas020662 : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : Barbushove (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : lasvegas020662 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°240512210014 : Tournoi #3516786590, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 17/12/2022 10:29:41 CET [17/12/2022 4:29:41 ET]
+Table '3516786590 1' 3-max Siège #2 est au bouton.
+Place 1: Barbushove (300 en jetons) 
+Place 2: lasvegas020662 (290 en jetons) 
+Place 3: psychoman59 (310 en jetons) 
+psychoman59 : met la petite blind. 10
+Barbushove : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Kd]
+lasvegas020662 : suit. 20
+psychoman59 : suit. 10
+Barbushove : parole 
+*** FLOP *** [Jh 5c 2c]
+psychoman59 : parole 
+Barbushove : parole 
+lasvegas020662 : parole 
+*** TOURNANT *** [Jh 5c 2c] [8c]
+psychoman59 : parole 
+Barbushove : parole 
+lasvegas020662 : mise. 60
+psychoman59 : passe. 
+Barbushove : passe. 
+Personne n'a suivi. (60) sont retournés à lasvegas020662.
+lasvegas020662 a remporté 60  lors du pot .
+lasvegas020662 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Jh 5c 2c 8c]
+Siège 1 : Barbushove (grosse blind) s'est couché. sur le Tournant
+Siège 2 : lasvegas020662 (bouton) a remporté (60)
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°240512214742 : Tournoi #3516786590, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 17/12/2022 10:30:17 CET [17/12/2022 4:30:17 ET]
+Table '3516786590 1' 3-max Siège #3 est au bouton.
+Place 1: Barbushove (280 en jetons) 
+Place 2: lasvegas020662 (330 en jetons) 
+Place 3: psychoman59 (290 en jetons) 
+Barbushove : met la petite blind. 10
+lasvegas020662 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 3d]
+psychoman59 : relance. 270 à 290 et est all-in.
+Barbushove : passe. 
+lasvegas020662 : passe. 
+Personne n'a suivi. (270) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : Barbushove (petite blind) s'est couché. avant Flop
+Siège 2 : lasvegas020662 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a remporté (50)
+
+
+
+Main PokerStars n°240512216037 : Tournoi #3516786590, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 17/12/2022 10:30:27 CET [17/12/2022 4:30:27 ET]
+Table '3516786590 1' 3-max Siège #1 est au bouton.
+Place 1: Barbushove (270 en jetons) 
+Place 2: lasvegas020662 (310 en jetons) 
+Place 3: psychoman59 (320 en jetons) 
+lasvegas020662 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 6d]
+Barbushove : passe. 
+lasvegas020662 : relance. 20 à 40
+psychoman59 : relance. 280 à 320 et est all-in.
+lasvegas020662 : suit. 270 et est all-in.
+Personne n'a suivi. (10) sont retournés à psychoman59.
+*** FLOP *** [Kd Ac 7s]
+*** TOURNANT *** [Kd Ac 7s] [Ad]
+*** RIVIÈRE *** [Kd Ac 7s Ad] [3h]
+*** ABATTAGE ***
+lasvegas020662 : montre [As 7d] (un full, full aux As par les Sept)
+psychoman59 : montre [6c 6d] (double paire, As et Six)
+lasvegas020662 a remporté 620  lors du pot .
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [Kd Ac 7s Ad 3h]
+Siège 1 : Barbushove (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : lasvegas020662 (petite blind) a montré [As 7d] et a gagné (620) avec un full, full aux As par les Sept
+Siège 3 : psychoman59 (grosse blind) a montré [6c 6d] et a perdu avec double paire, As et Six
+
+
+
+Main PokerStars n°240512219827 : Tournoi #3516786590, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 17/12/2022 10:30:55 CET [17/12/2022 4:30:55 ET]
+Table '3516786590 1' 3-max Siège #2 est au bouton.
+Place 1: Barbushove (270 en jetons) 
+Place 2: lasvegas020662 (620 en jetons) 
+Place 3: psychoman59 (10 en jetons) 
+psychoman59 : met la petite blind. 10 et est all-in.
+Barbushove : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 7c]
+lasvegas020662 : suit. 30
+Barbushove : parole 
+*** FLOP *** [Kh 6d 4d]
+Barbushove : parole 
+lasvegas020662 : parole 
+*** TOURNANT *** [Kh 6d 4d] [2d]
+Barbushove : mise. 42
+lasvegas020662 : passe. 
+Personne n'a suivi. (42) sont retournés à Barbushove.
+*** RIVIÈRE *** [Kh 6d 4d 2d] [5d]
+*** ABATTAGE ***
+Barbushove : montre [7d Kc] (une couleur, hauteur Sept)
+Barbushove a remporté 40  parallèle lors du pot .
+psychoman59 : montre [9d 7c] (une couleur, hauteur Neuf)
+psychoman59 a remporté 30  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 70 Principal pot 30. Parallèle pot 40. | Commission 0 
+Tableau [Kh 6d 4d 2d 5d]
+Siège 1 : Barbushove (grosse blind) a montré [7d Kc] et a gagné (40) avec une couleur, hauteur Sept
+Siège 2 : lasvegas020662 (bouton) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (petite blind) a montré [9d 7c] et a gagné (30) avec une couleur, hauteur Neuf
+
+
+
+Main PokerStars n°240512223599 : Tournoi #3516786590, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 17/12/2022 10:31:24 CET [17/12/2022 4:31:24 ET]
+Table '3516786590 1' 3-max Siège #3 est au bouton.
+Place 1: Barbushove (280 en jetons) 
+Place 2: lasvegas020662 (590 en jetons) 
+Place 3: psychoman59 (30 en jetons) 
+Barbushove : met la petite blind. 15
+lasvegas020662 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Kd]
+psychoman59 : suit. 30 et est all-in.
+Barbushove : relance. 250 à 280 et est all-in.
+lasvegas020662 : suit. 250
+*** FLOP *** [Qc 5h 5s]
+*** TOURNANT *** [Qc 5h 5s] [Jh]
+*** RIVIÈRE *** [Qc 5h 5s Jh] [8h]
+*** ABATTAGE ***
+Barbushove : montre [4s 4c] (double paire, Cinq et Quatre)
+lasvegas020662 : montre [Ks 9d] (une paire de Cinq)
+Barbushove a remporté 500  parallèle lors du pot .
+psychoman59 : montre [5d Kd] (un brelan de Cinq)
+psychoman59 a remporté 90  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 590 Principal pot 90. Parallèle pot 500. | Commission 0 
+Tableau [Qc 5h 5s Jh 8h]
+Siège 1 : Barbushove (petite blind) a montré [4s 4c] et a gagné (500) avec double paire, Cinq et Quatre
+Siège 2 : lasvegas020662 (grosse blind) a montré [Ks 9d] et a perdu avec une paire de Cinq
+Siège 3 : psychoman59 (bouton) a montré [5d Kd] et a gagné (90) avec un brelan de Cinq
+
+
+
+Main PokerStars n°240512226520 : Tournoi #3516786590, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 17/12/2022 10:31:45 CET [17/12/2022 4:31:45 ET]
+Table '3516786590 1' 3-max Siège #1 est au bouton.
+Place 1: Barbushove (500 en jetons) 
+Place 2: lasvegas020662 (310 en jetons) 
+Place 3: psychoman59 (90 en jetons) 
+lasvegas020662 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 5s]
+Barbushove : relance. 460 à 500 et est all-in.
+lasvegas020662 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (460) sont retournés à Barbushove.
+Barbushove a remporté 100  lors du pot .
+Barbushove : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : Barbushove (bouton) a remporté (100)
+Siège 2 : lasvegas020662 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240512228382 : Tournoi #3516786590, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 17/12/2022 10:31:59 CET [17/12/2022 4:31:59 ET]
+Table '3516786590 1' 3-max Siège #2 est au bouton.
+Place 1: Barbushove (560 en jetons) 
+Place 2: lasvegas020662 (290 en jetons) 
+Place 3: psychoman59 (50 en jetons) 
+psychoman59 : met la petite blind. 20
+Barbushove : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 9s]
+lasvegas020662 : relance. 40 à 80
+psychoman59 : passe. 
+Barbushove : suit. 40
+*** FLOP *** [Qh 4c 2d]
+Barbushove : parole 
+lasvegas020662 : parole 
+*** TOURNANT *** [Qh 4c 2d] [3d]
+Barbushove : parole 
+lasvegas020662 : parole 
+*** RIVIÈRE *** [Qh 4c 2d 3d] [7c]
+Barbushove : parole 
+lasvegas020662 : parole 
+*** ABATTAGE ***
+Barbushove : montre [9c 8d] (Hauteur Dame)
+lasvegas020662 : montre [5c Kd] (Hauteur Roi)
+lasvegas020662 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Qh 4c 2d 3d 7c]
+Siège 1 : Barbushove (grosse blind) a montré [9c 8d] et a perdu avec Hauteur Dame
+Siège 2 : lasvegas020662 (bouton) a montré [5c Kd] et a gagné (180) avec Hauteur Roi
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240512235648 : Tournoi #3516786590, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 17/12/2022 10:32:53 CET [17/12/2022 4:32:53 ET]
+Table '3516786590 1' 3-max Siège #3 est au bouton.
+Place 1: Barbushove (480 en jetons) 
+Place 2: lasvegas020662 (390 en jetons) 
+Place 3: psychoman59 (30 en jetons) 
+Barbushove : met la petite blind. 30
+lasvegas020662 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 7c]
+psychoman59 : suit. 30 et est all-in.
+Barbushove : passe. 
+Personne n'a suivi. (30) sont retournés à lasvegas020662.
+*** FLOP *** [Ah As 6s]
+*** TOURNANT *** [Ah As 6s] [2s]
+*** RIVIÈRE *** [Ah As 6s 2s] [9d]
+*** ABATTAGE ***
+lasvegas020662 : montre [Ac Js] (un brelan de As)
+psychoman59 : montre [7h 7c] (double paire, As et Sept)
+lasvegas020662 a remporté 90  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [Ah As 6s 2s 9d]
+Siège 1 : Barbushove (petite blind) s'est couché. avant Flop
+Siège 2 : lasvegas020662 (grosse blind) a montré [Ac Js] et a gagné (90) avec un brelan de As
+Siège 3 : psychoman59 (bouton) a montré [7h 7c] et a perdu avec double paire, As et Sept
+
+
+

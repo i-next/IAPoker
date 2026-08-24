@@ -1,0 +1,503 @@
+﻿Main PokerStars n°239218442100 : Tournoi #3485509871, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 14/10/2022 9:38:51 CET [14/10/2022 3:38:51 ET]
+Table '3485509871 1' 3-max Siège #1 est au bouton.
+Place 1: BobSfinter (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: thesultanos22 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+thesultanos22 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 2h]
+BobSfinter : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à thesultanos22.
+thesultanos22 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : BobSfinter (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : thesultanos22 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°239218442924 : Tournoi #3485509871, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 14/10/2022 9:38:58 CET [14/10/2022 3:38:58 ET]
+Table '3485509871 1' 3-max Siège #2 est au bouton.
+Place 1: BobSfinter (300 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: thesultanos22 (310 en jetons) 
+thesultanos22 : met la petite blind. 10
+BobSfinter : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Js]
+psychoman59 : relance. 270 à 290 et est all-in.
+thesultanos22 : passe. 
+BobSfinter : passe. 
+Personne n'a suivi. (270) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : BobSfinter (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a remporté (50)
+Siège 3 : thesultanos22 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239218444544 : Tournoi #3485509871, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 14/10/2022 9:39:12 CET [14/10/2022 3:39:12 ET]
+Table '3485509871 1' 3-max Siège #3 est au bouton.
+Place 1: BobSfinter (280 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: thesultanos22 (300 en jetons) 
+BobSfinter : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Kd]
+thesultanos22 : suit. 20
+BobSfinter : relance. 30 à 50
+psychoman59 : suit. 30
+thesultanos22 : passe. 
+*** FLOP *** [As 7d Qc]
+BobSfinter : parole 
+psychoman59 : parole 
+*** TOURNANT *** [As 7d Qc] [7h]
+BobSfinter : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [As 7d Qc 7h] [5d]
+BobSfinter : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+BobSfinter : montre [Jh Qh] (double paire, Dames et Sept)
+psychoman59 : cache la main perdante. 
+BobSfinter a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [As 7d Qc 7h 5d]
+Siège 1 : BobSfinter (petite blind) a montré [Jh Qh] et a gagné (120) avec double paire, Dames et Sept
+Siège 2 : psychoman59 (grosse blind) a caché la main perdante. [9c Kd]
+Siège 3 : thesultanos22 (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239218450894 : Tournoi #3485509871, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 14/10/2022 9:40:06 CET [14/10/2022 3:40:06 ET]
+Table '3485509871 1' 3-max Siège #1 est au bouton.
+Place 1: BobSfinter (350 en jetons) 
+Place 2: psychoman59 (270 en jetons) 
+Place 3: thesultanos22 (280 en jetons) 
+psychoman59 : met la petite blind. 15
+thesultanos22 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 2s]
+BobSfinter : relance. 320 à 350 et est all-in.
+psychoman59 : passe. 
+thesultanos22 : suit. 250 et est all-in.
+Personne n'a suivi. (70) sont retournés à BobSfinter.
+*** FLOP *** [7d 4d Ks]
+*** TOURNANT *** [7d 4d Ks] [5d]
+*** RIVIÈRE *** [7d 4d Ks 5d] [Qs]
+*** ABATTAGE ***
+thesultanos22 : montre [Ac 3d] (Hauteur As)
+BobSfinter : montre [Jc Qh] (une paire de Dames)
+BobSfinter a remporté 575  lors du pot .
+thesultanos22 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 575 | Commission 0 
+Tableau [7d 4d Ks 5d Qs]
+Siège 1 : BobSfinter (bouton) a montré [Jc Qh] et a gagné (575) avec une paire de Dames
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : thesultanos22 (grosse blind) a montré [Ac 3d] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°239218453795 : Tournoi #3485509871, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 14/10/2022 9:40:30 CET [14/10/2022 3:40:30 ET]
+Table '3485509871 1' 3-max Siège #2 est au bouton.
+Place 1: BobSfinter (645 en jetons) 
+Place 2: psychoman59 (255 en jetons) 
+psychoman59 : met la petite blind. 15
+BobSfinter : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Qc]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à BobSfinter.
+BobSfinter a remporté 30  lors du pot .
+BobSfinter : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : BobSfinter (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239218454584 : Tournoi #3485509871, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 14/10/2022 9:40:37 CET [14/10/2022 3:40:37 ET]
+Table '3485509871 1' 3-max Siège #1 est au bouton.
+Place 1: BobSfinter (660 en jetons) 
+Place 2: psychoman59 (240 en jetons) 
+BobSfinter : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 7h]
+BobSfinter : relance. 630 à 660 et est all-in.
+psychoman59 : suit. 210 et est all-in.
+Personne n'a suivi. (420) sont retournés à BobSfinter.
+*** FLOP *** [Qc 4h 8s]
+*** TOURNANT *** [Qc 4h 8s] [9c]
+*** RIVIÈRE *** [Qc 4h 8s 9c] [4d]
+*** ABATTAGE ***
+psychoman59 : montre [Ac 7h] (une paire de Quatre)
+BobSfinter : montre [Th 6h] (une paire de Quatre - plus basse kicker)
+psychoman59 a remporté 480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [Qc 4h 8s 9c 4d]
+Siège 1 : BobSfinter (bouton) (petite blind) a montré [Th 6h] et a perdu avec une paire de Quatre
+Siège 2 : psychoman59 (grosse blind) a montré [Ac 7h] et a gagné (480) avec une paire de Quatre
+
+
+
+Main PokerStars n°239218457979 : Tournoi #3485509871, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 14/10/2022 9:41:05 CET [14/10/2022 3:41:05 ET]
+Table '3485509871 1' 3-max Siège #2 est au bouton.
+Place 1: BobSfinter (420 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 20
+BobSfinter : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 6h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à BobSfinter.
+BobSfinter a remporté 40  lors du pot .
+BobSfinter : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : BobSfinter (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239218458583 : Tournoi #3485509871, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 14/10/2022 9:41:10 CET [14/10/2022 3:41:10 ET]
+Table '3485509871 1' 3-max Siège #1 est au bouton.
+Place 1: BobSfinter (440 en jetons) 
+Place 2: psychoman59 (460 en jetons) 
+BobSfinter : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 2c]
+BobSfinter : relance. 400 à 440 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (400) sont retournés à BobSfinter.
+BobSfinter a remporté 80  lors du pot .
+BobSfinter : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : BobSfinter (bouton) (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239218459993 : Tournoi #3485509871, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 14/10/2022 9:41:22 CET [14/10/2022 3:41:22 ET]
+Table '3485509871 1' 3-max Siège #2 est au bouton.
+Place 1: BobSfinter (480 en jetons) 
+Place 2: psychoman59 (420 en jetons) 
+psychoman59 : met la petite blind. 20
+BobSfinter : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 5h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à BobSfinter.
+BobSfinter a remporté 40  lors du pot .
+BobSfinter : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : BobSfinter (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239218460532 : Tournoi #3485509871, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 14/10/2022 9:41:26 CET [14/10/2022 3:41:26 ET]
+Table '3485509871 1' 3-max Siège #1 est au bouton.
+Place 1: BobSfinter (500 en jetons) 
+Place 2: psychoman59 (400 en jetons) 
+BobSfinter : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 6d]
+BobSfinter : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : BobSfinter (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°239218461389 : Tournoi #3485509871, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 14/10/2022 9:41:33 CET [14/10/2022 3:41:33 ET]
+Table '3485509871 1' 3-max Siège #2 est au bouton.
+Place 1: BobSfinter (480 en jetons) 
+Place 2: psychoman59 (420 en jetons) 
+psychoman59 : met la petite blind. 20
+BobSfinter : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 4s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à BobSfinter.
+BobSfinter a remporté 40  lors du pot .
+BobSfinter : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : BobSfinter (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239218461893 : Tournoi #3485509871, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 14/10/2022 9:41:37 CET [14/10/2022 3:41:37 ET]
+Table '3485509871 1' 3-max Siège #1 est au bouton.
+Place 1: BobSfinter (500 en jetons) 
+Place 2: psychoman59 (400 en jetons) 
+BobSfinter : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Kh]
+BobSfinter : relance. 460 à 500 et est all-in.
+psychoman59 : suit. 360 et est all-in.
+Personne n'a suivi. (100) sont retournés à BobSfinter.
+*** FLOP *** [6s Ks 4h]
+*** TOURNANT *** [6s Ks 4h] [2s]
+*** RIVIÈRE *** [6s Ks 4h 2s] [9s]
+*** ABATTAGE ***
+psychoman59 : montre [3h Kh] (une paire de Rois)
+BobSfinter : montre [Qd 8d] (Hauteur Roi)
+psychoman59 a remporté 800  lors du pot .
+*** SYNTHÈSE ***
+Pot total 800 | Commission 0 
+Tableau [6s Ks 4h 2s 9s]
+Siège 1 : BobSfinter (bouton) (petite blind) a montré [Qd 8d] et a perdu avec Hauteur Roi
+Siège 2 : psychoman59 (grosse blind) a montré [3h Kh] et a gagné (800) avec une paire de Rois
+
+
+
+Main PokerStars n°239218464263 : Tournoi #3485509871, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 14/10/2022 9:41:57 CET [14/10/2022 3:41:57 ET]
+Table '3485509871 1' 3-max Siège #2 est au bouton.
+Place 1: BobSfinter (100 en jetons) 
+Place 2: psychoman59 (800 en jetons) 
+psychoman59 : met la petite blind. 30
+BobSfinter : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 2s]
+psychoman59 : relance. 60 à 120
+BobSfinter : suit. 40 et est all-in.
+Personne n'a suivi. (20) sont retournés à psychoman59.
+*** FLOP *** [Qs 4d 6h]
+*** TOURNANT *** [Qs 4d 6h] [Jh]
+*** RIVIÈRE *** [Qs 4d 6h Jh] [3h]
+*** ABATTAGE ***
+BobSfinter : montre [8h 9h] (une couleur, hauteur Valet)
+psychoman59 : montre [As 2s] (Hauteur As)
+BobSfinter a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [Qs 4d 6h Jh 3h]
+Siège 1 : BobSfinter (grosse blind) a montré [8h 9h] et a gagné (200) avec une couleur, hauteur Valet
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [As 2s] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°239218466028 : Tournoi #3485509871, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 14/10/2022 9:42:12 CET [14/10/2022 3:42:12 ET]
+Table '3485509871 1' 3-max Siège #1 est au bouton.
+Place 1: BobSfinter (200 en jetons) 
+Place 2: psychoman59 (700 en jetons) 
+BobSfinter : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 4d]
+BobSfinter : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : BobSfinter (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°239218467940 : Tournoi #3485509871, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 14/10/2022 9:42:29 CET [14/10/2022 3:42:29 ET]
+Table '3485509871 1' 3-max Siège #2 est au bouton.
+Place 1: BobSfinter (170 en jetons) 
+Place 2: psychoman59 (730 en jetons) 
+psychoman59 : met la petite blind. 30
+BobSfinter : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 5h]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à BobSfinter.
+BobSfinter a remporté 60  lors du pot .
+BobSfinter : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : BobSfinter (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239218468679 : Tournoi #3485509871, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 14/10/2022 9:42:35 CET [14/10/2022 3:42:35 ET]
+Table '3485509871 1' 3-max Siège #1 est au bouton.
+Place 1: BobSfinter (200 en jetons) 
+Place 2: psychoman59 (700 en jetons) 
+BobSfinter : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 4d]
+BobSfinter : relance. 140 à 200 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (140) sont retournés à BobSfinter.
+BobSfinter a remporté 120  lors du pot .
+BobSfinter : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : BobSfinter (bouton) (petite blind) a remporté (120)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239218470304 : Tournoi #3485509871, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 14/10/2022 9:42:48 CET [14/10/2022 3:42:48 ET]
+Table '3485509871 1' 3-max Siège #2 est au bouton.
+Place 1: BobSfinter (260 en jetons) 
+Place 2: psychoman59 (640 en jetons) 
+psychoman59 : met la petite blind. 30
+BobSfinter : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 2c]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à BobSfinter.
+BobSfinter a remporté 60  lors du pot .
+BobSfinter : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : BobSfinter (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239218471266 : Tournoi #3485509871, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 14/10/2022 9:42:56 CET [14/10/2022 3:42:56 ET]
+Table '3485509871 1' 3-max Siège #1 est au bouton.
+Place 1: BobSfinter (290 en jetons) 
+Place 2: psychoman59 (610 en jetons) 
+BobSfinter : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 9d]
+BobSfinter : relance. 210 à 290 et est all-in.
+psychoman59 : suit. 210
+*** FLOP *** [Ad 7c Qd]
+*** TOURNANT *** [Ad 7c Qd] [2h]
+*** RIVIÈRE *** [Ad 7c Qd 2h] [8s]
+*** ABATTAGE ***
+psychoman59 : montre [9h 9d] (une paire de Neuf)
+BobSfinter : montre [Ac Th] (une paire de As)
+BobSfinter a remporté 580  lors du pot .
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [Ad 7c Qd 2h 8s]
+Siège 1 : BobSfinter (bouton) (petite blind) a montré [Ac Th] et a gagné (580) avec une paire de As
+Siège 2 : psychoman59 (grosse blind) a montré [9h 9d] et a perdu avec une paire de Neuf
+
+
+
+Main PokerStars n°239218472853 : Tournoi #3485509871, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 14/10/2022 9:43:10 CET [14/10/2022 3:43:10 ET]
+Table '3485509871 1' 3-max Siège #2 est au bouton.
+Place 1: BobSfinter (580 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+psychoman59 : met la petite blind. 40
+BobSfinter : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Ks]
+psychoman59 : relance. 240 à 320 et est all-in.
+BobSfinter : passe. 
+Personne n'a suivi. (240) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : BobSfinter (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°239218474470 : Tournoi #3485509871, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 14/10/2022 9:43:24 CET [14/10/2022 3:43:24 ET]
+Table '3485509871 1' 3-max Siège #1 est au bouton.
+Place 1: BobSfinter (500 en jetons) 
+Place 2: psychoman59 (400 en jetons) 
+BobSfinter : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Jc]
+BobSfinter : relance. 420 à 500 et est all-in.
+psychoman59 : suit. 320 et est all-in.
+Personne n'a suivi. (100) sont retournés à BobSfinter.
+*** FLOP *** [Qc 9d 8d]
+*** TOURNANT *** [Qc 9d 8d] [Kh]
+*** RIVIÈRE *** [Qc 9d 8d Kh] [8h]
+*** ABATTAGE ***
+psychoman59 : montre [8c Jc] (un brelan de Huit)
+BobSfinter : montre [Ah 2s] (une paire de Huit)
+psychoman59 a remporté 800  lors du pot .
+*** SYNTHÈSE ***
+Pot total 800 | Commission 0 
+Tableau [Qc 9d 8d Kh 8h]
+Siège 1 : BobSfinter (bouton) (petite blind) a montré [Ah 2s] et a perdu avec une paire de Huit
+Siège 2 : psychoman59 (grosse blind) a montré [8c Jc] et a gagné (800) avec un brelan de Huit
+
+
+
+Main PokerStars n°239218476150 : Tournoi #3485509871, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 14/10/2022 9:43:38 CET [14/10/2022 3:43:38 ET]
+Table '3485509871 1' 3-max Siège #2 est au bouton.
+Place 1: BobSfinter (100 en jetons) 
+Place 2: psychoman59 (800 en jetons) 
+psychoman59 : met la petite blind. 40
+BobSfinter : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 2c]
+psychoman59 : relance. 80 à 160
+BobSfinter : suit. 20 et est all-in.
+Personne n'a suivi. (60) sont retournés à psychoman59.
+*** FLOP *** [5s 4h 4c]
+*** TOURNANT *** [5s 4h 4c] [6d]
+*** RIVIÈRE *** [5s 4h 4c 6d] [As]
+*** ABATTAGE ***
+BobSfinter : montre [5h Ad] (double paire, As et Cinq)
+psychoman59 : montre [2h 2c] (double paire, Quatre et Deux)
+BobSfinter a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [5s 4h 4c 6d As]
+Siège 1 : BobSfinter (grosse blind) a montré [5h Ad] et a gagné (200) avec double paire, As et Cinq
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [2h 2c] et a perdu avec double paire, Quatre et Deux
+
+
+
+Main PokerStars n°239218477652 : Tournoi #3485509871, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 14/10/2022 9:43:51 CET [14/10/2022 3:43:51 ET]
+Table '3485509871 1' 3-max Siège #1 est au bouton.
+Place 1: BobSfinter (200 en jetons) 
+Place 2: psychoman59 (700 en jetons) 
+BobSfinter : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Ah]
+BobSfinter : relance. 120 à 200 et est all-in.
+psychoman59 : suit. 120
+*** FLOP *** [8h 7s Jc]
+*** TOURNANT *** [8h 7s Jc] [Kc]
+*** RIVIÈRE *** [8h 7s Jc Kc] [Ac]
+*** ABATTAGE ***
+psychoman59 : montre [6d Ah] (une paire de As)
+BobSfinter : montre [3h 9s] (Hauteur As)
+psychoman59 a remporté 400  lors du pot .
+BobSfinter a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 4.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [8h 7s Jc Kc Ac]
+Siège 1 : BobSfinter (bouton) (petite blind) a montré [3h 9s] et a perdu avec Hauteur As
+Siège 2 : psychoman59 (grosse blind) a montré [6d Ah] et a gagné (400) avec une paire de As
+
+
+

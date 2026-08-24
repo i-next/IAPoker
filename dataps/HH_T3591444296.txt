@@ -1,0 +1,305 @@
+﻿Main PokerStars n°243699926663 : Tournoi #3591444296, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/05/2023 7:17:32 CET [15/05/2023 1:17:32 ET]
+Table '3591444296 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Jeremy66380 (300 en jetons) 
+Place 3: poissin (300 en jetons) 
+Jeremy66380 : met la petite blind. 10
+poissin : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 3s]
+psychoman59 : passe. 
+Jeremy66380 : suit. 10
+poissin : parole 
+*** FLOP *** [Tc 2s Td]
+Jeremy66380 : parole 
+poissin : parole 
+*** TOURNANT *** [Tc 2s Td] [4d]
+Jeremy66380 : mise. 20
+poissin : passe. 
+Personne n'a suivi. (20) sont retournés à Jeremy66380.
+Jeremy66380 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Tc 2s Td 4d]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Jeremy66380 (petite blind) a remporté (40)
+Siège 3 : poissin (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°243699929699 : Tournoi #3591444296, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/05/2023 7:18:05 CET [15/05/2023 1:18:05 ET]
+Table '3591444296 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Jeremy66380 (320 en jetons) 
+Place 3: poissin (280 en jetons) 
+poissin : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 3s]
+Jeremy66380 : suit. 20
+poissin : passe. 
+psychoman59 : parole 
+*** FLOP *** [4d 3c 8h]
+psychoman59 : parole 
+Jeremy66380 : parole 
+*** TOURNANT *** [4d 3c 8h] [Qs]
+psychoman59 : parole 
+Jeremy66380 : mise. 50
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à Jeremy66380.
+Jeremy66380 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [4d 3c 8h Qs]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : Jeremy66380 (bouton) a remporté (50)
+Siège 3 : poissin (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243699931149 : Tournoi #3591444296, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/05/2023 7:18:22 CET [15/05/2023 1:18:22 ET]
+Table '3591444296 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: Jeremy66380 (350 en jetons) 
+Place 3: poissin (270 en jetons) 
+psychoman59 : met la petite blind. 10
+Jeremy66380 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 7d]
+poissin : relance. 20 à 40
+psychoman59 : passe. 
+Jeremy66380 : suit. 20
+*** FLOP *** [5s 8h 2s]
+Jeremy66380 : mise. 20
+poissin : relance. 65 à 85
+Jeremy66380 : suit. 65
+*** TOURNANT *** [5s 8h 2s] [9h]
+Jeremy66380 : parole 
+poissin : mise. 145 et est all-in.
+Jeremy66380 : suit. 145
+*** RIVIÈRE *** [5s 8h 2s 9h] [2h]
+*** ABATTAGE ***
+Jeremy66380 : montre [4h 2c] (un brelan de Deux)
+poissin : montre [7h 6h] (une couleur, hauteur Neuf)
+poissin a remporté 550  lors du pot .
+*** SYNTHÈSE ***
+Pot total 550 | Commission 0 
+Tableau [5s 8h 2s 9h 2h]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Jeremy66380 (grosse blind) a montré [4h 2c] et a perdu avec un brelan de Deux
+Siège 3 : poissin (bouton) a montré [7h 6h] et a gagné (550) avec une couleur, hauteur Neuf
+
+
+
+Main PokerStars n°243699933691 : Tournoi #3591444296, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/05/2023 7:18:49 CET [15/05/2023 1:18:49 ET]
+Table '3591444296 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 2: Jeremy66380 (80 en jetons) 
+Place 3: poissin (550 en jetons) 
+Jeremy66380 : met la petite blind. 15
+poissin : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 9h]
+psychoman59 : passe. 
+Jeremy66380 : relance. 50 à 80 et est all-in.
+poissin : suit. 50
+*** FLOP *** [Ad 9d 5c]
+*** TOURNANT *** [Ad 9d 5c] [Qd]
+*** RIVIÈRE *** [Ad 9d 5c Qd] [Kd]
+*** ABATTAGE ***
+Jeremy66380 : montre [Tc Jc] (une suite, Dix à As)
+poissin : montre [5s Js] (une paire de Cinq)
+Jeremy66380 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Ad 9d 5c Qd Kd]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Jeremy66380 (petite blind) a montré [Tc Jc] et a gagné (160) avec une suite, Dix à As
+Siège 3 : poissin (grosse blind) a montré [5s Js] et a perdu avec une paire de Cinq
+
+
+
+Main PokerStars n°243699935347 : Tournoi #3591444296, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/05/2023 7:19:07 CET [15/05/2023 1:19:07 ET]
+Table '3591444296 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 2: Jeremy66380 (160 en jetons) 
+Place 3: poissin (470 en jetons) 
+poissin : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 2d]
+Jeremy66380 : relance. 30 à 60
+poissin : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Jeremy66380.
+Jeremy66380 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Jeremy66380 (bouton) a remporté (75)
+Siège 3 : poissin (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243699935991 : Tournoi #3591444296, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/05/2023 7:19:14 CET [15/05/2023 1:19:14 ET]
+Table '3591444296 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (240 en jetons) 
+Place 2: Jeremy66380 (205 en jetons) 
+Place 3: poissin (455 en jetons) 
+psychoman59 : met la petite blind. 15
+Jeremy66380 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Kh]
+poissin : passe. 
+psychoman59 : relance. 30 à 60
+Jeremy66380 : suit. 30
+*** FLOP *** [Qd Jd 6h]
+psychoman59 : parole 
+Jeremy66380 : parole 
+*** TOURNANT *** [Qd Jd 6h] [4d]
+psychoman59 : parole 
+Jeremy66380 : mise. 30
+psychoman59 : suit. 30
+*** RIVIÈRE *** [Qd Jd 6h 4d] [7d]
+psychoman59 : parole 
+Jeremy66380 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [8s Kh] (Hauteur Roi)
+Jeremy66380 : montre [2h 4s] (une paire de Quatre)
+Jeremy66380 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Qd Jd 6h 4d 7d]
+Siège 1 : psychoman59 (petite blind) a montré [8s Kh] et a perdu avec Hauteur Roi
+Siège 2 : Jeremy66380 (grosse blind) a montré [2h 4s] et a gagné (180) avec une paire de Quatre
+Siège 3 : poissin (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°243699938399 : Tournoi #3591444296, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/05/2023 7:19:40 CET [15/05/2023 1:19:40 ET]
+Table '3591444296 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (150 en jetons) 
+Place 2: Jeremy66380 (295 en jetons) 
+Place 3: poissin (455 en jetons) 
+Jeremy66380 : met la petite blind. 20
+poissin : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 6s]
+psychoman59 : passe. 
+Jeremy66380 : suit. 20
+poissin : parole 
+*** FLOP *** [4s 7d Qs]
+Jeremy66380 : mise. 40
+poissin : passe. 
+Personne n'a suivi. (40) sont retournés à Jeremy66380.
+Jeremy66380 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [4s 7d Qs]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Jeremy66380 (petite blind) a remporté (80)
+Siège 3 : poissin (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°243699939390 : Tournoi #3591444296, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/05/2023 7:19:51 CET [15/05/2023 1:19:51 ET]
+Table '3591444296 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (150 en jetons) 
+Place 2: Jeremy66380 (335 en jetons) 
+Place 3: poissin (415 en jetons) 
+poissin : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 5s]
+Jeremy66380 : relance. 295 à 335 et est all-in.
+poissin : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (295) sont retournés à Jeremy66380.
+Jeremy66380 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Jeremy66380 (bouton) a remporté (100)
+Siège 3 : poissin (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243699940342 : Tournoi #3591444296, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/05/2023 7:20:01 CET [15/05/2023 1:20:01 ET]
+Table '3591444296 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (110 en jetons) 
+Place 2: Jeremy66380 (395 en jetons) 
+Place 3: poissin (395 en jetons) 
+psychoman59 : met la petite blind. 20
+Jeremy66380 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 4s]
+poissin : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Jeremy66380.
+Jeremy66380 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Jeremy66380 (grosse blind) a remporté (40)
+Siège 3 : poissin (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°243699940946 : Tournoi #3591444296, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/05/2023 7:20:07 CET [15/05/2023 1:20:07 ET]
+Table '3591444296 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (90 en jetons) 
+Place 2: Jeremy66380 (415 en jetons) 
+Place 3: poissin (395 en jetons) 
+Jeremy66380 : met la petite blind. 20
+poissin : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 2c]
+psychoman59 : passe. 
+Jeremy66380 : suit. 20
+poissin : parole 
+*** FLOP *** [3c 5d Jc]
+Jeremy66380 : parole 
+poissin : mise. 40
+Jeremy66380 : passe. 
+Personne n'a suivi. (40) sont retournés à poissin.
+poissin a remporté 80  lors du pot .
+poissin : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [3c 5d Jc]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Jeremy66380 (petite blind) s'est couché. sur le Flop
+Siège 3 : poissin (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°243699942056 : Tournoi #3591444296, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/05/2023 7:20:20 CET [15/05/2023 1:20:20 ET]
+Table '3591444296 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (90 en jetons) 
+Place 2: Jeremy66380 (375 en jetons) 
+Place 3: poissin (435 en jetons) 
+poissin : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Js]
+Jeremy66380 : relance. 335 à 375 et est all-in.
+poissin : passe. 
+psychoman59 : suit. 50 et est all-in.
+Personne n'a suivi. (285) sont retournés à Jeremy66380.
+*** FLOP *** [Th Ad 3s]
+*** TOURNANT *** [Th Ad 3s] [5d]
+*** RIVIÈRE *** [Th Ad 3s 5d] [8s]
+*** ABATTAGE ***
+psychoman59 : montre [7c Js] (Hauteur As)
+Jeremy66380 : montre [Ac Tc] (double paire, As et Dix)
+Jeremy66380 a remporté 200  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [Th Ad 3s 5d 8s]
+Siège 1 : psychoman59 (grosse blind) a montré [7c Js] et a perdu avec Hauteur As
+Siège 2 : Jeremy66380 (bouton) a montré [Ac Tc] et a gagné (200) avec double paire, As et Dix
+Siège 3 : poissin (petite blind) s'est couché. avant Flop
+
+
+

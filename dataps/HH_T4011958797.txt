@@ -1,0 +1,242 @@
+﻿Main PokerStars n°261273805706 : Tournoi #4011958797, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/06/2026 10:01:05 CET [28/06/2026 4:01:05 ET]
+Table '4011958797 1' 3-max Siège #1 est au bouton.
+Place 1: tommyshelbypeak (500 en jetons) 
+Place 2: nuno1miguel (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+nuno1miguel : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 2d]
+tommyshelbypeak : relance. 20 à 40
+nuno1miguel : relance. 20 à 60
+psychoman59 : passe. 
+tommyshelbypeak : relance. 20 à 80
+nuno1miguel : relance. 420 à 500 et est all-in.
+tommyshelbypeak : suit. 420 et est all-in.
+*** FLOP *** [Td Jh Kd]
+*** TOURNANT *** [Td Jh Kd] [Jd]
+*** RIVIÈRE *** [Td Jh Kd Jd] [Tc]
+*** ABATTAGE ***
+nuno1miguel : montre [6s 7s] (double paire, Valets et Dix)
+tommyshelbypeak : montre [8s 8d] (double paire, Valets et Dix)
+nuno1miguel a remporté 510  lors du pot .
+tommyshelbypeak a remporté 510  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1020 | Commission 0 
+Tableau [Td Jh Kd Jd Tc]
+Siège 1 : tommyshelbypeak (bouton) a montré [8s 8d] et a gagné (510) avec double paire, Valets et Dix
+Siège 2 : nuno1miguel (petite blind) a montré [6s 7s] et a gagné (510) avec double paire, Valets et Dix
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261273807107 : Tournoi #4011958797, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/06/2026 10:01:29 CET [28/06/2026 4:01:29 ET]
+Table '4011958797 1' 3-max Siège #2 est au bouton.
+Place 1: tommyshelbypeak (510 en jetons) 
+Place 2: nuno1miguel (510 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 10
+tommyshelbypeak : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Kc]
+nuno1miguel : passe. 
+psychoman59 : suit. 10
+tommyshelbypeak : relance. 20 à 40
+psychoman59 : suit. 20
+*** FLOP *** [Ks 7s Jh]
+psychoman59 : parole 
+tommyshelbypeak : mise. 51
+psychoman59 : relance. 389 à 440 et est all-in.
+tommyshelbypeak : suit. 389
+*** TOURNANT *** [Ks 7s Jh] [4s]
+*** RIVIÈRE *** [Ks 7s Jh 4s] [4h]
+*** ABATTAGE ***
+psychoman59 : montre [4d Kc] (un full, full aux Quatre par les Rois)
+tommyshelbypeak : montre [As Jc] (double paire, Valets et Quatre)
+psychoman59 a remporté 960  lors du pot .
+*** SYNTHÈSE ***
+Pot total 960 | Commission 0 
+Tableau [Ks 7s Jh 4s 4h]
+Siège 1 : tommyshelbypeak (grosse blind) a montré [As Jc] et a perdu avec double paire, Valets et Quatre
+Siège 2 : nuno1miguel (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [4d Kc] et a gagné (960) avec un full, full aux Quatre par les Rois
+
+
+
+Main PokerStars n°261273808690 : Tournoi #4011958797, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/06/2026 10:01:57 CET [28/06/2026 4:01:57 ET]
+Table '4011958797 1' 3-max Siège #3 est au bouton.
+Place 1: tommyshelbypeak (30 en jetons) 
+Place 2: nuno1miguel (510 en jetons) 
+Place 3: psychoman59 (960 en jetons) 
+tommyshelbypeak : met la petite blind. 10
+nuno1miguel : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Jc]
+psychoman59 : relance. 20 à 40
+tommyshelbypeak : suit. 20 et est all-in.
+nuno1miguel : relance. 20 à 60
+psychoman59 : suit. 20
+*** FLOP *** [6d 3s 2s]
+nuno1miguel : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à nuno1miguel.
+*** TOURNANT *** [6d 3s 2s] [7s]
+*** RIVIÈRE *** [6d 3s 2s 7s] [9c]
+*** ABATTAGE ***
+nuno1miguel : montre [7h Kh] (une paire de Sept)
+nuno1miguel a remporté 60  parallèle lors du pot .
+tommyshelbypeak : montre [2d 7d] (double paire, Sept et Deux)
+tommyshelbypeak a remporté 90  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 Principal pot 90. Parallèle pot 60. | Commission 0 
+Tableau [6d 3s 2s 7s 9c]
+Siège 1 : tommyshelbypeak (petite blind) a montré [2d 7d] et a gagné (90) avec double paire, Sept et Deux
+Siège 2 : nuno1miguel (grosse blind) a montré [7h Kh] et a gagné (60) avec une paire de Sept
+Siège 3 : psychoman59 (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261273810108 : Tournoi #4011958797, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/06/2026 10:02:20 CET [28/06/2026 4:02:20 ET]
+Table '4011958797 1' 3-max Siège #1 est au bouton.
+Place 1: tommyshelbypeak (90 en jetons) 
+Place 2: nuno1miguel (510 en jetons) 
+Place 3: psychoman59 (900 en jetons) 
+nuno1miguel : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 4c]
+tommyshelbypeak : suit. 20
+nuno1miguel : suit. 10
+psychoman59 : parole 
+*** FLOP *** [4s Jc Qs]
+nuno1miguel : parole 
+psychoman59 : parole 
+tommyshelbypeak : parole 
+*** TOURNANT *** [4s Jc Qs] [Jh]
+nuno1miguel : parole 
+psychoman59 : mise. 30
+tommyshelbypeak : passe. 
+nuno1miguel : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [4s Jc Qs Jh]
+Siège 1 : tommyshelbypeak (bouton) s'est couché. sur le Tournant
+Siège 2 : nuno1miguel (petite blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°261273811769 : Tournoi #4011958797, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/06/2026 10:02:48 CET [28/06/2026 4:02:48 ET]
+Table '4011958797 1' 3-max Siège #2 est au bouton.
+Place 1: tommyshelbypeak (70 en jetons) 
+Place 2: nuno1miguel (490 en jetons) 
+Place 3: psychoman59 (940 en jetons) 
+psychoman59 : met la petite blind. 10
+tommyshelbypeak : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 2h]
+nuno1miguel : suit. 20
+psychoman59 : suit. 10
+tommyshelbypeak : relance. 50 à 70 et est all-in.
+nuno1miguel : suit. 50
+psychoman59 : passe. 
+*** FLOP *** [3h Ad 2s]
+*** TOURNANT *** [3h Ad 2s] [5c]
+*** RIVIÈRE *** [3h Ad 2s 5c] [6d]
+*** ABATTAGE ***
+tommyshelbypeak : montre [9s 9h] (une paire de Neuf)
+nuno1miguel : montre [7d 4d] (une suite, Trois à Sept)
+nuno1miguel a remporté 160  lors du pot .
+tommyshelbypeak a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [3h Ad 2s 5c 6d]
+Siège 1 : tommyshelbypeak (grosse blind) a montré [9s 9h] et a perdu avec une paire de Neuf
+Siège 2 : nuno1miguel (bouton) a montré [7d 4d] et a gagné (160) avec une suite, Trois à Sept
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261273813185 : Tournoi #4011958797, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 28/06/2026 10:03:11 CET [28/06/2026 4:03:11 ET]
+Table '4011958797 1' 3-max Siège #3 est au bouton.
+Place 2: nuno1miguel (580 en jetons) 
+Place 3: psychoman59 (920 en jetons) 
+psychoman59 : met la petite blind. 15
+nuno1miguel : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Jh]
+psychoman59 : suit. 15
+nuno1miguel : relance. 30 à 60
+psychoman59 : suit. 30
+*** FLOP *** [3c Td 3d]
+nuno1miguel : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3c Td 3d] [8h]
+nuno1miguel : mise. 30
+psychoman59 : suit. 30
+*** RIVIÈRE *** [3c Td 3d 8h] [4h]
+nuno1miguel : mise. 30
+psychoman59 : suit. 30
+*** ABATTAGE ***
+nuno1miguel : montre [Qs 6d] (une paire de Trois)
+psychoman59 : cache la main perdante. 
+nuno1miguel a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [3c Td 3d 8h 4h]
+Siège 2 : nuno1miguel (grosse blind) a montré [Qs 6d] et a gagné (240) avec une paire de Trois
+Siège 3 : psychoman59 (bouton) (petite blind) a caché la main perdante. [9s Jh]
+
+
+
+Main PokerStars n°261273814457 : Tournoi #4011958797, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 28/06/2026 10:03:34 CET [28/06/2026 4:03:34 ET]
+Table '4011958797 1' 3-max Siège #2 est au bouton.
+Place 2: nuno1miguel (700 en jetons) 
+Place 3: psychoman59 (800 en jetons) 
+nuno1miguel : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 5d]
+nuno1miguel : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à nuno1miguel.
+nuno1miguel a remporté 60  lors du pot .
+nuno1miguel : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : nuno1miguel (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261273815000 : Tournoi #4011958797, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 28/06/2026 10:03:42 CET [28/06/2026 4:03:42 ET]
+Table '4011958797 1' 3-max Siège #3 est au bouton.
+Place 2: nuno1miguel (730 en jetons) 
+Place 3: psychoman59 (770 en jetons) 
+psychoman59 : met la petite blind. 15
+nuno1miguel : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 4c]
+psychoman59 : relance. 740 à 770 et est all-in.
+nuno1miguel : suit. 700 et est all-in.
+Personne n'a suivi. (40) sont retournés à psychoman59.
+*** FLOP *** [5c Qc Ah]
+*** TOURNANT *** [5c Qc Ah] [Jh]
+*** RIVIÈRE *** [5c Qc Ah Jh] [Kh]
+*** ABATTAGE ***
+nuno1miguel : montre [8s 8d] (une paire de Huit)
+psychoman59 : montre [Ac 4c] (une paire de As)
+psychoman59 a remporté 1460  lors du pot .
+nuno1miguel a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 1460 | Commission 0 
+Tableau [5c Qc Ah Jh Kh]
+Siège 2 : nuno1miguel (grosse blind) a montré [8s 8d] et a perdu avec une paire de Huit
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Ac 4c] et a gagné (1460) avec une paire de As
+
+
+

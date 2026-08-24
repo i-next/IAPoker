@@ -1,0 +1,527 @@
+﻿Main PokerStars n°256122026685 : Tournoi #3889300775, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 13/05/2025 7:49:47 CET [13/05/2025 1:49:47 ET]
+Table '3889300775 1' 3-max Siège #1 est au bouton.
+Place 1: ivanharris (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: Ca.Acebedo (500 en jetons) 
+psychoman59 : met la petite blind. 10
+Ca.Acebedo : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Ac]
+ivanharris : suit. 20
+psychoman59 : suit. 10
+Ca.Acebedo : parole 
+*** FLOP *** [Kh 8c 5c]
+psychoman59 : parole 
+Ca.Acebedo : parole 
+ivanharris : mise. 40
+psychoman59 : suit. 40
+Ca.Acebedo : passe. 
+*** TOURNANT *** [Kh 8c 5c] [Jh]
+psychoman59 : parole 
+ivanharris : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à ivanharris.
+ivanharris a remporté 140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [Kh 8c 5c Jh]
+Siège 1 : ivanharris (bouton) a remporté (140)
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Tournant
+Siège 3 : Ca.Acebedo (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°256122027970 : Tournoi #3889300775, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 13/05/2025 7:50:06 CET [13/05/2025 1:50:06 ET]
+Table '3889300775 1' 3-max Siège #2 est au bouton.
+Place 1: ivanharris (580 en jetons) 
+Place 2: psychoman59 (440 en jetons) 
+Place 3: Ca.Acebedo (480 en jetons) 
+Ca.Acebedo : met la petite blind. 10
+ivanharris : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 7d]
+psychoman59 : passe. 
+Ca.Acebedo : passe. 
+Personne n'a suivi. (10) sont retournés à ivanharris.
+ivanharris a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : ivanharris (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Ca.Acebedo (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°256122028378 : Tournoi #3889300775, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 13/05/2025 7:50:12 CET [13/05/2025 1:50:12 ET]
+Table '3889300775 1' 3-max Siège #3 est au bouton.
+Place 1: ivanharris (590 en jetons) 
+Place 2: psychoman59 (440 en jetons) 
+Place 3: Ca.Acebedo (470 en jetons) 
+ivanharris : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Js]
+Ca.Acebedo : passe. 
+ivanharris : relance. 60 à 80
+psychoman59 : relance. 360 à 440 et est all-in.
+ivanharris : suit. 360
+*** FLOP *** [Ts Qd Qh]
+*** TOURNANT *** [Ts Qd Qh] [6s]
+*** RIVIÈRE *** [Ts Qd Qh 6s] [3h]
+*** ABATTAGE ***
+ivanharris : montre [Ad 7c] (une paire de Dames)
+psychoman59 : montre [Jh Js] (double paire, Dames et Valets)
+psychoman59 a remporté 880  lors du pot .
+*** SYNTHÈSE ***
+Pot total 880 | Commission 0 
+Tableau [Ts Qd Qh 6s 3h]
+Siège 1 : ivanharris (petite blind) a montré [Ad 7c] et a perdu avec une paire de Dames
+Siège 2 : psychoman59 (grosse blind) a montré [Jh Js] et a gagné (880) avec double paire, Dames et Valets
+Siège 3 : Ca.Acebedo (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°256122029483 : Tournoi #3889300775, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 13/05/2025 7:50:29 CET [13/05/2025 1:50:29 ET]
+Table '3889300775 1' 3-max Siège #1 est au bouton.
+Place 1: ivanharris (150 en jetons) 
+Place 2: psychoman59 (880 en jetons) 
+Place 3: Ca.Acebedo (470 en jetons) 
+psychoman59 : met la petite blind. 10
+Ca.Acebedo : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 5d]
+ivanharris : suit. 20
+psychoman59 : passe. 
+Ca.Acebedo : parole 
+*** FLOP *** [Ts 8s Qd]
+Ca.Acebedo : mise. 80
+ivanharris : relance. 50 à 130 et est all-in.
+Ca.Acebedo : suit. 50
+*** TOURNANT *** [Ts 8s Qd] [7d]
+*** RIVIÈRE *** [Ts 8s Qd 7d] [7c]
+*** ABATTAGE ***
+Ca.Acebedo : montre [3h Tc] (double paire, Dix et Sept)
+ivanharris : montre [4d Qc] (double paire, Dames et Sept)
+ivanharris a remporté 310  lors du pot .
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Tableau [Ts 8s Qd 7d 7c]
+Siège 1 : ivanharris (bouton) a montré [4d Qc] et a gagné (310) avec double paire, Dames et Sept
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Ca.Acebedo (grosse blind) a montré [3h Tc] et a perdu avec double paire, Dix et Sept
+
+
+
+Main PokerStars n°256122030862 : Tournoi #3889300775, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 13/05/2025 7:50:50 CET [13/05/2025 1:50:50 ET]
+Table '3889300775 1' 3-max Siège #2 est au bouton.
+Place 1: ivanharris (310 en jetons) 
+Place 2: psychoman59 (870 en jetons) 
+Place 3: Ca.Acebedo (320 en jetons) 
+Ca.Acebedo : met la petite blind. 10
+ivanharris : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 8c]
+psychoman59 : passe. 
+Ca.Acebedo : suit. 10
+ivanharris : parole 
+*** FLOP *** [Ad Jd 3c]
+Ca.Acebedo : mise. 80
+ivanharris : suit. 80
+*** TOURNANT *** [Ad Jd 3c] [Ah]
+Ca.Acebedo : mise. 220 et est all-in.
+ivanharris : passe. 
+Personne n'a suivi. (220) sont retournés à Ca.Acebedo.
+Ca.Acebedo a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [Ad Jd 3c Ah]
+Siège 1 : ivanharris (grosse blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Ca.Acebedo (petite blind) a remporté (200)
+
+
+
+Main PokerStars n°256122032362 : Tournoi #3889300775, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 13/05/2025 7:51:13 CET [13/05/2025 1:51:13 ET]
+Table '3889300775 1' 3-max Siège #3 est au bouton.
+Place 1: ivanharris (210 en jetons) 
+Place 2: psychoman59 (870 en jetons) 
+Place 3: Ca.Acebedo (420 en jetons) 
+ivanharris : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 9d]
+Ca.Acebedo : passe. 
+ivanharris : relance. 190 à 210 et est all-in.
+psychoman59 : suit. 190
+*** FLOP *** [4d Qs Kc]
+*** TOURNANT *** [4d Qs Kc] [4c]
+*** RIVIÈRE *** [4d Qs Kc 4c] [3d]
+*** ABATTAGE ***
+ivanharris : montre [Kd 7h] (double paire, Rois et Quatre)
+psychoman59 : montre [8d 9d] (une paire de Quatre)
+ivanharris a remporté 420  lors du pot .
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [4d Qs Kc 4c 3d]
+Siège 1 : ivanharris (petite blind) a montré [Kd 7h] et a gagné (420) avec double paire, Rois et Quatre
+Siège 2 : psychoman59 (grosse blind) a montré [8d 9d] et a perdu avec une paire de Quatre
+Siège 3 : Ca.Acebedo (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°256122033331 : Tournoi #3889300775, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 13/05/2025 7:51:28 CET [13/05/2025 1:51:28 ET]
+Table '3889300775 1' 3-max Siège #1 est au bouton.
+Place 1: ivanharris (420 en jetons) 
+Place 2: psychoman59 (660 en jetons) 
+Place 3: Ca.Acebedo (420 en jetons) 
+psychoman59 : met la petite blind. 10
+Ca.Acebedo : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Qd]
+ivanharris : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à Ca.Acebedo.
+Ca.Acebedo a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : ivanharris (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Ca.Acebedo (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°256122033789 : Tournoi #3889300775, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 13/05/2025 7:51:35 CET [13/05/2025 1:51:35 ET]
+Table '3889300775 1' 3-max Siège #2 est au bouton.
+Place 1: ivanharris (420 en jetons) 
+Place 2: psychoman59 (650 en jetons) 
+Place 3: Ca.Acebedo (430 en jetons) 
+Ca.Acebedo : met la petite blind. 10
+ivanharris : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 7c]
+psychoman59 : suit. 20
+Ca.Acebedo : suit. 10
+ivanharris : relance. 400 à 420 et est all-in.
+psychoman59 : passe. 
+Ca.Acebedo : passe. 
+Personne n'a suivi. (400) sont retournés à ivanharris.
+ivanharris a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : ivanharris (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 3 : Ca.Acebedo (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°256122034783 : Tournoi #3889300775, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 13/05/2025 7:51:50 CET [13/05/2025 1:51:50 ET]
+Table '3889300775 1' 3-max Siège #3 est au bouton.
+Place 1: ivanharris (460 en jetons) 
+Place 2: psychoman59 (630 en jetons) 
+Place 3: Ca.Acebedo (410 en jetons) 
+ivanharris : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 8s]
+Ca.Acebedo : passe. 
+ivanharris : suit. 10
+psychoman59 : relance. 610 à 630 et est all-in.
+ivanharris : passe. 
+Personne n'a suivi. (610) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : ivanharris (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : Ca.Acebedo (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°256122035474 : Tournoi #3889300775, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 13/05/2025 7:52:01 CET [13/05/2025 1:52:01 ET]
+Table '3889300775 1' 3-max Siège #1 est au bouton.
+Place 1: ivanharris (440 en jetons) 
+Place 2: psychoman59 (650 en jetons) 
+Place 3: Ca.Acebedo (410 en jetons) 
+psychoman59 : met la petite blind. 10
+Ca.Acebedo : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 4c]
+ivanharris : suit. 20
+psychoman59 : relance. 630 à 650 et est all-in.
+Ca.Acebedo : passe. 
+ivanharris : passe. 
+Personne n'a suivi. (630) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : ivanharris (bouton) s'est couché. avant Flop
+Siège 2 : psychoman59 (petite blind) a remporté (60)
+Siège 3 : Ca.Acebedo (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°256122036230 : Tournoi #3889300775, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 13/05/2025 7:52:13 CET [13/05/2025 1:52:13 ET]
+Table '3889300775 1' 3-max Siège #2 est au bouton.
+Place 1: ivanharris (420 en jetons) 
+Place 2: psychoman59 (690 en jetons) 
+Place 3: Ca.Acebedo (390 en jetons) 
+Ca.Acebedo : met la petite blind. 10
+ivanharris : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Kh]
+psychoman59 : passe. 
+Ca.Acebedo : suit. 10
+ivanharris : relance. 400 à 420 et est all-in.
+Ca.Acebedo : passe. 
+Personne n'a suivi. (400) sont retournés à ivanharris.
+ivanharris a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : ivanharris (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Ca.Acebedo (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°256122036913 : Tournoi #3889300775, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 13/05/2025 7:52:24 CET [13/05/2025 1:52:24 ET]
+Table '3889300775 1' 3-max Siège #3 est au bouton.
+Place 1: ivanharris (440 en jetons) 
+Place 2: psychoman59 (690 en jetons) 
+Place 3: Ca.Acebedo (370 en jetons) 
+ivanharris : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Js]
+Ca.Acebedo : passe. 
+ivanharris : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Qs Ks 3c]
+ivanharris : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Qs Ks 3c] [Jc]
+ivanharris : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Qs Ks 3c Jc] [2d]
+ivanharris : mise. 20
+psychoman59 : suit. 20
+*** ABATTAGE ***
+ivanharris : montre [5c 2c] (une paire de Deux)
+psychoman59 : montre [8h Js] (une paire de Valets)
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Qs Ks 3c Jc 2d]
+Siège 1 : ivanharris (petite blind) a montré [5c 2c] et a perdu avec une paire de Deux
+Siège 2 : psychoman59 (grosse blind) a montré [8h Js] et a gagné (80) avec une paire de Valets
+Siège 3 : Ca.Acebedo (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°256122038017 : Tournoi #3889300775, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 13/05/2025 7:52:42 CET [13/05/2025 1:52:42 ET]
+Table '3889300775 1' 3-max Siège #1 est au bouton.
+Place 1: ivanharris (400 en jetons) 
+Place 2: psychoman59 (730 en jetons) 
+Place 3: Ca.Acebedo (370 en jetons) 
+psychoman59 : met la petite blind. 10
+Ca.Acebedo : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 2s]
+ivanharris : suit. 20
+psychoman59 : passe. 
+Ca.Acebedo : parole 
+*** FLOP *** [6c 4s 4h]
+Ca.Acebedo : parole 
+ivanharris : parole 
+*** TOURNANT *** [6c 4s 4h] [3h]
+Ca.Acebedo : parole 
+ivanharris : parole 
+*** RIVIÈRE *** [6c 4s 4h 3h] [9c]
+Ca.Acebedo : parole 
+ivanharris : parole 
+*** ABATTAGE ***
+Ca.Acebedo : montre [6s 2d] (double paire, Six et Quatre)
+ivanharris : cache la main perdante. 
+Ca.Acebedo a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [6c 4s 4h 3h 9c]
+Siège 1 : ivanharris (bouton) a caché la main perdante. [7d Kh]
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Ca.Acebedo (grosse blind) a montré [6s 2d] et a gagné (50) avec double paire, Six et Quatre
+
+
+
+Main PokerStars n°256122039318 : Tournoi #3889300775, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 13/05/2025 7:53:02 CET [13/05/2025 1:53:02 ET]
+Table '3889300775 1' 3-max Siège #2 est au bouton.
+Place 1: ivanharris (380 en jetons) 
+Place 2: psychoman59 (720 en jetons) 
+Place 3: Ca.Acebedo (400 en jetons) 
+Ca.Acebedo : met la petite blind. 15
+ivanharris : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 7c]
+psychoman59 : passe. 
+Ca.Acebedo : suit. 15
+ivanharris : parole 
+*** FLOP *** [Qh 6d 9s]
+Ca.Acebedo : parole 
+ivanharris : mise. 30
+Ca.Acebedo : suit. 30
+*** TOURNANT *** [Qh 6d 9s] [5s]
+Ca.Acebedo : mise. 120
+ivanharris : passe. 
+Personne n'a suivi. (120) sont retournés à Ca.Acebedo.
+Ca.Acebedo a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Qh 6d 9s 5s]
+Siège 1 : ivanharris (grosse blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Ca.Acebedo (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°256122040617 : Tournoi #3889300775, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 13/05/2025 7:53:22 CET [13/05/2025 1:53:22 ET]
+Table '3889300775 1' 3-max Siège #3 est au bouton.
+Place 1: ivanharris (320 en jetons) 
+Place 2: psychoman59 (720 en jetons) 
+Place 3: Ca.Acebedo (460 en jetons) 
+ivanharris : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Jh]
+Ca.Acebedo : passe. 
+ivanharris : relance. 290 à 320 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (290) sont retournés à ivanharris.
+ivanharris a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : ivanharris (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : Ca.Acebedo (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°256122041069 : Tournoi #3889300775, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 13/05/2025 7:53:29 CET [13/05/2025 1:53:29 ET]
+Table '3889300775 1' 3-max Siège #1 est au bouton.
+Place 1: ivanharris (350 en jetons) 
+Place 2: psychoman59 (690 en jetons) 
+Place 3: Ca.Acebedo (460 en jetons) 
+psychoman59 : met la petite blind. 15
+Ca.Acebedo : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 9c]
+ivanharris : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à Ca.Acebedo.
+Ca.Acebedo a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : ivanharris (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Ca.Acebedo (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°256122041467 : Tournoi #3889300775, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 13/05/2025 7:53:35 CET [13/05/2025 1:53:35 ET]
+Table '3889300775 1' 3-max Siège #2 est au bouton.
+Place 1: ivanharris (350 en jetons) 
+Place 2: psychoman59 (675 en jetons) 
+Place 3: Ca.Acebedo (475 en jetons) 
+Ca.Acebedo : met la petite blind. 15
+ivanharris : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 8c]
+psychoman59 : passe. 
+Ca.Acebedo : suit. 15
+ivanharris : parole 
+*** FLOP *** [5s 4d 6h]
+Ca.Acebedo : parole 
+ivanharris : parole 
+*** TOURNANT *** [5s 4d 6h] [6d]
+Ca.Acebedo : mise. 60
+ivanharris : suit. 60
+*** RIVIÈRE *** [5s 4d 6h 6d] [Ts]
+Ca.Acebedo : parole 
+ivanharris : parole 
+*** ABATTAGE ***
+Ca.Acebedo : montre [Ad 4h] (double paire, Six et Quatre)
+ivanharris : cache la main perdante. 
+Ca.Acebedo a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [5s 4d 6h 6d Ts]
+Siège 1 : ivanharris (grosse blind) a caché la main perdante. [8s 3c]
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Ca.Acebedo (petite blind) a montré [Ad 4h] et a gagné (180) avec double paire, Six et Quatre
+
+
+
+Main PokerStars n°256122042585 : Tournoi #3889300775, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 13/05/2025 7:53:53 CET [13/05/2025 1:53:53 ET]
+Table '3889300775 1' 3-max Siège #3 est au bouton.
+Place 1: ivanharris (260 en jetons) 
+Place 2: psychoman59 (675 en jetons) 
+Place 3: Ca.Acebedo (565 en jetons) 
+ivanharris : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Qs]
+Ca.Acebedo : passe. 
+ivanharris : suit. 15
+psychoman59 : relance. 645 à 675 et est all-in.
+ivanharris : suit. 230 et est all-in.
+Personne n'a suivi. (415) sont retournés à psychoman59.
+*** FLOP *** [Kh 5s 6s]
+*** TOURNANT *** [Kh 5s 6s] [6d]
+*** RIVIÈRE *** [Kh 5s 6s 6d] [3s]
+*** ABATTAGE ***
+ivanharris : montre [6h 5h] (un full, full aux Six par les Cinq)
+psychoman59 : montre [Jc Qs] (une paire de Six)
+ivanharris a remporté 520  lors du pot .
+*** SYNTHÈSE ***
+Pot total 520 | Commission 0 
+Tableau [Kh 5s 6s 6d 3s]
+Siège 1 : ivanharris (petite blind) a montré [6h 5h] et a gagné (520) avec un full, full aux Six par les Cinq
+Siège 2 : psychoman59 (grosse blind) a montré [Jc Qs] et a perdu avec une paire de Six
+Siège 3 : Ca.Acebedo (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°256122043681 : Tournoi #3889300775, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 13/05/2025 7:54:09 CET [13/05/2025 1:54:09 ET]
+Table '3889300775 1' 3-max Siège #1 est au bouton.
+Place 1: ivanharris (520 en jetons) 
+Place 2: psychoman59 (415 en jetons) 
+Place 3: Ca.Acebedo (565 en jetons) 
+psychoman59 : met la petite blind. 15
+Ca.Acebedo : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 5s]
+ivanharris : suit. 30
+psychoman59 : suit. 15
+Ca.Acebedo : parole 
+*** FLOP *** [9h 4s 5h]
+psychoman59 : parole 
+Ca.Acebedo : parole 
+ivanharris : mise. 120
+psychoman59 : relance. 265 à 385 et est all-in.
+Ca.Acebedo : passe. 
+ivanharris : suit. 265
+*** TOURNANT *** [9h 4s 5h] [2c]
+*** RIVIÈRE *** [9h 4s 5h 2c] [2d]
+*** ABATTAGE ***
+psychoman59 : montre [Qh 5s] (double paire, Cinq et Deux)
+ivanharris : montre [Ks Kd] (double paire, Rois et Deux)
+ivanharris a remporté 860  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 860 | Commission 0 
+Tableau [9h 4s 5h 2c 2d]
+Siège 1 : ivanharris (bouton) a montré [Ks Kd] et a gagné (860) avec double paire, Rois et Deux
+Siège 2 : psychoman59 (petite blind) a montré [Qh 5s] et a perdu avec double paire, Cinq et Deux
+Siège 3 : Ca.Acebedo (grosse blind) s'est couché. sur le Flop
+
+
+

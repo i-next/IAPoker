@@ -1,0 +1,109 @@
+﻿Main PokerStars n°243360597893 : Tournoi #3583637866, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/04/2023 7:16:51 CET [28/04/2023 1:16:51 ET]
+Table '3583637866 1' 3-max Siège #1 est au bouton.
+Place 1: Sylvia59600 (300 en jetons) 
+Place 2: cricriz (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+cricriz : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Kd]
+Sylvia59600 : suit. 20
+cricriz : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Js Jc Ah]
+cricriz : parole 
+psychoman59 : parole 
+Sylvia59600 : parole 
+*** TOURNANT *** [Js Jc Ah] [Ts]
+cricriz : parole 
+psychoman59 : parole 
+Sylvia59600 : mise. 40
+cricriz : suit. 40
+psychoman59 : passe. 
+*** RIVIÈRE *** [Js Jc Ah Ts] [4s]
+cricriz : parole 
+Sylvia59600 : parole 
+*** ABATTAGE ***
+cricriz : montre [Ks 3h] (une paire de Valets)
+Sylvia59600 : montre [Td 9d] (double paire, Valets et Dix)
+Sylvia59600 a remporté 140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [Js Jc Ah Ts 4s]
+Siège 1 : Sylvia59600 (bouton) a montré [Td 9d] et a gagné (140) avec double paire, Valets et Dix
+Siège 2 : cricriz (petite blind) a montré [Ks 3h] et a perdu avec une paire de Valets
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°243360601749 : Tournoi #3583637866, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/04/2023 7:17:25 CET [28/04/2023 1:17:25 ET]
+Table '3583637866 1' 3-max Siège #2 est au bouton.
+Place 1: Sylvia59600 (380 en jetons) 
+Place 2: cricriz (240 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+Sylvia59600 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 9h]
+cricriz : suit. 20
+psychoman59 : passe. 
+Sylvia59600 : parole 
+*** FLOP *** [Qh 4h Tc]
+Sylvia59600 : parole 
+cricriz : parole 
+*** TOURNANT *** [Qh 4h Tc] [Ad]
+Sylvia59600 : parole 
+cricriz : mise. 50
+Sylvia59600 : passe. 
+Personne n'a suivi. (50) sont retournés à cricriz.
+cricriz a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [Qh 4h Tc Ad]
+Siège 1 : Sylvia59600 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : cricriz (bouton) a remporté (50)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243360603809 : Tournoi #3583637866, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/04/2023 7:17:44 CET [28/04/2023 1:17:44 ET]
+Table '3583637866 1' 3-max Siège #3 est au bouton.
+Place 1: Sylvia59600 (360 en jetons) 
+Place 2: cricriz (270 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+Sylvia59600 : met la petite blind. 10
+cricriz : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Kd]
+psychoman59 : suit. 20
+Sylvia59600 : suit. 10
+cricriz : relance. 20 à 40
+psychoman59 : suit. 20
+Sylvia59600 : suit. 20
+*** FLOP *** [3d 8c 5d]
+Sylvia59600 : parole 
+cricriz : parole 
+psychoman59 : mise. 60
+Sylvia59600 : suit. 60
+cricriz : passe. 
+*** TOURNANT *** [3d 8c 5d] [7c]
+Sylvia59600 : parole 
+psychoman59 : mise. 120
+Sylvia59600 : relance. 120 à 240
+psychoman59 : suit. 50 et est all-in.
+Personne n'a suivi. (70) sont retournés à Sylvia59600.
+*** RIVIÈRE *** [3d 8c 5d 7c] [4h]
+*** ABATTAGE ***
+Sylvia59600 : montre [5h 8h] (double paire, Huit et Cinq)
+psychoman59 : montre [3s Kd] (une paire de Trois)
+Sylvia59600 a remporté 580  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [3d 8c 5d 7c 4h]
+Siège 1 : Sylvia59600 (petite blind) a montré [5h 8h] et a gagné (580) avec double paire, Huit et Cinq
+Siège 2 : cricriz (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) a montré [3s Kd] et a perdu avec une paire de Trois
+
+
+

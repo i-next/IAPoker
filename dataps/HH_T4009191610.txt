@@ -1,0 +1,54 @@
+﻿Main PokerStars n°261164998699 : Tournoi #4009191610, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 17/06/2026 7:29:36 CET [17/06/2026 1:29:36 ET]
+Table '4009191610 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: Eposin (500 en jetons) 
+Place 3: BoserDgms (500 en jetons) 
+Eposin : met la petite blind. 10
+BoserDgms : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Qs]
+psychoman59 : suit. 20
+Eposin : relance. 480 à 500 et est all-in.
+BoserDgms : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (480) sont retournés à Eposin.
+Eposin a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 2 : Eposin (petite blind) a remporté (60)
+Siège 3 : BoserDgms (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261164999259 : Tournoi #4009191610, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 17/06/2026 7:29:46 CET [17/06/2026 1:29:46 ET]
+Table '4009191610 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (480 en jetons) 
+Place 2: Eposin (540 en jetons) 
+Place 3: BoserDgms (480 en jetons) 
+BoserDgms : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Ah]
+Eposin : suit. 20
+BoserDgms : suit. 10
+psychoman59 : relance. 460 à 480 et est all-in.
+Eposin : passe. 
+BoserDgms : suit. 460 et est all-in.
+*** FLOP *** [7d 5c Jc]
+*** TOURNANT *** [7d 5c Jc] [9d]
+*** RIVIÈRE *** [7d 5c Jc 9d] [Qc]
+*** ABATTAGE ***
+BoserDgms : montre [Qs Jd] (double paire, Dames et Valets)
+psychoman59 : montre [Qh Ah] (une paire de Dames)
+BoserDgms a remporté 980  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 980 | Commission 0 
+Tableau [7d 5c Jc 9d Qc]
+Siège 1 : psychoman59 (grosse blind) a montré [Qh Ah] et a perdu avec une paire de Dames
+Siège 2 : Eposin (bouton) s'est couché. avant Flop
+Siège 3 : BoserDgms (petite blind) a montré [Qs Jd] et a gagné (980) avec double paire, Dames et Valets
+
+
+

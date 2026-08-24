@@ -1,0 +1,237 @@
+﻿Main PokerStars n°255483327945 : Tournoi #3873446570, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 28/03/2025 7:48:21 CET [28/03/2025 2:48:21 ET]
+Table '3873446570 1' 3-max Siège #1 est au bouton.
+Place 1: Vellard (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: santi_porta01 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+santi_porta01 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 3s]
+Vellard : relance. 20 à 40
+psychoman59 : passe. 
+santi_porta01 : passe. 
+Personne n'a suivi. (20) sont retournés à Vellard.
+Vellard a remporté 50  lors du pot .
+Vellard : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : Vellard (bouton) a remporté (50)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : santi_porta01 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°255483328513 : Tournoi #3873446570, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 28/03/2025 7:48:30 CET [28/03/2025 2:48:30 ET]
+Table '3873446570 1' 3-max Siège #2 est au bouton.
+Place 1: Vellard (530 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: santi_porta01 (480 en jetons) 
+santi_porta01 : met la petite blind. 10
+Vellard : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 3s]
+psychoman59 : passe. 
+santi_porta01 : suit. 10
+Vellard : parole 
+*** FLOP *** [Js 9s 2d]
+santi_porta01 : parole 
+Vellard : parole 
+*** TOURNANT *** [Js 9s 2d] [Ah]
+santi_porta01 : parole 
+Vellard : parole 
+*** RIVIÈRE *** [Js 9s 2d Ah] [2s]
+santi_porta01 : parole 
+Vellard : parole 
+*** ABATTAGE ***
+santi_porta01 : montre [4d 5s] (une paire de Deux)
+Vellard : montre [5c Tc] (une paire de Deux - As+Valet+Dix kicker)
+Vellard a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Js 9s 2d Ah 2s]
+Siège 1 : Vellard (grosse blind) a montré [5c Tc] et a gagné (40) avec une paire de Deux
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : santi_porta01 (petite blind) a montré [4d 5s] et a perdu avec une paire de Deux
+
+
+
+Main PokerStars n°255483329873 : Tournoi #3873446570, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 28/03/2025 7:48:50 CET [28/03/2025 2:48:50 ET]
+Table '3873446570 1' 3-max Siège #3 est au bouton.
+Place 1: Vellard (550 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: santi_porta01 (460 en jetons) 
+Vellard : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Jh]
+santi_porta01 : passe. 
+Vellard : relance. 20 à 40
+psychoman59 : suit. 20
+*** FLOP *** [9d 3h 8s]
+Vellard : parole 
+psychoman59 : parole 
+*** TOURNANT *** [9d 3h 8s] [6s]
+Vellard : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Vellard.
+Vellard a remporté 80  lors du pot .
+Vellard : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [9d 3h 8s 6s]
+Siège 1 : Vellard (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : santi_porta01 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°255483330985 : Tournoi #3873446570, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 28/03/2025 7:49:06 CET [28/03/2025 2:49:06 ET]
+Table '3873446570 1' 3-max Siège #1 est au bouton.
+Place 1: Vellard (590 en jetons) 
+Place 2: psychoman59 (450 en jetons) 
+Place 3: santi_porta01 (460 en jetons) 
+psychoman59 : met la petite blind. 10
+santi_porta01 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Tc]
+Vellard : relance. 20 à 40
+psychoman59 : suit. 30
+santi_porta01 : suit. 20
+*** FLOP *** [Jc 7c Kc]
+psychoman59 : parole 
+santi_porta01 : parole 
+Vellard : mise. 40
+psychoman59 : relance. 370 à 410 et est all-in.
+santi_porta01 : passe. 
+Vellard : suit. 370
+*** TOURNANT *** [Jc 7c Kc] [Jd]
+*** RIVIÈRE *** [Jc 7c Kc Jd] [3d]
+*** ABATTAGE ***
+psychoman59 : montre [Jh Tc] (un brelan de Valets)
+Vellard : montre [Ts Ac] (une paire de Valets)
+psychoman59 a remporté 940  lors du pot .
+*** SYNTHÈSE ***
+Pot total 940 | Commission 0 
+Tableau [Jc 7c Kc Jd 3d]
+Siège 1 : Vellard (bouton) a montré [Ts Ac] et a perdu avec une paire de Valets
+Siège 2 : psychoman59 (petite blind) a montré [Jh Tc] et a gagné (940) avec un brelan de Valets
+Siège 3 : santi_porta01 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°255483332574 : Tournoi #3873446570, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 28/03/2025 7:49:30 CET [28/03/2025 2:49:30 ET]
+Table '3873446570 1' 3-max Siège #2 est au bouton.
+Place 1: Vellard (140 en jetons) 
+Place 2: psychoman59 (940 en jetons) 
+Place 3: santi_porta01 (420 en jetons) 
+santi_porta01 : met la petite blind. 10
+Vellard : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 9d]
+psychoman59 : passe. 
+santi_porta01 : passe. 
+Personne n'a suivi. (10) sont retournés à Vellard.
+Vellard a remporté 20  lors du pot .
+Vellard : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : Vellard (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : santi_porta01 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°255483333167 : Tournoi #3873446570, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 28/03/2025 7:49:39 CET [28/03/2025 2:49:39 ET]
+Table '3873446570 1' 3-max Siège #3 est au bouton.
+Place 1: Vellard (150 en jetons) 
+Place 2: psychoman59 (940 en jetons) 
+Place 3: santi_porta01 (410 en jetons) 
+Vellard : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 7s]
+santi_porta01 : suit. 20
+Vellard : relance. 130 à 150 et est all-in.
+psychoman59 : passe. 
+santi_porta01 : suit. 130
+*** FLOP *** [Td Qs Qc]
+*** TOURNANT *** [Td Qs Qc] [9c]
+*** RIVIÈRE *** [Td Qs Qc 9c] [8h]
+*** ABATTAGE ***
+Vellard : montre [3h As] (une paire de Dames)
+santi_porta01 : montre [3s Qh] (un brelan de Dames)
+santi_porta01 a remporté 320  lors du pot .
+Vellard a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [Td Qs Qc 9c 8h]
+Siège 1 : Vellard (petite blind) a montré [3h As] et a perdu avec une paire de Dames
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : santi_porta01 (bouton) a montré [3s Qh] et a gagné (320) avec un brelan de Dames
+
+
+
+Main PokerStars n°255483334804 : Tournoi #3873446570, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 28/03/2025 7:50:04 CET [28/03/2025 2:50:04 ET]
+Table '3873446570 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (920 en jetons) 
+Place 3: santi_porta01 (580 en jetons) 
+psychoman59 : met la petite blind. 10
+santi_porta01 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 3d]
+psychoman59 : suit. 10
+santi_porta01 : parole 
+*** FLOP *** [Js Jc 7d]
+santi_porta01 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Js Jc 7d] [Kc]
+santi_porta01 : mise. 60
+psychoman59 : suit. 60
+*** RIVIÈRE *** [Js Jc 7d Kc] [9d]
+santi_porta01 : mise. 20
+psychoman59 : relance. 200 à 220
+santi_porta01 : relance. 280 à 500 et est all-in.
+psychoman59 : suit. 280
+*** ABATTAGE ***
+santi_porta01 : montre [Jh 8c] (un brelan de Valets)
+psychoman59 : montre [Jd 3d] (un brelan de Valets)
+santi_porta01 a remporté 580  lors du pot .
+psychoman59 a remporté 580  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1160 | Commission 0 
+Tableau [Js Jc 7d Kc 9d]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Jd 3d] et a gagné (580) avec un brelan de Valets
+Siège 3 : santi_porta01 (grosse blind) a montré [Jh 8c] et a gagné (580) avec un brelan de Valets
+
+
+
+Main PokerStars n°255483336789 : Tournoi #3873446570, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 28/03/2025 7:50:33 CET [28/03/2025 2:50:33 ET]
+Table '3873446570 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (920 en jetons) 
+Place 3: santi_porta01 (580 en jetons) 
+santi_porta01 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 3s]
+santi_porta01 : suit. 15
+psychoman59 : relance. 890 à 920 et est all-in.
+santi_porta01 : suit. 550 et est all-in.
+Personne n'a suivi. (340) sont retournés à psychoman59.
+*** FLOP *** [6c 5s Kh]
+*** TOURNANT *** [6c 5s Kh] [4s]
+*** RIVIÈRE *** [6c 5s Kh 4s] [5d]
+*** ABATTAGE ***
+psychoman59 : montre [Ad 3s] (une paire de Cinq)
+santi_porta01 : montre [2h Qs] (une paire de Cinq - plus basse kicker)
+psychoman59 a remporté 1160  lors du pot .
+santi_porta01 a fini le tournoi en 2e position.
+psychoman59 gagne le tournoi - félicitations !
+psychoman59 gagne un ticket " €1.50 Step 2 SnG Power Path ticket "
+*** SYNTHÈSE ***
+Pot total 1160 | Commission 0 
+Tableau [6c 5s Kh 4s 5d]
+Siège 2 : psychoman59 (grosse blind) a montré [Ad 3s] et a gagné (1160) avec une paire de Cinq
+Siège 3 : santi_porta01 (bouton) (petite blind) a montré [2h Qs] et a perdu avec une paire de Cinq
+
+
+

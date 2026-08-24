@@ -1,0 +1,56 @@
+﻿Main PokerStars n°243719493352 : Tournoi #3591892778, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/05/2023 7:27:22 CET [16/05/2023 1:27:22 ET]
+Table '3591892778 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: picsraf73 (300 en jetons) 
+Place 3: reze420 (300 en jetons) 
+picsraf73 : met la petite blind. 10
+reze420 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 6d]
+psychoman59 : passe. 
+picsraf73 : relance. 20 à 40
+reze420 : suit. 20
+*** FLOP *** [5c 2c 4c]
+picsraf73 : mise. 260 et est all-in.
+reze420 : passe. 
+Personne n'a suivi. (260) sont retournés à picsraf73.
+picsraf73 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [5c 2c 4c]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : picsraf73 (petite blind) a remporté (80)
+Siège 3 : reze420 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°243719496385 : Tournoi #3591892778, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/05/2023 7:27:53 CET [16/05/2023 1:27:53 ET]
+Table '3591892778 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: picsraf73 (340 en jetons) 
+Place 3: reze420 (260 en jetons) 
+reze420 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 7d]
+picsraf73 : relance. 320 à 340 et est all-in.
+reze420 : passe. 
+psychoman59 : suit. 280 et est all-in.
+Personne n'a suivi. (40) sont retournés à picsraf73.
+*** FLOP *** [6h 3s 8c]
+*** TOURNANT *** [6h 3s 8c] [Tc]
+*** RIVIÈRE *** [6h 3s 8c Tc] [Jc]
+*** ABATTAGE ***
+psychoman59 : montre [Ah 7d] (Hauteur As)
+picsraf73 : montre [Jd Kd] (une paire de Valets)
+picsraf73 a remporté 610  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 610 | Commission 0 
+Tableau [6h 3s 8c Tc Jc]
+Siège 1 : psychoman59 (grosse blind) a montré [Ah 7d] et a perdu avec Hauteur As
+Siège 2 : picsraf73 (bouton) a montré [Jd Kd] et a gagné (610) avec une paire de Valets
+Siège 3 : reze420 (petite blind) s'est couché. avant Flop
+
+
+

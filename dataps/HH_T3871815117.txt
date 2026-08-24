@@ -1,0 +1,214 @@
+﻿Main PokerStars n°255411151188 : Tournoi #3871815117, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 23/03/2025 7:48:49 CET [23/03/2025 2:48:49 ET]
+Table '3871815117 1' 3-max Siège #1 est au bouton.
+Place 1: pikante86 (500 en jetons) 
+Place 2: el_yudah (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+el_yudah : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Ts]
+pikante86 : suit. 20
+el_yudah : relance. 20 à 40
+psychoman59 : suit. 20
+pikante86 : suit. 20
+*** FLOP *** [7s 9c 6c]
+el_yudah : mise. 60
+psychoman59 : suit. 60
+pikante86 : suit. 60
+*** TOURNANT *** [7s 9c 6c] [Tc]
+el_yudah : mise. 80
+psychoman59 : passe. 
+pikante86 : passe. 
+Personne n'a suivi. (80) sont retournés à el_yudah.
+el_yudah a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [7s 9c 6c Tc]
+Siège 1 : pikante86 (bouton) s'est couché. sur le Tournant
+Siège 2 : el_yudah (petite blind) a remporté (300)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°255411153086 : Tournoi #3871815117, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 23/03/2025 7:49:15 CET [23/03/2025 2:49:15 ET]
+Table '3871815117 1' 3-max Siège #2 est au bouton.
+Place 1: pikante86 (400 en jetons) 
+Place 2: el_yudah (700 en jetons) 
+Place 3: psychoman59 (400 en jetons) 
+psychoman59 : met la petite blind. 10
+pikante86 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 2d]
+el_yudah : passe. 
+psychoman59 : relance. 40 à 60
+pikante86 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : pikante86 (grosse blind) s'est couché. avant Flop
+Siège 2 : el_yudah (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°255411154000 : Tournoi #3871815117, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 23/03/2025 7:49:27 CET [23/03/2025 2:49:27 ET]
+Table '3871815117 1' 3-max Siège #3 est au bouton.
+Place 1: pikante86 (380 en jetons) 
+Place 2: el_yudah (700 en jetons) 
+Place 3: psychoman59 (420 en jetons) 
+pikante86 : met la petite blind. 10
+el_yudah : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 4s]
+psychoman59 : passe. 
+pikante86 : suit. 10
+el_yudah : parole 
+*** FLOP *** [Ts Kh 7d]
+pikante86 : parole 
+el_yudah : parole 
+*** TOURNANT *** [Ts Kh 7d] [5d]
+pikante86 : parole 
+el_yudah : parole 
+*** RIVIÈRE *** [Ts Kh 7d 5d] [Ad]
+pikante86 : parole 
+el_yudah : mise. 20
+pikante86 : suit. 20
+*** ABATTAGE ***
+el_yudah : montre [3h Ac] (une paire de As)
+pikante86 : montre [2s As] (une paire de As)
+pikante86 a remporté 40  lors du pot .
+el_yudah a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Ts Kh 7d 5d Ad]
+Siège 1 : pikante86 (petite blind) a montré [2s As] et a gagné (40) avec une paire de As
+Siège 2 : el_yudah (grosse blind) a montré [3h Ac] et a gagné (40) avec une paire de As
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°255411155825 : Tournoi #3871815117, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 23/03/2025 7:49:52 CET [23/03/2025 2:49:52 ET]
+Table '3871815117 1' 3-max Siège #1 est au bouton.
+Place 1: pikante86 (380 en jetons) 
+Place 2: el_yudah (700 en jetons) 
+Place 3: psychoman59 (420 en jetons) 
+el_yudah : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 3s]
+pikante86 : suit. 20
+el_yudah : suit. 10
+psychoman59 : parole 
+*** FLOP *** [As 6h 7d]
+el_yudah : parole 
+psychoman59 : parole 
+pikante86 : parole 
+*** TOURNANT *** [As 6h 7d] [8h]
+el_yudah : parole 
+psychoman59 : parole 
+pikante86 : parole 
+*** RIVIÈRE *** [As 6h 7d 8h] [Qs]
+el_yudah : parole 
+psychoman59 : parole 
+pikante86 : mise. 60
+el_yudah : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à pikante86.
+pikante86 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [As 6h 7d 8h Qs]
+Siège 1 : pikante86 (bouton) a remporté (60)
+Siège 2 : el_yudah (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°255411158834 : Tournoi #3871815117, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 23/03/2025 7:50:34 CET [23/03/2025 2:50:34 ET]
+Table '3871815117 1' 3-max Siège #2 est au bouton.
+Place 1: pikante86 (420 en jetons) 
+Place 2: el_yudah (680 en jetons) 
+Place 3: psychoman59 (400 en jetons) 
+psychoman59 : met la petite blind. 10
+pikante86 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Qd]
+el_yudah : passe. 
+psychoman59 : suit. 10
+pikante86 : parole 
+*** FLOP *** [Qs Jc 9d]
+psychoman59 : parole 
+pikante86 : parole 
+*** TOURNANT *** [Qs Jc 9d] [6s]
+psychoman59 : mise. 40
+pikante86 : suit. 40
+*** RIVIÈRE *** [Qs Jc 9d 6s] [Jh]
+psychoman59 : mise. 120
+pikante86 : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Qs Jc 9d 6s Jh]
+Siège 1 : pikante86 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : el_yudah (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°255411160716 : Tournoi #3871815117, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 23/03/2025 7:51:00 CET [23/03/2025 2:51:00 ET]
+Table '3871815117 1' 3-max Siège #3 est au bouton.
+Place 1: pikante86 (360 en jetons) 
+Place 2: el_yudah (680 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+pikante86 : met la petite blind. 15
+el_yudah : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 5s]
+psychoman59 : passe. 
+pikante86 : passe. 
+Personne n'a suivi. (15) sont retournés à el_yudah.
+el_yudah a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : pikante86 (petite blind) s'est couché. avant Flop
+Siège 2 : el_yudah (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°255411161037 : Tournoi #3871815117, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 23/03/2025 7:51:05 CET [23/03/2025 2:51:05 ET]
+Table '3871815117 1' 3-max Siège #1 est au bouton.
+Place 1: pikante86 (345 en jetons) 
+Place 2: el_yudah (695 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+el_yudah : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 3h]
+pikante86 : passe. 
+el_yudah : relance. 30 à 60
+psychoman59 : suit. 30
+*** FLOP *** [Ac Qs Qh]
+el_yudah : parole 
+psychoman59 : mise. 400 et est all-in.
+el_yudah : suit. 400
+*** TOURNANT *** [Ac Qs Qh] [Tc]
+*** RIVIÈRE *** [Ac Qs Qh Tc] [3s]
+*** ABATTAGE ***
+el_yudah : montre [Qd Th] (un full, full aux Dames par les Dix)
+psychoman59 : montre [Kh 3h] (double paire, Dames et Trois)
+el_yudah a remporté 920  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 920 | Commission 0 
+Tableau [Ac Qs Qh Tc 3s]
+Siège 1 : pikante86 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : el_yudah (petite blind) a montré [Qd Th] et a gagné (920) avec un full, full aux Dames par les Dix
+Siège 3 : psychoman59 (grosse blind) a montré [Kh 3h] et a perdu avec double paire, Dames et Trois
+
+
+

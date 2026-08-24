@@ -1,0 +1,822 @@
+﻿Main PokerStars n°260572578293 : Tournoi #3994764701, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 24/04/2026 7:56:37 CET [24/04/2026 1:56:37 ET]
+Table '3994764701 1' 3-max Siège #1 est au bouton.
+Place 1: fenderzy (500 en jetons) 
+Place 2: francksalem59 (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+francksalem59 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Qc]
+fenderzy : suit. 20
+francksalem59 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [8s 2s Jc]
+francksalem59 : parole 
+psychoman59 : parole 
+fenderzy : parole 
+*** TOURNANT *** [8s 2s Jc] [2c]
+francksalem59 : parole 
+psychoman59 : parole 
+fenderzy : mise. 40
+francksalem59 : suit. 40
+psychoman59 : passe. 
+*** RIVIÈRE *** [8s 2s Jc 2c] [5d]
+francksalem59 a dépassé le temps imparti.
+francksalem59 : parole 
+fenderzy : mise. 60
+francksalem59 : suit. 60
+*** ABATTAGE ***
+fenderzy : montre [Qh 2h] (un brelan de Deux)
+francksalem59 : cache la main perdante. 
+fenderzy a remporté 260  lors du pot .
+*** SYNTHÈSE ***
+Pot total 260 | Commission 0 
+Tableau [8s 2s Jc 2c 5d]
+Siège 1 : fenderzy (bouton) a montré [Qh 2h] et a gagné (260) avec un brelan de Deux
+Siège 2 : francksalem59 (petite blind) a caché la main perdante. [4s Qs]
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°260572582776 : Tournoi #3994764701, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 24/04/2026 7:58:06 CET [24/04/2026 1:58:06 ET]
+Table '3994764701 1' 3-max Siège #2 est au bouton.
+Place 1: fenderzy (640 en jetons) 
+Place 2: francksalem59 (380 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 10
+fenderzy : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Js]
+francksalem59 : suit. 20
+psychoman59 : passe. 
+fenderzy : parole 
+*** FLOP *** [9d Kc 6d]
+fenderzy : mise. 20
+francksalem59 : suit. 20
+*** TOURNANT *** [9d Kc 6d] [Qs]
+fenderzy : mise. 40
+francksalem59 : suit. 40
+*** RIVIÈRE *** [9d Kc 6d Qs] [Ks]
+fenderzy : mise. 128
+francksalem59 : suit. 128
+*** ABATTAGE ***
+fenderzy : montre [5s Kh] (un brelan de Rois)
+francksalem59 : cache la main perdante. 
+fenderzy a remporté 426  lors du pot .
+*** SYNTHÈSE ***
+Pot total 426 | Commission 0 
+Tableau [9d Kc 6d Qs Ks]
+Siège 1 : fenderzy (grosse blind) a montré [5s Kh] et a gagné (426) avec un brelan de Rois
+Siège 2 : francksalem59 (bouton) a caché la main perdante. [9s 8s]
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260572585054 : Tournoi #3994764701, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 24/04/2026 7:58:53 CET [24/04/2026 1:58:53 ET]
+Table '3994764701 1' 3-max Siège #3 est au bouton.
+Place 1: fenderzy (858 en jetons) 
+Place 2: francksalem59 (172 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+fenderzy : met la petite blind. 15
+francksalem59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Ah]
+psychoman59 : suit. 30
+fenderzy : passe. 
+francksalem59 : parole 
+*** FLOP *** [Qc 4d 5s]
+francksalem59 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Qc 4d 5s] [2c]
+francksalem59 : mise. 142 et est all-in.
+psychoman59 : suit. 142
+*** RIVIÈRE *** [Qc 4d 5s 2c] [8c]
+*** ABATTAGE ***
+francksalem59 : montre [Jc Ad] (Hauteur As)
+psychoman59 : montre [3d Ah] (une suite, As à Cinq)
+psychoman59 a remporté 359  lors du pot .
+francksalem59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 359 | Commission 0 
+Tableau [Qc 4d 5s 2c 8c]
+Siège 1 : fenderzy (petite blind) s'est couché. avant Flop
+Siège 2 : francksalem59 (grosse blind) a montré [Jc Ad] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (bouton) a montré [3d Ah] et a gagné (359) avec une suite, As à Cinq
+
+
+
+Main PokerStars n°260572586233 : Tournoi #3994764701, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 24/04/2026 7:59:17 CET [24/04/2026 1:59:17 ET]
+Table '3994764701 1' 3-max Siège #1 est au bouton.
+Place 1: fenderzy (843 en jetons) 
+Place 3: psychoman59 (657 en jetons) 
+fenderzy : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Ad]
+fenderzy : relance. 30 à 60
+psychoman59 : suit. 30
+*** FLOP *** [5s Jh 3s]
+psychoman59 : parole 
+fenderzy : parole 
+*** TOURNANT *** [5s Jh 3s] [2c]
+psychoman59 : parole 
+fenderzy : parole 
+*** RIVIÈRE *** [5s Jh 3s 2c] [Td]
+psychoman59 : mise. 60
+fenderzy : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [5s Jh 3s 2c Td]
+Siège 1 : fenderzy (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°260572587092 : Tournoi #3994764701, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 24/04/2026 7:59:34 CET [24/04/2026 1:59:34 ET]
+Table '3994764701 1' 3-max Siège #3 est au bouton.
+Place 1: fenderzy (783 en jetons) 
+Place 3: psychoman59 (717 en jetons) 
+psychoman59 : met la petite blind. 15
+fenderzy : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 6c]
+psychoman59 : suit. 15
+fenderzy : parole 
+*** FLOP *** [7d 6h 2s]
+fenderzy : parole 
+psychoman59 : mise. 30
+fenderzy : suit. 30
+*** TOURNANT *** [7d 6h 2s] [Ts]
+fenderzy : parole 
+psychoman59 : mise. 30
+fenderzy : relance. 135 à 165
+psychoman59 : passe. 
+Personne n'a suivi. (135) sont retournés à fenderzy.
+fenderzy a remporté 180  lors du pot .
+fenderzy : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [7d 6h 2s Ts]
+Siège 1 : fenderzy (grosse blind) a remporté (180)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°260572588194 : Tournoi #3994764701, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 24/04/2026 7:59:56 CET [24/04/2026 1:59:56 ET]
+Table '3994764701 1' 3-max Siège #1 est au bouton.
+Place 1: fenderzy (873 en jetons) 
+Place 3: psychoman59 (627 en jetons) 
+fenderzy : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h As]
+fenderzy : suit. 15
+psychoman59 : relance. 597 à 627 et est all-in.
+fenderzy : passe. 
+Personne n'a suivi. (597) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : fenderzy (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°260572588621 : Tournoi #3994764701, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 24/04/2026 8:00:04 CET [24/04/2026 2:00:04 ET]
+Table '3994764701 1' 3-max Siège #3 est au bouton.
+Place 1: fenderzy (843 en jetons) 
+Place 3: psychoman59 (657 en jetons) 
+psychoman59 : met la petite blind. 15
+fenderzy : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 4s]
+psychoman59 : suit. 15
+fenderzy : parole 
+*** FLOP *** [5d Jd 9h]
+fenderzy : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5d Jd 9h] [Jh]
+fenderzy : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [5d Jd 9h Jh] [Ac]
+fenderzy : mise. 30
+psychoman59 : suit. 30
+*** ABATTAGE ***
+fenderzy : montre [2d 6h] (une paire de Valets)
+psychoman59 : montre [Ah 4s] (double paire, As et Valets)
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [5d Jd 9h Jh Ac]
+Siège 1 : fenderzy (grosse blind) a montré [2d 6h] et a perdu avec une paire de Valets
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Ah 4s] et a gagné (120) avec double paire, As et Valets
+
+
+
+Main PokerStars n°260572589621 : Tournoi #3994764701, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 24/04/2026 8:00:24 CET [24/04/2026 2:00:24 ET]
+Table '3994764701 1' 3-max Siège #1 est au bouton.
+Place 1: fenderzy (783 en jetons) 
+Place 3: psychoman59 (717 en jetons) 
+fenderzy : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Qd]
+fenderzy : relance. 30 à 60
+psychoman59 : relance. 657 à 717 et est all-in.
+fenderzy : passe. 
+Personne n'a suivi. (657) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : fenderzy (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°260572590131 : Tournoi #3994764701, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 24/04/2026 8:00:34 CET [24/04/2026 2:00:34 ET]
+Table '3994764701 1' 3-max Siège #3 est au bouton.
+Place 1: fenderzy (723 en jetons) 
+Place 3: psychoman59 (777 en jetons) 
+psychoman59 : met la petite blind. 15
+fenderzy : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 9d]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à fenderzy.
+fenderzy a remporté 30  lors du pot .
+fenderzy : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : fenderzy (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260572590559 : Tournoi #3994764701, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 24/04/2026 8:00:42 CET [24/04/2026 2:00:42 ET]
+Table '3994764701 1' 3-max Siège #1 est au bouton.
+Place 1: fenderzy (738 en jetons) 
+Place 3: psychoman59 (762 en jetons) 
+fenderzy : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 5s]
+fenderzy : suit. 20
+psychoman59 : parole 
+*** FLOP *** [8h 3h 3c]
+psychoman59 : mise. 722 et est all-in.
+fenderzy : passe. 
+Personne n'a suivi. (722) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [8h 3h 3c]
+Siège 1 : fenderzy (bouton) (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°260572591212 : Tournoi #3994764701, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 24/04/2026 8:00:54 CET [24/04/2026 2:00:54 ET]
+Table '3994764701 1' 3-max Siège #3 est au bouton.
+Place 1: fenderzy (698 en jetons) 
+Place 3: psychoman59 (802 en jetons) 
+psychoman59 : met la petite blind. 20
+fenderzy : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Ah]
+psychoman59 : suit. 20
+fenderzy : parole 
+*** FLOP *** [4s As Jh]
+fenderzy : parole 
+psychoman59 : mise. 80
+fenderzy : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [4s As Jh]
+Siège 1 : fenderzy (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°260572592086 : Tournoi #3994764701, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 24/04/2026 8:01:09 CET [24/04/2026 2:01:09 ET]
+Table '3994764701 1' 3-max Siège #1 est au bouton.
+Place 1: fenderzy (658 en jetons) 
+Place 3: psychoman59 (842 en jetons) 
+fenderzy : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 6c]
+fenderzy : relance. 40 à 80
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à fenderzy.
+fenderzy a remporté 80  lors du pot .
+fenderzy : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : fenderzy (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260572592431 : Tournoi #3994764701, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 24/04/2026 8:01:15 CET [24/04/2026 2:01:15 ET]
+Table '3994764701 1' 3-max Siège #3 est au bouton.
+Place 1: fenderzy (698 en jetons) 
+Place 3: psychoman59 (802 en jetons) 
+psychoman59 : met la petite blind. 20
+fenderzy : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 2c]
+psychoman59 : suit. 20
+fenderzy : parole 
+*** FLOP *** [5d 8h Ah]
+fenderzy : parole 
+psychoman59 : mise. 80
+fenderzy : suit. 80
+*** TOURNANT *** [5d 8h Ah] [Qs]
+fenderzy : parole 
+psychoman59 : mise. 120
+fenderzy : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [5d 8h Ah Qs]
+Siège 1 : fenderzy (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (240)
+
+
+
+Main PokerStars n°260572593440 : Tournoi #3994764701, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 24/04/2026 8:01:33 CET [24/04/2026 2:01:33 ET]
+Table '3994764701 1' 3-max Siège #1 est au bouton.
+Place 1: fenderzy (578 en jetons) 
+Place 3: psychoman59 (922 en jetons) 
+fenderzy : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 3h]
+fenderzy : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Tc Qs 9c]
+psychoman59 : parole 
+fenderzy : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à fenderzy.
+fenderzy a remporté 80  lors du pot .
+fenderzy : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Tc Qs 9c]
+Siège 1 : fenderzy (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°260572594247 : Tournoi #3994764701, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 24/04/2026 8:01:46 CET [24/04/2026 2:01:46 ET]
+Table '3994764701 1' 3-max Siège #3 est au bouton.
+Place 1: fenderzy (618 en jetons) 
+Place 3: psychoman59 (882 en jetons) 
+psychoman59 : met la petite blind. 20
+fenderzy : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 9s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à fenderzy.
+fenderzy a remporté 40  lors du pot .
+fenderzy : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : fenderzy (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260572594549 : Tournoi #3994764701, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 24/04/2026 8:01:52 CET [24/04/2026 2:01:52 ET]
+Table '3994764701 1' 3-max Siège #1 est au bouton.
+Place 1: fenderzy (638 en jetons) 
+Place 3: psychoman59 (862 en jetons) 
+fenderzy : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 8s]
+fenderzy : relance. 40 à 80
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à fenderzy.
+fenderzy a remporté 80  lors du pot .
+fenderzy : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : fenderzy (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260572594895 : Tournoi #3994764701, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 24/04/2026 8:01:58 CET [24/04/2026 2:01:58 ET]
+Table '3994764701 1' 3-max Siège #3 est au bouton.
+Place 1: fenderzy (678 en jetons) 
+Place 3: psychoman59 (822 en jetons) 
+psychoman59 : met la petite blind. 20
+fenderzy : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Qd]
+psychoman59 : suit. 20
+fenderzy : relance. 638 à 678 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (638) sont retournés à fenderzy.
+fenderzy a remporté 80  lors du pot .
+fenderzy : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : fenderzy (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260572595460 : Tournoi #3994764701, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 24/04/2026 8:02:07 CET [24/04/2026 2:02:07 ET]
+Table '3994764701 1' 3-max Siège #1 est au bouton.
+Place 1: fenderzy (718 en jetons) 
+Place 3: psychoman59 (782 en jetons) 
+fenderzy : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 4c]
+fenderzy : relance. 678 à 718 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (678) sont retournés à fenderzy.
+fenderzy a remporté 80  lors du pot .
+fenderzy : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : fenderzy (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260572595855 : Tournoi #3994764701, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 24/04/2026 8:02:14 CET [24/04/2026 2:02:14 ET]
+Table '3994764701 1' 3-max Siège #3 est au bouton.
+Place 1: fenderzy (758 en jetons) 
+Place 3: psychoman59 (742 en jetons) 
+psychoman59 : met la petite blind. 20
+fenderzy : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 3h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à fenderzy.
+fenderzy a remporté 40  lors du pot .
+fenderzy : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : fenderzy (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260572596123 : Tournoi #3994764701, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 24/04/2026 8:02:18 CET [24/04/2026 2:02:18 ET]
+Table '3994764701 1' 3-max Siège #1 est au bouton.
+Place 1: fenderzy (778 en jetons) 
+Place 3: psychoman59 (722 en jetons) 
+fenderzy : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 8s]
+fenderzy : suit. 20
+psychoman59 : parole 
+*** FLOP *** [5c 6h Qh]
+psychoman59 : parole 
+fenderzy : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à fenderzy.
+fenderzy a remporté 80  lors du pot .
+fenderzy : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [5c 6h Qh]
+Siège 1 : fenderzy (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°260572596870 : Tournoi #3994764701, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 24/04/2026 8:02:31 CET [24/04/2026 2:02:31 ET]
+Table '3994764701 1' 3-max Siège #3 est au bouton.
+Place 1: fenderzy (818 en jetons) 
+Place 3: psychoman59 (682 en jetons) 
+psychoman59 : met la petite blind. 20
+fenderzy : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 5s]
+psychoman59 : relance. 642 à 682 et est all-in.
+fenderzy : passe. 
+Personne n'a suivi. (642) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : fenderzy (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°260572597255 : Tournoi #3994764701, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 24/04/2026 8:02:38 CET [24/04/2026 2:02:38 ET]
+Table '3994764701 1' 3-max Siège #1 est au bouton.
+Place 1: fenderzy (778 en jetons) 
+Place 3: psychoman59 (722 en jetons) 
+fenderzy : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 3c]
+fenderzy : suit. 20
+psychoman59 : parole 
+*** FLOP *** [8s Ac 5c]
+psychoman59 : parole 
+fenderzy : parole 
+*** TOURNANT *** [8s Ac 5c] [2h]
+psychoman59 : parole 
+fenderzy : parole 
+*** RIVIÈRE *** [8s Ac 5c 2h] [Qd]
+psychoman59 : parole 
+fenderzy : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à fenderzy.
+fenderzy a remporté 80  lors du pot .
+fenderzy : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [8s Ac 5c 2h Qd]
+Siège 1 : fenderzy (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°260572598689 : Tournoi #3994764701, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/04/2026 8:03:02 CET [24/04/2026 2:03:02 ET]
+Table '3994764701 1' 3-max Siège #3 est au bouton.
+Place 1: fenderzy (818 en jetons) 
+Place 3: psychoman59 (682 en jetons) 
+psychoman59 : met la petite blind. 30
+fenderzy : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 4s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à fenderzy.
+fenderzy a remporté 60  lors du pot .
+fenderzy : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : fenderzy (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260572598926 : Tournoi #3994764701, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/04/2026 8:03:07 CET [24/04/2026 2:03:07 ET]
+Table '3994764701 1' 3-max Siège #1 est au bouton.
+Place 1: fenderzy (848 en jetons) 
+Place 3: psychoman59 (652 en jetons) 
+fenderzy : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Th]
+fenderzy : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Ts 8c 2s]
+psychoman59 : parole 
+fenderzy : mise. 60
+psychoman59 : relance. 532 à 592 et est all-in.
+fenderzy : passe. 
+Personne n'a suivi. (532) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Ts 8c 2s]
+Siège 1 : fenderzy (bouton) (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (240)
+
+
+
+Main PokerStars n°260572599849 : Tournoi #3994764701, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/04/2026 8:03:22 CET [24/04/2026 2:03:22 ET]
+Table '3994764701 1' 3-max Siège #3 est au bouton.
+Place 1: fenderzy (728 en jetons) 
+Place 3: psychoman59 (772 en jetons) 
+psychoman59 : met la petite blind. 30
+fenderzy : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 8s]
+psychoman59 : relance. 712 à 772 et est all-in.
+fenderzy : passe. 
+Personne n'a suivi. (712) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : fenderzy (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°260572600199 : Tournoi #3994764701, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/04/2026 8:03:28 CET [24/04/2026 2:03:28 ET]
+Table '3994764701 1' 3-max Siège #1 est au bouton.
+Place 1: fenderzy (668 en jetons) 
+Place 3: psychoman59 (832 en jetons) 
+fenderzy : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 5s]
+fenderzy : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Js 8s 7h]
+psychoman59 : parole 
+fenderzy : parole 
+*** TOURNANT *** [Js 8s 7h] [9c]
+psychoman59 : parole 
+fenderzy : parole 
+*** RIVIÈRE *** [Js 8s 7h 9c] [4d]
+psychoman59 : parole 
+fenderzy : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Jc 5s] (une paire de Valets)
+fenderzy : cache la main perdante. 
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Js 8s 7h 9c 4d]
+Siège 1 : fenderzy (bouton) (petite blind) a caché la main perdante. [Qd 4s]
+Siège 3 : psychoman59 (grosse blind) a montré [Jc 5s] et a gagné (120) avec une paire de Valets
+
+
+
+Main PokerStars n°260572601285 : Tournoi #3994764701, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/04/2026 8:03:47 CET [24/04/2026 2:03:47 ET]
+Table '3994764701 1' 3-max Siège #3 est au bouton.
+Place 1: fenderzy (608 en jetons) 
+Place 3: psychoman59 (892 en jetons) 
+psychoman59 : met la petite blind. 30
+fenderzy : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Kh]
+psychoman59 : suit. 30
+fenderzy : parole 
+*** FLOP *** [Kc 7h 5h]
+fenderzy : parole 
+psychoman59 : mise. 60
+fenderzy : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Kc 7h 5h]
+Siège 1 : fenderzy (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°260572602040 : Tournoi #3994764701, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/04/2026 8:04:00 CET [24/04/2026 2:04:00 ET]
+Table '3994764701 1' 3-max Siège #1 est au bouton.
+Place 1: fenderzy (548 en jetons) 
+Place 3: psychoman59 (952 en jetons) 
+fenderzy : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Ks]
+fenderzy : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : fenderzy (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°260572602293 : Tournoi #3994764701, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/04/2026 8:04:04 CET [24/04/2026 2:04:04 ET]
+Table '3994764701 1' 3-max Siège #3 est au bouton.
+Place 1: fenderzy (518 en jetons) 
+Place 3: psychoman59 (982 en jetons) 
+psychoman59 : met la petite blind. 30
+fenderzy : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 8c]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à fenderzy.
+fenderzy a remporté 60  lors du pot .
+fenderzy : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : fenderzy (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260572602548 : Tournoi #3994764701, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/04/2026 8:04:09 CET [24/04/2026 2:04:09 ET]
+Table '3994764701 1' 3-max Siège #1 est au bouton.
+Place 1: fenderzy (548 en jetons) 
+Place 3: psychoman59 (952 en jetons) 
+fenderzy : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 5d]
+fenderzy : suit. 30
+psychoman59 : parole 
+*** FLOP *** [3s 3d 9d]
+psychoman59 : parole 
+fenderzy : mise. 488 et est all-in.
+psychoman59 : suit. 488
+*** TOURNANT *** [3s 3d 9d] [Kc]
+*** RIVIÈRE *** [3s 3d 9d Kc] [Jh]
+*** ABATTAGE ***
+psychoman59 : montre [Jd 5d] (double paire, Valets et Trois)
+fenderzy : montre [Kd 9s] (double paire, Rois et Neuf)
+fenderzy a remporté 1096  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1096 | Commission 0 
+Tableau [3s 3d 9d Kc Jh]
+Siège 1 : fenderzy (bouton) (petite blind) a montré [Kd 9s] et a gagné (1096) avec double paire, Rois et Neuf
+Siège 3 : psychoman59 (grosse blind) a montré [Jd 5d] et a perdu avec double paire, Valets et Trois
+
+
+
+Main PokerStars n°260572603554 : Tournoi #3994764701, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/04/2026 8:04:26 CET [24/04/2026 2:04:26 ET]
+Table '3994764701 1' 3-max Siège #3 est au bouton.
+Place 1: fenderzy (1096 en jetons) 
+Place 3: psychoman59 (404 en jetons) 
+psychoman59 : met la petite blind. 30
+fenderzy : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 9h]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à fenderzy.
+fenderzy a remporté 60  lors du pot .
+fenderzy : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : fenderzy (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260572603911 : Tournoi #3994764701, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/04/2026 8:04:32 CET [24/04/2026 2:04:32 ET]
+Table '3994764701 1' 3-max Siège #1 est au bouton.
+Place 1: fenderzy (1126 en jetons) 
+Place 3: psychoman59 (374 en jetons) 
+fenderzy : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 3h]
+fenderzy : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Qh 2c 4h]
+psychoman59 : parole 
+fenderzy : parole 
+*** TOURNANT *** [Qh 2c 4h] [Ac]
+psychoman59 : parole 
+fenderzy : parole 
+*** RIVIÈRE *** [Qh 2c 4h Ac] [Ks]
+psychoman59 : parole 
+fenderzy : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Qc 3h] (une paire de Dames)
+fenderzy : cache la main perdante. 
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Qh 2c 4h Ac Ks]
+Siège 1 : fenderzy (bouton) (petite blind) a caché la main perdante. [2d Jd]
+Siège 3 : psychoman59 (grosse blind) a montré [Qc 3h] et a gagné (120) avec une paire de Dames
+
+
+
+Main PokerStars n°260572605102 : Tournoi #3994764701, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 24/04/2026 8:04:53 CET [24/04/2026 2:04:53 ET]
+Table '3994764701 1' 3-max Siège #3 est au bouton.
+Place 1: fenderzy (1066 en jetons) 
+Place 3: psychoman59 (434 en jetons) 
+psychoman59 : met la petite blind. 40
+fenderzy : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Jd]
+psychoman59 : relance. 354 à 434 et est all-in.
+fenderzy : suit. 354
+*** FLOP *** [8c 8d 4s]
+*** TOURNANT *** [8c 8d 4s] [6c]
+*** RIVIÈRE *** [8c 8d 4s 6c] [5c]
+*** ABATTAGE ***
+fenderzy : montre [Th Ac] (une paire de Huit)
+psychoman59 : montre [Qh Jd] (une paire de Huit - plus basse kicker)
+fenderzy a remporté 868  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+fenderzy gagne le tournoi - félicitations !
+fenderzy gagne un ticket " €1.50 Step 2 SnG Power Path ticket "
+*** SYNTHÈSE ***
+Pot total 868 | Commission 0 
+Tableau [8c 8d 4s 6c 5c]
+Siège 1 : fenderzy (grosse blind) a montré [Th Ac] et a gagné (868) avec une paire de Huit
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Qh Jd] et a perdu avec une paire de Huit
+
+
+

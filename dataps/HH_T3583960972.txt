@@ -1,0 +1,177 @@
+﻿Main PokerStars n°243373421773 : Tournoi #3583960972, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/04/2023 23:23:24 CET [28/04/2023 17:23:24 ET]
+Table '3583960972 1' 3-max Siège #1 est au bouton.
+Place 1: noah_cvn (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: rifland25 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+rifland25 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 2s]
+noah_cvn : suit. 20
+psychoman59 : passe. 
+rifland25 : parole 
+*** FLOP *** [3h 2d Ks]
+rifland25 : parole 
+noah_cvn : parole 
+*** TOURNANT *** [3h 2d Ks] [Th]
+rifland25 : parole 
+noah_cvn : parole 
+*** RIVIÈRE *** [3h 2d Ks Th] [2c]
+rifland25 : mise. 25
+noah_cvn : suit. 25
+*** ABATTAGE ***
+rifland25 : montre [6s 5s] (une paire de Deux)
+noah_cvn : montre [4h Ac] (une paire de Deux - As kicker)
+noah_cvn a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [3h 2d Ks Th 2c]
+Siège 1 : noah_cvn (bouton) a montré [4h Ac] et a gagné (100) avec une paire de Deux
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : rifland25 (grosse blind) a montré [6s 5s] et a perdu avec une paire de Deux
+
+
+
+Main PokerStars n°243373430579 : Tournoi #3583960972, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/04/2023 23:23:49 CET [28/04/2023 17:23:49 ET]
+Table '3583960972 1' 3-max Siège #2 est au bouton.
+Place 1: noah_cvn (355 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: rifland25 (255 en jetons) 
+rifland25 : met la petite blind. 10
+noah_cvn : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 8h]
+psychoman59 : relance. 50 à 70
+rifland25 : passe. 
+noah_cvn : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : noah_cvn (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a remporté (50)
+Siège 3 : rifland25 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243373934377 : Tournoi #3583960972, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/04/2023 23:23:59 CET [28/04/2023 17:23:59 ET]
+Table '3583960972 1' 3-max Siège #3 est au bouton.
+Place 1: noah_cvn (335 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: rifland25 (245 en jetons) 
+noah_cvn : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Kh]
+rifland25 : relance. 50 à 70
+noah_cvn : suit. 60
+psychoman59 : passe. 
+*** FLOP *** [Td 6d Jc]
+noah_cvn : mise. 20
+rifland25 : suit. 20
+*** TOURNANT *** [Td 6d Jc] [4h]
+noah_cvn : parole 
+rifland25 : mise. 100
+noah_cvn : suit. 100
+*** RIVIÈRE *** [Td 6d Jc 4h] [7s]
+noah_cvn : parole 
+rifland25 : parole 
+*** ABATTAGE ***
+noah_cvn : montre [5c Qh] (Hauteur Dame)
+rifland25 : montre [8h Ah] (Hauteur As)
+rifland25 a remporté 400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [Td 6d Jc 4h 7s]
+Siège 1 : noah_cvn (petite blind) a montré [5c Qh] et a perdu avec Hauteur Dame
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : rifland25 (bouton) a montré [8h Ah] et a gagné (400) avec Hauteur As
+
+
+
+Main PokerStars n°243373946025 : Tournoi #3583960972, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 28/04/2023 23:24:31 CET [28/04/2023 17:24:31 ET]
+Table '3583960972 1' 3-max Siège #1 est au bouton.
+Place 1: noah_cvn (145 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: rifland25 (455 en jetons) 
+psychoman59 : met la petite blind. 15
+rifland25 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 7s]
+noah_cvn : relance. 30 à 60
+psychoman59 : passe. 
+rifland25 : relance. 395 à 455 et est all-in.
+noah_cvn : suit. 85 et est all-in.
+Personne n'a suivi. (310) sont retournés à rifland25.
+*** FLOP *** [Jh 2h 9h]
+*** TOURNANT *** [Jh 2h 9h] [Tc]
+*** RIVIÈRE *** [Jh 2h 9h Tc] [Qc]
+*** ABATTAGE ***
+rifland25 : montre [Kh 3h] (une couleur, hauteur Roi)
+noah_cvn : montre [As 8c] (une suite, Huit à Dame)
+rifland25 a remporté 305  lors du pot .
+noah_cvn a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 305 | Commission 0 
+Tableau [Jh 2h 9h Tc Qc]
+Siège 1 : noah_cvn (bouton) a montré [As 8c] et a perdu avec une suite, Huit à Dame
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : rifland25 (grosse blind) a montré [Kh 3h] et a gagné (305) avec une couleur, hauteur Roi
+
+
+
+Main PokerStars n°243373952557 : Tournoi #3583960972, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 28/04/2023 23:24:49 CET [28/04/2023 17:24:49 ET]
+Table '3583960972 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (285 en jetons) 
+Place 3: rifland25 (615 en jetons) 
+rifland25 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 7c]
+rifland25 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [8d 2s Qh]
+psychoman59 : parole 
+rifland25 : parole 
+*** TOURNANT *** [8d 2s Qh] [Qs]
+psychoman59 : parole 
+rifland25 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à rifland25.
+rifland25 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [8d 2s Qh Qs]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : rifland25 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°243373958421 : Tournoi #3583960972, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 28/04/2023 23:25:06 CET [28/04/2023 17:25:06 ET]
+Table '3583960972 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (255 en jetons) 
+Place 3: rifland25 (645 en jetons) 
+psychoman59 : met la petite blind. 15
+rifland25 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Ah]
+psychoman59 : relance. 225 à 255 et est all-in.
+rifland25 : suit. 225
+*** FLOP *** [3c 7d Kh]
+*** TOURNANT *** [3c 7d Kh] [Tc]
+*** RIVIÈRE *** [3c 7d Kh Tc] [2c]
+*** ABATTAGE ***
+rifland25 : montre [7c 9s] (une paire de Sept)
+psychoman59 : montre [6c Ah] (Hauteur As)
+rifland25 a remporté 510  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+rifland25 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 510 | Commission 0 
+Tableau [3c 7d Kh Tc 2c]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [6c Ah] et a perdu avec Hauteur As
+Siège 3 : rifland25 (grosse blind) a montré [7c 9s] et a gagné (510) avec une paire de Sept
+
+
+

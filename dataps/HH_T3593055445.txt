@@ -1,0 +1,397 @@
+﻿Main PokerStars n°243770617328 : Tournoi #3593055445, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/05/2023 23:32:15 CET [18/05/2023 17:32:15 ET]
+Table '3593055445 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: jeanfoncetou (300 en jetons) 
+Place 3: gamerdu76 (300 en jetons) 
+jeanfoncetou : met la petite blind. 10
+gamerdu76 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 4d]
+psychoman59 : relance. 50 à 70
+jeanfoncetou : suit. 60
+gamerdu76 : suit. 50
+*** FLOP *** [Qc 9h Th]
+jeanfoncetou : parole 
+gamerdu76 : mise. 230 et est all-in.
+psychoman59 : passe. 
+jeanfoncetou : passe. 
+Personne n'a suivi. (230) sont retournés à gamerdu76.
+gamerdu76 a remporté 210  lors du pot .
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Tableau [Qc 9h Th]
+Siège 1 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 2 : jeanfoncetou (petite blind) s'est couché. sur le Flop
+Siège 3 : gamerdu76 (grosse blind) a remporté (210)
+
+
+
+Main PokerStars n°243770624240 : Tournoi #3593055445, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/05/2023 23:32:34 CET [18/05/2023 17:32:34 ET]
+Table '3593055445 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (230 en jetons) 
+Place 2: jeanfoncetou (230 en jetons) 
+Place 3: gamerdu76 (440 en jetons) 
+gamerdu76 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 3d]
+jeanfoncetou : passe. 
+gamerdu76 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [2s 5h 5c]
+gamerdu76 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [2s 5h 5c] [Th]
+gamerdu76 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [2s 5h 5c Th] [2c]
+gamerdu76 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+gamerdu76 : montre [9s 8c] (double paire, Cinq et Deux)
+psychoman59 : montre [Qh 3d] (double paire, Cinq et Deux - Dame kicker)
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [2s 5h 5c Th 2c]
+Siège 1 : psychoman59 (grosse blind) a montré [Qh 3d] et a gagné (40) avec double paire, Cinq et Deux
+Siège 2 : jeanfoncetou (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : gamerdu76 (petite blind) a montré [9s 8c] et a perdu avec double paire, Cinq et Deux
+
+
+
+Main PokerStars n°243770632759 : Tournoi #3593055445, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/05/2023 23:32:58 CET [18/05/2023 17:32:58 ET]
+Table '3593055445 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (250 en jetons) 
+Place 2: jeanfoncetou (230 en jetons) 
+Place 3: gamerdu76 (420 en jetons) 
+psychoman59 : met la petite blind. 10
+jeanfoncetou : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Qc]
+gamerdu76 : passe. 
+psychoman59 : suit. 10
+jeanfoncetou : parole 
+*** FLOP *** [3s Ad Qs]
+psychoman59 : mise. 40
+jeanfoncetou : suit. 40
+*** TOURNANT *** [3s Ad Qs] [7h]
+psychoman59 : mise. 60
+jeanfoncetou : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [3s Ad Qs 7h]
+Siège 1 : psychoman59 (petite blind) a remporté (120)
+Siège 2 : jeanfoncetou (grosse blind) s'est couché. sur le Tournant
+Siège 3 : gamerdu76 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°243770641984 : Tournoi #3593055445, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/05/2023 23:33:23 CET [18/05/2023 17:33:23 ET]
+Table '3593055445 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (310 en jetons) 
+Place 2: jeanfoncetou (170 en jetons) 
+Place 3: gamerdu76 (420 en jetons) 
+jeanfoncetou : met la petite blind. 15
+gamerdu76 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 3c]
+psychoman59 : suit. 30
+jeanfoncetou : suit. 15
+gamerdu76 : parole 
+*** FLOP *** [9h 5s 4c]
+jeanfoncetou : mise. 140 et est all-in.
+gamerdu76 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (140) sont retournés à jeanfoncetou.
+jeanfoncetou a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [9h 5s 4c]
+Siège 1 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 2 : jeanfoncetou (petite blind) a remporté (90)
+Siège 3 : gamerdu76 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°243770653656 : Tournoi #3593055445, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/05/2023 23:33:55 CET [18/05/2023 17:33:55 ET]
+Table '3593055445 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: jeanfoncetou (230 en jetons) 
+Place 3: gamerdu76 (390 en jetons) 
+gamerdu76 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 2d]
+jeanfoncetou : passe. 
+gamerdu76 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [6h 3h 5c]
+gamerdu76 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6h 3h 5c] [9c]
+gamerdu76 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à gamerdu76.
+gamerdu76 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [6h 3h 5c 9c]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : jeanfoncetou (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : gamerdu76 (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°243770663489 : Tournoi #3593055445, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 18/05/2023 23:34:22 CET [18/05/2023 17:34:22 ET]
+Table '3593055445 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (250 en jetons) 
+Place 2: jeanfoncetou (230 en jetons) 
+Place 3: gamerdu76 (420 en jetons) 
+psychoman59 : met la petite blind. 20
+jeanfoncetou : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Kd]
+gamerdu76 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à jeanfoncetou.
+jeanfoncetou a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : jeanfoncetou (grosse blind) a remporté (40)
+Siège 3 : gamerdu76 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°243770666692 : Tournoi #3593055445, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 18/05/2023 23:34:31 CET [18/05/2023 17:34:31 ET]
+Table '3593055445 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (230 en jetons) 
+Place 2: jeanfoncetou (250 en jetons) 
+Place 3: gamerdu76 (420 en jetons) 
+jeanfoncetou : met la petite blind. 20
+gamerdu76 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 5h]
+psychoman59 : passe. 
+jeanfoncetou : passe. 
+Personne n'a suivi. (20) sont retournés à gamerdu76.
+gamerdu76 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : jeanfoncetou (petite blind) s'est couché. avant Flop
+Siège 3 : gamerdu76 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°243770668518 : Tournoi #3593055445, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 18/05/2023 23:34:36 CET [18/05/2023 17:34:36 ET]
+Table '3593055445 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (230 en jetons) 
+Place 2: jeanfoncetou (230 en jetons) 
+Place 3: gamerdu76 (440 en jetons) 
+gamerdu76 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 8s]
+jeanfoncetou : passe. 
+gamerdu76 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [9c 3c 3d]
+gamerdu76 : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à gamerdu76.
+gamerdu76 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [9c 3c 3d]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : jeanfoncetou (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : gamerdu76 (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°243770673617 : Tournoi #3593055445, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 18/05/2023 23:34:50 CET [18/05/2023 17:34:50 ET]
+Table '3593055445 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (190 en jetons) 
+Place 2: jeanfoncetou (230 en jetons) 
+Place 3: gamerdu76 (480 en jetons) 
+psychoman59 : met la petite blind. 20
+jeanfoncetou : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 6c]
+gamerdu76 : relance. 40 à 80
+psychoman59 : passe. 
+jeanfoncetou : suit. 40
+*** FLOP *** [2s 5h 9h]
+jeanfoncetou : parole 
+gamerdu76 : mise. 400 et est all-in.
+jeanfoncetou : passe. 
+Personne n'a suivi. (400) sont retournés à gamerdu76.
+gamerdu76 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [2s 5h 9h]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : jeanfoncetou (grosse blind) s'est couché. sur le Flop
+Siège 3 : gamerdu76 (bouton) a remporté (180)
+
+
+
+Main PokerStars n°243770677816 : Tournoi #3593055445, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 18/05/2023 23:35:02 CET [18/05/2023 17:35:02 ET]
+Table '3593055445 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (170 en jetons) 
+Place 2: jeanfoncetou (150 en jetons) 
+Place 3: gamerdu76 (580 en jetons) 
+jeanfoncetou : met la petite blind. 20
+gamerdu76 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 9c]
+psychoman59 : passe. 
+jeanfoncetou : suit. 20
+gamerdu76 : parole 
+*** FLOP *** [9s 7c 3s]
+jeanfoncetou : parole 
+gamerdu76 : parole 
+*** TOURNANT *** [9s 7c 3s] [Jd]
+jeanfoncetou : parole 
+gamerdu76 : parole 
+*** RIVIÈRE *** [9s 7c 3s Jd] [8d]
+jeanfoncetou : parole 
+gamerdu76 : parole 
+*** ABATTAGE ***
+jeanfoncetou : montre [5d 4d] (Hauteur Valet)
+gamerdu76 : montre [6s Kh] (Hauteur Roi)
+gamerdu76 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [9s 7c 3s Jd 8d]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : jeanfoncetou (petite blind) a montré [5d 4d] et a perdu avec Hauteur Valet
+Siège 3 : gamerdu76 (grosse blind) a montré [6s Kh] et a gagné (80) avec Hauteur Roi
+
+
+
+Main PokerStars n°243770682705 : Tournoi #3593055445, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 18/05/2023 23:35:16 CET [18/05/2023 17:35:16 ET]
+Table '3593055445 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (170 en jetons) 
+Place 2: jeanfoncetou (110 en jetons) 
+Place 3: gamerdu76 (620 en jetons) 
+gamerdu76 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Qs]
+jeanfoncetou : relance. 70 à 110 et est all-in.
+gamerdu76 : passe. 
+psychoman59 : suit. 70
+*** FLOP *** [Ks Ts 7h]
+*** TOURNANT *** [Ks Ts 7h] [Ad]
+*** RIVIÈRE *** [Ks Ts 7h Ad] [4d]
+*** ABATTAGE ***
+psychoman59 : montre [As Qs] (une paire de As)
+jeanfoncetou : montre [Kd 8c] (une paire de Rois)
+psychoman59 a remporté 240  lors du pot .
+jeanfoncetou a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Ks Ts 7h Ad 4d]
+Siège 1 : psychoman59 (grosse blind) a montré [As Qs] et a gagné (240) avec une paire de As
+Siège 2 : jeanfoncetou (bouton) a montré [Kd 8c] et a perdu avec une paire de Rois
+Siège 3 : gamerdu76 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243770689064 : Tournoi #3593055445, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 18/05/2023 23:35:33 CET [18/05/2023 17:35:33 ET]
+Table '3593055445 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 3: gamerdu76 (600 en jetons) 
+psychoman59 : met la petite blind. 30
+gamerdu76 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Qc]
+psychoman59 : relance. 60 à 120
+gamerdu76 : suit. 60
+*** FLOP *** [Td Kd 4c]
+gamerdu76 : parole 
+psychoman59 : mise. 120
+gamerdu76 : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Td Kd 4c]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (240)
+Siège 3 : gamerdu76 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°243770693624 : Tournoi #3593055445, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 18/05/2023 23:35:46 CET [18/05/2023 17:35:46 ET]
+Table '3593055445 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (420 en jetons) 
+Place 3: gamerdu76 (480 en jetons) 
+gamerdu76 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 5h]
+gamerdu76 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : gamerdu76 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243770696104 : Tournoi #3593055445, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 18/05/2023 23:35:53 CET [18/05/2023 17:35:53 ET]
+Table '3593055445 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (450 en jetons) 
+Place 3: gamerdu76 (450 en jetons) 
+psychoman59 : met la petite blind. 30
+gamerdu76 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Js]
+psychoman59 : relance. 390 à 450 et est all-in.
+gamerdu76 : passe. 
+Personne n'a suivi. (390) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 3 : gamerdu76 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243770701279 : Tournoi #3593055445, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 18/05/2023 23:36:07 CET [18/05/2023 17:36:07 ET]
+Table '3593055445 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (510 en jetons) 
+Place 3: gamerdu76 (390 en jetons) 
+gamerdu76 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 5d]
+gamerdu76 : relance. 330 à 390 et est all-in.
+psychoman59 : suit. 330
+*** FLOP *** [2s 6h 5s]
+*** TOURNANT *** [2s 6h 5s] [3d]
+*** RIVIÈRE *** [2s 6h 5s 3d] [3s]
+*** ABATTAGE ***
+psychoman59 : montre [Kd 5d] (double paire, Cinq et Trois)
+gamerdu76 : montre [5h 9h] (double paire, Cinq et Trois - plus basse kicker)
+psychoman59 a remporté 780  lors du pot .
+gamerdu76 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 780 | Commission 0 
+Tableau [2s 6h 5s 3d 3s]
+Siège 1 : psychoman59 (grosse blind) a montré [Kd 5d] et a gagné (780) avec double paire, Cinq et Trois
+Siège 3 : gamerdu76 (bouton) (petite blind) a montré [5h 9h] et a perdu avec double paire, Cinq et Trois
+
+
+

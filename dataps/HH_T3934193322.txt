@@ -1,0 +1,896 @@
+﻿Main PokerStars n°258005887341 : Tournoi #3934193322, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/10/2025 9:52:24 CET [05/10/2025 3:52:24 ET]
+Table '3934193322 1' 3-max Siège #1 est au bouton.
+Place 1: angy0308 (500 en jetons) 
+Place 2: danielo_AA (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+danielo_AA : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 6s]
+angy0308 : passe. 
+danielo_AA : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : angy0308 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : danielo_AA (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°258005887702 : Tournoi #3934193322, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/10/2025 9:52:29 CET [05/10/2025 3:52:29 ET]
+Table '3934193322 1' 3-max Siège #2 est au bouton.
+Place 1: angy0308 (500 en jetons) 
+Place 2: danielo_AA (490 en jetons) 
+Place 3: psychoman59 (510 en jetons) 
+psychoman59 : met la petite blind. 10
+angy0308 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 9d]
+danielo_AA : suit. 20
+psychoman59 : suit. 10
+angy0308 : parole 
+*** FLOP *** [6s 5h Ah]
+psychoman59 : parole 
+angy0308 : parole 
+danielo_AA : mise. 30
+psychoman59 : passe. 
+angy0308 : suit. 30
+*** TOURNANT *** [6s 5h Ah] [8c]
+angy0308 : parole 
+danielo_AA : mise. 60
+angy0308 : suit. 60
+*** RIVIÈRE *** [6s 5h Ah 8c] [3s]
+angy0308 : parole 
+danielo_AA : parole 
+*** ABATTAGE ***
+angy0308 : montre [2h Th] (Hauteur As)
+danielo_AA : montre [7s 6d] (une paire de Six)
+danielo_AA a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [6s 5h Ah 8c 3s]
+Siège 1 : angy0308 (grosse blind) a montré [2h Th] et a perdu avec Hauteur As
+Siège 2 : danielo_AA (bouton) a montré [7s 6d] et a gagné (240) avec une paire de Six
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°258005889751 : Tournoi #3934193322, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/10/2025 9:52:57 CET [05/10/2025 3:52:57 ET]
+Table '3934193322 1' 3-max Siège #3 est au bouton.
+Place 1: angy0308 (390 en jetons) 
+Place 2: danielo_AA (620 en jetons) 
+Place 3: psychoman59 (490 en jetons) 
+angy0308 : met la petite blind. 10
+danielo_AA : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Th]
+psychoman59 : suit. 20
+angy0308 : suit. 10
+danielo_AA : parole 
+*** FLOP *** [Tc As 2c]
+angy0308 : parole 
+danielo_AA : parole 
+psychoman59 : mise. 60
+angy0308 : passe. 
+danielo_AA : suit. 60
+*** TOURNANT *** [Tc As 2c] [Ts]
+danielo_AA : parole 
+psychoman59 : mise. 90
+danielo_AA : suit. 90
+*** RIVIÈRE *** [Tc As 2c Ts] [Jh]
+danielo_AA : parole 
+psychoman59 : mise. 180
+danielo_AA : passe. 
+Personne n'a suivi. (180) sont retournés à psychoman59.
+psychoman59 a remporté 360  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [Tc As 2c Ts Jh]
+Siège 1 : angy0308 (petite blind) s'est couché. sur le Flop
+Siège 2 : danielo_AA (grosse blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (bouton) a remporté (360)
+
+
+
+Main PokerStars n°258005891878 : Tournoi #3934193322, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/10/2025 9:53:26 CET [05/10/2025 3:53:26 ET]
+Table '3934193322 1' 3-max Siège #1 est au bouton.
+Place 1: angy0308 (370 en jetons) 
+Place 2: danielo_AA (450 en jetons) 
+Place 3: psychoman59 (680 en jetons) 
+danielo_AA : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 2d]
+angy0308 : suit. 20
+danielo_AA : passe. 
+psychoman59 : parole 
+*** FLOP *** [6s 4s 7c]
+psychoman59 : parole 
+angy0308 : parole 
+*** TOURNANT *** [6s 4s 7c] [7d]
+psychoman59 : parole 
+angy0308 : parole 
+*** RIVIÈRE *** [6s 4s 7c 7d] [6c]
+psychoman59 : parole 
+angy0308 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Tc 2d] (double paire, Sept et Six)
+angy0308 : montre [Ad 5h] (double paire, Sept et Six - As kicker)
+angy0308 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [6s 4s 7c 7d 6c]
+Siège 1 : angy0308 (bouton) a montré [Ad 5h] et a gagné (50) avec double paire, Sept et Six
+Siège 2 : danielo_AA (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [Tc 2d] et a perdu avec double paire, Sept et Six
+
+
+
+Main PokerStars n°258005893223 : Tournoi #3934193322, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/10/2025 9:53:45 CET [05/10/2025 3:53:45 ET]
+Table '3934193322 1' 3-max Siège #2 est au bouton.
+Place 1: angy0308 (400 en jetons) 
+Place 2: danielo_AA (440 en jetons) 
+Place 3: psychoman59 (660 en jetons) 
+psychoman59 : met la petite blind. 10
+angy0308 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 4c]
+danielo_AA : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à angy0308.
+angy0308 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : angy0308 (grosse blind) a remporté (20)
+Siège 2 : danielo_AA (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258005893720 : Tournoi #3934193322, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/10/2025 9:53:52 CET [05/10/2025 3:53:52 ET]
+Table '3934193322 1' 3-max Siège #3 est au bouton.
+Place 1: angy0308 (410 en jetons) 
+Place 2: danielo_AA (440 en jetons) 
+Place 3: psychoman59 (650 en jetons) 
+angy0308 : met la petite blind. 10
+danielo_AA : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 8d]
+psychoman59 : passe. 
+angy0308 : suit. 10
+danielo_AA : relance. 40 à 60
+angy0308 : suit. 40
+*** FLOP *** [7h 3c 2h]
+angy0308 : parole 
+danielo_AA : mise. 60
+angy0308 : passe. 
+Personne n'a suivi. (60) sont retournés à danielo_AA.
+danielo_AA a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [7h 3c 2h]
+Siège 1 : angy0308 (petite blind) s'est couché. sur le Flop
+Siège 2 : danielo_AA (grosse blind) a remporté (120)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°258005895227 : Tournoi #3934193322, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/10/2025 9:54:13 CET [05/10/2025 3:54:13 ET]
+Table '3934193322 1' 3-max Siège #1 est au bouton.
+Place 1: angy0308 (350 en jetons) 
+Place 2: danielo_AA (500 en jetons) 
+Place 3: psychoman59 (650 en jetons) 
+danielo_AA : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Qd]
+angy0308 : passe. 
+danielo_AA : relance. 40 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à danielo_AA.
+danielo_AA a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : angy0308 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : danielo_AA (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258005895952 : Tournoi #3934193322, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/10/2025 9:54:23 CET [05/10/2025 3:54:23 ET]
+Table '3934193322 1' 3-max Siège #2 est au bouton.
+Place 1: angy0308 (350 en jetons) 
+Place 2: danielo_AA (520 en jetons) 
+Place 3: psychoman59 (630 en jetons) 
+psychoman59 : met la petite blind. 10
+angy0308 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Qd]
+danielo_AA : passe. 
+psychoman59 : suit. 10
+angy0308 : parole 
+*** FLOP *** [5s 2c 8c]
+psychoman59 : parole 
+angy0308 : parole 
+*** TOURNANT *** [5s 2c 8c] [7s]
+psychoman59 : parole 
+angy0308 : parole 
+*** RIVIÈRE *** [5s 2c 8c 7s] [Ks]
+psychoman59 : parole 
+angy0308 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [4h Qd] (Hauteur Roi)
+angy0308 : cache la main perdante. 
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [5s 2c 8c 7s Ks]
+Siège 1 : angy0308 (grosse blind) a caché la main perdante. [3c Js]
+Siège 2 : danielo_AA (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [4h Qd] et a gagné (40) avec Hauteur Roi
+
+
+
+Main PokerStars n°258005897104 : Tournoi #3934193322, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/10/2025 9:54:39 CET [05/10/2025 3:54:39 ET]
+Table '3934193322 1' 3-max Siège #3 est au bouton.
+Place 1: angy0308 (330 en jetons) 
+Place 2: danielo_AA (520 en jetons) 
+Place 3: psychoman59 (650 en jetons) 
+angy0308 : met la petite blind. 10
+danielo_AA : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Td]
+psychoman59 : passe. 
+angy0308 : suit. 10
+danielo_AA : parole 
+*** FLOP *** [Qd 4c 8h]
+angy0308 : parole 
+danielo_AA : parole 
+*** TOURNANT *** [Qd 4c 8h] [Kd]
+angy0308 : parole 
+danielo_AA : parole 
+*** RIVIÈRE *** [Qd 4c 8h Kd] [Ks]
+angy0308 : parole 
+danielo_AA : parole 
+*** ABATTAGE ***
+angy0308 : montre [Th 5h] (une paire de Rois)
+danielo_AA : cache la main perdante. 
+angy0308 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Qd 4c 8h Kd Ks]
+Siège 1 : angy0308 (petite blind) a montré [Th 5h] et a gagné (40) avec une paire de Rois
+Siège 2 : danielo_AA (grosse blind) a caché la main perdante. [7s 9c]
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°258005898302 : Tournoi #3934193322, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/10/2025 9:54:56 CET [05/10/2025 3:54:56 ET]
+Table '3934193322 1' 3-max Siège #1 est au bouton.
+Place 1: angy0308 (350 en jetons) 
+Place 2: danielo_AA (500 en jetons) 
+Place 3: psychoman59 (650 en jetons) 
+danielo_AA : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Ts]
+angy0308 : suit. 20
+danielo_AA : relance. 40 à 60
+psychoman59 : passe. 
+angy0308 : suit. 40
+*** FLOP *** [8d 9h 2h]
+danielo_AA : mise. 70
+angy0308 : passe. 
+Personne n'a suivi. (70) sont retournés à danielo_AA.
+danielo_AA a remporté 140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [8d 9h 2h]
+Siège 1 : angy0308 (bouton) s'est couché. sur le Flop
+Siège 2 : danielo_AA (petite blind) a remporté (140)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258005899414 : Tournoi #3934193322, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/10/2025 9:55:12 CET [05/10/2025 3:55:12 ET]
+Table '3934193322 1' 3-max Siège #2 est au bouton.
+Place 1: angy0308 (290 en jetons) 
+Place 2: danielo_AA (580 en jetons) 
+Place 3: psychoman59 (630 en jetons) 
+psychoman59 : met la petite blind. 10
+angy0308 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Qc]
+danielo_AA : passe. 
+psychoman59 : suit. 10
+angy0308 : parole 
+*** FLOP *** [4c 6s 2h]
+psychoman59 : parole 
+angy0308 : parole 
+*** TOURNANT *** [4c 6s 2h] [7d]
+psychoman59 : parole 
+angy0308 : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [4c 6s 2h 7d] [Jd]
+psychoman59 : parole 
+angy0308 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [5s Qc] (Hauteur Dame)
+angy0308 : montre [3d 7h] (une paire de Sept)
+angy0308 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [4c 6s 2h 7d Jd]
+Siège 1 : angy0308 (grosse blind) a montré [3d 7h] et a gagné (80) avec une paire de Sept
+Siège 2 : danielo_AA (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [5s Qc] et a perdu avec Hauteur Dame
+
+
+
+Main PokerStars n°258005900866 : Tournoi #3934193322, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 05/10/2025 9:55:35 CET [05/10/2025 3:55:35 ET]
+Table '3934193322 1' 3-max Siège #3 est au bouton.
+Place 1: angy0308 (330 en jetons) 
+Place 2: danielo_AA (580 en jetons) 
+Place 3: psychoman59 (590 en jetons) 
+angy0308 : met la petite blind. 15
+danielo_AA : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 2c]
+psychoman59 : passe. 
+angy0308 : suit. 15
+danielo_AA : parole 
+*** FLOP *** [Kc 8s Tc]
+angy0308 : parole 
+danielo_AA : parole 
+*** TOURNANT *** [Kc 8s Tc] [7d]
+angy0308 : parole 
+danielo_AA : parole 
+*** RIVIÈRE *** [Kc 8s Tc 7d] [9d]
+angy0308 : parole 
+danielo_AA : mise. 60
+angy0308 : passe. 
+Personne n'a suivi. (60) sont retournés à danielo_AA.
+danielo_AA a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Kc 8s Tc 7d 9d]
+Siège 1 : angy0308 (petite blind) s'est couché. sur le Rivière
+Siège 2 : danielo_AA (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°258005902957 : Tournoi #3934193322, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 05/10/2025 9:56:08 CET [05/10/2025 3:56:08 ET]
+Table '3934193322 1' 3-max Siège #1 est au bouton.
+Place 1: angy0308 (300 en jetons) 
+Place 2: danielo_AA (610 en jetons) 
+Place 3: psychoman59 (590 en jetons) 
+danielo_AA : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 2c]
+angy0308 : suit. 30
+danielo_AA : suit. 15
+psychoman59 : parole 
+*** FLOP *** [4s Ks As]
+danielo_AA : parole 
+psychoman59 : parole 
+angy0308 : parole 
+*** TOURNANT *** [4s Ks As] [8d]
+danielo_AA : mise. 45
+psychoman59 : suit. 45
+angy0308 : passe. 
+*** RIVIÈRE *** [4s Ks As 8d] [4h]
+danielo_AA : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+danielo_AA : montre [7h Kd] (double paire, Rois et Quatre)
+psychoman59 : cache la main perdante. 
+danielo_AA a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [4s Ks As 8d 4h]
+Siège 1 : angy0308 (bouton) s'est couché. sur le Tournant
+Siège 2 : danielo_AA (petite blind) a montré [7h Kd] et a gagné (180) avec double paire, Rois et Quatre
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [Qs 2c]
+
+
+
+Main PokerStars n°258005904383 : Tournoi #3934193322, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 05/10/2025 9:56:30 CET [05/10/2025 3:56:30 ET]
+Table '3934193322 1' 3-max Siège #2 est au bouton.
+Place 1: angy0308 (270 en jetons) 
+Place 2: danielo_AA (715 en jetons) 
+Place 3: psychoman59 (515 en jetons) 
+psychoman59 : met la petite blind. 15
+angy0308 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 4d]
+danielo_AA : passe. 
+psychoman59 : suit. 15
+angy0308 : parole 
+*** FLOP *** [Qd 8c Kd]
+psychoman59 : parole 
+angy0308 : parole 
+*** TOURNANT *** [Qd 8c Kd] [4s]
+psychoman59 : mise. 30
+angy0308 : suit. 30
+*** RIVIÈRE *** [Qd 8c Kd 4s] [6s]
+psychoman59 : mise. 60
+angy0308 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Qd 8c Kd 4s 6s]
+Siège 1 : angy0308 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : danielo_AA (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°258005905641 : Tournoi #3934193322, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 05/10/2025 9:56:50 CET [05/10/2025 3:56:50 ET]
+Table '3934193322 1' 3-max Siège #3 est au bouton.
+Place 1: angy0308 (210 en jetons) 
+Place 2: danielo_AA (715 en jetons) 
+Place 3: psychoman59 (575 en jetons) 
+angy0308 : met la petite blind. 15
+danielo_AA : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 6c]
+psychoman59 : suit. 30
+angy0308 : suit. 15
+danielo_AA : parole 
+*** FLOP *** [2h 7h 5h]
+angy0308 : parole 
+danielo_AA : mise. 45
+psychoman59 : passe. 
+angy0308 : passe. 
+Personne n'a suivi. (45) sont retournés à danielo_AA.
+danielo_AA a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [2h 7h 5h]
+Siège 1 : angy0308 (petite blind) s'est couché. sur le Flop
+Siège 2 : danielo_AA (grosse blind) a remporté (90)
+Siège 3 : psychoman59 (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°258005906872 : Tournoi #3934193322, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 05/10/2025 9:57:08 CET [05/10/2025 3:57:08 ET]
+Table '3934193322 1' 3-max Siège #1 est au bouton.
+Place 1: angy0308 (180 en jetons) 
+Place 2: danielo_AA (775 en jetons) 
+Place 3: psychoman59 (545 en jetons) 
+danielo_AA : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Td]
+angy0308 : relance. 150 à 180 et est all-in.
+danielo_AA : suit. 165
+psychoman59 : passe. 
+*** FLOP *** [4c 7d 8s]
+*** TOURNANT *** [4c 7d 8s] [3c]
+*** RIVIÈRE *** [4c 7d 8s 3c] [7s]
+*** ABATTAGE ***
+danielo_AA : montre [Qh Kd] (une paire de Sept)
+angy0308 : montre [Ah As] (double paire, As et Sept)
+angy0308 a remporté 390  lors du pot .
+*** SYNTHÈSE ***
+Pot total 390 | Commission 0 
+Tableau [4c 7d 8s 3c 7s]
+Siège 1 : angy0308 (bouton) a montré [Ah As] et a gagné (390) avec double paire, As et Sept
+Siège 2 : danielo_AA (petite blind) a montré [Qh Kd] et a perdu avec une paire de Sept
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258005907723 : Tournoi #3934193322, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 05/10/2025 9:57:22 CET [05/10/2025 3:57:22 ET]
+Table '3934193322 1' 3-max Siège #2 est au bouton.
+Place 1: angy0308 (390 en jetons) 
+Place 2: danielo_AA (595 en jetons) 
+Place 3: psychoman59 (515 en jetons) 
+psychoman59 : met la petite blind. 15
+angy0308 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 2d]
+danielo_AA : passe. 
+psychoman59 : suit. 15
+angy0308 : parole 
+*** FLOP *** [Ac 3d Tc]
+psychoman59 : mise. 60
+angy0308 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ac 3d Tc]
+Siège 1 : angy0308 (grosse blind) s'est couché. sur le Flop
+Siège 2 : danielo_AA (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°258005908552 : Tournoi #3934193322, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 05/10/2025 9:57:34 CET [05/10/2025 3:57:34 ET]
+Table '3934193322 1' 3-max Siège #3 est au bouton.
+Place 1: angy0308 (360 en jetons) 
+Place 2: danielo_AA (595 en jetons) 
+Place 3: psychoman59 (545 en jetons) 
+angy0308 : met la petite blind. 15
+danielo_AA : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 5h]
+psychoman59 : suit. 30
+angy0308 : suit. 15
+danielo_AA : relance. 60 à 90
+psychoman59 : passe. 
+angy0308 : passe. 
+Personne n'a suivi. (60) sont retournés à danielo_AA.
+danielo_AA a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Siège 1 : angy0308 (petite blind) s'est couché. avant Flop
+Siège 2 : danielo_AA (grosse blind) a remporté (90)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258005909258 : Tournoi #3934193322, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 05/10/2025 9:57:45 CET [05/10/2025 3:57:45 ET]
+Table '3934193322 1' 3-max Siège #1 est au bouton.
+Place 1: angy0308 (330 en jetons) 
+Place 2: danielo_AA (655 en jetons) 
+Place 3: psychoman59 (515 en jetons) 
+danielo_AA : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 2d]
+angy0308 : passe. 
+danielo_AA : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à danielo_AA.
+danielo_AA a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : angy0308 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : danielo_AA (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258005909754 : Tournoi #3934193322, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 05/10/2025 9:57:52 CET [05/10/2025 3:57:52 ET]
+Table '3934193322 1' 3-max Siège #2 est au bouton.
+Place 1: angy0308 (330 en jetons) 
+Place 2: danielo_AA (685 en jetons) 
+Place 3: psychoman59 (485 en jetons) 
+psychoman59 : met la petite blind. 15
+angy0308 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Ts]
+danielo_AA : suit. 30
+psychoman59 : passe. 
+angy0308 : parole 
+*** FLOP *** [Ad Ks 9d]
+angy0308 : parole 
+danielo_AA : mise. 30
+angy0308 : passe. 
+Personne n'a suivi. (30) sont retournés à danielo_AA.
+danielo_AA a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Tableau [Ad Ks 9d]
+Siège 1 : angy0308 (grosse blind) s'est couché. sur le Flop
+Siège 2 : danielo_AA (bouton) a remporté (75)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258005910543 : Tournoi #3934193322, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 05/10/2025 9:58:04 CET [05/10/2025 3:58:04 ET]
+Table '3934193322 1' 3-max Siège #3 est au bouton.
+Place 1: angy0308 (300 en jetons) 
+Place 2: danielo_AA (730 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+angy0308 : met la petite blind. 15
+danielo_AA : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 2d]
+psychoman59 : passe. 
+angy0308 : suit. 15
+danielo_AA : parole 
+*** FLOP *** [7d 2c Ac]
+angy0308 : parole 
+danielo_AA : parole 
+*** TOURNANT *** [7d 2c Ac] [As]
+angy0308 : parole 
+danielo_AA : parole 
+*** RIVIÈRE *** [7d 2c Ac As] [Td]
+angy0308 : parole 
+danielo_AA : mise. 60
+angy0308 : passe. 
+Personne n'a suivi. (60) sont retournés à danielo_AA.
+danielo_AA a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [7d 2c Ac As Td]
+Siège 1 : angy0308 (petite blind) s'est couché. sur le Rivière
+Siège 2 : danielo_AA (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°258005911717 : Tournoi #3934193322, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 05/10/2025 9:58:21 CET [05/10/2025 3:58:21 ET]
+Table '3934193322 1' 3-max Siège #1 est au bouton.
+Place 1: angy0308 (270 en jetons) 
+Place 2: danielo_AA (760 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+danielo_AA : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 6s]
+angy0308 : suit. 30
+danielo_AA : suit. 15
+psychoman59 : relance. 440 à 470 et est all-in.
+angy0308 : suit. 240 et est all-in.
+danielo_AA : passe. 
+Personne n'a suivi. (200) sont retournés à psychoman59.
+*** FLOP *** [2h Th 5c]
+*** TOURNANT *** [2h Th 5c] [2d]
+*** RIVIÈRE *** [2h Th 5c 2d] [7d]
+*** ABATTAGE ***
+psychoman59 : montre [Ah 6s] (une paire de Deux)
+angy0308 : montre [Td Ad] (double paire, Dix et Deux)
+angy0308 a remporté 570  lors du pot .
+*** SYNTHÈSE ***
+Pot total 570 | Commission 0 
+Tableau [2h Th 5c 2d 7d]
+Siège 1 : angy0308 (bouton) a montré [Td Ad] et a gagné (570) avec double paire, Dix et Deux
+Siège 2 : danielo_AA (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [Ah 6s] et a perdu avec une paire de Deux
+
+
+
+Main PokerStars n°258005912987 : Tournoi #3934193322, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 05/10/2025 9:58:39 CET [05/10/2025 3:58:39 ET]
+Table '3934193322 1' 3-max Siège #2 est au bouton.
+Place 1: angy0308 (570 en jetons) 
+Place 2: danielo_AA (730 en jetons) 
+Place 3: psychoman59 (200 en jetons) 
+psychoman59 : met la petite blind. 20
+angy0308 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 2d]
+danielo_AA : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à angy0308.
+angy0308 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : angy0308 (grosse blind) a remporté (40)
+Siège 2 : danielo_AA (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258005913433 : Tournoi #3934193322, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 05/10/2025 9:58:46 CET [05/10/2025 3:58:46 ET]
+Table '3934193322 1' 3-max Siège #3 est au bouton.
+Place 1: angy0308 (590 en jetons) 
+Place 2: danielo_AA (730 en jetons) 
+Place 3: psychoman59 (180 en jetons) 
+angy0308 : met la petite blind. 20
+danielo_AA : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 5d]
+psychoman59 : passe. 
+angy0308 : suit. 20
+danielo_AA : parole 
+*** FLOP *** [9d 4c Ks]
+angy0308 : parole 
+danielo_AA : parole 
+*** TOURNANT *** [9d 4c Ks] [Js]
+angy0308 : parole 
+danielo_AA : parole 
+*** RIVIÈRE *** [9d 4c Ks Js] [Jd]
+angy0308 : parole 
+danielo_AA : mise. 80
+angy0308 : passe. 
+Personne n'a suivi. (80) sont retournés à danielo_AA.
+danielo_AA a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [9d 4c Ks Js Jd]
+Siège 1 : angy0308 (petite blind) s'est couché. sur le Rivière
+Siège 2 : danielo_AA (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°258005914591 : Tournoi #3934193322, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 05/10/2025 9:59:03 CET [05/10/2025 3:59:03 ET]
+Table '3934193322 1' 3-max Siège #1 est au bouton.
+Place 1: angy0308 (550 en jetons) 
+Place 2: danielo_AA (770 en jetons) 
+Place 3: psychoman59 (180 en jetons) 
+danielo_AA : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Td]
+angy0308 : suit. 40
+danielo_AA : passe. 
+psychoman59 : parole 
+*** FLOP *** [8h Ah 5c]
+psychoman59 : parole 
+angy0308 : mise. 120
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à angy0308.
+angy0308 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [8h Ah 5c]
+Siège 1 : angy0308 (bouton) a remporté (100)
+Siège 2 : danielo_AA (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°258005915949 : Tournoi #3934193322, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 05/10/2025 9:59:24 CET [05/10/2025 3:59:24 ET]
+Table '3934193322 1' 3-max Siège #2 est au bouton.
+Place 1: angy0308 (610 en jetons) 
+Place 2: danielo_AA (750 en jetons) 
+Place 3: psychoman59 (140 en jetons) 
+psychoman59 : met la petite blind. 20
+angy0308 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Qh]
+danielo_AA : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à angy0308.
+angy0308 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : angy0308 (grosse blind) a remporté (40)
+Siège 2 : danielo_AA (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258005916345 : Tournoi #3934193322, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 05/10/2025 9:59:29 CET [05/10/2025 3:59:29 ET]
+Table '3934193322 1' 3-max Siège #3 est au bouton.
+Place 1: angy0308 (630 en jetons) 
+Place 2: danielo_AA (750 en jetons) 
+Place 3: psychoman59 (120 en jetons) 
+angy0308 : met la petite blind. 20
+danielo_AA : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 3h]
+psychoman59 : passe. 
+angy0308 : suit. 20
+danielo_AA : parole 
+*** FLOP *** [3d As 5h]
+angy0308 : parole 
+danielo_AA : parole 
+*** TOURNANT *** [3d As 5h] [Ts]
+angy0308 : parole 
+danielo_AA : parole 
+*** RIVIÈRE *** [3d As 5h Ts] [2s]
+angy0308 : mise. 160
+danielo_AA : passe. 
+Personne n'a suivi. (160) sont retournés à angy0308.
+angy0308 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [3d As 5h Ts 2s]
+Siège 1 : angy0308 (petite blind) a remporté (80)
+Siège 2 : danielo_AA (grosse blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°258005917364 : Tournoi #3934193322, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 05/10/2025 9:59:45 CET [05/10/2025 3:59:45 ET]
+Table '3934193322 1' 3-max Siège #1 est au bouton.
+Place 1: angy0308 (670 en jetons) 
+Place 2: danielo_AA (710 en jetons) 
+Place 3: psychoman59 (120 en jetons) 
+danielo_AA : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 7h]
+angy0308 : passe. 
+danielo_AA : relance. 40 à 80
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à danielo_AA.
+danielo_AA a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : angy0308 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : danielo_AA (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258005917972 : Tournoi #3934193322, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 05/10/2025 9:59:54 CET [05/10/2025 3:59:54 ET]
+Table '3934193322 1' 3-max Siège #2 est au bouton.
+Place 1: angy0308 (670 en jetons) 
+Place 2: danielo_AA (750 en jetons) 
+Place 3: psychoman59 (80 en jetons) 
+psychoman59 : met la petite blind. 20
+angy0308 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 3c]
+danielo_AA : passe. 
+psychoman59 : relance. 40 à 80 et est all-in.
+angy0308 : suit. 40
+*** FLOP *** [Th 5h 2s]
+*** TOURNANT *** [Th 5h 2s] [Ad]
+*** RIVIÈRE *** [Th 5h 2s Ad] [Qc]
+*** ABATTAGE ***
+psychoman59 : montre [3h 3c] (une paire de Trois)
+angy0308 : montre [6h 8s] (Hauteur As)
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Th 5h 2s Ad Qc]
+Siège 1 : angy0308 (grosse blind) a montré [6h 8s] et a perdu avec Hauteur As
+Siège 2 : danielo_AA (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [3h 3c] et a gagné (160) avec une paire de Trois
+
+
+
+Main PokerStars n°258005918855 : Tournoi #3934193322, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 05/10/2025 10:00:07 CET [05/10/2025 4:00:07 ET]
+Table '3934193322 1' 3-max Siège #3 est au bouton.
+Place 1: angy0308 (590 en jetons) 
+Place 2: danielo_AA (750 en jetons) 
+Place 3: psychoman59 (160 en jetons) 
+angy0308 : met la petite blind. 20
+danielo_AA : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 3d]
+psychoman59 : passe. 
+angy0308 : suit. 20
+danielo_AA : parole 
+*** FLOP *** [2h 3h Ad]
+angy0308 : parole 
+danielo_AA : mise. 40
+angy0308 : passe. 
+Personne n'a suivi. (40) sont retournés à danielo_AA.
+danielo_AA a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [2h 3h Ad]
+Siège 1 : angy0308 (petite blind) s'est couché. sur le Flop
+Siège 2 : danielo_AA (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°258005919636 : Tournoi #3934193322, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 05/10/2025 10:00:19 CET [05/10/2025 4:00:19 ET]
+Table '3934193322 1' 3-max Siège #1 est au bouton.
+Place 1: angy0308 (550 en jetons) 
+Place 2: danielo_AA (790 en jetons) 
+Place 3: psychoman59 (160 en jetons) 
+danielo_AA : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 3s]
+angy0308 : passe. 
+danielo_AA : relance. 40 à 80
+psychoman59 : relance. 80 à 160 et est all-in.
+danielo_AA : suit. 80
+*** FLOP *** [7s 5h Ad]
+*** TOURNANT *** [7s 5h Ad] [5c]
+*** RIVIÈRE *** [7s 5h Ad 5c] [6d]
+*** ABATTAGE ***
+danielo_AA : montre [Qs Td] (une paire de Cinq)
+psychoman59 : montre [Js 3s] (une paire de Cinq - plus basse kicker)
+danielo_AA a remporté 320  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [7s 5h Ad 5c 6d]
+Siège 1 : angy0308 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : danielo_AA (petite blind) a montré [Qs Td] et a gagné (320) avec une paire de Cinq
+Siège 3 : psychoman59 (grosse blind) a montré [Js 3s] et a perdu avec une paire de Cinq
+
+
+

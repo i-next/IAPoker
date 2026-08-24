@@ -1,0 +1,263 @@
+﻿Main PokerStars n°244209864260 : Tournoi #3603053747, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/06/2023 10:28:48 CET [11/06/2023 4:28:48 ET]
+Table '3603053747 1' 3-max Siège #1 est au bouton.
+Place 1: leo felicidad (300 en jetons) 
+Place 2: remi62300 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+remi62300 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 2h]
+leo felicidad : passe. 
+remi62300 : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : leo felicidad (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : remi62300 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°244209864781 : Tournoi #3603053747, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/06/2023 10:28:52 CET [11/06/2023 4:28:52 ET]
+Table '3603053747 1' 3-max Siège #2 est au bouton.
+Place 1: leo felicidad (300 en jetons) 
+Place 2: remi62300 (290 en jetons) 
+Place 3: psychoman59 (310 en jetons) 
+psychoman59 : met la petite blind. 10
+leo felicidad : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Ks]
+remi62300 : passe. 
+psychoman59 : suit. 10
+leo felicidad : parole 
+*** FLOP *** [8s Qd 4c]
+psychoman59 : parole 
+leo felicidad : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à leo felicidad.
+leo felicidad a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [8s Qd 4c]
+Siège 1 : leo felicidad (grosse blind) a remporté (40)
+Siège 2 : remi62300 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°244209866643 : Tournoi #3603053747, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/06/2023 10:29:08 CET [11/06/2023 4:29:08 ET]
+Table '3603053747 1' 3-max Siège #3 est au bouton.
+Place 1: leo felicidad (320 en jetons) 
+Place 2: remi62300 (290 en jetons) 
+Place 3: psychoman59 (290 en jetons) 
+leo felicidad : met la petite blind. 10
+remi62300 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 2c]
+psychoman59 : passe. 
+leo felicidad : relance. 60 à 80
+remi62300 : relance. 210 à 290 et est all-in.
+leo felicidad : suit. 210
+*** FLOP *** [4s Tc 9c]
+*** TOURNANT *** [4s Tc 9c] [6d]
+*** RIVIÈRE *** [4s Tc 9c 6d] [Ah]
+*** ABATTAGE ***
+leo felicidad : montre [Qc Kc] (Hauteur As)
+remi62300 : montre [3c 3h] (une paire de Trois)
+remi62300 a remporté 580  lors du pot .
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [4s Tc 9c 6d Ah]
+Siège 1 : leo felicidad (petite blind) a montré [Qc Kc] et a perdu avec Hauteur As
+Siège 2 : remi62300 (grosse blind) a montré [3c 3h] et a gagné (580) avec une paire de Trois
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°244209869087 : Tournoi #3603053747, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/06/2023 10:29:29 CET [11/06/2023 4:29:29 ET]
+Table '3603053747 1' 3-max Siège #1 est au bouton.
+Place 1: leo felicidad (30 en jetons) 
+Place 2: remi62300 (580 en jetons) 
+Place 3: psychoman59 (290 en jetons) 
+remi62300 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 8h]
+leo felicidad : relance. 10 à 30 et est all-in.
+remi62300 : suit. 20
+psychoman59 : suit. 10
+*** FLOP *** [6h Ah 9d]
+remi62300 : parole 
+psychoman59 : mise. 90
+remi62300 : passe. 
+Personne n'a suivi. (90) sont retournés à psychoman59.
+*** TOURNANT *** [6h Ah 9d] [Jh]
+*** RIVIÈRE *** [6h Ah 9d Jh] [Ts]
+*** ABATTAGE ***
+psychoman59 : montre [9c 8h] (une paire de Neuf)
+leo felicidad : montre [As 9s] (double paire, As et Neuf)
+leo felicidad a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [6h Ah 9d Jh Ts]
+Siège 1 : leo felicidad (bouton) a montré [As 9s] et a gagné (90) avec double paire, As et Neuf
+Siège 2 : remi62300 (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a montré [9c 8h] et a perdu avec une paire de Neuf
+
+
+
+Main PokerStars n°244209871391 : Tournoi #3603053747, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/06/2023 10:29:49 CET [11/06/2023 4:29:49 ET]
+Table '3603053747 1' 3-max Siège #2 est au bouton.
+Place 1: leo felicidad (90 en jetons) 
+Place 2: remi62300 (550 en jetons) 
+Place 3: psychoman59 (260 en jetons) 
+psychoman59 : met la petite blind. 10
+leo felicidad : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 3s]
+remi62300 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à leo felicidad.
+leo felicidad a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : leo felicidad (grosse blind) a remporté (20)
+Siège 2 : remi62300 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244209872434 : Tournoi #3603053747, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/06/2023 10:29:57 CET [11/06/2023 4:29:57 ET]
+Table '3603053747 1' 3-max Siège #3 est au bouton.
+Place 1: leo felicidad (100 en jetons) 
+Place 2: remi62300 (550 en jetons) 
+Place 3: psychoman59 (250 en jetons) 
+leo felicidad : met la petite blind. 15
+remi62300 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 7d]
+psychoman59 : passe. 
+leo felicidad : relance. 30 à 60
+remi62300 : passe. 
+Personne n'a suivi. (30) sont retournés à leo felicidad.
+leo felicidad a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : leo felicidad (petite blind) a remporté (60)
+Siège 2 : remi62300 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°244209873756 : Tournoi #3603053747, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/06/2023 10:30:08 CET [11/06/2023 4:30:08 ET]
+Table '3603053747 1' 3-max Siège #1 est au bouton.
+Place 1: leo felicidad (130 en jetons) 
+Place 2: remi62300 (520 en jetons) 
+Place 3: psychoman59 (250 en jetons) 
+remi62300 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 2s]
+leo felicidad : relance. 30 à 60
+remi62300 : suit. 45
+psychoman59 : passe. 
+*** FLOP *** [Qc 6c 2c]
+remi62300 : parole 
+leo felicidad : mise. 70 et est all-in.
+remi62300 : passe. 
+Personne n'a suivi. (70) sont retournés à leo felicidad.
+leo felicidad a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Tableau [Qc 6c 2c]
+Siège 1 : leo felicidad (bouton) a remporté (150)
+Siège 2 : remi62300 (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244209876036 : Tournoi #3603053747, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/06/2023 10:30:27 CET [11/06/2023 4:30:27 ET]
+Table '3603053747 1' 3-max Siège #2 est au bouton.
+Place 1: leo felicidad (220 en jetons) 
+Place 2: remi62300 (460 en jetons) 
+Place 3: psychoman59 (220 en jetons) 
+psychoman59 : met la petite blind. 15
+leo felicidad : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 9d]
+remi62300 : passe. 
+psychoman59 : relance. 60 à 90
+leo felicidad : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : leo felicidad (grosse blind) s'est couché. avant Flop
+Siège 2 : remi62300 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°244209877205 : Tournoi #3603053747, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/06/2023 10:30:37 CET [11/06/2023 4:30:37 ET]
+Table '3603053747 1' 3-max Siège #3 est au bouton.
+Place 1: leo felicidad (190 en jetons) 
+Place 2: remi62300 (460 en jetons) 
+Place 3: psychoman59 (250 en jetons) 
+leo felicidad : met la petite blind. 15
+remi62300 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 7c]
+psychoman59 : passe. 
+leo felicidad : relance. 60 à 90
+remi62300 : relance. 370 à 460 et est all-in.
+leo felicidad : suit. 100 et est all-in.
+Personne n'a suivi. (270) sont retournés à remi62300.
+*** FLOP *** [3s 4s Qd]
+*** TOURNANT *** [3s 4s Qd] [4h]
+*** RIVIÈRE *** [3s 4s Qd 4h] [7d]
+*** ABATTAGE ***
+leo felicidad : montre [Qh Td] (double paire, Dames et Quatre)
+remi62300 : montre [Ac Kd] (une paire de Quatre)
+leo felicidad a remporté 380  lors du pot .
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Tableau [3s 4s Qd 4h 7d]
+Siège 1 : leo felicidad (petite blind) a montré [Qh Td] et a gagné (380) avec double paire, Dames et Quatre
+Siège 2 : remi62300 (grosse blind) a montré [Ac Kd] et a perdu avec une paire de Quatre
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°244209879584 : Tournoi #3603053747, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/06/2023 10:30:57 CET [11/06/2023 4:30:57 ET]
+Table '3603053747 1' 3-max Siège #1 est au bouton.
+Place 1: leo felicidad (380 en jetons) 
+Place 2: remi62300 (270 en jetons) 
+Place 3: psychoman59 (250 en jetons) 
+remi62300 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 2h]
+leo felicidad : passe. 
+remi62300 : relance. 230 à 270 et est all-in.
+psychoman59 : suit. 210 et est all-in.
+Personne n'a suivi. (20) sont retournés à remi62300.
+*** FLOP *** [Kh 4d Tc]
+*** TOURNANT *** [Kh 4d Tc] [Th]
+*** RIVIÈRE *** [Kh 4d Tc Th] [7c]
+*** ABATTAGE ***
+remi62300 : montre [Qc Qd] (double paire, Dames et Dix)
+psychoman59 : montre [Ad 2h] (une paire de Dix)
+remi62300 a remporté 500  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Tableau [Kh 4d Tc Th 7c]
+Siège 1 : leo felicidad (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : remi62300 (petite blind) a montré [Qc Qd] et a gagné (500) avec double paire, Dames et Dix
+Siège 3 : psychoman59 (grosse blind) a montré [Ad 2h] et a perdu avec une paire de Dix
+
+
+

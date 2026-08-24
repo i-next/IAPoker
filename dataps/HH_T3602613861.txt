@@ -1,0 +1,296 @@
+﻿Main PokerStars n°244191573132 : Tournoi #3602613861, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/06/2023 8:57:24 CET [10/06/2023 2:57:24 ET]
+Table '3602613861 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: jerikho (300 en jetons) 
+Place 3: arns68 (300 en jetons) 
+jerikho : met la petite blind. 10
+arns68 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 9d]
+psychoman59 : relance. 280 à 300 et est all-in.
+jerikho : passe. 
+arns68 : passe. 
+Personne n'a suivi. (280) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : psychoman59 (bouton) a remporté (50)
+Siège 2 : jerikho (petite blind) s'est couché. avant Flop
+Siège 3 : arns68 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244191574808 : Tournoi #3602613861, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/06/2023 8:57:40 CET [10/06/2023 2:57:40 ET]
+Table '3602613861 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (330 en jetons) 
+Place 2: jerikho (290 en jetons) 
+Place 3: arns68 (280 en jetons) 
+arns68 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 7h]
+jerikho : passe. 
+arns68 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [6d 2d Qd]
+arns68 : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [6d 2d Qd] [5s]
+arns68 : parole 
+psychoman59 : mise. 60
+arns68 : suit. 60
+*** RIVIÈRE *** [6d 2d Qd 5s] [6s]
+arns68 : mise. 160 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (160) sont retournés à arns68.
+arns68 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [6d 2d Qd 5s 6s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : jerikho (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : arns68 (petite blind) a remporté (240)
+
+
+
+Main PokerStars n°244191579921 : Tournoi #3602613861, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/06/2023 8:58:30 CET [10/06/2023 2:58:30 ET]
+Table '3602613861 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (210 en jetons) 
+Place 2: jerikho (290 en jetons) 
+Place 3: arns68 (400 en jetons) 
+psychoman59 : met la petite blind. 15
+jerikho : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 5h]
+arns68 : passe. 
+psychoman59 : relance. 180 à 210 et est all-in.
+jerikho : suit. 180
+*** FLOP *** [8s 3h Kh]
+*** TOURNANT *** [8s 3h Kh] [4d]
+*** RIVIÈRE *** [8s 3h Kh 4d] [9h]
+*** ABATTAGE ***
+psychoman59 : montre [5c 5h] (une paire de Cinq)
+jerikho : montre [As 4c] (une paire de Quatre)
+psychoman59 a remporté 420  lors du pot .
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [8s 3h Kh 4d 9h]
+Siège 1 : psychoman59 (petite blind) a montré [5c 5h] et a gagné (420) avec une paire de Cinq
+Siège 2 : jerikho (grosse blind) a montré [As 4c] et a perdu avec une paire de Quatre
+Siège 3 : arns68 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°244191581778 : Tournoi #3602613861, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/06/2023 8:58:47 CET [10/06/2023 2:58:47 ET]
+Table '3602613861 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (420 en jetons) 
+Place 2: jerikho (80 en jetons) 
+Place 3: arns68 (400 en jetons) 
+jerikho : met la petite blind. 15
+arns68 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Ac]
+psychoman59 : relance. 30 à 60
+jerikho : relance. 20 à 80 et est all-in.
+arns68 : suit. 50
+psychoman59 : suit. 20
+*** FLOP *** [Ad 2c 7d]
+arns68 : parole 
+psychoman59 : mise. 30
+arns68 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+*** TOURNANT *** [Ad 2c 7d] [Js]
+*** RIVIÈRE *** [Ad 2c 7d Js] [3c]
+*** ABATTAGE ***
+jerikho : montre [Tc 8h] (Hauteur As)
+psychoman59 : montre [2s Ac] (double paire, As et Deux)
+psychoman59 a remporté 240  lors du pot .
+jerikho a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Ad 2c 7d Js 3c]
+Siège 1 : psychoman59 (bouton) a montré [2s Ac] et a gagné (240) avec double paire, As et Deux
+Siège 2 : jerikho (petite blind) a montré [Tc 8h] et a perdu avec Hauteur As
+Siège 3 : arns68 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°244191584491 : Tournoi #3602613861, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/06/2023 8:59:13 CET [10/06/2023 2:59:13 ET]
+Table '3602613861 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (580 en jetons) 
+Place 3: arns68 (320 en jetons) 
+arns68 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 3c]
+arns68 : relance. 290 à 320 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (290) sont retournés à arns68.
+arns68 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : arns68 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°244191585172 : Tournoi #3602613861, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/06/2023 8:59:20 CET [10/06/2023 2:59:20 ET]
+Table '3602613861 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (550 en jetons) 
+Place 3: arns68 (350 en jetons) 
+psychoman59 : met la petite blind. 15
+arns68 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Ks]
+psychoman59 : suit. 15
+arns68 : parole 
+*** FLOP *** [Ac 9h 3h]
+arns68 : parole 
+psychoman59 : mise. 60
+arns68 : suit. 60
+*** TOURNANT *** [Ac 9h 3h] [3c]
+arns68 : parole 
+psychoman59 : mise. 90
+arns68 : passe. 
+Personne n'a suivi. (90) sont retournés à psychoman59.
+psychoman59 a remporté 180  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Ac 9h 3h 3c]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (180)
+Siège 3 : arns68 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°244191587961 : Tournoi #3602613861, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/06/2023 8:59:46 CET [10/06/2023 2:59:46 ET]
+Table '3602613861 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (640 en jetons) 
+Place 3: arns68 (260 en jetons) 
+arns68 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Ad]
+arns68 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : arns68 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244191588414 : Tournoi #3602613861, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/06/2023 8:59:51 CET [10/06/2023 2:59:51 ET]
+Table '3602613861 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (660 en jetons) 
+Place 3: arns68 (240 en jetons) 
+psychoman59 : met la petite blind. 20
+arns68 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Qd]
+psychoman59 : suit. 20
+arns68 : parole 
+*** FLOP *** [5h Ad Qh]
+arns68 : parole 
+psychoman59 : mise. 40
+arns68 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [5h Ad Qh]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 3 : arns68 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°244191589653 : Tournoi #3602613861, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/06/2023 9:00:02 CET [10/06/2023 3:00:02 ET]
+Table '3602613861 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (700 en jetons) 
+Place 3: arns68 (200 en jetons) 
+arns68 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 2s]
+arns68 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [8h Jc 5s]
+psychoman59 : parole 
+arns68 : parole 
+*** TOURNANT *** [8h Jc 5s] [Th]
+psychoman59 : parole 
+arns68 : parole 
+*** RIVIÈRE *** [8h Jc 5s Th] [Qs]
+psychoman59 : parole 
+arns68 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à arns68.
+arns68 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [8h Jc 5s Th Qs]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : arns68 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°244191592132 : Tournoi #3602613861, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/06/2023 9:00:25 CET [10/06/2023 3:00:25 ET]
+Table '3602613861 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (660 en jetons) 
+Place 3: arns68 (240 en jetons) 
+psychoman59 : met la petite blind. 20
+arns68 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 7d]
+psychoman59 : suit. 20
+arns68 : parole 
+*** FLOP *** [3s 2d 9d]
+arns68 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3s 2d 9d] [5c]
+arns68 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [3s 2d 9d 5c] [Ks]
+arns68 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à arns68.
+arns68 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [3s 2d 9d 5c Ks]
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 3 : arns68 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°244191594293 : Tournoi #3602613861, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 10/06/2023 9:00:44 CET [10/06/2023 3:00:44 ET]
+Table '3602613861 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (620 en jetons) 
+Place 3: arns68 (280 en jetons) 
+arns68 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Kd]
+arns68 : relance. 220 à 280 et est all-in.
+psychoman59 : suit. 220
+*** FLOP *** [Th Jc 8h]
+*** TOURNANT *** [Th Jc 8h] [Kc]
+*** RIVIÈRE *** [Th Jc 8h Kc] [6s]
+*** ABATTAGE ***
+psychoman59 : montre [Js Kd] (double paire, Rois et Valets)
+arns68 : montre [7h Ah] (Hauteur As)
+psychoman59 a remporté 560  lors du pot .
+arns68 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [Th Jc 8h Kc 6s]
+Siège 1 : psychoman59 (grosse blind) a montré [Js Kd] et a gagné (560) avec double paire, Rois et Valets
+Siège 3 : arns68 (bouton) (petite blind) a montré [7h Ah] et a perdu avec Hauteur As
+
+
+

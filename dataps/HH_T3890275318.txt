@@ -1,0 +1,1453 @@
+﻿Main PokerStars n°256219728652 : Tournoi #3890275318, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau II (100/200) - 20/05/2025 10:08:35 CET [20/05/2025 4:08:35 ET]
+Table '3890275318 5' 8-max Siège #7 est au bouton.
+Place 1: psychoman59 (10000 en jetons) 
+Place 3: Unaiaz07 (9970 en jetons) 
+Place 4: juancj99 (9415 en jetons) 
+Place 5: manag0d (11065 en jetons) 
+Place 6: x_MaRLaCa_x (12240 en jetons) 
+Place 7: Polandrus (11354 en jetons) 
+Place 8: ramirez818 (7430 en jetons) 
+psychoman59 : met l'ante. 20
+Unaiaz07 : met l'ante. 20
+juancj99 : met l'ante. 20
+manag0d : met l'ante. 20
+x_MaRLaCa_x : met l'ante. 20
+Polandrus : met l'ante. 20
+ramirez818 : met l'ante. 20
+ramirez818 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 4h]
+Unaiaz07 : passe. 
+juancj99 : passe. 
+manag0d : passe. 
+x_MaRLaCa_x : relance. 200 à 400
+Polandrus : passe. 
+ramirez818 : suit. 300
+psychoman59 : passe. 
+*** FLOP *** [Jc 4d Qd]
+ramirez818 : parole 
+x_MaRLaCa_x : mise. 787
+ramirez818 : suit. 787
+*** TOURNANT *** [Jc 4d Qd] [2h]
+ramirez818 : parole 
+x_MaRLaCa_x : mise. 1466
+ramirez818 : suit. 1466
+*** RIVIÈRE *** [Jc 4d Qd 2h] [5d]
+ramirez818 : parole 
+x_MaRLaCa_x : parole 
+*** ABATTAGE ***
+ramirez818 : montre [Ah 5c] (une paire de Cinq)
+x_MaRLaCa_x : montre [9s Qh] (une paire de Dames)
+x_MaRLaCa_x a remporté 5646  lors du pot .
+*** SYNTHÈSE ***
+Pot total 5646 | Commission 0 
+Tableau [Jc 4d Qd 2h 5d]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : Unaiaz07 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : juancj99 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : manag0d s'est couché. avant Flop (n'a pas misé)
+Siège 6 : x_MaRLaCa_x a montré [9s Qh] et a gagné (5646) avec une paire de Dames
+Siège 7 : Polandrus (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 8 : ramirez818 (petite blind) a montré [Ah 5c] et a perdu avec une paire de Cinq
+
+
+
+Main PokerStars n°256219732197 : Tournoi #3890275318, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau II (100/200) - 20/05/2025 10:09:23 CET [20/05/2025 4:09:23 ET]
+Table '3890275318 5' 8-max Siège #8 est au bouton.
+Place 1: psychoman59 (9780 en jetons) 
+Place 3: Unaiaz07 (9950 en jetons) 
+Place 4: juancj99 (9395 en jetons) 
+Place 5: manag0d (11045 en jetons) 
+Place 6: x_MaRLaCa_x (15213 en jetons) 
+Place 7: Polandrus (11334 en jetons) 
+Place 8: ramirez818 (4757 en jetons) 
+psychoman59 : met l'ante. 20
+Unaiaz07 : met l'ante. 20
+juancj99 : met l'ante. 20
+manag0d : met l'ante. 20
+x_MaRLaCa_x : met l'ante. 20
+Polandrus : met l'ante. 20
+ramirez818 : met l'ante. 20
+psychoman59 : met la petite blind. 100
+Unaiaz07 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 9c]
+juancj99 : passe. 
+manag0d : passe. 
+x_MaRLaCa_x : passe. 
+Polandrus : passe. 
+ramirez818 : suit. 200
+psychoman59 : suit. 100
+Unaiaz07 : parole 
+*** FLOP *** [5s Tc Th]
+psychoman59 : parole 
+Unaiaz07 : parole 
+ramirez818 : parole 
+*** TOURNANT *** [5s Tc Th] [7c]
+psychoman59 : parole 
+Unaiaz07 : mise. 555
+ramirez818 : suit. 555
+psychoman59 : suit. 555
+*** RIVIÈRE *** [5s Tc Th 7c] [Kd]
+psychoman59 : parole 
+Unaiaz07 : mise. 2800
+ramirez818 : suit. 2800
+psychoman59 : passe. 
+*** ABATTAGE ***
+Unaiaz07 : montre [Kc Ts] (un full, full aux Dix par les Rois)
+ramirez818 : cache la main perdante. 
+Unaiaz07 a remporté 8005  lors du pot .
+*** SYNTHÈSE ***
+Pot total 8005 | Commission 0 
+Tableau [5s Tc Th 7c Kd]
+Siège 1 : psychoman59 (petite blind) s'est couché. sur le Rivière
+Siège 3 : Unaiaz07 (grosse blind) a montré [Kc Ts] et a gagné (8005) avec un full, full aux Dix par les Rois
+Siège 4 : juancj99 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : manag0d s'est couché. avant Flop (n'a pas misé)
+Siège 6 : x_MaRLaCa_x s'est couché. avant Flop (n'a pas misé)
+Siège 7 : Polandrus s'est couché. avant Flop (n'a pas misé)
+Siège 8 : ramirez818 (bouton) a caché la main perdante. [4s Ks]
+
+
+
+Main PokerStars n°256219736691 : Tournoi #3890275318, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau II (100/200) - 20/05/2025 10:10:24 CET [20/05/2025 4:10:24 ET]
+Table '3890275318 5' 8-max Siège #1 est au bouton.
+Place 1: psychoman59 (9005 en jetons) 
+Place 3: Unaiaz07 (14380 en jetons) 
+Place 4: juancj99 (9375 en jetons) 
+Place 5: manag0d (11025 en jetons) 
+Place 6: x_MaRLaCa_x (15193 en jetons) 
+Place 7: Polandrus (11314 en jetons) 
+Place 8: ramirez818 (1182 en jetons) 
+psychoman59 : met l'ante. 20
+Unaiaz07 : met l'ante. 20
+juancj99 : met l'ante. 20
+manag0d : met l'ante. 20
+x_MaRLaCa_x : met l'ante. 20
+Polandrus : met l'ante. 20
+ramirez818 : met l'ante. 20
+Unaiaz07 : met la petite blind. 100
+juancj99 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Th]
+manag0d : passe. 
+x_MaRLaCa_x : relance. 200 à 400
+Polandrus : passe. 
+ramirez818 : suit. 400
+psychoman59 : suit. 400
+Unaiaz07 : passe. 
+juancj99 : suit. 200
+*** FLOP *** [2c Jh Jd]
+juancj99 : mise. 400
+x_MaRLaCa_x : passe. 
+ramirez818 : suit. 400
+psychoman59 : passe. 
+*** TOURNANT *** [2c Jh Jd] [Kh]
+juancj99 : mise. 400
+shapiens est déconnecté 
+ramirez818 : suit. 362 et est all-in.
+Personne n'a suivi. (38) sont retournés à juancj99.
+*** RIVIÈRE *** [2c Jh Jd Kh] [Tc]
+*** ABATTAGE ***
+juancj99 : montre [3d 9d] (une paire de Valets)
+ramirez818 : montre [7s Kc] (double paire, Rois et Valets)
+ramirez818 a remporté 3364  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3364 | Commission 0 
+Tableau [2c Jh Jd Kh Tc]
+Siège 1 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 3 : Unaiaz07 (petite blind) s'est couché. avant Flop
+Siège 4 : juancj99 (grosse blind) a montré [3d 9d] et a perdu avec une paire de Valets
+Siège 5 : manag0d s'est couché. avant Flop (n'a pas misé)
+Siège 6 : x_MaRLaCa_x s'est couché. sur le Flop
+Siège 7 : Polandrus s'est couché. avant Flop (n'a pas misé)
+Siège 8 : ramirez818 a montré [7s Kc] et a gagné (3364) avec double paire, Rois et Valets
+
+
+
+Main PokerStars n°256219740465 : Tournoi #3890275318, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau III (150/300) - 20/05/2025 10:11:15 CET [20/05/2025 4:11:15 ET]
+Table '3890275318 5' 8-max Siège #3 est au bouton.
+Place 1: psychoman59 (8585 en jetons) 
+Place 2: shapiens (10000 en jetons) 
+Place 3: Unaiaz07 (14260 en jetons) 
+Place 4: juancj99 (8193 en jetons) 
+Place 5: manag0d (11005 en jetons) 
+Place 6: x_MaRLaCa_x (14773 en jetons) 
+Place 7: Polandrus (11294 en jetons) 
+Place 8: ramirez818 (3364 en jetons) 
+psychoman59 : met l'ante. 30
+shapiens : met l'ante. 30
+Unaiaz07 : met l'ante. 30
+juancj99 : met l'ante. 30
+manag0d : met l'ante. 30
+x_MaRLaCa_x : met l'ante. 30
+Polandrus : met l'ante. 30
+ramirez818 : met l'ante. 30
+juancj99 : met la petite blind. 150
+manag0d : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 9d]
+x_MaRLaCa_x : passe. 
+Polandrus : passe. 
+ramirez818 : passe. 
+psychoman59 : passe. 
+shapiens : passe. 
+Unaiaz07 : relance. 300 à 600
+juancj99 : suit. 450
+manag0d : suit. 300
+*** FLOP *** [2s Kh 4c]
+juancj99 : mise. 600
+manag0d : passe. 
+Unaiaz07 : suit. 600
+*** TOURNANT *** [2s Kh 4c] [6d]
+juancj99 : mise. 6963 et est all-in.
+Unaiaz07 : passe. 
+Personne n'a suivi. (6963) sont retournés à juancj99.
+juancj99 a remporté 3240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3240 | Commission 0 
+Tableau [2s Kh 4c 6d]
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : shapiens s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Unaiaz07 (bouton) s'est couché. sur le Tournant
+Siège 4 : juancj99 (petite blind) a remporté (3240)
+Siège 5 : manag0d (grosse blind) s'est couché. sur le Flop
+Siège 6 : x_MaRLaCa_x s'est couché. avant Flop (n'a pas misé)
+Siège 7 : Polandrus s'est couché. avant Flop (n'a pas misé)
+Siège 8 : ramirez818 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°256219744220 : Tournoi #3890275318, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau III (150/300) - 20/05/2025 10:12:06 CET [20/05/2025 4:12:06 ET]
+Table '3890275318 5' 8-max Siège #4 est au bouton.
+Place 1: psychoman59 (8555 en jetons) 
+Place 2: shapiens (9970 en jetons) 
+Place 3: Unaiaz07 (13030 en jetons) 
+Place 4: juancj99 (10203 en jetons) 
+Place 5: manag0d (10375 en jetons) 
+Place 6: x_MaRLaCa_x (14743 en jetons) 
+Place 7: Polandrus (11264 en jetons) 
+Place 8: ramirez818 (3334 en jetons) 
+psychoman59 : met l'ante. 30
+shapiens : met l'ante. 30
+Unaiaz07 : met l'ante. 30
+juancj99 : met l'ante. 30
+manag0d : met l'ante. 30
+x_MaRLaCa_x : met l'ante. 30
+Polandrus : met l'ante. 30
+ramirez818 : met l'ante. 30
+manag0d : met la petite blind. 150
+x_MaRLaCa_x : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 2c]
+Polandrus : relance. 300 à 600
+ramirez818 : passe. 
+psychoman59 : passe. 
+shapiens : passe. 
+Unaiaz07 : passe. 
+juancj99 : passe. 
+manag0d : passe. 
+x_MaRLaCa_x : suit. 300
+*** FLOP *** [Kd Ts 7d]
+x_MaRLaCa_x : parole 
+Polandrus : mise. 525
+x_MaRLaCa_x : relance. 975 à 1500
+Polandrus : suit. 975
+*** TOURNANT *** [Kd Ts 7d] [9c]
+x_MaRLaCa_x : parole 
+Polandrus : parole 
+*** RIVIÈRE *** [Kd Ts 7d 9c] [2s]
+x_MaRLaCa_x : parole 
+Polandrus : parole 
+*** ABATTAGE ***
+x_MaRLaCa_x : montre [Jc 9h] (une paire de Neuf)
+Polandrus : cache la main perdante. 
+x_MaRLaCa_x a remporté 4590  lors du pot .
+*** SYNTHÈSE ***
+Pot total 4590 | Commission 0 
+Tableau [Kd Ts 7d 9c 2s]
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : shapiens s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Unaiaz07 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : juancj99 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 5 : manag0d (petite blind) s'est couché. avant Flop
+Siège 6 : x_MaRLaCa_x (grosse blind) a montré [Jc 9h] et a gagné (4590) avec une paire de Neuf
+Siège 7 : Polandrus a caché la main perdante. [Ad Qc]
+Siège 8 : ramirez818 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°256219751173 : Tournoi #3890275318, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau III (150/300) - 20/05/2025 10:13:41 CET [20/05/2025 4:13:41 ET]
+Table '3890275318 5' 8-max Siège #5 est au bouton.
+Place 1: psychoman59 (8525 en jetons) 
+Place 2: shapiens (9940 en jetons) 
+Place 3: Unaiaz07 (13000 en jetons) 
+Place 4: juancj99 (10173 en jetons) 
+Place 5: manag0d (10195 en jetons) 
+Place 6: x_MaRLaCa_x (17203 en jetons) 
+Place 8: ramirez818 (3304 en jetons) 
+psychoman59 : met l'ante. 30
+shapiens : met l'ante. 30
+Unaiaz07 : met l'ante. 30
+juancj99 : met l'ante. 30
+manag0d : met l'ante. 30
+x_MaRLaCa_x : met l'ante. 30
+ramirez818 : met l'ante. 30
+x_MaRLaCa_x : met la petite blind. 150
+ramirez818 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 9d]
+psychoman59 : passe. 
+shapiens : passe. 
+Unaiaz07 : passe. 
+juancj99 : passe. 
+manag0d : relance. 300 à 600
+x_MaRLaCa_x : relance. 900 à 1500
+ramirez818 : suit. 1200
+manag0d : suit. 900
+*** FLOP *** [9h As 4c]
+x_MaRLaCa_x : parole 
+ramirez818 : parole 
+manag0d : mise. 1200
+x_MaRLaCa_x : suit. 1200
+ramirez818 : suit. 1200
+*** TOURNANT *** [9h As 4c] [Qh]
+x_MaRLaCa_x : parole 
+ramirez818 : parole 
+manag0d : mise. 1200
+x_MaRLaCa_x : relance. 1650 à 2850
+ramirez818 : suit. 574 et est all-in.
+manag0d : suit. 1650
+*** RIVIÈRE *** [9h As 4c Qh] [Th]
+x_MaRLaCa_x : mise. 11623 et est all-in.
+manag0d : suit. 4615 et est all-in.
+Personne n'a suivi. (7008) sont retournés à x_MaRLaCa_x.
+*** ABATTAGE ***
+x_MaRLaCa_x : montre [4s 4d] (un brelan de Quatre)
+manag0d : montre [Ad 2s] (une paire de As)
+x_MaRLaCa_x a remporté 13782  parallèle lors du pot .
+ramirez818 : montre [7s Jh] (Hauteur As)
+x_MaRLaCa_x a remporté 10032  principal lors du pot .
+manag0d a terminé le tournoi
+ramirez818 a terminé le tournoi
+*** SYNTHÈSE ***
+Pot total 23814 Principal pot 10032. Parallèle pot 13782. | Commission 0 
+Tableau [9h As 4c Qh Th]
+Siège 1 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : shapiens s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Unaiaz07 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : juancj99 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : manag0d (bouton) a montré [Ad 2s] et a perdu avec une paire de As
+Siège 6 : x_MaRLaCa_x (petite blind) a montré [4s 4d] et a gagné (23814) avec un brelan de Quatre
+Siège 8 : ramirez818 (grosse blind) a montré [7s Jh] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°256219760984 : Tournoi #3890275318, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau IV (200/400) - 20/05/2025 10:15:54 CET [20/05/2025 4:15:54 ET]
+Table '3890275318 3' 8-max Siège #3 est au bouton.
+Place 1: pedroj.gomla (16900 en jetons) 
+Place 2: Thelifesp (21105 en jetons) 
+Place 3: XamouD (5690 en jetons) 
+Place 4: x_MaRLaCa_x (30822 en jetons) en dehors de la main (déplacé à la petite blind d'une autre table)
+Place 5: omarin93 (4750 en jetons) 
+Place 6: psychoman59 (8495 en jetons) 
+Place 7: Vallho84 (14200 en jetons) 
+Place 8: Amsterdam974 (7950 en jetons) 
+x_MaRLaCa_x sera autorisé à jouer après le bouton.
+pedroj.gomla : met l'ante. 40
+Thelifesp : met l'ante. 40
+XamouD : met l'ante. 40
+omarin93 : met l'ante. 40
+psychoman59 : met l'ante. 40
+Vallho84 : met l'ante. 40
+Amsterdam974 : met l'ante. 40
+omarin93 : met la petite blind. 200
+psychoman59 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Qh]
+Vallho84 : passe. 
+Amsterdam974 : passe. 
+pedroj.gomla : suit. 400
+Thelifesp : passe. 
+XamouD : relance. 5250 à 5650 et est all-in.
+omarin93 : passe. 
+psychoman59 : passe. 
+pedroj.gomla : passe. 
+Personne n'a suivi. (5250) sont retournés à XamouD.
+XamouD a remporté 1680  lors du pot .
+XamouD : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1680 | Commission 0 
+Siège 1 : pedroj.gomla s'est couché. avant Flop
+Siège 2 : Thelifesp s'est couché. avant Flop (n'a pas misé)
+Siège 3 : XamouD (bouton) a remporté (1680)
+Siège 5 : omarin93 (petite blind) s'est couché. avant Flop
+Siège 6 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 7 : Vallho84 s'est couché. avant Flop (n'a pas misé)
+Siège 8 : Amsterdam974 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°256219763311 : Tournoi #3890275318, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau IV (200/400) - 20/05/2025 10:16:25 CET [20/05/2025 4:16:25 ET]
+Table '3890275318 3' 8-max Siège #5 est au bouton.
+Place 1: pedroj.gomla (16460 en jetons) 
+Place 2: Thelifesp (21065 en jetons) 
+Place 3: XamouD (6930 en jetons) 
+Place 4: x_MaRLaCa_x (30822 en jetons) 
+Place 5: omarin93 (4510 en jetons) 
+Place 6: psychoman59 (8055 en jetons) 
+Place 7: Vallho84 (14160 en jetons) 
+Place 8: Amsterdam974 (7910 en jetons) 
+pedroj.gomla : met l'ante. 40
+Thelifesp : met l'ante. 40
+XamouD : met l'ante. 40
+x_MaRLaCa_x : met l'ante. 40
+omarin93 : met l'ante. 40
+psychoman59 : met l'ante. 40
+Vallho84 : met l'ante. 40
+Amsterdam974 : met l'ante. 40
+psychoman59 : met la petite blind. 200
+Vallho84 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 2s]
+Amsterdam974 : passe. 
+pedroj.gomla : passe. 
+Thelifesp : passe. 
+XamouD : passe. 
+x_MaRLaCa_x : relance. 400 à 800
+omarin93 : suit. 800
+psychoman59 : passe. 
+Vallho84 : relance. 13320 à 14120 et est all-in.
+x_MaRLaCa_x : passe. 
+omarin93 : suit. 3670 et est all-in.
+Personne n'a suivi. (9650) sont retournés à Vallho84.
+*** FLOP *** [2c 2d Kd]
+*** TOURNANT *** [2c 2d Kd] [Td]
+*** RIVIÈRE *** [2c 2d Kd Td] [4c]
+*** ABATTAGE ***
+Vallho84 : montre [Qd As] (une paire de Deux)
+omarin93 : montre [3c Ks] (double paire, Rois et Deux)
+omarin93 a remporté 10260  lors du pot .
+*** SYNTHÈSE ***
+Pot total 10260 | Commission 0 
+Tableau [2c 2d Kd Td 4c]
+Siège 1 : pedroj.gomla s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Thelifesp s'est couché. avant Flop (n'a pas misé)
+Siège 3 : XamouD s'est couché. avant Flop (n'a pas misé)
+Siège 4 : x_MaRLaCa_x s'est couché. avant Flop
+Siège 5 : omarin93 (bouton) a montré [3c Ks] et a gagné (10260) avec double paire, Rois et Deux
+Siège 6 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 7 : Vallho84 (grosse blind) a montré [Qd As] et a perdu avec une paire de Deux
+Siège 8 : Amsterdam974 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°256219766823 : Tournoi #3890275318, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau V (250/500) - 20/05/2025 10:17:12 CET [20/05/2025 4:17:12 ET]
+Table '3890275318 3' 8-max Siège #6 est au bouton.
+Place 1: pedroj.gomla (16420 en jetons) 
+Place 2: Thelifesp (21025 en jetons) 
+Place 3: XamouD (6890 en jetons) 
+Place 4: x_MaRLaCa_x (29982 en jetons) 
+Place 5: omarin93 (10260 en jetons) 
+Place 6: psychoman59 (7815 en jetons) 
+Place 7: Vallho84 (9650 en jetons) 
+pedroj.gomla : met l'ante. 50
+Thelifesp : met l'ante. 50
+XamouD : met l'ante. 50
+x_MaRLaCa_x : met l'ante. 50
+omarin93 : met l'ante. 50
+psychoman59 : met l'ante. 50
+Vallho84 : met l'ante. 50
+Vallho84 : met la petite blind. 250
+pedroj.gomla : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d As]
+Thelifesp : passe. 
+XamouD : passe. 
+x_MaRLaCa_x : passe. 
+omarin93 : suit. 500
+psychoman59 : suit. 500
+Vallho84 : suit. 250
+pedroj.gomla : parole 
+*** FLOP *** [Qd 7c 7d]
+Vallho84 : parole 
+pedroj.gomla : parole 
+omarin93 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Qd 7c 7d] [4c]
+Vallho84 : parole 
+pedroj.gomla : parole 
+omarin93 : mise. 500
+psychoman59 : passe. 
+Vallho84 : passe. 
+pedroj.gomla : suit. 500
+*** RIVIÈRE *** [Qd 7c 7d 4c] [Ah]
+pedroj.gomla : parole 
+omarin93 : mise. 1000
+pedroj.gomla : passe. 
+Personne n'a suivi. (1000) sont retournés à omarin93.
+omarin93 a remporté 3350  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3350 | Commission 0 
+Tableau [Qd 7c 7d 4c Ah]
+Siège 1 : pedroj.gomla (grosse blind) s'est couché. sur le Rivière
+Siège 2 : Thelifesp s'est couché. avant Flop (n'a pas misé)
+Siège 3 : XamouD s'est couché. avant Flop (n'a pas misé)
+Siège 4 : x_MaRLaCa_x s'est couché. avant Flop (n'a pas misé)
+Siège 5 : omarin93 a remporté (3350)
+Siège 6 : psychoman59 (bouton) s'est couché. sur le Tournant
+Siège 7 : Vallho84 (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°256219770432 : Tournoi #3890275318, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau V (250/500) - 20/05/2025 10:18:02 CET [20/05/2025 4:18:02 ET]
+Table '3890275318 3' 8-max Siège #7 est au bouton.
+Place 1: pedroj.gomla (15370 en jetons) 
+Place 2: Thelifesp (20975 en jetons) 
+Place 3: XamouD (6840 en jetons) 
+Place 4: x_MaRLaCa_x (29932 en jetons) 
+Place 5: omarin93 (12560 en jetons) 
+Place 6: psychoman59 (7265 en jetons) 
+Place 7: Vallho84 (9100 en jetons) 
+pedroj.gomla : met l'ante. 50
+Thelifesp : met l'ante. 50
+XamouD : met l'ante. 50
+x_MaRLaCa_x : met l'ante. 50
+omarin93 : met l'ante. 50
+psychoman59 : met l'ante. 50
+Vallho84 : met l'ante. 50
+pedroj.gomla : met la petite blind. 250
+Thelifesp : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 4c]
+XamouD : passe. 
+x_MaRLaCa_x : relance. 500 à 1000
+omarin93 : passe. 
+psychoman59 : passe. 
+Vallho84 : passe. 
+pedroj.gomla : suit. 750
+Thelifesp : passe. 
+*** FLOP *** [8h 5h Qh]
+pedroj.gomla : parole 
+x_MaRLaCa_x : mise. 1000
+pedroj.gomla : suit. 1000
+*** TOURNANT *** [8h 5h Qh] [Ts]
+pedroj.gomla : parole 
+x_MaRLaCa_x : parole 
+*** RIVIÈRE *** [8h 5h Qh Ts] [Ad]
+pedroj.gomla : mise. 2000
+x_MaRLaCa_x : suit. 2000
+*** ABATTAGE ***
+pedroj.gomla : montre [3h 7h] (une couleur, hauteur Dame)
+x_MaRLaCa_x : cache la main perdante. 
+pedroj.gomla a remporté 8850  lors du pot .
+*** SYNTHÈSE ***
+Pot total 8850 | Commission 0 
+Tableau [8h 5h Qh Ts Ad]
+Siège 1 : pedroj.gomla (petite blind) a montré [3h 7h] et a gagné (8850) avec une couleur, hauteur Dame
+Siège 2 : Thelifesp (grosse blind) s'est couché. avant Flop
+Siège 3 : XamouD s'est couché. avant Flop (n'a pas misé)
+Siège 4 : x_MaRLaCa_x a caché la main perdante. [Ac 4s]
+Siège 5 : omarin93 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : Vallho84 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°256219774981 : Tournoi #3890275318, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau V (250/500) - 20/05/2025 10:19:04 CET [20/05/2025 4:19:04 ET]
+Table '3890275318 3' 8-max Siège #1 est au bouton.
+Place 1: pedroj.gomla (20170 en jetons) 
+Place 2: Thelifesp (20425 en jetons) 
+Place 3: XamouD (6790 en jetons) 
+Place 4: x_MaRLaCa_x (25882 en jetons) 
+Place 5: omarin93 (12510 en jetons) 
+Place 6: psychoman59 (7215 en jetons) 
+Place 7: Vallho84 (9050 en jetons) 
+pedroj.gomla : met l'ante. 50
+Thelifesp : met l'ante. 50
+XamouD : met l'ante. 50
+x_MaRLaCa_x : met l'ante. 50
+omarin93 : met l'ante. 50
+psychoman59 : met l'ante. 50
+Vallho84 : met l'ante. 50
+Thelifesp : met la petite blind. 250
+XamouD : met la grosse blind. 500
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 8c]
+x_MaRLaCa_x : relance. 500 à 1000
+omarin93 : suit. 1000
+psychoman59 : passe. 
+Vallho84 : suit. 1000
+pedroj.gomla : passe. 
+Thelifesp : passe. 
+XamouD : passe. 
+*** FLOP *** [3c 9h 2c]
+x_MaRLaCa_x : mise. 1000
+omarin93 : relance. 1000 à 2000
+Vallho84 : suit. 2000
+x_MaRLaCa_x : suit. 1000
+*** TOURNANT *** [3c 9h 2c] [Ah]
+x_MaRLaCa_x : parole 
+omarin93 : mise. 2000
+Vallho84 : suit. 2000
+x_MaRLaCa_x : relance. 20832 à 22832 et est all-in.
+omarin93 : suit. 7460 et est all-in.
+Vallho84 : suit. 4000 et est all-in.
+Personne n'a suivi. (13372) sont retournés à x_MaRLaCa_x.
+*** RIVIÈRE *** [3c 9h 2c Ah] [8h]
+*** ABATTAGE ***
+x_MaRLaCa_x : montre [Ac 6s] (une paire de As)
+omarin93 : montre [Kc Ks] (une paire de Rois)
+x_MaRLaCa_x a remporté 6920  parallèle lors du pot .
+Vallho84 : montre [5d 9d] (une paire de Neuf)
+x_MaRLaCa_x a remporté 28100  principal lors du pot .
+omarin93 a terminé le tournoi
+Vallho84 a terminé le tournoi
+*** SYNTHÈSE ***
+Pot total 35020 Principal pot 28100. Parallèle pot 6920. | Commission 0 
+Tableau [3c 9h 2c Ah 8h]
+Siège 1 : pedroj.gomla (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Thelifesp (petite blind) s'est couché. avant Flop
+Siège 3 : XamouD (grosse blind) s'est couché. avant Flop
+Siège 4 : x_MaRLaCa_x a montré [Ac 6s] et a gagné (35020) avec une paire de As
+Siège 5 : omarin93 a montré [Kc Ks] et a perdu avec une paire de Rois
+Siège 6 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : Vallho84 a montré [5d 9d] et a perdu avec une paire de Neuf
+
+
+
+Main PokerStars n°256219779923 : Tournoi #3890275318, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau VI (300/600) - 20/05/2025 10:20:11 CET [20/05/2025 4:20:11 ET]
+Table '3890275318 3' 8-max Siège #2 est au bouton.
+Place 1: pedroj.gomla (20120 en jetons) 
+Place 2: Thelifesp (20125 en jetons) 
+Place 3: XamouD (6240 en jetons) 
+Place 4: x_MaRLaCa_x (48392 en jetons) 
+Place 5: Mark11185 (18281 en jetons) 
+Place 6: psychoman59 (7165 en jetons) 
+Place 7: gor3k (11010 en jetons) 
+pedroj.gomla : met l'ante. 60
+Thelifesp : met l'ante. 60
+XamouD : met l'ante. 60
+x_MaRLaCa_x : met l'ante. 60
+Mark11185 : met l'ante. 60
+psychoman59 : met l'ante. 60
+gor3k : met l'ante. 60
+XamouD : met la petite blind. 300
+x_MaRLaCa_x : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 2d]
+Mark11185 : passe. 
+psychoman59 : passe. 
+gor3k : passe. 
+pedroj.gomla : passe. 
+Thelifesp : relance. 600 à 1200
+XamouD : passe. 
+x_MaRLaCa_x : passe. 
+Personne n'a suivi. (600) sont retournés à Thelifesp.
+tribuz95 est déconnecté 
+Thelifesp a remporté 1920  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1920 | Commission 0 
+Siège 1 : pedroj.gomla s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Thelifesp (bouton) a remporté (1920)
+Siège 3 : XamouD (petite blind) s'est couché. avant Flop
+Siège 4 : x_MaRLaCa_x (grosse blind) s'est couché. avant Flop
+Siège 5 : Mark11185 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : gor3k s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°256219781526 : Tournoi #3890275318, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau VI (300/600) - 20/05/2025 10:20:33 CET [20/05/2025 4:20:33 ET]
+Table '3890275318 3' 8-max Siège #3 est au bouton.
+Place 1: pedroj.gomla (20060 en jetons) 
+Place 2: Thelifesp (21385 en jetons) 
+Place 3: XamouD (5880 en jetons) 
+Place 4: x_MaRLaCa_x (47732 en jetons) 
+Place 6: psychoman59 (7105 en jetons) 
+Place 7: gor3k (10950 en jetons) 
+Place 8: tribuz95 (10000 en jetons) 
+pedroj.gomla : met l'ante. 60
+Thelifesp : met l'ante. 60
+XamouD : met l'ante. 60
+x_MaRLaCa_x : met l'ante. 60
+psychoman59 : met l'ante. 60
+gor3k : met l'ante. 60
+tribuz95 : met l'ante. 60
+x_MaRLaCa_x : met la petite blind. 300
+psychoman59 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 8s]
+gor3k : relance. 10290 à 10890 et est all-in.
+tribuz95 : passe. 
+pedroj.gomla : passe. 
+Thelifesp : passe. 
+XamouD : passe. 
+x_MaRLaCa_x : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10290) sont retournés à gor3k.
+gor3k a remporté 1920  lors du pot .
+gor3k : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1920 | Commission 0 
+Siège 1 : pedroj.gomla s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Thelifesp s'est couché. avant Flop (n'a pas misé)
+Siège 3 : XamouD (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : x_MaRLaCa_x (petite blind) s'est couché. avant Flop
+Siège 6 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 7 : gor3k a remporté (1920)
+Siège 8 : tribuz95 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°256219783360 : Tournoi #3890275318, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau VI (300/600) - 20/05/2025 10:20:58 CET [20/05/2025 4:20:58 ET]
+Table '3890275318 3' 8-max Siège #4 est au bouton.
+Place 1: pedroj.gomla (20000 en jetons) 
+Place 2: Thelifesp (21325 en jetons) 
+Place 3: XamouD (5820 en jetons) 
+Place 4: x_MaRLaCa_x (47372 en jetons) 
+Place 6: psychoman59 (6445 en jetons) 
+Place 7: gor3k (12210 en jetons) 
+Place 8: tribuz95 (9940 en jetons) 
+pedroj.gomla : met l'ante. 60
+Thelifesp : met l'ante. 60
+XamouD : met l'ante. 60
+x_MaRLaCa_x : met l'ante. 60
+psychoman59 : met l'ante. 60
+gor3k : met l'ante. 60
+tribuz95 : met l'ante. 60
+psychoman59 : met la petite blind. 300
+gor3k : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 4d]
+tribuz95 : passe. 
+pedroj.gomla : passe. 
+Thelifesp : relance. 600 à 1200
+XamouD : relance. 4560 à 5760 et est all-in.
+x_MaRLaCa_x : passe. 
+psychoman59 : passe. 
+gor3k : passe. 
+Thelifesp : suit. 4560
+*** FLOP *** [3c Jd Ad]
+*** TOURNANT *** [3c Jd Ad] [Th]
+*** RIVIÈRE *** [3c Jd Ad Th] [Ac]
+*** ABATTAGE ***
+Thelifesp : montre [Qd As] (un brelan de As)
+XamouD : montre [Qc Td] (double paire, As et Dix)
+Thelifesp a remporté 12840  lors du pot .
+XamouD a terminé le tournoi
+*** SYNTHÈSE ***
+Pot total 12840 | Commission 0 
+Tableau [3c Jd Ad Th Ac]
+Siège 1 : pedroj.gomla s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Thelifesp a montré [Qd As] et a gagné (12840) avec un brelan de As
+Siège 3 : XamouD a montré [Qc Td] et a perdu avec double paire, As et Dix
+Siège 4 : x_MaRLaCa_x (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 6 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 7 : gor3k (grosse blind) s'est couché. avant Flop
+Siège 8 : tribuz95 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°256219785293 : Tournoi #3890275318, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau VI (300/600) - 20/05/2025 10:21:23 CET [20/05/2025 4:21:23 ET]
+Table '3890275318 3' 8-max Siège #6 est au bouton.
+Place 1: pedroj.gomla (19940 en jetons) 
+Place 2: Thelifesp (28345 en jetons) 
+Place 4: x_MaRLaCa_x (47312 en jetons) 
+Place 6: psychoman59 (6085 en jetons) 
+Place 7: gor3k (11550 en jetons) 
+Place 8: tribuz95 (9880 en jetons) 
+pedroj.gomla : met l'ante. 60
+Thelifesp : met l'ante. 60
+x_MaRLaCa_x : met l'ante. 60
+psychoman59 : met l'ante. 60
+gor3k : met l'ante. 60
+tribuz95 : met l'ante. 60
+gor3k : met la petite blind. 300
+tribuz95 : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Qs]
+pedroj.gomla : suit. 600
+Thelifesp : passe. 
+x_MaRLaCa_x : passe. 
+psychoman59 : suit. 600
+gor3k : suit. 300
+tribuz95 : relance. 2400 à 3000
+pedroj.gomla : passe. 
+psychoman59 : passe. 
+gor3k : passe. 
+Personne n'a suivi. (2400) sont retournés à tribuz95.
+tribuz95 a remporté 2760  lors du pot .
+tribuz95 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 2760 | Commission 0 
+Siège 1 : pedroj.gomla s'est couché. avant Flop
+Siège 2 : Thelifesp s'est couché. avant Flop (n'a pas misé)
+Siège 4 : x_MaRLaCa_x s'est couché. avant Flop (n'a pas misé)
+Siège 6 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 7 : gor3k (petite blind) s'est couché. avant Flop
+Siège 8 : tribuz95 (grosse blind) a remporté (2760)
+
+
+
+Main PokerStars n°256219788535 : Tournoi #3890275318, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau VI (300/600) - 20/05/2025 10:22:06 CET [20/05/2025 4:22:06 ET]
+Table '3890275318 3' 8-max Siège #7 est au bouton.
+Place 1: pedroj.gomla (19280 en jetons) 
+Place 2: Thelifesp (28285 en jetons) 
+Place 3: lidiaruizpe (10000 en jetons) 
+Place 4: x_MaRLaCa_x (47252 en jetons) 
+Place 6: psychoman59 (5425 en jetons) 
+Place 7: gor3k (10890 en jetons) 
+Place 8: tribuz95 (11980 en jetons) 
+pedroj.gomla : met l'ante. 60
+Thelifesp : met l'ante. 60
+lidiaruizpe : met l'ante. 60
+x_MaRLaCa_x : met l'ante. 60
+psychoman59 : met l'ante. 60
+gor3k : met l'ante. 60
+tribuz95 : met l'ante. 60
+tribuz95 : met la petite blind. 300
+pedroj.gomla : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 3h]
+Thelifesp : passe. 
+lidiaruizpe : passe. 
+x_MaRLaCa_x : relance. 600 à 1200
+psychoman59 : passe. 
+gor3k : passe. 
+tribuz95 : relance. 10720 à 11920 et est all-in.
+pedroj.gomla : passe. 
+x_MaRLaCa_x : passe. 
+Personne n'a suivi. (10720) sont retournés à tribuz95.
+tribuz95 a remporté 3420  lors du pot .
+tribuz95 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 3420 | Commission 0 
+Siège 1 : pedroj.gomla (grosse blind) s'est couché. avant Flop
+Siège 2 : Thelifesp s'est couché. avant Flop (n'a pas misé)
+Siège 3 : lidiaruizpe s'est couché. avant Flop (n'a pas misé)
+Siège 4 : x_MaRLaCa_x s'est couché. avant Flop
+Siège 6 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : gor3k (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 8 : tribuz95 (petite blind) a remporté (3420)
+
+
+
+Main PokerStars n°256219790455 : Tournoi #3890275318, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau VI (300/600) - 20/05/2025 10:22:32 CET [20/05/2025 4:22:32 ET]
+Table '3890275318 3' 8-max Siège #8 est au bouton.
+Place 1: pedroj.gomla (18620 en jetons) 
+Place 2: Thelifesp (28225 en jetons) 
+Place 3: lidiaruizpe (9940 en jetons) 
+Place 4: x_MaRLaCa_x (45992 en jetons) 
+Place 6: psychoman59 (5365 en jetons) 
+Place 7: gor3k (10830 en jetons) 
+Place 8: tribuz95 (14140 en jetons) 
+pedroj.gomla : met l'ante. 60
+Thelifesp : met l'ante. 60
+lidiaruizpe : met l'ante. 60
+x_MaRLaCa_x : met l'ante. 60
+psychoman59 : met l'ante. 60
+gor3k : met l'ante. 60
+tribuz95 : met l'ante. 60
+pedroj.gomla : met la petite blind. 300
+Thelifesp : met la grosse blind. 600
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 6s]
+lidiaruizpe : passe. 
+x_MaRLaCa_x : passe. 
+psychoman59 : relance. 4705 à 5305 et est all-in.
+gor3k : passe. 
+tribuz95 : passe. 
+pedroj.gomla : passe. 
+Thelifesp : passe. 
+Personne n'a suivi. (4705) sont retournés à psychoman59.
+psychoman59 a remporté 1920  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1920 | Commission 0 
+Siège 1 : pedroj.gomla (petite blind) s'est couché. avant Flop
+Siège 2 : Thelifesp (grosse blind) s'est couché. avant Flop
+Siège 3 : lidiaruizpe s'est couché. avant Flop (n'a pas misé)
+Siège 4 : x_MaRLaCa_x s'est couché. avant Flop (n'a pas misé)
+Siège 6 : psychoman59 a remporté (1920)
+Siège 7 : gor3k s'est couché. avant Flop (n'a pas misé)
+Siège 8 : tribuz95 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°256219793101 : Tournoi #3890275318, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau VII (350/700) - 20/05/2025 10:23:07 CET [20/05/2025 4:23:07 ET]
+Table '3890275318 3' 8-max Siège #1 est au bouton.
+Place 1: pedroj.gomla (18260 en jetons) 
+Place 2: Thelifesp (27565 en jetons) 
+Place 3: lidiaruizpe (9880 en jetons) 
+Place 4: x_MaRLaCa_x (45932 en jetons) 
+Place 6: psychoman59 (6625 en jetons) 
+Place 7: gor3k (10770 en jetons) 
+Place 8: tribuz95 (14080 en jetons) 
+pedroj.gomla : met l'ante. 70
+Thelifesp : met l'ante. 70
+lidiaruizpe : met l'ante. 70
+x_MaRLaCa_x : met l'ante. 70
+psychoman59 : met l'ante. 70
+gor3k : met l'ante. 70
+tribuz95 : met l'ante. 70
+Thelifesp : met la petite blind. 350
+lidiaruizpe : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Jh]
+x_MaRLaCa_x : passe. 
+psychoman59 : passe. 
+gor3k : passe. 
+tribuz95 : suit. 700
+pedroj.gomla : suit. 700
+Thelifesp : passe. 
+lidiaruizpe : parole 
+*** FLOP *** [As Ts 9d]
+lidiaruizpe : parole 
+tribuz95 : mise. 2100
+pedroj.gomla : passe. 
+lidiaruizpe : passe. 
+Personne n'a suivi. (2100) sont retournés à tribuz95.
+tribuz95 a remporté 2940  lors du pot .
+tribuz95 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 2940 | Commission 0 
+Tableau [As Ts 9d]
+Siège 1 : pedroj.gomla (bouton) s'est couché. sur le Flop
+Siège 2 : Thelifesp (petite blind) s'est couché. avant Flop
+Siège 3 : lidiaruizpe (grosse blind) s'est couché. sur le Flop
+Siège 4 : x_MaRLaCa_x s'est couché. avant Flop (n'a pas misé)
+Siège 6 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : gor3k s'est couché. avant Flop (n'a pas misé)
+Siège 8 : tribuz95 a remporté (2940)
+
+
+
+Main PokerStars n°256219795269 : Tournoi #3890275318, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau VII (350/700) - 20/05/2025 10:23:35 CET [20/05/2025 4:23:35 ET]
+Table '3890275318 3' 8-max Siège #2 est au bouton.
+Place 1: pedroj.gomla (17490 en jetons) 
+Place 2: Thelifesp (27145 en jetons) 
+Place 3: lidiaruizpe (9110 en jetons) 
+Place 4: x_MaRLaCa_x (45862 en jetons) 
+Place 6: psychoman59 (6555 en jetons) 
+Place 7: gor3k (10700 en jetons) 
+Place 8: tribuz95 (16250 en jetons) 
+pedroj.gomla : met l'ante. 70
+Thelifesp : met l'ante. 70
+lidiaruizpe : met l'ante. 70
+x_MaRLaCa_x : met l'ante. 70
+psychoman59 : met l'ante. 70
+gor3k : met l'ante. 70
+tribuz95 : met l'ante. 70
+lidiaruizpe : met la petite blind. 350
+x_MaRLaCa_x : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c As]
+psychoman59 : passe. 
+gor3k : relance. 700 à 1400
+tribuz95 : passe. 
+pedroj.gomla : suit. 1400
+Thelifesp : passe. 
+lidiaruizpe : passe. 
+x_MaRLaCa_x : suit. 700
+*** FLOP *** [Ah 2h 9s]
+x_MaRLaCa_x a dépassé le temps imparti.
+x_MaRLaCa_x : parole 
+gor3k : parole 
+pedroj.gomla : parole 
+*** TOURNANT *** [Ah 2h 9s] [2s]
+x_MaRLaCa_x : parole 
+gor3k : parole 
+pedroj.gomla : parole 
+*** RIVIÈRE *** [Ah 2h 9s 2s] [4d]
+x_MaRLaCa_x : parole 
+gor3k : parole 
+pedroj.gomla : parole 
+*** ABATTAGE ***
+x_MaRLaCa_x : montre [8h Jc] (une paire de Deux)
+gor3k : montre [Qd Qh] (double paire, Dames et Deux)
+pedroj.gomla : cache la main perdante. 
+gor3k a remporté 5040  lors du pot .
+*** SYNTHÈSE ***
+Pot total 5040 | Commission 0 
+Tableau [Ah 2h 9s 2s 4d]
+Siège 1 : pedroj.gomla a caché la main perdante. [Js 7s]
+Siège 2 : Thelifesp (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : lidiaruizpe (petite blind) s'est couché. avant Flop
+Siège 4 : x_MaRLaCa_x (grosse blind) a montré [8h Jc] et a perdu avec une paire de Deux
+Siège 6 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : gor3k a montré [Qd Qh] et a gagné (5040) avec double paire, Dames et Deux
+Siège 8 : tribuz95 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°256219800014 : Tournoi #3890275318, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau VII (350/700) - 20/05/2025 10:24:37 CET [20/05/2025 4:24:37 ET]
+Table '3890275318 3' 8-max Siège #3 est au bouton.
+Place 1: pedroj.gomla (16020 en jetons) 
+Place 2: Thelifesp (27075 en jetons) 
+Place 3: lidiaruizpe (8690 en jetons) 
+Place 4: x_MaRLaCa_x (44392 en jetons) 
+Place 5: yuiu639 (10000 en jetons) 
+Place 6: psychoman59 (6485 en jetons) 
+Place 7: gor3k (14270 en jetons) 
+Place 8: tribuz95 (16180 en jetons) 
+pedroj.gomla : met l'ante. 70
+Thelifesp : met l'ante. 70
+lidiaruizpe : met l'ante. 70
+x_MaRLaCa_x : met l'ante. 70
+yuiu639 : met l'ante. 70
+psychoman59 : met l'ante. 70
+gor3k : met l'ante. 70
+tribuz95 : met l'ante. 70
+x_MaRLaCa_x : met la petite blind. 350
+yuiu639 : met la grosse blind. 700
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 6s]
+yuiu639 est déconnecté 
+psychoman59 : passe. 
+gor3k : passe. 
+tribuz95 : passe. 
+pedroj.gomla : suit. 700
+Thelifesp : passe. 
+lidiaruizpe : suit. 700
+x_MaRLaCa_x : suit. 350
+yuiu639 : parole 
+*** FLOP *** [Kc Jh 4h]
+x_MaRLaCa_x a dépassé le temps imparti.
+x_MaRLaCa_x : parole 
+yuiu639 : parole 
+pedroj.gomla : mise. 700
+lidiaruizpe : suit. 700
+x_MaRLaCa_x : suit. 700
+yuiu639 : passe. 
+*** TOURNANT *** [Kc Jh 4h] [6c]
+x_MaRLaCa_x : parole 
+pedroj.gomla : mise. 2100
+lidiaruizpe : passe. 
+x_MaRLaCa_x : suit. 2100
+*** RIVIÈRE *** [Kc Jh 4h 6c] [4d]
+x_MaRLaCa_x : parole 
+pedroj.gomla : mise. 2100
+x_MaRLaCa_x : relance. 38722 à 40822 et est all-in.
+pedroj.gomla : passe. 
+Personne n'a suivi. (38722) sont retournés à x_MaRLaCa_x.
+x_MaRLaCa_x a remporté 13860  lors du pot .
+x_MaRLaCa_x : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 13860 | Commission 0 
+Tableau [Kc Jh 4h 6c 4d]
+Siège 1 : pedroj.gomla s'est couché. sur le Rivière
+Siège 2 : Thelifesp s'est couché. avant Flop (n'a pas misé)
+Siège 3 : lidiaruizpe (bouton) s'est couché. sur le Tournant
+Siège 4 : x_MaRLaCa_x (petite blind) a remporté (13860)
+Siège 5 : yuiu639 (grosse blind) s'est couché. sur le Flop
+Siège 6 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : gor3k s'est couché. avant Flop (n'a pas misé)
+Siège 8 : tribuz95 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°256219809257 : Tournoi #3890275318, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau VIII (400/800) - 20/05/2025 10:26:41 CET [20/05/2025 4:26:41 ET]
+Table '3890275318 3' 8-max Siège #4 est au bouton.
+Place 1: pedroj.gomla (10350 en jetons) 
+Place 2: Thelifesp (27005 en jetons) 
+Place 3: lidiaruizpe (7220 en jetons) 
+Place 4: x_MaRLaCa_x (52582 en jetons) 
+Place 5: yuiu639 (9230 en jetons) 
+Place 6: psychoman59 (6415 en jetons) 
+Place 7: gor3k (14200 en jetons) 
+Place 8: tribuz95 (16110 en jetons) 
+pedroj.gomla : met l'ante. 80
+Thelifesp : met l'ante. 80
+lidiaruizpe : met l'ante. 80
+x_MaRLaCa_x : met l'ante. 80
+yuiu639 : met l'ante. 80
+psychoman59 : met l'ante. 80
+gor3k : met l'ante. 80
+tribuz95 : met l'ante. 80
+yuiu639 : met la petite blind. 400
+psychoman59 : met la grosse blind. 800
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 7d]
+gor3k : passe. 
+tribuz95 : passe. 
+pedroj.gomla : passe. 
+Thelifesp : relance. 800 à 1600
+lidiaruizpe : passe. 
+x_MaRLaCa_x : passe. 
+yuiu639 : suit. 1200
+psychoman59 : passe. 
+*** FLOP *** [Jc Kd Jh]
+yuiu639 : parole 
+Thelifesp : mise. 4640
+yuiu639 : passe. 
+Personne n'a suivi. (4640) sont retournés à Thelifesp.
+Thelifesp a remporté 4640  lors du pot .
+*** SYNTHÈSE ***
+Pot total 4640 | Commission 0 
+Tableau [Jc Kd Jh]
+Siège 1 : pedroj.gomla s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Thelifesp a remporté (4640)
+Siège 3 : lidiaruizpe s'est couché. avant Flop (n'a pas misé)
+Siège 4 : x_MaRLaCa_x (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 5 : yuiu639 (petite blind) s'est couché. sur le Flop
+Siège 6 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 7 : gor3k s'est couché. avant Flop (n'a pas misé)
+Siège 8 : tribuz95 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°256219811383 : Tournoi #3890275318, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau VIII (400/800) - 20/05/2025 10:27:09 CET [20/05/2025 4:27:09 ET]
+Table '3890275318 3' 8-max Siège #5 est au bouton.
+Place 1: pedroj.gomla (10270 en jetons) 
+Place 2: Thelifesp (29965 en jetons) 
+Place 3: lidiaruizpe (7140 en jetons) 
+Place 4: x_MaRLaCa_x (52502 en jetons) 
+Place 5: yuiu639 (7550 en jetons) 
+Place 6: psychoman59 (5535 en jetons) 
+Place 7: gor3k (14120 en jetons) 
+Place 8: tribuz95 (16030 en jetons) 
+pedroj.gomla : met l'ante. 80
+Thelifesp : met l'ante. 80
+lidiaruizpe : met l'ante. 80
+x_MaRLaCa_x : met l'ante. 80
+yuiu639 : met l'ante. 80
+psychoman59 : met l'ante. 80
+gor3k : met l'ante. 80
+tribuz95 : met l'ante. 80
+psychoman59 : met la petite blind. 400
+gor3k : met la grosse blind. 800
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Td]
+tribuz95 : suit. 800
+pedroj.gomla : suit. 800
+Thelifesp : relance. 800 à 1600
+lidiaruizpe : passe. 
+x_MaRLaCa_x : passe. 
+yuiu639 : passe. 
+psychoman59 : passe. 
+gor3k : passe. 
+tribuz95 : suit. 800
+pedroj.gomla : suit. 800
+*** FLOP *** [Ad Ks Qh]
+tribuz95 : parole 
+pedroj.gomla : parole 
+Thelifesp : mise. 3320
+tribuz95 : relance. 11030 à 14350 et est all-in.
+pedroj.gomla : passe. 
+Thelifesp : suit. 11030
+*** TOURNANT *** [Ad Ks Qh] [3s]
+*** RIVIÈRE *** [Ad Ks Qh 3s] [Qd]
+*** ABATTAGE ***
+tribuz95 : montre [Jd Ts] (une suite, Dix à As)
+Thelifesp : montre [Qs Qc] (un carré de Dames)
+Thelifesp a remporté 35340  lors du pot .
+tribuz95 a fini le tournoi en 61er position.
+*** SYNTHÈSE ***
+Pot total 35340 | Commission 0 
+Tableau [Ad Ks Qh 3s Qd]
+Siège 1 : pedroj.gomla s'est couché. sur le Flop
+Siège 2 : Thelifesp a montré [Qs Qc] et a gagné (35340) avec un carré de Dames
+Siège 3 : lidiaruizpe s'est couché. avant Flop (n'a pas misé)
+Siège 4 : x_MaRLaCa_x s'est couché. avant Flop (n'a pas misé)
+Siège 5 : yuiu639 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 6 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 7 : gor3k (grosse blind) s'est couché. avant Flop
+Siège 8 : tribuz95 a montré [Jd Ts] et a perdu avec une suite, Dix à As
+
+
+
+Main PokerStars n°256219815222 : Tournoi #3890275318, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau VIII (400/800) - 20/05/2025 10:28:00 CET [20/05/2025 4:28:00 ET]
+Table '3890275318 3' 8-max Siège #6 est au bouton.
+Place 1: pedroj.gomla (8590 en jetons) 
+Place 2: Thelifesp (49275 en jetons) 
+Place 3: lidiaruizpe (7060 en jetons) 
+Place 4: x_MaRLaCa_x (52422 en jetons) 
+Place 5: yuiu639 (7470 en jetons) 
+Place 6: psychoman59 (5055 en jetons) 
+Place 7: gor3k (13240 en jetons) 
+pedroj.gomla : met l'ante. 80
+Thelifesp : met l'ante. 80
+lidiaruizpe : met l'ante. 80
+x_MaRLaCa_x : met l'ante. 80
+yuiu639 : met l'ante. 80
+psychoman59 : met l'ante. 80
+gor3k : met l'ante. 80
+gor3k : met la petite blind. 400
+pedroj.gomla : met la grosse blind. 800
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Tc]
+Thelifesp : passe. 
+lidiaruizpe : passe. 
+x_MaRLaCa_x : relance. 800 à 1600
+yuiu639 : suit. 1600
+psychoman59 : passe. 
+gor3k : passe. 
+pedroj.gomla : passe. 
+*** FLOP *** [Th 5h 5c]
+x_MaRLaCa_x : parole 
+yuiu639 : mise. 5790 et est all-in.
+x_MaRLaCa_x : passe. 
+Personne n'a suivi. (5790) sont retournés à yuiu639.
+yuiu639 a remporté 4960  lors du pot .
+yuiu639 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 4960 | Commission 0 
+Tableau [Th 5h 5c]
+Siège 1 : pedroj.gomla (grosse blind) s'est couché. avant Flop
+Siège 2 : Thelifesp s'est couché. avant Flop (n'a pas misé)
+Siège 3 : lidiaruizpe s'est couché. avant Flop (n'a pas misé)
+Siège 4 : x_MaRLaCa_x s'est couché. sur le Flop
+Siège 5 : yuiu639 a remporté (4960)
+Siège 6 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 7 : gor3k (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°256219818552 : Tournoi #3890275318, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau VIII (400/800) - 20/05/2025 10:28:44 CET [20/05/2025 4:28:44 ET]
+Table '3890275318 3' 8-max Siège #7 est au bouton.
+Place 1: pedroj.gomla (7710 en jetons) 
+Place 2: Thelifesp (49195 en jetons) 
+Place 3: lidiaruizpe (6980 en jetons) 
+Place 4: x_MaRLaCa_x (50742 en jetons) 
+Place 5: yuiu639 (10750 en jetons) 
+Place 6: psychoman59 (4975 en jetons) 
+Place 7: gor3k (12760 en jetons) 
+pedroj.gomla : met l'ante. 80
+Thelifesp : met l'ante. 80
+lidiaruizpe : met l'ante. 80
+x_MaRLaCa_x : met l'ante. 80
+yuiu639 : met l'ante. 80
+psychoman59 : met l'ante. 80
+gor3k : met l'ante. 80
+pedroj.gomla : met la petite blind. 400
+Thelifesp : met la grosse blind. 800
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 5s]
+lidiaruizpe : passe. 
+x_MaRLaCa_x : relance. 800 à 1600
+yuiu639 : passe. 
+psychoman59 : passe. 
+gor3k : passe. 
+pedroj.gomla : passe. 
+Thelifesp : passe. 
+Personne n'a suivi. (800) sont retournés à x_MaRLaCa_x.
+x_MaRLaCa_x a remporté 2560  lors du pot .
+x_MaRLaCa_x : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 2560 | Commission 0 
+Siège 1 : pedroj.gomla (petite blind) s'est couché. avant Flop
+Siège 2 : Thelifesp (grosse blind) s'est couché. avant Flop
+Siège 3 : lidiaruizpe s'est couché. avant Flop (n'a pas misé)
+Siège 4 : x_MaRLaCa_x a remporté (2560)
+Siège 5 : yuiu639 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : gor3k (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°256219820120 : Tournoi #3890275318, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau IX (500/1000) - 20/05/2025 10:29:05 CET [20/05/2025 4:29:05 ET]
+Table '3890275318 3' 8-max Siège #1 est au bouton.
+Place 1: pedroj.gomla (7230 en jetons) 
+Place 2: Thelifesp (48315 en jetons) 
+Place 3: lidiaruizpe (6900 en jetons) 
+Place 4: x_MaRLaCa_x (52422 en jetons) 
+Place 5: yuiu639 (10670 en jetons) 
+Place 6: psychoman59 (4895 en jetons) 
+Place 7: gor3k (12680 en jetons) 
+pedroj.gomla : met l'ante. 100
+Thelifesp : met l'ante. 100
+lidiaruizpe : met l'ante. 100
+x_MaRLaCa_x : met l'ante. 100
+yuiu639 : met l'ante. 100
+psychoman59 : met l'ante. 100
+gor3k : met l'ante. 100
+Thelifesp : met la petite blind. 500
+lidiaruizpe : met la grosse blind. 1000
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 3h]
+x_MaRLaCa_x : relance. 1000 à 2000
+yuiu639 : passe. 
+psychoman59 : passe. 
+gor3k : passe. 
+pedroj.gomla : passe. 
+Thelifesp : passe. 
+lidiaruizpe : relance. 4800 à 6800 et est all-in.
+x_MaRLaCa_x : suit. 4800
+*** FLOP *** [Kh 7d 9h]
+*** TOURNANT *** [Kh 7d 9h] [6c]
+*** RIVIÈRE *** [Kh 7d 9h 6c] [Qh]
+*** ABATTAGE ***
+lidiaruizpe : montre [Qs Ts] (une paire de Dames)
+x_MaRLaCa_x : montre [Jc Qd] (une paire de Dames - Roi+Valet kicker)
+x_MaRLaCa_x a remporté 14800  lors du pot .
+lidiaruizpe a fini le tournoi en 58e position.
+*** SYNTHÈSE ***
+Pot total 14800 | Commission 0 
+Tableau [Kh 7d 9h 6c Qh]
+Siège 1 : pedroj.gomla (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Thelifesp (petite blind) s'est couché. avant Flop
+Siège 3 : lidiaruizpe (grosse blind) a montré [Qs Ts] et a perdu avec une paire de Dames
+Siège 4 : x_MaRLaCa_x a montré [Jc Qd] et a gagné (14800) avec une paire de Dames
+Siège 5 : yuiu639 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : gor3k s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°256219823680 : Tournoi #3890275318, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau IX (500/1000) - 20/05/2025 10:29:53 CET [20/05/2025 4:29:53 ET]
+Table '3890275318 3' 8-max Siège #2 est au bouton.
+Place 1: pedroj.gomla (7130 en jetons) 
+Place 2: Thelifesp (47715 en jetons) 
+Place 4: x_MaRLaCa_x (60322 en jetons) 
+Place 5: yuiu639 (10570 en jetons) 
+Place 6: psychoman59 (4795 en jetons) 
+Place 7: gor3k (12580 en jetons) 
+pedroj.gomla : met l'ante. 100
+Thelifesp : met l'ante. 100
+x_MaRLaCa_x : met l'ante. 100
+yuiu639 : met l'ante. 100
+psychoman59 : met l'ante. 100
+gor3k : met l'ante. 100
+x_MaRLaCa_x : met la petite blind. 500
+yuiu639 : met la grosse blind. 1000
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Ts]
+psychoman59 : passe. 
+gor3k : passe. 
+pedroj.gomla : suit. 1000
+Thelifesp : passe. 
+x_MaRLaCa_x : relance. 59222 à 60222 et est all-in.
+yuiu639 : suit. 9470 et est all-in.
+NORTHDREAM54 est déconnecté 
+pedroj.gomla : passe. 
+Personne n'a suivi. (49752) sont retournés à x_MaRLaCa_x.
+*** FLOP *** [6h Jh Kc]
+*** TOURNANT *** [6h Jh Kc] [2h]
+*** RIVIÈRE *** [6h Jh Kc 2h] [Qc]
+*** ABATTAGE ***
+x_MaRLaCa_x : montre [Ad 4d] (Hauteur As)
+yuiu639 : montre [As Qh] (une paire de Dames)
+yuiu639 a remporté 22540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 22540 | Commission 0 
+Tableau [6h Jh Kc 2h Qc]
+Siège 1 : pedroj.gomla s'est couché. avant Flop
+Siège 2 : Thelifesp (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : x_MaRLaCa_x (petite blind) a montré [Ad 4d] et a perdu avec Hauteur As
+Siège 5 : yuiu639 (grosse blind) a montré [As Qh] et a gagné (22540) avec une paire de Dames
+Siège 6 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : gor3k s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°256219825935 : Tournoi #3890275318, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau IX (500/1000) - 20/05/2025 10:30:22 CET [20/05/2025 4:30:22 ET]
+Table '3890275318 3' 8-max Siège #4 est au bouton.
+Place 1: pedroj.gomla (6030 en jetons) 
+Place 2: Thelifesp (47615 en jetons) 
+Place 3: buzo224 (39400 en jetons) 
+Place 4: x_MaRLaCa_x (49752 en jetons) 
+Place 5: yuiu639 (22540 en jetons) 
+Place 6: psychoman59 (4695 en jetons) 
+Place 7: gor3k (12480 en jetons) 
+Place 8: NORTHDREAM54 (26750 en jetons) 
+pedroj.gomla : met l'ante. 100
+Thelifesp : met l'ante. 100
+buzo224 : met l'ante. 100
+x_MaRLaCa_x : met l'ante. 100
+yuiu639 : met l'ante. 100
+psychoman59 : met l'ante. 100
+gor3k : met l'ante. 100
+NORTHDREAM54 : met l'ante. 100
+yuiu639 : met la petite blind. 500
+psychoman59 : met la grosse blind. 1000
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 4h]
+gor3k a dépassé le temps imparti.
+gor3k : passe. 
+gor3k ne joue pas.
+gor3k est revenu.
+NORTHDREAM54 : passe. 
+pedroj.gomla : passe. 
+Thelifesp : passe. 
+buzo224 : passe. 
+x_MaRLaCa_x : relance. 1000 à 2000
+yuiu639 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (1000) sont retournés à x_MaRLaCa_x.
+x_MaRLaCa_x a remporté 3300  lors du pot .
+x_MaRLaCa_x : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 3300 | Commission 0 
+Siège 1 : pedroj.gomla s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Thelifesp s'est couché. avant Flop (n'a pas misé)
+Siège 3 : buzo224 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : x_MaRLaCa_x (bouton) a remporté (3300)
+Siège 5 : yuiu639 (petite blind) s'est couché. avant Flop
+Siège 6 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 7 : gor3k s'est couché. avant Flop (n'a pas misé)
+Siège 8 : NORTHDREAM54 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°256219828521 : Tournoi #3890275318, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau IX (500/1000) - 20/05/2025 10:30:57 CET [20/05/2025 4:30:57 ET]
+Table '3890275318 3' 8-max Siège #5 est au bouton.
+Place 1: pedroj.gomla (5930 en jetons) 
+Place 2: Thelifesp (47515 en jetons) 
+Place 3: buzo224 (39300 en jetons) 
+Place 4: x_MaRLaCa_x (51952 en jetons) 
+Place 5: yuiu639 (21940 en jetons) 
+Place 6: psychoman59 (3595 en jetons) 
+Place 7: gor3k (12380 en jetons) 
+Place 8: NORTHDREAM54 (26650 en jetons) 
+pedroj.gomla : met l'ante. 100
+Thelifesp : met l'ante. 100
+buzo224 : met l'ante. 100
+x_MaRLaCa_x : met l'ante. 100
+yuiu639 : met l'ante. 100
+psychoman59 : met l'ante. 100
+gor3k : met l'ante. 100
+NORTHDREAM54 : met l'ante. 100
+psychoman59 : met la petite blind. 500
+gor3k : met la grosse blind. 1000
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Jh]
+NORTHDREAM54 : suit. 1000
+pedroj.gomla : suit. 1000
+Thelifesp : passe. 
+buzo224 : passe. 
+x_MaRLaCa_x : passe. 
+yuiu639 : suit. 1000
+psychoman59 : relance. 2495 à 3495 et est all-in.
+gor3k : passe. 
+NORTHDREAM54 : passe. 
+pedroj.gomla : suit. 2495
+yuiu639 : relance. 13285 à 16780
+pedroj.gomla : suit. 2335 et est all-in.
+Personne n'a suivi. (10950) sont retournés à yuiu639.
+*** FLOP *** [7d 4h Qh]
+*** TOURNANT *** [7d 4h Qh] [Kh]
+*** RIVIÈRE *** [7d 4h Qh Kh] [Qc]
+*** ABATTAGE ***
+pedroj.gomla : montre [Qs Jc] (un brelan de Dames)
+yuiu639 : montre [4s Qd] (un full, full aux Dames par les Quatre)
+yuiu639 a remporté 4670  parallèle lors du pot .
+psychoman59 : montre [Js Jh] (double paire, Dames et Valets)
+yuiu639 a remporté 13285  principal lors du pot .
+pedroj.gomla a fini le tournoi en 52e position.
+psychoman59 a fini le tournoi en 53e position.
+*** SYNTHÈSE ***
+Pot total 17955 Principal pot 13285. Parallèle pot 4670. | Commission 0 
+Tableau [7d 4h Qh Kh Qc]
+Siège 1 : pedroj.gomla a montré [Qs Jc] et a perdu avec un brelan de Dames
+Siège 2 : Thelifesp s'est couché. avant Flop (n'a pas misé)
+Siège 3 : buzo224 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : x_MaRLaCa_x s'est couché. avant Flop (n'a pas misé)
+Siège 5 : yuiu639 (bouton) a montré [4s Qd] et a gagné (17955) avec un full, full aux Dames par les Quatre
+Siège 6 : psychoman59 (petite blind) a montré [Js Jh] et a perdu avec double paire, Dames et Valets
+Siège 7 : gor3k (grosse blind) s'est couché. avant Flop
+Siège 8 : NORTHDREAM54 s'est couché. avant Flop
+
+
+

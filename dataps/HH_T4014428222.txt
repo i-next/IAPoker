@@ -1,0 +1,870 @@
+﻿Main PokerStars n°261372270257 : Tournoi #4014428222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2026 10:41:48 CET [08/07/2026 4:41:48 ET]
+Table '4014428222 1' 3-max Siège #1 est au bouton.
+Place 1: gusglin (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: awana79 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+awana79 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 5s]
+gusglin : suit. 20
+psychoman59 : passe. 
+awana79 : parole 
+*** FLOP *** [8d 2c Th]
+awana79 : parole 
+gusglin : mise. 20
+awana79 : passe. 
+Personne n'a suivi. (20) sont retournés à gusglin.
+gusglin a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [8d 2c Th]
+Siège 1 : gusglin (bouton) a remporté (50)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : awana79 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261372271801 : Tournoi #4014428222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2026 10:42:13 CET [08/07/2026 4:42:13 ET]
+Table '4014428222 1' 3-max Siège #2 est au bouton.
+Place 1: gusglin (530 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: awana79 (480 en jetons) 
+awana79 : met la petite blind. 10
+gusglin : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 6h]
+psychoman59 : relance. 20 à 40
+awana79 : passe. 
+gusglin : suit. 20
+*** FLOP *** [Js 6d 7s]
+gusglin : parole 
+psychoman59 : mise. 45
+gusglin : passe. 
+Personne n'a suivi. (45) sont retournés à psychoman59.
+psychoman59 a remporté 90  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [Js 6d 7s]
+Siège 1 : gusglin (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) a remporté (90)
+Siège 3 : awana79 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261372273348 : Tournoi #4014428222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2026 10:42:37 CET [08/07/2026 4:42:37 ET]
+Table '4014428222 1' 3-max Siège #3 est au bouton.
+Place 1: gusglin (490 en jetons) 
+Place 2: psychoman59 (540 en jetons) 
+Place 3: awana79 (470 en jetons) 
+gusglin : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Td]
+awana79 : relance. 20 à 40
+gusglin : passe. 
+psychoman59 : suit. 20
+*** FLOP *** [Qs Jc Ah]
+psychoman59 : parole 
+awana79 : mise. 27
+psychoman59 : suit. 27
+*** TOURNANT *** [Qs Jc Ah] [Tc]
+psychoman59 : parole 
+awana79 : parole 
+*** RIVIÈRE *** [Qs Jc Ah Tc] [8h]
+psychoman59 : mise. 72
+awana79 : suit. 72
+*** ABATTAGE ***
+psychoman59 : montre [Js Td] (double paire, Valets et Dix)
+awana79 : montre [8c 8s] (un brelan de Huit)
+awana79 a remporté 288  lors du pot .
+*** SYNTHÈSE ***
+Pot total 288 | Commission 0 
+Tableau [Qs Jc Ah Tc 8h]
+Siège 1 : gusglin (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a montré [Js Td] et a perdu avec double paire, Valets et Dix
+Siège 3 : awana79 (bouton) a montré [8c 8s] et a gagné (288) avec un brelan de Huit
+
+
+
+Main PokerStars n°261372274909 : Tournoi #4014428222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2026 10:43:02 CET [08/07/2026 4:43:02 ET]
+Table '4014428222 1' 3-max Siège #1 est au bouton.
+Place 1: gusglin (480 en jetons) 
+Place 2: psychoman59 (401 en jetons) 
+Place 3: awana79 (619 en jetons) 
+psychoman59 : met la petite blind. 10
+awana79 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Ac]
+gusglin : suit. 20
+psychoman59 : suit. 10
+awana79 : relance. 40 à 60
+gusglin : suit. 40
+psychoman59 : suit. 40
+*** FLOP *** [4h Ah 4d]
+psychoman59 : parole 
+awana79 : mise. 54
+gusglin : passe. 
+psychoman59 : relance. 287 à 341 et est all-in.
+awana79 : passe. 
+Personne n'a suivi. (287) sont retournés à psychoman59.
+psychoman59 a remporté 288  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 288 | Commission 0 
+Tableau [4h Ah 4d]
+Siège 1 : gusglin (bouton) s'est couché. sur le Flop
+Siège 2 : psychoman59 (petite blind) a remporté (288)
+Siège 3 : awana79 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261372276554 : Tournoi #4014428222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2026 10:43:29 CET [08/07/2026 4:43:29 ET]
+Table '4014428222 1' 3-max Siège #2 est au bouton.
+Place 1: gusglin (420 en jetons) 
+Place 2: psychoman59 (575 en jetons) 
+Place 3: awana79 (505 en jetons) 
+awana79 : met la petite blind. 10
+gusglin : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 8h]
+psychoman59 : suit. 20
+awana79 : relance. 40 à 60
+gusglin : suit. 40
+psychoman59 : passe. 
+*** FLOP *** [Jc Qh 4c]
+awana79 : mise. 40
+gusglin : relance. 320 à 360 et est all-in.
+awana79 : passe. 
+Personne n'a suivi. (320) sont retournés à gusglin.
+gusglin a remporté 220  lors du pot .
+*** SYNTHÈSE ***
+Pot total 220 | Commission 0 
+Tableau [Jc Qh 4c]
+Siège 1 : gusglin (grosse blind) a remporté (220)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 3 : awana79 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261372278435 : Tournoi #4014428222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2026 10:43:59 CET [08/07/2026 4:43:59 ET]
+Table '4014428222 1' 3-max Siège #3 est au bouton.
+Place 1: gusglin (540 en jetons) 
+Place 2: psychoman59 (555 en jetons) 
+Place 3: awana79 (405 en jetons) 
+gusglin : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Jc]
+awana79 : passe. 
+gusglin : suit. 10
+psychoman59 : parole 
+*** FLOP *** [As 5s 6s]
+gusglin : parole 
+psychoman59 : parole 
+*** TOURNANT *** [As 5s 6s] [Js]
+gusglin : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [As 5s 6s Js] [9h]
+gusglin : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+gusglin : montre [7c 2h] (Hauteur As)
+psychoman59 : montre [8c Jc] (une paire de Valets)
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [As 5s 6s Js 9h]
+Siège 1 : gusglin (petite blind) a montré [7c 2h] et a perdu avec Hauteur As
+Siège 2 : psychoman59 (grosse blind) a montré [8c Jc] et a gagné (40) avec une paire de Valets
+Siège 3 : awana79 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261372279758 : Tournoi #4014428222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2026 10:44:20 CET [08/07/2026 4:44:20 ET]
+Table '4014428222 1' 3-max Siège #1 est au bouton.
+Place 1: gusglin (520 en jetons) 
+Place 2: psychoman59 (575 en jetons) 
+Place 3: awana79 (405 en jetons) 
+psychoman59 : met la petite blind. 10
+awana79 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 3s]
+gusglin : suit. 20
+psychoman59 : passe. 
+awana79 : relance. 385 à 405 et est all-in.
+gusglin : passe. 
+Personne n'a suivi. (385) sont retournés à awana79.
+awana79 a remporté 50  lors du pot .
+awana79 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : gusglin (bouton) s'est couché. avant Flop
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : awana79 (grosse blind) a remporté (50)
+
+
+
+Main PokerStars n°261372280637 : Tournoi #4014428222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2026 10:44:34 CET [08/07/2026 4:44:34 ET]
+Table '4014428222 1' 3-max Siège #2 est au bouton.
+Place 1: gusglin (500 en jetons) 
+Place 2: psychoman59 (565 en jetons) 
+Place 3: awana79 (435 en jetons) 
+awana79 : met la petite blind. 10
+gusglin : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 4d]
+psychoman59 : passe. 
+awana79 : relance. 20 à 40
+gusglin : suit. 20
+*** FLOP *** [2d Jh 9c]
+awana79 : parole 
+gusglin : parole 
+*** TOURNANT *** [2d Jh 9c] [Qs]
+awana79 : parole 
+gusglin : parole 
+*** RIVIÈRE *** [2d Jh 9c Qs] [9d]
+awana79 : parole 
+gusglin : parole 
+*** ABATTAGE ***
+awana79 : montre [7s 7c] (double paire, Neuf et Sept)
+gusglin : cache la main perdante. 
+awana79 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [2d Jh 9c Qs 9d]
+Siège 1 : gusglin (grosse blind) a caché la main perdante. [6s Kc]
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : awana79 (petite blind) a montré [7s 7c] et a gagné (80) avec double paire, Neuf et Sept
+
+
+
+Main PokerStars n°261372282146 : Tournoi #4014428222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/07/2026 10:44:57 CET [08/07/2026 4:44:57 ET]
+Table '4014428222 1' 3-max Siège #3 est au bouton.
+Place 1: gusglin (460 en jetons) 
+Place 2: psychoman59 (565 en jetons) 
+Place 3: awana79 (475 en jetons) 
+gusglin : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 6s]
+awana79 : relance. 30 à 60
+gusglin : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à awana79.
+awana79 a remporté 75  lors du pot .
+awana79 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : gusglin (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : awana79 (bouton) a remporté (75)
+
+
+
+Main PokerStars n°261372282770 : Tournoi #4014428222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/07/2026 10:45:07 CET [08/07/2026 4:45:07 ET]
+Table '4014428222 1' 3-max Siège #1 est au bouton.
+Place 1: gusglin (445 en jetons) 
+Place 2: psychoman59 (535 en jetons) 
+Place 3: awana79 (520 en jetons) 
+psychoman59 : met la petite blind. 15
+awana79 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Th]
+gusglin : passe. 
+psychoman59 : suit. 15
+awana79 : parole 
+*** FLOP *** [Ac Js 2h]
+psychoman59 : mise. 60
+awana79 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ac Js 2h]
+Siège 1 : gusglin (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (60)
+Siège 3 : awana79 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261372283501 : Tournoi #4014428222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/07/2026 10:45:19 CET [08/07/2026 4:45:19 ET]
+Table '4014428222 1' 3-max Siège #2 est au bouton.
+Place 1: gusglin (445 en jetons) 
+Place 2: psychoman59 (565 en jetons) 
+Place 3: awana79 (490 en jetons) 
+awana79 : met la petite blind. 15
+gusglin : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Qs]
+psychoman59 : relance. 535 à 565 et est all-in.
+awana79 : passe. 
+gusglin : passe. 
+Personne n'a suivi. (535) sont retournés à psychoman59.
+psychoman59 a remporté 75  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : gusglin (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a remporté (75)
+Siège 3 : awana79 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261372284003 : Tournoi #4014428222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/07/2026 10:45:26 CET [08/07/2026 4:45:26 ET]
+Table '4014428222 1' 3-max Siège #3 est au bouton.
+Place 1: gusglin (415 en jetons) 
+Place 2: psychoman59 (610 en jetons) 
+Place 3: awana79 (475 en jetons) 
+gusglin : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 3d]
+awana79 : passe. 
+gusglin : relance. 60 à 90
+psychoman59 : suit. 60
+*** FLOP *** [4h 2h Ts]
+gusglin : parole 
+psychoman59 : parole 
+*** TOURNANT *** [4h 2h Ts] [8s]
+gusglin : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [4h 2h Ts 8s] [7h]
+gusglin : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+gusglin : montre [Kc As] (Hauteur As)
+psychoman59 : cache la main perdante. 
+gusglin a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [4h 2h Ts 8s 7h]
+Siège 1 : gusglin (petite blind) a montré [Kc As] et a gagné (180) avec Hauteur As
+Siège 2 : psychoman59 (grosse blind) a caché la main perdante. [Ah 3d]
+Siège 3 : awana79 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261372285350 : Tournoi #4014428222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/07/2026 10:45:47 CET [08/07/2026 4:45:47 ET]
+Table '4014428222 1' 3-max Siège #1 est au bouton.
+Place 1: gusglin (505 en jetons) 
+Place 2: psychoman59 (520 en jetons) 
+Place 3: awana79 (475 en jetons) 
+psychoman59 : met la petite blind. 15
+awana79 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 4d]
+gusglin : passe. 
+psychoman59 : suit. 15
+awana79 : parole 
+*** FLOP *** [Qc 5c 5h]
+psychoman59 : mise. 490 et est all-in.
+awana79 : passe. 
+Personne n'a suivi. (490) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Qc 5c 5h]
+Siège 1 : gusglin (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (60)
+Siège 3 : awana79 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261372287475 : Tournoi #4014428222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/07/2026 10:46:21 CET [08/07/2026 4:46:21 ET]
+Table '4014428222 1' 3-max Siège #2 est au bouton.
+Place 1: gusglin (505 en jetons) 
+Place 2: psychoman59 (550 en jetons) 
+Place 3: awana79 (445 en jetons) 
+awana79 : met la petite blind. 15
+gusglin : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 9s]
+psychoman59 : passe. 
+awana79 : passe. 
+Personne n'a suivi. (15) sont retournés à gusglin.
+gusglin a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : gusglin (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : awana79 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261372287975 : Tournoi #4014428222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/07/2026 10:46:28 CET [08/07/2026 4:46:28 ET]
+Table '4014428222 1' 3-max Siège #3 est au bouton.
+Place 1: gusglin (520 en jetons) 
+Place 2: psychoman59 (550 en jetons) 
+Place 3: awana79 (430 en jetons) 
+gusglin : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Ks]
+awana79 : passe. 
+gusglin : relance. 30 à 60
+psychoman59 : relance. 490 à 550 et est all-in.
+gusglin : suit. 460 et est all-in.
+Personne n'a suivi. (30) sont retournés à psychoman59.
+*** FLOP *** [2d 3h Qh]
+*** TOURNANT *** [2d 3h Qh] [6d]
+*** RIVIÈRE *** [2d 3h Qh 6d] [Ts]
+*** ABATTAGE ***
+gusglin : montre [Kd Js] (Hauteur Roi)
+psychoman59 : montre [Kh Ks] (une paire de Rois)
+psychoman59 a remporté 1040  lors du pot .
+gusglin a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 1040 | Commission 0 
+Tableau [2d 3h Qh 6d Ts]
+Siège 1 : gusglin (petite blind) a montré [Kd Js] et a perdu avec Hauteur Roi
+Siège 2 : psychoman59 (grosse blind) a montré [Kh Ks] et a gagné (1040) avec une paire de Rois
+Siège 3 : awana79 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261372289164 : Tournoi #4014428222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/07/2026 10:46:47 CET [08/07/2026 4:46:47 ET]
+Table '4014428222 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1070 en jetons) 
+Place 3: awana79 (430 en jetons) 
+psychoman59 : met la petite blind. 15
+awana79 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Qs]
+psychoman59 : relance. 1040 à 1070 et est all-in.
+awana79 : passe. 
+Personne n'a suivi. (1040) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 3 : awana79 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261372289635 : Tournoi #4014428222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/07/2026 10:46:54 CET [08/07/2026 4:46:54 ET]
+Table '4014428222 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1100 en jetons) 
+Place 3: awana79 (400 en jetons) 
+awana79 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Ts]
+awana79 : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à awana79.
+awana79 a remporté 60  lors du pot .
+awana79 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : awana79 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°261372290029 : Tournoi #4014428222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/07/2026 10:47:00 CET [08/07/2026 4:47:00 ET]
+Table '4014428222 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1070 en jetons) 
+Place 3: awana79 (430 en jetons) 
+psychoman59 : met la petite blind. 15
+awana79 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Jc]
+psychoman59 : suit. 15
+awana79 : parole 
+*** FLOP *** [Th 4c 9c]
+awana79 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Th 4c 9c] [Kh]
+awana79 : parole 
+psychoman59 : mise. 60
+awana79 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Th 4c 9c Kh]
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 3 : awana79 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°261372291038 : Tournoi #4014428222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/07/2026 10:47:16 CET [08/07/2026 4:47:16 ET]
+Table '4014428222 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1100 en jetons) 
+Place 3: awana79 (400 en jetons) 
+awana79 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Qs]
+awana79 : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à awana79.
+awana79 a remporté 60  lors du pot .
+awana79 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : awana79 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°261372291439 : Tournoi #4014428222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/07/2026 10:47:22 CET [08/07/2026 4:47:22 ET]
+Table '4014428222 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1070 en jetons) 
+Place 3: awana79 (430 en jetons) 
+psychoman59 : met la petite blind. 15
+awana79 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Qs]
+psychoman59 : suit. 15
+awana79 : relance. 60 à 90
+psychoman59 : suit. 60
+*** FLOP *** [Ad 4c 9h]
+awana79 : mise. 45
+psychoman59 : passe. 
+Personne n'a suivi. (45) sont retournés à awana79.
+awana79 a remporté 180  lors du pot .
+awana79 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Ad 4c 9h]
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+Siège 3 : awana79 (grosse blind) a remporté (180)
+
+
+
+Main PokerStars n°261372292184 : Tournoi #4014428222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/07/2026 10:47:33 CET [08/07/2026 4:47:33 ET]
+Table '4014428222 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (980 en jetons) 
+Place 3: awana79 (520 en jetons) 
+awana79 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 4d]
+awana79 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [8d 6d 4s]
+psychoman59 : parole 
+awana79 : parole 
+*** TOURNANT *** [8d 6d 4s] [3c]
+psychoman59 : mise. 950 et est all-in.
+awana79 : passe. 
+Personne n'a suivi. (950) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [8d 6d 4s 3c]
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : awana79 (bouton) (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°261372293062 : Tournoi #4014428222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/07/2026 10:47:48 CET [08/07/2026 4:47:48 ET]
+Table '4014428222 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1010 en jetons) 
+Place 3: awana79 (490 en jetons) 
+psychoman59 : met la petite blind. 15
+awana79 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 6s]
+psychoman59 : suit. 15
+awana79 : relance. 75 à 105
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à awana79.
+awana79 a remporté 60  lors du pot .
+awana79 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : awana79 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°261372294023 : Tournoi #4014428222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 08/07/2026 10:48:02 CET [08/07/2026 4:48:02 ET]
+Table '4014428222 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (980 en jetons) 
+Place 3: awana79 (520 en jetons) 
+awana79 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 8h]
+awana79 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [6s Qs 3h]
+psychoman59 : parole 
+awana79 : parole 
+*** TOURNANT *** [6s Qs 3h] [5d]
+psychoman59 : parole 
+awana79 : mise. 120
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à awana79.
+awana79 a remporté 80  lors du pot .
+awana79 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [6s Qs 3h 5d]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : awana79 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°261372295338 : Tournoi #4014428222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 08/07/2026 10:48:22 CET [08/07/2026 4:48:22 ET]
+Table '4014428222 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (940 en jetons) 
+Place 3: awana79 (560 en jetons) 
+psychoman59 : met la petite blind. 20
+awana79 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 9d]
+psychoman59 : suit. 20
+awana79 : parole 
+*** FLOP *** [5h 6c 2s]
+awana79 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5h 6c 2s] [3d]
+awana79 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à awana79.
+awana79 a remporté 80  lors du pot .
+awana79 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [5h 6c 2s 3d]
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Tournant
+Siège 3 : awana79 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°261372296142 : Tournoi #4014428222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 08/07/2026 10:48:35 CET [08/07/2026 4:48:35 ET]
+Table '4014428222 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (900 en jetons) 
+Place 3: awana79 (600 en jetons) 
+awana79 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Qd]
+awana79 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : awana79 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261372296502 : Tournoi #4014428222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 08/07/2026 10:48:40 CET [08/07/2026 4:48:40 ET]
+Table '4014428222 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (920 en jetons) 
+Place 3: awana79 (580 en jetons) 
+psychoman59 : met la petite blind. 20
+awana79 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 4h]
+psychoman59 : relance. 880 à 920 et est all-in.
+awana79 : passe. 
+Personne n'a suivi. (880) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 3 : awana79 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261372296885 : Tournoi #4014428222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 08/07/2026 10:48:47 CET [08/07/2026 4:48:47 ET]
+Table '4014428222 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (960 en jetons) 
+Place 3: awana79 (540 en jetons) 
+awana79 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Jc]
+awana79 : relance. 40 à 80
+psychoman59 : relance. 880 à 960 et est all-in.
+awana79 : passe. 
+Personne n'a suivi. (880) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (160)
+Siège 3 : awana79 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261372297499 : Tournoi #4014428222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 08/07/2026 10:48:56 CET [08/07/2026 4:48:56 ET]
+Table '4014428222 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1040 en jetons) 
+Place 3: awana79 (460 en jetons) 
+psychoman59 : met la petite blind. 20
+awana79 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Kh]
+psychoman59 : suit. 20
+awana79 : relance. 420 à 460 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (420) sont retournés à awana79.
+awana79 a remporté 80  lors du pot .
+awana79 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : awana79 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°261372298313 : Tournoi #4014428222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 08/07/2026 10:49:09 CET [08/07/2026 4:49:09 ET]
+Table '4014428222 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1000 en jetons) 
+Place 3: awana79 (500 en jetons) 
+awana79 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Ah]
+awana79 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : awana79 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261372298653 : Tournoi #4014428222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 08/07/2026 10:49:15 CET [08/07/2026 4:49:15 ET]
+Table '4014428222 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1020 en jetons) 
+Place 3: awana79 (480 en jetons) 
+psychoman59 : met la petite blind. 20
+awana79 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 6c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à awana79.
+awana79 a remporté 40  lors du pot .
+awana79 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : awana79 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°261372298964 : Tournoi #4014428222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 08/07/2026 10:49:20 CET [08/07/2026 4:49:20 ET]
+Table '4014428222 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1000 en jetons) 
+Place 3: awana79 (500 en jetons) 
+awana79 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 4s]
+awana79 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : awana79 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261372299245 : Tournoi #4014428222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 08/07/2026 10:49:24 CET [08/07/2026 4:49:24 ET]
+Table '4014428222 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1020 en jetons) 
+Place 3: awana79 (480 en jetons) 
+psychoman59 : met la petite blind. 20
+awana79 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Ts]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à awana79.
+awana79 a remporté 40  lors du pot .
+awana79 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : awana79 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°261372299600 : Tournoi #4014428222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 08/07/2026 10:49:29 CET [08/07/2026 4:49:29 ET]
+Table '4014428222 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1000 en jetons) 
+Place 3: awana79 (500 en jetons) 
+awana79 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 7c]
+awana79 : suit. 20
+psychoman59 : relance. 960 à 1000 et est all-in.
+awana79 : passe. 
+Personne n'a suivi. (960) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : awana79 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261372300097 : Tournoi #4014428222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 08/07/2026 10:49:37 CET [08/07/2026 4:49:37 ET]
+Table '4014428222 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1040 en jetons) 
+Place 3: awana79 (460 en jetons) 
+psychoman59 : met la petite blind. 20
+awana79 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 6c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à awana79.
+awana79 a remporté 40  lors du pot .
+awana79 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : awana79 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°261372300464 : Tournoi #4014428222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 08/07/2026 10:49:43 CET [08/07/2026 4:49:43 ET]
+Table '4014428222 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1020 en jetons) 
+Place 3: awana79 (480 en jetons) 
+awana79 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Ac]
+awana79 : suit. 20
+psychoman59 : relance. 980 à 1020 et est all-in.
+awana79 : suit. 440 et est all-in.
+Personne n'a suivi. (540) sont retournés à psychoman59.
+*** FLOP *** [7d 4d 2d]
+*** TOURNANT *** [7d 4d 2d] [6s]
+*** RIVIÈRE *** [7d 4d 2d 6s] [5h]
+*** ABATTAGE ***
+psychoman59 : montre [Kd Ac] (Hauteur As)
+awana79 : montre [Qs Js] (Hauteur Dame)
+psychoman59 a remporté 960  lors du pot .
+awana79 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 4.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 960 | Commission 0 
+Tableau [7d 4d 2d 6s 5h]
+Siège 2 : psychoman59 (grosse blind) a montré [Kd Ac] et a gagné (960) avec Hauteur As
+Siège 3 : awana79 (bouton) (petite blind) a montré [Qs Js] et a perdu avec Hauteur Dame
+
+
+

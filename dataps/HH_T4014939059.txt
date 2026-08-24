@@ -1,0 +1,94 @@
+﻿Main PokerStars n°261392435246 : Tournoi #4014939059, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/07/2026 10:56:27 CET [10/07/2026 4:56:27 ET]
+Table '4014939059 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: Joker23T (500 en jetons) 
+Place 3: AndréMSantos8 (500 en jetons) 
+Joker23T : met la petite blind. 10
+AndréMSantos8 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Kd]
+psychoman59 : relance. 480 à 500 et est all-in.
+Joker23T : passe. 
+AndréMSantos8 : passe. 
+Personne n'a suivi. (480) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : psychoman59 (bouton) a remporté (50)
+Siège 2 : Joker23T (petite blind) s'est couché. avant Flop
+Siège 3 : AndréMSantos8 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261392435887 : Tournoi #4014939059, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/07/2026 10:56:40 CET [10/07/2026 4:56:40 ET]
+Table '4014939059 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (530 en jetons) 
+Place 2: Joker23T (490 en jetons) 
+Place 3: AndréMSantos8 (480 en jetons) 
+AndréMSantos8 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 4c]
+Joker23T : relance. 20 à 40
+AndréMSantos8 : suit. 30
+psychoman59 : passe. 
+*** FLOP *** [Ah 6s Kh]
+AndréMSantos8 : parole 
+Joker23T : mise. 20
+AndréMSantos8 : suit. 20
+*** TOURNANT *** [Ah 6s Kh] [7c]
+AndréMSantos8 : parole 
+Joker23T : parole 
+*** RIVIÈRE *** [Ah 6s Kh 7c] [7s]
+AndréMSantos8 : parole 
+Joker23T : mise. 84
+AndréMSantos8 : passe. 
+Personne n'a suivi. (84) sont retournés à Joker23T.
+Joker23T a remporté 140  lors du pot .
+Joker23T : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [Ah 6s Kh 7c 7s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Joker23T (bouton) a remporté (140)
+Siège 3 : AndréMSantos8 (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°261392439119 : Tournoi #4014939059, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/07/2026 10:57:40 CET [10/07/2026 4:57:40 ET]
+Table '4014939059 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (510 en jetons) 
+Place 2: Joker23T (570 en jetons) 
+Place 3: AndréMSantos8 (420 en jetons) 
+psychoman59 : met la petite blind. 10
+Joker23T : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Qc]
+AndréMSantos8 : passe. 
+psychoman59 : suit. 10
+Joker23T : relance. 30 à 50
+psychoman59 : suit. 30
+*** FLOP *** [3d Jd 9d]
+psychoman59 : parole 
+Joker23T : mise. 40
+psychoman59 : relance. 420 à 460 et est all-in.
+AndréMSantos8 est déconnecté 
+Joker23T : suit. 420
+*** TOURNANT *** [3d Jd 9d] [6h]
+AndréMSantos8 est déconnecté 
+*** RIVIÈRE *** [3d Jd 9d 6h] [8h]
+*** ABATTAGE ***
+psychoman59 : montre [Js Qc] (une paire de Valets)
+Joker23T : montre [Kd Jh] (une paire de Valets - Roi kicker)
+Joker23T a remporté 1020  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 1020 | Commission 0 
+Tableau [3d Jd 9d 6h 8h]
+Siège 1 : psychoman59 (petite blind) a montré [Js Qc] et a perdu avec une paire de Valets
+Siège 2 : Joker23T (grosse blind) a montré [Kd Jh] et a gagné (1020) avec une paire de Valets
+Siège 3 : AndréMSantos8 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+

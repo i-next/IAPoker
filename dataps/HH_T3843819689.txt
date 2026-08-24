@@ -1,0 +1,86 @@
+﻿Main PokerStars n°254241436572 : Tournoi #3843819689, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 07/01/2025 7:15:18 CET [07/01/2025 1:15:18 ET]
+Table '3843819689 1' 3-max Siège #1 est au bouton.
+Place 1: ROXP1 (500 en jetons) 
+Place 2: deniro55530 (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+deniro55530 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 2c]
+ROXP1 : relance. 20 à 40
+deniro55530 : passe. 
+psychoman59 : suit. 20
+*** FLOP *** [Th 4s Kd]
+psychoman59 : parole 
+ROXP1 : mise. 45
+psychoman59 : passe. 
+Personne n'a suivi. (45) sont retournés à ROXP1.
+ROXP1 a remporté 90  lors du pot .
+ROXP1 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [Th 4s Kd]
+Siège 1 : ROXP1 (bouton) a remporté (90)
+Siège 2 : deniro55530 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°254241437890 : Tournoi #3843819689, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 07/01/2025 7:15:37 CET [07/01/2025 1:15:37 ET]
+Table '3843819689 1' 3-max Siège #2 est au bouton.
+Place 1: ROXP1 (550 en jetons) 
+Place 2: deniro55530 (490 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+psychoman59 : met la petite blind. 10
+ROXP1 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 8c]
+deniro55530 : relance. 20 à 40
+psychoman59 : suit. 30
+ROXP1 : suit. 20
+*** FLOP *** [6c 5s 5h]
+psychoman59 : parole 
+ROXP1 : mise. 120
+deniro55530 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à ROXP1.
+ROXP1 a remporté 120  lors du pot .
+ROXP1 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [6c 5s 5h]
+Siège 1 : ROXP1 (grosse blind) a remporté (120)
+Siège 2 : deniro55530 (bouton) s'est couché. sur le Flop
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°254241439289 : Tournoi #3843819689, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 07/01/2025 7:15:58 CET [07/01/2025 1:15:58 ET]
+Table '3843819689 1' 3-max Siège #3 est au bouton.
+Place 1: ROXP1 (630 en jetons) 
+Place 2: deniro55530 (450 en jetons) 
+Place 3: psychoman59 (420 en jetons) 
+ROXP1 : met la petite blind. 10
+deniro55530 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 6h]
+psychoman59 : relance. 400 à 420 et est all-in.
+ROXP1 : passe. 
+deniro55530 : suit. 400
+*** FLOP *** [Qs Td 5h]
+*** TOURNANT *** [Qs Td 5h] [8c]
+*** RIVIÈRE *** [Qs Td 5h 8c] [Jd]
+*** ABATTAGE ***
+deniro55530 : montre [As Kd] (une suite, Dix à As)
+psychoman59 : montre [6c 6h] (une paire de Six)
+deniro55530 a remporté 850  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 850 | Commission 0 
+Tableau [Qs Td 5h 8c Jd]
+Siège 1 : ROXP1 (petite blind) s'est couché. avant Flop
+Siège 2 : deniro55530 (grosse blind) a montré [As Kd] et a gagné (850) avec une suite, Dix à As
+Siège 3 : psychoman59 (bouton) a montré [6c 6h] et a perdu avec une paire de Six
+
+
+

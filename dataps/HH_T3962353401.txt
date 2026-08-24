@@ -1,0 +1,590 @@
+﻿Main PokerStars n°259166523834 : Tournoi #3962353401, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 04/01/2026 8:03:56 CET [04/01/2026 2:03:56 ET]
+Table '3962353401 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: bbkb9 (500 en jetons) 
+Place 3: pannadj (500 en jetons) 
+bbkb9 : met la petite blind. 10
+pannadj : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 4c]
+psychoman59 : passe. 
+bbkb9 : relance. 40 à 60
+pannadj : suit. 40
+*** FLOP *** [9h Qd 7s]
+bbkb9 : mise. 30
+pannadj : passe. 
+Personne n'a suivi. (30) sont retournés à bbkb9.
+bbkb9 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [9h Qd 7s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : bbkb9 (petite blind) a remporté (120)
+Siège 3 : pannadj (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°259166525937 : Tournoi #3962353401, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 04/01/2026 8:04:28 CET [04/01/2026 2:04:28 ET]
+Table '3962353401 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: bbkb9 (560 en jetons) 
+Place 3: pannadj (440 en jetons) 
+pannadj : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 7c]
+bbkb9 : passe. 
+pannadj : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Th Tc Kc]
+pannadj : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Th Tc Kc] [Qc]
+pannadj : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Th Tc Kc Qc] [9h]
+pannadj : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+pannadj : montre [4h Ad] (une paire de Dix)
+psychoman59 : cache la main perdante. 
+pannadj a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Th Tc Kc Qc 9h]
+Siège 1 : psychoman59 (grosse blind) a caché la main perdante. [4s 7c]
+Siège 2 : bbkb9 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : pannadj (petite blind) a montré [4h Ad] et a gagné (40) avec une paire de Dix
+
+
+
+Main PokerStars n°259166530087 : Tournoi #3962353401, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 04/01/2026 8:05:31 CET [04/01/2026 2:05:31 ET]
+Table '3962353401 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (480 en jetons) 
+Place 2: bbkb9 (560 en jetons) 
+Place 3: pannadj (460 en jetons) 
+psychoman59 : met la petite blind. 10
+bbkb9 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 5c]
+pannadj : passe. 
+psychoman59 : relance. 460 à 480 et est all-in.
+bbkb9 : passe. 
+Personne n'a suivi. (460) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (petite blind) a remporté (40)
+Siège 2 : bbkb9 (grosse blind) s'est couché. avant Flop
+Siège 3 : pannadj (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°259166530985 : Tournoi #3962353401, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 04/01/2026 8:05:45 CET [04/01/2026 2:05:45 ET]
+Table '3962353401 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: bbkb9 (540 en jetons) 
+Place 3: pannadj (460 en jetons) 
+bbkb9 : met la petite blind. 10
+pannadj : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 2d]
+psychoman59 : passe. 
+bbkb9 : relance. 40 à 60
+pannadj : suit. 40
+*** FLOP *** [Qs Kc 5s]
+bbkb9 : mise. 40
+pannadj : suit. 40
+*** TOURNANT *** [Qs Kc 5s] [6d]
+bbkb9 : parole 
+pannadj : parole 
+*** RIVIÈRE *** [Qs Kc 5s 6d] [As]
+bbkb9 : parole 
+pannadj : parole 
+*** ABATTAGE ***
+bbkb9 : montre [3c 6c] (une paire de Six)
+pannadj : montre [8s Qc] (une paire de Dames)
+pannadj a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [Qs Kc 5s 6d As]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : bbkb9 (petite blind) a montré [3c 6c] et a perdu avec une paire de Six
+Siège 3 : pannadj (grosse blind) a montré [8s Qc] et a gagné (200) avec une paire de Dames
+
+
+
+Main PokerStars n°259166534430 : Tournoi #3962353401, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 04/01/2026 8:06:37 CET [04/01/2026 2:06:37 ET]
+Table '3962353401 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: bbkb9 (440 en jetons) 
+Place 3: pannadj (560 en jetons) 
+pannadj : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Ah]
+bbkb9 : passe. 
+pannadj : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (30)
+Siège 2 : bbkb9 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : pannadj (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°259166535241 : Tournoi #3962353401, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 04/01/2026 8:06:48 CET [04/01/2026 2:06:48 ET]
+Table '3962353401 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (515 en jetons) 
+Place 2: bbkb9 (440 en jetons) 
+Place 3: pannadj (545 en jetons) 
+psychoman59 : met la petite blind. 15
+bbkb9 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Ac]
+pannadj : suit. 30
+psychoman59 : suit. 15
+bbkb9 : parole 
+*** FLOP *** [2s 2c 8h]
+psychoman59 : parole 
+bbkb9 : mise. 45
+pannadj : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (45) sont retournés à bbkb9.
+bbkb9 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [2s 2c 8h]
+Siège 1 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 2 : bbkb9 (grosse blind) a remporté (90)
+Siège 3 : pannadj (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°259166537328 : Tournoi #3962353401, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 04/01/2026 8:07:20 CET [04/01/2026 2:07:20 ET]
+Table '3962353401 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (485 en jetons) 
+Place 2: bbkb9 (500 en jetons) 
+Place 3: pannadj (515 en jetons) 
+bbkb9 : met la petite blind. 15
+pannadj : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 4h]
+psychoman59 : passe. 
+bbkb9 : relance. 60 à 90
+pannadj : passe. 
+Personne n'a suivi. (60) sont retournés à bbkb9.
+bbkb9 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : bbkb9 (petite blind) a remporté (60)
+Siège 3 : pannadj (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°259166538050 : Tournoi #3962353401, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 04/01/2026 8:07:31 CET [04/01/2026 2:07:31 ET]
+Table '3962353401 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (485 en jetons) 
+Place 2: bbkb9 (530 en jetons) 
+Place 3: pannadj (485 en jetons) 
+pannadj : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Ts]
+bbkb9 : relance. 60 à 90
+pannadj : suit. 75
+psychoman59 : passe. 
+*** FLOP *** [5s 9c 2c]
+pannadj : parole 
+bbkb9 : parole 
+*** TOURNANT *** [5s 9c 2c] [8d]
+pannadj : mise. 30
+bbkb9 : suit. 30
+*** RIVIÈRE *** [5s 9c 2c 8d] [2s]
+pannadj : mise. 30
+bbkb9 : relance. 135 à 165
+pannadj : passe. 
+Personne n'a suivi. (135) sont retournés à bbkb9.
+bbkb9 a remporté 330  lors du pot .
+*** SYNTHÈSE ***
+Pot total 330 | Commission 0 
+Tableau [5s 9c 2c 8d 2s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : bbkb9 (bouton) a remporté (330)
+Siège 3 : pannadj (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°259166542241 : Tournoi #3962353401, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 04/01/2026 8:08:35 CET [04/01/2026 2:08:35 ET]
+Table '3962353401 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (455 en jetons) 
+Place 2: bbkb9 (710 en jetons) 
+Place 3: pannadj (335 en jetons) 
+psychoman59 : met la petite blind. 20
+bbkb9 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 5h]
+pannadj : suit. 40
+psychoman59 : passe. 
+bbkb9 : parole 
+*** FLOP *** [Jc 3c Kc]
+bbkb9 : parole 
+pannadj : mise. 40
+bbkb9 : suit. 40
+*** TOURNANT *** [Jc 3c Kc] [7c]
+bbkb9 : parole 
+pannadj : parole 
+*** RIVIÈRE *** [Jc 3c Kc 7c] [3d]
+bbkb9 : mise. 90
+pannadj : suit. 90
+*** ABATTAGE ***
+bbkb9 : montre [5c 8s] (une couleur, hauteur Roi)
+pannadj : cache la main perdante. 
+bbkb9 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [Jc 3c Kc 7c 3d]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : bbkb9 (grosse blind) a montré [5c 8s] et a gagné (360) avec une couleur, hauteur Roi
+Siège 3 : pannadj (bouton) a caché la main perdante. [Qs Kh]
+
+
+
+Main PokerStars n°259166545422 : Tournoi #3962353401, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 04/01/2026 8:09:24 CET [04/01/2026 2:09:24 ET]
+Table '3962353401 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (435 en jetons) 
+Place 2: bbkb9 (900 en jetons) 
+Place 3: pannadj (165 en jetons) 
+bbkb9 : met la petite blind. 20
+pannadj : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 2s]
+psychoman59 : passe. 
+bbkb9 : relance. 80 à 120
+pannadj : suit. 80
+*** FLOP *** [4s 6h Qh]
+bbkb9 : mise. 40
+pannadj : relance. 5 à 45 et est all-in.
+bbkb9 : suit. 5
+*** TOURNANT *** [4s 6h Qh] [7s]
+*** RIVIÈRE *** [4s 6h Qh 7s] [9c]
+*** ABATTAGE ***
+bbkb9 : montre [8d Ks] (Hauteur Roi)
+pannadj : montre [Jh Qs] (une paire de Dames)
+pannadj a remporté 330  lors du pot .
+*** SYNTHÈSE ***
+Pot total 330 | Commission 0 
+Tableau [4s 6h Qh 7s 9c]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : bbkb9 (petite blind) a montré [8d Ks] et a perdu avec Hauteur Roi
+Siège 3 : pannadj (grosse blind) a montré [Jh Qs] et a gagné (330) avec une paire de Dames
+
+
+
+Main PokerStars n°259166547417 : Tournoi #3962353401, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 04/01/2026 8:09:55 CET [04/01/2026 2:09:55 ET]
+Table '3962353401 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (435 en jetons) 
+Place 2: bbkb9 (735 en jetons) 
+Place 3: pannadj (330 en jetons) 
+pannadj : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Jc]
+bbkb9 : relance. 80 à 120
+pannadj : suit. 100
+psychoman59 : passe. 
+*** FLOP *** [2d 6h 7s]
+pannadj : parole 
+bbkb9 : mise. 100
+pannadj : passe. 
+Personne n'a suivi. (100) sont retournés à bbkb9.
+bbkb9 a remporté 280  lors du pot .
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Tableau [2d 6h 7s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : bbkb9 (bouton) a remporté (280)
+Siège 3 : pannadj (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°259166550303 : Tournoi #3962353401, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 04/01/2026 8:10:38 CET [04/01/2026 2:10:38 ET]
+Table '3962353401 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (395 en jetons) 
+Place 2: bbkb9 (895 en jetons) 
+Place 3: pannadj (210 en jetons) 
+psychoman59 : met la petite blind. 30
+bbkb9 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 8h]
+pannadj : relance. 150 à 210 et est all-in.
+psychoman59 : passe. 
+bbkb9 : suit. 150
+*** FLOP *** [Kh 3d 7c]
+*** TOURNANT *** [Kh 3d 7c] [7s]
+*** RIVIÈRE *** [Kh 3d 7c 7s] [5s]
+*** ABATTAGE ***
+bbkb9 : montre [As 4c] (une paire de Sept)
+pannadj : montre [9h Ah] (une paire de Sept - As+Roi+Neuf kicker)
+pannadj a remporté 450  lors du pot .
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Tableau [Kh 3d 7c 7s 5s]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : bbkb9 (grosse blind) a montré [As 4c] et a perdu avec une paire de Sept
+Siège 3 : pannadj (bouton) a montré [9h Ah] et a gagné (450) avec une paire de Sept
+
+
+
+Main PokerStars n°259166551531 : Tournoi #3962353401, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 04/01/2026 8:10:57 CET [04/01/2026 2:10:57 ET]
+Table '3962353401 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (365 en jetons) 
+Place 2: bbkb9 (685 en jetons) 
+Place 3: pannadj (450 en jetons) 
+bbkb9 : met la petite blind. 30
+pannadj : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Ah]
+psychoman59 : relance. 305 à 365 et est all-in.
+bbkb9 : passe. 
+pannadj : passe. 
+Personne n'a suivi. (305) sont retournés à psychoman59.
+psychoman59 a remporté 150  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Siège 1 : psychoman59 (bouton) a remporté (150)
+Siège 2 : bbkb9 (petite blind) s'est couché. avant Flop
+Siège 3 : pannadj (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°259166552508 : Tournoi #3962353401, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 04/01/2026 8:11:11 CET [04/01/2026 2:11:11 ET]
+Table '3962353401 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (455 en jetons) 
+Place 2: bbkb9 (655 en jetons) 
+Place 3: pannadj (390 en jetons) 
+pannadj : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 8h]
+bbkb9 : passe. 
+pannadj : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Ac Jd 7s]
+pannadj : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Ac Jd 7s] [Th]
+pannadj : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Ac Jd 7s Th] [7c]
+pannadj : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+pannadj : montre [3s Qd] (une paire de Sept)
+psychoman59 : cache la main perdante. 
+pannadj a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Ac Jd 7s Th 7c]
+Siège 1 : psychoman59 (grosse blind) a caché la main perdante. [2c 8h]
+Siège 2 : bbkb9 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : pannadj (petite blind) a montré [3s Qd] et a gagné (120) avec une paire de Sept
+
+
+
+Main PokerStars n°259166556727 : Tournoi #3962353401, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 04/01/2026 8:12:15 CET [04/01/2026 2:12:15 ET]
+Table '3962353401 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (395 en jetons) 
+Place 2: bbkb9 (655 en jetons) 
+Place 3: pannadj (450 en jetons) 
+psychoman59 : met la petite blind. 40
+bbkb9 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Qd]
+pannadj a dépassé le temps imparti.
+pannadj : passe. 
+pannadj ne joue pas.
+pannadj est revenu.
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à bbkb9.
+bbkb9 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : bbkb9 (grosse blind) a remporté (80)
+Siège 3 : pannadj (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°259166557871 : Tournoi #3962353401, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 04/01/2026 8:12:32 CET [04/01/2026 2:12:32 ET]
+Table '3962353401 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (355 en jetons) 
+Place 2: bbkb9 (695 en jetons) 
+Place 3: pannadj (450 en jetons) 
+bbkb9 : met la petite blind. 40
+pannadj : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Js]
+psychoman59 : passe. 
+bbkb9 : relance. 160 à 240
+pannadj : passe. 
+Personne n'a suivi. (160) sont retournés à bbkb9.
+bbkb9 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : bbkb9 (petite blind) a remporté (160)
+Siège 3 : pannadj (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°259166558818 : Tournoi #3962353401, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 04/01/2026 8:12:47 CET [04/01/2026 2:12:47 ET]
+Table '3962353401 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (355 en jetons) 
+Place 2: bbkb9 (775 en jetons) 
+Place 3: pannadj (370 en jetons) 
+pannadj : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 9c]
+bbkb9 : passe. 
+pannadj : relance. 290 à 370 et est all-in.
+psychoman59 : suit. 275 et est all-in.
+Personne n'a suivi. (15) sont retournés à pannadj.
+*** FLOP *** [7d Tc 8h]
+*** TOURNANT *** [7d Tc 8h] [Th]
+*** RIVIÈRE *** [7d Tc 8h Th] [2d]
+*** ABATTAGE ***
+pannadj : montre [Jh 3h] (une paire de Dix)
+psychoman59 : montre [Kd 9c] (une paire de Dix - Roi kicker)
+psychoman59 a remporté 710  lors du pot .
+*** SYNTHÈSE ***
+Pot total 710 | Commission 0 
+Tableau [7d Tc 8h Th 2d]
+Siège 1 : psychoman59 (grosse blind) a montré [Kd 9c] et a gagné (710) avec une paire de Dix
+Siège 2 : bbkb9 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : pannadj (petite blind) a montré [Jh 3h] et a perdu avec une paire de Dix
+
+
+
+Main PokerStars n°259166559947 : Tournoi #3962353401, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 04/01/2026 8:13:04 CET [04/01/2026 2:13:04 ET]
+Table '3962353401 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (710 en jetons) 
+Place 2: bbkb9 (775 en jetons) 
+Place 3: pannadj (15 en jetons) 
+psychoman59 : met la petite blind. 40
+bbkb9 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 9s]
+pannadj : suit. 15 et est all-in.
+psychoman59 : relance. 630 à 710 et est all-in.
+bbkb9 : passe. 
+Personne n'a suivi. (630) sont retournés à psychoman59.
+*** FLOP *** [8s 5c 5s]
+*** TOURNANT *** [8s 5c 5s] [Jc]
+*** RIVIÈRE *** [8s 5c 5s Jc] [6c]
+*** ABATTAGE ***
+psychoman59 : montre [As 9s] (une paire de Cinq)
+psychoman59 a remporté 130  parallèle lors du pot .
+pannadj : montre [Js Ks] (double paire, Valets et Cinq)
+pannadj a remporté 45  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 175 Principal pot 45. Parallèle pot 130. | Commission 0 
+Tableau [8s 5c 5s Jc 6c]
+Siège 1 : psychoman59 (petite blind) a montré [As 9s] et a gagné (130) avec une paire de Cinq
+Siège 2 : bbkb9 (grosse blind) s'est couché. avant Flop
+Siège 3 : pannadj (bouton) a montré [Js Ks] et a gagné (45) avec double paire, Valets et Cinq
+
+
+
+Main PokerStars n°259166561189 : Tournoi #3962353401, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 04/01/2026 8:13:23 CET [04/01/2026 2:13:23 ET]
+Table '3962353401 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (760 en jetons) 
+Place 2: bbkb9 (695 en jetons) 
+Place 3: pannadj (45 en jetons) 
+bbkb9 : met la petite blind. 40
+pannadj : met la grosse blind. 45 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Ks]
+psychoman59 : passe. 
+bbkb9 : suit. 5
+*** FLOP *** [Ac 3h Jh]
+*** TOURNANT *** [Ac 3h Jh] [7c]
+*** RIVIÈRE *** [Ac 3h Jh 7c] [2s]
+*** ABATTAGE ***
+bbkb9 : montre [Td 9d] (Hauteur As)
+pannadj : montre [4c 7s] (une paire de Sept)
+pannadj a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [Ac 3h Jh 7c 2s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : bbkb9 (petite blind) a montré [Td 9d] et a perdu avec Hauteur As
+Siège 3 : pannadj (grosse blind) a montré [4c 7s] et a gagné (90) avec une paire de Sept
+
+
+
+Main PokerStars n°259166562324 : Tournoi #3962353401, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 04/01/2026 8:13:41 CET [04/01/2026 2:13:41 ET]
+Table '3962353401 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (760 en jetons) 
+Place 2: bbkb9 (650 en jetons) 
+Place 3: pannadj (90 en jetons) 
+pannadj : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 3c]
+bbkb9 : passe. 
+pannadj : relance. 10 à 90 et est all-in.
+psychoman59 : suit. 10
+*** FLOP *** [6d 6c 9h]
+*** TOURNANT *** [6d 6c 9h] [Ac]
+*** RIVIÈRE *** [6d 6c 9h Ac] [2c]
+*** ABATTAGE ***
+pannadj : montre [Td 3d] (une paire de Six)
+psychoman59 : montre [9d 3c] (double paire, Neuf et Six)
+psychoman59 a remporté 180  lors du pot .
+pannadj a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [6d 6c 9h Ac 2c]
+Siège 1 : psychoman59 (grosse blind) a montré [9d 3c] et a gagné (180) avec double paire, Neuf et Six
+Siège 2 : bbkb9 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : pannadj (petite blind) a montré [Td 3d] et a perdu avec une paire de Six
+
+
+
+Main PokerStars n°259166563899 : Tournoi #3962353401, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (50/100) - 04/01/2026 8:14:05 CET [04/01/2026 2:14:05 ET]
+Table '3962353401 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (850 en jetons) 
+Place 2: bbkb9 (650 en jetons) 
+psychoman59 : met la petite blind. 50
+bbkb9 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Ad]
+psychoman59 : relance. 750 à 850 et est all-in.
+bbkb9 : suit. 550 et est all-in.
+Personne n'a suivi. (200) sont retournés à psychoman59.
+*** FLOP *** [Ah 2d Jh]
+*** TOURNANT *** [Ah 2d Jh] [2c]
+*** RIVIÈRE *** [Ah 2d Jh 2c] [6c]
+*** ABATTAGE ***
+bbkb9 : montre [7d Kd] (une paire de Deux)
+psychoman59 : montre [9d Ad] (double paire, As et Deux)
+psychoman59 a remporté 1300  lors du pot .
+bbkb9 a fini le tournoi en 2e position.
+psychoman59 gagne le tournoi - félicitations !
+psychoman59 gagne un ticket " €1.50 Step 2 SnG Power Path ticket "
+*** SYNTHÈSE ***
+Pot total 1300 | Commission 0 
+Tableau [Ah 2d Jh 2c 6c]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [9d Ad] et a gagné (1300) avec double paire, As et Deux
+Siège 2 : bbkb9 (grosse blind) a montré [7d Kd] et a perdu avec une paire de Deux
+
+
+

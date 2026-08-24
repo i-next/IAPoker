@@ -1,0 +1,788 @@
+﻿Main PokerStars n°251276043532 : Tournoi #3772915645, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 01/07/2024 7:25:00 CET [01/07/2024 1:25:00 ET]
+Table '3772915645 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: sombranueva (500 en jetons) 
+Place 3: Rober El Von (500 en jetons) 
+sombranueva : met la petite blind. 10
+Rober El Von : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Qs]
+psychoman59 : suit. 20
+sombranueva : suit. 10
+Rober El Von : parole 
+*** FLOP *** [3s Jh 6s]
+sombranueva : parole 
+Rober El Von : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3s Jh 6s] [7d]
+sombranueva : parole 
+Rober El Von : parole 
+psychoman59 : mise. 20
+sombranueva : suit. 20
+Rober El Von : passe. 
+*** RIVIÈRE *** [3s Jh 6s 7d] [3d]
+sombranueva : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+sombranueva : montre [8h 4h] (une paire de Trois)
+psychoman59 : montre [7s Qs] (double paire, Sept et Trois)
+psychoman59 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [3s Jh 6s 7d 3d]
+Siège 1 : psychoman59 (bouton) a montré [7s Qs] et a gagné (100) avec double paire, Sept et Trois
+Siège 2 : sombranueva (petite blind) a montré [8h 4h] et a perdu avec une paire de Trois
+Siège 3 : Rober El Von (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°251276045447 : Tournoi #3772915645, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 01/07/2024 7:25:23 CET [01/07/2024 1:25:23 ET]
+Table '3772915645 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (560 en jetons) 
+Place 2: sombranueva (460 en jetons) 
+Place 3: Rober El Von (480 en jetons) 
+Rober El Von : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 9d]
+sombranueva : relance. 20 à 40
+Rober El Von : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à sombranueva.
+sombranueva a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : sombranueva (bouton) a remporté (50)
+Siège 3 : Rober El Von (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°251276046039 : Tournoi #3772915645, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 01/07/2024 7:25:30 CET [01/07/2024 1:25:30 ET]
+Table '3772915645 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (540 en jetons) 
+Place 2: sombranueva (490 en jetons) 
+Place 3: Rober El Von (470 en jetons) 
+psychoman59 : met la petite blind. 10
+sombranueva : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 6h]
+Rober El Von : suit. 20
+psychoman59 : passe. 
+sombranueva : parole 
+*** FLOP *** [Qs 2d Ad]
+sombranueva : parole 
+Rober El Von : parole 
+*** TOURNANT *** [Qs 2d Ad] [Kd]
+sombranueva : parole 
+Rober El Von : parole 
+*** RIVIÈRE *** [Qs 2d Ad Kd] [4c]
+sombranueva : mise. 20
+Rober El Von : suit. 20
+*** ABATTAGE ***
+sombranueva : montre [Qh 5d] (une paire de Dames)
+Rober El Von : montre [Jh Qc] (une paire de Dames - As+Roi+Valet kicker)
+Rober El Von a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [Qs 2d Ad Kd 4c]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : sombranueva (grosse blind) a montré [Qh 5d] et a perdu avec une paire de Dames
+Siège 3 : Rober El Von (bouton) a montré [Jh Qc] et a gagné (90) avec une paire de Dames
+
+
+
+Main PokerStars n°251276047332 : Tournoi #3772915645, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 01/07/2024 7:25:46 CET [01/07/2024 1:25:46 ET]
+Table '3772915645 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (530 en jetons) 
+Place 2: sombranueva (450 en jetons) 
+Place 3: Rober El Von (520 en jetons) 
+sombranueva : met la petite blind. 10
+Rober El Von : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 4s]
+psychoman59 : passe. 
+sombranueva : suit. 10
+Rober El Von : parole 
+*** FLOP *** [Js Tc Qh]
+sombranueva : parole 
+Rober El Von : parole 
+*** TOURNANT *** [Js Tc Qh] [4c]
+sombranueva : parole 
+Rober El Von : parole 
+*** RIVIÈRE *** [Js Tc Qh 4c] [3d]
+sombranueva : parole 
+Rober El Von : parole 
+*** ABATTAGE ***
+sombranueva : montre [7d 6s] (Hauteur Dame)
+Rober El Von : montre [7c 6c] (Hauteur Dame)
+sombranueva a remporté 20  lors du pot .
+Rober El Von a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Js Tc Qh 4c 3d]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : sombranueva (petite blind) a montré [7d 6s] et a gagné (20) avec Hauteur Dame
+Siège 3 : Rober El Von (grosse blind) a montré [7c 6c] et a gagné (20) avec Hauteur Dame
+
+
+
+Main PokerStars n°251276048628 : Tournoi #3772915645, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 01/07/2024 7:26:01 CET [01/07/2024 1:26:01 ET]
+Table '3772915645 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (530 en jetons) 
+Place 2: sombranueva (450 en jetons) 
+Place 3: Rober El Von (520 en jetons) 
+Rober El Von : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Th]
+sombranueva : passe. 
+Rober El Von : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (20)
+Siège 2 : sombranueva (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Rober El Von (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°251276048978 : Tournoi #3772915645, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 01/07/2024 7:26:06 CET [01/07/2024 1:26:06 ET]
+Table '3772915645 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (540 en jetons) 
+Place 2: sombranueva (450 en jetons) 
+Place 3: Rober El Von (510 en jetons) 
+psychoman59 : met la petite blind. 10
+sombranueva : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 4h]
+Rober El Von : suit. 20
+psychoman59 : passe. 
+sombranueva : parole 
+*** FLOP *** [9s Td Kc]
+sombranueva : parole 
+Rober El Von : parole 
+*** TOURNANT *** [9s Td Kc] [3h]
+sombranueva : mise. 50
+Rober El Von : suit. 50
+*** RIVIÈRE *** [9s Td Kc 3h] [3d]
+sombranueva : mise. 80
+Rober El Von : suit. 80
+*** ABATTAGE ***
+sombranueva : montre [9c Kh] (double paire, Rois et Neuf)
+Rober El Von : cache la main perdante. 
+sombranueva a remporté 310  lors du pot .
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Tableau [9s Td Kc 3h 3d]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : sombranueva (grosse blind) a montré [9c Kh] et a gagné (310) avec double paire, Rois et Neuf
+Siège 3 : Rober El Von (bouton) a caché la main perdante. [Ks 6s]
+
+
+
+Main PokerStars n°251276051279 : Tournoi #3772915645, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 01/07/2024 7:26:33 CET [01/07/2024 1:26:33 ET]
+Table '3772915645 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (530 en jetons) 
+Place 2: sombranueva (610 en jetons) 
+Place 3: Rober El Von (360 en jetons) 
+sombranueva : met la petite blind. 10
+Rober El Von : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 9s]
+psychoman59 : suit. 20
+sombranueva : passe. 
+Rober El Von : relance. 340 à 360 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (340) sont retournés à Rober El Von.
+Rober El Von a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 2 : sombranueva (petite blind) s'est couché. avant Flop
+Siège 3 : Rober El Von (grosse blind) a remporté (50)
+
+
+
+Main PokerStars n°251276052122 : Tournoi #3772915645, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 01/07/2024 7:26:44 CET [01/07/2024 1:26:44 ET]
+Table '3772915645 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (510 en jetons) 
+Place 2: sombranueva (600 en jetons) 
+Place 3: Rober El Von (390 en jetons) 
+Rober El Von : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 3d]
+sombranueva : passe. 
+Rober El Von : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (20)
+Siège 2 : sombranueva (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Rober El Von (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°251276052572 : Tournoi #3772915645, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 01/07/2024 7:26:49 CET [01/07/2024 1:26:49 ET]
+Table '3772915645 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (520 en jetons) 
+Place 2: sombranueva (600 en jetons) 
+Place 3: Rober El Von (380 en jetons) 
+psychoman59 : met la petite blind. 10
+sombranueva : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Kc]
+Rober El Von : suit. 20
+psychoman59 : relance. 500 à 520 et est all-in.
+sombranueva : passe. 
+Rober El Von : suit. 360 et est all-in.
+Personne n'a suivi. (140) sont retournés à psychoman59.
+*** FLOP *** [5s 2s 3c]
+*** TOURNANT *** [5s 2s 3c] [4h]
+*** RIVIÈRE *** [5s 2s 3c 4h] [Ah]
+*** ABATTAGE ***
+psychoman59 : montre [As Kc] (une suite, As à Cinq)
+Rober El Von : montre [Ad 4s] (une suite, As à Cinq)
+psychoman59 a remporté 390  lors du pot .
+Rober El Von a remporté 390  lors du pot .
+*** SYNTHÈSE ***
+Pot total 780 | Commission 0 
+Tableau [5s 2s 3c 4h Ah]
+Siège 1 : psychoman59 (petite blind) a montré [As Kc] et a gagné (390) avec une suite, As à Cinq
+Siège 2 : sombranueva (grosse blind) s'est couché. avant Flop
+Siège 3 : Rober El Von (bouton) a montré [Ad 4s] et a gagné (390) avec une suite, As à Cinq
+
+
+
+Main PokerStars n°251276054028 : Tournoi #3772915645, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 01/07/2024 7:27:07 CET [01/07/2024 1:27:07 ET]
+Table '3772915645 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (530 en jetons) 
+Place 2: sombranueva (580 en jetons) 
+Place 3: Rober El Von (390 en jetons) 
+sombranueva : met la petite blind. 15
+Rober El Von : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 5s]
+psychoman59 : passe. 
+sombranueva : suit. 15
+Rober El Von : relance. 360 à 390 et est all-in.
+sombranueva : passe. 
+Personne n'a suivi. (360) sont retournés à Rober El Von.
+Rober El Von a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : sombranueva (petite blind) s'est couché. avant Flop
+Siège 3 : Rober El Von (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°251276054869 : Tournoi #3772915645, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 01/07/2024 7:27:17 CET [01/07/2024 1:27:17 ET]
+Table '3772915645 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (530 en jetons) 
+Place 2: sombranueva (550 en jetons) 
+Place 3: Rober El Von (420 en jetons) 
+Rober El Von : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 3d]
+sombranueva : suit. 30
+Rober El Von : passe. 
+psychoman59 : parole 
+*** FLOP *** [Ah As 6s]
+psychoman59 : parole 
+sombranueva : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à sombranueva.
+sombranueva a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Tableau [Ah As 6s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : sombranueva (bouton) a remporté (75)
+Siège 3 : Rober El Von (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°251276055849 : Tournoi #3772915645, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 01/07/2024 7:27:30 CET [01/07/2024 1:27:30 ET]
+Table '3772915645 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: sombranueva (595 en jetons) 
+Place 3: Rober El Von (405 en jetons) 
+psychoman59 : met la petite blind. 15
+sombranueva : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Tc]
+Rober El Von : suit. 30
+psychoman59 : suit. 15
+sombranueva : parole 
+*** FLOP *** [Qc 5h 9c]
+psychoman59 : parole 
+sombranueva : parole 
+Rober El Von : mise. 30
+psychoman59 : suit. 30
+sombranueva : suit. 30
+*** TOURNANT *** [Qc 5h 9c] [8c]
+psychoman59 : parole 
+sombranueva : parole 
+Rober El Von : parole 
+*** RIVIÈRE *** [Qc 5h 9c 8c] [5d]
+psychoman59 : mise. 45
+sombranueva : passe. 
+Rober El Von : suit. 45
+*** ABATTAGE ***
+psychoman59 : montre [6c Tc] (une couleur, hauteur Dame)
+Rober El Von : cache la main perdante. 
+psychoman59 a remporté 270  lors du pot .
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Tableau [Qc 5h 9c 8c 5d]
+Siège 1 : psychoman59 (petite blind) a montré [6c Tc] et a gagné (270) avec une couleur, hauteur Dame
+Siège 2 : sombranueva (grosse blind) s'est couché. sur le Rivière
+Siège 3 : Rober El Von (bouton) a caché la main perdante. [9h Kh]
+
+
+
+Main PokerStars n°251276058541 : Tournoi #3772915645, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 01/07/2024 7:28:02 CET [01/07/2024 1:28:02 ET]
+Table '3772915645 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (665 en jetons) 
+Place 2: sombranueva (535 en jetons) 
+Place 3: Rober El Von (300 en jetons) 
+sombranueva : met la petite blind. 15
+Rober El Von : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 3c]
+psychoman59 : passe. 
+sombranueva : passe. 
+Personne n'a suivi. (15) sont retournés à Rober El Von.
+Rober El Von a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : sombranueva (petite blind) s'est couché. avant Flop
+Siège 3 : Rober El Von (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°251276058930 : Tournoi #3772915645, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 01/07/2024 7:28:07 CET [01/07/2024 1:28:07 ET]
+Table '3772915645 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (665 en jetons) 
+Place 2: sombranueva (520 en jetons) 
+Place 3: Rober El Von (315 en jetons) 
+Rober El Von : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 4h]
+sombranueva : suit. 30
+Rober El Von : passe. 
+psychoman59 : parole 
+*** FLOP *** [Qd 5s 6h]
+psychoman59 : parole 
+sombranueva : parole 
+*** TOURNANT *** [Qd 5s 6h] [Td]
+psychoman59 : parole 
+sombranueva : parole 
+*** RIVIÈRE *** [Qd 5s 6h Td] [Qc]
+psychoman59 : parole 
+sombranueva : mise. 30
+psychoman59 : suit. 30
+*** ABATTAGE ***
+sombranueva : montre [As 2d] (une paire de Dames)
+psychoman59 : cache la main perdante. 
+sombranueva a remporté 135  lors du pot .
+*** SYNTHÈSE ***
+Pot total 135 | Commission 0 
+Tableau [Qd 5s 6h Td Qc]
+Siège 1 : psychoman59 (grosse blind) a caché la main perdante. [Kh 4h]
+Siège 2 : sombranueva (bouton) a montré [As 2d] et a gagné (135) avec une paire de Dames
+Siège 3 : Rober El Von (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°251276060490 : Tournoi #3772915645, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 01/07/2024 7:28:26 CET [01/07/2024 1:28:26 ET]
+Table '3772915645 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (605 en jetons) 
+Place 2: sombranueva (595 en jetons) 
+Place 3: Rober El Von (300 en jetons) 
+psychoman59 : met la petite blind. 15
+sombranueva : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Kd]
+Rober El Von : passe. 
+psychoman59 : suit. 15
+sombranueva : parole 
+*** FLOP *** [Kc Js Tc]
+psychoman59 : parole 
+sombranueva : mise. 30
+psychoman59 : suit. 30
+*** TOURNANT *** [Kc Js Tc] [5h]
+psychoman59 : parole 
+sombranueva : parole 
+*** RIVIÈRE *** [Kc Js Tc 5h] [9s]
+psychoman59 : parole 
+sombranueva : parole 
+*** ABATTAGE ***
+psychoman59 : montre [8c Kd] (une paire de Rois)
+sombranueva : cache la main perdante. 
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Kc Js Tc 5h 9s]
+Siège 1 : psychoman59 (petite blind) a montré [8c Kd] et a gagné (120) avec une paire de Rois
+Siège 2 : sombranueva (grosse blind) a caché la main perdante. [Jh 7d]
+Siège 3 : Rober El Von (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°251276062512 : Tournoi #3772915645, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 01/07/2024 7:28:50 CET [01/07/2024 1:28:50 ET]
+Table '3772915645 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (665 en jetons) 
+Place 2: sombranueva (535 en jetons) 
+Place 3: Rober El Von (300 en jetons) 
+sombranueva : met la petite blind. 15
+Rober El Von : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 9h]
+psychoman59 : relance. 30 à 60
+sombranueva : passe. 
+Rober El Von : relance. 240 à 300 et est all-in.
+psychoman59 : suit. 240
+*** FLOP *** [6d 2s 7d]
+*** TOURNANT *** [6d 2s 7d] [Jh]
+*** RIVIÈRE *** [6d 2s 7d Jh] [8s]
+*** ABATTAGE ***
+Rober El Von : montre [5c Kh] (Hauteur Roi)
+psychoman59 : montre [As 9h] (Hauteur As)
+psychoman59 a remporté 615  lors du pot .
+Rober El Von a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 615 | Commission 0 
+Tableau [6d 2s 7d Jh 8s]
+Siège 1 : psychoman59 (bouton) a montré [As 9h] et a gagné (615) avec Hauteur As
+Siège 2 : sombranueva (petite blind) s'est couché. avant Flop
+Siège 3 : Rober El Von (grosse blind) a montré [5c Kh] et a perdu avec Hauteur Roi
+
+
+
+Main PokerStars n°251276064102 : Tournoi #3772915645, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 01/07/2024 7:29:09 CET [01/07/2024 1:29:09 ET]
+Table '3772915645 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (980 en jetons) 
+Place 2: sombranueva (520 en jetons) 
+sombranueva : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 4d]
+sombranueva : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Kh 7s 8d]
+psychoman59 : parole 
+sombranueva : parole 
+*** TOURNANT *** [Kh 7s 8d] [Ac]
+psychoman59 : parole 
+sombranueva : parole 
+*** RIVIÈRE *** [Kh 7s 8d Ac] [As]
+psychoman59 : parole 
+sombranueva : mise. 40
+psychoman59 : suit. 40
+*** ABATTAGE ***
+sombranueva : montre [6s 6d] (double paire, As et Six)
+psychoman59 : montre [Ks 4d] (double paire, As et Rois)
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Kh 7s 8d Ac As]
+Siège 1 : psychoman59 (grosse blind) a montré [Ks 4d] et a gagné (160) avec double paire, As et Rois
+Siège 2 : sombranueva (bouton) (petite blind) a montré [6s 6d] et a perdu avec double paire, As et Six
+
+
+
+Main PokerStars n°251276065569 : Tournoi #3772915645, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 01/07/2024 7:29:27 CET [01/07/2024 1:29:27 ET]
+Table '3772915645 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1060 en jetons) 
+Place 2: sombranueva (440 en jetons) 
+psychoman59 : met la petite blind. 20
+sombranueva : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h As]
+psychoman59 : suit. 20
+sombranueva : parole 
+*** FLOP *** [Js Qs Ts]
+sombranueva : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [Js Qs Ts] [6h]
+sombranueva : mise. 40
+psychoman59 : suit. 40
+*** RIVIÈRE *** [Js Qs Ts 6h] [9c]
+sombranueva : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à sombranueva.
+sombranueva a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Js Qs Ts 6h 9c]
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 2 : sombranueva (grosse blind) a remporté (240)
+
+
+
+Main PokerStars n°251276066878 : Tournoi #3772915645, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 01/07/2024 7:29:44 CET [01/07/2024 1:29:44 ET]
+Table '3772915645 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (940 en jetons) 
+Place 2: sombranueva (560 en jetons) 
+sombranueva : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Ac]
+sombranueva : suit. 20
+psychoman59 : parole 
+*** FLOP *** [5d Tc Qc]
+psychoman59 : parole 
+sombranueva : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [5d Tc Qc] [Jh]
+psychoman59 : parole 
+sombranueva : mise. 40
+psychoman59 : suit. 40
+*** RIVIÈRE *** [5d Tc Qc Jh] [As]
+psychoman59 : parole 
+sombranueva : parole 
+*** ABATTAGE ***
+psychoman59 : montre [3c Ac] (une paire de As)
+sombranueva : cache la main perdante. 
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [5d Tc Qc Jh As]
+Siège 1 : psychoman59 (grosse blind) a montré [3c Ac] et a gagné (240) avec une paire de As
+Siège 2 : sombranueva (bouton) (petite blind) a caché la main perdante. [8c Qs]
+
+
+
+Main PokerStars n°251276068577 : Tournoi #3772915645, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 01/07/2024 7:30:04 CET [01/07/2024 1:30:04 ET]
+Table '3772915645 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1060 en jetons) 
+Place 2: sombranueva (440 en jetons) 
+psychoman59 : met la petite blind. 20
+sombranueva : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 9s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à sombranueva.
+sombranueva a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : sombranueva (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°251276069001 : Tournoi #3772915645, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 01/07/2024 7:30:09 CET [01/07/2024 1:30:09 ET]
+Table '3772915645 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (1040 en jetons) 
+Place 2: sombranueva (460 en jetons) 
+sombranueva : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Kd]
+sombranueva : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 2 : sombranueva (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°251276069376 : Tournoi #3772915645, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 01/07/2024 7:30:14 CET [01/07/2024 1:30:14 ET]
+Table '3772915645 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1060 en jetons) 
+Place 2: sombranueva (440 en jetons) 
+psychoman59 : met la petite blind. 20
+sombranueva : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 7d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à sombranueva.
+sombranueva a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : sombranueva (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°251276069729 : Tournoi #3772915645, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 01/07/2024 7:30:18 CET [01/07/2024 1:30:18 ET]
+Table '3772915645 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (1040 en jetons) 
+Place 2: sombranueva (460 en jetons) 
+sombranueva : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 3s]
+sombranueva : relance. 40 à 80
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à sombranueva.
+sombranueva a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : sombranueva (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°251276070213 : Tournoi #3772915645, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 01/07/2024 7:30:25 CET [01/07/2024 1:30:25 ET]
+Table '3772915645 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1000 en jetons) 
+Place 2: sombranueva (500 en jetons) 
+psychoman59 : met la petite blind. 20
+sombranueva : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Kd]
+psychoman59 : suit. 20
+sombranueva : parole 
+*** FLOP *** [2s 4s 8d]
+sombranueva : parole 
+psychoman59 : parole 
+*** TOURNANT *** [2s 4s 8d] [Jc]
+sombranueva : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [2s 4s 8d Jc] [Jh]
+sombranueva : mise. 40
+psychoman59 : relance. 40 à 80
+sombranueva : suit. 40
+*** ABATTAGE ***
+psychoman59 : montre [Js Kd] (un brelan de Valets)
+sombranueva : cache la main perdante. 
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [2s 4s 8d Jc Jh]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Js Kd] et a gagné (240) avec un brelan de Valets
+Siège 2 : sombranueva (grosse blind) a caché la main perdante. [4h 5s]
+
+
+
+Main PokerStars n°251276071687 : Tournoi #3772915645, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 01/07/2024 7:30:43 CET [01/07/2024 1:30:43 ET]
+Table '3772915645 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (1120 en jetons) 
+Place 2: sombranueva (380 en jetons) 
+sombranueva : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 6h]
+sombranueva : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 2 : sombranueva (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°251276072028 : Tournoi #3772915645, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 01/07/2024 7:30:47 CET [01/07/2024 1:30:47 ET]
+Table '3772915645 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1140 en jetons) 
+Place 2: sombranueva (360 en jetons) 
+psychoman59 : met la petite blind. 20
+sombranueva : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 9h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à sombranueva.
+sombranueva a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : sombranueva (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°251276072411 : Tournoi #3772915645, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 01/07/2024 7:30:51 CET [01/07/2024 1:30:51 ET]
+Table '3772915645 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (1120 en jetons) 
+Place 2: sombranueva (380 en jetons) 
+sombranueva : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 9d]
+sombranueva : suit. 20
+psychoman59 : parole 
+*** FLOP *** [3d 9c Tc]
+psychoman59 : parole 
+sombranueva : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [3d 9c Tc] [Jh]
+psychoman59 : parole 
+sombranueva : parole 
+*** RIVIÈRE *** [3d 9c Tc Jh] [Qs]
+psychoman59 : parole 
+sombranueva : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Jc 9d] (double paire, Valets et Neuf)
+sombranueva : montre [Qh 3c] (double paire, Dames et Trois)
+sombranueva a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [3d 9c Tc Jh Qs]
+Siège 1 : psychoman59 (grosse blind) a montré [Jc 9d] et a perdu avec double paire, Valets et Neuf
+Siège 2 : sombranueva (bouton) (petite blind) a montré [Qh 3c] et a gagné (160) avec double paire, Dames et Trois
+
+
+
+Main PokerStars n°251276074116 : Tournoi #3772915645, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 01/07/2024 7:31:12 CET [01/07/2024 1:31:12 ET]
+Table '3772915645 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1040 en jetons) 
+Place 2: sombranueva (460 en jetons) 
+psychoman59 : met la petite blind. 30
+sombranueva : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Ah]
+psychoman59 : relance. 980 à 1040 et est all-in.
+sombranueva : passe. 
+Personne n'a suivi. (980) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 2 : sombranueva (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°251276074700 : Tournoi #3772915645, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 01/07/2024 7:31:19 CET [01/07/2024 1:31:19 ET]
+Table '3772915645 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (1100 en jetons) 
+Place 2: sombranueva (400 en jetons) 
+sombranueva : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 4s]
+sombranueva : relance. 340 à 400 et est all-in.
+psychoman59 : suit. 340
+*** FLOP *** [7h As Tc]
+*** TOURNANT *** [7h As Tc] [Qd]
+*** RIVIÈRE *** [7h As Tc Qd] [3d]
+*** ABATTAGE ***
+psychoman59 : montre [Ac 4s] (une paire de As)
+sombranueva : montre [5c 5h] (une paire de Cinq)
+psychoman59 a remporté 800  lors du pot .
+sombranueva a fini le tournoi en 2e position.
+psychoman59 gagne le tournoi - félicitations !
+psychoman59 gagne un ticket " €1 Step 2 MTT Power Path ticket "
+*** SYNTHÈSE ***
+Pot total 800 | Commission 0 
+Tableau [7h As Tc Qd 3d]
+Siège 1 : psychoman59 (grosse blind) a montré [Ac 4s] et a gagné (800) avec une paire de As
+Siège 2 : sombranueva (bouton) (petite blind) a montré [5c 5h] et a perdu avec une paire de Cinq
+
+
+

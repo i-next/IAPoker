@@ -1,0 +1,606 @@
+﻿Main PokerStars n°243829732251 : Tournoi #3594390138, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/05/2023 23:09:07 CET [21/05/2023 17:09:07 ET]
+Table '3594390138 1' 3-max Siège #1 est au bouton.
+Place 1: unforgiven596 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: LarryChanceux (300 en jetons) 
+psychoman59 : met la petite blind. 10
+LarryChanceux : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 7c]
+unforgiven596 : relance. 20 à 40
+psychoman59 : passe. 
+LarryChanceux : relance. 260 à 300 et est all-in.
+unforgiven596 : suit. 260 et est all-in.
+*** FLOP *** [Ks 5c 2c]
+*** TOURNANT *** [Ks 5c 2c] [Jh]
+*** RIVIÈRE *** [Ks 5c 2c Jh] [Qs]
+*** ABATTAGE ***
+LarryChanceux : montre [Ac 7h] (Hauteur As)
+unforgiven596 : montre [Kc As] (une paire de Rois)
+unforgiven596 a remporté 610  lors du pot .
+LarryChanceux a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 610 | Commission 0 
+Tableau [Ks 5c 2c Jh Qs]
+Siège 1 : unforgiven596 (bouton) a montré [Kc As] et a gagné (610) avec une paire de Rois
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : LarryChanceux (grosse blind) a montré [Ac 7h] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°243829743369 : Tournoi #3594390138, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/05/2023 23:09:33 CET [21/05/2023 17:09:33 ET]
+Table '3594390138 1' 3-max Siège #2 est au bouton.
+Place 1: unforgiven596 (610 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+psychoman59 : met la petite blind. 10
+unforgiven596 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Jc]
+psychoman59 : suit. 10
+unforgiven596 : parole 
+*** FLOP *** [9h 2d 4d]
+unforgiven596 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à unforgiven596.
+unforgiven596 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [9h 2d 4d]
+Siège 1 : unforgiven596 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°243829749939 : Tournoi #3594390138, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/05/2023 23:09:48 CET [21/05/2023 17:09:48 ET]
+Table '3594390138 1' 3-max Siège #1 est au bouton.
+Place 1: unforgiven596 (630 en jetons) 
+Place 2: psychoman59 (270 en jetons) 
+unforgiven596 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 5h]
+unforgiven596 : suit. 10
+psychoman59 : relance. 250 à 270 et est all-in.
+unforgiven596 : suit. 250
+*** FLOP *** [Kc Qd 3h]
+*** TOURNANT *** [Kc Qd 3h] [2h]
+*** RIVIÈRE *** [Kc Qd 3h 2h] [8h]
+*** ABATTAGE ***
+psychoman59 : montre [Ah 5h] (une couleur, hauteur As)
+unforgiven596 : montre [Jh Kd] (une paire de Rois)
+psychoman59 a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [Kc Qd 3h 2h 8h]
+Siège 1 : unforgiven596 (bouton) (petite blind) a montré [Jh Kd] et a perdu avec une paire de Rois
+Siège 2 : psychoman59 (grosse blind) a montré [Ah 5h] et a gagné (540) avec une couleur, hauteur As
+
+
+
+Main PokerStars n°243829760976 : Tournoi #3594390138, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 21/05/2023 23:10:13 CET [21/05/2023 17:10:13 ET]
+Table '3594390138 1' 3-max Siège #2 est au bouton.
+Place 1: unforgiven596 (360 en jetons) 
+Place 2: psychoman59 (540 en jetons) 
+psychoman59 : met la petite blind. 15
+unforgiven596 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 8d]
+psychoman59 : relance. 510 à 540 et est all-in.
+unforgiven596 : suit. 330 et est all-in.
+Personne n'a suivi. (180) sont retournés à psychoman59.
+*** FLOP *** [5s 6d 7h]
+*** TOURNANT *** [5s 6d 7h] [3s]
+*** RIVIÈRE *** [5s 6d 7h 3s] [Jd]
+*** ABATTAGE ***
+unforgiven596 : montre [Ac 9s] (Hauteur As)
+psychoman59 : montre [Ad 8d] (Hauteur As - plus basse kicker)
+unforgiven596 a remporté 720  lors du pot .
+*** SYNTHÈSE ***
+Pot total 720 | Commission 0 
+Tableau [5s 6d 7h 3s Jd]
+Siège 1 : unforgiven596 (grosse blind) a montré [Ac 9s] et a gagné (720) avec Hauteur As
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Ad 8d] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°243829768589 : Tournoi #3594390138, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 21/05/2023 23:10:31 CET [21/05/2023 17:10:31 ET]
+Table '3594390138 1' 3-max Siège #1 est au bouton.
+Place 1: unforgiven596 (720 en jetons) 
+Place 2: psychoman59 (180 en jetons) 
+unforgiven596 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 8d]
+unforgiven596 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [5s 6d 9d]
+psychoman59 : mise. 150 et est all-in.
+unforgiven596 : suit. 150
+*** TOURNANT *** [5s 6d 9d] [Ks]
+*** RIVIÈRE *** [5s 6d 9d Ks] [Ah]
+*** ABATTAGE ***
+psychoman59 : montre [5d 8d] (une paire de Cinq)
+unforgiven596 : montre [7s 4s] (Hauteur As)
+psychoman59 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [5s 6d 9d Ks Ah]
+Siège 1 : unforgiven596 (bouton) (petite blind) a montré [7s 4s] et a perdu avec Hauteur As
+Siège 2 : psychoman59 (grosse blind) a montré [5d 8d] et a gagné (360) avec une paire de Cinq
+
+
+
+Main PokerStars n°243829778699 : Tournoi #3594390138, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 21/05/2023 23:10:54 CET [21/05/2023 17:10:54 ET]
+Table '3594390138 1' 3-max Siège #2 est au bouton.
+Place 1: unforgiven596 (540 en jetons) 
+Place 2: psychoman59 (360 en jetons) 
+psychoman59 : met la petite blind. 15
+unforgiven596 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 3s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à unforgiven596.
+unforgiven596 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : unforgiven596 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243829781746 : Tournoi #3594390138, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 21/05/2023 23:11:01 CET [21/05/2023 17:11:01 ET]
+Table '3594390138 1' 3-max Siège #1 est au bouton.
+Place 1: unforgiven596 (555 en jetons) 
+Place 2: psychoman59 (345 en jetons) 
+unforgiven596 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Ks]
+unforgiven596 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : unforgiven596 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°243829783751 : Tournoi #3594390138, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 21/05/2023 23:11:05 CET [21/05/2023 17:11:05 ET]
+Table '3594390138 1' 3-max Siège #2 est au bouton.
+Place 1: unforgiven596 (540 en jetons) 
+Place 2: psychoman59 (360 en jetons) 
+psychoman59 : met la petite blind. 15
+unforgiven596 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 7d]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à unforgiven596.
+unforgiven596 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : unforgiven596 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243829786941 : Tournoi #3594390138, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 21/05/2023 23:11:13 CET [21/05/2023 17:11:13 ET]
+Table '3594390138 1' 3-max Siège #1 est au bouton.
+Place 1: unforgiven596 (555 en jetons) 
+Place 2: psychoman59 (345 en jetons) 
+unforgiven596 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Jd]
+unforgiven596 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : unforgiven596 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°243829789039 : Tournoi #3594390138, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 21/05/2023 23:11:17 CET [21/05/2023 17:11:17 ET]
+Table '3594390138 1' 3-max Siège #2 est au bouton.
+Place 1: unforgiven596 (535 en jetons) 
+Place 2: psychoman59 (365 en jetons) 
+psychoman59 : met la petite blind. 20
+unforgiven596 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 5d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à unforgiven596.
+unforgiven596 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : unforgiven596 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243829791073 : Tournoi #3594390138, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 21/05/2023 23:11:22 CET [21/05/2023 17:11:22 ET]
+Table '3594390138 1' 3-max Siège #1 est au bouton.
+Place 1: unforgiven596 (555 en jetons) 
+Place 2: psychoman59 (345 en jetons) 
+unforgiven596 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 4c]
+unforgiven596 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : unforgiven596 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°243829793575 : Tournoi #3594390138, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 21/05/2023 23:11:28 CET [21/05/2023 17:11:28 ET]
+Table '3594390138 1' 3-max Siège #2 est au bouton.
+Place 1: unforgiven596 (535 en jetons) 
+Place 2: psychoman59 (365 en jetons) 
+psychoman59 : met la petite blind. 20
+unforgiven596 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Ks]
+psychoman59 : relance. 40 à 80
+unforgiven596 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : unforgiven596 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°243829796661 : Tournoi #3594390138, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 21/05/2023 23:11:35 CET [21/05/2023 17:11:35 ET]
+Table '3594390138 1' 3-max Siège #1 est au bouton.
+Place 1: unforgiven596 (495 en jetons) 
+Place 2: psychoman59 (405 en jetons) 
+unforgiven596 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Ac]
+unforgiven596 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : unforgiven596 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°243829799033 : Tournoi #3594390138, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 21/05/2023 23:11:40 CET [21/05/2023 17:11:40 ET]
+Table '3594390138 1' 3-max Siège #2 est au bouton.
+Place 1: unforgiven596 (475 en jetons) 
+Place 2: psychoman59 (425 en jetons) 
+psychoman59 : met la petite blind. 20
+unforgiven596 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 2d]
+psychoman59 : relance. 385 à 425 et est all-in.
+unforgiven596 : passe. 
+Personne n'a suivi. (385) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : unforgiven596 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°243829803165 : Tournoi #3594390138, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 21/05/2023 23:11:50 CET [21/05/2023 17:11:50 ET]
+Table '3594390138 1' 3-max Siège #1 est au bouton.
+Place 1: unforgiven596 (435 en jetons) 
+Place 2: psychoman59 (465 en jetons) 
+unforgiven596 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 4c]
+unforgiven596 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [8h 4h 5h]
+psychoman59 : parole 
+unforgiven596 : parole 
+*** TOURNANT *** [8h 4h 5h] [Th]
+psychoman59 : parole 
+unforgiven596 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à unforgiven596.
+unforgiven596 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [8h 4h 5h Th]
+Siège 1 : unforgiven596 (bouton) (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°243829815011 : Tournoi #3594390138, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 21/05/2023 23:12:17 CET [21/05/2023 17:12:17 ET]
+Table '3594390138 1' 3-max Siège #2 est au bouton.
+Place 1: unforgiven596 (475 en jetons) 
+Place 2: psychoman59 (425 en jetons) 
+psychoman59 : met la petite blind. 30
+unforgiven596 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Qs]
+psychoman59 : suit. 30
+unforgiven596 : relance. 415 à 475 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (415) sont retournés à unforgiven596.
+unforgiven596 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : unforgiven596 (grosse blind) a remporté (120)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243829819987 : Tournoi #3594390138, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 21/05/2023 23:12:28 CET [21/05/2023 17:12:28 ET]
+Table '3594390138 1' 3-max Siège #1 est au bouton.
+Place 1: unforgiven596 (535 en jetons) 
+Place 2: psychoman59 (365 en jetons) 
+unforgiven596 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 6s]
+unforgiven596 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : unforgiven596 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°243829822939 : Tournoi #3594390138, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 21/05/2023 23:12:35 CET [21/05/2023 17:12:35 ET]
+Table '3594390138 1' 3-max Siège #2 est au bouton.
+Place 1: unforgiven596 (505 en jetons) 
+Place 2: psychoman59 (395 en jetons) 
+psychoman59 : met la petite blind. 30
+unforgiven596 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 4s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à unforgiven596.
+unforgiven596 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : unforgiven596 (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243829825090 : Tournoi #3594390138, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 21/05/2023 23:12:40 CET [21/05/2023 17:12:40 ET]
+Table '3594390138 1' 3-max Siège #1 est au bouton.
+Place 1: unforgiven596 (535 en jetons) 
+Place 2: psychoman59 (365 en jetons) 
+unforgiven596 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 8c]
+unforgiven596 : relance. 475 à 535 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (475) sont retournés à unforgiven596.
+unforgiven596 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : unforgiven596 (bouton) (petite blind) a remporté (120)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243829828828 : Tournoi #3594390138, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 21/05/2023 23:12:49 CET [21/05/2023 17:12:49 ET]
+Table '3594390138 1' 3-max Siège #2 est au bouton.
+Place 1: unforgiven596 (595 en jetons) 
+Place 2: psychoman59 (305 en jetons) 
+psychoman59 : met la petite blind. 30
+unforgiven596 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Jh]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à unforgiven596.
+unforgiven596 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : unforgiven596 (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243829831136 : Tournoi #3594390138, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 21/05/2023 23:12:54 CET [21/05/2023 17:12:54 ET]
+Table '3594390138 1' 3-max Siège #1 est au bouton.
+Place 1: unforgiven596 (625 en jetons) 
+Place 2: psychoman59 (275 en jetons) 
+unforgiven596 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Ad]
+unforgiven596 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : unforgiven596 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°243829833172 : Tournoi #3594390138, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 21/05/2023 23:12:59 CET [21/05/2023 17:12:59 ET]
+Table '3594390138 1' 3-max Siège #2 est au bouton.
+Place 1: unforgiven596 (595 en jetons) 
+Place 2: psychoman59 (305 en jetons) 
+psychoman59 : met la petite blind. 30
+unforgiven596 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 6c]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à unforgiven596.
+unforgiven596 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : unforgiven596 (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243829835350 : Tournoi #3594390138, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 21/05/2023 23:13:04 CET [21/05/2023 17:13:04 ET]
+Table '3594390138 1' 3-max Siège #1 est au bouton.
+Place 1: unforgiven596 (625 en jetons) 
+Place 2: psychoman59 (275 en jetons) 
+unforgiven596 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 6h]
+unforgiven596 : suit. 30
+psychoman59 : relance. 215 à 275 et est all-in.
+unforgiven596 : suit. 215
+*** FLOP *** [8c Kc Ah]
+*** TOURNANT *** [8c Kc Ah] [8s]
+*** RIVIÈRE *** [8c Kc Ah 8s] [Qs]
+*** ABATTAGE ***
+psychoman59 : montre [Qh 6h] (double paire, Dames et Huit)
+unforgiven596 : montre [6c 9s] (une paire de Huit)
+psychoman59 a remporté 550  lors du pot .
+*** SYNTHÈSE ***
+Pot total 550 | Commission 0 
+Tableau [8c Kc Ah 8s Qs]
+Siège 1 : unforgiven596 (bouton) (petite blind) a montré [6c 9s] et a perdu avec une paire de Huit
+Siège 2 : psychoman59 (grosse blind) a montré [Qh 6h] et a gagné (550) avec double paire, Dames et Huit
+
+
+
+Main PokerStars n°243829846402 : Tournoi #3594390138, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 21/05/2023 23:13:29 CET [21/05/2023 17:13:29 ET]
+Table '3594390138 1' 3-max Siège #2 est au bouton.
+Place 1: unforgiven596 (350 en jetons) 
+Place 2: psychoman59 (550 en jetons) 
+psychoman59 : met la petite blind. 40
+unforgiven596 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 3s]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à unforgiven596.
+unforgiven596 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : unforgiven596 (grosse blind) a remporté (80)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243829848664 : Tournoi #3594390138, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 21/05/2023 23:13:35 CET [21/05/2023 17:13:35 ET]
+Table '3594390138 1' 3-max Siège #1 est au bouton.
+Place 1: unforgiven596 (390 en jetons) 
+Place 2: psychoman59 (510 en jetons) 
+unforgiven596 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 2s]
+unforgiven596 : relance. 310 à 390 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (310) sont retournés à unforgiven596.
+unforgiven596 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : unforgiven596 (bouton) (petite blind) a remporté (160)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243829851993 : Tournoi #3594390138, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 21/05/2023 23:13:42 CET [21/05/2023 17:13:42 ET]
+Table '3594390138 1' 3-max Siège #2 est au bouton.
+Place 1: unforgiven596 (470 en jetons) 
+Place 2: psychoman59 (430 en jetons) 
+psychoman59 : met la petite blind. 40
+unforgiven596 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 6c]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à unforgiven596.
+unforgiven596 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : unforgiven596 (grosse blind) a remporté (80)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243829854367 : Tournoi #3594390138, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 21/05/2023 23:13:48 CET [21/05/2023 17:13:48 ET]
+Table '3594390138 1' 3-max Siège #1 est au bouton.
+Place 1: unforgiven596 (510 en jetons) 
+Place 2: psychoman59 (390 en jetons) 
+unforgiven596 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 9c]
+unforgiven596 : relance. 430 à 510 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (430) sont retournés à unforgiven596.
+unforgiven596 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : unforgiven596 (bouton) (petite blind) a remporté (160)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243829857653 : Tournoi #3594390138, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 21/05/2023 23:13:56 CET [21/05/2023 17:13:56 ET]
+Table '3594390138 1' 3-max Siège #2 est au bouton.
+Place 1: unforgiven596 (590 en jetons) 
+Place 2: psychoman59 (310 en jetons) 
+psychoman59 : met la petite blind. 40
+unforgiven596 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 2s]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à unforgiven596.
+unforgiven596 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : unforgiven596 (grosse blind) a remporté (80)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243829859798 : Tournoi #3594390138, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 21/05/2023 23:14:01 CET [21/05/2023 17:14:01 ET]
+Table '3594390138 1' 3-max Siège #1 est au bouton.
+Place 1: unforgiven596 (630 en jetons) 
+Place 2: psychoman59 (270 en jetons) 
+unforgiven596 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 7h]
+unforgiven596 : relance. 550 à 630 et est all-in.
+psychoman59 : suit. 190 et est all-in.
+Personne n'a suivi. (360) sont retournés à unforgiven596.
+*** FLOP *** [8d Td 9h]
+*** TOURNANT *** [8d Td 9h] [7c]
+*** RIVIÈRE *** [8d Td 9h 7c] [4s]
+*** ABATTAGE ***
+psychoman59 : montre [8h 7h] (double paire, Huit et Sept)
+unforgiven596 : montre [6h Qh] (une suite, Six à Dix)
+unforgiven596 a remporté 540  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+unforgiven596 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [8d Td 9h 7c 4s]
+Siège 1 : unforgiven596 (bouton) (petite blind) a montré [6h Qh] et a gagné (540) avec une suite, Six à Dix
+Siège 2 : psychoman59 (grosse blind) a montré [8h 7h] et a perdu avec double paire, Huit et Sept
+
+
+

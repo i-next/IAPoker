@@ -1,0 +1,495 @@
+﻿Main PokerStars n°240414386892 : Tournoi #3514350222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/12/2022 11:33:05 CET [12/12/2022 5:33:05 ET]
+Table '3514350222 1' 3-max Siège #1 est au bouton.
+Place 1: julesalain (300 en jetons) 
+Place 2: nisus85 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+nisus85 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Th]
+julesalain : suit. 20
+nisus85 : passe. 
+psychoman59 : parole 
+*** FLOP *** [5h Ad Qs]
+psychoman59 : parole 
+julesalain : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à julesalain.
+julesalain a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [5h Ad Qs]
+Siège 1 : julesalain (bouton) a remporté (50)
+Siège 2 : nisus85 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°240414389410 : Tournoi #3514350222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/12/2022 11:33:23 CET [12/12/2022 5:33:23 ET]
+Table '3514350222 1' 3-max Siège #2 est au bouton.
+Place 1: julesalain (330 en jetons) 
+Place 2: nisus85 (290 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+julesalain : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 4h]
+nisus85 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à julesalain.
+julesalain a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : julesalain (grosse blind) a remporté (20)
+Siège 2 : nisus85 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240414391228 : Tournoi #3514350222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/12/2022 11:33:35 CET [12/12/2022 5:33:35 ET]
+Table '3514350222 1' 3-max Siège #3 est au bouton.
+Place 1: julesalain (340 en jetons) 
+Place 2: nisus85 (290 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+julesalain : met la petite blind. 10
+nisus85 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 5c]
+psychoman59 : passe. 
+julesalain : relance. 40 à 60
+nisus85 : relance. 120 à 180
+julesalain : suit. 120
+*** FLOP *** [2s Jd 4h]
+julesalain : mise. 160 et est all-in.
+nisus85 : suit. 110 et est all-in.
+Personne n'a suivi. (50) sont retournés à julesalain.
+*** TOURNANT *** [2s Jd 4h] [8d]
+*** RIVIÈRE *** [2s Jd 4h 8d] [Ac]
+*** ABATTAGE ***
+julesalain : montre [3d Qc] (Hauteur As)
+nisus85 : montre [Kc Ks] (une paire de Rois)
+nisus85 a remporté 580  lors du pot .
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [2s Jd 4h 8d Ac]
+Siège 1 : julesalain (petite blind) a montré [3d Qc] et a perdu avec Hauteur As
+Siège 2 : nisus85 (grosse blind) a montré [Kc Ks] et a gagné (580) avec une paire de Rois
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°240414394980 : Tournoi #3514350222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/12/2022 11:34:00 CET [12/12/2022 5:34:00 ET]
+Table '3514350222 1' 3-max Siège #1 est au bouton.
+Place 1: julesalain (50 en jetons) 
+Place 2: nisus85 (580 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+nisus85 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 6d]
+julesalain : relance. 30 à 50 et est all-in.
+nisus85 : suit. 40
+psychoman59 : relance. 220 à 270 et est all-in.
+nisus85 : suit. 220
+*** FLOP *** [Ad 2h 2s]
+*** TOURNANT *** [Ad 2h 2s] [6c]
+*** RIVIÈRE *** [Ad 2h 2s 6c] [3h]
+*** ABATTAGE ***
+nisus85 : montre [Qh Ks] (une paire de Deux)
+psychoman59 : montre [6h 6d] (un full, full aux Six par les Deux)
+psychoman59 a remporté 440  parallèle lors du pot .
+julesalain : montre [Qc Js] (une paire de Deux)
+psychoman59 a remporté 150  principal lors du pot .
+julesalain a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 590 Principal pot 150. Parallèle pot 440. | Commission 0 
+Tableau [Ad 2h 2s 6c 3h]
+Siège 1 : julesalain (bouton) a montré [Qc Js] et a perdu avec une paire de Deux
+Siège 2 : nisus85 (petite blind) a montré [Qh Ks] et a perdu avec une paire de Deux
+Siège 3 : psychoman59 (grosse blind) a montré [6h 6d] et a gagné (590) avec un full, full aux Six par les Deux
+
+
+
+Main PokerStars n°240414398130 : Tournoi #3514350222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 12/12/2022 11:34:22 CET [12/12/2022 5:34:22 ET]
+Table '3514350222 1' 3-max Siège #3 est au bouton.
+Place 2: nisus85 (310 en jetons) 
+Place 3: psychoman59 (590 en jetons) 
+psychoman59 : met la petite blind. 15
+nisus85 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Tc]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à nisus85.
+nisus85 a remporté 30  lors du pot .
+nisus85 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : nisus85 (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240414399102 : Tournoi #3514350222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 12/12/2022 11:34:28 CET [12/12/2022 5:34:28 ET]
+Table '3514350222 1' 3-max Siège #2 est au bouton.
+Place 2: nisus85 (325 en jetons) 
+Place 3: psychoman59 (575 en jetons) 
+nisus85 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 9s]
+nisus85 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : nisus85 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°240414399763 : Tournoi #3514350222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 12/12/2022 11:34:33 CET [12/12/2022 5:34:33 ET]
+Table '3514350222 1' 3-max Siège #3 est au bouton.
+Place 2: nisus85 (310 en jetons) 
+Place 3: psychoman59 (590 en jetons) 
+psychoman59 : met la petite blind. 15
+nisus85 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 4h]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à nisus85.
+nisus85 a remporté 30  lors du pot .
+nisus85 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : nisus85 (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240414400608 : Tournoi #3514350222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 12/12/2022 11:34:38 CET [12/12/2022 5:34:38 ET]
+Table '3514350222 1' 3-max Siège #2 est au bouton.
+Place 2: nisus85 (325 en jetons) 
+Place 3: psychoman59 (575 en jetons) 
+nisus85 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 8s]
+nisus85 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : nisus85 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°240414401831 : Tournoi #3514350222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 12/12/2022 11:34:47 CET [12/12/2022 5:34:47 ET]
+Table '3514350222 1' 3-max Siège #3 est au bouton.
+Place 2: nisus85 (310 en jetons) 
+Place 3: psychoman59 (590 en jetons) 
+psychoman59 : met la petite blind. 15
+nisus85 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 6s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à nisus85.
+nisus85 a remporté 30  lors du pot .
+nisus85 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : nisus85 (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240414402548 : Tournoi #3514350222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 12/12/2022 11:34:51 CET [12/12/2022 5:34:51 ET]
+Table '3514350222 1' 3-max Siège #2 est au bouton.
+Place 2: nisus85 (325 en jetons) 
+Place 3: psychoman59 (575 en jetons) 
+nisus85 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d As]
+nisus85 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : nisus85 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°240414403711 : Tournoi #3514350222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 12/12/2022 11:34:59 CET [12/12/2022 5:34:59 ET]
+Table '3514350222 1' 3-max Siège #3 est au bouton.
+Place 2: nisus85 (310 en jetons) 
+Place 3: psychoman59 (590 en jetons) 
+psychoman59 : met la petite blind. 15
+nisus85 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Td]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à nisus85.
+nisus85 a remporté 30  lors du pot .
+nisus85 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : nisus85 (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240414405276 : Tournoi #3514350222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/12/2022 11:35:10 CET [12/12/2022 5:35:10 ET]
+Table '3514350222 1' 3-max Siège #2 est au bouton.
+Place 2: nisus85 (325 en jetons) 
+Place 3: psychoman59 (575 en jetons) 
+nisus85 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Kh]
+nisus85 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [4h Jc Qh]
+psychoman59 : parole 
+nisus85 : mise. 80
+psychoman59 : suit. 80
+*** TOURNANT *** [4h Jc Qh] [9c]
+psychoman59 : parole 
+nisus85 : mise. 205 et est all-in.
+psychoman59 : suit. 205
+*** RIVIÈRE *** [4h Jc Qh 9c] [2d]
+*** ABATTAGE ***
+psychoman59 : montre [2h Kh] (une paire de Deux)
+nisus85 : montre [5d Qd] (une paire de Dames)
+nisus85 a remporté 650  lors du pot .
+*** SYNTHÈSE ***
+Pot total 650 | Commission 0 
+Tableau [4h Jc Qh 9c 2d]
+Siège 2 : nisus85 (bouton) (petite blind) a montré [5d Qd] et a gagné (650) avec une paire de Dames
+Siège 3 : psychoman59 (grosse blind) a montré [2h Kh] et a perdu avec une paire de Deux
+
+
+
+Main PokerStars n°240414408772 : Tournoi #3514350222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/12/2022 11:35:34 CET [12/12/2022 5:35:34 ET]
+Table '3514350222 1' 3-max Siège #3 est au bouton.
+Place 2: nisus85 (650 en jetons) 
+Place 3: psychoman59 (250 en jetons) 
+psychoman59 : met la petite blind. 20
+nisus85 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Td]
+psychoman59 : suit. 20
+nisus85 : parole 
+*** FLOP *** [7c 7h 3c]
+nisus85 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [7c 7h 3c] [5h]
+nisus85 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [7c 7h 3c 5h] [Qc]
+nisus85 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+nisus85 : montre [2d Kc] (une paire de Sept)
+psychoman59 : cache la main perdante. 
+nisus85 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [7c 7h 3c 5h Qc]
+Siège 2 : nisus85 (grosse blind) a montré [2d Kc] et a gagné (80) avec une paire de Sept
+Siège 3 : psychoman59 (bouton) (petite blind) a caché la main perdante. [9d Td]
+
+
+
+Main PokerStars n°240414411365 : Tournoi #3514350222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/12/2022 11:35:52 CET [12/12/2022 5:35:52 ET]
+Table '3514350222 1' 3-max Siège #2 est au bouton.
+Place 2: nisus85 (690 en jetons) 
+Place 3: psychoman59 (210 en jetons) 
+nisus85 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 5h]
+nisus85 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [8h Qd 9c]
+psychoman59 : parole 
+nisus85 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à nisus85.
+nisus85 a remporté 80  lors du pot .
+nisus85 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [8h Qd 9c]
+Siège 2 : nisus85 (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°240414414049 : Tournoi #3514350222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/12/2022 11:36:11 CET [12/12/2022 5:36:11 ET]
+Table '3514350222 1' 3-max Siège #3 est au bouton.
+Place 2: nisus85 (730 en jetons) 
+Place 3: psychoman59 (170 en jetons) 
+psychoman59 : met la petite blind. 30
+nisus85 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Kc]
+psychoman59 : relance. 110 à 170 et est all-in.
+nisus85 : suit. 110
+*** FLOP *** [9h 8d 8c]
+*** TOURNANT *** [9h 8d 8c] [Ah]
+*** RIVIÈRE *** [9h 8d 8c Ah] [8h]
+*** ABATTAGE ***
+nisus85 : montre [Qd Js] (un brelan de Huit)
+psychoman59 : montre [7d Kc] (un brelan de Huit - As+Roi kicker)
+psychoman59 a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [9h 8d 8c Ah 8h]
+Siège 2 : nisus85 (grosse blind) a montré [Qd Js] et a perdu avec un brelan de Huit
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [7d Kc] et a gagné (340) avec un brelan de Huit
+
+
+
+Main PokerStars n°240414416118 : Tournoi #3514350222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/12/2022 11:36:24 CET [12/12/2022 5:36:24 ET]
+Table '3514350222 1' 3-max Siège #2 est au bouton.
+Place 2: nisus85 (560 en jetons) 
+Place 3: psychoman59 (340 en jetons) 
+nisus85 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Ks]
+nisus85 : suit. 30
+psychoman59 : relance. 280 à 340 et est all-in.
+nisus85 : passe. 
+Personne n'a suivi. (280) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : nisus85 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°240414417281 : Tournoi #3514350222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/12/2022 11:36:32 CET [12/12/2022 5:36:32 ET]
+Table '3514350222 1' 3-max Siège #3 est au bouton.
+Place 2: nisus85 (500 en jetons) 
+Place 3: psychoman59 (400 en jetons) 
+psychoman59 : met la petite blind. 30
+nisus85 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Td]
+psychoman59 : suit. 30
+nisus85 : parole 
+*** FLOP *** [5c Ks Js]
+nisus85 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5c Ks Js] [7s]
+nisus85 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [5c Ks Js 7s] [Th]
+nisus85 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+nisus85 : montre [Ts 3h] (une paire de Dix)
+psychoman59 : montre [Qs Td] (une paire de Dix - Roi+Dame kicker)
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [5c Ks Js 7s Th]
+Siège 2 : nisus85 (grosse blind) a montré [Ts 3h] et a perdu avec une paire de Dix
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Qs Td] et a gagné (120) avec une paire de Dix
+
+
+
+Main PokerStars n°240414419433 : Tournoi #3514350222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/12/2022 11:36:47 CET [12/12/2022 5:36:47 ET]
+Table '3514350222 1' 3-max Siège #2 est au bouton.
+Place 2: nisus85 (440 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+nisus85 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Qh]
+nisus85 : relance. 380 à 440 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (380) sont retournés à nisus85.
+nisus85 a remporté 120  lors du pot .
+nisus85 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : nisus85 (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240414420473 : Tournoi #3514350222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/12/2022 11:36:54 CET [12/12/2022 5:36:54 ET]
+Table '3514350222 1' 3-max Siège #3 est au bouton.
+Place 2: nisus85 (500 en jetons) 
+Place 3: psychoman59 (400 en jetons) 
+psychoman59 : met la petite blind. 30
+nisus85 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 2d]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à nisus85.
+nisus85 a remporté 60  lors du pot .
+nisus85 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : nisus85 (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240414421408 : Tournoi #3514350222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/12/2022 11:37:01 CET [12/12/2022 5:37:01 ET]
+Table '3514350222 1' 3-max Siège #2 est au bouton.
+Place 2: nisus85 (530 en jetons) 
+Place 3: psychoman59 (370 en jetons) 
+nisus85 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 8c]
+nisus85 : relance. 60 à 120
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à nisus85.
+nisus85 a remporté 120  lors du pot .
+nisus85 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : nisus85 (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240414423370 : Tournoi #3514350222, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 12/12/2022 11:37:14 CET [12/12/2022 5:37:14 ET]
+Table '3514350222 1' 3-max Siège #3 est au bouton.
+Place 2: nisus85 (590 en jetons) 
+Place 3: psychoman59 (310 en jetons) 
+psychoman59 : met la petite blind. 40
+nisus85 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Ts]
+psychoman59 : relance. 230 à 310 et est all-in.
+nisus85 : suit. 230
+*** FLOP *** [7h As Kc]
+*** TOURNANT *** [7h As Kc] [3h]
+*** RIVIÈRE *** [7h As Kc 3h] [Ah]
+*** ABATTAGE ***
+nisus85 : montre [9d Kh] (double paire, As et Rois)
+psychoman59 : montre [Js Ts] (une paire de As)
+nisus85 a remporté 620  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+nisus85 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [7h As Kc 3h Ah]
+Siège 2 : nisus85 (grosse blind) a montré [9d Kh] et a gagné (620) avec double paire, As et Rois
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Js Ts] et a perdu avec une paire de As
+
+
+

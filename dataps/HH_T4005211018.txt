@@ -1,0 +1,579 @@
+﻿Main PokerStars n°261006221504 : Tournoi #4005211018, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 02/06/2026 7:01:57 CET [02/06/2026 1:01:57 ET]
+Table '4005211018 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: cfernandez1095 (500 en jetons) ne joue pas.
+Place 3: dany76320 (500 en jetons) 
+cfernandez1095 : met la petite blind. 10
+dany76320 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 8s]
+psychoman59 : passe. 
+cfernandez1095 : passe. 
+Personne n'a suivi. (10) sont retournés à dany76320.
+dany76320 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : cfernandez1095 (petite blind) s'est couché. avant Flop
+Siège 3 : dany76320 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°261006221753 : Tournoi #4005211018, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 02/06/2026 7:02:02 CET [02/06/2026 1:02:02 ET]
+Table '4005211018 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: cfernandez1095 (490 en jetons) ne joue pas.
+Place 3: dany76320 (510 en jetons) 
+dany76320 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 2s]
+cfernandez1095 : passe. 
+dany76320 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [4h Ts 2h]
+dany76320 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [4h Ts 2h] [Th]
+dany76320 : parole 
+psychoman59 : mise. 20
+dany76320 : suit. 20
+*** RIVIÈRE *** [4h Ts 2h Th] [5c]
+dany76320 : parole 
+psychoman59 : mise. 20
+dany76320 : suit. 20
+*** ABATTAGE ***
+psychoman59 : montre [5d 2s] (double paire, Dix et Cinq)
+dany76320 : montre [5s 2c] (double paire, Dix et Cinq)
+dany76320 a remporté 60  lors du pot .
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [4h Ts 2h Th 5c]
+Siège 1 : psychoman59 (grosse blind) a montré [5d 2s] et a gagné (60) avec double paire, Dix et Cinq
+Siège 2 : cfernandez1095 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : dany76320 (petite blind) a montré [5s 2c] et a gagné (60) avec double paire, Dix et Cinq
+
+
+
+Main PokerStars n°261006222694 : Tournoi #4005211018, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 02/06/2026 7:02:20 CET [02/06/2026 1:02:20 ET]
+Table '4005211018 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: cfernandez1095 (490 en jetons) ne joue pas.
+Place 3: dany76320 (510 en jetons) 
+psychoman59 : met la petite blind. 10
+cfernandez1095 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Ts]
+dany76320 : suit. 20
+psychoman59 : suit. 10
+cfernandez1095 : passe. 
+*** FLOP *** [3c Ks 8c]
+psychoman59 : parole 
+dany76320 : parole 
+*** TOURNANT *** [3c Ks 8c] [Th]
+psychoman59 : parole 
+dany76320 : parole 
+*** RIVIÈRE *** [3c Ks 8c Th] [3s]
+psychoman59 : mise. 60
+dany76320 : suit. 60
+*** ABATTAGE ***
+psychoman59 : montre [9s Ts] (double paire, Dix et Trois)
+dany76320 : cache la main perdante. 
+psychoman59 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [3c Ks 8c Th 3s]
+Siège 1 : psychoman59 (petite blind) a montré [9s Ts] et a gagné (180) avec double paire, Dix et Trois
+Siège 2 : cfernandez1095 (grosse blind) s'est couché. avant Flop
+Siège 3 : dany76320 (bouton) a caché la main perdante. [7s 7c]
+
+
+
+Main PokerStars n°261006223856 : Tournoi #4005211018, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 02/06/2026 7:02:41 CET [02/06/2026 1:02:41 ET]
+Table '4005211018 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (600 en jetons) 
+Place 2: cfernandez1095 (470 en jetons) ne joue pas.
+Place 3: dany76320 (430 en jetons) 
+cfernandez1095 : met la petite blind. 10
+dany76320 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 6h]
+psychoman59 : relance. 580 à 600 et est all-in.
+cfernandez1095 : passe. 
+dany76320 : passe. 
+Personne n'a suivi. (580) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : psychoman59 (bouton) a remporté (50)
+Siège 2 : cfernandez1095 (petite blind) s'est couché. avant Flop
+Siège 3 : dany76320 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261006224322 : Tournoi #4005211018, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 02/06/2026 7:02:50 CET [02/06/2026 1:02:50 ET]
+Table '4005211018 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (630 en jetons) 
+Place 2: cfernandez1095 (460 en jetons) ne joue pas.
+Place 3: dany76320 (410 en jetons) 
+dany76320 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Kd]
+cfernandez1095 : passe. 
+dany76320 : suit. 10
+psychoman59 : relance. 610 à 630 et est all-in.
+dany76320 : passe. 
+Personne n'a suivi. (610) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 2 : cfernandez1095 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : dany76320 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261006224736 : Tournoi #4005211018, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 02/06/2026 7:02:57 CET [02/06/2026 1:02:57 ET]
+Table '4005211018 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (650 en jetons) 
+Place 2: cfernandez1095 (460 en jetons) ne joue pas.
+Place 3: dany76320 (390 en jetons) 
+psychoman59 : met la petite blind. 10
+cfernandez1095 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 3h]
+dany76320 : suit. 20
+psychoman59 : passe. 
+cfernandez1095 : passe. 
+dany76320 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : cfernandez1095 (grosse blind) s'est couché. avant Flop
+Siège 3 : dany76320 (bouton) a remporté (50)
+
+
+
+Main PokerStars n°261006225042 : Tournoi #4005211018, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 02/06/2026 7:03:03 CET [02/06/2026 1:03:03 ET]
+Table '4005211018 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (640 en jetons) 
+Place 2: cfernandez1095 (440 en jetons) ne joue pas.
+Place 3: dany76320 (420 en jetons) 
+cfernandez1095 : met la petite blind. 10
+dany76320 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 3d]
+psychoman59 : suit. 20
+cfernandez1095 : passe. 
+dany76320 : parole 
+*** FLOP *** [9h 5h Kc]
+dany76320 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [9h 5h Kc] [9c]
+dany76320 : mise. 400 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (400) sont retournés à dany76320.
+dany76320 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [9h 5h Kc 9c]
+Siège 1 : psychoman59 (bouton) s'est couché. sur le Tournant
+Siège 2 : cfernandez1095 (petite blind) s'est couché. avant Flop
+Siège 3 : dany76320 (grosse blind) a remporté (50)
+
+
+
+Main PokerStars n°261006225728 : Tournoi #4005211018, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 02/06/2026 7:03:16 CET [02/06/2026 1:03:16 ET]
+Table '4005211018 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (620 en jetons) 
+Place 2: cfernandez1095 (430 en jetons) ne joue pas.
+Place 3: dany76320 (450 en jetons) 
+dany76320 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 6c]
+cfernandez1095 : passe. 
+dany76320 : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (20)
+Siège 2 : cfernandez1095 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : dany76320 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261006225961 : Tournoi #4005211018, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 02/06/2026 7:03:20 CET [02/06/2026 1:03:20 ET]
+Table '4005211018 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (630 en jetons) 
+Place 2: cfernandez1095 (430 en jetons) ne joue pas.
+Place 3: dany76320 (440 en jetons) 
+psychoman59 : met la petite blind. 10
+cfernandez1095 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Qh]
+dany76320 : suit. 20
+psychoman59 : relance. 610 à 630 et est all-in.
+cfernandez1095 : passe. 
+dany76320 : passe. 
+Personne n'a suivi. (610) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (petite blind) a remporté (60)
+Siège 2 : cfernandez1095 (grosse blind) s'est couché. avant Flop
+Siège 3 : dany76320 (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261006226327 : Tournoi #4005211018, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 02/06/2026 7:03:27 CET [02/06/2026 1:03:27 ET]
+Table '4005211018 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (670 en jetons) 
+Place 2: cfernandez1095 (410 en jetons) ne joue pas.
+Place 3: dany76320 (420 en jetons) 
+cfernandez1095 : met la petite blind. 10
+dany76320 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Ks]
+psychoman59 : suit. 20
+cfernandez1095 : passe. 
+dany76320 : parole 
+*** FLOP *** [Qc 5d Kd]
+dany76320 : parole 
+psychoman59 : mise. 50
+dany76320 : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [Qc 5d Kd]
+Siège 1 : psychoman59 (bouton) a remporté (50)
+Siège 2 : cfernandez1095 (petite blind) s'est couché. avant Flop
+Siège 3 : dany76320 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261006226910 : Tournoi #4005211018, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 02/06/2026 7:03:38 CET [02/06/2026 1:03:38 ET]
+Table '4005211018 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (700 en jetons) 
+Place 2: cfernandez1095 (400 en jetons) ne joue pas.
+Place 3: dany76320 (400 en jetons) 
+dany76320 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 7c]
+cfernandez1095 : passe. 
+dany76320 : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (20)
+Siège 2 : cfernandez1095 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : dany76320 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261006227166 : Tournoi #4005211018, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 02/06/2026 7:03:42 CET [02/06/2026 1:03:42 ET]
+Table '4005211018 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (710 en jetons) 
+Place 2: cfernandez1095 (400 en jetons) ne joue pas.
+Place 3: dany76320 (390 en jetons) 
+psychoman59 : met la petite blind. 10
+cfernandez1095 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 4h]
+dany76320 : suit. 20
+psychoman59 : passe. 
+cfernandez1095 : passe. 
+dany76320 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : cfernandez1095 (grosse blind) s'est couché. avant Flop
+Siège 3 : dany76320 (bouton) a remporté (50)
+
+
+
+Main PokerStars n°261006227488 : Tournoi #4005211018, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 02/06/2026 7:03:48 CET [02/06/2026 1:03:48 ET]
+Table '4005211018 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (700 en jetons) 
+Place 2: cfernandez1095 (380 en jetons) ne joue pas.
+Place 3: dany76320 (420 en jetons) 
+cfernandez1095 : met la petite blind. 10
+dany76320 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 8c]
+psychoman59 : passe. 
+cfernandez1095 : passe. 
+Personne n'a suivi. (10) sont retournés à dany76320.
+dany76320 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : cfernandez1095 (petite blind) s'est couché. avant Flop
+Siège 3 : dany76320 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°261006227751 : Tournoi #4005211018, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 02/06/2026 7:03:53 CET [02/06/2026 1:03:53 ET]
+Table '4005211018 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (700 en jetons) 
+Place 2: cfernandez1095 (370 en jetons) ne joue pas.
+Place 3: dany76320 (430 en jetons) 
+dany76320 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 5s]
+cfernandez1095 : passe. 
+dany76320 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [2h 3h 4c]
+dany76320 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [2h 3h 4c] [Jd]
+dany76320 : mise. 180
+psychoman59 : passe. 
+Personne n'a suivi. (180) sont retournés à dany76320.
+dany76320 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [2h 3h 4c Jd]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : cfernandez1095 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : dany76320 (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°261006228501 : Tournoi #4005211018, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 02/06/2026 7:04:07 CET [02/06/2026 1:04:07 ET]
+Table '4005211018 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (680 en jetons) 
+Place 2: cfernandez1095 (370 en jetons) ne joue pas.
+Place 3: dany76320 (450 en jetons) 
+psychoman59 : met la petite blind. 10
+cfernandez1095 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts As]
+cfernandez1095 est déconnecté 
+dany76320 : suit. 20
+psychoman59 : relance. 660 à 680 et est all-in.
+cfernandez1095 : passe. 
+cfernandez1095 est revenu.
+dany76320 : suit. 430 et est all-in.
+Personne n'a suivi. (230) sont retournés à psychoman59.
+*** FLOP *** [8s Qc 4h]
+*** TOURNANT *** [8s Qc 4h] [Kd]
+*** RIVIÈRE *** [8s Qc 4h Kd] [9s]
+*** ABATTAGE ***
+psychoman59 : montre [Ts As] (Hauteur As)
+dany76320 : montre [Ah Kc] (une paire de Rois)
+dany76320 a remporté 920  lors du pot .
+*** SYNTHÈSE ***
+Pot total 920 | Commission 0 
+Tableau [8s Qc 4h Kd 9s]
+Siège 1 : psychoman59 (petite blind) a montré [Ts As] et a perdu avec Hauteur As
+Siège 2 : cfernandez1095 (grosse blind) s'est couché. avant Flop
+Siège 3 : dany76320 (bouton) a montré [Ah Kc] et a gagné (920) avec une paire de Rois
+
+
+
+Main PokerStars n°261006229254 : Tournoi #4005211018, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 02/06/2026 7:04:20 CET [02/06/2026 1:04:20 ET]
+Table '4005211018 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (230 en jetons) 
+Place 2: cfernandez1095 (350 en jetons) 
+Place 3: dany76320 (920 en jetons) 
+cfernandez1095 : met la petite blind. 10
+dany76320 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 7d]
+psychoman59 : suit. 20
+cfernandez1095 a dépassé le temps imparti.
+cfernandez1095 : passe. 
+cfernandez1095 ne joue pas.
+dany76320 : parole 
+*** FLOP *** [Qc Kd 7c]
+dany76320 : parole 
+psychoman59 : mise. 50
+dany76320 : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [Qc Kd 7c]
+Siège 1 : psychoman59 (bouton) a remporté (50)
+Siège 2 : cfernandez1095 (petite blind) s'est couché. avant Flop
+Siège 3 : dany76320 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261006231251 : Tournoi #4005211018, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 02/06/2026 7:04:57 CET [02/06/2026 1:04:57 ET]
+Table '4005211018 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (260 en jetons) 
+Place 2: cfernandez1095 (340 en jetons) ne joue pas.
+Place 3: dany76320 (900 en jetons) 
+dany76320 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 5h]
+cfernandez1095 : passe. 
+dany76320 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [4s Ah Td]
+dany76320 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [4s Ah Td] [6s]
+dany76320 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [4s Ah Td 6s] [Js]
+dany76320 : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à dany76320.
+dany76320 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [4s Ah Td 6s Js]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : cfernandez1095 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : dany76320 (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°261006232236 : Tournoi #4005211018, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 02/06/2026 7:05:15 CET [02/06/2026 1:05:15 ET]
+Table '4005211018 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (240 en jetons) 
+Place 2: cfernandez1095 (340 en jetons) ne joue pas.
+Place 3: dany76320 (920 en jetons) 
+psychoman59 : met la petite blind. 15
+cfernandez1095 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 7d]
+dany76320 : suit. 30
+psychoman59 : suit. 15
+cfernandez1095 : passe. 
+*** FLOP *** [Td Jc Jd]
+psychoman59 : parole 
+dany76320 : parole 
+*** TOURNANT *** [Td Jc Jd] [Ah]
+psychoman59 : parole 
+dany76320 : parole 
+*** RIVIÈRE *** [Td Jc Jd Ah] [Qh]
+psychoman59 : parole 
+dany76320 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Qs 7d] (double paire, Dames et Valets)
+dany76320 : cache la main perdante. 
+psychoman59 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [Td Jc Jd Ah Qh]
+Siège 1 : psychoman59 (petite blind) a montré [Qs 7d] et a gagné (90) avec double paire, Dames et Valets
+Siège 2 : cfernandez1095 (grosse blind) s'est couché. avant Flop
+Siège 3 : dany76320 (bouton) a caché la main perdante. [8d 7s]
+
+
+
+Main PokerStars n°261006233227 : Tournoi #4005211018, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 02/06/2026 7:05:33 CET [02/06/2026 1:05:33 ET]
+Table '4005211018 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: cfernandez1095 (310 en jetons) ne joue pas.
+Place 3: dany76320 (890 en jetons) 
+cfernandez1095 : met la petite blind. 15
+dany76320 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Jc]
+cfernandez1095 est revenu.
+psychoman59 : suit. 30
+cfernandez1095 a dépassé le temps imparti.
+cfernandez1095 : passe. 
+cfernandez1095 ne joue pas.
+cfernandez1095 est revenu.
+dany76320 : parole 
+*** FLOP *** [9s As 4h]
+dany76320 : parole 
+psychoman59 : mise. 30
+dany76320 : suit. 30
+*** TOURNANT *** [9s As 4h] [3d]
+dany76320 : parole 
+psychoman59 : mise. 30
+dany76320 : suit. 30
+*** RIVIÈRE *** [9s As 4h 3d] [6s]
+dany76320 : mise. 195
+psychoman59 : passe. 
+Personne n'a suivi. (195) sont retournés à dany76320.
+dany76320 a remporté 195  lors du pot .
+*** SYNTHÈSE ***
+Pot total 195 | Commission 0 
+Tableau [9s As 4h 3d 6s]
+Siège 1 : psychoman59 (bouton) s'est couché. sur le Rivière
+Siège 2 : cfernandez1095 (petite blind) s'est couché. avant Flop
+Siège 3 : dany76320 (grosse blind) a remporté (195)
+
+
+
+Main PokerStars n°261006235084 : Tournoi #4005211018, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 02/06/2026 7:06:07 CET [02/06/2026 1:06:07 ET]
+Table '4005211018 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (210 en jetons) 
+Place 2: cfernandez1095 (295 en jetons) 
+Place 3: dany76320 (995 en jetons) 
+dany76320 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 4c]
+cfernandez1095 : suit. 30
+dany76320 : suit. 15
+psychoman59 : relance. 180 à 210 et est all-in.
+cfernandez1095 a dépassé le temps imparti.
+cfernandez1095 : passe. 
+cfernandez1095 ne joue pas.
+dany76320 : passe. 
+Personne n'a suivi. (180) sont retournés à psychoman59.
+psychoman59 a remporté 90  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (90)
+Siège 2 : cfernandez1095 (bouton) s'est couché. avant Flop
+Siège 3 : dany76320 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261006236579 : Tournoi #4005211018, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 02/06/2026 7:06:34 CET [02/06/2026 1:06:34 ET]
+Table '4005211018 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 2: cfernandez1095 (265 en jetons) ne joue pas.
+Place 3: dany76320 (965 en jetons) 
+psychoman59 : met la petite blind. 15
+cfernandez1095 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Kd]
+dany76320 : suit. 30
+psychoman59 : relance. 240 à 270 et est all-in.
+cfernandez1095 : passe. 
+dany76320 : suit. 240
+*** FLOP *** [7h Ah 5s]
+*** TOURNANT *** [7h Ah 5s] [2d]
+*** RIVIÈRE *** [7h Ah 5s 2d] [Kc]
+*** ABATTAGE ***
+psychoman59 : montre [Qs Kd] (une paire de Rois)
+dany76320 : montre [Ad Kh] (double paire, As et Rois)
+dany76320 a remporté 570  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 570 | Commission 0 
+Tableau [7h Ah 5s 2d Kc]
+Siège 1 : psychoman59 (petite blind) a montré [Qs Kd] et a perdu avec une paire de Rois
+Siège 2 : cfernandez1095 (grosse blind) s'est couché. avant Flop
+Siège 3 : dany76320 (bouton) a montré [Ad Kh] et a gagné (570) avec double paire, As et Rois
+
+
+

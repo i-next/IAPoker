@@ -1,0 +1,877 @@
+﻿Main PokerStars n°260410520159 : Tournoi #3990851208, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/04/2026 11:13:31 CET [10/04/2026 5:13:31 ET]
+Table '3990851208 1' 3-max Siège #1 est au bouton.
+Place 1: alesdelatorre (500 en jetons) 
+Place 2: ludovicci (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+ludovicci : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 9d]
+alesdelatorre : suit. 20
+ludovicci : suit. 10
+psychoman59 : parole 
+*** FLOP *** [6c Ks 7c]
+ludovicci : parole 
+psychoman59 : parole 
+alesdelatorre : mise. 20
+ludovicci : suit. 20
+psychoman59 : passe. 
+*** TOURNANT *** [6c Ks 7c] [7d]
+ludovicci : parole 
+alesdelatorre : parole 
+*** RIVIÈRE *** [6c Ks 7c 7d] [8d]
+ludovicci : parole 
+alesdelatorre : mise. 100
+ludovicci : passe. 
+Personne n'a suivi. (100) sont retournés à alesdelatorre.
+alesdelatorre a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [6c Ks 7c 7d 8d]
+Siège 1 : alesdelatorre (bouton) a remporté (100)
+Siège 2 : ludovicci (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°260410523287 : Tournoi #3990851208, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/04/2026 11:14:10 CET [10/04/2026 5:14:10 ET]
+Table '3990851208 1' 3-max Siège #2 est au bouton.
+Place 1: alesdelatorre (560 en jetons) 
+Place 2: ludovicci (460 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 10
+alesdelatorre : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 3h]
+ludovicci : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à alesdelatorre.
+alesdelatorre a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : alesdelatorre (grosse blind) a remporté (20)
+Siège 2 : ludovicci (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260410524104 : Tournoi #3990851208, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/04/2026 11:14:21 CET [10/04/2026 5:14:21 ET]
+Table '3990851208 1' 3-max Siège #3 est au bouton.
+Place 1: alesdelatorre (570 en jetons) 
+Place 2: ludovicci (460 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+alesdelatorre : met la petite blind. 10
+ludovicci : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 2d]
+psychoman59 : suit. 20
+alesdelatorre : relance. 20 à 40
+ludovicci : relance. 100 à 140
+psychoman59 : passe. 
+alesdelatorre : suit. 100
+*** FLOP *** [5c 3s Th]
+alesdelatorre : parole 
+ludovicci : mise. 300
+alesdelatorre : passe. 
+Personne n'a suivi. (300) sont retournés à ludovicci.
+ludovicci a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [5c 3s Th]
+Siège 1 : alesdelatorre (petite blind) s'est couché. sur le Flop
+Siège 2 : ludovicci (grosse blind) a remporté (300)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260410525584 : Tournoi #3990851208, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/04/2026 11:14:40 CET [10/04/2026 5:14:40 ET]
+Table '3990851208 1' 3-max Siège #1 est au bouton.
+Place 1: alesdelatorre (430 en jetons) 
+Place 2: ludovicci (620 en jetons) 
+Place 3: psychoman59 (450 en jetons) 
+ludovicci : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 5h]
+alesdelatorre : relance. 20 à 40
+ludovicci : suit. 30
+psychoman59 : passe. 
+*** FLOP *** [7d 5d 2d]
+ludovicci : parole 
+alesdelatorre : parole 
+*** TOURNANT *** [7d 5d 2d] [4h]
+ludovicci : parole 
+alesdelatorre : parole 
+*** RIVIÈRE *** [7d 5d 2d 4h] [Qc]
+ludovicci : mise. 100
+alesdelatorre : passe. 
+Personne n'a suivi. (100) sont retournés à ludovicci.
+ludovicci a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [7d 5d 2d 4h Qc]
+Siège 1 : alesdelatorre (bouton) s'est couché. sur le Rivière
+Siège 2 : ludovicci (petite blind) a remporté (100)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260410527814 : Tournoi #3990851208, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/04/2026 11:15:08 CET [10/04/2026 5:15:08 ET]
+Table '3990851208 1' 3-max Siège #2 est au bouton.
+Place 1: alesdelatorre (390 en jetons) 
+Place 2: ludovicci (680 en jetons) 
+Place 3: psychoman59 (430 en jetons) 
+psychoman59 : met la petite blind. 10
+alesdelatorre : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Qh]
+ludovicci : suit. 20
+psychoman59 : relance. 40 à 60
+alesdelatorre : passe. 
+ludovicci : suit. 40
+*** FLOP *** [6c 7c 8h]
+psychoman59 : mise. 70
+ludovicci : suit. 70
+*** TOURNANT *** [6c 7c 8h] [7d]
+psychoman59 : mise. 140
+ludovicci : suit. 140
+*** RIVIÈRE *** [6c 7c 8h 7d] [Tc]
+psychoman59 : mise. 160 et est all-in.
+ludovicci : passe. 
+Personne n'a suivi. (160) sont retournés à psychoman59.
+psychoman59 a remporté 560  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [6c 7c 8h 7d Tc]
+Siège 1 : alesdelatorre (grosse blind) s'est couché. avant Flop
+Siège 2 : ludovicci (bouton) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (petite blind) a remporté (560)
+
+
+
+Main PokerStars n°260410530637 : Tournoi #3990851208, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/04/2026 11:15:44 CET [10/04/2026 5:15:44 ET]
+Table '3990851208 1' 3-max Siège #3 est au bouton.
+Place 1: alesdelatorre (370 en jetons) 
+Place 2: ludovicci (410 en jetons) 
+Place 3: psychoman59 (720 en jetons) 
+alesdelatorre : met la petite blind. 15
+ludovicci : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 3h]
+psychoman59 : passe. 
+alesdelatorre : relance. 30 à 60
+ludovicci : suit. 30
+*** FLOP *** [4s Qd Kd]
+alesdelatorre : parole 
+ludovicci : parole 
+*** TOURNANT *** [4s Qd Kd] [2h]
+alesdelatorre : parole 
+ludovicci : parole 
+*** RIVIÈRE *** [4s Qd Kd 2h] [8c]
+alesdelatorre : parole 
+ludovicci : parole 
+*** ABATTAGE ***
+alesdelatorre : montre [Tc Ah] (Hauteur As)
+ludovicci : cache la main perdante. 
+alesdelatorre a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [4s Qd Kd 2h 8c]
+Siège 1 : alesdelatorre (petite blind) a montré [Tc Ah] et a gagné (120) avec Hauteur As
+Siège 2 : ludovicci (grosse blind) a caché la main perdante. [9s 6h]
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260410532926 : Tournoi #3990851208, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/04/2026 11:16:13 CET [10/04/2026 5:16:13 ET]
+Table '3990851208 1' 3-max Siège #1 est au bouton.
+Place 1: alesdelatorre (430 en jetons) 
+Place 2: ludovicci (350 en jetons) 
+Place 3: psychoman59 (720 en jetons) 
+ludovicci : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 5d]
+alesdelatorre : suit. 30
+ludovicci : passe. 
+psychoman59 : parole 
+*** FLOP *** [Ac Jc 6s]
+psychoman59 : parole 
+alesdelatorre : mise. 38
+psychoman59 : relance. 76 à 114
+alesdelatorre : suit. 76
+*** TOURNANT *** [Ac Jc 6s] [7s]
+psychoman59 : mise. 303
+alesdelatorre : suit. 286 et est all-in.
+Personne n'a suivi. (17) sont retournés à psychoman59.
+*** RIVIÈRE *** [Ac Jc 6s 7s] [2c]
+*** ABATTAGE ***
+psychoman59 : montre [Ad 5d] (une paire de As)
+alesdelatorre : montre [Js 4s] (une paire de Valets)
+psychoman59 a remporté 875  lors du pot .
+alesdelatorre a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 875 | Commission 0 
+Tableau [Ac Jc 6s 7s 2c]
+Siège 1 : alesdelatorre (bouton) a montré [Js 4s] et a perdu avec une paire de Valets
+Siège 2 : ludovicci (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [Ad 5d] et a gagné (875) avec une paire de As
+
+
+
+Main PokerStars n°260410535956 : Tournoi #3990851208, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/04/2026 11:16:53 CET [10/04/2026 5:16:53 ET]
+Table '3990851208 1' 3-max Siège #3 est au bouton.
+Place 2: ludovicci (335 en jetons) 
+Place 3: psychoman59 (1165 en jetons) 
+psychoman59 : met la petite blind. 15
+ludovicci : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Th]
+psychoman59 : relance. 30 à 60
+ludovicci : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : ludovicci (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°260410536581 : Tournoi #3990851208, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/04/2026 11:17:01 CET [10/04/2026 5:17:01 ET]
+Table '3990851208 1' 3-max Siège #2 est au bouton.
+Place 2: ludovicci (305 en jetons) 
+Place 3: psychoman59 (1195 en jetons) 
+ludovicci : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 4s]
+ludovicci : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : ludovicci (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°260410537451 : Tournoi #3990851208, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/04/2026 11:17:11 CET [10/04/2026 5:17:11 ET]
+Table '3990851208 1' 3-max Siège #3 est au bouton.
+Place 2: ludovicci (290 en jetons) 
+Place 3: psychoman59 (1210 en jetons) 
+psychoman59 : met la petite blind. 15
+ludovicci : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Ah]
+psychoman59 : relance. 1180 à 1210 et est all-in.
+ludovicci : passe. 
+Personne n'a suivi. (1180) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : ludovicci (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°260410537978 : Tournoi #3990851208, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/04/2026 11:17:18 CET [10/04/2026 5:17:18 ET]
+Table '3990851208 1' 3-max Siège #2 est au bouton.
+Place 2: ludovicci (260 en jetons) 
+Place 3: psychoman59 (1240 en jetons) 
+ludovicci : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 7h]
+ludovicci : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : ludovicci (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°260410538326 : Tournoi #3990851208, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/04/2026 11:17:23 CET [10/04/2026 5:17:23 ET]
+Table '3990851208 1' 3-max Siège #3 est au bouton.
+Place 2: ludovicci (245 en jetons) 
+Place 3: psychoman59 (1255 en jetons) 
+psychoman59 : met la petite blind. 15
+ludovicci : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Ad]
+psychoman59 : suit. 15
+ludovicci : parole 
+*** FLOP *** [5s 7h 4s]
+ludovicci : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5s 7h 4s] [2s]
+ludovicci : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à ludovicci.
+ludovicci a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [5s 7h 4s 2s]
+Siège 2 : ludovicci (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°260410539515 : Tournoi #3990851208, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/04/2026 11:17:38 CET [10/04/2026 5:17:38 ET]
+Table '3990851208 1' 3-max Siège #2 est au bouton.
+Place 2: ludovicci (275 en jetons) 
+Place 3: psychoman59 (1225 en jetons) 
+ludovicci : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 4c]
+ludovicci : relance. 40 à 80
+psychoman59 : suit. 40
+*** FLOP *** [Kc 9h Qd]
+psychoman59 : parole 
+ludovicci : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à ludovicci.
+ludovicci a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Kc 9h Qd]
+Siège 2 : ludovicci (bouton) (petite blind) a remporté (160)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°260410540544 : Tournoi #3990851208, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/04/2026 11:17:51 CET [10/04/2026 5:17:51 ET]
+Table '3990851208 1' 3-max Siège #3 est au bouton.
+Place 2: ludovicci (355 en jetons) 
+Place 3: psychoman59 (1145 en jetons) 
+psychoman59 : met la petite blind. 20
+ludovicci : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Jd]
+psychoman59 : relance. 40 à 80
+ludovicci : suit. 40
+*** FLOP *** [Qc 8s 3c]
+ludovicci : parole 
+psychoman59 : mise. 160
+ludovicci : suit. 160
+*** TOURNANT *** [Qc 8s 3c] [5s]
+ludovicci : parole 
+psychoman59 : mise. 480
+ludovicci : passe. 
+Personne n'a suivi. (480) sont retournés à psychoman59.
+psychoman59 a remporté 480  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [Qc 8s 3c 5s]
+Siège 2 : ludovicci (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (480)
+
+
+
+Main PokerStars n°260410541906 : Tournoi #3990851208, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/04/2026 11:18:08 CET [10/04/2026 5:18:08 ET]
+Table '3990851208 1' 3-max Siège #2 est au bouton.
+Place 2: ludovicci (115 en jetons) 
+Place 3: psychoman59 (1385 en jetons) 
+ludovicci : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 8d]
+ludovicci : relance. 75 à 115 et est all-in.
+psychoman59 : suit. 75
+*** FLOP *** [7d Ad 7c]
+*** TOURNANT *** [7d Ad 7c] [3c]
+*** RIVIÈRE *** [7d Ad 7c 3c] [6h]
+*** ABATTAGE ***
+psychoman59 : montre [Jc 8d] (une paire de Sept)
+ludovicci : montre [5c 4h] (une suite, Trois à Sept)
+ludovicci a remporté 230  lors du pot .
+*** SYNTHÈSE ***
+Pot total 230 | Commission 0 
+Tableau [7d Ad 7c 3c 6h]
+Siège 2 : ludovicci (bouton) (petite blind) a montré [5c 4h] et a gagné (230) avec une suite, Trois à Sept
+Siège 3 : psychoman59 (grosse blind) a montré [Jc 8d] et a perdu avec une paire de Sept
+
+
+
+Main PokerStars n°260410543086 : Tournoi #3990851208, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/04/2026 11:18:23 CET [10/04/2026 5:18:23 ET]
+Table '3990851208 1' 3-max Siège #3 est au bouton.
+Place 2: ludovicci (230 en jetons) 
+Place 3: psychoman59 (1270 en jetons) 
+psychoman59 : met la petite blind. 20
+ludovicci : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 8d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à ludovicci.
+ludovicci a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : ludovicci (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260410543593 : Tournoi #3990851208, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/04/2026 11:18:30 CET [10/04/2026 5:18:30 ET]
+Table '3990851208 1' 3-max Siège #2 est au bouton.
+Place 2: ludovicci (250 en jetons) 
+Place 3: psychoman59 (1250 en jetons) 
+ludovicci : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Kd]
+ludovicci : suit. 20
+psychoman59 : relance. 1210 à 1250 et est all-in.
+ludovicci : suit. 210 et est all-in.
+Personne n'a suivi. (1000) sont retournés à psychoman59.
+*** FLOP *** [Jc 5s Js]
+*** TOURNANT *** [Jc 5s Js] [Td]
+*** RIVIÈRE *** [Jc 5s Js Td] [4s]
+*** ABATTAGE ***
+psychoman59 : montre [9c Kd] (une paire de Valets)
+ludovicci : montre [Ah Kc] (une paire de Valets - As kicker)
+ludovicci a remporté 500  lors du pot .
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Tableau [Jc 5s Js Td 4s]
+Siège 2 : ludovicci (bouton) (petite blind) a montré [Ah Kc] et a gagné (500) avec une paire de Valets
+Siège 3 : psychoman59 (grosse blind) a montré [9c Kd] et a perdu avec une paire de Valets
+
+
+
+Main PokerStars n°260410544734 : Tournoi #3990851208, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/04/2026 11:18:44 CET [10/04/2026 5:18:44 ET]
+Table '3990851208 1' 3-max Siège #3 est au bouton.
+Place 2: ludovicci (500 en jetons) 
+Place 3: psychoman59 (1000 en jetons) 
+psychoman59 : met la petite blind. 20
+ludovicci : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Jc]
+psychoman59 : suit. 20
+ludovicci : parole 
+*** FLOP *** [Jd Jh Ad]
+ludovicci : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Jd Jh Ad] [4c]
+ludovicci : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Jd Jh Ad 4c] [8h]
+ludovicci : parole 
+psychoman59 : mise. 80
+ludovicci : suit. 80
+*** ABATTAGE ***
+psychoman59 : montre [Qs Jc] (un brelan de Valets)
+ludovicci : cache la main perdante. 
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Jd Jh Ad 4c 8h]
+Siège 2 : ludovicci (grosse blind) a caché la main perdante. [Kh 9d]
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Qs Jc] et a gagné (240) avec un brelan de Valets
+
+
+
+Main PokerStars n°260410546216 : Tournoi #3990851208, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/04/2026 11:19:03 CET [10/04/2026 5:19:03 ET]
+Table '3990851208 1' 3-max Siège #2 est au bouton.
+Place 2: ludovicci (380 en jetons) 
+Place 3: psychoman59 (1120 en jetons) 
+ludovicci : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 8h]
+ludovicci : suit. 20
+psychoman59 : parole 
+*** FLOP *** [9h 2d Th]
+psychoman59 : parole 
+ludovicci : parole 
+*** TOURNANT *** [9h 2d Th] [Ks]
+psychoman59 : parole 
+ludovicci : parole 
+*** RIVIÈRE *** [9h 2d Th Ks] [3c]
+psychoman59 : mise. 80
+ludovicci : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [9h 2d Th Ks 3c]
+Siège 2 : ludovicci (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°260410547483 : Tournoi #3990851208, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/04/2026 11:19:19 CET [10/04/2026 5:19:19 ET]
+Table '3990851208 1' 3-max Siège #3 est au bouton.
+Place 2: ludovicci (340 en jetons) 
+Place 3: psychoman59 (1160 en jetons) 
+psychoman59 : met la petite blind. 20
+ludovicci : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 9h]
+psychoman59 : suit. 20
+ludovicci : parole 
+*** FLOP *** [2h 5h 4h]
+ludovicci : parole 
+psychoman59 : parole 
+*** TOURNANT *** [2h 5h 4h] [7d]
+ludovicci : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [2h 5h 4h 7d] [Ad]
+ludovicci : parole 
+psychoman59 : mise. 80
+ludovicci : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [2h 5h 4h 7d Ad]
+Siège 2 : ludovicci (grosse blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°260410548968 : Tournoi #3990851208, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 10/04/2026 11:19:38 CET [10/04/2026 5:19:38 ET]
+Table '3990851208 1' 3-max Siège #2 est au bouton.
+Place 2: ludovicci (300 en jetons) 
+Place 3: psychoman59 (1200 en jetons) 
+ludovicci : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 7c]
+ludovicci : suit. 30
+psychoman59 : parole 
+*** FLOP *** [2c 8h 8d]
+psychoman59 : parole 
+ludovicci : mise. 120
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à ludovicci.
+ludovicci a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [2c 8h 8d]
+Siège 2 : ludovicci (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°260410550051 : Tournoi #3990851208, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 10/04/2026 11:19:52 CET [10/04/2026 5:19:52 ET]
+Table '3990851208 1' 3-max Siège #3 est au bouton.
+Place 2: ludovicci (360 en jetons) 
+Place 3: psychoman59 (1140 en jetons) 
+psychoman59 : met la petite blind. 30
+ludovicci : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Qs]
+psychoman59 : suit. 30
+ludovicci : parole 
+*** FLOP *** [2s 4d Kc]
+ludovicci : parole 
+psychoman59 : parole 
+*** TOURNANT *** [2s 4d Kc] [7d]
+ludovicci : parole 
+psychoman59 : mise. 120
+ludovicci : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [2s 4d Kc 7d]
+Siège 2 : ludovicci (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°260410551185 : Tournoi #3990851208, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 10/04/2026 11:20:06 CET [10/04/2026 5:20:06 ET]
+Table '3990851208 1' 3-max Siège #2 est au bouton.
+Place 2: ludovicci (300 en jetons) 
+Place 3: psychoman59 (1200 en jetons) 
+ludovicci : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Jh]
+ludovicci : suit. 30
+psychoman59 : parole 
+*** FLOP *** [4c 9c Ts]
+psychoman59 : parole 
+ludovicci : parole 
+*** TOURNANT *** [4c 9c Ts] [8h]
+psychoman59 : parole 
+ludovicci : mise. 120
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à ludovicci.
+ludovicci a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [4c 9c Ts 8h]
+Siège 2 : ludovicci (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°260410552488 : Tournoi #3990851208, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 10/04/2026 11:20:22 CET [10/04/2026 5:20:22 ET]
+Table '3990851208 1' 3-max Siège #3 est au bouton.
+Place 2: ludovicci (360 en jetons) 
+Place 3: psychoman59 (1140 en jetons) 
+psychoman59 : met la petite blind. 30
+ludovicci : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Ts]
+psychoman59 : suit. 30
+ludovicci : parole 
+*** FLOP *** [5h 8h Js]
+ludovicci : parole 
+psychoman59 : mise. 120
+ludovicci : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [5h 8h Js]
+Siège 2 : ludovicci (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°260410553592 : Tournoi #3990851208, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 10/04/2026 11:20:36 CET [10/04/2026 5:20:36 ET]
+Table '3990851208 1' 3-max Siège #2 est au bouton.
+Place 2: ludovicci (300 en jetons) 
+Place 3: psychoman59 (1200 en jetons) 
+ludovicci : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Qd]
+ludovicci : suit. 30
+psychoman59 : parole 
+*** FLOP *** [2s 2d Kd]
+psychoman59 : parole 
+ludovicci : parole 
+*** TOURNANT *** [2s 2d Kd] [5s]
+psychoman59 : parole 
+ludovicci : parole 
+*** RIVIÈRE *** [2s 2d Kd 5s] [8c]
+psychoman59 : parole 
+ludovicci : mise. 120
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à ludovicci.
+ludovicci a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [2s 2d Kd 5s 8c]
+Siège 2 : ludovicci (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°260410555381 : Tournoi #3990851208, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 10/04/2026 11:20:59 CET [10/04/2026 5:20:59 ET]
+Table '3990851208 1' 3-max Siège #3 est au bouton.
+Place 2: ludovicci (360 en jetons) 
+Place 3: psychoman59 (1140 en jetons) 
+psychoman59 : met la petite blind. 30
+ludovicci : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 3h]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à ludovicci.
+ludovicci a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : ludovicci (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260410555798 : Tournoi #3990851208, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 10/04/2026 11:21:04 CET [10/04/2026 5:21:04 ET]
+Table '3990851208 1' 3-max Siège #2 est au bouton.
+Place 2: ludovicci (390 en jetons) 
+Place 3: psychoman59 (1110 en jetons) 
+ludovicci : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Js]
+ludovicci : suit. 30
+psychoman59 : parole 
+*** FLOP *** [2c 5d Tc]
+psychoman59 : parole 
+ludovicci : parole 
+*** TOURNANT *** [2c 5d Tc] [Ah]
+psychoman59 : parole 
+ludovicci : parole 
+*** RIVIÈRE *** [2c 5d Tc Ah] [Qc]
+psychoman59 : parole 
+ludovicci : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Qh Js] (une paire de Dames)
+ludovicci : cache la main perdante. 
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [2c 5d Tc Ah Qc]
+Siège 2 : ludovicci (bouton) (petite blind) a caché la main perdante. [Kh 2d]
+Siège 3 : psychoman59 (grosse blind) a montré [Qh Js] et a gagné (120) avec une paire de Dames
+
+
+
+Main PokerStars n°260410557151 : Tournoi #3990851208, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 10/04/2026 11:21:21 CET [10/04/2026 5:21:21 ET]
+Table '3990851208 1' 3-max Siège #3 est au bouton.
+Place 2: ludovicci (330 en jetons) 
+Place 3: psychoman59 (1170 en jetons) 
+psychoman59 : met la petite blind. 30
+ludovicci : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 6s]
+psychoman59 : suit. 30
+ludovicci : relance. 120 à 180
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à ludovicci.
+ludovicci a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : ludovicci (grosse blind) a remporté (120)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260410557952 : Tournoi #3990851208, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 10/04/2026 11:21:31 CET [10/04/2026 5:21:31 ET]
+Table '3990851208 1' 3-max Siège #2 est au bouton.
+Place 2: ludovicci (390 en jetons) 
+Place 3: psychoman59 (1110 en jetons) 
+ludovicci : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 9d]
+ludovicci : suit. 30
+psychoman59 : parole 
+*** FLOP *** [4h Kd Jc]
+psychoman59 : parole 
+ludovicci : parole 
+*** TOURNANT *** [4h Kd Jc] [9s]
+psychoman59 : parole 
+ludovicci : parole 
+*** RIVIÈRE *** [4h Kd Jc 9s] [Jd]
+psychoman59 : mise. 120
+ludovicci : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [4h Kd Jc 9s Jd]
+Siège 2 : ludovicci (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°260410559638 : Tournoi #3990851208, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 10/04/2026 11:21:52 CET [10/04/2026 5:21:52 ET]
+Table '3990851208 1' 3-max Siège #3 est au bouton.
+Place 2: ludovicci (330 en jetons) 
+Place 3: psychoman59 (1170 en jetons) 
+psychoman59 : met la petite blind. 40
+ludovicci : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 2c]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à ludovicci.
+ludovicci a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : ludovicci (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260410559994 : Tournoi #3990851208, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 10/04/2026 11:21:56 CET [10/04/2026 5:21:56 ET]
+Table '3990851208 1' 3-max Siège #2 est au bouton.
+Place 2: ludovicci (370 en jetons) 
+Place 3: psychoman59 (1130 en jetons) 
+ludovicci : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 7c]
+ludovicci : relance. 80 à 160
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à ludovicci.
+ludovicci a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 2 : ludovicci (bouton) (petite blind) a remporté (160)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260410560541 : Tournoi #3990851208, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 10/04/2026 11:22:02 CET [10/04/2026 5:22:02 ET]
+Table '3990851208 1' 3-max Siège #3 est au bouton.
+Place 2: ludovicci (450 en jetons) 
+Place 3: psychoman59 (1050 en jetons) 
+psychoman59 : met la petite blind. 40
+ludovicci : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 4s]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à ludovicci.
+ludovicci a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : ludovicci (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260410560934 : Tournoi #3990851208, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 10/04/2026 11:22:07 CET [10/04/2026 5:22:07 ET]
+Table '3990851208 1' 3-max Siège #2 est au bouton.
+Place 2: ludovicci (490 en jetons) 
+Place 3: psychoman59 (1010 en jetons) 
+ludovicci : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 5h]
+ludovicci : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : ludovicci (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°260410561312 : Tournoi #3990851208, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 10/04/2026 11:22:12 CET [10/04/2026 5:22:12 ET]
+Table '3990851208 1' 3-max Siège #3 est au bouton.
+Place 2: ludovicci (450 en jetons) 
+Place 3: psychoman59 (1050 en jetons) 
+psychoman59 : met la petite blind. 40
+ludovicci : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 8d]
+psychoman59 : relance. 970 à 1050 et est all-in.
+ludovicci : suit. 370 et est all-in.
+Personne n'a suivi. (600) sont retournés à psychoman59.
+*** FLOP *** [3s 4d 3c]
+*** TOURNANT *** [3s 4d 3c] [4c]
+*** RIVIÈRE *** [3s 4d 3c 4c] [7h]
+*** ABATTAGE ***
+ludovicci : montre [7d Ad] (double paire, Sept et Quatre)
+psychoman59 : montre [8h 8d] (double paire, Huit et Quatre)
+psychoman59 a remporté 900  lors du pot .
+ludovicci a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Tableau [3s 4d 3c 4c 7h]
+Siège 2 : ludovicci (grosse blind) a montré [7d Ad] et a perdu avec double paire, Sept et Quatre
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [8h 8d] et a gagné (900) avec double paire, Huit et Quatre
+
+
+

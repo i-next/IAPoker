@@ -1,0 +1,50 @@
+﻿Main PokerStars n°261293177361 : Tournoi #4012415531, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 30/06/2026 7:21:26 CET [30/06/2026 1:21:26 ET]
+Table '4012415531 1' 3-max Siège #1 est au bouton.
+Place 1: escaflo (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: aleexv07 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+aleexv07 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 3c]
+escaflo : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à aleexv07.
+aleexv07 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : escaflo (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : aleexv07 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°261293177702 : Tournoi #4012415531, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 30/06/2026 7:21:33 CET [30/06/2026 1:21:33 ET]
+Table '4012415531 1' 3-max Siège #2 est au bouton.
+Place 1: escaflo (500 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: aleexv07 (510 en jetons) 
+aleexv07 : met la petite blind. 10
+escaflo : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Kd]
+psychoman59 : relance. 470 à 490 et est all-in.
+aleexv07 : passe. 
+escaflo : suit. 470
+*** FLOP *** [Qh Ah 4c]
+*** TOURNANT *** [Qh Ah 4c] [8s]
+*** RIVIÈRE *** [Qh Ah 4c 8s] [Qc]
+*** ABATTAGE ***
+escaflo : montre [8h 8c] (un full, full aux Huit par les Dames)
+psychoman59 : montre [As Kd] (double paire, As et Dames)
+escaflo a remporté 990  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 990 | Commission 0 
+Tableau [Qh Ah 4c 8s Qc]
+Siège 1 : escaflo (grosse blind) a montré [8h 8c] et a gagné (990) avec un full, full aux Huit par les Dames
+Siège 2 : psychoman59 (bouton) a montré [As Kd] et a perdu avec double paire, As et Dames
+Siège 3 : aleexv07 (petite blind) s'est couché. avant Flop
+
+
+

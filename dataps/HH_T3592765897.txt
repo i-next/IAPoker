@@ -1,0 +1,193 @@
+﻿Main PokerStars n°243757679826 : Tournoi #3592765897, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/05/2023 8:33:10 CET [18/05/2023 2:33:10 ET]
+Table '3592765897 1' 3-max Siège #1 est au bouton.
+Place 1: picsraf73 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: Carlouquito_pok (300 en jetons) 
+psychoman59 : met la petite blind. 10
+Carlouquito_pok : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Qh]
+picsraf73 : passe. 
+psychoman59 : suit. 10
+Carlouquito_pok : parole 
+*** FLOP *** [7s 4c Kh]
+psychoman59 : mise. 40
+Carlouquito_pok : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [7s 4c Kh]
+Siège 1 : picsraf73 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (40)
+Siège 3 : Carlouquito_pok (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°243757681313 : Tournoi #3592765897, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/05/2023 8:33:26 CET [18/05/2023 2:33:26 ET]
+Table '3592765897 1' 3-max Siège #2 est au bouton.
+Place 1: picsraf73 (300 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: Carlouquito_pok (280 en jetons) 
+Carlouquito_pok : met la petite blind. 10
+picsraf73 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Tc]
+psychoman59 : relance. 20 à 40
+Carlouquito_pok : passe. 
+picsraf73 : suit. 20
+*** FLOP *** [4s Ks Kd]
+picsraf73 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [4s Ks Kd] [2d]
+picsraf73 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [4s Ks Kd 2d] [Th]
+picsraf73 : parole 
+psychoman59 : mise. 90
+picsraf73 : passe. 
+Personne n'a suivi. (90) sont retournés à psychoman59.
+psychoman59 a remporté 90  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [4s Ks Kd 2d Th]
+Siège 1 : picsraf73 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (bouton) a remporté (90)
+Siège 3 : Carlouquito_pok (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243757683720 : Tournoi #3592765897, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/05/2023 8:33:52 CET [18/05/2023 2:33:52 ET]
+Table '3592765897 1' 3-max Siège #3 est au bouton.
+Place 1: picsraf73 (260 en jetons) 
+Place 2: psychoman59 (370 en jetons) 
+Place 3: Carlouquito_pok (270 en jetons) 
+picsraf73 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 5h]
+Carlouquito_pok : relance. 250 à 270 et est all-in.
+picsraf73 : suit. 250 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à Carlouquito_pok.
+*** FLOP *** [2d 7d Qs]
+*** TOURNANT *** [2d 7d Qs] [9h]
+*** RIVIÈRE *** [2d 7d Qs 9h] [3h]
+*** ABATTAGE ***
+picsraf73 : montre [Qh Qc] (un brelan de Dames)
+Carlouquito_pok : montre [6d 6c] (une paire de Six)
+picsraf73 a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [2d 7d Qs 9h 3h]
+Siège 1 : picsraf73 (petite blind) a montré [Qh Qc] et a gagné (540) avec un brelan de Dames
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : Carlouquito_pok (bouton) a montré [6d 6c] et a perdu avec une paire de Six
+
+
+
+Main PokerStars n°243757685115 : Tournoi #3592765897, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/05/2023 8:34:07 CET [18/05/2023 2:34:07 ET]
+Table '3592765897 1' 3-max Siège #1 est au bouton.
+Place 1: picsraf73 (540 en jetons) 
+Place 2: psychoman59 (350 en jetons) 
+Place 3: Carlouquito_pok (10 en jetons) 
+psychoman59 : met la petite blind. 10
+Carlouquito_pok : met la grosse blind. 10 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c As]
+picsraf73 : passe. 
+*** FLOP *** [6h Ks 8h]
+*** TOURNANT *** [6h Ks 8h] [Qc]
+*** RIVIÈRE *** [6h Ks 8h Qc] [6s]
+*** ABATTAGE ***
+psychoman59 : montre [2c As] (une paire de Six)
+Carlouquito_pok : montre [4d Kd] (double paire, Rois et Six)
+Carlouquito_pok a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Tableau [6h Ks 8h Qc 6s]
+Siège 1 : picsraf73 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [2c As] et a perdu avec une paire de Six
+Siège 3 : Carlouquito_pok (grosse blind) a montré [4d Kd] et a gagné (20) avec double paire, Rois et Six
+
+
+
+Main PokerStars n°243757686604 : Tournoi #3592765897, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/05/2023 8:34:22 CET [18/05/2023 2:34:22 ET]
+Table '3592765897 1' 3-max Siège #2 est au bouton.
+Place 1: picsraf73 (540 en jetons) 
+Place 2: psychoman59 (340 en jetons) 
+Place 3: Carlouquito_pok (20 en jetons) 
+Carlouquito_pok : met la petite blind. 15
+picsraf73 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Ts]
+psychoman59 : passe. 
+Carlouquito_pok : suit. 5 et est all-in.
+Personne n'a suivi. (10) sont retournés à picsraf73.
+*** FLOP *** [Ac 6d 4c]
+*** TOURNANT *** [Ac 6d 4c] [7c]
+*** RIVIÈRE *** [Ac 6d 4c 7c] [6c]
+*** ABATTAGE ***
+Carlouquito_pok : montre [2d 8s] (une paire de Six)
+picsraf73 : montre [3d Tc] (une couleur, hauteur As)
+picsraf73 a remporté 40  lors du pot .
+Carlouquito_pok a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Ac 6d 4c 7c 6c]
+Siège 1 : picsraf73 (grosse blind) a montré [3d Tc] et a gagné (40) avec une couleur, hauteur As
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Carlouquito_pok (petite blind) a montré [2d 8s] et a perdu avec une paire de Six
+
+
+
+Main PokerStars n°243757688037 : Tournoi #3592765897, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/05/2023 8:34:38 CET [18/05/2023 2:34:38 ET]
+Table '3592765897 1' 3-max Siège #1 est au bouton.
+Place 1: picsraf73 (560 en jetons) 
+Place 2: psychoman59 (340 en jetons) 
+picsraf73 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 5d]
+picsraf73 : suit. 15
+psychoman59 : relance. 310 à 340 et est all-in.
+picsraf73 : passe. 
+Personne n'a suivi. (310) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : picsraf73 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°243757688884 : Tournoi #3592765897, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/05/2023 8:34:47 CET [18/05/2023 2:34:47 ET]
+Table '3592765897 1' 3-max Siège #2 est au bouton.
+Place 1: picsraf73 (530 en jetons) 
+Place 2: psychoman59 (370 en jetons) 
+psychoman59 : met la petite blind. 15
+picsraf73 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Qh]
+psychoman59 : relance. 340 à 370 et est all-in.
+picsraf73 : suit. 340
+*** FLOP *** [7c 2d 5h]
+*** TOURNANT *** [7c 2d 5h] [2c]
+*** RIVIÈRE *** [7c 2d 5h 2c] [8d]
+*** ABATTAGE ***
+picsraf73 : montre [Qc Ac] (une paire de Deux)
+psychoman59 : montre [Ks Qh] (une paire de Deux - plus basse kicker)
+picsraf73 a remporté 740  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+picsraf73 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Tableau [7c 2d 5h 2c 8d]
+Siège 1 : picsraf73 (grosse blind) a montré [Qc Ac] et a gagné (740) avec une paire de Deux
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Ks Qh] et a perdu avec une paire de Deux
+
+
+

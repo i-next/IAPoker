@@ -1,0 +1,1013 @@
+﻿Main PokerStars n°261157140193 : Tournoi #4008997162, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/06/2026 15:22:17 CET [16/06/2026 9:22:17 ET]
+Table '4008997162 1' 3-max Siège #1 est au bouton.
+Place 1: alralr20 (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: luiggi5 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+luiggi5 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 3c]
+alralr20 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à luiggi5.
+luiggi5 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : alralr20 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : luiggi5 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°261157141340 : Tournoi #4008997162, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/06/2026 15:22:27 CET [16/06/2026 9:22:27 ET]
+Table '4008997162 1' 3-max Siège #2 est au bouton.
+Place 1: alralr20 (500 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: luiggi5 (510 en jetons) 
+luiggi5 : met la petite blind. 10
+alralr20 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 6d]
+psychoman59 : passe. 
+luiggi5 : relance. 490 à 510 et est all-in.
+alralr20 : suit. 480 et est all-in.
+Personne n'a suivi. (10) sont retournés à luiggi5.
+*** FLOP *** [Ac 7c 7h]
+*** TOURNANT *** [Ac 7c 7h] [6h]
+*** RIVIÈRE *** [Ac 7c 7h 6h] [6c]
+*** ABATTAGE ***
+luiggi5 : montre [7s 7d] (un carré de Sept)
+alralr20 : montre [Ks Kc] (double paire, Rois et Sept)
+luiggi5 a remporté 1000  lors du pot .
+alralr20 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 1000 | Commission 0 
+Tableau [Ac 7c 7h 6h 6c]
+Siège 1 : alralr20 (grosse blind) a montré [Ks Kc] et a perdu avec double paire, Rois et Sept
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : luiggi5 (petite blind) a montré [7s 7d] et a gagné (1000) avec un carré de Sept
+
+
+
+Main PokerStars n°261157144065 : Tournoi #4008997162, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/06/2026 15:22:50 CET [16/06/2026 9:22:50 ET]
+Table '4008997162 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (490 en jetons) 
+Place 3: luiggi5 (1010 en jetons) 
+luiggi5 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 8c]
+luiggi5 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Jd 2c Ah]
+psychoman59 : parole 
+luiggi5 : parole 
+*** TOURNANT *** [Jd 2c Ah] [9h]
+psychoman59 : parole 
+luiggi5 : parole 
+*** RIVIÈRE *** [Jd 2c Ah 9h] [8d]
+psychoman59 : parole 
+luiggi5 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [4c 8c] (une paire de Huit)
+luiggi5 : cache la main perdante. 
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Jd 2c Ah 9h 8d]
+Siège 2 : psychoman59 (grosse blind) a montré [4c 8c] et a gagné (40) avec une paire de Huit
+Siège 3 : luiggi5 (bouton) (petite blind) a caché la main perdante. [Kh 4h]
+
+
+
+Main PokerStars n°261157146628 : Tournoi #4008997162, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/06/2026 15:23:11 CET [16/06/2026 9:23:11 ET]
+Table '4008997162 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (510 en jetons) 
+Place 3: luiggi5 (990 en jetons) 
+psychoman59 : met la petite blind. 10
+luiggi5 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Ks]
+psychoman59 : suit. 10
+luiggi5 : parole 
+*** FLOP *** [9h 9s 6d]
+luiggi5 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [9h 9s 6d] [8s]
+luiggi5 : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à luiggi5.
+luiggi5 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [9h 9s 6d 8s]
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Tournant
+Siège 3 : luiggi5 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°261157148967 : Tournoi #4008997162, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/06/2026 15:23:31 CET [16/06/2026 9:23:31 ET]
+Table '4008997162 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (490 en jetons) 
+Place 3: luiggi5 (1010 en jetons) 
+luiggi5 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Kc]
+luiggi5 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [6d 9c Kd]
+psychoman59 : parole 
+luiggi5 : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [6d 9c Kd] [2s]
+psychoman59 : parole 
+luiggi5 : mise. 40
+psychoman59 : suit. 40
+*** RIVIÈRE *** [6d 9c Kd 2s] [4h]
+psychoman59 : parole 
+luiggi5 : mise. 60
+psychoman59 : relance. 60 à 120
+luiggi5 : suit. 60
+*** ABATTAGE ***
+psychoman59 : montre [4s Kc] (double paire, Rois et Quatre)
+luiggi5 : cache la main perdante. 
+psychoman59 a remporté 400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [6d 9c Kd 2s 4h]
+Siège 2 : psychoman59 (grosse blind) a montré [4s Kc] et a gagné (400) avec double paire, Rois et Quatre
+Siège 3 : luiggi5 (bouton) (petite blind) a caché la main perdante. [8h Ks]
+
+
+
+Main PokerStars n°261157152700 : Tournoi #4008997162, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/06/2026 15:24:03 CET [16/06/2026 9:24:03 ET]
+Table '4008997162 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (690 en jetons) 
+Place 3: luiggi5 (810 en jetons) 
+psychoman59 : met la petite blind. 10
+luiggi5 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 8s]
+psychoman59 : suit. 10
+luiggi5 : parole 
+*** FLOP *** [6h 4s Qs]
+luiggi5 : parole 
+psychoman59 : mise. 20
+luiggi5 : suit. 20
+*** TOURNANT *** [6h 4s Qs] [Ts]
+luiggi5 : parole 
+psychoman59 : mise. 20
+luiggi5 : suit. 20
+*** RIVIÈRE *** [6h 4s Qs Ts] [Kh]
+luiggi5 : parole 
+psychoman59 : mise. 60
+luiggi5 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [6h 4s Qs Ts Kh]
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 3 : luiggi5 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°261157155823 : Tournoi #4008997162, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/06/2026 15:24:29 CET [16/06/2026 9:24:29 ET]
+Table '4008997162 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (750 en jetons) 
+Place 3: luiggi5 (750 en jetons) 
+luiggi5 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 3s]
+luiggi5 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Kd 7h 2s]
+psychoman59 : parole 
+luiggi5 : parole 
+*** TOURNANT *** [Kd 7h 2s] [Js]
+psychoman59 : parole 
+luiggi5 : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [Kd 7h 2s Js] [4h]
+psychoman59 : parole 
+luiggi5 : mise. 80
+psychoman59 : suit. 80
+*** ABATTAGE ***
+luiggi5 : montre [Td 3d] (Hauteur Roi)
+psychoman59 : montre [Ks 3s] (une paire de Rois)
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Kd 7h 2s Js 4h]
+Siège 2 : psychoman59 (grosse blind) a montré [Ks 3s] et a gagné (240) avec une paire de Rois
+Siège 3 : luiggi5 (bouton) (petite blind) a montré [Td 3d] et a perdu avec Hauteur Roi
+
+
+
+Main PokerStars n°261157158989 : Tournoi #4008997162, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/06/2026 15:24:57 CET [16/06/2026 9:24:57 ET]
+Table '4008997162 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (870 en jetons) 
+Place 3: luiggi5 (630 en jetons) 
+psychoman59 : met la petite blind. 10
+luiggi5 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Qh]
+psychoman59 : suit. 10
+luiggi5 : parole 
+*** FLOP *** [5d 6h Jh]
+luiggi5 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5d 6h Jh] [7h]
+luiggi5 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [5d 6h Jh 7h] [Ah]
+luiggi5 : parole 
+psychoman59 : mise. 40
+luiggi5 : suit. 40
+*** ABATTAGE ***
+psychoman59 : montre [5c Qh] (une couleur, hauteur As)
+luiggi5 : cache la main perdante. 
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [5d 6h Jh 7h Ah]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [5c Qh] et a gagné (120) avec une couleur, hauteur As
+Siège 3 : luiggi5 (grosse blind) a caché la main perdante. [8s Jc]
+
+
+
+Main PokerStars n°261157162935 : Tournoi #4008997162, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/06/2026 15:25:30 CET [16/06/2026 9:25:30 ET]
+Table '4008997162 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (930 en jetons) 
+Place 3: luiggi5 (570 en jetons) 
+luiggi5 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 9d]
+luiggi5 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+Siège 3 : luiggi5 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261157163450 : Tournoi #4008997162, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/06/2026 15:25:34 CET [16/06/2026 9:25:34 ET]
+Table '4008997162 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (945 en jetons) 
+Place 3: luiggi5 (555 en jetons) 
+psychoman59 : met la petite blind. 15
+luiggi5 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 8s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à luiggi5.
+luiggi5 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : luiggi5 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°261157164252 : Tournoi #4008997162, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/06/2026 15:25:41 CET [16/06/2026 9:25:41 ET]
+Table '4008997162 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (930 en jetons) 
+Place 3: luiggi5 (570 en jetons) 
+luiggi5 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 6d]
+luiggi5 : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à luiggi5.
+luiggi5 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : luiggi5 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°261157164983 : Tournoi #4008997162, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/06/2026 15:25:48 CET [16/06/2026 9:25:48 ET]
+Table '4008997162 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (900 en jetons) 
+Place 3: luiggi5 (600 en jetons) 
+psychoman59 : met la petite blind. 15
+luiggi5 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Qh]
+psychoman59 : suit. 15
+luiggi5 : parole 
+*** FLOP *** [Js 7d 3c]
+luiggi5 : parole 
+psychoman59 : mise. 30
+luiggi5 : suit. 30
+*** TOURNANT *** [Js 7d 3c] [7s]
+luiggi5 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Js 7d 3c 7s] [9h]
+luiggi5 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+luiggi5 : montre [Ks 3d] (double paire, Sept et Trois)
+psychoman59 : montre [9d Qh] (double paire, Neuf et Sept)
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Js 7d 3c 7s 9h]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [9d Qh] et a gagné (120) avec double paire, Neuf et Sept
+Siège 3 : luiggi5 (grosse blind) a montré [Ks 3d] et a perdu avec double paire, Sept et Trois
+
+
+
+Main PokerStars n°261157168136 : Tournoi #4008997162, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/06/2026 15:26:14 CET [16/06/2026 9:26:14 ET]
+Table '4008997162 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (960 en jetons) 
+Place 3: luiggi5 (540 en jetons) 
+luiggi5 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 6d]
+luiggi5 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Ks Jh Td]
+psychoman59 : parole 
+luiggi5 : parole 
+*** TOURNANT *** [Ks Jh Td] [6c]
+psychoman59 : parole 
+luiggi5 : parole 
+*** RIVIÈRE *** [Ks Jh Td 6c] [4s]
+psychoman59 : parole 
+luiggi5 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à luiggi5.
+luiggi5 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ks Jh Td 6c 4s]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : luiggi5 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°261157170892 : Tournoi #4008997162, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/06/2026 15:26:38 CET [16/06/2026 9:26:38 ET]
+Table '4008997162 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (930 en jetons) 
+Place 3: luiggi5 (570 en jetons) 
+psychoman59 : met la petite blind. 15
+luiggi5 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 2d]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à luiggi5.
+luiggi5 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : luiggi5 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°261157171713 : Tournoi #4008997162, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/06/2026 15:26:45 CET [16/06/2026 9:26:45 ET]
+Table '4008997162 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (915 en jetons) 
+Place 3: luiggi5 (585 en jetons) 
+luiggi5 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Ts]
+luiggi5 : suit. 15
+psychoman59 : relance. 885 à 915 et est all-in.
+luiggi5 : passe. 
+Personne n'a suivi. (885) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : luiggi5 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261157172813 : Tournoi #4008997162, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/06/2026 15:26:54 CET [16/06/2026 9:26:54 ET]
+Table '4008997162 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (945 en jetons) 
+Place 3: luiggi5 (555 en jetons) 
+psychoman59 : met la petite blind. 15
+luiggi5 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Qs]
+psychoman59 : suit. 15
+luiggi5 : parole 
+*** FLOP *** [4s 5s Qh]
+luiggi5 : parole 
+psychoman59 : mise. 30
+luiggi5 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [4s 5s Qh]
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 3 : luiggi5 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261157174583 : Tournoi #4008997162, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/06/2026 15:27:10 CET [16/06/2026 9:27:10 ET]
+Table '4008997162 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (975 en jetons) 
+Place 3: luiggi5 (525 en jetons) 
+luiggi5 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 6s]
+luiggi5 : relance. 30 à 60
+psychoman59 : suit. 30
+*** FLOP *** [6c 5h 5s]
+psychoman59 : mise. 915 et est all-in.
+luiggi5 : passe. 
+Personne n'a suivi. (915) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [6c 5h 5s]
+Siège 2 : psychoman59 (grosse blind) a remporté (120)
+Siège 3 : luiggi5 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261157176787 : Tournoi #4008997162, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/06/2026 15:27:28 CET [16/06/2026 9:27:28 ET]
+Table '4008997162 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1035 en jetons) 
+Place 3: luiggi5 (465 en jetons) 
+psychoman59 : met la petite blind. 15
+luiggi5 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 5s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à luiggi5.
+luiggi5 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : luiggi5 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°261157178028 : Tournoi #4008997162, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/06/2026 15:27:39 CET [16/06/2026 9:27:39 ET]
+Table '4008997162 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1020 en jetons) 
+Place 3: luiggi5 (480 en jetons) 
+luiggi5 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 3c]
+luiggi5 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Qh Qd 3h]
+psychoman59 : parole 
+luiggi5 : parole 
+*** TOURNANT *** [Qh Qd 3h] [4d]
+psychoman59 : mise. 60
+luiggi5 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Qh Qd 3h 4d]
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : luiggi5 (bouton) (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°261157179764 : Tournoi #4008997162, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/06/2026 15:27:54 CET [16/06/2026 9:27:54 ET]
+Table '4008997162 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1050 en jetons) 
+Place 3: luiggi5 (450 en jetons) 
+psychoman59 : met la petite blind. 15
+luiggi5 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Ac]
+psychoman59 : suit. 15
+luiggi5 : parole 
+*** FLOP *** [Js 5c Qh]
+luiggi5 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Js 5c Qh] [5d]
+luiggi5 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Js 5c Qh 5d] [9h]
+luiggi5 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+luiggi5 : montre [8d Kh] (une paire de Cinq)
+psychoman59 : montre [8h Ac] (une paire de Cinq - As kicker)
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Js 5c Qh 5d 9h]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [8h Ac] et a gagné (60) avec une paire de Cinq
+Siège 3 : luiggi5 (grosse blind) a montré [8d Kh] et a perdu avec une paire de Cinq
+
+
+
+Main PokerStars n°261157184119 : Tournoi #4008997162, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 16/06/2026 15:28:31 CET [16/06/2026 9:28:31 ET]
+Table '4008997162 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1080 en jetons) 
+Place 3: luiggi5 (420 en jetons) 
+luiggi5 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 9s]
+luiggi5 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : luiggi5 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261157184731 : Tournoi #4008997162, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 16/06/2026 15:28:36 CET [16/06/2026 9:28:36 ET]
+Table '4008997162 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1100 en jetons) 
+Place 3: luiggi5 (400 en jetons) 
+psychoman59 : met la petite blind. 20
+luiggi5 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Jd]
+psychoman59 : suit. 20
+luiggi5 : parole 
+*** FLOP *** [8s 6c 6s]
+luiggi5 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [8s 6c 6s] [5c]
+luiggi5 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [8s 6c 6s 5c] [Ks]
+luiggi5 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+luiggi5 : montre [Qh 9d] (une paire de Six)
+psychoman59 : cache la main perdante. 
+luiggi5 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [8s 6c 6s 5c Ks]
+Siège 2 : psychoman59 (bouton) (petite blind) a caché la main perdante. [9h Jd]
+Siège 3 : luiggi5 (grosse blind) a montré [Qh 9d] et a gagné (80) avec une paire de Six
+
+
+
+Main PokerStars n°261157188094 : Tournoi #4008997162, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 16/06/2026 15:29:06 CET [16/06/2026 9:29:06 ET]
+Table '4008997162 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1060 en jetons) 
+Place 3: luiggi5 (440 en jetons) 
+luiggi5 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 3d]
+luiggi5 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [6c 4h 3h]
+psychoman59 : parole 
+luiggi5 : parole 
+*** TOURNANT *** [6c 4h 3h] [9h]
+psychoman59 : parole 
+luiggi5 : parole 
+*** RIVIÈRE *** [6c 4h 3h 9h] [Kd]
+psychoman59 : mise. 80
+luiggi5 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [6c 4h 3h 9h Kd]
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : luiggi5 (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°261157190922 : Tournoi #4008997162, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 16/06/2026 15:29:30 CET [16/06/2026 9:29:30 ET]
+Table '4008997162 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1100 en jetons) 
+Place 3: luiggi5 (400 en jetons) 
+psychoman59 : met la petite blind. 20
+luiggi5 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Kh]
+psychoman59 : suit. 20
+luiggi5 : parole 
+*** FLOP *** [6c 5c Js]
+luiggi5 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6c 5c Js] [As]
+luiggi5 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à luiggi5.
+luiggi5 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [6c 5c Js As]
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Tournant
+Siège 3 : luiggi5 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°261157193333 : Tournoi #4008997162, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 16/06/2026 15:29:51 CET [16/06/2026 9:29:51 ET]
+Table '4008997162 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1060 en jetons) 
+Place 3: luiggi5 (440 en jetons) 
+luiggi5 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Qh]
+luiggi5 : relance. 40 à 80
+psychoman59 : suit. 40
+*** FLOP *** [As 3c 4s]
+psychoman59 : parole 
+luiggi5 : mise. 360 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (360) sont retournés à luiggi5.
+luiggi5 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [As 3c 4s]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : luiggi5 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°261157195683 : Tournoi #4008997162, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 16/06/2026 15:30:10 CET [16/06/2026 9:30:10 ET]
+Table '4008997162 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (980 en jetons) 
+Place 3: luiggi5 (520 en jetons) 
+psychoman59 : met la petite blind. 20
+luiggi5 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 7h]
+psychoman59 : suit. 20
+luiggi5 : parole 
+*** FLOP *** [5h 8h 9d]
+luiggi5 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5h 8h 9d] [8d]
+luiggi5 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [5h 8h 9d 8d] [5s]
+luiggi5 : parole 
+psychoman59 : mise. 80
+luiggi5 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [5h 8h 9d 8d 5s]
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 3 : luiggi5 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°261157199229 : Tournoi #4008997162, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 16/06/2026 15:30:39 CET [16/06/2026 9:30:39 ET]
+Table '4008997162 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1020 en jetons) 
+Place 3: luiggi5 (480 en jetons) 
+luiggi5 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 4c]
+luiggi5 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : luiggi5 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261157199871 : Tournoi #4008997162, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 16/06/2026 15:30:45 CET [16/06/2026 9:30:45 ET]
+Table '4008997162 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1040 en jetons) 
+Place 3: luiggi5 (460 en jetons) 
+psychoman59 : met la petite blind. 20
+luiggi5 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Ts]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à luiggi5.
+luiggi5 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : luiggi5 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°261157200678 : Tournoi #4008997162, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 16/06/2026 15:30:52 CET [16/06/2026 9:30:52 ET]
+Table '4008997162 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1020 en jetons) 
+Place 3: luiggi5 (480 en jetons) 
+luiggi5 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Th]
+luiggi5 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [5c Js Ks]
+psychoman59 : parole 
+luiggi5 : parole 
+*** TOURNANT *** [5c Js Ks] [Qd]
+psychoman59 : mise. 80
+luiggi5 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [5c Js Ks Qd]
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : luiggi5 (bouton) (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°261157204281 : Tournoi #4008997162, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/06/2026 15:31:22 CET [16/06/2026 9:31:22 ET]
+Table '4008997162 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1060 en jetons) 
+Place 3: luiggi5 (440 en jetons) 
+psychoman59 : met la petite blind. 30
+luiggi5 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Ts]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à luiggi5.
+luiggi5 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : luiggi5 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°261157205296 : Tournoi #4008997162, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/06/2026 15:31:30 CET [16/06/2026 9:31:30 ET]
+Table '4008997162 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1030 en jetons) 
+Place 3: luiggi5 (470 en jetons) 
+luiggi5 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 2s]
+luiggi5 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [6c 4h 4s]
+psychoman59 : parole 
+luiggi5 : parole 
+*** TOURNANT *** [6c 4h 4s] [2d]
+psychoman59 : mise. 60
+luiggi5 : relance. 350 à 410 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (350) sont retournés à luiggi5.
+luiggi5 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [6c 4h 4s 2d]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : luiggi5 (bouton) (petite blind) a remporté (240)
+
+
+
+Main PokerStars n°261157208654 : Tournoi #4008997162, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/06/2026 15:31:57 CET [16/06/2026 9:31:57 ET]
+Table '4008997162 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (910 en jetons) 
+Place 3: luiggi5 (590 en jetons) 
+psychoman59 : met la petite blind. 30
+luiggi5 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 2s]
+psychoman59 : relance. 850 à 910 et est all-in.
+luiggi5 : passe. 
+Personne n'a suivi. (850) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 3 : luiggi5 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261157209858 : Tournoi #4008997162, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/06/2026 15:32:07 CET [16/06/2026 9:32:07 ET]
+Table '4008997162 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (970 en jetons) 
+Place 3: luiggi5 (530 en jetons) 
+luiggi5 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 3c]
+luiggi5 : relance. 470 à 530 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (470) sont retournés à luiggi5.
+luiggi5 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : luiggi5 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°261157210859 : Tournoi #4008997162, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/06/2026 15:32:15 CET [16/06/2026 9:32:15 ET]
+Table '4008997162 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (910 en jetons) 
+Place 3: luiggi5 (590 en jetons) 
+psychoman59 : met la petite blind. 30
+luiggi5 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Ac]
+psychoman59 : relance. 850 à 910 et est all-in.
+luiggi5 : passe. 
+Personne n'a suivi. (850) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 3 : luiggi5 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261157211859 : Tournoi #4008997162, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/06/2026 15:32:23 CET [16/06/2026 9:32:23 ET]
+Table '4008997162 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (970 en jetons) 
+Place 3: luiggi5 (530 en jetons) 
+luiggi5 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 7c]
+luiggi5 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [7s 2d Jh]
+psychoman59 : parole 
+luiggi5 : mise. 120
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à luiggi5.
+luiggi5 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [7s 2d Jh]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : luiggi5 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°261157213894 : Tournoi #4008997162, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/06/2026 15:32:40 CET [16/06/2026 9:32:40 ET]
+Table '4008997162 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (910 en jetons) 
+Place 3: luiggi5 (590 en jetons) 
+psychoman59 : met la petite blind. 30
+luiggi5 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Ah]
+psychoman59 : relance. 850 à 910 et est all-in.
+luiggi5 : passe. 
+Personne n'a suivi. (850) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 3 : luiggi5 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261157215003 : Tournoi #4008997162, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/06/2026 15:32:48 CET [16/06/2026 9:32:48 ET]
+Table '4008997162 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (970 en jetons) 
+Place 3: luiggi5 (530 en jetons) 
+luiggi5 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 4h]
+luiggi5 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : luiggi5 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261157215555 : Tournoi #4008997162, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/06/2026 15:32:53 CET [16/06/2026 9:32:53 ET]
+Table '4008997162 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1000 en jetons) 
+Place 3: luiggi5 (500 en jetons) 
+psychoman59 : met la petite blind. 30
+luiggi5 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 3d]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à luiggi5.
+luiggi5 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : luiggi5 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°261157216446 : Tournoi #4008997162, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/06/2026 15:33:00 CET [16/06/2026 9:33:00 ET]
+Table '4008997162 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (970 en jetons) 
+Place 3: luiggi5 (530 en jetons) 
+luiggi5 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Jh]
+luiggi5 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Tc 5c 2c]
+psychoman59 : parole 
+luiggi5 : parole 
+*** TOURNANT *** [Tc 5c 2c] [2d]
+psychoman59 : parole 
+luiggi5 : parole 
+*** RIVIÈRE *** [Tc 5c 2c 2d] [Ad]
+psychoman59 : parole 
+luiggi5 : mise. 470 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (470) sont retournés à luiggi5.
+luiggi5 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Tc 5c 2c 2d Ad]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : luiggi5 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°261157220039 : Tournoi #4008997162, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/06/2026 15:33:29 CET [16/06/2026 9:33:29 ET]
+Table '4008997162 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (910 en jetons) 
+Place 3: luiggi5 (590 en jetons) 
+psychoman59 : met la petite blind. 30
+luiggi5 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 8d]
+psychoman59 : suit. 30
+luiggi5 : relance. 530 à 590 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (530) sont retournés à luiggi5.
+luiggi5 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : luiggi5 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°261157221408 : Tournoi #4008997162, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/06/2026 15:33:40 CET [16/06/2026 9:33:40 ET]
+Table '4008997162 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (850 en jetons) 
+Place 3: luiggi5 (650 en jetons) 
+luiggi5 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 6s]
+luiggi5 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Ts 9d 2c]
+psychoman59 : mise. 790 et est all-in.
+luiggi5 : suit. 590 et est all-in.
+Personne n'a suivi. (200) sont retournés à psychoman59.
+*** TOURNANT *** [Ts 9d 2c] [8d]
+*** RIVIÈRE *** [Ts 9d 2c 8d] [3d]
+*** ABATTAGE ***
+psychoman59 : montre [Tc 6s] (une paire de Dix)
+luiggi5 : montre [Kc 9s] (une paire de Neuf)
+psychoman59 a remporté 1300  lors du pot .
+luiggi5 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 1300 | Commission 0 
+Tableau [Ts 9d 2c 8d 3d]
+Siège 2 : psychoman59 (grosse blind) a montré [Tc 6s] et a gagné (1300) avec une paire de Dix
+Siège 3 : luiggi5 (bouton) (petite blind) a montré [Kc 9s] et a perdu avec une paire de Neuf
+
+
+

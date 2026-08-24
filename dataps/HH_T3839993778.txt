@@ -1,0 +1,39 @@
+﻿Main PokerStars n°254101676526 : Tournoi #3839993778, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 30/12/2024 7:25:39 CET [30/12/2024 1:25:39 ET]
+Table '3839993778 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: victoroliman (500 en jetons) 
+Place 3: joanamargarida5 (500 en jetons) 
+victoroliman : met la petite blind. 10
+joanamargarida5 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Ah]
+psychoman59 : suit. 20
+victoroliman : suit. 10
+joanamargarida5 : parole 
+*** FLOP *** [2h 2d 4s]
+victoroliman : mise. 60
+joanamargarida5 : suit. 60
+psychoman59 : suit. 60
+*** TOURNANT *** [2h 2d 4s] [5c]
+victoroliman : mise. 420 et est all-in.
+joanamargarida5 : suit. 420 et est all-in.
+psychoman59 : suit. 420 et est all-in.
+*** RIVIÈRE *** [2h 2d 4s 5c] [3c]
+*** ABATTAGE ***
+victoroliman : montre [Qc 7s] (une paire de Deux)
+joanamargarida5 : montre [Kc Jh] (une paire de Deux - Roi kicker)
+psychoman59 : montre [2s Ah] (une suite, As à Cinq)
+psychoman59 a remporté 1500  lors du pot .
+victoroliman a fini le tournoi en 2e position.
+joanamargarida5 a fini le tournoi en 2e position.
+psychoman59 gagne le tournoi - félicitations !
+psychoman59 gagne un ticket " €1.50 Step 2 SnG Power Path ticket "
+*** SYNTHÈSE ***
+Pot total 1500 | Commission 0 
+Tableau [2h 2d 4s 5c 3c]
+Siège 1 : psychoman59 (bouton) a montré [2s Ah] et a gagné (1500) avec une suite, As à Cinq
+Siège 2 : victoroliman (petite blind) a montré [Qc 7s] et a perdu avec une paire de Deux
+Siège 3 : joanamargarida5 (grosse blind) a montré [Kc Jh] et a perdu avec une paire de Deux
+
+
+

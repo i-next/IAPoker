@@ -1,0 +1,374 @@
+﻿Main PokerStars n°240334447129 : Tournoi #3512442962, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/12/2022 15:09:44 CET [08/12/2022 9:09:44 ET]
+Table '3512442962 1' 3-max Siège #1 est au bouton.
+Place 1: DARTANIAN760 (300 en jetons) 
+Place 2: Benito59580 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+Benito59580 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 2d]
+DARTANIAN760 : passe. 
+Benito59580 : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : DARTANIAN760 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Benito59580 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°240334447907 : Tournoi #3512442962, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/12/2022 15:09:48 CET [08/12/2022 9:09:48 ET]
+Table '3512442962 1' 3-max Siège #2 est au bouton.
+Place 1: DARTANIAN760 (300 en jetons) 
+Place 2: Benito59580 (290 en jetons) 
+Place 3: psychoman59 (310 en jetons) 
+psychoman59 : met la petite blind. 10
+DARTANIAN760 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Qc]
+Benito59580 : passe. 
+psychoman59 : suit. 10
+DARTANIAN760 : parole 
+*** FLOP *** [Qh 5d Jd]
+psychoman59 : mise. 40
+DARTANIAN760 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Qh 5d Jd]
+Siège 1 : DARTANIAN760 (grosse blind) s'est couché. sur le Flop
+Siège 2 : Benito59580 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°240334450451 : Tournoi #3512442962, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/12/2022 15:09:59 CET [08/12/2022 9:09:59 ET]
+Table '3512442962 1' 3-max Siège #3 est au bouton.
+Place 1: DARTANIAN760 (280 en jetons) 
+Place 2: Benito59580 (290 en jetons) 
+Place 3: psychoman59 (330 en jetons) 
+DARTANIAN760 : met la petite blind. 10
+Benito59580 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 9h]
+psychoman59 : passe. 
+DARTANIAN760 : suit. 10
+Benito59580 : parole 
+*** FLOP *** [7s 7c 3h]
+DARTANIAN760 : parole 
+Benito59580 : parole 
+*** TOURNANT *** [7s 7c 3h] [8h]
+DARTANIAN760 : parole 
+Benito59580 : mise. 270 et est all-in.
+DARTANIAN760 : passe. 
+Personne n'a suivi. (270) sont retournés à Benito59580.
+Benito59580 a remporté 40  lors du pot .
+Benito59580 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [7s 7c 3h 8h]
+Siège 1 : DARTANIAN760 (petite blind) s'est couché. sur le Tournant
+Siège 2 : Benito59580 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°240334455413 : Tournoi #3512442962, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/12/2022 15:10:20 CET [08/12/2022 9:10:20 ET]
+Table '3512442962 1' 3-max Siège #1 est au bouton.
+Place 1: DARTANIAN760 (260 en jetons) 
+Place 2: Benito59580 (310 en jetons) 
+Place 3: psychoman59 (330 en jetons) 
+Benito59580 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 3h]
+DARTANIAN760 : passe. 
+Benito59580 : relance. 290 à 310 et est all-in.
+psychoman59 : suit. 290
+*** FLOP *** [Qd 5s 5h]
+*** TOURNANT *** [Qd 5s 5h] [Qh]
+*** RIVIÈRE *** [Qd 5s 5h Qh] [4d]
+*** ABATTAGE ***
+Benito59580 : montre [Ah Kh] (double paire, Dames et Cinq)
+psychoman59 : montre [Ac 3h] (double paire, Dames et Cinq)
+Benito59580 a remporté 310  lors du pot .
+psychoman59 a remporté 310  lors du pot .
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [Qd 5s 5h Qh 4d]
+Siège 1 : DARTANIAN760 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Benito59580 (petite blind) a montré [Ah Kh] et a gagné (310) avec double paire, Dames et Cinq
+Siège 3 : psychoman59 (grosse blind) a montré [Ac 3h] et a gagné (310) avec double paire, Dames et Cinq
+
+
+
+Main PokerStars n°240334458763 : Tournoi #3512442962, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/12/2022 15:10:35 CET [08/12/2022 9:10:35 ET]
+Table '3512442962 1' 3-max Siège #2 est au bouton.
+Place 1: DARTANIAN760 (260 en jetons) 
+Place 2: Benito59580 (310 en jetons) 
+Place 3: psychoman59 (330 en jetons) 
+psychoman59 : met la petite blind. 10
+DARTANIAN760 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Jh]
+Benito59580 a dépassé le temps imparti.
+Benito59580 : passe. 
+Benito59580 ne joue pas.
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à DARTANIAN760.
+DARTANIAN760 a remporté 20  lors du pot .
+DARTANIAN760 : ne montre pas sa main. 
+Benito59580 est revenu.
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : DARTANIAN760 (grosse blind) a remporté (20)
+Siège 2 : Benito59580 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240334462868 : Tournoi #3512442962, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/12/2022 15:10:53 CET [08/12/2022 9:10:53 ET]
+Table '3512442962 1' 3-max Siège #3 est au bouton.
+Place 1: DARTANIAN760 (270 en jetons) 
+Place 2: Benito59580 (310 en jetons) 
+Place 3: psychoman59 (320 en jetons) 
+DARTANIAN760 : met la petite blind. 15
+Benito59580 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 5d]
+psychoman59 : passe. 
+DARTANIAN760 : passe. 
+Personne n'a suivi. (15) sont retournés à Benito59580.
+Benito59580 a remporté 30  lors du pot .
+Benito59580 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : DARTANIAN760 (petite blind) s'est couché. avant Flop
+Siège 2 : Benito59580 (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°240334464986 : Tournoi #3512442962, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/12/2022 15:11:03 CET [08/12/2022 9:11:03 ET]
+Table '3512442962 1' 3-max Siège #1 est au bouton.
+Place 1: DARTANIAN760 (255 en jetons) 
+Place 2: Benito59580 (325 en jetons) 
+Place 3: psychoman59 (320 en jetons) 
+Benito59580 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Kh]
+DARTANIAN760 : passe. 
+Benito59580 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : DARTANIAN760 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Benito59580 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°240334467836 : Tournoi #3512442962, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/12/2022 15:11:15 CET [08/12/2022 9:11:15 ET]
+Table '3512442962 1' 3-max Siège #2 est au bouton.
+Place 1: DARTANIAN760 (255 en jetons) 
+Place 2: Benito59580 (310 en jetons) 
+Place 3: psychoman59 (335 en jetons) 
+psychoman59 : met la petite blind. 15
+DARTANIAN760 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 6s]
+Benito59580 : passe. 
+psychoman59 : suit. 15
+DARTANIAN760 : parole 
+*** FLOP *** [Qs 2c 3h]
+psychoman59 : parole 
+DARTANIAN760 : parole 
+*** TOURNANT *** [Qs 2c 3h] [Ad]
+psychoman59 : mise. 60
+DARTANIAN760 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Qs 2c 3h Ad]
+Siège 1 : DARTANIAN760 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : Benito59580 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°240334477520 : Tournoi #3512442962, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 08/12/2022 15:11:58 CET [08/12/2022 9:11:58 ET]
+Table '3512442962 1' 3-max Siège #3 est au bouton.
+Place 1: DARTANIAN760 (225 en jetons) 
+Place 2: Benito59580 (310 en jetons) 
+Place 3: psychoman59 (365 en jetons) 
+DARTANIAN760 : met la petite blind. 20
+Benito59580 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 7c]
+psychoman59 : passe. 
+DARTANIAN760 : suit. 20
+Benito59580 : parole 
+*** FLOP *** [5d Ah Tc]
+DARTANIAN760 : parole 
+Benito59580 : parole 
+*** TOURNANT *** [5d Ah Tc] [8d]
+DARTANIAN760 : parole 
+Benito59580 : parole 
+*** RIVIÈRE *** [5d Ah Tc 8d] [5c]
+DARTANIAN760 : parole 
+Benito59580 : mise. 270 et est all-in.
+DARTANIAN760 : passe. 
+Personne n'a suivi. (270) sont retournés à Benito59580.
+Benito59580 a remporté 80  lors du pot .
+Benito59580 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [5d Ah Tc 8d 5c]
+Siège 1 : DARTANIAN760 (petite blind) s'est couché. sur le Rivière
+Siège 2 : Benito59580 (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°240334484754 : Tournoi #3512442962, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 08/12/2022 15:12:29 CET [08/12/2022 9:12:29 ET]
+Table '3512442962 1' 3-max Siège #1 est au bouton.
+Place 1: DARTANIAN760 (185 en jetons) 
+Place 2: Benito59580 (350 en jetons) 
+Place 3: psychoman59 (365 en jetons) 
+Benito59580 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 9d]
+DARTANIAN760 : passe. 
+Benito59580 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : DARTANIAN760 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Benito59580 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°240334486867 : Tournoi #3512442962, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 08/12/2022 15:12:38 CET [08/12/2022 9:12:38 ET]
+Table '3512442962 1' 3-max Siège #2 est au bouton.
+Place 1: DARTANIAN760 (185 en jetons) 
+Place 2: Benito59580 (330 en jetons) 
+Place 3: psychoman59 (385 en jetons) 
+psychoman59 : met la petite blind. 20
+DARTANIAN760 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 3s]
+Benito59580 : relance. 290 à 330 et est all-in.
+psychoman59 : passe. 
+DARTANIAN760 : passe. 
+Personne n'a suivi. (290) sont retournés à Benito59580.
+Benito59580 a remporté 100  lors du pot .
+Benito59580 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : DARTANIAN760 (grosse blind) s'est couché. avant Flop
+Siège 2 : Benito59580 (bouton) a remporté (100)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240334489303 : Tournoi #3512442962, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 08/12/2022 15:12:49 CET [08/12/2022 9:12:49 ET]
+Table '3512442962 1' 3-max Siège #3 est au bouton.
+Place 1: DARTANIAN760 (145 en jetons) 
+Place 2: Benito59580 (390 en jetons) 
+Place 3: psychoman59 (365 en jetons) 
+DARTANIAN760 : met la petite blind. 30
+Benito59580 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 2d]
+psychoman59 : passe. 
+DARTANIAN760 : suit. 30
+Benito59580 : parole 
+*** FLOP *** [3h Kh 7d]
+DARTANIAN760 : mise. 85 et est all-in.
+Benito59580 : passe. 
+Personne n'a suivi. (85) sont retournés à DARTANIAN760.
+DARTANIAN760 a remporté 120  lors du pot .
+DARTANIAN760 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [3h Kh 7d]
+Siège 1 : DARTANIAN760 (petite blind) a remporté (120)
+Siège 2 : Benito59580 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°240334492672 : Tournoi #3512442962, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 08/12/2022 15:13:03 CET [08/12/2022 9:13:03 ET]
+Table '3512442962 1' 3-max Siège #1 est au bouton.
+Place 1: DARTANIAN760 (205 en jetons) 
+Place 2: Benito59580 (330 en jetons) 
+Place 3: psychoman59 (365 en jetons) 
+Benito59580 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 2h]
+DARTANIAN760 : passe. 
+Benito59580 : relance. 270 à 330 et est all-in.
+psychoman59 : suit. 270
+*** FLOP *** [Js Qs 7c]
+*** TOURNANT *** [Js Qs 7c] [2d]
+*** RIVIÈRE *** [Js Qs 7c 2d] [3c]
+*** ABATTAGE ***
+Benito59580 : montre [Td Jh] (une paire de Valets)
+psychoman59 : montre [Ah 2h] (une paire de Deux)
+Benito59580 a remporté 660  lors du pot .
+*** SYNTHÈSE ***
+Pot total 660 | Commission 0 
+Tableau [Js Qs 7c 2d 3c]
+Siège 1 : DARTANIAN760 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Benito59580 (petite blind) a montré [Td Jh] et a gagné (660) avec une paire de Valets
+Siège 3 : psychoman59 (grosse blind) a montré [Ah 2h] et a perdu avec une paire de Deux
+
+
+
+Main PokerStars n°240334496352 : Tournoi #3512442962, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 08/12/2022 15:13:19 CET [08/12/2022 9:13:19 ET]
+Table '3512442962 1' 3-max Siège #2 est au bouton.
+Place 1: DARTANIAN760 (205 en jetons) 
+Place 2: Benito59580 (660 en jetons) 
+Place 3: psychoman59 (35 en jetons) 
+psychoman59 : met la petite blind. 30
+DARTANIAN760 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h As]
+Benito59580 : relance. 600 à 660 et est all-in.
+psychoman59 : suit. 5 et est all-in.
+DARTANIAN760 : suit. 145 et est all-in.
+Personne n'a suivi. (455) sont retournés à Benito59580.
+*** FLOP *** [7d 2s Ts]
+*** TOURNANT *** [7d 2s Ts] [4c]
+*** RIVIÈRE *** [7d 2s Ts 4c] [Qd]
+*** ABATTAGE ***
+DARTANIAN760 : montre [Kc Ad] (Hauteur As)
+Benito59580 : montre [8d Jd] (Hauteur Dame)
+DARTANIAN760 a remporté 340  parallèle lors du pot .
+psychoman59 : montre [5h As] (Hauteur As - plus basse kicker)
+DARTANIAN760 a remporté 105  principal lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 445 Principal pot 105. Parallèle pot 340. | Commission 0 
+Tableau [7d 2s Ts 4c Qd]
+Siège 1 : DARTANIAN760 (grosse blind) a montré [Kc Ad] et a gagné (445) avec Hauteur As
+Siège 2 : Benito59580 (bouton) a montré [8d Jd] et a perdu avec Hauteur Dame
+Siège 3 : psychoman59 (petite blind) a montré [5h As] et a perdu avec Hauteur As
+
+
+

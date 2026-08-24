@@ -1,0 +1,31 @@
+﻿Main PokerStars n°251119533031 : Tournoi #3769291174, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 21/06/2024 7:31:18 CET [21/06/2024 1:31:18 ET]
+Table '3769291174 1' 3-max Siège #1 est au bouton.
+Place 1: TUSCA311 (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: pasqui42700 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+pasqui42700 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 3d]
+TUSCA311 : suit. 20
+psychoman59 : suit. 10
+pasqui42700 : relance. 480 à 500 et est all-in.
+TUSCA311 : passe. 
+psychoman59 : suit. 480 et est all-in.
+*** FLOP *** [Kc 4c Jh]
+*** TOURNANT *** [Kc 4c Jh] [Tc]
+*** RIVIÈRE *** [Kc 4c Jh Tc] [9c]
+*** ABATTAGE ***
+psychoman59 : montre [3c 3d] (une couleur, hauteur Roi)
+pasqui42700 : montre [7h 7c] (une couleur, hauteur Roi - Sept plus haute)
+pasqui42700 a remporté 1020  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 1020 | Commission 0 
+Tableau [Kc 4c Jh Tc 9c]
+Siège 1 : TUSCA311 (bouton) s'est couché. avant Flop
+Siège 2 : psychoman59 (petite blind) a montré [3c 3d] et a perdu avec une couleur, hauteur Roi
+Siège 3 : pasqui42700 (grosse blind) a montré [7h 7c] et a gagné (1020) avec une couleur, hauteur Roi
+
+
+

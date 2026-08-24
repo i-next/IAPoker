@@ -1,0 +1,42 @@
+﻿Main PokerStars n°243650776913 : Tournoi #3590371517, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/05/2023 22:57:47 CET [12/05/2023 16:57:47 ET]
+Table '3590371517 1' 3-max Siège #1 est au bouton.
+Place 1: cyrestdav (300 en jetons) 
+Place 2: kevper38 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+kevper38 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Ah]
+cyrestdav : relance. 20 à 40
+kevper38 : suit. 30
+psychoman59 : suit. 20
+*** FLOP *** [Ac 7s Ks]
+kevper38 : parole 
+psychoman59 : parole 
+cyrestdav : mise. 78
+kevper38 : suit. 78
+psychoman59 : suit. 78
+*** TOURNANT *** [Ac 7s Ks] [4c]
+kevper38 : parole 
+psychoman59 : parole 
+cyrestdav : mise. 182 et est all-in.
+kevper38 : suit. 182 et est all-in.
+psychoman59 : suit. 182 et est all-in.
+*** RIVIÈRE *** [Ac 7s Ks 4c] [Qh]
+*** ABATTAGE ***
+kevper38 : montre [5c Kc] (une paire de Rois)
+psychoman59 : montre [8d Ah] (une paire de As)
+cyrestdav : montre [2d Ad] (une paire de As - plus basse kicker)
+psychoman59 a remporté 900  lors du pot .
+cyrestdav a fini le tournoi en 2e position.
+kevper38 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Tableau [Ac 7s Ks 4c Qh]
+Siège 1 : cyrestdav (bouton) a montré [2d Ad] et a perdu avec une paire de As
+Siège 2 : kevper38 (petite blind) a montré [5c Kc] et a perdu avec une paire de Rois
+Siège 3 : psychoman59 (grosse blind) a montré [8d Ah] et a gagné (900) avec une paire de As
+
+
+

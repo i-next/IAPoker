@@ -1,0 +1,36 @@
+﻿Main PokerStars n°255528004584 : Tournoi #3874463440, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 31/03/2025 7:39:23 CET [31/03/2025 1:39:23 ET]
+Table '3874463440 1' 3-max Siège #1 est au bouton.
+Place 1: elvis4321500 (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: duduatomico (500 en jetons) 
+psychoman59 : met la petite blind. 10
+duduatomico : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Js]
+elvis4321500 : suit. 20
+psychoman59 : suit. 10
+duduatomico : relance. 120 à 140
+elvis4321500 : passe. 
+psychoman59 : suit. 120
+*** FLOP *** [Qc 2h Th]
+psychoman59 : parole 
+duduatomico : parole 
+*** TOURNANT *** [Qc 2h Th] [6d]
+psychoman59 : mise. 300
+duduatomico : relance. 60 à 360 et est all-in.
+psychoman59 : suit. 60 et est all-in.
+*** RIVIÈRE *** [Qc 2h Th 6d] [8h]
+*** ABATTAGE ***
+psychoman59 : montre [Qs Js] (une paire de Dames)
+duduatomico : montre [Ah Qh] (une couleur, hauteur As)
+duduatomico a remporté 1020  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 1020 | Commission 0 
+Tableau [Qc 2h Th 6d 8h]
+Siège 1 : elvis4321500 (bouton) s'est couché. avant Flop
+Siège 2 : psychoman59 (petite blind) a montré [Qs Js] et a perdu avec une paire de Dames
+Siège 3 : duduatomico (grosse blind) a montré [Ah Qh] et a gagné (1020) avec une couleur, hauteur As
+
+
+

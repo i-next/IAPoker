@@ -1,0 +1,503 @@
+﻿Main PokerStars n°258119927471 : Tournoi #3936862043, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 14/10/2025 7:55:49 CET [14/10/2025 1:55:49 ET]
+Table '3936862043 1' 3-max Siège #1 est au bouton.
+Place 1: extemplier (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: AVICII75 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+AVICII75 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 8c]
+extemplier : suit. 20
+psychoman59 : passe. 
+AVICII75 : parole 
+*** FLOP *** [2c 2h 7s]
+AVICII75 : parole 
+extemplier : parole 
+*** TOURNANT *** [2c 2h 7s] [Qs]
+AVICII75 : parole 
+extemplier : parole 
+*** RIVIÈRE *** [2c 2h 7s Qs] [Qd]
+AVICII75 : parole 
+extemplier : mise. 20
+AVICII75 : passe. 
+Personne n'a suivi. (20) sont retournés à extemplier.
+extemplier a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [2c 2h 7s Qs Qd]
+Siège 1 : extemplier (bouton) a remporté (50)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : AVICII75 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°258119929184 : Tournoi #3936862043, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 14/10/2025 7:56:23 CET [14/10/2025 1:56:23 ET]
+Table '3936862043 1' 3-max Siège #2 est au bouton.
+Place 1: extemplier (530 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: AVICII75 (480 en jetons) 
+AVICII75 : met la petite blind. 10
+extemplier : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Tc]
+psychoman59 : passe. 
+AVICII75 : passe. 
+Personne n'a suivi. (10) sont retournés à extemplier.
+extemplier a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : extemplier (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : AVICII75 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258119929610 : Tournoi #3936862043, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 14/10/2025 7:56:32 CET [14/10/2025 1:56:32 ET]
+Table '3936862043 1' 3-max Siège #3 est au bouton.
+Place 1: extemplier (540 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: AVICII75 (470 en jetons) 
+extemplier : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 4h]
+AVICII75 : passe. 
+extemplier : suit. 10
+psychoman59 : parole 
+*** FLOP *** [2s Ac 6d]
+extemplier : parole 
+psychoman59 : parole 
+*** TOURNANT *** [2s Ac 6d] [5s]
+extemplier : parole 
+psychoman59 : mise. 40
+extemplier : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [2s Ac 6d 5s]
+Siège 1 : extemplier (petite blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : AVICII75 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°258119931099 : Tournoi #3936862043, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 14/10/2025 7:57:01 CET [14/10/2025 1:57:01 ET]
+Table '3936862043 1' 3-max Siège #1 est au bouton.
+Place 1: extemplier (520 en jetons) 
+Place 2: psychoman59 (510 en jetons) 
+Place 3: AVICII75 (470 en jetons) 
+psychoman59 : met la petite blind. 10
+AVICII75 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 4h]
+extemplier : passe. 
+psychoman59 : suit. 10
+AVICII75 : parole 
+*** FLOP *** [7d 6c 6d]
+psychoman59 : parole 
+AVICII75 : parole 
+*** TOURNANT *** [7d 6c 6d] [8d]
+psychoman59 : parole 
+AVICII75 : parole 
+*** RIVIÈRE *** [7d 6c 6d 8d] [3h]
+psychoman59 : parole 
+AVICII75 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Qd 4h] (une paire de Six)
+AVICII75 : montre [2s 3s] (double paire, Six et Trois)
+AVICII75 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [7d 6c 6d 8d 3h]
+Siège 1 : extemplier (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [Qd 4h] et a perdu avec une paire de Six
+Siège 3 : AVICII75 (grosse blind) a montré [2s 3s] et a gagné (40) avec double paire, Six et Trois
+
+
+
+Main PokerStars n°258119932633 : Tournoi #3936862043, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 14/10/2025 7:57:31 CET [14/10/2025 1:57:31 ET]
+Table '3936862043 1' 3-max Siège #2 est au bouton.
+Place 1: extemplier (520 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: AVICII75 (490 en jetons) 
+AVICII75 : met la petite blind. 10
+extemplier : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 3c]
+psychoman59 : passe. 
+AVICII75 : suit. 10
+extemplier : parole 
+*** FLOP *** [9h 7c Kh]
+AVICII75 : mise. 20
+extemplier : suit. 20
+*** TOURNANT *** [9h 7c Kh] [6c]
+AVICII75 : mise. 80
+extemplier : suit. 80
+*** RIVIÈRE *** [9h 7c Kh 6c] [9s]
+AVICII75 : mise. 40
+extemplier : relance. 60 à 100
+AVICII75 : suit. 60
+*** ABATTAGE ***
+extemplier : montre [Kc 4c] (double paire, Rois et Neuf)
+AVICII75 : montre [7s Kd] (double paire, Rois et Neuf)
+AVICII75 a remporté 220  lors du pot .
+extemplier a remporté 220  lors du pot .
+*** SYNTHÈSE ***
+Pot total 440 | Commission 0 
+Tableau [9h 7c Kh 6c 9s]
+Siège 1 : extemplier (grosse blind) a montré [Kc 4c] et a gagné (220) avec double paire, Rois et Neuf
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : AVICII75 (petite blind) a montré [7s Kd] et a gagné (220) avec double paire, Rois et Neuf
+
+
+
+Main PokerStars n°258119935484 : Tournoi #3936862043, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 14/10/2025 7:58:28 CET [14/10/2025 1:58:28 ET]
+Table '3936862043 1' 3-max Siège #3 est au bouton.
+Place 1: extemplier (520 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: AVICII75 (490 en jetons) 
+extemplier : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 8d]
+AVICII75 : relance. 20 à 40
+extemplier : passe. 
+psychoman59 : suit. 20
+*** FLOP *** [2d 6h Jc]
+psychoman59 : parole 
+AVICII75 : parole 
+*** TOURNANT *** [2d 6h Jc] [Kd]
+psychoman59 : parole 
+AVICII75 : mise. 90
+psychoman59 : passe. 
+Personne n'a suivi. (90) sont retournés à AVICII75.
+AVICII75 a remporté 90  lors du pot .
+AVICII75 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [2d 6h Jc Kd]
+Siège 1 : extemplier (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : AVICII75 (bouton) a remporté (90)
+
+
+
+Main PokerStars n°258119937452 : Tournoi #3936862043, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 14/10/2025 7:59:07 CET [14/10/2025 1:59:07 ET]
+Table '3936862043 1' 3-max Siège #1 est au bouton.
+Place 1: extemplier (510 en jetons) 
+Place 2: psychoman59 (450 en jetons) 
+Place 3: AVICII75 (540 en jetons) 
+psychoman59 : met la petite blind. 15
+AVICII75 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 8s]
+extemplier : passe. 
+psychoman59 : suit. 15
+AVICII75 : parole 
+*** FLOP *** [9c Jh Th]
+psychoman59 : parole 
+AVICII75 : parole 
+*** TOURNANT *** [9c Jh Th] [7s]
+psychoman59 : parole 
+AVICII75 : parole 
+*** RIVIÈRE *** [9c Jh Th 7s] [Jd]
+psychoman59 : mise. 30
+AVICII75 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [9c Jh Th 7s Jd]
+Siège 1 : extemplier (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (60)
+Siège 3 : AVICII75 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°258119939274 : Tournoi #3936862043, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 14/10/2025 7:59:42 CET [14/10/2025 1:59:42 ET]
+Table '3936862043 1' 3-max Siège #2 est au bouton.
+Place 1: extemplier (510 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+Place 3: AVICII75 (510 en jetons) 
+AVICII75 : met la petite blind. 15
+extemplier : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Kc]
+psychoman59 : suit. 30
+AVICII75 : suit. 15
+extemplier : parole 
+*** FLOP *** [5s 3h 7c]
+AVICII75 : mise. 90
+extemplier : suit. 90
+psychoman59 : passe. 
+*** TOURNANT *** [5s 3h 7c] [8s]
+AVICII75 : parole 
+extemplier : mise. 90
+AVICII75 : suit. 90
+*** RIVIÈRE *** [5s 3h 7c 8s] [Jc]
+AVICII75 : parole 
+extemplier : mise. 90
+AVICII75 : suit. 90
+*** ABATTAGE ***
+extemplier : montre [Ad 7h] (une paire de Sept)
+AVICII75 : cache la main perdante. 
+extemplier a remporté 630  lors du pot .
+*** SYNTHÈSE ***
+Pot total 630 | Commission 0 
+Tableau [5s 3h 7c 8s Jc]
+Siège 1 : extemplier (grosse blind) a montré [Ad 7h] et a gagné (630) avec une paire de Sept
+Siège 2 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 3 : AVICII75 (petite blind) a caché la main perdante. [7d 6s]
+
+
+
+Main PokerStars n°258119942393 : Tournoi #3936862043, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 14/10/2025 8:00:42 CET [14/10/2025 2:00:42 ET]
+Table '3936862043 1' 3-max Siège #3 est au bouton.
+Place 1: extemplier (840 en jetons) 
+Place 2: psychoman59 (450 en jetons) 
+Place 3: AVICII75 (210 en jetons) 
+extemplier : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Ts]
+AVICII75 : passe. 
+extemplier : suit. 15
+psychoman59 : parole 
+*** FLOP *** [3s 7d Ah]
+extemplier : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à extemplier.
+extemplier a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [3s 7d Ah]
+Siège 1 : extemplier (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : AVICII75 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°258119943458 : Tournoi #3936862043, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 14/10/2025 8:01:01 CET [14/10/2025 2:01:01 ET]
+Table '3936862043 1' 3-max Siège #1 est au bouton.
+Place 1: extemplier (870 en jetons) 
+Place 2: psychoman59 (420 en jetons) 
+Place 3: AVICII75 (210 en jetons) 
+psychoman59 : met la petite blind. 15
+AVICII75 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 7h]
+extemplier : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à AVICII75.
+AVICII75 a remporté 30  lors du pot .
+AVICII75 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : extemplier (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : AVICII75 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°258119943835 : Tournoi #3936862043, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 14/10/2025 8:01:07 CET [14/10/2025 2:01:07 ET]
+Table '3936862043 1' 3-max Siège #2 est au bouton.
+Place 1: extemplier (870 en jetons) 
+Place 2: psychoman59 (405 en jetons) 
+Place 3: AVICII75 (225 en jetons) 
+AVICII75 : met la petite blind. 15
+extemplier : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 8s]
+psychoman59 : passe. 
+AVICII75 : passe. 
+Personne n'a suivi. (15) sont retournés à extemplier.
+extemplier a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : extemplier (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : AVICII75 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258119944406 : Tournoi #3936862043, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 14/10/2025 8:01:17 CET [14/10/2025 2:01:17 ET]
+Table '3936862043 1' 3-max Siège #3 est au bouton.
+Place 1: extemplier (885 en jetons) 
+Place 2: psychoman59 (405 en jetons) 
+Place 3: AVICII75 (210 en jetons) 
+extemplier : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Ah]
+AVICII75 : passe. 
+extemplier : relance. 30 à 60
+psychoman59 : relance. 345 à 405 et est all-in.
+extemplier : suit. 345
+*** FLOP *** [4c Tc 6h]
+*** TOURNANT *** [4c Tc 6h] [Qs]
+*** RIVIÈRE *** [4c Tc 6h Qs] [3c]
+*** ABATTAGE ***
+extemplier : montre [Ks Ad] (Hauteur As)
+psychoman59 : montre [Kh Ah] (Hauteur As)
+extemplier a remporté 405  lors du pot .
+psychoman59 a remporté 405  lors du pot .
+*** SYNTHÈSE ***
+Pot total 810 | Commission 0 
+Tableau [4c Tc 6h Qs 3c]
+Siège 1 : extemplier (petite blind) a montré [Ks Ad] et a gagné (405) avec Hauteur As
+Siège 2 : psychoman59 (grosse blind) a montré [Kh Ah] et a gagné (405) avec Hauteur As
+Siège 3 : AVICII75 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°258119945431 : Tournoi #3936862043, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 14/10/2025 8:01:35 CET [14/10/2025 2:01:35 ET]
+Table '3936862043 1' 3-max Siège #1 est au bouton.
+Place 1: extemplier (885 en jetons) 
+Place 2: psychoman59 (405 en jetons) 
+Place 3: AVICII75 (210 en jetons) 
+psychoman59 : met la petite blind. 15
+AVICII75 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 6c]
+extemplier : passe. 
+psychoman59 : suit. 15
+AVICII75 : parole 
+*** FLOP *** [2s 7h 3d]
+psychoman59 : parole 
+AVICII75 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à AVICII75.
+AVICII75 a remporté 60  lors du pot .
+AVICII75 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [2s 7h 3d]
+Siège 1 : extemplier (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 3 : AVICII75 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°258119946712 : Tournoi #3936862043, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 14/10/2025 8:01:57 CET [14/10/2025 2:01:57 ET]
+Table '3936862043 1' 3-max Siège #2 est au bouton.
+Place 1: extemplier (885 en jetons) 
+Place 2: psychoman59 (375 en jetons) 
+Place 3: AVICII75 (240 en jetons) 
+AVICII75 : met la petite blind. 20
+extemplier : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Ac]
+psychoman59 : relance. 335 à 375 et est all-in.
+AVICII75 : suit. 220 et est all-in.
+extemplier : passe. 
+Personne n'a suivi. (135) sont retournés à psychoman59.
+*** FLOP *** [Kh Jd 3s]
+*** TOURNANT *** [Kh Jd 3s] [5c]
+*** RIVIÈRE *** [Kh Jd 3s 5c] [Ad]
+*** ABATTAGE ***
+AVICII75 : montre [6d 6c] (une paire de Six)
+psychoman59 : montre [5d Ac] (double paire, As et Cinq)
+psychoman59 a remporté 520  lors du pot .
+AVICII75 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 520 | Commission 0 
+Tableau [Kh Jd 3s 5c Ad]
+Siège 1 : extemplier (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a montré [5d Ac] et a gagné (520) avec double paire, As et Cinq
+Siège 3 : AVICII75 (petite blind) a montré [6d 6c] et a perdu avec une paire de Six
+
+
+
+Main PokerStars n°258119948015 : Tournoi #3936862043, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 14/10/2025 8:02:19 CET [14/10/2025 2:02:19 ET]
+Table '3936862043 1' 3-max Siège #1 est au bouton.
+Place 1: extemplier (845 en jetons) 
+Place 2: psychoman59 (655 en jetons) 
+extemplier : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 6c]
+extemplier : suit. 20
+psychoman59 : parole 
+*** FLOP *** [3c 2h 9s]
+psychoman59 : parole 
+extemplier : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [3c 2h 9s] [8h]
+psychoman59 : parole 
+extemplier : mise. 40
+psychoman59 : suit. 40
+*** RIVIÈRE *** [3c 2h 9s 8h] [Ts]
+psychoman59 : parole 
+extemplier : mise. 40
+psychoman59 : suit. 40
+*** ABATTAGE ***
+extemplier : montre [Kh 8d] (une paire de Huit)
+psychoman59 : cache la main perdante. 
+extemplier a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [3c 2h 9s 8h Ts]
+Siège 1 : extemplier (bouton) (petite blind) a montré [Kh 8d] et a gagné (320) avec une paire de Huit
+Siège 2 : psychoman59 (grosse blind) a caché la main perdante. [3h 6c]
+
+
+
+Main PokerStars n°258119950534 : Tournoi #3936862043, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 14/10/2025 8:03:01 CET [14/10/2025 2:03:01 ET]
+Table '3936862043 1' 3-max Siège #2 est au bouton.
+Place 1: extemplier (1005 en jetons) 
+Place 2: psychoman59 (495 en jetons) 
+psychoman59 : met la petite blind. 20
+extemplier : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Kh]
+psychoman59 : suit. 20
+extemplier : parole 
+*** FLOP *** [Jc 2d Ah]
+extemplier : parole 
+psychoman59 : mise. 80
+extemplier : suit. 80
+*** TOURNANT *** [Jc 2d Ah] [4d]
+extemplier : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à extemplier.
+extemplier a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Jc 2d Ah 4d]
+Siège 1 : extemplier (grosse blind) a remporté (240)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°258119952577 : Tournoi #3936862043, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 14/10/2025 8:03:35 CET [14/10/2025 2:03:35 ET]
+Table '3936862043 1' 3-max Siège #1 est au bouton.
+Place 1: extemplier (1125 en jetons) 
+Place 2: psychoman59 (375 en jetons) 
+extemplier : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 6h]
+extemplier : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Th Td 6c]
+psychoman59 : mise. 335 et est all-in.
+extemplier : suit. 335
+*** TOURNANT *** [Th Td 6c] [8s]
+*** RIVIÈRE *** [Th Td 6c 8s] [Qs]
+*** ABATTAGE ***
+psychoman59 : montre [Jd 6h] (double paire, Dix et Six)
+extemplier : montre [9s Tc] (un brelan de Dix)
+extemplier a remporté 750  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+extemplier remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 750 | Commission 0 
+Tableau [Th Td 6c 8s Qs]
+Siège 1 : extemplier (bouton) (petite blind) a montré [9s Tc] et a gagné (750) avec un brelan de Dix
+Siège 2 : psychoman59 (grosse blind) a montré [Jd 6h] et a perdu avec double paire, Dix et Six
+
+
+

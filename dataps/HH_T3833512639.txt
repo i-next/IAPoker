@@ -1,0 +1,98 @@
+﻿Main PokerStars n°253832272685 : Tournoi #3833512639, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 13/12/2024 11:34:21 CET [13/12/2024 5:34:21 ET]
+Table '3833512639 1' 3-max Siège #1 est au bouton.
+Place 1: davidtolete (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: davidgalan23 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+davidgalan23 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 9s]
+davidtolete : passe. 
+psychoman59 : suit. 10
+davidgalan23 : relance. 20 à 40
+psychoman59 : suit. 20
+*** FLOP *** [Jd Ad 2c]
+psychoman59 : parole 
+davidgalan23 : parole 
+*** TOURNANT *** [Jd Ad 2c] [Ts]
+psychoman59 : parole 
+davidgalan23 : parole 
+*** RIVIÈRE *** [Jd Ad 2c Ts] [3c]
+psychoman59 : mise. 40
+davidgalan23 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Jd Ad 2c Ts 3c]
+Siège 1 : davidtolete (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (80)
+Siège 3 : davidgalan23 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°253832276128 : Tournoi #3833512639, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 13/12/2024 11:34:53 CET [13/12/2024 5:34:53 ET]
+Table '3833512639 1' 3-max Siège #2 est au bouton.
+Place 1: davidtolete (500 en jetons) 
+Place 2: psychoman59 (540 en jetons) 
+Place 3: davidgalan23 (460 en jetons) 
+davidgalan23 : met la petite blind. 10
+davidtolete : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Qd]
+psychoman59 : suit. 20
+davidgalan23 : suit. 10
+davidtolete : parole 
+*** FLOP *** [9h 7c 4c]
+davidgalan23 : mise. 20
+davidtolete : passe. 
+psychoman59 : suit. 20
+*** TOURNANT *** [9h 7c 4c] [Tc]
+davidgalan23 : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [9h 7c 4c Tc] [Ah]
+davidgalan23 : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à davidgalan23.
+davidgalan23 a remporté 140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [9h 7c 4c Tc Ah]
+Siège 1 : davidtolete (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) s'est couché. sur le Rivière
+Siège 3 : davidgalan23 (petite blind) a remporté (140)
+
+
+
+Main PokerStars n°253832278613 : Tournoi #3833512639, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 13/12/2024 11:35:16 CET [13/12/2024 5:35:16 ET]
+Table '3833512639 1' 3-max Siège #3 est au bouton.
+Place 1: davidtolete (480 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+Place 3: davidgalan23 (540 en jetons) 
+davidtolete : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Kc]
+davidgalan23 : relance. 20 à 40
+davidtolete : suit. 30
+psychoman59 : relance. 440 à 480 et est all-in.
+davidgalan23 : passe. 
+davidtolete : suit. 440 et est all-in.
+*** FLOP *** [2c 4c 7h]
+*** TOURNANT *** [2c 4c 7h] [As]
+*** RIVIÈRE *** [2c 4c 7h As] [2d]
+*** ABATTAGE ***
+davidtolete : montre [Jd Ad] (double paire, As et Deux)
+psychoman59 : montre [Qc Kc] (une paire de Deux)
+davidtolete a remporté 1000  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 1000 | Commission 0 
+Tableau [2c 4c 7h As 2d]
+Siège 1 : davidtolete (petite blind) a montré [Jd Ad] et a gagné (1000) avec double paire, As et Deux
+Siège 2 : psychoman59 (grosse blind) a montré [Qc Kc] et a perdu avec une paire de Deux
+Siège 3 : davidgalan23 (bouton) s'est couché. avant Flop
+
+
+

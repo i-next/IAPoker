@@ -1,0 +1,502 @@
+﻿Main PokerStars n°261382663609 : Tournoi #4014687292, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 09/07/2026 11:23:49 CET [09/07/2026 5:23:49 ET]
+Table '4014687292 1' 3-max Siège #1 est au bouton.
+Place 1: BoldImpostor (500 en jetons) 
+Place 2: muslan (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+muslan : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Jd]
+BoldImpostor : suit. 20
+muslan : suit. 10
+psychoman59 : parole 
+*** FLOP *** [6c 8d 3d]
+muslan : parole 
+psychoman59 : parole 
+BoldImpostor : parole 
+*** TOURNANT *** [6c 8d 3d] [As]
+muslan : parole 
+psychoman59 : parole 
+BoldImpostor : parole 
+*** RIVIÈRE *** [6c 8d 3d As] [Qc]
+muslan : parole 
+psychoman59 : parole 
+BoldImpostor : parole 
+*** ABATTAGE ***
+muslan : montre [Ts 4c] (Hauteur As)
+psychoman59 : montre [9c Jd] (Hauteur As - Dame+Valet kicker)
+BoldImpostor : montre [3s Js] (une paire de Trois)
+BoldImpostor a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [6c 8d 3d As Qc]
+Siège 1 : BoldImpostor (bouton) a montré [3s Js] et a gagné (60) avec une paire de Trois
+Siège 2 : muslan (petite blind) a montré [Ts 4c] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (grosse blind) a montré [9c Jd] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°261382665350 : Tournoi #4014687292, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 09/07/2026 11:24:13 CET [09/07/2026 5:24:13 ET]
+Table '4014687292 1' 3-max Siège #2 est au bouton.
+Place 1: BoldImpostor (540 en jetons) 
+Place 2: muslan (480 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 10
+BoldImpostor : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Kd]
+muslan : suit. 20
+psychoman59 : suit. 10
+BoldImpostor : parole 
+*** FLOP *** [Js 2h 7h]
+psychoman59 : parole 
+BoldImpostor : parole 
+muslan : mise. 60
+psychoman59 : passe. 
+BoldImpostor : passe. 
+Personne n'a suivi. (60) sont retournés à muslan.
+muslan a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Js 2h 7h]
+Siège 1 : BoldImpostor (grosse blind) s'est couché. sur le Flop
+Siège 2 : muslan (bouton) a remporté (60)
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261382668473 : Tournoi #4014687292, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 09/07/2026 11:24:55 CET [09/07/2026 5:24:55 ET]
+Table '4014687292 1' 3-max Siège #3 est au bouton.
+Place 1: BoldImpostor (520 en jetons) 
+Place 2: muslan (520 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+BoldImpostor : met la petite blind. 10
+muslan : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 5h]
+psychoman59 : passe. 
+BoldImpostor : suit. 10
+muslan : parole 
+*** FLOP *** [8h Ad 4d]
+BoldImpostor a dépassé le temps imparti.
+BoldImpostor : parole 
+muslan : parole 
+*** TOURNANT *** [8h Ad 4d] [Kh]
+BoldImpostor : parole 
+muslan : parole 
+*** RIVIÈRE *** [8h Ad 4d Kh] [Th]
+BoldImpostor : parole 
+muslan : parole 
+*** ABATTAGE ***
+BoldImpostor : montre [3c Qc] (Hauteur As)
+muslan : cache la main perdante. 
+BoldImpostor a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [8h Ad 4d Kh Th]
+Siège 1 : BoldImpostor (petite blind) a montré [3c Qc] et a gagné (40) avec Hauteur As
+Siège 2 : muslan (grosse blind) a caché la main perdante. [9h 3s]
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261382671034 : Tournoi #4014687292, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 09/07/2026 11:25:29 CET [09/07/2026 5:25:29 ET]
+Table '4014687292 1' 3-max Siège #1 est au bouton.
+Place 1: BoldImpostor (540 en jetons) 
+Place 2: muslan (500 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+muslan : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 8d]
+BoldImpostor : passe. 
+muslan : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Jc 6d 8c]
+muslan : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [Jc 6d 8c] [5d]
+muslan : mise. 440 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (440) sont retournés à muslan.
+muslan a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Jc 6d 8c 5d]
+Siège 1 : BoldImpostor (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : muslan (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°261382672469 : Tournoi #4014687292, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 09/07/2026 11:25:48 CET [09/07/2026 5:25:48 ET]
+Table '4014687292 1' 3-max Siège #2 est au bouton.
+Place 1: BoldImpostor (540 en jetons) 
+Place 2: muslan (560 en jetons) 
+Place 3: psychoman59 (400 en jetons) 
+psychoman59 : met la petite blind. 10
+BoldImpostor : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 2c]
+muslan : suit. 20
+psychoman59 : passe. 
+BoldImpostor : relance. 20 à 40
+muslan : suit. 20
+*** FLOP *** [Th Qh 3d]
+BoldImpostor : mise. 90
+muslan : passe. 
+Personne n'a suivi. (90) sont retournés à BoldImpostor.
+BoldImpostor a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [Th Qh 3d]
+Siège 1 : BoldImpostor (grosse blind) a remporté (90)
+Siège 2 : muslan (bouton) s'est couché. sur le Flop
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261382674093 : Tournoi #4014687292, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 09/07/2026 11:26:10 CET [09/07/2026 5:26:10 ET]
+Table '4014687292 1' 3-max Siège #3 est au bouton.
+Place 1: BoldImpostor (590 en jetons) 
+Place 2: muslan (520 en jetons) 
+Place 3: psychoman59 (390 en jetons) 
+BoldImpostor : met la petite blind. 10
+muslan : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 2d]
+psychoman59 : passe. 
+BoldImpostor : suit. 10
+muslan : parole 
+*** FLOP *** [4c 2s Ts]
+BoldImpostor : parole 
+muslan : mise. 500 et est all-in.
+BoldImpostor : passe. 
+Personne n'a suivi. (500) sont retournés à muslan.
+muslan a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [4c 2s Ts]
+Siège 1 : BoldImpostor (petite blind) s'est couché. sur le Flop
+Siège 2 : muslan (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261382675951 : Tournoi #4014687292, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 09/07/2026 11:26:36 CET [09/07/2026 5:26:36 ET]
+Table '4014687292 1' 3-max Siège #1 est au bouton.
+Place 1: BoldImpostor (570 en jetons) 
+Place 2: muslan (540 en jetons) 
+Place 3: psychoman59 (390 en jetons) 
+muslan : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 3h]
+BoldImpostor a dépassé le temps imparti.
+BoldImpostor : passe. 
+BoldImpostor ne joue pas.
+muslan : suit. 10
+BoldImpostor est revenu.
+psychoman59 : parole 
+*** FLOP *** [9c Ts 8s]
+muslan : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [9c Ts 8s] [Tc]
+muslan : mise. 500 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (500) sont retournés à muslan.
+muslan a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [9c Ts 8s Tc]
+Siège 1 : BoldImpostor (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : muslan (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°261382678495 : Tournoi #4014687292, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 09/07/2026 11:27:10 CET [09/07/2026 5:27:10 ET]
+Table '4014687292 1' 3-max Siège #2 est au bouton.
+Place 1: BoldImpostor (570 en jetons) 
+Place 2: muslan (580 en jetons) 
+Place 3: psychoman59 (350 en jetons) 
+psychoman59 : met la petite blind. 15
+BoldImpostor : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 7c]
+muslan : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à BoldImpostor.
+BoldImpostor a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : BoldImpostor (grosse blind) a remporté (30)
+Siège 2 : muslan (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261382678957 : Tournoi #4014687292, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 09/07/2026 11:27:15 CET [09/07/2026 5:27:15 ET]
+Table '4014687292 1' 3-max Siège #3 est au bouton.
+Place 1: BoldImpostor (585 en jetons) 
+Place 2: muslan (580 en jetons) 
+Place 3: psychoman59 (335 en jetons) 
+BoldImpostor : met la petite blind. 15
+muslan : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h As]
+psychoman59 : suit. 30
+BoldImpostor : suit. 15
+muslan : relance. 550 à 580 et est all-in.
+psychoman59 : passe. 
+BoldImpostor : passe. 
+Personne n'a suivi. (550) sont retournés à muslan.
+muslan a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Siège 1 : BoldImpostor (petite blind) s'est couché. avant Flop
+Siège 2 : muslan (grosse blind) a remporté (90)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261382680416 : Tournoi #4014687292, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 09/07/2026 11:27:35 CET [09/07/2026 5:27:35 ET]
+Table '4014687292 1' 3-max Siège #1 est au bouton.
+Place 1: BoldImpostor (555 en jetons) 
+Place 2: muslan (640 en jetons) 
+Place 3: psychoman59 (305 en jetons) 
+muslan : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 9s]
+BoldImpostor : relance. 75 à 105
+muslan : relance. 535 à 640 et est all-in.
+psychoman59 : passe. 
+BoldImpostor : suit. 450 et est all-in.
+Personne n'a suivi. (85) sont retournés à muslan.
+*** FLOP *** [4d 2s 7c]
+*** TOURNANT *** [4d 2s 7c] [Ah]
+*** RIVIÈRE *** [4d 2s 7c Ah] [4c]
+*** ABATTAGE ***
+muslan : montre [Jd Ks] (une paire de Quatre)
+BoldImpostor : montre [As 9h] (double paire, As et Quatre)
+BoldImpostor a remporté 1140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1140 | Commission 0 
+Tableau [4d 2s 7c Ah 4c]
+Siège 1 : BoldImpostor (bouton) a montré [As 9h] et a gagné (1140) avec double paire, As et Quatre
+Siège 2 : muslan (petite blind) a montré [Jd Ks] et a perdu avec une paire de Quatre
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261382681529 : Tournoi #4014687292, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 09/07/2026 11:27:50 CET [09/07/2026 5:27:50 ET]
+Table '4014687292 1' 3-max Siège #2 est au bouton.
+Place 1: BoldImpostor (1140 en jetons) 
+Place 2: muslan (85 en jetons) 
+Place 3: psychoman59 (275 en jetons) 
+psychoman59 : met la petite blind. 15
+BoldImpostor : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Ks]
+muslan : relance. 55 à 85 et est all-in.
+psychoman59 : suit. 70
+BoldImpostor : suit. 55
+*** FLOP *** [4d 8h Kh]
+psychoman59 : mise. 190 et est all-in.
+BoldImpostor : passe. 
+Personne n'a suivi. (190) sont retournés à psychoman59.
+*** TOURNANT *** [4d 8h Kh] [Ac]
+*** RIVIÈRE *** [4d 8h Kh Ac] [7c]
+*** ABATTAGE ***
+psychoman59 : montre [7h Ks] (double paire, Rois et Sept)
+muslan : montre [5s 8c] (une paire de Huit)
+psychoman59 a remporté 255  lors du pot .
+muslan a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 255 | Commission 0 
+Tableau [4d 8h Kh Ac 7c]
+Siège 1 : BoldImpostor (grosse blind) s'est couché. sur le Flop
+Siège 2 : muslan (bouton) a montré [5s 8c] et a perdu avec une paire de Huit
+Siège 3 : psychoman59 (petite blind) a montré [7h Ks] et a gagné (255) avec double paire, Rois et Sept
+
+
+
+Main PokerStars n°261382683619 : Tournoi #4014687292, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 09/07/2026 11:28:18 CET [09/07/2026 5:28:18 ET]
+Table '4014687292 1' 3-max Siège #1 est au bouton.
+Place 1: BoldImpostor (1055 en jetons) 
+Place 3: psychoman59 (445 en jetons) 
+BoldImpostor : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 9h]
+BoldImpostor : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à BoldImpostor.
+BoldImpostor a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : BoldImpostor (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261382684064 : Tournoi #4014687292, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 09/07/2026 11:28:24 CET [09/07/2026 5:28:24 ET]
+Table '4014687292 1' 3-max Siège #3 est au bouton.
+Place 1: BoldImpostor (1085 en jetons) 
+Place 3: psychoman59 (415 en jetons) 
+psychoman59 : met la petite blind. 15
+BoldImpostor : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 2h]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à BoldImpostor.
+BoldImpostor a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : BoldImpostor (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261382684444 : Tournoi #4014687292, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 09/07/2026 11:28:29 CET [09/07/2026 5:28:29 ET]
+Table '4014687292 1' 3-max Siège #1 est au bouton.
+Place 1: BoldImpostor (1100 en jetons) 
+Place 3: psychoman59 (400 en jetons) 
+BoldImpostor : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 9h]
+BoldImpostor : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : BoldImpostor (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°261382684767 : Tournoi #4014687292, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 09/07/2026 11:28:33 CET [09/07/2026 5:28:33 ET]
+Table '4014687292 1' 3-max Siège #3 est au bouton.
+Place 1: BoldImpostor (1085 en jetons) 
+Place 3: psychoman59 (415 en jetons) 
+psychoman59 : met la petite blind. 15
+BoldImpostor : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 5c]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à BoldImpostor.
+BoldImpostor a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : BoldImpostor (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261382685121 : Tournoi #4014687292, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 09/07/2026 11:28:38 CET [09/07/2026 5:28:38 ET]
+Table '4014687292 1' 3-max Siège #1 est au bouton.
+Place 1: BoldImpostor (1100 en jetons) 
+Place 3: psychoman59 (400 en jetons) 
+BoldImpostor : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 4c]
+BoldImpostor : suit. 15
+psychoman59 : parole 
+*** FLOP *** [7c Ac 2s]
+psychoman59 : parole 
+BoldImpostor : parole 
+*** TOURNANT *** [7c Ac 2s] [Qh]
+psychoman59 : parole 
+BoldImpostor : parole 
+*** RIVIÈRE *** [7c Ac 2s Qh] [5s]
+psychoman59 : parole 
+BoldImpostor : mise. 30
+psychoman59 : suit. 30
+*** ABATTAGE ***
+BoldImpostor : montre [5h As] (double paire, As et Cinq)
+psychoman59 : cache la main perdante. 
+BoldImpostor a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [7c Ac 2s Qh 5s]
+Siège 1 : BoldImpostor (bouton) (petite blind) a montré [5h As] et a gagné (120) avec double paire, As et Cinq
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [Kh 4c]
+
+
+
+Main PokerStars n°261382686970 : Tournoi #4014687292, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 09/07/2026 11:29:03 CET [09/07/2026 5:29:03 ET]
+Table '4014687292 1' 3-max Siège #3 est au bouton.
+Place 1: BoldImpostor (1160 en jetons) 
+Place 3: psychoman59 (340 en jetons) 
+psychoman59 : met la petite blind. 15
+BoldImpostor : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Th]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à BoldImpostor.
+BoldImpostor a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : BoldImpostor (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261382687461 : Tournoi #4014687292, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 09/07/2026 11:29:09 CET [09/07/2026 5:29:09 ET]
+Table '4014687292 1' 3-max Siège #1 est au bouton.
+Place 1: BoldImpostor (1175 en jetons) 
+Place 3: psychoman59 (325 en jetons) 
+BoldImpostor : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Kc]
+BoldImpostor : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Qd Jh 3c]
+psychoman59 : parole 
+BoldImpostor : parole 
+*** TOURNANT *** [Qd Jh 3c] [4s]
+psychoman59 : parole 
+BoldImpostor : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à BoldImpostor.
+BoldImpostor a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Qd Jh 3c 4s]
+Siège 1 : BoldImpostor (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°261382688721 : Tournoi #4014687292, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 09/07/2026 11:29:25 CET [09/07/2026 5:29:25 ET]
+Table '4014687292 1' 3-max Siège #3 est au bouton.
+Place 1: BoldImpostor (1205 en jetons) 
+Place 3: psychoman59 (295 en jetons) 
+psychoman59 : met la petite blind. 15
+BoldImpostor : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Jc]
+psychoman59 : relance. 265 à 295 et est all-in.
+BoldImpostor : suit. 265
+*** FLOP *** [Qd 5d 9s]
+*** TOURNANT *** [Qd 5d 9s] [7h]
+*** RIVIÈRE *** [Qd 5d 9s 7h] [8d]
+*** ABATTAGE ***
+BoldImpostor : montre [Ad 6s] (une suite, Cinq à Neuf)
+psychoman59 : montre [Qs Jc] (une paire de Dames)
+BoldImpostor a remporté 590  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+BoldImpostor remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 590 | Commission 0 
+Tableau [Qd 5d 9s 7h 8d]
+Siège 1 : BoldImpostor (grosse blind) a montré [Ad 6s] et a gagné (590) avec une suite, Cinq à Neuf
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Qs Jc] et a perdu avec une paire de Dames
+
+
+

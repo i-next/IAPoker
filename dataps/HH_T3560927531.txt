@@ -1,0 +1,465 @@
+﻿Main PokerStars n°242395526510 : Tournoi #3560927531, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/03/2023 10:53:51 CET [12/03/2023 5:53:51 ET]
+Table '3560927531 1' 3-max Siège #1 est au bouton.
+Place 1: Winarnax (300 en jetons) 
+Place 2: Lakishta22 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+Lakishta22 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 4c]
+Winarnax : passe. 
+Lakishta22 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Jd Jc Kd]
+Lakishta22 : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Lakishta22.
+Lakishta22 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Jd Jc Kd]
+Siège 1 : Winarnax (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Lakishta22 (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°242395529435 : Tournoi #3560927531, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/03/2023 10:54:09 CET [12/03/2023 5:54:09 ET]
+Table '3560927531 1' 3-max Siège #2 est au bouton.
+Place 1: Winarnax (300 en jetons) 
+Place 2: Lakishta22 (320 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+Winarnax : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Kh]
+Lakishta22 : suit. 20
+psychoman59 : suit. 10
+Winarnax : parole 
+*** FLOP *** [Jd Ts 8h]
+psychoman59 : parole 
+Winarnax : parole 
+Lakishta22 : parole 
+*** TOURNANT *** [Jd Ts 8h] [Qh]
+psychoman59 : parole 
+Winarnax : parole 
+Lakishta22 : mise. 60
+psychoman59 : suit. 60
+Winarnax : passe. 
+*** RIVIÈRE *** [Jd Ts 8h Qh] [8s]
+psychoman59 : parole 
+Lakishta22 : mise. 240 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (240) sont retournés à Lakishta22.
+Lakishta22 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Jd Ts 8h Qh 8s]
+Siège 1 : Winarnax (grosse blind) s'est couché. sur le Tournant
+Siège 2 : Lakishta22 (bouton) a remporté (180)
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°242395535487 : Tournoi #3560927531, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/03/2023 10:54:45 CET [12/03/2023 5:54:45 ET]
+Table '3560927531 1' 3-max Siège #3 est au bouton.
+Place 1: Winarnax (280 en jetons) 
+Place 2: Lakishta22 (420 en jetons) 
+Place 3: psychoman59 (200 en jetons) 
+Winarnax : met la petite blind. 10
+Lakishta22 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 9h]
+psychoman59 : passe. 
+Winarnax : relance. 260 à 280 et est all-in.
+Lakishta22 : passe. 
+Personne n'a suivi. (260) sont retournés à Winarnax.
+Winarnax a remporté 40  lors du pot .
+Winarnax : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Winarnax (petite blind) a remporté (40)
+Siège 2 : Lakishta22 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°242395537765 : Tournoi #3560927531, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 12/03/2023 10:54:58 CET [12/03/2023 5:54:58 ET]
+Table '3560927531 1' 3-max Siège #1 est au bouton.
+Place 1: Winarnax (300 en jetons) 
+Place 2: Lakishta22 (400 en jetons) 
+Place 3: psychoman59 (200 en jetons) 
+Lakishta22 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 6h]
+Winarnax : passe. 
+Lakishta22 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Ac 4d Kd]
+Lakishta22 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Ac 4d Kd] [Kh]
+Lakishta22 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Ac 4d Kd Kh] [7c]
+Lakishta22 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Lakishta22 : montre [Td 5h] (une paire de Rois)
+psychoman59 : montre [Jd 6h] (une paire de Rois - As+Valet kicker)
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ac 4d Kd Kh 7c]
+Siège 1 : Winarnax (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Lakishta22 (petite blind) a montré [Td 5h] et a perdu avec une paire de Rois
+Siège 3 : psychoman59 (grosse blind) a montré [Jd 6h] et a gagné (60) avec une paire de Rois
+
+
+
+Main PokerStars n°242395540969 : Tournoi #3560927531, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 12/03/2023 10:55:20 CET [12/03/2023 5:55:20 ET]
+Table '3560927531 1' 3-max Siège #2 est au bouton.
+Place 1: Winarnax (300 en jetons) 
+Place 2: Lakishta22 (370 en jetons) 
+Place 3: psychoman59 (230 en jetons) 
+psychoman59 : met la petite blind. 15
+Winarnax : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 8h]
+Lakishta22 : relance. 75 à 105
+psychoman59 : passe. 
+Winarnax : passe. 
+Personne n'a suivi. (75) sont retournés à Lakishta22.
+Lakishta22 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : Winarnax (grosse blind) s'est couché. avant Flop
+Siège 2 : Lakishta22 (bouton) a remporté (75)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242395542789 : Tournoi #3560927531, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 12/03/2023 10:55:32 CET [12/03/2023 5:55:32 ET]
+Table '3560927531 1' 3-max Siège #3 est au bouton.
+Place 1: Winarnax (270 en jetons) 
+Place 2: Lakishta22 (415 en jetons) 
+Place 3: psychoman59 (215 en jetons) 
+Winarnax : met la petite blind. 15
+Lakishta22 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Ks]
+psychoman59 : relance. 185 à 215 et est all-in.
+Winarnax : passe. 
+Lakishta22 : suit. 185
+*** FLOP *** [7d 8d Ts]
+*** TOURNANT *** [7d 8d Ts] [Th]
+*** RIVIÈRE *** [7d 8d Ts Th] [Ad]
+*** ABATTAGE ***
+Lakishta22 : montre [9d Kc] (une paire de Dix)
+psychoman59 : montre [Qd Ks] (une paire de Dix - As+Roi+Dame kicker)
+psychoman59 a remporté 445  lors du pot .
+*** SYNTHÈSE ***
+Pot total 445 | Commission 0 
+Tableau [7d 8d Ts Th Ad]
+Siège 1 : Winarnax (petite blind) s'est couché. avant Flop
+Siège 2 : Lakishta22 (grosse blind) a montré [9d Kc] et a perdu avec une paire de Dix
+Siège 3 : psychoman59 (bouton) a montré [Qd Ks] et a gagné (445) avec une paire de Dix
+
+
+
+Main PokerStars n°242395545707 : Tournoi #3560927531, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 12/03/2023 10:55:52 CET [12/03/2023 5:55:52 ET]
+Table '3560927531 1' 3-max Siège #1 est au bouton.
+Place 1: Winarnax (255 en jetons) 
+Place 2: Lakishta22 (200 en jetons) 
+Place 3: psychoman59 (445 en jetons) 
+Lakishta22 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Qs]
+Winarnax : relance. 225 à 255 et est all-in.
+Lakishta22 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (225) sont retournés à Winarnax.
+Winarnax a remporté 75  lors du pot .
+Winarnax : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : Winarnax (bouton) a remporté (75)
+Siège 2 : Lakishta22 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242395547087 : Tournoi #3560927531, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/03/2023 10:56:01 CET [12/03/2023 5:56:01 ET]
+Table '3560927531 1' 3-max Siège #2 est au bouton.
+Place 1: Winarnax (300 en jetons) 
+Place 2: Lakishta22 (185 en jetons) 
+Place 3: psychoman59 (415 en jetons) 
+psychoman59 : met la petite blind. 20
+Winarnax : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Td]
+Lakishta22 : passe. 
+psychoman59 : relance. 375 à 415 et est all-in.
+Winarnax : passe. 
+Personne n'a suivi. (375) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : Winarnax (grosse blind) s'est couché. avant Flop
+Siège 2 : Lakishta22 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°242395548972 : Tournoi #3560927531, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/03/2023 10:56:14 CET [12/03/2023 5:56:14 ET]
+Table '3560927531 1' 3-max Siège #3 est au bouton.
+Place 1: Winarnax (260 en jetons) 
+Place 2: Lakishta22 (185 en jetons) 
+Place 3: psychoman59 (455 en jetons) 
+Winarnax : met la petite blind. 20
+Lakishta22 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Td]
+psychoman59 : passe. 
+Winarnax : passe. 
+Personne n'a suivi. (20) sont retournés à Lakishta22.
+Lakishta22 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Winarnax (petite blind) s'est couché. avant Flop
+Siège 2 : Lakishta22 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°242395550152 : Tournoi #3560927531, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/03/2023 10:56:22 CET [12/03/2023 5:56:22 ET]
+Table '3560927531 1' 3-max Siège #1 est au bouton.
+Place 1: Winarnax (240 en jetons) 
+Place 2: Lakishta22 (205 en jetons) 
+Place 3: psychoman59 (455 en jetons) 
+Lakishta22 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 3h]
+Winarnax : relance. 200 à 240 et est all-in.
+Lakishta22 : suit. 185 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (35) sont retournés à Winarnax.
+*** FLOP *** [2c 3s 4h]
+*** TOURNANT *** [2c 3s 4h] [5c]
+*** RIVIÈRE *** [2c 3s 4h 5c] [9c]
+*** ABATTAGE ***
+Lakishta22 : montre [Th Ah] (une suite, As à Cinq)
+Winarnax : montre [8c 8s] (une paire de Huit)
+Lakishta22 a remporté 450  lors du pot .
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Tableau [2c 3s 4h 5c 9c]
+Siège 1 : Winarnax (bouton) a montré [8c 8s] et a perdu avec une paire de Huit
+Siège 2 : Lakishta22 (petite blind) a montré [Th Ah] et a gagné (450) avec une suite, As à Cinq
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242395553599 : Tournoi #3560927531, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/03/2023 10:56:46 CET [12/03/2023 5:56:46 ET]
+Table '3560927531 1' 3-max Siège #2 est au bouton.
+Place 1: Winarnax (35 en jetons) 
+Place 2: Lakishta22 (450 en jetons) 
+Place 3: psychoman59 (415 en jetons) 
+psychoman59 : met la petite blind. 20
+Winarnax : met la grosse blind. 35 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 6c]
+Lakishta22 : suit. 40
+psychoman59 : passe. 
+Personne n'a suivi. (5) sont retournés à Lakishta22.
+*** FLOP *** [2d 7h Ah]
+*** TOURNANT *** [2d 7h Ah] [7c]
+*** RIVIÈRE *** [2d 7h Ah 7c] [4d]
+*** ABATTAGE ***
+Winarnax : montre [6h 5h] (une paire de Sept)
+Lakishta22 : montre [2h As] (double paire, As et Sept)
+Lakishta22 a remporté 90  lors du pot .
+Winarnax a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [2d 7h Ah 7c 4d]
+Siège 1 : Winarnax (grosse blind) a montré [6h 5h] et a perdu avec une paire de Sept
+Siège 2 : Lakishta22 (bouton) a montré [2h As] et a gagné (90) avec double paire, As et Sept
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242395555776 : Tournoi #3560927531, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/03/2023 10:57:01 CET [12/03/2023 5:57:01 ET]
+Table '3560927531 1' 3-max Siège #3 est au bouton.
+Place 2: Lakishta22 (505 en jetons) 
+Place 3: psychoman59 (395 en jetons) 
+psychoman59 : met la petite blind. 30
+Lakishta22 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Js]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Lakishta22.
+Lakishta22 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : Lakishta22 (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242395556536 : Tournoi #3560927531, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/03/2023 10:57:05 CET [12/03/2023 5:57:05 ET]
+Table '3560927531 1' 3-max Siège #2 est au bouton.
+Place 2: Lakishta22 (535 en jetons) 
+Place 3: psychoman59 (365 en jetons) 
+Lakishta22 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 7c]
+Lakishta22 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Jh Qc 2h]
+psychoman59 : parole 
+Lakishta22 : mise. 120
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à Lakishta22.
+Lakishta22 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Jh Qc 2h]
+Siège 2 : Lakishta22 (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°242395558707 : Tournoi #3560927531, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/03/2023 10:57:20 CET [12/03/2023 5:57:20 ET]
+Table '3560927531 1' 3-max Siège #3 est au bouton.
+Place 2: Lakishta22 (595 en jetons) 
+Place 3: psychoman59 (305 en jetons) 
+psychoman59 : met la petite blind. 30
+Lakishta22 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 2c]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Lakishta22.
+Lakishta22 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : Lakishta22 (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242395559334 : Tournoi #3560927531, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/03/2023 10:57:25 CET [12/03/2023 5:57:25 ET]
+Table '3560927531 1' 3-max Siège #2 est au bouton.
+Place 2: Lakishta22 (625 en jetons) 
+Place 3: psychoman59 (275 en jetons) 
+Lakishta22 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 9s]
+Lakishta22 : relance. 120 à 180
+psychoman59 : relance. 95 à 275 et est all-in.
+Lakishta22 : suit. 95
+*** FLOP *** [7d Qd 8h]
+*** TOURNANT *** [7d Qd 8h] [2c]
+*** RIVIÈRE *** [7d Qd 8h 2c] [Qc]
+*** ABATTAGE ***
+psychoman59 : montre [As 9s] (une paire de Dames)
+Lakishta22 : montre [Th 5h] (une paire de Dames - plus basse kicker)
+psychoman59 a remporté 550  lors du pot .
+*** SYNTHÈSE ***
+Pot total 550 | Commission 0 
+Tableau [7d Qd 8h 2c Qc]
+Siège 2 : Lakishta22 (bouton) (petite blind) a montré [Th 5h] et a perdu avec une paire de Dames
+Siège 3 : psychoman59 (grosse blind) a montré [As 9s] et a gagné (550) avec une paire de Dames
+
+
+
+Main PokerStars n°242395561540 : Tournoi #3560927531, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/03/2023 10:57:40 CET [12/03/2023 5:57:40 ET]
+Table '3560927531 1' 3-max Siège #3 est au bouton.
+Place 2: Lakishta22 (350 en jetons) 
+Place 3: psychoman59 (550 en jetons) 
+psychoman59 : met la petite blind. 30
+Lakishta22 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 2s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Lakishta22.
+Lakishta22 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : Lakishta22 (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242395562255 : Tournoi #3560927531, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/03/2023 10:57:45 CET [12/03/2023 5:57:45 ET]
+Table '3560927531 1' 3-max Siège #2 est au bouton.
+Place 2: Lakishta22 (380 en jetons) 
+Place 3: psychoman59 (520 en jetons) 
+Lakishta22 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Tc]
+Lakishta22 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [7h 3h Js]
+psychoman59 : parole 
+Lakishta22 : parole 
+*** TOURNANT *** [7h 3h Js] [Ah]
+psychoman59 : mise. 460 et est all-in.
+Lakishta22 : passe. 
+Personne n'a suivi. (460) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [7h 3h Js Ah]
+Siège 2 : Lakishta22 (bouton) (petite blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°242395565119 : Tournoi #3560927531, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 12/03/2023 10:58:05 CET [12/03/2023 5:58:05 ET]
+Table '3560927531 1' 3-max Siège #3 est au bouton.
+Place 2: Lakishta22 (320 en jetons) 
+Place 3: psychoman59 (580 en jetons) 
+psychoman59 : met la petite blind. 40
+Lakishta22 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Ad]
+psychoman59 : relance. 500 à 580 et est all-in.
+Lakishta22 : passe. 
+Personne n'a suivi. (500) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 2 : Lakishta22 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°242395566152 : Tournoi #3560927531, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 12/03/2023 10:58:13 CET [12/03/2023 5:58:13 ET]
+Table '3560927531 1' 3-max Siège #2 est au bouton.
+Place 2: Lakishta22 (240 en jetons) 
+Place 3: psychoman59 (660 en jetons) 
+Lakishta22 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 4h]
+Lakishta22 : relance. 160 à 240 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (160) sont retournés à Lakishta22.
+Lakishta22 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 2 : Lakishta22 (bouton) (petite blind) a remporté (160)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+

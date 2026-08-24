@@ -1,0 +1,970 @@
+﻿Main PokerStars n°258304941721 : Tournoi #3941748973, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 29/10/2025 8:52:12 CET [29/10/2025 3:52:12 ET]
+Table '3941748973 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: bibou-blink (500 en jetons) 
+Place 3: c1237 (500 en jetons) 
+bibou-blink : met la petite blind. 10
+c1237 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Ac]
+psychoman59 : relance. 40 à 60
+bibou-blink : suit. 50
+c1237 : passe. 
+*** FLOP *** [3s Jd 4d]
+bibou-blink : parole 
+psychoman59 : mise. 70
+bibou-blink : passe. 
+Personne n'a suivi. (70) sont retournés à psychoman59.
+psychoman59 a remporté 140  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [3s Jd 4d]
+Siège 1 : psychoman59 (bouton) a remporté (140)
+Siège 2 : bibou-blink (petite blind) s'est couché. sur le Flop
+Siège 3 : c1237 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258304942892 : Tournoi #3941748973, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 29/10/2025 8:52:32 CET [29/10/2025 3:52:32 ET]
+Table '3941748973 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (580 en jetons) 
+Place 2: bibou-blink (440 en jetons) 
+Place 3: c1237 (480 en jetons) 
+c1237 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Qh]
+bibou-blink : suit. 20
+c1237 : passe. 
+psychoman59 : parole 
+*** FLOP *** [Jh 6d 3d]
+psychoman59 : parole 
+bibou-blink : parole 
+*** TOURNANT *** [Jh 6d 3d] [8c]
+psychoman59 : parole 
+bibou-blink : mise. 40
+psychoman59 : suit. 40
+*** RIVIÈRE *** [Jh 6d 3d 8c] [7d]
+psychoman59 : parole 
+bibou-blink : parole 
+*** ABATTAGE ***
+psychoman59 : montre [6h Qh] (une paire de Six)
+bibou-blink : montre [8h Ad] (une paire de Huit)
+bibou-blink a remporté 130  lors du pot .
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Tableau [Jh 6d 3d 8c 7d]
+Siège 1 : psychoman59 (grosse blind) a montré [6h Qh] et a perdu avec une paire de Six
+Siège 2 : bibou-blink (bouton) a montré [8h Ad] et a gagné (130) avec une paire de Huit
+Siège 3 : c1237 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258304944113 : Tournoi #3941748973, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 29/10/2025 8:52:54 CET [29/10/2025 3:52:54 ET]
+Table '3941748973 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (520 en jetons) 
+Place 2: bibou-blink (510 en jetons) 
+Place 3: c1237 (470 en jetons) 
+psychoman59 : met la petite blind. 10
+bibou-blink : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 8d]
+c1237 : passe. 
+psychoman59 : suit. 10
+bibou-blink : parole 
+*** FLOP *** [9h 9d 4h]
+psychoman59 : parole 
+bibou-blink : parole 
+*** TOURNANT *** [9h 9d 4h] [Ad]
+psychoman59 : mise. 40
+bibou-blink : suit. 40
+*** RIVIÈRE *** [9h 9d 4h Ad] [5s]
+psychoman59 : mise. 60
+bibou-blink : suit. 60
+*** ABATTAGE ***
+psychoman59 : montre [As 8d] (double paire, As et Neuf)
+bibou-blink : cache la main perdante. 
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [9h 9d 4h Ad 5s]
+Siège 1 : psychoman59 (petite blind) a montré [As 8d] et a gagné (240) avec double paire, As et Neuf
+Siège 2 : bibou-blink (grosse blind) a caché la main perdante. [Kd Ts]
+Siège 3 : c1237 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°258304945401 : Tournoi #3941748973, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 29/10/2025 8:53:17 CET [29/10/2025 3:53:17 ET]
+Table '3941748973 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (640 en jetons) 
+Place 2: bibou-blink (390 en jetons) 
+Place 3: c1237 (470 en jetons) 
+bibou-blink : met la petite blind. 10
+c1237 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Th]
+psychoman59 : passe. 
+bibou-blink : suit. 10
+c1237 : parole 
+*** FLOP *** [8d Ks 5h]
+bibou-blink : mise. 20
+c1237 : passe. 
+Personne n'a suivi. (20) sont retournés à bibou-blink.
+bibou-blink a remporté 40  lors du pot .
+bibou-blink : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [8d Ks 5h]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : bibou-blink (petite blind) a remporté (40)
+Siège 3 : c1237 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°258304946385 : Tournoi #3941748973, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 29/10/2025 8:53:34 CET [29/10/2025 3:53:34 ET]
+Table '3941748973 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (640 en jetons) 
+Place 2: bibou-blink (410 en jetons) 
+Place 3: c1237 (450 en jetons) 
+c1237 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 8c]
+bibou-blink : suit. 20
+c1237 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [9s 3c Ac]
+c1237 : parole 
+psychoman59 : parole 
+bibou-blink : parole 
+*** TOURNANT *** [9s 3c Ac] [7c]
+c1237 : parole 
+psychoman59 : parole 
+bibou-blink : parole 
+*** RIVIÈRE *** [9s 3c Ac 7c] [9h]
+c1237 : parole 
+psychoman59 : parole 
+bibou-blink : parole 
+*** ABATTAGE ***
+c1237 : montre [Qc Jh] (une paire de Neuf)
+psychoman59 : montre [3h 8c] (double paire, Neuf et Trois)
+bibou-blink : cache la main perdante. 
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [9s 3c Ac 7c 9h]
+Siège 1 : psychoman59 (grosse blind) a montré [3h 8c] et a gagné (60) avec double paire, Neuf et Trois
+Siège 2 : bibou-blink (bouton) a caché la main perdante. [Qh Kc]
+Siège 3 : c1237 (petite blind) a montré [Qc Jh] et a perdu avec une paire de Neuf
+
+
+
+Main PokerStars n°258304947851 : Tournoi #3941748973, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 29/10/2025 8:54:00 CET [29/10/2025 3:54:00 ET]
+Table '3941748973 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (680 en jetons) 
+Place 2: bibou-blink (390 en jetons) 
+Place 3: c1237 (430 en jetons) 
+psychoman59 : met la petite blind. 10
+bibou-blink : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Jd]
+c1237 : passe. 
+psychoman59 : suit. 10
+bibou-blink : relance. 370 à 390 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (370) sont retournés à bibou-blink.
+bibou-blink a remporté 40  lors du pot .
+bibou-blink : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : bibou-blink (grosse blind) a remporté (40)
+Siège 3 : c1237 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°258304948789 : Tournoi #3941748973, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 29/10/2025 8:54:16 CET [29/10/2025 3:54:16 ET]
+Table '3941748973 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (660 en jetons) 
+Place 2: bibou-blink (410 en jetons) 
+Place 3: c1237 (430 en jetons) 
+bibou-blink : met la petite blind. 15
+c1237 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 4d]
+psychoman59 : passe. 
+bibou-blink : passe. 
+Personne n'a suivi. (15) sont retournés à c1237.
+c1237 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : bibou-blink (petite blind) s'est couché. avant Flop
+Siège 3 : c1237 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°258304949141 : Tournoi #3941748973, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 29/10/2025 8:54:22 CET [29/10/2025 3:54:22 ET]
+Table '3941748973 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (660 en jetons) 
+Place 2: bibou-blink (395 en jetons) 
+Place 3: c1237 (445 en jetons) 
+c1237 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Ts]
+bibou-blink : suit. 30
+c1237 : passe. 
+psychoman59 : parole 
+*** FLOP *** [Th 2s Qd]
+psychoman59 : parole 
+bibou-blink : parole 
+*** TOURNANT *** [Th 2s Qd] [Kh]
+psychoman59 : parole 
+bibou-blink : parole 
+*** RIVIÈRE *** [Th 2s Qd Kh] [8c]
+psychoman59 : parole 
+bibou-blink : parole 
+*** ABATTAGE ***
+psychoman59 : montre [5d Ts] (une paire de Dix)
+bibou-blink : cache la main perdante. 
+psychoman59 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Tableau [Th 2s Qd Kh 8c]
+Siège 1 : psychoman59 (grosse blind) a montré [5d Ts] et a gagné (75) avec une paire de Dix
+Siège 2 : bibou-blink (bouton) a caché la main perdante. [Jd 7h]
+Siège 3 : c1237 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258304950318 : Tournoi #3941748973, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 29/10/2025 8:54:43 CET [29/10/2025 3:54:43 ET]
+Table '3941748973 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (705 en jetons) 
+Place 2: bibou-blink (365 en jetons) 
+Place 3: c1237 (430 en jetons) 
+psychoman59 : met la petite blind. 15
+bibou-blink : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 9h]
+c1237 : relance. 30 à 60
+psychoman59 : passe. 
+bibou-blink : passe. 
+Personne n'a suivi. (30) sont retournés à c1237.
+c1237 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : bibou-blink (grosse blind) s'est couché. avant Flop
+Siège 3 : c1237 (bouton) a remporté (75)
+
+
+
+Main PokerStars n°258304951070 : Tournoi #3941748973, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 29/10/2025 8:54:56 CET [29/10/2025 3:54:56 ET]
+Table '3941748973 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (690 en jetons) 
+Place 2: bibou-blink (335 en jetons) 
+Place 3: c1237 (475 en jetons) 
+bibou-blink : met la petite blind. 15
+c1237 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 5d]
+psychoman59 : passe. 
+bibou-blink : passe. 
+Personne n'a suivi. (15) sont retournés à c1237.
+c1237 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : bibou-blink (petite blind) s'est couché. avant Flop
+Siège 3 : c1237 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°258304951576 : Tournoi #3941748973, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 29/10/2025 8:55:05 CET [29/10/2025 3:55:05 ET]
+Table '3941748973 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (690 en jetons) 
+Place 2: bibou-blink (320 en jetons) 
+Place 3: c1237 (490 en jetons) 
+c1237 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Jh]
+bibou-blink : suit. 30
+c1237 : relance. 30 à 60
+psychoman59 : passe. 
+bibou-blink : suit. 30
+*** FLOP *** [4d 9c 3d]
+c1237 : mise. 30
+bibou-blink : suit. 30
+*** TOURNANT *** [4d 9c 3d] [Jc]
+c1237 : mise. 30
+bibou-blink : suit. 30
+*** RIVIÈRE *** [4d 9c 3d Jc] [5c]
+c1237 : mise. 30
+bibou-blink : passe. 
+Personne n'a suivi. (30) sont retournés à c1237.
+c1237 a remporté 270  lors du pot .
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Tableau [4d 9c 3d Jc 5c]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : bibou-blink (bouton) s'est couché. sur le Rivière
+Siège 3 : c1237 (petite blind) a remporté (270)
+
+
+
+Main PokerStars n°258304952790 : Tournoi #3941748973, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 29/10/2025 8:55:29 CET [29/10/2025 3:55:29 ET]
+Table '3941748973 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (660 en jetons) 
+Place 2: bibou-blink (200 en jetons) 
+Place 3: c1237 (640 en jetons) 
+psychoman59 : met la petite blind. 15
+bibou-blink : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Tc]
+c1237 : suit. 30
+psychoman59 : suit. 15
+bibou-blink : relance. 170 à 200 et est all-in.
+c1237 : passe. 
+psychoman59 : suit. 170
+*** FLOP *** [9c 2d 7s]
+*** TOURNANT *** [9c 2d 7s] [Kh]
+*** RIVIÈRE *** [9c 2d 7s Kh] [Jh]
+*** ABATTAGE ***
+psychoman59 : montre [Qh Tc] (une suite, Neuf à Roi)
+bibou-blink : montre [8h Kd] (une paire de Rois)
+psychoman59 a remporté 430  lors du pot .
+bibou-blink a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 430 | Commission 0 
+Tableau [9c 2d 7s Kh Jh]
+Siège 1 : psychoman59 (petite blind) a montré [Qh Tc] et a gagné (430) avec une suite, Neuf à Roi
+Siège 2 : bibou-blink (grosse blind) a montré [8h Kd] et a perdu avec une paire de Rois
+Siège 3 : c1237 (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258304953936 : Tournoi #3941748973, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 29/10/2025 8:55:52 CET [29/10/2025 3:55:52 ET]
+Table '3941748973 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (890 en jetons) 
+Place 3: c1237 (610 en jetons) 
+psychoman59 : met la petite blind. 15
+c1237 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Kh]
+psychoman59 : suit. 15
+c1237 : parole 
+*** FLOP *** [As 3s 6h]
+c1237 : parole 
+psychoman59 : mise. 60
+c1237 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [As 3s 6h]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 3 : c1237 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°258304954501 : Tournoi #3941748973, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 29/10/2025 8:56:03 CET [29/10/2025 3:56:03 ET]
+Table '3941748973 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (920 en jetons) 
+Place 3: c1237 (580 en jetons) 
+c1237 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Ks]
+c1237 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (30)
+Siège 3 : c1237 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258304954723 : Tournoi #3941748973, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 29/10/2025 8:56:07 CET [29/10/2025 3:56:07 ET]
+Table '3941748973 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (935 en jetons) 
+Place 3: c1237 (565 en jetons) 
+psychoman59 : met la petite blind. 15
+c1237 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Ah]
+psychoman59 : relance. 30 à 60
+c1237 : suit. 30
+*** FLOP *** [Ks 3c 5h]
+c1237 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Ks 3c 5h] [6s]
+c1237 : parole 
+psychoman59 : mise. 30
+c1237 : suit. 30
+*** RIVIÈRE *** [Ks 3c 5h 6s] [4c]
+c1237 : parole 
+psychoman59 : mise. 90
+c1237 : suit. 90
+*** ABATTAGE ***
+psychoman59 : montre [Ac Ah] (une paire de As)
+c1237 : cache la main perdante. 
+psychoman59 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [Ks 3c 5h 6s 4c]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Ac Ah] et a gagné (360) avec une paire de As
+Siège 3 : c1237 (grosse blind) a caché la main perdante. [As Ts]
+
+
+
+Main PokerStars n°258304956093 : Tournoi #3941748973, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 29/10/2025 8:56:34 CET [29/10/2025 3:56:34 ET]
+Table '3941748973 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (1115 en jetons) 
+Place 3: c1237 (385 en jetons) 
+c1237 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Th]
+c1237 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : c1237 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258304956341 : Tournoi #3941748973, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 29/10/2025 8:56:39 CET [29/10/2025 3:56:39 ET]
+Table '3941748973 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1135 en jetons) 
+Place 3: c1237 (365 en jetons) 
+psychoman59 : met la petite blind. 20
+c1237 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 6d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à c1237.
+c1237 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : c1237 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°258304956603 : Tournoi #3941748973, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 29/10/2025 8:56:44 CET [29/10/2025 3:56:44 ET]
+Table '3941748973 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (1115 en jetons) 
+Place 3: c1237 (385 en jetons) 
+c1237 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 6c]
+c1237 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : c1237 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258304956847 : Tournoi #3941748973, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 29/10/2025 8:56:48 CET [29/10/2025 3:56:48 ET]
+Table '3941748973 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1135 en jetons) 
+Place 3: c1237 (365 en jetons) 
+psychoman59 : met la petite blind. 20
+c1237 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Ts]
+psychoman59 : relance. 40 à 80
+c1237 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 3 : c1237 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258304957215 : Tournoi #3941748973, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 29/10/2025 8:56:56 CET [29/10/2025 3:56:56 ET]
+Table '3941748973 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (1175 en jetons) 
+Place 3: c1237 (325 en jetons) 
+c1237 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Kc]
+c1237 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : c1237 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258304957448 : Tournoi #3941748973, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 29/10/2025 8:57:00 CET [29/10/2025 3:57:00 ET]
+Table '3941748973 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1195 en jetons) 
+Place 3: c1237 (305 en jetons) 
+psychoman59 : met la petite blind. 20
+c1237 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 4s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à c1237.
+c1237 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : c1237 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°258304957705 : Tournoi #3941748973, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 29/10/2025 8:57:05 CET [29/10/2025 3:57:05 ET]
+Table '3941748973 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (1175 en jetons) 
+Place 3: c1237 (325 en jetons) 
+c1237 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 3h]
+c1237 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Ks 5c 8c]
+psychoman59 : parole 
+c1237 : parole 
+*** TOURNANT *** [Ks 5c 8c] [Ah]
+psychoman59 : parole 
+c1237 : parole 
+*** RIVIÈRE *** [Ks 5c 8c Ah] [7d]
+psychoman59 : mise. 80
+c1237 : suit. 80
+*** ABATTAGE ***
+psychoman59 : montre [Ac 3h] (une paire de As)
+c1237 : cache la main perdante. 
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Ks 5c 8c Ah 7d]
+Siège 1 : psychoman59 (grosse blind) a montré [Ac 3h] et a gagné (240) avec une paire de As
+Siège 3 : c1237 (bouton) (petite blind) a caché la main perdante. [8h 9s]
+
+
+
+Main PokerStars n°258304958789 : Tournoi #3941748973, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 29/10/2025 8:57:26 CET [29/10/2025 3:57:26 ET]
+Table '3941748973 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1295 en jetons) 
+Place 3: c1237 (205 en jetons) 
+psychoman59 : met la petite blind. 20
+c1237 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 2d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à c1237.
+c1237 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : c1237 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°258304959125 : Tournoi #3941748973, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 29/10/2025 8:57:33 CET [29/10/2025 3:57:33 ET]
+Table '3941748973 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (1275 en jetons) 
+Place 3: c1237 (225 en jetons) 
+c1237 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 5c]
+c1237 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : c1237 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258304959322 : Tournoi #3941748973, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 29/10/2025 8:57:37 CET [29/10/2025 3:57:37 ET]
+Table '3941748973 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1295 en jetons) 
+Place 3: c1237 (205 en jetons) 
+psychoman59 : met la petite blind. 20
+c1237 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 5h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à c1237.
+c1237 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : c1237 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°258304959566 : Tournoi #3941748973, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 29/10/2025 8:57:42 CET [29/10/2025 3:57:42 ET]
+Table '3941748973 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (1275 en jetons) 
+Place 3: c1237 (225 en jetons) 
+c1237 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 4c]
+c1237 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : c1237 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258304959816 : Tournoi #3941748973, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 29/10/2025 8:57:47 CET [29/10/2025 3:57:47 ET]
+Table '3941748973 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1295 en jetons) 
+Place 3: c1237 (205 en jetons) 
+psychoman59 : met la petite blind. 20
+c1237 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 7d]
+psychoman59 : suit. 20
+c1237 : parole 
+*** FLOP *** [Ts 6s Th]
+c1237 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Ts 6s Th] [Ad]
+c1237 : parole 
+psychoman59 : mise. 80
+c1237 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Ts 6s Th Ad]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 3 : c1237 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°258304960593 : Tournoi #3941748973, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 29/10/2025 8:58:03 CET [29/10/2025 3:58:03 ET]
+Table '3941748973 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (1335 en jetons) 
+Place 3: c1237 (165 en jetons) 
+c1237 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Jh]
+c1237 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : c1237 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258304960868 : Tournoi #3941748973, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 29/10/2025 8:58:08 CET [29/10/2025 3:58:08 ET]
+Table '3941748973 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1355 en jetons) 
+Place 3: c1237 (145 en jetons) 
+psychoman59 : met la petite blind. 20
+c1237 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Kc]
+psychoman59 : suit. 20
+c1237 : parole 
+*** FLOP *** [6c 7c 2c]
+c1237 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6c 7c 2c] [4d]
+c1237 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [6c 7c 2c 4d] [7s]
+c1237 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+c1237 : montre [3c 2d] (double paire, Sept et Deux)
+psychoman59 : montre [2s Kc] (double paire, Sept et Deux - Roi kicker)
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [6c 7c 2c 4d 7s]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [2s Kc] et a gagné (80) avec double paire, Sept et Deux
+Siège 3 : c1237 (grosse blind) a montré [3c 2d] et a perdu avec double paire, Sept et Deux
+
+
+
+Main PokerStars n°258304962079 : Tournoi #3941748973, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 29/10/2025 8:58:31 CET [29/10/2025 3:58:31 ET]
+Table '3941748973 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (1395 en jetons) 
+Place 3: c1237 (105 en jetons) 
+c1237 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 4d]
+c1237 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : c1237 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258304962338 : Tournoi #3941748973, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 29/10/2025 8:58:37 CET [29/10/2025 3:58:37 ET]
+Table '3941748973 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1425 en jetons) 
+Place 3: c1237 (75 en jetons) 
+psychoman59 : met la petite blind. 30
+c1237 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 6s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à c1237.
+c1237 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : c1237 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°258304962595 : Tournoi #3941748973, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 29/10/2025 8:58:41 CET [29/10/2025 3:58:41 ET]
+Table '3941748973 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (1395 en jetons) 
+Place 3: c1237 (105 en jetons) 
+c1237 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 2s]
+c1237 : relance. 45 à 105 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (45) sont retournés à c1237.
+c1237 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : c1237 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°258304963078 : Tournoi #3941748973, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 29/10/2025 8:58:51 CET [29/10/2025 3:58:51 ET]
+Table '3941748973 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1335 en jetons) 
+Place 3: c1237 (165 en jetons) 
+psychoman59 : met la petite blind. 30
+c1237 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 5s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à c1237.
+c1237 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : c1237 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°258304963320 : Tournoi #3941748973, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 29/10/2025 8:58:55 CET [29/10/2025 3:58:55 ET]
+Table '3941748973 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (1305 en jetons) 
+Place 3: c1237 (195 en jetons) 
+c1237 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 2d]
+c1237 : relance. 135 à 195 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (135) sont retournés à c1237.
+c1237 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : c1237 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°258304963672 : Tournoi #3941748973, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 29/10/2025 8:59:02 CET [29/10/2025 3:59:02 ET]
+Table '3941748973 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1245 en jetons) 
+Place 3: c1237 (255 en jetons) 
+psychoman59 : met la petite blind. 30
+c1237 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 7c]
+psychoman59 : suit. 30
+c1237 : relance. 195 à 255 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (195) sont retournés à c1237.
+c1237 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : c1237 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°258304964090 : Tournoi #3941748973, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 29/10/2025 8:59:10 CET [29/10/2025 3:59:10 ET]
+Table '3941748973 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (1185 en jetons) 
+Place 3: c1237 (315 en jetons) 
+c1237 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 2c]
+c1237 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [8c 9h 4d]
+psychoman59 : parole 
+c1237 : parole 
+*** TOURNANT *** [8c 9h 4d] [Td]
+psychoman59 : parole 
+c1237 : parole 
+*** RIVIÈRE *** [8c 9h 4d Td] [3d]
+psychoman59 : parole 
+c1237 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [6d 2c] (Hauteur Dix)
+c1237 : montre [2s Kc] (Hauteur Roi)
+c1237 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [8c 9h 4d Td 3d]
+Siège 1 : psychoman59 (grosse blind) a montré [6d 2c] et a perdu avec Hauteur Dix
+Siège 3 : c1237 (bouton) (petite blind) a montré [2s Kc] et a gagné (120) avec Hauteur Roi
+
+
+
+Main PokerStars n°258304965260 : Tournoi #3941748973, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 29/10/2025 8:59:33 CET [29/10/2025 3:59:33 ET]
+Table '3941748973 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1125 en jetons) 
+Place 3: c1237 (375 en jetons) 
+psychoman59 : met la petite blind. 30
+c1237 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Tc]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à c1237.
+c1237 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : c1237 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°258304965556 : Tournoi #3941748973, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 29/10/2025 8:59:39 CET [29/10/2025 3:59:39 ET]
+Table '3941748973 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (1095 en jetons) 
+Place 3: c1237 (405 en jetons) 
+c1237 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 2d]
+c1237 : relance. 345 à 405 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (345) sont retournés à c1237.
+c1237 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : c1237 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°258304965954 : Tournoi #3941748973, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 29/10/2025 8:59:47 CET [29/10/2025 3:59:47 ET]
+Table '3941748973 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1035 en jetons) 
+Place 3: c1237 (465 en jetons) 
+psychoman59 : met la petite blind. 30
+c1237 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Kh]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à c1237.
+c1237 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : c1237 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°258304966192 : Tournoi #3941748973, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 29/10/2025 8:59:52 CET [29/10/2025 3:59:52 ET]
+Table '3941748973 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (1005 en jetons) 
+Place 3: c1237 (495 en jetons) 
+c1237 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Ad]
+c1237 : suit. 30
+psychoman59 : relance. 945 à 1005 et est all-in.
+c1237 : passe. 
+Personne n'a suivi. (945) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (120)
+Siège 3 : c1237 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258304966594 : Tournoi #3941748973, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 29/10/2025 9:00:00 CET [29/10/2025 4:00:00 ET]
+Table '3941748973 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1065 en jetons) 
+Place 3: c1237 (435 en jetons) 
+psychoman59 : met la petite blind. 30
+c1237 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Kc]
+psychoman59 : suit. 30
+c1237 : parole 
+*** FLOP *** [9c Ks 4c]
+c1237 : mise. 375 et est all-in.
+psychoman59 : suit. 375
+*** TOURNANT *** [9c Ks 4c] [Kd]
+*** RIVIÈRE *** [9c Ks 4c Kd] [8h]
+*** ABATTAGE ***
+c1237 : montre [9s 5d] (double paire, Rois et Neuf)
+psychoman59 : montre [Td Kc] (un brelan de Rois)
+psychoman59 a remporté 870  lors du pot .
+c1237 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 0.50 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 870 | Commission 0 
+Tableau [9c Ks 4c Kd 8h]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Td Kc] et a gagné (870) avec un brelan de Rois
+Siège 3 : c1237 (grosse blind) a montré [9s 5d] et a perdu avec double paire, Rois et Neuf
+
+
+

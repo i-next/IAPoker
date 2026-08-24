@@ -1,0 +1,695 @@
+﻿Main PokerStars n°246479535553 : Tournoi #3657132882, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/10/2023 22:22:14 CET [11/10/2023 16:22:14 ET]
+Table '3657132882 1' 3-max Siège #1 est au bouton.
+Place 1: banh57 (300 en jetons) 
+Place 2: lamxav (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+lamxav : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 2d]
+banh57 : suit. 20
+lamxav : relance. 20 à 40
+psychoman59 : suit. 20
+banh57 : suit. 20
+*** FLOP *** [2h 9c 4h]
+lamxav : parole 
+psychoman59 : parole 
+banh57 : parole 
+*** TOURNANT *** [2h 9c 4h] [2s]
+lamxav : parole 
+psychoman59 : mise. 60
+banh57 : passe. 
+lamxav : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [2h 9c 4h 2s]
+Siège 1 : banh57 (bouton) s'est couché. sur le Tournant
+Siège 2 : lamxav (petite blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°246479547601 : Tournoi #3657132882, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/10/2023 22:22:46 CET [11/10/2023 16:22:46 ET]
+Table '3657132882 1' 3-max Siège #2 est au bouton.
+Place 1: banh57 (260 en jetons) 
+Place 2: lamxav (260 en jetons) 
+Place 3: psychoman59 (380 en jetons) 
+psychoman59 : met la petite blind. 10
+banh57 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 3s]
+lamxav : suit. 20
+psychoman59 : passe. 
+banh57 : parole 
+*** FLOP *** [4s 5c 8d]
+banh57 : mise. 40
+lamxav : suit. 40
+*** TOURNANT *** [4s 5c 8d] [9c]
+banh57 : mise. 40
+lamxav : suit. 40
+*** RIVIÈRE *** [4s 5c 8d 9c] [4h]
+banh57 : mise. 40
+lamxav : passe. 
+Personne n'a suivi. (40) sont retournés à banh57.
+banh57 a remporté 210  lors du pot .
+banh57 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Tableau [4s 5c 8d 9c 4h]
+Siège 1 : banh57 (grosse blind) a remporté (210)
+Siège 2 : lamxav (bouton) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°246479560459 : Tournoi #3657132882, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/10/2023 22:23:22 CET [11/10/2023 16:23:22 ET]
+Table '3657132882 1' 3-max Siège #3 est au bouton.
+Place 1: banh57 (370 en jetons) 
+Place 2: lamxav (160 en jetons) 
+Place 3: psychoman59 (370 en jetons) 
+banh57 : met la petite blind. 15
+lamxav : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s As]
+psychoman59 : relance. 30 à 60
+banh57 : passe. 
+lamxav : relance. 30 à 90
+psychoman59 : suit. 30
+*** FLOP *** [4s 7h 8d]
+lamxav : mise. 70 et est all-in.
+psychoman59 : suit. 70
+*** TOURNANT *** [4s 7h 8d] [4d]
+*** RIVIÈRE *** [4s 7h 8d 4d] [Qd]
+*** ABATTAGE ***
+lamxav : montre [Ac 5c] (une paire de Quatre)
+psychoman59 : montre [8s As] (double paire, Huit et Quatre)
+psychoman59 a remporté 335  lors du pot .
+lamxav a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 335 | Commission 0 
+Tableau [4s 7h 8d 4d Qd]
+Siège 1 : banh57 (petite blind) s'est couché. avant Flop
+Siège 2 : lamxav (grosse blind) a montré [Ac 5c] et a perdu avec une paire de Quatre
+Siège 3 : psychoman59 (bouton) a montré [8s As] et a gagné (335) avec double paire, Huit et Quatre
+
+
+
+Main PokerStars n°246479569853 : Tournoi #3657132882, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/10/2023 22:23:47 CET [11/10/2023 16:23:47 ET]
+Table '3657132882 1' 3-max Siège #1 est au bouton.
+Place 1: banh57 (355 en jetons) 
+Place 3: psychoman59 (545 en jetons) 
+banh57 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 6c]
+banh57 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : banh57 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°246479571655 : Tournoi #3657132882, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/10/2023 22:23:52 CET [11/10/2023 16:23:52 ET]
+Table '3657132882 1' 3-max Siège #3 est au bouton.
+Place 1: banh57 (340 en jetons) 
+Place 3: psychoman59 (560 en jetons) 
+psychoman59 : met la petite blind. 15
+banh57 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 8d]
+psychoman59 : relance. 530 à 560 et est all-in.
+banh57 : passe. 
+Personne n'a suivi. (530) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : banh57 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°246479575011 : Tournoi #3657132882, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/10/2023 22:24:01 CET [11/10/2023 16:24:01 ET]
+Table '3657132882 1' 3-max Siège #1 est au bouton.
+Place 1: banh57 (310 en jetons) 
+Place 3: psychoman59 (590 en jetons) 
+banh57 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Qs]
+banh57 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [2c Td Qc]
+psychoman59 : parole 
+banh57 : mise. 30
+psychoman59 : suit. 30
+*** TOURNANT *** [2c Td Qc] [Kc]
+psychoman59 : parole 
+banh57 : mise. 30
+psychoman59 : suit. 30
+*** RIVIÈRE *** [2c Td Qc Kc] [9s]
+psychoman59 : parole 
+banh57 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [4c Qs] (une paire de Dames)
+banh57 : montre [Kd Th] (double paire, Rois et Dix)
+banh57 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [2c Td Qc Kc 9s]
+Siège 1 : banh57 (bouton) (petite blind) a montré [Kd Th] et a gagné (180) avec double paire, Rois et Dix
+Siège 3 : psychoman59 (grosse blind) a montré [4c Qs] et a perdu avec une paire de Dames
+
+
+
+Main PokerStars n°246479583822 : Tournoi #3657132882, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/10/2023 22:24:25 CET [11/10/2023 16:24:25 ET]
+Table '3657132882 1' 3-max Siège #3 est au bouton.
+Place 1: banh57 (400 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+psychoman59 : met la petite blind. 20
+banh57 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 2h]
+psychoman59 : suit. 20
+banh57 : relance. 360 à 400 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (360) sont retournés à banh57.
+banh57 a remporté 80  lors du pot .
+banh57 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : banh57 (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°246479587526 : Tournoi #3657132882, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/10/2023 22:24:35 CET [11/10/2023 16:24:35 ET]
+Table '3657132882 1' 3-max Siège #1 est au bouton.
+Place 1: banh57 (440 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+banh57 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Tc]
+banh57 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : banh57 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°246479589073 : Tournoi #3657132882, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/10/2023 22:24:39 CET [11/10/2023 16:24:39 ET]
+Table '3657132882 1' 3-max Siège #3 est au bouton.
+Place 1: banh57 (420 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 20
+banh57 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 4d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à banh57.
+banh57 a remporté 40  lors du pot .
+banh57 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : banh57 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°246479591231 : Tournoi #3657132882, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/10/2023 22:24:45 CET [11/10/2023 16:24:45 ET]
+Table '3657132882 1' 3-max Siège #1 est au bouton.
+Place 1: banh57 (440 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+banh57 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 8c]
+banh57 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : banh57 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°246479592719 : Tournoi #3657132882, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/10/2023 22:24:49 CET [11/10/2023 16:24:49 ET]
+Table '3657132882 1' 3-max Siège #3 est au bouton.
+Place 1: banh57 (420 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 20
+banh57 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 8s]
+psychoman59 : suit. 20
+banh57 : parole 
+*** FLOP *** [As 7d 8c]
+banh57 : parole 
+psychoman59 : mise. 80
+banh57 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [As 7d 8c]
+Siège 1 : banh57 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°246479597583 : Tournoi #3657132882, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/10/2023 22:25:02 CET [11/10/2023 16:25:02 ET]
+Table '3657132882 1' 3-max Siège #1 est au bouton.
+Place 1: banh57 (380 en jetons) 
+Place 3: psychoman59 (520 en jetons) 
+banh57 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 7c]
+banh57 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Qc Td 8d]
+psychoman59 : parole 
+banh57 : parole 
+*** TOURNANT *** [Qc Td 8d] [7h]
+psychoman59 : parole 
+banh57 : parole 
+*** RIVIÈRE *** [Qc Td 8d 7h] [Jh]
+psychoman59 : parole 
+banh57 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [2s 7c] (une paire de Sept)
+banh57 : montre [Ts Kd] (une paire de Dix)
+banh57 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Qc Td 8d 7h Jh]
+Siège 1 : banh57 (bouton) (petite blind) a montré [Ts Kd] et a gagné (80) avec une paire de Dix
+Siège 3 : psychoman59 (grosse blind) a montré [2s 7c] et a perdu avec une paire de Sept
+
+
+
+Main PokerStars n°246479604386 : Tournoi #3657132882, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/10/2023 22:25:21 CET [11/10/2023 16:25:21 ET]
+Table '3657132882 1' 3-max Siège #3 est au bouton.
+Place 1: banh57 (420 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 30
+banh57 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Qs]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à banh57.
+banh57 a remporté 60  lors du pot .
+banh57 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : banh57 (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°246479606783 : Tournoi #3657132882, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/10/2023 22:25:28 CET [11/10/2023 16:25:28 ET]
+Table '3657132882 1' 3-max Siège #1 est au bouton.
+Place 1: banh57 (450 en jetons) 
+Place 3: psychoman59 (450 en jetons) 
+banh57 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 3s]
+banh57 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Ah 9s 6h]
+psychoman59 : parole 
+banh57 : mise. 120
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à banh57.
+banh57 a remporté 120  lors du pot .
+banh57 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Ah 9s 6h]
+Siège 1 : banh57 (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°246479611910 : Tournoi #3657132882, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/10/2023 22:25:42 CET [11/10/2023 16:25:42 ET]
+Table '3657132882 1' 3-max Siège #3 est au bouton.
+Place 1: banh57 (510 en jetons) 
+Place 3: psychoman59 (390 en jetons) 
+psychoman59 : met la petite blind. 30
+banh57 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Kd]
+psychoman59 : suit. 30
+banh57 : parole 
+*** FLOP *** [4h Td 3c]
+banh57 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [4h Td 3c] [3s]
+banh57 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [4h Td 3c 3s] [2c]
+banh57 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+banh57 : montre [8h Qd] (une paire de Trois)
+psychoman59 : montre [6s Kd] (une paire de Trois - Roi kicker)
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [4h Td 3c 3s 2c]
+Siège 1 : banh57 (grosse blind) a montré [8h Qd] et a perdu avec une paire de Trois
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [6s Kd] et a gagné (120) avec une paire de Trois
+
+
+
+Main PokerStars n°246479617902 : Tournoi #3657132882, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/10/2023 22:25:58 CET [11/10/2023 16:25:58 ET]
+Table '3657132882 1' 3-max Siège #1 est au bouton.
+Place 1: banh57 (450 en jetons) 
+Place 3: psychoman59 (450 en jetons) 
+banh57 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 4h]
+banh57 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : banh57 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°246479619656 : Tournoi #3657132882, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/10/2023 22:26:03 CET [11/10/2023 16:26:03 ET]
+Table '3657132882 1' 3-max Siège #3 est au bouton.
+Place 1: banh57 (420 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 30
+banh57 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Qh]
+psychoman59 : suit. 30
+banh57 : parole 
+*** FLOP *** [Jh 7d 2c]
+banh57 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Jh 7d 2c] [As]
+banh57 : parole 
+psychoman59 : mise. 120
+banh57 : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Jh 7d 2c As]
+Siège 1 : banh57 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°246479626683 : Tournoi #3657132882, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 11/10/2023 22:26:22 CET [11/10/2023 16:26:22 ET]
+Table '3657132882 1' 3-max Siège #1 est au bouton.
+Place 1: banh57 (360 en jetons) 
+Place 3: psychoman59 (540 en jetons) 
+banh57 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 5s]
+banh57 : suit. 40
+psychoman59 : parole 
+*** FLOP *** [Kc Js Kd]
+psychoman59 : parole 
+banh57 : parole 
+*** TOURNANT *** [Kc Js Kd] [Qc]
+psychoman59 : parole 
+banh57 : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à banh57.
+banh57 a remporté 160  lors du pot .
+banh57 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Kc Js Kd Qc]
+Siège 1 : banh57 (bouton) (petite blind) a remporté (160)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°246479632659 : Tournoi #3657132882, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 11/10/2023 22:26:38 CET [11/10/2023 16:26:38 ET]
+Table '3657132882 1' 3-max Siège #3 est au bouton.
+Place 1: banh57 (440 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+psychoman59 : met la petite blind. 40
+banh57 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Qh]
+psychoman59 : relance. 160 à 240
+banh57 : passe. 
+Personne n'a suivi. (160) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : banh57 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°246479635542 : Tournoi #3657132882, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 11/10/2023 22:26:46 CET [11/10/2023 16:26:46 ET]
+Table '3657132882 1' 3-max Siège #1 est au bouton.
+Place 1: banh57 (360 en jetons) 
+Place 3: psychoman59 (540 en jetons) 
+banh57 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 8d]
+banh57 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : banh57 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°246479637018 : Tournoi #3657132882, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 11/10/2023 22:26:50 CET [11/10/2023 16:26:50 ET]
+Table '3657132882 1' 3-max Siège #3 est au bouton.
+Place 1: banh57 (320 en jetons) 
+Place 3: psychoman59 (580 en jetons) 
+psychoman59 : met la petite blind. 40
+banh57 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 5c]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à banh57.
+banh57 a remporté 80  lors du pot .
+banh57 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : banh57 (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°246479639186 : Tournoi #3657132882, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 11/10/2023 22:26:56 CET [11/10/2023 16:26:56 ET]
+Table '3657132882 1' 3-max Siège #1 est au bouton.
+Place 1: banh57 (360 en jetons) 
+Place 3: psychoman59 (540 en jetons) 
+banh57 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Ah]
+banh57 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : banh57 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°246479640724 : Tournoi #3657132882, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 11/10/2023 22:27:01 CET [11/10/2023 16:27:01 ET]
+Table '3657132882 1' 3-max Siège #3 est au bouton.
+Place 1: banh57 (320 en jetons) 
+Place 3: psychoman59 (580 en jetons) 
+psychoman59 : met la petite blind. 40
+banh57 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Td]
+psychoman59 : relance. 80 à 160
+banh57 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : banh57 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°246479642977 : Tournoi #3657132882, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 11/10/2023 22:27:07 CET [11/10/2023 16:27:07 ET]
+Table '3657132882 1' 3-max Siège #1 est au bouton.
+Place 1: banh57 (240 en jetons) 
+Place 3: psychoman59 (660 en jetons) 
+banh57 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 9s]
+banh57 : relance. 160 à 240 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (160) sont retournés à banh57.
+banh57 a remporté 160  lors du pot .
+banh57 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : banh57 (bouton) (petite blind) a remporté (160)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°246479645289 : Tournoi #3657132882, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 11/10/2023 22:27:13 CET [11/10/2023 16:27:13 ET]
+Table '3657132882 1' 3-max Siège #3 est au bouton.
+Place 1: banh57 (320 en jetons) 
+Place 3: psychoman59 (580 en jetons) 
+psychoman59 : met la petite blind. 40
+banh57 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 2d]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à banh57.
+banh57 a remporté 80  lors du pot .
+banh57 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : banh57 (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°246479648754 : Tournoi #3657132882, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 11/10/2023 22:27:23 CET [11/10/2023 16:27:23 ET]
+Table '3657132882 1' 3-max Siège #1 est au bouton.
+Place 1: banh57 (360 en jetons) 
+Place 3: psychoman59 (540 en jetons) 
+banh57 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 2h]
+banh57 : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : banh57 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (100)
+
+
+
+Main PokerStars n°246479650398 : Tournoi #3657132882, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 11/10/2023 22:27:27 CET [11/10/2023 16:27:27 ET]
+Table '3657132882 1' 3-max Siège #3 est au bouton.
+Place 1: banh57 (310 en jetons) 
+Place 3: psychoman59 (590 en jetons) 
+psychoman59 : met la petite blind. 50
+banh57 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 8c]
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à banh57.
+banh57 a remporté 100  lors du pot .
+banh57 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : banh57 (grosse blind) a remporté (100)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°246479652145 : Tournoi #3657132882, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 11/10/2023 22:27:32 CET [11/10/2023 16:27:32 ET]
+Table '3657132882 1' 3-max Siège #1 est au bouton.
+Place 1: banh57 (360 en jetons) 
+Place 3: psychoman59 (540 en jetons) 
+banh57 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Jd]
+banh57 : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : banh57 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (100)
+
+
+
+Main PokerStars n°246479653659 : Tournoi #3657132882, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 11/10/2023 22:27:36 CET [11/10/2023 16:27:36 ET]
+Table '3657132882 1' 3-max Siège #3 est au bouton.
+Place 1: banh57 (310 en jetons) 
+Place 3: psychoman59 (590 en jetons) 
+psychoman59 : met la petite blind. 50
+banh57 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Tc]
+psychoman59 : relance. 490 à 590 et est all-in.
+banh57 : passe. 
+Personne n'a suivi. (490) sont retournés à psychoman59.
+psychoman59 a remporté 200  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Siège 1 : banh57 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (200)
+
+
+
+Main PokerStars n°246479656990 : Tournoi #3657132882, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 11/10/2023 22:27:46 CET [11/10/2023 16:27:46 ET]
+Table '3657132882 1' 3-max Siège #1 est au bouton.
+Place 1: banh57 (210 en jetons) 
+Place 3: psychoman59 (690 en jetons) 
+banh57 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 7c]
+banh57 : relance. 110 à 210 et est all-in.
+psychoman59 : suit. 110
+*** FLOP *** [As 4c 6s]
+*** TOURNANT *** [As 4c 6s] [Qc]
+*** RIVIÈRE *** [As 4c 6s Qc] [6c]
+*** ABATTAGE ***
+psychoman59 : montre [9c 7c] (une couleur, hauteur Dame)
+banh57 : montre [9d Ad] (double paire, As et Six)
+psychoman59 a remporté 420  lors du pot .
+banh57 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [As 4c 6s Qc 6c]
+Siège 1 : banh57 (bouton) (petite blind) a montré [9d Ad] et a perdu avec double paire, As et Six
+Siège 3 : psychoman59 (grosse blind) a montré [9c 7c] et a gagné (420) avec une couleur, hauteur Dame
+
+
+

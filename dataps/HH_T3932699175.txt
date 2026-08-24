@@ -1,0 +1,568 @@
+﻿Main PokerStars n°257943245901 : Tournoi #3932699175, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 30/09/2025 8:58:52 CET [30/09/2025 2:58:52 ET]
+Table '3932699175 1' 3-max Siège #1 est au bouton.
+Place 1: AAYA_432 (500 en jetons) 
+Place 2: isa7031 (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+isa7031 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Qs]
+AAYA_432 : relance. 20 à 40
+isa7031 : suit. 30
+psychoman59 : suit. 20
+*** FLOP *** [9h Ah 2h]
+isa7031 : mise. 20
+psychoman59 : passe. 
+AAYA_432 : suit. 20
+*** TOURNANT *** [9h Ah 2h] [3c]
+isa7031 : parole 
+AAYA_432 : mise. 106
+isa7031 : passe. 
+Personne n'a suivi. (106) sont retournés à AAYA_432.
+AAYA_432 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [9h Ah 2h 3c]
+Siège 1 : AAYA_432 (bouton) a remporté (160)
+Siège 2 : isa7031 (petite blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°257943247439 : Tournoi #3932699175, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 30/09/2025 8:59:20 CET [30/09/2025 2:59:20 ET]
+Table '3932699175 1' 3-max Siège #2 est au bouton.
+Place 1: AAYA_432 (600 en jetons) 
+Place 2: isa7031 (440 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+psychoman59 : met la petite blind. 10
+AAYA_432 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 6h]
+isa7031 : suit. 20
+psychoman59 : suit. 10
+AAYA_432 : parole 
+*** FLOP *** [Ac 4h 8d]
+psychoman59 : parole 
+AAYA_432 : parole 
+isa7031 : parole 
+*** TOURNANT *** [Ac 4h 8d] [8h]
+psychoman59 : parole 
+AAYA_432 : parole 
+isa7031 : parole 
+*** RIVIÈRE *** [Ac 4h 8d 8h] [9c]
+psychoman59 : parole 
+AAYA_432 : parole 
+isa7031 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Qs 6h] (une paire de Huit)
+AAYA_432 : montre [7h Qc] (une paire de Huit)
+isa7031 : montre [Tc Kc] (une paire de Huit - As+Roi kicker)
+isa7031 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ac 4h 8d 8h 9c]
+Siège 1 : AAYA_432 (grosse blind) a montré [7h Qc] et a perdu avec une paire de Huit
+Siège 2 : isa7031 (bouton) a montré [Tc Kc] et a gagné (60) avec une paire de Huit
+Siège 3 : psychoman59 (petite blind) a montré [Qs 6h] et a perdu avec une paire de Huit
+
+
+
+Main PokerStars n°257943249225 : Tournoi #3932699175, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 30/09/2025 8:59:54 CET [30/09/2025 2:59:54 ET]
+Table '3932699175 1' 3-max Siège #3 est au bouton.
+Place 1: AAYA_432 (580 en jetons) 
+Place 2: isa7031 (480 en jetons) 
+Place 3: psychoman59 (440 en jetons) 
+AAYA_432 : met la petite blind. 10
+isa7031 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Qh]
+psychoman59 : relance. 420 à 440 et est all-in.
+AAYA_432 : passe. 
+isa7031 : passe. 
+Personne n'a suivi. (420) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : AAYA_432 (petite blind) s'est couché. avant Flop
+Siège 2 : isa7031 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a remporté (50)
+
+
+
+Main PokerStars n°257943249970 : Tournoi #3932699175, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 30/09/2025 9:00:07 CET [30/09/2025 3:00:07 ET]
+Table '3932699175 1' 3-max Siège #1 est au bouton.
+Place 1: AAYA_432 (570 en jetons) 
+Place 2: isa7031 (460 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+isa7031 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Qs]
+AAYA_432 : passe. 
+isa7031 : suit. 10
+psychoman59 : relance. 40 à 60
+isa7031 : suit. 40
+*** FLOP *** [8d Kh 2d]
+isa7031 : parole 
+psychoman59 : mise. 60
+isa7031 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [8d Kh 2d]
+Siège 1 : AAYA_432 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : isa7031 (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°257943251255 : Tournoi #3932699175, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 30/09/2025 9:00:31 CET [30/09/2025 3:00:31 ET]
+Table '3932699175 1' 3-max Siège #2 est au bouton.
+Place 1: AAYA_432 (570 en jetons) 
+Place 2: isa7031 (400 en jetons) 
+Place 3: psychoman59 (530 en jetons) 
+psychoman59 : met la petite blind. 10
+AAYA_432 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 6d]
+isa7031 : suit. 20
+psychoman59 : passe. 
+AAYA_432 : parole 
+*** FLOP *** [2s 3h Qc]
+AAYA_432 : parole 
+isa7031 : mise. 20
+AAYA_432 : passe. 
+Personne n'a suivi. (20) sont retournés à isa7031.
+isa7031 a remporté 50  lors du pot .
+isa7031 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [2s 3h Qc]
+Siège 1 : AAYA_432 (grosse blind) s'est couché. sur le Flop
+Siège 2 : isa7031 (bouton) a remporté (50)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257943252243 : Tournoi #3932699175, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 30/09/2025 9:00:47 CET [30/09/2025 3:00:47 ET]
+Table '3932699175 1' 3-max Siège #3 est au bouton.
+Place 1: AAYA_432 (550 en jetons) 
+Place 2: isa7031 (430 en jetons) 
+Place 3: psychoman59 (520 en jetons) 
+AAYA_432 : met la petite blind. 10
+isa7031 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 2d]
+psychoman59 : passe. 
+AAYA_432 : suit. 10
+isa7031 : parole 
+*** FLOP *** [3s Th Jh]
+AAYA_432 : mise. 20
+isa7031 : suit. 20
+*** TOURNANT *** [3s Th Jh] [4d]
+AAYA_432 : mise. 53
+isa7031 : suit. 53
+*** RIVIÈRE *** [3s Th Jh 4d] [9c]
+AAYA_432 : parole 
+isa7031 : parole 
+*** ABATTAGE ***
+AAYA_432 : montre [3d 5c] (une paire de Trois)
+isa7031 : cache la main perdante. 
+AAYA_432 a remporté 186  lors du pot .
+*** SYNTHÈSE ***
+Pot total 186 | Commission 0 
+Tableau [3s Th Jh 4d 9c]
+Siège 1 : AAYA_432 (petite blind) a montré [3d 5c] et a gagné (186) avec une paire de Trois
+Siège 2 : isa7031 (grosse blind) a caché la main perdante. [Qh Ah]
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°257943254280 : Tournoi #3932699175, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 30/09/2025 9:01:21 CET [30/09/2025 3:01:21 ET]
+Table '3932699175 1' 3-max Siège #1 est au bouton.
+Place 1: AAYA_432 (643 en jetons) 
+Place 2: isa7031 (337 en jetons) 
+Place 3: psychoman59 (520 en jetons) 
+isa7031 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Td]
+AAYA_432 : relance. 20 à 40
+isa7031 : passe. 
+psychoman59 : suit. 20
+*** FLOP *** [4d Jd 8d]
+psychoman59 : parole 
+AAYA_432 : mise. 30
+psychoman59 : suit. 30
+*** TOURNANT *** [4d Jd 8d] [Qc]
+psychoman59 : parole 
+AAYA_432 : parole 
+*** RIVIÈRE *** [4d Jd 8d Qc] [7s]
+psychoman59 : mise. 75
+AAYA_432 : passe. 
+Personne n'a suivi. (75) sont retournés à psychoman59.
+psychoman59 a remporté 150  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Tableau [4d Jd 8d Qc 7s]
+Siège 1 : AAYA_432 (bouton) s'est couché. sur le Rivière
+Siège 2 : isa7031 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (150)
+
+
+
+Main PokerStars n°257943256612 : Tournoi #3932699175, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 30/09/2025 9:02:00 CET [30/09/2025 3:02:00 ET]
+Table '3932699175 1' 3-max Siège #2 est au bouton.
+Place 1: AAYA_432 (573 en jetons) 
+Place 2: isa7031 (327 en jetons) 
+Place 3: psychoman59 (600 en jetons) 
+psychoman59 : met la petite blind. 15
+AAYA_432 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 5h]
+isa7031 : suit. 30
+psychoman59 : passe. 
+AAYA_432 : parole 
+*** FLOP *** [Qh 3c Ks]
+AAYA_432 : parole 
+isa7031 : mise. 30
+AAYA_432 : relance. 45 à 75
+isa7031 : suit. 45
+*** TOURNANT *** [Qh 3c Ks] [Td]
+AAYA_432 : mise. 270
+isa7031 : suit. 222 et est all-in.
+Personne n'a suivi. (48) sont retournés à AAYA_432.
+*** RIVIÈRE *** [Qh 3c Ks Td] [6s]
+*** ABATTAGE ***
+AAYA_432 : montre [Kc 2s] (une paire de Rois)
+isa7031 : montre [Tc Kd] (double paire, Rois et Dix)
+isa7031 a remporté 669  lors du pot .
+*** SYNTHÈSE ***
+Pot total 669 | Commission 0 
+Tableau [Qh 3c Ks Td 6s]
+Siège 1 : AAYA_432 (grosse blind) a montré [Kc 2s] et a perdu avec une paire de Rois
+Siège 2 : isa7031 (bouton) a montré [Tc Kd] et a gagné (669) avec double paire, Rois et Dix
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257943258592 : Tournoi #3932699175, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 30/09/2025 9:02:33 CET [30/09/2025 3:02:33 ET]
+Table '3932699175 1' 3-max Siège #3 est au bouton.
+Place 1: AAYA_432 (246 en jetons) 
+Place 2: isa7031 (669 en jetons) 
+Place 3: psychoman59 (585 en jetons) 
+AAYA_432 : met la petite blind. 15
+isa7031 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 5s]
+psychoman59 : suit. 30
+AAYA_432 : suit. 15
+isa7031 : parole 
+*** FLOP *** [Qd Ac 7c]
+AAYA_432 : parole 
+isa7031 : parole 
+psychoman59 : mise. 45
+AAYA_432 : passe. 
+isa7031 : passe. 
+Personne n'a suivi. (45) sont retournés à psychoman59.
+psychoman59 a remporté 90  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [Qd Ac 7c]
+Siège 1 : AAYA_432 (petite blind) s'est couché. sur le Flop
+Siège 2 : isa7031 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) a remporté (90)
+
+
+
+Main PokerStars n°257943260076 : Tournoi #3932699175, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 30/09/2025 9:02:57 CET [30/09/2025 3:02:57 ET]
+Table '3932699175 1' 3-max Siège #1 est au bouton.
+Place 1: AAYA_432 (216 en jetons) 
+Place 2: isa7031 (639 en jetons) 
+Place 3: psychoman59 (645 en jetons) 
+isa7031 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 7s]
+AAYA_432 : relance. 186 à 216 et est all-in.
+isa7031 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (186) sont retournés à AAYA_432.
+AAYA_432 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : AAYA_432 (bouton) a remporté (75)
+Siège 2 : isa7031 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257943260757 : Tournoi #3932699175, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 30/09/2025 9:03:08 CET [30/09/2025 3:03:08 ET]
+Table '3932699175 1' 3-max Siège #2 est au bouton.
+Place 1: AAYA_432 (261 en jetons) 
+Place 2: isa7031 (624 en jetons) 
+Place 3: psychoman59 (615 en jetons) 
+psychoman59 : met la petite blind. 15
+AAYA_432 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 4s]
+isa7031 : suit. 30
+psychoman59 : passe. 
+AAYA_432 : parole 
+*** FLOP *** [6c 3h 5d]
+AAYA_432 : parole 
+isa7031 : parole 
+*** TOURNANT *** [6c 3h 5d] [8h]
+AAYA_432 : parole 
+isa7031 : parole 
+*** RIVIÈRE *** [6c 3h 5d 8h] [Jd]
+AAYA_432 : parole 
+isa7031 : parole 
+*** ABATTAGE ***
+AAYA_432 : montre [8c Kd] (une paire de Huit)
+isa7031 : cache la main perdante. 
+AAYA_432 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Tableau [6c 3h 5d 8h Jd]
+Siège 1 : AAYA_432 (grosse blind) a montré [8c Kd] et a gagné (75) avec une paire de Huit
+Siège 2 : isa7031 (bouton) a caché la main perdante. [2h Qc]
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257943262024 : Tournoi #3932699175, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 30/09/2025 9:03:29 CET [30/09/2025 3:03:29 ET]
+Table '3932699175 1' 3-max Siège #3 est au bouton.
+Place 1: AAYA_432 (306 en jetons) 
+Place 2: isa7031 (594 en jetons) 
+Place 3: psychoman59 (600 en jetons) 
+AAYA_432 : met la petite blind. 15
+isa7031 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 6h]
+psychoman59 : passe. 
+AAYA_432 : suit. 15
+isa7031 : parole 
+*** FLOP *** [6c 8d 6s]
+AAYA_432 : mise. 30
+isa7031 : passe. 
+Personne n'a suivi. (30) sont retournés à AAYA_432.
+AAYA_432 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [6c 8d 6s]
+Siège 1 : AAYA_432 (petite blind) a remporté (60)
+Siège 2 : isa7031 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°257943262997 : Tournoi #3932699175, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 30/09/2025 9:03:45 CET [30/09/2025 3:03:45 ET]
+Table '3932699175 1' 3-max Siège #1 est au bouton.
+Place 1: AAYA_432 (336 en jetons) 
+Place 2: isa7031 (564 en jetons) 
+Place 3: psychoman59 (600 en jetons) 
+isa7031 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 9s]
+AAYA_432 : passe. 
+isa7031 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : AAYA_432 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : isa7031 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°257943263368 : Tournoi #3932699175, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 30/09/2025 9:03:51 CET [30/09/2025 3:03:51 ET]
+Table '3932699175 1' 3-max Siège #2 est au bouton.
+Place 1: AAYA_432 (336 en jetons) 
+Place 2: isa7031 (549 en jetons) 
+Place 3: psychoman59 (615 en jetons) 
+psychoman59 : met la petite blind. 15
+AAYA_432 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 5h]
+isa7031 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à AAYA_432.
+AAYA_432 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : AAYA_432 (grosse blind) a remporté (30)
+Siège 2 : isa7031 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257943263736 : Tournoi #3932699175, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 30/09/2025 9:03:57 CET [30/09/2025 3:03:57 ET]
+Table '3932699175 1' 3-max Siège #3 est au bouton.
+Place 1: AAYA_432 (351 en jetons) 
+Place 2: isa7031 (549 en jetons) 
+Place 3: psychoman59 (600 en jetons) 
+AAYA_432 : met la petite blind. 15
+isa7031 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 3c]
+psychoman59 : suit. 30
+AAYA_432 : passe. 
+isa7031 : parole 
+*** FLOP *** [Tc As 9h]
+isa7031 : parole 
+psychoman59 : mise. 75
+isa7031 : suit. 75
+*** TOURNANT *** [Tc As 9h] [Kc]
+isa7031 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Tc As 9h Kc] [8s]
+isa7031 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+isa7031 : montre [8h 7s] (une paire de Huit)
+psychoman59 : cache la main perdante. 
+isa7031 a remporté 225  lors du pot .
+*** SYNTHÈSE ***
+Pot total 225 | Commission 0 
+Tableau [Tc As 9h Kc 8s]
+Siège 1 : AAYA_432 (petite blind) s'est couché. avant Flop
+Siège 2 : isa7031 (grosse blind) a montré [8h 7s] et a gagné (225) avec une paire de Huit
+Siège 3 : psychoman59 (bouton) a caché la main perdante. [Qc 3c]
+
+
+
+Main PokerStars n°257943265644 : Tournoi #3932699175, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 30/09/2025 9:04:27 CET [30/09/2025 3:04:27 ET]
+Table '3932699175 1' 3-max Siège #1 est au bouton.
+Place 1: AAYA_432 (336 en jetons) 
+Place 2: isa7031 (669 en jetons) 
+Place 3: psychoman59 (495 en jetons) 
+isa7031 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Qh]
+AAYA_432 : relance. 30 à 60
+isa7031 : passe. 
+psychoman59 : suit. 30
+*** FLOP *** [9s Ts Qs]
+psychoman59 : parole 
+AAYA_432 : mise. 45
+psychoman59 : relance. 240 à 285
+AAYA_432 : suit. 231 et est all-in.
+Personne n'a suivi. (9) sont retournés à psychoman59.
+*** TOURNANT *** [9s Ts Qs] [Ac]
+*** RIVIÈRE *** [9s Ts Qs Ac] [9d]
+*** ABATTAGE ***
+psychoman59 : montre [8h Qh] (double paire, Dames et Neuf)
+AAYA_432 : montre [Ks 5s] (une couleur, hauteur Roi)
+AAYA_432 a remporté 687  lors du pot .
+*** SYNTHÈSE ***
+Pot total 687 | Commission 0 
+Tableau [9s Ts Qs Ac 9d]
+Siège 1 : AAYA_432 (bouton) a montré [Ks 5s] et a gagné (687) avec une couleur, hauteur Roi
+Siège 2 : isa7031 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [8h Qh] et a perdu avec double paire, Dames et Neuf
+
+
+
+Main PokerStars n°257943267718 : Tournoi #3932699175, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 30/09/2025 9:05:01 CET [30/09/2025 3:05:01 ET]
+Table '3932699175 1' 3-max Siège #2 est au bouton.
+Place 1: AAYA_432 (687 en jetons) 
+Place 2: isa7031 (654 en jetons) 
+Place 3: psychoman59 (159 en jetons) 
+psychoman59 : met la petite blind. 20
+AAYA_432 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 5s]
+isa7031 : suit. 40
+psychoman59 : passe. 
+AAYA_432 : parole 
+*** FLOP *** [6c 5c 5d]
+AAYA_432 : parole 
+isa7031 : parole 
+*** TOURNANT *** [6c 5c 5d] [2c]
+AAYA_432 : mise. 66
+isa7031 : passe. 
+Personne n'a suivi. (66) sont retournés à AAYA_432.
+AAYA_432 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [6c 5c 5d 2c]
+Siège 1 : AAYA_432 (grosse blind) a remporté (100)
+Siège 2 : isa7031 (bouton) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257943268787 : Tournoi #3932699175, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 30/09/2025 9:05:18 CET [30/09/2025 3:05:18 ET]
+Table '3932699175 1' 3-max Siège #3 est au bouton.
+Place 1: AAYA_432 (747 en jetons) 
+Place 2: isa7031 (614 en jetons) 
+Place 3: psychoman59 (139 en jetons) 
+AAYA_432 : met la petite blind. 20
+isa7031 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Js]
+psychoman59 : passe. 
+AAYA_432 : suit. 20
+isa7031 : parole 
+*** FLOP *** [8h 5h 7s]
+AAYA_432 : mise. 40
+isa7031 : suit. 40
+*** TOURNANT *** [8h 5h 7s] [8c]
+AAYA_432 : parole 
+isa7031 : parole 
+*** RIVIÈRE *** [8h 5h 7s 8c] [9c]
+AAYA_432 : parole 
+isa7031 : mise. 80
+AAYA_432 : passe. 
+Personne n'a suivi. (80) sont retournés à isa7031.
+isa7031 a remporté 160  lors du pot .
+isa7031 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [8h 5h 7s 8c 9c]
+Siège 1 : AAYA_432 (petite blind) s'est couché. sur le Rivière
+Siège 2 : isa7031 (grosse blind) a remporté (160)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°257943270697 : Tournoi #3932699175, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 30/09/2025 9:05:50 CET [30/09/2025 3:05:50 ET]
+Table '3932699175 1' 3-max Siège #1 est au bouton.
+Place 1: AAYA_432 (667 en jetons) 
+Place 2: isa7031 (694 en jetons) 
+Place 3: psychoman59 (139 en jetons) 
+isa7031 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 9s]
+AAYA_432 : relance. 40 à 80
+isa7031 : passe. 
+psychoman59 : relance. 59 à 139 et est all-in.
+AAYA_432 : suit. 59
+*** FLOP *** [Qs Jd 4c]
+*** TOURNANT *** [Qs Jd 4c] [Ah]
+*** RIVIÈRE *** [Qs Jd 4c Ah] [3s]
+*** ABATTAGE ***
+psychoman59 : montre [8h 9s] (Hauteur As)
+AAYA_432 : montre [7c Qd] (une paire de Dames)
+AAYA_432 a remporté 298  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 298 | Commission 0 
+Tableau [Qs Jd 4c Ah 3s]
+Siège 1 : AAYA_432 (bouton) a montré [7c Qd] et a gagné (298) avec une paire de Dames
+Siège 2 : isa7031 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [8h 9s] et a perdu avec Hauteur As
+
+
+

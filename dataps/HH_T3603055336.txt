@@ -1,0 +1,105 @@
+﻿Main PokerStars n°244209924191 : Tournoi #3603055336, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/06/2023 10:37:09 CET [11/06/2023 4:37:09 ET]
+Table '3603055336 1' 3-max Siège #1 est au bouton.
+Place 1: arthurdp (300 en jetons) 
+Place 2: gilAK140 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+gilAK140 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Tc]
+arthurdp : passe. 
+gilAK140 : suit. 10
+psychoman59 : relance. 280 à 300 et est all-in.
+gilAK140 : passe. 
+Personne n'a suivi. (280) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : arthurdp (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : gilAK140 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°244209926496 : Tournoi #3603055336, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/06/2023 10:37:28 CET [11/06/2023 4:37:28 ET]
+Table '3603055336 1' 3-max Siège #2 est au bouton.
+Place 1: arthurdp (300 en jetons) 
+Place 2: gilAK140 (280 en jetons) 
+Place 3: psychoman59 (320 en jetons) 
+psychoman59 : met la petite blind. 10
+arthurdp : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 6h]
+gilAK140 : suit. 20
+psychoman59 : suit. 10
+arthurdp : parole 
+*** FLOP *** [Ah 4h Ac]
+psychoman59 : parole 
+arthurdp : mise. 280 et est all-in.
+gilAK140 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (280) sont retournés à arthurdp.
+arthurdp a remporté 60  lors du pot .
+arthurdp : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ah 4h Ac]
+Siège 1 : arthurdp (grosse blind) a remporté (60)
+Siège 2 : gilAK140 (bouton) s'est couché. sur le Flop
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°244209928328 : Tournoi #3603055336, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/06/2023 10:37:44 CET [11/06/2023 4:37:44 ET]
+Table '3603055336 1' 3-max Siège #3 est au bouton.
+Place 1: arthurdp (340 en jetons) 
+Place 2: gilAK140 (260 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+arthurdp : met la petite blind. 10
+gilAK140 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Ts]
+psychoman59 : relance. 280 à 300 et est all-in.
+arthurdp : passe. 
+gilAK140 : passe. 
+Personne n'a suivi. (280) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : arthurdp (petite blind) s'est couché. avant Flop
+Siège 2 : gilAK140 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a remporté (50)
+
+
+
+Main PokerStars n°244209930195 : Tournoi #3603055336, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/06/2023 10:37:59 CET [11/06/2023 4:37:59 ET]
+Table '3603055336 1' 3-max Siège #1 est au bouton.
+Place 1: arthurdp (330 en jetons) 
+Place 2: gilAK140 (240 en jetons) 
+Place 3: psychoman59 (330 en jetons) 
+gilAK140 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 9d]
+arthurdp : relance. 310 à 330 et est all-in.
+gilAK140 : passe. 
+psychoman59 : suit. 310 et est all-in.
+*** FLOP *** [9h 8h Qh]
+*** TOURNANT *** [9h 8h Qh] [8s]
+*** RIVIÈRE *** [9h 8h Qh 8s] [2d]
+*** ABATTAGE ***
+psychoman59 : montre [Ah 9d] (double paire, Neuf et Huit)
+arthurdp : montre [Ts Qc] (double paire, Dames et Huit)
+arthurdp a remporté 670  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 670 | Commission 0 
+Tableau [9h 8h Qh 8s 2d]
+Siège 1 : arthurdp (bouton) a montré [Ts Qc] et a gagné (670) avec double paire, Dames et Huit
+Siège 2 : gilAK140 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [Ah 9d] et a perdu avec double paire, Neuf et Huit
+
+
+

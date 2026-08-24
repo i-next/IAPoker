@@ -1,0 +1,120 @@
+﻿Main PokerStars n°244953106183 : Tournoi #3620849380, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 22/07/2023 12:10:41 CET [22/07/2023 6:10:41 ET]
+Table '3620849380 1' 3-max Siège #1 est au bouton.
+Place 1: michel78941 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: Rouli91 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+Rouli91 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Ts]
+michel78941 : suit. 20
+psychoman59 : passe. 
+Rouli91 : parole 
+*** FLOP *** [Jd 4d 2d]
+Rouli91 : parole 
+michel78941 : parole 
+*** TOURNANT *** [Jd 4d 2d] [3h]
+Rouli91 : parole 
+michel78941 : mise. 50
+Rouli91 : passe. 
+Personne n'a suivi. (50) sont retournés à michel78941.
+michel78941 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [Jd 4d 2d 3h]
+Siège 1 : michel78941 (bouton) a remporté (50)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Rouli91 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°244953108840 : Tournoi #3620849380, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 22/07/2023 12:10:58 CET [22/07/2023 6:10:58 ET]
+Table '3620849380 1' 3-max Siège #2 est au bouton.
+Place 1: michel78941 (330 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: Rouli91 (280 en jetons) 
+Rouli91 : met la petite blind. 10
+michel78941 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 2h]
+psychoman59 : passe. 
+Rouli91 : suit. 10
+michel78941 : parole 
+*** FLOP *** [4h Ah Ks]
+Rouli91 : mise. 20
+michel78941 : suit. 20
+*** TOURNANT *** [4h Ah Ks] [9s]
+Rouli91 : mise. 20
+michel78941 : suit. 20
+*** RIVIÈRE *** [4h Ah Ks 9s] [5s]
+Rouli91 : parole 
+michel78941 : mise. 120
+Rouli91 : passe. 
+Personne n'a suivi. (120) sont retournés à michel78941.
+michel78941 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [4h Ah Ks 9s 5s]
+Siège 1 : michel78941 (grosse blind) a remporté (120)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Rouli91 (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°244953113253 : Tournoi #3620849380, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 22/07/2023 12:11:28 CET [22/07/2023 6:11:28 ET]
+Table '3620849380 1' 3-max Siège #3 est au bouton.
+Place 1: michel78941 (390 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: Rouli91 (220 en jetons) 
+michel78941 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Kc]
+Rouli91 : relance. 200 à 220 et est all-in.
+michel78941 : passe. 
+psychoman59 : suit. 200
+*** FLOP *** [5c 9h 4h]
+*** TOURNANT *** [5c 9h 4h] [5s]
+*** RIVIÈRE *** [5c 9h 4h 5s] [8s]
+*** ABATTAGE ***
+psychoman59 : montre [Jh Kc] (une paire de Cinq)
+Rouli91 : montre [Jc 9c] (double paire, Neuf et Cinq)
+Rouli91 a remporté 450  lors du pot .
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Tableau [5c 9h 4h 5s 8s]
+Siège 1 : michel78941 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a montré [Jh Kc] et a perdu avec une paire de Cinq
+Siège 3 : Rouli91 (bouton) a montré [Jc 9c] et a gagné (450) avec double paire, Neuf et Cinq
+
+
+
+Main PokerStars n°244953117094 : Tournoi #3620849380, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 22/07/2023 12:11:55 CET [22/07/2023 6:11:55 ET]
+Table '3620849380 1' 3-max Siège #1 est au bouton.
+Place 1: michel78941 (380 en jetons) 
+Place 2: psychoman59 (70 en jetons) 
+Place 3: Rouli91 (450 en jetons) 
+psychoman59 : met la petite blind. 15
+Rouli91 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Qs]
+michel78941 : passe. 
+psychoman59 : relance. 40 à 70 et est all-in.
+Rouli91 : suit. 40
+*** FLOP *** [Ks 8d 3h]
+*** TOURNANT *** [Ks 8d 3h] [7s]
+*** RIVIÈRE *** [Ks 8d 3h 7s] [6h]
+*** ABATTAGE ***
+psychoman59 : montre [Th Qs] (Hauteur Roi)
+Rouli91 : montre [Kh 3d] (double paire, Rois et Trois)
+Rouli91 a remporté 140  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [Ks 8d 3h 7s 6h]
+Siège 1 : michel78941 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [Th Qs] et a perdu avec Hauteur Roi
+Siège 3 : Rouli91 (grosse blind) a montré [Kh 3d] et a gagné (140) avec double paire, Rois et Trois
+
+
+

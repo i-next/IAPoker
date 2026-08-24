@@ -1,0 +1,92 @@
+﻿Main PokerStars n°242577664051 : Tournoi #3565105371, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/03/2023 22:39:34 CET [20/03/2023 17:39:34 ET]
+Table '3565105371 1' 3-max Siège #1 est au bouton.
+Place 1: asofpic22 (300 en jetons) 
+Place 2: stanesniff 95@ (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+stanesniff 95@ : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 8d]
+asofpic22 : relance. 20 à 40
+stanesniff 95@ : suit. 30
+psychoman59 : suit. 20
+*** FLOP *** [5d Qh 4h]
+stanesniff 95@ : parole 
+psychoman59 : parole 
+asofpic22 : mise. 60
+stanesniff 95@ : suit. 60
+psychoman59 : suit. 60
+*** TOURNANT *** [5d Qh 4h] [2s]
+stanesniff 95@ : parole 
+psychoman59 : parole 
+asofpic22 : parole 
+*** RIVIÈRE *** [5d Qh 4h 2s] [Qd]
+stanesniff 95@ : parole 
+psychoman59 : parole 
+asofpic22 : parole 
+*** ABATTAGE ***
+stanesniff 95@ : montre [2d 3d] (double paire, Dames et Deux)
+psychoman59 : cache la main perdante. 
+asofpic22 : cache la main perdante. 
+stanesniff 95@ a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [5d Qh 4h 2s Qd]
+Siège 1 : asofpic22 (bouton) a caché la main perdante. [Kd Ad]
+Siège 2 : stanesniff 95@ (petite blind) a montré [2d 3d] et a gagné (300) avec double paire, Dames et Deux
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [6d 8d]
+
+
+
+Main PokerStars n°242577682891 : Tournoi #3565105371, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/03/2023 22:40:19 CET [20/03/2023 17:40:19 ET]
+Table '3565105371 1' 3-max Siège #2 est au bouton.
+Place 1: asofpic22 (200 en jetons) 
+Place 2: stanesniff 95@ (500 en jetons) 
+Place 3: psychoman59 (200 en jetons) 
+psychoman59 : met la petite blind. 10
+asofpic22 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Jd]
+stanesniff 95@ : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à asofpic22.
+asofpic22 a remporté 20  lors du pot .
+asofpic22 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : asofpic22 (grosse blind) a remporté (20)
+Siège 2 : stanesniff 95@ (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242577685341 : Tournoi #3565105371, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/03/2023 22:40:26 CET [20/03/2023 17:40:26 ET]
+Table '3565105371 1' 3-max Siège #3 est au bouton.
+Place 1: asofpic22 (210 en jetons) 
+Place 2: stanesniff 95@ (500 en jetons) 
+Place 3: psychoman59 (190 en jetons) 
+asofpic22 : met la petite blind. 10
+stanesniff 95@ : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Ah]
+psychoman59 : relance. 170 à 190 et est all-in.
+asofpic22 : relance. 20 à 210 et est all-in.
+stanesniff 95@ : passe. 
+Personne n'a suivi. (20) sont retournés à asofpic22.
+*** FLOP *** [9h 6c Kh]
+*** TOURNANT *** [9h 6c Kh] [8h]
+*** RIVIÈRE *** [9h 6c Kh 8h] [3s]
+*** ABATTAGE ***
+asofpic22 : montre [Kd Jd] (une paire de Rois)
+psychoman59 : montre [5s Ah] (Hauteur As)
+asofpic22 a remporté 400  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [9h 6c Kh 8h 3s]
+Siège 1 : asofpic22 (petite blind) a montré [Kd Jd] et a gagné (400) avec une paire de Rois
+Siège 2 : stanesniff 95@ (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a montré [5s Ah] et a perdu avec Hauteur As
+
+
+

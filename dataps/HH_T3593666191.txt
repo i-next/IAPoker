@@ -1,0 +1,288 @@
+﻿Main PokerStars n°243796270584 : Tournoi #3593666191, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/05/2023 8:23:20 CET [20/05/2023 2:23:20 ET]
+Table '3593666191 1' 3-max Siège #1 est au bouton.
+Place 1: yann.pepitto (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: Hoci59 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+Hoci59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 8s]
+yann.pepitto : passe. 
+psychoman59 : suit. 10
+Hoci59 : parole 
+*** FLOP *** [8c 5c 4s]
+psychoman59 : mise. 40
+Hoci59 : suit. 40
+*** TOURNANT *** [8c 5c 4s] [3d]
+psychoman59 : mise. 60
+Hoci59 : suit. 60
+*** RIVIÈRE *** [8c 5c 4s 3d] [4d]
+psychoman59 : mise. 120
+Hoci59 : suit. 120
+*** ABATTAGE ***
+psychoman59 : montre [Qs 8s] (double paire, Huit et Quatre)
+Hoci59 : cache la main perdante. 
+psychoman59 a remporté 480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [8c 5c 4s 3d 4d]
+Siège 1 : yann.pepitto (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [Qs 8s] et a gagné (480) avec double paire, Huit et Quatre
+Siège 3 : Hoci59 (grosse blind) a caché la main perdante. [Qh 5d]
+
+
+
+Main PokerStars n°243796273282 : Tournoi #3593666191, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/05/2023 8:23:44 CET [20/05/2023 2:23:44 ET]
+Table '3593666191 1' 3-max Siège #2 est au bouton.
+Place 1: yann.pepitto (300 en jetons) 
+Place 2: psychoman59 (540 en jetons) 
+Place 3: Hoci59 (60 en jetons) 
+Hoci59 : met la petite blind. 10
+yann.pepitto : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Tc]
+psychoman59 : passe. 
+Hoci59 : relance. 40 à 60 et est all-in.
+yann.pepitto : suit. 40
+*** FLOP *** [3c 8s 8d]
+*** TOURNANT *** [3c 8s 8d] [Kc]
+*** RIVIÈRE *** [3c 8s 8d Kc] [As]
+*** ABATTAGE ***
+Hoci59 : montre [Ad 5h] (double paire, As et Huit)
+yann.pepitto : montre [Ah Qh] (double paire, As et Huit)
+Hoci59 a remporté 60  lors du pot .
+yann.pepitto a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [3c 8s 8d Kc As]
+Siège 1 : yann.pepitto (grosse blind) a montré [Ah Qh] et a gagné (60) avec double paire, As et Huit
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Hoci59 (petite blind) a montré [Ad 5h] et a gagné (60) avec double paire, As et Huit
+
+
+
+Main PokerStars n°243796275087 : Tournoi #3593666191, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/05/2023 8:24:01 CET [20/05/2023 2:24:01 ET]
+Table '3593666191 1' 3-max Siège #3 est au bouton.
+Place 1: yann.pepitto (300 en jetons) 
+Place 2: psychoman59 (540 en jetons) 
+Place 3: Hoci59 (60 en jetons) 
+yann.pepitto : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 5d]
+Hoci59 : relance. 40 à 60 et est all-in.
+yann.pepitto : suit. 50
+psychoman59 : passe. 
+*** FLOP *** [6h 7h 5c]
+*** TOURNANT *** [6h 7h 5c] [Ks]
+*** RIVIÈRE *** [6h 7h 5c Ks] [Tc]
+*** ABATTAGE ***
+yann.pepitto : montre [Kh 8d] (une paire de Rois)
+Hoci59 : montre [5s 5h] (un brelan de Cinq)
+Hoci59 a remporté 140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [6h 7h 5c Ks Tc]
+Siège 1 : yann.pepitto (petite blind) a montré [Kh 8d] et a perdu avec une paire de Rois
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : Hoci59 (bouton) a montré [5s 5h] et a gagné (140) avec un brelan de Cinq
+
+
+
+Main PokerStars n°243796276754 : Tournoi #3593666191, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/05/2023 8:24:15 CET [20/05/2023 2:24:15 ET]
+Table '3593666191 1' 3-max Siège #1 est au bouton.
+Place 1: yann.pepitto (240 en jetons) 
+Place 2: psychoman59 (520 en jetons) 
+Place 3: Hoci59 (140 en jetons) 
+psychoman59 : met la petite blind. 10
+Hoci59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Jc]
+yann.pepitto : passe. 
+psychoman59 : relance. 40 à 60
+Hoci59 : suit. 40
+*** FLOP *** [4h Tc Kc]
+psychoman59 : mise. 120
+Hoci59 : suit. 80 et est all-in.
+Personne n'a suivi. (40) sont retournés à psychoman59.
+*** TOURNANT *** [4h Tc Kc] [Qc]
+*** RIVIÈRE *** [4h Tc Kc Qc] [3d]
+*** ABATTAGE ***
+psychoman59 : montre [As Jc] (une suite, Dix à As)
+Hoci59 : montre [Js 4s] (une paire de Quatre)
+psychoman59 a remporté 280  lors du pot .
+Hoci59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Tableau [4h Tc Kc Qc 3d]
+Siège 1 : yann.pepitto (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [As Jc] et a gagné (280) avec une suite, Dix à As
+Siège 3 : Hoci59 (grosse blind) a montré [Js 4s] et a perdu avec une paire de Quatre
+
+
+
+Main PokerStars n°243796279408 : Tournoi #3593666191, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 20/05/2023 8:24:39 CET [20/05/2023 2:24:39 ET]
+Table '3593666191 1' 3-max Siège #2 est au bouton.
+Place 1: yann.pepitto (240 en jetons) 
+Place 2: psychoman59 (660 en jetons) 
+psychoman59 : met la petite blind. 15
+yann.pepitto : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Qh]
+psychoman59 : relance. 30 à 60
+yann.pepitto : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : yann.pepitto (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°243796280338 : Tournoi #3593666191, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 20/05/2023 8:24:47 CET [20/05/2023 2:24:47 ET]
+Table '3593666191 1' 3-max Siège #1 est au bouton.
+Place 1: yann.pepitto (210 en jetons) 
+Place 2: psychoman59 (690 en jetons) 
+yann.pepitto : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 7d]
+yann.pepitto : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : yann.pepitto (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°243796280903 : Tournoi #3593666191, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 20/05/2023 8:24:52 CET [20/05/2023 2:24:52 ET]
+Table '3593666191 1' 3-max Siège #2 est au bouton.
+Place 1: yann.pepitto (195 en jetons) 
+Place 2: psychoman59 (705 en jetons) 
+psychoman59 : met la petite blind. 15
+yann.pepitto : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 2s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à yann.pepitto.
+yann.pepitto a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : yann.pepitto (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243796281390 : Tournoi #3593666191, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 20/05/2023 8:24:56 CET [20/05/2023 2:24:56 ET]
+Table '3593666191 1' 3-max Siège #1 est au bouton.
+Place 1: yann.pepitto (210 en jetons) 
+Place 2: psychoman59 (690 en jetons) 
+yann.pepitto : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 9d]
+yann.pepitto : suit. 15
+psychoman59 : parole 
+*** FLOP *** [6h 6d Ac]
+psychoman59 : parole 
+yann.pepitto : mise. 180 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (180) sont retournés à yann.pepitto.
+yann.pepitto a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [6h 6d Ac]
+Siège 1 : yann.pepitto (bouton) (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°243796282943 : Tournoi #3593666191, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 20/05/2023 8:25:10 CET [20/05/2023 2:25:10 ET]
+Table '3593666191 1' 3-max Siège #2 est au bouton.
+Place 1: yann.pepitto (240 en jetons) 
+Place 2: psychoman59 (660 en jetons) 
+psychoman59 : met la petite blind. 15
+yann.pepitto : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 6d]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à yann.pepitto.
+yann.pepitto a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : yann.pepitto (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243796283506 : Tournoi #3593666191, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 20/05/2023 8:25:15 CET [20/05/2023 2:25:15 ET]
+Table '3593666191 1' 3-max Siège #1 est au bouton.
+Place 1: yann.pepitto (255 en jetons) 
+Place 2: psychoman59 (645 en jetons) 
+yann.pepitto : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 5s]
+yann.pepitto : relance. 225 à 255 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (225) sont retournés à yann.pepitto.
+yann.pepitto a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : yann.pepitto (bouton) (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243796284738 : Tournoi #3593666191, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 20/05/2023 8:25:26 CET [20/05/2023 2:25:26 ET]
+Table '3593666191 1' 3-max Siège #2 est au bouton.
+Place 1: yann.pepitto (285 en jetons) 
+Place 2: psychoman59 (615 en jetons) 
+psychoman59 : met la petite blind. 20
+yann.pepitto : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 3s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à yann.pepitto.
+yann.pepitto a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : yann.pepitto (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243796285218 : Tournoi #3593666191, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 20/05/2023 8:25:31 CET [20/05/2023 2:25:31 ET]
+Table '3593666191 1' 3-max Siège #1 est au bouton.
+Place 1: yann.pepitto (305 en jetons) 
+Place 2: psychoman59 (595 en jetons) 
+yann.pepitto : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Kd]
+yann.pepitto : suit. 20
+psychoman59 : relance. 555 à 595 et est all-in.
+yann.pepitto : suit. 265 et est all-in.
+Personne n'a suivi. (290) sont retournés à psychoman59.
+*** FLOP *** [7c 8d 9d]
+*** TOURNANT *** [7c 8d 9d] [5h]
+*** RIVIÈRE *** [7c 8d 9d 5h] [Js]
+*** ABATTAGE ***
+psychoman59 : montre [6h Kd] (une suite, Cinq à Neuf)
+yann.pepitto : montre [Ad 3s] (Hauteur As)
+psychoman59 a remporté 610  lors du pot .
+yann.pepitto a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 610 | Commission 0 
+Tableau [7c 8d 9d 5h Js]
+Siège 1 : yann.pepitto (bouton) (petite blind) a montré [Ad 3s] et a perdu avec Hauteur As
+Siège 2 : psychoman59 (grosse blind) a montré [6h Kd] et a gagné (610) avec une suite, Cinq à Neuf
+
+
+

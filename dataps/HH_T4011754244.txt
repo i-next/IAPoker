@@ -1,0 +1,580 @@
+﻿Main PokerStars n°261265408908 : Tournoi #4011754244, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 27/06/2026 14:37:03 CET [27/06/2026 8:37:03 ET]
+Table '4011754244 1' 3-max Siège #1 est au bouton.
+Place 1: simaof114 (500 en jetons) 
+Place 2: nando7247 (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+nando7247 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 4c]
+simaof114 : suit. 20
+nando7247 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [3s 9s 6d]
+nando7247 : parole 
+psychoman59 : parole 
+simaof114 : parole 
+*** TOURNANT *** [3s 9s 6d] [3d]
+nando7247 : parole 
+psychoman59 : parole 
+simaof114 : parole 
+*** RIVIÈRE *** [3s 9s 6d 3d] [7s]
+nando7247 : parole 
+psychoman59 : parole 
+simaof114 : mise. 30
+nando7247 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à simaof114.
+simaof114 a remporté 60  lors du pot .
+simaof114 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [3s 9s 6d 3d 7s]
+Siège 1 : simaof114 (bouton) a remporté (60)
+Siège 2 : nando7247 (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°261265413393 : Tournoi #4011754244, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 27/06/2026 14:37:43 CET [27/06/2026 8:37:43 ET]
+Table '4011754244 1' 3-max Siège #2 est au bouton.
+Place 1: simaof114 (540 en jetons) 
+Place 2: nando7247 (480 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 10
+simaof114 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 7c]
+nando7247 : relance. 40 à 60
+psychoman59 : passe. 
+simaof114 : suit. 40
+*** FLOP *** [8d 6c 7s]
+simaof114 : mise. 130
+nando7247 : suit. 130
+*** TOURNANT *** [8d 6c 7s] [2d]
+simaof114 : mise. 350 et est all-in.
+nando7247 : suit. 290 et est all-in.
+Personne n'a suivi. (60) sont retournés à simaof114.
+*** RIVIÈRE *** [8d 6c 7s 2d] [Kd]
+*** ABATTAGE ***
+simaof114 : montre [9c 4h] (Hauteur Roi)
+nando7247 : montre [Ad Tc] (Hauteur As)
+nando7247 a remporté 970  lors du pot .
+*** SYNTHÈSE ***
+Pot total 970 | Commission 0 
+Tableau [8d 6c 7s 2d Kd]
+Siège 1 : simaof114 (grosse blind) a montré [9c 4h] et a perdu avec Hauteur Roi
+Siège 2 : nando7247 (bouton) a montré [Ad Tc] et a gagné (970) avec Hauteur As
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261265416246 : Tournoi #4011754244, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 27/06/2026 14:38:09 CET [27/06/2026 8:38:09 ET]
+Table '4011754244 1' 3-max Siège #3 est au bouton.
+Place 1: simaof114 (60 en jetons) 
+Place 2: nando7247 (970 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+simaof114 : met la petite blind. 10
+nando7247 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 9h]
+psychoman59 : passe. 
+simaof114 : relance. 40 à 60 et est all-in.
+nando7247 : passe. 
+Personne n'a suivi. (40) sont retournés à simaof114.
+simaof114 a remporté 40  lors du pot .
+simaof114 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : simaof114 (petite blind) a remporté (40)
+Siège 2 : nando7247 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261265417440 : Tournoi #4011754244, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 27/06/2026 14:38:19 CET [27/06/2026 8:38:19 ET]
+Table '4011754244 1' 3-max Siège #1 est au bouton.
+Place 1: simaof114 (80 en jetons) 
+Place 2: nando7247 (950 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+nando7247 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Qs]
+simaof114 : relance. 60 à 80 et est all-in.
+nando7247 : passe. 
+psychoman59 : suit. 60
+*** FLOP *** [6s 5h 3s]
+*** TOURNANT *** [6s 5h 3s] [3d]
+*** RIVIÈRE *** [6s 5h 3s 3d] [Td]
+*** ABATTAGE ***
+psychoman59 : montre [2s Qs] (une paire de Trois)
+simaof114 : montre [Th Jh] (double paire, Dix et Trois)
+simaof114 a remporté 170  lors du pot .
+*** SYNTHÈSE ***
+Pot total 170 | Commission 0 
+Tableau [6s 5h 3s 3d Td]
+Siège 1 : simaof114 (bouton) a montré [Th Jh] et a gagné (170) avec double paire, Dix et Trois
+Siège 2 : nando7247 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [2s Qs] et a perdu avec une paire de Trois
+
+
+
+Main PokerStars n°261265419121 : Tournoi #4011754244, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 27/06/2026 14:38:34 CET [27/06/2026 8:38:34 ET]
+Table '4011754244 1' 3-max Siège #2 est au bouton.
+Place 1: simaof114 (170 en jetons) 
+Place 2: nando7247 (940 en jetons) 
+Place 3: psychoman59 (390 en jetons) 
+psychoman59 : met la petite blind. 10
+simaof114 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s As]
+nando7247 : suit. 20
+psychoman59 : suit. 10
+simaof114 : parole 
+*** FLOP *** [4c 6s 7h]
+psychoman59 : parole 
+simaof114 : parole 
+nando7247 : mise. 60
+psychoman59 : passe. 
+simaof114 : relance. 60 à 120
+nando7247 : relance. 60 à 180
+simaof114 : suit. 30 et est all-in.
+Personne n'a suivi. (30) sont retournés à nando7247.
+*** TOURNANT *** [4c 6s 7h] [8h]
+*** RIVIÈRE *** [4c 6s 7h 8h] [3h]
+*** ABATTAGE ***
+simaof114 : montre [2h 4h] (une couleur, hauteur Huit)
+nando7247 : montre [Qc 7d] (une paire de Sept)
+simaof114 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [4c 6s 7h 8h 3h]
+Siège 1 : simaof114 (grosse blind) a montré [2h 4h] et a gagné (360) avec une couleur, hauteur Huit
+Siège 2 : nando7247 (bouton) a montré [Qc 7d] et a perdu avec une paire de Sept
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261265422531 : Tournoi #4011754244, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 27/06/2026 14:39:04 CET [27/06/2026 8:39:04 ET]
+Table '4011754244 1' 3-max Siège #3 est au bouton.
+Place 1: simaof114 (360 en jetons) 
+Place 2: nando7247 (770 en jetons) 
+Place 3: psychoman59 (370 en jetons) 
+simaof114 : met la petite blind. 10
+nando7247 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 5c]
+psychoman59 : passe. 
+simaof114 : suit. 10
+nando7247 : parole 
+*** FLOP *** [7c Jd Th]
+simaof114 : parole 
+nando7247 : parole 
+*** TOURNANT *** [7c Jd Th] [8c]
+simaof114 : parole 
+nando7247 : parole 
+*** RIVIÈRE *** [7c Jd Th 8c] [Kh]
+simaof114 : parole 
+nando7247 : parole 
+*** ABATTAGE ***
+simaof114 : montre [Qh 6s] (Hauteur Roi)
+nando7247 : cache la main perdante. 
+simaof114 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [7c Jd Th 8c Kh]
+Siège 1 : simaof114 (petite blind) a montré [Qh 6s] et a gagné (40) avec Hauteur Roi
+Siège 2 : nando7247 (grosse blind) a caché la main perdante. [3h 2c]
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261265425401 : Tournoi #4011754244, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 27/06/2026 14:39:29 CET [27/06/2026 8:39:29 ET]
+Table '4011754244 1' 3-max Siège #1 est au bouton.
+Place 1: simaof114 (380 en jetons) 
+Place 2: nando7247 (750 en jetons) 
+Place 3: psychoman59 (370 en jetons) 
+nando7247 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 7h]
+simaof114 : suit. 20
+nando7247 : passe. 
+psychoman59 : parole 
+*** FLOP *** [7s 4h Jc]
+psychoman59 : parole 
+simaof114 : parole 
+*** TOURNANT *** [7s 4h Jc] [4d]
+psychoman59 : mise. 50
+simaof114 : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [7s 4h Jc 4d]
+Siège 1 : simaof114 (bouton) s'est couché. sur le Tournant
+Siège 2 : nando7247 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (50)
+
+
+
+Main PokerStars n°261265427840 : Tournoi #4011754244, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 27/06/2026 14:39:50 CET [27/06/2026 8:39:50 ET]
+Table '4011754244 1' 3-max Siège #2 est au bouton.
+Place 1: simaof114 (360 en jetons) 
+Place 2: nando7247 (740 en jetons) 
+Place 3: psychoman59 (400 en jetons) 
+psychoman59 : met la petite blind. 10
+simaof114 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 4s]
+nando7247 : suit. 20
+psychoman59 : passe. 
+simaof114 : parole 
+*** FLOP *** [2c 6s 9h]
+simaof114 : parole 
+nando7247 : parole 
+*** TOURNANT *** [2c 6s 9h] [Ts]
+simaof114 : parole 
+nando7247 : parole 
+*** RIVIÈRE *** [2c 6s 9h Ts] [8h]
+simaof114 : parole 
+nando7247 : parole 
+*** ABATTAGE ***
+simaof114 : montre [Ks 2h] (une paire de Deux)
+nando7247 : cache la main perdante. 
+simaof114 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [2c 6s 9h Ts 8h]
+Siège 1 : simaof114 (grosse blind) a montré [Ks 2h] et a gagné (50) avec une paire de Deux
+Siège 2 : nando7247 (bouton) a caché la main perdante. [Kd 3d]
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261265430595 : Tournoi #4011754244, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 27/06/2026 14:40:14 CET [27/06/2026 8:40:14 ET]
+Table '4011754244 1' 3-max Siège #3 est au bouton.
+Place 1: simaof114 (390 en jetons) 
+Place 2: nando7247 (720 en jetons) 
+Place 3: psychoman59 (390 en jetons) 
+simaof114 : met la petite blind. 15
+nando7247 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 6s]
+psychoman59 : passe. 
+simaof114 : relance. 360 à 390 et est all-in.
+nando7247 : passe. 
+Personne n'a suivi. (360) sont retournés à simaof114.
+simaof114 a remporté 60  lors du pot .
+simaof114 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : simaof114 (petite blind) a remporté (60)
+Siège 2 : nando7247 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261265431712 : Tournoi #4011754244, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 27/06/2026 14:40:24 CET [27/06/2026 8:40:24 ET]
+Table '4011754244 1' 3-max Siège #1 est au bouton.
+Place 1: simaof114 (420 en jetons) 
+Place 2: nando7247 (690 en jetons) 
+Place 3: psychoman59 (390 en jetons) 
+nando7247 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 7d]
+simaof114 : suit. 30
+nando7247 : passe. 
+psychoman59 : parole 
+*** FLOP *** [5c Ac 3s]
+psychoman59 : parole 
+simaof114 : mise. 75
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à simaof114.
+simaof114 a remporté 75  lors du pot .
+simaof114 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Tableau [5c Ac 3s]
+Siège 1 : simaof114 (bouton) a remporté (75)
+Siège 2 : nando7247 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261265433398 : Tournoi #4011754244, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 27/06/2026 14:40:39 CET [27/06/2026 8:40:39 ET]
+Table '4011754244 1' 3-max Siège #2 est au bouton.
+Place 1: simaof114 (465 en jetons) 
+Place 2: nando7247 (675 en jetons) 
+Place 3: psychoman59 (360 en jetons) 
+psychoman59 : met la petite blind. 15
+simaof114 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Kd]
+nando7247 : passe. 
+psychoman59 : relance. 330 à 360 et est all-in.
+simaof114 : suit. 330
+*** FLOP *** [6c Js 8c]
+*** TOURNANT *** [6c Js 8c] [Jd]
+*** RIVIÈRE *** [6c Js 8c Jd] [6h]
+*** ABATTAGE ***
+psychoman59 : montre [Ts Kd] (double paire, Valets et Six)
+simaof114 : montre [Ks Qd] (double paire, Valets et Six)
+psychoman59 a remporté 360  lors du pot .
+simaof114 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 720 | Commission 0 
+Tableau [6c Js 8c Jd 6h]
+Siège 1 : simaof114 (grosse blind) a montré [Ks Qd] et a gagné (360) avec double paire, Valets et Six
+Siège 2 : nando7247 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [Ts Kd] et a gagné (360) avec double paire, Valets et Six
+
+
+
+Main PokerStars n°261265435359 : Tournoi #4011754244, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 27/06/2026 14:40:56 CET [27/06/2026 8:40:56 ET]
+Table '4011754244 1' 3-max Siège #3 est au bouton.
+Place 1: simaof114 (465 en jetons) 
+Place 2: nando7247 (675 en jetons) 
+Place 3: psychoman59 (360 en jetons) 
+simaof114 : met la petite blind. 15
+nando7247 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 2c]
+psychoman59 : passe. 
+simaof114 : relance. 90 à 120
+nando7247 : suit. 90
+*** FLOP *** [6c 6d Ah]
+simaof114 : mise. 240
+nando7247 : passe. 
+Personne n'a suivi. (240) sont retournés à simaof114.
+simaof114 a remporté 240  lors du pot .
+simaof114 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [6c 6d Ah]
+Siège 1 : simaof114 (petite blind) a remporté (240)
+Siège 2 : nando7247 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261265436944 : Tournoi #4011754244, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 27/06/2026 14:41:11 CET [27/06/2026 8:41:11 ET]
+Table '4011754244 1' 3-max Siège #1 est au bouton.
+Place 1: simaof114 (585 en jetons) 
+Place 2: nando7247 (555 en jetons) 
+Place 3: psychoman59 (360 en jetons) 
+nando7247 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Kh]
+simaof114 : relance. 555 à 585 et est all-in.
+nando7247 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (555) sont retournés à simaof114.
+simaof114 a remporté 75  lors du pot .
+simaof114 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : simaof114 (bouton) a remporté (75)
+Siège 2 : nando7247 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261265437904 : Tournoi #4011754244, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 27/06/2026 14:41:19 CET [27/06/2026 8:41:19 ET]
+Table '4011754244 1' 3-max Siège #2 est au bouton.
+Place 1: simaof114 (630 en jetons) 
+Place 2: nando7247 (540 en jetons) 
+Place 3: psychoman59 (330 en jetons) 
+psychoman59 : met la petite blind. 15
+simaof114 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Ad]
+nando7247 : relance. 30 à 60
+psychoman59 : relance. 270 à 330 et est all-in.
+simaof114 : passe. 
+nando7247 : passe. 
+Personne n'a suivi. (270) sont retournés à psychoman59.
+psychoman59 a remporté 150  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Siège 1 : simaof114 (grosse blind) s'est couché. avant Flop
+Siège 2 : nando7247 (bouton) s'est couché. avant Flop
+Siège 3 : psychoman59 (petite blind) a remporté (150)
+
+
+
+Main PokerStars n°261265438929 : Tournoi #4011754244, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 27/06/2026 14:41:28 CET [27/06/2026 8:41:28 ET]
+Table '4011754244 1' 3-max Siège #3 est au bouton.
+Place 1: simaof114 (600 en jetons) 
+Place 2: nando7247 (480 en jetons) 
+Place 3: psychoman59 (420 en jetons) 
+simaof114 : met la petite blind. 15
+nando7247 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Ad]
+psychoman59 : suit. 30
+simaof114 : relance. 90 à 120
+nando7247 : relance. 90 à 210
+psychoman59 : passe. 
+simaof114 : relance. 390 à 600 et est all-in.
+nando7247 : suit. 270 et est all-in.
+Personne n'a suivi. (120) sont retournés à simaof114.
+*** FLOP *** [3s Qs Kc]
+*** TOURNANT *** [3s Qs Kc] [2h]
+*** RIVIÈRE *** [3s Qs Kc 2h] [3c]
+*** ABATTAGE ***
+simaof114 : montre [9d Qd] (double paire, Dames et Trois)
+nando7247 : montre [Td Ts] (double paire, Dix et Trois)
+simaof114 a remporté 990  lors du pot .
+nando7247 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 990 | Commission 0 
+Tableau [3s Qs Kc 2h 3c]
+Siège 1 : simaof114 (petite blind) a montré [9d Qd] et a gagné (990) avec double paire, Dames et Trois
+Siège 2 : nando7247 (grosse blind) a montré [Td Ts] et a perdu avec double paire, Dix et Trois
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261265441687 : Tournoi #4011754244, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 27/06/2026 14:41:53 CET [27/06/2026 8:41:53 ET]
+Table '4011754244 1' 3-max Siège #1 est au bouton.
+Place 1: simaof114 (1110 en jetons) 
+Place 3: psychoman59 (390 en jetons) 
+simaof114 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Ad]
+simaof114 : suit. 15
+psychoman59 : relance. 360 à 390 et est all-in.
+simaof114 : passe. 
+Personne n'a suivi. (360) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : simaof114 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°261265442664 : Tournoi #4011754244, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 27/06/2026 14:42:01 CET [27/06/2026 8:42:01 ET]
+Table '4011754244 1' 3-max Siège #3 est au bouton.
+Place 1: simaof114 (1080 en jetons) 
+Place 3: psychoman59 (420 en jetons) 
+psychoman59 : met la petite blind. 15
+simaof114 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Ks]
+psychoman59 : suit. 15
+simaof114 : relance. 60 à 90
+psychoman59 : suit. 60
+*** FLOP *** [9d 4c Jh]
+simaof114 : mise. 990 et est all-in.
+psychoman59 : suit. 330 et est all-in.
+Personne n'a suivi. (660) sont retournés à simaof114.
+*** TOURNANT *** [9d 4c Jh] [3c]
+*** RIVIÈRE *** [9d 4c Jh 3c] [8c]
+*** ABATTAGE ***
+simaof114 : montre [4d 5s] (une paire de Quatre)
+psychoman59 : montre [4s Ks] (une paire de Quatre - Roi kicker)
+psychoman59 a remporté 840  lors du pot .
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Tableau [9d 4c Jh 3c 8c]
+Siège 1 : simaof114 (grosse blind) a montré [4d 5s] et a perdu avec une paire de Quatre
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [4s Ks] et a gagné (840) avec une paire de Quatre
+
+
+
+Main PokerStars n°261265444982 : Tournoi #4011754244, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 27/06/2026 14:42:22 CET [27/06/2026 8:42:22 ET]
+Table '4011754244 1' 3-max Siège #1 est au bouton.
+Place 1: simaof114 (660 en jetons) 
+Place 3: psychoman59 (840 en jetons) 
+simaof114 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Qd]
+simaof114 : relance. 630 à 660 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (630) sont retournés à simaof114.
+simaof114 a remporté 60  lors du pot .
+simaof114 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : simaof114 (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261265445908 : Tournoi #4011754244, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 27/06/2026 14:42:30 CET [27/06/2026 8:42:30 ET]
+Table '4011754244 1' 3-max Siège #3 est au bouton.
+Place 1: simaof114 (690 en jetons) 
+Place 3: psychoman59 (810 en jetons) 
+psychoman59 : met la petite blind. 15
+simaof114 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 3h]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à simaof114.
+simaof114 a remporté 30  lors du pot .
+simaof114 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : simaof114 (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261265446622 : Tournoi #4011754244, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 27/06/2026 14:42:36 CET [27/06/2026 8:42:36 ET]
+Table '4011754244 1' 3-max Siège #1 est au bouton.
+Place 1: simaof114 (705 en jetons) 
+Place 3: psychoman59 (795 en jetons) 
+simaof114 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 5h]
+simaof114 : relance. 90 à 120
+psychoman59 : passe. 
+Personne n'a suivi. (90) sont retournés à simaof114.
+simaof114 a remporté 60  lors du pot .
+simaof114 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : simaof114 (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261265447627 : Tournoi #4011754244, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 27/06/2026 14:42:45 CET [27/06/2026 8:42:45 ET]
+Table '4011754244 1' 3-max Siège #3 est au bouton.
+Place 1: simaof114 (735 en jetons) 
+Place 3: psychoman59 (765 en jetons) 
+psychoman59 : met la petite blind. 15
+simaof114 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 8s]
+psychoman59 : relance. 735 à 765 et est all-in.
+simaof114 : suit. 705 et est all-in.
+Personne n'a suivi. (30) sont retournés à psychoman59.
+*** FLOP *** [3d 8c Ts]
+*** TOURNANT *** [3d 8c Ts] [Td]
+*** RIVIÈRE *** [3d 8c Ts Td] [2d]
+*** ABATTAGE ***
+simaof114 : montre [6h Qs] (une paire de Dix)
+psychoman59 : montre [Ac 8s] (double paire, Dix et Huit)
+psychoman59 a remporté 1470  lors du pot .
+simaof114 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 1470 | Commission 0 
+Tableau [3d 8c Ts Td 2d]
+Siège 1 : simaof114 (grosse blind) a montré [6h Qs] et a perdu avec une paire de Dix
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Ac 8s] et a gagné (1470) avec double paire, Dix et Huit
+
+
+

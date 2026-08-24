@@ -1,0 +1,469 @@
+﻿Main PokerStars n°261703708452 : Tournoi #4022729267, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 10/08/2026 7:49:37 CET [10/08/2026 1:49:37 ET]
+Table '4022729267 1' 3-max Siège #1 est au bouton.
+Place 1: alfkwik (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: AndyCapp0 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+AndyCapp0 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 7c]
+alfkwik : suit. 20
+psychoman59 : passe. 
+AndyCapp0 : relance. 40 à 60
+alfkwik : suit. 40
+*** FLOP *** [2h 7s 8s]
+AndyCapp0 : mise. 60
+alfkwik : passe. 
+Personne n'a suivi. (60) sont retournés à AndyCapp0.
+AndyCapp0 a remporté 130  lors du pot .
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Tableau [2h 7s 8s]
+Siège 1 : alfkwik (bouton) s'est couché. sur le Flop
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : AndyCapp0 (grosse blind) a remporté (130)
+
+
+
+Main PokerStars n°261703709157 : Tournoi #4022729267, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 10/08/2026 7:49:52 CET [10/08/2026 1:49:52 ET]
+Table '4022729267 1' 3-max Siège #2 est au bouton.
+Place 1: alfkwik (440 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: AndyCapp0 (570 en jetons) 
+AndyCapp0 : met la petite blind. 10
+alfkwik : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 7h]
+psychoman59 : passe. 
+AndyCapp0 : suit. 10
+alfkwik : parole 
+*** FLOP *** [Jc 9h 6s]
+AndyCapp0 : mise. 20
+alfkwik : suit. 20
+*** TOURNANT *** [Jc 9h 6s] [2s]
+AndyCapp0 : mise. 20
+alfkwik : passe. 
+Personne n'a suivi. (20) sont retournés à AndyCapp0.
+AndyCapp0 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Jc 9h 6s 2s]
+Siège 1 : alfkwik (grosse blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : AndyCapp0 (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°261703709943 : Tournoi #4022729267, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 10/08/2026 7:50:07 CET [10/08/2026 1:50:07 ET]
+Table '4022729267 1' 3-max Siège #3 est au bouton.
+Place 1: alfkwik (400 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: AndyCapp0 (610 en jetons) 
+alfkwik : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Ah]
+AndyCapp0 : suit. 20
+alfkwik : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Ts 2s 2c]
+alfkwik : parole 
+psychoman59 : parole 
+AndyCapp0 : parole 
+*** TOURNANT *** [Ts 2s 2c] [4d]
+alfkwik : parole 
+psychoman59 : parole 
+AndyCapp0 : parole 
+*** RIVIÈRE *** [Ts 2s 2c 4d] [Js]
+alfkwik : parole 
+psychoman59 : parole 
+AndyCapp0 : mise. 40
+alfkwik : passe. 
+psychoman59 : suit. 40
+*** ABATTAGE ***
+AndyCapp0 : montre [Qh 9s] (une paire de Deux)
+psychoman59 : montre [3d Ah] (une paire de Deux - As kicker)
+psychoman59 a remporté 140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [Ts 2s 2c 4d Js]
+Siège 1 : alfkwik (petite blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (grosse blind) a montré [3d Ah] et a gagné (140) avec une paire de Deux
+Siège 3 : AndyCapp0 (bouton) a montré [Qh 9s] et a perdu avec une paire de Deux
+
+
+
+Main PokerStars n°261703711612 : Tournoi #4022729267, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 10/08/2026 7:50:40 CET [10/08/2026 1:50:40 ET]
+Table '4022729267 1' 3-max Siège #1 est au bouton.
+Place 1: alfkwik (380 en jetons) 
+Place 2: psychoman59 (570 en jetons) 
+Place 3: AndyCapp0 (550 en jetons) 
+psychoman59 : met la petite blind. 10
+AndyCapp0 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 8h]
+alfkwik : suit. 20
+psychoman59 : passe. 
+AndyCapp0 : parole 
+*** FLOP *** [7d Th 4c]
+AndyCapp0 : parole 
+alfkwik : parole 
+*** TOURNANT *** [7d Th 4c] [4d]
+AndyCapp0 : parole 
+alfkwik : parole 
+*** RIVIÈRE *** [7d Th 4c 4d] [2h]
+AndyCapp0 : parole 
+alfkwik : parole 
+*** ABATTAGE ***
+AndyCapp0 : montre [Ks 8c] (une paire de Quatre)
+alfkwik : montre [9c Ts] (double paire, Dix et Quatre)
+alfkwik a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [7d Th 4c 4d 2h]
+Siège 1 : alfkwik (bouton) a montré [9c Ts] et a gagné (50) avec double paire, Dix et Quatre
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : AndyCapp0 (grosse blind) a montré [Ks 8c] et a perdu avec une paire de Quatre
+
+
+
+Main PokerStars n°261703712748 : Tournoi #4022729267, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 10/08/2026 7:51:03 CET [10/08/2026 1:51:03 ET]
+Table '4022729267 1' 3-max Siège #2 est au bouton.
+Place 1: alfkwik (410 en jetons) 
+Place 2: psychoman59 (560 en jetons) 
+Place 3: AndyCapp0 (530 en jetons) 
+AndyCapp0 : met la petite blind. 10
+alfkwik : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Kh]
+psychoman59 : suit. 20
+AndyCapp0 : relance. 40 à 60
+alfkwik : relance. 350 à 410 et est all-in.
+psychoman59 : passe. 
+AndyCapp0 : suit. 350
+*** FLOP *** [6s 4h Ac]
+*** TOURNANT *** [6s 4h Ac] [Jc]
+*** RIVIÈRE *** [6s 4h Ac Jc] [5d]
+*** ABATTAGE ***
+AndyCapp0 : montre [Ad Jd] (double paire, As et Valets)
+alfkwik : montre [Tc 3c] (Hauteur As)
+AndyCapp0 a remporté 840  lors du pot .
+alfkwik a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Tableau [6s 4h Ac Jc 5d]
+Siège 1 : alfkwik (grosse blind) a montré [Tc 3c] et a perdu avec Hauteur As
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 3 : AndyCapp0 (petite blind) a montré [Ad Jd] et a gagné (840) avec double paire, As et Valets
+
+
+
+Main PokerStars n°261703714087 : Tournoi #4022729267, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 10/08/2026 7:51:30 CET [10/08/2026 1:51:30 ET]
+Table '4022729267 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (540 en jetons) 
+Place 3: AndyCapp0 (960 en jetons) 
+AndyCapp0 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs As]
+AndyCapp0 : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (20)
+Siège 3 : AndyCapp0 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261703714339 : Tournoi #4022729267, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 10/08/2026 7:51:35 CET [10/08/2026 1:51:35 ET]
+Table '4022729267 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (550 en jetons) 
+Place 3: AndyCapp0 (950 en jetons) 
+psychoman59 : met la petite blind. 10
+AndyCapp0 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Tc]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à AndyCapp0.
+AndyCapp0 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : AndyCapp0 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°261703714757 : Tournoi #4022729267, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 10/08/2026 7:51:43 CET [10/08/2026 1:51:43 ET]
+Table '4022729267 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (540 en jetons) 
+Place 3: AndyCapp0 (960 en jetons) 
+AndyCapp0 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 8d]
+AndyCapp0 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Ac 9d As]
+psychoman59 : parole 
+AndyCapp0 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à AndyCapp0.
+AndyCapp0 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ac 9d As]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : AndyCapp0 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°261703715431 : Tournoi #4022729267, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 10/08/2026 7:51:57 CET [10/08/2026 1:51:57 ET]
+Table '4022729267 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (510 en jetons) 
+Place 3: AndyCapp0 (990 en jetons) 
+psychoman59 : met la petite blind. 15
+AndyCapp0 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 4s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à AndyCapp0.
+AndyCapp0 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : AndyCapp0 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°261703715683 : Tournoi #4022729267, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 10/08/2026 7:52:02 CET [10/08/2026 1:52:02 ET]
+Table '4022729267 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (495 en jetons) 
+Place 3: AndyCapp0 (1005 en jetons) 
+AndyCapp0 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 7h]
+AndyCapp0 : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à AndyCapp0.
+AndyCapp0 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : AndyCapp0 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°261703716242 : Tournoi #4022729267, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 10/08/2026 7:52:13 CET [10/08/2026 1:52:13 ET]
+Table '4022729267 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (465 en jetons) 
+Place 3: AndyCapp0 (1035 en jetons) 
+psychoman59 : met la petite blind. 15
+AndyCapp0 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 2c]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à AndyCapp0.
+AndyCapp0 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : AndyCapp0 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°261703716500 : Tournoi #4022729267, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 10/08/2026 7:52:19 CET [10/08/2026 1:52:19 ET]
+Table '4022729267 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (450 en jetons) 
+Place 3: AndyCapp0 (1050 en jetons) 
+AndyCapp0 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 9d]
+AndyCapp0 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Jd 2h 9s]
+psychoman59 : parole 
+AndyCapp0 : mise. 30
+psychoman59 : suit. 30
+*** TOURNANT *** [Jd 2h 9s] [4c]
+psychoman59 : parole 
+AndyCapp0 : parole 
+*** RIVIÈRE *** [Jd 2h 9s 4c] [6c]
+psychoman59 : mise. 60
+AndyCapp0 : suit. 60
+*** ABATTAGE ***
+psychoman59 : montre [8h 9d] (une paire de Neuf)
+AndyCapp0 : cache la main perdante. 
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Jd 2h 9s 4c 6c]
+Siège 2 : psychoman59 (grosse blind) a montré [8h 9d] et a gagné (240) avec une paire de Neuf
+Siège 3 : AndyCapp0 (bouton) (petite blind) a caché la main perdante. [3d 6d]
+
+
+
+Main PokerStars n°261703717689 : Tournoi #4022729267, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 10/08/2026 7:52:43 CET [10/08/2026 1:52:43 ET]
+Table '4022729267 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (570 en jetons) 
+Place 3: AndyCapp0 (930 en jetons) 
+psychoman59 : met la petite blind. 15
+AndyCapp0 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 5d]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à AndyCapp0.
+AndyCapp0 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : AndyCapp0 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°261703718036 : Tournoi #4022729267, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 10/08/2026 7:52:50 CET [10/08/2026 1:52:50 ET]
+Table '4022729267 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (555 en jetons) 
+Place 3: AndyCapp0 (945 en jetons) 
+AndyCapp0 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Ts]
+AndyCapp0 : suit. 15
+psychoman59 : relance. 525 à 555 et est all-in.
+AndyCapp0 : suit. 525
+*** FLOP *** [9h 6h 7c]
+*** TOURNANT *** [9h 6h 7c] [8d]
+*** RIVIÈRE *** [9h 6h 7c 8d] [7d]
+*** ABATTAGE ***
+psychoman59 : montre [Th Ts] (une suite, Six à Dix)
+AndyCapp0 : montre [Qs As] (une paire de Sept)
+psychoman59 a remporté 1110  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1110 | Commission 0 
+Tableau [9h 6h 7c 8d 7d]
+Siège 2 : psychoman59 (grosse blind) a montré [Th Ts] et a gagné (1110) avec une suite, Six à Dix
+Siège 3 : AndyCapp0 (bouton) (petite blind) a montré [Qs As] et a perdu avec une paire de Sept
+
+
+
+Main PokerStars n°261703718808 : Tournoi #4022729267, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 10/08/2026 7:53:06 CET [10/08/2026 1:53:06 ET]
+Table '4022729267 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1110 en jetons) 
+Place 3: AndyCapp0 (390 en jetons) 
+psychoman59 : met la petite blind. 15
+AndyCapp0 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 2s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à AndyCapp0.
+AndyCapp0 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : AndyCapp0 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°261703719137 : Tournoi #4022729267, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 10/08/2026 7:53:12 CET [10/08/2026 1:53:12 ET]
+Table '4022729267 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1095 en jetons) 
+Place 3: AndyCapp0 (405 en jetons) 
+AndyCapp0 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 7h]
+AndyCapp0 : relance. 30 à 60
+psychoman59 : suit. 30
+*** FLOP *** [Qs 3s Th]
+psychoman59 : parole 
+AndyCapp0 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à AndyCapp0.
+AndyCapp0 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Qs 3s Th]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : AndyCapp0 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°261703719875 : Tournoi #4022729267, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 10/08/2026 7:53:28 CET [10/08/2026 1:53:28 ET]
+Table '4022729267 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1035 en jetons) 
+Place 3: AndyCapp0 (465 en jetons) 
+psychoman59 : met la petite blind. 15
+AndyCapp0 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 5h]
+psychoman59 : suit. 15
+AndyCapp0 : relance. 60 à 90
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à AndyCapp0.
+AndyCapp0 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : AndyCapp0 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°261703720335 : Tournoi #4022729267, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 10/08/2026 7:53:37 CET [10/08/2026 1:53:37 ET]
+Table '4022729267 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1005 en jetons) 
+Place 3: AndyCapp0 (495 en jetons) 
+AndyCapp0 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 4h]
+AndyCapp0 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Td As Qc]
+psychoman59 : parole 
+AndyCapp0 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à AndyCapp0.
+AndyCapp0 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Td As Qc]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : AndyCapp0 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°261703721194 : Tournoi #4022729267, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 10/08/2026 7:53:55 CET [10/08/2026 1:53:55 ET]
+Table '4022729267 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (975 en jetons) 
+Place 3: AndyCapp0 (525 en jetons) 
+psychoman59 : met la petite blind. 20
+AndyCapp0 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc As]
+psychoman59 : suit. 20
+AndyCapp0 : relance. 80 à 120
+psychoman59 : relance. 855 à 975 et est all-in.
+AndyCapp0 : suit. 405 et est all-in.
+Personne n'a suivi. (450) sont retournés à psychoman59.
+*** FLOP *** [6h 4h Qd]
+*** TOURNANT *** [6h 4h Qd] [Kd]
+*** RIVIÈRE *** [6h 4h Qd Kd] [Kc]
+*** ABATTAGE ***
+AndyCapp0 : montre [7h Jh] (une paire de Rois)
+psychoman59 : montre [Tc As] (une paire de Rois - As kicker)
+psychoman59 a remporté 1050  lors du pot .
+AndyCapp0 a fini le tournoi en 2e position.
+psychoman59 gagne le tournoi - félicitations !
+psychoman59 gagne un ticket " €1 Step 2 MTT Power Path ticket "
+*** SYNTHÈSE ***
+Pot total 1050 | Commission 0 
+Tableau [6h 4h Qd Kd Kc]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Tc As] et a gagné (1050) avec une paire de Rois
+Siège 3 : AndyCapp0 (grosse blind) a montré [7h Jh] et a perdu avec une paire de Rois
+
+
+

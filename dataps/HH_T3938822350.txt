@@ -1,0 +1,81 @@
+﻿Main PokerStars n°258179876967 : Tournoi #3938822350, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 19/10/2025 7:24:58 CET [19/10/2025 1:24:58 ET]
+Table '3938822350 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: mbtd72 (500 en jetons) 
+Place 3: camelia.62 (500 en jetons) 
+mbtd72 : met la petite blind. 10
+camelia.62 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 2s]
+psychoman59 : passe. 
+mbtd72 : relance. 20 à 40
+camelia.62 : passe. 
+Personne n'a suivi. (20) sont retournés à mbtd72.
+mbtd72 a remporté 40  lors du pot .
+mbtd72 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : mbtd72 (petite blind) a remporté (40)
+Siège 3 : camelia.62 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258179877608 : Tournoi #3938822350, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 19/10/2025 7:25:08 CET [19/10/2025 1:25:08 ET]
+Table '3938822350 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: mbtd72 (520 en jetons) 
+Place 3: camelia.62 (480 en jetons) 
+camelia.62 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 3s]
+mbtd72 : suit. 20
+camelia.62 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [4d Kc 9s]
+camelia.62 : mise. 100
+psychoman59 : passe. 
+mbtd72 : passe. 
+Personne n'a suivi. (100) sont retournés à camelia.62.
+camelia.62 a remporté 60  lors du pot .
+camelia.62 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [4d Kc 9s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : mbtd72 (bouton) s'est couché. sur le Flop
+Siège 3 : camelia.62 (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°258179878912 : Tournoi #3938822350, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 19/10/2025 7:25:27 CET [19/10/2025 1:25:27 ET]
+Table '3938822350 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (480 en jetons) 
+Place 2: mbtd72 (500 en jetons) 
+Place 3: camelia.62 (520 en jetons) 
+psychoman59 : met la petite blind. 10
+mbtd72 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd As]
+camelia.62 : relance. 20 à 40
+psychoman59 : relance. 440 à 480 et est all-in.
+mbtd72 : passe. 
+camelia.62 : suit. 440
+*** FLOP *** [4h 9s 8h]
+*** TOURNANT *** [4h 9s 8h] [4c]
+*** RIVIÈRE *** [4h 9s 8h 4c] [Jc]
+*** ABATTAGE ***
+psychoman59 : montre [Qd As] (une paire de Quatre)
+camelia.62 : montre [Ks Js] (double paire, Valets et Quatre)
+camelia.62 a remporté 980  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 980 | Commission 0 
+Tableau [4h 9s 8h 4c Jc]
+Siège 1 : psychoman59 (petite blind) a montré [Qd As] et a perdu avec une paire de Quatre
+Siège 2 : mbtd72 (grosse blind) s'est couché. avant Flop
+Siège 3 : camelia.62 (bouton) a montré [Ks Js] et a gagné (980) avec double paire, Valets et Quatre
+
+
+

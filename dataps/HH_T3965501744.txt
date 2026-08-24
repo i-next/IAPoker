@@ -1,0 +1,952 @@
+﻿Main PokerStars n°259305519733 : Tournoi #3965501744, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 14/01/2026 7:53:30 CET [14/01/2026 1:53:30 ET]
+Table '3965501744 1' 3-max Siège #1 est au bouton.
+Place 1: mamour0712 (500 en jetons) 
+Place 2: Andrealamoulaga (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+Andrealamoulaga : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Qc]
+mamour0712 : suit. 20
+Andrealamoulaga : passe. 
+psychoman59 : parole 
+*** FLOP *** [Ad 3d 4d]
+psychoman59 : parole 
+mamour0712 : parole 
+*** TOURNANT *** [Ad 3d 4d] [8d]
+psychoman59 : parole 
+mamour0712 : mise. 50
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à mamour0712.
+mamour0712 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [Ad 3d 4d 8d]
+Siège 1 : mamour0712 (bouton) a remporté (50)
+Siège 2 : Andrealamoulaga (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°259305522055 : Tournoi #3965501744, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 14/01/2026 7:54:10 CET [14/01/2026 1:54:10 ET]
+Table '3965501744 1' 3-max Siège #2 est au bouton.
+Place 1: mamour0712 (530 en jetons) 
+Place 2: Andrealamoulaga (490 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 10
+mamour0712 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Jd]
+Andrealamoulaga : suit. 20
+psychoman59 : passe. 
+mamour0712 : parole 
+*** FLOP *** [4c Kd 6c]
+mamour0712 : parole 
+Andrealamoulaga : parole 
+*** TOURNANT *** [4c Kd 6c] [5s]
+mamour0712 : parole 
+Andrealamoulaga : parole 
+*** RIVIÈRE *** [4c Kd 6c 5s] [6h]
+mamour0712 : parole 
+Andrealamoulaga : parole 
+*** ABATTAGE ***
+mamour0712 : montre [Qc 9d] (une paire de Six)
+Andrealamoulaga : montre [9h Ad] (une paire de Six - As kicker)
+Andrealamoulaga a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [4c Kd 6c 5s 6h]
+Siège 1 : mamour0712 (grosse blind) a montré [Qc 9d] et a perdu avec une paire de Six
+Siège 2 : Andrealamoulaga (bouton) a montré [9h Ad] et a gagné (50) avec une paire de Six
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°259305524042 : Tournoi #3965501744, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 14/01/2026 7:54:43 CET [14/01/2026 1:54:43 ET]
+Table '3965501744 1' 3-max Siège #3 est au bouton.
+Place 1: mamour0712 (510 en jetons) 
+Place 2: Andrealamoulaga (520 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+mamour0712 : met la petite blind. 10
+Andrealamoulaga : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 6d]
+psychoman59 : passe. 
+mamour0712 : suit. 10
+Andrealamoulaga : parole 
+*** FLOP *** [7h 5c 9s]
+mamour0712 : mise. 40
+Andrealamoulaga : passe. 
+Personne n'a suivi. (40) sont retournés à mamour0712.
+mamour0712 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [7h 5c 9s]
+Siège 1 : mamour0712 (petite blind) a remporté (40)
+Siège 2 : Andrealamoulaga (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°259305525338 : Tournoi #3965501744, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 14/01/2026 7:55:06 CET [14/01/2026 1:55:06 ET]
+Table '3965501744 1' 3-max Siège #1 est au bouton.
+Place 1: mamour0712 (530 en jetons) 
+Place 2: Andrealamoulaga (500 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+Andrealamoulaga : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Qs]
+mamour0712 : passe. 
+Andrealamoulaga : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Qh Td Ah]
+Andrealamoulaga : parole 
+psychoman59 : mise. 40
+Andrealamoulaga : suit. 40
+*** TOURNANT *** [Qh Td Ah] [Kh]
+Andrealamoulaga : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Qh Td Ah Kh] [Ks]
+Andrealamoulaga : mise. 20
+psychoman59 : suit. 20
+*** ABATTAGE ***
+Andrealamoulaga : montre [As 4c] (double paire, As et Rois)
+psychoman59 : cache la main perdante. 
+Andrealamoulaga a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Qh Td Ah Kh Ks]
+Siège 1 : mamour0712 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Andrealamoulaga (petite blind) a montré [As 4c] et a gagné (160) avec double paire, As et Rois
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [2d Qs]
+
+
+
+Main PokerStars n°259305527423 : Tournoi #3965501744, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 14/01/2026 7:55:47 CET [14/01/2026 1:55:47 ET]
+Table '3965501744 1' 3-max Siège #2 est au bouton.
+Place 1: mamour0712 (530 en jetons) 
+Place 2: Andrealamoulaga (580 en jetons) 
+Place 3: psychoman59 (390 en jetons) 
+psychoman59 : met la petite blind. 15
+mamour0712 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 5c]
+Andrealamoulaga : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à mamour0712.
+mamour0712 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : mamour0712 (grosse blind) a remporté (30)
+Siège 2 : Andrealamoulaga (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°259305527832 : Tournoi #3965501744, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 14/01/2026 7:55:56 CET [14/01/2026 1:55:56 ET]
+Table '3965501744 1' 3-max Siège #3 est au bouton.
+Place 1: mamour0712 (545 en jetons) 
+Place 2: Andrealamoulaga (580 en jetons) 
+Place 3: psychoman59 (375 en jetons) 
+mamour0712 : met la petite blind. 15
+Andrealamoulaga : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Ad]
+psychoman59 : suit. 30
+mamour0712 : suit. 15
+Andrealamoulaga : parole 
+*** FLOP *** [3c Js Th]
+mamour0712 : parole 
+Andrealamoulaga : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3c Js Th] [8d]
+mamour0712 : parole 
+Andrealamoulaga : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [3c Js Th 8d] [4d]
+mamour0712 : parole 
+Andrealamoulaga : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+mamour0712 : montre [2c 3s] (une paire de Trois)
+Andrealamoulaga : cache la main perdante. 
+psychoman59 : cache la main perdante. 
+mamour0712 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [3c Js Th 8d 4d]
+Siège 1 : mamour0712 (petite blind) a montré [2c 3s] et a gagné (90) avec une paire de Trois
+Siège 2 : Andrealamoulaga (grosse blind) a caché la main perdante. [5c 2h]
+Siège 3 : psychoman59 (bouton) a caché la main perdante. [6s Ad]
+
+
+
+Main PokerStars n°259305528999 : Tournoi #3965501744, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 14/01/2026 7:56:18 CET [14/01/2026 1:56:18 ET]
+Table '3965501744 1' 3-max Siège #1 est au bouton.
+Place 1: mamour0712 (605 en jetons) 
+Place 2: Andrealamoulaga (550 en jetons) 
+Place 3: psychoman59 (345 en jetons) 
+Andrealamoulaga : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Jd]
+mamour0712 : passe. 
+Andrealamoulaga : relance. 30 à 60
+psychoman59 : relance. 285 à 345 et est all-in.
+Andrealamoulaga : passe. 
+Personne n'a suivi. (285) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : mamour0712 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Andrealamoulaga (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°259305529644 : Tournoi #3965501744, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 14/01/2026 7:56:32 CET [14/01/2026 1:56:32 ET]
+Table '3965501744 1' 3-max Siège #2 est au bouton.
+Place 1: mamour0712 (605 en jetons) 
+Place 2: Andrealamoulaga (490 en jetons) 
+Place 3: psychoman59 (405 en jetons) 
+psychoman59 : met la petite blind. 15
+mamour0712 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 2s]
+Andrealamoulaga : suit. 30
+psychoman59 : passe. 
+mamour0712 : parole 
+*** FLOP *** [4d 3d 4h]
+mamour0712 : mise. 30
+Andrealamoulaga : passe. 
+Personne n'a suivi. (30) sont retournés à mamour0712.
+mamour0712 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Tableau [4d 3d 4h]
+Siège 1 : mamour0712 (grosse blind) a remporté (75)
+Siège 2 : Andrealamoulaga (bouton) s'est couché. sur le Flop
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°259305530440 : Tournoi #3965501744, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 14/01/2026 7:56:47 CET [14/01/2026 1:56:47 ET]
+Table '3965501744 1' 3-max Siège #3 est au bouton.
+Place 1: mamour0712 (650 en jetons) 
+Place 2: Andrealamoulaga (460 en jetons) 
+Place 3: psychoman59 (390 en jetons) 
+mamour0712 : met la petite blind. 15
+Andrealamoulaga : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 6d]
+psychoman59 : passe. 
+mamour0712 : suit. 15
+Andrealamoulaga : parole 
+*** FLOP *** [Js Kh 4s]
+mamour0712 : parole 
+Andrealamoulaga : mise. 30
+mamour0712 : suit. 30
+*** TOURNANT *** [Js Kh 4s] [As]
+mamour0712 : parole 
+Andrealamoulaga : mise. 30
+mamour0712 : suit. 30
+*** RIVIÈRE *** [Js Kh 4s As] [3h]
+mamour0712 : parole 
+Andrealamoulaga : parole 
+*** ABATTAGE ***
+mamour0712 : montre [Qh Jc] (une paire de Valets)
+Andrealamoulaga : cache la main perdante. 
+mamour0712 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Js Kh 4s As 3h]
+Siège 1 : mamour0712 (petite blind) a montré [Qh Jc] et a gagné (180) avec une paire de Valets
+Siège 2 : Andrealamoulaga (grosse blind) a caché la main perdante. [8s 8h]
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°259305532157 : Tournoi #3965501744, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 14/01/2026 7:57:22 CET [14/01/2026 1:57:22 ET]
+Table '3965501744 1' 3-max Siège #1 est au bouton.
+Place 1: mamour0712 (740 en jetons) 
+Place 2: Andrealamoulaga (370 en jetons) 
+Place 3: psychoman59 (390 en jetons) 
+Andrealamoulaga : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 7s]
+mamour0712 : passe. 
+Andrealamoulaga : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : mamour0712 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Andrealamoulaga (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°259305532542 : Tournoi #3965501744, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 14/01/2026 7:57:30 CET [14/01/2026 1:57:30 ET]
+Table '3965501744 1' 3-max Siège #2 est au bouton.
+Place 1: mamour0712 (740 en jetons) 
+Place 2: Andrealamoulaga (355 en jetons) 
+Place 3: psychoman59 (405 en jetons) 
+psychoman59 : met la petite blind. 15
+mamour0712 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 2c]
+Andrealamoulaga : passe. 
+psychoman59 : suit. 15
+mamour0712 : parole 
+*** FLOP *** [6h 9h 4s]
+psychoman59 : parole 
+mamour0712 : parole 
+*** TOURNANT *** [6h 9h 4s] [2s]
+psychoman59 : parole 
+mamour0712 : parole 
+*** RIVIÈRE *** [6h 9h 4s 2s] [8h]
+psychoman59 : parole 
+mamour0712 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Kd 2c] (une paire de Deux)
+mamour0712 : montre [Td 4h] (une paire de Quatre)
+mamour0712 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [6h 9h 4s 2s 8h]
+Siège 1 : mamour0712 (grosse blind) a montré [Td 4h] et a gagné (60) avec une paire de Quatre
+Siège 2 : Andrealamoulaga (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [Kd 2c] et a perdu avec une paire de Deux
+
+
+
+Main PokerStars n°259305533789 : Tournoi #3965501744, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 14/01/2026 7:57:55 CET [14/01/2026 1:57:55 ET]
+Table '3965501744 1' 3-max Siège #3 est au bouton.
+Place 1: mamour0712 (770 en jetons) 
+Place 2: Andrealamoulaga (355 en jetons) 
+Place 3: psychoman59 (375 en jetons) 
+mamour0712 : met la petite blind. 20
+Andrealamoulaga : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 3c]
+psychoman59 : passe. 
+mamour0712 : suit. 20
+Andrealamoulaga : parole 
+*** FLOP *** [8h 3d 9d]
+mamour0712 : mise. 40
+Andrealamoulaga : passe. 
+Personne n'a suivi. (40) sont retournés à mamour0712.
+mamour0712 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [8h 3d 9d]
+Siège 1 : mamour0712 (petite blind) a remporté (80)
+Siège 2 : Andrealamoulaga (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°259305534483 : Tournoi #3965501744, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 14/01/2026 7:58:08 CET [14/01/2026 1:58:08 ET]
+Table '3965501744 1' 3-max Siège #1 est au bouton.
+Place 1: mamour0712 (810 en jetons) 
+Place 2: Andrealamoulaga (315 en jetons) 
+Place 3: psychoman59 (375 en jetons) 
+Andrealamoulaga : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Td]
+mamour0712 : passe. 
+Andrealamoulaga : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : mamour0712 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Andrealamoulaga (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°259305534725 : Tournoi #3965501744, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 14/01/2026 7:58:13 CET [14/01/2026 1:58:13 ET]
+Table '3965501744 1' 3-max Siège #2 est au bouton.
+Place 1: mamour0712 (810 en jetons) 
+Place 2: Andrealamoulaga (295 en jetons) 
+Place 3: psychoman59 (395 en jetons) 
+psychoman59 : met la petite blind. 20
+mamour0712 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 4s]
+Andrealamoulaga : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à mamour0712.
+mamour0712 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : mamour0712 (grosse blind) a remporté (40)
+Siège 2 : Andrealamoulaga (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°259305535005 : Tournoi #3965501744, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 14/01/2026 7:58:19 CET [14/01/2026 1:58:19 ET]
+Table '3965501744 1' 3-max Siège #3 est au bouton.
+Place 1: mamour0712 (830 en jetons) 
+Place 2: Andrealamoulaga (295 en jetons) 
+Place 3: psychoman59 (375 en jetons) 
+mamour0712 : met la petite blind. 20
+Andrealamoulaga : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Ts]
+psychoman59 : passe. 
+mamour0712 : suit. 20
+Andrealamoulaga : parole 
+*** FLOP *** [5d 9c Qd]
+mamour0712 : parole 
+Andrealamoulaga : parole 
+*** TOURNANT *** [5d 9c Qd] [2h]
+mamour0712 : parole 
+Andrealamoulaga : parole 
+*** RIVIÈRE *** [5d 9c Qd 2h] [9s]
+mamour0712 : parole 
+Andrealamoulaga : parole 
+*** ABATTAGE ***
+mamour0712 : montre [Td 6d] (une paire de Neuf)
+Andrealamoulaga : cache la main perdante. 
+mamour0712 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [5d 9c Qd 2h 9s]
+Siège 1 : mamour0712 (petite blind) a montré [Td 6d] et a gagné (80) avec une paire de Neuf
+Siège 2 : Andrealamoulaga (grosse blind) a caché la main perdante. [7h 3d]
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°259305536633 : Tournoi #3965501744, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 14/01/2026 7:58:52 CET [14/01/2026 1:58:52 ET]
+Table '3965501744 1' 3-max Siège #1 est au bouton.
+Place 1: mamour0712 (870 en jetons) 
+Place 2: Andrealamoulaga (255 en jetons) 
+Place 3: psychoman59 (375 en jetons) 
+Andrealamoulaga : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 7c]
+mamour0712 : passe. 
+Andrealamoulaga : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : mamour0712 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Andrealamoulaga (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°259305536902 : Tournoi #3965501744, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 14/01/2026 7:58:57 CET [14/01/2026 1:58:57 ET]
+Table '3965501744 1' 3-max Siège #2 est au bouton.
+Place 1: mamour0712 (870 en jetons) 
+Place 2: Andrealamoulaga (235 en jetons) 
+Place 3: psychoman59 (395 en jetons) 
+psychoman59 : met la petite blind. 20
+mamour0712 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 3s]
+Andrealamoulaga : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à mamour0712.
+mamour0712 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : mamour0712 (grosse blind) a remporté (40)
+Siège 2 : Andrealamoulaga (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°259305537163 : Tournoi #3965501744, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 14/01/2026 7:59:02 CET [14/01/2026 1:59:02 ET]
+Table '3965501744 1' 3-max Siège #3 est au bouton.
+Place 1: mamour0712 (890 en jetons) 
+Place 2: Andrealamoulaga (235 en jetons) 
+Place 3: psychoman59 (375 en jetons) 
+mamour0712 : met la petite blind. 20
+Andrealamoulaga : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Qs]
+psychoman59 : relance. 40 à 80
+mamour0712 : suit. 60
+Andrealamoulaga : passe. 
+*** FLOP *** [6h 3h 8h]
+mamour0712 : mise. 40
+psychoman59 : relance. 255 à 295 et est all-in.
+mamour0712 : suit. 255
+*** TOURNANT *** [6h 3h 8h] [Qd]
+*** RIVIÈRE *** [6h 3h 8h Qd] [8s]
+*** ABATTAGE ***
+mamour0712 : montre [As Ad] (double paire, As et Huit)
+psychoman59 : montre [Qc Qs] (un full, full aux Dames par les Huit)
+psychoman59 a remporté 790  lors du pot .
+*** SYNTHÈSE ***
+Pot total 790 | Commission 0 
+Tableau [6h 3h 8h Qd 8s]
+Siège 1 : mamour0712 (petite blind) a montré [As Ad] et a perdu avec double paire, As et Huit
+Siège 2 : Andrealamoulaga (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a montré [Qc Qs] et a gagné (790) avec un full, full aux Dames par les Huit
+
+
+
+Main PokerStars n°259305538196 : Tournoi #3965501744, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 14/01/2026 7:59:23 CET [14/01/2026 1:59:23 ET]
+Table '3965501744 1' 3-max Siège #1 est au bouton.
+Place 1: mamour0712 (515 en jetons) 
+Place 2: Andrealamoulaga (195 en jetons) 
+Place 3: psychoman59 (790 en jetons) 
+Andrealamoulaga : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 5h]
+mamour0712 : suit. 40
+Andrealamoulaga : passe. 
+psychoman59 : parole 
+*** FLOP *** [8h 6c 3h]
+psychoman59 : parole 
+mamour0712 : parole 
+*** TOURNANT *** [8h 6c 3h] [Th]
+psychoman59 : parole 
+mamour0712 : parole 
+*** RIVIÈRE *** [8h 6c 3h Th] [Jd]
+psychoman59 : parole 
+mamour0712 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [4d 5h] (Hauteur Valet)
+mamour0712 : montre [Jc 9h] (une paire de Valets)
+mamour0712 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [8h 6c 3h Th Jd]
+Siège 1 : mamour0712 (bouton) a montré [Jc 9h] et a gagné (100) avec une paire de Valets
+Siège 2 : Andrealamoulaga (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [4d 5h] et a perdu avec Hauteur Valet
+
+
+
+Main PokerStars n°259305540042 : Tournoi #3965501744, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 14/01/2026 8:00:00 CET [14/01/2026 2:00:00 ET]
+Table '3965501744 1' 3-max Siège #2 est au bouton.
+Place 1: mamour0712 (575 en jetons) 
+Place 2: Andrealamoulaga (175 en jetons) 
+Place 3: psychoman59 (750 en jetons) 
+psychoman59 : met la petite blind. 30
+mamour0712 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Ah]
+Andrealamoulaga : passe. 
+psychoman59 : suit. 30
+mamour0712 : parole 
+*** FLOP *** [2s Ac 5s]
+psychoman59 : parole 
+mamour0712 : parole 
+*** TOURNANT *** [2s Ac 5s] [9c]
+psychoman59 : mise. 60
+mamour0712 : suit. 60
+*** RIVIÈRE *** [2s Ac 5s 9c] [Ts]
+psychoman59 : mise. 120
+mamour0712 : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [2s Ac 5s 9c Ts]
+Siège 1 : mamour0712 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : Andrealamoulaga (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (240)
+
+
+
+Main PokerStars n°259305541145 : Tournoi #3965501744, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 14/01/2026 8:00:21 CET [14/01/2026 2:00:21 ET]
+Table '3965501744 1' 3-max Siège #3 est au bouton.
+Place 1: mamour0712 (455 en jetons) 
+Place 2: Andrealamoulaga (175 en jetons) 
+Place 3: psychoman59 (870 en jetons) 
+mamour0712 : met la petite blind. 30
+Andrealamoulaga : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Qs]
+psychoman59 : passe. 
+mamour0712 : suit. 30
+Andrealamoulaga : relance. 115 à 175 et est all-in.
+mamour0712 : suit. 115
+*** FLOP *** [7s 8c Th]
+*** TOURNANT *** [7s 8c Th] [7c]
+*** RIVIÈRE *** [7s 8c Th 7c] [7d]
+*** ABATTAGE ***
+mamour0712 : montre [9s Qc] (un brelan de Sept)
+Andrealamoulaga : montre [Kd Qh] (un brelan de Sept - Roi kicker)
+Andrealamoulaga a remporté 350  lors du pot .
+*** SYNTHÈSE ***
+Pot total 350 | Commission 0 
+Tableau [7s 8c Th 7c 7d]
+Siège 1 : mamour0712 (petite blind) a montré [9s Qc] et a perdu avec un brelan de Sept
+Siège 2 : Andrealamoulaga (grosse blind) a montré [Kd Qh] et a gagné (350) avec un brelan de Sept
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°259305542477 : Tournoi #3965501744, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 14/01/2026 8:00:46 CET [14/01/2026 2:00:46 ET]
+Table '3965501744 1' 3-max Siège #1 est au bouton.
+Place 1: mamour0712 (280 en jetons) 
+Place 2: Andrealamoulaga (350 en jetons) 
+Place 3: psychoman59 (870 en jetons) 
+Andrealamoulaga : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Ac]
+mamour0712 a dépassé le temps imparti.
+mamour0712 : passe. 
+mamour0712 ne joue pas.
+Andrealamoulaga : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : mamour0712 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Andrealamoulaga (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°259305543562 : Tournoi #3965501744, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 14/01/2026 8:01:05 CET [14/01/2026 2:01:05 ET]
+Table '3965501744 1' 3-max Siège #2 est au bouton.
+Place 1: mamour0712 (280 en jetons) ne joue pas.
+Place 2: Andrealamoulaga (320 en jetons) 
+Place 3: psychoman59 (900 en jetons) 
+psychoman59 : met la petite blind. 30
+mamour0712 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 7c]
+Andrealamoulaga : passe. 
+psychoman59 : suit. 30
+mamour0712 : passe. 
+mamour0712 est revenu.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : mamour0712 (grosse blind) s'est couché. avant Flop
+Siège 2 : Andrealamoulaga (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°259305543935 : Tournoi #3965501744, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 14/01/2026 8:01:11 CET [14/01/2026 2:01:11 ET]
+Table '3965501744 1' 3-max Siège #3 est au bouton.
+Place 1: mamour0712 (220 en jetons) 
+Place 2: Andrealamoulaga (320 en jetons) 
+Place 3: psychoman59 (960 en jetons) 
+mamour0712 : met la petite blind. 30
+Andrealamoulaga : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 2c]
+psychoman59 : passe. 
+mamour0712 : suit. 30
+Andrealamoulaga : parole 
+*** FLOP *** [3h 8h 7s]
+mamour0712 a dépassé le temps imparti.
+mamour0712 : parole 
+Andrealamoulaga : mise. 60
+mamour0712 : suit. 60
+*** TOURNANT *** [3h 8h 7s] [Kh]
+mamour0712 : parole 
+Andrealamoulaga : parole 
+*** RIVIÈRE *** [3h 8h 7s Kh] [7d]
+mamour0712 : parole 
+Andrealamoulaga : parole 
+*** ABATTAGE ***
+mamour0712 : montre [9s Qd] (une paire de Sept)
+Andrealamoulaga : montre [4s 3c] (double paire, Sept et Trois)
+Andrealamoulaga a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [3h 8h 7s Kh 7d]
+Siège 1 : mamour0712 (petite blind) a montré [9s Qd] et a perdu avec une paire de Sept
+Siège 2 : Andrealamoulaga (grosse blind) a montré [4s 3c] et a gagné (240) avec double paire, Sept et Trois
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°259305546105 : Tournoi #3965501744, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 14/01/2026 8:01:50 CET [14/01/2026 2:01:50 ET]
+Table '3965501744 1' 3-max Siège #1 est au bouton.
+Place 1: mamour0712 (100 en jetons) 
+Place 2: Andrealamoulaga (440 en jetons) 
+Place 3: psychoman59 (960 en jetons) 
+Andrealamoulaga : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 6h]
+mamour0712 : passe. 
+Andrealamoulaga : suit. 40
+psychoman59 : parole 
+*** FLOP *** [7h 2d Ks]
+Andrealamoulaga : parole 
+psychoman59 : parole 
+*** TOURNANT *** [7h 2d Ks] [Ac]
+Andrealamoulaga : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [7h 2d Ks Ac] [Ts]
+Andrealamoulaga : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Andrealamoulaga : montre [Js 3s] (Hauteur As)
+psychoman59 : cache la main perdante. 
+Andrealamoulaga a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [7h 2d Ks Ac Ts]
+Siège 1 : mamour0712 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Andrealamoulaga (petite blind) a montré [Js 3s] et a gagné (160) avec Hauteur As
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [4s 6h]
+
+
+
+Main PokerStars n°259305547011 : Tournoi #3965501744, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 14/01/2026 8:02:06 CET [14/01/2026 2:02:06 ET]
+Table '3965501744 1' 3-max Siège #2 est au bouton.
+Place 1: mamour0712 (100 en jetons) 
+Place 2: Andrealamoulaga (520 en jetons) 
+Place 3: psychoman59 (880 en jetons) 
+psychoman59 : met la petite blind. 40
+mamour0712 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Qc]
+Andrealamoulaga : relance. 80 à 160
+psychoman59 : suit. 120
+mamour0712 : suit. 20 et est all-in.
+*** FLOP *** [Ah Ac 5c]
+psychoman59 : parole 
+Andrealamoulaga : mise. 360 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (360) sont retournés à Andrealamoulaga.
+*** TOURNANT *** [Ah Ac 5c] [Ks]
+*** RIVIÈRE *** [Ah Ac 5c Ks] [Th]
+*** ABATTAGE ***
+Andrealamoulaga : montre [4s 4h] (double paire, As et Quatre)
+Andrealamoulaga a remporté 120  parallèle lors du pot .
+mamour0712 : montre [3s 6c] (une paire de As)
+Andrealamoulaga a remporté 300  principal lors du pot .
+mamour0712 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 420 Principal pot 300. Parallèle pot 120. | Commission 0 
+Tableau [Ah Ac 5c Ks Th]
+Siège 1 : mamour0712 (grosse blind) a montré [3s 6c] et a perdu avec une paire de As
+Siège 2 : Andrealamoulaga (bouton) a montré [4s 4h] et a gagné (420) avec double paire, As et Quatre
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°259305548509 : Tournoi #3965501744, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 14/01/2026 8:02:33 CET [14/01/2026 2:02:33 ET]
+Table '3965501744 1' 3-max Siège #3 est au bouton.
+Place 2: Andrealamoulaga (780 en jetons) 
+Place 3: psychoman59 (720 en jetons) 
+psychoman59 : met la petite blind. 40
+Andrealamoulaga : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 3d]
+psychoman59 : relance. 640 à 720 et est all-in.
+Andrealamoulaga : passe. 
+Personne n'a suivi. (640) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 2 : Andrealamoulaga (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°259305548979 : Tournoi #3965501744, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 14/01/2026 8:02:41 CET [14/01/2026 2:02:41 ET]
+Table '3965501744 1' 3-max Siège #2 est au bouton.
+Place 2: Andrealamoulaga (700 en jetons) 
+Place 3: psychoman59 (800 en jetons) 
+Andrealamoulaga : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 4c]
+Andrealamoulaga : suit. 40
+psychoman59 : parole 
+*** FLOP *** [8d 8c Js]
+psychoman59 : parole 
+Andrealamoulaga : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à Andrealamoulaga.
+Andrealamoulaga a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [8d 8c Js]
+Siège 2 : Andrealamoulaga (bouton) (petite blind) a remporté (160)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°259305549642 : Tournoi #3965501744, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 14/01/2026 8:02:53 CET [14/01/2026 2:02:53 ET]
+Table '3965501744 1' 3-max Siège #3 est au bouton.
+Place 2: Andrealamoulaga (780 en jetons) 
+Place 3: psychoman59 (720 en jetons) 
+psychoman59 : met la petite blind. 40
+Andrealamoulaga : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Jh]
+psychoman59 : suit. 40
+Andrealamoulaga : parole 
+*** FLOP *** [8c 9s 4c]
+Andrealamoulaga : parole 
+psychoman59 : parole 
+*** TOURNANT *** [8c 9s 4c] [Ad]
+Andrealamoulaga : mise. 80
+psychoman59 : suit. 80
+*** RIVIÈRE *** [8c 9s 4c Ad] [9h]
+Andrealamoulaga : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à Andrealamoulaga.
+Andrealamoulaga a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [8c 9s 4c Ad 9h]
+Siège 2 : Andrealamoulaga (grosse blind) a remporté (320)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°259305550588 : Tournoi #3965501744, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 14/01/2026 8:03:08 CET [14/01/2026 2:03:08 ET]
+Table '3965501744 1' 3-max Siège #2 est au bouton.
+Place 2: Andrealamoulaga (940 en jetons) 
+Place 3: psychoman59 (560 en jetons) 
+Andrealamoulaga : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 6s]
+Andrealamoulaga : suit. 40
+psychoman59 : parole 
+*** FLOP *** [Kh 9c 5d]
+psychoman59 : parole 
+Andrealamoulaga : parole 
+*** TOURNANT *** [Kh 9c 5d] [6c]
+psychoman59 : parole 
+Andrealamoulaga : mise. 80
+psychoman59 : suit. 80
+*** RIVIÈRE *** [Kh 9c 5d 6c] [9d]
+psychoman59 : mise. 320
+Andrealamoulaga : relance. 460 à 780 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (460) sont retournés à Andrealamoulaga.
+Andrealamoulaga a remporté 960  lors du pot .
+*** SYNTHÈSE ***
+Pot total 960 | Commission 0 
+Tableau [Kh 9c 5d 6c 9d]
+Siège 2 : Andrealamoulaga (bouton) (petite blind) a remporté (960)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°259305552183 : Tournoi #3965501744, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (50/100) - 14/01/2026 8:03:37 CET [14/01/2026 2:03:37 ET]
+Table '3965501744 1' 3-max Siège #3 est au bouton.
+Place 2: Andrealamoulaga (1420 en jetons) 
+Place 3: psychoman59 (80 en jetons) 
+psychoman59 : met la petite blind. 50
+Andrealamoulaga : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 4c]
+psychoman59 : suit. 30 et est all-in.
+Personne n'a suivi. (20) sont retournés à Andrealamoulaga.
+*** FLOP *** [8c 3d 3c]
+*** TOURNANT *** [8c 3d 3c] [Kd]
+*** RIVIÈRE *** [8c 3d 3c Kd] [Tc]
+*** ABATTAGE ***
+Andrealamoulaga : montre [Ah 6c] (une paire de Trois)
+psychoman59 : montre [Ks 4c] (double paire, Rois et Trois)
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [8c 3d 3c Kd Tc]
+Siège 2 : Andrealamoulaga (grosse blind) a montré [Ah 6c] et a perdu avec une paire de Trois
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Ks 4c] et a gagné (160) avec double paire, Rois et Trois
+
+
+
+Main PokerStars n°259305552804 : Tournoi #3965501744, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (50/100) - 14/01/2026 8:03:47 CET [14/01/2026 2:03:47 ET]
+Table '3965501744 1' 3-max Siège #2 est au bouton.
+Place 2: Andrealamoulaga (1340 en jetons) 
+Place 3: psychoman59 (160 en jetons) 
+Andrealamoulaga : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 8c]
+Andrealamoulaga : relance. 100 à 200
+psychoman59 : suit. 60 et est all-in.
+Personne n'a suivi. (40) sont retournés à Andrealamoulaga.
+*** FLOP *** [8h 5c 3s]
+*** TOURNANT *** [8h 5c 3s] [Jd]
+*** RIVIÈRE *** [8h 5c 3s Jd] [5s]
+*** ABATTAGE ***
+psychoman59 : montre [4s 8c] (double paire, Huit et Cinq)
+Andrealamoulaga : montre [4c Ad] (une paire de Cinq)
+psychoman59 a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [8h 5c 3s Jd 5s]
+Siège 2 : Andrealamoulaga (bouton) (petite blind) a montré [4c Ad] et a perdu avec une paire de Cinq
+Siège 3 : psychoman59 (grosse blind) a montré [4s 8c] et a gagné (320) avec double paire, Huit et Cinq
+
+
+
+Main PokerStars n°259305553579 : Tournoi #3965501744, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (50/100) - 14/01/2026 8:04:01 CET [14/01/2026 2:04:01 ET]
+Table '3965501744 1' 3-max Siège #3 est au bouton.
+Place 2: Andrealamoulaga (1180 en jetons) 
+Place 3: psychoman59 (320 en jetons) 
+psychoman59 : met la petite blind. 50
+Andrealamoulaga : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 3h]
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à Andrealamoulaga.
+Andrealamoulaga a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 2 : Andrealamoulaga (grosse blind) a remporté (100)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°259305553935 : Tournoi #3965501744, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (50/100) - 14/01/2026 8:04:08 CET [14/01/2026 2:04:08 ET]
+Table '3965501744 1' 3-max Siège #2 est au bouton.
+Place 2: Andrealamoulaga (1230 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+Andrealamoulaga : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 3h]
+Andrealamoulaga : relance. 100 à 200
+psychoman59 : relance. 70 à 270 et est all-in.
+Andrealamoulaga : suit. 70
+*** FLOP *** [3d 4c 5c]
+*** TOURNANT *** [3d 4c 5c] [6c]
+*** RIVIÈRE *** [3d 4c 5c 6c] [Ac]
+*** ABATTAGE ***
+psychoman59 : montre [7c 3h] (une couleur, hauteur As)
+Andrealamoulaga : montre [9c 5s] (une couleur, hauteur As - Neuf plus haute)
+Andrealamoulaga a remporté 540  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+Andrealamoulaga gagne le tournoi - félicitations !
+Andrealamoulaga gagne un ticket " €1 Step 2 MTT Power Path ticket "
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [3d 4c 5c 6c Ac]
+Siège 2 : Andrealamoulaga (bouton) (petite blind) a montré [9c 5s] et a gagné (540) avec une couleur, hauteur As
+Siège 3 : psychoman59 (grosse blind) a montré [7c 3h] et a perdu avec une couleur, hauteur As
+
+
+

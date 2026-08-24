@@ -1,0 +1,478 @@
+﻿Main PokerStars n°243815929703 : Tournoi #3594108475, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/05/2023 7:56:45 CET [21/05/2023 1:56:45 ET]
+Table '3594108475 1' 3-max Siège #1 est au bouton.
+Place 1: arsouille53 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: rivaldosp971 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+rivaldosp971 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 6d]
+arsouille53 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à rivaldosp971.
+rivaldosp971 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : arsouille53 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : rivaldosp971 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°243815930504 : Tournoi #3594108475, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/05/2023 7:56:55 CET [21/05/2023 1:56:55 ET]
+Table '3594108475 1' 3-max Siège #2 est au bouton.
+Place 1: arsouille53 (300 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: rivaldosp971 (310 en jetons) 
+rivaldosp971 : met la petite blind. 10
+arsouille53 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 4c]
+psychoman59 : passe. 
+rivaldosp971 : suit. 10
+arsouille53 : parole 
+*** FLOP *** [4s 2h Kc]
+rivaldosp971 : parole 
+arsouille53 : parole 
+*** TOURNANT *** [4s 2h Kc] [Js]
+rivaldosp971 : parole 
+arsouille53 : mise. 40
+rivaldosp971 : suit. 40
+*** RIVIÈRE *** [4s 2h Kc Js] [Qd]
+rivaldosp971 : parole 
+arsouille53 : mise. 60
+rivaldosp971 : relance. 60 à 120
+arsouille53 : passe. 
+Personne n'a suivi. (60) sont retournés à rivaldosp971.
+rivaldosp971 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [4s 2h Kc Js Qd]
+Siège 1 : arsouille53 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : rivaldosp971 (petite blind) a remporté (240)
+
+
+
+Main PokerStars n°243815933094 : Tournoi #3594108475, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/05/2023 7:57:25 CET [21/05/2023 1:57:25 ET]
+Table '3594108475 1' 3-max Siège #3 est au bouton.
+Place 1: arsouille53 (180 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: rivaldosp971 (430 en jetons) 
+arsouille53 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 2s]
+rivaldosp971 : passe. 
+arsouille53 : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : arsouille53 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (20)
+Siège 3 : rivaldosp971 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°243815933875 : Tournoi #3594108475, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/05/2023 7:57:34 CET [21/05/2023 1:57:34 ET]
+Table '3594108475 1' 3-max Siège #1 est au bouton.
+Place 1: arsouille53 (170 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: rivaldosp971 (430 en jetons) 
+psychoman59 : met la petite blind. 10
+rivaldosp971 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Kd]
+arsouille53 : passe. 
+psychoman59 : suit. 10
+rivaldosp971 : parole 
+*** FLOP *** [Kc 4d Kh]
+psychoman59 : parole 
+rivaldosp971 : parole 
+*** TOURNANT *** [Kc 4d Kh] [Qs]
+psychoman59 : parole 
+rivaldosp971 : parole 
+*** RIVIÈRE *** [Kc 4d Kh Qs] [4c]
+psychoman59 : mise. 40
+rivaldosp971 : relance. 200 à 240
+psychoman59 : relance. 40 à 280 et est all-in.
+rivaldosp971 : suit. 40
+*** ABATTAGE ***
+psychoman59 : montre [6h Kd] (un full, full aux Rois par les Quatre)
+rivaldosp971 : montre [2s 5d] (double paire, Rois et Quatre)
+psychoman59 a remporté 600  lors du pot .
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [Kc 4d Kh Qs 4c]
+Siège 1 : arsouille53 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [6h Kd] et a gagné (600) avec un full, full aux Rois par les Quatre
+Siège 3 : rivaldosp971 (grosse blind) a montré [2s 5d] et a perdu avec double paire, Rois et Quatre
+
+
+
+Main PokerStars n°243815936993 : Tournoi #3594108475, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 21/05/2023 7:58:10 CET [21/05/2023 1:58:10 ET]
+Table '3594108475 1' 3-max Siège #2 est au bouton.
+Place 1: arsouille53 (170 en jetons) 
+Place 2: psychoman59 (600 en jetons) 
+Place 3: rivaldosp971 (130 en jetons) 
+rivaldosp971 : met la petite blind. 15
+arsouille53 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Jh]
+psychoman59 : relance. 165 à 195
+rivaldosp971 : suit. 115 et est all-in.
+arsouille53 : passe. 
+Personne n'a suivi. (65) sont retournés à psychoman59.
+*** FLOP *** [6c 4c 9s]
+*** TOURNANT *** [6c 4c 9s] [2h]
+*** RIVIÈRE *** [6c 4c 9s 2h] [8c]
+*** ABATTAGE ***
+rivaldosp971 : montre [9d Jc] (une paire de Neuf)
+psychoman59 : montre [Kd Jh] (Hauteur Roi)
+rivaldosp971 a remporté 290  lors du pot .
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Tableau [6c 4c 9s 2h 8c]
+Siège 1 : arsouille53 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a montré [Kd Jh] et a perdu avec Hauteur Roi
+Siège 3 : rivaldosp971 (petite blind) a montré [9d Jc] et a gagné (290) avec une paire de Neuf
+
+
+
+Main PokerStars n°243815938742 : Tournoi #3594108475, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 21/05/2023 7:58:30 CET [21/05/2023 1:58:30 ET]
+Table '3594108475 1' 3-max Siège #3 est au bouton.
+Place 1: arsouille53 (140 en jetons) 
+Place 2: psychoman59 (470 en jetons) 
+Place 3: rivaldosp971 (290 en jetons) 
+arsouille53 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Th]
+rivaldosp971 : relance. 30 à 60
+arsouille53 : passe. 
+psychoman59 : suit. 30
+*** FLOP *** [3d Jd 8s]
+psychoman59 : parole 
+rivaldosp971 : mise. 30
+psychoman59 : suit. 30
+*** TOURNANT *** [3d Jd 8s] [4s]
+psychoman59 : parole 
+rivaldosp971 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à rivaldosp971.
+rivaldosp971 a remporté 195  lors du pot .
+*** SYNTHÈSE ***
+Pot total 195 | Commission 0 
+Tableau [3d Jd 8s 4s]
+Siège 1 : arsouille53 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : rivaldosp971 (bouton) a remporté (195)
+
+
+
+Main PokerStars n°243815940924 : Tournoi #3594108475, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 21/05/2023 7:58:55 CET [21/05/2023 1:58:55 ET]
+Table '3594108475 1' 3-max Siège #1 est au bouton.
+Place 1: arsouille53 (125 en jetons) 
+Place 2: psychoman59 (380 en jetons) 
+Place 3: rivaldosp971 (395 en jetons) 
+psychoman59 : met la petite blind. 20
+rivaldosp971 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 4h]
+arsouille53 : passe. 
+psychoman59 : relance. 340 à 380 et est all-in.
+rivaldosp971 : passe. 
+Personne n'a suivi. (340) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : arsouille53 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (80)
+Siège 3 : rivaldosp971 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243815941656 : Tournoi #3594108475, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 21/05/2023 7:59:04 CET [21/05/2023 1:59:04 ET]
+Table '3594108475 1' 3-max Siège #2 est au bouton.
+Place 1: arsouille53 (125 en jetons) 
+Place 2: psychoman59 (420 en jetons) 
+Place 3: rivaldosp971 (355 en jetons) 
+rivaldosp971 : met la petite blind. 20
+arsouille53 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Jc]
+psychoman59 : passe. 
+rivaldosp971 : suit. 20
+arsouille53 : relance. 85 à 125 et est all-in.
+rivaldosp971 : suit. 85
+*** FLOP *** [2s Kc 5d]
+*** TOURNANT *** [2s Kc 5d] [8h]
+*** RIVIÈRE *** [2s Kc 5d 8h] [9d]
+*** ABATTAGE ***
+rivaldosp971 : montre [8c Qs] (une paire de Huit)
+arsouille53 : montre [9c Qh] (une paire de Neuf)
+arsouille53 a remporté 250  lors du pot .
+*** SYNTHÈSE ***
+Pot total 250 | Commission 0 
+Tableau [2s Kc 5d 8h 9d]
+Siège 1 : arsouille53 (grosse blind) a montré [9c Qh] et a gagné (250) avec une paire de Neuf
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : rivaldosp971 (petite blind) a montré [8c Qs] et a perdu avec une paire de Huit
+
+
+
+Main PokerStars n°243815943142 : Tournoi #3594108475, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 21/05/2023 7:59:21 CET [21/05/2023 1:59:21 ET]
+Table '3594108475 1' 3-max Siège #3 est au bouton.
+Place 1: arsouille53 (250 en jetons) 
+Place 2: psychoman59 (420 en jetons) 
+Place 3: rivaldosp971 (230 en jetons) 
+arsouille53 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 9d]
+rivaldosp971 : suit. 40
+arsouille53 : passe. 
+psychoman59 : parole 
+*** FLOP *** [2c 5h Kc]
+psychoman59 : parole 
+rivaldosp971 : parole 
+*** TOURNANT *** [2c 5h Kc] [Th]
+psychoman59 : parole 
+rivaldosp971 : parole 
+*** RIVIÈRE *** [2c 5h Kc Th] [6d]
+psychoman59 : parole 
+rivaldosp971 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à rivaldosp971.
+rivaldosp971 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [2c 5h Kc Th 6d]
+Siège 1 : arsouille53 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : rivaldosp971 (bouton) a remporté (100)
+
+
+
+Main PokerStars n°243815945729 : Tournoi #3594108475, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 21/05/2023 7:59:50 CET [21/05/2023 1:59:50 ET]
+Table '3594108475 1' 3-max Siège #1 est au bouton.
+Place 1: arsouille53 (230 en jetons) 
+Place 2: psychoman59 (380 en jetons) 
+Place 3: rivaldosp971 (290 en jetons) 
+psychoman59 : met la petite blind. 30
+rivaldosp971 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 9h]
+arsouille53 : passe. 
+psychoman59 : relance. 320 à 380 et est all-in.
+rivaldosp971 : suit. 230 et est all-in.
+Personne n'a suivi. (90) sont retournés à psychoman59.
+*** FLOP *** [2s 3h 4c]
+*** TOURNANT *** [2s 3h 4c] [8h]
+*** RIVIÈRE *** [2s 3h 4c 8h] [5c]
+*** ABATTAGE ***
+psychoman59 : montre [9d 9h] (une paire de Neuf)
+rivaldosp971 : montre [9s Qh] (Hauteur Dame)
+psychoman59 a remporté 580  lors du pot .
+rivaldosp971 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [2s 3h 4c 8h 5c]
+Siège 1 : arsouille53 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [9d 9h] et a gagné (580) avec une paire de Neuf
+Siège 3 : rivaldosp971 (grosse blind) a montré [9s Qh] et a perdu avec Hauteur Dame
+
+
+
+Main PokerStars n°243815947562 : Tournoi #3594108475, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 21/05/2023 8:00:11 CET [21/05/2023 2:00:11 ET]
+Table '3594108475 1' 3-max Siège #2 est au bouton.
+Place 1: arsouille53 (230 en jetons) 
+Place 2: psychoman59 (670 en jetons) 
+psychoman59 : met la petite blind. 30
+arsouille53 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 7h]
+psychoman59 : suit. 30
+arsouille53 : parole 
+*** FLOP *** [As 3h 9s]
+arsouille53 : mise. 170 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (170) sont retournés à arsouille53.
+arsouille53 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [As 3h 9s]
+Siège 1 : arsouille53 (grosse blind) a remporté (120)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°243815948770 : Tournoi #3594108475, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 21/05/2023 8:00:24 CET [21/05/2023 2:00:24 ET]
+Table '3594108475 1' 3-max Siège #1 est au bouton.
+Place 1: arsouille53 (290 en jetons) 
+Place 2: psychoman59 (610 en jetons) 
+arsouille53 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 9d]
+arsouille53 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : arsouille53 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°243815949455 : Tournoi #3594108475, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 21/05/2023 8:00:31 CET [21/05/2023 2:00:31 ET]
+Table '3594108475 1' 3-max Siège #2 est au bouton.
+Place 1: arsouille53 (260 en jetons) 
+Place 2: psychoman59 (640 en jetons) 
+psychoman59 : met la petite blind. 30
+arsouille53 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 9h]
+psychoman59 : relance. 580 à 640 et est all-in.
+arsouille53 : passe. 
+Personne n'a suivi. (580) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : arsouille53 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°243815950325 : Tournoi #3594108475, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 21/05/2023 8:00:41 CET [21/05/2023 2:00:41 ET]
+Table '3594108475 1' 3-max Siège #1 est au bouton.
+Place 1: arsouille53 (200 en jetons) 
+Place 2: psychoman59 (700 en jetons) 
+arsouille53 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 8s]
+arsouille53 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : arsouille53 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°243815950745 : Tournoi #3594108475, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 21/05/2023 8:00:45 CET [21/05/2023 2:00:45 ET]
+Table '3594108475 1' 3-max Siège #2 est au bouton.
+Place 1: arsouille53 (170 en jetons) 
+Place 2: psychoman59 (730 en jetons) 
+psychoman59 : met la petite blind. 30
+arsouille53 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 7h]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à arsouille53.
+arsouille53 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : arsouille53 (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243815951449 : Tournoi #3594108475, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 21/05/2023 8:00:53 CET [21/05/2023 2:00:53 ET]
+Table '3594108475 1' 3-max Siège #1 est au bouton.
+Place 1: arsouille53 (200 en jetons) 
+Place 2: psychoman59 (700 en jetons) 
+arsouille53 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Kd]
+arsouille53 : relance. 120 à 200 et est all-in.
+psychoman59 : suit. 120
+*** FLOP *** [3s Qd 2d]
+*** TOURNANT *** [3s Qd 2d] [Ks]
+*** RIVIÈRE *** [3s Qd 2d Ks] [7h]
+*** ABATTAGE ***
+psychoman59 : montre [4d Kd] (une paire de Rois)
+arsouille53 : montre [3d Qh] (double paire, Dames et Trois)
+arsouille53 a remporté 400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [3s Qd 2d Ks 7h]
+Siège 1 : arsouille53 (bouton) (petite blind) a montré [3d Qh] et a gagné (400) avec double paire, Dames et Trois
+Siège 2 : psychoman59 (grosse blind) a montré [4d Kd] et a perdu avec une paire de Rois
+
+
+
+Main PokerStars n°243815952759 : Tournoi #3594108475, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 21/05/2023 8:01:06 CET [21/05/2023 2:01:06 ET]
+Table '3594108475 1' 3-max Siège #2 est au bouton.
+Place 1: arsouille53 (400 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+psychoman59 : met la petite blind. 40
+arsouille53 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 9d]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à arsouille53.
+arsouille53 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : arsouille53 (grosse blind) a remporté (80)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243815953295 : Tournoi #3594108475, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 21/05/2023 8:01:12 CET [21/05/2023 2:01:12 ET]
+Table '3594108475 1' 3-max Siège #1 est au bouton.
+Place 1: arsouille53 (440 en jetons) 
+Place 2: psychoman59 (460 en jetons) 
+arsouille53 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Th]
+arsouille53 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : arsouille53 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°243815953822 : Tournoi #3594108475, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 21/05/2023 8:01:17 CET [21/05/2023 2:01:17 ET]
+Table '3594108475 1' 3-max Siège #2 est au bouton.
+Place 1: arsouille53 (400 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+psychoman59 : met la petite blind. 40
+arsouille53 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Kd]
+psychoman59 : relance. 420 à 500 et est all-in.
+arsouille53 : suit. 320 et est all-in.
+Personne n'a suivi. (100) sont retournés à psychoman59.
+*** FLOP *** [Kc Ks 8c]
+*** TOURNANT *** [Kc Ks 8c] [Ah]
+*** RIVIÈRE *** [Kc Ks 8c Ah] [3d]
+*** ABATTAGE ***
+arsouille53 : montre [2c As] (double paire, As et Rois)
+psychoman59 : montre [3c Kd] (un full, full aux Rois par les Trois)
+psychoman59 a remporté 800  lors du pot .
+arsouille53 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 800 | Commission 0 
+Tableau [Kc Ks 8c Ah 3d]
+Siège 1 : arsouille53 (grosse blind) a montré [2c As] et a perdu avec double paire, As et Rois
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [3c Kd] et a gagné (800) avec un full, full aux Rois par les Trois
+
+
+

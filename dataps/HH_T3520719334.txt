@@ -1,0 +1,85 @@
+﻿Main PokerStars n°240676728834 : Tournoi #3520719334, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/12/2022 9:21:18 CET [25/12/2022 3:21:18 ET]
+Table '3520719334 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: hikarisan (300 en jetons) 
+Place 3: Franky2Doigts (300 en jetons) 
+hikarisan : met la petite blind. 10
+Franky2Doigts : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 8c]
+psychoman59 : relance. 280 à 300 et est all-in.
+hikarisan : passe. 
+Franky2Doigts : passe. 
+Personne n'a suivi. (280) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : psychoman59 (bouton) a remporté (50)
+Siège 2 : hikarisan (petite blind) s'est couché. avant Flop
+Siège 3 : Franky2Doigts (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240676730201 : Tournoi #3520719334, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/12/2022 9:21:30 CET [25/12/2022 3:21:30 ET]
+Table '3520719334 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (330 en jetons) 
+Place 2: hikarisan (290 en jetons) 
+Place 3: Franky2Doigts (280 en jetons) 
+Franky2Doigts : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 8d]
+hikarisan : passe. 
+Franky2Doigts : suit. 10
+psychoman59 : parole 
+*** FLOP *** [5s 9d Jd]
+Franky2Doigts : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [5s 9d Jd] [Qc]
+Franky2Doigts : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [5s 9d Jd Qc] [Ah]
+Franky2Doigts : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à Franky2Doigts.
+Franky2Doigts a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [5s 9d Jd Qc Ah]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : hikarisan (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Franky2Doigts (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°240676732596 : Tournoi #3520719334, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/12/2022 9:21:51 CET [25/12/2022 3:21:51 ET]
+Table '3520719334 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 2: hikarisan (290 en jetons) 
+Place 3: Franky2Doigts (340 en jetons) 
+psychoman59 : met la petite blind. 10
+hikarisan : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 4d]
+Franky2Doigts : relance. 320 à 340 et est all-in.
+psychoman59 : suit. 260 et est all-in.
+hikarisan : passe. 
+Personne n'a suivi. (70) sont retournés à Franky2Doigts.
+*** FLOP *** [Kd As 8c]
+*** TOURNANT *** [Kd As 8c] [7s]
+*** RIVIÈRE *** [Kd As 8c 7s] [8s]
+*** ABATTAGE ***
+psychoman59 : montre [4c 4d] (double paire, Huit et Quatre)
+Franky2Doigts : montre [Ks 8h] (un full, full aux Huit par les Rois)
+Franky2Doigts a remporté 560  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [Kd As 8c 7s 8s]
+Siège 1 : psychoman59 (petite blind) a montré [4c 4d] et a perdu avec double paire, Huit et Quatre
+Siège 2 : hikarisan (grosse blind) s'est couché. avant Flop
+Siège 3 : Franky2Doigts (bouton) a montré [Ks 8h] et a gagné (560) avec un full, full aux Huit par les Rois
+
+
+

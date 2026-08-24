@@ -1,0 +1,827 @@
+﻿Main PokerStars n°254415570269 : Tournoi #3848464654, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 17/01/2025 17:19:12 CET [17/01/2025 11:19:12 ET]
+Table '3848464654 1' 3-max Siège #1 est au bouton.
+Place 1: alice59250 (500 en jetons) 
+Place 2: traxion33 (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+traxion33 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Jc]
+alice59250 : suit. 20
+traxion33 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Qd 4h Kc]
+traxion33 : parole 
+psychoman59 : parole 
+alice59250 : parole 
+*** TOURNANT *** [Qd 4h Kc] [3h]
+traxion33 : mise. 100
+psychoman59 : passe. 
+alice59250 : passe. 
+Personne n'a suivi. (100) sont retournés à traxion33.
+traxion33 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Qd 4h Kc 3h]
+Siège 1 : alice59250 (bouton) s'est couché. sur le Tournant
+Siège 2 : traxion33 (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°254415575778 : Tournoi #3848464654, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 17/01/2025 17:19:36 CET [17/01/2025 11:19:36 ET]
+Table '3848464654 1' 3-max Siège #2 est au bouton.
+Place 1: alice59250 (480 en jetons) 
+Place 2: traxion33 (540 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 10
+alice59250 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Jd]
+traxion33 : suit. 20
+psychoman59 : suit. 10
+alice59250 : relance. 20 à 40
+traxion33 : suit. 20
+psychoman59 : suit. 20
+*** FLOP *** [9h Td 6h]
+psychoman59 : parole 
+alice59250 : mise. 60
+traxion33 : suit. 60
+psychoman59 : suit. 60
+*** TOURNANT *** [9h Td 6h] [Kd]
+psychoman59 : parole 
+alice59250 : mise. 80
+traxion33 : relance. 80 à 160
+psychoman59 : passe. 
+alice59250 : suit. 80
+*** RIVIÈRE *** [9h Td 6h Kd] [Qh]
+alice59250 : parole 
+traxion33 : parole 
+*** ABATTAGE ***
+alice59250 : montre [6c Ah] (une paire de Six)
+traxion33 : montre [7c Kh] (une paire de Rois)
+traxion33 a remporté 620  lors du pot .
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [9h Td 6h Kd Qh]
+Siège 1 : alice59250 (grosse blind) a montré [6c Ah] et a perdu avec une paire de Six
+Siège 2 : traxion33 (bouton) a montré [7c Kh] et a gagné (620) avec une paire de Rois
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°254415585468 : Tournoi #3848464654, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 17/01/2025 17:20:19 CET [17/01/2025 11:20:19 ET]
+Table '3848464654 1' 3-max Siège #3 est au bouton.
+Place 1: alice59250 (220 en jetons) 
+Place 2: traxion33 (900 en jetons) 
+Place 3: psychoman59 (380 en jetons) 
+alice59250 : met la petite blind. 10
+traxion33 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 7d]
+psychoman59 : passe. 
+alice59250 : suit. 10
+traxion33 : parole 
+*** FLOP *** [7h Jh Qh]
+alice59250 : mise. 40
+traxion33 : passe. 
+Personne n'a suivi. (40) sont retournés à alice59250.
+alice59250 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [7h Jh Qh]
+Siège 1 : alice59250 (petite blind) a remporté (40)
+Siège 2 : traxion33 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°254415589293 : Tournoi #3848464654, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 17/01/2025 17:20:35 CET [17/01/2025 11:20:35 ET]
+Table '3848464654 1' 3-max Siège #1 est au bouton.
+Place 1: alice59250 (240 en jetons) 
+Place 2: traxion33 (880 en jetons) 
+Place 3: psychoman59 (380 en jetons) 
+traxion33 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 6d]
+alice59250 : suit. 20
+traxion33 : passe. 
+psychoman59 : relance. 360 à 380 et est all-in.
+alice59250 a dépassé le temps imparti.
+alice59250 : passe. 
+alice59250 ne joue pas.
+Personne n'a suivi. (360) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : alice59250 (bouton) s'est couché. avant Flop
+Siège 2 : traxion33 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (50)
+
+
+
+Main PokerStars n°254415597405 : Tournoi #3848464654, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 17/01/2025 17:21:10 CET [17/01/2025 11:21:10 ET]
+Table '3848464654 1' 3-max Siège #2 est au bouton.
+Place 1: alice59250 (220 en jetons) ne joue pas.
+Place 2: traxion33 (870 en jetons) 
+Place 3: psychoman59 (410 en jetons) 
+psychoman59 : met la petite blind. 10
+alice59250 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Qd]
+traxion33 : suit. 20
+psychoman59 : relance. 390 à 410 et est all-in.
+alice59250 : passe. 
+traxion33 : passe. 
+Personne n'a suivi. (390) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : alice59250 (grosse blind) s'est couché. avant Flop
+Siège 2 : traxion33 (bouton) s'est couché. avant Flop
+Siège 3 : psychoman59 (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°254415600561 : Tournoi #3848464654, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 17/01/2025 17:21:24 CET [17/01/2025 11:21:24 ET]
+Table '3848464654 1' 3-max Siège #3 est au bouton.
+Place 1: alice59250 (200 en jetons) ne joue pas.
+Place 2: traxion33 (850 en jetons) 
+Place 3: psychoman59 (450 en jetons) 
+alice59250 : met la petite blind. 15
+traxion33 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Qh]
+psychoman59 : suit. 30
+alice59250 : passe. 
+traxion33 : parole 
+*** FLOP *** [Jh As Ks]
+traxion33 : mise. 30
+psychoman59 : suit. 30
+*** TOURNANT *** [Jh As Ks] [Ac]
+traxion33 : mise. 30
+psychoman59 : suit. 30
+*** RIVIÈRE *** [Jh As Ks Ac] [4h]
+traxion33 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+traxion33 : montre [Jc 2d] (double paire, As et Valets)
+psychoman59 : montre [Jd Qh] (double paire, As et Valets)
+traxion33 a remporté 98  lors du pot .
+psychoman59 a remporté 97  lors du pot .
+*** SYNTHÈSE ***
+Pot total 195 | Commission 0 
+Tableau [Jh As Ks Ac 4h]
+Siège 1 : alice59250 (petite blind) s'est couché. avant Flop
+Siège 2 : traxion33 (grosse blind) a montré [Jc 2d] et a gagné (98) avec double paire, As et Valets
+Siège 3 : psychoman59 (bouton) a montré [Jd Qh] et a gagné (97) avec double paire, As et Valets
+
+
+
+Main PokerStars n°254415605488 : Tournoi #3848464654, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 17/01/2025 17:21:45 CET [17/01/2025 11:21:45 ET]
+Table '3848464654 1' 3-max Siège #1 est au bouton.
+Place 1: alice59250 (185 en jetons) ne joue pas.
+Place 2: traxion33 (858 en jetons) 
+Place 3: psychoman59 (457 en jetons) 
+traxion33 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 2c]
+alice59250 : passe. 
+traxion33 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+alice59250 est revenu.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : alice59250 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : traxion33 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°254415607181 : Tournoi #3848464654, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 17/01/2025 17:21:52 CET [17/01/2025 11:21:52 ET]
+Table '3848464654 1' 3-max Siège #2 est au bouton.
+Place 1: alice59250 (185 en jetons) 
+Place 2: traxion33 (843 en jetons) 
+Place 3: psychoman59 (472 en jetons) 
+psychoman59 : met la petite blind. 15
+alice59250 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Th]
+traxion33 : relance. 30 à 60
+psychoman59 : passe. 
+alice59250 : suit. 30
+*** FLOP *** [2d Ac 2s]
+alice59250 : parole 
+traxion33 : mise. 783 et est all-in.
+alice59250 : passe. 
+Personne n'a suivi. (783) sont retournés à traxion33.
+traxion33 a remporté 135  lors du pot .
+*** SYNTHÈSE ***
+Pot total 135 | Commission 0 
+Tableau [2d Ac 2s]
+Siège 1 : alice59250 (grosse blind) s'est couché. sur le Flop
+Siège 2 : traxion33 (bouton) a remporté (135)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254415610979 : Tournoi #3848464654, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 17/01/2025 17:22:09 CET [17/01/2025 11:22:09 ET]
+Table '3848464654 1' 3-max Siège #3 est au bouton.
+Place 1: alice59250 (125 en jetons) 
+Place 2: traxion33 (918 en jetons) 
+Place 3: psychoman59 (457 en jetons) 
+alice59250 : met la petite blind. 15
+traxion33 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Kd]
+psychoman59 : suit. 30
+alice59250 : suit. 15
+traxion33 : parole 
+*** FLOP *** [5d Jd 8d]
+alice59250 : parole 
+traxion33 : mise. 30
+psychoman59 : suit. 30
+alice59250 : suit. 30
+*** TOURNANT *** [5d Jd 8d] [7h]
+alice59250 : parole 
+traxion33 : parole 
+psychoman59 : mise. 90
+alice59250 : suit. 65 et est all-in.
+traxion33 : passe. 
+Personne n'a suivi. (25) sont retournés à psychoman59.
+*** RIVIÈRE *** [5d Jd 8d 7h] [3h]
+*** ABATTAGE ***
+alice59250 : montre [9d Td] (une couleur, hauteur Valet)
+psychoman59 : montre [9h Kd] (Hauteur Roi)
+alice59250 a remporté 310  lors du pot .
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Tableau [5d Jd 8d 7h 3h]
+Siège 1 : alice59250 (petite blind) a montré [9d Td] et a gagné (310) avec une couleur, hauteur Valet
+Siège 2 : traxion33 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) a montré [9h Kd] et a perdu avec Hauteur Roi
+
+
+
+Main PokerStars n°254415618753 : Tournoi #3848464654, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 17/01/2025 17:22:43 CET [17/01/2025 11:22:43 ET]
+Table '3848464654 1' 3-max Siège #1 est au bouton.
+Place 1: alice59250 (310 en jetons) 
+Place 2: traxion33 (858 en jetons) 
+Place 3: psychoman59 (332 en jetons) 
+traxion33 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 8s]
+alice59250 : suit. 30
+traxion33 : passe. 
+psychoman59 : parole 
+*** FLOP *** [Ah 6c 5h]
+psychoman59 : parole 
+alice59250 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à alice59250.
+alice59250 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Tableau [Ah 6c 5h]
+Siège 1 : alice59250 (bouton) a remporté (75)
+Siège 2 : traxion33 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°254415623077 : Tournoi #3848464654, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 17/01/2025 17:23:02 CET [17/01/2025 11:23:02 ET]
+Table '3848464654 1' 3-max Siège #2 est au bouton.
+Place 1: alice59250 (355 en jetons) 
+Place 2: traxion33 (843 en jetons) 
+Place 3: psychoman59 (302 en jetons) 
+psychoman59 : met la petite blind. 15
+alice59250 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Jc]
+traxion33 : relance. 30 à 60
+psychoman59 : passe. 
+alice59250 : suit. 30
+*** FLOP *** [8d Ts Kd]
+alice59250 : mise. 60
+traxion33 : suit. 60
+*** TOURNANT *** [8d Ts Kd] [As]
+alice59250 : mise. 60
+traxion33 : suit. 60
+*** RIVIÈRE *** [8d Ts Kd As] [9s]
+alice59250 : mise. 90
+traxion33 : passe. 
+Personne n'a suivi. (90) sont retournés à alice59250.
+alice59250 a remporté 375  lors du pot .
+*** SYNTHÈSE ***
+Pot total 375 | Commission 0 
+Tableau [8d Ts Kd As 9s]
+Siège 1 : alice59250 (grosse blind) a remporté (375)
+Siège 2 : traxion33 (bouton) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254415630531 : Tournoi #3848464654, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 17/01/2025 17:23:34 CET [17/01/2025 11:23:34 ET]
+Table '3848464654 1' 3-max Siège #3 est au bouton.
+Place 1: alice59250 (550 en jetons) 
+Place 2: traxion33 (663 en jetons) 
+Place 3: psychoman59 (287 en jetons) 
+alice59250 : met la petite blind. 20
+traxion33 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 5d]
+psychoman59 : passe. 
+alice59250 : suit. 20
+traxion33 : relance. 40 à 80
+alice59250 : suit. 40
+*** FLOP *** [4s Th 3h]
+alice59250 : parole 
+traxion33 : mise. 583 et est all-in.
+alice59250 : passe. 
+Personne n'a suivi. (583) sont retournés à traxion33.
+traxion33 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [4s Th 3h]
+Siège 1 : alice59250 (petite blind) s'est couché. sur le Flop
+Siège 2 : traxion33 (grosse blind) a remporté (160)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°254415634215 : Tournoi #3848464654, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 17/01/2025 17:23:50 CET [17/01/2025 11:23:50 ET]
+Table '3848464654 1' 3-max Siège #1 est au bouton.
+Place 1: alice59250 (470 en jetons) 
+Place 2: traxion33 (743 en jetons) 
+Place 3: psychoman59 (287 en jetons) 
+traxion33 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Ts]
+alice59250 : relance. 40 à 80
+traxion33 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à alice59250.
+alice59250 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : alice59250 (bouton) a remporté (100)
+Siège 2 : traxion33 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254415635842 : Tournoi #3848464654, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 17/01/2025 17:23:58 CET [17/01/2025 11:23:58 ET]
+Table '3848464654 1' 3-max Siège #2 est au bouton.
+Place 1: alice59250 (530 en jetons) 
+Place 2: traxion33 (723 en jetons) 
+Place 3: psychoman59 (247 en jetons) 
+psychoman59 : met la petite blind. 20
+alice59250 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 5d]
+traxion33 : passe. 
+psychoman59 : relance. 207 à 247 et est all-in.
+alice59250 : passe. 
+Personne n'a suivi. (207) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : alice59250 (grosse blind) s'est couché. avant Flop
+Siège 2 : traxion33 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°254415637669 : Tournoi #3848464654, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 17/01/2025 17:24:06 CET [17/01/2025 11:24:06 ET]
+Table '3848464654 1' 3-max Siège #3 est au bouton.
+Place 1: alice59250 (490 en jetons) 
+Place 2: traxion33 (723 en jetons) 
+Place 3: psychoman59 (287 en jetons) 
+alice59250 : met la petite blind. 20
+traxion33 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 2d]
+psychoman59 : suit. 40
+alice59250 : suit. 20
+traxion33 : parole 
+*** FLOP *** [As 8h 5s]
+alice59250 : parole 
+traxion33 : mise. 120
+psychoman59 : passe. 
+alice59250 : passe. 
+Personne n'a suivi. (120) sont retournés à traxion33.
+traxion33 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [As 8h 5s]
+Siège 1 : alice59250 (petite blind) s'est couché. sur le Flop
+Siège 2 : traxion33 (grosse blind) a remporté (120)
+Siège 3 : psychoman59 (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°254415641661 : Tournoi #3848464654, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 17/01/2025 17:24:24 CET [17/01/2025 11:24:24 ET]
+Table '3848464654 1' 3-max Siège #1 est au bouton.
+Place 1: alice59250 (450 en jetons) 
+Place 2: traxion33 (803 en jetons) 
+Place 3: psychoman59 (247 en jetons) 
+traxion33 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 9s]
+alice59250 : relance. 40 à 80
+traxion33 : suit. 60
+psychoman59 : passe. 
+*** FLOP *** [7h Th 4d]
+traxion33 : parole 
+alice59250 : mise. 80
+traxion33 : passe. 
+Personne n'a suivi. (80) sont retournés à alice59250.
+alice59250 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [7h Th 4d]
+Siège 1 : alice59250 (bouton) a remporté (200)
+Siège 2 : traxion33 (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254415646687 : Tournoi #3848464654, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 17/01/2025 17:24:46 CET [17/01/2025 11:24:46 ET]
+Table '3848464654 1' 3-max Siège #2 est au bouton.
+Place 1: alice59250 (570 en jetons) 
+Place 2: traxion33 (723 en jetons) 
+Place 3: psychoman59 (207 en jetons) 
+psychoman59 : met la petite blind. 20
+alice59250 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 3h]
+traxion33 : passe. 
+psychoman59 : relance. 167 à 207 et est all-in.
+alice59250 : passe. 
+Personne n'a suivi. (167) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : alice59250 (grosse blind) s'est couché. avant Flop
+Siège 2 : traxion33 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°254415648826 : Tournoi #3848464654, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 17/01/2025 17:24:55 CET [17/01/2025 11:24:55 ET]
+Table '3848464654 1' 3-max Siège #3 est au bouton.
+Place 1: alice59250 (530 en jetons) 
+Place 2: traxion33 (723 en jetons) 
+Place 3: psychoman59 (247 en jetons) 
+alice59250 : met la petite blind. 20
+traxion33 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Qc]
+psychoman59 : passe. 
+alice59250 : relance. 40 à 80
+traxion33 : passe. 
+Personne n'a suivi. (40) sont retournés à alice59250.
+alice59250 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : alice59250 (petite blind) a remporté (80)
+Siège 2 : traxion33 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°254415650828 : Tournoi #3848464654, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 17/01/2025 17:25:03 CET [17/01/2025 11:25:03 ET]
+Table '3848464654 1' 3-max Siège #1 est au bouton.
+Place 1: alice59250 (570 en jetons) 
+Place 2: traxion33 (683 en jetons) 
+Place 3: psychoman59 (247 en jetons) 
+traxion33 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 8c]
+alice59250 : relance. 40 à 80
+traxion33 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à alice59250.
+alice59250 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : alice59250 (bouton) a remporté (100)
+Siège 2 : traxion33 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254415653170 : Tournoi #3848464654, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 17/01/2025 17:25:13 CET [17/01/2025 11:25:13 ET]
+Table '3848464654 1' 3-max Siège #2 est au bouton.
+Place 1: alice59250 (630 en jetons) 
+Place 2: traxion33 (663 en jetons) 
+Place 3: psychoman59 (207 en jetons) 
+psychoman59 : met la petite blind. 20
+alice59250 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 3d]
+traxion33 : passe. 
+psychoman59 : relance. 167 à 207 et est all-in.
+alice59250 : passe. 
+Personne n'a suivi. (167) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : alice59250 (grosse blind) s'est couché. avant Flop
+Siège 2 : traxion33 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°254415655594 : Tournoi #3848464654, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 17/01/2025 17:25:24 CET [17/01/2025 11:25:24 ET]
+Table '3848464654 1' 3-max Siège #3 est au bouton.
+Place 1: alice59250 (590 en jetons) 
+Place 2: traxion33 (663 en jetons) 
+Place 3: psychoman59 (247 en jetons) 
+alice59250 : met la petite blind. 30
+traxion33 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 7d]
+psychoman59 : passe. 
+alice59250 : relance. 60 à 120
+traxion33 : suit. 60
+*** FLOP *** [As Ah 8c]
+alice59250 : parole 
+traxion33 : mise. 180
+alice59250 : suit. 180
+*** TOURNANT *** [As Ah 8c] [6s]
+alice59250 : parole 
+traxion33 : parole 
+*** RIVIÈRE *** [As Ah 8c 6s] [Jd]
+alice59250 : parole 
+traxion33 : parole 
+*** ABATTAGE ***
+alice59250 : montre [7s Kc] (une paire de As)
+traxion33 : montre [Kh 7c] (une paire de As)
+alice59250 a remporté 300  lors du pot .
+traxion33 a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [As Ah 8c 6s Jd]
+Siège 1 : alice59250 (petite blind) a montré [7s Kc] et a gagné (300) avec une paire de As
+Siège 2 : traxion33 (grosse blind) a montré [Kh 7c] et a gagné (300) avec une paire de As
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°254415661051 : Tournoi #3848464654, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 17/01/2025 17:25:48 CET [17/01/2025 11:25:48 ET]
+Table '3848464654 1' 3-max Siège #1 est au bouton.
+Place 1: alice59250 (590 en jetons) 
+Place 2: traxion33 (663 en jetons) 
+Place 3: psychoman59 (247 en jetons) 
+traxion33 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 8c]
+alice59250 : suit. 60
+traxion33 : relance. 60 à 120
+psychoman59 : passe. 
+alice59250 : suit. 60
+*** FLOP *** [4s 7c Tc]
+traxion33 : parole 
+alice59250 : parole 
+*** TOURNANT *** [4s 7c Tc] [9d]
+traxion33 : parole 
+alice59250 : mise. 60
+traxion33 : suit. 60
+*** RIVIÈRE *** [4s 7c Tc 9d] [2d]
+traxion33 : parole 
+alice59250 : mise. 180
+traxion33 : passe. 
+Personne n'a suivi. (180) sont retournés à alice59250.
+alice59250 a remporté 420  lors du pot .
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [4s 7c Tc 9d 2d]
+Siège 1 : alice59250 (bouton) a remporté (420)
+Siège 2 : traxion33 (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254415668669 : Tournoi #3848464654, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 17/01/2025 17:26:22 CET [17/01/2025 11:26:22 ET]
+Table '3848464654 1' 3-max Siège #2 est au bouton.
+Place 1: alice59250 (830 en jetons) 
+Place 2: traxion33 (483 en jetons) 
+Place 3: psychoman59 (187 en jetons) 
+psychoman59 : met la petite blind. 30
+alice59250 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 9s]
+traxion33 : relance. 60 à 120
+psychoman59 : passe. 
+alice59250 : passe. 
+Personne n'a suivi. (60) sont retournés à traxion33.
+traxion33 a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Siège 1 : alice59250 (grosse blind) s'est couché. avant Flop
+Siège 2 : traxion33 (bouton) a remporté (150)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254415670811 : Tournoi #3848464654, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 17/01/2025 17:26:31 CET [17/01/2025 11:26:31 ET]
+Table '3848464654 1' 3-max Siège #3 est au bouton.
+Place 1: alice59250 (770 en jetons) 
+Place 2: traxion33 (573 en jetons) 
+Place 3: psychoman59 (157 en jetons) 
+alice59250 : met la petite blind. 30
+traxion33 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 5c]
+psychoman59 : relance. 97 à 157 et est all-in.
+alice59250 : suit. 127
+traxion33 : suit. 97
+*** FLOP *** [Kh 3s 2s]
+alice59250 : parole 
+traxion33 : parole 
+*** TOURNANT *** [Kh 3s 2s] [Qd]
+alice59250 : parole 
+traxion33 : parole 
+*** RIVIÈRE *** [Kh 3s 2s Qd] [5s]
+alice59250 : parole 
+traxion33 : parole 
+*** ABATTAGE ***
+alice59250 : montre [Ad 2d] (une paire de Deux)
+traxion33 : cache la main perdante. 
+psychoman59 : montre [5h 5c] (un brelan de Cinq)
+psychoman59 a remporté 471  lors du pot .
+*** SYNTHÈSE ***
+Pot total 471 | Commission 0 
+Tableau [Kh 3s 2s Qd 5s]
+Siège 1 : alice59250 (petite blind) a montré [Ad 2d] et a perdu avec une paire de Deux
+Siège 2 : traxion33 (grosse blind) a caché la main perdante. [As Th]
+Siège 3 : psychoman59 (bouton) a montré [5h 5c] et a gagné (471) avec un brelan de Cinq
+
+
+
+Main PokerStars n°254415675683 : Tournoi #3848464654, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 17/01/2025 17:26:52 CET [17/01/2025 11:26:52 ET]
+Table '3848464654 1' 3-max Siège #1 est au bouton.
+Place 1: alice59250 (613 en jetons) 
+Place 2: traxion33 (416 en jetons) 
+Place 3: psychoman59 (471 en jetons) 
+traxion33 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Th]
+alice59250 : suit. 60
+traxion33 : passe. 
+psychoman59 : parole 
+*** FLOP *** [5c 7h 8d]
+psychoman59 : parole 
+alice59250 : parole 
+*** TOURNANT *** [5c 7h 8d] [4c]
+psychoman59 : parole 
+alice59250 : parole 
+*** RIVIÈRE *** [5c 7h 8d 4c] [Qc]
+psychoman59 : parole 
+alice59250 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à alice59250.
+alice59250 a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Tableau [5c 7h 8d 4c Qc]
+Siège 1 : alice59250 (bouton) a remporté (150)
+Siège 2 : traxion33 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°254415682853 : Tournoi #3848464654, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 17/01/2025 17:27:23 CET [17/01/2025 11:27:23 ET]
+Table '3848464654 1' 3-max Siège #2 est au bouton.
+Place 1: alice59250 (703 en jetons) 
+Place 2: traxion33 (386 en jetons) 
+Place 3: psychoman59 (411 en jetons) 
+psychoman59 : met la petite blind. 40
+alice59250 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 5c]
+traxion33 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à alice59250.
+alice59250 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : alice59250 (grosse blind) a remporté (80)
+Siège 2 : traxion33 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254415684031 : Tournoi #3848464654, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 17/01/2025 17:27:29 CET [17/01/2025 11:27:29 ET]
+Table '3848464654 1' 3-max Siège #3 est au bouton.
+Place 1: alice59250 (743 en jetons) 
+Place 2: traxion33 (386 en jetons) 
+Place 3: psychoman59 (371 en jetons) 
+alice59250 : met la petite blind. 40
+traxion33 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 6s]
+psychoman59 : passe. 
+alice59250 : relance. 80 à 160
+traxion33 : suit. 80
+*** FLOP *** [Ts Td 8h]
+alice59250 : mise. 160
+traxion33 : suit. 160
+*** TOURNANT *** [Ts Td 8h] [Ks]
+alice59250 : mise. 80
+traxion33 : suit. 66 et est all-in.
+Personne n'a suivi. (14) sont retournés à alice59250.
+*** RIVIÈRE *** [Ts Td 8h Ks] [2d]
+*** ABATTAGE ***
+alice59250 : montre [2c 7c] (double paire, Dix et Deux)
+traxion33 : montre [Kd Tc] (un full, full aux Dix par les Rois)
+traxion33 a remporté 772  lors du pot .
+*** SYNTHÈSE ***
+Pot total 772 | Commission 0 
+Tableau [Ts Td 8h Ks 2d]
+Siège 1 : alice59250 (petite blind) a montré [2c 7c] et a perdu avec double paire, Dix et Deux
+Siège 2 : traxion33 (grosse blind) a montré [Kd Tc] et a gagné (772) avec un full, full aux Dix par les Rois
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°254415690130 : Tournoi #3848464654, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 17/01/2025 17:27:54 CET [17/01/2025 11:27:54 ET]
+Table '3848464654 1' 3-max Siège #1 est au bouton.
+Place 1: alice59250 (357 en jetons) 
+Place 2: traxion33 (772 en jetons) 
+Place 3: psychoman59 (371 en jetons) 
+traxion33 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 3s]
+alice59250 : suit. 80
+traxion33 : passe. 
+psychoman59 : parole 
+*** FLOP *** [6h 3d As]
+psychoman59 : mise. 291 et est all-in.
+alice59250 : suit. 277 et est all-in.
+Personne n'a suivi. (14) sont retournés à psychoman59.
+*** TOURNANT *** [6h 3d As] [Qh]
+*** RIVIÈRE *** [6h 3d As Qh] [Tc]
+*** ABATTAGE ***
+psychoman59 : montre [8s 3s] (une paire de Trois)
+alice59250 : montre [5d 6c] (une paire de Six)
+alice59250 a remporté 754  lors du pot .
+*** SYNTHÈSE ***
+Pot total 754 | Commission 0 
+Tableau [6h 3d As Qh Tc]
+Siège 1 : alice59250 (bouton) a montré [5d 6c] et a gagné (754) avec une paire de Six
+Siège 2 : traxion33 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [8s 3s] et a perdu avec une paire de Trois
+
+
+
+Main PokerStars n°254415695461 : Tournoi #3848464654, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 17/01/2025 17:28:18 CET [17/01/2025 11:28:18 ET]
+Table '3848464654 1' 3-max Siège #2 est au bouton.
+Place 1: alice59250 (754 en jetons) 
+Place 2: traxion33 (732 en jetons) 
+Place 3: psychoman59 (14 en jetons) 
+psychoman59 : met la petite blind. 14 et est all-in.
+alice59250 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 9s]
+traxion33 : suit. 80
+alice59250 : relance. 80 à 160
+traxion33 : suit. 80
+*** FLOP *** [5s Js 4d]
+alice59250 : mise. 160
+traxion33 : passe. 
+Personne n'a suivi. (160) sont retournés à alice59250.
+*** TOURNANT *** [5s Js 4d] [Qd]
+*** RIVIÈRE *** [5s Js 4d Qd] [5d]
+*** ABATTAGE ***
+alice59250 : montre [Ad 3d] (une couleur, hauteur As)
+alice59250 a remporté 292  parallèle lors du pot .
+psychoman59 : montre [2h 9s] (une paire de Cinq)
+alice59250 a remporté 42  principal lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 334 Principal pot 42. Parallèle pot 292. | Commission 0 
+Tableau [5s Js 4d Qd 5d]
+Siège 1 : alice59250 (grosse blind) a montré [Ad 3d] et a gagné (334) avec une couleur, hauteur As
+Siège 2 : traxion33 (bouton) s'est couché. sur le Flop
+Siège 3 : psychoman59 (petite blind) a montré [2h 9s] et a perdu avec une paire de Cinq
+
+
+

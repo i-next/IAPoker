@@ -1,0 +1,77 @@
+﻿Main PokerStars n°261145010022 : Tournoi #4008680905, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 15/06/2026 7:27:13 CET [15/06/2026 1:27:13 ET]
+Table '4008680905 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: rafamb9 (500 en jetons) 
+Place 3: emeralgolden97 (500 en jetons) 
+rafamb9 : met la petite blind. 10
+emeralgolden97 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 6c]
+psychoman59 : passe. 
+rafamb9 : passe. 
+Personne n'a suivi. (10) sont retournés à emeralgolden97.
+emeralgolden97 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : rafamb9 (petite blind) s'est couché. avant Flop
+Siège 3 : emeralgolden97 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°261145010360 : Tournoi #4008680905, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 15/06/2026 7:27:20 CET [15/06/2026 1:27:20 ET]
+Table '4008680905 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: rafamb9 (490 en jetons) 
+Place 3: emeralgolden97 (510 en jetons) 
+emeralgolden97 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 7s]
+rafamb9 : relance. 470 à 490 et est all-in.
+emeralgolden97 : passe. 
+psychoman59 : suit. 470
+*** FLOP *** [Td 2h 8d]
+*** TOURNANT *** [Td 2h 8d] [Jc]
+*** RIVIÈRE *** [Td 2h 8d Jc] [Ah]
+*** ABATTAGE ***
+psychoman59 : montre [As 7s] (une paire de As)
+rafamb9 : montre [2c Ad] (double paire, As et Deux)
+rafamb9 a remporté 990  lors du pot .
+*** SYNTHÈSE ***
+Pot total 990 | Commission 0 
+Tableau [Td 2h 8d Jc Ah]
+Siège 1 : psychoman59 (grosse blind) a montré [As 7s] et a perdu avec une paire de As
+Siège 2 : rafamb9 (bouton) a montré [2c Ad] et a gagné (990) avec double paire, As et Deux
+Siège 3 : emeralgolden97 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261145011301 : Tournoi #4008680905, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 15/06/2026 7:27:39 CET [15/06/2026 1:27:39 ET]
+Table '4008680905 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (10 en jetons) 
+Place 2: rafamb9 (990 en jetons) 
+Place 3: emeralgolden97 (500 en jetons) 
+psychoman59 : met la petite blind. 10 et est all-in.
+rafamb9 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 4h]
+emeralgolden97 : passe. 
+Personne n'a suivi. (10) sont retournés à rafamb9.
+*** FLOP *** [9c Th Kd]
+*** TOURNANT *** [9c Th Kd] [Qd]
+*** RIVIÈRE *** [9c Th Kd Qd] [5h]
+*** ABATTAGE ***
+psychoman59 : montre [3h 4h] (Hauteur Roi)
+rafamb9 : montre [6d Js] (une suite, Neuf à Roi)
+rafamb9 a remporté 20  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Tableau [9c Th Kd Qd 5h]
+Siège 1 : psychoman59 (petite blind) a montré [3h 4h] et a perdu avec Hauteur Roi
+Siège 2 : rafamb9 (grosse blind) a montré [6d Js] et a gagné (20) avec une suite, Neuf à Roi
+Siège 3 : emeralgolden97 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+

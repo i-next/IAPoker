@@ -1,0 +1,94 @@
+﻿Main PokerStars n°250647651652 : Tournoi #3757782429, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 23/05/2024 7:50:59 CET [23/05/2024 1:50:59 ET]
+Table '3757782429 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: IDFlX (500 en jetons) 
+Place 3: 2001BARBOSA (500 en jetons) 
+IDFlX : met la petite blind. 10
+2001BARBOSA : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Th]
+psychoman59 : suit. 20
+IDFlX : passe. 
+2001BARBOSA : parole 
+*** FLOP *** [2s 7h Ks]
+2001BARBOSA : parole 
+psychoman59 : parole 
+*** TOURNANT *** [2s 7h Ks] [4s]
+2001BARBOSA : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [2s 7h Ks 4s] [9s]
+2001BARBOSA : mise. 53
+psychoman59 : relance. 427 à 480 et est all-in.
+2001BARBOSA : passe. 
+Personne n'a suivi. (427) sont retournés à psychoman59.
+psychoman59 a remporté 156  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 156 | Commission 0 
+Tableau [2s 7h Ks 4s 9s]
+Siège 1 : psychoman59 (bouton) a remporté (156)
+Siège 2 : IDFlX (petite blind) s'est couché. avant Flop
+Siège 3 : 2001BARBOSA (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°250647654337 : Tournoi #3757782429, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 23/05/2024 7:51:30 CET [23/05/2024 1:51:30 ET]
+Table '3757782429 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (583 en jetons) 
+Place 2: IDFlX (490 en jetons) 
+Place 3: 2001BARBOSA (427 en jetons) 
+2001BARBOSA : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Ac]
+IDFlX : relance. 40 à 60
+2001BARBOSA : passe. 
+psychoman59 : relance. 523 à 583 et est all-in.
+IDFlX : suit. 430 et est all-in.
+Personne n'a suivi. (93) sont retournés à psychoman59.
+*** FLOP *** [6d 7d 9s]
+*** TOURNANT *** [6d 7d 9s] [3d]
+*** RIVIÈRE *** [6d 7d 9s 3d] [Th]
+*** ABATTAGE ***
+psychoman59 : montre [Kh Ac] (Hauteur As)
+IDFlX : montre [5s 5d] (une paire de Cinq)
+IDFlX a remporté 990  lors du pot .
+*** SYNTHÈSE ***
+Pot total 990 | Commission 0 
+Tableau [6d 7d 9s 3d Th]
+Siège 1 : psychoman59 (grosse blind) a montré [Kh Ac] et a perdu avec Hauteur As
+Siège 2 : IDFlX (bouton) a montré [5s 5d] et a gagné (990) avec une paire de Cinq
+Siège 3 : 2001BARBOSA (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°250647656240 : Tournoi #3757782429, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 23/05/2024 7:51:53 CET [23/05/2024 1:51:53 ET]
+Table '3757782429 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (93 en jetons) 
+Place 2: IDFlX (990 en jetons) 
+Place 3: 2001BARBOSA (417 en jetons) 
+psychoman59 : met la petite blind. 10
+IDFlX : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 5c]
+2001BARBOSA : relance. 21 à 41
+psychoman59 : relance. 52 à 93 et est all-in.
+IDFlX : passe. 
+2001BARBOSA : suit. 52
+*** FLOP *** [Qs 9d Ts]
+*** TOURNANT *** [Qs 9d Ts] [8s]
+*** RIVIÈRE *** [Qs 9d Ts 8s] [6s]
+*** ABATTAGE ***
+psychoman59 : montre [Kc 5c] (Hauteur Roi)
+2001BARBOSA : montre [Qh Ah] (une paire de Dames)
+2001BARBOSA a remporté 206  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 206 | Commission 0 
+Tableau [Qs 9d Ts 8s 6s]
+Siège 1 : psychoman59 (petite blind) a montré [Kc 5c] et a perdu avec Hauteur Roi
+Siège 2 : IDFlX (grosse blind) s'est couché. avant Flop
+Siège 3 : 2001BARBOSA (bouton) a montré [Qh Ah] et a gagné (206) avec une paire de Dames
+
+
+

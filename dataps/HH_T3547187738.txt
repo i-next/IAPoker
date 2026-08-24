@@ -1,0 +1,424 @@
+﻿Main PokerStars n°241804910992 : Tournoi #3547187738, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 13/02/2023 7:21:03 CET [13/02/2023 1:21:03 ET]
+Table '3547187738 1' 3-max Siège #1 est au bouton.
+Place 1: kld1_955 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: jomille59 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+jomille59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 3h]
+kld1_955 : suit. 20
+psychoman59 : suit. 10
+jomille59 : parole 
+*** FLOP *** [Qh 7h 6c]
+psychoman59 : parole 
+jomille59 : mise. 20
+kld1_955 : suit. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [Qh 7h 6c] [4s]
+psychoman59 : parole 
+jomille59 : mise. 40
+kld1_955 : passe. 
+psychoman59 : suit. 40
+*** RIVIÈRE *** [Qh 7h 6c 4s] [Jh]
+psychoman59 : parole 
+jomille59 : mise. 80
+psychoman59 : relance. 80 à 160
+jomille59 : suit. 80
+*** ABATTAGE ***
+psychoman59 : montre [8h 3h] (une couleur, hauteur Dame)
+jomille59 : cache la main perdante. 
+psychoman59 a remporté 520  lors du pot .
+*** SYNTHÈSE ***
+Pot total 520 | Commission 0 
+Tableau [Qh 7h 6c 4s Jh]
+Siège 1 : kld1_955 (bouton) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (petite blind) a montré [8h 3h] et a gagné (520) avec une couleur, hauteur Dame
+Siège 3 : jomille59 (grosse blind) a caché la main perdante. [Jd 6h]
+
+
+
+Main PokerStars n°241804915269 : Tournoi #3547187738, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 13/02/2023 7:21:48 CET [13/02/2023 1:21:48 ET]
+Table '3547187738 1' 3-max Siège #2 est au bouton.
+Place 1: kld1_955 (260 en jetons) 
+Place 2: psychoman59 (580 en jetons) 
+Place 3: jomille59 (60 en jetons) 
+jomille59 : met la petite blind. 10
+kld1_955 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 5d]
+psychoman59 : passe. 
+jomille59 : suit. 10
+kld1_955 : parole 
+*** FLOP *** [6d 7h 2d]
+jomille59 : parole 
+kld1_955 : parole 
+*** TOURNANT *** [6d 7h 2d] [Ad]
+jomille59 : parole 
+kld1_955 : parole 
+*** RIVIÈRE *** [6d 7h 2d Ad] [2s]
+jomille59 : parole 
+kld1_955 : parole 
+*** ABATTAGE ***
+jomille59 : montre [4d 5c] (une paire de Deux)
+kld1_955 : montre [5h 3c] (une paire de Deux)
+jomille59 a remporté 20  lors du pot .
+kld1_955 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [6d 7h 2d Ad 2s]
+Siège 1 : kld1_955 (grosse blind) a montré [5h 3c] et a gagné (20) avec une paire de Deux
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : jomille59 (petite blind) a montré [4d 5c] et a gagné (20) avec une paire de Deux
+
+
+
+Main PokerStars n°241804917448 : Tournoi #3547187738, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 13/02/2023 7:22:11 CET [13/02/2023 1:22:11 ET]
+Table '3547187738 1' 3-max Siège #3 est au bouton.
+Place 1: kld1_955 (260 en jetons) 
+Place 2: psychoman59 (580 en jetons) 
+Place 3: jomille59 (60 en jetons) 
+kld1_955 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Qs]
+jomille59 : relance. 30 à 60 et est all-in.
+kld1_955 : passe. 
+psychoman59 : suit. 30
+*** FLOP *** [Kh Jd 7d]
+*** TOURNANT *** [Kh Jd 7d] [2s]
+*** RIVIÈRE *** [Kh Jd 7d 2s] [6h]
+*** ABATTAGE ***
+psychoman59 : montre [Tc Qs] (Hauteur Roi)
+jomille59 : montre [Jc 8s] (une paire de Valets)
+jomille59 a remporté 135  lors du pot .
+*** SYNTHÈSE ***
+Pot total 135 | Commission 0 
+Tableau [Kh Jd 7d 2s 6h]
+Siège 1 : kld1_955 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a montré [Tc Qs] et a perdu avec Hauteur Roi
+Siège 3 : jomille59 (bouton) a montré [Jc 8s] et a gagné (135) avec une paire de Valets
+
+
+
+Main PokerStars n°241804918817 : Tournoi #3547187738, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 13/02/2023 7:22:25 CET [13/02/2023 1:22:25 ET]
+Table '3547187738 1' 3-max Siège #1 est au bouton.
+Place 1: kld1_955 (245 en jetons) 
+Place 2: psychoman59 (520 en jetons) 
+Place 3: jomille59 (135 en jetons) 
+psychoman59 : met la petite blind. 15
+jomille59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 3h]
+kld1_955 : suit. 30
+psychoman59 : passe. 
+jomille59 : relance. 105 à 135 et est all-in.
+kld1_955 : suit. 105
+*** FLOP *** [6c 8c Jc]
+*** TOURNANT *** [6c 8c Jc] [Kd]
+*** RIVIÈRE *** [6c 8c Jc Kd] [4d]
+*** ABATTAGE ***
+jomille59 : montre [Ah 8h] (une paire de Huit)
+kld1_955 : montre [As 3c] (Hauteur As)
+jomille59 a remporté 285  lors du pot .
+*** SYNTHÈSE ***
+Pot total 285 | Commission 0 
+Tableau [6c 8c Jc Kd 4d]
+Siège 1 : kld1_955 (bouton) a montré [As 3c] et a perdu avec Hauteur As
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : jomille59 (grosse blind) a montré [Ah 8h] et a gagné (285) avec une paire de Huit
+
+
+
+Main PokerStars n°241804920562 : Tournoi #3547187738, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 13/02/2023 7:22:43 CET [13/02/2023 1:22:43 ET]
+Table '3547187738 1' 3-max Siège #2 est au bouton.
+Place 1: kld1_955 (110 en jetons) 
+Place 2: psychoman59 (505 en jetons) 
+Place 3: jomille59 (285 en jetons) 
+jomille59 : met la petite blind. 15
+kld1_955 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 4c]
+psychoman59 : passe. 
+jomille59 : passe. 
+Personne n'a suivi. (15) sont retournés à kld1_955.
+kld1_955 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : kld1_955 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : jomille59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241804921247 : Tournoi #3547187738, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 13/02/2023 7:22:50 CET [13/02/2023 1:22:50 ET]
+Table '3547187738 1' 3-max Siège #3 est au bouton.
+Place 1: kld1_955 (125 en jetons) 
+Place 2: psychoman59 (505 en jetons) 
+Place 3: jomille59 (270 en jetons) 
+kld1_955 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Jh]
+jomille59 : suit. 30
+kld1_955 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Qc 7c Kc]
+kld1_955 : parole 
+psychoman59 : parole 
+jomille59 : parole 
+*** TOURNANT *** [Qc 7c Kc] [6c]
+kld1_955 : parole 
+psychoman59 : parole 
+jomille59 : mise. 60
+kld1_955 : relance. 35 à 95 et est all-in.
+psychoman59 : passe. 
+jomille59 : suit. 35
+*** RIVIÈRE *** [Qc 7c Kc 6c] [Td]
+*** ABATTAGE ***
+kld1_955 : montre [Jc 8s] (une couleur, hauteur Roi)
+jomille59 : montre [8d 9c] (une couleur, hauteur Roi - plus basse cartes)
+kld1_955 a remporté 280  lors du pot .
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Tableau [Qc 7c Kc 6c Td]
+Siège 1 : kld1_955 (petite blind) a montré [Jc 8s] et a gagné (280) avec une couleur, hauteur Roi
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : jomille59 (bouton) a montré [8d 9c] et a perdu avec une couleur, hauteur Roi
+
+
+
+Main PokerStars n°241804924587 : Tournoi #3547187738, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 13/02/2023 7:23:25 CET [13/02/2023 1:23:25 ET]
+Table '3547187738 1' 3-max Siège #1 est au bouton.
+Place 1: kld1_955 (280 en jetons) 
+Place 2: psychoman59 (475 en jetons) 
+Place 3: jomille59 (145 en jetons) 
+psychoman59 : met la petite blind. 20
+jomille59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Ks]
+kld1_955 : suit. 40
+psychoman59 : suit. 20
+jomille59 : parole 
+*** FLOP *** [Qc Qs Jh]
+psychoman59 : parole 
+jomille59 : parole 
+kld1_955 : mise. 80
+psychoman59 : passe. 
+jomille59 : relance. 25 à 105 et est all-in.
+kld1_955 : suit. 25
+*** TOURNANT *** [Qc Qs Jh] [3c]
+*** RIVIÈRE *** [Qc Qs Jh 3c] [8s]
+*** ABATTAGE ***
+jomille59 : montre [2h Qh] (un brelan de Dames)
+kld1_955 : montre [Jd 6d] (double paire, Dames et Valets)
+jomille59 a remporté 330  lors du pot .
+*** SYNTHÈSE ***
+Pot total 330 | Commission 0 
+Tableau [Qc Qs Jh 3c 8s]
+Siège 1 : kld1_955 (bouton) a montré [Jd 6d] et a perdu avec double paire, Dames et Valets
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 3 : jomille59 (grosse blind) a montré [2h Qh] et a gagné (330) avec un brelan de Dames
+
+
+
+Main PokerStars n°241804927253 : Tournoi #3547187738, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 13/02/2023 7:23:53 CET [13/02/2023 1:23:53 ET]
+Table '3547187738 1' 3-max Siège #2 est au bouton.
+Place 1: kld1_955 (135 en jetons) 
+Place 2: psychoman59 (435 en jetons) 
+Place 3: jomille59 (330 en jetons) 
+jomille59 : met la petite blind. 20
+kld1_955 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 2h]
+psychoman59 : passe. 
+jomille59 : relance. 40 à 80
+kld1_955 : relance. 55 à 135 et est all-in.
+jomille59 : suit. 55
+*** FLOP *** [2d 3c 6h]
+*** TOURNANT *** [2d 3c 6h] [4c]
+*** RIVIÈRE *** [2d 3c 6h 4c] [Jc]
+*** ABATTAGE ***
+jomille59 : montre [Qs Kd] (Hauteur Roi)
+kld1_955 : montre [5h Jd] (une suite, Deux à Six)
+kld1_955 a remporté 270  lors du pot .
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Tableau [2d 3c 6h 4c Jc]
+Siège 1 : kld1_955 (grosse blind) a montré [5h Jd] et a gagné (270) avec une suite, Deux à Six
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : jomille59 (petite blind) a montré [Qs Kd] et a perdu avec Hauteur Roi
+
+
+
+Main PokerStars n°241804929291 : Tournoi #3547187738, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/02/2023 7:24:15 CET [13/02/2023 1:24:15 ET]
+Table '3547187738 1' 3-max Siège #3 est au bouton.
+Place 1: kld1_955 (270 en jetons) 
+Place 2: psychoman59 (435 en jetons) 
+Place 3: jomille59 (195 en jetons) 
+kld1_955 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Jh]
+jomille59 : passe. 
+kld1_955 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : kld1_955 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : jomille59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°241804929807 : Tournoi #3547187738, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/02/2023 7:24:20 CET [13/02/2023 1:24:20 ET]
+Table '3547187738 1' 3-max Siège #1 est au bouton.
+Place 1: kld1_955 (240 en jetons) 
+Place 2: psychoman59 (465 en jetons) 
+Place 3: jomille59 (195 en jetons) 
+psychoman59 : met la petite blind. 30
+jomille59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 3h]
+kld1_955 : relance. 180 à 240 et est all-in.
+psychoman59 : passe. 
+jomille59 : suit. 135 et est all-in.
+Personne n'a suivi. (45) sont retournés à kld1_955.
+*** FLOP *** [3c 9c Jc]
+*** TOURNANT *** [3c 9c Jc] [Td]
+*** RIVIÈRE *** [3c 9c Jc Td] [2d]
+*** ABATTAGE ***
+jomille59 : montre [5c 4c] (une couleur, hauteur Valet)
+kld1_955 : montre [Th Ad] (une paire de Dix)
+jomille59 a remporté 420  lors du pot .
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [3c 9c Jc Td 2d]
+Siège 1 : kld1_955 (bouton) a montré [Th Ad] et a perdu avec une paire de Dix
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : jomille59 (grosse blind) a montré [5c 4c] et a gagné (420) avec une couleur, hauteur Valet
+
+
+
+Main PokerStars n°241804931219 : Tournoi #3547187738, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/02/2023 7:24:35 CET [13/02/2023 1:24:35 ET]
+Table '3547187738 1' 3-max Siège #2 est au bouton.
+Place 1: kld1_955 (45 en jetons) 
+Place 2: psychoman59 (435 en jetons) 
+Place 3: jomille59 (420 en jetons) 
+jomille59 : met la petite blind. 30
+kld1_955 : met la grosse blind. 45 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Jd]
+psychoman59 : passe. 
+jomille59 : suit. 15
+*** FLOP *** [5h Js 6s]
+*** TOURNANT *** [5h Js 6s] [6h]
+*** RIVIÈRE *** [5h Js 6s 6h] [4c]
+*** ABATTAGE ***
+jomille59 : montre [Th Ks] (une paire de Six)
+kld1_955 : montre [9h 7s] (une paire de Six - plus basse kicker)
+jomille59 a remporté 90  lors du pot .
+kld1_955 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [5h Js 6s 6h 4c]
+Siège 1 : kld1_955 (grosse blind) a montré [9h 7s] et a perdu avec une paire de Six
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : jomille59 (petite blind) a montré [Th Ks] et a gagné (90) avec une paire de Six
+
+
+
+Main PokerStars n°241804932617 : Tournoi #3547187738, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/02/2023 7:24:51 CET [13/02/2023 1:24:51 ET]
+Table '3547187738 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (435 en jetons) 
+Place 3: jomille59 (465 en jetons) 
+jomille59 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 2c]
+jomille59 : relance. 60 à 120
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à jomille59.
+jomille59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : jomille59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°241804933176 : Tournoi #3547187738, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/02/2023 7:24:57 CET [13/02/2023 1:24:57 ET]
+Table '3547187738 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (375 en jetons) 
+Place 3: jomille59 (525 en jetons) 
+psychoman59 : met la petite blind. 30
+jomille59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 5s]
+psychoman59 : relance. 315 à 375 et est all-in.
+jomille59 : passe. 
+Personne n'a suivi. (315) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 3 : jomille59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241804933904 : Tournoi #3547187738, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/02/2023 7:25:04 CET [13/02/2023 1:25:04 ET]
+Table '3547187738 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (435 en jetons) 
+Place 3: jomille59 (465 en jetons) 
+jomille59 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 7h]
+jomille59 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Ad 3s 4d]
+psychoman59 : mise. 375 et est all-in.
+jomille59 : suit. 375
+*** TOURNANT *** [Ad 3s 4d] [3h]
+*** RIVIÈRE *** [Ad 3s 4d 3h] [9d]
+*** ABATTAGE ***
+psychoman59 : montre [4h 7h] (double paire, Quatre et Trois)
+jomille59 : montre [Qd 2s] (une paire de Trois)
+psychoman59 a remporté 870  lors du pot .
+*** SYNTHÈSE ***
+Pot total 870 | Commission 0 
+Tableau [Ad 3s 4d 3h 9d]
+Siège 2 : psychoman59 (grosse blind) a montré [4h 7h] et a gagné (870) avec double paire, Quatre et Trois
+Siège 3 : jomille59 (bouton) (petite blind) a montré [Qd 2s] et a perdu avec une paire de Trois
+
+
+
+Main PokerStars n°241804935855 : Tournoi #3547187738, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 13/02/2023 7:25:24 CET [13/02/2023 1:25:24 ET]
+Table '3547187738 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (870 en jetons) 
+Place 3: jomille59 (30 en jetons) 
+psychoman59 : met la petite blind. 40
+jomille59 : met la grosse blind. 30 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Ah]
+Personne n'a suivi. (10) sont retournés à psychoman59.
+*** FLOP *** [5c Kd Td]
+*** TOURNANT *** [5c Kd Td] [3h]
+*** RIVIÈRE *** [5c Kd Td 3h] [Kh]
+*** ABATTAGE ***
+jomille59 : montre [4c Qd] (une paire de Rois)
+psychoman59 : montre [9c Ah] (une paire de Rois - As kicker)
+psychoman59 a remporté 60  lors du pot .
+jomille59 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [5c Kd Td 3h Kh]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [9c Ah] et a gagné (60) avec une paire de Rois
+Siège 3 : jomille59 (grosse blind) a montré [4c Qd] et a perdu avec une paire de Rois
+
+
+

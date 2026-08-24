@@ -1,0 +1,283 @@
+﻿Main PokerStars n°240900665138 : Tournoi #3525923542, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/01/2023 8:43:45 CET [04/01/2023 2:43:45 ET]
+Table '3525923542 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Eth0407 (300 en jetons) 
+Place 3: PEJ51 (300 en jetons) 
+Eth0407 : met la petite blind. 10
+PEJ51 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Kd]
+psychoman59 : relance. 280 à 300 et est all-in.
+Eth0407 : suit. 290 et est all-in.
+PEJ51 : passe. 
+*** FLOP *** [5s 2h Ac]
+*** TOURNANT *** [5s 2h Ac] [4h]
+*** RIVIÈRE *** [5s 2h Ac 4h] [Jc]
+*** ABATTAGE ***
+Eth0407 : montre [Kc Qs] (Hauteur As)
+psychoman59 : montre [Ah Kd] (une paire de As)
+psychoman59 a remporté 620  lors du pot .
+Eth0407 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [5s 2h Ac 4h Jc]
+Siège 1 : psychoman59 (bouton) a montré [Ah Kd] et a gagné (620) avec une paire de As
+Siège 2 : Eth0407 (petite blind) a montré [Kc Qs] et a perdu avec Hauteur As
+Siège 3 : PEJ51 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240900667240 : Tournoi #3525923542, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/01/2023 8:44:05 CET [04/01/2023 2:44:05 ET]
+Table '3525923542 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (620 en jetons) 
+Place 3: PEJ51 (280 en jetons) 
+PEJ51 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 9s]
+PEJ51 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [2c 5s Ts]
+psychoman59 : parole 
+PEJ51 : parole 
+*** TOURNANT *** [2c 5s Ts] [3d]
+psychoman59 : mise. 20
+PEJ51 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [2c 5s Ts 3d]
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : PEJ51 (bouton) (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°240900668905 : Tournoi #3525923542, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/01/2023 8:44:21 CET [04/01/2023 2:44:21 ET]
+Table '3525923542 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (640 en jetons) 
+Place 3: PEJ51 (260 en jetons) 
+psychoman59 : met la petite blind. 10
+PEJ51 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 6h]
+psychoman59 : suit. 10
+PEJ51 : parole 
+*** FLOP *** [2c Kc 3d]
+PEJ51 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [2c Kc 3d] [Qd]
+PEJ51 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à PEJ51.
+PEJ51 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [2c Kc 3d Qd]
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. sur le Tournant
+Siège 3 : PEJ51 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°240900670588 : Tournoi #3525923542, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/01/2023 8:44:37 CET [04/01/2023 2:44:37 ET]
+Table '3525923542 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (620 en jetons) 
+Place 3: PEJ51 (280 en jetons) 
+PEJ51 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 4h]
+PEJ51 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [3s 3c 3d]
+psychoman59 : parole 
+PEJ51 : parole 
+*** TOURNANT *** [3s 3c 3d] [2d]
+psychoman59 : parole 
+PEJ51 : parole 
+*** RIVIÈRE *** [3s 3c 3d 2d] [9d]
+psychoman59 : parole 
+PEJ51 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [5h 4h] (un brelan de Trois)
+PEJ51 : montre [Td Ks] (un brelan de Trois - Roi kicker)
+PEJ51 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [3s 3c 3d 2d 9d]
+Siège 1 : psychoman59 (grosse blind) a montré [5h 4h] et a perdu avec un brelan de Trois
+Siège 3 : PEJ51 (bouton) (petite blind) a montré [Td Ks] et a gagné (40) avec un brelan de Trois
+
+
+
+Main PokerStars n°240900673185 : Tournoi #3525923542, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 04/01/2023 8:45:01 CET [04/01/2023 2:45:01 ET]
+Table '3525923542 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (600 en jetons) 
+Place 3: PEJ51 (300 en jetons) 
+psychoman59 : met la petite blind. 15
+PEJ51 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 2h]
+psychoman59 : relance. 570 à 600 et est all-in.
+PEJ51 : suit. 270 et est all-in.
+Personne n'a suivi. (300) sont retournés à psychoman59.
+*** FLOP *** [Kc 7h 2s]
+*** TOURNANT *** [Kc 7h 2s] [Qh]
+*** RIVIÈRE *** [Kc 7h 2s Qh] [Ts]
+*** ABATTAGE ***
+PEJ51 : montre [Qs Jh] (une paire de Dames)
+psychoman59 : montre [Ah 2h] (une paire de Deux)
+PEJ51 a remporté 600  lors du pot .
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [Kc 7h 2s Qh Ts]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Ah 2h] et a perdu avec une paire de Deux
+Siège 3 : PEJ51 (grosse blind) a montré [Qs Jh] et a gagné (600) avec une paire de Dames
+
+
+
+Main PokerStars n°240900674537 : Tournoi #3525923542, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 04/01/2023 8:45:14 CET [04/01/2023 2:45:14 ET]
+Table '3525923542 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 3: PEJ51 (600 en jetons) 
+PEJ51 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 4h]
+PEJ51 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Qs 8d 9s]
+psychoman59 : parole 
+PEJ51 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à PEJ51.
+PEJ51 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Qs 8d 9s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : PEJ51 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°240900676126 : Tournoi #3525923542, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 04/01/2023 8:45:29 CET [04/01/2023 2:45:29 ET]
+Table '3525923542 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 3: PEJ51 (630 en jetons) 
+psychoman59 : met la petite blind. 15
+PEJ51 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Js]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à PEJ51.
+PEJ51 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : PEJ51 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°240900676620 : Tournoi #3525923542, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 04/01/2023 8:45:33 CET [04/01/2023 2:45:33 ET]
+Table '3525923542 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (255 en jetons) 
+Place 3: PEJ51 (645 en jetons) 
+PEJ51 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 3d]
+PEJ51 : relance. 615 à 645 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (615) sont retournés à PEJ51.
+PEJ51 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : PEJ51 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°240900677287 : Tournoi #3525923542, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 04/01/2023 8:45:39 CET [04/01/2023 2:45:39 ET]
+Table '3525923542 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (225 en jetons) 
+Place 3: PEJ51 (675 en jetons) 
+psychoman59 : met la petite blind. 15
+PEJ51 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 4h]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à PEJ51.
+PEJ51 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : PEJ51 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°240900677726 : Tournoi #3525923542, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 04/01/2023 8:45:44 CET [04/01/2023 2:45:44 ET]
+Table '3525923542 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (210 en jetons) 
+Place 3: PEJ51 (690 en jetons) 
+PEJ51 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Th]
+PEJ51 : relance. 660 à 690 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (660) sont retournés à PEJ51.
+PEJ51 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : PEJ51 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°240900678876 : Tournoi #3525923542, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 04/01/2023 8:45:55 CET [04/01/2023 2:45:55 ET]
+Table '3525923542 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (180 en jetons) 
+Place 3: PEJ51 (720 en jetons) 
+psychoman59 : met la petite blind. 20
+PEJ51 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 3s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à PEJ51.
+PEJ51 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : PEJ51 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°240900679459 : Tournoi #3525923542, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 04/01/2023 8:46:00 CET [04/01/2023 2:46:00 ET]
+Table '3525923542 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (160 en jetons) 
+Place 3: PEJ51 (740 en jetons) 
+PEJ51 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 2h]
+PEJ51 : relance. 700 à 740 et est all-in.
+psychoman59 : suit. 120 et est all-in.
+Personne n'a suivi. (580) sont retournés à PEJ51.
+*** FLOP *** [4s 3h Kd]
+*** TOURNANT *** [4s 3h Kd] [8s]
+*** RIVIÈRE *** [4s 3h Kd 8s] [7c]
+*** ABATTAGE ***
+psychoman59 : montre [2s 2h] (une paire de Deux)
+PEJ51 : montre [Qh Qs] (une paire de Dames)
+PEJ51 a remporté 320  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+PEJ51 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [4s 3h Kd 8s 7c]
+Siège 1 : psychoman59 (grosse blind) a montré [2s 2h] et a perdu avec une paire de Deux
+Siège 3 : PEJ51 (bouton) (petite blind) a montré [Qh Qs] et a gagné (320) avec une paire de Dames
+
+
+

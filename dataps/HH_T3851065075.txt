@@ -1,0 +1,619 @@
+﻿Main PokerStars n°254590901219 : Tournoi #3851065075, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau I (75/150) - 28/01/2025 8:05:51 CET [28/01/2025 2:05:51 ET]
+Table '3851065075 3' 8-max Siège #3 est au bouton.
+Place 2: lolita339 (9985 en jetons) 
+Place 3: Jotake8 (9685 en jetons) 
+Place 4: marqbrossa (10660 en jetons) 
+Place 5: neneh_shuloh (9985 en jetons) 
+Place 6: psychoman59 (10000 en jetons) 
+Place 7: Yust_Yust (9685 en jetons) 
+lolita339 : met l'ante. 15
+Jotake8 : met l'ante. 15
+marqbrossa : met l'ante. 15
+neneh_shuloh : met l'ante. 15
+psychoman59 : met l'ante. 15
+Yust_Yust : met l'ante. 15
+marqbrossa : met la petite blind. 75
+neneh_shuloh : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 7d]
+psychoman59 : passe. 
+Yust_Yust : suit. 150
+lolita339 : passe. 
+Jotake8 : passe. 
+marqbrossa : suit. 75
+neneh_shuloh : parole 
+*** FLOP *** [Jh 2c Qd]
+marqbrossa : parole 
+neneh_shuloh : parole 
+Yust_Yust : parole 
+*** TOURNANT *** [Jh 2c Qd] [8c]
+marqbrossa : parole 
+neneh_shuloh : mise. 150
+Yust_Yust : suit. 150
+marqbrossa : passe. 
+*** RIVIÈRE *** [Jh 2c Qd 8c] [8s]
+neneh_shuloh : mise. 840
+Yust_Yust : passe. 
+Personne n'a suivi. (840) sont retournés à neneh_shuloh.
+neneh_shuloh a remporté 840  lors du pot .
+neneh_shuloh : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Tableau [Jh 2c Qd 8c 8s]
+Siège 2 : lolita339 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Jotake8 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : marqbrossa (petite blind) s'est couché. sur le Tournant
+Siège 5 : neneh_shuloh (grosse blind) a remporté (840)
+Siège 6 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : Yust_Yust s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°254590903883 : Tournoi #3851065075, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau I (75/150) - 28/01/2025 8:06:30 CET [28/01/2025 2:06:30 ET]
+Table '3851065075 3' 8-max Siège #4 est au bouton.
+Place 2: lolita339 (9970 en jetons) 
+Place 3: Jotake8 (9670 en jetons) 
+Place 4: marqbrossa (10495 en jetons) 
+Place 5: neneh_shuloh (10510 en jetons) 
+Place 6: psychoman59 (9985 en jetons) 
+Place 7: Yust_Yust (9370 en jetons) 
+lolita339 : met l'ante. 15
+Jotake8 : met l'ante. 15
+marqbrossa : met l'ante. 15
+neneh_shuloh : met l'ante. 15
+psychoman59 : met l'ante. 15
+Yust_Yust : met l'ante. 15
+neneh_shuloh : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 4s]
+Yust_Yust : suit. 150
+lolita339 : relance. 300 à 450
+Jotake8 : passe. 
+marqbrossa : suit. 450
+neneh_shuloh : suit. 375
+psychoman59 : passe. 
+Yust_Yust : suit. 300
+*** FLOP *** [8d 8h 3h]
+neneh_shuloh : parole 
+Yust_Yust : parole 
+lolita339 : mise. 1320
+marqbrossa : passe. 
+neneh_shuloh : relance. 8725 à 10045 et est all-in.
+Yust_Yust : suit. 8905 et est all-in.
+lolita339 : suit. 8185 et est all-in.
+Personne n'a suivi. (540) sont retournés à neneh_shuloh.
+*** TOURNANT *** [8d 8h 3h] [7d]
+*** RIVIÈRE *** [8d 8h 3h 7d] [9h]
+*** ABATTAGE ***
+neneh_shuloh : montre [2s 3s] (double paire, Huit et Trois)
+lolita339 : montre [Kc 3c] (double paire, Huit et Trois - Roi kicker)
+lolita339 a remporté 1200  parallèle lors du pot .
+Yust_Yust : montre [Kh Jh] (une couleur, hauteur Roi)
+Yust_Yust a remporté 28755  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 29955 Principal pot 28755. Parallèle pot 1200. | Commission 0 
+Tableau [8d 8h 3h 7d 9h]
+Siège 2 : lolita339 a montré [Kc 3c] et a gagné (1200) avec double paire, Huit et Trois
+Siège 3 : Jotake8 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : marqbrossa (bouton) s'est couché. sur le Flop
+Siège 5 : neneh_shuloh (petite blind) a montré [2s 3s] et a perdu avec double paire, Huit et Trois
+Siège 6 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 7 : Yust_Yust a montré [Kh Jh] et a gagné (28755) avec une couleur, hauteur Roi
+
+
+
+Main PokerStars n°254590907097 : Tournoi #3851065075, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau I (75/150) - 28/01/2025 8:07:17 CET [28/01/2025 2:07:17 ET]
+Table '3851065075 3' 8-max Siège #5 est au bouton.
+Place 2: lolita339 (1200 en jetons) 
+Place 3: Jotake8 (9655 en jetons) 
+Place 4: marqbrossa (10030 en jetons) 
+Place 5: neneh_shuloh (540 en jetons) 
+Place 6: psychoman59 (9820 en jetons) 
+Place 7: Yust_Yust (28755 en jetons) 
+Place 8: carrascosa23 (10000 en jetons) 
+lolita339 : met l'ante. 15
+Jotake8 : met l'ante. 15
+marqbrossa : met l'ante. 15
+neneh_shuloh : met l'ante. 15
+psychoman59 : met l'ante. 15
+Yust_Yust : met l'ante. 15
+carrascosa23 : met l'ante. 15
+psychoman59 : met la petite blind. 75
+Yust_Yust : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 6d]
+carrascosa23 : passe. 
+lolita339 : passe. 
+Jotake8 : relance. 150 à 300
+marqbrossa est déconnecté 
+marqbrossa est connecté 
+marqbrossa est déconnecté 
+marqbrossa est connecté 
+marqbrossa : suit. 300
+neneh_shuloh : relance. 225 à 525 et est all-in.
+psychoman59 : passe. 
+Yust_Yust : suit. 375
+Jotake8 : suit. 225
+marqbrossa : suit. 225
+*** FLOP *** [3c Js 3s]
+Yust_Yust : parole 
+Jotake8 : parole 
+marqbrossa : parole 
+*** TOURNANT *** [3c Js 3s] [2s]
+Yust_Yust : parole 
+Jotake8 : parole 
+marqbrossa : parole 
+*** RIVIÈRE *** [3c Js 3s 2s] [Ad]
+Yust_Yust : parole 
+Jotake8 : mise. 1140
+marqbrossa : passe. 
+Yust_Yust : passe. 
+Personne n'a suivi. (1140) sont retournés à Jotake8.
+*** ABATTAGE ***
+Jotake8 : montre [Ac 7s] (double paire, As et Trois)
+neneh_shuloh : montre [5s 5h] (double paire, Cinq et Trois)
+Jotake8 a remporté 2280  lors du pot .
+neneh_shuloh a terminé le tournoi
+*** SYNTHÈSE ***
+Pot total 2280 | Commission 0 
+Tableau [3c Js 3s 2s Ad]
+Siège 2 : lolita339 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Jotake8 a montré [Ac 7s] et a gagné (2280) avec double paire, As et Trois
+Siège 4 : marqbrossa s'est couché. sur le Rivière
+Siège 5 : neneh_shuloh (bouton) a montré [5s 5h] et a perdu avec double paire, Cinq et Trois
+Siège 6 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 7 : Yust_Yust (grosse blind) s'est couché. sur le Rivière
+Siège 8 : carrascosa23 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°254590912283 : Tournoi #3851065075, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau II (100/200) - 28/01/2025 8:08:33 CET [28/01/2025 2:08:33 ET]
+Table '3851065075 3' 8-max Siège #6 est au bouton.
+Place 2: lolita339 (1185 en jetons) 
+Place 3: Jotake8 (11395 en jetons) 
+Place 4: marqbrossa (9490 en jetons) 
+Place 6: psychoman59 (9730 en jetons) 
+Place 7: Yust_Yust (28215 en jetons) 
+Place 8: carrascosa23 (9985 en jetons) 
+lolita339 : met l'ante. 20
+Jotake8 : met l'ante. 20
+marqbrossa : met l'ante. 20
+psychoman59 : met l'ante. 20
+Yust_Yust : met l'ante. 20
+carrascosa23 : met l'ante. 20
+Yust_Yust : met la petite blind. 100
+carrascosa23 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 8c]
+lolita339 : relance. 965 à 1165 et est all-in.
+Jotake8 : passe. 
+marqbrossa : passe. 
+psychoman59 : passe. 
+Yust_Yust : passe. 
+carrascosa23 : passe. 
+Personne n'a suivi. (965) sont retournés à lolita339.
+Djjacox est déconnecté 
+lolita339 a remporté 620  lors du pot .
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Siège 2 : lolita339 a remporté (620)
+Siège 3 : Jotake8 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : marqbrossa s'est couché. avant Flop (n'a pas misé)
+Siège 6 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 7 : Yust_Yust (petite blind) s'est couché. avant Flop
+Siège 8 : carrascosa23 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254590913488 : Tournoi #3851065075, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau II (100/200) - 28/01/2025 8:08:50 CET [28/01/2025 2:08:50 ET]
+Table '3851065075 3' 8-max Siège #7 est au bouton.
+Place 1: neneh_shuloh (10000 en jetons) 
+Place 2: lolita339 (1585 en jetons) 
+Place 3: Jotake8 (11375 en jetons) 
+Place 4: marqbrossa (9470 en jetons) 
+Place 5: Djjacox (10000 en jetons) 
+Place 6: psychoman59 (9710 en jetons) 
+Place 7: Yust_Yust (28095 en jetons) 
+Place 8: carrascosa23 (9765 en jetons) 
+neneh_shuloh : met l'ante. 20
+lolita339 : met l'ante. 20
+Jotake8 : met l'ante. 20
+marqbrossa : met l'ante. 20
+Djjacox : met l'ante. 20
+psychoman59 : met l'ante. 20
+Yust_Yust : met l'ante. 20
+carrascosa23 : met l'ante. 20
+carrascosa23 : met la petite blind. 100
+neneh_shuloh : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 6c]
+lolita339 : passe. 
+Jotake8 : relance. 200 à 400
+marqbrossa : passe. 
+Djjacox : passe. 
+psychoman59 : passe. 
+Yust_Yust : suit. 400
+carrascosa23 : passe. 
+neneh_shuloh : relance. 9580 à 9980 et est all-in.
+Jotake8 : passe. 
+Yust_Yust : passe. 
+Personne n'a suivi. (9580) sont retournés à neneh_shuloh.
+neneh_shuloh a remporté 1460  lors du pot .
+neneh_shuloh : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1460 | Commission 0 
+Siège 1 : neneh_shuloh (grosse blind) a remporté (1460)
+Siège 2 : lolita339 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Jotake8 s'est couché. avant Flop
+Siège 4 : marqbrossa s'est couché. avant Flop (n'a pas misé)
+Siège 5 : Djjacox s'est couché. avant Flop (n'a pas misé)
+Siège 6 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : Yust_Yust (bouton) s'est couché. avant Flop
+Siège 8 : carrascosa23 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254590916226 : Tournoi #3851065075, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau II (100/200) - 28/01/2025 8:09:30 CET [28/01/2025 2:09:30 ET]
+Table '3851065075 3' 8-max Siège #8 est au bouton.
+Place 1: neneh_shuloh (11040 en jetons) 
+Place 3: Jotake8 (10955 en jetons) 
+Place 4: marqbrossa (9450 en jetons) 
+Place 5: Djjacox (9980 en jetons) 
+Place 6: psychoman59 (9690 en jetons) 
+Place 7: Yust_Yust (27675 en jetons) 
+Place 8: carrascosa23 (9645 en jetons) 
+neneh_shuloh : met l'ante. 20
+Jotake8 : met l'ante. 20
+marqbrossa : met l'ante. 20
+Djjacox : met l'ante. 20
+psychoman59 : met l'ante. 20
+Yust_Yust : met l'ante. 20
+carrascosa23 : met l'ante. 20
+neneh_shuloh : met la petite blind. 100
+Jotake8 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 2c]
+marqbrossa : passe. 
+Djjacox : relance. 200 à 400
+psychoman59 : passe. 
+Yust_Yust : passe. 
+carrascosa23 : passe. 
+neneh_shuloh : passe. 
+Jotake8 : suit. 200
+*** FLOP *** [2s Kd Jd]
+Jotake8 : mise. 520
+Djjacox : passe. 
+Personne n'a suivi. (520) sont retournés à Jotake8.
+Jotake8 a remporté 1040  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1040 | Commission 0 
+Tableau [2s Kd Jd]
+Siège 1 : neneh_shuloh (petite blind) s'est couché. avant Flop
+Siège 3 : Jotake8 (grosse blind) a remporté (1040)
+Siège 4 : marqbrossa s'est couché. avant Flop (n'a pas misé)
+Siège 5 : Djjacox s'est couché. sur le Flop
+Siège 6 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : Yust_Yust s'est couché. avant Flop (n'a pas misé)
+Siège 8 : carrascosa23 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°254590919320 : Tournoi #3851065075, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau II (100/200) - 28/01/2025 8:10:15 CET [28/01/2025 2:10:15 ET]
+Table '3851065075 3' 8-max Siège #1 est au bouton.
+Place 1: neneh_shuloh (10920 en jetons) 
+Place 2: procrastilife (10000 en jetons) en dehors de la main (déplacé à la petite blind d'une autre table)
+Place 3: Jotake8 (11575 en jetons) 
+Place 5: Djjacox (9560 en jetons) 
+Place 6: psychoman59 (9670 en jetons) 
+Place 7: Yust_Yust (27655 en jetons) 
+Place 8: carrascosa23 (9625 en jetons) 
+procrastilife sera autorisé à jouer après le bouton.
+neneh_shuloh : met l'ante. 20
+Jotake8 : met l'ante. 20
+Djjacox : met l'ante. 20
+psychoman59 : met l'ante. 20
+Yust_Yust : met l'ante. 20
+carrascosa23 : met l'ante. 20
+Jotake8 : met la petite blind. 100
+Djjacox : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 2s]
+psychoman59 : passe. 
+Yust_Yust : suit. 200
+carrascosa23 : passe. 
+neneh_shuloh : passe. 
+Jotake8 : suit. 100
+Djjacox : parole 
+*** FLOP *** [4d 8d Ks]
+Jotake8 : mise. 360
+Djjacox : suit. 360
+Yust_Yust : suit. 360
+*** TOURNANT *** [4d 8d Ks] [9d]
+Jotake8 : mise. 400
+Djjacox : suit. 400
+Yust_Yust : suit. 400
+*** RIVIÈRE *** [4d 8d Ks 9d] [5d]
+Jotake8 : parole 
+Djjacox : parole 
+Yust_Yust : mise. 1500
+Jotake8 : passe. 
+Djjacox : passe. 
+Personne n'a suivi. (1500) sont retournés à Yust_Yust.
+Yust_Yust a remporté 3000  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3000 | Commission 0 
+Tableau [4d 8d Ks 9d 5d]
+Siège 1 : neneh_shuloh (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Jotake8 (petite blind) s'est couché. sur le Rivière
+Siège 5 : Djjacox (grosse blind) s'est couché. sur le Rivière
+Siège 6 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : Yust_Yust a remporté (3000)
+Siège 8 : carrascosa23 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°254590925785 : Tournoi #3851065075, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau III (150/300) - 28/01/2025 8:11:49 CET [28/01/2025 2:11:49 ET]
+Table '3851065075 3' 8-max Siège #3 est au bouton.
+Place 1: neneh_shuloh (10900 en jetons) 
+Place 2: procrastilife (10000 en jetons) 
+Place 3: Jotake8 (10595 en jetons) 
+Place 5: Djjacox (8580 en jetons) 
+Place 6: psychoman59 (9650 en jetons) 
+Place 7: Yust_Yust (29675 en jetons) 
+Place 8: carrascosa23 (9605 en jetons) 
+neneh_shuloh : met l'ante. 30
+procrastilife : met l'ante. 30
+Jotake8 : met l'ante. 30
+Djjacox : met l'ante. 30
+psychoman59 : met l'ante. 30
+Yust_Yust : met l'ante. 30
+carrascosa23 : met l'ante. 30
+Djjacox : met la petite blind. 150
+psychoman59 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 9d]
+Yust_Yust : passe. 
+carrascosa23 : relance. 600 à 900
+neneh_shuloh : passe. 
+procrastilife : suit. 900
+Jotake8 : passe. 
+Djjacox : relance. 7650 à 8550 et est all-in.
+psychoman59 : passe. 
+carrascosa23 : suit. 7650
+procrastilife : suit. 7650
+*** FLOP *** [As Jh 5c]
+carrascosa23 : mise. 1025 et est all-in.
+procrastilife : suit. 1025
+*** TOURNANT *** [As Jh 5c] [8h]
+*** RIVIÈRE *** [As Jh 5c 8h] [Qc]
+*** ABATTAGE ***
+carrascosa23 : montre [Ad Kh] (une paire de As)
+procrastilife : montre [9c 9s] (une paire de Neuf)
+carrascosa23 a remporté 2050  parallèle lors du pot .
+Djjacox : montre [Qd Ah] (double paire, As et Dames)
+Djjacox a remporté 26160  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 28210 Principal pot 26160. Parallèle pot 2050. | Commission 0 
+Tableau [As Jh 5c 8h Qc]
+Siège 1 : neneh_shuloh s'est couché. avant Flop (n'a pas misé)
+Siège 2 : procrastilife a montré [9c 9s] et a perdu avec une paire de Neuf
+Siège 3 : Jotake8 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 5 : Djjacox (petite blind) a montré [Qd Ah] et a gagné (26160) avec double paire, As et Dames
+Siège 6 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 7 : Yust_Yust s'est couché. avant Flop (n'a pas misé)
+Siège 8 : carrascosa23 a montré [Ad Kh] et a gagné (2050) avec une paire de As
+
+
+
+Main PokerStars n°254590928183 : Tournoi #3851065075, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau III (150/300) - 28/01/2025 8:12:25 CET [28/01/2025 2:12:25 ET]
+Table '3851065075 3' 8-max Siège #5 est au bouton.
+Place 1: neneh_shuloh (10870 en jetons) 
+Place 2: procrastilife (395 en jetons) 
+Place 3: Jotake8 (10565 en jetons) 
+Place 5: Djjacox (26160 en jetons) 
+Place 6: psychoman59 (9320 en jetons) 
+Place 7: Yust_Yust (29645 en jetons) 
+Place 8: carrascosa23 (2050 en jetons) 
+neneh_shuloh : met l'ante. 30
+procrastilife : met l'ante. 30
+Jotake8 : met l'ante. 30
+Djjacox : met l'ante. 30
+psychoman59 : met l'ante. 30
+Yust_Yust : met l'ante. 30
+carrascosa23 : met l'ante. 30
+psychoman59 : met la petite blind. 150
+Yust_Yust : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Qh]
+carrascosa23 : suit. 300
+neneh_shuloh : passe. 
+procrastilife : passe. 
+Jotake8 : suit. 300
+Djjacox : relance. 900 à 1200
+psychoman59 : passe. 
+Yust_Yust : passe. 
+carrascosa23 : relance. 820 à 2020 et est all-in.
+Jotake8 : passe. 
+Djjacox : suit. 820
+*** FLOP *** [Td 6s Ah]
+*** TOURNANT *** [Td 6s Ah] [4s]
+*** RIVIÈRE *** [Td 6s Ah 4s] [2c]
+*** ABATTAGE ***
+carrascosa23 : montre [Qd 4d] (une paire de Quatre)
+Djjacox : montre [Kc 8c] (Hauteur As)
+carrascosa23 a remporté 5000  lors du pot .
+*** SYNTHÈSE ***
+Pot total 5000 | Commission 0 
+Tableau [Td 6s Ah 4s 2c]
+Siège 1 : neneh_shuloh s'est couché. avant Flop (n'a pas misé)
+Siège 2 : procrastilife s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Jotake8 s'est couché. avant Flop
+Siège 5 : Djjacox (bouton) a montré [Kc 8c] et a perdu avec Hauteur As
+Siège 6 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 7 : Yust_Yust (grosse blind) s'est couché. avant Flop
+Siège 8 : carrascosa23 a montré [Qd 4d] et a gagné (5000) avec une paire de Quatre
+
+
+
+Main PokerStars n°254590931253 : Tournoi #3851065075, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau III (150/300) - 28/01/2025 8:13:10 CET [28/01/2025 2:13:10 ET]
+Table '3851065075 3' 8-max Siège #6 est au bouton.
+Place 1: neneh_shuloh (10840 en jetons) 
+Place 2: procrastilife (365 en jetons) 
+Place 3: Jotake8 (10235 en jetons) 
+Place 5: Djjacox (24110 en jetons) 
+Place 6: psychoman59 (9140 en jetons) 
+Place 7: Yust_Yust (29315 en jetons) 
+Place 8: carrascosa23 (5000 en jetons) 
+neneh_shuloh : met l'ante. 30
+procrastilife : met l'ante. 30
+Jotake8 : met l'ante. 30
+Djjacox : met l'ante. 30
+psychoman59 : met l'ante. 30
+Yust_Yust : met l'ante. 30
+carrascosa23 : met l'ante. 30
+Yust_Yust : met la petite blind. 150
+carrascosa23 : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 8d]
+neneh_shuloh : relance. 300 à 600
+procrastilife : suit. 335 et est all-in.
+Jotake8 : suit. 600
+Djjacox : passe. 
+psychoman59 : passe. 
+Yust_Yust : passe. 
+carrascosa23 : suit. 300
+*** FLOP *** [6h 2s Js]
+carrascosa23 : parole 
+neneh_shuloh : parole 
+Jotake8 : parole 
+*** TOURNANT *** [6h 2s Js] [Kd]
+carrascosa23 : parole 
+neneh_shuloh : parole 
+Jotake8 : parole 
+*** RIVIÈRE *** [6h 2s Js Kd] [6d]
+carrascosa23 : parole 
+neneh_shuloh : parole 
+Jotake8 : parole 
+*** ABATTAGE ***
+carrascosa23 : montre [Qd 4s] (une paire de Six)
+neneh_shuloh : montre [Td Ah] (une paire de Six - As kicker)
+Jotake8 : montre [Ac 9c] (une paire de Six)
+neneh_shuloh a remporté 398  parallèle lors du pot .
+Jotake8 a remporté 397  parallèle lors du pot .
+procrastilife : cache la main perdante. 
+neneh_shuloh a remporté 850  principal lors du pot .
+Jotake8 a remporté 850  principal lors du pot .
+procrastilife a terminé le tournoi
+*** SYNTHÈSE ***
+Pot total 2495 Principal pot 1700. Parallèle pot 795. | Commission 0 
+Tableau [6h 2s Js Kd 6d]
+Siège 1 : neneh_shuloh a montré [Td Ah] et a gagné (1248) avec une paire de Six
+Siège 2 : procrastilife a caché la main perdante. [7d 8h]
+Siège 3 : Jotake8 a montré [Ac 9c] et a gagné (1247) avec une paire de Six
+Siège 5 : Djjacox s'est couché. avant Flop (n'a pas misé)
+Siège 6 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 7 : Yust_Yust (petite blind) s'est couché. avant Flop
+Siège 8 : carrascosa23 (grosse blind) a montré [Qd 4s] et a perdu avec une paire de Six
+
+
+
+Main PokerStars n°254590934437 : Tournoi #3851065075, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau III (150/300) - 28/01/2025 8:13:56 CET [28/01/2025 2:13:56 ET]
+Table '3851065075 3' 8-max Siège #7 est au bouton.
+Place 1: neneh_shuloh (11458 en jetons) 
+Place 3: Jotake8 (10852 en jetons) 
+Place 5: Djjacox (24080 en jetons) 
+Place 6: psychoman59 (9110 en jetons) 
+Place 7: Yust_Yust (29135 en jetons) 
+Place 8: carrascosa23 (4370 en jetons) 
+neneh_shuloh : met l'ante. 30
+Jotake8 : met l'ante. 30
+Djjacox : met l'ante. 30
+psychoman59 : met l'ante. 30
+Yust_Yust : met l'ante. 30
+carrascosa23 : met l'ante. 30
+carrascosa23 : met la petite blind. 150
+neneh_shuloh : met la grosse blind. 300
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Kc]
+Jotake8 : suit. 300
+Djjacox : passe. 
+psychoman59 : passe. 
+Yust_Yust : suit. 300
+carrascosa23 : suit. 150
+neneh_shuloh : parole 
+*** FLOP *** [5s 7h 9c]
+carrascosa23 : mise. 1200
+neneh_shuloh : passe. 
+Jotake8 : passe. 
+Yust_Yust : suit. 1200
+*** TOURNANT *** [5s 7h 9c] [4h]
+carrascosa23 : mise. 2840 et est all-in.
+Yust_Yust : suit. 2840
+*** RIVIÈRE *** [5s 7h 9c 4h] [Jd]
+*** ABATTAGE ***
+carrascosa23 : montre [4d 7d] (double paire, Sept et Quatre)
+Yust_Yust : montre [6s Ah] (Hauteur As)
+carrascosa23 a remporté 9460  lors du pot .
+*** SYNTHÈSE ***
+Pot total 9460 | Commission 0 
+Tableau [5s 7h 9c 4h Jd]
+Siège 1 : neneh_shuloh (grosse blind) s'est couché. sur le Flop
+Siège 3 : Jotake8 s'est couché. sur le Flop
+Siège 5 : Djjacox s'est couché. avant Flop (n'a pas misé)
+Siège 6 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : Yust_Yust (bouton) a montré [6s Ah] et a perdu avec Hauteur As
+Siège 8 : carrascosa23 (petite blind) a montré [4d 7d] et a gagné (9460) avec double paire, Sept et Quatre
+
+
+
+Main PokerStars n°254590939268 : Tournoi #3851065075, 0.90 €+0.10 € EUR Hold'em No Limit - Niveau IV (200/400) - 28/01/2025 8:15:06 CET [28/01/2025 2:15:06 ET]
+Table '3851065075 3' 8-max Siège #8 est au bouton.
+Place 1: neneh_shuloh (11128 en jetons) 
+Place 3: Jotake8 (10522 en jetons) 
+Place 4: LoLow8878 (10000 en jetons) 
+Place 5: Djjacox (24050 en jetons) 
+Place 6: psychoman59 (9080 en jetons) 
+Place 7: Yust_Yust (24765 en jetons) 
+Place 8: carrascosa23 (9460 en jetons) 
+neneh_shuloh : met l'ante. 40
+Jotake8 : met l'ante. 40
+LoLow8878 : met l'ante. 40
+Djjacox : met l'ante. 40
+psychoman59 : met l'ante. 40
+Yust_Yust : met l'ante. 40
+carrascosa23 : met l'ante. 40
+neneh_shuloh : met la petite blind. 200
+Jotake8 : met la grosse blind. 400
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 8s]
+LoLow8878 : passe. 
+Djjacox : passe. 
+psychoman59 : relance. 800 à 1200
+Yust_Yust : passe. 
+carrascosa23 : passe. 
+neneh_shuloh : passe. 
+Jotake8 : relance. 9282 à 10482 et est all-in.
+psychoman59 : suit. 7840 et est all-in.
+Personne n'a suivi. (1442) sont retournés à Jotake8.
+*** FLOP *** [Qs 4d 7h]
+*** TOURNANT *** [Qs 4d 7h] [9s]
+*** RIVIÈRE *** [Qs 4d 7h 9s] [9c]
+*** ABATTAGE ***
+Jotake8 : montre [Js Jc] (double paire, Valets et Neuf)
+psychoman59 : montre [8h 8s] (double paire, Neuf et Huit)
+Jotake8 a remporté 18560  lors du pot .
+psychoman59 a terminé le tournoi
+*** SYNTHÈSE ***
+Pot total 18560 | Commission 0 
+Tableau [Qs 4d 7h 9s 9c]
+Siège 1 : neneh_shuloh (petite blind) s'est couché. avant Flop
+Siège 3 : Jotake8 (grosse blind) a montré [Js Jc] et a gagné (18560) avec double paire, Valets et Neuf
+Siège 4 : LoLow8878 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : Djjacox s'est couché. avant Flop (n'a pas misé)
+Siège 6 : psychoman59 a montré [8h 8s] et a perdu avec double paire, Neuf et Huit
+Siège 7 : Yust_Yust s'est couché. avant Flop (n'a pas misé)
+Siège 8 : carrascosa23 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+

@@ -1,0 +1,146 @@
+﻿Main PokerStars n°243471668411 : Tournoi #3586196057, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 03/05/2023 23:01:48 CET [03/05/2023 17:01:48 ET]
+Table '3586196057 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: JEREM1603 (300 en jetons) 
+Place 3: EVspin (300 en jetons) 
+JEREM1603 : met la petite blind. 10
+EVspin : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Td]
+psychoman59 : suit. 20
+JEREM1603 : suit. 10
+EVspin : parole 
+*** FLOP *** [3s Qs 5c]
+JEREM1603 : parole 
+EVspin : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3s Qs 5c] [7d]
+JEREM1603 : mise. 40
+EVspin : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à JEREM1603.
+JEREM1603 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [3s Qs 5c 7d]
+Siège 1 : psychoman59 (bouton) s'est couché. sur le Tournant
+Siège 2 : JEREM1603 (petite blind) a remporté (60)
+Siège 3 : EVspin (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°243471677181 : Tournoi #3586196057, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 03/05/2023 23:02:10 CET [03/05/2023 17:02:10 ET]
+Table '3586196057 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: JEREM1603 (340 en jetons) 
+Place 3: EVspin (280 en jetons) 
+EVspin : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 5c]
+JEREM1603 : relance. 40 à 60
+EVspin : passe. 
+psychoman59 : suit. 40
+*** FLOP *** [8h Td 4d]
+psychoman59 : parole 
+JEREM1603 : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à JEREM1603.
+JEREM1603 a remporté 130  lors du pot .
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Tableau [8h Td 4d]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : JEREM1603 (bouton) a remporté (130)
+Siège 3 : EVspin (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243471686944 : Tournoi #3586196057, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 03/05/2023 23:02:35 CET [03/05/2023 17:02:35 ET]
+Table '3586196057 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (220 en jetons) 
+Place 2: JEREM1603 (410 en jetons) 
+Place 3: EVspin (270 en jetons) 
+psychoman59 : met la petite blind. 10
+JEREM1603 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 7d]
+EVspin : passe. 
+psychoman59 : relance. 20 à 40
+JEREM1603 : suit. 20
+*** FLOP *** [8h Qd Ks]
+psychoman59 : mise. 40
+JEREM1603 : relance. 40 à 80
+psychoman59 : relance. 100 à 180 et est all-in.
+JEREM1603 : passe. 
+Personne n'a suivi. (100) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [8h Qd Ks]
+Siège 1 : psychoman59 (petite blind) a remporté (240)
+Siège 2 : JEREM1603 (grosse blind) s'est couché. sur le Flop
+Siège 3 : EVspin (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°243471698384 : Tournoi #3586196057, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 03/05/2023 23:03:05 CET [03/05/2023 17:03:05 ET]
+Table '3586196057 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (340 en jetons) 
+Place 2: JEREM1603 (290 en jetons) 
+Place 3: EVspin (270 en jetons) 
+JEREM1603 : met la petite blind. 15
+EVspin : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Ad]
+psychoman59 : relance. 60 à 90
+JEREM1603 : relance. 200 à 290 et est all-in.
+EVspin : passe. 
+psychoman59 : suit. 200
+*** FLOP *** [9h 3d Qh]
+*** TOURNANT *** [9h 3d Qh] [3h]
+*** RIVIÈRE *** [9h 3d Qh 3h] [2d]
+*** ABATTAGE ***
+JEREM1603 : montre [Ah Qd] (double paire, Dames et Trois)
+psychoman59 : montre [9d Ad] (double paire, Neuf et Trois)
+JEREM1603 a remporté 610  lors du pot .
+*** SYNTHÈSE ***
+Pot total 610 | Commission 0 
+Tableau [9h 3d Qh 3h 2d]
+Siège 1 : psychoman59 (bouton) a montré [9d Ad] et a perdu avec double paire, Neuf et Trois
+Siège 2 : JEREM1603 (petite blind) a montré [Ah Qd] et a gagné (610) avec double paire, Dames et Trois
+Siège 3 : EVspin (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243471706444 : Tournoi #3586196057, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 03/05/2023 23:03:26 CET [03/05/2023 17:03:26 ET]
+Table '3586196057 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (50 en jetons) 
+Place 2: JEREM1603 (610 en jetons) 
+Place 3: EVspin (240 en jetons) 
+EVspin : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 9d]
+JEREM1603 : relance. 30 à 60
+EVspin : passe. 
+psychoman59 : suit. 20 et est all-in.
+Personne n'a suivi. (10) sont retournés à JEREM1603.
+*** FLOP *** [6c 3h 6h]
+*** TOURNANT *** [6c 3h 6h] [4h]
+*** RIVIÈRE *** [6c 3h 6h 4h] [8s]
+*** ABATTAGE ***
+psychoman59 : montre [5s 9d] (une paire de Six)
+JEREM1603 : montre [Ad 4c] (double paire, Six et Quatre)
+JEREM1603 a remporté 115  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 115 | Commission 0 
+Tableau [6c 3h 6h 4h 8s]
+Siège 1 : psychoman59 (grosse blind) a montré [5s 9d] et a perdu avec une paire de Six
+Siège 2 : JEREM1603 (bouton) a montré [Ad 4c] et a gagné (115) avec double paire, Six et Quatre
+Siège 3 : EVspin (petite blind) s'est couché. avant Flop
+
+
+

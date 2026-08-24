@@ -1,0 +1,191 @@
+﻿Main PokerStars n°244841444301 : Tournoi #3617679333, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 16/07/2023 9:17:07 CET [16/07/2023 3:17:07 ET]
+Table '3617679333 1' 3-max Siège #1 est au bouton.
+Place 1: Tonio855 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: x_vigno17 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+x_vigno17 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Td]
+Tonio855 : relance. 20 à 40
+psychoman59 : suit. 30
+x_vigno17 : suit. 20
+*** FLOP *** [3c 3d Th]
+psychoman59 : parole 
+x_vigno17 : parole 
+Tonio855 : mise. 40
+psychoman59 : relance. 220 à 260 et est all-in.
+x_vigno17 : passe. 
+Tonio855 : passe. 
+Personne n'a suivi. (220) sont retournés à psychoman59.
+psychoman59 a remporté 200  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [3c 3d Th]
+Siège 1 : Tonio855 (bouton) s'est couché. sur le Flop
+Siège 2 : psychoman59 (petite blind) a remporté (200)
+Siège 3 : x_vigno17 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°244841446556 : Tournoi #3617679333, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 16/07/2023 9:17:27 CET [16/07/2023 3:17:27 ET]
+Table '3617679333 1' 3-max Siège #2 est au bouton.
+Place 1: Tonio855 (220 en jetons) 
+Place 2: psychoman59 (420 en jetons) 
+Place 3: x_vigno17 (260 en jetons) 
+x_vigno17 : met la petite blind. 10
+Tonio855 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 4h]
+psychoman59 : passe. 
+x_vigno17 : suit. 10
+Tonio855 : parole 
+*** FLOP *** [3c 9c Kh]
+x_vigno17 : parole 
+Tonio855 : mise. 26
+x_vigno17 : passe. 
+Personne n'a suivi. (26) sont retournés à Tonio855.
+Tonio855 a remporté 40  lors du pot .
+Tonio855 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [3c 9c Kh]
+Siège 1 : Tonio855 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : x_vigno17 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°244841448865 : Tournoi #3617679333, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 16/07/2023 9:17:48 CET [16/07/2023 3:17:48 ET]
+Table '3617679333 1' 3-max Siège #3 est au bouton.
+Place 1: Tonio855 (240 en jetons) 
+Place 2: psychoman59 (420 en jetons) 
+Place 3: x_vigno17 (240 en jetons) 
+Tonio855 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 4s]
+x_vigno17 : passe. 
+Tonio855 : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : Tonio855 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (20)
+Siège 3 : x_vigno17 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°244841449934 : Tournoi #3617679333, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 16/07/2023 9:17:58 CET [16/07/2023 3:17:58 ET]
+Table '3617679333 1' 3-max Siège #1 est au bouton.
+Place 1: Tonio855 (230 en jetons) 
+Place 2: psychoman59 (430 en jetons) 
+Place 3: x_vigno17 (240 en jetons) 
+psychoman59 : met la petite blind. 10
+x_vigno17 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Js]
+Tonio855 : relance. 20 à 40
+psychoman59 : suit. 30
+x_vigno17 : suit. 20
+*** FLOP *** [6s 5c 5s]
+psychoman59 : parole 
+x_vigno17 : parole 
+Tonio855 : mise. 40
+psychoman59 : suit. 40
+x_vigno17 : relance. 40 à 80
+Tonio855 : relance. 110 à 190 et est all-in.
+psychoman59 : suit. 150
+x_vigno17 : relance. 10 à 200 et est all-in.
+psychoman59 : suit. 10
+*** TOURNANT *** [6s 5c 5s] [9c]
+*** RIVIÈRE *** [6s 5c 5s 9c] [4d]
+*** ABATTAGE ***
+psychoman59 : montre [8s Js] (une paire de Cinq)
+x_vigno17 : montre [Kh 5h] (un brelan de Cinq)
+x_vigno17 a remporté 20  parallèle lors du pot .
+Tonio855 : montre [8d 6d] (double paire, Six et Cinq)
+x_vigno17 a remporté 690  principal lors du pot .
+Tonio855 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 710 Principal pot 690. Parallèle pot 20. | Commission 0 
+Tableau [6s 5c 5s 9c 4d]
+Siège 1 : Tonio855 (bouton) a montré [8d 6d] et a perdu avec double paire, Six et Cinq
+Siège 2 : psychoman59 (petite blind) a montré [8s Js] et a perdu avec une paire de Cinq
+Siège 3 : x_vigno17 (grosse blind) a montré [Kh 5h] et a gagné (710) avec un brelan de Cinq
+
+
+
+Main PokerStars n°244841454977 : Tournoi #3617679333, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 16/07/2023 9:18:44 CET [16/07/2023 3:18:44 ET]
+Table '3617679333 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (190 en jetons) 
+Place 3: x_vigno17 (710 en jetons) 
+x_vigno17 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Ah]
+x_vigno17 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+Siège 3 : x_vigno17 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244841455487 : Tournoi #3617679333, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 16/07/2023 9:18:49 CET [16/07/2023 3:18:49 ET]
+Table '3617679333 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (205 en jetons) 
+Place 3: x_vigno17 (695 en jetons) 
+psychoman59 : met la petite blind. 15
+x_vigno17 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Js]
+psychoman59 : relance. 175 à 205 et est all-in.
+x_vigno17 : passe. 
+Personne n'a suivi. (175) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 3 : x_vigno17 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244841456308 : Tournoi #3617679333, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 16/07/2023 9:18:56 CET [16/07/2023 3:18:56 ET]
+Table '3617679333 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (235 en jetons) 
+Place 3: x_vigno17 (665 en jetons) 
+x_vigno17 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 5s]
+x_vigno17 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [6s Ts 8c]
+psychoman59 : parole 
+x_vigno17 : mise. 30
+psychoman59 : relance. 175 à 205 et est all-in.
+x_vigno17 : suit. 175
+*** TOURNANT *** [6s Ts 8c] [8h]
+*** RIVIÈRE *** [6s Ts 8c 8h] [Ah]
+*** ABATTAGE ***
+psychoman59 : montre [Qs 5s] (une paire de Huit)
+x_vigno17 : montre [As Ac] (un full, full aux As par les Huit)
+x_vigno17 a remporté 470  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+x_vigno17 remporte le tournoi et reçoit 6.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 470 | Commission 0 
+Tableau [6s Ts 8c 8h Ah]
+Siège 2 : psychoman59 (grosse blind) a montré [Qs 5s] et a perdu avec une paire de Huit
+Siège 3 : x_vigno17 (bouton) (petite blind) a montré [As Ac] et a gagné (470) avec un full, full aux As par les Huit
+
+
+

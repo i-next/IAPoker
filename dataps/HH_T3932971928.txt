@@ -1,0 +1,647 @@
+﻿Main PokerStars n°257955687600 : Tournoi #3932971928, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 01/10/2025 7:25:14 CET [01/10/2025 1:25:14 ET]
+Table '3932971928 1' 3-max Siège #1 est au bouton.
+Place 1: unico357 (500 en jetons) 
+Place 2: melendis (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+melendis : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 5h]
+unico357 : suit. 20
+melendis : suit. 10
+psychoman59 : parole 
+*** FLOP *** [3c 2s Kh]
+melendis : mise. 30
+psychoman59 : passe. 
+unico357 : suit. 30
+*** TOURNANT *** [3c 2s Kh] [7h]
+melendis : mise. 40
+unico357 : suit. 40
+*** RIVIÈRE *** [3c 2s Kh 7h] [Ad]
+melendis : mise. 40
+unico357 : suit. 40
+*** ABATTAGE ***
+melendis : montre [Kc 8c] (une paire de Rois)
+unico357 : cache la main perdante. 
+melendis a remporté 280  lors du pot .
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Tableau [3c 2s Kh 7h Ad]
+Siège 1 : unico357 (bouton) a caché la main perdante. [4d 3d]
+Siège 2 : melendis (petite blind) a montré [Kc 8c] et a gagné (280) avec une paire de Rois
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°257955689181 : Tournoi #3932971928, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 01/10/2025 7:25:39 CET [01/10/2025 1:25:39 ET]
+Table '3932971928 1' 3-max Siège #2 est au bouton.
+Place 1: unico357 (370 en jetons) 
+Place 2: melendis (650 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 10
+unico357 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 3h]
+melendis : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à unico357.
+unico357 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : unico357 (grosse blind) a remporté (20)
+Siège 2 : melendis (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257955689602 : Tournoi #3932971928, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 01/10/2025 7:25:46 CET [01/10/2025 1:25:46 ET]
+Table '3932971928 1' 3-max Siège #3 est au bouton.
+Place 1: unico357 (380 en jetons) 
+Place 2: melendis (650 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+unico357 : met la petite blind. 10
+melendis : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 3h]
+psychoman59 : suit. 20
+unico357 : suit. 10
+melendis : parole 
+*** FLOP *** [7c 7s Js]
+unico357 : parole 
+melendis : mise. 20
+psychoman59 : passe. 
+unico357 : suit. 20
+*** TOURNANT *** [7c 7s Js] [8c]
+unico357 : parole 
+melendis : mise. 20
+unico357 : suit. 20
+*** RIVIÈRE *** [7c 7s Js 8c] [9d]
+unico357 : mise. 320 et est all-in.
+melendis : passe. 
+Personne n'a suivi. (320) sont retournés à unico357.
+unico357 a remporté 140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [7c 7s Js 8c 9d]
+Siège 1 : unico357 (petite blind) a remporté (140)
+Siège 2 : melendis (grosse blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°257955692345 : Tournoi #3932971928, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 01/10/2025 7:26:31 CET [01/10/2025 1:26:31 ET]
+Table '3932971928 1' 3-max Siège #1 est au bouton.
+Place 1: unico357 (460 en jetons) 
+Place 2: melendis (590 en jetons) 
+Place 3: psychoman59 (450 en jetons) 
+melendis : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 8s]
+unico357 : suit. 20
+melendis : passe. 
+psychoman59 : parole 
+*** FLOP *** [Ac 2c Tc]
+psychoman59 : parole 
+unico357 : parole 
+*** TOURNANT *** [Ac 2c Tc] [4h]
+psychoman59 : parole 
+unico357 : parole 
+*** RIVIÈRE *** [Ac 2c Tc 4h] [4s]
+psychoman59 : parole 
+unico357 : mise. 70
+psychoman59 : suit. 70
+*** ABATTAGE ***
+unico357 : montre [Qs 4d] (un brelan de Quatre)
+psychoman59 : cache la main perdante. 
+unico357 a remporté 190  lors du pot .
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Tableau [Ac 2c Tc 4h 4s]
+Siège 1 : unico357 (bouton) a montré [Qs 4d] et a gagné (190) avec un brelan de Quatre
+Siège 2 : melendis (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [Qd 8s]
+
+
+
+Main PokerStars n°257955694023 : Tournoi #3932971928, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 01/10/2025 7:27:00 CET [01/10/2025 1:27:00 ET]
+Table '3932971928 1' 3-max Siège #2 est au bouton.
+Place 1: unico357 (560 en jetons) 
+Place 2: melendis (580 en jetons) 
+Place 3: psychoman59 (360 en jetons) 
+psychoman59 : met la petite blind. 10
+unico357 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 6h]
+melendis : suit. 20
+psychoman59 : suit. 10
+unico357 : parole 
+*** FLOP *** [7d Ts 2d]
+psychoman59 : parole 
+unico357 : parole 
+melendis : parole 
+*** TOURNANT *** [7d Ts 2d] [5c]
+psychoman59 : parole 
+unico357 : parole 
+melendis : parole 
+*** RIVIÈRE *** [7d Ts 2d 5c] [Qs]
+psychoman59 : parole 
+unico357 : parole 
+melendis : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Ah 6h] (Hauteur As)
+unico357 : cache la main perdante. 
+melendis : cache la main perdante. 
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [7d Ts 2d 5c Qs]
+Siège 1 : unico357 (grosse blind) a caché la main perdante. [8d 9c]
+Siège 2 : melendis (bouton) a caché la main perdante. [9d 8h]
+Siège 3 : psychoman59 (petite blind) a montré [Ah 6h] et a gagné (60) avec Hauteur As
+
+
+
+Main PokerStars n°257955695726 : Tournoi #3932971928, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 01/10/2025 7:27:28 CET [01/10/2025 1:27:28 ET]
+Table '3932971928 1' 3-max Siège #3 est au bouton.
+Place 1: unico357 (540 en jetons) 
+Place 2: melendis (560 en jetons) 
+Place 3: psychoman59 (400 en jetons) 
+unico357 : met la petite blind. 15
+melendis : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Qc]
+psychoman59 : passe. 
+unico357 : suit. 15
+melendis : parole 
+*** FLOP *** [3s Qd Ad]
+unico357 : parole 
+melendis : parole 
+*** TOURNANT *** [3s Qd Ad] [2s]
+unico357 : parole 
+melendis : parole 
+*** RIVIÈRE *** [3s Qd Ad 2s] [Jd]
+unico357 : parole 
+melendis : parole 
+*** ABATTAGE ***
+unico357 : montre [4d 6c] (Hauteur As)
+melendis : montre [5h 8s] (Hauteur As - Dame+Valet+Huit kicker)
+melendis a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [3s Qd Ad 2s Jd]
+Siège 1 : unico357 (petite blind) a montré [4d 6c] et a perdu avec Hauteur As
+Siège 2 : melendis (grosse blind) a montré [5h 8s] et a gagné (60) avec Hauteur As
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°257955697154 : Tournoi #3932971928, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 01/10/2025 7:27:52 CET [01/10/2025 1:27:52 ET]
+Table '3932971928 1' 3-max Siège #1 est au bouton.
+Place 1: unico357 (510 en jetons) 
+Place 2: melendis (590 en jetons) 
+Place 3: psychoman59 (400 en jetons) 
+melendis : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 3d]
+unico357 : suit. 30
+melendis : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Td 2d 2s]
+melendis : parole 
+psychoman59 : parole 
+unico357 : parole 
+*** TOURNANT *** [Td 2d 2s] [9c]
+melendis : parole 
+psychoman59 : parole 
+unico357 : parole 
+*** RIVIÈRE *** [Td 2d 2s 9c] [6d]
+melendis : parole 
+psychoman59 : mise. 90
+unico357 : suit. 90
+melendis : passe. 
+*** ABATTAGE ***
+psychoman59 : montre [4d 3d] (une couleur, hauteur Dix)
+unico357 : cache la main perdante. 
+psychoman59 a remporté 270  lors du pot .
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Tableau [Td 2d 2s 9c 6d]
+Siège 1 : unico357 (bouton) a caché la main perdante. [6h 5c]
+Siège 2 : melendis (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) a montré [4d 3d] et a gagné (270) avec une couleur, hauteur Dix
+
+
+
+Main PokerStars n°257955698539 : Tournoi #3932971928, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 01/10/2025 7:28:15 CET [01/10/2025 1:28:15 ET]
+Table '3932971928 1' 3-max Siège #2 est au bouton.
+Place 1: unico357 (390 en jetons) 
+Place 2: melendis (560 en jetons) 
+Place 3: psychoman59 (550 en jetons) 
+psychoman59 : met la petite blind. 15
+unico357 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 9s]
+melendis : suit. 30
+psychoman59 : suit. 15
+unico357 : parole 
+*** FLOP *** [Qs 6c 4s]
+psychoman59 : parole 
+unico357 : parole 
+melendis : mise. 60
+psychoman59 : suit. 60
+unico357 : suit. 60
+*** TOURNANT *** [Qs 6c 4s] [3s]
+psychoman59 : parole 
+unico357 : mise. 300 et est all-in.
+melendis : passe. 
+psychoman59 : suit. 300
+*** RIVIÈRE *** [Qs 6c 4s 3s] [5h]
+*** ABATTAGE ***
+psychoman59 : montre [Ks 9s] (une couleur, hauteur Roi)
+unico357 : montre [2h 5s] (une suite, Deux à Six)
+psychoman59 a remporté 870  lors du pot .
+unico357 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 870 | Commission 0 
+Tableau [Qs 6c 4s 3s 5h]
+Siège 1 : unico357 (grosse blind) a montré [2h 5s] et a perdu avec une suite, Deux à Six
+Siège 2 : melendis (bouton) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (petite blind) a montré [Ks 9s] et a gagné (870) avec une couleur, hauteur Roi
+
+
+
+Main PokerStars n°257955700398 : Tournoi #3932971928, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 01/10/2025 7:28:46 CET [01/10/2025 1:28:46 ET]
+Table '3932971928 1' 3-max Siège #3 est au bouton.
+Place 2: melendis (470 en jetons) 
+Place 3: psychoman59 (1030 en jetons) 
+psychoman59 : met la petite blind. 15
+melendis : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s As]
+psychoman59 : suit. 15
+melendis : relance. 440 à 470 et est all-in.
+psychoman59 : suit. 440
+*** FLOP *** [8d Jd Qs]
+*** TOURNANT *** [8d Jd Qs] [4s]
+*** RIVIÈRE *** [8d Jd Qs 4s] [7h]
+*** ABATTAGE ***
+melendis : montre [Th Td] (une paire de Dix)
+psychoman59 : montre [5s As] (Hauteur As)
+melendis a remporté 940  lors du pot .
+*** SYNTHÈSE ***
+Pot total 940 | Commission 0 
+Tableau [8d Jd Qs 4s 7h]
+Siège 2 : melendis (grosse blind) a montré [Th Td] et a gagné (940) avec une paire de Dix
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [5s As] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°257955701314 : Tournoi #3932971928, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 01/10/2025 7:29:02 CET [01/10/2025 1:29:02 ET]
+Table '3932971928 1' 3-max Siège #2 est au bouton.
+Place 2: melendis (940 en jetons) 
+Place 3: psychoman59 (560 en jetons) 
+melendis : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 6d]
+melendis : suit. 15
+psychoman59 : parole 
+*** FLOP *** [4c Qd 5h]
+psychoman59 : parole 
+melendis : mise. 60
+psychoman59 : suit. 60
+*** TOURNANT *** [4c Qd 5h] [8c]
+psychoman59 : parole 
+melendis : mise. 60
+psychoman59 : suit. 60
+*** RIVIÈRE *** [4c Qd 5h 8c] [3s]
+psychoman59 : mise. 150
+melendis : suit. 150
+*** ABATTAGE ***
+psychoman59 : montre [7c 6d] (une suite, Quatre à Huit)
+melendis : cache la main perdante. 
+psychoman59 a remporté 600  lors du pot .
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [4c Qd 5h 8c 3s]
+Siège 2 : melendis (bouton) (petite blind) a caché la main perdante. [Qs 6c]
+Siège 3 : psychoman59 (grosse blind) a montré [7c 6d] et a gagné (600) avec une suite, Quatre à Huit
+
+
+
+Main PokerStars n°257955702927 : Tournoi #3932971928, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 01/10/2025 7:29:30 CET [01/10/2025 1:29:30 ET]
+Table '3932971928 1' 3-max Siège #3 est au bouton.
+Place 2: melendis (640 en jetons) 
+Place 3: psychoman59 (860 en jetons) 
+psychoman59 : met la petite blind. 20
+melendis : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Qc]
+psychoman59 : suit. 20
+melendis : parole 
+*** FLOP *** [4c Kc 2s]
+melendis : parole 
+psychoman59 : parole 
+*** TOURNANT *** [4c Kc 2s] [7h]
+melendis : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [4c Kc 2s 7h] [Kh]
+melendis : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+melendis : montre [9c 3h] (une paire de Rois)
+psychoman59 : montre [2c Qc] (double paire, Rois et Deux)
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [4c Kc 2s 7h Kh]
+Siège 2 : melendis (grosse blind) a montré [9c 3h] et a perdu avec une paire de Rois
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [2c Qc] et a gagné (80) avec double paire, Rois et Deux
+
+
+
+Main PokerStars n°257955703888 : Tournoi #3932971928, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 01/10/2025 7:29:45 CET [01/10/2025 1:29:45 ET]
+Table '3932971928 1' 3-max Siège #2 est au bouton.
+Place 2: melendis (600 en jetons) 
+Place 3: psychoman59 (900 en jetons) 
+melendis : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 4s]
+melendis : relance. 40 à 80
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à melendis.
+melendis a remporté 80  lors du pot .
+melendis : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : melendis (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257955704347 : Tournoi #3932971928, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 01/10/2025 7:29:53 CET [01/10/2025 1:29:53 ET]
+Table '3932971928 1' 3-max Siège #3 est au bouton.
+Place 2: melendis (640 en jetons) 
+Place 3: psychoman59 (860 en jetons) 
+psychoman59 : met la petite blind. 20
+melendis : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 8s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à melendis.
+melendis a remporté 40  lors du pot .
+melendis : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : melendis (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257955704620 : Tournoi #3932971928, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 01/10/2025 7:29:57 CET [01/10/2025 1:29:57 ET]
+Table '3932971928 1' 3-max Siège #2 est au bouton.
+Place 2: melendis (660 en jetons) 
+Place 3: psychoman59 (840 en jetons) 
+melendis : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 5h]
+melendis : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : melendis (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°257955704948 : Tournoi #3932971928, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 01/10/2025 7:30:02 CET [01/10/2025 1:30:02 ET]
+Table '3932971928 1' 3-max Siège #3 est au bouton.
+Place 2: melendis (640 en jetons) 
+Place 3: psychoman59 (860 en jetons) 
+psychoman59 : met la petite blind. 20
+melendis : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 9s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à melendis.
+melendis a remporté 40  lors du pot .
+melendis : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : melendis (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257955705213 : Tournoi #3932971928, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 01/10/2025 7:30:07 CET [01/10/2025 1:30:07 ET]
+Table '3932971928 1' 3-max Siège #2 est au bouton.
+Place 2: melendis (660 en jetons) 
+Place 3: psychoman59 (840 en jetons) 
+melendis : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 5d]
+melendis : relance. 620 à 660 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (620) sont retournés à melendis.
+melendis a remporté 80  lors du pot .
+melendis : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : melendis (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257955705621 : Tournoi #3932971928, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 01/10/2025 7:30:14 CET [01/10/2025 1:30:14 ET]
+Table '3932971928 1' 3-max Siège #3 est au bouton.
+Place 2: melendis (700 en jetons) 
+Place 3: psychoman59 (800 en jetons) 
+psychoman59 : met la petite blind. 20
+melendis : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 2d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à melendis.
+melendis a remporté 40  lors du pot .
+melendis : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : melendis (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257955705881 : Tournoi #3932971928, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 01/10/2025 7:30:18 CET [01/10/2025 1:30:18 ET]
+Table '3932971928 1' 3-max Siège #2 est au bouton.
+Place 2: melendis (720 en jetons) 
+Place 3: psychoman59 (780 en jetons) 
+melendis : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Jc]
+melendis : relance. 680 à 720 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (680) sont retournés à melendis.
+melendis a remporté 80  lors du pot .
+melendis : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : melendis (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257955706310 : Tournoi #3932971928, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 01/10/2025 7:30:24 CET [01/10/2025 1:30:24 ET]
+Table '3932971928 1' 3-max Siège #3 est au bouton.
+Place 2: melendis (760 en jetons) 
+Place 3: psychoman59 (740 en jetons) 
+psychoman59 : met la petite blind. 20
+melendis : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Jh]
+psychoman59 : suit. 20
+melendis : parole 
+*** FLOP *** [5h Js 6c]
+melendis : parole 
+psychoman59 : mise. 80
+melendis : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [5h Js 6c]
+Siège 2 : melendis (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°257955707210 : Tournoi #3932971928, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 01/10/2025 7:30:39 CET [01/10/2025 1:30:39 ET]
+Table '3932971928 1' 3-max Siège #2 est au bouton.
+Place 2: melendis (720 en jetons) 
+Place 3: psychoman59 (780 en jetons) 
+melendis : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Qs]
+melendis : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : melendis (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°257955707515 : Tournoi #3932971928, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 01/10/2025 7:30:44 CET [01/10/2025 1:30:44 ET]
+Table '3932971928 1' 3-max Siège #3 est au bouton.
+Place 2: melendis (700 en jetons) 
+Place 3: psychoman59 (800 en jetons) 
+psychoman59 : met la petite blind. 20
+melendis : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 2d]
+psychoman59 : suit. 20
+melendis : parole 
+*** FLOP *** [8s 3d As]
+melendis : parole 
+psychoman59 : parole 
+*** TOURNANT *** [8s 3d As] [Ts]
+melendis : parole 
+psychoman59 : mise. 80
+melendis : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [8s 3d As Ts]
+Siège 2 : melendis (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°257955708455 : Tournoi #3932971928, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 01/10/2025 7:31:00 CET [01/10/2025 1:31:00 ET]
+Table '3932971928 1' 3-max Siège #2 est au bouton.
+Place 2: melendis (660 en jetons) 
+Place 3: psychoman59 (840 en jetons) 
+melendis : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Ah]
+melendis : relance. 40 à 80
+psychoman59 : relance. 760 à 840 et est all-in.
+melendis : suit. 580 et est all-in.
+Personne n'a suivi. (180) sont retournés à psychoman59.
+*** FLOP *** [5c Ts 4s]
+*** TOURNANT *** [5c Ts 4s] [3c]
+*** RIVIÈRE *** [5c Ts 4s 3c] [9c]
+*** ABATTAGE ***
+psychoman59 : montre [6s Ah] (Hauteur As)
+melendis : montre [Kc Kd] (une paire de Rois)
+melendis a remporté 1320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1320 | Commission 0 
+Tableau [5c Ts 4s 3c 9c]
+Siège 2 : melendis (bouton) (petite blind) a montré [Kc Kd] et a gagné (1320) avec une paire de Rois
+Siège 3 : psychoman59 (grosse blind) a montré [6s Ah] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°257955709326 : Tournoi #3932971928, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 01/10/2025 7:31:15 CET [01/10/2025 1:31:15 ET]
+Table '3932971928 1' 3-max Siège #3 est au bouton.
+Place 2: melendis (1320 en jetons) 
+Place 3: psychoman59 (180 en jetons) 
+psychoman59 : met la petite blind. 20
+melendis : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 3h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à melendis.
+melendis a remporté 40  lors du pot .
+melendis : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : melendis (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257955709922 : Tournoi #3932971928, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 01/10/2025 7:31:25 CET [01/10/2025 1:31:25 ET]
+Table '3932971928 1' 3-max Siège #2 est au bouton.
+Place 2: melendis (1340 en jetons) 
+Place 3: psychoman59 (160 en jetons) 
+melendis : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 5d]
+melendis : suit. 30
+psychoman59 : parole 
+*** FLOP *** [3h 2d 8h]
+psychoman59 : mise. 100 et est all-in.
+melendis : suit. 100
+*** TOURNANT *** [3h 2d 8h] [6c]
+*** RIVIÈRE *** [3h 2d 8h 6c] [8s]
+*** ABATTAGE ***
+psychoman59 : montre [3d 5d] (double paire, Huit et Trois)
+melendis : montre [3s 9c] (double paire, Huit et Trois - Neuf kicker)
+melendis a remporté 320  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+melendis remporte le tournoi et reçoit 0.50 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [3h 2d 8h 6c 8s]
+Siège 2 : melendis (bouton) (petite blind) a montré [3s 9c] et a gagné (320) avec double paire, Huit et Trois
+Siège 3 : psychoman59 (grosse blind) a montré [3d 5d] et a perdu avec double paire, Huit et Trois
+
+
+

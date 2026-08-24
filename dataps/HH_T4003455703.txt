@@ -1,0 +1,59 @@
+﻿Main PokerStars n°260933353515 : Tournoi #4003455703, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/05/2026 10:57:02 CET [26/05/2026 4:57:02 ET]
+Table '4003455703 1' 3-max Siège #1 est au bouton.
+Place 1: cego97 (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: petitpelo (500 en jetons) 
+psychoman59 : met la petite blind. 10
+petitpelo : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Th]
+cego97 : relance. 20 à 40
+psychoman59 : passe. 
+petitpelo : suit. 20
+*** FLOP *** [4c Jd 5s]
+petitpelo : parole 
+cego97 : mise. 20
+petitpelo : passe. 
+Personne n'a suivi. (20) sont retournés à cego97.
+cego97 a remporté 90  lors du pot .
+cego97 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [4c Jd 5s]
+Siège 1 : cego97 (bouton) a remporté (90)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : petitpelo (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°260933354636 : Tournoi #4003455703, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/05/2026 10:57:22 CET [26/05/2026 4:57:22 ET]
+Table '4003455703 1' 3-max Siège #2 est au bouton.
+Place 1: cego97 (550 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: petitpelo (460 en jetons) 
+petitpelo : met la petite blind. 10
+cego97 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Qc]
+psychoman59 : relance. 40 à 60
+petitpelo : passe. 
+cego97 : relance. 40 à 100
+psychoman59 : relance. 390 à 490 et est all-in.
+cego97 : suit. 390
+*** FLOP *** [7s 3h Kd]
+*** TOURNANT *** [7s 3h Kd] [Tc]
+*** RIVIÈRE *** [7s 3h Kd Tc] [5h]
+*** ABATTAGE ***
+cego97 : montre [Th Qs] (une paire de Dix)
+psychoman59 : montre [As Qc] (Hauteur As)
+cego97 a remporté 990  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 990 | Commission 0 
+Tableau [7s 3h Kd Tc 5h]
+Siège 1 : cego97 (grosse blind) a montré [Th Qs] et a gagné (990) avec une paire de Dix
+Siège 2 : psychoman59 (bouton) a montré [As Qc] et a perdu avec Hauteur As
+Siège 3 : petitpelo (petite blind) s'est couché. avant Flop
+
+
+

@@ -1,0 +1,427 @@
+﻿Main PokerStars n°239378063954 : Tournoi #3489253975, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/10/2022 10:09:45 CET [22/10/2022 4:09:45 ET]
+Table '3489253975 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: cermo80 (300 en jetons) 
+Place 3: goulwen35561 (300 en jetons) 
+cermo80 : met la petite blind. 10
+goulwen35561 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Kd]
+psychoman59 : suit. 20
+cermo80 : suit. 10
+goulwen35561 : parole 
+*** FLOP *** [5h 4h 6c]
+cermo80 : parole 
+goulwen35561 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5h 4h 6c] [As]
+cermo80 : parole 
+goulwen35561 : parole 
+psychoman59 : mise. 60
+cermo80 : passe. 
+goulwen35561 : suit. 60
+*** RIVIÈRE *** [5h 4h 6c As] [3c]
+goulwen35561 : mise. 220 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (220) sont retournés à goulwen35561.
+goulwen35561 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [5h 4h 6c As 3c]
+Siège 1 : psychoman59 (bouton) s'est couché. sur le Rivière
+Siège 2 : cermo80 (petite blind) s'est couché. sur le Tournant
+Siège 3 : goulwen35561 (grosse blind) a remporté (180)
+
+
+
+Main PokerStars n°239378068748 : Tournoi #3489253975, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/10/2022 10:10:21 CET [22/10/2022 4:10:21 ET]
+Table '3489253975 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (220 en jetons) 
+Place 2: cermo80 (280 en jetons) 
+Place 3: goulwen35561 (400 en jetons) 
+goulwen35561 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 5c]
+cermo80 : passe. 
+goulwen35561 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Jh 6d Qc]
+goulwen35561 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Jh 6d Qc] [Qd]
+goulwen35561 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Jh 6d Qc Qd] [8c]
+goulwen35561 : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à goulwen35561.
+goulwen35561 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Jh 6d Qc Qd 8c]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : cermo80 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : goulwen35561 (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°239378071331 : Tournoi #3489253975, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/10/2022 10:10:40 CET [22/10/2022 4:10:40 ET]
+Table '3489253975 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (200 en jetons) 
+Place 2: cermo80 (280 en jetons) 
+Place 3: goulwen35561 (420 en jetons) 
+psychoman59 : met la petite blind. 10
+cermo80 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Tc]
+goulwen35561 : suit. 20
+psychoman59 : passe. 
+cermo80 : relance. 50 à 70
+goulwen35561 : suit. 50
+*** FLOP *** [Th Jd Kd]
+cermo80 : mise. 75
+goulwen35561 : relance. 75 à 150
+cermo80 : relance. 60 à 210 et est all-in.
+goulwen35561 : suit. 60
+*** TOURNANT *** [Th Jd Kd] [5c]
+*** RIVIÈRE *** [Th Jd Kd 5c] [2s]
+*** ABATTAGE ***
+cermo80 : montre [Ts Ah] (une paire de Dix)
+goulwen35561 : montre [Ks Js] (double paire, Rois et Valets)
+goulwen35561 a remporté 570  lors du pot .
+cermo80 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 570 | Commission 0 
+Tableau [Th Jd Kd 5c 2s]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : cermo80 (grosse blind) a montré [Ts Ah] et a perdu avec une paire de Dix
+Siège 3 : goulwen35561 (bouton) a montré [Ks Js] et a gagné (570) avec double paire, Rois et Valets
+
+
+
+Main PokerStars n°239378075075 : Tournoi #3489253975, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 22/10/2022 10:11:09 CET [22/10/2022 4:11:09 ET]
+Table '3489253975 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (190 en jetons) 
+Place 3: goulwen35561 (710 en jetons) 
+psychoman59 : met la petite blind. 15
+goulwen35561 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Ah]
+psychoman59 : relance. 160 à 190 et est all-in.
+goulwen35561 : passe. 
+Personne n'a suivi. (160) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 3 : goulwen35561 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239378076134 : Tournoi #3489253975, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 22/10/2022 10:11:17 CET [22/10/2022 4:11:17 ET]
+Table '3489253975 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (220 en jetons) 
+Place 3: goulwen35561 (680 en jetons) 
+goulwen35561 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Kc]
+goulwen35561 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [6s 4c 9c]
+psychoman59 : parole 
+goulwen35561 : parole 
+*** TOURNANT *** [6s 4c 9c] [6c]
+psychoman59 : parole 
+goulwen35561 : parole 
+*** RIVIÈRE *** [6s 4c 9c 6c] [7s]
+psychoman59 : parole 
+goulwen35561 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [3h Kc] (une paire de Six)
+goulwen35561 : montre [2c Ad] (une paire de Six - As kicker)
+goulwen35561 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [6s 4c 9c 6c 7s]
+Siège 1 : psychoman59 (grosse blind) a montré [3h Kc] et a perdu avec une paire de Six
+Siège 3 : goulwen35561 (bouton) (petite blind) a montré [2c Ad] et a gagné (60) avec une paire de Six
+
+
+
+Main PokerStars n°239378078703 : Tournoi #3489253975, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 22/10/2022 10:11:37 CET [22/10/2022 4:11:37 ET]
+Table '3489253975 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (190 en jetons) 
+Place 3: goulwen35561 (710 en jetons) 
+psychoman59 : met la petite blind. 15
+goulwen35561 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Jc]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à goulwen35561.
+goulwen35561 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : goulwen35561 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°239378079418 : Tournoi #3489253975, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 22/10/2022 10:11:42 CET [22/10/2022 4:11:42 ET]
+Table '3489253975 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (175 en jetons) 
+Place 3: goulwen35561 (725 en jetons) 
+goulwen35561 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 4c]
+goulwen35561 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (30)
+Siège 3 : goulwen35561 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239378080414 : Tournoi #3489253975, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 22/10/2022 10:11:49 CET [22/10/2022 4:11:49 ET]
+Table '3489253975 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (190 en jetons) 
+Place 3: goulwen35561 (710 en jetons) 
+psychoman59 : met la petite blind. 20
+goulwen35561 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 3d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à goulwen35561.
+goulwen35561 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : goulwen35561 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°239378081398 : Tournoi #3489253975, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 22/10/2022 10:11:57 CET [22/10/2022 4:11:57 ET]
+Table '3489253975 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (170 en jetons) 
+Place 3: goulwen35561 (730 en jetons) 
+goulwen35561 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Ts]
+goulwen35561 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : goulwen35561 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239378082271 : Tournoi #3489253975, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 22/10/2022 10:12:03 CET [22/10/2022 4:12:03 ET]
+Table '3489253975 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (190 en jetons) 
+Place 3: goulwen35561 (710 en jetons) 
+psychoman59 : met la petite blind. 20
+goulwen35561 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Kd]
+psychoman59 : relance. 150 à 190 et est all-in.
+goulwen35561 : passe. 
+Personne n'a suivi. (150) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 3 : goulwen35561 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239378083528 : Tournoi #3489253975, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 22/10/2022 10:12:12 CET [22/10/2022 4:12:12 ET]
+Table '3489253975 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (230 en jetons) 
+Place 3: goulwen35561 (670 en jetons) 
+goulwen35561 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Ks]
+goulwen35561 : suit. 20
+psychoman59 : relance. 190 à 230 et est all-in.
+goulwen35561 : passe. 
+Personne n'a suivi. (190) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : goulwen35561 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239378084963 : Tournoi #3489253975, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 22/10/2022 10:12:23 CET [22/10/2022 4:12:23 ET]
+Table '3489253975 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 3: goulwen35561 (630 en jetons) 
+psychoman59 : met la petite blind. 20
+goulwen35561 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 8d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à goulwen35561.
+goulwen35561 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : goulwen35561 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°239378085722 : Tournoi #3489253975, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 22/10/2022 10:12:29 CET [22/10/2022 4:12:29 ET]
+Table '3489253975 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (250 en jetons) 
+Place 3: goulwen35561 (650 en jetons) 
+goulwen35561 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Jd]
+goulwen35561 : suit. 20
+psychoman59 : relance. 210 à 250 et est all-in.
+goulwen35561 : suit. 210
+*** FLOP *** [4d Ac 4s]
+*** TOURNANT *** [4d Ac 4s] [2d]
+*** RIVIÈRE *** [4d Ac 4s 2d] [5d]
+*** ABATTAGE ***
+psychoman59 : montre [Qs Jd] (une paire de Quatre)
+goulwen35561 : montre [Jc 9d] (une paire de Quatre - plus basse kicker)
+psychoman59 a remporté 500  lors du pot .
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Tableau [4d Ac 4s 2d 5d]
+Siège 1 : psychoman59 (grosse blind) a montré [Qs Jd] et a gagné (500) avec une paire de Quatre
+Siège 3 : goulwen35561 (bouton) (petite blind) a montré [Jc 9d] et a perdu avec une paire de Quatre
+
+
+
+Main PokerStars n°239378087781 : Tournoi #3489253975, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 22/10/2022 10:12:44 CET [22/10/2022 4:12:44 ET]
+Table '3489253975 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 3: goulwen35561 (400 en jetons) 
+psychoman59 : met la petite blind. 20
+goulwen35561 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 7c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à goulwen35561.
+goulwen35561 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : goulwen35561 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°239378089068 : Tournoi #3489253975, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 22/10/2022 10:12:53 CET [22/10/2022 4:12:53 ET]
+Table '3489253975 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (480 en jetons) 
+Place 3: goulwen35561 (420 en jetons) 
+goulwen35561 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Ah]
+goulwen35561 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : goulwen35561 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239378089786 : Tournoi #3489253975, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 22/10/2022 10:12:59 CET [22/10/2022 4:12:59 ET]
+Table '3489253975 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (510 en jetons) 
+Place 3: goulwen35561 (390 en jetons) 
+psychoman59 : met la petite blind. 30
+goulwen35561 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 8s]
+psychoman59 : relance. 450 à 510 et est all-in.
+goulwen35561 : passe. 
+Personne n'a suivi. (450) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 3 : goulwen35561 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239378091249 : Tournoi #3489253975, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 22/10/2022 10:13:10 CET [22/10/2022 4:13:10 ET]
+Table '3489253975 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (570 en jetons) 
+Place 3: goulwen35561 (330 en jetons) 
+goulwen35561 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Th]
+goulwen35561 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Ad 6h 2h]
+psychoman59 : parole 
+goulwen35561 : parole 
+*** TOURNANT *** [Ad 6h 2h] [Ah]
+psychoman59 : mise. 120
+goulwen35561 : suit. 120
+*** RIVIÈRE *** [Ad 6h 2h Ah] [3c]
+psychoman59 : mise. 180
+goulwen35561 : passe. 
+Personne n'a suivi. (180) sont retournés à psychoman59.
+psychoman59 a remporté 360  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [Ad 6h 2h Ah 3c]
+Siège 1 : psychoman59 (grosse blind) a remporté (360)
+Siège 3 : goulwen35561 (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°239378094301 : Tournoi #3489253975, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 22/10/2022 10:13:32 CET [22/10/2022 4:13:32 ET]
+Table '3489253975 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (750 en jetons) 
+Place 3: goulwen35561 (150 en jetons) 
+psychoman59 : met la petite blind. 30
+goulwen35561 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 3s]
+psychoman59 : relance. 120 à 180
+goulwen35561 : suit. 90 et est all-in.
+Personne n'a suivi. (30) sont retournés à psychoman59.
+*** FLOP *** [Td 6c Ac]
+*** TOURNANT *** [Td 6c Ac] [Kc]
+*** RIVIÈRE *** [Td 6c Ac Kc] [Qc]
+*** ABATTAGE ***
+goulwen35561 : montre [8s 4h] (Hauteur As)
+psychoman59 : montre [3c 3s] (une couleur, hauteur As)
+psychoman59 a remporté 300  lors du pot .
+goulwen35561 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [Td 6c Ac Kc Qc]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [3c 3s] et a gagné (300) avec une couleur, hauteur As
+Siège 3 : goulwen35561 (grosse blind) a montré [8s 4h] et a perdu avec Hauteur As
+
+
+

@@ -1,0 +1,819 @@
+﻿Main PokerStars n°255117581195 : Tournoi #3864809302, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 03/03/2025 8:11:49 CET [03/03/2025 2:11:49 ET]
+Table '3864809302 1' 3-max Siège #1 est au bouton.
+Place 1: daroteo83 (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: brunovil56 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+brunovil56 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 9d]
+daroteo83 : passe. 
+psychoman59 : suit. 10
+brunovil56 : parole 
+*** FLOP *** [2s 8s 8d]
+psychoman59 : parole 
+brunovil56 : parole 
+*** TOURNANT *** [2s 8s 8d] [6s]
+psychoman59 : parole 
+brunovil56 : parole 
+*** RIVIÈRE *** [2s 8s 8d 6s] [8c]
+psychoman59 : mise. 40
+brunovil56 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [2s 8s 8d 6s 8c]
+Siège 1 : daroteo83 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (40)
+Siège 3 : brunovil56 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°255117583994 : Tournoi #3864809302, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 03/03/2025 8:12:33 CET [03/03/2025 2:12:33 ET]
+Table '3864809302 1' 3-max Siège #2 est au bouton.
+Place 1: daroteo83 (500 en jetons) 
+Place 2: psychoman59 (520 en jetons) 
+Place 3: brunovil56 (480 en jetons) 
+brunovil56 : met la petite blind. 10
+daroteo83 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Qh]
+psychoman59 : suit. 20
+brunovil56 : relance. 460 à 480 et est all-in.
+daroteo83 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (460) sont retournés à brunovil56.
+brunovil56 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : daroteo83 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 3 : brunovil56 (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°255117584656 : Tournoi #3864809302, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 03/03/2025 8:12:43 CET [03/03/2025 2:12:43 ET]
+Table '3864809302 1' 3-max Siège #3 est au bouton.
+Place 1: daroteo83 (480 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: brunovil56 (520 en jetons) 
+daroteo83 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 3c]
+brunovil56 : suit. 20
+daroteo83 : relance. 60 à 80
+psychoman59 : passe. 
+brunovil56 : suit. 60
+*** FLOP *** [4s As 2s]
+daroteo83 : mise. 60
+brunovil56 : passe. 
+Personne n'a suivi. (60) sont retournés à daroteo83.
+daroteo83 a remporté 180  lors du pot .
+daroteo83 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [4s As 2s]
+Siège 1 : daroteo83 (petite blind) a remporté (180)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : brunovil56 (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°255117585938 : Tournoi #3864809302, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 03/03/2025 8:13:03 CET [03/03/2025 2:13:03 ET]
+Table '3864809302 1' 3-max Siège #1 est au bouton.
+Place 1: daroteo83 (580 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+Place 3: brunovil56 (440 en jetons) 
+psychoman59 : met la petite blind. 10
+brunovil56 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 8s]
+daroteo83 : suit. 20
+psychoman59 : suit. 10
+brunovil56 : parole 
+*** FLOP *** [8c 4h 9c]
+psychoman59 : parole 
+brunovil56 : mise. 20
+daroteo83 : suit. 20
+psychoman59 : relance. 440 à 460 et est all-in.
+brunovil56 : suit. 400 et est all-in.
+daroteo83 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+*** TOURNANT *** [8c 4h 9c] [Td]
+*** RIVIÈRE *** [8c 4h 9c Td] [5c]
+*** ABATTAGE ***
+psychoman59 : montre [9s 8s] (double paire, Neuf et Huit)
+brunovil56 : montre [Qs 9h] (une paire de Neuf)
+psychoman59 a remporté 920  lors du pot .
+brunovil56 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 920 | Commission 0 
+Tableau [8c 4h 9c Td 5c]
+Siège 1 : daroteo83 (bouton) s'est couché. sur le Flop
+Siège 2 : psychoman59 (petite blind) a montré [9s 8s] et a gagné (920) avec double paire, Neuf et Huit
+Siège 3 : brunovil56 (grosse blind) a montré [Qs 9h] et a perdu avec une paire de Neuf
+
+
+
+Main PokerStars n°255117587721 : Tournoi #3864809302, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 03/03/2025 8:13:30 CET [03/03/2025 2:13:30 ET]
+Table '3864809302 1' 3-max Siège #2 est au bouton.
+Place 1: daroteo83 (540 en jetons) 
+Place 2: psychoman59 (960 en jetons) 
+psychoman59 : met la petite blind. 10
+daroteo83 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Jh]
+psychoman59 : suit. 10
+daroteo83 : parole 
+*** FLOP *** [3c Ac 6d]
+daroteo83 : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [3c Ac 6d] [Qd]
+daroteo83 : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [3c Ac 6d Qd] [7s]
+daroteo83 : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à daroteo83.
+daroteo83 a remporté 120  lors du pot .
+daroteo83 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [3c Ac 6d Qd 7s]
+Siège 1 : daroteo83 (grosse blind) a remporté (120)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°255117588989 : Tournoi #3864809302, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 03/03/2025 8:13:50 CET [03/03/2025 2:13:50 ET]
+Table '3864809302 1' 3-max Siège #1 est au bouton.
+Place 1: daroteo83 (600 en jetons) 
+Place 2: psychoman59 (900 en jetons) 
+daroteo83 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 2d]
+daroteo83 : suit. 10
+psychoman59 : relance. 880 à 900 et est all-in.
+daroteo83 : passe. 
+Personne n'a suivi. (880) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : daroteo83 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°255117589857 : Tournoi #3864809302, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 03/03/2025 8:14:03 CET [03/03/2025 2:14:03 ET]
+Table '3864809302 1' 3-max Siège #2 est au bouton.
+Place 1: daroteo83 (580 en jetons) 
+Place 2: psychoman59 (920 en jetons) 
+psychoman59 : met la petite blind. 15
+daroteo83 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d As]
+psychoman59 : relance. 890 à 920 et est all-in.
+daroteo83 : passe. 
+Personne n'a suivi. (890) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : daroteo83 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°255117590357 : Tournoi #3864809302, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 03/03/2025 8:14:10 CET [03/03/2025 2:14:10 ET]
+Table '3864809302 1' 3-max Siège #1 est au bouton.
+Place 1: daroteo83 (550 en jetons) 
+Place 2: psychoman59 (950 en jetons) 
+daroteo83 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 7d]
+daroteo83 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [2h Qs Jd]
+psychoman59 : parole 
+daroteo83 : parole 
+*** TOURNANT *** [2h Qs Jd] [6c]
+psychoman59 : parole 
+daroteo83 : parole 
+*** RIVIÈRE *** [2h Qs Jd 6c] [9h]
+psychoman59 : parole 
+daroteo83 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [2s 7d] (une paire de Deux)
+daroteo83 : cache la main perdante. 
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [2h Qs Jd 6c 9h]
+Siège 1 : daroteo83 (bouton) (petite blind) a caché la main perdante. [As 8c]
+Siège 2 : psychoman59 (grosse blind) a montré [2s 7d] et a gagné (60) avec une paire de Deux
+
+
+
+Main PokerStars n°255117591507 : Tournoi #3864809302, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 03/03/2025 8:14:28 CET [03/03/2025 2:14:28 ET]
+Table '3864809302 1' 3-max Siège #2 est au bouton.
+Place 1: daroteo83 (520 en jetons) 
+Place 2: psychoman59 (980 en jetons) 
+psychoman59 : met la petite blind. 15
+daroteo83 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 4c]
+psychoman59 : suit. 15
+daroteo83 : parole 
+*** FLOP *** [3h 3c 6c]
+daroteo83 : mise. 30
+psychoman59 : suit. 30
+*** TOURNANT *** [3h 3c 6c] [8h]
+daroteo83 : mise. 30
+psychoman59 : suit. 30
+*** RIVIÈRE *** [3h 3c 6c 8h] [Qc]
+daroteo83 : parole 
+psychoman59 : mise. 180
+daroteo83 : passe. 
+Personne n'a suivi. (180) sont retournés à psychoman59.
+psychoman59 a remporté 180  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [3h 3c 6c 8h Qc]
+Siège 1 : daroteo83 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (180)
+
+
+
+Main PokerStars n°255117593028 : Tournoi #3864809302, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 03/03/2025 8:14:51 CET [03/03/2025 2:14:51 ET]
+Table '3864809302 1' 3-max Siège #1 est au bouton.
+Place 1: daroteo83 (430 en jetons) 
+Place 2: psychoman59 (1070 en jetons) 
+daroteo83 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Td]
+daroteo83 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [4d 3d Jh]
+psychoman59 : parole 
+daroteo83 : parole 
+*** TOURNANT *** [4d 3d Jh] [8s]
+psychoman59 : parole 
+daroteo83 : parole 
+*** RIVIÈRE *** [4d 3d Jh 8s] [5h]
+psychoman59 : parole 
+daroteo83 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [2c Td] (Hauteur Valet)
+daroteo83 : montre [7s 4s] (une paire de Quatre)
+daroteo83 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [4d 3d Jh 8s 5h]
+Siège 1 : daroteo83 (bouton) (petite blind) a montré [7s 4s] et a gagné (60) avec une paire de Quatre
+Siège 2 : psychoman59 (grosse blind) a montré [2c Td] et a perdu avec Hauteur Valet
+
+
+
+Main PokerStars n°255117594279 : Tournoi #3864809302, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 03/03/2025 8:15:10 CET [03/03/2025 2:15:10 ET]
+Table '3864809302 1' 3-max Siège #2 est au bouton.
+Place 1: daroteo83 (460 en jetons) 
+Place 2: psychoman59 (1040 en jetons) 
+psychoman59 : met la petite blind. 15
+daroteo83 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 6h]
+psychoman59 : suit. 15
+daroteo83 : parole 
+*** FLOP *** [3h 7s Jd]
+daroteo83 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3h 7s Jd] [6s]
+daroteo83 : parole 
+psychoman59 : mise. 60
+daroteo83 : suit. 60
+*** RIVIÈRE *** [3h 7s Jd 6s] [Ac]
+daroteo83 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+daroteo83 : montre [7h 9c] (une paire de Sept)
+psychoman59 : cache la main perdante. 
+daroteo83 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [3h 7s Jd 6s Ac]
+Siège 1 : daroteo83 (grosse blind) a montré [7h 9c] et a gagné (180) avec une paire de Sept
+Siège 2 : psychoman59 (bouton) (petite blind) a caché la main perdante. [Kd 6h]
+
+
+
+Main PokerStars n°255117595563 : Tournoi #3864809302, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 03/03/2025 8:15:30 CET [03/03/2025 2:15:30 ET]
+Table '3864809302 1' 3-max Siège #1 est au bouton.
+Place 1: daroteo83 (550 en jetons) 
+Place 2: psychoman59 (950 en jetons) 
+daroteo83 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 8c]
+daroteo83 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : daroteo83 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°255117595989 : Tournoi #3864809302, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 03/03/2025 8:15:37 CET [03/03/2025 2:15:37 ET]
+Table '3864809302 1' 3-max Siège #2 est au bouton.
+Place 1: daroteo83 (535 en jetons) 
+Place 2: psychoman59 (965 en jetons) 
+psychoman59 : met la petite blind. 15
+daroteo83 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Ts]
+psychoman59 : suit. 15
+daroteo83 : parole 
+*** FLOP *** [7h 3h 9s]
+daroteo83 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [7h 3h 9s] [2c]
+daroteo83 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [7h 3h 9s 2c] [Ah]
+daroteo83 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+daroteo83 : montre [As 4s] (une paire de As)
+psychoman59 : cache la main perdante. 
+daroteo83 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [7h 3h 9s 2c Ah]
+Siège 1 : daroteo83 (grosse blind) a montré [As 4s] et a gagné (60) avec une paire de As
+Siège 2 : psychoman59 (bouton) (petite blind) a caché la main perdante. [2s Ts]
+
+
+
+Main PokerStars n°255117597364 : Tournoi #3864809302, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 03/03/2025 8:15:58 CET [03/03/2025 2:15:58 ET]
+Table '3864809302 1' 3-max Siège #1 est au bouton.
+Place 1: daroteo83 (565 en jetons) 
+Place 2: psychoman59 (935 en jetons) 
+daroteo83 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 4c]
+daroteo83 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [3d Ts Kh]
+psychoman59 : parole 
+daroteo83 : parole 
+*** TOURNANT *** [3d Ts Kh] [Ah]
+psychoman59 : parole 
+daroteo83 : parole 
+*** RIVIÈRE *** [3d Ts Kh Ah] [9c]
+psychoman59 : parole 
+daroteo83 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [9d 4c] (une paire de Neuf)
+daroteo83 : cache la main perdante. 
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [3d Ts Kh Ah 9c]
+Siège 1 : daroteo83 (bouton) (petite blind) a caché la main perdante. [8d 4d]
+Siège 2 : psychoman59 (grosse blind) a montré [9d 4c] et a gagné (80) avec une paire de Neuf
+
+
+
+Main PokerStars n°255117598694 : Tournoi #3864809302, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 03/03/2025 8:16:19 CET [03/03/2025 2:16:19 ET]
+Table '3864809302 1' 3-max Siège #2 est au bouton.
+Place 1: daroteo83 (525 en jetons) 
+Place 2: psychoman59 (975 en jetons) 
+psychoman59 : met la petite blind. 20
+daroteo83 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 9c]
+psychoman59 : suit. 20
+daroteo83 : relance. 80 à 120
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à daroteo83.
+daroteo83 a remporté 80  lors du pot .
+daroteo83 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : daroteo83 (grosse blind) a remporté (80)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°255117599472 : Tournoi #3864809302, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 03/03/2025 8:16:30 CET [03/03/2025 2:16:30 ET]
+Table '3864809302 1' 3-max Siège #1 est au bouton.
+Place 1: daroteo83 (565 en jetons) 
+Place 2: psychoman59 (935 en jetons) 
+daroteo83 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 8h]
+daroteo83 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : daroteo83 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°255117599776 : Tournoi #3864809302, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 03/03/2025 8:16:35 CET [03/03/2025 2:16:35 ET]
+Table '3864809302 1' 3-max Siège #2 est au bouton.
+Place 1: daroteo83 (545 en jetons) 
+Place 2: psychoman59 (955 en jetons) 
+psychoman59 : met la petite blind. 20
+daroteo83 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 6d]
+psychoman59 : relance. 40 à 80
+daroteo83 : suit. 40
+*** FLOP *** [4c 5d Qd]
+daroteo83 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [4c 5d Qd] [Td]
+daroteo83 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [4c 5d Qd Td] [8s]
+daroteo83 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+daroteo83 : montre [6h 8h] (une paire de Huit)
+psychoman59 : cache la main perdante. 
+daroteo83 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [4c 5d Qd Td 8s]
+Siège 1 : daroteo83 (grosse blind) a montré [6h 8h] et a gagné (160) avec une paire de Huit
+Siège 2 : psychoman59 (bouton) (petite blind) a caché la main perdante. [As 6d]
+
+
+
+Main PokerStars n°255117600901 : Tournoi #3864809302, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 03/03/2025 8:16:52 CET [03/03/2025 2:16:52 ET]
+Table '3864809302 1' 3-max Siège #1 est au bouton.
+Place 1: daroteo83 (625 en jetons) 
+Place 2: psychoman59 (875 en jetons) 
+daroteo83 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 9d]
+daroteo83 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : daroteo83 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°255117601348 : Tournoi #3864809302, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 03/03/2025 8:17:00 CET [03/03/2025 2:17:00 ET]
+Table '3864809302 1' 3-max Siège #2 est au bouton.
+Place 1: daroteo83 (605 en jetons) 
+Place 2: psychoman59 (895 en jetons) 
+psychoman59 : met la petite blind. 20
+daroteo83 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 8c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à daroteo83.
+daroteo83 a remporté 40  lors du pot .
+daroteo83 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : daroteo83 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°255117601637 : Tournoi #3864809302, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 03/03/2025 8:17:04 CET [03/03/2025 2:17:04 ET]
+Table '3864809302 1' 3-max Siège #1 est au bouton.
+Place 1: daroteo83 (625 en jetons) 
+Place 2: psychoman59 (875 en jetons) 
+daroteo83 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Qc]
+daroteo83 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Jh 2d 8c]
+psychoman59 : parole 
+daroteo83 : parole 
+*** TOURNANT *** [Jh 2d 8c] [Th]
+psychoman59 : parole 
+daroteo83 : parole 
+*** RIVIÈRE *** [Jh 2d 8c Th] [Ac]
+psychoman59 : mise. 80
+daroteo83 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Jh 2d 8c Th Ac]
+Siège 1 : daroteo83 (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°255117602943 : Tournoi #3864809302, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 03/03/2025 8:17:23 CET [03/03/2025 2:17:23 ET]
+Table '3864809302 1' 3-max Siège #2 est au bouton.
+Place 1: daroteo83 (585 en jetons) 
+Place 2: psychoman59 (915 en jetons) 
+psychoman59 : met la petite blind. 20
+daroteo83 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 6d]
+psychoman59 : suit. 20
+daroteo83 : parole 
+*** FLOP *** [8c 8h Th]
+daroteo83 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [8c 8h Th] [6s]
+daroteo83 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [8c 8h Th 6s] [8s]
+daroteo83 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+daroteo83 : montre [7c 3c] (un brelan de Huit)
+psychoman59 : montre [Ks 6d] (un full, full aux Huit par les Six)
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [8c 8h Th 6s 8s]
+Siège 1 : daroteo83 (grosse blind) a montré [7c 3c] et a perdu avec un brelan de Huit
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Ks 6d] et a gagné (80) avec un full, full aux Huit par les Six
+
+
+
+Main PokerStars n°255117603843 : Tournoi #3864809302, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 03/03/2025 8:17:38 CET [03/03/2025 2:17:38 ET]
+Table '3864809302 1' 3-max Siège #1 est au bouton.
+Place 1: daroteo83 (545 en jetons) 
+Place 2: psychoman59 (955 en jetons) 
+daroteo83 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Jd]
+daroteo83 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [5h Qh Ac]
+psychoman59 : parole 
+daroteo83 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à daroteo83.
+daroteo83 a remporté 80  lors du pot .
+daroteo83 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [5h Qh Ac]
+Siège 1 : daroteo83 (bouton) (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°255117605040 : Tournoi #3864809302, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 03/03/2025 8:17:56 CET [03/03/2025 2:17:56 ET]
+Table '3864809302 1' 3-max Siège #2 est au bouton.
+Place 1: daroteo83 (585 en jetons) 
+Place 2: psychoman59 (915 en jetons) 
+psychoman59 : met la petite blind. 30
+daroteo83 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 5d]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à daroteo83.
+daroteo83 a remporté 60  lors du pot .
+daroteo83 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : daroteo83 (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°255117605301 : Tournoi #3864809302, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 03/03/2025 8:18:00 CET [03/03/2025 2:18:00 ET]
+Table '3864809302 1' 3-max Siège #1 est au bouton.
+Place 1: daroteo83 (615 en jetons) 
+Place 2: psychoman59 (885 en jetons) 
+daroteo83 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 8d]
+daroteo83 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Ts 9h Jd]
+psychoman59 : parole 
+daroteo83 : parole 
+*** TOURNANT *** [Ts 9h Jd] [5s]
+psychoman59 : parole 
+daroteo83 : parole 
+*** RIVIÈRE *** [Ts 9h Jd 5s] [Qd]
+psychoman59 : mise. 120
+daroteo83 : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Ts 9h Jd 5s Qd]
+Siège 1 : daroteo83 (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°255117606541 : Tournoi #3864809302, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 03/03/2025 8:18:20 CET [03/03/2025 2:18:20 ET]
+Table '3864809302 1' 3-max Siège #2 est au bouton.
+Place 1: daroteo83 (555 en jetons) 
+Place 2: psychoman59 (945 en jetons) 
+psychoman59 : met la petite blind. 30
+daroteo83 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Kh]
+psychoman59 : suit. 30
+daroteo83 : parole 
+*** FLOP *** [Th 4s 2s]
+daroteo83 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à daroteo83.
+daroteo83 a remporté 120  lors du pot .
+daroteo83 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Th 4s 2s]
+Siège 1 : daroteo83 (grosse blind) a remporté (120)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°255117607372 : Tournoi #3864809302, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 03/03/2025 8:18:32 CET [03/03/2025 2:18:32 ET]
+Table '3864809302 1' 3-max Siège #1 est au bouton.
+Place 1: daroteo83 (615 en jetons) 
+Place 2: psychoman59 (885 en jetons) 
+daroteo83 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Jd]
+daroteo83 : suit. 30
+psychoman59 : relance. 825 à 885 et est all-in.
+daroteo83 : passe. 
+Personne n'a suivi. (825) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : daroteo83 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°255117607950 : Tournoi #3864809302, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 03/03/2025 8:18:41 CET [03/03/2025 2:18:41 ET]
+Table '3864809302 1' 3-max Siège #2 est au bouton.
+Place 1: daroteo83 (555 en jetons) 
+Place 2: psychoman59 (945 en jetons) 
+psychoman59 : met la petite blind. 30
+daroteo83 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 7h]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à daroteo83.
+daroteo83 a remporté 60  lors du pot .
+daroteo83 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : daroteo83 (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°255117608218 : Tournoi #3864809302, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 03/03/2025 8:18:46 CET [03/03/2025 2:18:46 ET]
+Table '3864809302 1' 3-max Siège #1 est au bouton.
+Place 1: daroteo83 (585 en jetons) 
+Place 2: psychoman59 (915 en jetons) 
+daroteo83 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Ad]
+daroteo83 : suit. 30
+psychoman59 : relance. 855 à 915 et est all-in.
+daroteo83 : passe. 
+Personne n'a suivi. (855) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : daroteo83 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°255117608822 : Tournoi #3864809302, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 03/03/2025 8:18:55 CET [03/03/2025 2:18:55 ET]
+Table '3864809302 1' 3-max Siège #2 est au bouton.
+Place 1: daroteo83 (525 en jetons) 
+Place 2: psychoman59 (975 en jetons) 
+psychoman59 : met la petite blind. 30
+daroteo83 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Td]
+psychoman59 : suit. 30
+daroteo83 : parole 
+*** FLOP *** [9s 4s 6c]
+daroteo83 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à daroteo83.
+daroteo83 a remporté 120  lors du pot .
+daroteo83 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [9s 4s 6c]
+Siège 1 : daroteo83 (grosse blind) a remporté (120)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°255117609555 : Tournoi #3864809302, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 03/03/2025 8:19:06 CET [03/03/2025 2:19:06 ET]
+Table '3864809302 1' 3-max Siège #1 est au bouton.
+Place 1: daroteo83 (585 en jetons) 
+Place 2: psychoman59 (915 en jetons) 
+daroteo83 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 2d]
+daroteo83 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : daroteo83 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°255117609895 : Tournoi #3864809302, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 03/03/2025 8:19:11 CET [03/03/2025 2:19:11 ET]
+Table '3864809302 1' 3-max Siège #2 est au bouton.
+Place 1: daroteo83 (555 en jetons) 
+Place 2: psychoman59 (945 en jetons) 
+psychoman59 : met la petite blind. 30
+daroteo83 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d As]
+psychoman59 : relance. 885 à 945 et est all-in.
+daroteo83 : passe. 
+Personne n'a suivi. (885) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : daroteo83 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°255117610365 : Tournoi #3864809302, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 03/03/2025 8:19:19 CET [03/03/2025 2:19:19 ET]
+Table '3864809302 1' 3-max Siège #1 est au bouton.
+Place 1: daroteo83 (495 en jetons) 
+Place 2: psychoman59 (1005 en jetons) 
+daroteo83 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d As]
+daroteo83 : suit. 30
+psychoman59 : relance. 945 à 1005 et est all-in.
+daroteo83 : suit. 435 et est all-in.
+Personne n'a suivi. (510) sont retournés à psychoman59.
+*** FLOP *** [8c 5d 4c]
+*** TOURNANT *** [8c 5d 4c] [5s]
+*** RIVIÈRE *** [8c 5d 4c 5s] [Tc]
+*** ABATTAGE ***
+psychoman59 : montre [4d As] (double paire, Cinq et Quatre)
+daroteo83 : montre [9h Ad] (une paire de Cinq)
+psychoman59 a remporté 990  lors du pot .
+daroteo83 a fini le tournoi en 2e position.
+psychoman59 gagne le tournoi - félicitations !
+psychoman59 gagne un ticket " €1 Step 2 MTT Power Path ticket "
+*** SYNTHÈSE ***
+Pot total 990 | Commission 0 
+Tableau [8c 5d 4c 5s Tc]
+Siège 1 : daroteo83 (bouton) (petite blind) a montré [9h Ad] et a perdu avec une paire de Cinq
+Siège 2 : psychoman59 (grosse blind) a montré [4d As] et a gagné (990) avec double paire, Cinq et Quatre
+
+
+

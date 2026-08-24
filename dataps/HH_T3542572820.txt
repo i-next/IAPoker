@@ -1,0 +1,230 @@
+﻿Main PokerStars n°241602504884 : Tournoi #3542572820, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/02/2023 8:48:56 CET [04/02/2023 2:48:56 ET]
+Table '3542572820 1' 3-max Siège #1 est au bouton.
+Place 1: Luc4spit (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: famille.ona (300 en jetons) 
+psychoman59 : met la petite blind. 10
+famille.ona : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 4h]
+Luc4spit : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à famille.ona.
+famille.ona a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : Luc4spit (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : famille.ona (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°241602506374 : Tournoi #3542572820, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/02/2023 8:49:07 CET [04/02/2023 2:49:07 ET]
+Table '3542572820 1' 3-max Siège #2 est au bouton.
+Place 1: Luc4spit (300 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: famille.ona (310 en jetons) 
+famille.ona : met la petite blind. 10
+Luc4spit : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 4d]
+psychoman59 : passe. 
+famille.ona : suit. 10
+Luc4spit : relance. 280 à 300 et est all-in.
+famille.ona : suit. 280
+*** FLOP *** [3s Ts Ad]
+*** TOURNANT *** [3s Ts Ad] [As]
+*** RIVIÈRE *** [3s Ts Ad As] [6s]
+*** ABATTAGE ***
+famille.ona : montre [Qh Kh] (une paire de As)
+Luc4spit : montre [6c 6d] (un full, full aux Six par les As)
+Luc4spit a remporté 600  lors du pot .
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [3s Ts Ad As 6s]
+Siège 1 : Luc4spit (grosse blind) a montré [6c 6d] et a gagné (600) avec un full, full aux Six par les As
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : famille.ona (petite blind) a montré [Qh Kh] et a perdu avec une paire de As
+
+
+
+Main PokerStars n°241602510041 : Tournoi #3542572820, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/02/2023 8:49:36 CET [04/02/2023 2:49:36 ET]
+Table '3542572820 1' 3-max Siège #3 est au bouton.
+Place 1: Luc4spit (600 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: famille.ona (10 en jetons) 
+Luc4spit : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 8h]
+famille.ona : passe. 
+Luc4spit : relance. 20 à 40
+psychoman59 : suit. 20
+*** FLOP *** [Jd 2c 6d]
+Luc4spit : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Jd 2c 6d] [Jh]
+Luc4spit : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [Jd 2c 6d Jh] [3s]
+Luc4spit : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Luc4spit : montre [9s Tc] (une paire de Valets)
+psychoman59 : montre [Kh 8h] (une paire de Valets - Roi kicker)
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Jd 2c 6d Jh 3s]
+Siège 1 : Luc4spit (petite blind) a montré [9s Tc] et a perdu avec une paire de Valets
+Siège 2 : psychoman59 (grosse blind) a montré [Kh 8h] et a gagné (120) avec une paire de Valets
+Siège 3 : famille.ona (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°241602513317 : Tournoi #3542572820, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 04/02/2023 8:50:02 CET [04/02/2023 2:50:02 ET]
+Table '3542572820 1' 3-max Siège #1 est au bouton.
+Place 1: Luc4spit (540 en jetons) 
+Place 2: psychoman59 (350 en jetons) 
+Place 3: famille.ona (10 en jetons) 
+psychoman59 : met la petite blind. 15
+famille.ona : met la grosse blind. 10 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 4d]
+Luc4spit : relance. 45 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (45) sont retournés à Luc4spit.
+*** FLOP *** [Ks 8d Jc]
+*** TOURNANT *** [Ks 8d Jc] [Kh]
+*** RIVIÈRE *** [Ks 8d Jc Kh] [4c]
+*** ABATTAGE ***
+Luc4spit : montre [Ad 9d] (une paire de Rois)
+Luc4spit a remporté 10  parallèle lors du pot .
+famille.ona : montre [7h 6s] (une paire de Rois - plus basse kicker)
+Luc4spit a remporté 30  principal lors du pot .
+famille.ona a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 40 Principal pot 30. Parallèle pot 10. | Commission 0 
+Tableau [Ks 8d Jc Kh 4c]
+Siège 1 : Luc4spit (bouton) a montré [Ad 9d] et a gagné (40) avec une paire de Rois
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : famille.ona (grosse blind) a montré [7h 6s] et a perdu avec une paire de Rois
+
+
+
+Main PokerStars n°241602515424 : Tournoi #3542572820, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 04/02/2023 8:50:19 CET [04/02/2023 2:50:19 ET]
+Table '3542572820 1' 3-max Siège #2 est au bouton.
+Place 1: Luc4spit (565 en jetons) 
+Place 2: psychoman59 (335 en jetons) 
+psychoman59 : met la petite blind. 15
+Luc4spit : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 6h]
+psychoman59 : suit. 15
+Luc4spit : parole 
+*** FLOP *** [Qd 5d 3s]
+Luc4spit : parole 
+psychoman59 : mise. 60
+Luc4spit : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Qd 5d 3s]
+Siège 1 : Luc4spit (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°241602517457 : Tournoi #3542572820, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 04/02/2023 8:50:36 CET [04/02/2023 2:50:36 ET]
+Table '3542572820 1' 3-max Siège #1 est au bouton.
+Place 1: Luc4spit (535 en jetons) 
+Place 2: psychoman59 (365 en jetons) 
+Luc4spit : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 3d]
+Luc4spit : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : Luc4spit (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°241602518155 : Tournoi #3542572820, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 04/02/2023 8:50:41 CET [04/02/2023 2:50:41 ET]
+Table '3542572820 1' 3-max Siège #2 est au bouton.
+Place 1: Luc4spit (520 en jetons) 
+Place 2: psychoman59 (380 en jetons) 
+psychoman59 : met la petite blind. 15
+Luc4spit : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Qh]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à Luc4spit.
+Luc4spit a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : Luc4spit (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241602518781 : Tournoi #3542572820, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 04/02/2023 8:50:46 CET [04/02/2023 2:50:46 ET]
+Table '3542572820 1' 3-max Siège #1 est au bouton.
+Place 1: Luc4spit (535 en jetons) 
+Place 2: psychoman59 (365 en jetons) 
+Luc4spit : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 8h]
+Luc4spit : suit. 15
+psychoman59 : parole 
+*** FLOP *** [4s Kc Js]
+psychoman59 : parole 
+Luc4spit : parole 
+*** TOURNANT *** [4s Kc Js] [4c]
+psychoman59 : parole 
+Luc4spit : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Luc4spit.
+Luc4spit a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [4s Kc Js 4c]
+Siège 1 : Luc4spit (bouton) (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°241602521994 : Tournoi #3542572820, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 04/02/2023 8:51:12 CET [04/02/2023 2:51:12 ET]
+Table '3542572820 1' 3-max Siège #2 est au bouton.
+Place 1: Luc4spit (565 en jetons) 
+Place 2: psychoman59 (335 en jetons) 
+psychoman59 : met la petite blind. 20
+Luc4spit : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 3d]
+psychoman59 : relance. 295 à 335 et est all-in.
+Luc4spit : suit. 295
+*** FLOP *** [4d As Qh]
+*** TOURNANT *** [4d As Qh] [Qs]
+*** RIVIÈRE *** [4d As Qh Qs] [Th]
+*** ABATTAGE ***
+Luc4spit : montre [Ad 7h] (double paire, As et Dames)
+psychoman59 : montre [3c 3d] (double paire, Dames et Trois)
+Luc4spit a remporté 670  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+Luc4spit remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 670 | Commission 0 
+Tableau [4d As Qh Qs Th]
+Siège 1 : Luc4spit (grosse blind) a montré [Ad 7h] et a gagné (670) avec double paire, As et Dames
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [3c 3d] et a perdu avec double paire, Dames et Trois
+
+
+

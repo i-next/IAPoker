@@ -1,0 +1,542 @@
+﻿Main PokerStars n°243592704794 : Tournoi #3589004568, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 09/05/2023 23:11:11 CET [09/05/2023 17:11:11 ET]
+Table '3589004568 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: pypy (300 en jetons) 
+Place 3: al3737 (300 en jetons) 
+pypy : met la petite blind. 10
+al3737 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 6d]
+psychoman59 : passe. 
+pypy : suit. 10
+al3737 : parole 
+*** FLOP *** [5d Td 2s]
+pypy : parole 
+al3737 : parole 
+*** TOURNANT *** [5d Td 2s] [3h]
+pypy : parole 
+al3737 : mise. 40
+pypy : suit. 40
+*** RIVIÈRE *** [5d Td 2s 3h] [8c]
+pypy : parole 
+al3737 : mise. 120
+pypy : passe. 
+Personne n'a suivi. (120) sont retournés à al3737.
+al3737 a remporté 120  lors du pot .
+al3737 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [5d Td 2s 3h 8c]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : pypy (petite blind) s'est couché. sur le Rivière
+Siège 3 : al3737 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°243592715356 : Tournoi #3589004568, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 09/05/2023 23:11:40 CET [09/05/2023 17:11:40 ET]
+Table '3589004568 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: pypy (240 en jetons) 
+Place 3: al3737 (360 en jetons) 
+al3737 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 6c]
+pypy : passe. 
+al3737 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Tc Js Jd]
+al3737 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Tc Js Jd] [Kh]
+al3737 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Tc Js Jd Kh] [7s]
+al3737 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+al3737 : montre [6d Qc] (une paire de Valets)
+psychoman59 : montre [Qs 6c] (une paire de Valets)
+al3737 a remporté 20  lors du pot .
+psychoman59 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Tc Js Jd Kh 7s]
+Siège 1 : psychoman59 (grosse blind) a montré [Qs 6c] et a gagné (20) avec une paire de Valets
+Siège 2 : pypy (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : al3737 (petite blind) a montré [6d Qc] et a gagné (20) avec une paire de Valets
+
+
+
+Main PokerStars n°243592721557 : Tournoi #3589004568, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 09/05/2023 23:11:56 CET [09/05/2023 17:11:56 ET]
+Table '3589004568 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: pypy (240 en jetons) 
+Place 3: al3737 (360 en jetons) 
+psychoman59 : met la petite blind. 10
+pypy : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 8d]
+al3737 : suit. 20
+psychoman59 : passe. 
+pypy : parole 
+*** FLOP *** [Jd 9d Tc]
+pypy : parole 
+al3737 : parole 
+*** TOURNANT *** [Jd 9d Tc] [Kd]
+pypy : parole 
+al3737 : parole 
+*** RIVIÈRE *** [Jd 9d Tc Kd] [Kc]
+pypy : parole 
+al3737 : parole 
+*** ABATTAGE ***
+pypy : montre [3c 9h] (double paire, Rois et Neuf)
+al3737 : cache la main perdante. 
+pypy a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [Jd 9d Tc Kd Kc]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : pypy (grosse blind) a montré [3c 9h] et a gagné (50) avec double paire, Rois et Neuf
+Siège 3 : al3737 (bouton) a caché la main perdante. [As 8s]
+
+
+
+Main PokerStars n°243592726428 : Tournoi #3589004568, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 09/05/2023 23:12:09 CET [09/05/2023 17:12:09 ET]
+Table '3589004568 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (290 en jetons) 
+Place 2: pypy (270 en jetons) 
+Place 3: al3737 (340 en jetons) 
+pypy : met la petite blind. 10
+al3737 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Jh]
+psychoman59 : passe. 
+pypy : suit. 10
+al3737 : relance. 100 à 120
+pypy : passe. 
+Personne n'a suivi. (100) sont retournés à al3737.
+al3737 a remporté 40  lors du pot .
+al3737 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : pypy (petite blind) s'est couché. avant Flop
+Siège 3 : al3737 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°243592732766 : Tournoi #3589004568, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 09/05/2023 23:12:27 CET [09/05/2023 17:12:27 ET]
+Table '3589004568 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (290 en jetons) 
+Place 2: pypy (250 en jetons) 
+Place 3: al3737 (360 en jetons) 
+al3737 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 3h]
+pypy : passe. 
+al3737 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Kh 6c 7h]
+al3737 : mise. 120
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à al3737.
+al3737 a remporté 60  lors du pot .
+al3737 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Kh 6c 7h]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : pypy (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : al3737 (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°243592737849 : Tournoi #3589004568, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 09/05/2023 23:12:40 CET [09/05/2023 17:12:40 ET]
+Table '3589004568 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (260 en jetons) 
+Place 2: pypy (250 en jetons) 
+Place 3: al3737 (390 en jetons) 
+psychoman59 : met la petite blind. 15
+pypy : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Td]
+al3737 : passe. 
+psychoman59 : relance. 60 à 90
+pypy : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (petite blind) a remporté (60)
+Siège 2 : pypy (grosse blind) s'est couché. avant Flop
+Siège 3 : al3737 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°243592741536 : Tournoi #3589004568, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 09/05/2023 23:12:50 CET [09/05/2023 17:12:50 ET]
+Table '3589004568 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (290 en jetons) 
+Place 2: pypy (220 en jetons) 
+Place 3: al3737 (390 en jetons) 
+pypy : met la petite blind. 15
+al3737 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 5s]
+psychoman59 : passe. 
+pypy : suit. 15
+al3737 : relance. 360 à 390 et est all-in.
+pypy : passe. 
+Personne n'a suivi. (360) sont retournés à al3737.
+al3737 a remporté 60  lors du pot .
+al3737 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : pypy (petite blind) s'est couché. avant Flop
+Siège 3 : al3737 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°243592744874 : Tournoi #3589004568, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 09/05/2023 23:12:59 CET [09/05/2023 17:12:59 ET]
+Table '3589004568 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (290 en jetons) 
+Place 2: pypy (190 en jetons) 
+Place 3: al3737 (420 en jetons) 
+al3737 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Qc]
+pypy : relance. 30 à 60
+al3737 : suit. 45
+psychoman59 : passe. 
+*** FLOP *** [Jc 4d 9s]
+al3737 : parole 
+pypy : mise. 60
+al3737 : relance. 300 à 360 et est all-in.
+pypy : suit. 70 et est all-in.
+Personne n'a suivi. (230) sont retournés à al3737.
+*** TOURNANT *** [Jc 4d 9s] [Qh]
+*** RIVIÈRE *** [Jc 4d 9s Qh] [Kd]
+*** ABATTAGE ***
+al3737 : montre [Th As] (une suite, Dix à As)
+pypy : montre [Ad Ah] (une paire de As)
+al3737 a remporté 410  lors du pot .
+pypy a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 410 | Commission 0 
+Tableau [Jc 4d 9s Qh Kd]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : pypy (bouton) a montré [Ad Ah] et a perdu avec une paire de As
+Siège 3 : al3737 (petite blind) a montré [Th As] et a gagné (410) avec une suite, Dix à As
+
+
+
+Main PokerStars n°243592754564 : Tournoi #3589004568, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 09/05/2023 23:13:25 CET [09/05/2023 17:13:25 ET]
+Table '3589004568 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (260 en jetons) 
+Place 3: al3737 (640 en jetons) 
+psychoman59 : met la petite blind. 20
+al3737 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 7h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à al3737.
+al3737 a remporté 40  lors du pot .
+al3737 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : al3737 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°243592756624 : Tournoi #3589004568, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 09/05/2023 23:13:31 CET [09/05/2023 17:13:31 ET]
+Table '3589004568 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (240 en jetons) 
+Place 3: al3737 (660 en jetons) 
+al3737 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 9h]
+al3737 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Tc 7s 3h]
+psychoman59 : parole 
+al3737 : parole 
+*** TOURNANT *** [Tc 7s 3h] [8c]
+psychoman59 : parole 
+al3737 : parole 
+*** RIVIÈRE *** [Tc 7s 3h 8c] [4s]
+psychoman59 : parole 
+al3737 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Qs 9h] (Hauteur Dame)
+al3737 : montre [4c Qd] (une paire de Quatre)
+al3737 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Tc 7s 3h 8c 4s]
+Siège 1 : psychoman59 (grosse blind) a montré [Qs 9h] et a perdu avec Hauteur Dame
+Siège 3 : al3737 (bouton) (petite blind) a montré [4c Qd] et a gagné (80) avec une paire de Quatre
+
+
+
+Main PokerStars n°243592763220 : Tournoi #3589004568, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 09/05/2023 23:13:48 CET [09/05/2023 17:13:48 ET]
+Table '3589004568 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (200 en jetons) 
+Place 3: al3737 (700 en jetons) 
+psychoman59 : met la petite blind. 20
+al3737 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 6d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à al3737.
+al3737 a remporté 40  lors du pot .
+al3737 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : al3737 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°243592765065 : Tournoi #3589004568, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 09/05/2023 23:13:53 CET [09/05/2023 17:13:53 ET]
+Table '3589004568 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (180 en jetons) 
+Place 3: al3737 (720 en jetons) 
+al3737 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 6c]
+al3737 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [2c 5c 4s]
+psychoman59 : mise. 140 et est all-in.
+al3737 : passe. 
+Personne n'a suivi. (140) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [2c 5c 4s]
+Siège 1 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : al3737 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°243592770360 : Tournoi #3589004568, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 09/05/2023 23:14:08 CET [09/05/2023 17:14:08 ET]
+Table '3589004568 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (220 en jetons) 
+Place 3: al3737 (680 en jetons) 
+psychoman59 : met la petite blind. 20
+al3737 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Ts]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à al3737.
+al3737 a remporté 40  lors du pot .
+al3737 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : al3737 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°243592772118 : Tournoi #3589004568, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 09/05/2023 23:14:12 CET [09/05/2023 17:14:12 ET]
+Table '3589004568 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (200 en jetons) 
+Place 3: al3737 (700 en jetons) 
+al3737 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 6d]
+al3737 : suit. 20
+psychoman59 : relance. 160 à 200 et est all-in.
+al3737 : passe. 
+Personne n'a suivi. (160) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : al3737 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243592777020 : Tournoi #3589004568, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 09/05/2023 23:14:25 CET [09/05/2023 17:14:25 ET]
+Table '3589004568 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (240 en jetons) 
+Place 3: al3737 (660 en jetons) 
+psychoman59 : met la petite blind. 30
+al3737 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Ks]
+psychoman59 : relance. 180 à 240 et est all-in.
+al3737 : passe. 
+Personne n'a suivi. (180) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 3 : al3737 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243592780581 : Tournoi #3589004568, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 09/05/2023 23:14:35 CET [09/05/2023 17:14:35 ET]
+Table '3589004568 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 3: al3737 (600 en jetons) 
+al3737 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 4c]
+al3737 : relance. 540 à 600 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (540) sont retournés à al3737.
+al3737 a remporté 120  lors du pot .
+al3737 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : al3737 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°243592783392 : Tournoi #3589004568, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 09/05/2023 23:14:42 CET [09/05/2023 17:14:42 ET]
+Table '3589004568 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (240 en jetons) 
+Place 3: al3737 (660 en jetons) 
+psychoman59 : met la petite blind. 30
+al3737 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 7s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à al3737.
+al3737 a remporté 60  lors du pot .
+al3737 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : al3737 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°243592785072 : Tournoi #3589004568, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 09/05/2023 23:14:47 CET [09/05/2023 17:14:47 ET]
+Table '3589004568 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (210 en jetons) 
+Place 3: al3737 (690 en jetons) 
+al3737 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 2h]
+al3737 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : al3737 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243592787606 : Tournoi #3589004568, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 09/05/2023 23:14:54 CET [09/05/2023 17:14:54 ET]
+Table '3589004568 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (240 en jetons) 
+Place 3: al3737 (660 en jetons) 
+psychoman59 : met la petite blind. 30
+al3737 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Kc]
+psychoman59 : relance. 180 à 240 et est all-in.
+al3737 : suit. 180
+*** FLOP *** [Ah 9h 6c]
+*** TOURNANT *** [Ah 9h 6c] [8s]
+*** RIVIÈRE *** [Ah 9h 6c 8s] [8h]
+*** ABATTAGE ***
+al3737 : montre [9c 7s] (double paire, Neuf et Huit)
+psychoman59 : montre [Ac Kc] (double paire, As et Huit)
+psychoman59 a remporté 480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [Ah 9h 6c 8s 8h]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Ac Kc] et a gagné (480) avec double paire, As et Huit
+Siège 3 : al3737 (grosse blind) a montré [9c 7s] et a perdu avec double paire, Neuf et Huit
+
+
+
+Main PokerStars n°243592792870 : Tournoi #3589004568, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 09/05/2023 23:15:07 CET [09/05/2023 17:15:07 ET]
+Table '3589004568 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (480 en jetons) 
+Place 3: al3737 (420 en jetons) 
+al3737 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 5s]
+al3737 : relance. 360 à 420 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (360) sont retournés à al3737.
+al3737 a remporté 120  lors du pot .
+al3737 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : al3737 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°243592796733 : Tournoi #3589004568, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 09/05/2023 23:15:18 CET [09/05/2023 17:15:18 ET]
+Table '3589004568 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (420 en jetons) 
+Place 3: al3737 (480 en jetons) 
+psychoman59 : met la petite blind. 40
+al3737 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Th]
+psychoman59 : relance. 340 à 420 et est all-in.
+al3737 : suit. 340
+*** FLOP *** [As Ks Js]
+*** TOURNANT *** [As Ks Js] [8h]
+*** RIVIÈRE *** [As Ks Js 8h] [Kd]
+*** ABATTAGE ***
+al3737 : montre [7d Ah] (double paire, As et Rois)
+psychoman59 : montre [Qd Th] (une suite, Dix à As)
+psychoman59 a remporté 840  lors du pot .
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Tableau [As Ks Js 8h Kd]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Qd Th] et a gagné (840) avec une suite, Dix à As
+Siège 3 : al3737 (grosse blind) a montré [7d Ah] et a perdu avec double paire, As et Rois
+
+
+
+Main PokerStars n°243592801795 : Tournoi #3589004568, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 09/05/2023 23:15:31 CET [09/05/2023 17:15:31 ET]
+Table '3589004568 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (840 en jetons) 
+Place 3: al3737 (60 en jetons) 
+al3737 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 9h]
+al3737 : suit. 20 et est all-in.
+Personne n'a suivi. (20) sont retournés à psychoman59.
+*** FLOP *** [Qs 3c 8c]
+*** TOURNANT *** [Qs 3c 8c] [As]
+*** RIVIÈRE *** [Qs 3c 8c As] [2h]
+*** ABATTAGE ***
+psychoman59 : montre [Jh 9h] (Hauteur As)
+al3737 : montre [5s 5h] (une paire de Cinq)
+al3737 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Qs 3c 8c As 2h]
+Siège 1 : psychoman59 (grosse blind) a montré [Jh 9h] et a perdu avec Hauteur As
+Siège 3 : al3737 (bouton) (petite blind) a montré [5s 5h] et a gagné (120) avec une paire de Cinq
+
+
+

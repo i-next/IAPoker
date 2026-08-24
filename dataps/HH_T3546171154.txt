@@ -1,0 +1,53 @@
+﻿Main PokerStars n°241758580146 : Tournoi #3546171154, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/02/2023 8:15:09 CET [11/02/2023 2:15:09 ET]
+Table '3546171154 1' 3-max Siège #1 est au bouton.
+Place 1: EVcesar (300 en jetons) 
+Place 2: vippypok (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+vippypok : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 2h]
+EVcesar : passe. 
+vippypok : relance. 20 à 40
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à vippypok.
+vippypok a remporté 40  lors du pot .
+vippypok : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : EVcesar (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : vippypok (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241758581769 : Tournoi #3546171154, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/02/2023 8:15:23 CET [11/02/2023 2:15:23 ET]
+Table '3546171154 1' 3-max Siège #2 est au bouton.
+Place 1: EVcesar (300 en jetons) 
+Place 2: vippypok (320 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+EVcesar : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Ah]
+vippypok : relance. 300 à 320 et est all-in.
+psychoman59 : suit. 270 et est all-in.
+EVcesar : passe. 
+Personne n'a suivi. (40) sont retournés à vippypok.
+*** FLOP *** [4d Qs Jh]
+*** TOURNANT *** [4d Qs Jh] [7c]
+*** RIVIÈRE *** [4d Qs Jh 7c] [Ks]
+*** ABATTAGE ***
+psychoman59 : montre [5h Ah] (Hauteur As)
+vippypok : montre [As Jc] (une paire de Valets)
+vippypok a remporté 580  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [4d Qs Jh 7c Ks]
+Siège 1 : EVcesar (grosse blind) s'est couché. avant Flop
+Siège 2 : vippypok (bouton) a montré [As Jc] et a gagné (580) avec une paire de Valets
+Siège 3 : psychoman59 (petite blind) a montré [5h Ah] et a perdu avec Hauteur As
+
+
+

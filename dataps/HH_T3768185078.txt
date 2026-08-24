@@ -1,0 +1,99 @@
+﻿Main PokerStars n°251073643933 : Tournoi #3768185078, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 18/06/2024 7:43:59 CET [18/06/2024 1:43:59 ET]
+Table '3768185078 1' 3-max Siège #1 est au bouton.
+Place 1: foximj (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: Adrianesc127 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+Adrianesc127 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 2h]
+foximj : passe. 
+psychoman59 : relance. 40 à 60
+Adrianesc127 : suit. 40
+*** FLOP *** [4s Td Th]
+psychoman59 : parole 
+Adrianesc127 : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [4s Td Th] [Ts]
+psychoman59 : parole 
+Adrianesc127 : mise. 40
+psychoman59 : suit. 40
+*** RIVIÈRE *** [4s Td Th Ts] [3s]
+psychoman59 : parole 
+Adrianesc127 : mise. 360 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (360) sont retournés à Adrianesc127.
+Adrianesc127 a remporté 280  lors du pot .
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Tableau [4s Td Th Ts 3s]
+Siège 1 : foximj (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Rivière
+Siège 3 : Adrianesc127 (grosse blind) a remporté (280)
+
+
+
+Main PokerStars n°251073646795 : Tournoi #3768185078, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 18/06/2024 7:44:36 CET [18/06/2024 1:44:36 ET]
+Table '3768185078 1' 3-max Siège #2 est au bouton.
+Place 1: foximj (500 en jetons) 
+Place 2: psychoman59 (360 en jetons) 
+Place 3: Adrianesc127 (640 en jetons) 
+Adrianesc127 : met la petite blind. 10
+foximj : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 7c]
+psychoman59 : passe. 
+Adrianesc127 : suit. 10
+foximj : parole 
+*** FLOP *** [9h 5h 8s]
+Adrianesc127 : parole 
+foximj : parole 
+*** TOURNANT *** [9h 5h 8s] [Qc]
+Adrianesc127 : parole 
+foximj : parole 
+*** RIVIÈRE *** [9h 5h 8s Qc] [2h]
+Adrianesc127 : parole 
+foximj : parole 
+*** ABATTAGE ***
+Adrianesc127 : montre [3c 4h] (Hauteur Dame)
+foximj : montre [Kd 4c] (Hauteur Roi)
+foximj a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [9h 5h 8s Qc 2h]
+Siège 1 : foximj (grosse blind) a montré [Kd 4c] et a gagné (40) avec Hauteur Roi
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Adrianesc127 (petite blind) a montré [3c 4h] et a perdu avec Hauteur Dame
+
+
+
+Main PokerStars n°251073650032 : Tournoi #3768185078, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 18/06/2024 7:45:17 CET [18/06/2024 1:45:17 ET]
+Table '3768185078 1' 3-max Siège #3 est au bouton.
+Place 1: foximj (520 en jetons) 
+Place 2: psychoman59 (360 en jetons) 
+Place 3: Adrianesc127 (620 en jetons) 
+foximj : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 4s]
+Adrianesc127 : relance. 600 à 620 et est all-in.
+foximj : passe. 
+psychoman59 : suit. 340 et est all-in.
+Personne n'a suivi. (260) sont retournés à Adrianesc127.
+*** FLOP *** [3c 2s 9h]
+*** TOURNANT *** [3c 2s 9h] [7c]
+*** RIVIÈRE *** [3c 2s 9h 7c] [7h]
+*** ABATTAGE ***
+psychoman59 : montre [4c 4s] (double paire, Sept et Quatre)
+Adrianesc127 : montre [7d 7s] (un carré de Sept)
+Adrianesc127 a remporté 730  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 730 | Commission 0 
+Tableau [3c 2s 9h 7c 7h]
+Siège 1 : foximj (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a montré [4c 4s] et a perdu avec double paire, Sept et Quatre
+Siège 3 : Adrianesc127 (bouton) a montré [7d 7s] et a gagné (730) avec un carré de Sept
+
+
+

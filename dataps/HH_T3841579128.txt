@@ -1,0 +1,939 @@
+﻿Main PokerStars n°254167127716 : Tournoi #3841579128, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 03/01/2025 6:19:25 CET [03/01/2025 0:19:25 ET]
+Table '3841579128 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: NAYRUSKY (500 en jetons) 
+Place 3: Izymany78 (500 en jetons) 
+NAYRUSKY : met la petite blind. 10
+Izymany78 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 6d]
+psychoman59 : passe. 
+NAYRUSKY : suit. 10
+Izymany78 : relance. 60 à 80
+NAYRUSKY : suit. 60
+*** FLOP *** [3d 2s As]
+NAYRUSKY : parole 
+Izymany78 : mise. 60
+NAYRUSKY : passe. 
+Personne n'a suivi. (60) sont retournés à Izymany78.
+Izymany78 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [3d 2s As]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : NAYRUSKY (petite blind) s'est couché. sur le Flop
+Siège 3 : Izymany78 (grosse blind) a remporté (160)
+
+
+
+Main PokerStars n°254167129199 : Tournoi #3841579128, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 03/01/2025 6:19:41 CET [03/01/2025 0:19:41 ET]
+Table '3841579128 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: NAYRUSKY (420 en jetons) 
+Place 3: Izymany78 (580 en jetons) 
+Izymany78 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 7d]
+NAYRUSKY : suit. 20
+Izymany78 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Qd As 4c]
+Izymany78 : parole 
+psychoman59 : parole 
+NAYRUSKY : parole 
+*** TOURNANT *** [Qd As 4c] [Td]
+Izymany78 : mise. 20
+psychoman59 : passe. 
+NAYRUSKY : suit. 20
+*** RIVIÈRE *** [Qd As 4c Td] [Ah]
+Izymany78 : mise. 20
+NAYRUSKY : passe. 
+Personne n'a suivi. (20) sont retournés à Izymany78.
+Izymany78 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [Qd As 4c Td Ah]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : NAYRUSKY (bouton) s'est couché. sur le Rivière
+Siège 3 : Izymany78 (petite blind) a remporté (100)
+
+
+
+Main PokerStars n°254167131728 : Tournoi #3841579128, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 03/01/2025 6:20:08 CET [03/01/2025 0:20:08 ET]
+Table '3841579128 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (480 en jetons) 
+Place 2: NAYRUSKY (380 en jetons) 
+Place 3: Izymany78 (640 en jetons) 
+psychoman59 : met la petite blind. 10
+NAYRUSKY : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 6d]
+Izymany78 : relance. 31 à 51
+psychoman59 : passe. 
+NAYRUSKY : suit. 31
+*** FLOP *** [Qc 3c Td]
+NAYRUSKY : mise. 140
+Izymany78 : passe. 
+Personne n'a suivi. (140) sont retournés à NAYRUSKY.
+NAYRUSKY a remporté 112  lors du pot .
+*** SYNTHÈSE ***
+Pot total 112 | Commission 0 
+Tableau [Qc 3c Td]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : NAYRUSKY (grosse blind) a remporté (112)
+Siège 3 : Izymany78 (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°254167133503 : Tournoi #3841579128, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 03/01/2025 6:20:27 CET [03/01/2025 0:20:27 ET]
+Table '3841579128 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (470 en jetons) 
+Place 2: NAYRUSKY (441 en jetons) 
+Place 3: Izymany78 (589 en jetons) 
+NAYRUSKY : met la petite blind. 10
+Izymany78 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 9s]
+psychoman59 : suit. 20
+NAYRUSKY : suit. 10
+Izymany78 : relance. 40 à 60
+psychoman59 : passe. 
+NAYRUSKY : suit. 40
+*** FLOP *** [6s 2h Kc]
+NAYRUSKY : parole 
+Izymany78 : mise. 46
+NAYRUSKY : suit. 46
+*** TOURNANT *** [6s 2h Kc] [7h]
+NAYRUSKY : parole 
+Izymany78 : mise. 167
+NAYRUSKY : suit. 167
+*** RIVIÈRE *** [6s 2h Kc 7h] [6h]
+NAYRUSKY : mise. 168 et est all-in.
+Izymany78 : suit. 168
+*** ABATTAGE ***
+NAYRUSKY : montre [Jh 5h] (une couleur, hauteur Valet)
+Izymany78 : montre [Kd 9h] (double paire, Rois et Six)
+NAYRUSKY a remporté 902  lors du pot .
+*** SYNTHÈSE ***
+Pot total 902 | Commission 0 
+Tableau [6s 2h Kc 7h 6h]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 2 : NAYRUSKY (petite blind) a montré [Jh 5h] et a gagné (902) avec une couleur, hauteur Valet
+Siège 3 : Izymany78 (grosse blind) a montré [Kd 9h] et a perdu avec double paire, Rois et Six
+
+
+
+Main PokerStars n°254167136761 : Tournoi #3841579128, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 03/01/2025 6:21:01 CET [03/01/2025 0:21:01 ET]
+Table '3841579128 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (450 en jetons) 
+Place 2: NAYRUSKY (902 en jetons) 
+Place 3: Izymany78 (148 en jetons) 
+Izymany78 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 3c]
+NAYRUSKY : suit. 20
+Izymany78 : relance. 128 à 148 et est all-in.
+psychoman59 : passe. 
+NAYRUSKY : suit. 128
+*** FLOP *** [2c Qd 2s]
+*** TOURNANT *** [2c Qd 2s] [As]
+*** RIVIÈRE *** [2c Qd 2s As] [5c]
+*** ABATTAGE ***
+Izymany78 : montre [5s 5h] (un full, full aux Cinq par les Deux)
+NAYRUSKY : montre [3d Jd] (une paire de Deux)
+Izymany78 a remporté 316  lors du pot .
+*** SYNTHÈSE ***
+Pot total 316 | Commission 0 
+Tableau [2c Qd 2s As 5c]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : NAYRUSKY (bouton) a montré [3d Jd] et a perdu avec une paire de Deux
+Siège 3 : Izymany78 (petite blind) a montré [5s 5h] et a gagné (316) avec un full, full aux Cinq par les Deux
+
+
+
+Main PokerStars n°254167139154 : Tournoi #3841579128, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 03/01/2025 6:21:25 CET [03/01/2025 0:21:25 ET]
+Table '3841579128 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (430 en jetons) 
+Place 2: NAYRUSKY (754 en jetons) 
+Place 3: Izymany78 (316 en jetons) 
+psychoman59 : met la petite blind. 10
+NAYRUSKY : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 7c]
+Izymany78 : relance. 60 à 80
+psychoman59 : passe. 
+NAYRUSKY : suit. 60
+*** FLOP *** [Jd 3h 2h]
+NAYRUSKY : parole 
+Izymany78 : mise. 122
+NAYRUSKY : passe. 
+Personne n'a suivi. (122) sont retournés à Izymany78.
+Izymany78 a remporté 170  lors du pot .
+*** SYNTHÈSE ***
+Pot total 170 | Commission 0 
+Tableau [Jd 3h 2h]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : NAYRUSKY (grosse blind) s'est couché. sur le Flop
+Siège 3 : Izymany78 (bouton) a remporté (170)
+
+
+
+Main PokerStars n°254167141017 : Tournoi #3841579128, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 03/01/2025 6:21:45 CET [03/01/2025 0:21:45 ET]
+Table '3841579128 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (420 en jetons) 
+Place 2: NAYRUSKY (674 en jetons) 
+Place 3: Izymany78 (406 en jetons) 
+NAYRUSKY : met la petite blind. 10
+Izymany78 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 9h]
+psychoman59 : passe. 
+NAYRUSKY : suit. 10
+Izymany78 : relance. 386 à 406 et est all-in.
+NAYRUSKY : passe. 
+Personne n'a suivi. (386) sont retournés à Izymany78.
+Izymany78 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : NAYRUSKY (petite blind) s'est couché. avant Flop
+Siège 3 : Izymany78 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°254167141976 : Tournoi #3841579128, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 03/01/2025 6:21:55 CET [03/01/2025 0:21:55 ET]
+Table '3841579128 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (420 en jetons) 
+Place 2: NAYRUSKY (654 en jetons) 
+Place 3: Izymany78 (426 en jetons) 
+Izymany78 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 7h]
+NAYRUSKY : suit. 20
+Izymany78 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Ac Qc 7s]
+Izymany78 : parole 
+psychoman59 : parole 
+NAYRUSKY : parole 
+*** TOURNANT *** [Ac Qc 7s] [8s]
+Izymany78 : mise. 43
+psychoman59 : passe. 
+NAYRUSKY : passe. 
+Personne n'a suivi. (43) sont retournés à Izymany78.
+Izymany78 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ac Qc 7s 8s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : NAYRUSKY (bouton) s'est couché. sur le Tournant
+Siège 3 : Izymany78 (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°254167144473 : Tournoi #3841579128, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 03/01/2025 6:22:21 CET [03/01/2025 0:22:21 ET]
+Table '3841579128 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (400 en jetons) 
+Place 2: NAYRUSKY (634 en jetons) 
+Place 3: Izymany78 (466 en jetons) 
+psychoman59 : met la petite blind. 10
+NAYRUSKY : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 9h]
+Izymany78 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à NAYRUSKY.
+NAYRUSKY a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : NAYRUSKY (grosse blind) a remporté (20)
+Siège 3 : Izymany78 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°254167145282 : Tournoi #3841579128, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 03/01/2025 6:22:30 CET [03/01/2025 0:22:30 ET]
+Table '3841579128 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (390 en jetons) 
+Place 2: NAYRUSKY (644 en jetons) 
+Place 3: Izymany78 (466 en jetons) 
+NAYRUSKY : met la petite blind. 15
+Izymany78 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 8s]
+psychoman59 : passe. 
+NAYRUSKY : suit. 15
+Izymany78 : parole 
+*** FLOP *** [2d 5c Ts]
+NAYRUSKY : parole 
+Izymany78 : mise. 30
+NAYRUSKY : passe. 
+Personne n'a suivi. (30) sont retournés à Izymany78.
+Izymany78 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [2d 5c Ts]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : NAYRUSKY (petite blind) s'est couché. sur le Flop
+Siège 3 : Izymany78 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°254167146381 : Tournoi #3841579128, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 03/01/2025 6:22:41 CET [03/01/2025 0:22:41 ET]
+Table '3841579128 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (390 en jetons) 
+Place 2: NAYRUSKY (614 en jetons) 
+Place 3: Izymany78 (496 en jetons) 
+Izymany78 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Tc]
+NAYRUSKY : suit. 30
+Izymany78 : suit. 15
+psychoman59 : relance. 360 à 390 et est all-in.
+NAYRUSKY : passe. 
+Izymany78 : passe. 
+Personne n'a suivi. (360) sont retournés à psychoman59.
+psychoman59 a remporté 90  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (90)
+Siège 2 : NAYRUSKY (bouton) s'est couché. avant Flop
+Siège 3 : Izymany78 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254167147469 : Tournoi #3841579128, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 03/01/2025 6:22:52 CET [03/01/2025 0:22:52 ET]
+Table '3841579128 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (450 en jetons) 
+Place 2: NAYRUSKY (584 en jetons) 
+Place 3: Izymany78 (466 en jetons) 
+psychoman59 : met la petite blind. 15
+NAYRUSKY : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 2d]
+Izymany78 : passe. 
+psychoman59 : relance. 420 à 450 et est all-in.
+NAYRUSKY : passe. 
+Personne n'a suivi. (420) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (petite blind) a remporté (60)
+Siège 2 : NAYRUSKY (grosse blind) s'est couché. avant Flop
+Siège 3 : Izymany78 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°254167148357 : Tournoi #3841579128, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 03/01/2025 6:23:02 CET [03/01/2025 0:23:02 ET]
+Table '3841579128 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (480 en jetons) 
+Place 2: NAYRUSKY (554 en jetons) 
+Place 3: Izymany78 (466 en jetons) 
+NAYRUSKY : met la petite blind. 15
+Izymany78 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 8d]
+psychoman59 : suit. 30
+NAYRUSKY : suit. 15
+Izymany78 : parole 
+*** FLOP *** [Kh Td 9h]
+NAYRUSKY : mise. 30
+Izymany78 : passe. 
+psychoman59 : suit. 30
+*** TOURNANT *** [Kh Td 9h] [5c]
+NAYRUSKY : mise. 30
+psychoman59 : suit. 30
+*** RIVIÈRE *** [Kh Td 9h 5c] [Kc]
+NAYRUSKY : mise. 30
+psychoman59 : suit. 30
+*** ABATTAGE ***
+NAYRUSKY : montre [3d 9c] (double paire, Rois et Neuf)
+psychoman59 : cache la main perdante. 
+NAYRUSKY a remporté 270  lors du pot .
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Tableau [Kh Td 9h 5c Kc]
+Siège 1 : psychoman59 (bouton) a caché la main perdante. [Ah 8d]
+Siège 2 : NAYRUSKY (petite blind) a montré [3d 9c] et a gagné (270) avec double paire, Rois et Neuf
+Siège 3 : Izymany78 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°254167150226 : Tournoi #3841579128, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 03/01/2025 6:23:22 CET [03/01/2025 0:23:22 ET]
+Table '3841579128 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (360 en jetons) 
+Place 2: NAYRUSKY (704 en jetons) 
+Place 3: Izymany78 (436 en jetons) 
+Izymany78 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 9c]
+NAYRUSKY : suit. 30
+Izymany78 : relance. 406 à 436 et est all-in.
+psychoman59 : suit. 330 et est all-in.
+NAYRUSKY : passe. 
+Personne n'a suivi. (76) sont retournés à Izymany78.
+*** FLOP *** [Qh Qd Tc]
+*** TOURNANT *** [Qh Qd Tc] [6s]
+*** RIVIÈRE *** [Qh Qd Tc 6s] [8h]
+*** ABATTAGE ***
+Izymany78 : montre [Ac 3c] (une paire de Dames)
+psychoman59 : montre [Ah 9c] (une paire de Dames - As+Dix+Neuf kicker)
+psychoman59 a remporté 750  lors du pot .
+*** SYNTHÈSE ***
+Pot total 750 | Commission 0 
+Tableau [Qh Qd Tc 6s 8h]
+Siège 1 : psychoman59 (grosse blind) a montré [Ah 9c] et a gagné (750) avec une paire de Dames
+Siège 2 : NAYRUSKY (bouton) s'est couché. avant Flop
+Siège 3 : Izymany78 (petite blind) a montré [Ac 3c] et a perdu avec une paire de Dames
+
+
+
+Main PokerStars n°254167151977 : Tournoi #3841579128, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 03/01/2025 6:23:40 CET [03/01/2025 0:23:40 ET]
+Table '3841579128 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (750 en jetons) 
+Place 2: NAYRUSKY (674 en jetons) 
+Place 3: Izymany78 (76 en jetons) 
+psychoman59 : met la petite blind. 15
+NAYRUSKY : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 4c]
+Izymany78 : relance. 46 à 76 et est all-in.
+psychoman59 : passe. 
+NAYRUSKY : suit. 46
+*** FLOP *** [8d 5d 2h]
+*** TOURNANT *** [8d 5d 2h] [Kh]
+*** RIVIÈRE *** [8d 5d 2h Kh] [9c]
+*** ABATTAGE ***
+NAYRUSKY : montre [7c 3h] (Hauteur Roi)
+Izymany78 : montre [Ks 5c] (double paire, Rois et Cinq)
+Izymany78 a remporté 167  lors du pot .
+*** SYNTHÈSE ***
+Pot total 167 | Commission 0 
+Tableau [8d 5d 2h Kh 9c]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : NAYRUSKY (grosse blind) a montré [7c 3h] et a perdu avec Hauteur Roi
+Siège 3 : Izymany78 (bouton) a montré [Ks 5c] et a gagné (167) avec double paire, Rois et Cinq
+
+
+
+Main PokerStars n°254167153608 : Tournoi #3841579128, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 03/01/2025 6:23:57 CET [03/01/2025 0:23:57 ET]
+Table '3841579128 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (735 en jetons) 
+Place 2: NAYRUSKY (598 en jetons) 
+Place 3: Izymany78 (167 en jetons) 
+NAYRUSKY : met la petite blind. 15
+Izymany78 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 2c]
+psychoman59 : passe. 
+NAYRUSKY : suit. 15
+Izymany78 : relance. 137 à 167 et est all-in.
+NAYRUSKY : suit. 137
+*** FLOP *** [Qc 7c 4d]
+*** TOURNANT *** [Qc 7c 4d] [4h]
+*** RIVIÈRE *** [Qc 7c 4d 4h] [Ts]
+*** ABATTAGE ***
+NAYRUSKY : montre [4s Ad] (un brelan de Quatre)
+Izymany78 : montre [Kh Kc] (double paire, Rois et Quatre)
+NAYRUSKY a remporté 334  lors du pot .
+Izymany78 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 334 | Commission 0 
+Tableau [Qc 7c 4d 4h Ts]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : NAYRUSKY (petite blind) a montré [4s Ad] et a gagné (334) avec un brelan de Quatre
+Siège 3 : Izymany78 (grosse blind) a montré [Kh Kc] et a perdu avec double paire, Rois et Quatre
+
+
+
+Main PokerStars n°254167155683 : Tournoi #3841579128, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 03/01/2025 6:24:18 CET [03/01/2025 0:24:18 ET]
+Table '3841579128 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (735 en jetons) 
+Place 2: NAYRUSKY (765 en jetons) 
+NAYRUSKY : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Qc]
+NAYRUSKY : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Ac 5d As]
+psychoman59 : parole 
+NAYRUSKY : parole 
+*** TOURNANT *** [Ac 5d As] [9s]
+psychoman59 : parole 
+NAYRUSKY : parole 
+*** RIVIÈRE *** [Ac 5d As 9s] [Ad]
+psychoman59 : mise. 30
+NAYRUSKY : suit. 30
+*** ABATTAGE ***
+psychoman59 : montre [Qs Qc] (un full, full aux As par les Dames)
+NAYRUSKY : cache la main perdante. 
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Ac 5d As 9s Ad]
+Siège 1 : psychoman59 (grosse blind) a montré [Qs Qc] et a gagné (120) avec un full, full aux As par les Dames
+Siège 2 : NAYRUSKY (bouton) (petite blind) a caché la main perdante. [Kd 3c]
+
+
+
+Main PokerStars n°254167157309 : Tournoi #3841579128, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 03/01/2025 6:24:36 CET [03/01/2025 0:24:36 ET]
+Table '3841579128 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (795 en jetons) 
+Place 2: NAYRUSKY (705 en jetons) 
+psychoman59 : met la petite blind. 15
+NAYRUSKY : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 8c]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à NAYRUSKY.
+NAYRUSKY a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : NAYRUSKY (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°254167158008 : Tournoi #3841579128, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 03/01/2025 6:24:42 CET [03/01/2025 0:24:42 ET]
+Table '3841579128 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (780 en jetons) 
+Place 2: NAYRUSKY (720 en jetons) 
+NAYRUSKY : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 5d]
+NAYRUSKY : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Qh 6h As]
+psychoman59 : parole 
+NAYRUSKY : parole 
+*** TOURNANT *** [Qh 6h As] [5h]
+psychoman59 : parole 
+NAYRUSKY : parole 
+*** RIVIÈRE *** [Qh 6h As 5h] [Ac]
+psychoman59 : mise. 30
+NAYRUSKY : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Qh 6h As 5h Ac]
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 2 : NAYRUSKY (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°254167159791 : Tournoi #3841579128, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 03/01/2025 6:25:01 CET [03/01/2025 0:25:01 ET]
+Table '3841579128 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (810 en jetons) 
+Place 2: NAYRUSKY (690 en jetons) 
+psychoman59 : met la petite blind. 15
+NAYRUSKY : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 9s]
+psychoman59 : suit. 15
+NAYRUSKY : parole 
+*** FLOP *** [2d 6c Kd]
+NAYRUSKY : parole 
+psychoman59 : mise. 60
+NAYRUSKY : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [2d 6c Kd]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 2 : NAYRUSKY (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°254167160885 : Tournoi #3841579128, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 03/01/2025 6:25:13 CET [03/01/2025 0:25:13 ET]
+Table '3841579128 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (840 en jetons) 
+Place 2: NAYRUSKY (660 en jetons) 
+NAYRUSKY : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 9c]
+NAYRUSKY : suit. 15
+psychoman59 : parole 
+*** FLOP *** [9s Js 5c]
+psychoman59 : parole 
+NAYRUSKY : parole 
+*** TOURNANT *** [9s Js 5c] [2s]
+psychoman59 : parole 
+NAYRUSKY : parole 
+*** RIVIÈRE *** [9s Js 5c 2s] [As]
+psychoman59 : parole 
+NAYRUSKY : mise. 150
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à NAYRUSKY.
+NAYRUSKY a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [9s Js 5c 2s As]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : NAYRUSKY (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°254167163017 : Tournoi #3841579128, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 03/01/2025 6:25:36 CET [03/01/2025 0:25:36 ET]
+Table '3841579128 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (810 en jetons) 
+Place 2: NAYRUSKY (690 en jetons) 
+psychoman59 : met la petite blind. 20
+NAYRUSKY : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 4s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à NAYRUSKY.
+NAYRUSKY a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : NAYRUSKY (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°254167163513 : Tournoi #3841579128, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 03/01/2025 6:25:41 CET [03/01/2025 0:25:41 ET]
+Table '3841579128 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (790 en jetons) 
+Place 2: NAYRUSKY (710 en jetons) 
+NAYRUSKY : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 2h]
+NAYRUSKY : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Ah 4s Jh]
+psychoman59 : parole 
+NAYRUSKY : mise. 120
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à NAYRUSKY.
+NAYRUSKY a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Ah 4s Jh]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : NAYRUSKY (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°254167164849 : Tournoi #3841579128, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 03/01/2025 6:25:55 CET [03/01/2025 0:25:55 ET]
+Table '3841579128 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (750 en jetons) 
+Place 2: NAYRUSKY (750 en jetons) 
+psychoman59 : met la petite blind. 20
+NAYRUSKY : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 5c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à NAYRUSKY.
+NAYRUSKY a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : NAYRUSKY (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°254167165288 : Tournoi #3841579128, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 03/01/2025 6:25:59 CET [03/01/2025 0:25:59 ET]
+Table '3841579128 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (730 en jetons) 
+Place 2: NAYRUSKY (770 en jetons) 
+NAYRUSKY : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 3s]
+NAYRUSKY : suit. 20
+psychoman59 : parole 
+*** FLOP *** [7s 9d 5s]
+psychoman59 : parole 
+NAYRUSKY : parole 
+*** TOURNANT *** [7s 9d 5s] [8s]
+psychoman59 : parole 
+NAYRUSKY : parole 
+*** RIVIÈRE *** [7s 9d 5s 8s] [8d]
+psychoman59 : mise. 40
+NAYRUSKY : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [7s 9d 5s 8s 8d]
+Siège 1 : psychoman59 (grosse blind) a remporté (80)
+Siège 2 : NAYRUSKY (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°254167166837 : Tournoi #3841579128, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 03/01/2025 6:26:16 CET [03/01/2025 0:26:16 ET]
+Table '3841579128 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (770 en jetons) 
+Place 2: NAYRUSKY (730 en jetons) 
+psychoman59 : met la petite blind. 20
+NAYRUSKY : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 2c]
+psychoman59 : suit. 20
+NAYRUSKY : parole 
+*** FLOP *** [8s As 4d]
+NAYRUSKY : parole 
+psychoman59 : mise. 80
+NAYRUSKY : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [8s As 4d]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 2 : NAYRUSKY (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°254167167925 : Tournoi #3841579128, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 03/01/2025 6:26:28 CET [03/01/2025 0:26:28 ET]
+Table '3841579128 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (810 en jetons) 
+Place 2: NAYRUSKY (690 en jetons) 
+NAYRUSKY : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Qs]
+NAYRUSKY : suit. 20
+psychoman59 : parole 
+*** FLOP *** [9c 8h Th]
+psychoman59 : parole 
+NAYRUSKY : parole 
+*** TOURNANT *** [9c 8h Th] [2s]
+psychoman59 : parole 
+NAYRUSKY : parole 
+*** RIVIÈRE *** [9c 8h Th 2s] [9d]
+psychoman59 : parole 
+NAYRUSKY : parole 
+*** ABATTAGE ***
+psychoman59 : montre [2c Qs] (double paire, Neuf et Deux)
+NAYRUSKY : montre [7d 8d] (double paire, Neuf et Huit)
+NAYRUSKY a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [9c 8h Th 2s 9d]
+Siège 1 : psychoman59 (grosse blind) a montré [2c Qs] et a perdu avec double paire, Neuf et Deux
+Siège 2 : NAYRUSKY (bouton) (petite blind) a montré [7d 8d] et a gagné (80) avec double paire, Neuf et Huit
+
+
+
+Main PokerStars n°254167169297 : Tournoi #3841579128, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 03/01/2025 6:26:43 CET [03/01/2025 0:26:43 ET]
+Table '3841579128 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (770 en jetons) 
+Place 2: NAYRUSKY (730 en jetons) 
+psychoman59 : met la petite blind. 20
+NAYRUSKY : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Qh]
+psychoman59 : suit. 20
+NAYRUSKY : parole 
+*** FLOP *** [5c 2s 7c]
+NAYRUSKY : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5c 2s 7c] [Qd]
+NAYRUSKY : mise. 40
+psychoman59 : suit. 40
+*** RIVIÈRE *** [5c 2s 7c Qd] [Kh]
+NAYRUSKY : mise. 40
+psychoman59 : suit. 40
+*** ABATTAGE ***
+NAYRUSKY : montre [5s 4d] (une paire de Cinq)
+psychoman59 : montre [9s Qh] (une paire de Dames)
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [5c 2s 7c Qd Kh]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [9s Qh] et a gagné (240) avec une paire de Dames
+Siège 2 : NAYRUSKY (grosse blind) a montré [5s 4d] et a perdu avec une paire de Cinq
+
+
+
+Main PokerStars n°254167170776 : Tournoi #3841579128, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 03/01/2025 6:26:59 CET [03/01/2025 0:26:59 ET]
+Table '3841579128 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (890 en jetons) 
+Place 2: NAYRUSKY (610 en jetons) 
+NAYRUSKY : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 5h]
+NAYRUSKY : suit. 20
+psychoman59 : parole 
+*** FLOP *** [5s Qh 2d]
+psychoman59 : parole 
+NAYRUSKY : parole 
+*** TOURNANT *** [5s Qh 2d] [Qs]
+psychoman59 : mise. 40
+NAYRUSKY : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [5s Qh 2d Qs]
+Siège 1 : psychoman59 (grosse blind) a remporté (80)
+Siège 2 : NAYRUSKY (bouton) (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°254167172001 : Tournoi #3841579128, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 03/01/2025 6:27:13 CET [03/01/2025 0:27:13 ET]
+Table '3841579128 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (930 en jetons) 
+Place 2: NAYRUSKY (570 en jetons) 
+psychoman59 : met la petite blind. 20
+NAYRUSKY : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 4s]
+psychoman59 : suit. 20
+NAYRUSKY : parole 
+*** FLOP *** [6d 3s Jh]
+NAYRUSKY : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6d 3s Jh] [4c]
+NAYRUSKY : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [6d 3s Jh 4c] [Jd]
+NAYRUSKY : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+NAYRUSKY : montre [2c 2h] (double paire, Valets et Deux)
+psychoman59 : montre [Ac 4s] (double paire, Valets et Quatre)
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [6d 3s Jh 4c Jd]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Ac 4s] et a gagné (80) avec double paire, Valets et Quatre
+Siège 2 : NAYRUSKY (grosse blind) a montré [2c 2h] et a perdu avec double paire, Valets et Deux
+
+
+
+Main PokerStars n°254167173319 : Tournoi #3841579128, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 03/01/2025 6:27:27 CET [03/01/2025 0:27:27 ET]
+Table '3841579128 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (970 en jetons) 
+Place 2: NAYRUSKY (530 en jetons) 
+NAYRUSKY : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 8c]
+NAYRUSKY : suit. 20
+psychoman59 : parole 
+*** FLOP *** [As Qd 9s]
+psychoman59 : parole 
+NAYRUSKY : parole 
+*** TOURNANT *** [As Qd 9s] [7s]
+psychoman59 : parole 
+NAYRUSKY : mise. 40
+psychoman59 : suit. 40
+*** RIVIÈRE *** [As Qd 9s 7s] [Th]
+psychoman59 : parole 
+NAYRUSKY : mise. 40
+psychoman59 : relance. 240 à 280
+NAYRUSKY : suit. 240
+*** ABATTAGE ***
+psychoman59 : montre [Js 8c] (une suite, Huit à Dame)
+NAYRUSKY : cache la main perdante. 
+psychoman59 a remporté 720  lors du pot .
+*** SYNTHÈSE ***
+Pot total 720 | Commission 0 
+Tableau [As Qd 9s 7s Th]
+Siège 1 : psychoman59 (grosse blind) a montré [Js 8c] et a gagné (720) avec une suite, Huit à Dame
+Siège 2 : NAYRUSKY (bouton) (petite blind) a caché la main perdante. [Qh Ac]
+
+
+
+Main PokerStars n°254167175719 : Tournoi #3841579128, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 03/01/2025 6:27:53 CET [03/01/2025 0:27:53 ET]
+Table '3841579128 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1330 en jetons) 
+Place 2: NAYRUSKY (170 en jetons) 
+psychoman59 : met la petite blind. 20
+NAYRUSKY : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Qc]
+psychoman59 : suit. 20
+NAYRUSKY : parole 
+*** FLOP *** [6s 5d 3d]
+NAYRUSKY : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6s 5d 3d] [8h]
+NAYRUSKY : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [6s 5d 3d 8h] [Tc]
+NAYRUSKY : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+NAYRUSKY : montre [9h 4h] (Hauteur Dix)
+psychoman59 : montre [9d Qc] (Hauteur Dame)
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [6s 5d 3d 8h Tc]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [9d Qc] et a gagné (80) avec Hauteur Dame
+Siège 2 : NAYRUSKY (grosse blind) a montré [9h 4h] et a perdu avec Hauteur Dix
+
+
+
+Main PokerStars n°254167177346 : Tournoi #3841579128, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 03/01/2025 6:28:11 CET [03/01/2025 0:28:11 ET]
+Table '3841579128 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (1370 en jetons) 
+Place 2: NAYRUSKY (130 en jetons) 
+NAYRUSKY : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 4d]
+NAYRUSKY : relance. 90 à 130 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (90) sont retournés à NAYRUSKY.
+NAYRUSKY a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : NAYRUSKY (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°254167178336 : Tournoi #3841579128, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 03/01/2025 6:28:22 CET [03/01/2025 0:28:22 ET]
+Table '3841579128 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1330 en jetons) 
+Place 2: NAYRUSKY (170 en jetons) 
+psychoman59 : met la petite blind. 20
+NAYRUSKY : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh As]
+psychoman59 : relance. 40 à 80
+NAYRUSKY : suit. 40
+*** FLOP *** [4s Jd Th]
+NAYRUSKY : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [4s Jd Th] [5h]
+NAYRUSKY : mise. 50 et est all-in.
+psychoman59 : suit. 50
+*** RIVIÈRE *** [4s Jd Th 5h] [Kc]
+*** ABATTAGE ***
+NAYRUSKY : montre [3c 4h] (une paire de Quatre)
+psychoman59 : montre [Qh As] (une suite, Dix à As)
+psychoman59 a remporté 340  lors du pot .
+NAYRUSKY a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 0.75 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [4s Jd Th 5h Kc]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Qh As] et a gagné (340) avec une suite, Dix à As
+Siège 2 : NAYRUSKY (grosse blind) a montré [3c 4h] et a perdu avec une paire de Quatre
+
+
+

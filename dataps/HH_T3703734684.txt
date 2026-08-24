@@ -1,0 +1,478 @@
+﻿Main PokerStars n°248385725959 : Tournoi #3703734684, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/01/2024 11:20:50 CET [20/01/2024 5:20:50 ET]
+Table '3703734684 1' 3-max Siège #1 est au bouton.
+Place 1: BOSS69007 (300 en jetons) 
+Place 2: POLORIS (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+POLORIS : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Tc]
+BOSS69007 : relance. 20 à 40
+POLORIS : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à BOSS69007.
+BOSS69007 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : BOSS69007 (bouton) a remporté (50)
+Siège 2 : POLORIS (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°248385728201 : Tournoi #3703734684, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/01/2024 11:21:04 CET [20/01/2024 5:21:04 ET]
+Table '3703734684 1' 3-max Siège #2 est au bouton.
+Place 1: BOSS69007 (330 en jetons) 
+Place 2: POLORIS (290 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+BOSS69007 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 7h]
+POLORIS : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à BOSS69007.
+BOSS69007 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : BOSS69007 (grosse blind) a remporté (20)
+Siège 2 : POLORIS (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°248385729531 : Tournoi #3703734684, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/01/2024 11:21:12 CET [20/01/2024 5:21:12 ET]
+Table '3703734684 1' 3-max Siège #3 est au bouton.
+Place 1: BOSS69007 (340 en jetons) 
+Place 2: POLORIS (290 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+BOSS69007 : met la petite blind. 10
+POLORIS : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Th]
+psychoman59 : relance. 80 à 100
+BOSS69007 : relance. 240 à 340 et est all-in.
+POLORIS : passe. 
+psychoman59 : suit. 170 et est all-in.
+Personne n'a suivi. (70) sont retournés à BOSS69007.
+*** FLOP *** [5h 5s 9s]
+*** TOURNANT *** [5h 5s 9s] [As]
+*** RIVIÈRE *** [5h 5s 9s As] [Qd]
+*** ABATTAGE ***
+BOSS69007 : montre [Jh Jc] (double paire, Valets et Cinq)
+psychoman59 : montre [Ah Th] (double paire, As et Cinq)
+psychoman59 a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [5h 5s 9s As Qd]
+Siège 1 : BOSS69007 (petite blind) a montré [Jh Jc] et a perdu avec double paire, Valets et Cinq
+Siège 2 : POLORIS (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a montré [Ah Th] et a gagné (560) avec double paire, As et Cinq
+
+
+
+Main PokerStars n°248385732770 : Tournoi #3703734684, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/01/2024 11:21:33 CET [20/01/2024 5:21:33 ET]
+Table '3703734684 1' 3-max Siège #1 est au bouton.
+Place 1: BOSS69007 (70 en jetons) 
+Place 2: POLORIS (270 en jetons) 
+Place 3: psychoman59 (560 en jetons) 
+POLORIS : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Kh]
+BOSS69007 : relance. 50 à 70 et est all-in.
+POLORIS : relance. 50 à 120
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à POLORIS.
+*** FLOP *** [8c 7c Qc]
+*** TOURNANT *** [8c 7c Qc] [Ah]
+*** RIVIÈRE *** [8c 7c Qc Ah] [4d]
+*** ABATTAGE ***
+POLORIS : montre [Ac As] (un brelan de As)
+BOSS69007 : montre [6s 5c] (une suite, Quatre à Huit)
+BOSS69007 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [8c 7c Qc Ah 4d]
+Siège 1 : BOSS69007 (bouton) a montré [6s 5c] et a gagné (160) avec une suite, Quatre à Huit
+Siège 2 : POLORIS (petite blind) a montré [Ac As] et a perdu avec un brelan de As
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°248385735253 : Tournoi #3703734684, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/01/2024 11:21:49 CET [20/01/2024 5:21:49 ET]
+Table '3703734684 1' 3-max Siège #2 est au bouton.
+Place 1: BOSS69007 (160 en jetons) 
+Place 2: POLORIS (200 en jetons) 
+Place 3: psychoman59 (540 en jetons) 
+psychoman59 : met la petite blind. 10
+BOSS69007 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Ad]
+POLORIS : passe. 
+psychoman59 : relance. 40 à 60
+BOSS69007 : relance. 100 à 160 et est all-in.
+psychoman59 : suit. 100
+*** FLOP *** [6c Qh Js]
+*** TOURNANT *** [6c Qh Js] [9d]
+*** RIVIÈRE *** [6c Qh Js 9d] [7d]
+*** ABATTAGE ***
+psychoman59 : montre [7h Ad] (une paire de Sept)
+BOSS69007 : montre [8s 5h] (une suite, Cinq à Neuf)
+BOSS69007 a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [6c Qh Js 9d 7d]
+Siège 1 : BOSS69007 (grosse blind) a montré [8s 5h] et a gagné (320) avec une suite, Cinq à Neuf
+Siège 2 : POLORIS (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [7h Ad] et a perdu avec une paire de Sept
+
+
+
+Main PokerStars n°248385738783 : Tournoi #3703734684, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 20/01/2024 11:22:12 CET [20/01/2024 5:22:12 ET]
+Table '3703734684 1' 3-max Siège #3 est au bouton.
+Place 1: BOSS69007 (320 en jetons) 
+Place 2: POLORIS (200 en jetons) 
+Place 3: psychoman59 (380 en jetons) 
+BOSS69007 : met la petite blind. 15
+POLORIS : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 4s]
+psychoman59 : relance. 30 à 60
+BOSS69007 : passe. 
+POLORIS : relance. 140 à 200 et est all-in.
+psychoman59 : suit. 140
+*** FLOP *** [Kc 6s Ks]
+*** TOURNANT *** [Kc 6s Ks] [7c]
+*** RIVIÈRE *** [Kc 6s Ks 7c] [4c]
+*** ABATTAGE ***
+POLORIS : montre [Ad Qs] (une paire de Rois)
+psychoman59 : montre [Ac 4s] (double paire, Rois et Quatre)
+psychoman59 a remporté 415  lors du pot .
+POLORIS a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 415 | Commission 0 
+Tableau [Kc 6s Ks 7c 4c]
+Siège 1 : BOSS69007 (petite blind) s'est couché. avant Flop
+Siège 2 : POLORIS (grosse blind) a montré [Ad Qs] et a perdu avec une paire de Rois
+Siège 3 : psychoman59 (bouton) a montré [Ac 4s] et a gagné (415) avec double paire, Rois et Quatre
+
+
+
+Main PokerStars n°248385742017 : Tournoi #3703734684, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 20/01/2024 11:22:32 CET [20/01/2024 5:22:32 ET]
+Table '3703734684 1' 3-max Siège #1 est au bouton.
+Place 1: BOSS69007 (305 en jetons) 
+Place 3: psychoman59 (595 en jetons) 
+BOSS69007 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 9s]
+BOSS69007 : relance. 275 à 305 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (275) sont retournés à BOSS69007.
+BOSS69007 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : BOSS69007 (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°248385743135 : Tournoi #3703734684, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 20/01/2024 11:22:39 CET [20/01/2024 5:22:39 ET]
+Table '3703734684 1' 3-max Siège #3 est au bouton.
+Place 1: BOSS69007 (335 en jetons) 
+Place 3: psychoman59 (565 en jetons) 
+psychoman59 : met la petite blind. 15
+BOSS69007 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 8c]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à BOSS69007.
+BOSS69007 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : BOSS69007 (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°248385743860 : Tournoi #3703734684, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 20/01/2024 11:22:44 CET [20/01/2024 5:22:44 ET]
+Table '3703734684 1' 3-max Siège #1 est au bouton.
+Place 1: BOSS69007 (350 en jetons) 
+Place 3: psychoman59 (550 en jetons) 
+BOSS69007 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 9s]
+BOSS69007 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : BOSS69007 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°248385744514 : Tournoi #3703734684, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 20/01/2024 11:22:48 CET [20/01/2024 5:22:48 ET]
+Table '3703734684 1' 3-max Siège #3 est au bouton.
+Place 1: BOSS69007 (335 en jetons) 
+Place 3: psychoman59 (565 en jetons) 
+psychoman59 : met la petite blind. 15
+BOSS69007 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 8h]
+psychoman59 : suit. 15
+BOSS69007 : relance. 305 à 335 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (305) sont retournés à BOSS69007.
+BOSS69007 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : BOSS69007 (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°248385746310 : Tournoi #3703734684, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 20/01/2024 11:23:00 CET [20/01/2024 5:23:00 ET]
+Table '3703734684 1' 3-max Siège #1 est au bouton.
+Place 1: BOSS69007 (365 en jetons) 
+Place 3: psychoman59 (535 en jetons) 
+BOSS69007 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Td]
+BOSS69007 : relance. 325 à 365 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (325) sont retournés à BOSS69007.
+BOSS69007 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : BOSS69007 (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°248385747422 : Tournoi #3703734684, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 20/01/2024 11:23:07 CET [20/01/2024 5:23:07 ET]
+Table '3703734684 1' 3-max Siège #3 est au bouton.
+Place 1: BOSS69007 (405 en jetons) 
+Place 3: psychoman59 (495 en jetons) 
+psychoman59 : met la petite blind. 20
+BOSS69007 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 2h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à BOSS69007.
+BOSS69007 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : BOSS69007 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°248385748126 : Tournoi #3703734684, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 20/01/2024 11:23:11 CET [20/01/2024 5:23:11 ET]
+Table '3703734684 1' 3-max Siège #1 est au bouton.
+Place 1: BOSS69007 (425 en jetons) 
+Place 3: psychoman59 (475 en jetons) 
+BOSS69007 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Qc]
+BOSS69007 : suit. 20
+psychoman59 : relance. 435 à 475 et est all-in.
+BOSS69007 : passe. 
+Personne n'a suivi. (435) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : BOSS69007 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°248385749477 : Tournoi #3703734684, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 20/01/2024 11:23:20 CET [20/01/2024 5:23:20 ET]
+Table '3703734684 1' 3-max Siège #3 est au bouton.
+Place 1: BOSS69007 (385 en jetons) 
+Place 3: psychoman59 (515 en jetons) 
+psychoman59 : met la petite blind. 20
+BOSS69007 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 8h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à BOSS69007.
+BOSS69007 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : BOSS69007 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°248385750296 : Tournoi #3703734684, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 20/01/2024 11:23:25 CET [20/01/2024 5:23:25 ET]
+Table '3703734684 1' 3-max Siège #1 est au bouton.
+Place 1: BOSS69007 (405 en jetons) 
+Place 3: psychoman59 (495 en jetons) 
+BOSS69007 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 4s]
+BOSS69007 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : BOSS69007 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°248385750981 : Tournoi #3703734684, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 20/01/2024 11:23:30 CET [20/01/2024 5:23:30 ET]
+Table '3703734684 1' 3-max Siège #3 est au bouton.
+Place 1: BOSS69007 (385 en jetons) 
+Place 3: psychoman59 (515 en jetons) 
+psychoman59 : met la petite blind. 20
+BOSS69007 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 5d]
+psychoman59 : relance. 475 à 515 et est all-in.
+BOSS69007 : passe. 
+Personne n'a suivi. (475) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : BOSS69007 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°248385752001 : Tournoi #3703734684, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 20/01/2024 11:23:36 CET [20/01/2024 5:23:36 ET]
+Table '3703734684 1' 3-max Siège #1 est au bouton.
+Place 1: BOSS69007 (345 en jetons) 
+Place 3: psychoman59 (555 en jetons) 
+BOSS69007 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 4d]
+BOSS69007 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : BOSS69007 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°248385752709 : Tournoi #3703734684, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 20/01/2024 11:23:41 CET [20/01/2024 5:23:41 ET]
+Table '3703734684 1' 3-max Siège #3 est au bouton.
+Place 1: BOSS69007 (325 en jetons) 
+Place 3: psychoman59 (575 en jetons) 
+psychoman59 : met la petite blind. 20
+BOSS69007 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 8h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à BOSS69007.
+BOSS69007 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : BOSS69007 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°248385753489 : Tournoi #3703734684, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 20/01/2024 11:23:45 CET [20/01/2024 5:23:45 ET]
+Table '3703734684 1' 3-max Siège #1 est au bouton.
+Place 1: BOSS69007 (345 en jetons) 
+Place 3: psychoman59 (555 en jetons) 
+BOSS69007 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Qh]
+BOSS69007 : relance. 305 à 345 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (305) sont retournés à BOSS69007.
+BOSS69007 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : BOSS69007 (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°248385754817 : Tournoi #3703734684, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 20/01/2024 11:23:54 CET [20/01/2024 5:23:54 ET]
+Table '3703734684 1' 3-max Siège #3 est au bouton.
+Place 1: BOSS69007 (385 en jetons) 
+Place 3: psychoman59 (515 en jetons) 
+psychoman59 : met la petite blind. 30
+BOSS69007 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Tc]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à BOSS69007.
+BOSS69007 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : BOSS69007 (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°248385755588 : Tournoi #3703734684, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 20/01/2024 11:23:59 CET [20/01/2024 5:23:59 ET]
+Table '3703734684 1' 3-max Siège #1 est au bouton.
+Place 1: BOSS69007 (415 en jetons) 
+Place 3: psychoman59 (485 en jetons) 
+BOSS69007 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 5d]
+BOSS69007 : relance. 355 à 415 et est all-in.
+psychoman59 : suit. 355
+*** FLOP *** [6c 9c Qc]
+*** TOURNANT *** [6c 9c Qc] [8h]
+*** RIVIÈRE *** [6c 9c Qc 8h] [As]
+*** ABATTAGE ***
+psychoman59 : montre [Ah 5d] (une paire de As)
+BOSS69007 : montre [Jh Td] (une suite, Huit à Dame)
+BOSS69007 a remporté 830  lors du pot .
+*** SYNTHÈSE ***
+Pot total 830 | Commission 0 
+Tableau [6c 9c Qc 8h As]
+Siège 1 : BOSS69007 (bouton) (petite blind) a montré [Jh Td] et a gagné (830) avec une suite, Huit à Dame
+Siège 3 : psychoman59 (grosse blind) a montré [Ah 5d] et a perdu avec une paire de As
+
+
+
+Main PokerStars n°248385757475 : Tournoi #3703734684, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 20/01/2024 11:24:12 CET [20/01/2024 5:24:12 ET]
+Table '3703734684 1' 3-max Siège #3 est au bouton.
+Place 1: BOSS69007 (830 en jetons) 
+Place 3: psychoman59 (70 en jetons) 
+psychoman59 : met la petite blind. 30
+BOSS69007 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Ac]
+psychoman59 : relance. 10 à 70 et est all-in.
+BOSS69007 : suit. 10
+*** FLOP *** [Ks 9h Qs]
+*** TOURNANT *** [Ks 9h Qs] [2h]
+*** RIVIÈRE *** [Ks 9h Qs 2h] [7c]
+*** ABATTAGE ***
+BOSS69007 : montre [Kd 3d] (une paire de Rois)
+psychoman59 : montre [Qc Ac] (une paire de Dames)
+BOSS69007 a remporté 140  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+BOSS69007 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [Ks 9h Qs 2h 7c]
+Siège 1 : BOSS69007 (grosse blind) a montré [Kd 3d] et a gagné (140) avec une paire de Rois
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Qc Ac] et a perdu avec une paire de Dames
+
+
+

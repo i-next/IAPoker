@@ -1,0 +1,394 @@
+﻿Main PokerStars n°240923610331 : Tournoi #3526453793, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/01/2023 9:41:52 CET [05/01/2023 3:41:52 ET]
+Table '3526453793 1' 3-max Siège #1 est au bouton.
+Place 1: AAFUMER (300 en jetons) 
+Place 2: tonio59123 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+tonio59123 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Js]
+AAFUMER : suit. 20
+tonio59123 : relance. 20 à 40
+psychoman59 : suit. 20
+AAFUMER : suit. 20
+*** FLOP *** [9s 7d Qc]
+tonio59123 : parole 
+psychoman59 : parole 
+AAFUMER : mise. 20
+tonio59123 : suit. 20
+psychoman59 : relance. 240 à 260 et est all-in.
+AAFUMER : passe. 
+tonio59123 : passe. 
+Personne n'a suivi. (240) sont retournés à psychoman59.
+psychoman59 a remporté 180  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [9s 7d Qc]
+Siège 1 : AAFUMER (bouton) s'est couché. sur le Flop
+Siège 2 : tonio59123 (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (180)
+
+
+
+Main PokerStars n°240923613941 : Tournoi #3526453793, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/01/2023 9:42:23 CET [05/01/2023 3:42:23 ET]
+Table '3526453793 1' 3-max Siège #2 est au bouton.
+Place 1: AAFUMER (240 en jetons) 
+Place 2: tonio59123 (240 en jetons) 
+Place 3: psychoman59 (420 en jetons) 
+psychoman59 : met la petite blind. 10
+AAFUMER : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 6c]
+tonio59123 : passe. 
+psychoman59 : suit. 10
+AAFUMER : parole 
+*** FLOP *** [As 8h Tc]
+psychoman59 : parole 
+AAFUMER : parole 
+*** TOURNANT *** [As 8h Tc] [Jc]
+psychoman59 : parole 
+AAFUMER : parole 
+*** RIVIÈRE *** [As 8h Tc Jc] [Jh]
+psychoman59 : mise. 40
+AAFUMER : suit. 40
+*** ABATTAGE ***
+psychoman59 : montre [7c 6c] (une paire de Valets)
+AAFUMER : montre [3c Kc] (une paire de Valets - As+Roi kicker)
+AAFUMER a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [As 8h Tc Jc Jh]
+Siège 1 : AAFUMER (grosse blind) a montré [3c Kc] et a gagné (120) avec une paire de Valets
+Siège 2 : tonio59123 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [7c 6c] et a perdu avec une paire de Valets
+
+
+
+Main PokerStars n°240923617024 : Tournoi #3526453793, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/01/2023 9:42:48 CET [05/01/2023 3:42:48 ET]
+Table '3526453793 1' 3-max Siège #3 est au bouton.
+Place 1: AAFUMER (300 en jetons) 
+Place 2: tonio59123 (240 en jetons) 
+Place 3: psychoman59 (360 en jetons) 
+AAFUMER : met la petite blind. 10
+tonio59123 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 2s]
+psychoman59 : passe. 
+AAFUMER : suit. 10
+tonio59123 : parole 
+*** FLOP *** [8s Kc 7d]
+AAFUMER : parole 
+tonio59123 : mise. 20
+AAFUMER : passe. 
+Personne n'a suivi. (20) sont retournés à tonio59123.
+tonio59123 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [8s Kc 7d]
+Siège 1 : AAFUMER (petite blind) s'est couché. sur le Flop
+Siège 2 : tonio59123 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°240923619085 : Tournoi #3526453793, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 05/01/2023 9:43:06 CET [05/01/2023 3:43:06 ET]
+Table '3526453793 1' 3-max Siège #1 est au bouton.
+Place 1: AAFUMER (280 en jetons) 
+Place 2: tonio59123 (260 en jetons) 
+Place 3: psychoman59 (360 en jetons) 
+tonio59123 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 3s]
+AAFUMER : suit. 30
+tonio59123 : passe. 
+psychoman59 : parole 
+*** FLOP *** [As 6h 8s]
+psychoman59 : parole 
+AAFUMER : parole 
+*** TOURNANT *** [As 6h 8s] [9s]
+psychoman59 : parole 
+AAFUMER : parole 
+*** RIVIÈRE *** [As 6h 8s 9s] [7h]
+psychoman59 : parole 
+AAFUMER : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à AAFUMER.
+AAFUMER a remporté 75  lors du pot .
+AAFUMER : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Tableau [As 6h 8s 9s 7h]
+Siège 1 : AAFUMER (bouton) a remporté (75)
+Siège 2 : tonio59123 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°240923621674 : Tournoi #3526453793, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 05/01/2023 9:43:27 CET [05/01/2023 3:43:27 ET]
+Table '3526453793 1' 3-max Siège #2 est au bouton.
+Place 1: AAFUMER (325 en jetons) 
+Place 2: tonio59123 (245 en jetons) 
+Place 3: psychoman59 (330 en jetons) 
+psychoman59 : met la petite blind. 15
+AAFUMER : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Tc]
+tonio59123 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à AAFUMER.
+AAFUMER a remporté 30  lors du pot .
+AAFUMER : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : AAFUMER (grosse blind) a remporté (30)
+Siège 2 : tonio59123 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240923622262 : Tournoi #3526453793, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 05/01/2023 9:43:33 CET [05/01/2023 3:43:33 ET]
+Table '3526453793 1' 3-max Siège #3 est au bouton.
+Place 1: AAFUMER (340 en jetons) 
+Place 2: tonio59123 (245 en jetons) 
+Place 3: psychoman59 (315 en jetons) 
+AAFUMER : met la petite blind. 15
+tonio59123 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Ad]
+psychoman59 : relance. 285 à 315 et est all-in.
+AAFUMER : passe. 
+tonio59123 : suit. 215 et est all-in.
+Personne n'a suivi. (70) sont retournés à psychoman59.
+*** FLOP *** [Jc 6h 4h]
+*** TOURNANT *** [Jc 6h 4h] [8d]
+*** RIVIÈRE *** [Jc 6h 4h 8d] [Qd]
+*** ABATTAGE ***
+tonio59123 : montre [Kd 9s] (Hauteur Roi)
+psychoman59 : montre [7h Ad] (Hauteur As)
+psychoman59 a remporté 505  lors du pot .
+tonio59123 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 505 | Commission 0 
+Tableau [Jc 6h 4h 8d Qd]
+Siège 1 : AAFUMER (petite blind) s'est couché. avant Flop
+Siège 2 : tonio59123 (grosse blind) a montré [Kd 9s] et a perdu avec Hauteur Roi
+Siège 3 : psychoman59 (bouton) a montré [7h Ad] et a gagné (505) avec Hauteur As
+
+
+
+Main PokerStars n°240923625086 : Tournoi #3526453793, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 05/01/2023 9:43:56 CET [05/01/2023 3:43:56 ET]
+Table '3526453793 1' 3-max Siège #1 est au bouton.
+Place 1: AAFUMER (325 en jetons) 
+Place 3: psychoman59 (575 en jetons) 
+AAFUMER : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 5c]
+AAFUMER : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Tc 4s Td]
+psychoman59 : parole 
+AAFUMER : parole 
+*** TOURNANT *** [Tc 4s Td] [8h]
+psychoman59 : parole 
+AAFUMER : parole 
+*** RIVIÈRE *** [Tc 4s Td 8h] [Th]
+psychoman59 : parole 
+AAFUMER : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Kc 5c] (un brelan de Dix)
+AAFUMER : cache la main perdante. 
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Tc 4s Td 8h Th]
+Siège 1 : AAFUMER (bouton) (petite blind) a caché la main perdante. [9s 7h]
+Siège 3 : psychoman59 (grosse blind) a montré [Kc 5c] et a gagné (60) avec un brelan de Dix
+
+
+
+Main PokerStars n°240923627647 : Tournoi #3526453793, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 05/01/2023 9:44:18 CET [05/01/2023 3:44:18 ET]
+Table '3526453793 1' 3-max Siège #3 est au bouton.
+Place 1: AAFUMER (295 en jetons) 
+Place 3: psychoman59 (605 en jetons) 
+psychoman59 : met la petite blind. 20
+AAFUMER : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 9c]
+psychoman59 : suit. 20
+AAFUMER : parole 
+*** FLOP *** [Th Jd 7s]
+AAFUMER : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [Th Jd 7s] [3d]
+AAFUMER : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à AAFUMER.
+AAFUMER a remporté 160  lors du pot .
+AAFUMER : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Th Jd 7s 3d]
+Siège 1 : AAFUMER (grosse blind) a remporté (160)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°240923629148 : Tournoi #3526453793, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 05/01/2023 9:44:30 CET [05/01/2023 3:44:30 ET]
+Table '3526453793 1' 3-max Siège #1 est au bouton.
+Place 1: AAFUMER (375 en jetons) 
+Place 3: psychoman59 (525 en jetons) 
+AAFUMER : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 4c]
+AAFUMER : suit. 20
+psychoman59 : parole 
+*** FLOP *** [3h 7d Ah]
+psychoman59 : parole 
+AAFUMER : parole 
+*** TOURNANT *** [3h 7d Ah] [Jd]
+psychoman59 : parole 
+AAFUMER : parole 
+*** RIVIÈRE *** [3h 7d Ah Jd] [Js]
+psychoman59 : parole 
+AAFUMER : parole 
+*** ABATTAGE ***
+psychoman59 : montre [8s 4c] (une paire de Valets)
+AAFUMER : montre [2d Qs] (une paire de Valets - As+Dame kicker)
+AAFUMER a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [3h 7d Ah Jd Js]
+Siège 1 : AAFUMER (bouton) (petite blind) a montré [2d Qs] et a gagné (80) avec une paire de Valets
+Siège 3 : psychoman59 (grosse blind) a montré [8s 4c] et a perdu avec une paire de Valets
+
+
+
+Main PokerStars n°240923630834 : Tournoi #3526453793, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 05/01/2023 9:44:45 CET [05/01/2023 3:44:45 ET]
+Table '3526453793 1' 3-max Siège #3 est au bouton.
+Place 1: AAFUMER (415 en jetons) 
+Place 3: psychoman59 (485 en jetons) 
+psychoman59 : met la petite blind. 20
+AAFUMER : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 7c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à AAFUMER.
+AAFUMER a remporté 40  lors du pot .
+AAFUMER : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : AAFUMER (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240923631286 : Tournoi #3526453793, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 05/01/2023 9:44:49 CET [05/01/2023 3:44:49 ET]
+Table '3526453793 1' 3-max Siège #1 est au bouton.
+Place 1: AAFUMER (435 en jetons) 
+Place 3: psychoman59 (465 en jetons) 
+AAFUMER : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 3d]
+AAFUMER : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Jd 6c Td]
+psychoman59 : parole 
+AAFUMER : mise. 40
+psychoman59 : relance. 385 à 425 et est all-in.
+AAFUMER : passe. 
+Personne n'a suivi. (385) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Jd 6c Td]
+Siège 1 : AAFUMER (bouton) (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (160)
+
+
+
+Main PokerStars n°240923635428 : Tournoi #3526453793, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 05/01/2023 9:45:23 CET [05/01/2023 3:45:23 ET]
+Table '3526453793 1' 3-max Siège #3 est au bouton.
+Place 1: AAFUMER (355 en jetons) 
+Place 3: psychoman59 (545 en jetons) 
+psychoman59 : met la petite blind. 30
+AAFUMER : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 7d]
+psychoman59 : suit. 30
+AAFUMER : parole 
+*** FLOP *** [2c 6d 4c]
+AAFUMER : parole 
+psychoman59 : parole 
+*** TOURNANT *** [2c 6d 4c] [8c]
+AAFUMER : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [2c 6d 4c 8c] [9s]
+AAFUMER : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+AAFUMER : montre [3s 7s] (Hauteur Neuf)
+psychoman59 : montre [Kd 7d] (Hauteur Roi)
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [2c 6d 4c 8c 9s]
+Siège 1 : AAFUMER (grosse blind) a montré [3s 7s] et a perdu avec Hauteur Neuf
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Kd 7d] et a gagné (120) avec Hauteur Roi
+
+
+
+Main PokerStars n°240923637645 : Tournoi #3526453793, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 05/01/2023 9:45:42 CET [05/01/2023 3:45:42 ET]
+Table '3526453793 1' 3-max Siège #1 est au bouton.
+Place 1: AAFUMER (295 en jetons) 
+Place 3: psychoman59 (605 en jetons) 
+AAFUMER : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Ac]
+AAFUMER : suit. 30
+psychoman59 : relance. 545 à 605 et est all-in.
+AAFUMER : passe. 
+Personne n'a suivi. (545) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : AAFUMER (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°240923638750 : Tournoi #3526453793, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 05/01/2023 9:45:51 CET [05/01/2023 3:45:51 ET]
+Table '3526453793 1' 3-max Siège #3 est au bouton.
+Place 1: AAFUMER (235 en jetons) 
+Place 3: psychoman59 (665 en jetons) 
+psychoman59 : met la petite blind. 30
+AAFUMER : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 9s]
+psychoman59 : relance. 605 à 665 et est all-in.
+AAFUMER : suit. 175 et est all-in.
+Personne n'a suivi. (430) sont retournés à psychoman59.
+*** FLOP *** [5h 2h 8h]
+*** TOURNANT *** [5h 2h 8h] [3h]
+*** RIVIÈRE *** [5h 2h 8h 3h] [Kc]
+*** ABATTAGE ***
+AAFUMER : montre [As 8s] (une paire de Huit)
+psychoman59 : montre [9d 9s] (une paire de Neuf)
+psychoman59 a remporté 470  lors du pot .
+AAFUMER a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 470 | Commission 0 
+Tableau [5h 2h 8h 3h Kc]
+Siège 1 : AAFUMER (grosse blind) a montré [As 8s] et a perdu avec une paire de Huit
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [9d 9s] et a gagné (470) avec une paire de Neuf
+
+
+

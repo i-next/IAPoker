@@ -1,0 +1,331 @@
+﻿Main PokerStars n°261256344700 : Tournoi #4011523281, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/06/2026 16:30:53 CET [26/06/2026 10:30:53 ET]
+Table '4011523281 1' 3-max Siège #1 est au bouton.
+Place 1: lauritaDKDE (500 en jetons) 
+Place 2: eck564 (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+eck564 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Kd]
+lauritaDKDE : suit. 20
+eck564 : relance. 20 à 40
+psychoman59 : suit. 20
+lauritaDKDE : suit. 20
+*** FLOP *** [Jd Jh 6h]
+eck564 : parole 
+psychoman59 : parole 
+lauritaDKDE : parole 
+*** TOURNANT *** [Jd Jh 6h] [8s]
+eck564 : parole 
+psychoman59 : parole 
+lauritaDKDE : mise. 120
+eck564 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à lauritaDKDE.
+lauritaDKDE a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Jd Jh 6h 8s]
+Siège 1 : lauritaDKDE (bouton) a remporté (120)
+Siège 2 : eck564 (petite blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°261256350306 : Tournoi #4011523281, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/06/2026 16:31:35 CET [26/06/2026 10:31:35 ET]
+Table '4011523281 1' 3-max Siège #2 est au bouton.
+Place 1: lauritaDKDE (580 en jetons) 
+Place 2: eck564 (460 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+psychoman59 : met la petite blind. 10
+lauritaDKDE : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 5s]
+eck564 : suit. 20
+psychoman59 : suit. 10
+lauritaDKDE : parole 
+*** FLOP *** [Ah 4s 3h]
+psychoman59 : parole 
+lauritaDKDE : parole 
+eck564 : parole 
+*** TOURNANT *** [Ah 4s 3h] [Td]
+psychoman59 : parole 
+lauritaDKDE : mise. 20
+eck564 : suit. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [Ah 4s 3h Td] [9d]
+psychoman59 : parole 
+lauritaDKDE : parole 
+eck564 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Qs 5s] (Hauteur As)
+lauritaDKDE : montre [4c Kh] (une paire de Quatre)
+eck564 : cache la main perdante. 
+lauritaDKDE a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Ah 4s 3h Td 9d]
+Siège 1 : lauritaDKDE (grosse blind) a montré [4c Kh] et a gagné (120) avec une paire de Quatre
+Siège 2 : eck564 (bouton) a caché la main perdante. [3c 7c]
+Siège 3 : psychoman59 (petite blind) a montré [Qs 5s] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°261256355664 : Tournoi #4011523281, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/06/2026 16:32:16 CET [26/06/2026 10:32:16 ET]
+Table '4011523281 1' 3-max Siège #3 est au bouton.
+Place 1: lauritaDKDE (660 en jetons) 
+Place 2: eck564 (420 en jetons) 
+Place 3: psychoman59 (420 en jetons) 
+lauritaDKDE : met la petite blind. 10
+eck564 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 4h]
+psychoman59 : passe. 
+lauritaDKDE : suit. 10
+eck564 : relance. 20 à 40
+lauritaDKDE : suit. 20
+*** FLOP *** [2d Qs 3h]
+lauritaDKDE : mise. 20
+eck564 : suit. 20
+*** TOURNANT *** [2d Qs 3h] [As]
+lauritaDKDE : mise. 60
+eck564 : suit. 60
+*** RIVIÈRE *** [2d Qs 3h As] [Qc]
+lauritaDKDE : mise. 120
+eck564 : relance. 120 à 240
+lauritaDKDE : passe. 
+Personne n'a suivi. (120) sont retournés à eck564.
+eck564 a remporté 480  lors du pot .
+eck564 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [2d Qs 3h As Qc]
+Siège 1 : lauritaDKDE (petite blind) s'est couché. sur le Rivière
+Siège 2 : eck564 (grosse blind) a remporté (480)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261256361426 : Tournoi #4011523281, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/06/2026 16:33:00 CET [26/06/2026 10:33:00 ET]
+Table '4011523281 1' 3-max Siège #1 est au bouton.
+Place 1: lauritaDKDE (420 en jetons) 
+Place 2: eck564 (660 en jetons) 
+Place 3: psychoman59 (420 en jetons) 
+eck564 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 2s]
+lauritaDKDE : suit. 20
+eck564 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [7d 9h 4c]
+eck564 : parole 
+psychoman59 : parole 
+lauritaDKDE : parole 
+*** TOURNANT *** [7d 9h 4c] [8h]
+eck564 : parole 
+psychoman59 : parole 
+lauritaDKDE : parole 
+*** RIVIÈRE *** [7d 9h 4c 8h] [2d]
+eck564 : parole 
+psychoman59 : mise. 30
+lauritaDKDE : passe. 
+eck564 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [7d 9h 4c 8h 2d]
+Siège 1 : lauritaDKDE (bouton) s'est couché. sur le Rivière
+Siège 2 : eck564 (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°261256365447 : Tournoi #4011523281, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/06/2026 16:33:31 CET [26/06/2026 10:33:31 ET]
+Table '4011523281 1' 3-max Siège #2 est au bouton.
+Place 1: lauritaDKDE (400 en jetons) 
+Place 2: eck564 (640 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+psychoman59 : met la petite blind. 10
+lauritaDKDE : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 5s]
+eck564 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à lauritaDKDE.
+lauritaDKDE a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : lauritaDKDE (grosse blind) a remporté (20)
+Siège 2 : eck564 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261256366302 : Tournoi #4011523281, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/06/2026 16:33:38 CET [26/06/2026 10:33:38 ET]
+Table '4011523281 1' 3-max Siège #3 est au bouton.
+Place 1: lauritaDKDE (410 en jetons) 
+Place 2: eck564 (640 en jetons) 
+Place 3: psychoman59 (450 en jetons) 
+lauritaDKDE : met la petite blind. 10
+eck564 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 4c]
+psychoman59 : passe. 
+lauritaDKDE : suit. 10
+eck564 : parole 
+*** FLOP *** [Ac Qc 6h]
+lauritaDKDE : parole 
+eck564 : parole 
+*** TOURNANT *** [Ac Qc 6h] [5s]
+lauritaDKDE : parole 
+eck564 : parole 
+*** RIVIÈRE *** [Ac Qc 6h 5s] [Kh]
+lauritaDKDE : parole 
+eck564 : parole 
+*** ABATTAGE ***
+lauritaDKDE : montre [8c 2d] (Hauteur As)
+eck564 : montre [3h 8d] (Hauteur As)
+lauritaDKDE a remporté 20  lors du pot .
+eck564 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Ac Qc 6h 5s Kh]
+Siège 1 : lauritaDKDE (petite blind) a montré [8c 2d] et a gagné (20) avec Hauteur As
+Siège 2 : eck564 (grosse blind) a montré [3h 8d] et a gagné (20) avec Hauteur As
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261256371267 : Tournoi #4011523281, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 26/06/2026 16:34:16 CET [26/06/2026 10:34:16 ET]
+Table '4011523281 1' 3-max Siège #1 est au bouton.
+Place 1: lauritaDKDE (410 en jetons) 
+Place 2: eck564 (640 en jetons) 
+Place 3: psychoman59 (450 en jetons) 
+eck564 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Ac]
+lauritaDKDE : relance. 75 à 105
+eck564 : suit. 90
+psychoman59 : passe. 
+*** FLOP *** [4h As 5c]
+eck564 : parole 
+lauritaDKDE : mise. 305 et est all-in.
+eck564 : passe. 
+Personne n'a suivi. (305) sont retournés à lauritaDKDE.
+lauritaDKDE a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [4h As 5c]
+Siège 1 : lauritaDKDE (bouton) a remporté (240)
+Siège 2 : eck564 (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261256374259 : Tournoi #4011523281, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 26/06/2026 16:34:39 CET [26/06/2026 10:34:39 ET]
+Table '4011523281 1' 3-max Siège #2 est au bouton.
+Place 1: lauritaDKDE (545 en jetons) 
+Place 2: eck564 (535 en jetons) 
+Place 3: psychoman59 (420 en jetons) 
+psychoman59 : met la petite blind. 15
+lauritaDKDE : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 9s]
+eck564 : passe. 
+psychoman59 : suit. 15
+lauritaDKDE : relance. 60 à 90
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à lauritaDKDE.
+lauritaDKDE a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : lauritaDKDE (grosse blind) a remporté (60)
+Siège 2 : eck564 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261256376945 : Tournoi #4011523281, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 26/06/2026 16:34:59 CET [26/06/2026 10:34:59 ET]
+Table '4011523281 1' 3-max Siège #3 est au bouton.
+Place 1: lauritaDKDE (575 en jetons) 
+Place 2: eck564 (535 en jetons) 
+Place 3: psychoman59 (390 en jetons) 
+lauritaDKDE : met la petite blind. 15
+eck564 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Jd]
+psychoman59 : relance. 360 à 390 et est all-in.
+lauritaDKDE : passe. 
+eck564 : passe. 
+Personne n'a suivi. (360) sont retournés à psychoman59.
+psychoman59 a remporté 75  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : lauritaDKDE (petite blind) s'est couché. avant Flop
+Siège 2 : eck564 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a remporté (75)
+
+
+
+Main PokerStars n°261256378244 : Tournoi #4011523281, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 26/06/2026 16:35:10 CET [26/06/2026 10:35:10 ET]
+Table '4011523281 1' 3-max Siège #1 est au bouton.
+Place 1: lauritaDKDE (560 en jetons) 
+Place 2: eck564 (505 en jetons) 
+Place 3: psychoman59 (435 en jetons) 
+eck564 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Kc]
+lauritaDKDE : suit. 30
+eck564 : passe. 
+psychoman59 : parole 
+*** FLOP *** [7d 5c 9d]
+psychoman59 : parole 
+lauritaDKDE : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à lauritaDKDE.
+lauritaDKDE a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Tableau [7d 5c 9d]
+Siège 1 : lauritaDKDE (bouton) a remporté (75)
+Siège 2 : eck564 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261256380958 : Tournoi #4011523281, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 26/06/2026 16:35:30 CET [26/06/2026 10:35:30 ET]
+Table '4011523281 1' 3-max Siège #2 est au bouton.
+Place 1: lauritaDKDE (605 en jetons) 
+Place 2: eck564 (490 en jetons) 
+Place 3: psychoman59 (405 en jetons) 
+psychoman59 : met la petite blind. 15
+lauritaDKDE : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Qs]
+eck564 : relance. 460 à 490 et est all-in.
+psychoman59 : suit. 390 et est all-in.
+lauritaDKDE : passe. 
+Personne n'a suivi. (85) sont retournés à eck564.
+*** FLOP *** [5d 6h 9h]
+*** TOURNANT *** [5d 6h 9h] [8c]
+*** RIVIÈRE *** [5d 6h 9h 8c] [3s]
+*** ABATTAGE ***
+psychoman59 : montre [Kh Qs] (Hauteur Roi)
+eck564 : montre [2s 2c] (une paire de Deux)
+eck564 a remporté 840  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Tableau [5d 6h 9h 8c 3s]
+Siège 1 : lauritaDKDE (grosse blind) s'est couché. avant Flop
+Siège 2 : eck564 (bouton) a montré [2s 2c] et a gagné (840) avec une paire de Deux
+Siège 3 : psychoman59 (petite blind) a montré [Kh Qs] et a perdu avec Hauteur Roi
+
+
+

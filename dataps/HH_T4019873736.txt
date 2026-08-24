@@ -1,0 +1,762 @@
+﻿Main PokerStars n°261589089771 : Tournoi #4019873736, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 30/07/2026 8:58:20 CET [30/07/2026 2:58:20 ET]
+Table '4019873736 1' 3-max Siège #1 est au bouton.
+Place 1: luck522 (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: airgasm974 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+airgasm974 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 3c]
+luck522 : suit. 20
+psychoman59 : passe. 
+airgasm974 : parole 
+*** FLOP *** [4s Td Qs]
+airgasm974 : parole 
+luck522 : parole 
+*** TOURNANT *** [4s Td Qs] [7h]
+airgasm974 : parole 
+luck522 : mise. 20
+airgasm974 : passe. 
+Personne n'a suivi. (20) sont retournés à luck522.
+luck522 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [4s Td Qs 7h]
+Siège 1 : luck522 (bouton) a remporté (50)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : airgasm974 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°261589091257 : Tournoi #4019873736, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 30/07/2026 8:58:54 CET [30/07/2026 2:58:54 ET]
+Table '4019873736 1' 3-max Siège #2 est au bouton.
+Place 1: luck522 (530 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: airgasm974 (480 en jetons) 
+airgasm974 : met la petite blind. 10
+luck522 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Tc]
+psychoman59 : suit. 20
+airgasm974 : suit. 10
+luck522 : parole 
+*** FLOP *** [Js 7c 5d]
+airgasm974 : parole 
+luck522 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Js 7c 5d] [Qd]
+airgasm974 : parole 
+luck522 : parole 
+psychoman59 : mise. 60
+airgasm974 : passe. 
+luck522 : suit. 60
+*** RIVIÈRE *** [Js 7c 5d Qd] [9c]
+luck522 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+luck522 : montre [2h 5c] (une paire de Cinq)
+psychoman59 : montre [Qs Tc] (une paire de Dames)
+psychoman59 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Js 7c 5d Qd 9c]
+Siège 1 : luck522 (grosse blind) a montré [2h 5c] et a perdu avec une paire de Cinq
+Siège 2 : psychoman59 (bouton) a montré [Qs Tc] et a gagné (180) avec une paire de Dames
+Siège 3 : airgasm974 (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°261589093321 : Tournoi #4019873736, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 30/07/2026 8:59:40 CET [30/07/2026 2:59:40 ET]
+Table '4019873736 1' 3-max Siège #3 est au bouton.
+Place 1: luck522 (450 en jetons) 
+Place 2: psychoman59 (590 en jetons) 
+Place 3: airgasm974 (460 en jetons) 
+luck522 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Qh]
+airgasm974 : suit. 20
+luck522 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Qc Td Ad]
+luck522 : parole 
+psychoman59 : parole 
+airgasm974 a dépassé le temps imparti.
+airgasm974 : parole 
+*** TOURNANT *** [Qc Td Ad] [9s]
+luck522 : mise. 40
+psychoman59 : suit. 40
+airgasm974 est connecté 
+airgasm974 est connecté 
+airgasm974 a dépassé le temps imparti.
+airgasm974 : passe. 
+airgasm974 ne joue pas.
+*** RIVIÈRE *** [Qc Td Ad 9s] [6s]
+airgasm974 est revenu.
+luck522 : mise. 40
+psychoman59 : suit. 40
+*** ABATTAGE ***
+luck522 : montre [Ah Jh] (une paire de As)
+psychoman59 : cache la main perdante. 
+luck522 a remporté 220  lors du pot .
+*** SYNTHÈSE ***
+Pot total 220 | Commission 0 
+Tableau [Qc Td Ad 9s 6s]
+Siège 1 : luck522 (petite blind) a montré [Ah Jh] et a gagné (220) avec une paire de As
+Siège 2 : psychoman59 (grosse blind) a caché la main perdante. [Kd Qh]
+Siège 3 : airgasm974 (bouton) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°261589097495 : Tournoi #4019873736, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 30/07/2026 9:01:09 CET [30/07/2026 3:01:09 ET]
+Table '4019873736 1' 3-max Siège #1 est au bouton.
+Place 1: luck522 (570 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: airgasm974 (440 en jetons) 
+psychoman59 : met la petite blind. 15
+airgasm974 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Qs]
+luck522 : passe. 
+psychoman59 : suit. 15
+airgasm974 : parole 
+*** FLOP *** [Jc As 7c]
+psychoman59 : parole 
+airgasm974 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à airgasm974.
+airgasm974 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Jc As 7c]
+Siège 1 : luck522 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 3 : airgasm974 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°261589098416 : Tournoi #4019873736, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 30/07/2026 9:01:27 CET [30/07/2026 3:01:27 ET]
+Table '4019873736 1' 3-max Siège #2 est au bouton.
+Place 1: luck522 (570 en jetons) 
+Place 2: psychoman59 (460 en jetons) 
+Place 3: airgasm974 (470 en jetons) 
+airgasm974 : met la petite blind. 15
+luck522 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Js]
+psychoman59 : relance. 430 à 460 et est all-in.
+airgasm974 a dépassé le temps imparti.
+airgasm974 : passe. 
+airgasm974 ne joue pas.
+luck522 : passe. 
+Personne n'a suivi. (430) sont retournés à psychoman59.
+psychoman59 a remporté 75  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : luck522 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a remporté (75)
+Siège 3 : airgasm974 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261589099929 : Tournoi #4019873736, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 30/07/2026 9:01:56 CET [30/07/2026 3:01:56 ET]
+Table '4019873736 1' 3-max Siège #3 est au bouton.
+Place 1: luck522 (540 en jetons) 
+Place 2: psychoman59 (505 en jetons) 
+Place 3: airgasm974 (455 en jetons) ne joue pas.
+luck522 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 8c]
+airgasm974 : passe. 
+luck522 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Qh Kd Td]
+luck522 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Qh Kd Td] [8d]
+luck522 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Qh Kd Td 8d] [Qc]
+luck522 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+luck522 : montre [Js 3c] (une paire de Dames)
+psychoman59 : montre [9s 8c] (double paire, Dames et Huit)
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Qh Kd Td 8d Qc]
+Siège 1 : luck522 (petite blind) a montré [Js 3c] et a perdu avec une paire de Dames
+Siège 2 : psychoman59 (grosse blind) a montré [9s 8c] et a gagné (60) avec double paire, Dames et Huit
+Siège 3 : airgasm974 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261589100669 : Tournoi #4019873736, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 30/07/2026 9:02:10 CET [30/07/2026 3:02:10 ET]
+Table '4019873736 1' 3-max Siège #1 est au bouton.
+Place 1: luck522 (510 en jetons) 
+Place 2: psychoman59 (535 en jetons) 
+Place 3: airgasm974 (455 en jetons) ne joue pas.
+psychoman59 : met la petite blind. 15
+airgasm974 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 5c]
+luck522 : suit. 30
+psychoman59 : passe. 
+airgasm974 : passe. 
+luck522 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : luck522 (bouton) a remporté (75)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : airgasm974 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261589101069 : Tournoi #4019873736, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 30/07/2026 9:02:18 CET [30/07/2026 3:02:18 ET]
+Table '4019873736 1' 3-max Siège #2 est au bouton.
+Place 1: luck522 (555 en jetons) 
+Place 2: psychoman59 (520 en jetons) 
+Place 3: airgasm974 (425 en jetons) ne joue pas.
+airgasm974 : met la petite blind. 15
+luck522 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 8h]
+psychoman59 : passe. 
+airgasm974 : passe. 
+Personne n'a suivi. (15) sont retournés à luck522.
+luck522 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : luck522 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : airgasm974 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261589101468 : Tournoi #4019873736, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 30/07/2026 9:02:25 CET [30/07/2026 3:02:25 ET]
+Table '4019873736 1' 3-max Siège #3 est au bouton.
+Place 1: luck522 (570 en jetons) 
+Place 2: psychoman59 (520 en jetons) 
+Place 3: airgasm974 (410 en jetons) ne joue pas.
+luck522 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 9c]
+airgasm974 : passe. 
+luck522 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [7s Tc Th]
+luck522 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [7s Tc Th] [6s]
+luck522 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [7s Tc Th 6s] [4d]
+luck522 : parole 
+psychoman59 : mise. 80
+luck522 : suit. 80
+*** ABATTAGE ***
+psychoman59 : montre [8c 9c] (une suite, Six à Dix)
+luck522 : cache la main perdante. 
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [7s Tc Th 6s 4d]
+Siège 1 : luck522 (petite blind) a caché la main perdante. [8s 8h]
+Siège 2 : psychoman59 (grosse blind) a montré [8c 9c] et a gagné (240) avec une suite, Six à Dix
+Siège 3 : airgasm974 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261589102418 : Tournoi #4019873736, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 30/07/2026 9:02:42 CET [30/07/2026 3:02:42 ET]
+Table '4019873736 1' 3-max Siège #1 est au bouton.
+Place 1: luck522 (450 en jetons) 
+Place 2: psychoman59 (640 en jetons) 
+Place 3: airgasm974 (410 en jetons) ne joue pas.
+psychoman59 : met la petite blind. 20
+airgasm974 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 3d]
+luck522 : suit. 40
+psychoman59 : suit. 20
+airgasm974 : passe. 
+*** FLOP *** [7c 9s Kd]
+psychoman59 : parole 
+luck522 : parole 
+*** TOURNANT *** [7c 9s Kd] [6h]
+psychoman59 : mise. 120
+luck522 : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [7c 9s Kd 6h]
+Siège 1 : luck522 (bouton) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (petite blind) a remporté (120)
+Siège 3 : airgasm974 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261589103149 : Tournoi #4019873736, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 30/07/2026 9:02:56 CET [30/07/2026 3:02:56 ET]
+Table '4019873736 1' 3-max Siège #2 est au bouton.
+Place 1: luck522 (410 en jetons) 
+Place 2: psychoman59 (720 en jetons) 
+Place 3: airgasm974 (370 en jetons) ne joue pas.
+airgasm974 : met la petite blind. 20
+luck522 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 6s]
+airgasm974 est déconnecté 
+psychoman59 : relance. 680 à 720 et est all-in.
+airgasm974 : passe. 
+luck522 : passe. 
+Personne n'a suivi. (680) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : luck522 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a remporté (100)
+Siège 3 : airgasm974 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261589103513 : Tournoi #4019873736, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 30/07/2026 9:03:02 CET [30/07/2026 3:03:02 ET]
+Table '4019873736 1' 3-max Siège #3 est au bouton.
+Place 1: luck522 (370 en jetons) 
+Place 2: psychoman59 (780 en jetons) 
+Place 3: airgasm974 (350 en jetons) ne joue pas.
+luck522 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Kc]
+airgasm974 : passe. 
+luck522 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [7s 9c 9d]
+luck522 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [7s 9c 9d] [Kd]
+luck522 : parole 
+airgasm974 est revenu.
+psychoman59 : parole 
+*** RIVIÈRE *** [7s 9c 9d Kd] [5d]
+luck522 : parole 
+psychoman59 : mise. 80
+luck522 : suit. 80
+*** ABATTAGE ***
+psychoman59 : montre [2h Kc] (double paire, Rois et Neuf)
+luck522 : cache la main perdante. 
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [7s 9c 9d Kd 5d]
+Siège 1 : luck522 (petite blind) a caché la main perdante. [5c 2s]
+Siège 2 : psychoman59 (grosse blind) a montré [2h Kc] et a gagné (240) avec double paire, Rois et Neuf
+Siège 3 : airgasm974 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261589104394 : Tournoi #4019873736, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 30/07/2026 9:03:20 CET [30/07/2026 3:03:20 ET]
+Table '4019873736 1' 3-max Siège #1 est au bouton.
+Place 1: luck522 (250 en jetons) 
+Place 2: psychoman59 (900 en jetons) 
+Place 3: airgasm974 (350 en jetons) 
+psychoman59 : met la petite blind. 20
+airgasm974 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Ks]
+luck522 : suit. 40
+psychoman59 : relance. 860 à 900 et est all-in.
+airgasm974 : passe. 
+luck522 : passe. 
+Personne n'a suivi. (860) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : luck522 (bouton) s'est couché. avant Flop
+Siège 2 : psychoman59 (petite blind) a remporté (120)
+Siège 3 : airgasm974 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261589104938 : Tournoi #4019873736, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 30/07/2026 9:03:30 CET [30/07/2026 3:03:30 ET]
+Table '4019873736 1' 3-max Siège #2 est au bouton.
+Place 1: luck522 (210 en jetons) 
+Place 2: psychoman59 (980 en jetons) 
+Place 3: airgasm974 (310 en jetons) 
+airgasm974 : met la petite blind. 20
+luck522 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 2s]
+psychoman59 : suit. 40
+airgasm974 : relance. 270 à 310 et est all-in.
+luck522 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (270) sont retournés à airgasm974.
+airgasm974 a remporté 120  lors du pot .
+airgasm974 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : luck522 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 3 : airgasm974 (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°261589105568 : Tournoi #4019873736, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 30/07/2026 9:03:41 CET [30/07/2026 3:03:41 ET]
+Table '4019873736 1' 3-max Siège #3 est au bouton.
+Place 1: luck522 (170 en jetons) 
+Place 2: psychoman59 (940 en jetons) 
+Place 3: airgasm974 (390 en jetons) 
+luck522 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 8c]
+airgasm974 : suit. 40
+luck522 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [4s 5c Qh]
+luck522 : parole 
+psychoman59 : parole 
+airgasm974 : mise. 120
+luck522 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à airgasm974.
+airgasm974 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [4s 5c Qh]
+Siège 1 : luck522 (petite blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : airgasm974 (bouton) a remporté (120)
+
+
+
+Main PokerStars n°261589106724 : Tournoi #4019873736, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 30/07/2026 9:04:03 CET [30/07/2026 3:04:03 ET]
+Table '4019873736 1' 3-max Siège #1 est au bouton.
+Place 1: luck522 (130 en jetons) 
+Place 2: psychoman59 (900 en jetons) 
+Place 3: airgasm974 (470 en jetons) 
+psychoman59 : met la petite blind. 20
+airgasm974 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 7h]
+luck522 : suit. 40
+psychoman59 : passe. 
+airgasm974 : parole 
+*** FLOP *** [9h Tc 8c]
+airgasm974 : mise. 100
+luck522 : suit. 90 et est all-in.
+Personne n'a suivi. (10) sont retournés à airgasm974.
+*** TOURNANT *** [9h Tc 8c] [Js]
+*** RIVIÈRE *** [9h Tc 8c Js] [9c]
+*** ABATTAGE ***
+airgasm974 : montre [6s Ts] (double paire, Dix et Neuf)
+luck522 : montre [4h 6h] (une paire de Neuf)
+airgasm974 a remporté 280  lors du pot .
+luck522 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Tableau [9h Tc 8c Js 9c]
+Siège 1 : luck522 (bouton) a montré [4h 6h] et a perdu avec une paire de Neuf
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : airgasm974 (grosse blind) a montré [6s Ts] et a gagné (280) avec double paire, Dix et Neuf
+
+
+
+Main PokerStars n°261589108441 : Tournoi #4019873736, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 30/07/2026 9:04:35 CET [30/07/2026 3:04:35 ET]
+Table '4019873736 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (880 en jetons) 
+Place 3: airgasm974 (620 en jetons) 
+airgasm974 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Qc]
+airgasm974 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [7d 3h 2c]
+psychoman59 : parole 
+airgasm974 : parole 
+*** TOURNANT *** [7d 3h 2c] [6c]
+psychoman59 : parole 
+airgasm974 : parole 
+*** RIVIÈRE *** [7d 3h 2c 6c] [7s]
+psychoman59 : mise. 120
+airgasm974 : suit. 120
+*** ABATTAGE ***
+psychoman59 : montre [6h Qc] (double paire, Sept et Six)
+airgasm974 : cache la main perdante. 
+psychoman59 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [7d 3h 2c 6c 7s]
+Siège 2 : psychoman59 (grosse blind) a montré [6h Qc] et a gagné (360) avec double paire, Sept et Six
+Siège 3 : airgasm974 (bouton) (petite blind) a caché la main perdante. [5d As]
+
+
+
+Main PokerStars n°261589109477 : Tournoi #4019873736, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 30/07/2026 9:04:55 CET [30/07/2026 3:04:55 ET]
+Table '4019873736 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1060 en jetons) 
+Place 3: airgasm974 (440 en jetons) 
+psychoman59 : met la petite blind. 30
+airgasm974 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 6d]
+psychoman59 : suit. 30
+airgasm974 : parole 
+*** FLOP *** [8s Qd 2c]
+airgasm974 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à airgasm974.
+airgasm974 a remporté 120  lors du pot .
+airgasm974 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [8s Qd 2c]
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+Siège 3 : airgasm974 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°261589110160 : Tournoi #4019873736, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 30/07/2026 9:05:07 CET [30/07/2026 3:05:07 ET]
+Table '4019873736 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1000 en jetons) 
+Place 3: airgasm974 (500 en jetons) 
+airgasm974 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Ac]
+airgasm974 : suit. 30
+psychoman59 : relance. 90 à 150
+airgasm974 : suit. 90
+*** FLOP *** [9c 2s 7s]
+psychoman59 : mise. 150
+airgasm974 : relance. 150 à 300
+psychoman59 : relance. 150 à 450
+airgasm974 : suit. 50 et est all-in.
+Personne n'a suivi. (100) sont retournés à psychoman59.
+*** TOURNANT *** [9c 2s 7s] [Qd]
+*** RIVIÈRE *** [9c 2s 7s Qd] [Jd]
+*** ABATTAGE ***
+psychoman59 : montre [Ah Ac] (une paire de As)
+airgasm974 : montre [7d Js] (double paire, Valets et Sept)
+airgasm974 a remporté 1000  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1000 | Commission 0 
+Tableau [9c 2s 7s Qd Jd]
+Siège 2 : psychoman59 (grosse blind) a montré [Ah Ac] et a perdu avec une paire de As
+Siège 3 : airgasm974 (bouton) (petite blind) a montré [7d Js] et a gagné (1000) avec double paire, Valets et Sept
+
+
+
+Main PokerStars n°261589111380 : Tournoi #4019873736, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 30/07/2026 9:05:30 CET [30/07/2026 3:05:30 ET]
+Table '4019873736 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (500 en jetons) 
+Place 3: airgasm974 (1000 en jetons) 
+psychoman59 : met la petite blind. 30
+airgasm974 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Ad]
+psychoman59 : relance. 440 à 500 et est all-in.
+airgasm974 : passe. 
+Personne n'a suivi. (440) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 3 : airgasm974 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261589111935 : Tournoi #4019873736, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 30/07/2026 9:05:41 CET [30/07/2026 3:05:41 ET]
+Table '4019873736 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (560 en jetons) 
+Place 3: airgasm974 (940 en jetons) 
+airgasm974 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 3s]
+airgasm974 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : airgasm974 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261589112200 : Tournoi #4019873736, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 30/07/2026 9:05:46 CET [30/07/2026 3:05:46 ET]
+Table '4019873736 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (590 en jetons) 
+Place 3: airgasm974 (910 en jetons) 
+psychoman59 : met la petite blind. 30
+airgasm974 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Jd]
+psychoman59 : suit. 30
+airgasm974 : parole 
+*** FLOP *** [Ac As 3c]
+airgasm974 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Ac As 3c] [9c]
+airgasm974 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à airgasm974.
+airgasm974 a remporté 120  lors du pot .
+airgasm974 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Ac As 3c 9c]
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Tournant
+Siège 3 : airgasm974 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°261589112914 : Tournoi #4019873736, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 30/07/2026 9:05:59 CET [30/07/2026 3:05:59 ET]
+Table '4019873736 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (530 en jetons) 
+Place 3: airgasm974 (970 en jetons) 
+airgasm974 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 4h]
+airgasm974 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Tc 9s Ts]
+psychoman59 : parole 
+airgasm974 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à airgasm974.
+airgasm974 a remporté 120  lors du pot .
+airgasm974 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Tc 9s Ts]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : airgasm974 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°261589113459 : Tournoi #4019873736, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 30/07/2026 9:06:10 CET [30/07/2026 3:06:10 ET]
+Table '4019873736 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (470 en jetons) 
+Place 3: airgasm974 (1030 en jetons) 
+psychoman59 : met la petite blind. 30
+airgasm974 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 5d]
+psychoman59 : relance. 410 à 470 et est all-in.
+airgasm974 : passe. 
+Personne n'a suivi. (410) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 3 : airgasm974 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261589113765 : Tournoi #4019873736, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 30/07/2026 9:06:16 CET [30/07/2026 3:06:16 ET]
+Table '4019873736 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (530 en jetons) 
+Place 3: airgasm974 (970 en jetons) 
+airgasm974 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Qd]
+airgasm974 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : airgasm974 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261589114063 : Tournoi #4019873736, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 30/07/2026 9:06:21 CET [30/07/2026 3:06:21 ET]
+Table '4019873736 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (560 en jetons) 
+Place 3: airgasm974 (940 en jetons) 
+psychoman59 : met la petite blind. 30
+airgasm974 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 2s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à airgasm974.
+airgasm974 a remporté 60  lors du pot .
+airgasm974 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : airgasm974 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°261589114483 : Tournoi #4019873736, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 30/07/2026 9:06:29 CET [30/07/2026 3:06:29 ET]
+Table '4019873736 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (530 en jetons) 
+Place 3: airgasm974 (970 en jetons) 
+airgasm974 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 8d]
+airgasm974 : suit. 40
+psychoman59 : parole 
+*** FLOP *** [Qh Tc 2s]
+psychoman59 : parole 
+airgasm974 : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à airgasm974.
+airgasm974 a remporté 160  lors du pot .
+airgasm974 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Qh Tc 2s]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : airgasm974 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°261589115267 : Tournoi #4019873736, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 30/07/2026 9:06:43 CET [30/07/2026 3:06:43 ET]
+Table '4019873736 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (450 en jetons) 
+Place 3: airgasm974 (1050 en jetons) 
+psychoman59 : met la petite blind. 40
+airgasm974 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 9h]
+psychoman59 : suit. 40
+airgasm974 : parole 
+*** FLOP *** [5c Kc 6d]
+airgasm974 : parole 
+psychoman59 : mise. 370 et est all-in.
+airgasm974 : suit. 370
+*** TOURNANT *** [5c Kc 6d] [Kd]
+*** RIVIÈRE *** [5c Kc 6d Kd] [2c]
+*** ABATTAGE ***
+airgasm974 : montre [4s 6s] (double paire, Rois et Six)
+psychoman59 : montre [Th 9h] (une paire de Rois)
+airgasm974 a remporté 900  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+airgasm974 remporte le tournoi et reçoit 1.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Tableau [5c Kc 6d Kd 2c]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Th 9h] et a perdu avec une paire de Rois
+Siège 3 : airgasm974 (grosse blind) a montré [4s 6s] et a gagné (900) avec double paire, Rois et Six
+
+
+

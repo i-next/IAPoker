@@ -1,0 +1,193 @@
+﻿Main PokerStars n°244938822328 : Tournoi #3620004381, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 21/07/2023 18:04:24 CET [21/07/2023 12:04:24 ET]
+Table '3620004381 1' 3-max Siège #1 est au bouton.
+Place 1: chato0799 (300 en jetons) 
+Place 2: jbe30 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+jbe30 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Ah]
+chato0799 : relance. 20 à 40
+jbe30 : passe. 
+psychoman59 : suit. 20
+*** FLOP *** [2c Ks 3s]
+psychoman59 : parole 
+chato0799 : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [2c Ks 3s] [8d]
+psychoman59 : parole 
+chato0799 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à chato0799.
+chato0799 a remporté 170  lors du pot .
+*** SYNTHÈSE ***
+Pot total 170 | Commission 0 
+Tableau [2c Ks 3s 8d]
+Siège 1 : chato0799 (bouton) a remporté (170)
+Siège 2 : jbe30 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°244938827419 : Tournoi #3620004381, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 21/07/2023 18:04:44 CET [21/07/2023 12:04:44 ET]
+Table '3620004381 1' 3-max Siège #2 est au bouton.
+Place 1: chato0799 (390 en jetons) 
+Place 2: jbe30 (290 en jetons) 
+Place 3: psychoman59 (220 en jetons) 
+psychoman59 : met la petite blind. 10
+chato0799 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Ac]
+jbe30 : suit. 20
+psychoman59 : relance. 200 à 220 et est all-in.
+chato0799 : passe. 
+jbe30 : suit. 200
+*** FLOP *** [Td 6s Ts]
+*** TOURNANT *** [Td 6s Ts] [Ah]
+*** RIVIÈRE *** [Td 6s Ts Ah] [8c]
+*** ABATTAGE ***
+psychoman59 : montre [5c Ac] (double paire, As et Dix)
+jbe30 : montre [3c 3h] (double paire, Dix et Trois)
+psychoman59 a remporté 460  lors du pot .
+*** SYNTHÈSE ***
+Pot total 460 | Commission 0 
+Tableau [Td 6s Ts Ah 8c]
+Siège 1 : chato0799 (grosse blind) s'est couché. avant Flop
+Siège 2 : jbe30 (bouton) a montré [3c 3h] et a perdu avec double paire, Dix et Trois
+Siège 3 : psychoman59 (petite blind) a montré [5c Ac] et a gagné (460) avec double paire, As et Dix
+
+
+
+Main PokerStars n°244938831377 : Tournoi #3620004381, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 21/07/2023 18:05:01 CET [21/07/2023 12:05:01 ET]
+Table '3620004381 1' 3-max Siège #3 est au bouton.
+Place 1: chato0799 (370 en jetons) 
+Place 2: jbe30 (70 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+chato0799 : met la petite blind. 10
+jbe30 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 6h]
+psychoman59 : passe. 
+chato0799 : relance. 350 à 370 et est all-in.
+jbe30 : suit. 50 et est all-in.
+Personne n'a suivi. (300) sont retournés à chato0799.
+*** FLOP *** [Qc 8c 9c]
+*** TOURNANT *** [Qc 8c 9c] [2c]
+*** RIVIÈRE *** [Qc 8c 9c 2c] [Td]
+*** ABATTAGE ***
+chato0799 : montre [3d Ad] (Hauteur As)
+jbe30 : montre [Ah 4h] (Hauteur As)
+chato0799 a remporté 70  lors du pot .
+jbe30 a remporté 70  lors du pot .
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [Qc 8c 9c 2c Td]
+Siège 1 : chato0799 (petite blind) a montré [3d Ad] et a gagné (70) avec Hauteur As
+Siège 2 : jbe30 (grosse blind) a montré [Ah 4h] et a gagné (70) avec Hauteur As
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°244938835043 : Tournoi #3620004381, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 21/07/2023 18:05:15 CET [21/07/2023 12:05:15 ET]
+Table '3620004381 1' 3-max Siège #1 est au bouton.
+Place 1: chato0799 (370 en jetons) 
+Place 2: jbe30 (70 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+jbe30 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Ts]
+chato0799 : relance. 350 à 370 et est all-in.
+jbe30 : suit. 60 et est all-in.
+psychoman59 : suit. 350
+*** FLOP *** [Ah 6s Ad]
+*** TOURNANT *** [Ah 6s Ad] [8s]
+*** RIVIÈRE *** [Ah 6s Ad 8s] [7c]
+*** ABATTAGE ***
+psychoman59 : montre [Th Ts] (double paire, As et Dix)
+chato0799 : montre [Qh Qd] (double paire, As et Dames)
+chato0799 a remporté 600  parallèle lors du pot .
+jbe30 : montre [8h Kd] (double paire, As et Huit)
+chato0799 a remporté 210  principal lors du pot .
+jbe30 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 810 Principal pot 210. Parallèle pot 600. | Commission 0 
+Tableau [Ah 6s Ad 8s 7c]
+Siège 1 : chato0799 (bouton) a montré [Qh Qd] et a gagné (810) avec double paire, As et Dames
+Siège 2 : jbe30 (petite blind) a montré [8h Kd] et a perdu avec double paire, As et Huit
+Siège 3 : psychoman59 (grosse blind) a montré [Th Ts] et a perdu avec double paire, As et Dix
+
+
+
+Main PokerStars n°244938839282 : Tournoi #3620004381, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 21/07/2023 18:05:32 CET [21/07/2023 12:05:32 ET]
+Table '3620004381 1' 3-max Siège #3 est au bouton.
+Place 1: chato0799 (810 en jetons) 
+Place 3: psychoman59 (90 en jetons) 
+psychoman59 : met la petite blind. 15
+chato0799 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 5h]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à chato0799.
+chato0799 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : chato0799 (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244938840713 : Tournoi #3620004381, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 21/07/2023 18:05:38 CET [21/07/2023 12:05:38 ET]
+Table '3620004381 1' 3-max Siège #1 est au bouton.
+Place 1: chato0799 (825 en jetons) 
+Place 3: psychoman59 (75 en jetons) 
+chato0799 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Ks]
+chato0799 : relance. 795 à 825 et est all-in.
+psychoman59 : suit. 45 et est all-in.
+Personne n'a suivi. (750) sont retournés à chato0799.
+*** FLOP *** [Kd 8d Ad]
+*** TOURNANT *** [Kd 8d Ad] [9d]
+*** RIVIÈRE *** [Kd 8d Ad 9d] [4d]
+*** ABATTAGE ***
+psychoman59 : montre [6c Ks] (une couleur, hauteur As)
+chato0799 : montre [Ac Kh] (une couleur, hauteur As)
+psychoman59 a remporté 75  lors du pot .
+chato0799 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Tableau [Kd 8d Ad 9d 4d]
+Siège 1 : chato0799 (bouton) (petite blind) a montré [Ac Kh] et a gagné (75) avec une couleur, hauteur As
+Siège 3 : psychoman59 (grosse blind) a montré [6c Ks] et a gagné (75) avec une couleur, hauteur As
+
+
+
+Main PokerStars n°244938843748 : Tournoi #3620004381, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 21/07/2023 18:05:50 CET [21/07/2023 12:05:50 ET]
+Table '3620004381 1' 3-max Siège #3 est au bouton.
+Place 1: chato0799 (825 en jetons) 
+Place 3: psychoman59 (75 en jetons) 
+psychoman59 : met la petite blind. 15
+chato0799 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 8d]
+psychoman59 : relance. 45 à 75 et est all-in.
+chato0799 : suit. 45
+*** FLOP *** [2h 8s 2s]
+*** TOURNANT *** [2h 8s 2s] [7d]
+*** RIVIÈRE *** [2h 8s 2s 7d] [7c]
+*** ABATTAGE ***
+chato0799 : montre [Jc 7s] (un full, full aux Sept par les Deux)
+psychoman59 : montre [Ah 8d] (double paire, Huit et Sept)
+chato0799 a remporté 150  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+chato0799 remporte le tournoi et reçoit 6.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Tableau [2h 8s 2s 7d 7c]
+Siège 1 : chato0799 (grosse blind) a montré [Jc 7s] et a gagné (150) avec un full, full aux Sept par les Deux
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Ah 8d] et a perdu avec double paire, Huit et Sept
+
+
+

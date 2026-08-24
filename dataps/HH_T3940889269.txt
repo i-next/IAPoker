@@ -1,0 +1,102 @@
+﻿Main PokerStars n°258266853310 : Tournoi #3940889269, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 26/10/2025 7:14:27 CET [26/10/2025 2:14:27 ET]
+Table '3940889269 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: reboredo649 (500 en jetons) 
+Place 3: icallbet (500 en jetons) 
+reboredo649 : met la petite blind. 10
+icallbet : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 4h]
+psychoman59 : suit. 20
+reboredo649 : suit. 10
+icallbet : parole 
+*** FLOP *** [3s 3c 5d]
+reboredo649 : parole 
+icallbet : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3s 3c 5d] [2h]
+reboredo649 : parole 
+icallbet : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [3s 3c 5d 2h] [4s]
+reboredo649 : parole 
+icallbet : mise. 60
+psychoman59 : passe. 
+reboredo649 : passe. 
+Personne n'a suivi. (60) sont retournés à icallbet.
+icallbet a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [3s 3c 5d 2h 4s]
+Siège 1 : psychoman59 (bouton) s'est couché. sur le Rivière
+Siège 2 : reboredo649 (petite blind) s'est couché. sur le Rivière
+Siège 3 : icallbet (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°258266855406 : Tournoi #3940889269, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 26/10/2025 7:14:59 CET [26/10/2025 2:14:59 ET]
+Table '3940889269 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (480 en jetons) 
+Place 2: reboredo649 (480 en jetons) 
+Place 3: icallbet (540 en jetons) 
+icallbet : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 3c]
+reboredo649 : suit. 20
+icallbet : passe. 
+psychoman59 : parole 
+*** FLOP *** [6d Jd 2c]
+psychoman59 : parole 
+reboredo649 : parole 
+*** TOURNANT *** [6d Jd 2c] [Ah]
+psychoman59 : parole 
+reboredo649 : parole 
+*** RIVIÈRE *** [6d Jd 2c Ah] [As]
+psychoman59 : parole 
+reboredo649 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Th 3c] (une paire de As)
+reboredo649 : montre [8c Qc] (une paire de As - Dame kicker)
+reboredo649 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [6d Jd 2c Ah As]
+Siège 1 : psychoman59 (grosse blind) a montré [Th 3c] et a perdu avec une paire de As
+Siège 2 : reboredo649 (bouton) a montré [8c Qc] et a gagné (50) avec une paire de As
+Siège 3 : icallbet (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258266857137 : Tournoi #3940889269, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 26/10/2025 7:15:26 CET [26/10/2025 2:15:26 ET]
+Table '3940889269 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (460 en jetons) 
+Place 2: reboredo649 (510 en jetons) 
+Place 3: icallbet (530 en jetons) 
+psychoman59 : met la petite blind. 10
+reboredo649 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 4h]
+icallbet : relance. 40 à 60
+psychoman59 : relance. 400 à 460 et est all-in.
+reboredo649 : relance. 50 à 510 et est all-in.
+icallbet : suit. 450
+*** FLOP *** [Kh 8s 8c]
+*** TOURNANT *** [Kh 8s 8c] [2h]
+*** RIVIÈRE *** [Kh 8s 8c 2h] [5d]
+*** ABATTAGE ***
+reboredo649 : montre [2c 2s] (un full, full aux Deux par les Huit)
+icallbet : montre [Th Js] (une paire de Huit)
+reboredo649 a remporté 100  parallèle lors du pot .
+psychoman59 : montre [4d 4h] (double paire, Huit et Quatre)
+reboredo649 a remporté 1380  principal lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 1480 Principal pot 1380. Parallèle pot 100. | Commission 0 
+Tableau [Kh 8s 8c 2h 5d]
+Siège 1 : psychoman59 (petite blind) a montré [4d 4h] et a perdu avec double paire, Huit et Quatre
+Siège 2 : reboredo649 (grosse blind) a montré [2c 2s] et a gagné (1480) avec un full, full aux Deux par les Huit
+Siège 3 : icallbet (bouton) a montré [Th Js] et a perdu avec une paire de Huit
+
+
+

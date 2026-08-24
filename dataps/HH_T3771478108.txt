@@ -1,0 +1,494 @@
+﻿Main PokerStars n°251213480899 : Tournoi #3771478108, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 27/06/2024 8:21:41 CET [27/06/2024 2:21:41 ET]
+Table '3771478108 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: daniforos (500 en jetons) 
+Place 3: nelo8761 (500 en jetons) 
+daniforos : met la petite blind. 10
+nelo8761 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 6h]
+psychoman59 : passe. 
+daniforos : suit. 10
+nelo8761 : parole 
+*** FLOP *** [9s 7d Kc]
+daniforos : parole 
+nelo8761 : parole 
+*** TOURNANT *** [9s 7d Kc] [As]
+daniforos : parole 
+nelo8761 : parole 
+*** RIVIÈRE *** [9s 7d Kc As] [Tc]
+daniforos : mise. 20
+nelo8761 : relance. 80 à 100
+daniforos : suit. 80
+*** ABATTAGE ***
+nelo8761 : montre [8d Jd] (une suite, Sept à Valet)
+daniforos : cache la main perdante. 
+nelo8761 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [9s 7d Kc As Tc]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : daniforos (petite blind) a caché la main perdante. [Ad 2d]
+Siège 3 : nelo8761 (grosse blind) a montré [8d Jd] et a gagné (240) avec une suite, Sept à Valet
+
+
+
+Main PokerStars n°251213482879 : Tournoi #3771478108, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 27/06/2024 8:22:06 CET [27/06/2024 2:22:06 ET]
+Table '3771478108 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: daniforos (380 en jetons) 
+Place 3: nelo8761 (620 en jetons) 
+nelo8761 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 2s]
+daniforos : relance. 20 à 40
+nelo8761 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à daniforos.
+daniforos a remporté 50  lors du pot .
+daniforos : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : daniforos (bouton) a remporté (50)
+Siège 3 : nelo8761 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°251213483474 : Tournoi #3771478108, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 27/06/2024 8:22:14 CET [27/06/2024 2:22:14 ET]
+Table '3771478108 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (480 en jetons) 
+Place 2: daniforos (410 en jetons) 
+Place 3: nelo8761 (610 en jetons) 
+psychoman59 : met la petite blind. 10
+daniforos : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Qc]
+nelo8761 : suit. 20
+psychoman59 : suit. 10
+daniforos : parole 
+*** FLOP *** [Js 2h Td]
+psychoman59 : parole 
+daniforos : parole 
+nelo8761 : parole 
+*** TOURNANT *** [Js 2h Td] [Jc]
+psychoman59 : parole 
+daniforos : parole 
+nelo8761 : parole 
+*** RIVIÈRE *** [Js 2h Td Jc] [Qh]
+psychoman59 : mise. 40
+daniforos : passe. 
+nelo8761 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Js 2h Td Jc Qh]
+Siège 1 : psychoman59 (petite blind) a remporté (60)
+Siège 2 : daniforos (grosse blind) s'est couché. sur le Rivière
+Siège 3 : nelo8761 (bouton) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°251213485608 : Tournoi #3771478108, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 27/06/2024 8:22:41 CET [27/06/2024 2:22:41 ET]
+Table '3771478108 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (520 en jetons) 
+Place 2: daniforos (390 en jetons) 
+Place 3: nelo8761 (590 en jetons) 
+daniforos : met la petite blind. 10
+nelo8761 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 2c]
+psychoman59 : passe. 
+daniforos : suit. 10
+nelo8761 : parole 
+*** FLOP *** [Ac Qd Kh]
+daniforos : parole 
+nelo8761 : parole 
+*** TOURNANT *** [Ac Qd Kh] [Ts]
+daniforos : parole 
+nelo8761 : parole 
+*** RIVIÈRE *** [Ac Qd Kh Ts] [5s]
+daniforos : mise. 20
+nelo8761 : suit. 20
+*** ABATTAGE ***
+daniforos : montre [7s Jd] (une suite, Dix à As)
+nelo8761 : cache la main perdante. 
+daniforos a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Ac Qd Kh Ts 5s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : daniforos (petite blind) a montré [7s Jd] et a gagné (80) avec une suite, Dix à As
+Siège 3 : nelo8761 (grosse blind) a caché la main perdante. [3h Ad]
+
+
+
+Main PokerStars n°251213488234 : Tournoi #3771478108, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 27/06/2024 8:23:14 CET [27/06/2024 2:23:14 ET]
+Table '3771478108 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (520 en jetons) 
+Place 2: daniforos (430 en jetons) 
+Place 3: nelo8761 (550 en jetons) 
+nelo8761 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Js]
+daniforos : suit. 20
+nelo8761 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [8d 3d Qd]
+nelo8761 : parole 
+psychoman59 : parole 
+daniforos : parole 
+*** TOURNANT *** [8d 3d Qd] [3h]
+nelo8761 : parole 
+psychoman59 : parole 
+daniforos : parole 
+*** RIVIÈRE *** [8d 3d Qd 3h] [8c]
+nelo8761 : mise. 60
+psychoman59 : passe. 
+daniforos : passe. 
+Personne n'a suivi. (60) sont retournés à nelo8761.
+nelo8761 a remporté 60  lors du pot .
+nelo8761 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [8d 3d Qd 3h 8c]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : daniforos (bouton) s'est couché. sur le Rivière
+Siège 3 : nelo8761 (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°251213490668 : Tournoi #3771478108, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 27/06/2024 8:23:46 CET [27/06/2024 2:23:46 ET]
+Table '3771478108 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: daniforos (410 en jetons) 
+Place 3: nelo8761 (590 en jetons) 
+psychoman59 : met la petite blind. 15
+daniforos : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 2d]
+nelo8761 : suit. 30
+psychoman59 : passe. 
+daniforos : relance. 60 à 90
+nelo8761 : suit. 60
+*** FLOP *** [6d 4s 6s]
+daniforos : parole 
+nelo8761 : mise. 500 et est all-in.
+daniforos : suit. 320 et est all-in.
+Personne n'a suivi. (180) sont retournés à nelo8761.
+*** TOURNANT *** [6d 4s 6s] [5h]
+*** RIVIÈRE *** [6d 4s 6s 5h] [2c]
+*** ABATTAGE ***
+daniforos : montre [Qs Ad] (une paire de Six)
+nelo8761 : montre [Tc Ks] (une paire de Six - plus basse kicker)
+daniforos a remporté 835  lors du pot .
+*** SYNTHÈSE ***
+Pot total 835 | Commission 0 
+Tableau [6d 4s 6s 5h 2c]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : daniforos (grosse blind) a montré [Qs Ad] et a gagné (835) avec une paire de Six
+Siège 3 : nelo8761 (bouton) a montré [Tc Ks] et a perdu avec une paire de Six
+
+
+
+Main PokerStars n°251213492294 : Tournoi #3771478108, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 27/06/2024 8:24:06 CET [27/06/2024 2:24:06 ET]
+Table '3771478108 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (485 en jetons) 
+Place 2: daniforos (835 en jetons) 
+Place 3: nelo8761 (180 en jetons) 
+daniforos : met la petite blind. 15
+nelo8761 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Qc]
+psychoman59 : suit. 30
+daniforos : suit. 15
+nelo8761 : parole 
+*** FLOP *** [9h 2c 3s]
+daniforos : parole 
+nelo8761 : mise. 150 et est all-in.
+psychoman59 : suit. 150
+daniforos : passe. 
+*** TOURNANT *** [9h 2c 3s] [3h]
+*** RIVIÈRE *** [9h 2c 3s 3h] [Kc]
+*** ABATTAGE ***
+nelo8761 : montre [Td 4s] (une paire de Trois)
+psychoman59 : montre [9c Qc] (double paire, Neuf et Trois)
+psychoman59 a remporté 390  lors du pot .
+nelo8761 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 390 | Commission 0 
+Tableau [9h 2c 3s 3h Kc]
+Siège 1 : psychoman59 (bouton) a montré [9c Qc] et a gagné (390) avec double paire, Neuf et Trois
+Siège 2 : daniforos (petite blind) s'est couché. sur le Flop
+Siège 3 : nelo8761 (grosse blind) a montré [Td 4s] et a perdu avec une paire de Trois
+
+
+
+Main PokerStars n°251213494229 : Tournoi #3771478108, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 27/06/2024 8:24:31 CET [27/06/2024 2:24:31 ET]
+Table '3771478108 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (695 en jetons) 
+Place 2: daniforos (805 en jetons) 
+daniforos : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 6d]
+daniforos : suit. 15
+psychoman59 : parole 
+*** FLOP *** [6s Ad Qc]
+psychoman59 : parole 
+daniforos : parole 
+*** TOURNANT *** [6s Ad Qc] [6c]
+psychoman59 : parole 
+daniforos : parole 
+*** RIVIÈRE *** [6s Ad Qc 6c] [2d]
+psychoman59 : mise. 60
+daniforos : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [6s Ad Qc 6c 2d]
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 2 : daniforos (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°251213495674 : Tournoi #3771478108, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 27/06/2024 8:24:50 CET [27/06/2024 2:24:50 ET]
+Table '3771478108 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (725 en jetons) 
+Place 2: daniforos (775 en jetons) 
+psychoman59 : met la petite blind. 15
+daniforos : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 7h]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à daniforos.
+daniforos a remporté 30  lors du pot .
+daniforos : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : daniforos (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°251213496076 : Tournoi #3771478108, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 27/06/2024 8:24:55 CET [27/06/2024 2:24:55 ET]
+Table '3771478108 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (710 en jetons) 
+Place 2: daniforos (790 en jetons) 
+daniforos : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Qd]
+daniforos : suit. 15
+psychoman59 : relance. 680 à 710 et est all-in.
+daniforos : passe. 
+Personne n'a suivi. (680) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 2 : daniforos (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°251213496747 : Tournoi #3771478108, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 27/06/2024 8:25:03 CET [27/06/2024 2:25:03 ET]
+Table '3771478108 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (740 en jetons) 
+Place 2: daniforos (760 en jetons) 
+psychoman59 : met la petite blind. 15
+daniforos : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Jh]
+psychoman59 : suit. 15
+daniforos : parole 
+*** FLOP *** [6h 8s 8c]
+daniforos : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6h 8s 8c] [As]
+daniforos : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [6h 8s 8c As] [4c]
+daniforos : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+daniforos : montre [5d Jd] (une paire de Huit)
+psychoman59 : montre [2s Jh] (une paire de Huit)
+daniforos a remporté 30  lors du pot .
+psychoman59 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [6h 8s 8c As 4c]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [2s Jh] et a gagné (30) avec une paire de Huit
+Siège 2 : daniforos (grosse blind) a montré [5d Jd] et a gagné (30) avec une paire de Huit
+
+
+
+Main PokerStars n°251213498174 : Tournoi #3771478108, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 27/06/2024 8:25:21 CET [27/06/2024 2:25:21 ET]
+Table '3771478108 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (740 en jetons) 
+Place 2: daniforos (760 en jetons) 
+daniforos : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 7h]
+daniforos : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (30)
+Siège 2 : daniforos (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°251213498546 : Tournoi #3771478108, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 27/06/2024 8:25:26 CET [27/06/2024 2:25:26 ET]
+Table '3771478108 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (755 en jetons) 
+Place 2: daniforos (745 en jetons) 
+psychoman59 : met la petite blind. 15
+daniforos : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 6h]
+psychoman59 : suit. 15
+daniforos : parole 
+*** FLOP *** [Td Qh 4h]
+daniforos : mise. 30
+psychoman59 : suit. 30
+*** TOURNANT *** [Td Qh 4h] [Ac]
+daniforos : parole 
+psychoman59 : mise. 30
+daniforos : suit. 30
+*** RIVIÈRE *** [Td Qh 4h Ac] [5d]
+daniforos : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+daniforos : montre [Kc 9d] (Hauteur As)
+psychoman59 : montre [Qs 6h] (une paire de Dames)
+psychoman59 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Td Qh 4h Ac 5d]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Qs 6h] et a gagné (180) avec une paire de Dames
+Siège 2 : daniforos (grosse blind) a montré [Kc 9d] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°251213500309 : Tournoi #3771478108, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 27/06/2024 8:25:49 CET [27/06/2024 2:25:49 ET]
+Table '3771478108 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (845 en jetons) 
+Place 2: daniforos (655 en jetons) 
+daniforos : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 2c]
+daniforos : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 2 : daniforos (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°251213500703 : Tournoi #3771478108, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 27/06/2024 8:25:54 CET [27/06/2024 2:25:54 ET]
+Table '3771478108 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (865 en jetons) 
+Place 2: daniforos (635 en jetons) 
+psychoman59 : met la petite blind. 20
+daniforos : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 6h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à daniforos.
+daniforos a remporté 40  lors du pot .
+daniforos : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : daniforos (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°251213501045 : Tournoi #3771478108, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 27/06/2024 8:25:58 CET [27/06/2024 2:25:58 ET]
+Table '3771478108 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (845 en jetons) 
+Place 2: daniforos (655 en jetons) 
+daniforos : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 6h]
+daniforos : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 2 : daniforos (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°251213501398 : Tournoi #3771478108, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 27/06/2024 8:26:03 CET [27/06/2024 2:26:03 ET]
+Table '3771478108 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (865 en jetons) 
+Place 2: daniforos (635 en jetons) 
+psychoman59 : met la petite blind. 20
+daniforos : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Js]
+psychoman59 : suit. 20
+daniforos : parole 
+*** FLOP *** [Th Tc 7s]
+daniforos : parole 
+psychoman59 : mise. 40
+daniforos : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Th Tc 7s]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 2 : daniforos (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°251213502245 : Tournoi #3771478108, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 27/06/2024 8:26:14 CET [27/06/2024 2:26:14 ET]
+Table '3771478108 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (905 en jetons) 
+Place 2: daniforos (595 en jetons) 
+daniforos : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Qc]
+daniforos : suit. 20
+psychoman59 : relance. 865 à 905 et est all-in.
+daniforos : suit. 555 et est all-in.
+Personne n'a suivi. (310) sont retournés à psychoman59.
+*** FLOP *** [9h 3h Ts]
+*** TOURNANT *** [9h 3h Ts] [Ad]
+*** RIVIÈRE *** [9h 3h Ts Ad] [Qs]
+*** ABATTAGE ***
+psychoman59 : montre [Kc Qc] (une paire de Dames)
+daniforos : montre [8h Qh] (une paire de Dames - plus basse kicker)
+psychoman59 a remporté 1190  lors du pot .
+daniforos a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 0.50 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 1190 | Commission 0 
+Tableau [9h 3h Ts Ad Qs]
+Siège 1 : psychoman59 (grosse blind) a montré [Kc Qc] et a gagné (1190) avec une paire de Dames
+Siège 2 : daniforos (bouton) (petite blind) a montré [8h Qh] et a perdu avec une paire de Dames
+
+
+

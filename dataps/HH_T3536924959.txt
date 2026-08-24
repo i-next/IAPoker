@@ -1,0 +1,336 @@
+﻿Main PokerStars n°241358502330 : Tournoi #3536924959, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/01/2023 9:01:12 CET [24/01/2023 3:01:12 ET]
+Table '3536924959 1' 3-max Siège #1 est au bouton.
+Place 1: winnipeg 113 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: Arzigma (300 en jetons) 
+psychoman59 : met la petite blind. 10
+Arzigma : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Jh]
+winnipeg 113 : suit. 20
+psychoman59 : suit. 10
+Arzigma : parole 
+*** FLOP *** [Ad 9s 2h]
+psychoman59 : parole 
+Arzigma : parole 
+winnipeg 113 : parole 
+*** TOURNANT *** [Ad 9s 2h] [Ts]
+psychoman59 : parole 
+Arzigma : parole 
+winnipeg 113 : mise. 60
+psychoman59 : suit. 60
+Arzigma : passe. 
+*** RIVIÈRE *** [Ad 9s 2h Ts] [Kh]
+psychoman59 : parole 
+winnipeg 113 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Qh Jh] (une suite, Dix à As)
+winnipeg 113 : cache la main perdante. 
+psychoman59 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Ad 9s 2h Ts Kh]
+Siège 1 : winnipeg 113 (bouton) a caché la main perdante. [4d Tc]
+Siège 2 : psychoman59 (petite blind) a montré [Qh Jh] et a gagné (180) avec une suite, Dix à As
+Siège 3 : Arzigma (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°241358504986 : Tournoi #3536924959, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/01/2023 9:01:39 CET [24/01/2023 3:01:39 ET]
+Table '3536924959 1' 3-max Siège #2 est au bouton.
+Place 1: winnipeg 113 (220 en jetons) 
+Place 2: psychoman59 (400 en jetons) 
+Place 3: Arzigma (280 en jetons) 
+Arzigma : met la petite blind. 10
+winnipeg 113 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 6c]
+psychoman59 : relance. 380 à 400 et est all-in.
+Arzigma : passe. 
+winnipeg 113 : passe. 
+Personne n'a suivi. (380) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : winnipeg 113 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a remporté (50)
+Siège 3 : Arzigma (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241358506093 : Tournoi #3536924959, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/01/2023 9:01:50 CET [24/01/2023 3:01:50 ET]
+Table '3536924959 1' 3-max Siège #3 est au bouton.
+Place 1: winnipeg 113 (200 en jetons) 
+Place 2: psychoman59 (430 en jetons) 
+Place 3: Arzigma (270 en jetons) 
+winnipeg 113 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 2d]
+Arzigma : suit. 20
+winnipeg 113 : relance. 180 à 200 et est all-in.
+psychoman59 : suit. 180
+Arzigma : passe. 
+*** FLOP *** [5c 7s 8d]
+*** TOURNANT *** [5c 7s 8d] [6d]
+*** RIVIÈRE *** [5c 7s 8d 6d] [3c]
+*** ABATTAGE ***
+winnipeg 113 : montre [8s Ks] (une paire de Huit)
+psychoman59 : montre [2h 2d] (une paire de Deux)
+winnipeg 113 a remporté 420  lors du pot .
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [5c 7s 8d 6d 3c]
+Siège 1 : winnipeg 113 (petite blind) a montré [8s Ks] et a gagné (420) avec une paire de Huit
+Siège 2 : psychoman59 (grosse blind) a montré [2h 2d] et a perdu avec une paire de Deux
+Siège 3 : Arzigma (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241358508788 : Tournoi #3536924959, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 24/01/2023 9:02:17 CET [24/01/2023 3:02:17 ET]
+Table '3536924959 1' 3-max Siège #1 est au bouton.
+Place 1: winnipeg 113 (420 en jetons) 
+Place 2: psychoman59 (230 en jetons) 
+Place 3: Arzigma (250 en jetons) 
+psychoman59 : met la petite blind. 15
+Arzigma : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 9c]
+winnipeg 113 : relance. 390 à 420 et est all-in.
+psychoman59 : passe. 
+Arzigma : passe. 
+Personne n'a suivi. (390) sont retournés à winnipeg 113.
+winnipeg 113 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : winnipeg 113 (bouton) a remporté (75)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Arzigma (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241358509973 : Tournoi #3536924959, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 24/01/2023 9:02:29 CET [24/01/2023 3:02:29 ET]
+Table '3536924959 1' 3-max Siège #2 est au bouton.
+Place 1: winnipeg 113 (465 en jetons) 
+Place 2: psychoman59 (215 en jetons) 
+Place 3: Arzigma (220 en jetons) 
+Arzigma : met la petite blind. 15
+winnipeg 113 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Kc]
+psychoman59 : passe. 
+Arzigma : suit. 15
+winnipeg 113 : parole 
+*** FLOP *** [Tc 9c Jd]
+Arzigma : parole 
+winnipeg 113 : mise. 30
+Arzigma : suit. 30
+*** TOURNANT *** [Tc 9c Jd] [Kh]
+Arzigma : parole 
+winnipeg 113 : mise. 30
+Arzigma : suit. 30
+*** RIVIÈRE *** [Tc 9c Jd Kh] [3c]
+Arzigma : parole 
+winnipeg 113 : mise. 375 et est all-in.
+Arzigma : suit. 130 et est all-in.
+Personne n'a suivi. (245) sont retournés à winnipeg 113.
+*** ABATTAGE ***
+winnipeg 113 : montre [8c Qh] (une suite, Neuf à Roi)
+Arzigma : montre [Kd 4s] (une paire de Rois)
+winnipeg 113 a remporté 440  lors du pot .
+Arzigma a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 440 | Commission 0 
+Tableau [Tc 9c Jd Kh 3c]
+Siège 1 : winnipeg 113 (grosse blind) a montré [8c Qh] et a gagné (440) avec une suite, Neuf à Roi
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Arzigma (petite blind) a montré [Kd 4s] et a perdu avec une paire de Rois
+
+
+
+Main PokerStars n°241358513530 : Tournoi #3536924959, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 24/01/2023 9:03:03 CET [24/01/2023 3:03:03 ET]
+Table '3536924959 1' 3-max Siège #1 est au bouton.
+Place 1: winnipeg 113 (685 en jetons) 
+Place 2: psychoman59 (215 en jetons) 
+winnipeg 113 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Qd]
+winnipeg 113 : relance. 655 à 685 et est all-in.
+psychoman59 : suit. 185 et est all-in.
+Personne n'a suivi. (470) sont retournés à winnipeg 113.
+*** FLOP *** [Qc Td 3d]
+*** TOURNANT *** [Qc Td 3d] [4d]
+*** RIVIÈRE *** [Qc Td 3d 4d] [9h]
+*** ABATTAGE ***
+psychoman59 : montre [5s Qd] (une paire de Dames)
+winnipeg 113 : montre [Ah Jh] (Hauteur As)
+psychoman59 a remporté 430  lors du pot .
+*** SYNTHÈSE ***
+Pot total 430 | Commission 0 
+Tableau [Qc Td 3d 4d 9h]
+Siège 1 : winnipeg 113 (bouton) (petite blind) a montré [Ah Jh] et a perdu avec Hauteur As
+Siège 2 : psychoman59 (grosse blind) a montré [5s Qd] et a gagné (430) avec une paire de Dames
+
+
+
+Main PokerStars n°241358515241 : Tournoi #3536924959, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/01/2023 9:03:20 CET [24/01/2023 3:03:20 ET]
+Table '3536924959 1' 3-max Siège #2 est au bouton.
+Place 1: winnipeg 113 (470 en jetons) 
+Place 2: psychoman59 (430 en jetons) 
+psychoman59 : met la petite blind. 20
+winnipeg 113 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 2d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à winnipeg 113.
+winnipeg 113 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : winnipeg 113 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241358515780 : Tournoi #3536924959, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/01/2023 9:03:25 CET [24/01/2023 3:03:25 ET]
+Table '3536924959 1' 3-max Siège #1 est au bouton.
+Place 1: winnipeg 113 (490 en jetons) 
+Place 2: psychoman59 (410 en jetons) 
+winnipeg 113 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 9s]
+winnipeg 113 : relance. 450 à 490 et est all-in.
+psychoman59 : suit. 370 et est all-in.
+Personne n'a suivi. (80) sont retournés à winnipeg 113.
+*** FLOP *** [Qh 3h 4s]
+*** TOURNANT *** [Qh 3h 4s] [2s]
+*** RIVIÈRE *** [Qh 3h 4s 2s] [5d]
+*** ABATTAGE ***
+psychoman59 : montre [Ad 9s] (une suite, As à Cinq)
+winnipeg 113 : montre [Ks Ah] (une suite, As à Cinq)
+psychoman59 a remporté 410  lors du pot .
+winnipeg 113 a remporté 410  lors du pot .
+*** SYNTHÈSE ***
+Pot total 820 | Commission 0 
+Tableau [Qh 3h 4s 2s 5d]
+Siège 1 : winnipeg 113 (bouton) (petite blind) a montré [Ks Ah] et a gagné (410) avec une suite, As à Cinq
+Siège 2 : psychoman59 (grosse blind) a montré [Ad 9s] et a gagné (410) avec une suite, As à Cinq
+
+
+
+Main PokerStars n°241358517094 : Tournoi #3536924959, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/01/2023 9:03:37 CET [24/01/2023 3:03:37 ET]
+Table '3536924959 1' 3-max Siège #2 est au bouton.
+Place 1: winnipeg 113 (490 en jetons) 
+Place 2: psychoman59 (410 en jetons) 
+psychoman59 : met la petite blind. 20
+winnipeg 113 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 6h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à winnipeg 113.
+winnipeg 113 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : winnipeg 113 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241358517530 : Tournoi #3536924959, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/01/2023 9:03:42 CET [24/01/2023 3:03:42 ET]
+Table '3536924959 1' 3-max Siège #1 est au bouton.
+Place 1: winnipeg 113 (510 en jetons) 
+Place 2: psychoman59 (390 en jetons) 
+winnipeg 113 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 6d]
+winnipeg 113 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [5d Jh Td]
+psychoman59 : parole 
+winnipeg 113 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à winnipeg 113.
+winnipeg 113 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [5d Jh Td]
+Siège 1 : winnipeg 113 (bouton) (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°241358518916 : Tournoi #3536924959, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/01/2023 9:03:55 CET [24/01/2023 3:03:55 ET]
+Table '3536924959 1' 3-max Siège #2 est au bouton.
+Place 1: winnipeg 113 (550 en jetons) 
+Place 2: psychoman59 (350 en jetons) 
+psychoman59 : met la petite blind. 20
+winnipeg 113 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 9c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à winnipeg 113.
+winnipeg 113 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : winnipeg 113 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241358519412 : Tournoi #3536924959, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/01/2023 9:04:00 CET [24/01/2023 3:04:00 ET]
+Table '3536924959 1' 3-max Siège #1 est au bouton.
+Place 1: winnipeg 113 (570 en jetons) 
+Place 2: psychoman59 (330 en jetons) 
+winnipeg 113 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Kc]
+winnipeg 113 : suit. 20
+psychoman59 : relance. 290 à 330 et est all-in.
+winnipeg 113 : suit. 290
+*** FLOP *** [Kd 4d 7h]
+*** TOURNANT *** [Kd 4d 7h] [7d]
+*** RIVIÈRE *** [Kd 4d 7h 7d] [6s]
+*** ABATTAGE ***
+psychoman59 : montre [5s Kc] (double paire, Rois et Sept)
+winnipeg 113 : montre [Qh 3c] (une paire de Sept)
+psychoman59 a remporté 660  lors du pot .
+*** SYNTHÈSE ***
+Pot total 660 | Commission 0 
+Tableau [Kd 4d 7h 7d 6s]
+Siège 1 : winnipeg 113 (bouton) (petite blind) a montré [Qh 3c] et a perdu avec une paire de Sept
+Siège 2 : psychoman59 (grosse blind) a montré [5s Kc] et a gagné (660) avec double paire, Rois et Sept
+
+
+
+Main PokerStars n°241358521136 : Tournoi #3536924959, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/01/2023 9:04:16 CET [24/01/2023 3:04:16 ET]
+Table '3536924959 1' 3-max Siège #2 est au bouton.
+Place 1: winnipeg 113 (240 en jetons) 
+Place 2: psychoman59 (660 en jetons) 
+psychoman59 : met la petite blind. 30
+winnipeg 113 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 9s]
+psychoman59 : relance. 600 à 660 et est all-in.
+winnipeg 113 : suit. 180 et est all-in.
+Personne n'a suivi. (420) sont retournés à psychoman59.
+*** FLOP *** [9h Qc Td]
+*** TOURNANT *** [9h Qc Td] [Qs]
+*** RIVIÈRE *** [9h Qc Td Qs] [3d]
+*** ABATTAGE ***
+winnipeg 113 : montre [3s 4s] (double paire, Dames et Trois)
+psychoman59 : montre [Ks 9s] (double paire, Dames et Neuf)
+psychoman59 a remporté 480  lors du pot .
+winnipeg 113 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [9h Qc Td Qs 3d]
+Siège 1 : winnipeg 113 (grosse blind) a montré [3s 4s] et a perdu avec double paire, Dames et Trois
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Ks 9s] et a gagné (480) avec double paire, Dames et Neuf
+
+
+

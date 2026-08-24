@@ -1,0 +1,79 @@
+﻿Main PokerStars n°239826636833 : Tournoi #3499804576, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 13/11/2022 10:25:15 CET [13/11/2022 4:25:15 ET]
+Table '3499804576 1' 3-max Siège #1 est au bouton.
+Place 1: Aldo6902 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: puuuuuup (300 en jetons) 
+psychoman59 : met la petite blind. 10
+puuuuuup : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Ad]
+Aldo6902 : relance. 40 à 60
+psychoman59 : suit. 50
+puuuuuup : suit. 40
+*** FLOP *** [2d 7d 8s]
+psychoman59 : parole 
+puuuuuup : mise. 240 et est all-in.
+Aldo6902 : suit. 240 et est all-in.
+psychoman59 : passe. 
+*** TOURNANT *** [2d 7d 8s] [Js]
+*** RIVIÈRE *** [2d 7d 8s Js] [5d]
+*** ABATTAGE ***
+puuuuuup : montre [8c 2c] (double paire, Huit et Deux)
+Aldo6902 : montre [7c Ah] (une paire de Sept)
+puuuuuup a remporté 660  lors du pot .
+Aldo6902 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 660 | Commission 0 
+Tableau [2d 7d 8s Js 5d]
+Siège 1 : Aldo6902 (bouton) a montré [7c Ah] et a perdu avec une paire de Sept
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 3 : puuuuuup (grosse blind) a montré [8c 2c] et a gagné (660) avec double paire, Huit et Deux
+
+
+
+Main PokerStars n°239826642755 : Tournoi #3499804576, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 13/11/2022 10:25:57 CET [13/11/2022 4:25:57 ET]
+Table '3499804576 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (240 en jetons) 
+Place 3: puuuuuup (660 en jetons) 
+puuuuuup : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 4s]
+puuuuuup : relance. 40 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à puuuuuup.
+puuuuuup a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : puuuuuup (bouton) (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°239826644295 : Tournoi #3499804576, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 13/11/2022 10:26:07 CET [13/11/2022 4:26:07 ET]
+Table '3499804576 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (220 en jetons) 
+Place 3: puuuuuup (680 en jetons) 
+psychoman59 : met la petite blind. 10
+puuuuuup : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Ah]
+psychoman59 : relance. 200 à 220 et est all-in.
+puuuuuup : suit. 200
+*** FLOP *** [6s 7c 3s]
+*** TOURNANT *** [6s 7c 3s] [Th]
+*** RIVIÈRE *** [6s 7c 3s Th] [2d]
+*** ABATTAGE ***
+puuuuuup : montre [Ts Kc] (une paire de Dix)
+psychoman59 : montre [6c Ah] (une paire de Six)
+puuuuuup a remporté 440  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+puuuuuup remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 440 | Commission 0 
+Tableau [6s 7c 3s Th 2d]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [6c Ah] et a perdu avec une paire de Six
+Siège 3 : puuuuuup (grosse blind) a montré [Ts Kc] et a gagné (440) avec une paire de Dix
+
+
+

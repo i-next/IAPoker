@@ -1,0 +1,605 @@
+﻿Main PokerStars n°254649393589 : Tournoi #3853878590, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 01/02/2025 7:41:17 CET [01/02/2025 1:41:17 ET]
+Table '3853878590 1' 3-max Siège #1 est au bouton.
+Place 1: deise803 (500 en jetons) 
+Place 2: miguiCr9 (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+miguiCr9 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d As]
+deise803 : passe. 
+miguiCr9 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [8h 2c Td]
+miguiCr9 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [8h 2c Td] [4h]
+miguiCr9 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [8h 2c Td 4h] [Kd]
+miguiCr9 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+miguiCr9 : montre [5s 6d] (Hauteur Roi)
+psychoman59 : montre [2d As] (une paire de Deux)
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [8h 2c Td 4h Kd]
+Siège 1 : deise803 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : miguiCr9 (petite blind) a montré [5s 6d] et a perdu avec Hauteur Roi
+Siège 3 : psychoman59 (grosse blind) a montré [2d As] et a gagné (40) avec une paire de Deux
+
+
+
+Main PokerStars n°254649395719 : Tournoi #3853878590, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 01/02/2025 7:41:42 CET [01/02/2025 1:41:42 ET]
+Table '3853878590 1' 3-max Siège #2 est au bouton.
+Place 1: deise803 (500 en jetons) 
+Place 2: miguiCr9 (480 en jetons) 
+Place 3: psychoman59 (520 en jetons) 
+psychoman59 : met la petite blind. 10
+deise803 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 5d]
+miguiCr9 : suit. 20
+psychoman59 : passe. 
+deise803 : parole 
+*** FLOP *** [9d 3s Th]
+deise803 : parole 
+miguiCr9 : parole 
+*** TOURNANT *** [9d 3s Th] [5s]
+deise803 : parole 
+miguiCr9 : parole 
+*** RIVIÈRE *** [9d 3s Th 5s] [Kh]
+deise803 : parole 
+miguiCr9 : parole 
+*** ABATTAGE ***
+deise803 : montre [4d 6h] (Hauteur Roi)
+miguiCr9 : montre [2c Ah] (Hauteur As)
+miguiCr9 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [9d 3s Th 5s Kh]
+Siège 1 : deise803 (grosse blind) a montré [4d 6h] et a perdu avec Hauteur Roi
+Siège 2 : miguiCr9 (bouton) a montré [2c Ah] et a gagné (50) avec Hauteur As
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254649397752 : Tournoi #3853878590, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 01/02/2025 7:42:06 CET [01/02/2025 1:42:06 ET]
+Table '3853878590 1' 3-max Siège #3 est au bouton.
+Place 1: deise803 (480 en jetons) 
+Place 2: miguiCr9 (510 en jetons) 
+Place 3: psychoman59 (510 en jetons) 
+deise803 : met la petite blind. 10
+miguiCr9 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 5c]
+psychoman59 : passe. 
+deise803 : suit. 10
+miguiCr9 : relance. 20 à 40
+deise803 : suit. 20
+*** FLOP *** [9s 5s 2d]
+deise803 : parole 
+miguiCr9 : mise. 20
+deise803 : suit. 20
+*** TOURNANT *** [9s 5s 2d] [2s]
+deise803 : parole 
+miguiCr9 : mise. 20
+deise803 : suit. 20
+*** RIVIÈRE *** [9s 5s 2d 2s] [Td]
+deise803 : parole 
+miguiCr9 : mise. 20
+deise803 : relance. 20 à 40
+miguiCr9 : suit. 20
+*** ABATTAGE ***
+deise803 : montre [4h Ah] (une paire de Deux)
+miguiCr9 : montre [6s 6h] (double paire, Six et Deux)
+miguiCr9 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [9s 5s 2d 2s Td]
+Siège 1 : deise803 (petite blind) a montré [4h Ah] et a perdu avec une paire de Deux
+Siège 2 : miguiCr9 (grosse blind) a montré [6s 6h] et a gagné (240) avec double paire, Six et Deux
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°254649400787 : Tournoi #3853878590, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 01/02/2025 7:42:43 CET [01/02/2025 1:42:43 ET]
+Table '3853878590 1' 3-max Siège #1 est au bouton.
+Place 1: deise803 (360 en jetons) 
+Place 2: miguiCr9 (630 en jetons) 
+Place 3: psychoman59 (510 en jetons) 
+miguiCr9 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 9d]
+deise803 : suit. 20
+miguiCr9 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Jc Ad 9s]
+miguiCr9 : parole 
+psychoman59 : parole 
+deise803 : parole 
+*** TOURNANT *** [Jc Ad 9s] [2d]
+miguiCr9 : parole 
+psychoman59 : mise. 30
+deise803 : passe. 
+miguiCr9 : suit. 30
+*** RIVIÈRE *** [Jc Ad 9s 2d] [6c]
+miguiCr9 : parole 
+psychoman59 : mise. 60
+miguiCr9 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Jc Ad 9s 2d 6c]
+Siège 1 : deise803 (bouton) s'est couché. sur le Tournant
+Siège 2 : miguiCr9 (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°254649404748 : Tournoi #3853878590, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 01/02/2025 7:43:31 CET [01/02/2025 1:43:31 ET]
+Table '3853878590 1' 3-max Siège #2 est au bouton.
+Place 1: deise803 (340 en jetons) 
+Place 2: miguiCr9 (580 en jetons) 
+Place 3: psychoman59 (580 en jetons) 
+psychoman59 : met la petite blind. 15
+deise803 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 9d]
+miguiCr9 : suit. 30
+psychoman59 : suit. 15
+deise803 : parole 
+*** FLOP *** [9s 6c 4h]
+psychoman59 : parole 
+deise803 : mise. 90
+miguiCr9 : suit. 90
+psychoman59 : suit. 90
+*** TOURNANT *** [9s 6c 4h] [Tc]
+psychoman59 : parole 
+deise803 : mise. 60
+miguiCr9 : suit. 60
+psychoman59 : suit. 60
+*** RIVIÈRE *** [9s 6c 4h Tc] [Qd]
+psychoman59 : parole 
+deise803 : parole 
+miguiCr9 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Kh 9d] (une paire de Neuf)
+deise803 : cache la main perdante. 
+miguiCr9 : cache la main perdante. 
+psychoman59 a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [9s 6c 4h Tc Qd]
+Siège 1 : deise803 (grosse blind) a caché la main perdante. [7h 9c]
+Siège 2 : miguiCr9 (bouton) a caché la main perdante. [9h 7d]
+Siège 3 : psychoman59 (petite blind) a montré [Kh 9d] et a gagné (540) avec une paire de Neuf
+
+
+
+Main PokerStars n°254649408635 : Tournoi #3853878590, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 01/02/2025 7:44:18 CET [01/02/2025 1:44:18 ET]
+Table '3853878590 1' 3-max Siège #3 est au bouton.
+Place 1: deise803 (160 en jetons) 
+Place 2: miguiCr9 (400 en jetons) 
+Place 3: psychoman59 (940 en jetons) 
+deise803 : met la petite blind. 15
+miguiCr9 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Kd]
+psychoman59 : passe. 
+deise803 : suit. 15
+miguiCr9 : parole 
+*** FLOP *** [7d Td As]
+deise803 : parole 
+miguiCr9 : parole 
+*** TOURNANT *** [7d Td As] [Qc]
+deise803 : parole 
+miguiCr9 : parole 
+*** RIVIÈRE *** [7d Td As Qc] [Jh]
+deise803 : parole 
+miguiCr9 : parole 
+*** ABATTAGE ***
+deise803 : montre [5h 2d] (Hauteur As)
+miguiCr9 : montre [2h 2c] (une paire de Deux)
+miguiCr9 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [7d Td As Qc Jh]
+Siège 1 : deise803 (petite blind) a montré [5h 2d] et a perdu avec Hauteur As
+Siège 2 : miguiCr9 (grosse blind) a montré [2h 2c] et a gagné (60) avec une paire de Deux
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°254649411068 : Tournoi #3853878590, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 01/02/2025 7:44:46 CET [01/02/2025 1:44:46 ET]
+Table '3853878590 1' 3-max Siège #1 est au bouton.
+Place 1: deise803 (130 en jetons) 
+Place 2: miguiCr9 (430 en jetons) 
+Place 3: psychoman59 (940 en jetons) 
+miguiCr9 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Ts]
+deise803 : suit. 30
+miguiCr9 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Qh Tc 7h]
+miguiCr9 : parole 
+psychoman59 : parole 
+deise803 : parole 
+*** TOURNANT *** [Qh Tc 7h] [As]
+miguiCr9 : mise. 30
+psychoman59 : suit. 30
+deise803 : passe. 
+*** RIVIÈRE *** [Qh Tc 7h As] [6s]
+miguiCr9 : mise. 30
+psychoman59 : suit. 30
+*** ABATTAGE ***
+miguiCr9 : montre [Js Ah] (une paire de As)
+psychoman59 : cache la main perdante. 
+miguiCr9 a remporté 210  lors du pot .
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Tableau [Qh Tc 7h As 6s]
+Siège 1 : deise803 (bouton) s'est couché. sur le Tournant
+Siège 2 : miguiCr9 (petite blind) a montré [Js Ah] et a gagné (210) avec une paire de As
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [Ks Ts]
+
+
+
+Main PokerStars n°254649413737 : Tournoi #3853878590, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 01/02/2025 7:45:18 CET [01/02/2025 1:45:18 ET]
+Table '3853878590 1' 3-max Siège #2 est au bouton.
+Place 1: deise803 (100 en jetons) 
+Place 2: miguiCr9 (550 en jetons) 
+Place 3: psychoman59 (850 en jetons) 
+psychoman59 : met la petite blind. 15
+deise803 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 9s]
+miguiCr9 : passe. 
+psychoman59 : suit. 15
+deise803 : relance. 70 à 100 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (70) sont retournés à deise803.
+deise803 a remporté 60  lors du pot .
+deise803 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : deise803 (grosse blind) a remporté (60)
+Siège 2 : miguiCr9 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254649415249 : Tournoi #3853878590, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 01/02/2025 7:45:36 CET [01/02/2025 1:45:36 ET]
+Table '3853878590 1' 3-max Siège #3 est au bouton.
+Place 1: deise803 (130 en jetons) 
+Place 2: miguiCr9 (550 en jetons) 
+Place 3: psychoman59 (820 en jetons) 
+deise803 : met la petite blind. 20
+miguiCr9 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 9d]
+psychoman59 : passe. 
+deise803 : suit. 20
+miguiCr9 : parole 
+*** FLOP *** [Ac 4h Ts]
+deise803 : parole 
+miguiCr9 : parole 
+*** TOURNANT *** [Ac 4h Ts] [Js]
+deise803 : parole 
+miguiCr9 : parole 
+*** RIVIÈRE *** [Ac 4h Ts Js] [2d]
+deise803 : mise. 40
+miguiCr9 : passe. 
+Personne n'a suivi. (40) sont retournés à deise803.
+deise803 a remporté 80  lors du pot .
+deise803 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Ac 4h Ts Js 2d]
+Siège 1 : deise803 (petite blind) a remporté (80)
+Siège 2 : miguiCr9 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°254649416972 : Tournoi #3853878590, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 01/02/2025 7:45:56 CET [01/02/2025 1:45:56 ET]
+Table '3853878590 1' 3-max Siège #1 est au bouton.
+Place 1: deise803 (170 en jetons) 
+Place 2: miguiCr9 (510 en jetons) 
+Place 3: psychoman59 (820 en jetons) 
+miguiCr9 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Qc]
+deise803 : relance. 130 à 170 et est all-in.
+miguiCr9 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (130) sont retournés à deise803.
+deise803 a remporté 100  lors du pot .
+deise803 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : deise803 (bouton) a remporté (100)
+Siège 2 : miguiCr9 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254649418105 : Tournoi #3853878590, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 01/02/2025 7:46:09 CET [01/02/2025 1:46:09 ET]
+Table '3853878590 1' 3-max Siège #2 est au bouton.
+Place 1: deise803 (230 en jetons) 
+Place 2: miguiCr9 (490 en jetons) 
+Place 3: psychoman59 (780 en jetons) 
+psychoman59 : met la petite blind. 20
+deise803 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 3c]
+miguiCr9 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à deise803.
+deise803 a remporté 40  lors du pot .
+deise803 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : deise803 (grosse blind) a remporté (40)
+Siège 2 : miguiCr9 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254649418752 : Tournoi #3853878590, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 01/02/2025 7:46:16 CET [01/02/2025 1:46:16 ET]
+Table '3853878590 1' 3-max Siège #3 est au bouton.
+Place 1: deise803 (250 en jetons) 
+Place 2: miguiCr9 (490 en jetons) 
+Place 3: psychoman59 (760 en jetons) 
+deise803 : met la petite blind. 20
+miguiCr9 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Ac]
+psychoman59 : relance. 720 à 760 et est all-in.
+deise803 : passe. 
+miguiCr9 : suit. 450 et est all-in.
+Personne n'a suivi. (270) sont retournés à psychoman59.
+*** FLOP *** [8c 8s Kh]
+*** TOURNANT *** [8c 8s Kh] [7d]
+*** RIVIÈRE *** [8c 8s Kh 7d] [4c]
+*** ABATTAGE ***
+miguiCr9 : montre [6d 6h] (double paire, Huit et Six)
+psychoman59 : montre [Jd Ac] (une paire de Huit)
+miguiCr9 a remporté 1000  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1000 | Commission 0 
+Tableau [8c 8s Kh 7d 4c]
+Siège 1 : deise803 (petite blind) s'est couché. avant Flop
+Siège 2 : miguiCr9 (grosse blind) a montré [6d 6h] et a gagné (1000) avec double paire, Huit et Six
+Siège 3 : psychoman59 (bouton) a montré [Jd Ac] et a perdu avec une paire de Huit
+
+
+
+Main PokerStars n°254649420162 : Tournoi #3853878590, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 01/02/2025 7:46:33 CET [01/02/2025 1:46:33 ET]
+Table '3853878590 1' 3-max Siège #1 est au bouton.
+Place 1: deise803 (230 en jetons) 
+Place 2: miguiCr9 (1000 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+miguiCr9 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Qd]
+deise803 : passe. 
+miguiCr9 : relance. 40 à 80
+psychoman59 : suit. 40
+*** FLOP *** [Td 6d Ac]
+miguiCr9 : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [Td 6d Ac] [9s]
+miguiCr9 : mise. 40
+psychoman59 : suit. 40
+*** RIVIÈRE *** [Td 6d Ac 9s] [Qs]
+miguiCr9 : mise. 40
+psychoman59 : suit. 40
+*** ABATTAGE ***
+miguiCr9 : montre [8c 8h] (une paire de Huit)
+psychoman59 : montre [Jc Qd] (une paire de Dames)
+psychoman59 a remporté 400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [Td 6d Ac 9s Qs]
+Siège 1 : deise803 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : miguiCr9 (petite blind) a montré [8c 8h] et a perdu avec une paire de Huit
+Siège 3 : psychoman59 (grosse blind) a montré [Jc Qd] et a gagné (400) avec une paire de Dames
+
+
+
+Main PokerStars n°254649423064 : Tournoi #3853878590, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 01/02/2025 7:47:07 CET [01/02/2025 1:47:07 ET]
+Table '3853878590 1' 3-max Siège #2 est au bouton.
+Place 1: deise803 (230 en jetons) 
+Place 2: miguiCr9 (800 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+psychoman59 : met la petite blind. 20
+deise803 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 8d]
+miguiCr9 : suit. 40
+psychoman59 : suit. 20
+deise803 : parole 
+*** FLOP *** [4c 3c 3h]
+psychoman59 : parole 
+deise803 : mise. 40
+miguiCr9 : suit. 40
+psychoman59 : passe. 
+*** TOURNANT *** [4c 3c 3h] [8c]
+deise803 : mise. 80
+miguiCr9 : suit. 80
+*** RIVIÈRE *** [4c 3c 3h 8c] [7d]
+deise803 : mise. 40
+miguiCr9 : suit. 40
+*** ABATTAGE ***
+deise803 : montre [4s As] (double paire, Quatre et Trois)
+miguiCr9 : cache la main perdante. 
+deise803 a remporté 440  lors du pot .
+*** SYNTHÈSE ***
+Pot total 440 | Commission 0 
+Tableau [4c 3c 3h 8c 7d]
+Siège 1 : deise803 (grosse blind) a montré [4s As] et a gagné (440) avec double paire, Quatre et Trois
+Siège 2 : miguiCr9 (bouton) a caché la main perdante. [5d Kc]
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°254649425801 : Tournoi #3853878590, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 01/02/2025 7:47:39 CET [01/02/2025 1:47:39 ET]
+Table '3853878590 1' 3-max Siège #3 est au bouton.
+Place 1: deise803 (470 en jetons) 
+Place 2: miguiCr9 (600 en jetons) 
+Place 3: psychoman59 (430 en jetons) 
+deise803 : met la petite blind. 30
+miguiCr9 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Jh]
+psychoman59 : passe. 
+deise803 : suit. 30
+miguiCr9 : parole 
+*** FLOP *** [9d Qh Kd]
+deise803 : parole 
+miguiCr9 : parole 
+*** TOURNANT *** [9d Qh Kd] [4s]
+deise803 : parole 
+miguiCr9 : parole 
+*** RIVIÈRE *** [9d Qh Kd 4s] [7s]
+deise803 : parole 
+miguiCr9 : parole 
+*** ABATTAGE ***
+deise803 : montre [2h 4d] (une paire de Quatre)
+miguiCr9 : montre [Td 7d] (une paire de Sept)
+miguiCr9 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [9d Qh Kd 4s 7s]
+Siège 1 : deise803 (petite blind) a montré [2h 4d] et a perdu avec une paire de Quatre
+Siège 2 : miguiCr9 (grosse blind) a montré [Td 7d] et a gagné (120) avec une paire de Sept
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°254649427436 : Tournoi #3853878590, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 01/02/2025 7:47:57 CET [01/02/2025 1:47:57 ET]
+Table '3853878590 1' 3-max Siège #1 est au bouton.
+Place 1: deise803 (410 en jetons) 
+Place 2: miguiCr9 (660 en jetons) 
+Place 3: psychoman59 (430 en jetons) 
+miguiCr9 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 5c]
+deise803 : passe. 
+miguiCr9 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [8c 3c 5h]
+miguiCr9 : parole 
+psychoman59 : mise. 370 et est all-in.
+miguiCr9 : passe. 
+Personne n'a suivi. (370) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [8c 3c 5h]
+Siège 1 : deise803 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : miguiCr9 (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°254649429266 : Tournoi #3853878590, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 01/02/2025 7:48:18 CET [01/02/2025 1:48:18 ET]
+Table '3853878590 1' 3-max Siège #2 est au bouton.
+Place 1: deise803 (410 en jetons) 
+Place 2: miguiCr9 (600 en jetons) 
+Place 3: psychoman59 (490 en jetons) 
+psychoman59 : met la petite blind. 30
+deise803 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 8d]
+miguiCr9 : passe. 
+psychoman59 : suit. 30
+deise803 : parole 
+*** FLOP *** [Jc 4s Tc]
+psychoman59 : parole 
+deise803 : parole 
+*** TOURNANT *** [Jc 4s Tc] [5h]
+psychoman59 : parole 
+deise803 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à deise803.
+deise803 a remporté 120  lors du pot .
+deise803 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Jc 4s Tc 5h]
+Siège 1 : deise803 (grosse blind) a remporté (120)
+Siège 2 : miguiCr9 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°254649430700 : Tournoi #3853878590, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 01/02/2025 7:48:35 CET [01/02/2025 1:48:35 ET]
+Table '3853878590 1' 3-max Siège #3 est au bouton.
+Place 1: deise803 (470 en jetons) 
+Place 2: miguiCr9 (600 en jetons) 
+Place 3: psychoman59 (430 en jetons) 
+deise803 : met la petite blind. 30
+miguiCr9 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 6c]
+psychoman59 : passe. 
+deise803 : suit. 30
+miguiCr9 : parole 
+*** FLOP *** [5c Js 6h]
+deise803 : mise. 60
+miguiCr9 : passe. 
+Personne n'a suivi. (60) sont retournés à deise803.
+deise803 a remporté 120  lors du pot .
+deise803 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [5c Js 6h]
+Siège 1 : deise803 (petite blind) a remporté (120)
+Siège 2 : miguiCr9 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°254649431821 : Tournoi #3853878590, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 01/02/2025 7:48:48 CET [01/02/2025 1:48:48 ET]
+Table '3853878590 1' 3-max Siège #1 est au bouton.
+Place 1: deise803 (530 en jetons) 
+Place 2: miguiCr9 (540 en jetons) 
+Place 3: psychoman59 (430 en jetons) 
+miguiCr9 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Ah]
+deise803 : passe. 
+miguiCr9 : suit. 30
+psychoman59 : relance. 370 à 430 et est all-in.
+miguiCr9 : suit. 370
+*** FLOP *** [6s Kc 3d]
+*** TOURNANT *** [6s Kc 3d] [Js]
+*** RIVIÈRE *** [6s Kc 3d Js] [4h]
+*** ABATTAGE ***
+miguiCr9 : montre [Ad Ks] (une paire de Rois)
+psychoman59 : montre [2d Ah] (Hauteur As)
+miguiCr9 a remporté 860  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 860 | Commission 0 
+Tableau [6s Kc 3d Js 4h]
+Siège 1 : deise803 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : miguiCr9 (petite blind) a montré [Ad Ks] et a gagné (860) avec une paire de Rois
+Siège 3 : psychoman59 (grosse blind) a montré [2d Ah] et a perdu avec Hauteur As
+
+
+

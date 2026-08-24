@@ -1,0 +1,56 @@
+﻿Main PokerStars n°243778039886 : Tournoi #3593243210, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/05/2023 11:44:09 CET [19/05/2023 5:44:09 ET]
+Table '3593243210 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Winarnax (300 en jetons) 
+Place 3: <<yanos>>65 (300 en jetons) 
+Winarnax : met la petite blind. 10
+<<yanos>>65 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Td]
+psychoman59 : suit. 20
+Winarnax : relance. 280 à 300 et est all-in.
+<<yanos>>65 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (280) sont retournés à Winarnax.
+Winarnax a remporté 60  lors du pot .
+Winarnax : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 2 : Winarnax (petite blind) a remporté (60)
+Siège 3 : <<yanos>>65 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243778042055 : Tournoi #3593243210, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/05/2023 11:44:24 CET [19/05/2023 5:44:24 ET]
+Table '3593243210 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: Winarnax (340 en jetons) 
+Place 3: <<yanos>>65 (280 en jetons) 
+<<yanos>>65 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Kc]
+Winarnax : passe. 
+<<yanos>>65 : relance. 20 à 40
+psychoman59 : suit. 20
+*** FLOP *** [5h 2s Kd]
+<<yanos>>65 : mise. 80
+psychoman59 : relance. 160 à 240 et est all-in.
+<<yanos>>65 : suit. 160 et est all-in.
+*** TOURNANT *** [5h 2s Kd] [3c]
+*** RIVIÈRE *** [5h 2s Kd 3c] [6d]
+*** ABATTAGE ***
+<<yanos>>65 : montre [6c 5s] (double paire, Six et Cinq)
+psychoman59 : montre [9c Kc] (une paire de Rois)
+<<yanos>>65 a remporté 560  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [5h 2s Kd 3c 6d]
+Siège 1 : psychoman59 (grosse blind) a montré [9c Kc] et a perdu avec une paire de Rois
+Siège 2 : Winarnax (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : <<yanos>>65 (petite blind) a montré [6c 5s] et a gagné (560) avec double paire, Six et Cinq
+
+
+

@@ -1,0 +1,836 @@
+﻿Main PokerStars n°256176888183 : Tournoi #3890586719, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 17/05/2025 8:14:57 CET [17/05/2025 2:14:57 ET]
+Table '3890586719 1' 3-max Siège #1 est au bouton.
+Place 1: Agus1826 (500 en jetons) 
+Place 2: Sandosine36 (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+Sandosine36 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 7h]
+Agus1826 : suit. 20
+Sandosine36 : relance. 20 à 40
+psychoman59 : suit. 20
+Agus1826 : suit. 20
+*** FLOP *** [4c 4d Th]
+Sandosine36 : mise. 20
+psychoman59 : passe. 
+Agus1826 : suit. 20
+*** TOURNANT *** [4c 4d Th] [5s]
+Sandosine36 : parole 
+Agus1826 : parole 
+*** RIVIÈRE *** [4c 4d Th 5s] [8s]
+Sandosine36 : parole 
+Agus1826 : mise. 20
+Sandosine36 : suit. 20
+*** ABATTAGE ***
+Agus1826 : montre [8c 7c] (double paire, Huit et Quatre)
+Sandosine36 : cache la main perdante. 
+Agus1826 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [4c 4d Th 5s 8s]
+Siège 1 : Agus1826 (bouton) a montré [8c 7c] et a gagné (200) avec double paire, Huit et Quatre
+Siège 2 : Sandosine36 (petite blind) a caché la main perdante. [As 9c]
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°256176890406 : Tournoi #3890586719, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 17/05/2025 8:15:26 CET [17/05/2025 2:15:26 ET]
+Table '3890586719 1' 3-max Siège #2 est au bouton.
+Place 1: Agus1826 (620 en jetons) 
+Place 2: Sandosine36 (420 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+psychoman59 : met la petite blind. 10
+Agus1826 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Ts]
+Sandosine36 : suit. 20
+psychoman59 : passe. 
+Agus1826 : parole 
+*** FLOP *** [Th Td 2d]
+Agus1826 : parole 
+Sandosine36 : parole 
+*** TOURNANT *** [Th Td 2d] [9h]
+Agus1826 : parole 
+Sandosine36 : parole 
+*** RIVIÈRE *** [Th Td 2d 9h] [Ac]
+Agus1826 : parole 
+Sandosine36 : parole 
+*** ABATTAGE ***
+Agus1826 : montre [3s 7h] (une paire de Dix)
+Sandosine36 : montre [4c Jc] (une paire de Dix - As+Valet kicker)
+Sandosine36 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [Th Td 2d 9h Ac]
+Siège 1 : Agus1826 (grosse blind) a montré [3s 7h] et a perdu avec une paire de Dix
+Siège 2 : Sandosine36 (bouton) a montré [4c Jc] et a gagné (50) avec une paire de Dix
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°256176891926 : Tournoi #3890586719, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 17/05/2025 8:15:44 CET [17/05/2025 2:15:44 ET]
+Table '3890586719 1' 3-max Siège #3 est au bouton.
+Place 1: Agus1826 (600 en jetons) 
+Place 2: Sandosine36 (450 en jetons) 
+Place 3: psychoman59 (450 en jetons) 
+Agus1826 : met la petite blind. 10
+Sandosine36 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 7s]
+psychoman59 : suit. 20
+Agus1826 : suit. 10
+Sandosine36 : relance. 20 à 40
+psychoman59 : suit. 20
+Agus1826 : suit. 20
+*** FLOP *** [6c Qd 4d]
+Agus1826 : mise. 20
+Sandosine36 : suit. 20
+psychoman59 : passe. 
+*** TOURNANT *** [6c Qd 4d] [Ad]
+Agus1826 : mise. 20
+Sandosine36 : relance. 20 à 40
+Agus1826 : suit. 20
+*** RIVIÈRE *** [6c Qd 4d Ad] [6d]
+Agus1826 : mise. 20
+Sandosine36 : suit. 20
+*** ABATTAGE ***
+Agus1826 : montre [5s Qh] (double paire, Dames et Six)
+Sandosine36 : montre [Jh Ah] (double paire, As et Six)
+Sandosine36 a remporté 280  lors du pot .
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Tableau [6c Qd 4d Ad 6d]
+Siège 1 : Agus1826 (petite blind) a montré [5s Qh] et a perdu avec double paire, Dames et Six
+Siège 2 : Sandosine36 (grosse blind) a montré [Jh Ah] et a gagné (280) avec double paire, As et Six
+Siège 3 : psychoman59 (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°256176894072 : Tournoi #3890586719, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 17/05/2025 8:16:12 CET [17/05/2025 2:16:12 ET]
+Table '3890586719 1' 3-max Siège #1 est au bouton.
+Place 1: Agus1826 (480 en jetons) 
+Place 2: Sandosine36 (610 en jetons) 
+Place 3: psychoman59 (410 en jetons) 
+Sandosine36 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 4d]
+Agus1826 : suit. 20
+Sandosine36 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [9s 3h 6c]
+Sandosine36 : parole 
+psychoman59 : parole 
+Agus1826 : parole 
+*** TOURNANT *** [9s 3h 6c] [5c]
+Sandosine36 : parole 
+psychoman59 : parole 
+Agus1826 : parole 
+*** RIVIÈRE *** [9s 3h 6c 5c] [Td]
+Sandosine36 : mise. 20
+psychoman59 : passe. 
+Agus1826 : passe. 
+Personne n'a suivi. (20) sont retournés à Sandosine36.
+Sandosine36 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [9s 3h 6c 5c Td]
+Siège 1 : Agus1826 (bouton) s'est couché. sur le Rivière
+Siège 2 : Sandosine36 (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°256176896469 : Tournoi #3890586719, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 17/05/2025 8:16:42 CET [17/05/2025 2:16:42 ET]
+Table '3890586719 1' 3-max Siège #2 est au bouton.
+Place 1: Agus1826 (460 en jetons) 
+Place 2: Sandosine36 (650 en jetons) 
+Place 3: psychoman59 (390 en jetons) 
+psychoman59 : met la petite blind. 10
+Agus1826 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Ah]
+Sandosine36 : suit. 20
+psychoman59 : suit. 10
+Agus1826 : parole 
+*** FLOP *** [4d 3s Qh]
+psychoman59 : parole 
+Agus1826 : parole 
+Sandosine36 : parole 
+*** TOURNANT *** [4d 3s Qh] [2c]
+psychoman59 : parole 
+Agus1826 : parole 
+Sandosine36 : parole 
+*** RIVIÈRE *** [4d 3s Qh 2c] [Js]
+psychoman59 : parole 
+Agus1826 : mise. 20
+Sandosine36 : relance. 20 à 40
+psychoman59 : passe. 
+Agus1826 : suit. 20
+*** ABATTAGE ***
+Sandosine36 : montre [Jh 9d] (une paire de Valets)
+Agus1826 : cache la main perdante. 
+Sandosine36 a remporté 140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [4d 3s Qh 2c Js]
+Siège 1 : Agus1826 (grosse blind) a caché la main perdante. [5d 3c]
+Siège 2 : Sandosine36 (bouton) a montré [Jh 9d] et a gagné (140) avec une paire de Valets
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°256176898759 : Tournoi #3890586719, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 17/05/2025 8:17:10 CET [17/05/2025 2:17:10 ET]
+Table '3890586719 1' 3-max Siège #3 est au bouton.
+Place 1: Agus1826 (400 en jetons) 
+Place 2: Sandosine36 (730 en jetons) 
+Place 3: psychoman59 (370 en jetons) 
+Agus1826 : met la petite blind. 10
+Sandosine36 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 4d]
+psychoman59 : suit. 20
+Agus1826 : suit. 10
+Sandosine36 : relance. 20 à 40
+psychoman59 : relance. 330 à 370 et est all-in.
+Agus1826 : passe. 
+Sandosine36 : passe. 
+Personne n'a suivi. (330) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : Agus1826 (petite blind) s'est couché. avant Flop
+Siège 2 : Sandosine36 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a remporté (100)
+
+
+
+Main PokerStars n°256176900145 : Tournoi #3890586719, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 17/05/2025 8:17:28 CET [17/05/2025 2:17:28 ET]
+Table '3890586719 1' 3-max Siège #1 est au bouton.
+Place 1: Agus1826 (380 en jetons) 
+Place 2: Sandosine36 (690 en jetons) 
+Place 3: psychoman59 (430 en jetons) 
+Sandosine36 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 5h]
+Agus1826 : suit. 20
+Sandosine36 : passe. 
+psychoman59 : parole 
+*** FLOP *** [Ks Td 8s]
+psychoman59 : parole 
+Agus1826 : parole 
+*** TOURNANT *** [Ks Td 8s] [Kd]
+psychoman59 : parole 
+Agus1826 : parole 
+*** RIVIÈRE *** [Ks Td 8s Kd] [Kh]
+psychoman59 : mise. 50
+Agus1826 : suit. 50
+*** ABATTAGE ***
+psychoman59 : montre [Th 5h] (un full, full aux Rois par les Dix)
+Agus1826 : cache la main perdante. 
+psychoman59 a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Tableau [Ks Td 8s Kd Kh]
+Siège 1 : Agus1826 (bouton) a caché la main perdante. [4s 4d]
+Siège 2 : Sandosine36 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [Th 5h] et a gagné (150) avec un full, full aux Rois par les Dix
+
+
+
+Main PokerStars n°256176901709 : Tournoi #3890586719, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 17/05/2025 8:17:48 CET [17/05/2025 2:17:48 ET]
+Table '3890586719 1' 3-max Siège #2 est au bouton.
+Place 1: Agus1826 (310 en jetons) 
+Place 2: Sandosine36 (680 en jetons) 
+Place 3: psychoman59 (510 en jetons) 
+psychoman59 : met la petite blind. 10
+Agus1826 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Js]
+Sandosine36 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à Agus1826.
+Agus1826 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : Agus1826 (grosse blind) a remporté (20)
+Siège 2 : Sandosine36 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°256176902344 : Tournoi #3890586719, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 17/05/2025 8:17:55 CET [17/05/2025 2:17:55 ET]
+Table '3890586719 1' 3-max Siège #3 est au bouton.
+Place 1: Agus1826 (320 en jetons) 
+Place 2: Sandosine36 (680 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+Agus1826 : met la petite blind. 10
+Sandosine36 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 9h]
+psychoman59 : passe. 
+Agus1826 : suit. 10
+Sandosine36 : parole 
+*** FLOP *** [4s 2d 8c]
+Agus1826 : parole 
+Sandosine36 : parole 
+*** TOURNANT *** [4s 2d 8c] [7d]
+Agus1826 : mise. 20
+Sandosine36 : passe. 
+Personne n'a suivi. (20) sont retournés à Agus1826.
+Agus1826 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [4s 2d 8c 7d]
+Siège 1 : Agus1826 (petite blind) a remporté (40)
+Siège 2 : Sandosine36 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°256176904169 : Tournoi #3890586719, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 17/05/2025 8:18:17 CET [17/05/2025 2:18:17 ET]
+Table '3890586719 1' 3-max Siège #1 est au bouton.
+Place 1: Agus1826 (340 en jetons) 
+Place 2: Sandosine36 (660 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+Sandosine36 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Ts]
+Agus1826 : suit. 30
+Sandosine36 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [3h 4d 5d]
+Sandosine36 : mise. 30
+psychoman59 : suit. 30
+Agus1826 : suit. 30
+*** TOURNANT *** [3h 4d 5d] [7s]
+Sandosine36 : parole 
+psychoman59 : parole 
+Agus1826 : mise. 90
+Sandosine36 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (90) sont retournés à Agus1826.
+Agus1826 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [3h 4d 5d 7s]
+Siège 1 : Agus1826 (bouton) a remporté (180)
+Siège 2 : Sandosine36 (petite blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°256176905978 : Tournoi #3890586719, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 17/05/2025 8:18:39 CET [17/05/2025 2:18:39 ET]
+Table '3890586719 1' 3-max Siège #2 est au bouton.
+Place 1: Agus1826 (460 en jetons) 
+Place 2: Sandosine36 (600 en jetons) 
+Place 3: psychoman59 (440 en jetons) 
+psychoman59 : met la petite blind. 15
+Agus1826 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 4c]
+Sandosine36 : suit. 30
+psychoman59 : passe. 
+Agus1826 : parole 
+*** FLOP *** [8s 5h Kh]
+Agus1826 : mise. 30
+Sandosine36 : passe. 
+Personne n'a suivi. (30) sont retournés à Agus1826.
+Agus1826 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Tableau [8s 5h Kh]
+Siège 1 : Agus1826 (grosse blind) a remporté (75)
+Siège 2 : Sandosine36 (bouton) s'est couché. sur le Flop
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°256176906895 : Tournoi #3890586719, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 17/05/2025 8:18:50 CET [17/05/2025 2:18:50 ET]
+Table '3890586719 1' 3-max Siège #3 est au bouton.
+Place 1: Agus1826 (505 en jetons) 
+Place 2: Sandosine36 (570 en jetons) 
+Place 3: psychoman59 (425 en jetons) 
+Agus1826 : met la petite blind. 15
+Sandosine36 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 3h]
+psychoman59 : passe. 
+Agus1826 : suit. 15
+Sandosine36 : parole 
+*** FLOP *** [As 4s 9s]
+Agus1826 : parole 
+Sandosine36 : parole 
+*** TOURNANT *** [As 4s 9s] [Kd]
+Agus1826 : mise. 30
+Sandosine36 : passe. 
+Personne n'a suivi. (30) sont retournés à Agus1826.
+Agus1826 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [As 4s 9s Kd]
+Siège 1 : Agus1826 (petite blind) a remporté (60)
+Siège 2 : Sandosine36 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°256176908468 : Tournoi #3890586719, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 17/05/2025 8:19:10 CET [17/05/2025 2:19:10 ET]
+Table '3890586719 1' 3-max Siège #1 est au bouton.
+Place 1: Agus1826 (535 en jetons) 
+Place 2: Sandosine36 (540 en jetons) 
+Place 3: psychoman59 (425 en jetons) 
+Sandosine36 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 9h]
+Agus1826 : passe. 
+Sandosine36 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : Agus1826 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Sandosine36 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°256176908856 : Tournoi #3890586719, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 17/05/2025 8:19:15 CET [17/05/2025 2:19:15 ET]
+Table '3890586719 1' 3-max Siège #2 est au bouton.
+Place 1: Agus1826 (535 en jetons) 
+Place 2: Sandosine36 (525 en jetons) 
+Place 3: psychoman59 (440 en jetons) 
+psychoman59 : met la petite blind. 15
+Agus1826 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Jc]
+Sandosine36 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à Agus1826.
+Agus1826 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : Agus1826 (grosse blind) a remporté (30)
+Siège 2 : Sandosine36 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°256176909287 : Tournoi #3890586719, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 17/05/2025 8:19:21 CET [17/05/2025 2:19:21 ET]
+Table '3890586719 1' 3-max Siège #3 est au bouton.
+Place 1: Agus1826 (550 en jetons) 
+Place 2: Sandosine36 (525 en jetons) 
+Place 3: psychoman59 (425 en jetons) 
+Agus1826 : met la petite blind. 15
+Sandosine36 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 2s]
+psychoman59 : passe. 
+Agus1826 : suit. 15
+Sandosine36 : parole 
+*** FLOP *** [2c 8c 7d]
+Agus1826 : parole 
+Sandosine36 : parole 
+*** TOURNANT *** [2c 8c 7d] [As]
+Agus1826 : parole 
+Sandosine36 : parole 
+*** RIVIÈRE *** [2c 8c 7d As] [Qc]
+Agus1826 : parole 
+Sandosine36 : parole 
+*** ABATTAGE ***
+Agus1826 : montre [4s 5h] (Hauteur As)
+Sandosine36 : montre [4d Jh] (Hauteur As - Dame+Valet kicker)
+Sandosine36 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [2c 8c 7d As Qc]
+Siège 1 : Agus1826 (petite blind) a montré [4s 5h] et a perdu avec Hauteur As
+Siège 2 : Sandosine36 (grosse blind) a montré [4d Jh] et a gagné (60) avec Hauteur As
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°256176910552 : Tournoi #3890586719, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 17/05/2025 8:19:37 CET [17/05/2025 2:19:37 ET]
+Table '3890586719 1' 3-max Siège #1 est au bouton.
+Place 1: Agus1826 (520 en jetons) 
+Place 2: Sandosine36 (555 en jetons) 
+Place 3: psychoman59 (425 en jetons) 
+Sandosine36 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Qh]
+Agus1826 : passe. 
+Sandosine36 : relance. 30 à 60
+psychoman59 : suit. 30
+*** FLOP *** [6s Ad 9c]
+Sandosine36 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Sandosine36.
+Sandosine36 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [6s Ad 9c]
+Siège 1 : Agus1826 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Sandosine36 (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°256176911826 : Tournoi #3890586719, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 17/05/2025 8:19:52 CET [17/05/2025 2:19:52 ET]
+Table '3890586719 1' 3-max Siège #2 est au bouton.
+Place 1: Agus1826 (520 en jetons) 
+Place 2: Sandosine36 (615 en jetons) 
+Place 3: psychoman59 (365 en jetons) 
+psychoman59 : met la petite blind. 15
+Agus1826 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 8s]
+Sandosine36 : passe. 
+psychoman59 : suit. 15
+Agus1826 : parole 
+*** FLOP *** [3d Qc Jd]
+psychoman59 : parole 
+Agus1826 : parole 
+*** TOURNANT *** [3d Qc Jd] [Tc]
+psychoman59 : parole 
+Agus1826 : parole 
+*** RIVIÈRE *** [3d Qc Jd Tc] [5s]
+psychoman59 : mise. 60
+Agus1826 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [3d Qc Jd Tc 5s]
+Siège 1 : Agus1826 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : Sandosine36 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°256176913470 : Tournoi #3890586719, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 17/05/2025 8:20:12 CET [17/05/2025 2:20:12 ET]
+Table '3890586719 1' 3-max Siège #3 est au bouton.
+Place 1: Agus1826 (490 en jetons) 
+Place 2: Sandosine36 (615 en jetons) 
+Place 3: psychoman59 (395 en jetons) 
+Agus1826 : met la petite blind. 15
+Sandosine36 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 5s]
+psychoman59 : passe. 
+Agus1826 : suit. 15
+Sandosine36 : parole 
+*** FLOP *** [7s Th 4h]
+Agus1826 : parole 
+Sandosine36 : parole 
+*** TOURNANT *** [7s Th 4h] [Kc]
+Agus1826 : parole 
+Sandosine36 : parole 
+*** RIVIÈRE *** [7s Th 4h Kc] [6c]
+Agus1826 : mise. 30
+Sandosine36 : suit. 30
+*** ABATTAGE ***
+Agus1826 : montre [Qs Ah] (Hauteur As)
+Sandosine36 : cache la main perdante. 
+Agus1826 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [7s Th 4h Kc 6c]
+Siège 1 : Agus1826 (petite blind) a montré [Qs Ah] et a gagné (120) avec Hauteur As
+Siège 2 : Sandosine36 (grosse blind) a caché la main perdante. [Ac 5d]
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°256176914755 : Tournoi #3890586719, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 17/05/2025 8:20:29 CET [17/05/2025 2:20:29 ET]
+Table '3890586719 1' 3-max Siège #1 est au bouton.
+Place 1: Agus1826 (550 en jetons) 
+Place 2: Sandosine36 (555 en jetons) 
+Place 3: psychoman59 (395 en jetons) 
+Sandosine36 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Qs]
+Agus1826 : suit. 30
+Sandosine36 : relance. 30 à 60
+psychoman59 : passe. 
+Agus1826 : suit. 30
+*** FLOP *** [3h Jh Kc]
+Sandosine36 : mise. 90
+Agus1826 : passe. 
+Personne n'a suivi. (90) sont retournés à Sandosine36.
+Sandosine36 a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Tableau [3h Jh Kc]
+Siège 1 : Agus1826 (bouton) s'est couché. sur le Flop
+Siège 2 : Sandosine36 (petite blind) a remporté (150)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°256176916581 : Tournoi #3890586719, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 17/05/2025 8:20:51 CET [17/05/2025 2:20:51 ET]
+Table '3890586719 1' 3-max Siège #2 est au bouton.
+Place 1: Agus1826 (490 en jetons) 
+Place 2: Sandosine36 (645 en jetons) 
+Place 3: psychoman59 (365 en jetons) 
+psychoman59 : met la petite blind. 15
+Agus1826 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 7h]
+Sandosine36 : passe. 
+psychoman59 : relance. 335 à 365 et est all-in.
+Agus1826 : passe. 
+Personne n'a suivi. (335) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Agus1826 (grosse blind) s'est couché. avant Flop
+Siège 2 : Sandosine36 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°256176917428 : Tournoi #3890586719, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 17/05/2025 8:21:02 CET [17/05/2025 2:21:02 ET]
+Table '3890586719 1' 3-max Siège #3 est au bouton.
+Place 1: Agus1826 (460 en jetons) 
+Place 2: Sandosine36 (645 en jetons) 
+Place 3: psychoman59 (395 en jetons) 
+Agus1826 : met la petite blind. 20
+Sandosine36 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Ts]
+psychoman59 : suit. 40
+Agus1826 : suit. 20
+Sandosine36 : relance. 40 à 80
+psychoman59 : suit. 40
+Agus1826 : suit. 40
+*** FLOP *** [As Qh 5s]
+Agus1826 : parole 
+Sandosine36 : mise. 120
+psychoman59 : passe. 
+Agus1826 : passe. 
+Personne n'a suivi. (120) sont retournés à Sandosine36.
+Sandosine36 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [As Qh 5s]
+Siège 1 : Agus1826 (petite blind) s'est couché. sur le Flop
+Siège 2 : Sandosine36 (grosse blind) a remporté (240)
+Siège 3 : psychoman59 (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°256176918932 : Tournoi #3890586719, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 17/05/2025 8:21:21 CET [17/05/2025 2:21:21 ET]
+Table '3890586719 1' 3-max Siège #1 est au bouton.
+Place 1: Agus1826 (380 en jetons) 
+Place 2: Sandosine36 (805 en jetons) 
+Place 3: psychoman59 (315 en jetons) 
+Sandosine36 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 8h]
+Agus1826 : suit. 40
+Sandosine36 : passe. 
+psychoman59 : parole 
+*** FLOP *** [7c 3h Qc]
+psychoman59 : parole 
+Agus1826 : mise. 100
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à Agus1826.
+Agus1826 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [7c 3h Qc]
+Siège 1 : Agus1826 (bouton) a remporté (100)
+Siège 2 : Sandosine36 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°256176919926 : Tournoi #3890586719, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 17/05/2025 8:21:34 CET [17/05/2025 2:21:34 ET]
+Table '3890586719 1' 3-max Siège #2 est au bouton.
+Place 1: Agus1826 (440 en jetons) 
+Place 2: Sandosine36 (785 en jetons) 
+Place 3: psychoman59 (275 en jetons) 
+psychoman59 : met la petite blind. 20
+Agus1826 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 5h]
+Sandosine36 : suit. 40
+psychoman59 : passe. 
+Agus1826 : parole 
+*** FLOP *** [Jh 3h 6s]
+Agus1826 : mise. 40
+Sandosine36 : suit. 40
+*** TOURNANT *** [Jh 3h 6s] [As]
+Agus1826 : mise. 40
+Sandosine36 : suit. 40
+*** RIVIÈRE *** [Jh 3h 6s As] [Qd]
+Agus1826 : mise. 260
+Sandosine36 : passe. 
+Personne n'a suivi. (260) sont retournés à Agus1826.
+Agus1826 a remporté 260  lors du pot .
+*** SYNTHÈSE ***
+Pot total 260 | Commission 0 
+Tableau [Jh 3h 6s As Qd]
+Siège 1 : Agus1826 (grosse blind) a remporté (260)
+Siège 2 : Sandosine36 (bouton) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°256176921458 : Tournoi #3890586719, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 17/05/2025 8:21:53 CET [17/05/2025 2:21:53 ET]
+Table '3890586719 1' 3-max Siège #3 est au bouton.
+Place 1: Agus1826 (580 en jetons) 
+Place 2: Sandosine36 (665 en jetons) 
+Place 3: psychoman59 (255 en jetons) 
+Agus1826 : met la petite blind. 20
+Sandosine36 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Tc]
+psychoman59 : passe. 
+Agus1826 : suit. 20
+Sandosine36 : parole 
+*** FLOP *** [Th 8c Ts]
+Agus1826 : parole 
+Sandosine36 : parole 
+*** TOURNANT *** [Th 8c Ts] [6c]
+Agus1826 : parole 
+Sandosine36 : parole 
+*** RIVIÈRE *** [Th 8c Ts 6c] [5s]
+Agus1826 : parole 
+Sandosine36 : parole 
+*** ABATTAGE ***
+Agus1826 : montre [As Jc] (une paire de Dix)
+Sandosine36 : cache la main perdante. 
+Agus1826 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Th 8c Ts 6c 5s]
+Siège 1 : Agus1826 (petite blind) a montré [As Jc] et a gagné (80) avec une paire de Dix
+Siège 2 : Sandosine36 (grosse blind) a caché la main perdante. [9c 3s]
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°256176922804 : Tournoi #3890586719, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 17/05/2025 8:22:10 CET [17/05/2025 2:22:10 ET]
+Table '3890586719 1' 3-max Siège #1 est au bouton.
+Place 1: Agus1826 (620 en jetons) 
+Place 2: Sandosine36 (625 en jetons) 
+Place 3: psychoman59 (255 en jetons) 
+Sandosine36 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 6c]
+Agus1826 : suit. 40
+Sandosine36 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Ts 3h As]
+Sandosine36 : parole 
+psychoman59 : parole 
+Agus1826 : parole 
+*** TOURNANT *** [Ts 3h As] [9s]
+Sandosine36 : parole 
+psychoman59 : parole 
+Agus1826 : mise. 40
+Sandosine36 : suit. 40
+psychoman59 : passe. 
+*** RIVIÈRE *** [Ts 3h As 9s] [Ac]
+Sandosine36 : parole 
+Agus1826 : mise. 200
+Sandosine36 : passe. 
+Personne n'a suivi. (200) sont retournés à Agus1826.
+Agus1826 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [Ts 3h As 9s Ac]
+Siège 1 : Agus1826 (bouton) a remporté (200)
+Siège 2 : Sandosine36 (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°256176925267 : Tournoi #3890586719, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 17/05/2025 8:22:42 CET [17/05/2025 2:22:42 ET]
+Table '3890586719 1' 3-max Siège #2 est au bouton.
+Place 1: Agus1826 (740 en jetons) 
+Place 2: Sandosine36 (545 en jetons) 
+Place 3: psychoman59 (215 en jetons) 
+psychoman59 : met la petite blind. 20
+Agus1826 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 4d]
+Sandosine36 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Agus1826.
+Agus1826 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Agus1826 (grosse blind) a remporté (40)
+Siège 2 : Sandosine36 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°256176925718 : Tournoi #3890586719, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 17/05/2025 8:22:48 CET [17/05/2025 2:22:48 ET]
+Table '3890586719 1' 3-max Siège #3 est au bouton.
+Place 1: Agus1826 (760 en jetons) 
+Place 2: Sandosine36 (545 en jetons) 
+Place 3: psychoman59 (195 en jetons) 
+Agus1826 : met la petite blind. 20
+Sandosine36 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Jd]
+psychoman59 : relance. 155 à 195 et est all-in.
+Agus1826 : passe. 
+Sandosine36 : passe. 
+Personne n'a suivi. (155) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : Agus1826 (petite blind) s'est couché. avant Flop
+Siège 2 : Sandosine36 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a remporté (100)
+
+
+
+Main PokerStars n°256176926309 : Tournoi #3890586719, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 17/05/2025 8:22:55 CET [17/05/2025 2:22:55 ET]
+Table '3890586719 1' 3-max Siège #1 est au bouton.
+Place 1: Agus1826 (740 en jetons) 
+Place 2: Sandosine36 (505 en jetons) 
+Place 3: psychoman59 (255 en jetons) 
+Sandosine36 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h As]
+Agus1826 : suit. 40
+Sandosine36 : suit. 20
+psychoman59 : relance. 215 à 255 et est all-in.
+Agus1826 : suit. 215
+Sandosine36 : passe. 
+*** FLOP *** [4d Qh Ad]
+*** TOURNANT *** [4d Qh Ad] [7s]
+*** RIVIÈRE *** [4d Qh Ad 7s] [Td]
+*** ABATTAGE ***
+psychoman59 : montre [6h As] (une paire de As)
+Agus1826 : montre [Qs Ah] (double paire, As et Dames)
+Agus1826 a remporté 550  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 550 | Commission 0 
+Tableau [4d Qh Ad 7s Td]
+Siège 1 : Agus1826 (bouton) a montré [Qs Ah] et a gagné (550) avec double paire, As et Dames
+Siège 2 : Sandosine36 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [6h As] et a perdu avec une paire de As
+
+
+

@@ -1,0 +1,434 @@
+﻿Main PokerStars n°255175406793 : Tournoi #3866208579, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 07/03/2025 7:29:05 CET [07/03/2025 1:29:05 ET]
+Table '3866208579 1' 3-max Siège #1 est au bouton.
+Place 1: cylou55 (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: sonry_21 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+sonry_21 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Ks]
+cylou55 : suit. 20
+psychoman59 : suit. 10
+sonry_21 : parole 
+*** FLOP *** [3h Th 4s]
+psychoman59 : parole 
+sonry_21 : mise. 40
+cylou55 : suit. 40
+psychoman59 : passe. 
+*** TOURNANT *** [3h Th 4s] [Ah]
+sonry_21 : parole 
+cylou55 : parole 
+*** RIVIÈRE *** [3h Th 4s Ah] [6h]
+sonry_21 : mise. 60
+cylou55 : suit. 60
+*** ABATTAGE ***
+sonry_21 : montre [Ts 7s] (une paire de Dix)
+cylou55 : montre [Ac 9c] (une paire de As)
+cylou55 a remporté 260  lors du pot .
+*** SYNTHÈSE ***
+Pot total 260 | Commission 0 
+Tableau [3h Th 4s Ah 6h]
+Siège 1 : cylou55 (bouton) a montré [Ac 9c] et a gagné (260) avec une paire de As
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 3 : sonry_21 (grosse blind) a montré [Ts 7s] et a perdu avec une paire de Dix
+
+
+
+Main PokerStars n°255175408600 : Tournoi #3866208579, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 07/03/2025 7:29:30 CET [07/03/2025 1:29:30 ET]
+Table '3866208579 1' 3-max Siège #2 est au bouton.
+Place 1: cylou55 (640 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+Place 3: sonry_21 (380 en jetons) 
+sonry_21 : met la petite blind. 10
+cylou55 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 7d]
+psychoman59 : passe. 
+sonry_21 : suit. 10
+cylou55 : parole 
+*** FLOP *** [4d 6s 6h]
+sonry_21 : parole 
+cylou55 : mise. 100
+sonry_21 : passe. 
+Personne n'a suivi. (100) sont retournés à cylou55.
+cylou55 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [4d 6s 6h]
+Siège 1 : cylou55 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : sonry_21 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°255175410400 : Tournoi #3866208579, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 07/03/2025 7:29:55 CET [07/03/2025 1:29:55 ET]
+Table '3866208579 1' 3-max Siège #3 est au bouton.
+Place 1: cylou55 (660 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+Place 3: sonry_21 (360 en jetons) 
+cylou55 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 7h]
+sonry_21 : passe. 
+cylou55 : relance. 20 à 40
+psychoman59 : suit. 20
+*** FLOP *** [2d 2c 3d]
+cylou55 : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à cylou55.
+cylou55 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [2d 2c 3d]
+Siège 1 : cylou55 (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : sonry_21 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°255175411519 : Tournoi #3866208579, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 07/03/2025 7:30:10 CET [07/03/2025 1:30:10 ET]
+Table '3866208579 1' 3-max Siège #1 est au bouton.
+Place 1: cylou55 (700 en jetons) 
+Place 2: psychoman59 (440 en jetons) 
+Place 3: sonry_21 (360 en jetons) 
+psychoman59 : met la petite blind. 10
+sonry_21 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 3d]
+cylou55 : suit. 20
+psychoman59 : passe. 
+sonry_21 : relance. 20 à 40
+cylou55 : suit. 20
+*** FLOP *** [2c 6c Td]
+sonry_21 : mise. 20
+cylou55 : relance. 640 à 660 et est all-in.
+sonry_21 : suit. 300 et est all-in.
+Personne n'a suivi. (340) sont retournés à cylou55.
+*** TOURNANT *** [2c 6c Td] [Tc]
+*** RIVIÈRE *** [2c 6c Td Tc] [5h]
+*** ABATTAGE ***
+sonry_21 : montre [Ks As] (une paire de Dix)
+cylou55 : montre [Th 2d] (un full, full aux Dix par les Deux)
+cylou55 a remporté 730  lors du pot .
+sonry_21 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 730 | Commission 0 
+Tableau [2c 6c Td Tc 5h]
+Siège 1 : cylou55 (bouton) a montré [Th 2d] et a gagné (730) avec un full, full aux Dix par les Deux
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : sonry_21 (grosse blind) a montré [Ks As] et a perdu avec une paire de Dix
+
+
+
+Main PokerStars n°255175413505 : Tournoi #3866208579, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 07/03/2025 7:30:38 CET [07/03/2025 1:30:38 ET]
+Table '3866208579 1' 3-max Siège #2 est au bouton.
+Place 1: cylou55 (1070 en jetons) 
+Place 2: psychoman59 (430 en jetons) 
+psychoman59 : met la petite blind. 10
+cylou55 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Ts]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à cylou55.
+cylou55 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : cylou55 (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°255175413826 : Tournoi #3866208579, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 07/03/2025 7:30:42 CET [07/03/2025 1:30:42 ET]
+Table '3866208579 1' 3-max Siège #1 est au bouton.
+Place 1: cylou55 (1080 en jetons) 
+Place 2: psychoman59 (420 en jetons) 
+cylou55 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 8d]
+cylou55 : suit. 10
+psychoman59 : relance. 400 à 420 et est all-in.
+cylou55 : passe. 
+Personne n'a suivi. (400) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : cylou55 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°255175414424 : Tournoi #3866208579, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 07/03/2025 7:30:51 CET [07/03/2025 1:30:51 ET]
+Table '3866208579 1' 3-max Siège #2 est au bouton.
+Place 1: cylou55 (1060 en jetons) 
+Place 2: psychoman59 (440 en jetons) 
+psychoman59 : met la petite blind. 10
+cylou55 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 8d]
+psychoman59 : suit. 10
+cylou55 : parole 
+*** FLOP *** [Ah 7s 4s]
+cylou55 : parole 
+psychoman59 : mise. 40
+cylou55 : suit. 40
+*** TOURNANT *** [Ah 7s 4s] [9c]
+cylou55 : parole 
+psychoman59 : mise. 60
+cylou55 : suit. 60
+*** RIVIÈRE *** [Ah 7s 4s 9c] [4d]
+cylou55 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+cylou55 : montre [Kh 4h] (un brelan de Quatre)
+psychoman59 : cache la main perdante. 
+cylou55 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Ah 7s 4s 9c 4d]
+Siège 1 : cylou55 (grosse blind) a montré [Kh 4h] et a gagné (240) avec un brelan de Quatre
+Siège 2 : psychoman59 (bouton) (petite blind) a caché la main perdante. [7c 8d]
+
+
+
+Main PokerStars n°255175416156 : Tournoi #3866208579, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 07/03/2025 7:31:15 CET [07/03/2025 1:31:15 ET]
+Table '3866208579 1' 3-max Siège #1 est au bouton.
+Place 1: cylou55 (1180 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+cylou55 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Ts]
+cylou55 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [7d 8d 4d]
+psychoman59 : parole 
+cylou55 : parole 
+*** TOURNANT *** [7d 8d 4d] [2h]
+psychoman59 : parole 
+cylou55 : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à cylou55.
+cylou55 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [7d 8d 4d 2h]
+Siège 1 : cylou55 (bouton) (petite blind) a remporté (40)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°255175417574 : Tournoi #3866208579, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 07/03/2025 7:31:34 CET [07/03/2025 1:31:34 ET]
+Table '3866208579 1' 3-max Siège #2 est au bouton.
+Place 1: cylou55 (1200 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+cylou55 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Qc]
+psychoman59 : suit. 10
+cylou55 : parole 
+*** FLOP *** [Jd 7d 8d]
+cylou55 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Jd 7d 8d] [Th]
+cylou55 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Jd 7d 8d Th] [6h]
+cylou55 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à cylou55.
+cylou55 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Jd 7d 8d Th 6h]
+Siège 1 : cylou55 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°255175419161 : Tournoi #3866208579, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 07/03/2025 7:31:57 CET [07/03/2025 1:31:57 ET]
+Table '3866208579 1' 3-max Siège #1 est au bouton.
+Place 1: cylou55 (1220 en jetons) 
+Place 2: psychoman59 (280 en jetons) 
+cylou55 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Ad]
+cylou55 : suit. 10
+psychoman59 : relance. 260 à 280 et est all-in.
+cylou55 : suit. 260
+*** FLOP *** [Tc 5c 4d]
+*** TOURNANT *** [Tc 5c 4d] [Jc]
+*** RIVIÈRE *** [Tc 5c 4d Jc] [9s]
+*** ABATTAGE ***
+psychoman59 : montre [Ts Ad] (une paire de Dix)
+cylou55 : montre [9c 8d] (une paire de Neuf)
+psychoman59 a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [Tc 5c 4d Jc 9s]
+Siège 1 : cylou55 (bouton) (petite blind) a montré [9c 8d] et a perdu avec une paire de Neuf
+Siège 2 : psychoman59 (grosse blind) a montré [Ts Ad] et a gagné (560) avec une paire de Dix
+
+
+
+Main PokerStars n°255175420452 : Tournoi #3866208579, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 07/03/2025 7:32:15 CET [07/03/2025 1:32:15 ET]
+Table '3866208579 1' 3-max Siège #2 est au bouton.
+Place 1: cylou55 (940 en jetons) 
+Place 2: psychoman59 (560 en jetons) 
+psychoman59 : met la petite blind. 15
+cylou55 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 9c]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à cylou55.
+cylou55 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : cylou55 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°255175420757 : Tournoi #3866208579, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 07/03/2025 7:32:19 CET [07/03/2025 1:32:19 ET]
+Table '3866208579 1' 3-max Siège #1 est au bouton.
+Place 1: cylou55 (955 en jetons) 
+Place 2: psychoman59 (545 en jetons) 
+cylou55 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Ad]
+cylou55 : suit. 15
+psychoman59 : relance. 515 à 545 et est all-in.
+cylou55 : passe. 
+Personne n'a suivi. (515) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : cylou55 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°255175421314 : Tournoi #3866208579, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 07/03/2025 7:32:28 CET [07/03/2025 1:32:28 ET]
+Table '3866208579 1' 3-max Siège #2 est au bouton.
+Place 1: cylou55 (925 en jetons) 
+Place 2: psychoman59 (575 en jetons) 
+psychoman59 : met la petite blind. 15
+cylou55 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 3d]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à cylou55.
+cylou55 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : cylou55 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°255175421771 : Tournoi #3866208579, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 07/03/2025 7:32:34 CET [07/03/2025 1:32:34 ET]
+Table '3866208579 1' 3-max Siège #1 est au bouton.
+Place 1: cylou55 (940 en jetons) 
+Place 2: psychoman59 (560 en jetons) 
+cylou55 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 6c]
+cylou55 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Ad 4h Ks]
+psychoman59 : parole 
+cylou55 : mise. 910 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (910) sont retournés à cylou55.
+cylou55 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ad 4h Ks]
+Siège 1 : cylou55 (bouton) (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°255175422777 : Tournoi #3866208579, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 07/03/2025 7:32:48 CET [07/03/2025 1:32:48 ET]
+Table '3866208579 1' 3-max Siège #2 est au bouton.
+Place 1: cylou55 (970 en jetons) 
+Place 2: psychoman59 (530 en jetons) 
+psychoman59 : met la petite blind. 15
+cylou55 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 7c]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à cylou55.
+cylou55 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : cylou55 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°255175423071 : Tournoi #3866208579, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 07/03/2025 7:32:53 CET [07/03/2025 1:32:53 ET]
+Table '3866208579 1' 3-max Siège #1 est au bouton.
+Place 1: cylou55 (985 en jetons) 
+Place 2: psychoman59 (515 en jetons) 
+cylou55 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 3s]
+cylou55 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [4c 2h 6d]
+psychoman59 : parole 
+cylou55 : parole 
+*** TOURNANT *** [4c 2h 6d] [Qd]
+psychoman59 : parole 
+cylou55 : mise. 180
+psychoman59 : passe. 
+Personne n'a suivi. (180) sont retournés à cylou55.
+cylou55 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [4c 2h 6d Qd]
+Siège 1 : cylou55 (bouton) (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°255175424464 : Tournoi #3866208579, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 07/03/2025 7:33:12 CET [07/03/2025 1:33:12 ET]
+Table '3866208579 1' 3-max Siège #2 est au bouton.
+Place 1: cylou55 (1015 en jetons) 
+Place 2: psychoman59 (485 en jetons) 
+psychoman59 : met la petite blind. 15
+cylou55 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Qd]
+psychoman59 : suit. 15
+cylou55 : relance. 60 à 90
+psychoman59 : suit. 60
+*** FLOP *** [2c 7c 3d]
+cylou55 : parole 
+psychoman59 : mise. 395 et est all-in.
+cylou55 : suit. 395
+*** TOURNANT *** [2c 7c 3d] [Th]
+*** RIVIÈRE *** [2c 7c 3d Th] [Tc]
+*** ABATTAGE ***
+cylou55 : montre [Jh Js] (double paire, Valets et Dix)
+psychoman59 : montre [7h Qd] (double paire, Dix et Sept)
+cylou55 a remporté 970  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+cylou55 remporte le tournoi et reçoit 0.75 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 970 | Commission 0 
+Tableau [2c 7c 3d Th Tc]
+Siège 1 : cylou55 (grosse blind) a montré [Jh Js] et a gagné (970) avec double paire, Valets et Dix
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [7h Qd] et a perdu avec double paire, Dix et Sept
+
+
+

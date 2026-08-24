@@ -1,0 +1,75 @@
+﻿Main PokerStars n°244821869885 : Tournoi #3617229025, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 15/07/2023 8:21:00 CET [15/07/2023 2:21:00 ET]
+Table '3617229025 1' 3-max Siège #1 est au bouton.
+Place 1: filipalinda (300 en jetons) 
+Place 2: Bench94 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+Bench94 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 3h]
+filipalinda : suit. 20
+Bench94 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [4h Qd Qh]
+Bench94 : parole 
+psychoman59 : parole 
+filipalinda : parole 
+*** TOURNANT *** [4h Qd Qh] [6c]
+Bench94 : parole 
+psychoman59 : parole 
+filipalinda : mise. 20
+Bench94 : suit. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [4h Qd Qh 6c] [9h]
+Bench94 : parole 
+psychoman59 : parole 
+filipalinda : parole 
+*** ABATTAGE ***
+Bench94 : montre [4s Ts] (double paire, Dames et Quatre)
+psychoman59 : cache la main perdante. 
+filipalinda : cache la main perdante. 
+Bench94 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [4h Qd Qh 6c 9h]
+Siège 1 : filipalinda (bouton) a caché la main perdante. [2d 2c]
+Siège 2 : Bench94 (petite blind) a montré [4s Ts] et a gagné (120) avec double paire, Dames et Quatre
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [Ad 3h]
+
+
+
+Main PokerStars n°244821875244 : Tournoi #3617229025, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 15/07/2023 8:21:48 CET [15/07/2023 2:21:48 ET]
+Table '3617229025 1' 3-max Siège #2 est au bouton.
+Place 1: filipalinda (260 en jetons) 
+Place 2: Bench94 (380 en jetons) 
+Place 3: psychoman59 (260 en jetons) 
+psychoman59 : met la petite blind. 10
+filipalinda : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Td]
+Bench94 : passe. 
+psychoman59 : suit. 10
+filipalinda : parole 
+*** FLOP *** [Qh 9c As]
+psychoman59 : mise. 40
+filipalinda : suit. 40
+*** TOURNANT *** [Qh 9c As] [Ac]
+psychoman59 : mise. 60
+filipalinda : suit. 60
+*** RIVIÈRE *** [Qh 9c As Ac] [Qd]
+psychoman59 : mise. 140 et est all-in.
+filipalinda : suit. 140 et est all-in.
+*** ABATTAGE ***
+psychoman59 : montre [8d Td] (double paire, As et Dames)
+filipalinda : montre [Qs 9s] (un full, full aux Dames par les As)
+filipalinda a remporté 520  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 520 | Commission 0 
+Tableau [Qh 9c As Ac Qd]
+Siège 1 : filipalinda (grosse blind) a montré [Qs 9s] et a gagné (520) avec un full, full aux Dames par les As
+Siège 2 : Bench94 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [8d Td] et a perdu avec double paire, As et Dames
+
+
+

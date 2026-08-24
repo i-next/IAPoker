@@ -1,0 +1,87 @@
+﻿Main PokerStars n°242373942883 : Tournoi #3560443640, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/03/2023 12:11:31 CET [11/03/2023 6:11:31 ET]
+Table '3560443640 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: ttokee (300 en jetons) 
+Place 3: La-Releve007 (300 en jetons) 
+ttokee : met la petite blind. 10
+La-Releve007 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Qc]
+psychoman59 : passe. 
+ttokee : relance. 40 à 60
+La-Releve007 : suit. 40
+*** FLOP *** [4c Js 6s]
+ttokee : mise. 120
+La-Releve007 : passe. 
+Personne n'a suivi. (120) sont retournés à ttokee.
+ttokee a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [4c Js 6s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : ttokee (petite blind) a remporté (120)
+Siège 3 : La-Releve007 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°242373946749 : Tournoi #3560443640, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/03/2023 12:11:52 CET [11/03/2023 6:11:52 ET]
+Table '3560443640 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: ttokee (360 en jetons) 
+Place 3: La-Releve007 (240 en jetons) 
+La-Releve007 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Th]
+ttokee : relance. 50 à 70
+La-Releve007 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à ttokee.
+ttokee a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : ttokee (bouton) a remporté (50)
+Siège 3 : La-Releve007 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242373949117 : Tournoi #3560443640, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/03/2023 12:12:05 CET [11/03/2023 6:12:05 ET]
+Table '3560443640 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: ttokee (390 en jetons) 
+Place 3: La-Releve007 (230 en jetons) 
+psychoman59 : met la petite blind. 10
+ttokee : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Kc]
+La-Releve007 : suit. 20
+psychoman59 : suit. 10
+ttokee : parole 
+*** FLOP *** [3s 6c Qc]
+psychoman59 : parole 
+ttokee : parole 
+La-Releve007 : mise. 20
+psychoman59 : passe. 
+ttokee : suit. 20
+*** TOURNANT *** [3s 6c Qc] [5c]
+ttokee : parole 
+La-Releve007 : mise. 20
+ttokee : suit. 20
+*** RIVIÈRE *** [3s 6c Qc 5c] [Qd]
+ttokee : parole 
+La-Releve007 : mise. 20
+ttokee : suit. 20
+*** ABATTAGE ***
+La-Releve007 : montre [Kd Kh] (double paire, Rois et Dames)
+ttokee : cache la main perdante. 
+La-Releve007 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [3s 6c Qc 5c Qd]
+Siège 1 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 2 : ttokee (grosse blind) a caché la main perdante. [7d 3h]
+Siège 3 : La-Releve007 (bouton) a montré [Kd Kh] et a gagné (180) avec double paire, Rois et Dames
+
+
+

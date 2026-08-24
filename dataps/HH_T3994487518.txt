@@ -1,0 +1,480 @@
+﻿Main PokerStars n°260561002163 : Tournoi #3994487518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 23/04/2026 7:26:07 CET [23/04/2026 1:26:07 ET]
+Table '3994487518 1' 3-max Siège #1 est au bouton.
+Place 1: x patrick86 (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: ClemishDePain (500 en jetons) 
+psychoman59 : met la petite blind. 10
+ClemishDePain : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 4h]
+x patrick86 : suit. 20
+psychoman59 : suit. 10
+ClemishDePain : parole 
+*** FLOP *** [Ac 7c 8d]
+psychoman59 : parole 
+ClemishDePain : parole 
+x patrick86 : mise. 60
+psychoman59 : passe. 
+ClemishDePain : passe. 
+Personne n'a suivi. (60) sont retournés à x patrick86.
+x patrick86 a remporté 60  lors du pot .
+x patrick86 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ac 7c 8d]
+Siège 1 : x patrick86 (bouton) a remporté (60)
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 3 : ClemishDePain (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°260561003385 : Tournoi #3994487518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 23/04/2026 7:26:27 CET [23/04/2026 1:26:27 ET]
+Table '3994487518 1' 3-max Siège #2 est au bouton.
+Place 1: x patrick86 (540 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+Place 3: ClemishDePain (480 en jetons) 
+ClemishDePain : met la petite blind. 10
+x patrick86 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 4c]
+psychoman59 : passe. 
+ClemishDePain : passe. 
+Personne n'a suivi. (10) sont retournés à x patrick86.
+x patrick86 a remporté 20  lors du pot .
+x patrick86 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : x patrick86 (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : ClemishDePain (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260561003917 : Tournoi #3994487518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 23/04/2026 7:26:36 CET [23/04/2026 1:26:36 ET]
+Table '3994487518 1' 3-max Siège #3 est au bouton.
+Place 1: x patrick86 (550 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+Place 3: ClemishDePain (470 en jetons) 
+x patrick86 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 6h]
+ClemishDePain : suit. 20
+x patrick86 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [8c As 2c]
+x patrick86 : parole 
+psychoman59 : parole 
+ClemishDePain : mise. 20
+x patrick86 : suit. 20
+psychoman59 : passe. 
+*** TOURNANT *** [8c As 2c] [Tc]
+x patrick86 : parole 
+ClemishDePain : mise. 20
+x patrick86 : suit. 20
+*** RIVIÈRE *** [8c As 2c Tc] [9d]
+x patrick86 : parole 
+ClemishDePain : mise. 20
+x patrick86 : suit. 20
+*** ABATTAGE ***
+ClemishDePain : montre [Ac 4d] (une paire de As)
+x patrick86 : cache la main perdante. 
+ClemishDePain a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [8c As 2c Tc 9d]
+Siège 1 : x patrick86 (petite blind) a caché la main perdante. [8s Qd]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : ClemishDePain (bouton) a montré [Ac 4d] et a gagné (180) avec une paire de As
+
+
+
+Main PokerStars n°260561005683 : Tournoi #3994487518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 23/04/2026 7:27:06 CET [23/04/2026 1:27:06 ET]
+Table '3994487518 1' 3-max Siège #1 est au bouton.
+Place 1: x patrick86 (470 en jetons) 
+Place 2: psychoman59 (460 en jetons) 
+Place 3: ClemishDePain (570 en jetons) 
+psychoman59 : met la petite blind. 10
+ClemishDePain : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 7d]
+x patrick86 : suit. 20
+psychoman59 : suit. 10
+ClemishDePain : parole 
+*** FLOP *** [2c Kd 9c]
+psychoman59 : parole 
+ClemishDePain : parole 
+x patrick86 : parole 
+*** TOURNANT *** [2c Kd 9c] [Ts]
+psychoman59 : parole 
+ClemishDePain : mise. 20
+x patrick86 : suit. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [2c Kd 9c Ts] [4d]
+psychoman59 : parole 
+ClemishDePain : mise. 40
+x patrick86 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à ClemishDePain.
+ClemishDePain a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [2c Kd 9c Ts 4d]
+Siège 1 : x patrick86 (bouton) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Rivière
+Siège 3 : ClemishDePain (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°260561007804 : Tournoi #3994487518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 23/04/2026 7:27:42 CET [23/04/2026 1:27:42 ET]
+Table '3994487518 1' 3-max Siège #2 est au bouton.
+Place 1: x patrick86 (430 en jetons) 
+Place 2: psychoman59 (420 en jetons) 
+Place 3: ClemishDePain (650 en jetons) 
+ClemishDePain : met la petite blind. 10
+x patrick86 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Jc]
+psychoman59 : suit. 20
+ClemishDePain : suit. 10
+x patrick86 : parole 
+*** FLOP *** [Jd 6d 8h]
+ClemishDePain : parole 
+x patrick86 : mise. 410 et est all-in.
+psychoman59 : passe. 
+ClemishDePain : passe. 
+Personne n'a suivi. (410) sont retournés à x patrick86.
+x patrick86 a remporté 60  lors du pot .
+x patrick86 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Jd 6d 8h]
+Siège 1 : x patrick86 (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 3 : ClemishDePain (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°260561009205 : Tournoi #3994487518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 23/04/2026 7:28:05 CET [23/04/2026 1:28:05 ET]
+Table '3994487518 1' 3-max Siège #3 est au bouton.
+Place 1: x patrick86 (470 en jetons) 
+Place 2: psychoman59 (400 en jetons) 
+Place 3: ClemishDePain (630 en jetons) 
+x patrick86 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 2c]
+ClemishDePain : passe. 
+x patrick86 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [4s Jd 6d]
+x patrick86 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [4s Jd 6d] [7s]
+x patrick86 : parole 
+psychoman59 : mise. 40
+x patrick86 : suit. 40
+*** RIVIÈRE *** [4s Jd 6d 7s] [Kd]
+x patrick86 : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à x patrick86.
+x patrick86 a remporté 120  lors du pot .
+x patrick86 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [4s Jd 6d 7s Kd]
+Siège 1 : x patrick86 (petite blind) a remporté (120)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : ClemishDePain (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260561011046 : Tournoi #3994487518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 23/04/2026 7:28:37 CET [23/04/2026 1:28:37 ET]
+Table '3994487518 1' 3-max Siège #1 est au bouton.
+Place 1: x patrick86 (530 en jetons) 
+Place 2: psychoman59 (340 en jetons) 
+Place 3: ClemishDePain (630 en jetons) 
+psychoman59 : met la petite blind. 15
+ClemishDePain : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 4d]
+x patrick86 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à ClemishDePain.
+ClemishDePain a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : x patrick86 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : ClemishDePain (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°260561011392 : Tournoi #3994487518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 23/04/2026 7:28:43 CET [23/04/2026 1:28:43 ET]
+Table '3994487518 1' 3-max Siège #2 est au bouton.
+Place 1: x patrick86 (530 en jetons) 
+Place 2: psychoman59 (325 en jetons) 
+Place 3: ClemishDePain (645 en jetons) 
+ClemishDePain : met la petite blind. 15
+x patrick86 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 9s]
+psychoman59 : passe. 
+ClemishDePain : passe. 
+Personne n'a suivi. (15) sont retournés à x patrick86.
+x patrick86 a remporté 30  lors du pot .
+x patrick86 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : x patrick86 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : ClemishDePain (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260561011821 : Tournoi #3994487518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 23/04/2026 7:28:50 CET [23/04/2026 1:28:50 ET]
+Table '3994487518 1' 3-max Siège #3 est au bouton.
+Place 1: x patrick86 (545 en jetons) 
+Place 2: psychoman59 (325 en jetons) 
+Place 3: ClemishDePain (630 en jetons) 
+x patrick86 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Qc]
+ClemishDePain : passe. 
+x patrick86 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : x patrick86 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+Siège 3 : ClemishDePain (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260561012585 : Tournoi #3994487518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 23/04/2026 7:29:03 CET [23/04/2026 1:29:03 ET]
+Table '3994487518 1' 3-max Siège #1 est au bouton.
+Place 1: x patrick86 (530 en jetons) 
+Place 2: psychoman59 (340 en jetons) 
+Place 3: ClemishDePain (630 en jetons) 
+psychoman59 : met la petite blind. 15
+ClemishDePain : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 3h]
+x patrick86 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à ClemishDePain.
+ClemishDePain a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : x patrick86 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : ClemishDePain (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°260561013198 : Tournoi #3994487518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 23/04/2026 7:29:13 CET [23/04/2026 1:29:13 ET]
+Table '3994487518 1' 3-max Siège #2 est au bouton.
+Place 1: x patrick86 (530 en jetons) 
+Place 2: psychoman59 (325 en jetons) 
+Place 3: ClemishDePain (645 en jetons) 
+ClemishDePain : met la petite blind. 15
+x patrick86 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 3h]
+psychoman59 : passe. 
+ClemishDePain : suit. 15
+x patrick86 : parole 
+*** FLOP *** [3s 7c Kd]
+ClemishDePain : parole 
+x patrick86 : parole 
+*** TOURNANT *** [3s 7c Kd] [As]
+ClemishDePain : parole 
+x patrick86 : parole 
+*** RIVIÈRE *** [3s 7c Kd As] [9h]
+ClemishDePain : parole 
+x patrick86 : mise. 60
+ClemishDePain : suit. 60
+*** ABATTAGE ***
+x patrick86 : montre [4h Ts] (Hauteur As)
+ClemishDePain : montre [Qs Qh] (une paire de Dames)
+ClemishDePain a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [3s 7c Kd As 9h]
+Siège 1 : x patrick86 (grosse blind) a montré [4h Ts] et a perdu avec Hauteur As
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : ClemishDePain (petite blind) a montré [Qs Qh] et a gagné (180) avec une paire de Dames
+
+
+
+Main PokerStars n°260561015339 : Tournoi #3994487518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 23/04/2026 7:29:49 CET [23/04/2026 1:29:49 ET]
+Table '3994487518 1' 3-max Siège #3 est au bouton.
+Place 1: x patrick86 (440 en jetons) 
+Place 2: psychoman59 (325 en jetons) 
+Place 3: ClemishDePain (735 en jetons) 
+x patrick86 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 4h]
+ClemishDePain : passe. 
+x patrick86 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [8s 4c Ts]
+x patrick86 : parole 
+psychoman59 : mise. 30
+x patrick86 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [8s 4c Ts]
+Siège 1 : x patrick86 (petite blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : ClemishDePain (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260561016393 : Tournoi #3994487518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 23/04/2026 7:30:08 CET [23/04/2026 1:30:08 ET]
+Table '3994487518 1' 3-max Siège #1 est au bouton.
+Place 1: x patrick86 (410 en jetons) 
+Place 2: psychoman59 (355 en jetons) 
+Place 3: ClemishDePain (735 en jetons) 
+psychoman59 : met la petite blind. 15
+ClemishDePain : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 9h]
+x patrick86 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à ClemishDePain.
+ClemishDePain a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : x patrick86 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : ClemishDePain (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°260561017035 : Tournoi #3994487518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 23/04/2026 7:30:18 CET [23/04/2026 1:30:18 ET]
+Table '3994487518 1' 3-max Siège #2 est au bouton.
+Place 1: x patrick86 (410 en jetons) 
+Place 2: psychoman59 (340 en jetons) 
+Place 3: ClemishDePain (750 en jetons) 
+ClemishDePain : met la petite blind. 20
+x patrick86 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Js]
+psychoman59 : suit. 40
+ClemishDePain : suit. 20
+x patrick86 : parole 
+*** FLOP *** [Ks Jd 8c]
+ClemishDePain : parole 
+x patrick86 : parole 
+psychoman59 : mise. 60
+ClemishDePain : suit. 60
+x patrick86 : passe. 
+*** TOURNANT *** [Ks Jd 8c] [Ts]
+ClemishDePain : parole 
+psychoman59 : mise. 80
+ClemishDePain : suit. 80
+*** RIVIÈRE *** [Ks Jd 8c Ts] [7d]
+ClemishDePain : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+ClemishDePain : montre [9h Qs] (une suite, Neuf à Roi)
+psychoman59 : cache la main perdante. 
+ClemishDePain a remporté 400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [Ks Jd 8c Ts 7d]
+Siège 1 : x patrick86 (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) a caché la main perdante. [Qc Js]
+Siège 3 : ClemishDePain (petite blind) a montré [9h Qs] et a gagné (400) avec une suite, Neuf à Roi
+
+
+
+Main PokerStars n°260561019144 : Tournoi #3994487518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 23/04/2026 7:30:55 CET [23/04/2026 1:30:55 ET]
+Table '3994487518 1' 3-max Siège #3 est au bouton.
+Place 1: x patrick86 (370 en jetons) 
+Place 2: psychoman59 (160 en jetons) 
+Place 3: ClemishDePain (970 en jetons) 
+x patrick86 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Js]
+ClemishDePain : suit. 40
+x patrick86 : relance. 330 à 370 et est all-in.
+psychoman59 : passe. 
+ClemishDePain : passe. 
+Personne n'a suivi. (330) sont retournés à x patrick86.
+x patrick86 a remporté 120  lors du pot .
+x patrick86 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : x patrick86 (petite blind) a remporté (120)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : ClemishDePain (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260561019999 : Tournoi #3994487518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 23/04/2026 7:31:09 CET [23/04/2026 1:31:09 ET]
+Table '3994487518 1' 3-max Siège #1 est au bouton.
+Place 1: x patrick86 (450 en jetons) 
+Place 2: psychoman59 (120 en jetons) 
+Place 3: ClemishDePain (930 en jetons) 
+psychoman59 : met la petite blind. 20
+ClemishDePain : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 8s]
+x patrick86 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à ClemishDePain.
+ClemishDePain a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : x patrick86 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : ClemishDePain (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°260561020385 : Tournoi #3994487518, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 23/04/2026 7:31:16 CET [23/04/2026 1:31:16 ET]
+Table '3994487518 1' 3-max Siège #2 est au bouton.
+Place 1: x patrick86 (450 en jetons) 
+Place 2: psychoman59 (100 en jetons) 
+Place 3: ClemishDePain (950 en jetons) 
+ClemishDePain : met la petite blind. 20
+x patrick86 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Kh]
+psychoman59 : relance. 60 à 100 et est all-in.
+ClemishDePain : suit. 80
+x patrick86 : suit. 60
+*** FLOP *** [As 6s 9c]
+ClemishDePain : parole 
+x patrick86 : parole 
+*** TOURNANT *** [As 6s 9c] [Ks]
+ClemishDePain : parole 
+x patrick86 : parole 
+*** RIVIÈRE *** [As 6s 9c Ks] [Qh]
+ClemishDePain : mise. 80
+x patrick86 : passe. 
+Personne n'a suivi. (80) sont retournés à ClemishDePain.
+*** ABATTAGE ***
+ClemishDePain : montre [Ah Ad] (un brelan de As)
+psychoman59 : montre [5s Kh] (une paire de Rois)
+ClemishDePain a remporté 300  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [As 6s 9c Ks Qh]
+Siège 1 : x patrick86 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (bouton) a montré [5s Kh] et a perdu avec une paire de Rois
+Siège 3 : ClemishDePain (petite blind) a montré [Ah Ad] et a gagné (300) avec un brelan de As
+
+
+

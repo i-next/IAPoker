@@ -1,0 +1,104 @@
+﻿Main PokerStars n°244523664651 : Tournoi #3610259598, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 29/06/2023 7:17:22 CET [29/06/2023 1:17:22 ET]
+Table '3610259598 1' 3-max Siège #1 est au bouton.
+Place 1: tcrespo87 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: fisherman_k6 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+fisherman_k6 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 9c]
+tcrespo87 : passe. 
+psychoman59 : relance. 280 à 300 et est all-in.
+fisherman_k6 : passe. 
+Personne n'a suivi. (280) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : tcrespo87 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (40)
+Siège 3 : fisherman_k6 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244523665559 : Tournoi #3610259598, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 29/06/2023 7:17:30 CET [29/06/2023 1:17:30 ET]
+Table '3610259598 1' 3-max Siège #2 est au bouton.
+Place 1: tcrespo87 (300 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: fisherman_k6 (280 en jetons) 
+fisherman_k6 : met la petite blind. 10
+tcrespo87 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 2s]
+psychoman59 : passe. 
+fisherman_k6 : passe. 
+Personne n'a suivi. (10) sont retournés à tcrespo87.
+tcrespo87 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : tcrespo87 (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : fisherman_k6 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244523666122 : Tournoi #3610259598, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 29/06/2023 7:17:36 CET [29/06/2023 1:17:36 ET]
+Table '3610259598 1' 3-max Siège #3 est au bouton.
+Place 1: tcrespo87 (310 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: fisherman_k6 (270 en jetons) 
+tcrespo87 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Jc]
+fisherman_k6 : passe. 
+tcrespo87 : relance. 50 à 70
+psychoman59 : suit. 50
+*** FLOP *** [8s Jh 4d]
+tcrespo87 : parole 
+psychoman59 : mise. 250 et est all-in.
+tcrespo87 : suit. 240 et est all-in.
+Personne n'a suivi. (10) sont retournés à psychoman59.
+*** TOURNANT *** [8s Jh 4d] [As]
+*** RIVIÈRE *** [8s Jh 4d As] [Th]
+*** ABATTAGE ***
+tcrespo87 : montre [Kh Qd] (une suite, Dix à As)
+psychoman59 : montre [Qh Jc] (une paire de Valets)
+tcrespo87 a remporté 620  lors du pot .
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [8s Jh 4d As Th]
+Siège 1 : tcrespo87 (petite blind) a montré [Kh Qd] et a gagné (620) avec une suite, Dix à As
+Siège 2 : psychoman59 (grosse blind) a montré [Qh Jc] et a perdu avec une paire de Valets
+Siège 3 : fisherman_k6 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°244523668387 : Tournoi #3610259598, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 29/06/2023 7:17:58 CET [29/06/2023 1:17:58 ET]
+Table '3610259598 1' 3-max Siège #1 est au bouton.
+Place 1: tcrespo87 (620 en jetons) 
+Place 2: psychoman59 (10 en jetons) 
+Place 3: fisherman_k6 (270 en jetons) 
+psychoman59 : met la petite blind. 10 et est all-in.
+fisherman_k6 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 7s]
+tcrespo87 : passe. 
+Personne n'a suivi. (10) sont retournés à fisherman_k6.
+*** FLOP *** [8h Td Jc]
+*** TOURNANT *** [8h Td Jc] [5d]
+*** RIVIÈRE *** [8h Td Jc 5d] [9d]
+*** ABATTAGE ***
+psychoman59 : montre [3s 7s] (une suite, Sept à Valet)
+fisherman_k6 : montre [Qs 4c] (une suite, Huit à Dame)
+fisherman_k6 a remporté 20  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Tableau [8h Td Jc 5d 9d]
+Siège 1 : tcrespo87 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [3s 7s] et a perdu avec une suite, Sept à Valet
+Siège 3 : fisherman_k6 (grosse blind) a montré [Qs 4c] et a gagné (20) avec une suite, Huit à Dame
+
+
+

@@ -1,0 +1,422 @@
+﻿Main PokerStars n°261828920999 : Tournoi #4025856166, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 22/08/2026 7:31:07 CET [22/08/2026 1:31:07 ET]
+Table '4025856166 1' 3-max Siège #1 est au bouton.
+Place 1: LordVVayne (500 en jetons) 
+Place 2: esehenry (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+esehenry : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 6s]
+LordVVayne : passe. 
+esehenry : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Qd 7d Td]
+esehenry : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Qd 7d Td] [Kd]
+esehenry : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Qd 7d Td Kd] [Ah]
+esehenry : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+esehenry : montre [4c Kc] (une paire de Rois)
+psychoman59 : cache la main perdante. 
+esehenry a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Qd 7d Td Kd Ah]
+Siège 1 : LordVVayne (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : esehenry (petite blind) a montré [4c Kc] et a gagné (40) avec une paire de Rois
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [9h 6s]
+
+
+
+Main PokerStars n°261828921990 : Tournoi #4025856166, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 22/08/2026 7:31:24 CET [22/08/2026 1:31:24 ET]
+Table '4025856166 1' 3-max Siège #2 est au bouton.
+Place 1: LordVVayne (500 en jetons) 
+Place 2: esehenry (520 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 10
+LordVVayne : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 8c]
+esehenry : suit. 20
+psychoman59 : suit. 10
+LordVVayne : parole 
+*** FLOP *** [8d Qh Jd]
+psychoman59 : parole 
+LordVVayne : parole 
+esehenry : mise. 20
+psychoman59 : passe. 
+LordVVayne : suit. 20
+*** TOURNANT *** [8d Qh Jd] [6c]
+LordVVayne : parole 
+esehenry : parole 
+*** RIVIÈRE *** [8d Qh Jd 6c] [3d]
+LordVVayne a dépassé le temps imparti.
+LordVVayne : parole 
+esehenry : parole 
+*** ABATTAGE ***
+LordVVayne : montre [7d 9h] (Hauteur Dame)
+esehenry : montre [Qs 7h] (une paire de Dames)
+esehenry a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [8d Qh Jd 6c 3d]
+Siège 1 : LordVVayne (grosse blind) a montré [7d 9h] et a perdu avec Hauteur Dame
+Siège 2 : esehenry (bouton) a montré [Qs 7h] et a gagné (100) avec une paire de Dames
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261828926453 : Tournoi #4025856166, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 22/08/2026 7:32:41 CET [22/08/2026 1:32:41 ET]
+Table '4025856166 1' 3-max Siège #3 est au bouton.
+Place 1: LordVVayne (460 en jetons) 
+Place 2: esehenry (580 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+LordVVayne : met la petite blind. 10
+esehenry : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 5d]
+psychoman59 : passe. 
+LordVVayne : passe. 
+Personne n'a suivi. (10) sont retournés à esehenry.
+esehenry a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : LordVVayne (petite blind) s'est couché. avant Flop
+Siège 2 : esehenry (grosse blind) a remporté (20)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261828927090 : Tournoi #4025856166, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 22/08/2026 7:32:52 CET [22/08/2026 1:32:52 ET]
+Table '4025856166 1' 3-max Siège #1 est au bouton.
+Place 1: LordVVayne (450 en jetons) 
+Place 2: esehenry (590 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+esehenry : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 9h]
+LordVVayne a dépassé le temps imparti.
+LordVVayne : passe. 
+LordVVayne ne joue pas.
+esehenry : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Ks 8d Kd]
+esehenry : parole 
+LordVVayne est revenu.
+psychoman59 : parole 
+*** TOURNANT *** [Ks 8d Kd] [9s]
+esehenry : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [Ks 8d Kd 9s] [Qc]
+esehenry : mise. 20
+psychoman59 : suit. 20
+*** ABATTAGE ***
+esehenry : montre [As Kh] (un brelan de Rois)
+psychoman59 : cache la main perdante. 
+esehenry a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Ks 8d Kd 9s Qc]
+Siège 1 : LordVVayne (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : esehenry (petite blind) a montré [As Kh] et a gagné (120) avec un brelan de Rois
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [Td 9h]
+
+
+
+Main PokerStars n°261828928752 : Tournoi #4025856166, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 22/08/2026 7:33:21 CET [22/08/2026 1:33:21 ET]
+Table '4025856166 1' 3-max Siège #2 est au bouton.
+Place 1: LordVVayne (450 en jetons) 
+Place 2: esehenry (650 en jetons) 
+Place 3: psychoman59 (400 en jetons) 
+psychoman59 : met la petite blind. 10
+LordVVayne : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Qs]
+esehenry : passe. 
+psychoman59 : suit. 10
+LordVVayne : parole 
+*** FLOP *** [8d 8c 3s]
+psychoman59 : parole 
+LordVVayne a dépassé le temps imparti.
+LordVVayne : parole 
+*** TOURNANT *** [8d 8c 3s] [2c]
+psychoman59 : parole 
+LordVVayne : parole 
+*** RIVIÈRE *** [8d 8c 3s 2c] [Js]
+psychoman59 : parole 
+LordVVayne : parole 
+*** ABATTAGE ***
+psychoman59 : montre [7h Qs] (une paire de Huit)
+LordVVayne : montre [6c 2h] (double paire, Huit et Deux)
+LordVVayne a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [8d 8c 3s 2c Js]
+Siège 1 : LordVVayne (grosse blind) a montré [6c 2h] et a gagné (40) avec double paire, Huit et Deux
+Siège 2 : esehenry (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [7h Qs] et a perdu avec une paire de Huit
+
+
+
+Main PokerStars n°261828931350 : Tournoi #4025856166, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 22/08/2026 7:34:07 CET [22/08/2026 1:34:07 ET]
+Table '4025856166 1' 3-max Siège #3 est au bouton.
+Place 1: LordVVayne (470 en jetons) 
+Place 2: esehenry (650 en jetons) 
+Place 3: psychoman59 (380 en jetons) 
+LordVVayne : met la petite blind. 10
+esehenry : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 6c]
+psychoman59 : passe. 
+LordVVayne : suit. 10
+esehenry : parole 
+*** FLOP *** [Qc 6h Tc]
+LordVVayne : mise. 20
+esehenry : suit. 20
+*** TOURNANT *** [Qc 6h Tc] [3c]
+LordVVayne : parole 
+esehenry : parole 
+*** RIVIÈRE *** [Qc 6h Tc 3c] [2s]
+LordVVayne : mise. 40
+esehenry : suit. 40
+*** ABATTAGE ***
+LordVVayne : montre [Ts 9s] (une paire de Dix)
+esehenry : cache la main perdante. 
+LordVVayne a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Qc 6h Tc 3c 2s]
+Siège 1 : LordVVayne (petite blind) a montré [Ts 9s] et a gagné (160) avec une paire de Dix
+Siège 2 : esehenry (grosse blind) a caché la main perdante. [Jc 6s]
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261828933454 : Tournoi #4025856166, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 22/08/2026 7:34:43 CET [22/08/2026 1:34:43 ET]
+Table '4025856166 1' 3-max Siège #1 est au bouton.
+Place 1: LordVVayne (550 en jetons) 
+Place 2: esehenry (570 en jetons) 
+Place 3: psychoman59 (380 en jetons) 
+esehenry : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Qc]
+LordVVayne : relance. 30 à 60
+esehenry : suit. 45
+psychoman59 : passe. 
+*** FLOP *** [Ac 5c 2d]
+esehenry : mise. 30
+LordVVayne : passe. 
+Personne n'a suivi. (30) sont retournés à esehenry.
+esehenry a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Tableau [Ac 5c 2d]
+Siège 1 : LordVVayne (bouton) s'est couché. sur le Flop
+Siège 2 : esehenry (petite blind) a remporté (150)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261828934816 : Tournoi #4025856166, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 22/08/2026 7:35:06 CET [22/08/2026 1:35:06 ET]
+Table '4025856166 1' 3-max Siège #2 est au bouton.
+Place 1: LordVVayne (490 en jetons) 
+Place 2: esehenry (660 en jetons) 
+Place 3: psychoman59 (350 en jetons) 
+psychoman59 : met la petite blind. 15
+LordVVayne : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Ah]
+esehenry : suit. 30
+psychoman59 : relance. 320 à 350 et est all-in.
+LordVVayne : passe. 
+esehenry : passe. 
+Personne n'a suivi. (320) sont retournés à psychoman59.
+psychoman59 a remporté 90  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Siège 1 : LordVVayne (grosse blind) s'est couché. avant Flop
+Siège 2 : esehenry (bouton) s'est couché. avant Flop
+Siège 3 : psychoman59 (petite blind) a remporté (90)
+
+
+
+Main PokerStars n°261828935314 : Tournoi #4025856166, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 22/08/2026 7:35:15 CET [22/08/2026 1:35:15 ET]
+Table '4025856166 1' 3-max Siège #3 est au bouton.
+Place 1: LordVVayne (460 en jetons) 
+Place 2: esehenry (630 en jetons) 
+Place 3: psychoman59 (410 en jetons) 
+LordVVayne : met la petite blind. 15
+esehenry : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Qc]
+psychoman59 : passe. 
+LordVVayne : passe. 
+Personne n'a suivi. (15) sont retournés à esehenry.
+esehenry a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : LordVVayne (petite blind) s'est couché. avant Flop
+Siège 2 : esehenry (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261828935686 : Tournoi #4025856166, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 22/08/2026 7:35:21 CET [22/08/2026 1:35:21 ET]
+Table '4025856166 1' 3-max Siège #1 est au bouton.
+Place 1: LordVVayne (445 en jetons) 
+Place 2: esehenry (645 en jetons) 
+Place 3: psychoman59 (410 en jetons) 
+esehenry : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Td]
+LordVVayne : passe. 
+esehenry : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Jh 8d Qd]
+esehenry : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Jh 8d Qd] [9s]
+esehenry : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Jh 8d Qd 9s] [9h]
+esehenry : parole 
+psychoman59 : mise. 30
+esehenry : suit. 30
+*** ABATTAGE ***
+psychoman59 : montre [2h Td] (une suite, Huit à Dame)
+esehenry : cache la main perdante. 
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Jh 8d Qd 9s 9h]
+Siège 1 : LordVVayne (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : esehenry (petite blind) a caché la main perdante. [7c 7s]
+Siège 3 : psychoman59 (grosse blind) a montré [2h Td] et a gagné (120) avec une suite, Huit à Dame
+
+
+
+Main PokerStars n°261828936883 : Tournoi #4025856166, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 22/08/2026 7:35:41 CET [22/08/2026 1:35:41 ET]
+Table '4025856166 1' 3-max Siège #2 est au bouton.
+Place 1: LordVVayne (445 en jetons) 
+Place 2: esehenry (585 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+psychoman59 : met la petite blind. 15
+LordVVayne : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Js]
+esehenry : passe. 
+psychoman59 : suit. 15
+LordVVayne : parole 
+*** FLOP *** [4h 7c Th]
+psychoman59 : parole 
+LordVVayne : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à LordVVayne.
+LordVVayne a remporté 60  lors du pot .
+LordVVayne : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [4h 7c Th]
+Siège 1 : LordVVayne (grosse blind) a remporté (60)
+Siège 2 : esehenry (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261828938432 : Tournoi #4025856166, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 22/08/2026 7:36:08 CET [22/08/2026 1:36:08 ET]
+Table '4025856166 1' 3-max Siège #3 est au bouton.
+Place 1: LordVVayne (475 en jetons) 
+Place 2: esehenry (585 en jetons) 
+Place 3: psychoman59 (440 en jetons) 
+LordVVayne : met la petite blind. 15
+esehenry : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 6s]
+psychoman59 : passe. 
+LordVVayne : passe. 
+Personne n'a suivi. (15) sont retournés à esehenry.
+esehenry a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : LordVVayne (petite blind) s'est couché. avant Flop
+Siège 2 : esehenry (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261828939016 : Tournoi #4025856166, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 22/08/2026 7:36:18 CET [22/08/2026 1:36:18 ET]
+Table '4025856166 1' 3-max Siège #1 est au bouton.
+Place 1: LordVVayne (460 en jetons) 
+Place 2: esehenry (600 en jetons) 
+Place 3: psychoman59 (440 en jetons) 
+esehenry : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 8h]
+LordVVayne : passe. 
+esehenry : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Kc Ks 3s]
+esehenry : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Kc Ks 3s] [2s]
+esehenry : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Kc Ks 3s 2s] [9c]
+esehenry : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+esehenry : montre [3h As] (double paire, Rois et Trois)
+psychoman59 : cache la main perdante. 
+esehenry a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Kc Ks 3s 2s 9c]
+Siège 1 : LordVVayne (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : esehenry (petite blind) a montré [3h As] et a gagné (60) avec double paire, Rois et Trois
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [Jd 8h]
+
+
+
+Main PokerStars n°261828940390 : Tournoi #4025856166, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 22/08/2026 7:36:41 CET [22/08/2026 1:36:41 ET]
+Table '4025856166 1' 3-max Siège #2 est au bouton.
+Place 1: LordVVayne (460 en jetons) 
+Place 2: esehenry (630 en jetons) 
+Place 3: psychoman59 (410 en jetons) 
+psychoman59 : met la petite blind. 15
+LordVVayne : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 9s]
+esehenry : suit. 30
+psychoman59 : suit. 15
+LordVVayne : parole 
+*** FLOP *** [Qd 9h Ts]
+psychoman59 : mise. 90
+LordVVayne : passe. 
+esehenry : relance. 510 à 600 et est all-in.
+psychoman59 : suit. 290 et est all-in.
+Personne n'a suivi. (220) sont retournés à esehenry.
+*** TOURNANT *** [Qd 9h Ts] [Ks]
+*** RIVIÈRE *** [Qd 9h Ts Ks] [2c]
+*** ABATTAGE ***
+psychoman59 : montre [Qs 9s] (double paire, Dames et Neuf)
+esehenry : montre [Td Kd] (double paire, Rois et Dix)
+esehenry a remporté 850  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 850 | Commission 0 
+Tableau [Qd 9h Ts Ks 2c]
+Siège 1 : LordVVayne (grosse blind) s'est couché. sur le Flop
+Siège 2 : esehenry (bouton) a montré [Td Kd] et a gagné (850) avec double paire, Rois et Dix
+Siège 3 : psychoman59 (petite blind) a montré [Qs 9s] et a perdu avec double paire, Dames et Neuf
+
+
+

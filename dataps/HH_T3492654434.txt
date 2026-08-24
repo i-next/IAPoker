@@ -1,0 +1,140 @@
+﻿Main PokerStars n°239520636002 : Tournoi #3492654434, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 29/10/2022 12:17:43 CET [29/10/2022 6:17:43 ET]
+Table '3492654434 1' 3-max Siège #1 est au bouton.
+Place 1: dojudo11 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: djamel13230 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+djamel13230 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 7h]
+dojudo11 : suit. 20
+psychoman59 : suit. 10
+djamel13230 : parole 
+*** FLOP *** [4d 8c 5s]
+psychoman59 : parole 
+djamel13230 : parole 
+dojudo11 : mise. 20
+psychoman59 : suit. 20
+djamel13230 : passe. 
+*** TOURNANT *** [4d 8c 5s] [Kd]
+psychoman59 : parole 
+dojudo11 : mise. 40
+psychoman59 : relance. 60 à 100
+dojudo11 : suit. 60
+*** RIVIÈRE *** [4d 8c 5s Kd] [7s]
+psychoman59 : mise. 150
+dojudo11 : suit. 150
+*** ABATTAGE ***
+psychoman59 : montre [Kh 7h] (double paire, Rois et Sept)
+dojudo11 : montre [Ks 8h] (double paire, Rois et Huit)
+dojudo11 a remporté 600  lors du pot .
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [4d 8c 5s Kd 7s]
+Siège 1 : dojudo11 (bouton) a montré [Ks 8h] et a gagné (600) avec double paire, Rois et Huit
+Siège 2 : psychoman59 (petite blind) a montré [Kh 7h] et a perdu avec double paire, Rois et Sept
+Siège 3 : djamel13230 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°239520643404 : Tournoi #3492654434, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 29/10/2022 12:18:29 CET [29/10/2022 6:18:29 ET]
+Table '3492654434 1' 3-max Siège #2 est au bouton.
+Place 1: dojudo11 (610 en jetons) 
+Place 2: psychoman59 (10 en jetons) 
+Place 3: djamel13230 (280 en jetons) 
+djamel13230 : met la petite blind. 10
+dojudo11 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Kh]
+psychoman59 : suit. 10 et est all-in.
+djamel13230 : suit. 10
+dojudo11 : parole 
+*** FLOP *** [9d Td Ah]
+djamel13230 : parole 
+dojudo11 : parole 
+*** TOURNANT *** [9d Td Ah] [Kc]
+djamel13230 : parole 
+dojudo11 : mise. 20
+djamel13230 : suit. 20
+*** RIVIÈRE *** [9d Td Ah Kc] [3d]
+djamel13230 : parole 
+dojudo11 : parole 
+*** ABATTAGE ***
+djamel13230 : montre [Qc 8d] (Hauteur As)
+dojudo11 : cache la main perdante. 
+djamel13230 a remporté 60  parallèle lors du pot .
+psychoman59 : montre [Ts Kh] (double paire, Rois et Dix)
+psychoman59 a remporté 30  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 Principal pot 30. Parallèle pot 60. | Commission 0 
+Tableau [9d Td Ah Kc 3d]
+Siège 1 : dojudo11 (grosse blind) a caché la main perdante. [5c 8h]
+Siège 2 : psychoman59 (bouton) a montré [Ts Kh] et a gagné (30) avec double paire, Rois et Dix
+Siège 3 : djamel13230 (petite blind) a montré [Qc 8d] et a gagné (60) avec Hauteur As
+
+
+
+Main PokerStars n°239520648971 : Tournoi #3492654434, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 29/10/2022 12:19:03 CET [29/10/2022 6:19:03 ET]
+Table '3492654434 1' 3-max Siège #3 est au bouton.
+Place 1: dojudo11 (570 en jetons) 
+Place 2: psychoman59 (30 en jetons) 
+Place 3: djamel13230 (300 en jetons) 
+dojudo11 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Ac]
+djamel13230 : suit. 30
+dojudo11 : suit. 15
+*** FLOP *** [Ah Qd Js]
+dojudo11 : parole 
+djamel13230 : parole 
+*** TOURNANT *** [Ah Qd Js] [Td]
+dojudo11 : parole 
+djamel13230 : parole 
+*** RIVIÈRE *** [Ah Qd Js Td] [2c]
+dojudo11 : parole 
+djamel13230 : parole 
+*** ABATTAGE ***
+dojudo11 : montre [4h 4d] (une paire de Quatre)
+psychoman59 : montre [Kc Ac] (une suite, Dix à As)
+djamel13230 : cache la main perdante. 
+psychoman59 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [Ah Qd Js Td 2c]
+Siège 1 : dojudo11 (petite blind) a montré [4h 4d] et a perdu avec une paire de Quatre
+Siège 2 : psychoman59 (grosse blind) a montré [Kc Ac] et a gagné (90) avec une suite, Dix à As
+Siège 3 : djamel13230 (bouton) a caché la main perdante. [6d 5c]
+
+
+
+Main PokerStars n°239520651464 : Tournoi #3492654434, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 29/10/2022 12:19:18 CET [29/10/2022 6:19:18 ET]
+Table '3492654434 1' 3-max Siège #1 est au bouton.
+Place 1: dojudo11 (540 en jetons) 
+Place 2: psychoman59 (90 en jetons) 
+Place 3: djamel13230 (270 en jetons) 
+psychoman59 : met la petite blind. 15
+djamel13230 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Ah]
+dojudo11 : suit. 30
+psychoman59 : relance. 60 à 90 et est all-in.
+djamel13230 : passe. 
+dojudo11 : suit. 60
+*** FLOP *** [Ks 9c Kd]
+*** TOURNANT *** [Ks 9c Kd] [5s]
+*** RIVIÈRE *** [Ks 9c Kd 5s] [3s]
+*** ABATTAGE ***
+psychoman59 : montre [Ts Ah] (une paire de Rois)
+dojudo11 : montre [9s 9h] (un full, full aux Neuf par les Rois)
+dojudo11 a remporté 210  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Tableau [Ks 9c Kd 5s 3s]
+Siège 1 : dojudo11 (bouton) a montré [9s 9h] et a gagné (210) avec un full, full aux Neuf par les Rois
+Siège 2 : psychoman59 (petite blind) a montré [Ts Ah] et a perdu avec une paire de Rois
+Siège 3 : djamel13230 (grosse blind) s'est couché. avant Flop
+
+
+

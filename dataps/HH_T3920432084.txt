@@ -1,0 +1,24 @@
+﻿Main PokerStars n°257763701618 : Tournoi #3920432084, Freeroll  Hold'em No Limit - Match Round I, Niveau I (2000000/4000000) - 16/09/2025 10:05:01 CET [16/09/2025 4:05:01 ET]
+Table '3920432084 781' 2-max Siège #1 est au bouton.
+Place 1: psychoman59 (252 en jetons) 
+Place 2: kT7PIS3_F3Ikn (252 en jetons) ne joue pas.
+psychoman59 : met l'ante. 252 et est all-in.
+kT7PIS3_F3Ikn : met l'ante. 252 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 7c]
+*** FLOP *** [As 4d 2d]
+*** TOURNANT *** [As 4d 2d] [2h]
+*** RIVIÈRE *** [As 4d 2d 2h] [Kh]
+*** ABATTAGE ***
+kT7PIS3_F3Ikn : montre [7d Kd] (double paire, Rois et Deux)
+psychoman59 : montre [6h 7c] (une paire de Deux)
+kT7PIS3_F3Ikn a remporté 504  lors du pot .
+psychoman59 a fini le tournoi en 2248e position.
+*** SYNTHÈSE ***
+Pot total 504 | Commission 0 
+Tableau [As 4d 2d 2h Kh]
+Siège 1 : psychoman59 (bouton) a montré [6h 7c] et a perdu avec une paire de Deux
+Siège 2 : kT7PIS3_F3Ikn a montré [7d Kd] et a gagné (504) avec double paire, Rois et Deux
+
+
+

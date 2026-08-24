@@ -1,0 +1,201 @@
+﻿Main PokerStars n°240769099199 : Tournoi #3522892729, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 29/12/2022 11:00:45 CET [29/12/2022 5:00:45 ET]
+Table '3522892729 1' 3-max Siège #1 est au bouton.
+Place 1: TOM-Hoplites (300 en jetons) 
+Place 2: virgile69 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+virgile69 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 9s]
+TOM-Hoplites : passe. 
+virgile69 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [8h Ah Kh]
+virgile69 : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à virgile69.
+virgile69 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [8h Ah Kh]
+Siège 1 : TOM-Hoplites (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : virgile69 (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°240769101588 : Tournoi #3522892729, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 29/12/2022 11:01:02 CET [29/12/2022 5:01:02 ET]
+Table '3522892729 1' 3-max Siège #2 est au bouton.
+Place 1: TOM-Hoplites (300 en jetons) 
+Place 2: virgile69 (320 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+TOM-Hoplites : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 5s]
+virgile69 : suit. 20
+psychoman59 : passe. 
+TOM-Hoplites : parole 
+*** FLOP *** [3s 5d Kh]
+TOM-Hoplites : mise. 20
+virgile69 : suit. 20
+*** TOURNANT *** [3s 5d Kh] [9d]
+TOM-Hoplites : mise. 20
+virgile69 : passe. 
+Personne n'a suivi. (20) sont retournés à TOM-Hoplites.
+TOM-Hoplites a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [3s 5d Kh 9d]
+Siège 1 : TOM-Hoplites (grosse blind) a remporté (90)
+Siège 2 : virgile69 (bouton) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240769104522 : Tournoi #3522892729, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 29/12/2022 11:01:22 CET [29/12/2022 5:01:22 ET]
+Table '3522892729 1' 3-max Siège #3 est au bouton.
+Place 1: TOM-Hoplites (350 en jetons) 
+Place 2: virgile69 (280 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+TOM-Hoplites : met la petite blind. 10
+virgile69 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 8s]
+psychoman59 : passe. 
+TOM-Hoplites : suit. 10
+virgile69 : relance. 20 à 40
+TOM-Hoplites : suit. 20
+*** FLOP *** [9c Jh Jc]
+TOM-Hoplites : parole 
+virgile69 : mise. 40
+TOM-Hoplites : passe. 
+Personne n'a suivi. (40) sont retournés à virgile69.
+virgile69 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [9c Jh Jc]
+Siège 1 : TOM-Hoplites (petite blind) s'est couché. sur le Flop
+Siège 2 : virgile69 (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°240769107286 : Tournoi #3522892729, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 29/12/2022 11:01:41 CET [29/12/2022 5:01:41 ET]
+Table '3522892729 1' 3-max Siège #1 est au bouton.
+Place 1: TOM-Hoplites (310 en jetons) 
+Place 2: virgile69 (320 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+virgile69 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 8s]
+TOM-Hoplites : suit. 20
+virgile69 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [7h 4h 5d]
+virgile69 : mise. 20
+psychoman59 : suit. 20
+TOM-Hoplites : relance. 60 à 80
+virgile69 : suit. 60
+psychoman59 : relance. 170 à 250 et est all-in.
+TOM-Hoplites : relance. 40 à 290 et est all-in.
+virgile69 : passe. 
+Personne n'a suivi. (40) sont retournés à TOM-Hoplites.
+*** TOURNANT *** [7h 4h 5d] [2s]
+*** RIVIÈRE *** [7h 4h 5d 2s] [8c]
+*** ABATTAGE ***
+psychoman59 : montre [6c 8s] (une suite, Quatre à Huit)
+TOM-Hoplites : montre [As Ad] (une paire de As)
+psychoman59 a remporté 640  lors du pot .
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [7h 4h 5d 2s 8c]
+Siège 1 : TOM-Hoplites (bouton) a montré [As Ad] et a perdu avec une paire de As
+Siège 2 : virgile69 (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a montré [6c 8s] et a gagné (640) avec une suite, Quatre à Huit
+
+
+
+Main PokerStars n°240769112919 : Tournoi #3522892729, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 29/12/2022 11:02:18 CET [29/12/2022 5:02:18 ET]
+Table '3522892729 1' 3-max Siège #2 est au bouton.
+Place 1: TOM-Hoplites (40 en jetons) 
+Place 2: virgile69 (220 en jetons) 
+Place 3: psychoman59 (640 en jetons) 
+psychoman59 : met la petite blind. 15
+TOM-Hoplites : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Js]
+virgile69 : suit. 30
+psychoman59 : suit. 15
+TOM-Hoplites : relance. 10 à 40 et est all-in.
+virgile69 : suit. 10
+psychoman59 : suit. 10
+*** FLOP *** [9s 8h Ad]
+psychoman59 : parole 
+virgile69 : mise. 180 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (180) sont retournés à virgile69.
+*** TOURNANT *** [9s 8h Ad] [7c]
+*** RIVIÈRE *** [9s 8h Ad 7c] [6h]
+*** ABATTAGE ***
+TOM-Hoplites : montre [3s 8s] (une paire de Huit)
+virgile69 : montre [Kc Kd] (une paire de Rois)
+virgile69 a remporté 120  lors du pot .
+TOM-Hoplites a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [9s 8h Ad 7c 6h]
+Siège 1 : TOM-Hoplites (grosse blind) a montré [3s 8s] et a perdu avec une paire de Huit
+Siège 2 : virgile69 (bouton) a montré [Kc Kd] et a gagné (120) avec une paire de Rois
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°240769118719 : Tournoi #3522892729, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 29/12/2022 11:02:55 CET [29/12/2022 5:02:55 ET]
+Table '3522892729 1' 3-max Siège #3 est au bouton.
+Place 2: virgile69 (300 en jetons) 
+Place 3: psychoman59 (600 en jetons) 
+psychoman59 : met la petite blind. 20
+virgile69 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 8d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à virgile69.
+virgile69 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : virgile69 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240769119618 : Tournoi #3522892729, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 29/12/2022 11:03:01 CET [29/12/2022 5:03:01 ET]
+Table '3522892729 1' 3-max Siège #2 est au bouton.
+Place 2: virgile69 (320 en jetons) 
+Place 3: psychoman59 (580 en jetons) 
+virgile69 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s As]
+virgile69 : suit. 20
+psychoman59 : relance. 540 à 580 et est all-in.
+virgile69 : suit. 280 et est all-in.
+Personne n'a suivi. (260) sont retournés à psychoman59.
+*** FLOP *** [7c 3c Jc]
+*** TOURNANT *** [7c 3c Jc] [5h]
+*** RIVIÈRE *** [7c 3c Jc 5h] [Th]
+*** ABATTAGE ***
+psychoman59 : montre [2s As] (Hauteur As)
+virgile69 : montre [9s Qd] (Hauteur Dame)
+psychoman59 a remporté 640  lors du pot .
+virgile69 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [7c 3c Jc 5h Th]
+Siège 2 : virgile69 (bouton) (petite blind) a montré [9s Qd] et a perdu avec Hauteur Dame
+Siège 3 : psychoman59 (grosse blind) a montré [2s As] et a gagné (640) avec Hauteur As
+
+
+

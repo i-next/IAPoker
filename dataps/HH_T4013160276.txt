@@ -1,0 +1,437 @@
+﻿Main PokerStars n°261322401968 : Tournoi #4013160276, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 03/07/2026 8:22:18 CET [03/07/2026 2:22:18 ET]
+Table '4013160276 1' 3-max Siège #1 est au bouton.
+Place 1: kikru (500 en jetons) 
+Place 2: CLOPIN666 (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+CLOPIN666 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 2s]
+kikru : suit. 20
+CLOPIN666 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [7c 8d Ah]
+CLOPIN666 : parole 
+psychoman59 : parole 
+kikru : mise. 20
+CLOPIN666 : suit. 20
+psychoman59 : passe. 
+*** TOURNANT *** [7c 8d Ah] [3c]
+CLOPIN666 : parole 
+kikru : parole 
+*** RIVIÈRE *** [7c 8d Ah 3c] [7s]
+CLOPIN666 : parole 
+kikru : parole 
+*** ABATTAGE ***
+CLOPIN666 : montre [Qd Jd] (une paire de Sept)
+kikru : cache la main perdante. 
+CLOPIN666 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [7c 8d Ah 3c 7s]
+Siège 1 : kikru (bouton) a caché la main perdante. [Ts 9h]
+Siège 2 : CLOPIN666 (petite blind) a montré [Qd Jd] et a gagné (100) avec une paire de Sept
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261322404353 : Tournoi #4013160276, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 03/07/2026 8:23:05 CET [03/07/2026 2:23:05 ET]
+Table '4013160276 1' 3-max Siège #2 est au bouton.
+Place 1: kikru (460 en jetons) 
+Place 2: CLOPIN666 (560 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 10
+kikru : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 9d]
+CLOPIN666 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à kikru.
+kikru a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : kikru (grosse blind) a remporté (20)
+Siège 2 : CLOPIN666 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261322404685 : Tournoi #4013160276, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 03/07/2026 8:23:11 CET [03/07/2026 2:23:11 ET]
+Table '4013160276 1' 3-max Siège #3 est au bouton.
+Place 1: kikru (470 en jetons) 
+Place 2: CLOPIN666 (560 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+kikru : met la petite blind. 10
+CLOPIN666 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 2d]
+psychoman59 : passe. 
+kikru : suit. 10
+CLOPIN666 : parole 
+*** FLOP *** [9s Tc Jd]
+kikru : parole 
+CLOPIN666 : parole 
+*** TOURNANT *** [9s Tc Jd] [8c]
+kikru : parole 
+CLOPIN666 : parole 
+*** RIVIÈRE *** [9s Tc Jd 8c] [4h]
+kikru : parole 
+CLOPIN666 : parole 
+*** ABATTAGE ***
+kikru : montre [7h Ks] (une suite, Sept à Valet)
+CLOPIN666 : cache la main perdante. 
+kikru a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [9s Tc Jd 8c 4h]
+Siège 1 : kikru (petite blind) a montré [7h Ks] et a gagné (40) avec une suite, Sept à Valet
+Siège 2 : CLOPIN666 (grosse blind) a caché la main perdante. [5c Ad]
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261322407055 : Tournoi #4013160276, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 03/07/2026 8:23:58 CET [03/07/2026 2:23:58 ET]
+Table '4013160276 1' 3-max Siège #1 est au bouton.
+Place 1: kikru (490 en jetons) 
+Place 2: CLOPIN666 (540 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+CLOPIN666 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 8d]
+kikru : suit. 20
+CLOPIN666 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [7s Td Th]
+CLOPIN666 : parole 
+psychoman59 : parole 
+kikru : mise. 20
+CLOPIN666 : passe. 
+psychoman59 : suit. 20
+*** TOURNANT *** [7s Td Th] [Qd]
+psychoman59 : parole 
+kikru : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [7s Td Th Qd] [Ac]
+psychoman59 : parole 
+kikru : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Ad 8d] (double paire, As et Dix)
+kikru : cache la main perdante. 
+psychoman59 a remporté 140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [7s Td Th Qd Ac]
+Siège 1 : kikru (bouton) a caché la main perdante. [Kh 7h]
+Siège 2 : CLOPIN666 (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a montré [Ad 8d] et a gagné (140) avec double paire, As et Dix
+
+
+
+Main PokerStars n°261322409145 : Tournoi #4013160276, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 03/07/2026 8:24:38 CET [03/07/2026 2:24:38 ET]
+Table '4013160276 1' 3-max Siège #2 est au bouton.
+Place 1: kikru (430 en jetons) 
+Place 2: CLOPIN666 (520 en jetons) 
+Place 3: psychoman59 (550 en jetons) 
+psychoman59 : met la petite blind. 10
+kikru : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 5h]
+CLOPIN666 : suit. 20
+psychoman59 : passe. 
+kikru : parole 
+*** FLOP *** [Qd Kh Qc]
+kikru : parole 
+CLOPIN666 : mise. 20
+kikru : passe. 
+Personne n'a suivi. (20) sont retournés à CLOPIN666.
+CLOPIN666 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [Qd Kh Qc]
+Siège 1 : kikru (grosse blind) s'est couché. sur le Flop
+Siège 2 : CLOPIN666 (bouton) a remporté (50)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261322410180 : Tournoi #4013160276, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 03/07/2026 8:24:59 CET [03/07/2026 2:24:59 ET]
+Table '4013160276 1' 3-max Siège #3 est au bouton.
+Place 1: kikru (410 en jetons) 
+Place 2: CLOPIN666 (550 en jetons) 
+Place 3: psychoman59 (540 en jetons) 
+kikru : met la petite blind. 10
+CLOPIN666 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Kh]
+psychoman59 : suit. 20
+kikru : suit. 10
+CLOPIN666 : parole 
+*** FLOP *** [7h 6d As]
+kikru : parole 
+CLOPIN666 : mise. 20
+psychoman59 : passe. 
+kikru : passe. 
+Personne n'a suivi. (20) sont retournés à CLOPIN666.
+CLOPIN666 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [7h 6d As]
+Siège 1 : kikru (petite blind) s'est couché. sur le Flop
+Siège 2 : CLOPIN666 (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261322411998 : Tournoi #4013160276, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 03/07/2026 8:25:35 CET [03/07/2026 2:25:35 ET]
+Table '4013160276 1' 3-max Siège #1 est au bouton.
+Place 1: kikru (390 en jetons) 
+Place 2: CLOPIN666 (590 en jetons) 
+Place 3: psychoman59 (520 en jetons) 
+CLOPIN666 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 6s]
+kikru : passe. 
+CLOPIN666 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Kd Th Js]
+CLOPIN666 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Kd Th Js] [7h]
+CLOPIN666 : parole 
+psychoman59 : mise. 60
+CLOPIN666 : suit. 60
+*** RIVIÈRE *** [Kd Th Js 7h] [Ah]
+CLOPIN666 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à CLOPIN666.
+CLOPIN666 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Kd Th Js 7h Ah]
+Siège 1 : kikru (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : CLOPIN666 (petite blind) a remporté (180)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°261322414282 : Tournoi #4013160276, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 03/07/2026 8:26:18 CET [03/07/2026 2:26:18 ET]
+Table '4013160276 1' 3-max Siège #2 est au bouton.
+Place 1: kikru (390 en jetons) 
+Place 2: CLOPIN666 (680 en jetons) 
+Place 3: psychoman59 (430 en jetons) 
+psychoman59 : met la petite blind. 15
+kikru : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 2c]
+CLOPIN666 : suit. 30
+psychoman59 : suit. 15
+kikru : parole 
+*** FLOP *** [2h 3s Ac]
+psychoman59 : parole 
+kikru : mise. 120
+CLOPIN666 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à kikru.
+kikru a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [2h 3s Ac]
+Siège 1 : kikru (grosse blind) a remporté (90)
+Siège 2 : CLOPIN666 (bouton) s'est couché. sur le Flop
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261322415268 : Tournoi #4013160276, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 03/07/2026 8:26:37 CET [03/07/2026 2:26:37 ET]
+Table '4013160276 1' 3-max Siège #3 est au bouton.
+Place 1: kikru (450 en jetons) 
+Place 2: CLOPIN666 (650 en jetons) 
+Place 3: psychoman59 (400 en jetons) 
+kikru : met la petite blind. 15
+CLOPIN666 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Jd]
+psychoman59 : passe. 
+kikru : suit. 15
+CLOPIN666 : parole 
+*** FLOP *** [3h 7c 3d]
+kikru : parole 
+CLOPIN666 : mise. 30
+kikru : passe. 
+Personne n'a suivi. (30) sont retournés à CLOPIN666.
+CLOPIN666 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [3h 7c 3d]
+Siège 1 : kikru (petite blind) s'est couché. sur le Flop
+Siège 2 : CLOPIN666 (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261322416910 : Tournoi #4013160276, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 03/07/2026 8:27:08 CET [03/07/2026 2:27:08 ET]
+Table '4013160276 1' 3-max Siège #1 est au bouton.
+Place 1: kikru (420 en jetons) 
+Place 2: CLOPIN666 (680 en jetons) 
+Place 3: psychoman59 (400 en jetons) 
+CLOPIN666 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Kh]
+kikru : relance. 90 à 120
+CLOPIN666 : passe. 
+psychoman59 : suit. 90
+*** FLOP *** [2s 2h 8s]
+psychoman59 : parole 
+kikru : mise. 300 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à kikru.
+kikru a remporté 255  lors du pot .
+*** SYNTHÈSE ***
+Pot total 255 | Commission 0 
+Tableau [2s 2h 8s]
+Siège 1 : kikru (bouton) a remporté (255)
+Siège 2 : CLOPIN666 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261322418108 : Tournoi #4013160276, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 03/07/2026 8:27:29 CET [03/07/2026 2:27:29 ET]
+Table '4013160276 1' 3-max Siège #2 est au bouton.
+Place 1: kikru (555 en jetons) 
+Place 2: CLOPIN666 (665 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 15
+kikru : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Tc]
+CLOPIN666 : relance. 30 à 60
+psychoman59 : passe. 
+kikru : passe. 
+Personne n'a suivi. (30) sont retournés à CLOPIN666.
+CLOPIN666 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : kikru (grosse blind) s'est couché. avant Flop
+Siège 2 : CLOPIN666 (bouton) a remporté (75)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261322418735 : Tournoi #4013160276, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 03/07/2026 8:27:41 CET [03/07/2026 2:27:41 ET]
+Table '4013160276 1' 3-max Siège #3 est au bouton.
+Place 1: kikru (525 en jetons) 
+Place 2: CLOPIN666 (710 en jetons) 
+Place 3: psychoman59 (265 en jetons) 
+kikru : met la petite blind. 15
+CLOPIN666 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 8d]
+psychoman59 : passe. 
+kikru : relance. 60 à 90
+CLOPIN666 : passe. 
+Personne n'a suivi. (60) sont retournés à kikru.
+kikru a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : kikru (petite blind) a remporté (60)
+Siège 2 : CLOPIN666 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261322419484 : Tournoi #4013160276, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 03/07/2026 8:27:55 CET [03/07/2026 2:27:55 ET]
+Table '4013160276 1' 3-max Siège #1 est au bouton.
+Place 1: kikru (555 en jetons) 
+Place 2: CLOPIN666 (680 en jetons) 
+Place 3: psychoman59 (265 en jetons) 
+CLOPIN666 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 9c]
+kikru : passe. 
+CLOPIN666 : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à CLOPIN666.
+CLOPIN666 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : kikru (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : CLOPIN666 (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261322420294 : Tournoi #4013160276, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 03/07/2026 8:28:10 CET [03/07/2026 2:28:10 ET]
+Table '4013160276 1' 3-max Siège #2 est au bouton.
+Place 1: kikru (555 en jetons) 
+Place 2: CLOPIN666 (710 en jetons) 
+Place 3: psychoman59 (235 en jetons) 
+psychoman59 : met la petite blind. 15
+kikru : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 9c]
+CLOPIN666 : suit. 30
+psychoman59 : suit. 15
+kikru : parole 
+*** FLOP *** [Qd 8s 4h]
+psychoman59 : parole 
+kikru : parole 
+CLOPIN666 : parole 
+*** TOURNANT *** [Qd 8s 4h] [Ad]
+psychoman59 : parole 
+kikru : parole 
+CLOPIN666 : mise. 30
+psychoman59 : passe. 
+kikru : passe. 
+Personne n'a suivi. (30) sont retournés à CLOPIN666.
+CLOPIN666 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [Qd 8s 4h Ad]
+Siège 1 : kikru (grosse blind) s'est couché. sur le Tournant
+Siège 2 : CLOPIN666 (bouton) a remporté (90)
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°261322422505 : Tournoi #4013160276, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 03/07/2026 8:28:52 CET [03/07/2026 2:28:52 ET]
+Table '4013160276 1' 3-max Siège #3 est au bouton.
+Place 1: kikru (525 en jetons) 
+Place 2: CLOPIN666 (770 en jetons) 
+Place 3: psychoman59 (205 en jetons) 
+kikru : met la petite blind. 20
+CLOPIN666 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Jc]
+psychoman59 : relance. 165 à 205 et est all-in.
+kikru : suit. 185
+CLOPIN666 : suit. 165
+*** FLOP *** [7s 7d Jd]
+kikru : parole 
+CLOPIN666 : mise. 40
+kikru : suit. 40
+*** TOURNANT *** [7s 7d Jd] [Ks]
+kikru : parole 
+CLOPIN666 : parole 
+*** RIVIÈRE *** [7s 7d Jd Ks] [Kd]
+kikru : mise. 280 et est all-in.
+CLOPIN666 : passe. 
+Personne n'a suivi. (280) sont retournés à kikru.
+*** ABATTAGE ***
+kikru : montre [Qh Kh] (un full, full aux Rois par les Sept)
+kikru a remporté 80  parallèle lors du pot .
+psychoman59 : montre [Ad Jc] (double paire, Rois et Valets)
+kikru a remporté 615  principal lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 695 Principal pot 615. Parallèle pot 80. | Commission 0 
+Tableau [7s 7d Jd Ks Kd]
+Siège 1 : kikru (petite blind) a montré [Qh Kh] et a gagné (695) avec un full, full aux Rois par les Sept
+Siège 2 : CLOPIN666 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (bouton) a montré [Ad Jc] et a perdu avec double paire, Rois et Valets
+
+
+

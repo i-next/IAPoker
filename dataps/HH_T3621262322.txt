@@ -1,0 +1,496 @@
+﻿Main PokerStars n°244970521071 : Tournoi #3621262322, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 23/07/2023 10:10:10 CET [23/07/2023 4:10:10 ET]
+Table '3621262322 1' 3-max Siège #1 est au bouton.
+Place 1: raulcasona (300 en jetons) 
+Place 2: rType777 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+rType777 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Js]
+raulcasona : passe. 
+rType777 : suit. 10
+psychoman59 : relance. 280 à 300 et est all-in.
+rType777 : passe. 
+Personne n'a suivi. (280) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : raulcasona (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : rType777 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°244970522418 : Tournoi #3621262322, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 23/07/2023 10:10:21 CET [23/07/2023 4:10:21 ET]
+Table '3621262322 1' 3-max Siège #2 est au bouton.
+Place 1: raulcasona (300 en jetons) 
+Place 2: rType777 (280 en jetons) 
+Place 3: psychoman59 (320 en jetons) 
+psychoman59 : met la petite blind. 10
+raulcasona : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 8s]
+rType777 : passe. 
+psychoman59 : suit. 10
+raulcasona : parole 
+*** FLOP *** [3d 6h As]
+psychoman59 : parole 
+raulcasona : parole 
+*** TOURNANT *** [3d 6h As] [4s]
+psychoman59 : parole 
+raulcasona : mise. 30
+psychoman59 : suit. 30
+*** RIVIÈRE *** [3d 6h As 4s] [Kd]
+psychoman59 : parole 
+raulcasona : parole 
+*** ABATTAGE ***
+psychoman59 : montre [7h 8s] (Hauteur As)
+raulcasona : montre [Qc 6d] (une paire de Six)
+raulcasona a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [3d 6h As 4s Kd]
+Siège 1 : raulcasona (grosse blind) a montré [Qc 6d] et a gagné (100) avec une paire de Six
+Siège 2 : rType777 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [7h 8s] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°244970526372 : Tournoi #3621262322, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 23/07/2023 10:10:53 CET [23/07/2023 4:10:53 ET]
+Table '3621262322 1' 3-max Siège #3 est au bouton.
+Place 1: raulcasona (350 en jetons) 
+Place 2: rType777 (280 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+raulcasona : met la petite blind. 10
+rType777 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Ah]
+psychoman59 : relance. 250 à 270 et est all-in.
+raulcasona : passe. 
+rType777 : suit. 250
+*** FLOP *** [Ks Kd Jd]
+*** TOURNANT *** [Ks Kd Jd] [4d]
+*** RIVIÈRE *** [Ks Kd Jd 4d] [As]
+*** ABATTAGE ***
+rType777 : montre [Qs Qh] (double paire, Rois et Dames)
+psychoman59 : montre [Kc Ah] (un full, full aux Rois par les As)
+psychoman59 a remporté 550  lors du pot .
+*** SYNTHÈSE ***
+Pot total 550 | Commission 0 
+Tableau [Ks Kd Jd 4d As]
+Siège 1 : raulcasona (petite blind) s'est couché. avant Flop
+Siège 2 : rType777 (grosse blind) a montré [Qs Qh] et a perdu avec double paire, Rois et Dames
+Siège 3 : psychoman59 (bouton) a montré [Kc Ah] et a gagné (550) avec un full, full aux Rois par les As
+
+
+
+Main PokerStars n°244970528314 : Tournoi #3621262322, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 23/07/2023 10:11:09 CET [23/07/2023 4:11:09 ET]
+Table '3621262322 1' 3-max Siège #1 est au bouton.
+Place 1: raulcasona (340 en jetons) 
+Place 2: rType777 (10 en jetons) 
+Place 3: psychoman59 (550 en jetons) 
+rType777 : met la petite blind. 10 et est all-in.
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 7c]
+raulcasona : relance. 20 à 40
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à raulcasona.
+*** FLOP *** [5d 4d Ks]
+*** TOURNANT *** [5d 4d Ks] [7s]
+*** RIVIÈRE *** [5d 4d Ks 7s] [Jh]
+*** ABATTAGE ***
+raulcasona : montre [Ac 3c] (Hauteur As)
+raulcasona a remporté 20  parallèle lors du pot .
+rType777 : montre [Kh 6d] (une paire de Rois)
+rType777 a remporté 30  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 Principal pot 30. Parallèle pot 20. | Commission 0 
+Tableau [5d 4d Ks 7s Jh]
+Siège 1 : raulcasona (bouton) a montré [Ac 3c] et a gagné (20) avec Hauteur As
+Siège 2 : rType777 (petite blind) a montré [Kh 6d] et a gagné (30) avec une paire de Rois
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244970530885 : Tournoi #3621262322, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 23/07/2023 10:11:31 CET [23/07/2023 4:11:31 ET]
+Table '3621262322 1' 3-max Siège #2 est au bouton.
+Place 1: raulcasona (340 en jetons) 
+Place 2: rType777 (30 en jetons) 
+Place 3: psychoman59 (530 en jetons) 
+psychoman59 : met la petite blind. 15
+raulcasona : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 2c]
+rType777 : suit. 30 et est all-in.
+psychoman59 : passe. 
+*** FLOP *** [Qd 5s 6d]
+*** TOURNANT *** [Qd 5s 6d] [9h]
+*** RIVIÈRE *** [Qd 5s 6d 9h] [Ad]
+*** ABATTAGE ***
+raulcasona : montre [9c 7h] (une paire de Neuf)
+rType777 : montre [Js 6h] (une paire de Six)
+raulcasona a remporté 75  lors du pot .
+rType777 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Tableau [Qd 5s 6d 9h Ad]
+Siège 1 : raulcasona (grosse blind) a montré [9c 7h] et a gagné (75) avec une paire de Neuf
+Siège 2 : rType777 (bouton) a montré [Js 6h] et a perdu avec une paire de Six
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244970532985 : Tournoi #3621262322, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 23/07/2023 10:11:48 CET [23/07/2023 4:11:48 ET]
+Table '3621262322 1' 3-max Siège #1 est au bouton.
+Place 1: raulcasona (385 en jetons) 
+Place 3: psychoman59 (515 en jetons) 
+raulcasona : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Td]
+raulcasona : suit. 15
+psychoman59 : parole 
+*** FLOP *** [5d 9h Kd]
+psychoman59 : parole 
+raulcasona : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à raulcasona.
+raulcasona a remporté 60  lors du pot .
+raulcasona : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [5d 9h Kd]
+Siège 1 : raulcasona (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°244970535434 : Tournoi #3621262322, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 23/07/2023 10:12:08 CET [23/07/2023 4:12:08 ET]
+Table '3621262322 1' 3-max Siège #3 est au bouton.
+Place 1: raulcasona (415 en jetons) 
+Place 3: psychoman59 (485 en jetons) 
+psychoman59 : met la petite blind. 15
+raulcasona : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 6d]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à raulcasona.
+raulcasona a remporté 30  lors du pot .
+raulcasona : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : raulcasona (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244970536295 : Tournoi #3621262322, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 23/07/2023 10:12:16 CET [23/07/2023 4:12:16 ET]
+Table '3621262322 1' 3-max Siège #1 est au bouton.
+Place 1: raulcasona (430 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+raulcasona : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Qc]
+raulcasona : suit. 20
+psychoman59 : parole 
+*** FLOP *** [4h 5d 9h]
+psychoman59 : parole 
+raulcasona : parole 
+*** TOURNANT *** [4h 5d 9h] [7d]
+psychoman59 : parole 
+raulcasona : parole 
+*** RIVIÈRE *** [4h 5d 9h 7d] [5c]
+psychoman59 : parole 
+raulcasona : mise. 40
+psychoman59 : suit. 40
+*** ABATTAGE ***
+raulcasona : montre [3h Jd] (une paire de Cinq)
+psychoman59 : montre [2h Qc] (une paire de Cinq - Dame kicker)
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [4h 5d 9h 7d 5c]
+Siège 1 : raulcasona (bouton) (petite blind) a montré [3h Jd] et a perdu avec une paire de Cinq
+Siège 3 : psychoman59 (grosse blind) a montré [2h Qc] et a gagné (160) avec une paire de Cinq
+
+
+
+Main PokerStars n°244970540422 : Tournoi #3621262322, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 23/07/2023 10:12:51 CET [23/07/2023 4:12:51 ET]
+Table '3621262322 1' 3-max Siège #3 est au bouton.
+Place 1: raulcasona (350 en jetons) 
+Place 3: psychoman59 (550 en jetons) 
+psychoman59 : met la petite blind. 20
+raulcasona : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 4d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à raulcasona.
+raulcasona a remporté 40  lors du pot .
+raulcasona : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : raulcasona (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244970541004 : Tournoi #3621262322, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 23/07/2023 10:12:55 CET [23/07/2023 4:12:55 ET]
+Table '3621262322 1' 3-max Siège #1 est au bouton.
+Place 1: raulcasona (370 en jetons) 
+Place 3: psychoman59 (530 en jetons) 
+raulcasona : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Tc]
+raulcasona : relance. 330 à 370 et est all-in.
+psychoman59 : suit. 330
+*** FLOP *** [Qd Kc 9c]
+*** TOURNANT *** [Qd Kc 9c] [6h]
+*** RIVIÈRE *** [Qd Kc 9c 6h] [Kd]
+*** ABATTAGE ***
+psychoman59 : montre [As Tc] (une paire de Rois)
+raulcasona : montre [6d 6c] (un full, full aux Six par les Rois)
+raulcasona a remporté 740  lors du pot .
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Tableau [Qd Kc 9c 6h Kd]
+Siège 1 : raulcasona (bouton) (petite blind) a montré [6d 6c] et a gagné (740) avec un full, full aux Six par les Rois
+Siège 3 : psychoman59 (grosse blind) a montré [As Tc] et a perdu avec une paire de Rois
+
+
+
+Main PokerStars n°244970542586 : Tournoi #3621262322, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 23/07/2023 10:13:09 CET [23/07/2023 4:13:09 ET]
+Table '3621262322 1' 3-max Siège #3 est au bouton.
+Place 1: raulcasona (740 en jetons) 
+Place 3: psychoman59 (160 en jetons) 
+psychoman59 : met la petite blind. 20
+raulcasona : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 7s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à raulcasona.
+raulcasona a remporté 40  lors du pot .
+raulcasona : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : raulcasona (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244970543556 : Tournoi #3621262322, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 23/07/2023 10:13:17 CET [23/07/2023 4:13:17 ET]
+Table '3621262322 1' 3-max Siège #1 est au bouton.
+Place 1: raulcasona (760 en jetons) 
+Place 3: psychoman59 (140 en jetons) 
+raulcasona : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 6d]
+raulcasona : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Qs 2d 3h]
+psychoman59 : mise. 80 et est all-in.
+raulcasona : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Qs 2d 3h]
+Siège 1 : raulcasona (bouton) (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°244970545636 : Tournoi #3621262322, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 23/07/2023 10:13:35 CET [23/07/2023 4:13:35 ET]
+Table '3621262322 1' 3-max Siège #3 est au bouton.
+Place 1: raulcasona (700 en jetons) 
+Place 3: psychoman59 (200 en jetons) 
+psychoman59 : met la petite blind. 30
+raulcasona : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Jc]
+psychoman59 : relance. 140 à 200 et est all-in.
+raulcasona : passe. 
+Personne n'a suivi. (140) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : raulcasona (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°244970546987 : Tournoi #3621262322, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 23/07/2023 10:13:46 CET [23/07/2023 4:13:46 ET]
+Table '3621262322 1' 3-max Siège #1 est au bouton.
+Place 1: raulcasona (640 en jetons) 
+Place 3: psychoman59 (260 en jetons) 
+raulcasona : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Th]
+raulcasona : suit. 30
+psychoman59 : relance. 200 à 260 et est all-in.
+raulcasona : passe. 
+Personne n'a suivi. (200) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : raulcasona (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°244970548353 : Tournoi #3621262322, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 23/07/2023 10:13:58 CET [23/07/2023 4:13:58 ET]
+Table '3621262322 1' 3-max Siège #3 est au bouton.
+Place 1: raulcasona (580 en jetons) 
+Place 3: psychoman59 (320 en jetons) 
+psychoman59 : met la petite blind. 30
+raulcasona : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 6c]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à raulcasona.
+raulcasona a remporté 60  lors du pot .
+raulcasona : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : raulcasona (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244970548941 : Tournoi #3621262322, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 23/07/2023 10:14:03 CET [23/07/2023 4:14:03 ET]
+Table '3621262322 1' 3-max Siège #1 est au bouton.
+Place 1: raulcasona (610 en jetons) 
+Place 3: psychoman59 (290 en jetons) 
+raulcasona : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Qh]
+raulcasona : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : raulcasona (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°244970549611 : Tournoi #3621262322, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 23/07/2023 10:14:09 CET [23/07/2023 4:14:09 ET]
+Table '3621262322 1' 3-max Siège #3 est au bouton.
+Place 1: raulcasona (580 en jetons) 
+Place 3: psychoman59 (320 en jetons) 
+psychoman59 : met la petite blind. 30
+raulcasona : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 6h]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à raulcasona.
+raulcasona a remporté 60  lors du pot .
+raulcasona : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : raulcasona (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244970550585 : Tournoi #3621262322, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 23/07/2023 10:14:18 CET [23/07/2023 4:14:18 ET]
+Table '3621262322 1' 3-max Siège #1 est au bouton.
+Place 1: raulcasona (610 en jetons) 
+Place 3: psychoman59 (290 en jetons) 
+raulcasona : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 4h]
+raulcasona : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : raulcasona (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°244970551344 : Tournoi #3621262322, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 23/07/2023 10:14:24 CET [23/07/2023 4:14:24 ET]
+Table '3621262322 1' 3-max Siège #3 est au bouton.
+Place 1: raulcasona (570 en jetons) 
+Place 3: psychoman59 (330 en jetons) 
+psychoman59 : met la petite blind. 40
+raulcasona : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc As]
+psychoman59 : relance. 250 à 330 et est all-in.
+raulcasona : passe. 
+Personne n'a suivi. (250) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : raulcasona (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°244970553121 : Tournoi #3621262322, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 23/07/2023 10:14:39 CET [23/07/2023 4:14:39 ET]
+Table '3621262322 1' 3-max Siège #1 est au bouton.
+Place 1: raulcasona (490 en jetons) 
+Place 3: psychoman59 (410 en jetons) 
+raulcasona : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Ks]
+raulcasona : relance. 410 à 490 et est all-in.
+psychoman59 : suit. 330 et est all-in.
+Personne n'a suivi. (80) sont retournés à raulcasona.
+*** FLOP *** [Ac Tc 3d]
+*** TOURNANT *** [Ac Tc 3d] [Ad]
+*** RIVIÈRE *** [Ac Tc 3d Ad] [3c]
+*** ABATTAGE ***
+psychoman59 : montre [Td Ks] (double paire, As et Dix)
+raulcasona : montre [Kd Jc] (double paire, As et Trois)
+psychoman59 a remporté 820  lors du pot .
+*** SYNTHÈSE ***
+Pot total 820 | Commission 0 
+Tableau [Ac Tc 3d Ad 3c]
+Siège 1 : raulcasona (bouton) (petite blind) a montré [Kd Jc] et a perdu avec double paire, As et Trois
+Siège 3 : psychoman59 (grosse blind) a montré [Td Ks] et a gagné (820) avec double paire, As et Dix
+
+
+
+Main PokerStars n°244970554655 : Tournoi #3621262322, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 23/07/2023 10:14:52 CET [23/07/2023 4:14:52 ET]
+Table '3621262322 1' 3-max Siège #3 est au bouton.
+Place 1: raulcasona (80 en jetons) 
+Place 3: psychoman59 (820 en jetons) 
+psychoman59 : met la petite blind. 40
+raulcasona : met la grosse blind. 80 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Jh]
+psychoman59 : suit. 40
+*** FLOP *** [Th Kd 2d]
+*** TOURNANT *** [Th Kd 2d] [5c]
+*** RIVIÈRE *** [Th Kd 2d 5c] [4s]
+*** ABATTAGE ***
+raulcasona : montre [7h 9h] (Hauteur Roi)
+psychoman59 : montre [Qd Jh] (Hauteur Roi - Dame kicker)
+psychoman59 a remporté 160  lors du pot .
+raulcasona a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 6.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Th Kd 2d 5c 4s]
+Siège 1 : raulcasona (grosse blind) a montré [7h 9h] et a perdu avec Hauteur Roi
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Qd Jh] et a gagné (160) avec Hauteur Roi
+
+
+

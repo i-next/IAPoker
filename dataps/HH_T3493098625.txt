@@ -1,0 +1,915 @@
+﻿Main PokerStars n°239539584450 : Tournoi #3493098625, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 30/10/2022 10:54:19 CET [30/10/2022 5:54:19 ET]
+Table '3493098625 1' 4-max Siège #1 est au bouton.
+Place 1: elfantasmill (5000 en jetons) 
+Place 2: Nekztyle (5000 en jetons) 
+Place 3: psychoman59 (5000 en jetons) 
+Place 4: Flowgaara (5000 en jetons) 
+elfantasmill : met l'ante. 10
+Nekztyle : met l'ante. 10
+psychoman59 : met l'ante. 10
+Flowgaara : met l'ante. 10
+Nekztyle : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Ts]
+Flowgaara : suit. 100
+elfantasmill : suit. 100
+Nekztyle : suit. 50
+psychoman59 : parole 
+*** FLOP *** [Js 3d 5s]
+Nekztyle : parole 
+psychoman59 : mise. 440
+Flowgaara : suit. 440
+elfantasmill : suit. 440
+Nekztyle : passe. 
+*** TOURNANT *** [Js 3d 5s] [Ah]
+psychoman59 : mise. 450
+Flowgaara : relance. 4000 à 4450 et est all-in.
+elfantasmill : suit. 4450 et est all-in.
+psychoman59 : passe. 
+*** RIVIÈRE *** [Js 3d 5s Ah] [Kc]
+*** ABATTAGE ***
+Flowgaara : montre [6d Jh] (une paire de Valets)
+elfantasmill : montre [4s Qs] (Hauteur As)
+Flowgaara a remporté 11110  lors du pot .
+elfantasmill a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 11110 | Commission 0 
+Tableau [Js 3d 5s Ah Kc]
+Siège 1 : elfantasmill (bouton) a montré [4s Qs] et a perdu avec Hauteur As
+Siège 2 : Nekztyle (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 4 : Flowgaara a montré [6d Jh] et a gagné (11110) avec une paire de Valets
+
+
+
+Main PokerStars n°239539593704 : Tournoi #3493098625, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 30/10/2022 10:55:18 CET [30/10/2022 5:55:18 ET]
+Table '3493098625 1' 4-max Siège #2 est au bouton.
+Place 2: Nekztyle (4890 en jetons) 
+Place 3: psychoman59 (4000 en jetons) 
+Place 4: Flowgaara (11110 en jetons) 
+Nekztyle : met l'ante. 10
+psychoman59 : met l'ante. 10
+Flowgaara : met l'ante. 10
+psychoman59 : met la petite blind. 50
+Flowgaara : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Ts]
+Nekztyle : suit. 100
+psychoman59 : suit. 50
+Flowgaara : parole 
+*** FLOP *** [Ac 4h 2s]
+psychoman59 : parole 
+Flowgaara : parole 
+Nekztyle : parole 
+*** TOURNANT *** [Ac 4h 2s] [Qc]
+psychoman59 : parole 
+Flowgaara : mise. 100
+Nekztyle : suit. 100
+psychoman59 : suit. 100
+*** RIVIÈRE *** [Ac 4h 2s Qc] [5c]
+psychoman59 : parole 
+Flowgaara : parole 
+Nekztyle : mise. 200
+psychoman59 : passe. 
+Flowgaara : passe. 
+Personne n'a suivi. (200) sont retournés à Nekztyle.
+Nekztyle a remporté 630  lors du pot .
+Nekztyle : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 630 | Commission 0 
+Tableau [Ac 4h 2s Qc 5c]
+Siège 2 : Nekztyle (bouton) a remporté (630)
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Rivière
+Siège 4 : Flowgaara (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°239539599054 : Tournoi #3493098625, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 30/10/2022 10:55:57 CET [30/10/2022 5:55:57 ET]
+Table '3493098625 1' 4-max Siège #3 est au bouton.
+Place 2: Nekztyle (5310 en jetons) 
+Place 3: psychoman59 (3790 en jetons) 
+Place 4: Flowgaara (10900 en jetons) 
+Nekztyle : met l'ante. 10
+psychoman59 : met l'ante. 10
+Flowgaara : met l'ante. 10
+Flowgaara : met la petite blind. 50
+Nekztyle : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 2d]
+psychoman59 : passe. 
+Flowgaara : suit. 50
+Nekztyle : parole 
+*** FLOP *** [Ts 3c 9h]
+Flowgaara : mise. 100
+Nekztyle : suit. 100
+*** TOURNANT *** [Ts 3c 9h] [9d]
+Flowgaara : mise. 200
+Nekztyle : passe. 
+Personne n'a suivi. (200) sont retournés à Flowgaara.
+Flowgaara a remporté 430  lors du pot .
+*** SYNTHÈSE ***
+Pot total 430 | Commission 0 
+Tableau [Ts 3c 9h 9d]
+Siège 2 : Nekztyle (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : Flowgaara (petite blind) a remporté (430)
+
+
+
+Main PokerStars n°239539601814 : Tournoi #3493098625, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 30/10/2022 10:56:17 CET [30/10/2022 5:56:17 ET]
+Table '3493098625 1' 4-max Siège #4 est au bouton.
+Place 2: Nekztyle (5100 en jetons) 
+Place 3: psychoman59 (3780 en jetons) 
+Place 4: Flowgaara (11120 en jetons) 
+Nekztyle : met l'ante. 10
+psychoman59 : met l'ante. 10
+Flowgaara : met l'ante. 10
+Nekztyle : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 4s]
+Flowgaara : relance. 100 à 200
+Nekztyle : suit. 150
+psychoman59 : suit. 100
+*** FLOP *** [8c 7s 9h]
+Nekztyle : mise. 630
+psychoman59 : passe. 
+Flowgaara : passe. 
+Personne n'a suivi. (630) sont retournés à Nekztyle.
+Nekztyle a remporté 630  lors du pot .
+Nekztyle : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 630 | Commission 0 
+Tableau [8c 7s 9h]
+Siège 2 : Nekztyle (petite blind) a remporté (630)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 4 : Flowgaara (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°239539604634 : Tournoi #3493098625, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 30/10/2022 10:56:37 CET [30/10/2022 5:56:37 ET]
+Table '3493098625 1' 4-max Siège #2 est au bouton.
+Place 2: Nekztyle (5520 en jetons) 
+Place 3: psychoman59 (3570 en jetons) 
+Place 4: Flowgaara (10910 en jetons) 
+Nekztyle : met l'ante. 10
+psychoman59 : met l'ante. 10
+Flowgaara : met l'ante. 10
+psychoman59 : met la petite blind. 50
+Flowgaara : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 2c]
+Nekztyle : passe. 
+psychoman59 : relance. 3460 à 3560 et est all-in.
+Flowgaara : passe. 
+Personne n'a suivi. (3460) sont retournés à psychoman59.
+psychoman59 a remporté 230  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 230 | Commission 0 
+Siège 2 : Nekztyle (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (230)
+Siège 4 : Flowgaara (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239539606454 : Tournoi #3493098625, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 30/10/2022 10:56:49 CET [30/10/2022 5:56:49 ET]
+Table '3493098625 1' 4-max Siège #3 est au bouton.
+Place 2: Nekztyle (5510 en jetons) 
+Place 3: psychoman59 (3690 en jetons) 
+Place 4: Flowgaara (10800 en jetons) 
+Nekztyle : met l'ante. 10
+psychoman59 : met l'ante. 10
+Flowgaara : met l'ante. 10
+Flowgaara : met la petite blind. 50
+Nekztyle : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Kd]
+psychoman59 : relance. 280 à 380
+Flowgaara : passe. 
+Nekztyle : suit. 280
+*** FLOP *** [8d 4s Jd]
+Nekztyle : parole 
+psychoman59 : mise. 840
+Nekztyle : passe. 
+Personne n'a suivi. (840) sont retournés à psychoman59.
+psychoman59 a remporté 840  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Tableau [8d 4s Jd]
+Siège 2 : Nekztyle (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) a remporté (840)
+Siège 4 : Flowgaara (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239539609097 : Tournoi #3493098625, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 30/10/2022 10:57:09 CET [30/10/2022 5:57:09 ET]
+Table '3493098625 1' 4-max Siège #4 est au bouton.
+Place 2: Nekztyle (5120 en jetons) 
+Place 3: psychoman59 (4140 en jetons) 
+Place 4: Flowgaara (10740 en jetons) 
+Nekztyle : met l'ante. 10
+psychoman59 : met l'ante. 10
+Flowgaara : met l'ante. 10
+Nekztyle : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Qd]
+Flowgaara : passe. 
+Nekztyle : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 130  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Siège 2 : Nekztyle (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (130)
+Siège 4 : Flowgaara (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°239539610165 : Tournoi #3493098625, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 30/10/2022 10:57:16 CET [30/10/2022 5:57:16 ET]
+Table '3493098625 1' 4-max Siège #2 est au bouton.
+Place 2: Nekztyle (5060 en jetons) 
+Place 3: psychoman59 (4210 en jetons) 
+Place 4: Flowgaara (10730 en jetons) 
+Nekztyle : met l'ante. 10
+psychoman59 : met l'ante. 10
+Flowgaara : met l'ante. 10
+psychoman59 : met la petite blind. 50
+Flowgaara : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 5d]
+Nekztyle : relance. 400 à 500
+psychoman59 : passe. 
+Flowgaara : passe. 
+Personne n'a suivi. (400) sont retournés à Nekztyle.
+Nekztyle a remporté 280  lors du pot .
+Nekztyle : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Siège 2 : Nekztyle (bouton) a remporté (280)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : Flowgaara (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239539611992 : Tournoi #3493098625, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 30/10/2022 10:57:29 CET [30/10/2022 5:57:29 ET]
+Table '3493098625 1' 4-max Siège #3 est au bouton.
+Place 2: Nekztyle (5230 en jetons) 
+Place 3: psychoman59 (4150 en jetons) 
+Place 4: Flowgaara (10620 en jetons) 
+Nekztyle : met l'ante. 15
+psychoman59 : met l'ante. 15
+Flowgaara : met l'ante. 15
+Flowgaara : met la petite blind. 60
+Nekztyle : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 4d]
+psychoman59 : passe. 
+Flowgaara : suit. 60
+Nekztyle : parole 
+*** FLOP *** [Th 5c Ts]
+Flowgaara : mise. 120
+Nekztyle : passe. 
+Personne n'a suivi. (120) sont retournés à Flowgaara.
+Flowgaara a remporté 285  lors du pot .
+*** SYNTHÈSE ***
+Pot total 285 | Commission 0 
+Tableau [Th 5c Ts]
+Siège 2 : Nekztyle (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : Flowgaara (petite blind) a remporté (285)
+
+
+
+Main PokerStars n°239539614176 : Tournoi #3493098625, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 30/10/2022 10:57:44 CET [30/10/2022 5:57:44 ET]
+Table '3493098625 1' 4-max Siège #4 est au bouton.
+Place 2: Nekztyle (5095 en jetons) 
+Place 3: psychoman59 (4135 en jetons) 
+Place 4: Flowgaara (10770 en jetons) 
+Nekztyle : met l'ante. 15
+psychoman59 : met l'ante. 15
+Flowgaara : met l'ante. 15
+Nekztyle : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 5h]
+Flowgaara : passe. 
+Nekztyle : suit. 60
+psychoman59 : relance. 4000 à 4120 et est all-in.
+Nekztyle : passe. 
+Personne n'a suivi. (4000) sont retournés à psychoman59.
+psychoman59 a remporté 285  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 285 | Commission 0 
+Siège 2 : Nekztyle (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (285)
+Siège 4 : Flowgaara (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°239539616072 : Tournoi #3493098625, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 30/10/2022 10:57:58 CET [30/10/2022 5:57:58 ET]
+Table '3493098625 1' 4-max Siège #2 est au bouton.
+Place 2: Nekztyle (4960 en jetons) 
+Place 3: psychoman59 (4285 en jetons) 
+Place 4: Flowgaara (10755 en jetons) 
+Nekztyle : met l'ante. 15
+psychoman59 : met l'ante. 15
+Flowgaara : met l'ante. 15
+psychoman59 : met la petite blind. 60
+Flowgaara : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 6c]
+Nekztyle : relance. 480 à 600
+psychoman59 : passe. 
+Flowgaara : suit. 480
+*** FLOP *** [3s Qd 8d]
+Flowgaara : mise. 120
+Nekztyle : relance. 4225 à 4345 et est all-in.
+Flowgaara : passe. 
+Personne n'a suivi. (4225) sont retournés à Nekztyle.
+Nekztyle a remporté 1545  lors du pot .
+Nekztyle : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1545 | Commission 0 
+Tableau [3s Qd 8d]
+Siège 2 : Nekztyle (bouton) a remporté (1545)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : Flowgaara (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°239539618786 : Tournoi #3493098625, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 30/10/2022 10:58:17 CET [30/10/2022 5:58:17 ET]
+Table '3493098625 1' 4-max Siège #3 est au bouton.
+Place 2: Nekztyle (5770 en jetons) 
+Place 3: psychoman59 (4210 en jetons) 
+Place 4: Flowgaara (10020 en jetons) 
+Nekztyle : met l'ante. 15
+psychoman59 : met l'ante. 15
+Flowgaara : met l'ante. 15
+Flowgaara : met la petite blind. 60
+Nekztyle : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Ts]
+psychoman59 : suit. 120
+Flowgaara : suit. 60
+Nekztyle : parole 
+*** FLOP *** [8d 7c 2d]
+Flowgaara : mise. 240
+Nekztyle : suit. 240
+psychoman59 : suit. 240
+*** TOURNANT *** [8d 7c 2d] [7s]
+Flowgaara : mise. 120
+Nekztyle : passe. 
+psychoman59 : suit. 120
+*** RIVIÈRE *** [8d 7c 2d 7s] [9h]
+Flowgaara : mise. 120
+psychoman59 : suit. 120
+*** ABATTAGE ***
+Flowgaara : montre [4d Kd] (une paire de Sept)
+psychoman59 : montre [9s Ts] (double paire, Neuf et Sept)
+psychoman59 a remporté 1605  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1605 | Commission 0 
+Tableau [8d 7c 2d 7s 9h]
+Siège 2 : Nekztyle (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) a montré [9s Ts] et a gagné (1605) avec double paire, Neuf et Sept
+Siège 4 : Flowgaara (petite blind) a montré [4d Kd] et a perdu avec une paire de Sept
+
+
+
+Main PokerStars n°239539622983 : Tournoi #3493098625, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 30/10/2022 10:58:47 CET [30/10/2022 5:58:47 ET]
+Table '3493098625 1' 4-max Siège #4 est au bouton.
+Place 2: Nekztyle (5395 en jetons) 
+Place 3: psychoman59 (5200 en jetons) 
+Place 4: Flowgaara (9405 en jetons) 
+Nekztyle : met l'ante. 15
+psychoman59 : met l'ante. 15
+Flowgaara : met l'ante. 15
+Nekztyle : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 5c]
+Flowgaara : passe. 
+Nekztyle : relance. 120 à 240
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à Nekztyle.
+Nekztyle a remporté 285  lors du pot .
+Nekztyle : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 285 | Commission 0 
+Siège 2 : Nekztyle (petite blind) a remporté (285)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 4 : Flowgaara (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°239539624721 : Tournoi #3493098625, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 30/10/2022 10:59:00 CET [30/10/2022 5:59:00 ET]
+Table '3493098625 1' 4-max Siège #2 est au bouton.
+Place 2: Nekztyle (5545 en jetons) 
+Place 3: psychoman59 (5065 en jetons) 
+Place 4: Flowgaara (9390 en jetons) 
+Nekztyle : met l'ante. 15
+psychoman59 : met l'ante. 15
+Flowgaara : met l'ante. 15
+psychoman59 : met la petite blind. 60
+Flowgaara : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Jh]
+Nekztyle : suit. 120
+psychoman59 : passe. 
+Flowgaara : parole 
+*** FLOP *** [6s 5d Qh]
+Flowgaara : mise. 120
+Nekztyle : passe. 
+Personne n'a suivi. (120) sont retournés à Flowgaara.
+Flowgaara a remporté 345  lors du pot .
+*** SYNTHÈSE ***
+Pot total 345 | Commission 0 
+Tableau [6s 5d Qh]
+Siège 2 : Nekztyle (bouton) s'est couché. sur le Flop
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : Flowgaara (grosse blind) a remporté (345)
+
+
+
+Main PokerStars n°239539627170 : Tournoi #3493098625, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 30/10/2022 10:59:17 CET [30/10/2022 5:59:17 ET]
+Table '3493098625 1' 4-max Siège #3 est au bouton.
+Place 2: Nekztyle (5410 en jetons) 
+Place 3: psychoman59 (4990 en jetons) 
+Place 4: Flowgaara (9600 en jetons) 
+Nekztyle : met l'ante. 15
+psychoman59 : met l'ante. 15
+Flowgaara : met l'ante. 15
+Flowgaara : met la petite blind. 60
+Nekztyle : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 6h]
+psychoman59 : passe. 
+Flowgaara : relance. 120 à 240
+Nekztyle : passe. 
+Personne n'a suivi. (120) sont retournés à Flowgaara.
+Flowgaara a remporté 285  lors du pot .
+*** SYNTHÈSE ***
+Pot total 285 | Commission 0 
+Siège 2 : Nekztyle (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : Flowgaara (petite blind) a remporté (285)
+
+
+
+Main PokerStars n°239539628862 : Tournoi #3493098625, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 30/10/2022 10:59:30 CET [30/10/2022 5:59:30 ET]
+Table '3493098625 1' 4-max Siège #4 est au bouton.
+Place 2: Nekztyle (5275 en jetons) 
+Place 3: psychoman59 (4975 en jetons) 
+Place 4: Flowgaara (9750 en jetons) 
+Nekztyle : met l'ante. 15
+psychoman59 : met l'ante. 15
+Flowgaara : met l'ante. 15
+Nekztyle : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Qh]
+Flowgaara : passe. 
+Nekztyle : relance. 120 à 240
+psychoman59 : relance. 4720 à 4960 et est all-in.
+Nekztyle : passe. 
+Personne n'a suivi. (4720) sont retournés à psychoman59.
+psychoman59 a remporté 525  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 525 | Commission 0 
+Siège 2 : Nekztyle (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (525)
+Siège 4 : Flowgaara (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°239539630690 : Tournoi #3493098625, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 30/10/2022 10:59:43 CET [30/10/2022 5:59:43 ET]
+Table '3493098625 1' 4-max Siège #2 est au bouton.
+Place 2: Nekztyle (5020 en jetons) 
+Place 3: psychoman59 (5245 en jetons) 
+Place 4: Flowgaara (9735 en jetons) 
+Nekztyle : met l'ante. 15
+psychoman59 : met l'ante. 15
+Flowgaara : met l'ante. 15
+psychoman59 : met la petite blind. 60
+Flowgaara : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Ah]
+Nekztyle : passe. 
+psychoman59 : relance. 5110 à 5230 et est all-in.
+Flowgaara : passe. 
+Personne n'a suivi. (5110) sont retournés à psychoman59.
+psychoman59 a remporté 285  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 285 | Commission 0 
+Siège 2 : Nekztyle (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (285)
+Siège 4 : Flowgaara (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239539632251 : Tournoi #3493098625, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 30/10/2022 10:59:55 CET [30/10/2022 5:59:55 ET]
+Table '3493098625 1' 4-max Siège #3 est au bouton.
+Place 2: Nekztyle (5005 en jetons) 
+Place 3: psychoman59 (5395 en jetons) 
+Place 4: Flowgaara (9600 en jetons) 
+Nekztyle : met l'ante. 15
+psychoman59 : met l'ante. 15
+Flowgaara : met l'ante. 15
+Flowgaara : met la petite blind. 60
+Nekztyle : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 9s]
+psychoman59 : passe. 
+Flowgaara : suit. 60
+Nekztyle : parole 
+*** FLOP *** [3c 7d 4h]
+Flowgaara : mise. 120
+Nekztyle : suit. 120
+*** TOURNANT *** [3c 7d 4h] [7h]
+Flowgaara : mise. 120
+Nekztyle : suit. 120
+*** RIVIÈRE *** [3c 7d 4h 7h] [Qc]
+Flowgaara : mise. 120
+Nekztyle : suit. 120
+*** ABATTAGE ***
+Flowgaara : montre [Ah Td] (une paire de Sept)
+Nekztyle : cache la main perdante. 
+Flowgaara a remporté 1005  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1005 | Commission 0 
+Tableau [3c 7d 4h 7h Qc]
+Siège 2 : Nekztyle (grosse blind) a caché la main perdante. [6d Kd]
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : Flowgaara (petite blind) a montré [Ah Td] et a gagné (1005) avec une paire de Sept
+
+
+
+Main PokerStars n°239539635638 : Tournoi #3493098625, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 30/10/2022 11:00:18 CET [30/10/2022 6:00:18 ET]
+Table '3493098625 1' 4-max Siège #4 est au bouton.
+Place 2: Nekztyle (4510 en jetons) 
+Place 3: psychoman59 (5380 en jetons) 
+Place 4: Flowgaara (10110 en jetons) 
+Nekztyle : met l'ante. 15
+psychoman59 : met l'ante. 15
+Flowgaara : met l'ante. 15
+Nekztyle : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Ad]
+Flowgaara : relance. 120 à 240
+Nekztyle : passe. 
+psychoman59 : suit. 120
+*** FLOP *** [6d Jh 2h]
+psychoman59 : parole 
+Flowgaara : mise. 120
+psychoman59 : suit. 120
+*** TOURNANT *** [6d Jh 2h] [3c]
+psychoman59 : parole 
+Flowgaara : mise. 240
+psychoman59 : suit. 240
+*** RIVIÈRE *** [6d Jh 2h 3c] [8c]
+psychoman59 : parole 
+Flowgaara : mise. 480
+psychoman59 : passe. 
+Personne n'a suivi. (480) sont retournés à Flowgaara.
+Flowgaara a remporté 1305  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1305 | Commission 0 
+Tableau [6d Jh 2h 3c 8c]
+Siège 2 : Nekztyle (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 4 : Flowgaara (bouton) a remporté (1305)
+
+
+
+Main PokerStars n°239539640517 : Tournoi #3493098625, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 30/10/2022 11:00:51 CET [30/10/2022 6:00:51 ET]
+Table '3493098625 1' 4-max Siège #2 est au bouton.
+Place 2: Nekztyle (4435 en jetons) 
+Place 3: psychoman59 (4765 en jetons) 
+Place 4: Flowgaara (10800 en jetons) 
+Nekztyle : met l'ante. 20
+psychoman59 : met l'ante. 20
+Flowgaara : met l'ante. 20
+psychoman59 : met la petite blind. 75
+Flowgaara : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 2s]
+Nekztyle : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à Flowgaara.
+Flowgaara a remporté 210  lors du pot .
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Siège 2 : Nekztyle (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : Flowgaara (grosse blind) a remporté (210)
+
+
+
+Main PokerStars n°239539641758 : Tournoi #3493098625, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 30/10/2022 11:00:59 CET [30/10/2022 6:00:59 ET]
+Table '3493098625 1' 4-max Siège #3 est au bouton.
+Place 2: Nekztyle (4415 en jetons) 
+Place 3: psychoman59 (4670 en jetons) 
+Place 4: Flowgaara (10915 en jetons) 
+Nekztyle : met l'ante. 20
+psychoman59 : met l'ante. 20
+Flowgaara : met l'ante. 20
+Flowgaara : met la petite blind. 75
+Nekztyle : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 4h]
+psychoman59 : relance. 150 à 300
+Flowgaara : suit. 225
+Nekztyle : suit. 150
+*** FLOP *** [Qd 4d 2c]
+Flowgaara : parole 
+Nekztyle : parole 
+psychoman59 : mise. 960
+Flowgaara : passe. 
+Nekztyle : passe. 
+Personne n'a suivi. (960) sont retournés à psychoman59.
+psychoman59 a remporté 960  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 960 | Commission 0 
+Tableau [Qd 4d 2c]
+Siège 2 : Nekztyle (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) a remporté (960)
+Siège 4 : Flowgaara (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°239539645214 : Tournoi #3493098625, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 30/10/2022 11:01:21 CET [30/10/2022 6:01:21 ET]
+Table '3493098625 1' 4-max Siège #4 est au bouton.
+Place 2: Nekztyle (4095 en jetons) 
+Place 3: psychoman59 (5310 en jetons) 
+Place 4: Flowgaara (10595 en jetons) 
+Nekztyle : met l'ante. 20
+psychoman59 : met l'ante. 20
+Flowgaara : met l'ante. 20
+Nekztyle : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 7s]
+Flowgaara : passe. 
+Nekztyle : passe. 
+Personne n'a suivi. (75) sont retournés à psychoman59.
+psychoman59 a remporté 210  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Siège 2 : Nekztyle (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (210)
+Siège 4 : Flowgaara (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°239539646424 : Tournoi #3493098625, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 30/10/2022 11:01:30 CET [30/10/2022 6:01:30 ET]
+Table '3493098625 1' 4-max Siège #2 est au bouton.
+Place 2: Nekztyle (4000 en jetons) 
+Place 3: psychoman59 (5425 en jetons) 
+Place 4: Flowgaara (10575 en jetons) 
+Nekztyle : met l'ante. 20
+psychoman59 : met l'ante. 20
+Flowgaara : met l'ante. 20
+psychoman59 : met la petite blind. 75
+Flowgaara : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Ac]
+Nekztyle : passe. 
+psychoman59 : relance. 5255 à 5405 et est all-in.
+Flowgaara : passe. 
+Personne n'a suivi. (5255) sont retournés à psychoman59.
+psychoman59 a remporté 360  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Siège 2 : Nekztyle (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (360)
+Siège 4 : Flowgaara (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239539648136 : Tournoi #3493098625, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 30/10/2022 11:01:41 CET [30/10/2022 6:01:41 ET]
+Table '3493098625 1' 4-max Siège #3 est au bouton.
+Place 2: Nekztyle (3980 en jetons) 
+Place 3: psychoman59 (5615 en jetons) 
+Place 4: Flowgaara (10405 en jetons) 
+Nekztyle : met l'ante. 20
+psychoman59 : met l'ante. 20
+Flowgaara : met l'ante. 20
+Flowgaara : met la petite blind. 75
+Nekztyle : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 7h]
+psychoman59 : passe. 
+Flowgaara : passe. 
+Personne n'a suivi. (75) sont retournés à Nekztyle.
+Nekztyle a remporté 210  lors du pot .
+Nekztyle : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Siège 2 : Nekztyle (grosse blind) a remporté (210)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : Flowgaara (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239539649430 : Tournoi #3493098625, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 30/10/2022 11:01:48 CET [30/10/2022 6:01:48 ET]
+Table '3493098625 1' 4-max Siège #4 est au bouton.
+Place 2: Nekztyle (4095 en jetons) 
+Place 3: psychoman59 (5595 en jetons) 
+Place 4: Flowgaara (10310 en jetons) 
+Nekztyle : met l'ante. 20
+psychoman59 : met l'ante. 20
+Flowgaara : met l'ante. 20
+Nekztyle : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 2s]
+Flowgaara : relance. 150 à 300
+Nekztyle : suit. 225
+psychoman59 : passe. 
+*** FLOP *** [8c Td Tc]
+Nekztyle : parole 
+Flowgaara : mise. 300
+Nekztyle : passe. 
+Personne n'a suivi. (300) sont retournés à Flowgaara.
+Flowgaara a remporté 810  lors du pot .
+*** SYNTHÈSE ***
+Pot total 810 | Commission 0 
+Tableau [8c Td Tc]
+Siège 2 : Nekztyle (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 4 : Flowgaara (bouton) a remporté (810)
+
+
+
+Main PokerStars n°239539652384 : Tournoi #3493098625, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 30/10/2022 11:02:07 CET [30/10/2022 6:02:07 ET]
+Table '3493098625 1' 4-max Siège #2 est au bouton.
+Place 2: Nekztyle (3775 en jetons) 
+Place 3: psychoman59 (5425 en jetons) 
+Place 4: Flowgaara (10800 en jetons) 
+Nekztyle : met l'ante. 20
+psychoman59 : met l'ante. 20
+Flowgaara : met l'ante. 20
+psychoman59 : met la petite blind. 75
+Flowgaara : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Qc]
+Nekztyle : relance. 150 à 300
+psychoman59 : relance. 5105 à 5405 et est all-in.
+Flowgaara : passe. 
+Nekztyle : passe. 
+Personne n'a suivi. (5105) sont retournés à psychoman59.
+psychoman59 a remporté 810  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 810 | Commission 0 
+Siège 2 : Nekztyle (bouton) s'est couché. avant Flop
+Siège 3 : psychoman59 (petite blind) a remporté (810)
+Siège 4 : Flowgaara (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239539656201 : Tournoi #3493098625, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 30/10/2022 11:02:32 CET [30/10/2022 6:02:32 ET]
+Table '3493098625 1' 4-max Siège #3 est au bouton.
+Place 2: Nekztyle (3455 en jetons) 
+Place 3: psychoman59 (5915 en jetons) 
+Place 4: Flowgaara (10630 en jetons) 
+Nekztyle : met l'ante. 20
+psychoman59 : met l'ante. 20
+Flowgaara : met l'ante. 20
+Flowgaara : met la petite blind. 75
+Nekztyle : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 5h]
+psychoman59 : relance. 150 à 300
+Flowgaara : passe. 
+Nekztyle : relance. 3135 à 3435 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (3135) sont retournés à Nekztyle.
+Nekztyle a remporté 735  lors du pot .
+Nekztyle : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 735 | Commission 0 
+Siège 2 : Nekztyle (grosse blind) a remporté (735)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 4 : Flowgaara (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239539659533 : Tournoi #3493098625, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 30/10/2022 11:02:53 CET [30/10/2022 6:02:53 ET]
+Table '3493098625 1' 4-max Siège #4 est au bouton.
+Place 2: Nekztyle (3870 en jetons) 
+Place 3: psychoman59 (5595 en jetons) 
+Place 4: Flowgaara (10535 en jetons) 
+Nekztyle : met l'ante. 20
+psychoman59 : met l'ante. 20
+Flowgaara : met l'ante. 20
+Nekztyle : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Ah]
+Flowgaara : passe. 
+Nekztyle : relance. 3700 à 3850 et est all-in.
+psychoman59 : suit. 3700
+*** FLOP *** [Qd Kd 3c]
+*** TOURNANT *** [Qd Kd 3c] [3s]
+*** RIVIÈRE *** [Qd Kd 3c 3s] [6h]
+*** ABATTAGE ***
+Nekztyle : montre [Th Ts] (double paire, Dix et Trois)
+psychoman59 : montre [Tc Ah] (une paire de Trois)
+Nekztyle a remporté 7760  lors du pot .
+*** SYNTHÈSE ***
+Pot total 7760 | Commission 0 
+Tableau [Qd Kd 3c 3s 6h]
+Siège 2 : Nekztyle (petite blind) a montré [Th Ts] et a gagné (7760) avec double paire, Dix et Trois
+Siège 3 : psychoman59 (grosse blind) a montré [Tc Ah] et a perdu avec une paire de Trois
+Siège 4 : Flowgaara (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°239539662266 : Tournoi #3493098625, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau III (75/150) - 30/10/2022 11:03:10 CET [30/10/2022 6:03:10 ET]
+Table '3493098625 1' 4-max Siège #2 est au bouton.
+Place 2: Nekztyle (7760 en jetons) 
+Place 3: psychoman59 (1725 en jetons) 
+Place 4: Flowgaara (10515 en jetons) 
+Nekztyle : met l'ante. 20
+psychoman59 : met l'ante. 20
+Flowgaara : met l'ante. 20
+psychoman59 : met la petite blind. 75
+Flowgaara : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 5h]
+Nekztyle : passe. 
+psychoman59 : suit. 75
+Flowgaara : parole 
+*** FLOP *** [3c Ks 3h]
+psychoman59 : parole 
+Flowgaara : mise. 150
+psychoman59 : suit. 150
+*** TOURNANT *** [3c Ks 3h] [5s]
+psychoman59 : parole 
+Flowgaara : mise. 150
+psychoman59 : relance. 1255 à 1405 et est all-in.
+Flowgaara : suit. 1255
+*** RIVIÈRE *** [3c Ks 3h 5s] [7c]
+*** ABATTAGE ***
+psychoman59 : montre [6h 5h] (double paire, Cinq et Trois)
+Flowgaara : montre [2d 5d] (double paire, Cinq et Trois)
+psychoman59 a remporté 1735  lors du pot .
+Flowgaara a remporté 1735  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3470 | Commission 0 
+Tableau [3c Ks 3h 5s 7c]
+Siège 2 : Nekztyle (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [6h 5h] et a gagné (1735) avec double paire, Cinq et Trois
+Siège 4 : Flowgaara (grosse blind) a montré [2d 5d] et a gagné (1735) avec double paire, Cinq et Trois
+
+
+
+Main PokerStars n°239539666818 : Tournoi #3493098625, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau IV (100/200) - 30/10/2022 11:03:39 CET [30/10/2022 6:03:39 ET]
+Table '3493098625 1' 4-max Siège #3 est au bouton.
+Place 2: Nekztyle (7740 en jetons) 
+Place 3: psychoman59 (1735 en jetons) 
+Place 4: Flowgaara (10525 en jetons) 
+Nekztyle : met l'ante. 25
+psychoman59 : met l'ante. 25
+Flowgaara : met l'ante. 25
+Flowgaara : met la petite blind. 100
+Nekztyle : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 4s]
+psychoman59 : relance. 1510 à 1710 et est all-in.
+Flowgaara : suit. 1610
+Nekztyle : suit. 1510
+*** FLOP *** [Kh 6d Js]
+Flowgaara : parole 
+Nekztyle : mise. 5205
+Flowgaara : passe. 
+Personne n'a suivi. (5205) sont retournés à Nekztyle.
+*** TOURNANT *** [Kh 6d Js] [Qd]
+*** RIVIÈRE *** [Kh 6d Js Qd] [Jc]
+*** ABATTAGE ***
+Nekztyle : montre [Ah Ad] (double paire, As et Valets)
+psychoman59 : montre [Kc 4s] (double paire, Rois et Valets)
+Nekztyle a remporté 5205  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 5205 | Commission 0 
+Tableau [Kh 6d Js Qd Jc]
+Siège 2 : Nekztyle (grosse blind) a montré [Ah Ad] et a gagné (5205) avec double paire, As et Valets
+Siège 3 : psychoman59 (bouton) a montré [Kc 4s] et a perdu avec double paire, Rois et Valets
+Siège 4 : Flowgaara (petite blind) s'est couché. sur le Flop
+
+
+

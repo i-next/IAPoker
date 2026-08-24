@@ -1,0 +1,505 @@
+﻿Main PokerStars n°258316814890 : Tournoi #3942042056, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 30/10/2025 10:23:46 CET [30/10/2025 5:23:46 ET]
+Table '3942042056 1' 3-max Siège #1 est au bouton.
+Place 1: PedBelMarg (500 en jetons) 
+Place 2: Cristian1307 (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+Cristian1307 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Qc]
+PedBelMarg : passe. 
+Cristian1307 : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : PedBelMarg (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Cristian1307 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°258316815245 : Tournoi #3942042056, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 30/10/2025 10:23:51 CET [30/10/2025 5:23:51 ET]
+Table '3942042056 1' 3-max Siège #2 est au bouton.
+Place 1: PedBelMarg (500 en jetons) 
+Place 2: Cristian1307 (490 en jetons) 
+Place 3: psychoman59 (510 en jetons) 
+psychoman59 : met la petite blind. 10
+PedBelMarg : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 5s]
+Cristian1307 : suit. 20
+psychoman59 : passe. 
+PedBelMarg : parole 
+*** FLOP *** [8c Kd 4c]
+PedBelMarg : mise. 80
+Cristian1307 : passe. 
+Personne n'a suivi. (80) sont retournés à PedBelMarg.
+PedBelMarg a remporté 50  lors du pot .
+PedBelMarg : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [8c Kd 4c]
+Siège 1 : PedBelMarg (grosse blind) a remporté (50)
+Siège 2 : Cristian1307 (bouton) s'est couché. sur le Flop
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258316817355 : Tournoi #3942042056, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 30/10/2025 10:24:19 CET [30/10/2025 5:24:19 ET]
+Table '3942042056 1' 3-max Siège #3 est au bouton.
+Place 1: PedBelMarg (530 en jetons) 
+Place 2: Cristian1307 (470 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+PedBelMarg : met la petite blind. 10
+Cristian1307 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 9d]
+psychoman59 : passe. 
+PedBelMarg : suit. 10
+Cristian1307 : parole 
+*** FLOP *** [9h Th Jd]
+PedBelMarg : mise. 60
+Cristian1307 : suit. 60
+*** TOURNANT *** [9h Th Jd] [6d]
+PedBelMarg : mise. 60
+Cristian1307 : suit. 60
+*** RIVIÈRE *** [9h Th Jd 6d] [7c]
+PedBelMarg : mise. 100
+Cristian1307 : suit. 100
+*** ABATTAGE ***
+PedBelMarg : montre [Tc 8c] (une suite, Sept à Valet)
+Cristian1307 : cache la main perdante. 
+PedBelMarg a remporté 480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [9h Th Jd 6d 7c]
+Siège 1 : PedBelMarg (petite blind) a montré [Tc 8c] et a gagné (480) avec une suite, Sept à Valet
+Siège 2 : Cristian1307 (grosse blind) a caché la main perdante. [Js Kh]
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°258316819089 : Tournoi #3942042056, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 30/10/2025 10:24:43 CET [30/10/2025 5:24:43 ET]
+Table '3942042056 1' 3-max Siège #1 est au bouton.
+Place 1: PedBelMarg (770 en jetons) 
+Place 2: Cristian1307 (230 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+Cristian1307 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 6s]
+PedBelMarg : suit. 20
+Cristian1307 : relance. 20 à 40
+psychoman59 : suit. 20
+PedBelMarg : suit. 20
+*** FLOP *** [3h 4s 5c]
+Cristian1307 : mise. 20
+psychoman59 : suit. 20
+PedBelMarg : suit. 20
+*** TOURNANT *** [3h 4s 5c] [7s]
+Cristian1307 : mise. 20
+psychoman59 : suit. 20
+PedBelMarg : suit. 20
+*** RIVIÈRE *** [3h 4s 5c 7s] [Ts]
+Cristian1307 : parole 
+psychoman59 : parole 
+PedBelMarg : parole 
+*** ABATTAGE ***
+Cristian1307 : montre [As 4h] (une paire de Quatre)
+psychoman59 : montre [Kc 6s] (une suite, Trois à Sept)
+PedBelMarg : cache la main perdante. 
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [3h 4s 5c 7s Ts]
+Siège 1 : PedBelMarg (bouton) a caché la main perdante. [2d 9d]
+Siège 2 : Cristian1307 (petite blind) a montré [As 4h] et a perdu avec une paire de Quatre
+Siège 3 : psychoman59 (grosse blind) a montré [Kc 6s] et a gagné (240) avec une suite, Trois à Sept
+
+
+
+Main PokerStars n°258316821982 : Tournoi #3942042056, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 30/10/2025 10:25:21 CET [30/10/2025 5:25:21 ET]
+Table '3942042056 1' 3-max Siège #2 est au bouton.
+Place 1: PedBelMarg (690 en jetons) 
+Place 2: Cristian1307 (150 en jetons) 
+Place 3: psychoman59 (660 en jetons) 
+psychoman59 : met la petite blind. 10
+PedBelMarg : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 2c]
+Cristian1307 : relance. 130 à 150 et est all-in.
+psychoman59 : passe. 
+PedBelMarg : passe. 
+Personne n'a suivi. (130) sont retournés à Cristian1307.
+Cristian1307 a remporté 50  lors du pot .
+Cristian1307 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : PedBelMarg (grosse blind) s'est couché. avant Flop
+Siège 2 : Cristian1307 (bouton) a remporté (50)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258316822738 : Tournoi #3942042056, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 30/10/2025 10:25:31 CET [30/10/2025 5:25:31 ET]
+Table '3942042056 1' 3-max Siège #3 est au bouton.
+Place 1: PedBelMarg (670 en jetons) 
+Place 2: Cristian1307 (180 en jetons) 
+Place 3: psychoman59 (650 en jetons) 
+PedBelMarg : met la petite blind. 10
+Cristian1307 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 2c]
+psychoman59 : passe. 
+PedBelMarg : suit. 10
+Cristian1307 : parole 
+*** FLOP *** [6c Ks 5h]
+PedBelMarg : parole 
+Cristian1307 : mise. 71
+PedBelMarg : passe. 
+Personne n'a suivi. (71) sont retournés à Cristian1307.
+Cristian1307 a remporté 40  lors du pot .
+Cristian1307 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [6c Ks 5h]
+Siège 1 : PedBelMarg (petite blind) s'est couché. sur le Flop
+Siège 2 : Cristian1307 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°258316824304 : Tournoi #3942042056, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 30/10/2025 10:25:52 CET [30/10/2025 5:25:52 ET]
+Table '3942042056 1' 3-max Siège #1 est au bouton.
+Place 1: PedBelMarg (650 en jetons) 
+Place 2: Cristian1307 (200 en jetons) 
+Place 3: psychoman59 (650 en jetons) 
+Cristian1307 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Tc]
+PedBelMarg : relance. 60 à 90
+Cristian1307 : suit. 75
+psychoman59 : passe. 
+*** FLOP *** [8h Jd Qc]
+Cristian1307 : mise. 110 et est all-in.
+PedBelMarg : suit. 110
+*** TOURNANT *** [8h Jd Qc] [3c]
+*** RIVIÈRE *** [8h Jd Qc 3c] [5h]
+*** ABATTAGE ***
+Cristian1307 : montre [4c As] (Hauteur As)
+PedBelMarg : montre [Ks Jc] (une paire de Valets)
+PedBelMarg a remporté 430  lors du pot .
+Cristian1307 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 430 | Commission 0 
+Tableau [8h Jd Qc 3c 5h]
+Siège 1 : PedBelMarg (bouton) a montré [Ks Jc] et a gagné (430) avec une paire de Valets
+Siège 2 : Cristian1307 (petite blind) a montré [4c As] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258316826076 : Tournoi #3942042056, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 30/10/2025 10:26:16 CET [30/10/2025 5:26:16 ET]
+Table '3942042056 1' 3-max Siège #3 est au bouton.
+Place 1: PedBelMarg (880 en jetons) 
+Place 3: psychoman59 (620 en jetons) 
+psychoman59 : met la petite blind. 15
+PedBelMarg : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 4d]
+psychoman59 : suit. 15
+PedBelMarg : parole 
+*** FLOP *** [Ad 3s 5d]
+PedBelMarg : mise. 90
+psychoman59 : passe. 
+Personne n'a suivi. (90) sont retournés à PedBelMarg.
+PedBelMarg a remporté 60  lors du pot .
+PedBelMarg : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ad 3s 5d]
+Siège 1 : PedBelMarg (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°258316827001 : Tournoi #3942042056, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 30/10/2025 10:26:29 CET [30/10/2025 5:26:29 ET]
+Table '3942042056 1' 3-max Siège #1 est au bouton.
+Place 1: PedBelMarg (910 en jetons) 
+Place 3: psychoman59 (590 en jetons) 
+PedBelMarg : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 6d]
+PedBelMarg : relance. 120 à 150
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à PedBelMarg.
+PedBelMarg a remporté 60  lors du pot .
+PedBelMarg : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : PedBelMarg (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258316827587 : Tournoi #3942042056, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 30/10/2025 10:26:36 CET [30/10/2025 5:26:36 ET]
+Table '3942042056 1' 3-max Siège #3 est au bouton.
+Place 1: PedBelMarg (940 en jetons) 
+Place 3: psychoman59 (560 en jetons) 
+psychoman59 : met la petite blind. 15
+PedBelMarg : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Ac]
+psychoman59 : relance. 530 à 560 et est all-in.
+PedBelMarg : passe. 
+Personne n'a suivi. (530) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : PedBelMarg (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°258316828133 : Tournoi #3942042056, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 30/10/2025 10:26:43 CET [30/10/2025 5:26:43 ET]
+Table '3942042056 1' 3-max Siège #1 est au bouton.
+Place 1: PedBelMarg (910 en jetons) 
+Place 3: psychoman59 (590 en jetons) 
+PedBelMarg : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Qc]
+PedBelMarg : suit. 15
+psychoman59 : parole 
+*** FLOP *** [As 3c 7s]
+psychoman59 : parole 
+PedBelMarg : mise. 120
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à PedBelMarg.
+PedBelMarg a remporté 60  lors du pot .
+PedBelMarg : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [As 3c 7s]
+Siège 1 : PedBelMarg (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°258316829079 : Tournoi #3942042056, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 30/10/2025 10:26:56 CET [30/10/2025 5:26:56 ET]
+Table '3942042056 1' 3-max Siège #3 est au bouton.
+Place 1: PedBelMarg (940 en jetons) 
+Place 3: psychoman59 (560 en jetons) 
+psychoman59 : met la petite blind. 15
+PedBelMarg : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Ts]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à PedBelMarg.
+PedBelMarg a remporté 30  lors du pot .
+PedBelMarg : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : PedBelMarg (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258316829498 : Tournoi #3942042056, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 30/10/2025 10:27:01 CET [30/10/2025 5:27:01 ET]
+Table '3942042056 1' 3-max Siège #1 est au bouton.
+Place 1: PedBelMarg (955 en jetons) 
+Place 3: psychoman59 (545 en jetons) 
+PedBelMarg : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Ac]
+PedBelMarg : suit. 15
+psychoman59 : relance. 515 à 545 et est all-in.
+PedBelMarg : passe. 
+Personne n'a suivi. (515) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : PedBelMarg (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°258316830130 : Tournoi #3942042056, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 30/10/2025 10:27:09 CET [30/10/2025 5:27:09 ET]
+Table '3942042056 1' 3-max Siège #3 est au bouton.
+Place 1: PedBelMarg (925 en jetons) 
+Place 3: psychoman59 (575 en jetons) 
+psychoman59 : met la petite blind. 15
+PedBelMarg : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 4h]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à PedBelMarg.
+PedBelMarg a remporté 30  lors du pot .
+PedBelMarg : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : PedBelMarg (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258316830510 : Tournoi #3942042056, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 30/10/2025 10:27:15 CET [30/10/2025 5:27:15 ET]
+Table '3942042056 1' 3-max Siège #1 est au bouton.
+Place 1: PedBelMarg (940 en jetons) 
+Place 3: psychoman59 (560 en jetons) 
+PedBelMarg : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Kc]
+PedBelMarg : suit. 15
+psychoman59 : parole 
+*** FLOP *** [5d 3s As]
+psychoman59 : parole 
+PedBelMarg : mise. 120
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à PedBelMarg.
+PedBelMarg a remporté 60  lors du pot .
+PedBelMarg : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [5d 3s As]
+Siège 1 : PedBelMarg (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°258316831523 : Tournoi #3942042056, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 30/10/2025 10:27:28 CET [30/10/2025 5:27:28 ET]
+Table '3942042056 1' 3-max Siège #3 est au bouton.
+Place 1: PedBelMarg (970 en jetons) 
+Place 3: psychoman59 (530 en jetons) 
+psychoman59 : met la petite blind. 15
+PedBelMarg : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 6c]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à PedBelMarg.
+PedBelMarg a remporté 30  lors du pot .
+PedBelMarg : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : PedBelMarg (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258316831901 : Tournoi #3942042056, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 30/10/2025 10:27:32 CET [30/10/2025 5:27:32 ET]
+Table '3942042056 1' 3-max Siège #1 est au bouton.
+Place 1: PedBelMarg (985 en jetons) 
+Place 3: psychoman59 (515 en jetons) 
+PedBelMarg : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 9d]
+PedBelMarg : suit. 15
+psychoman59 : parole 
+*** FLOP *** [5h 4c 7d]
+psychoman59 : parole 
+PedBelMarg : parole 
+*** TOURNANT *** [5h 4c 7d] [Kh]
+psychoman59 : parole 
+PedBelMarg : parole 
+*** RIVIÈRE *** [5h 4c 7d Kh] [7c]
+psychoman59 : mise. 60
+PedBelMarg : suit. 60
+*** ABATTAGE ***
+psychoman59 : montre [4s 9d] (double paire, Sept et Quatre)
+PedBelMarg : montre [4d 9h] (double paire, Sept et Quatre)
+psychoman59 a remporté 90  lors du pot .
+PedBelMarg a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [5h 4c 7d Kh 7c]
+Siège 1 : PedBelMarg (bouton) (petite blind) a montré [4d 9h] et a gagné (90) avec double paire, Sept et Quatre
+Siège 3 : psychoman59 (grosse blind) a montré [4s 9d] et a gagné (90) avec double paire, Sept et Quatre
+
+
+
+Main PokerStars n°258316833551 : Tournoi #3942042056, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 30/10/2025 10:27:54 CET [30/10/2025 5:27:54 ET]
+Table '3942042056 1' 3-max Siège #3 est au bouton.
+Place 1: PedBelMarg (985 en jetons) 
+Place 3: psychoman59 (515 en jetons) 
+psychoman59 : met la petite blind. 20
+PedBelMarg : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Ac]
+psychoman59 : relance. 475 à 515 et est all-in.
+PedBelMarg : passe. 
+Personne n'a suivi. (475) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : PedBelMarg (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°258316834154 : Tournoi #3942042056, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 30/10/2025 10:28:01 CET [30/10/2025 5:28:01 ET]
+Table '3942042056 1' 3-max Siège #1 est au bouton.
+Place 1: PedBelMarg (945 en jetons) 
+Place 3: psychoman59 (555 en jetons) 
+PedBelMarg : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 2s]
+PedBelMarg : suit. 20
+psychoman59 : parole 
+*** FLOP *** [7h 8s 5d]
+psychoman59 : parole 
+PedBelMarg : parole 
+*** TOURNANT *** [7h 8s 5d] [8c]
+psychoman59 : mise. 515 et est all-in.
+PedBelMarg : passe. 
+Personne n'a suivi. (515) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [7h 8s 5d 8c]
+Siège 1 : PedBelMarg (bouton) (petite blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°258316835230 : Tournoi #3942042056, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 30/10/2025 10:28:16 CET [30/10/2025 5:28:16 ET]
+Table '3942042056 1' 3-max Siège #3 est au bouton.
+Place 1: PedBelMarg (905 en jetons) 
+Place 3: psychoman59 (595 en jetons) 
+psychoman59 : met la petite blind. 20
+PedBelMarg : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Ks]
+psychoman59 : suit. 20
+PedBelMarg : parole 
+*** FLOP *** [4d 3c 5s]
+PedBelMarg : mise. 160
+psychoman59 : relance. 395 à 555 et est all-in.
+PedBelMarg : suit. 395
+*** TOURNANT *** [4d 3c 5s] [9d]
+*** RIVIÈRE *** [4d 3c 5s 9d] [9h]
+*** ABATTAGE ***
+PedBelMarg : montre [6d 5c] (double paire, Neuf et Cinq)
+psychoman59 : montre [4c Ks] (double paire, Neuf et Quatre)
+PedBelMarg a remporté 1190  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+PedBelMarg remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 1190 | Commission 0 
+Tableau [4d 3c 5s 9d 9h]
+Siège 1 : PedBelMarg (grosse blind) a montré [6d 5c] et a gagné (1190) avec double paire, Neuf et Cinq
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [4c Ks] et a perdu avec double paire, Neuf et Quatre
+
+
+

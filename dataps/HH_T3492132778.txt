@@ -1,0 +1,429 @@
+﻿Main PokerStars n°239499353114 : Tournoi #3492132778, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/10/2022 11:38:56 CET [28/10/2022 5:38:56 ET]
+Table '3492132778 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: laetitiagf (300 en jetons) 
+Place 3: lonekiddo (300 en jetons) 
+laetitiagf : met la petite blind. 10
+lonekiddo : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Th]
+psychoman59 : passe. 
+laetitiagf : suit. 10
+lonekiddo : parole 
+*** FLOP *** [7s Jd Jh]
+laetitiagf : parole 
+lonekiddo : mise. 240
+laetitiagf : passe. 
+Personne n'a suivi. (240) sont retournés à lonekiddo.
+lonekiddo a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [7s Jd Jh]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : laetitiagf (petite blind) s'est couché. sur le Flop
+Siège 3 : lonekiddo (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°239499356237 : Tournoi #3492132778, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/10/2022 11:39:16 CET [28/10/2022 5:39:16 ET]
+Table '3492132778 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: laetitiagf (280 en jetons) 
+Place 3: lonekiddo (320 en jetons) 
+lonekiddo : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Ks]
+laetitiagf : passe. 
+lonekiddo : suit. 10
+psychoman59 : parole 
+*** FLOP *** [7d 3s 4d]
+lonekiddo : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [7d 3s 4d] [9d]
+lonekiddo : mise. 120
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à lonekiddo.
+lonekiddo a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [7d 3s 4d 9d]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : laetitiagf (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : lonekiddo (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°239499361009 : Tournoi #3492132778, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/10/2022 11:39:47 CET [28/10/2022 5:39:47 ET]
+Table '3492132778 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (240 en jetons) 
+Place 2: laetitiagf (280 en jetons) 
+Place 3: lonekiddo (380 en jetons) 
+psychoman59 : met la petite blind. 10
+laetitiagf : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Kh]
+lonekiddo : suit. 20
+psychoman59 : suit. 10
+laetitiagf : parole 
+*** FLOP *** [5h 9h 9s]
+psychoman59 : parole 
+laetitiagf : parole 
+lonekiddo : parole 
+*** TOURNANT *** [5h 9h 9s] [7h]
+psychoman59 : parole 
+laetitiagf : parole 
+lonekiddo : parole 
+*** RIVIÈRE *** [5h 9h 9s 7h] [Qc]
+psychoman59 : mise. 60
+laetitiagf : passe. 
+lonekiddo : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [5h 9h 9s 7h Qc]
+Siège 1 : psychoman59 (petite blind) a remporté (60)
+Siège 2 : laetitiagf (grosse blind) s'est couché. sur le Rivière
+Siège 3 : lonekiddo (bouton) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°239499366295 : Tournoi #3492132778, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 28/10/2022 11:40:21 CET [28/10/2022 5:40:21 ET]
+Table '3492132778 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: laetitiagf (260 en jetons) 
+Place 3: lonekiddo (360 en jetons) 
+laetitiagf : met la petite blind. 15
+lonekiddo : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 3s]
+psychoman59 : passe. 
+laetitiagf : relance. 230 à 260 et est all-in.
+lonekiddo : suit. 230
+*** FLOP *** [6d Qh Qs]
+*** TOURNANT *** [6d Qh Qs] [Tc]
+*** RIVIÈRE *** [6d Qh Qs Tc] [5h]
+*** ABATTAGE ***
+laetitiagf : montre [Ks Qc] (un brelan de Dames)
+lonekiddo : montre [Ts 8d] (double paire, Dames et Dix)
+laetitiagf a remporté 520  lors du pot .
+*** SYNTHÈSE ***
+Pot total 520 | Commission 0 
+Tableau [6d Qh Qs Tc 5h]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : laetitiagf (petite blind) a montré [Ks Qc] et a gagné (520) avec un brelan de Dames
+Siège 3 : lonekiddo (grosse blind) a montré [Ts 8d] et a perdu avec double paire, Dames et Dix
+
+
+
+Main PokerStars n°239499369704 : Tournoi #3492132778, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 28/10/2022 11:40:43 CET [28/10/2022 5:40:43 ET]
+Table '3492132778 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: laetitiagf (520 en jetons) 
+Place 3: lonekiddo (100 en jetons) 
+lonekiddo : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 4s]
+laetitiagf : relance. 490 à 520 et est all-in.
+lonekiddo : suit. 85 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (420) sont retournés à laetitiagf.
+*** FLOP *** [3s 2s 7h]
+*** TOURNANT *** [3s 2s 7h] [6s]
+*** RIVIÈRE *** [3s 2s 7h 6s] [6c]
+*** ABATTAGE ***
+lonekiddo : montre [9d Th] (une paire de Six)
+laetitiagf : montre [Ad Ac] (double paire, As et Six)
+laetitiagf a remporté 230  lors du pot .
+lonekiddo a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 230 | Commission 0 
+Tableau [3s 2s 7h 6s 6c]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : laetitiagf (bouton) a montré [Ad Ac] et a gagné (230) avec double paire, As et Six
+Siège 3 : lonekiddo (petite blind) a montré [9d Th] et a perdu avec une paire de Six
+
+
+
+Main PokerStars n°239499372354 : Tournoi #3492132778, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 28/10/2022 11:41:01 CET [28/10/2022 5:41:01 ET]
+Table '3492132778 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (250 en jetons) 
+Place 2: laetitiagf (650 en jetons) 
+psychoman59 : met la petite blind. 20
+laetitiagf : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 3h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à laetitiagf.
+laetitiagf a remporté 40  lors du pot .
+laetitiagf : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : laetitiagf (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°239499373213 : Tournoi #3492132778, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 28/10/2022 11:41:06 CET [28/10/2022 5:41:06 ET]
+Table '3492132778 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (230 en jetons) 
+Place 2: laetitiagf (670 en jetons) 
+laetitiagf : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 8d]
+laetitiagf : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Ts 2c 4h]
+psychoman59 : parole 
+laetitiagf : parole 
+*** TOURNANT *** [Ts 2c 4h] [2d]
+psychoman59 : parole 
+laetitiagf : parole 
+*** RIVIÈRE *** [Ts 2c 4h 2d] [9c]
+psychoman59 : parole 
+laetitiagf : parole 
+*** ABATTAGE ***
+psychoman59 : montre [6h 8d] (une paire de Deux)
+laetitiagf : montre [3d Qh] (une paire de Deux - Dame kicker)
+laetitiagf a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Ts 2c 4h 2d 9c]
+Siège 1 : psychoman59 (grosse blind) a montré [6h 8d] et a perdu avec une paire de Deux
+Siège 2 : laetitiagf (bouton) (petite blind) a montré [3d Qh] et a gagné (80) avec une paire de Deux
+
+
+
+Main PokerStars n°239499377015 : Tournoi #3492132778, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 28/10/2022 11:41:31 CET [28/10/2022 5:41:31 ET]
+Table '3492132778 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (190 en jetons) 
+Place 2: laetitiagf (710 en jetons) 
+psychoman59 : met la petite blind. 20
+laetitiagf : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 6s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à laetitiagf.
+laetitiagf a remporté 40  lors du pot .
+laetitiagf : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : laetitiagf (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°239499377705 : Tournoi #3492132778, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 28/10/2022 11:41:35 CET [28/10/2022 5:41:35 ET]
+Table '3492132778 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (170 en jetons) 
+Place 2: laetitiagf (730 en jetons) 
+laetitiagf : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 3c]
+laetitiagf : relance. 690 à 730 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (690) sont retournés à laetitiagf.
+laetitiagf a remporté 80  lors du pot .
+laetitiagf : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : laetitiagf (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°239499378692 : Tournoi #3492132778, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 28/10/2022 11:41:42 CET [28/10/2022 5:41:42 ET]
+Table '3492132778 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (130 en jetons) 
+Place 2: laetitiagf (770 en jetons) 
+psychoman59 : met la petite blind. 20
+laetitiagf : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Qh]
+psychoman59 : relance. 90 à 130 et est all-in.
+laetitiagf : suit. 90
+*** FLOP *** [2h 5d 9d]
+*** TOURNANT *** [2h 5d 9d] [9s]
+*** RIVIÈRE *** [2h 5d 9d 9s] [Qs]
+*** ABATTAGE ***
+laetitiagf : montre [7h Kd] (une paire de Neuf)
+psychoman59 : montre [Jh Qh] (double paire, Dames et Neuf)
+psychoman59 a remporté 260  lors du pot .
+*** SYNTHÈSE ***
+Pot total 260 | Commission 0 
+Tableau [2h 5d 9d 9s Qs]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Jh Qh] et a gagné (260) avec double paire, Dames et Neuf
+Siège 2 : laetitiagf (grosse blind) a montré [7h Kd] et a perdu avec une paire de Neuf
+
+
+
+Main PokerStars n°239499381078 : Tournoi #3492132778, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 28/10/2022 11:41:57 CET [28/10/2022 5:41:57 ET]
+Table '3492132778 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (260 en jetons) 
+Place 2: laetitiagf (640 en jetons) 
+laetitiagf : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 8c]
+laetitiagf : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Kh 4h 6s]
+psychoman59 : parole 
+laetitiagf : mise. 80
+psychoman59 : suit. 80
+*** TOURNANT *** [Kh 4h 6s] [Ks]
+psychoman59 : parole 
+laetitiagf : parole 
+*** RIVIÈRE *** [Kh 4h 6s Ks] [3c]
+psychoman59 : parole 
+laetitiagf : mise. 160
+psychoman59 : passe. 
+Personne n'a suivi. (160) sont retournés à laetitiagf.
+laetitiagf a remporté 240  lors du pot .
+laetitiagf : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Kh 4h 6s Ks 3c]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : laetitiagf (bouton) (petite blind) a remporté (240)
+
+
+
+Main PokerStars n°239499386686 : Tournoi #3492132778, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 28/10/2022 11:42:33 CET [28/10/2022 5:42:33 ET]
+Table '3492132778 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (140 en jetons) 
+Place 2: laetitiagf (760 en jetons) 
+psychoman59 : met la petite blind. 30
+laetitiagf : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 2s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à laetitiagf.
+laetitiagf a remporté 60  lors du pot .
+laetitiagf : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : laetitiagf (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°239499387406 : Tournoi #3492132778, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 28/10/2022 11:42:38 CET [28/10/2022 5:42:38 ET]
+Table '3492132778 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (110 en jetons) 
+Place 2: laetitiagf (790 en jetons) 
+laetitiagf : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 9d]
+laetitiagf : relance. 60 à 120
+psychoman59 : suit. 50 et est all-in.
+Personne n'a suivi. (10) sont retournés à laetitiagf.
+*** FLOP *** [Ts 3h Ks]
+*** TOURNANT *** [Ts 3h Ks] [8h]
+*** RIVIÈRE *** [Ts 3h Ks 8h] [4d]
+*** ABATTAGE ***
+psychoman59 : montre [8d 9d] (une paire de Huit)
+laetitiagf : montre [6d Js] (Hauteur Roi)
+psychoman59 a remporté 220  lors du pot .
+*** SYNTHÈSE ***
+Pot total 220 | Commission 0 
+Tableau [Ts 3h Ks 8h 4d]
+Siège 1 : psychoman59 (grosse blind) a montré [8d 9d] et a gagné (220) avec une paire de Huit
+Siège 2 : laetitiagf (bouton) (petite blind) a montré [6d Js] et a perdu avec Hauteur Roi
+
+
+
+Main PokerStars n°239499389412 : Tournoi #3492132778, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 28/10/2022 11:42:51 CET [28/10/2022 5:42:51 ET]
+Table '3492132778 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (220 en jetons) 
+Place 2: laetitiagf (680 en jetons) 
+psychoman59 : met la petite blind. 30
+laetitiagf : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 9h]
+psychoman59 : relance. 160 à 220 et est all-in.
+laetitiagf : passe. 
+Personne n'a suivi. (160) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 2 : laetitiagf (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239499391408 : Tournoi #3492132778, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 28/10/2022 11:43:04 CET [28/10/2022 5:43:04 ET]
+Table '3492132778 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: laetitiagf (620 en jetons) 
+laetitiagf : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Ac]
+laetitiagf : suit. 40
+psychoman59 : relance. 200 à 280 et est all-in.
+laetitiagf : passe. 
+Personne n'a suivi. (200) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (160)
+Siège 2 : laetitiagf (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239499393006 : Tournoi #3492132778, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 28/10/2022 11:43:14 CET [28/10/2022 5:43:14 ET]
+Table '3492132778 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (360 en jetons) 
+Place 2: laetitiagf (540 en jetons) 
+psychoman59 : met la petite blind. 40
+laetitiagf : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Ts]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à laetitiagf.
+laetitiagf a remporté 80  lors du pot .
+laetitiagf : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : laetitiagf (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°239499393844 : Tournoi #3492132778, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 28/10/2022 11:43:20 CET [28/10/2022 5:43:20 ET]
+Table '3492132778 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (320 en jetons) 
+Place 2: laetitiagf (580 en jetons) 
+laetitiagf : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Qc]
+laetitiagf : relance. 500 à 580 et est all-in.
+psychoman59 : suit. 240 et est all-in.
+Personne n'a suivi. (260) sont retournés à laetitiagf.
+*** FLOP *** [Ts Kd 5h]
+*** TOURNANT *** [Ts Kd 5h] [8c]
+*** RIVIÈRE *** [Ts Kd 5h 8c] [Jc]
+*** ABATTAGE ***
+psychoman59 : montre [3c Qc] (Hauteur Roi)
+laetitiagf : montre [Tc Js] (double paire, Valets et Dix)
+laetitiagf a remporté 640  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+laetitiagf remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [Ts Kd 5h 8c Jc]
+Siège 1 : psychoman59 (grosse blind) a montré [3c Qc] et a perdu avec Hauteur Roi
+Siège 2 : laetitiagf (bouton) (petite blind) a montré [Tc Js] et a gagné (640) avec double paire, Valets et Dix
+
+
+

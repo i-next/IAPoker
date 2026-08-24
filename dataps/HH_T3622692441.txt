@@ -1,0 +1,150 @@
+﻿Main PokerStars n°245031842774 : Tournoi #3622692441, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 26/07/2023 18:35:12 CET [26/07/2023 12:35:12 ET]
+Table '3622692441 1' 3-max Siège #1 est au bouton.
+Place 1: azryuo (300 en jetons) 
+Place 2: BernNunes (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+BernNunes : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 2d]
+azryuo : passe. 
+BernNunes : suit. 10
+psychoman59 : parole 
+*** FLOP *** [3s Td 8c]
+BernNunes : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3s Td 8c] [3c]
+BernNunes : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [3s Td 8c 3c] [4d]
+BernNunes : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+BernNunes : montre [7h Jd] (une paire de Trois)
+psychoman59 : cache la main perdante. 
+BernNunes a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [3s Td 8c 3c 4d]
+Siège 1 : azryuo (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : BernNunes (petite blind) a montré [7h Jd] et a gagné (40) avec une paire de Trois
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [5c 2d]
+
+
+
+Main PokerStars n°245031850889 : Tournoi #3622692441, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 26/07/2023 18:35:42 CET [26/07/2023 12:35:42 ET]
+Table '3622692441 1' 3-max Siège #2 est au bouton.
+Place 1: azryuo (300 en jetons) 
+Place 2: BernNunes (320 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+azryuo : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 8c]
+BernNunes : passe. 
+psychoman59 : suit. 10
+azryuo : parole 
+*** FLOP *** [9s 5c 8s]
+psychoman59 : parole 
+azryuo : mise. 20
+psychoman59 : relance. 240 à 260 et est all-in.
+azryuo : passe. 
+Personne n'a suivi. (240) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [9s 5c 8s]
+Siège 1 : azryuo (grosse blind) s'est couché. sur le Flop
+Siège 2 : BernNunes (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°245031857478 : Tournoi #3622692441, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 26/07/2023 18:36:07 CET [26/07/2023 12:36:07 ET]
+Table '3622692441 1' 3-max Siège #3 est au bouton.
+Place 1: azryuo (260 en jetons) 
+Place 2: BernNunes (320 en jetons) 
+Place 3: psychoman59 (320 en jetons) 
+azryuo : met la petite blind. 10
+BernNunes : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 7c]
+psychoman59 : passe. 
+azryuo : relance. 40 à 60
+BernNunes : relance. 260 à 320 et est all-in.
+azryuo : suit. 200 et est all-in.
+Personne n'a suivi. (60) sont retournés à BernNunes.
+*** FLOP *** [Ad 4s 4d]
+*** TOURNANT *** [Ad 4s 4d] [Qc]
+*** RIVIÈRE *** [Ad 4s 4d Qc] [Th]
+*** ABATTAGE ***
+azryuo : montre [Td Ts] (un full, full aux Dix par les Quatre)
+BernNunes : montre [Ac Tc] (double paire, As et Dix)
+azryuo a remporté 520  lors du pot .
+*** SYNTHÈSE ***
+Pot total 520 | Commission 0 
+Tableau [Ad 4s 4d Qc Th]
+Siège 1 : azryuo (petite blind) a montré [Td Ts] et a gagné (520) avec un full, full aux Dix par les Quatre
+Siège 2 : BernNunes (grosse blind) a montré [Ac Tc] et a perdu avec double paire, As et Dix
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°245031865048 : Tournoi #3622692441, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 26/07/2023 18:36:35 CET [26/07/2023 12:36:35 ET]
+Table '3622692441 1' 3-max Siège #1 est au bouton.
+Place 1: azryuo (520 en jetons) 
+Place 2: BernNunes (60 en jetons) 
+Place 3: psychoman59 (320 en jetons) 
+BernNunes : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 3s]
+azryuo : passe. 
+BernNunes : relance. 30 à 60 et est all-in.
+psychoman59 : suit. 30
+*** FLOP *** [5c 8s 4h]
+*** TOURNANT *** [5c 8s 4h] [6c]
+*** RIVIÈRE *** [5c 8s 4h 6c] [2c]
+*** ABATTAGE ***
+BernNunes : montre [8d 7c] (une suite, Quatre à Huit)
+psychoman59 : montre [3d 3s] (une suite, Deux à Six)
+BernNunes a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [5c 8s 4h 6c 2c]
+Siège 1 : azryuo (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : BernNunes (petite blind) a montré [8d 7c] et a gagné (120) avec une suite, Quatre à Huit
+Siège 3 : psychoman59 (grosse blind) a montré [3d 3s] et a perdu avec une suite, Deux à Six
+
+
+
+Main PokerStars n°245031869129 : Tournoi #3622692441, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 26/07/2023 18:36:50 CET [26/07/2023 12:36:50 ET]
+Table '3622692441 1' 3-max Siège #2 est au bouton.
+Place 1: azryuo (520 en jetons) 
+Place 2: BernNunes (120 en jetons) 
+Place 3: psychoman59 (260 en jetons) 
+psychoman59 : met la petite blind. 15
+azryuo : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Qs]
+BernNunes : passe. 
+psychoman59 : relance. 230 à 260 et est all-in.
+azryuo : suit. 230
+*** FLOP *** [Qh Ts Kc]
+*** TOURNANT *** [Qh Ts Kc] [4c]
+*** RIVIÈRE *** [Qh Ts Kc 4c] [2s]
+*** ABATTAGE ***
+psychoman59 : montre [7d Qs] (une paire de Dames)
+azryuo : montre [Ac Qd] (une paire de Dames - As kicker)
+azryuo a remporté 520  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 520 | Commission 0 
+Tableau [Qh Ts Kc 4c 2s]
+Siège 1 : azryuo (grosse blind) a montré [Ac Qd] et a gagné (520) avec une paire de Dames
+Siège 2 : BernNunes (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [7d Qs] et a perdu avec une paire de Dames
+
+
+

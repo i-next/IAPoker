@@ -1,0 +1,80 @@
+﻿Main PokerStars n°258018806751 : Tournoi #3934478681, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 06/10/2025 10:49:36 CET [06/10/2025 4:49:36 ET]
+Table '3934478681 1' 3-max Siège #1 est au bouton.
+Place 1: sergiolg7 (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: zeenterprize (500 en jetons) 
+psychoman59 : met la petite blind. 10
+zeenterprize : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 5d]
+sergiolg7 : relance. 480 à 500 et est all-in.
+psychoman59 : passe. 
+zeenterprize : passe. 
+Personne n'a suivi. (480) sont retournés à sergiolg7.
+sergiolg7 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : sergiolg7 (bouton) a remporté (50)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : zeenterprize (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258018807435 : Tournoi #3934478681, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 06/10/2025 10:49:45 CET [06/10/2025 4:49:45 ET]
+Table '3934478681 1' 3-max Siège #2 est au bouton.
+Place 1: sergiolg7 (530 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: zeenterprize (480 en jetons) 
+zeenterprize : met la petite blind. 10
+sergiolg7 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 2h]
+psychoman59 : passe. 
+zeenterprize : suit. 10
+sergiolg7 : parole 
+*** FLOP *** [3c 5d 9d]
+zeenterprize : mise. 20
+sergiolg7 : suit. 20
+*** TOURNANT *** [3c 5d 9d] [3d]
+zeenterprize : mise. 440 et est all-in.
+sergiolg7 : passe. 
+Personne n'a suivi. (440) sont retournés à zeenterprize.
+zeenterprize a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [3c 5d 9d 3d]
+Siège 1 : sergiolg7 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : zeenterprize (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°258018808736 : Tournoi #3934478681, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 06/10/2025 10:50:01 CET [06/10/2025 4:50:01 ET]
+Table '3934478681 1' 3-max Siège #3 est au bouton.
+Place 1: sergiolg7 (490 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: zeenterprize (520 en jetons) 
+sergiolg7 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 2s]
+zeenterprize : passe. 
+sergiolg7 : relance. 470 à 490 et est all-in.
+psychoman59 : suit. 470 et est all-in.
+*** FLOP *** [Jc Ks 4s]
+*** TOURNANT *** [Jc Ks 4s] [2c]
+*** RIVIÈRE *** [Jc Ks 4s 2c] [6h]
+*** ABATTAGE ***
+sergiolg7 : montre [Jh Ac] (une paire de Valets)
+psychoman59 : montre [As 2s] (une paire de Deux)
+sergiolg7 a remporté 980  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 980 | Commission 0 
+Tableau [Jc Ks 4s 2c 6h]
+Siège 1 : sergiolg7 (petite blind) a montré [Jh Ac] et a gagné (980) avec une paire de Valets
+Siège 2 : psychoman59 (grosse blind) a montré [As 2s] et a perdu avec une paire de Deux
+Siège 3 : zeenterprize (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+

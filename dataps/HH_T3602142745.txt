@@ -1,0 +1,97 @@
+﻿Main PokerStars n°244172709915 : Tournoi #3602142745, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 09/06/2023 7:08:52 CET [09/06/2023 1:08:52 ET]
+Table '3602142745 1' 3-max Siège #1 est au bouton.
+Place 1: juliielola (300 en jetons) 
+Place 2: sebastien80100 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+sebastien80100 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 2d]
+juliielola : suit. 20
+sebastien80100 : relance. 40 à 60
+psychoman59 : passe. 
+juliielola : relance. 240 à 300 et est all-in.
+sebastien80100 : suit. 240 et est all-in.
+*** FLOP *** [Kd 4d 5s]
+*** TOURNANT *** [Kd 4d 5s] [8c]
+*** RIVIÈRE *** [Kd 4d 5s 8c] [Jh]
+*** ABATTAGE ***
+sebastien80100 : montre [4c Ks] (double paire, Rois et Quatre)
+juliielola : montre [9s Td] (Hauteur Roi)
+sebastien80100 a remporté 620  lors du pot .
+juliielola a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [Kd 4d 5s 8c Jh]
+Siège 1 : juliielola (bouton) a montré [9s Td] et a perdu avec Hauteur Roi
+Siège 2 : sebastien80100 (petite blind) a montré [4c Ks] et a gagné (620) avec double paire, Rois et Quatre
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244172714461 : Tournoi #3602142745, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 09/06/2023 7:09:35 CET [09/06/2023 1:09:35 ET]
+Table '3602142745 1' 3-max Siège #3 est au bouton.
+Place 2: sebastien80100 (620 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+sebastien80100 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Jh]
+psychoman59 : relance. 260 à 280 et est all-in.
+sebastien80100 : passe. 
+Personne n'a suivi. (260) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : sebastien80100 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°244172715426 : Tournoi #3602142745, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 09/06/2023 7:09:44 CET [09/06/2023 1:09:44 ET]
+Table '3602142745 1' 3-max Siège #2 est au bouton.
+Place 2: sebastien80100 (600 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+sebastien80100 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Kc]
+sebastien80100 : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 2 : sebastien80100 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°244172715926 : Tournoi #3602142745, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 09/06/2023 7:09:49 CET [09/06/2023 1:09:49 ET]
+Table '3602142745 1' 3-max Siège #3 est au bouton.
+Place 2: sebastien80100 (590 en jetons) 
+Place 3: psychoman59 (310 en jetons) 
+psychoman59 : met la petite blind. 10
+sebastien80100 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Qd]
+psychoman59 : relance. 290 à 310 et est all-in.
+sebastien80100 : suit. 290
+*** FLOP *** [8c 9h 6h]
+*** TOURNANT *** [8c 9h 6h] [Js]
+*** RIVIÈRE *** [8c 9h 6h Js] [3s]
+*** ABATTAGE ***
+sebastien80100 : montre [Kh Jc] (une paire de Valets)
+psychoman59 : montre [Jd Qd] (une paire de Valets - plus basse kicker)
+sebastien80100 a remporté 620  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+sebastien80100 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [8c 9h 6h Js 3s]
+Siège 2 : sebastien80100 (grosse blind) a montré [Kh Jc] et a gagné (620) avec une paire de Valets
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Jd Qd] et a perdu avec une paire de Valets
+
+
+

@@ -1,0 +1,330 @@
+﻿Main PokerStars n°244080684746 : Tournoi #3600018456, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/06/2023 7:16:47 CET [04/06/2023 1:16:47 ET]
+Table '3600018456 1' 3-max Siège #1 est au bouton.
+Place 1: wahid3 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: badbruno59 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+badbruno59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Th]
+wahid3 : relance. 280 à 300 et est all-in.
+psychoman59 : passe. 
+badbruno59 : passe. 
+Personne n'a suivi. (280) sont retournés à wahid3.
+wahid3 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : wahid3 (bouton) a remporté (50)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : badbruno59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244080685839 : Tournoi #3600018456, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/06/2023 7:16:57 CET [04/06/2023 1:16:57 ET]
+Table '3600018456 1' 3-max Siège #2 est au bouton.
+Place 1: wahid3 (330 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: badbruno59 (280 en jetons) 
+badbruno59 : met la petite blind. 10
+wahid3 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 7d]
+psychoman59 : passe. 
+badbruno59 : suit. 10
+wahid3 : relance. 20 à 40
+badbruno59 : suit. 20
+*** FLOP *** [8c 5c 3c]
+badbruno59 : mise. 240 et est all-in.
+wahid3 : suit. 240
+*** TOURNANT *** [8c 5c 3c] [Th]
+*** RIVIÈRE *** [8c 5c 3c Th] [6d]
+*** ABATTAGE ***
+badbruno59 : montre [Qc 5d] (une paire de Cinq)
+wahid3 : montre [Kh 9s] (Hauteur Roi)
+badbruno59 a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [8c 5c 3c Th 6d]
+Siège 1 : wahid3 (grosse blind) a montré [Kh 9s] et a perdu avec Hauteur Roi
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : badbruno59 (petite blind) a montré [Qc 5d] et a gagné (560) avec une paire de Cinq
+
+
+
+Main PokerStars n°244080688184 : Tournoi #3600018456, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/06/2023 7:17:19 CET [04/06/2023 1:17:19 ET]
+Table '3600018456 1' 3-max Siège #3 est au bouton.
+Place 1: wahid3 (50 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: badbruno59 (560 en jetons) 
+wahid3 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Ks]
+badbruno59 : passe. 
+wahid3 : relance. 20 à 40
+psychoman59 : relance. 20 à 60
+wahid3 : suit. 10 et est all-in.
+Personne n'a suivi. (10) sont retournés à psychoman59.
+*** FLOP *** [4s Kd 6s]
+*** TOURNANT *** [4s Kd 6s] [2d]
+*** RIVIÈRE *** [4s Kd 6s 2d] [8c]
+*** ABATTAGE ***
+wahid3 : montre [4d 5s] (une paire de Quatre)
+psychoman59 : montre [Qc Ks] (une paire de Rois)
+psychoman59 a remporté 100  lors du pot .
+wahid3 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [4s Kd 6s 2d 8c]
+Siège 1 : wahid3 (petite blind) a montré [4d 5s] et a perdu avec une paire de Quatre
+Siège 2 : psychoman59 (grosse blind) a montré [Qc Ks] et a gagné (100) avec une paire de Rois
+Siège 3 : badbruno59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°244080690343 : Tournoi #3600018456, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/06/2023 7:17:38 CET [04/06/2023 1:17:38 ET]
+Table '3600018456 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (340 en jetons) 
+Place 3: badbruno59 (560 en jetons) 
+psychoman59 : met la petite blind. 10
+badbruno59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Kh]
+psychoman59 : relance. 20 à 40
+badbruno59 : suit. 20
+*** FLOP *** [2s 5d 2h]
+badbruno59 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [2s 5d 2h] [Qd]
+badbruno59 : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à badbruno59.
+badbruno59 a remporté 80  lors du pot .
+badbruno59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [2s 5d 2h Qd]
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Tournant
+Siège 3 : badbruno59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°244080692448 : Tournoi #3600018456, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 04/06/2023 7:17:57 CET [04/06/2023 1:17:57 ET]
+Table '3600018456 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (300 en jetons) 
+Place 3: badbruno59 (600 en jetons) 
+badbruno59 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Qc]
+badbruno59 : relance. 570 à 600 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (570) sont retournés à badbruno59.
+badbruno59 a remporté 60  lors du pot .
+badbruno59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : badbruno59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°244080693173 : Tournoi #3600018456, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 04/06/2023 7:18:04 CET [04/06/2023 1:18:04 ET]
+Table '3600018456 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (270 en jetons) 
+Place 3: badbruno59 (630 en jetons) 
+psychoman59 : met la petite blind. 15
+badbruno59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 4s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à badbruno59.
+badbruno59 a remporté 30  lors du pot .
+badbruno59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : badbruno59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°244080693721 : Tournoi #3600018456, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 04/06/2023 7:18:09 CET [04/06/2023 1:18:09 ET]
+Table '3600018456 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (255 en jetons) 
+Place 3: badbruno59 (645 en jetons) 
+badbruno59 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 9c]
+badbruno59 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [9s 6s 2h]
+psychoman59 : mise. 225 et est all-in.
+badbruno59 : passe. 
+Personne n'a suivi. (225) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [9s 6s 2h]
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : badbruno59 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°244080695164 : Tournoi #3600018456, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 04/06/2023 7:18:22 CET [04/06/2023 1:18:22 ET]
+Table '3600018456 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (285 en jetons) 
+Place 3: badbruno59 (615 en jetons) 
+psychoman59 : met la petite blind. 15
+badbruno59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 5d]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à badbruno59.
+badbruno59 a remporté 30  lors du pot .
+badbruno59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : badbruno59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°244080695779 : Tournoi #3600018456, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 04/06/2023 7:18:27 CET [04/06/2023 1:18:27 ET]
+Table '3600018456 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (270 en jetons) 
+Place 3: badbruno59 (630 en jetons) 
+badbruno59 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 5s]
+badbruno59 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Kh Tc Qc]
+psychoman59 : parole 
+badbruno59 : parole 
+*** TOURNANT *** [Kh Tc Qc] [2c]
+psychoman59 : parole 
+badbruno59 : parole 
+*** RIVIÈRE *** [Kh Tc Qc 2c] [7d]
+psychoman59 : parole 
+badbruno59 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [4s 5s] (Hauteur Roi)
+badbruno59 : montre [5d 7h] (une paire de Sept)
+badbruno59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Kh Tc Qc 2c 7d]
+Siège 2 : psychoman59 (grosse blind) a montré [4s 5s] et a perdu avec Hauteur Roi
+Siège 3 : badbruno59 (bouton) (petite blind) a montré [5d 7h] et a gagné (60) avec une paire de Sept
+
+
+
+Main PokerStars n°244080699185 : Tournoi #3600018456, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 04/06/2023 7:18:58 CET [04/06/2023 1:18:58 ET]
+Table '3600018456 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (240 en jetons) 
+Place 3: badbruno59 (660 en jetons) 
+psychoman59 : met la petite blind. 20
+badbruno59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 3d]
+psychoman59 : relance. 200 à 240 et est all-in.
+badbruno59 : passe. 
+Personne n'a suivi. (200) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 3 : badbruno59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244080700132 : Tournoi #3600018456, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 04/06/2023 7:19:07 CET [04/06/2023 1:19:07 ET]
+Table '3600018456 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (280 en jetons) 
+Place 3: badbruno59 (620 en jetons) 
+badbruno59 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 4d]
+badbruno59 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [9h Js As]
+psychoman59 : parole 
+badbruno59 : parole 
+*** TOURNANT *** [9h Js As] [2h]
+psychoman59 : parole 
+badbruno59 : parole 
+*** RIVIÈRE *** [9h Js As 2h] [3c]
+psychoman59 : parole 
+badbruno59 : mise. 80
+psychoman59 : suit. 80
+*** ABATTAGE ***
+badbruno59 : montre [5c 4h] (une suite, As à Cinq)
+psychoman59 : cache la main perdante. 
+badbruno59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [9h Js As 2h 3c]
+Siège 2 : psychoman59 (grosse blind) a caché la main perdante. [3d 4d]
+Siège 3 : badbruno59 (bouton) (petite blind) a montré [5c 4h] et a gagné (240) avec une suite, As à Cinq
+
+
+
+Main PokerStars n°244080703352 : Tournoi #3600018456, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 04/06/2023 7:19:36 CET [04/06/2023 1:19:36 ET]
+Table '3600018456 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (160 en jetons) 
+Place 3: badbruno59 (740 en jetons) 
+psychoman59 : met la petite blind. 20
+badbruno59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 6d]
+psychoman59 : relance. 120 à 160 et est all-in.
+badbruno59 : suit. 120
+*** FLOP *** [2h Jd Qh]
+*** TOURNANT *** [2h Jd Qh] [Js]
+*** RIVIÈRE *** [2h Jd Qh Js] [9c]
+*** ABATTAGE ***
+badbruno59 : montre [Ad 8s] (une paire de Valets)
+psychoman59 : montre [Ac 6d] (une paire de Valets)
+badbruno59 a remporté 160  lors du pot .
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [2h Jd Qh Js 9c]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Ac 6d] et a gagné (160) avec une paire de Valets
+Siège 3 : badbruno59 (grosse blind) a montré [Ad 8s] et a gagné (160) avec une paire de Valets
+
+
+
+Main PokerStars n°244080705232 : Tournoi #3600018456, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 04/06/2023 7:19:53 CET [04/06/2023 1:19:53 ET]
+Table '3600018456 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (160 en jetons) 
+Place 3: badbruno59 (740 en jetons) 
+badbruno59 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Ks]
+badbruno59 : suit. 30
+psychoman59 : relance. 100 à 160 et est all-in.
+badbruno59 : suit. 100
+*** FLOP *** [As Ah 6c]
+*** TOURNANT *** [As Ah 6c] [8h]
+*** RIVIÈRE *** [As Ah 6c 8h] [3c]
+*** ABATTAGE ***
+psychoman59 : montre [9s Ks] (une paire de As)
+badbruno59 : montre [8s Jc] (double paire, As et Huit)
+badbruno59 a remporté 320  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+badbruno59 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [As Ah 6c 8h 3c]
+Siège 2 : psychoman59 (grosse blind) a montré [9s Ks] et a perdu avec une paire de As
+Siège 3 : badbruno59 (bouton) (petite blind) a montré [8s Jc] et a gagné (320) avec double paire, As et Huit
+
+
+

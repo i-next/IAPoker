@@ -1,0 +1,380 @@
+﻿Main PokerStars n°244722123210 : Tournoi #3614849263, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 09/07/2023 22:53:22 CET [09/07/2023 16:53:22 ET]
+Table '3614849263 1' 3-max Siège #1 est au bouton.
+Place 1: RipOfTheMask (300 en jetons) 
+Place 2: Reubl3r (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+Reubl3r : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Kh]
+RipOfTheMask : passe. 
+Reubl3r : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Ks As Jc]
+Reubl3r : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Ks As Jc] [6c]
+Reubl3r : parole 
+psychoman59 : mise. 20
+Reubl3r : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Ks As Jc 6c]
+Siège 1 : RipOfTheMask (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Reubl3r (petite blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°244722132879 : Tournoi #3614849263, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 09/07/2023 22:53:44 CET [09/07/2023 16:53:44 ET]
+Table '3614849263 1' 3-max Siège #2 est au bouton.
+Place 1: RipOfTheMask (300 en jetons) 
+Place 2: Reubl3r (280 en jetons) 
+Place 3: psychoman59 (320 en jetons) 
+psychoman59 : met la petite blind. 10
+RipOfTheMask : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Js]
+Reubl3r : suit. 20
+psychoman59 : passe. 
+RipOfTheMask : parole 
+*** FLOP *** [Jc 3h Ac]
+RipOfTheMask : parole 
+Reubl3r : mise. 20
+RipOfTheMask : suit. 20
+*** TOURNANT *** [Jc 3h Ac] [5d]
+RipOfTheMask : parole 
+Reubl3r : mise. 20
+RipOfTheMask : suit. 20
+*** RIVIÈRE *** [Jc 3h Ac 5d] [Qc]
+RipOfTheMask : parole 
+Reubl3r : mise. 80
+RipOfTheMask : passe. 
+Personne n'a suivi. (80) sont retournés à Reubl3r.
+Reubl3r a remporté 130  lors du pot .
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Tableau [Jc 3h Ac 5d Qc]
+Siège 1 : RipOfTheMask (grosse blind) s'est couché. sur le Rivière
+Siège 2 : Reubl3r (bouton) a remporté (130)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244722152538 : Tournoi #3614849263, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 09/07/2023 22:54:31 CET [09/07/2023 16:54:31 ET]
+Table '3614849263 1' 3-max Siège #3 est au bouton.
+Place 1: RipOfTheMask (240 en jetons) 
+Place 2: Reubl3r (350 en jetons) 
+Place 3: psychoman59 (310 en jetons) 
+RipOfTheMask : met la petite blind. 15
+Reubl3r : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Js]
+psychoman59 : relance. 30 à 60
+RipOfTheMask : suit. 45
+Reubl3r : suit. 30
+*** FLOP *** [3h 7c 7d]
+RipOfTheMask : parole 
+Reubl3r : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3h 7c 7d] [Kh]
+RipOfTheMask : parole 
+Reubl3r : parole 
+psychoman59 : mise. 90
+RipOfTheMask : passe. 
+Reubl3r : passe. 
+Personne n'a suivi. (90) sont retournés à psychoman59.
+psychoman59 a remporté 180  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [3h 7c 7d Kh]
+Siège 1 : RipOfTheMask (petite blind) s'est couché. sur le Tournant
+Siège 2 : Reubl3r (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) a remporté (180)
+
+
+
+Main PokerStars n°244722166897 : Tournoi #3614849263, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 09/07/2023 22:55:08 CET [09/07/2023 16:55:08 ET]
+Table '3614849263 1' 3-max Siège #1 est au bouton.
+Place 1: RipOfTheMask (180 en jetons) 
+Place 2: Reubl3r (290 en jetons) 
+Place 3: psychoman59 (430 en jetons) 
+Reubl3r : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 7h]
+RipOfTheMask : relance. 150 à 180 et est all-in.
+Reubl3r : passe. 
+psychoman59 : suit. 150
+*** FLOP *** [Jd 8d 2c]
+*** TOURNANT *** [Jd 8d 2c] [5c]
+*** RIVIÈRE *** [Jd 8d 2c 5c] [4h]
+*** ABATTAGE ***
+psychoman59 : montre [Ac 7h] (Hauteur As)
+RipOfTheMask : montre [Ks Ah] (Hauteur As - Roi kicker)
+RipOfTheMask a remporté 375  lors du pot .
+*** SYNTHÈSE ***
+Pot total 375 | Commission 0 
+Tableau [Jd 8d 2c 5c 4h]
+Siège 1 : RipOfTheMask (bouton) a montré [Ks Ah] et a gagné (375) avec Hauteur As
+Siège 2 : Reubl3r (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [Ac 7h] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°244722172272 : Tournoi #3614849263, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 09/07/2023 22:55:30 CET [09/07/2023 16:55:30 ET]
+Table '3614849263 1' 3-max Siège #2 est au bouton.
+Place 1: RipOfTheMask (375 en jetons) 
+Place 2: Reubl3r (275 en jetons) 
+Place 3: psychoman59 (250 en jetons) 
+psychoman59 : met la petite blind. 20
+RipOfTheMask : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 7s]
+Reubl3r : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à RipOfTheMask.
+RipOfTheMask a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : RipOfTheMask (grosse blind) a remporté (40)
+Siège 2 : Reubl3r (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244722173956 : Tournoi #3614849263, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 09/07/2023 22:55:37 CET [09/07/2023 16:55:37 ET]
+Table '3614849263 1' 3-max Siège #3 est au bouton.
+Place 1: RipOfTheMask (395 en jetons) 
+Place 2: Reubl3r (275 en jetons) 
+Place 3: psychoman59 (230 en jetons) 
+RipOfTheMask : met la petite blind. 20
+Reubl3r : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Kc]
+psychoman59 : relance. 40 à 80
+RipOfTheMask : passe. 
+Reubl3r : suit. 40
+*** FLOP *** [6s 8h 5c]
+Reubl3r : parole 
+psychoman59 : mise. 90
+Reubl3r : passe. 
+Personne n'a suivi. (90) sont retournés à psychoman59.
+psychoman59 a remporté 180  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [6s 8h 5c]
+Siège 1 : RipOfTheMask (petite blind) s'est couché. avant Flop
+Siège 2 : Reubl3r (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) a remporté (180)
+
+
+
+Main PokerStars n°244722178438 : Tournoi #3614849263, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 09/07/2023 22:55:55 CET [09/07/2023 16:55:55 ET]
+Table '3614849263 1' 3-max Siège #1 est au bouton.
+Place 1: RipOfTheMask (375 en jetons) 
+Place 2: Reubl3r (195 en jetons) 
+Place 3: psychoman59 (330 en jetons) 
+Reubl3r : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 2s]
+RipOfTheMask : suit. 40
+Reubl3r : relance. 155 à 195 et est all-in.
+psychoman59 : passe. 
+RipOfTheMask : suit. 155
+*** FLOP *** [2d Kc Qc]
+*** TOURNANT *** [2d Kc Qc] [Jd]
+*** RIVIÈRE *** [2d Kc Qc Jd] [6s]
+*** ABATTAGE ***
+Reubl3r : montre [Kd 9d] (une paire de Rois)
+RipOfTheMask : montre [Ts 8s] (Hauteur Roi)
+Reubl3r a remporté 430  lors du pot .
+*** SYNTHÈSE ***
+Pot total 430 | Commission 0 
+Tableau [2d Kc Qc Jd 6s]
+Siège 1 : RipOfTheMask (bouton) a montré [Ts 8s] et a perdu avec Hauteur Roi
+Siège 2 : Reubl3r (petite blind) a montré [Kd 9d] et a gagné (430) avec une paire de Rois
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244722182214 : Tournoi #3614849263, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 09/07/2023 22:56:11 CET [09/07/2023 16:56:11 ET]
+Table '3614849263 1' 3-max Siège #2 est au bouton.
+Place 1: RipOfTheMask (180 en jetons) 
+Place 2: Reubl3r (430 en jetons) 
+Place 3: psychoman59 (290 en jetons) 
+psychoman59 : met la petite blind. 20
+RipOfTheMask : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Qs]
+Reubl3r : suit. 40
+psychoman59 : passe. 
+RipOfTheMask : parole 
+*** FLOP *** [5h Jd 4d]
+RipOfTheMask : parole 
+Reubl3r : parole 
+*** TOURNANT *** [5h Jd 4d] [8c]
+RipOfTheMask : parole 
+Reubl3r : parole 
+*** RIVIÈRE *** [5h Jd 4d 8c] [9h]
+RipOfTheMask : parole 
+Reubl3r : parole 
+*** ABATTAGE ***
+RipOfTheMask : montre [Qd 3d] (Hauteur Dame)
+Reubl3r : cache la main perdante. 
+RipOfTheMask a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [5h Jd 4d 8c 9h]
+Siège 1 : RipOfTheMask (grosse blind) a montré [Qd 3d] et a gagné (100) avec Hauteur Dame
+Siège 2 : Reubl3r (bouton) a caché la main perdante. [6d Th]
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244722191371 : Tournoi #3614849263, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 09/07/2023 22:56:47 CET [09/07/2023 16:56:47 ET]
+Table '3614849263 1' 3-max Siège #3 est au bouton.
+Place 1: RipOfTheMask (240 en jetons) 
+Place 2: Reubl3r (390 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+RipOfTheMask : met la petite blind. 30
+Reubl3r : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Ad]
+psychoman59 : relance. 210 à 270 et est all-in.
+RipOfTheMask : passe. 
+Reubl3r : passe. 
+Personne n'a suivi. (210) sont retournés à psychoman59.
+psychoman59 a remporté 150  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Siège 1 : RipOfTheMask (petite blind) s'est couché. avant Flop
+Siège 2 : Reubl3r (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a remporté (150)
+
+
+
+Main PokerStars n°244722194098 : Tournoi #3614849263, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 09/07/2023 22:56:58 CET [09/07/2023 16:56:58 ET]
+Table '3614849263 1' 3-max Siège #1 est au bouton.
+Place 1: RipOfTheMask (210 en jetons) 
+Place 2: Reubl3r (330 en jetons) 
+Place 3: psychoman59 (360 en jetons) 
+Reubl3r : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 9d]
+RipOfTheMask : relance. 60 à 120
+Reubl3r : passe. 
+psychoman59 : relance. 120 à 240
+RipOfTheMask : suit. 90 et est all-in.
+Personne n'a suivi. (30) sont retournés à psychoman59.
+*** FLOP *** [Ad Kc Ac]
+*** TOURNANT *** [Ad Kc Ac] [5c]
+*** RIVIÈRE *** [Ad Kc Ac 5c] [Kh]
+*** ABATTAGE ***
+psychoman59 : montre [9h 9d] (double paire, As et Rois)
+RipOfTheMask : montre [Jc Tc] (une couleur, hauteur As)
+RipOfTheMask a remporté 450  lors du pot .
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Tableau [Ad Kc Ac 5c Kh]
+Siège 1 : RipOfTheMask (bouton) a montré [Jc Tc] et a gagné (450) avec une couleur, hauteur As
+Siège 2 : Reubl3r (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [9h 9d] et a perdu avec double paire, As et Rois
+
+
+
+Main PokerStars n°244722199595 : Tournoi #3614849263, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 09/07/2023 22:57:20 CET [09/07/2023 16:57:20 ET]
+Table '3614849263 1' 3-max Siège #2 est au bouton.
+Place 1: RipOfTheMask (450 en jetons) 
+Place 2: Reubl3r (300 en jetons) 
+Place 3: psychoman59 (150 en jetons) 
+psychoman59 : met la petite blind. 30
+RipOfTheMask : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 6s]
+Reubl3r : suit. 60
+psychoman59 : passe. 
+RipOfTheMask : parole 
+*** FLOP *** [2c 3h As]
+RipOfTheMask : parole 
+Reubl3r : mise. 60
+RipOfTheMask : passe. 
+Personne n'a suivi. (60) sont retournés à Reubl3r.
+Reubl3r a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Tableau [2c 3h As]
+Siège 1 : RipOfTheMask (grosse blind) s'est couché. sur le Flop
+Siège 2 : Reubl3r (bouton) a remporté (150)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244722204688 : Tournoi #3614849263, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 09/07/2023 22:57:40 CET [09/07/2023 16:57:40 ET]
+Table '3614849263 1' 3-max Siège #3 est au bouton.
+Place 1: RipOfTheMask (390 en jetons) 
+Place 2: Reubl3r (390 en jetons) 
+Place 3: psychoman59 (120 en jetons) 
+RipOfTheMask : met la petite blind. 40
+Reubl3r : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 4h]
+psychoman59 : passe. 
+RipOfTheMask : relance. 80 à 160
+Reubl3r : suit. 80
+*** FLOP *** [6c 8s Ac]
+RipOfTheMask : mise. 80
+Reubl3r : passe. 
+Personne n'a suivi. (80) sont retournés à RipOfTheMask.
+RipOfTheMask a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [6c 8s Ac]
+Siège 1 : RipOfTheMask (petite blind) a remporté (320)
+Siège 2 : Reubl3r (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°244722209903 : Tournoi #3614849263, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 09/07/2023 22:58:01 CET [09/07/2023 16:58:01 ET]
+Table '3614849263 1' 3-max Siège #1 est au bouton.
+Place 1: RipOfTheMask (550 en jetons) 
+Place 2: Reubl3r (230 en jetons) 
+Place 3: psychoman59 (120 en jetons) 
+Reubl3r : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Ad]
+RipOfTheMask : suit. 80
+Reubl3r : relance. 150 à 230 et est all-in.
+psychoman59 : suit. 40 et est all-in.
+RipOfTheMask : suit. 150
+*** FLOP *** [7h 9d 5s]
+*** TOURNANT *** [7h 9d 5s] [Qh]
+*** RIVIÈRE *** [7h 9d 5s Qh] [2s]
+*** ABATTAGE ***
+Reubl3r : montre [Ac Kh] (Hauteur As)
+RipOfTheMask : montre [9h Kc] (une paire de Neuf)
+RipOfTheMask a remporté 220  parallèle lors du pot .
+psychoman59 : montre [Ks Ad] (Hauteur As)
+RipOfTheMask a remporté 360  principal lors du pot .
+Reubl3r a fini le tournoi en 2e position.
+psychoman59 a fini le tournoi en 3e position.
+RipOfTheMask remporte le tournoi et reçoit 6.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 580 Principal pot 360. Parallèle pot 220. | Commission 0 
+Tableau [7h 9d 5s Qh 2s]
+Siège 1 : RipOfTheMask (bouton) a montré [9h Kc] et a gagné (580) avec une paire de Neuf
+Siège 2 : Reubl3r (petite blind) a montré [Ac Kh] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (grosse blind) a montré [Ks Ad] et a perdu avec Hauteur As
+
+
+

@@ -1,0 +1,792 @@
+﻿Main PokerStars n°240452907726 : Tournoi #3515333787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 14/12/2022 12:12:37 CET [14/12/2022 6:12:37 ET]
+Table '3515333787 1' 3-max Siège #1 est au bouton.
+Place 1: tass1608 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: Wharuu (300 en jetons) 
+psychoman59 : met la petite blind. 10
+Wharuu : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 8c]
+tass1608 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à Wharuu.
+Wharuu a remporté 20  lors du pot .
+Wharuu : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : tass1608 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Wharuu (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°240452908611 : Tournoi #3515333787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 14/12/2022 12:12:42 CET [14/12/2022 6:12:42 ET]
+Table '3515333787 1' 3-max Siège #2 est au bouton.
+Place 1: tass1608 (300 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: Wharuu (310 en jetons) 
+Wharuu : met la petite blind. 10
+tass1608 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 7h]
+psychoman59 : passe. 
+Wharuu : relance. 290 à 310 et est all-in.
+tass1608 : suit. 280 et est all-in.
+Personne n'a suivi. (10) sont retournés à Wharuu.
+*** FLOP *** [Qh 3c Ts]
+*** TOURNANT *** [Qh 3c Ts] [7c]
+*** RIVIÈRE *** [Qh 3c Ts 7c] [Kh]
+*** ABATTAGE ***
+Wharuu : montre [3d As] (une paire de Trois)
+tass1608 : montre [Js Kc] (une paire de Rois)
+tass1608 a remporté 600  lors du pot .
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [Qh 3c Ts 7c Kh]
+Siège 1 : tass1608 (grosse blind) a montré [Js Kc] et a gagné (600) avec une paire de Rois
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Wharuu (petite blind) a montré [3d As] et a perdu avec une paire de Trois
+
+
+
+Main PokerStars n°240452910935 : Tournoi #3515333787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 14/12/2022 12:12:56 CET [14/12/2022 6:12:56 ET]
+Table '3515333787 1' 3-max Siège #3 est au bouton.
+Place 1: tass1608 (600 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: Wharuu (10 en jetons) 
+tass1608 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 7c]
+Wharuu : suit. 10 et est all-in.
+tass1608 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [5d 2c 9c]
+tass1608 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5d 2c 9c] [5h]
+tass1608 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [5d 2c 9c 5h] [8s]
+tass1608 : parole 
+psychoman59 : mise. 50
+tass1608 : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+*** ABATTAGE ***
+psychoman59 : montre [6d 7c] (une suite, Cinq à Neuf)
+psychoman59 a remporté 20  parallèle lors du pot .
+Wharuu : montre [4s Qs] (une paire de Cinq)
+psychoman59 a remporté 30  principal lors du pot .
+Wharuu a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 50 Principal pot 30. Parallèle pot 20. | Commission 0 
+Tableau [5d 2c 9c 5h 8s]
+Siège 1 : tass1608 (petite blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (grosse blind) a montré [6d 7c] et a gagné (50) avec une suite, Cinq à Neuf
+Siège 3 : Wharuu (bouton) a montré [4s Qs] et a perdu avec une paire de Cinq
+
+
+
+Main PokerStars n°240452914563 : Tournoi #3515333787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 14/12/2022 12:13:18 CET [14/12/2022 6:13:18 ET]
+Table '3515333787 1' 3-max Siège #2 est au bouton.
+Place 1: tass1608 (580 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+psychoman59 : met la petite blind. 10
+tass1608 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Jd]
+psychoman59 : suit. 10
+tass1608 : parole 
+*** FLOP *** [Kc Qh 8s]
+tass1608 : parole 
+psychoman59 : mise. 40
+tass1608 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Kc Qh 8s]
+Siège 1 : tass1608 (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°240452916315 : Tournoi #3515333787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 14/12/2022 12:13:29 CET [14/12/2022 6:13:29 ET]
+Table '3515333787 1' 3-max Siège #1 est au bouton.
+Place 1: tass1608 (560 en jetons) 
+Place 2: psychoman59 (340 en jetons) 
+tass1608 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 8h]
+tass1608 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [7h 5d Ks]
+psychoman59 : parole 
+tass1608 : parole 
+*** TOURNANT *** [7h 5d Ks] [5h]
+psychoman59 : parole 
+tass1608 : parole 
+*** RIVIÈRE *** [7h 5d Ks 5h] [8s]
+psychoman59 : mise. 20
+tass1608 : suit. 20
+*** ABATTAGE ***
+psychoman59 : montre [3d 8h] (double paire, Huit et Cinq)
+tass1608 : cache la main perdante. 
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [7h 5d Ks 5h 8s]
+Siège 1 : tass1608 (bouton) (petite blind) a caché la main perdante. [Jd 4c]
+Siège 2 : psychoman59 (grosse blind) a montré [3d 8h] et a gagné (80) avec double paire, Huit et Cinq
+
+
+
+Main PokerStars n°240452919600 : Tournoi #3515333787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 14/12/2022 12:13:49 CET [14/12/2022 6:13:49 ET]
+Table '3515333787 1' 3-max Siège #2 est au bouton.
+Place 1: tass1608 (520 en jetons) 
+Place 2: psychoman59 (380 en jetons) 
+psychoman59 : met la petite blind. 15
+tass1608 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 7c]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à tass1608.
+tass1608 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : tass1608 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240452920348 : Tournoi #3515333787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 14/12/2022 12:13:54 CET [14/12/2022 6:13:54 ET]
+Table '3515333787 1' 3-max Siège #1 est au bouton.
+Place 1: tass1608 (535 en jetons) 
+Place 2: psychoman59 (365 en jetons) 
+tass1608 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 4d]
+tass1608 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [9h Qd 8s]
+psychoman59 : parole 
+tass1608 : parole 
+*** TOURNANT *** [9h Qd 8s] [2h]
+psychoman59 : parole 
+tass1608 : parole 
+*** RIVIÈRE *** [9h Qd 8s 2h] [8c]
+psychoman59 : parole 
+tass1608 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [6s 4d] (une paire de Huit)
+tass1608 : montre [4c Kh] (une paire de Huit - Roi kicker)
+tass1608 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [9h Qd 8s 2h 8c]
+Siège 1 : tass1608 (bouton) (petite blind) a montré [4c Kh] et a gagné (60) avec une paire de Huit
+Siège 2 : psychoman59 (grosse blind) a montré [6s 4d] et a perdu avec une paire de Huit
+
+
+
+Main PokerStars n°240452922749 : Tournoi #3515333787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 14/12/2022 12:14:08 CET [14/12/2022 6:14:08 ET]
+Table '3515333787 1' 3-max Siège #2 est au bouton.
+Place 1: tass1608 (565 en jetons) 
+Place 2: psychoman59 (335 en jetons) 
+psychoman59 : met la petite blind. 15
+tass1608 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Jc]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à tass1608.
+tass1608 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : tass1608 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240452923438 : Tournoi #3515333787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 14/12/2022 12:14:13 CET [14/12/2022 6:14:13 ET]
+Table '3515333787 1' 3-max Siège #1 est au bouton.
+Place 1: tass1608 (580 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+tass1608 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 3d]
+tass1608 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Js Ad 2s]
+psychoman59 : parole 
+tass1608 : mise. 30
+psychoman59 : suit. 30
+*** TOURNANT *** [Js Ad 2s] [Jd]
+psychoman59 : parole 
+tass1608 : mise. 30
+psychoman59 : suit. 30
+*** RIVIÈRE *** [Js Ad 2s Jd] [2h]
+psychoman59 : parole 
+tass1608 : mise. 30
+psychoman59 : suit. 30
+*** ABATTAGE ***
+tass1608 : montre [3c Ac] (double paire, As et Valets)
+psychoman59 : cache la main perdante. 
+tass1608 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Js Ad 2s Jd 2h]
+Siège 1 : tass1608 (bouton) (petite blind) a montré [3c Ac] et a gagné (240) avec double paire, As et Valets
+Siège 2 : psychoman59 (grosse blind) a caché la main perdante. [4h 3d]
+
+
+
+Main PokerStars n°240452927068 : Tournoi #3515333787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 14/12/2022 12:14:35 CET [14/12/2022 6:14:35 ET]
+Table '3515333787 1' 3-max Siège #2 est au bouton.
+Place 1: tass1608 (700 en jetons) 
+Place 2: psychoman59 (200 en jetons) 
+psychoman59 : met la petite blind. 15
+tass1608 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 6d]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à tass1608.
+tass1608 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : tass1608 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240452928270 : Tournoi #3515333787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 14/12/2022 12:14:42 CET [14/12/2022 6:14:42 ET]
+Table '3515333787 1' 3-max Siège #1 est au bouton.
+Place 1: tass1608 (715 en jetons) 
+Place 2: psychoman59 (185 en jetons) 
+tass1608 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 7s]
+tass1608 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Th 7d 5c]
+psychoman59 : mise. 145 et est all-in.
+tass1608 : passe. 
+Personne n'a suivi. (145) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Th 7d 5c]
+Siège 1 : tass1608 (bouton) (petite blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°240452929913 : Tournoi #3515333787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 14/12/2022 12:14:53 CET [14/12/2022 6:14:53 ET]
+Table '3515333787 1' 3-max Siège #2 est au bouton.
+Place 1: tass1608 (675 en jetons) 
+Place 2: psychoman59 (225 en jetons) 
+psychoman59 : met la petite blind. 20
+tass1608 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 5c]
+psychoman59 : suit. 20
+tass1608 : parole 
+*** FLOP *** [Jh 6s 4d]
+tass1608 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Jh 6s 4d] [7h]
+tass1608 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Jh 6s 4d 7h] [2s]
+tass1608 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+tass1608 : montre [2c 3s] (une paire de Deux)
+psychoman59 : cache la main perdante. 
+tass1608 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Jh 6s 4d 7h 2s]
+Siège 1 : tass1608 (grosse blind) a montré [2c 3s] et a gagné (80) avec une paire de Deux
+Siège 2 : psychoman59 (bouton) (petite blind) a caché la main perdante. [Kh 5c]
+
+
+
+Main PokerStars n°240452932261 : Tournoi #3515333787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 14/12/2022 12:15:07 CET [14/12/2022 6:15:07 ET]
+Table '3515333787 1' 3-max Siège #1 est au bouton.
+Place 1: tass1608 (715 en jetons) 
+Place 2: psychoman59 (185 en jetons) 
+tass1608 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Jh]
+tass1608 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : tass1608 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°240452933076 : Tournoi #3515333787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 14/12/2022 12:15:12 CET [14/12/2022 6:15:12 ET]
+Table '3515333787 1' 3-max Siège #2 est au bouton.
+Place 1: tass1608 (695 en jetons) 
+Place 2: psychoman59 (205 en jetons) 
+psychoman59 : met la petite blind. 20
+tass1608 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 6h]
+psychoman59 : relance. 165 à 205 et est all-in.
+tass1608 : passe. 
+Personne n'a suivi. (165) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : tass1608 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°240452934058 : Tournoi #3515333787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 14/12/2022 12:15:18 CET [14/12/2022 6:15:18 ET]
+Table '3515333787 1' 3-max Siège #1 est au bouton.
+Place 1: tass1608 (655 en jetons) 
+Place 2: psychoman59 (245 en jetons) 
+tass1608 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 7d]
+tass1608 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [3h 2s 9d]
+psychoman59 : parole 
+tass1608 : parole 
+*** TOURNANT *** [3h 2s 9d] [Ks]
+psychoman59 : parole 
+tass1608 : parole 
+*** RIVIÈRE *** [3h 2s 9d Ks] [8s]
+psychoman59 : parole 
+tass1608 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [3s 7d] (une paire de Trois)
+tass1608 : cache la main perdante. 
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [3h 2s 9d Ks 8s]
+Siège 1 : tass1608 (bouton) (petite blind) a caché la main perdante. [5d Ah]
+Siège 2 : psychoman59 (grosse blind) a montré [3s 7d] et a gagné (80) avec une paire de Trois
+
+
+
+Main PokerStars n°240452936970 : Tournoi #3515333787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 14/12/2022 12:15:35 CET [14/12/2022 6:15:35 ET]
+Table '3515333787 1' 3-max Siège #2 est au bouton.
+Place 1: tass1608 (615 en jetons) 
+Place 2: psychoman59 (285 en jetons) 
+psychoman59 : met la petite blind. 20
+tass1608 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 2h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à tass1608.
+tass1608 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : tass1608 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240452938126 : Tournoi #3515333787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 14/12/2022 12:15:42 CET [14/12/2022 6:15:42 ET]
+Table '3515333787 1' 3-max Siège #1 est au bouton.
+Place 1: tass1608 (635 en jetons) 
+Place 2: psychoman59 (265 en jetons) 
+tass1608 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 4d]
+tass1608 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [7h Ac 3c]
+psychoman59 : parole 
+tass1608 : parole 
+*** TOURNANT *** [7h Ac 3c] [2c]
+psychoman59 : parole 
+tass1608 : parole 
+*** RIVIÈRE *** [7h Ac 3c 2c] [6c]
+psychoman59 : parole 
+tass1608 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Jd 4d] (Hauteur As)
+tass1608 : montre [Th Jh] (Hauteur As - Valet+Dix kicker)
+tass1608 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [7h Ac 3c 2c 6c]
+Siège 1 : tass1608 (bouton) (petite blind) a montré [Th Jh] et a gagné (120) avec Hauteur As
+Siège 2 : psychoman59 (grosse blind) a montré [Jd 4d] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°240452940790 : Tournoi #3515333787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 14/12/2022 12:15:59 CET [14/12/2022 6:15:59 ET]
+Table '3515333787 1' 3-max Siège #2 est au bouton.
+Place 1: tass1608 (695 en jetons) 
+Place 2: psychoman59 (205 en jetons) 
+psychoman59 : met la petite blind. 30
+tass1608 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 3h]
+psychoman59 : relance. 145 à 205 et est all-in.
+tass1608 : passe. 
+Personne n'a suivi. (145) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : tass1608 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°240452941845 : Tournoi #3515333787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 14/12/2022 12:16:05 CET [14/12/2022 6:16:05 ET]
+Table '3515333787 1' 3-max Siège #1 est au bouton.
+Place 1: tass1608 (635 en jetons) 
+Place 2: psychoman59 (265 en jetons) 
+tass1608 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 4d]
+tass1608 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : tass1608 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°240452942697 : Tournoi #3515333787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 14/12/2022 12:16:10 CET [14/12/2022 6:16:10 ET]
+Table '3515333787 1' 3-max Siège #2 est au bouton.
+Place 1: tass1608 (605 en jetons) 
+Place 2: psychoman59 (295 en jetons) 
+psychoman59 : met la petite blind. 30
+tass1608 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 2h]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à tass1608.
+tass1608 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : tass1608 (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240452943432 : Tournoi #3515333787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 14/12/2022 12:16:15 CET [14/12/2022 6:16:15 ET]
+Table '3515333787 1' 3-max Siège #1 est au bouton.
+Place 1: tass1608 (635 en jetons) 
+Place 2: psychoman59 (265 en jetons) 
+tass1608 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Qd]
+tass1608 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [3h Kc 5h]
+psychoman59 : parole 
+tass1608 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à tass1608.
+tass1608 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [3h Kc 5h]
+Siège 1 : tass1608 (bouton) (petite blind) a remporté (120)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°240452945350 : Tournoi #3515333787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 14/12/2022 12:16:26 CET [14/12/2022 6:16:26 ET]
+Table '3515333787 1' 3-max Siège #2 est au bouton.
+Place 1: tass1608 (695 en jetons) 
+Place 2: psychoman59 (205 en jetons) 
+psychoman59 : met la petite blind. 30
+tass1608 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Ad]
+psychoman59 : relance. 145 à 205 et est all-in.
+tass1608 : suit. 145
+*** FLOP *** [6s 8h Jd]
+*** TOURNANT *** [6s 8h Jd] [2d]
+*** RIVIÈRE *** [6s 8h Jd 2d] [6h]
+*** ABATTAGE ***
+tass1608 : montre [Kc 9h] (une paire de Six)
+psychoman59 : montre [3c Ad] (une paire de Six - As kicker)
+psychoman59 a remporté 410  lors du pot .
+*** SYNTHÈSE ***
+Pot total 410 | Commission 0 
+Tableau [6s 8h Jd 2d 6h]
+Siège 1 : tass1608 (grosse blind) a montré [Kc 9h] et a perdu avec une paire de Six
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [3c Ad] et a gagné (410) avec une paire de Six
+
+
+
+Main PokerStars n°240452948165 : Tournoi #3515333787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 14/12/2022 12:16:43 CET [14/12/2022 6:16:43 ET]
+Table '3515333787 1' 3-max Siège #1 est au bouton.
+Place 1: tass1608 (490 en jetons) 
+Place 2: psychoman59 (410 en jetons) 
+tass1608 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Ad]
+tass1608 : suit. 40
+psychoman59 : relance. 330 à 410 et est all-in.
+tass1608 : suit. 330
+*** FLOP *** [Qd 4c Ah]
+*** TOURNANT *** [Qd 4c Ah] [5h]
+*** RIVIÈRE *** [Qd 4c Ah 5h] [Kh]
+*** ABATTAGE ***
+psychoman59 : montre [6s Ad] (une paire de As)
+tass1608 : montre [9d 8d] (Hauteur As)
+psychoman59 a remporté 820  lors du pot .
+*** SYNTHÈSE ***
+Pot total 820 | Commission 0 
+Tableau [Qd 4c Ah 5h Kh]
+Siège 1 : tass1608 (bouton) (petite blind) a montré [9d 8d] et a perdu avec Hauteur As
+Siège 2 : psychoman59 (grosse blind) a montré [6s Ad] et a gagné (820) avec une paire de As
+
+
+
+Main PokerStars n°240452950666 : Tournoi #3515333787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 14/12/2022 12:16:58 CET [14/12/2022 6:16:58 ET]
+Table '3515333787 1' 3-max Siège #2 est au bouton.
+Place 1: tass1608 (80 en jetons) 
+Place 2: psychoman59 (820 en jetons) 
+psychoman59 : met la petite blind. 40
+tass1608 : met la grosse blind. 80 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Qs]
+psychoman59 : suit. 40
+*** FLOP *** [2c 2d Jc]
+*** TOURNANT *** [2c 2d Jc] [9h]
+*** RIVIÈRE *** [2c 2d Jc 9h] [8c]
+*** ABATTAGE ***
+tass1608 : montre [6c 4c] (une couleur, hauteur Valet)
+psychoman59 : montre [Ks Qs] (une paire de Deux)
+tass1608 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [2c 2d Jc 9h 8c]
+Siège 1 : tass1608 (grosse blind) a montré [6c 4c] et a gagné (160) avec une couleur, hauteur Valet
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Ks Qs] et a perdu avec une paire de Deux
+
+
+
+Main PokerStars n°240452952597 : Tournoi #3515333787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 14/12/2022 12:17:09 CET [14/12/2022 6:17:09 ET]
+Table '3515333787 1' 3-max Siège #1 est au bouton.
+Place 1: tass1608 (160 en jetons) 
+Place 2: psychoman59 (740 en jetons) 
+tass1608 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 3h]
+tass1608 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : tass1608 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°240452953405 : Tournoi #3515333787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 14/12/2022 12:17:14 CET [14/12/2022 6:17:14 ET]
+Table '3515333787 1' 3-max Siège #2 est au bouton.
+Place 1: tass1608 (120 en jetons) 
+Place 2: psychoman59 (780 en jetons) 
+psychoman59 : met la petite blind. 40
+tass1608 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 6d]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à tass1608.
+tass1608 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : tass1608 (grosse blind) a remporté (80)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240452954142 : Tournoi #3515333787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 14/12/2022 12:17:19 CET [14/12/2022 6:17:19 ET]
+Table '3515333787 1' 3-max Siège #1 est au bouton.
+Place 1: tass1608 (160 en jetons) 
+Place 2: psychoman59 (740 en jetons) 
+tass1608 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 3d]
+tass1608 : relance. 80 à 160 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à tass1608.
+tass1608 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : tass1608 (bouton) (petite blind) a remporté (160)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240452955245 : Tournoi #3515333787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 14/12/2022 12:17:25 CET [14/12/2022 6:17:25 ET]
+Table '3515333787 1' 3-max Siège #2 est au bouton.
+Place 1: tass1608 (240 en jetons) 
+Place 2: psychoman59 (660 en jetons) 
+psychoman59 : met la petite blind. 40
+tass1608 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 4d]
+psychoman59 : relance. 580 à 660 et est all-in.
+tass1608 : suit. 160 et est all-in.
+Personne n'a suivi. (420) sont retournés à psychoman59.
+*** FLOP *** [5c 8h 2h]
+*** TOURNANT *** [5c 8h 2h] [9h]
+*** RIVIÈRE *** [5c 8h 2h 9h] [2d]
+*** ABATTAGE ***
+tass1608 : montre [Qd As] (une paire de Deux)
+psychoman59 : montre [Qs 4d] (une paire de Deux - plus basse kicker)
+tass1608 a remporté 480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [5c 8h 2h 9h 2d]
+Siège 1 : tass1608 (grosse blind) a montré [Qd As] et a gagné (480) avec une paire de Deux
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Qs 4d] et a perdu avec une paire de Deux
+
+
+
+Main PokerStars n°240452957304 : Tournoi #3515333787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 14/12/2022 12:17:37 CET [14/12/2022 6:17:37 ET]
+Table '3515333787 1' 3-max Siège #1 est au bouton.
+Place 1: tass1608 (480 en jetons) 
+Place 2: psychoman59 (420 en jetons) 
+tass1608 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Qh]
+tass1608 : relance. 400 à 480 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (400) sont retournés à tass1608.
+tass1608 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : tass1608 (bouton) (petite blind) a remporté (160)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240452959068 : Tournoi #3515333787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 14/12/2022 12:17:48 CET [14/12/2022 6:17:48 ET]
+Table '3515333787 1' 3-max Siège #2 est au bouton.
+Place 1: tass1608 (560 en jetons) 
+Place 2: psychoman59 (340 en jetons) 
+psychoman59 : met la petite blind. 50
+tass1608 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 5c]
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à tass1608.
+tass1608 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : tass1608 (grosse blind) a remporté (100)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240452959732 : Tournoi #3515333787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 14/12/2022 12:17:52 CET [14/12/2022 6:17:52 ET]
+Table '3515333787 1' 3-max Siège #1 est au bouton.
+Place 1: tass1608 (610 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+tass1608 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 6c]
+tass1608 : suit. 50
+psychoman59 : parole 
+*** FLOP *** [Ks 7d Ac]
+psychoman59 : parole 
+tass1608 : mise. 100
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à tass1608.
+tass1608 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [Ks 7d Ac]
+Siège 1 : tass1608 (bouton) (petite blind) a remporté (200)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°240452962295 : Tournoi #3515333787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 14/12/2022 12:18:08 CET [14/12/2022 6:18:08 ET]
+Table '3515333787 1' 3-max Siège #2 est au bouton.
+Place 1: tass1608 (710 en jetons) 
+Place 2: psychoman59 (190 en jetons) 
+psychoman59 : met la petite blind. 50
+tass1608 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Jc]
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à tass1608.
+tass1608 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : tass1608 (grosse blind) a remporté (100)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240452963071 : Tournoi #3515333787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 14/12/2022 12:18:12 CET [14/12/2022 6:18:12 ET]
+Table '3515333787 1' 3-max Siège #1 est au bouton.
+Place 1: tass1608 (760 en jetons) 
+Place 2: psychoman59 (140 en jetons) 
+tass1608 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Kc]
+tass1608 : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : tass1608 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (100)
+
+
+
+Main PokerStars n°240452964085 : Tournoi #3515333787, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 14/12/2022 12:18:19 CET [14/12/2022 6:18:19 ET]
+Table '3515333787 1' 3-max Siège #2 est au bouton.
+Place 1: tass1608 (710 en jetons) 
+Place 2: psychoman59 (190 en jetons) 
+psychoman59 : met la petite blind. 50
+tass1608 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 4d]
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à tass1608.
+tass1608 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : tass1608 (grosse blind) a remporté (100)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+

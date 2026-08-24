@@ -1,0 +1,37 @@
+﻿Main PokerStars n°261829028379 : Tournoi #4025858883, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 22/08/2026 8:03:05 CET [22/08/2026 2:03:05 ET]
+Table '4025858883 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: jedihb (500 en jetons) 
+Place 3: gunariki (500 en jetons) 
+jedihb : met la petite blind. 10
+gunariki : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Qc]
+psychoman59 : suit. 20
+jedihb : suit. 10
+gunariki : parole 
+*** FLOP *** [4d Qs Ac]
+jedihb : parole 
+gunariki : mise. 60
+psychoman59 : suit. 60
+jedihb : passe. 
+*** TOURNANT *** [4d Qs Ac] [As]
+gunariki : mise. 180
+psychoman59 : suit. 180
+*** RIVIÈRE *** [4d Qs Ac As] [2s]
+gunariki : mise. 240 et est all-in.
+psychoman59 : suit. 240 et est all-in.
+*** ABATTAGE ***
+gunariki : montre [Ah 4c] (un full, full aux As par les Quatre)
+psychoman59 : montre [Th Qc] (double paire, As et Dames)
+gunariki a remporté 1020  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 1020 | Commission 0 
+Tableau [4d Qs Ac As 2s]
+Siège 1 : psychoman59 (bouton) a montré [Th Qc] et a perdu avec double paire, As et Dames
+Siège 2 : jedihb (petite blind) s'est couché. sur le Flop
+Siège 3 : gunariki (grosse blind) a montré [Ah 4c] et a gagné (1020) avec un full, full aux As par les Quatre
+
+
+

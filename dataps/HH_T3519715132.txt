@@ -1,0 +1,263 @@
+﻿Main PokerStars n°240635557698 : Tournoi #3519715132, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 23/12/2022 9:12:05 CET [23/12/2022 3:12:05 ET]
+Table '3519715132 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: dbenj59 (300 en jetons) 
+Place 3: tupuducul74 (300 en jetons) 
+dbenj59 : met la petite blind. 10
+tupuducul74 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 4d]
+psychoman59 : passe. 
+dbenj59 : suit. 10
+tupuducul74 : parole 
+*** FLOP *** [2h 7c 5c]
+dbenj59 : mise. 40
+tupuducul74 : passe. 
+Personne n'a suivi. (40) sont retournés à dbenj59.
+dbenj59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [2h 7c 5c]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : dbenj59 (petite blind) a remporté (40)
+Siège 3 : tupuducul74 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°240635559532 : Tournoi #3519715132, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 23/12/2022 9:12:21 CET [23/12/2022 3:12:21 ET]
+Table '3519715132 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: dbenj59 (320 en jetons) 
+Place 3: tupuducul74 (280 en jetons) 
+tupuducul74 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 9d]
+dbenj59 : suit. 20
+tupuducul74 : passe. 
+psychoman59 : parole 
+*** FLOP *** [7h 4c Qc]
+psychoman59 : parole 
+dbenj59 : parole 
+*** TOURNANT *** [7h 4c Qc] [2c]
+psychoman59 : parole 
+dbenj59 : parole 
+*** RIVIÈRE *** [7h 4c Qc 2c] [Jc]
+psychoman59 : parole 
+dbenj59 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [3c 9d] (une couleur, hauteur Dame)
+dbenj59 : cache la main perdante. 
+psychoman59 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [7h 4c Qc 2c Jc]
+Siège 1 : psychoman59 (grosse blind) a montré [3c 9d] et a gagné (50) avec une couleur, hauteur Dame
+Siège 2 : dbenj59 (bouton) a caché la main perdante. [4h Kd]
+Siège 3 : tupuducul74 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240635562768 : Tournoi #3519715132, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 23/12/2022 9:12:48 CET [23/12/2022 3:12:48 ET]
+Table '3519715132 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (330 en jetons) 
+Place 2: dbenj59 (300 en jetons) 
+Place 3: tupuducul74 (270 en jetons) 
+psychoman59 : met la petite blind. 10
+dbenj59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 9h]
+tupuducul74 : passe. 
+psychoman59 : suit. 10
+dbenj59 : parole 
+*** FLOP *** [Jh Jc 2s]
+psychoman59 : parole 
+dbenj59 : parole 
+*** TOURNANT *** [Jh Jc 2s] [Ah]
+psychoman59 : mise. 40
+dbenj59 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Jh Jc 2s Ah]
+Siège 1 : psychoman59 (petite blind) a remporté (40)
+Siège 2 : dbenj59 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : tupuducul74 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°240635565443 : Tournoi #3519715132, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 23/12/2022 9:13:12 CET [23/12/2022 3:13:12 ET]
+Table '3519715132 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (350 en jetons) 
+Place 2: dbenj59 (280 en jetons) 
+Place 3: tupuducul74 (270 en jetons) 
+dbenj59 : met la petite blind. 15
+tupuducul74 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 6d]
+psychoman59 : passe. 
+dbenj59 : suit. 15
+tupuducul74 : parole 
+*** FLOP *** [4h 5c 7s]
+dbenj59 : mise. 250 et est all-in.
+tupuducul74 : suit. 240 et est all-in.
+Personne n'a suivi. (10) sont retournés à dbenj59.
+*** TOURNANT *** [4h 5c 7s] [Ah]
+*** RIVIÈRE *** [4h 5c 7s Ah] [9h]
+*** ABATTAGE ***
+dbenj59 : montre [6h 8s] (une suite, Cinq à Neuf)
+tupuducul74 : montre [6s 3c] (une suite, Trois à Sept)
+dbenj59 a remporté 540  lors du pot .
+tupuducul74 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [4h 5c 7s Ah 9h]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : dbenj59 (petite blind) a montré [6h 8s] et a gagné (540) avec une suite, Cinq à Neuf
+Siège 3 : tupuducul74 (grosse blind) a montré [6s 3c] et a perdu avec une suite, Trois à Sept
+
+
+
+Main PokerStars n°240635567970 : Tournoi #3519715132, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 23/12/2022 9:13:34 CET [23/12/2022 3:13:34 ET]
+Table '3519715132 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (350 en jetons) 
+Place 2: dbenj59 (550 en jetons) 
+dbenj59 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Td]
+dbenj59 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Qc 7d 7h]
+psychoman59 : parole 
+dbenj59 : parole 
+*** TOURNANT *** [Qc 7d 7h] [Th]
+psychoman59 : parole 
+dbenj59 : parole 
+*** RIVIÈRE *** [Qc 7d 7h Th] [5c]
+psychoman59 : mise. 60
+dbenj59 : suit. 60
+*** ABATTAGE ***
+psychoman59 : montre [3d Td] (double paire, Dix et Sept)
+dbenj59 : cache la main perdante. 
+psychoman59 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Qc 7d 7h Th 5c]
+Siège 1 : psychoman59 (grosse blind) a montré [3d Td] et a gagné (180) avec double paire, Dix et Sept
+Siège 2 : dbenj59 (bouton) (petite blind) a caché la main perdante. [6c Ks]
+
+
+
+Main PokerStars n°240635571436 : Tournoi #3519715132, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 23/12/2022 9:14:04 CET [23/12/2022 3:14:04 ET]
+Table '3519715132 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (440 en jetons) 
+Place 2: dbenj59 (460 en jetons) 
+psychoman59 : met la petite blind. 15
+dbenj59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 2d]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à dbenj59.
+dbenj59 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : dbenj59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°240635572461 : Tournoi #3519715132, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 23/12/2022 9:14:13 CET [23/12/2022 3:14:13 ET]
+Table '3519715132 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (425 en jetons) 
+Place 2: dbenj59 (475 en jetons) 
+dbenj59 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 7c]
+dbenj59 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [2h 8s 4c]
+psychoman59 : mise. 385 et est all-in.
+dbenj59 : suit. 385
+*** TOURNANT *** [2h 8s 4c] [9h]
+*** RIVIÈRE *** [2h 8s 4c 9h] [Kh]
+*** ABATTAGE ***
+psychoman59 : montre [8h 7c] (une paire de Huit)
+dbenj59 : montre [2s Qh] (une paire de Deux)
+psychoman59 a remporté 850  lors du pot .
+*** SYNTHÈSE ***
+Pot total 850 | Commission 0 
+Tableau [2h 8s 4c 9h Kh]
+Siège 1 : psychoman59 (grosse blind) a montré [8h 7c] et a gagné (850) avec une paire de Huit
+Siège 2 : dbenj59 (bouton) (petite blind) a montré [2s Qh] et a perdu avec une paire de Deux
+
+
+
+Main PokerStars n°240635574901 : Tournoi #3519715132, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 23/12/2022 9:14:33 CET [23/12/2022 3:14:33 ET]
+Table '3519715132 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (850 en jetons) 
+Place 2: dbenj59 (50 en jetons) 
+psychoman59 : met la petite blind. 20
+dbenj59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 3d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à dbenj59.
+dbenj59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : dbenj59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°240635575655 : Tournoi #3519715132, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 23/12/2022 9:14:40 CET [23/12/2022 3:14:40 ET]
+Table '3519715132 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (830 en jetons) 
+Place 2: dbenj59 (70 en jetons) 
+dbenj59 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 4d]
+dbenj59 : relance. 30 à 70 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à dbenj59.
+dbenj59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : dbenj59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°240635576598 : Tournoi #3519715132, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 23/12/2022 9:14:48 CET [23/12/2022 3:14:48 ET]
+Table '3519715132 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (790 en jetons) 
+Place 2: dbenj59 (110 en jetons) 
+psychoman59 : met la petite blind. 20
+dbenj59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 4h]
+psychoman59 : relance. 80 à 120
+dbenj59 : suit. 70 et est all-in.
+Personne n'a suivi. (10) sont retournés à psychoman59.
+*** FLOP *** [6s Kc Kd]
+*** TOURNANT *** [6s Kc Kd] [5d]
+*** RIVIÈRE *** [6s Kc Kd 5d] [Ks]
+*** ABATTAGE ***
+dbenj59 : montre [Tc 3s] (un brelan de Rois)
+psychoman59 : montre [Kh 4h] (un carré de Rois)
+psychoman59 a remporté 220  lors du pot .
+dbenj59 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 220 | Commission 0 
+Tableau [6s Kc Kd 5d Ks]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Kh 4h] et a gagné (220) avec un carré de Rois
+Siège 2 : dbenj59 (grosse blind) a montré [Tc 3s] et a perdu avec un brelan de Rois
+
+
+

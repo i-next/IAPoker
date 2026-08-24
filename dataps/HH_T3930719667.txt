@@ -1,0 +1,688 @@
+﻿Main PokerStars n°257855767946 : Tournoi #3930719667, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 23/09/2025 15:03:03 CET [23/09/2025 9:03:03 ET]
+Table '3930719667 1' 3-max Siège #1 est au bouton.
+Place 1: visio971 (500 en jetons) 
+Place 2: chicodeslandes (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+chicodeslandes : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 4d]
+visio971 : passe. 
+chicodeslandes : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Qd 2s Ks]
+chicodeslandes : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Qd 2s Ks] [6s]
+chicodeslandes : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à chicodeslandes.
+chicodeslandes a remporté 40  lors du pot .
+chicodeslandes : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Qd 2s Ks 6s]
+Siège 1 : visio971 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : chicodeslandes (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°257855770838 : Tournoi #3930719667, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 23/09/2025 15:03:24 CET [23/09/2025 9:03:24 ET]
+Table '3930719667 1' 3-max Siège #2 est au bouton.
+Place 1: visio971 (500 en jetons) 
+Place 2: chicodeslandes (520 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 10
+visio971 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 3s]
+chicodeslandes : suit. 20
+psychoman59 : passe. 
+visio971 : parole 
+*** FLOP *** [6s 9c Ad]
+visio971 : parole 
+chicodeslandes : mise. 500 et est all-in.
+visio971 : passe. 
+Personne n'a suivi. (500) sont retournés à chicodeslandes.
+chicodeslandes a remporté 50  lors du pot .
+chicodeslandes : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [6s 9c Ad]
+Siège 1 : visio971 (grosse blind) s'est couché. sur le Flop
+Siège 2 : chicodeslandes (bouton) a remporté (50)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257855774985 : Tournoi #3930719667, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 23/09/2025 15:03:56 CET [23/09/2025 9:03:56 ET]
+Table '3930719667 1' 3-max Siège #3 est au bouton.
+Place 1: visio971 (480 en jetons) 
+Place 2: chicodeslandes (550 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+visio971 : met la petite blind. 10
+chicodeslandes : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 2h]
+psychoman59 : passe. 
+visio971 : suit. 10
+chicodeslandes : relance. 100 à 120
+visio971 : passe. 
+Personne n'a suivi. (100) sont retournés à chicodeslandes.
+chicodeslandes a remporté 40  lors du pot .
+chicodeslandes : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : visio971 (petite blind) s'est couché. avant Flop
+Siège 2 : chicodeslandes (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°257855776566 : Tournoi #3930719667, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 23/09/2025 15:04:08 CET [23/09/2025 9:04:08 ET]
+Table '3930719667 1' 3-max Siège #1 est au bouton.
+Place 1: visio971 (460 en jetons) 
+Place 2: chicodeslandes (570 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+chicodeslandes : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 8d]
+visio971 : suit. 20
+chicodeslandes : relance. 100 à 120
+psychoman59 : passe. 
+visio971 : suit. 100
+*** FLOP *** [Qd Kc Jh]
+chicodeslandes : parole 
+visio971 : mise. 340 et est all-in.
+chicodeslandes : suit. 340
+*** TOURNANT *** [Qd Kc Jh] [6d]
+*** RIVIÈRE *** [Qd Kc Jh 6d] [4s]
+*** ABATTAGE ***
+chicodeslandes : montre [Ad 3d] (Hauteur As)
+visio971 : montre [5h Kh] (une paire de Rois)
+visio971 a remporté 940  lors du pot .
+*** SYNTHÈSE ***
+Pot total 940 | Commission 0 
+Tableau [Qd Kc Jh 6d 4s]
+Siège 1 : visio971 (bouton) a montré [5h Kh] et a gagné (940) avec une paire de Rois
+Siège 2 : chicodeslandes (petite blind) a montré [Ad 3d] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257855779861 : Tournoi #3930719667, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 23/09/2025 15:04:34 CET [23/09/2025 9:04:34 ET]
+Table '3930719667 1' 3-max Siège #2 est au bouton.
+Place 1: visio971 (940 en jetons) 
+Place 2: chicodeslandes (110 en jetons) 
+Place 3: psychoman59 (450 en jetons) 
+psychoman59 : met la petite blind. 10
+visio971 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 2s]
+chicodeslandes : relance. 90 à 110 et est all-in.
+psychoman59 : passe. 
+visio971 : passe. 
+Personne n'a suivi. (90) sont retournés à chicodeslandes.
+chicodeslandes a remporté 50  lors du pot .
+chicodeslandes : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : visio971 (grosse blind) s'est couché. avant Flop
+Siège 2 : chicodeslandes (bouton) a remporté (50)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257855781153 : Tournoi #3930719667, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 23/09/2025 15:04:44 CET [23/09/2025 9:04:44 ET]
+Table '3930719667 1' 3-max Siège #3 est au bouton.
+Place 1: visio971 (920 en jetons) 
+Place 2: chicodeslandes (140 en jetons) 
+Place 3: psychoman59 (440 en jetons) 
+visio971 : met la petite blind. 10
+chicodeslandes : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 9s]
+psychoman59 : suit. 20
+visio971 : relance. 140 à 160
+chicodeslandes : suit. 120 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à visio971.
+*** FLOP *** [Tc Th Kh]
+*** TOURNANT *** [Tc Th Kh] [Jh]
+*** RIVIÈRE *** [Tc Th Kh Jh] [2h]
+*** ABATTAGE ***
+visio971 : montre [5d Ac] (une paire de Dix)
+chicodeslandes : montre [Qd Ad] (une suite, Dix à As)
+chicodeslandes a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [Tc Th Kh Jh 2h]
+Siège 1 : visio971 (petite blind) a montré [5d Ac] et a perdu avec une paire de Dix
+Siège 2 : chicodeslandes (grosse blind) a montré [Qd Ad] et a gagné (300) avec une suite, Dix à As
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257855783922 : Tournoi #3930719667, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 23/09/2025 15:05:05 CET [23/09/2025 9:05:05 ET]
+Table '3930719667 1' 3-max Siège #1 est au bouton.
+Place 1: visio971 (780 en jetons) 
+Place 2: chicodeslandes (300 en jetons) 
+Place 3: psychoman59 (420 en jetons) 
+chicodeslandes : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Td]
+visio971 : relance. 760 à 780 et est all-in.
+chicodeslandes : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (760) sont retournés à visio971.
+visio971 a remporté 50  lors du pot .
+visio971 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : visio971 (bouton) a remporté (50)
+Siège 2 : chicodeslandes (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257855785131 : Tournoi #3930719667, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 23/09/2025 15:05:15 CET [23/09/2025 9:05:15 ET]
+Table '3930719667 1' 3-max Siège #2 est au bouton.
+Place 1: visio971 (810 en jetons) 
+Place 2: chicodeslandes (290 en jetons) 
+Place 3: psychoman59 (400 en jetons) 
+psychoman59 : met la petite blind. 10
+visio971 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 7s]
+chicodeslandes : suit. 20
+psychoman59 : passe. 
+visio971 : relance. 790 à 810 et est all-in.
+chicodeslandes : passe. 
+Personne n'a suivi. (790) sont retournés à visio971.
+visio971 a remporté 50  lors du pot .
+visio971 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : visio971 (grosse blind) a remporté (50)
+Siège 2 : chicodeslandes (bouton) s'est couché. avant Flop
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257855786538 : Tournoi #3930719667, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 23/09/2025 15:05:26 CET [23/09/2025 9:05:26 ET]
+Table '3930719667 1' 3-max Siège #3 est au bouton.
+Place 1: visio971 (840 en jetons) 
+Place 2: chicodeslandes (270 en jetons) 
+Place 3: psychoman59 (390 en jetons) 
+visio971 : met la petite blind. 10
+chicodeslandes : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 5s]
+psychoman59 : passe. 
+visio971 : relance. 820 à 840 et est all-in.
+chicodeslandes : suit. 250 et est all-in.
+Personne n'a suivi. (570) sont retournés à visio971.
+*** FLOP *** [2s Ks 8h]
+*** TOURNANT *** [2s Ks 8h] [7c]
+*** RIVIÈRE *** [2s Ks 8h 7c] [Qd]
+*** ABATTAGE ***
+visio971 : montre [Ad 5d] (Hauteur As)
+chicodeslandes : montre [Tc 8d] (une paire de Huit)
+chicodeslandes a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [2s Ks 8h 7c Qd]
+Siège 1 : visio971 (petite blind) a montré [Ad 5d] et a perdu avec Hauteur As
+Siège 2 : chicodeslandes (grosse blind) a montré [Tc 8d] et a gagné (540) avec une paire de Huit
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°257855788674 : Tournoi #3930719667, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 23/09/2025 15:05:43 CET [23/09/2025 9:05:43 ET]
+Table '3930719667 1' 3-max Siège #1 est au bouton.
+Place 1: visio971 (570 en jetons) 
+Place 2: chicodeslandes (540 en jetons) 
+Place 3: psychoman59 (390 en jetons) 
+chicodeslandes : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 2s]
+visio971 : relance. 550 à 570 et est all-in.
+chicodeslandes : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (550) sont retournés à visio971.
+visio971 a remporté 50  lors du pot .
+visio971 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : visio971 (bouton) a remporté (50)
+Siège 2 : chicodeslandes (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257855790770 : Tournoi #3930719667, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 23/09/2025 15:05:59 CET [23/09/2025 9:05:59 ET]
+Table '3930719667 1' 3-max Siège #2 est au bouton.
+Place 1: visio971 (600 en jetons) 
+Place 2: chicodeslandes (530 en jetons) 
+Place 3: psychoman59 (370 en jetons) 
+psychoman59 : met la petite blind. 10
+visio971 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 2h]
+chicodeslandes : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à visio971.
+visio971 a remporté 20  lors du pot .
+visio971 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : visio971 (grosse blind) a remporté (20)
+Siège 2 : chicodeslandes (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257855792120 : Tournoi #3930719667, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 23/09/2025 15:06:09 CET [23/09/2025 9:06:09 ET]
+Table '3930719667 1' 3-max Siège #3 est au bouton.
+Place 1: visio971 (610 en jetons) 
+Place 2: chicodeslandes (530 en jetons) 
+Place 3: psychoman59 (360 en jetons) 
+visio971 : met la petite blind. 15
+chicodeslandes : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 5h]
+psychoman59 : passe. 
+visio971 : suit. 15
+chicodeslandes : parole 
+*** FLOP *** [2h 5d Jd]
+visio971 : parole 
+chicodeslandes : mise. 60
+visio971 : suit. 60
+*** TOURNANT *** [2h 5d Jd] [Th]
+visio971 : parole 
+chicodeslandes : mise. 440 et est all-in.
+visio971 : passe. 
+Personne n'a suivi. (440) sont retournés à chicodeslandes.
+chicodeslandes a remporté 180  lors du pot .
+chicodeslandes : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [2h 5d Jd Th]
+Siège 1 : visio971 (petite blind) s'est couché. sur le Tournant
+Siège 2 : chicodeslandes (grosse blind) a remporté (180)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°257855795382 : Tournoi #3930719667, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 23/09/2025 15:06:34 CET [23/09/2025 9:06:34 ET]
+Table '3930719667 1' 3-max Siège #1 est au bouton.
+Place 1: visio971 (520 en jetons) 
+Place 2: chicodeslandes (620 en jetons) 
+Place 3: psychoman59 (360 en jetons) 
+chicodeslandes : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Qd]
+visio971 : passe. 
+chicodeslandes : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : visio971 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : chicodeslandes (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°257855796024 : Tournoi #3930719667, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 23/09/2025 15:06:40 CET [23/09/2025 9:06:40 ET]
+Table '3930719667 1' 3-max Siège #2 est au bouton.
+Place 1: visio971 (520 en jetons) 
+Place 2: chicodeslandes (605 en jetons) 
+Place 3: psychoman59 (375 en jetons) 
+psychoman59 : met la petite blind. 15
+visio971 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Kc]
+chicodeslandes : suit. 30
+psychoman59 : passe. 
+visio971 : parole 
+*** FLOP *** [4s 7h 5c]
+visio971 : mise. 490 et est all-in.
+chicodeslandes : suit. 490
+*** TOURNANT *** [4s 7h 5c] [Ks]
+*** RIVIÈRE *** [4s 7h 5c Ks] [7c]
+*** ABATTAGE ***
+visio971 : montre [9s 7s] (un brelan de Sept)
+chicodeslandes : montre [Qd 9d] (une paire de Sept)
+visio971 a remporté 1055  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1055 | Commission 0 
+Tableau [4s 7h 5c Ks 7c]
+Siège 1 : visio971 (grosse blind) a montré [9s 7s] et a gagné (1055) avec un brelan de Sept
+Siège 2 : chicodeslandes (bouton) a montré [Qd 9d] et a perdu avec une paire de Sept
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257855799323 : Tournoi #3930719667, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 23/09/2025 15:07:05 CET [23/09/2025 9:07:05 ET]
+Table '3930719667 1' 3-max Siège #3 est au bouton.
+Place 1: visio971 (1055 en jetons) 
+Place 2: chicodeslandes (85 en jetons) 
+Place 3: psychoman59 (360 en jetons) 
+visio971 : met la petite blind. 15
+chicodeslandes : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 2c]
+psychoman59 : passe. 
+visio971 : relance. 90 à 120
+chicodeslandes : suit. 55 et est all-in.
+Personne n'a suivi. (35) sont retournés à visio971.
+*** FLOP *** [7h Ks 5s]
+*** TOURNANT *** [7h Ks 5s] [Kd]
+*** RIVIÈRE *** [7h Ks 5s Kd] [2s]
+*** ABATTAGE ***
+visio971 : montre [Ad 9h] (une paire de Rois)
+chicodeslandes : montre [6c Jd] (une paire de Rois - plus basse kicker)
+visio971 a remporté 170  lors du pot .
+chicodeslandes a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 170 | Commission 0 
+Tableau [7h Ks 5s Kd 2s]
+Siège 1 : visio971 (petite blind) a montré [Ad 9h] et a gagné (170) avec une paire de Rois
+Siège 2 : chicodeslandes (grosse blind) a montré [6c Jd] et a perdu avec une paire de Rois
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°257855801994 : Tournoi #3930719667, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 23/09/2025 15:07:26 CET [23/09/2025 9:07:26 ET]
+Table '3930719667 1' 3-max Siège #1 est au bouton.
+Place 1: visio971 (1140 en jetons) 
+Place 3: psychoman59 (360 en jetons) 
+visio971 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 8c]
+visio971 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : visio971 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°257855802565 : Tournoi #3930719667, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 23/09/2025 15:07:30 CET [23/09/2025 9:07:30 ET]
+Table '3930719667 1' 3-max Siège #3 est au bouton.
+Place 1: visio971 (1125 en jetons) 
+Place 3: psychoman59 (375 en jetons) 
+psychoman59 : met la petite blind. 15
+visio971 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d As]
+psychoman59 : relance. 345 à 375 et est all-in.
+visio971 : passe. 
+Personne n'a suivi. (345) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : visio971 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°257855803531 : Tournoi #3930719667, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 23/09/2025 15:07:38 CET [23/09/2025 9:07:38 ET]
+Table '3930719667 1' 3-max Siège #1 est au bouton.
+Place 1: visio971 (1095 en jetons) 
+Place 3: psychoman59 (405 en jetons) 
+visio971 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 7d]
+visio971 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : visio971 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°257855804038 : Tournoi #3930719667, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 23/09/2025 15:07:42 CET [23/09/2025 9:07:42 ET]
+Table '3930719667 1' 3-max Siège #3 est au bouton.
+Place 1: visio971 (1080 en jetons) 
+Place 3: psychoman59 (420 en jetons) 
+psychoman59 : met la petite blind. 15
+visio971 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Ks]
+psychoman59 : relance. 390 à 420 et est all-in.
+visio971 : suit. 390
+*** FLOP *** [2d 5h 6c]
+*** TOURNANT *** [2d 5h 6c] [9h]
+*** RIVIÈRE *** [2d 5h 6c 9h] [3c]
+*** ABATTAGE ***
+visio971 : montre [Ad 5c] (une paire de Cinq)
+psychoman59 : montre [9c Ks] (une paire de Neuf)
+psychoman59 a remporté 840  lors du pot .
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Tableau [2d 5h 6c 9h 3c]
+Siège 1 : visio971 (grosse blind) a montré [Ad 5c] et a perdu avec une paire de Cinq
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [9c Ks] et a gagné (840) avec une paire de Neuf
+
+
+
+Main PokerStars n°257855805840 : Tournoi #3930719667, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 23/09/2025 15:07:56 CET [23/09/2025 9:07:56 ET]
+Table '3930719667 1' 3-max Siège #1 est au bouton.
+Place 1: visio971 (660 en jetons) 
+Place 3: psychoman59 (840 en jetons) 
+visio971 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 5h]
+visio971 : relance. 630 à 660 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (630) sont retournés à visio971.
+visio971 a remporté 60  lors du pot .
+visio971 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : visio971 (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257855806873 : Tournoi #3930719667, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 23/09/2025 15:08:03 CET [23/09/2025 9:08:03 ET]
+Table '3930719667 1' 3-max Siège #3 est au bouton.
+Place 1: visio971 (690 en jetons) 
+Place 3: psychoman59 (810 en jetons) 
+psychoman59 : met la petite blind. 15
+visio971 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 9d]
+psychoman59 : suit. 15
+visio971 : relance. 660 à 690 et est all-in.
+psychoman59 : suit. 660
+*** FLOP *** [Qc 4s 8s]
+*** TOURNANT *** [Qc 4s 8s] [9h]
+*** RIVIÈRE *** [Qc 4s 8s 9h] [4h]
+*** ABATTAGE ***
+visio971 : montre [Td Js] (une suite, Huit à Dame)
+psychoman59 : montre [Qd 9d] (double paire, Dames et Neuf)
+visio971 a remporté 1380  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1380 | Commission 0 
+Tableau [Qc 4s 8s 9h 4h]
+Siège 1 : visio971 (grosse blind) a montré [Td Js] et a gagné (1380) avec une suite, Huit à Dame
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Qd 9d] et a perdu avec double paire, Dames et Neuf
+
+
+
+Main PokerStars n°257855808774 : Tournoi #3930719667, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 23/09/2025 15:08:18 CET [23/09/2025 9:08:18 ET]
+Table '3930719667 1' 3-max Siège #1 est au bouton.
+Place 1: visio971 (1380 en jetons) 
+Place 3: psychoman59 (120 en jetons) 
+visio971 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 2s]
+visio971 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : visio971 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°257855809507 : Tournoi #3930719667, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 23/09/2025 15:08:24 CET [23/09/2025 9:08:24 ET]
+Table '3930719667 1' 3-max Siège #3 est au bouton.
+Place 1: visio971 (1365 en jetons) 
+Place 3: psychoman59 (135 en jetons) 
+psychoman59 : met la petite blind. 15
+visio971 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Jd]
+psychoman59 : relance. 105 à 135 et est all-in.
+visio971 : suit. 105
+*** FLOP *** [8c 5h Kh]
+*** TOURNANT *** [8c 5h Kh] [Qh]
+*** RIVIÈRE *** [8c 5h Kh Qh] [3h]
+*** ABATTAGE ***
+visio971 : montre [As 5c] (une paire de Cinq)
+psychoman59 : montre [9h Jd] (une couleur, hauteur Roi)
+psychoman59 a remporté 270  lors du pot .
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Tableau [8c 5h Kh Qh 3h]
+Siège 1 : visio971 (grosse blind) a montré [As 5c] et a perdu avec une paire de Cinq
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [9h Jd] et a gagné (270) avec une couleur, hauteur Roi
+
+
+
+Main PokerStars n°257855811245 : Tournoi #3930719667, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 23/09/2025 15:08:37 CET [23/09/2025 9:08:37 ET]
+Table '3930719667 1' 3-max Siège #1 est au bouton.
+Place 1: visio971 (1230 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+visio971 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 3c]
+visio971 : relance. 1200 à 1230 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (1200) sont retournés à visio971.
+visio971 a remporté 60  lors du pot .
+visio971 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : visio971 (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257855812349 : Tournoi #3930719667, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 23/09/2025 15:08:46 CET [23/09/2025 9:08:46 ET]
+Table '3930719667 1' 3-max Siège #3 est au bouton.
+Place 1: visio971 (1260 en jetons) 
+Place 3: psychoman59 (240 en jetons) 
+psychoman59 : met la petite blind. 15
+visio971 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 6h]
+psychoman59 : relance. 210 à 240 et est all-in.
+visio971 : passe. 
+Personne n'a suivi. (210) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : visio971 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°257855813260 : Tournoi #3930719667, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 23/09/2025 15:08:53 CET [23/09/2025 9:08:53 ET]
+Table '3930719667 1' 3-max Siège #1 est au bouton.
+Place 1: visio971 (1230 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+visio971 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 6s]
+visio971 : relance. 270 à 300
+psychoman59 : suit. 240 et est all-in.
+Personne n'a suivi. (30) sont retournés à visio971.
+*** FLOP *** [Ad Js 3h]
+*** TOURNANT *** [Ad Js 3h] [4c]
+*** RIVIÈRE *** [Ad Js 3h 4c] [4d]
+*** ABATTAGE ***
+psychoman59 : montre [Ah 6s] (double paire, As et Quatre)
+visio971 : montre [Qd Jd] (double paire, Valets et Quatre)
+psychoman59 a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [Ad Js 3h 4c 4d]
+Siège 1 : visio971 (bouton) (petite blind) a montré [Qd Jd] et a perdu avec double paire, Valets et Quatre
+Siège 3 : psychoman59 (grosse blind) a montré [Ah 6s] et a gagné (540) avec double paire, As et Quatre
+
+
+
+Main PokerStars n°257855815432 : Tournoi #3930719667, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 23/09/2025 15:09:10 CET [23/09/2025 9:09:10 ET]
+Table '3930719667 1' 3-max Siège #3 est au bouton.
+Place 1: visio971 (960 en jetons) 
+Place 3: psychoman59 (540 en jetons) 
+psychoman59 : met la petite blind. 20
+visio971 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Qd]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à visio971.
+visio971 a remporté 40  lors du pot .
+visio971 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : visio971 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257855816016 : Tournoi #3930719667, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 23/09/2025 15:09:15 CET [23/09/2025 9:09:15 ET]
+Table '3930719667 1' 3-max Siège #1 est au bouton.
+Place 1: visio971 (980 en jetons) 
+Place 3: psychoman59 (520 en jetons) 
+visio971 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Kh]
+visio971 : relance. 940 à 980 et est all-in.
+psychoman59 : suit. 480 et est all-in.
+Personne n'a suivi. (460) sont retournés à visio971.
+*** FLOP *** [Kd Td 5s]
+*** TOURNANT *** [Kd Td 5s] [Jd]
+*** RIVIÈRE *** [Kd Td 5s Jd] [Qc]
+*** ABATTAGE ***
+psychoman59 : montre [Ts Kh] (double paire, Rois et Dix)
+visio971 : montre [3d Ah] (une suite, Dix à As)
+visio971 a remporté 1040  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+visio971 remporte le tournoi et reçoit 0.75 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 1040 | Commission 0 
+Tableau [Kd Td 5s Jd Qc]
+Siège 1 : visio971 (bouton) (petite blind) a montré [3d Ah] et a gagné (1040) avec une suite, Dix à As
+Siège 3 : psychoman59 (grosse blind) a montré [Ts Kh] et a perdu avec double paire, Rois et Dix
+
+
+

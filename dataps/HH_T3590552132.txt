@@ -1,0 +1,424 @@
+﻿Main PokerStars n°243658961885 : Tournoi #3590552132, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 13/05/2023 8:15:31 CET [13/05/2023 2:15:31 ET]
+Table '3590552132 1' 3-max Siège #1 est au bouton.
+Place 1: papillion66 (300 en jetons) 
+Place 2: dmk27000 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+dmk27000 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 4h]
+papillion66 : passe. 
+dmk27000 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Kd Jd 6h]
+dmk27000 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Kd Jd 6h] [Th]
+dmk27000 : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [Kd Jd 6h Th] [4s]
+dmk27000 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+dmk27000 : montre [Ts 9h] (une paire de Dix)
+psychoman59 : cache la main perdante. 
+dmk27000 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Kd Jd 6h Th 4s]
+Siège 1 : papillion66 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : dmk27000 (petite blind) a montré [Ts 9h] et a gagné (80) avec une paire de Dix
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [9c 4h]
+
+
+
+Main PokerStars n°243658964180 : Tournoi #3590552132, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 13/05/2023 8:15:50 CET [13/05/2023 2:15:50 ET]
+Table '3590552132 1' 3-max Siège #2 est au bouton.
+Place 1: papillion66 (300 en jetons) 
+Place 2: dmk27000 (340 en jetons) 
+Place 3: psychoman59 (260 en jetons) 
+psychoman59 : met la petite blind. 10
+papillion66 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 4s]
+dmk27000 : passe. 
+psychoman59 : suit. 10
+papillion66 : parole 
+*** FLOP *** [Kc Ts 8h]
+psychoman59 : parole 
+papillion66 : parole 
+*** TOURNANT *** [Kc Ts 8h] [Tc]
+psychoman59 : parole 
+papillion66 : parole 
+*** RIVIÈRE *** [Kc Ts 8h Tc] [7c]
+psychoman59 : parole 
+papillion66 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Qs 4s] (une paire de Dix)
+papillion66 : cache la main perdante. 
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Kc Ts 8h Tc 7c]
+Siège 1 : papillion66 (grosse blind) a caché la main perdante. [Jd 2c]
+Siège 2 : dmk27000 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [Qs 4s] et a gagné (40) avec une paire de Dix
+
+
+
+Main PokerStars n°243658966348 : Tournoi #3590552132, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 13/05/2023 8:16:09 CET [13/05/2023 2:16:09 ET]
+Table '3590552132 1' 3-max Siège #3 est au bouton.
+Place 1: papillion66 (280 en jetons) 
+Place 2: dmk27000 (340 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+papillion66 : met la petite blind. 10
+dmk27000 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 4h]
+psychoman59 : passe. 
+papillion66 : suit. 10
+dmk27000 : parole 
+*** FLOP *** [9c Jc Jd]
+papillion66 : parole 
+dmk27000 : mise. 20
+papillion66 : suit. 20
+*** TOURNANT *** [9c Jc Jd] [Kd]
+papillion66 : parole 
+dmk27000 : mise. 300 et est all-in.
+papillion66 : suit. 240 et est all-in.
+Personne n'a suivi. (60) sont retournés à dmk27000.
+*** RIVIÈRE *** [9c Jc Jd Kd] [9d]
+*** ABATTAGE ***
+papillion66 : montre [Kc 5d] (double paire, Rois et Valets)
+dmk27000 : montre [Qs Td] (une suite, Neuf à Roi)
+dmk27000 a remporté 560  lors du pot .
+papillion66 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [9c Jc Jd Kd 9d]
+Siège 1 : papillion66 (petite blind) a montré [Kc 5d] et a perdu avec double paire, Rois et Valets
+Siège 2 : dmk27000 (grosse blind) a montré [Qs Td] et a gagné (560) avec une suite, Neuf à Roi
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°243658969204 : Tournoi #3590552132, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 13/05/2023 8:16:33 CET [13/05/2023 2:16:33 ET]
+Table '3590552132 1' 3-max Siège #2 est au bouton.
+Place 2: dmk27000 (620 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+dmk27000 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Jc]
+dmk27000 : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 2 : dmk27000 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°243658970184 : Tournoi #3590552132, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 13/05/2023 8:16:42 CET [13/05/2023 2:16:42 ET]
+Table '3590552132 1' 3-max Siège #3 est au bouton.
+Place 2: dmk27000 (610 en jetons) 
+Place 3: psychoman59 (290 en jetons) 
+psychoman59 : met la petite blind. 15
+dmk27000 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Ts]
+psychoman59 : relance. 260 à 290 et est all-in.
+dmk27000 : passe. 
+Personne n'a suivi. (260) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : dmk27000 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°243658970971 : Tournoi #3590552132, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 13/05/2023 8:16:49 CET [13/05/2023 2:16:49 ET]
+Table '3590552132 1' 3-max Siège #2 est au bouton.
+Place 2: dmk27000 (580 en jetons) 
+Place 3: psychoman59 (320 en jetons) 
+dmk27000 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 5c]
+dmk27000 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [6h 5d Tc]
+psychoman59 : parole 
+dmk27000 : parole 
+*** TOURNANT *** [6h 5d Tc] [4s]
+psychoman59 : parole 
+dmk27000 : parole 
+*** RIVIÈRE *** [6h 5d Tc 4s] [3h]
+psychoman59 : mise. 60
+dmk27000 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [6h 5d Tc 4s 3h]
+Siège 2 : dmk27000 (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°243658973434 : Tournoi #3590552132, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 13/05/2023 8:17:10 CET [13/05/2023 2:17:10 ET]
+Table '3590552132 1' 3-max Siège #3 est au bouton.
+Place 2: dmk27000 (550 en jetons) 
+Place 3: psychoman59 (350 en jetons) 
+psychoman59 : met la petite blind. 15
+dmk27000 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 2d]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à dmk27000.
+dmk27000 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : dmk27000 (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243658973974 : Tournoi #3590552132, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 13/05/2023 8:17:15 CET [13/05/2023 2:17:15 ET]
+Table '3590552132 1' 3-max Siège #2 est au bouton.
+Place 2: dmk27000 (565 en jetons) 
+Place 3: psychoman59 (335 en jetons) 
+dmk27000 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 9c]
+dmk27000 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [7s As 8c]
+psychoman59 : parole 
+dmk27000 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à dmk27000.
+dmk27000 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [7s As 8c]
+Siège 2 : dmk27000 (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°243658975426 : Tournoi #3590552132, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 13/05/2023 8:17:27 CET [13/05/2023 2:17:27 ET]
+Table '3590552132 1' 3-max Siège #3 est au bouton.
+Place 2: dmk27000 (595 en jetons) 
+Place 3: psychoman59 (305 en jetons) 
+psychoman59 : met la petite blind. 15
+dmk27000 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 2c]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à dmk27000.
+dmk27000 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : dmk27000 (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243658976272 : Tournoi #3590552132, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 13/05/2023 8:17:35 CET [13/05/2023 2:17:35 ET]
+Table '3590552132 1' 3-max Siège #2 est au bouton.
+Place 2: dmk27000 (610 en jetons) 
+Place 3: psychoman59 (290 en jetons) 
+dmk27000 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Ac]
+dmk27000 : relance. 40 à 80
+psychoman59 : relance. 210 à 290 et est all-in.
+dmk27000 : suit. 210
+*** FLOP *** [Jd 3s 8s]
+*** TOURNANT *** [Jd 3s 8s] [Ad]
+*** RIVIÈRE *** [Jd 3s 8s Ad] [9s]
+*** ABATTAGE ***
+psychoman59 : montre [5h Ac] (une paire de As)
+dmk27000 : montre [7h As] (une paire de As)
+psychoman59 a remporté 290  lors du pot .
+dmk27000 a remporté 290  lors du pot .
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [Jd 3s 8s Ad 9s]
+Siège 2 : dmk27000 (bouton) (petite blind) a montré [7h As] et a gagné (290) avec une paire de As
+Siège 3 : psychoman59 (grosse blind) a montré [5h Ac] et a gagné (290) avec une paire de As
+
+
+
+Main PokerStars n°243658977956 : Tournoi #3590552132, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 13/05/2023 8:17:49 CET [13/05/2023 2:17:49 ET]
+Table '3590552132 1' 3-max Siège #3 est au bouton.
+Place 2: dmk27000 (610 en jetons) 
+Place 3: psychoman59 (290 en jetons) 
+psychoman59 : met la petite blind. 20
+dmk27000 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 8s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à dmk27000.
+dmk27000 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : dmk27000 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243658978515 : Tournoi #3590552132, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 13/05/2023 8:17:54 CET [13/05/2023 2:17:54 ET]
+Table '3590552132 1' 3-max Siège #2 est au bouton.
+Place 2: dmk27000 (630 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+dmk27000 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Qd]
+dmk27000 : relance. 40 à 80
+psychoman59 : relance. 190 à 270 et est all-in.
+dmk27000 : suit. 190
+*** FLOP *** [3d Qh Ah]
+*** TOURNANT *** [3d Qh Ah] [6c]
+*** RIVIÈRE *** [3d Qh Ah 6c] [9d]
+*** ABATTAGE ***
+psychoman59 : montre [As Qd] (double paire, As et Dames)
+dmk27000 : montre [Kd Qs] (une paire de Dames)
+psychoman59 a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [3d Qh Ah 6c 9d]
+Siège 2 : dmk27000 (bouton) (petite blind) a montré [Kd Qs] et a perdu avec une paire de Dames
+Siège 3 : psychoman59 (grosse blind) a montré [As Qd] et a gagné (540) avec double paire, As et Dames
+
+
+
+Main PokerStars n°243658980232 : Tournoi #3590552132, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 13/05/2023 8:18:09 CET [13/05/2023 2:18:09 ET]
+Table '3590552132 1' 3-max Siège #3 est au bouton.
+Place 2: dmk27000 (360 en jetons) 
+Place 3: psychoman59 (540 en jetons) 
+psychoman59 : met la petite blind. 20
+dmk27000 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 2h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à dmk27000.
+dmk27000 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : dmk27000 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243658980819 : Tournoi #3590552132, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 13/05/2023 8:18:14 CET [13/05/2023 2:18:14 ET]
+Table '3590552132 1' 3-max Siège #2 est au bouton.
+Place 2: dmk27000 (380 en jetons) 
+Place 3: psychoman59 (520 en jetons) 
+dmk27000 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Qd]
+dmk27000 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [3h 8d Qh]
+psychoman59 : parole 
+dmk27000 : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [3h 8d Qh] [Th]
+psychoman59 : parole 
+dmk27000 : parole 
+*** RIVIÈRE *** [3h 8d Qh Th] [3s]
+psychoman59 : mise. 40
+dmk27000 : suit. 40
+*** ABATTAGE ***
+psychoman59 : montre [3d Qd] (un full, full aux Trois par les Dames)
+dmk27000 : cache la main perdante. 
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [3h 8d Qh Th 3s]
+Siège 2 : dmk27000 (bouton) (petite blind) a caché la main perdante. [Kd 3c]
+Siège 3 : psychoman59 (grosse blind) a montré [3d Qd] et a gagné (240) avec un full, full aux Trois par les Dames
+
+
+
+Main PokerStars n°243658983766 : Tournoi #3590552132, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/05/2023 8:18:39 CET [13/05/2023 2:18:39 ET]
+Table '3590552132 1' 3-max Siège #3 est au bouton.
+Place 2: dmk27000 (260 en jetons) 
+Place 3: psychoman59 (640 en jetons) 
+psychoman59 : met la petite blind. 30
+dmk27000 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Ts]
+psychoman59 : relance. 60 à 120
+dmk27000 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : dmk27000 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°243658984573 : Tournoi #3590552132, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/05/2023 8:18:46 CET [13/05/2023 2:18:46 ET]
+Table '3590552132 1' 3-max Siège #2 est au bouton.
+Place 2: dmk27000 (200 en jetons) 
+Place 3: psychoman59 (700 en jetons) 
+dmk27000 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Kc]
+dmk27000 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : dmk27000 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°243658985105 : Tournoi #3590552132, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/05/2023 8:18:51 CET [13/05/2023 2:18:51 ET]
+Table '3590552132 1' 3-max Siège #3 est au bouton.
+Place 2: dmk27000 (170 en jetons) 
+Place 3: psychoman59 (730 en jetons) 
+psychoman59 : met la petite blind. 30
+dmk27000 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 8c]
+psychoman59 : relance. 60 à 120
+dmk27000 : suit. 60
+*** FLOP *** [5d 7h 3c]
+dmk27000 : parole 
+psychoman59 : mise. 60
+dmk27000 : suit. 50 et est all-in.
+Personne n'a suivi. (10) sont retournés à psychoman59.
+*** TOURNANT *** [5d 7h 3c] [3h]
+*** RIVIÈRE *** [5d 7h 3c 3h] [Qh]
+*** ABATTAGE ***
+dmk27000 : montre [Jd 6s] (une paire de Trois)
+psychoman59 : montre [Kh 8c] (une paire de Trois - Roi kicker)
+psychoman59 a remporté 340  lors du pot .
+dmk27000 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [5d 7h 3c 3h Qh]
+Siège 2 : dmk27000 (grosse blind) a montré [Jd 6s] et a perdu avec une paire de Trois
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Kh 8c] et a gagné (340) avec une paire de Trois
+
+
+

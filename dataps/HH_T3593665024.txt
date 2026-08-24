@@ -1,0 +1,130 @@
+﻿Main PokerStars n°243796234206 : Tournoi #3593665024, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/05/2023 8:18:01 CET [20/05/2023 2:18:01 ET]
+Table '3593665024 1' 3-max Siège #1 est au bouton.
+Place 1: elmencho59 (300 en jetons) 
+Place 2: peekaboo59 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+peekaboo59 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 9h]
+elmencho59 : relance. 280 à 300 et est all-in.
+peekaboo59 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (280) sont retournés à elmencho59.
+elmencho59 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : elmencho59 (bouton) a remporté (50)
+Siège 2 : peekaboo59 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243796235869 : Tournoi #3593665024, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/05/2023 8:18:16 CET [20/05/2023 2:18:16 ET]
+Table '3593665024 1' 3-max Siège #2 est au bouton.
+Place 1: elmencho59 (330 en jetons) 
+Place 2: peekaboo59 (290 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+elmencho59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 9h]
+peekaboo59 : suit. 20
+psychoman59 : passe. 
+elmencho59 : relance. 310 à 330 et est all-in.
+peekaboo59 : passe. 
+Personne n'a suivi. (310) sont retournés à elmencho59.
+elmencho59 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : elmencho59 (grosse blind) a remporté (50)
+Siège 2 : peekaboo59 (bouton) s'est couché. avant Flop
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243796237025 : Tournoi #3593665024, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/05/2023 8:18:26 CET [20/05/2023 2:18:26 ET]
+Table '3593665024 1' 3-max Siège #3 est au bouton.
+Place 1: elmencho59 (360 en jetons) 
+Place 2: peekaboo59 (270 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+elmencho59 : met la petite blind. 10
+peekaboo59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Ks]
+psychoman59 : suit. 20
+elmencho59 : relance. 340 à 360 et est all-in.
+peekaboo59 : suit. 250 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (90) sont retournés à elmencho59.
+*** FLOP *** [Jd Td 4d]
+*** TOURNANT *** [Jd Td 4d] [Qc]
+*** RIVIÈRE *** [Jd Td 4d Qc] [8s]
+*** ABATTAGE ***
+elmencho59 : montre [9c 7d] (une suite, Huit à Dame)
+peekaboo59 : montre [7c As] (Hauteur As)
+elmencho59 a remporté 560  lors du pot .
+peekaboo59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [Jd Td 4d Qc 8s]
+Siège 1 : elmencho59 (petite blind) a montré [9c 7d] et a gagné (560) avec une suite, Huit à Dame
+Siège 2 : peekaboo59 (grosse blind) a montré [7c As] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243796239928 : Tournoi #3593665024, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/05/2023 8:18:51 CET [20/05/2023 2:18:51 ET]
+Table '3593665024 1' 3-max Siège #1 est au bouton.
+Place 1: elmencho59 (650 en jetons) 
+Place 3: psychoman59 (250 en jetons) 
+elmencho59 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d As]
+elmencho59 : relance. 630 à 650 et est all-in.
+psychoman59 : suit. 230 et est all-in.
+Personne n'a suivi. (400) sont retournés à elmencho59.
+*** FLOP *** [7c 6h 5c]
+*** TOURNANT *** [7c 6h 5c] [Td]
+*** RIVIÈRE *** [7c 6h 5c Td] [9s]
+*** ABATTAGE ***
+psychoman59 : montre [5d As] (une paire de Cinq)
+elmencho59 : montre [Qd 2d] (Hauteur Dame)
+psychoman59 a remporté 500  lors du pot .
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Tableau [7c 6h 5c Td 9s]
+Siège 1 : elmencho59 (bouton) (petite blind) a montré [Qd 2d] et a perdu avec Hauteur Dame
+Siège 3 : psychoman59 (grosse blind) a montré [5d As] et a gagné (500) avec une paire de Cinq
+
+
+
+Main PokerStars n°243796241740 : Tournoi #3593665024, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 20/05/2023 8:19:07 CET [20/05/2023 2:19:07 ET]
+Table '3593665024 1' 3-max Siège #3 est au bouton.
+Place 1: elmencho59 (400 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+psychoman59 : met la petite blind. 15
+elmencho59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Ac]
+psychoman59 : suit. 15
+elmencho59 : relance. 370 à 400 et est all-in.
+psychoman59 : suit. 370
+*** FLOP *** [4d 8h 7s]
+*** TOURNANT *** [4d 8h 7s] [8c]
+*** RIVIÈRE *** [4d 8h 7s 8c] [7h]
+*** ABATTAGE ***
+elmencho59 : montre [3c 3h] (double paire, Huit et Sept)
+psychoman59 : montre [9c Ac] (double paire, Huit et Sept - As kicker)
+psychoman59 a remporté 800  lors du pot .
+elmencho59 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 800 | Commission 0 
+Tableau [4d 8h 7s 8c 7h]
+Siège 1 : elmencho59 (grosse blind) a montré [3c 3h] et a perdu avec double paire, Huit et Sept
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [9c Ac] et a gagné (800) avec double paire, Huit et Sept
+
+
+

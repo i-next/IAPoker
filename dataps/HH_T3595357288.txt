@@ -1,0 +1,261 @@
+﻿Main PokerStars n°243873957748 : Tournoi #3595357288, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/05/2023 7:07:27 CET [24/05/2023 1:07:27 ET]
+Table '3595357288 1' 3-max Siège #1 est au bouton.
+Place 1: x_vigno17 (300 en jetons) 
+Place 2: proteam7 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+proteam7 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 9h]
+x_vigno17 : suit. 20
+proteam7 : passe. 
+psychoman59 : parole 
+*** FLOP *** [9c 4h 4s]
+psychoman59 : mise. 280 et est all-in.
+x_vigno17 : passe. 
+Personne n'a suivi. (280) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [9c 4h 4s]
+Siège 1 : x_vigno17 (bouton) s'est couché. sur le Flop
+Siège 2 : proteam7 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (50)
+
+
+
+Main PokerStars n°243873960419 : Tournoi #3595357288, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/05/2023 7:07:53 CET [24/05/2023 1:07:53 ET]
+Table '3595357288 1' 3-max Siège #2 est au bouton.
+Place 1: x_vigno17 (280 en jetons) 
+Place 2: proteam7 (290 en jetons) 
+Place 3: psychoman59 (330 en jetons) 
+psychoman59 : met la petite blind. 10
+x_vigno17 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 6h]
+proteam7 : suit. 20
+psychoman59 : suit. 10
+x_vigno17 : parole 
+*** FLOP *** [Qh Qc Ah]
+psychoman59 : parole 
+x_vigno17 : mise. 40
+proteam7 : passe. 
+psychoman59 : suit. 40
+*** TOURNANT *** [Qh Qc Ah] [7s]
+psychoman59 : parole 
+x_vigno17 : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [Qh Qc Ah 7s] [6c]
+psychoman59 : parole 
+x_vigno17 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à x_vigno17.
+x_vigno17 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Qh Qc Ah 7s 6c]
+Siège 1 : x_vigno17 (grosse blind) a remporté (180)
+Siège 2 : proteam7 (bouton) s'est couché. sur le Flop
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°243873967936 : Tournoi #3595357288, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 24/05/2023 7:09:07 CET [24/05/2023 1:09:07 ET]
+Table '3595357288 1' 3-max Siège #3 est au bouton.
+Place 1: x_vigno17 (380 en jetons) 
+Place 2: proteam7 (270 en jetons) 
+Place 3: psychoman59 (250 en jetons) 
+x_vigno17 : met la petite blind. 15
+proteam7 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Js]
+psychoman59 : passe. 
+x_vigno17 : relance. 30 à 60
+proteam7 : suit. 30
+*** FLOP *** [Jh 7s 8d]
+x_vigno17 : parole 
+proteam7 : parole 
+*** TOURNANT *** [Jh 7s 8d] [Kd]
+x_vigno17 : parole 
+proteam7 : parole 
+*** RIVIÈRE *** [Jh 7s 8d Kd] [Ah]
+x_vigno17 : parole 
+proteam7 : mise. 30
+x_vigno17 : relance. 290 à 320 et est all-in.
+proteam7 : passe. 
+Personne n'a suivi. (290) sont retournés à x_vigno17.
+x_vigno17 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Jh 7s 8d Kd Ah]
+Siège 1 : x_vigno17 (petite blind) a remporté (180)
+Siège 2 : proteam7 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°243873972442 : Tournoi #3595357288, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/05/2023 7:09:53 CET [24/05/2023 1:09:53 ET]
+Table '3595357288 1' 3-max Siège #1 est au bouton.
+Place 1: x_vigno17 (470 en jetons) 
+Place 2: proteam7 (180 en jetons) 
+Place 3: psychoman59 (250 en jetons) 
+proteam7 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 7h]
+x_vigno17 : suit. 40
+proteam7 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [7c Ad Qd]
+proteam7 : parole 
+psychoman59 : parole 
+x_vigno17 : parole 
+*** TOURNANT *** [7c Ad Qd] [3d]
+proteam7 : parole 
+psychoman59 : parole 
+x_vigno17 : mise. 40
+proteam7 : passe. 
+psychoman59 : suit. 40
+*** RIVIÈRE *** [7c Ad Qd 3d] [Th]
+psychoman59 : parole 
+x_vigno17 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Kd 7h] (une paire de Sept)
+x_vigno17 : cache la main perdante. 
+psychoman59 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [7c Ad Qd 3d Th]
+Siège 1 : x_vigno17 (bouton) a caché la main perdante. [2s 3s]
+Siège 2 : proteam7 (petite blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (grosse blind) a montré [Kd 7h] et a gagné (200) avec une paire de Sept
+
+
+
+Main PokerStars n°243873976038 : Tournoi #3595357288, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/05/2023 7:10:28 CET [24/05/2023 1:10:28 ET]
+Table '3595357288 1' 3-max Siège #2 est au bouton.
+Place 1: x_vigno17 (390 en jetons) 
+Place 2: proteam7 (140 en jetons) 
+Place 3: psychoman59 (370 en jetons) 
+psychoman59 : met la petite blind. 20
+x_vigno17 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 3c]
+proteam7 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à x_vigno17.
+x_vigno17 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : x_vigno17 (grosse blind) a remporté (40)
+Siège 2 : proteam7 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243873977124 : Tournoi #3595357288, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/05/2023 7:10:39 CET [24/05/2023 1:10:39 ET]
+Table '3595357288 1' 3-max Siège #3 est au bouton.
+Place 1: x_vigno17 (410 en jetons) 
+Place 2: proteam7 (140 en jetons) 
+Place 3: psychoman59 (350 en jetons) 
+x_vigno17 : met la petite blind. 30
+proteam7 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 3s]
+psychoman59 : passe. 
+x_vigno17 : relance. 60 à 120
+proteam7 : relance. 20 à 140 et est all-in.
+x_vigno17 : suit. 20
+*** FLOP *** [Qs 6c Kd]
+*** TOURNANT *** [Qs 6c Kd] [3h]
+*** RIVIÈRE *** [Qs 6c Kd 3h] [Ah]
+*** ABATTAGE ***
+x_vigno17 : montre [2c 2d] (une paire de Deux)
+proteam7 : montre [2h Qd] (une paire de Dames)
+proteam7 a remporté 280  lors du pot .
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Tableau [Qs 6c Kd 3h Ah]
+Siège 1 : x_vigno17 (petite blind) a montré [2c 2d] et a perdu avec une paire de Deux
+Siège 2 : proteam7 (grosse blind) a montré [2h Qd] et a gagné (280) avec une paire de Dames
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°243873978781 : Tournoi #3595357288, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/05/2023 7:10:55 CET [24/05/2023 1:10:55 ET]
+Table '3595357288 1' 3-max Siège #1 est au bouton.
+Place 1: x_vigno17 (270 en jetons) 
+Place 2: proteam7 (280 en jetons) 
+Place 3: psychoman59 (350 en jetons) 
+proteam7 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Qd]
+x_vigno17 : passe. 
+proteam7 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [7h Ah 4h]
+proteam7 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à proteam7.
+proteam7 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [7h Ah 4h]
+Siège 1 : x_vigno17 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : proteam7 (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°243873980036 : Tournoi #3595357288, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/05/2023 7:11:08 CET [24/05/2023 1:11:08 ET]
+Table '3595357288 1' 3-max Siège #2 est au bouton.
+Place 1: x_vigno17 (270 en jetons) 
+Place 2: proteam7 (340 en jetons) 
+Place 3: psychoman59 (290 en jetons) 
+psychoman59 : met la petite blind. 30
+x_vigno17 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Js]
+proteam7 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à x_vigno17.
+x_vigno17 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : x_vigno17 (grosse blind) a remporté (60)
+Siège 2 : proteam7 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243873980564 : Tournoi #3595357288, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/05/2023 7:11:13 CET [24/05/2023 1:11:13 ET]
+Table '3595357288 1' 3-max Siège #3 est au bouton.
+Place 1: x_vigno17 (300 en jetons) 
+Place 2: proteam7 (340 en jetons) 
+Place 3: psychoman59 (260 en jetons) 
+x_vigno17 : met la petite blind. 30
+proteam7 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Ac]
+psychoman59 : relance. 200 à 260 et est all-in.
+x_vigno17 : passe. 
+proteam7 : suit. 200
+*** FLOP *** [Td 5c 6h]
+*** TOURNANT *** [Td 5c 6h] [2d]
+*** RIVIÈRE *** [Td 5c 6h 2d] [Kc]
+*** ABATTAGE ***
+proteam7 : montre [9s 9h] (une paire de Neuf)
+psychoman59 : montre [6d Ac] (une paire de Six)
+proteam7 a remporté 550  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 550 | Commission 0 
+Tableau [Td 5c 6h 2d Kc]
+Siège 1 : x_vigno17 (petite blind) s'est couché. avant Flop
+Siège 2 : proteam7 (grosse blind) a montré [9s 9h] et a gagné (550) avec une paire de Neuf
+Siège 3 : psychoman59 (bouton) a montré [6d Ac] et a perdu avec une paire de Six
+
+
+

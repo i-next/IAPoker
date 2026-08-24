@@ -1,0 +1,121 @@
+﻿Main PokerStars n°259532415726 : Tournoi #3970743661, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 31/01/2026 9:44:26 CET [31/01/2026 3:44:26 ET]
+Table '3970743661 1' 3-max Siège #1 est au bouton.
+Place 1: Maskaflow (500 en jetons) 
+Place 2: CALAMAR1782 (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+CALAMAR1782 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 7c]
+Maskaflow : passe. 
+CALAMAR1782 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [6d 8c Ad]
+CALAMAR1782 : parole 
+psychoman59 : mise. 40
+CALAMAR1782 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [6d 8c Ad]
+Siège 1 : Maskaflow (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : CALAMAR1782 (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°259532416831 : Tournoi #3970743661, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 31/01/2026 9:44:40 CET [31/01/2026 3:44:40 ET]
+Table '3970743661 1' 3-max Siège #2 est au bouton.
+Place 1: Maskaflow (500 en jetons) 
+Place 2: CALAMAR1782 (480 en jetons) 
+Place 3: psychoman59 (520 en jetons) 
+psychoman59 : met la petite blind. 10
+Maskaflow : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c As]
+CALAMAR1782 : suit. 20
+psychoman59 : suit. 10
+Maskaflow : parole 
+*** FLOP *** [3c 3h Js]
+psychoman59 : parole 
+Maskaflow : mise. 20
+CALAMAR1782 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Maskaflow.
+Maskaflow a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [3c 3h Js]
+Siège 1 : Maskaflow (grosse blind) a remporté (60)
+Siège 2 : CALAMAR1782 (bouton) s'est couché. sur le Flop
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°259532418091 : Tournoi #3970743661, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 31/01/2026 9:44:57 CET [31/01/2026 3:44:57 ET]
+Table '3970743661 1' 3-max Siège #3 est au bouton.
+Place 1: Maskaflow (540 en jetons) 
+Place 2: CALAMAR1782 (460 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+Maskaflow : met la petite blind. 10
+CALAMAR1782 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 7c]
+psychoman59 : passe. 
+Maskaflow : suit. 10
+CALAMAR1782 : parole 
+*** FLOP *** [9d 2h 4h]
+Maskaflow : parole 
+CALAMAR1782 : mise. 40
+Maskaflow : suit. 40
+*** TOURNANT *** [9d 2h 4h] [3d]
+Maskaflow : parole 
+CALAMAR1782 : mise. 60
+Maskaflow : suit. 60
+*** RIVIÈRE *** [9d 2h 4h 3d] [Qd]
+Maskaflow : parole 
+CALAMAR1782 : mise. 340 et est all-in.
+Maskaflow : passe. 
+Personne n'a suivi. (340) sont retournés à CALAMAR1782.
+CALAMAR1782 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [9d 2h 4h 3d Qd]
+Siège 1 : Maskaflow (petite blind) s'est couché. sur le Rivière
+Siège 2 : CALAMAR1782 (grosse blind) a remporté (240)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°259532420283 : Tournoi #3970743661, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 31/01/2026 9:45:26 CET [31/01/2026 3:45:26 ET]
+Table '3970743661 1' 3-max Siège #1 est au bouton.
+Place 1: Maskaflow (420 en jetons) 
+Place 2: CALAMAR1782 (580 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+CALAMAR1782 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Js]
+Maskaflow : passe. 
+CALAMAR1782 : relance. 20 à 40
+psychoman59 : relance. 460 à 500 et est all-in.
+CALAMAR1782 : suit. 460
+*** FLOP *** [4s 7s 7c]
+*** TOURNANT *** [4s 7s 7c] [6d]
+*** RIVIÈRE *** [4s 7s 7c 6d] [Qd]
+*** ABATTAGE ***
+CALAMAR1782 : montre [Ad Qc] (double paire, Dames et Sept)
+psychoman59 : montre [Jc Js] (double paire, Valets et Sept)
+CALAMAR1782 a remporté 1000  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 1000 | Commission 0 
+Tableau [4s 7s 7c 6d Qd]
+Siège 1 : Maskaflow (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : CALAMAR1782 (petite blind) a montré [Ad Qc] et a gagné (1000) avec double paire, Dames et Sept
+Siège 3 : psychoman59 (grosse blind) a montré [Jc Js] et a perdu avec double paire, Valets et Sept
+
+
+

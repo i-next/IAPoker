@@ -1,0 +1,82 @@
+﻿Main PokerStars n°259209919051 : Tournoi #3963310159, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 07/01/2026 8:53:08 CET [07/01/2026 2:53:08 ET]
+Table '3963310159 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: pietrosarel59 (500 en jetons) 
+Place 3: Situsss (500 en jetons) 
+pietrosarel59 : met la petite blind. 10
+Situsss : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 3d]
+psychoman59 : passe. 
+pietrosarel59 : passe. 
+Personne n'a suivi. (10) sont retournés à Situsss.
+Situsss a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : pietrosarel59 (petite blind) s'est couché. avant Flop
+Siège 3 : Situsss (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°259209919341 : Tournoi #3963310159, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 07/01/2026 8:53:14 CET [07/01/2026 2:53:14 ET]
+Table '3963310159 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: pietrosarel59 (490 en jetons) 
+Place 3: Situsss (510 en jetons) 
+Situsss : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Ac]
+pietrosarel59 : relance. 470 à 490 et est all-in.
+Situsss : passe. 
+psychoman59 : suit. 470
+*** FLOP *** [Kc 9s 9h]
+*** TOURNANT *** [Kc 9s 9h] [7s]
+*** RIVIÈRE *** [Kc 9s 9h 7s] [Tc]
+*** ABATTAGE ***
+psychoman59 : montre [5c Ac] (une paire de Neuf)
+pietrosarel59 : montre [9d Ad] (un brelan de Neuf)
+pietrosarel59 a remporté 990  lors du pot .
+*** SYNTHÈSE ***
+Pot total 990 | Commission 0 
+Tableau [Kc 9s 9h 7s Tc]
+Siège 1 : psychoman59 (grosse blind) a montré [5c Ac] et a perdu avec une paire de Neuf
+Siège 2 : pietrosarel59 (bouton) a montré [9d Ad] et a gagné (990) avec un brelan de Neuf
+Siège 3 : Situsss (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°259209920097 : Tournoi #3963310159, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 07/01/2026 8:53:28 CET [07/01/2026 2:53:28 ET]
+Table '3963310159 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (10 en jetons) 
+Place 2: pietrosarel59 (990 en jetons) 
+Place 3: Situsss (500 en jetons) 
+psychoman59 : met la petite blind. 10 et est all-in.
+pietrosarel59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 4d]
+Situsss : relance. 480 à 500 et est all-in.
+pietrosarel59 : suit. 480
+*** FLOP *** [3s Td As]
+*** TOURNANT *** [3s Td As] [9h]
+*** RIVIÈRE *** [3s Td As 9h] [7c]
+*** ABATTAGE ***
+pietrosarel59 : montre [8h 6d] (une suite, Six à Dix)
+Situsss : montre [3c Ah] (double paire, As et Trois)
+pietrosarel59 a remporté 980  parallèle lors du pot .
+psychoman59 : montre [4s 4d] (une paire de Quatre)
+pietrosarel59 a remporté 30  principal lors du pot .
+Situsss a fini le tournoi en 2e position.
+psychoman59 a fini le tournoi en 3e position.
+pietrosarel59 gagne le tournoi - félicitations !
+pietrosarel59 gagne un ticket " €1.50 Step 2 SnG Power Path ticket "
+*** SYNTHÈSE ***
+Pot total 1010 Principal pot 30. Parallèle pot 980. | Commission 0 
+Tableau [3s Td As 9h 7c]
+Siège 1 : psychoman59 (petite blind) a montré [4s 4d] et a perdu avec une paire de Quatre
+Siège 2 : pietrosarel59 (grosse blind) a montré [8h 6d] et a gagné (1010) avec une suite, Six à Dix
+Siège 3 : Situsss (bouton) a montré [3c Ah] et a perdu avec double paire, As et Trois
+
+
+

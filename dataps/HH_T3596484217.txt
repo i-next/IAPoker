@@ -1,0 +1,89 @@
+﻿Main PokerStars n°243923438642 : Tournoi #3596484217, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/05/2023 23:09:52 CET [26/05/2023 17:09:52 ET]
+Table '3596484217 1' 3-max Siège #1 est au bouton.
+Place 1: a3zo44 (300 en jetons) 
+Place 2: Seb59195 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+Seb59195 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Tc]
+a3zo44 : passe. 
+Seb59195 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [6h 6s 3s]
+Seb59195 : parole 
+psychoman59 : mise. 40
+Seb59195 : suit. 40
+*** TOURNANT *** [6h 6s 3s] [Td]
+Seb59195 : parole 
+psychoman59 : mise. 60
+Seb59195 : suit. 60
+*** RIVIÈRE *** [6h 6s 3s Td] [Jd]
+Seb59195 : mise. 120
+psychoman59 : suit. 120
+*** ABATTAGE ***
+Seb59195 : montre [Ad Ah] (double paire, As et Six)
+psychoman59 : cache la main perdante. 
+Seb59195 a remporté 480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [6h 6s 3s Td Jd]
+Siège 1 : a3zo44 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Seb59195 (petite blind) a montré [Ad Ah] et a gagné (480) avec double paire, As et Six
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [8s Tc]
+
+
+
+Main PokerStars n°243923450853 : Tournoi #3596484217, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/05/2023 23:10:24 CET [26/05/2023 17:10:24 ET]
+Table '3596484217 1' 3-max Siège #2 est au bouton.
+Place 1: a3zo44 (300 en jetons) 
+Place 2: Seb59195 (540 en jetons) 
+Place 3: psychoman59 (60 en jetons) 
+psychoman59 : met la petite blind. 10
+a3zo44 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Td]
+Seb59195 : relance. 20 à 40
+psychoman59 : passe. 
+a3zo44 : passe. 
+Personne n'a suivi. (20) sont retournés à Seb59195.
+Seb59195 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : a3zo44 (grosse blind) s'est couché. avant Flop
+Siège 2 : Seb59195 (bouton) a remporté (50)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243923453721 : Tournoi #3596484217, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/05/2023 23:10:32 CET [26/05/2023 17:10:32 ET]
+Table '3596484217 1' 3-max Siège #3 est au bouton.
+Place 1: a3zo44 (280 en jetons) 
+Place 2: Seb59195 (570 en jetons) 
+Place 3: psychoman59 (50 en jetons) 
+a3zo44 : met la petite blind. 10
+Seb59195 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 6d]
+psychoman59 : relance. 30 à 50 et est all-in.
+a3zo44 : relance. 230 à 280 et est all-in.
+Seb59195 : suit. 260
+*** FLOP *** [Kd 5h Qs]
+*** TOURNANT *** [Kd 5h Qs] [7c]
+*** RIVIÈRE *** [Kd 5h Qs 7c] [Tc]
+*** ABATTAGE ***
+a3zo44 : montre [Ah Jd] (une suite, Dix à As)
+Seb59195 : montre [7h 2c] (une paire de Sept)
+a3zo44 a remporté 460  parallèle lors du pot .
+psychoman59 : montre [Jc 6d] (Hauteur Roi)
+a3zo44 a remporté 150  principal lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 610 Principal pot 150. Parallèle pot 460. | Commission 0 
+Tableau [Kd 5h Qs 7c Tc]
+Siège 1 : a3zo44 (petite blind) a montré [Ah Jd] et a gagné (610) avec une suite, Dix à As
+Siège 2 : Seb59195 (grosse blind) a montré [7h 2c] et a perdu avec une paire de Sept
+Siège 3 : psychoman59 (bouton) a montré [Jc 6d] et a perdu avec Hauteur Roi
+
+
+

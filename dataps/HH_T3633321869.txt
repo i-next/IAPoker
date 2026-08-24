@@ -1,0 +1,55 @@
+﻿Main PokerStars n°245472090074 : Tournoi #3633321869, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/08/2023 8:01:50 CET [19/08/2023 2:01:50 ET]
+Table '3633321869 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: barade cedric (300 en jetons) 
+Place 3: lidwazere95 (300 en jetons) 
+barade cedric : met la petite blind. 10
+lidwazere95 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 8s]
+psychoman59 : passe. 
+barade cedric : suit. 10
+lidwazere95 : relance. 280 à 300 et est all-in.
+barade cedric : passe. 
+Personne n'a suivi. (280) sont retournés à lidwazere95.
+lidwazere95 a remporté 40  lors du pot .
+lidwazere95 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : barade cedric (petite blind) s'est couché. avant Flop
+Siège 3 : lidwazere95 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°245472091462 : Tournoi #3633321869, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/08/2023 8:02:04 CET [19/08/2023 2:02:04 ET]
+Table '3633321869 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: barade cedric (280 en jetons) 
+Place 3: lidwazere95 (320 en jetons) 
+lidwazere95 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Qc]
+barade cedric : suit. 20
+lidwazere95 : relance. 300 à 320 et est all-in.
+psychoman59 : suit. 280 et est all-in.
+barade cedric : passe. 
+Personne n'a suivi. (20) sont retournés à lidwazere95.
+*** FLOP *** [Th 8c Ad]
+*** TOURNANT *** [Th 8c Ad] [3s]
+*** RIVIÈRE *** [Th 8c Ad 3s] [6c]
+*** ABATTAGE ***
+lidwazere95 : montre [9s Ah] (une paire de As)
+psychoman59 : montre [Kd Qc] (Hauteur As)
+lidwazere95 a remporté 620  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [Th 8c Ad 3s 6c]
+Siège 1 : psychoman59 (grosse blind) a montré [Kd Qc] et a perdu avec Hauteur As
+Siège 2 : barade cedric (bouton) s'est couché. avant Flop
+Siège 3 : lidwazere95 (petite blind) a montré [9s Ah] et a gagné (620) avec une paire de As
+
+
+

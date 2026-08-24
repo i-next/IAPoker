@@ -1,0 +1,60 @@
+﻿Main PokerStars n°243478180999 : Tournoi #3586365225, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/05/2023 7:21:01 CET [04/05/2023 1:21:01 ET]
+Table '3586365225 1' 3-max Siège #1 est au bouton.
+Place 1: mounir septik (300 en jetons) 
+Place 2: julaz94 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+julaz94 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Td]
+mounir septik : relance. 20 à 40
+julaz94 : suit. 30
+psychoman59 : suit. 20
+*** FLOP *** [Qs Js 7h]
+julaz94 : mise. 60
+psychoman59 : suit. 60
+mounir septik : passe. 
+*** TOURNANT *** [Qs Js 7h] [8c]
+julaz94 : mise. 200 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à julaz94.
+julaz94 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Qs Js 7h 8c]
+Siège 1 : mounir septik (bouton) s'est couché. sur le Flop
+Siège 2 : julaz94 (petite blind) a remporté (240)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°243478182850 : Tournoi #3586365225, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/05/2023 7:21:18 CET [04/05/2023 1:21:18 ET]
+Table '3586365225 1' 3-max Siège #2 est au bouton.
+Place 1: mounir septik (260 en jetons) 
+Place 2: julaz94 (440 en jetons) 
+Place 3: psychoman59 (200 en jetons) 
+psychoman59 : met la petite blind. 10
+mounir septik : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 6c]
+julaz94 : relance. 20 à 40
+psychoman59 : relance. 160 à 200 et est all-in.
+mounir septik : passe. 
+julaz94 : suit. 160
+*** FLOP *** [2c 4d 9s]
+*** TOURNANT *** [2c 4d 9s] [Ts]
+*** RIVIÈRE *** [2c 4d 9s Ts] [4h]
+*** ABATTAGE ***
+psychoman59 : montre [Kc 6c] (une paire de Quatre)
+julaz94 : montre [Tc Ah] (double paire, Dix et Quatre)
+julaz94 a remporté 420  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [2c 4d 9s Ts 4h]
+Siège 1 : mounir septik (grosse blind) s'est couché. avant Flop
+Siège 2 : julaz94 (bouton) a montré [Tc Ah] et a gagné (420) avec double paire, Dix et Quatre
+Siège 3 : psychoman59 (petite blind) a montré [Kc 6c] et a perdu avec une paire de Quatre
+
+
+

@@ -1,0 +1,291 @@
+﻿Main PokerStars n°240769300926 : Tournoi #3522898270, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 29/12/2022 11:21:59 CET [29/12/2022 5:21:59 ET]
+Table '3522898270 1' 3-max Siège #1 est au bouton.
+Place 1: CptHario (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: jumbo33700 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+jumbo33700 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 5h]
+CptHario : relance. 20 à 40
+psychoman59 : passe. 
+jumbo33700 : passe. 
+Personne n'a suivi. (20) sont retournés à CptHario.
+CptHario a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : CptHario (bouton) a remporté (50)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : jumbo33700 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240769301953 : Tournoi #3522898270, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 29/12/2022 11:22:05 CET [29/12/2022 5:22:05 ET]
+Table '3522898270 1' 3-max Siège #2 est au bouton.
+Place 1: CptHario (330 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: jumbo33700 (280 en jetons) 
+jumbo33700 : met la petite blind. 10
+CptHario : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 5s]
+psychoman59 : relance. 270 à 290 et est all-in.
+jumbo33700 : passe. 
+CptHario : passe. 
+Personne n'a suivi. (270) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : CptHario (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a remporté (50)
+Siège 3 : jumbo33700 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240769303137 : Tournoi #3522898270, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 29/12/2022 11:22:13 CET [29/12/2022 5:22:13 ET]
+Table '3522898270 1' 3-max Siège #3 est au bouton.
+Place 1: CptHario (310 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: jumbo33700 (270 en jetons) 
+CptHario : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 9c]
+jumbo33700 : passe. 
+CptHario : suit. 10
+psychoman59 : parole 
+*** FLOP *** [9h Kh As]
+CptHario : parole 
+psychoman59 : parole 
+*** TOURNANT *** [9h Kh As] [Jd]
+CptHario : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [9h Kh As Jd] [Js]
+CptHario : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+CptHario : montre [3s 5c] (une paire de Valets)
+psychoman59 : montre [2c 9c] (double paire, Valets et Neuf)
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [9h Kh As Jd Js]
+Siège 1 : CptHario (petite blind) a montré [3s 5c] et a perdu avec une paire de Valets
+Siège 2 : psychoman59 (grosse blind) a montré [2c 9c] et a gagné (40) avec double paire, Valets et Neuf
+Siège 3 : jumbo33700 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°240769306493 : Tournoi #3522898270, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 29/12/2022 11:22:33 CET [29/12/2022 5:22:33 ET]
+Table '3522898270 1' 3-max Siège #1 est au bouton.
+Place 1: CptHario (290 en jetons) 
+Place 2: psychoman59 (340 en jetons) 
+Place 3: jumbo33700 (270 en jetons) 
+psychoman59 : met la petite blind. 10
+jumbo33700 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 5h]
+CptHario : relance. 20 à 40
+psychoman59 : passe. 
+jumbo33700 : suit. 20
+*** FLOP *** [2c Ks 6h]
+jumbo33700 : parole 
+CptHario : mise. 20
+jumbo33700 : relance. 130 à 150
+CptHario : suit. 130
+*** TOURNANT *** [2c Ks 6h] [7h]
+jumbo33700 : mise. 80 et est all-in.
+CptHario : suit. 80
+*** RIVIÈRE *** [2c Ks 6h 7h] [Qs]
+*** ABATTAGE ***
+jumbo33700 : montre [6c 5c] (une paire de Six)
+CptHario : montre [Ts Ad] (Hauteur As)
+jumbo33700 a remporté 550  lors du pot .
+*** SYNTHÈSE ***
+Pot total 550 | Commission 0 
+Tableau [2c Ks 6h 7h Qs]
+Siège 1 : CptHario (bouton) a montré [Ts Ad] et a perdu avec Hauteur As
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : jumbo33700 (grosse blind) a montré [6c 5c] et a gagné (550) avec une paire de Six
+
+
+
+Main PokerStars n°240769310076 : Tournoi #3522898270, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 29/12/2022 11:22:56 CET [29/12/2022 5:22:56 ET]
+Table '3522898270 1' 3-max Siège #2 est au bouton.
+Place 1: CptHario (20 en jetons) 
+Place 2: psychoman59 (330 en jetons) 
+Place 3: jumbo33700 (550 en jetons) 
+jumbo33700 : met la petite blind. 10
+CptHario : met la grosse blind. 20 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 9d]
+psychoman59 : relance. 310 à 330 et est all-in.
+jumbo33700 : passe. 
+Personne n'a suivi. (310) sont retournés à psychoman59.
+*** FLOP *** [3d 3s 2h]
+*** TOURNANT *** [3d 3s 2h] [3c]
+*** RIVIÈRE *** [3d 3s 2h 3c] [4c]
+*** ABATTAGE ***
+CptHario : montre [9h Jh] (un brelan de Trois)
+psychoman59 : montre [Ac 9d] (un brelan de Trois - As kicker)
+psychoman59 a remporté 50  lors du pot .
+CptHario a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [3d 3s 2h 3c 4c]
+Siège 1 : CptHario (grosse blind) a montré [9h Jh] et a perdu avec un brelan de Trois
+Siège 2 : psychoman59 (bouton) a montré [Ac 9d] et a gagné (50) avec un brelan de Trois
+Siège 3 : jumbo33700 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240769312883 : Tournoi #3522898270, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 29/12/2022 11:23:13 CET [29/12/2022 5:23:13 ET]
+Table '3522898270 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (360 en jetons) 
+Place 3: jumbo33700 (540 en jetons) 
+jumbo33700 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 2s]
+jumbo33700 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+Siège 3 : jumbo33700 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240769313647 : Tournoi #3522898270, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 29/12/2022 11:23:18 CET [29/12/2022 5:23:18 ET]
+Table '3522898270 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (375 en jetons) 
+Place 3: jumbo33700 (525 en jetons) 
+psychoman59 : met la petite blind. 15
+jumbo33700 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Ad]
+psychoman59 : relance. 345 à 375 et est all-in.
+jumbo33700 : passe. 
+Personne n'a suivi. (345) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 3 : jumbo33700 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240769314913 : Tournoi #3522898270, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 29/12/2022 11:23:25 CET [29/12/2022 5:23:25 ET]
+Table '3522898270 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (405 en jetons) 
+Place 3: jumbo33700 (495 en jetons) 
+jumbo33700 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 5h]
+jumbo33700 : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à jumbo33700.
+jumbo33700 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : jumbo33700 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°240769316061 : Tournoi #3522898270, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 29/12/2022 11:23:33 CET [29/12/2022 5:23:33 ET]
+Table '3522898270 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (375 en jetons) 
+Place 3: jumbo33700 (525 en jetons) 
+psychoman59 : met la petite blind. 15
+jumbo33700 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Td]
+psychoman59 : relance. 345 à 375 et est all-in.
+jumbo33700 : passe. 
+Personne n'a suivi. (345) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 3 : jumbo33700 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240769317354 : Tournoi #3522898270, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 29/12/2022 11:23:41 CET [29/12/2022 5:23:41 ET]
+Table '3522898270 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (405 en jetons) 
+Place 3: jumbo33700 (495 en jetons) 
+jumbo33700 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 7h]
+jumbo33700 : relance. 465 à 495 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (465) sont retournés à jumbo33700.
+jumbo33700 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : jumbo33700 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°240769318387 : Tournoi #3522898270, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 29/12/2022 11:23:47 CET [29/12/2022 5:23:47 ET]
+Table '3522898270 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (375 en jetons) 
+Place 3: jumbo33700 (525 en jetons) 
+psychoman59 : met la petite blind. 15
+jumbo33700 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 3c]
+psychoman59 : relance. 345 à 375 et est all-in.
+jumbo33700 : suit. 345
+*** FLOP *** [6s 5s 7h]
+*** TOURNANT *** [6s 5s 7h] [Tc]
+*** RIVIÈRE *** [6s 5s 7h Tc] [5c]
+*** ABATTAGE ***
+jumbo33700 : montre [Ad 4c] (une paire de Cinq)
+psychoman59 : montre [3h 3c] (double paire, Cinq et Trois)
+psychoman59 a remporté 750  lors du pot .
+*** SYNTHÈSE ***
+Pot total 750 | Commission 0 
+Tableau [6s 5s 7h Tc 5c]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [3h 3c] et a gagné (750) avec double paire, Cinq et Trois
+Siège 3 : jumbo33700 (grosse blind) a montré [Ad 4c] et a perdu avec une paire de Cinq
+
+
+
+Main PokerStars n°240769321366 : Tournoi #3522898270, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 29/12/2022 11:24:06 CET [29/12/2022 5:24:06 ET]
+Table '3522898270 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (750 en jetons) 
+Place 3: jumbo33700 (150 en jetons) 
+jumbo33700 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Tc]
+jumbo33700 : relance. 110 à 150 et est all-in.
+psychoman59 : suit. 110
+*** FLOP *** [Ts 6d Ah]
+*** TOURNANT *** [Ts 6d Ah] [6s]
+*** RIVIÈRE *** [Ts 6d Ah 6s] [9d]
+*** ABATTAGE ***
+psychoman59 : montre [Jd Tc] (double paire, Dix et Six)
+jumbo33700 : montre [3s Qc] (une paire de Six)
+psychoman59 a remporté 300  lors du pot .
+jumbo33700 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 5.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [Ts 6d Ah 6s 9d]
+Siège 2 : psychoman59 (grosse blind) a montré [Jd Tc] et a gagné (300) avec double paire, Dix et Six
+Siège 3 : jumbo33700 (bouton) (petite blind) a montré [3s Qc] et a perdu avec une paire de Six
+
+
+

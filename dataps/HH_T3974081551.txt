@@ -1,0 +1,642 @@
+﻿Main PokerStars n°259680300157 : Tournoi #3974081551, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 11/02/2026 8:38:33 CET [11/02/2026 2:38:33 ET]
+Table '3974081551 1' 3-max Siège #1 est au bouton.
+Place 1: Chouk97431 (500 en jetons) 
+Place 2: PABLOBARÇA (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+PABLOBARÇA : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 3d]
+Chouk97431 : suit. 20
+PABLOBARÇA : passe. 
+psychoman59 : parole 
+*** FLOP *** [2s 3s 3c]
+psychoman59 : parole 
+Chouk97431 : parole 
+*** TOURNANT *** [2s 3s 3c] [2h]
+psychoman59 : parole 
+Chouk97431 : parole 
+*** RIVIÈRE *** [2s 3s 3c 2h] [Tc]
+psychoman59 : mise. 50
+Chouk97431 : suit. 50
+*** ABATTAGE ***
+psychoman59 : montre [Jd 3d] (un full, full aux Trois par les Deux)
+Chouk97431 : cache la main perdante. 
+psychoman59 a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Tableau [2s 3s 3c 2h Tc]
+Siège 1 : Chouk97431 (bouton) a caché la main perdante. [8h Td]
+Siège 2 : PABLOBARÇA (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [Jd 3d] et a gagné (150) avec un full, full aux Trois par les Deux
+
+
+
+Main PokerStars n°259680301573 : Tournoi #3974081551, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 11/02/2026 8:38:57 CET [11/02/2026 2:38:57 ET]
+Table '3974081551 1' 3-max Siège #2 est au bouton.
+Place 1: Chouk97431 (430 en jetons) 
+Place 2: PABLOBARÇA (490 en jetons) 
+Place 3: psychoman59 (580 en jetons) 
+psychoman59 : met la petite blind. 10
+Chouk97431 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 6d]
+PABLOBARÇA : passe. 
+psychoman59 : suit. 10
+Chouk97431 : parole 
+*** FLOP *** [6s 4c 5d]
+psychoman59 : mise. 40
+Chouk97431 : suit. 40
+*** TOURNANT *** [6s 4c 5d] [Td]
+psychoman59 : mise. 60
+Chouk97431 : suit. 60
+*** RIVIÈRE *** [6s 4c 5d Td] [2d]
+psychoman59 : mise. 240
+Chouk97431 : suit. 240
+*** ABATTAGE ***
+psychoman59 : montre [Ad 6d] (une couleur, hauteur As)
+Chouk97431 : cache la main perdante. 
+psychoman59 a remporté 720  lors du pot .
+*** SYNTHÈSE ***
+Pot total 720 | Commission 0 
+Tableau [6s 4c 5d Td 2d]
+Siège 1 : Chouk97431 (grosse blind) a caché la main perdante. [5h Tc]
+Siège 2 : PABLOBARÇA (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [Ad 6d] et a gagné (720) avec une couleur, hauteur As
+
+
+
+Main PokerStars n°259680303223 : Tournoi #3974081551, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 11/02/2026 8:39:25 CET [11/02/2026 2:39:25 ET]
+Table '3974081551 1' 3-max Siège #3 est au bouton.
+Place 1: Chouk97431 (70 en jetons) 
+Place 2: PABLOBARÇA (490 en jetons) 
+Place 3: psychoman59 (940 en jetons) 
+Chouk97431 : met la petite blind. 10
+PABLOBARÇA : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 8s]
+psychoman59 : passe. 
+Chouk97431 : suit. 10
+PABLOBARÇA : parole 
+*** FLOP *** [Kd 3s 9s]
+Chouk97431 : mise. 20
+PABLOBARÇA : passe. 
+Personne n'a suivi. (20) sont retournés à Chouk97431.
+Chouk97431 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Kd 3s 9s]
+Siège 1 : Chouk97431 (petite blind) a remporté (40)
+Siège 2 : PABLOBARÇA (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°259680304137 : Tournoi #3974081551, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 11/02/2026 8:39:41 CET [11/02/2026 2:39:41 ET]
+Table '3974081551 1' 3-max Siège #1 est au bouton.
+Place 1: Chouk97431 (90 en jetons) 
+Place 2: PABLOBARÇA (470 en jetons) 
+Place 3: psychoman59 (940 en jetons) 
+PABLOBARÇA : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 9c]
+Chouk97431 : suit. 20
+PABLOBARÇA : suit. 10
+psychoman59 : parole 
+*** FLOP *** [5c Ts 4d]
+PABLOBARÇA : parole 
+psychoman59 : parole 
+Chouk97431 : parole 
+*** TOURNANT *** [5c Ts 4d] [7s]
+PABLOBARÇA : mise. 20
+psychoman59 : suit. 20
+Chouk97431 : suit. 20
+*** RIVIÈRE *** [5c Ts 4d 7s] [3d]
+PABLOBARÇA : mise. 20
+psychoman59 : passe. 
+Chouk97431 : relance. 20 à 40
+PABLOBARÇA : suit. 20
+*** ABATTAGE ***
+Chouk97431 : montre [3h 3s] (un brelan de Trois)
+PABLOBARÇA : cache la main perdante. 
+Chouk97431 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [5c Ts 4d 7s 3d]
+Siège 1 : Chouk97431 (bouton) a montré [3h 3s] et a gagné (200) avec un brelan de Trois
+Siège 2 : PABLOBARÇA (petite blind) a caché la main perdante. [9s 9h]
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°259680305708 : Tournoi #3974081551, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 11/02/2026 8:40:08 CET [11/02/2026 2:40:08 ET]
+Table '3974081551 1' 3-max Siège #2 est au bouton.
+Place 1: Chouk97431 (210 en jetons) 
+Place 2: PABLOBARÇA (390 en jetons) 
+Place 3: psychoman59 (900 en jetons) 
+psychoman59 : met la petite blind. 10
+Chouk97431 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Qc]
+PABLOBARÇA : passe. 
+psychoman59 : suit. 10
+Chouk97431 : parole 
+*** FLOP *** [8h 6c Jc]
+psychoman59 : parole 
+Chouk97431 : parole 
+*** TOURNANT *** [8h 6c Jc] [2h]
+psychoman59 : parole 
+Chouk97431 : parole 
+*** RIVIÈRE *** [8h 6c Jc 2h] [Jh]
+psychoman59 : mise. 40
+Chouk97431 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [8h 6c Jc 2h Jh]
+Siège 1 : Chouk97431 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : PABLOBARÇA (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°259680306929 : Tournoi #3974081551, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 11/02/2026 8:40:29 CET [11/02/2026 2:40:29 ET]
+Table '3974081551 1' 3-max Siège #3 est au bouton.
+Place 1: Chouk97431 (190 en jetons) 
+Place 2: PABLOBARÇA (390 en jetons) 
+Place 3: psychoman59 (920 en jetons) 
+Chouk97431 : met la petite blind. 10
+PABLOBARÇA : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 6s]
+psychoman59 : passe. 
+Chouk97431 : suit. 10
+PABLOBARÇA : parole 
+*** FLOP *** [Th 2h 5d]
+Chouk97431 : parole 
+PABLOBARÇA : parole 
+*** TOURNANT *** [Th 2h 5d] [5c]
+Chouk97431 : parole 
+PABLOBARÇA : parole 
+*** RIVIÈRE *** [Th 2h 5d 5c] [8s]
+Chouk97431 : mise. 20
+PABLOBARÇA : passe. 
+Personne n'a suivi. (20) sont retournés à Chouk97431.
+Chouk97431 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Th 2h 5d 5c 8s]
+Siège 1 : Chouk97431 (petite blind) a remporté (40)
+Siège 2 : PABLOBARÇA (grosse blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°259680308647 : Tournoi #3974081551, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 11/02/2026 8:40:57 CET [11/02/2026 2:40:57 ET]
+Table '3974081551 1' 3-max Siège #1 est au bouton.
+Place 1: Chouk97431 (210 en jetons) 
+Place 2: PABLOBARÇA (370 en jetons) 
+Place 3: psychoman59 (920 en jetons) 
+PABLOBARÇA : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 2s]
+Chouk97431 : suit. 30
+PABLOBARÇA : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Qd 7h 9c]
+PABLOBARÇA : parole 
+psychoman59 : parole 
+Chouk97431 : parole 
+*** TOURNANT *** [Qd 7h 9c] [Qc]
+PABLOBARÇA : parole 
+psychoman59 : mise. 45
+Chouk97431 : suit. 45
+PABLOBARÇA : passe. 
+*** RIVIÈRE *** [Qd 7h 9c Qc] [Ad]
+psychoman59 : mise. 90
+Chouk97431 : suit. 90
+*** ABATTAGE ***
+psychoman59 : montre [9s 2s] (double paire, Dames et Neuf)
+Chouk97431 : cache la main perdante. 
+psychoman59 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [Qd 7h 9c Qc Ad]
+Siège 1 : Chouk97431 (bouton) a caché la main perdante. [4s Kc]
+Siège 2 : PABLOBARÇA (petite blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (grosse blind) a montré [9s 2s] et a gagné (360) avec double paire, Dames et Neuf
+
+
+
+Main PokerStars n°259680311511 : Tournoi #3974081551, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 11/02/2026 8:41:45 CET [11/02/2026 2:41:45 ET]
+Table '3974081551 1' 3-max Siège #2 est au bouton.
+Place 1: Chouk97431 (45 en jetons) 
+Place 2: PABLOBARÇA (340 en jetons) 
+Place 3: psychoman59 (1115 en jetons) 
+psychoman59 : met la petite blind. 15
+Chouk97431 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 4c]
+PABLOBARÇA : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à Chouk97431.
+Chouk97431 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : Chouk97431 (grosse blind) a remporté (30)
+Siège 2 : PABLOBARÇA (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°259680311919 : Tournoi #3974081551, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 11/02/2026 8:41:51 CET [11/02/2026 2:41:51 ET]
+Table '3974081551 1' 3-max Siège #3 est au bouton.
+Place 1: Chouk97431 (60 en jetons) 
+Place 2: PABLOBARÇA (340 en jetons) 
+Place 3: psychoman59 (1100 en jetons) 
+Chouk97431 : met la petite blind. 15
+PABLOBARÇA : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 4s]
+psychoman59 : passe. 
+Chouk97431 : suit. 15
+PABLOBARÇA : parole 
+*** FLOP *** [2d Th 3h]
+Chouk97431 : parole 
+PABLOBARÇA : parole 
+*** TOURNANT *** [2d Th 3h] [Tc]
+Chouk97431 : parole 
+PABLOBARÇA : parole 
+*** RIVIÈRE *** [2d Th 3h Tc] [3s]
+Chouk97431 : mise. 30 et est all-in.
+PABLOBARÇA : suit. 30
+*** ABATTAGE ***
+Chouk97431 : montre [2c Jc] (double paire, Dix et Trois)
+PABLOBARÇA : montre [Ks 8h] (double paire, Dix et Trois - Roi kicker)
+PABLOBARÇA a remporté 120  lors du pot .
+Chouk97431 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [2d Th 3h Tc 3s]
+Siège 1 : Chouk97431 (petite blind) a montré [2c Jc] et a perdu avec double paire, Dix et Trois
+Siège 2 : PABLOBARÇA (grosse blind) a montré [Ks 8h] et a gagné (120) avec double paire, Dix et Trois
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°259680313294 : Tournoi #3974081551, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 11/02/2026 8:42:14 CET [11/02/2026 2:42:14 ET]
+Table '3974081551 1' 3-max Siège #2 est au bouton.
+Place 2: PABLOBARÇA (400 en jetons) 
+Place 3: psychoman59 (1100 en jetons) 
+PABLOBARÇA : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 8h]
+PABLOBARÇA : suit. 15
+psychoman59 : parole 
+*** FLOP *** [7s 3c Jd]
+psychoman59 : parole 
+PABLOBARÇA : parole 
+*** TOURNANT *** [7s 3c Jd] [2d]
+psychoman59 : parole 
+PABLOBARÇA : parole 
+*** RIVIÈRE *** [7s 3c Jd 2d] [4s]
+psychoman59 : parole 
+PABLOBARÇA : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Kd 8h] (Hauteur Roi)
+PABLOBARÇA : cache la main perdante. 
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [7s 3c Jd 2d 4s]
+Siège 2 : PABLOBARÇA (bouton) (petite blind) a caché la main perdante. [9c Qd]
+Siège 3 : psychoman59 (grosse blind) a montré [Kd 8h] et a gagné (60) avec Hauteur Roi
+
+
+
+Main PokerStars n°259680314948 : Tournoi #3974081551, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 11/02/2026 8:42:42 CET [11/02/2026 2:42:42 ET]
+Table '3974081551 1' 3-max Siège #3 est au bouton.
+Place 2: PABLOBARÇA (370 en jetons) 
+Place 3: psychoman59 (1130 en jetons) 
+psychoman59 : met la petite blind. 20
+PABLOBARÇA : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 5h]
+psychoman59 : suit. 20
+PABLOBARÇA : parole 
+*** FLOP *** [Ah 3s 4h]
+PABLOBARÇA : parole 
+psychoman59 : mise. 80
+PABLOBARÇA : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Ah 3s 4h]
+Siège 2 : PABLOBARÇA (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°259680315729 : Tournoi #3974081551, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 11/02/2026 8:42:55 CET [11/02/2026 2:42:55 ET]
+Table '3974081551 1' 3-max Siège #2 est au bouton.
+Place 2: PABLOBARÇA (330 en jetons) 
+Place 3: psychoman59 (1170 en jetons) 
+PABLOBARÇA : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Ks]
+PABLOBARÇA : relance. 290 à 330 et est all-in.
+psychoman59 : suit. 290
+*** FLOP *** [4h 2c Qs]
+*** TOURNANT *** [4h 2c Qs] [Tc]
+*** RIVIÈRE *** [4h 2c Qs Tc] [Js]
+*** ABATTAGE ***
+psychoman59 : montre [Jd Ks] (une paire de Valets)
+PABLOBARÇA : montre [Jh Ad] (une paire de Valets - As kicker)
+PABLOBARÇA a remporté 660  lors du pot .
+*** SYNTHÈSE ***
+Pot total 660 | Commission 0 
+Tableau [4h 2c Qs Tc Js]
+Siège 2 : PABLOBARÇA (bouton) (petite blind) a montré [Jh Ad] et a gagné (660) avec une paire de Valets
+Siège 3 : psychoman59 (grosse blind) a montré [Jd Ks] et a perdu avec une paire de Valets
+
+
+
+Main PokerStars n°259680316540 : Tournoi #3974081551, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 11/02/2026 8:43:08 CET [11/02/2026 2:43:08 ET]
+Table '3974081551 1' 3-max Siège #3 est au bouton.
+Place 2: PABLOBARÇA (660 en jetons) 
+Place 3: psychoman59 (840 en jetons) 
+psychoman59 : met la petite blind. 20
+PABLOBARÇA : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 9c]
+psychoman59 : suit. 20
+PABLOBARÇA : parole 
+*** FLOP *** [6c 3h 3c]
+PABLOBARÇA : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6c 3h 3c] [7h]
+PABLOBARÇA : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [6c 3h 3c 7h] [4h]
+PABLOBARÇA : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à PABLOBARÇA.
+PABLOBARÇA a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [6c 3h 3c 7h 4h]
+Siège 2 : PABLOBARÇA (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°259680317577 : Tournoi #3974081551, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 11/02/2026 8:43:25 CET [11/02/2026 2:43:25 ET]
+Table '3974081551 1' 3-max Siège #2 est au bouton.
+Place 2: PABLOBARÇA (700 en jetons) 
+Place 3: psychoman59 (800 en jetons) 
+PABLOBARÇA : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 8d]
+PABLOBARÇA : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Ac Jc 3c]
+psychoman59 : parole 
+PABLOBARÇA : parole 
+*** TOURNANT *** [Ac Jc 3c] [Qc]
+psychoman59 : parole 
+PABLOBARÇA : parole 
+*** RIVIÈRE *** [Ac Jc 3c Qc] [4c]
+psychoman59 : parole 
+PABLOBARÇA : parole 
+*** ABATTAGE ***
+psychoman59 : montre [9s 8d] (une couleur, hauteur As)
+PABLOBARÇA : montre [7c Ks] (une couleur, hauteur As - Sept plus haute)
+PABLOBARÇA a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Ac Jc 3c Qc 4c]
+Siège 2 : PABLOBARÇA (bouton) (petite blind) a montré [7c Ks] et a gagné (80) avec une couleur, hauteur As
+Siège 3 : psychoman59 (grosse blind) a montré [9s 8d] et a perdu avec une couleur, hauteur As
+
+
+
+Main PokerStars n°259680318563 : Tournoi #3974081551, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 11/02/2026 8:43:42 CET [11/02/2026 2:43:42 ET]
+Table '3974081551 1' 3-max Siège #3 est au bouton.
+Place 2: PABLOBARÇA (740 en jetons) 
+Place 3: psychoman59 (760 en jetons) 
+psychoman59 : met la petite blind. 20
+PABLOBARÇA : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 8s]
+psychoman59 : suit. 20
+PABLOBARÇA : parole 
+*** FLOP *** [7c 2h 9h]
+PABLOBARÇA : parole 
+psychoman59 : parole 
+*** TOURNANT *** [7c 2h 9h] [Ts]
+PABLOBARÇA : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [7c 2h 9h Ts] [7d]
+PABLOBARÇA : mise. 40
+psychoman59 : relance. 80 à 120
+PABLOBARÇA : suit. 80
+*** ABATTAGE ***
+psychoman59 : montre [Jc 8s] (une suite, Sept à Valet)
+PABLOBARÇA : cache la main perdante. 
+psychoman59 a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [7c 2h 9h Ts 7d]
+Siège 2 : PABLOBARÇA (grosse blind) a caché la main perdante. [7h Jh]
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Jc 8s] et a gagné (320) avec une suite, Sept à Valet
+
+
+
+Main PokerStars n°259680319738 : Tournoi #3974081551, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 11/02/2026 8:44:01 CET [11/02/2026 2:44:01 ET]
+Table '3974081551 1' 3-max Siège #2 est au bouton.
+Place 2: PABLOBARÇA (580 en jetons) 
+Place 3: psychoman59 (920 en jetons) 
+PABLOBARÇA : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Jd]
+PABLOBARÇA : suit. 20
+psychoman59 : relance. 880 à 920 et est all-in.
+PABLOBARÇA : passe. 
+Personne n'a suivi. (880) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : PABLOBARÇA (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°259680320319 : Tournoi #3974081551, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 11/02/2026 8:44:10 CET [11/02/2026 2:44:10 ET]
+Table '3974081551 1' 3-max Siège #3 est au bouton.
+Place 2: PABLOBARÇA (540 en jetons) 
+Place 3: psychoman59 (960 en jetons) 
+psychoman59 : met la petite blind. 20
+PABLOBARÇA : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 4h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à PABLOBARÇA.
+PABLOBARÇA a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : PABLOBARÇA (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°259680320613 : Tournoi #3974081551, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 11/02/2026 8:44:15 CET [11/02/2026 2:44:15 ET]
+Table '3974081551 1' 3-max Siège #2 est au bouton.
+Place 2: PABLOBARÇA (560 en jetons) 
+Place 3: psychoman59 (940 en jetons) 
+PABLOBARÇA : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Kc]
+PABLOBARÇA : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : PABLOBARÇA (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°259680320892 : Tournoi #3974081551, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 11/02/2026 8:44:20 CET [11/02/2026 2:44:20 ET]
+Table '3974081551 1' 3-max Siège #3 est au bouton.
+Place 2: PABLOBARÇA (540 en jetons) 
+Place 3: psychoman59 (960 en jetons) 
+psychoman59 : met la petite blind. 20
+PABLOBARÇA : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 8h]
+psychoman59 : suit. 20
+PABLOBARÇA : parole 
+*** FLOP *** [2s Ah 6d]
+PABLOBARÇA : parole 
+psychoman59 : parole 
+*** TOURNANT *** [2s Ah 6d] [Ks]
+PABLOBARÇA : parole 
+psychoman59 : mise. 80
+PABLOBARÇA : suit. 80
+*** RIVIÈRE *** [2s Ah 6d Ks] [4s]
+PABLOBARÇA : mise. 420 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (420) sont retournés à PABLOBARÇA.
+PABLOBARÇA a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [2s Ah 6d Ks 4s]
+Siège 2 : PABLOBARÇA (grosse blind) a remporté (240)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°259680322134 : Tournoi #3974081551, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/02/2026 8:44:40 CET [11/02/2026 2:44:40 ET]
+Table '3974081551 1' 3-max Siège #2 est au bouton.
+Place 2: PABLOBARÇA (660 en jetons) 
+Place 3: psychoman59 (840 en jetons) 
+PABLOBARÇA : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Kc]
+PABLOBARÇA : relance. 600 à 660 et est all-in.
+psychoman59 : suit. 600
+*** FLOP *** [6s 2c 5d]
+*** TOURNANT *** [6s 2c 5d] [4c]
+*** RIVIÈRE *** [6s 2c 5d 4c] [Ad]
+*** ABATTAGE ***
+psychoman59 : montre [Kd Kc] (une paire de Rois)
+PABLOBARÇA : montre [3d 3s] (une suite, Deux à Six)
+PABLOBARÇA a remporté 1320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1320 | Commission 0 
+Tableau [6s 2c 5d 4c Ad]
+Siège 2 : PABLOBARÇA (bouton) (petite blind) a montré [3d 3s] et a gagné (1320) avec une suite, Deux à Six
+Siège 3 : psychoman59 (grosse blind) a montré [Kd Kc] et a perdu avec une paire de Rois
+
+
+
+Main PokerStars n°259680322880 : Tournoi #3974081551, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/02/2026 8:44:53 CET [11/02/2026 2:44:53 ET]
+Table '3974081551 1' 3-max Siège #3 est au bouton.
+Place 2: PABLOBARÇA (1320 en jetons) 
+Place 3: psychoman59 (180 en jetons) 
+psychoman59 : met la petite blind. 30
+PABLOBARÇA : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 8s]
+psychoman59 : relance. 120 à 180 et est all-in.
+PABLOBARÇA : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : PABLOBARÇA (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°259680323419 : Tournoi #3974081551, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/02/2026 8:45:01 CET [11/02/2026 2:45:01 ET]
+Table '3974081551 1' 3-max Siège #2 est au bouton.
+Place 2: PABLOBARÇA (1260 en jetons) 
+Place 3: psychoman59 (240 en jetons) 
+PABLOBARÇA : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 6h]
+PABLOBARÇA : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : PABLOBARÇA (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°259680323655 : Tournoi #3974081551, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/02/2026 8:45:06 CET [11/02/2026 2:45:06 ET]
+Table '3974081551 1' 3-max Siège #3 est au bouton.
+Place 2: PABLOBARÇA (1230 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+psychoman59 : met la petite blind. 30
+PABLOBARÇA : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Ah]
+psychoman59 : relance. 210 à 270 et est all-in.
+PABLOBARÇA : suit. 210
+*** FLOP *** [8s 5d Qh]
+*** TOURNANT *** [8s 5d Qh] [7h]
+*** RIVIÈRE *** [8s 5d Qh 7h] [Kc]
+*** ABATTAGE ***
+PABLOBARÇA : montre [8c Ac] (une paire de Huit)
+psychoman59 : montre [6c Ah] (Hauteur As)
+PABLOBARÇA a remporté 540  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+PABLOBARÇA remporte le tournoi et reçoit 1.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [8s 5d Qh 7h Kc]
+Siège 2 : PABLOBARÇA (grosse blind) a montré [8c Ac] et a gagné (540) avec une paire de Huit
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [6c Ah] et a perdu avec Hauteur As
+
+
+

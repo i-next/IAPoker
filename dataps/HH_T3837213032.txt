@@ -1,0 +1,916 @@
+﻿Main PokerStars n°253985402243 : Tournoi #3837213032, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 23/12/2024 11:17:43 CET [23/12/2024 5:17:43 ET]
+Table '3837213032 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: javicanuto (500 en jetons) 
+Place 3: realpower453 (500 en jetons) 
+javicanuto : met la petite blind. 10
+realpower453 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 9c]
+psychoman59 : passe. 
+javicanuto : suit. 10
+realpower453 : parole 
+*** FLOP *** [Qc Ah 5s]
+javicanuto : parole 
+realpower453 : mise. 20
+javicanuto : passe. 
+Personne n'a suivi. (20) sont retournés à realpower453.
+realpower453 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Qc Ah 5s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : javicanuto (petite blind) s'est couché. sur le Flop
+Siège 3 : realpower453 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°253985403479 : Tournoi #3837213032, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 23/12/2024 11:17:55 CET [23/12/2024 5:17:55 ET]
+Table '3837213032 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: javicanuto (480 en jetons) 
+Place 3: realpower453 (520 en jetons) 
+realpower453 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 4c]
+javicanuto : suit. 20
+realpower453 : relance. 20 à 40
+psychoman59 : passe. 
+javicanuto : suit. 20
+*** FLOP *** [3d Ad Tc]
+realpower453 : mise. 20
+javicanuto : suit. 20
+*** TOURNANT *** [3d Ad Tc] [2h]
+realpower453 : mise. 20
+javicanuto : suit. 20
+*** RIVIÈRE *** [3d Ad Tc 2h] [6c]
+realpower453 : mise. 20
+javicanuto : suit. 20
+*** ABATTAGE ***
+realpower453 : montre [Ts 3s] (double paire, Dix et Trois)
+javicanuto : cache la main perdante. 
+realpower453 a remporté 220  lors du pot .
+*** SYNTHÈSE ***
+Pot total 220 | Commission 0 
+Tableau [3d Ad Tc 2h 6c]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : javicanuto (bouton) a caché la main perdante. [Td 9h]
+Siège 3 : realpower453 (petite blind) a montré [Ts 3s] et a gagné (220) avec double paire, Dix et Trois
+
+
+
+Main PokerStars n°253985406499 : Tournoi #3837213032, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 23/12/2024 11:18:22 CET [23/12/2024 5:18:22 ET]
+Table '3837213032 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (480 en jetons) 
+Place 2: javicanuto (380 en jetons) 
+Place 3: realpower453 (640 en jetons) 
+psychoman59 : met la petite blind. 10
+javicanuto : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Kh]
+realpower453 : suit. 20
+psychoman59 : suit. 10
+javicanuto : parole 
+*** FLOP *** [5s 8h 4d]
+psychoman59 : parole 
+javicanuto : parole 
+realpower453 : mise. 80
+psychoman59 : passe. 
+javicanuto : passe. 
+Personne n'a suivi. (80) sont retournés à realpower453.
+realpower453 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [5s 8h 4d]
+Siège 1 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 2 : javicanuto (grosse blind) s'est couché. sur le Flop
+Siège 3 : realpower453 (bouton) a remporté (60)
+
+
+
+Main PokerStars n°253985409218 : Tournoi #3837213032, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 23/12/2024 11:18:49 CET [23/12/2024 5:18:49 ET]
+Table '3837213032 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (460 en jetons) 
+Place 2: javicanuto (360 en jetons) 
+Place 3: realpower453 (680 en jetons) 
+javicanuto : met la petite blind. 10
+realpower453 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Qh]
+psychoman59 : passe. 
+javicanuto : relance. 20 à 40
+realpower453 : suit. 20
+*** FLOP *** [2s 8h 2d]
+javicanuto : mise. 20
+realpower453 : suit. 20
+*** TOURNANT *** [2s 8h 2d] [4c]
+javicanuto : mise. 20
+realpower453 : relance. 40 à 60
+javicanuto : passe. 
+Personne n'a suivi. (40) sont retournés à realpower453.
+realpower453 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [2s 8h 2d 4c]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : javicanuto (petite blind) s'est couché. sur le Tournant
+Siège 3 : realpower453 (grosse blind) a remporté (160)
+
+
+
+Main PokerStars n°253985411416 : Tournoi #3837213032, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 23/12/2024 11:19:09 CET [23/12/2024 5:19:09 ET]
+Table '3837213032 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (460 en jetons) 
+Place 2: javicanuto (280 en jetons) 
+Place 3: realpower453 (760 en jetons) 
+realpower453 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 2d]
+javicanuto : relance. 20 à 40
+realpower453 : relance. 20 à 60
+psychoman59 : passe. 
+javicanuto : suit. 20
+*** FLOP *** [Ks 8c 6c]
+realpower453 : parole 
+javicanuto : parole 
+*** TOURNANT *** [Ks 8c 6c] [7s]
+realpower453 : mise. 20
+javicanuto : suit. 20
+*** RIVIÈRE *** [Ks 8c 6c 7s] [Kh]
+realpower453 : parole 
+javicanuto : mise. 40
+realpower453 : passe. 
+Personne n'a suivi. (40) sont retournés à javicanuto.
+javicanuto a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Ks 8c 6c 7s Kh]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : javicanuto (bouton) a remporté (180)
+Siège 3 : realpower453 (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°253985414117 : Tournoi #3837213032, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 23/12/2024 11:19:34 CET [23/12/2024 5:19:34 ET]
+Table '3837213032 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (440 en jetons) 
+Place 2: javicanuto (380 en jetons) 
+Place 3: realpower453 (680 en jetons) 
+psychoman59 : met la petite blind. 10
+javicanuto : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 5d]
+realpower453 : suit. 20
+psychoman59 : suit. 10
+javicanuto : parole 
+*** FLOP *** [9d Tc 9c]
+psychoman59 : parole 
+javicanuto : parole 
+realpower453 : mise. 40
+psychoman59 : passe. 
+javicanuto : passe. 
+Personne n'a suivi. (40) sont retournés à realpower453.
+realpower453 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [9d Tc 9c]
+Siège 1 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 2 : javicanuto (grosse blind) s'est couché. sur le Flop
+Siège 3 : realpower453 (bouton) a remporté (60)
+
+
+
+Main PokerStars n°253985415935 : Tournoi #3837213032, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 23/12/2024 11:19:51 CET [23/12/2024 5:19:51 ET]
+Table '3837213032 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (420 en jetons) 
+Place 2: javicanuto (360 en jetons) 
+Place 3: realpower453 (720 en jetons) 
+javicanuto : met la petite blind. 10
+realpower453 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 5c]
+psychoman59 : suit. 20
+javicanuto : suit. 10
+realpower453 : relance. 20 à 40
+psychoman59 : suit. 20
+javicanuto : suit. 20
+*** FLOP *** [Kc 3c 5h]
+javicanuto : parole 
+realpower453 : parole 
+psychoman59 : mise. 120
+javicanuto : passe. 
+realpower453 : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Kc 3c 5h]
+Siège 1 : psychoman59 (bouton) a remporté (120)
+Siège 2 : javicanuto (petite blind) s'est couché. sur le Flop
+Siège 3 : realpower453 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°253985418453 : Tournoi #3837213032, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 23/12/2024 11:20:15 CET [23/12/2024 5:20:15 ET]
+Table '3837213032 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: javicanuto (320 en jetons) 
+Place 3: realpower453 (680 en jetons) 
+realpower453 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Qh]
+javicanuto : relance. 20 à 40
+realpower453 : suit. 30
+psychoman59 : passe. 
+*** FLOP *** [5d Tc 8d]
+realpower453 : parole 
+javicanuto : parole 
+*** TOURNANT *** [5d Tc 8d] [6c]
+realpower453 : mise. 20
+javicanuto : suit. 20
+*** RIVIÈRE *** [5d Tc 8d 6c] [6s]
+realpower453 : parole 
+javicanuto : parole 
+*** ABATTAGE ***
+realpower453 : montre [4c Ks] (une paire de Six)
+javicanuto : montre [9c Ah] (une paire de Six - As kicker)
+javicanuto a remporté 140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [5d Tc 8d 6c 6s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : javicanuto (bouton) a montré [9c Ah] et a gagné (140) avec une paire de Six
+Siège 3 : realpower453 (petite blind) a montré [4c Ks] et a perdu avec une paire de Six
+
+
+
+Main PokerStars n°253985420100 : Tournoi #3837213032, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 23/12/2024 11:20:31 CET [23/12/2024 5:20:31 ET]
+Table '3837213032 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (480 en jetons) 
+Place 2: javicanuto (400 en jetons) 
+Place 3: realpower453 (620 en jetons) 
+psychoman59 : met la petite blind. 10
+javicanuto : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Kc]
+realpower453 : passe. 
+psychoman59 : suit. 10
+javicanuto : parole 
+*** FLOP *** [Ac 9s Jd]
+psychoman59 : parole 
+javicanuto : parole 
+*** TOURNANT *** [Ac 9s Jd] [9d]
+psychoman59 : parole 
+javicanuto : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à javicanuto.
+javicanuto a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Ac 9s Jd 9d]
+Siège 1 : psychoman59 (petite blind) s'est couché. sur le Tournant
+Siège 2 : javicanuto (grosse blind) a remporté (40)
+Siège 3 : realpower453 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°253985422484 : Tournoi #3837213032, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 23/12/2024 11:20:52 CET [23/12/2024 5:20:52 ET]
+Table '3837213032 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (460 en jetons) 
+Place 2: javicanuto (420 en jetons) 
+Place 3: realpower453 (620 en jetons) 
+javicanuto : met la petite blind. 15
+realpower453 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Jd]
+psychoman59 : passe. 
+javicanuto : suit. 15
+realpower453 : parole 
+*** FLOP *** [Ks Qs 4c]
+javicanuto : parole 
+realpower453 : mise. 30
+javicanuto est connecté 
+javicanuto est déconnecté 
+javicanuto est connecté 
+javicanuto a dépassé le temps imparti.
+javicanuto : passe. 
+javicanuto ne joue pas.
+Personne n'a suivi. (30) sont retournés à realpower453.
+realpower453 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ks Qs 4c]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : javicanuto (petite blind) s'est couché. sur le Flop
+Siège 3 : realpower453 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°253985427827 : Tournoi #3837213032, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 23/12/2024 11:21:42 CET [23/12/2024 5:21:42 ET]
+Table '3837213032 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (460 en jetons) 
+Place 2: javicanuto (390 en jetons) ne joue pas.
+Place 3: realpower453 (650 en jetons) 
+realpower453 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 6d]
+javicanuto : passe. 
+realpower453 : relance. 30 à 60
+psychoman59 : suit. 30
+*** FLOP *** [5c 4s Ac]
+realpower453 : mise. 30
+javicanuto est revenu.
+psychoman59 : relance. 90 à 120
+realpower453 : suit. 90
+*** TOURNANT *** [5c 4s Ac] [9c]
+realpower453 : parole 
+psychoman59 : mise. 180
+javicanuto est déconnecté 
+javicanuto est déconnecté 
+realpower453 : passe. 
+Personne n'a suivi. (180) sont retournés à psychoman59.
+psychoman59 a remporté 360  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [5c 4s Ac 9c]
+Siège 1 : psychoman59 (grosse blind) a remporté (360)
+Siège 2 : javicanuto (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : realpower453 (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°253985431474 : Tournoi #3837213032, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 23/12/2024 11:22:15 CET [23/12/2024 5:22:15 ET]
+Table '3837213032 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (640 en jetons) 
+Place 2: javicanuto (390 en jetons) 
+Place 3: realpower453 (470 en jetons) 
+psychoman59 : met la petite blind. 15
+javicanuto : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 6h]
+realpower453 : suit. 30
+psychoman59 : passe. 
+javicanuto : relance. 30 à 60
+realpower453 : suit. 30
+*** FLOP *** [Kh Th Qc]
+javicanuto : mise. 30
+realpower453 : passe. 
+Personne n'a suivi. (30) sont retournés à javicanuto.
+javicanuto a remporté 135  lors du pot .
+*** SYNTHÈSE ***
+Pot total 135 | Commission 0 
+Tableau [Kh Th Qc]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : javicanuto (grosse blind) a remporté (135)
+Siège 3 : realpower453 (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°253985435649 : Tournoi #3837213032, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 23/12/2024 11:22:54 CET [23/12/2024 5:22:54 ET]
+Table '3837213032 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (625 en jetons) 
+Place 2: javicanuto (465 en jetons) 
+Place 3: realpower453 (410 en jetons) 
+javicanuto : met la petite blind. 15
+realpower453 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 6c]
+psychoman59 : relance. 595 à 625 et est all-in.
+javicanuto : passe. 
+realpower453 : passe. 
+Personne n'a suivi. (595) sont retournés à psychoman59.
+psychoman59 a remporté 75  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : psychoman59 (bouton) a remporté (75)
+Siège 2 : javicanuto (petite blind) s'est couché. avant Flop
+Siège 3 : realpower453 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°253985436576 : Tournoi #3837213032, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 23/12/2024 11:23:03 CET [23/12/2024 5:23:03 ET]
+Table '3837213032 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (670 en jetons) 
+Place 2: javicanuto (450 en jetons) 
+Place 3: realpower453 (380 en jetons) 
+realpower453 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 8s]
+javicanuto : suit. 30
+realpower453 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Th 5h Jd]
+realpower453 : mise. 30
+psychoman59 : passe. 
+javicanuto : suit. 30
+*** TOURNANT *** [Th 5h Jd] [9c]
+realpower453 : mise. 30
+javicanuto : suit. 30
+*** RIVIÈRE *** [Th 5h Jd 9c] [5c]
+realpower453 : parole 
+javicanuto : parole 
+*** ABATTAGE ***
+realpower453 : montre [As 7c] (une paire de Cinq)
+javicanuto : montre [Ah Qc] (une paire de Cinq - As+Dame kicker)
+javicanuto a remporté 210  lors du pot .
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Tableau [Th 5h Jd 9c 5c]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : javicanuto (bouton) a montré [Ah Qc] et a gagné (210) avec une paire de Cinq
+Siège 3 : realpower453 (petite blind) a montré [As 7c] et a perdu avec une paire de Cinq
+
+
+
+Main PokerStars n°253985439498 : Tournoi #3837213032, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 23/12/2024 11:23:30 CET [23/12/2024 5:23:30 ET]
+Table '3837213032 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (640 en jetons) 
+Place 2: javicanuto (570 en jetons) 
+Place 3: realpower453 (290 en jetons) 
+psychoman59 : met la petite blind. 15
+javicanuto : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 8s]
+realpower453 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à javicanuto.
+javicanuto a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : javicanuto (grosse blind) a remporté (30)
+Siège 3 : realpower453 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°253985440299 : Tournoi #3837213032, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 23/12/2024 11:23:37 CET [23/12/2024 5:23:37 ET]
+Table '3837213032 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (625 en jetons) 
+Place 2: javicanuto (585 en jetons) 
+Place 3: realpower453 (290 en jetons) 
+javicanuto : met la petite blind. 15
+realpower453 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 7d]
+psychoman59 : relance. 595 à 625 et est all-in.
+javicanuto : passe. 
+realpower453 : passe. 
+Personne n'a suivi. (595) sont retournés à psychoman59.
+psychoman59 a remporté 75  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : psychoman59 (bouton) a remporté (75)
+Siège 2 : javicanuto (petite blind) s'est couché. avant Flop
+Siège 3 : realpower453 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°253985441708 : Tournoi #3837213032, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 23/12/2024 11:23:50 CET [23/12/2024 5:23:50 ET]
+Table '3837213032 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (670 en jetons) 
+Place 2: javicanuto (570 en jetons) 
+Place 3: realpower453 (260 en jetons) 
+realpower453 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Kd]
+javicanuto : passe. 
+realpower453 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [7d 4c 8d]
+realpower453 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [7d 4c 8d] [Th]
+realpower453 : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à realpower453.
+realpower453 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [7d 4c 8d Th]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : javicanuto (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : realpower453 (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°253985444270 : Tournoi #3837213032, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 23/12/2024 11:24:13 CET [23/12/2024 5:24:13 ET]
+Table '3837213032 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (630 en jetons) 
+Place 2: javicanuto (570 en jetons) 
+Place 3: realpower453 (300 en jetons) 
+psychoman59 : met la petite blind. 20
+javicanuto : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 2h]
+realpower453 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à javicanuto.
+javicanuto a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : javicanuto (grosse blind) a remporté (40)
+Siège 3 : realpower453 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°253985444932 : Tournoi #3837213032, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 23/12/2024 11:24:19 CET [23/12/2024 5:24:19 ET]
+Table '3837213032 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (610 en jetons) 
+Place 2: javicanuto (590 en jetons) 
+Place 3: realpower453 (300 en jetons) 
+javicanuto : met la petite blind. 20
+realpower453 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 8d]
+psychoman59 : passe. 
+javicanuto : suit. 20
+realpower453 : relance. 40 à 80
+javicanuto : suit. 40
+*** FLOP *** [6s 9d 4s]
+javicanuto : parole 
+realpower453 : mise. 80
+javicanuto : suit. 80
+*** TOURNANT *** [6s 9d 4s] [3c]
+javicanuto : parole 
+realpower453 : mise. 40
+javicanuto : suit. 40
+*** RIVIÈRE *** [6s 9d 4s 3c] [7d]
+javicanuto : parole 
+realpower453 : mise. 100 et est all-in.
+javicanuto : suit. 100
+*** ABATTAGE ***
+realpower453 : montre [5d 5s] (une suite, Trois à Sept)
+javicanuto : montre [4d Ad] (une paire de Quatre)
+realpower453 a remporté 600  lors du pot .
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [6s 9d 4s 3c 7d]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : javicanuto (petite blind) a montré [4d Ad] et a perdu avec une paire de Quatre
+Siège 3 : realpower453 (grosse blind) a montré [5d 5s] et a gagné (600) avec une suite, Trois à Sept
+
+
+
+Main PokerStars n°253985447729 : Tournoi #3837213032, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 23/12/2024 11:24:45 CET [23/12/2024 5:24:45 ET]
+Table '3837213032 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (610 en jetons) 
+Place 2: javicanuto (290 en jetons) 
+Place 3: realpower453 (600 en jetons) 
+realpower453 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Qh]
+javicanuto : suit. 40
+realpower453 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Jc Qd As]
+realpower453 : mise. 40
+psychoman59 : suit. 40
+javicanuto : passe. 
+*** TOURNANT *** [Jc Qd As] [2d]
+realpower453 : parole 
+psychoman59 : mise. 100
+realpower453 : passe. 
+Personne n'a suivi. (100) sont retournés à psychoman59.
+psychoman59 a remporté 200  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [Jc Qd As 2d]
+Siège 1 : psychoman59 (grosse blind) a remporté (200)
+Siège 2 : javicanuto (bouton) s'est couché. sur le Flop
+Siège 3 : realpower453 (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°253985450227 : Tournoi #3837213032, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 23/12/2024 11:25:09 CET [23/12/2024 5:25:09 ET]
+Table '3837213032 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (730 en jetons) 
+Place 2: javicanuto (250 en jetons) 
+Place 3: realpower453 (520 en jetons) 
+psychoman59 : met la petite blind. 20
+javicanuto : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 4c]
+realpower453 : suit. 40
+psychoman59 : suit. 20
+javicanuto : parole 
+*** FLOP *** [6c Qc 9h]
+psychoman59 : parole 
+javicanuto : parole 
+realpower453 : mise. 80
+psychoman59 : suit. 80
+javicanuto : passe. 
+*** TOURNANT *** [6c Qc 9h] [Kh]
+psychoman59 : parole 
+realpower453 : parole 
+*** RIVIÈRE *** [6c Qc 9h Kh] [3s]
+psychoman59 : parole 
+realpower453 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Jc 4c] (Hauteur Roi)
+realpower453 : montre [9d 8s] (une paire de Neuf)
+realpower453 a remporté 280  lors du pot .
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Tableau [6c Qc 9h Kh 3s]
+Siège 1 : psychoman59 (petite blind) a montré [Jc 4c] et a perdu avec Hauteur Roi
+Siège 2 : javicanuto (grosse blind) s'est couché. sur le Flop
+Siège 3 : realpower453 (bouton) a montré [9d 8s] et a gagné (280) avec une paire de Neuf
+
+
+
+Main PokerStars n°253985453122 : Tournoi #3837213032, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 23/12/2024 11:25:35 CET [23/12/2024 5:25:35 ET]
+Table '3837213032 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (610 en jetons) 
+Place 2: javicanuto (210 en jetons) 
+Place 3: realpower453 (680 en jetons) 
+javicanuto : met la petite blind. 20
+realpower453 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Qd]
+psychoman59 : suit. 40
+javicanuto : suit. 20
+realpower453 : relance. 40 à 80
+psychoman59 : suit. 40
+javicanuto : suit. 40
+*** FLOP *** [6d Ts 6h]
+javicanuto : parole 
+realpower453 : mise. 40
+psychoman59 : suit. 40
+javicanuto : passe. 
+*** TOURNANT *** [6d Ts 6h] [4d]
+realpower453 : parole 
+psychoman59 : mise. 490 et est all-in.
+realpower453 : passe. 
+Personne n'a suivi. (490) sont retournés à psychoman59.
+psychoman59 a remporté 320  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [6d Ts 6h 4d]
+Siège 1 : psychoman59 (bouton) a remporté (320)
+Siège 2 : javicanuto (petite blind) s'est couché. sur le Flop
+Siège 3 : realpower453 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°253985455760 : Tournoi #3837213032, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 23/12/2024 11:25:59 CET [23/12/2024 5:25:59 ET]
+Table '3837213032 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (810 en jetons) 
+Place 2: javicanuto (130 en jetons) 
+Place 3: realpower453 (560 en jetons) 
+realpower453 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Ac]
+javicanuto : relance. 90 à 130 et est all-in.
+realpower453 : suit. 110
+psychoman59 : suit. 90
+*** FLOP *** [Qs 6s 9s]
+realpower453 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Qs 6s 9s] [5d]
+realpower453 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Qs 6s 9s 5d] [5c]
+realpower453 : mise. 80
+psychoman59 : suit. 80
+*** ABATTAGE ***
+realpower453 : montre [8c 8d] (double paire, Huit et Cinq)
+psychoman59 : cache la main perdante. 
+realpower453 a remporté 160  parallèle lors du pot .
+javicanuto : montre [9h Kc] (double paire, Neuf et Cinq)
+javicanuto a remporté 390  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 550 Principal pot 390. Parallèle pot 160. | Commission 0 
+Tableau [Qs 6s 9s 5d 5c]
+Siège 1 : psychoman59 (grosse blind) a caché la main perdante. [7c Ac]
+Siège 2 : javicanuto (bouton) a montré [9h Kc] et a gagné (390) avec double paire, Neuf et Cinq
+Siège 3 : realpower453 (petite blind) a montré [8c 8d] et a gagné (160) avec double paire, Huit et Cinq
+
+
+
+Main PokerStars n°253985458068 : Tournoi #3837213032, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 23/12/2024 11:26:20 CET [23/12/2024 5:26:20 ET]
+Table '3837213032 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (600 en jetons) 
+Place 2: javicanuto (390 en jetons) 
+Place 3: realpower453 (510 en jetons) 
+psychoman59 : met la petite blind. 20
+javicanuto : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Ah]
+realpower453 : suit. 40
+psychoman59 : relance. 560 à 600 et est all-in.
+javicanuto : passe. 
+realpower453 : passe. 
+Personne n'a suivi. (560) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (petite blind) a remporté (120)
+Siège 2 : javicanuto (grosse blind) s'est couché. avant Flop
+Siège 3 : realpower453 (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°253985459737 : Tournoi #3837213032, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 23/12/2024 11:26:36 CET [23/12/2024 5:26:36 ET]
+Table '3837213032 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (680 en jetons) 
+Place 2: javicanuto (350 en jetons) 
+Place 3: realpower453 (470 en jetons) 
+javicanuto : met la petite blind. 20
+realpower453 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 6s]
+psychoman59 : passe. 
+javicanuto : suit. 20
+realpower453 : parole 
+*** FLOP *** [Tc 6c 4h]
+javicanuto : parole 
+realpower453 : mise. 40
+javicanuto : relance. 40 à 80
+realpower453 : suit. 40
+*** TOURNANT *** [Tc 6c 4h] [6d]
+javicanuto : mise. 230 et est all-in.
+realpower453 : passe. 
+Personne n'a suivi. (230) sont retournés à javicanuto.
+javicanuto a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Tc 6c 4h 6d]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : javicanuto (petite blind) a remporté (240)
+Siège 3 : realpower453 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°253985461958 : Tournoi #3837213032, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 23/12/2024 11:26:56 CET [23/12/2024 5:26:56 ET]
+Table '3837213032 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (680 en jetons) 
+Place 2: javicanuto (470 en jetons) 
+Place 3: realpower453 (350 en jetons) 
+realpower453 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 5s]
+javicanuto : passe. 
+realpower453 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Qs 7s 9s]
+realpower453 : mise. 120
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à realpower453.
+realpower453 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Qs 7s 9s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : javicanuto (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : realpower453 (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°253985463367 : Tournoi #3837213032, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 23/12/2024 11:27:09 CET [23/12/2024 5:27:09 ET]
+Table '3837213032 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (620 en jetons) 
+Place 2: javicanuto (470 en jetons) 
+Place 3: realpower453 (410 en jetons) 
+psychoman59 : met la petite blind. 30
+javicanuto : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Ks]
+realpower453 : passe. 
+psychoman59 : suit. 30
+javicanuto : relance. 60 à 120
+psychoman59 : suit. 60
+*** FLOP *** [Ad 6h As]
+psychoman59 : parole 
+javicanuto : parole 
+*** TOURNANT *** [Ad 6h As] [Th]
+psychoman59 : parole 
+javicanuto : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à javicanuto.
+javicanuto a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Ad 6h As Th]
+Siège 1 : psychoman59 (petite blind) s'est couché. sur le Tournant
+Siège 2 : javicanuto (grosse blind) a remporté (240)
+Siège 3 : realpower453 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°253985465754 : Tournoi #3837213032, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 23/12/2024 11:27:31 CET [23/12/2024 5:27:31 ET]
+Table '3837213032 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: javicanuto (590 en jetons) 
+Place 3: realpower453 (410 en jetons) 
+javicanuto : met la petite blind. 30
+realpower453 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Ah]
+psychoman59 : relance. 60 à 120
+javicanuto : passe. 
+realpower453 : suit. 60
+*** FLOP *** [Kd 4h 5d]
+realpower453 : mise. 120
+psychoman59 : relance. 260 à 380 et est all-in.
+realpower453 : suit. 170 et est all-in.
+Personne n'a suivi. (90) sont retournés à psychoman59.
+*** TOURNANT *** [Kd 4h 5d] [Qd]
+*** RIVIÈRE *** [Kd 4h 5d Qd] [Kh]
+*** ABATTAGE ***
+realpower453 : montre [Ac Ks] (un brelan de Rois)
+psychoman59 : montre [5h Ah] (double paire, Rois et Cinq)
+realpower453 a remporté 850  lors du pot .
+*** SYNTHÈSE ***
+Pot total 850 | Commission 0 
+Tableau [Kd 4h 5d Qd Kh]
+Siège 1 : psychoman59 (bouton) a montré [5h Ah] et a perdu avec double paire, Rois et Cinq
+Siège 2 : javicanuto (petite blind) s'est couché. avant Flop
+Siège 3 : realpower453 (grosse blind) a montré [Ac Ks] et a gagné (850) avec un brelan de Rois
+
+
+
+Main PokerStars n°253985468164 : Tournoi #3837213032, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 23/12/2024 11:27:53 CET [23/12/2024 5:27:53 ET]
+Table '3837213032 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (90 en jetons) 
+Place 2: javicanuto (560 en jetons) 
+Place 3: realpower453 (850 en jetons) 
+realpower453 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 6d]
+javicanuto : suit. 60
+realpower453 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Js 7h Qd]
+realpower453 : parole 
+psychoman59 : parole 
+javicanuto : parole 
+*** TOURNANT *** [Js 7h Qd] [9s]
+realpower453 : mise. 60
+psychoman59 : passe. 
+javicanuto : relance. 120 à 180
+realpower453 : passe. 
+Personne n'a suivi. (120) sont retournés à javicanuto.
+javicanuto a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [Js 7h Qd 9s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : javicanuto (bouton) a remporté (300)
+Siège 3 : realpower453 (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°253985471749 : Tournoi #3837213032, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 23/12/2024 11:28:26 CET [23/12/2024 5:28:26 ET]
+Table '3837213032 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (30 en jetons) 
+Place 2: javicanuto (740 en jetons) 
+Place 3: realpower453 (730 en jetons) 
+psychoman59 : met la petite blind. 30 et est all-in.
+javicanuto : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Qd]
+realpower453 : suit. 60
+javicanuto : relance. 60 à 120
+realpower453 est connecté 
+realpower453 est déconnecté 
+realpower453 est connecté 
+realpower453 : suit. 60
+*** FLOP *** [Td Ac Ah]
+javicanuto : mise. 120
+realpower453 : passe. 
+Personne n'a suivi. (120) sont retournés à javicanuto.
+*** TOURNANT *** [Td Ac Ah] [4d]
+*** RIVIÈRE *** [Td Ac Ah 4d] [4c]
+*** ABATTAGE ***
+javicanuto : montre [As Kc] (un full, full aux As par les Quatre)
+javicanuto a remporté 180  parallèle lors du pot .
+psychoman59 : montre [Kd Qd] (double paire, As et Quatre)
+javicanuto a remporté 90  principal lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 270 Principal pot 90. Parallèle pot 180. | Commission 0 
+Tableau [Td Ac Ah 4d 4c]
+Siège 1 : psychoman59 (petite blind) a montré [Kd Qd] et a perdu avec double paire, As et Quatre
+Siège 2 : javicanuto (grosse blind) a montré [As Kc] et a gagné (270) avec un full, full aux As par les Quatre
+Siège 3 : realpower453 (bouton) s'est couché. sur le Flop
+
+
+

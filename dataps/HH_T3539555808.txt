@@ -1,0 +1,502 @@
+﻿Main PokerStars n°241470358490 : Tournoi #3539555808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 29/01/2023 11:45:04 CET [29/01/2023 5:45:04 ET]
+Table '3539555808 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Arnuch (300 en jetons) 
+Place 3: POBOY_BRO (300 en jetons) 
+Arnuch : met la petite blind. 10
+POBOY_BRO : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 9d]
+psychoman59 : suit. 20
+Arnuch : passe. 
+POBOY_BRO : relance. 20 à 40
+psychoman59 : suit. 20
+*** FLOP *** [2s 5c 6c]
+POBOY_BRO : parole 
+psychoman59 : parole 
+*** TOURNANT *** [2s 5c 6c] [4s]
+POBOY_BRO : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [2s 5c 6c 4s] [Th]
+POBOY_BRO : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+POBOY_BRO : montre [Ts Kd] (une paire de Dix)
+psychoman59 : cache la main perdante. 
+POBOY_BRO a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [2s 5c 6c 4s Th]
+Siège 1 : psychoman59 (bouton) a caché la main perdante. [Kh 9d]
+Siège 2 : Arnuch (petite blind) s'est couché. avant Flop
+Siège 3 : POBOY_BRO (grosse blind) a montré [Ts Kd] et a gagné (90) avec une paire de Dix
+
+
+
+Main PokerStars n°241470364541 : Tournoi #3539555808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 29/01/2023 11:45:38 CET [29/01/2023 5:45:38 ET]
+Table '3539555808 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (260 en jetons) 
+Place 2: Arnuch (290 en jetons) 
+Place 3: POBOY_BRO (350 en jetons) 
+POBOY_BRO : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 9s]
+Arnuch : relance. 270 à 290 et est all-in.
+POBOY_BRO : relance. 60 à 350 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à POBOY_BRO.
+*** FLOP *** [7s 4d 8c]
+*** TOURNANT *** [7s 4d 8c] [6s]
+*** RIVIÈRE *** [7s 4d 8c 6s] [3c]
+*** ABATTAGE ***
+POBOY_BRO : montre [9c Ad] (Hauteur As)
+Arnuch : montre [As 6d] (une paire de Six)
+Arnuch a remporté 600  lors du pot .
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [7s 4d 8c 6s 3c]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Arnuch (bouton) a montré [As 6d] et a gagné (600) avec une paire de Six
+Siège 3 : POBOY_BRO (petite blind) a montré [9c Ad] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°241470367459 : Tournoi #3539555808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 29/01/2023 11:45:54 CET [29/01/2023 5:45:54 ET]
+Table '3539555808 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (240 en jetons) 
+Place 2: Arnuch (600 en jetons) 
+Place 3: POBOY_BRO (60 en jetons) 
+psychoman59 : met la petite blind. 10
+Arnuch : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 5c]
+POBOY_BRO : relance. 40 à 60 et est all-in.
+psychoman59 : passe. 
+Arnuch : suit. 40
+*** FLOP *** [Td Jc 3h]
+*** TOURNANT *** [Td Jc 3h] [9s]
+*** RIVIÈRE *** [Td Jc 3h 9s] [4s]
+*** ABATTAGE ***
+Arnuch : montre [Ah 9d] (une paire de Neuf)
+POBOY_BRO : montre [Ac 2s] (Hauteur As)
+Arnuch a remporté 130  lors du pot .
+POBOY_BRO a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Tableau [Td Jc 3h 9s 4s]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Arnuch (grosse blind) a montré [Ah 9d] et a gagné (130) avec une paire de Neuf
+Siège 3 : POBOY_BRO (bouton) a montré [Ac 2s] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°241470370689 : Tournoi #3539555808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 29/01/2023 11:46:12 CET [29/01/2023 5:46:12 ET]
+Table '3539555808 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (230 en jetons) 
+Place 2: Arnuch (670 en jetons) 
+Arnuch : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 6d]
+Arnuch : suit. 15
+psychoman59 : parole 
+*** FLOP *** [2d Kd 4s]
+psychoman59 : parole 
+Arnuch : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Arnuch.
+Arnuch a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [2d Kd 4s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : Arnuch (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°241470373266 : Tournoi #3539555808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 29/01/2023 11:46:27 CET [29/01/2023 5:46:27 ET]
+Table '3539555808 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (200 en jetons) 
+Place 2: Arnuch (700 en jetons) 
+psychoman59 : met la petite blind. 15
+Arnuch : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 4s]
+psychoman59 : relance. 170 à 200 et est all-in.
+Arnuch : passe. 
+Personne n'a suivi. (170) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 2 : Arnuch (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241470375195 : Tournoi #3539555808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 29/01/2023 11:46:37 CET [29/01/2023 5:46:37 ET]
+Table '3539555808 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (230 en jetons) 
+Place 2: Arnuch (670 en jetons) 
+Arnuch : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Qc]
+Arnuch : relance. 640 à 670 et est all-in.
+psychoman59 : suit. 200 et est all-in.
+Personne n'a suivi. (440) sont retournés à Arnuch.
+*** FLOP *** [Kc 9s 7c]
+*** TOURNANT *** [Kc 9s 7c] [6s]
+*** RIVIÈRE *** [Kc 9s 7c 6s] [Th]
+*** ABATTAGE ***
+psychoman59 : montre [Qs Qc] (une paire de Dames)
+Arnuch : montre [Ts 4s] (une paire de Dix)
+psychoman59 a remporté 460  lors du pot .
+*** SYNTHÈSE ***
+Pot total 460 | Commission 0 
+Tableau [Kc 9s 7c 6s Th]
+Siège 1 : psychoman59 (grosse blind) a montré [Qs Qc] et a gagné (460) avec une paire de Dames
+Siège 2 : Arnuch (bouton) (petite blind) a montré [Ts 4s] et a perdu avec une paire de Dix
+
+
+
+Main PokerStars n°241470377377 : Tournoi #3539555808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 29/01/2023 11:46:50 CET [29/01/2023 5:46:50 ET]
+Table '3539555808 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (460 en jetons) 
+Place 2: Arnuch (440 en jetons) 
+psychoman59 : met la petite blind. 15
+Arnuch : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Ah]
+psychoman59 : relance. 430 à 460 et est all-in.
+Arnuch : passe. 
+Personne n'a suivi. (430) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 2 : Arnuch (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241470378505 : Tournoi #3539555808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 29/01/2023 11:46:56 CET [29/01/2023 5:46:56 ET]
+Table '3539555808 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (490 en jetons) 
+Place 2: Arnuch (410 en jetons) 
+Arnuch : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Kc]
+Arnuch : relance. 30 à 60
+psychoman59 : relance. 430 à 490 et est all-in.
+Arnuch : suit. 350 et est all-in.
+Personne n'a suivi. (80) sont retournés à psychoman59.
+*** FLOP *** [7c 3h Jc]
+*** TOURNANT *** [7c 3h Jc] [5d]
+*** RIVIÈRE *** [7c 3h Jc 5d] [4h]
+*** ABATTAGE ***
+psychoman59 : montre [Ah Kc] (Hauteur As)
+Arnuch : montre [4c Tc] (une paire de Quatre)
+Arnuch a remporté 820  lors du pot .
+*** SYNTHÈSE ***
+Pot total 820 | Commission 0 
+Tableau [7c 3h Jc 5d 4h]
+Siège 1 : psychoman59 (grosse blind) a montré [Ah Kc] et a perdu avec Hauteur As
+Siège 2 : Arnuch (bouton) (petite blind) a montré [4c Tc] et a gagné (820) avec une paire de Quatre
+
+
+
+Main PokerStars n°241470381609 : Tournoi #3539555808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 29/01/2023 11:47:13 CET [29/01/2023 5:47:13 ET]
+Table '3539555808 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (80 en jetons) 
+Place 2: Arnuch (820 en jetons) 
+psychoman59 : met la petite blind. 20
+Arnuch : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Tc]
+psychoman59 : relance. 40 à 80 et est all-in.
+Arnuch : suit. 40
+*** FLOP *** [6h 6s Ah]
+*** TOURNANT *** [6h 6s Ah] [4s]
+*** RIVIÈRE *** [6h 6s Ah 4s] [6d]
+*** ABATTAGE ***
+Arnuch : montre [Qh 8c] (un brelan de Six)
+psychoman59 : montre [Kc Tc] (un brelan de Six - As+Roi kicker)
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [6h 6s Ah 4s 6d]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Kc Tc] et a gagné (160) avec un brelan de Six
+Siège 2 : Arnuch (grosse blind) a montré [Qh 8c] et a perdu avec un brelan de Six
+
+
+
+Main PokerStars n°241470383711 : Tournoi #3539555808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 29/01/2023 11:47:25 CET [29/01/2023 5:47:25 ET]
+Table '3539555808 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (160 en jetons) 
+Place 2: Arnuch (740 en jetons) 
+Arnuch : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Js]
+Arnuch : relance. 700 à 740 et est all-in.
+psychoman59 : suit. 120 et est all-in.
+Personne n'a suivi. (580) sont retournés à Arnuch.
+*** FLOP *** [4d Jc 8s]
+*** TOURNANT *** [4d Jc 8s] [6d]
+*** RIVIÈRE *** [4d Jc 8s 6d] [3s]
+*** ABATTAGE ***
+psychoman59 : montre [Qd Js] (une paire de Valets)
+Arnuch : montre [As 2s] (Hauteur As)
+psychoman59 a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [4d Jc 8s 6d 3s]
+Siège 1 : psychoman59 (grosse blind) a montré [Qd Js] et a gagné (320) avec une paire de Valets
+Siège 2 : Arnuch (bouton) (petite blind) a montré [As 2s] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°241470385717 : Tournoi #3539555808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 29/01/2023 11:47:37 CET [29/01/2023 5:47:37 ET]
+Table '3539555808 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (320 en jetons) 
+Place 2: Arnuch (580 en jetons) 
+psychoman59 : met la petite blind. 20
+Arnuch : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Kh]
+psychoman59 : relance. 280 à 320 et est all-in.
+Arnuch : passe. 
+Personne n'a suivi. (280) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 2 : Arnuch (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241470386757 : Tournoi #3539555808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 29/01/2023 11:47:43 CET [29/01/2023 5:47:43 ET]
+Table '3539555808 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (360 en jetons) 
+Place 2: Arnuch (540 en jetons) 
+Arnuch : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Jd]
+Arnuch : relance. 500 à 540 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (500) sont retournés à Arnuch.
+Arnuch a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Arnuch (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°241470387749 : Tournoi #3539555808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 29/01/2023 11:47:48 CET [29/01/2023 5:47:48 ET]
+Table '3539555808 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (320 en jetons) 
+Place 2: Arnuch (580 en jetons) 
+psychoman59 : met la petite blind. 20
+Arnuch : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Kd]
+psychoman59 : relance. 280 à 320 et est all-in.
+Arnuch : passe. 
+Personne n'a suivi. (280) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 2 : Arnuch (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241470388640 : Tournoi #3539555808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 29/01/2023 11:47:53 CET [29/01/2023 5:47:53 ET]
+Table '3539555808 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (360 en jetons) 
+Place 2: Arnuch (540 en jetons) 
+Arnuch : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Ks]
+Arnuch : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 2 : Arnuch (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241470389290 : Tournoi #3539555808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 29/01/2023 11:47:57 CET [29/01/2023 5:47:57 ET]
+Table '3539555808 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (380 en jetons) 
+Place 2: Arnuch (520 en jetons) 
+psychoman59 : met la petite blind. 20
+Arnuch : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Ah]
+psychoman59 : relance. 340 à 380 et est all-in.
+Arnuch : passe. 
+Personne n'a suivi. (340) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 2 : Arnuch (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241470390517 : Tournoi #3539555808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 29/01/2023 11:48:04 CET [29/01/2023 5:48:04 ET]
+Table '3539555808 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (420 en jetons) 
+Place 2: Arnuch (480 en jetons) 
+Arnuch : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 9d]
+Arnuch : relance. 440 à 480 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (440) sont retournés à Arnuch.
+Arnuch a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Arnuch (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°241470392310 : Tournoi #3539555808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 29/01/2023 11:48:14 CET [29/01/2023 5:48:14 ET]
+Table '3539555808 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (380 en jetons) 
+Place 2: Arnuch (520 en jetons) 
+psychoman59 : met la petite blind. 30
+Arnuch : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 4h]
+psychoman59 : relance. 320 à 380 et est all-in.
+Arnuch : passe. 
+Personne n'a suivi. (320) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 2 : Arnuch (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241470393597 : Tournoi #3539555808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 29/01/2023 11:48:21 CET [29/01/2023 5:48:21 ET]
+Table '3539555808 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (440 en jetons) 
+Place 2: Arnuch (460 en jetons) 
+Arnuch : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 8h]
+Arnuch : relance. 400 à 460 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (400) sont retournés à Arnuch.
+Arnuch a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Arnuch (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°241470394617 : Tournoi #3539555808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 29/01/2023 11:48:26 CET [29/01/2023 5:48:26 ET]
+Table '3539555808 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (380 en jetons) 
+Place 2: Arnuch (520 en jetons) 
+psychoman59 : met la petite blind. 30
+Arnuch : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 4d]
+psychoman59 : relance. 320 à 380 et est all-in.
+Arnuch : passe. 
+Personne n'a suivi. (320) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 2 : Arnuch (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241470395907 : Tournoi #3539555808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 29/01/2023 11:48:34 CET [29/01/2023 5:48:34 ET]
+Table '3539555808 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (440 en jetons) 
+Place 2: Arnuch (460 en jetons) 
+Arnuch : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 4s]
+Arnuch : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 2 : Arnuch (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241470396771 : Tournoi #3539555808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 29/01/2023 11:48:39 CET [29/01/2023 5:48:39 ET]
+Table '3539555808 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (470 en jetons) 
+Place 2: Arnuch (430 en jetons) 
+psychoman59 : met la petite blind. 30
+Arnuch : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 4s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Arnuch.
+Arnuch a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : Arnuch (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°241470397593 : Tournoi #3539555808, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 29/01/2023 11:48:43 CET [29/01/2023 5:48:43 ET]
+Table '3539555808 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (440 en jetons) 
+Place 2: Arnuch (460 en jetons) 
+Arnuch : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 6s]
+Arnuch : relance. 400 à 460 et est all-in.
+psychoman59 : suit. 380 et est all-in.
+Personne n'a suivi. (20) sont retournés à Arnuch.
+*** FLOP *** [Ts Js Kd]
+*** TOURNANT *** [Ts Js Kd] [5d]
+*** RIVIÈRE *** [Ts Js Kd 5d] [Jh]
+*** ABATTAGE ***
+psychoman59 : montre [Qd 6s] (une paire de Valets)
+Arnuch : montre [7c Tc] (double paire, Valets et Dix)
+Arnuch a remporté 880  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+Arnuch remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 880 | Commission 0 
+Tableau [Ts Js Kd 5d Jh]
+Siège 1 : psychoman59 (grosse blind) a montré [Qd 6s] et a perdu avec une paire de Valets
+Siège 2 : Arnuch (bouton) (petite blind) a montré [7c Tc] et a gagné (880) avec double paire, Valets et Dix
+
+
+

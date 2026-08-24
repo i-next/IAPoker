@@ -1,0 +1,1152 @@
+﻿Main PokerStars n°261234596020 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 24/06/2026 7:43:31 CET [24/06/2026 1:43:31 ET]
+Table '4010964326 1' 3-max Siège #1 est au bouton.
+Place 1: gatinho 75 (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: santiago_nardiz (500 en jetons) 
+psychoman59 : met la petite blind. 10
+santiago_nardiz : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 8d]
+gatinho 75 : relance. 20 à 40
+psychoman59 : passe. 
+santiago_nardiz : passe. 
+Personne n'a suivi. (20) sont retournés à gatinho 75.
+gatinho 75 a remporté 50  lors du pot .
+gatinho 75 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : gatinho 75 (bouton) a remporté (50)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : santiago_nardiz (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261234596596 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 24/06/2026 7:43:41 CET [24/06/2026 1:43:41 ET]
+Table '4010964326 1' 3-max Siège #2 est au bouton.
+Place 1: gatinho 75 (530 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: santiago_nardiz (480 en jetons) 
+santiago_nardiz : met la petite blind. 10
+gatinho 75 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Qc]
+psychoman59 : passe. 
+santiago_nardiz : passe. 
+Personne n'a suivi. (10) sont retournés à gatinho 75.
+gatinho 75 a remporté 20  lors du pot .
+gatinho 75 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : gatinho 75 (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : santiago_nardiz (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261234597086 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 24/06/2026 7:43:51 CET [24/06/2026 1:43:51 ET]
+Table '4010964326 1' 3-max Siège #3 est au bouton.
+Place 1: gatinho 75 (540 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: santiago_nardiz (470 en jetons) 
+gatinho 75 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 3h]
+santiago_nardiz : passe. 
+gatinho 75 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [9d 9h 7d]
+gatinho 75 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [9d 9h 7d] [Qc]
+gatinho 75 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [9d 9h 7d Qc] [Kc]
+gatinho 75 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+gatinho 75 : montre [Jh 4d] (une paire de Neuf)
+psychoman59 : montre [Jc 3h] (une paire de Neuf)
+gatinho 75 a remporté 20  lors du pot .
+psychoman59 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [9d 9h 7d Qc Kc]
+Siège 1 : gatinho 75 (petite blind) a montré [Jh 4d] et a gagné (20) avec une paire de Neuf
+Siège 2 : psychoman59 (grosse blind) a montré [Jc 3h] et a gagné (20) avec une paire de Neuf
+Siège 3 : santiago_nardiz (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261234598369 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 24/06/2026 7:44:15 CET [24/06/2026 1:44:15 ET]
+Table '4010964326 1' 3-max Siège #1 est au bouton.
+Place 1: gatinho 75 (540 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: santiago_nardiz (470 en jetons) 
+psychoman59 : met la petite blind. 10
+santiago_nardiz : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 3d]
+gatinho 75 : relance. 20 à 40
+psychoman59 : passe. 
+santiago_nardiz : relance. 40 à 80
+gatinho 75 : suit. 40
+*** FLOP *** [8h Kh 6h]
+santiago_nardiz : parole 
+gatinho 75 : parole 
+*** TOURNANT *** [8h Kh 6h] [6d]
+santiago_nardiz : mise. 85
+gatinho 75 : suit. 85
+*** RIVIÈRE *** [8h Kh 6h 6d] [Jh]
+santiago_nardiz : mise. 170
+gatinho 75 : relance. 205 à 375 et est all-in.
+santiago_nardiz : suit. 135 et est all-in.
+Personne n'a suivi. (70) sont retournés à gatinho 75.
+*** ABATTAGE ***
+gatinho 75 : montre [Qh 9s] (une couleur, hauteur Roi)
+santiago_nardiz : montre [Qc Ah] (une couleur, hauteur As)
+santiago_nardiz a remporté 950  lors du pot .
+*** SYNTHÈSE ***
+Pot total 950 | Commission 0 
+Tableau [8h Kh 6h 6d Jh]
+Siège 1 : gatinho 75 (bouton) a montré [Qh 9s] et a perdu avec une couleur, hauteur Roi
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : santiago_nardiz (grosse blind) a montré [Qc Ah] et a gagné (950) avec une couleur, hauteur As
+
+
+
+Main PokerStars n°261234599863 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 24/06/2026 7:44:45 CET [24/06/2026 1:44:45 ET]
+Table '4010964326 1' 3-max Siège #2 est au bouton.
+Place 1: gatinho 75 (70 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+Place 3: santiago_nardiz (950 en jetons) 
+santiago_nardiz : met la petite blind. 10
+gatinho 75 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 9c]
+psychoman59 : passe. 
+santiago_nardiz : relance. 40 à 60
+gatinho 75 : relance. 10 à 70 et est all-in.
+santiago_nardiz : suit. 10
+*** FLOP *** [3c 8d 6s]
+*** TOURNANT *** [3c 8d 6s] [2h]
+*** RIVIÈRE *** [3c 8d 6s 2h] [Ts]
+*** ABATTAGE ***
+santiago_nardiz : montre [Th 9s] (une paire de Dix)
+gatinho 75 : montre [Js 7d] (Hauteur Valet)
+santiago_nardiz a remporté 140  lors du pot .
+gatinho 75 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [3c 8d 6s 2h Ts]
+Siège 1 : gatinho 75 (grosse blind) a montré [Js 7d] et a perdu avec Hauteur Valet
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : santiago_nardiz (petite blind) a montré [Th 9s] et a gagné (140) avec une paire de Dix
+
+
+
+Main PokerStars n°261234601181 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 24/06/2026 7:45:10 CET [24/06/2026 1:45:10 ET]
+Table '4010964326 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (480 en jetons) 
+Place 3: santiago_nardiz (1020 en jetons) 
+santiago_nardiz : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Tc]
+santiago_nardiz : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (20)
+Siège 3 : santiago_nardiz (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261234601382 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 24/06/2026 7:45:14 CET [24/06/2026 1:45:14 ET]
+Table '4010964326 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (490 en jetons) 
+Place 3: santiago_nardiz (1010 en jetons) 
+psychoman59 : met la petite blind. 10
+santiago_nardiz : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Ad]
+psychoman59 : suit. 10
+santiago_nardiz : parole 
+*** FLOP *** [Ac 4h 3d]
+santiago_nardiz : parole 
+psychoman59 : mise. 40
+santiago_nardiz : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Ac 4h 3d]
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (40)
+Siège 3 : santiago_nardiz (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261234602072 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 24/06/2026 7:45:27 CET [24/06/2026 1:45:27 ET]
+Table '4010964326 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (510 en jetons) 
+Place 3: santiago_nardiz (990 en jetons) 
+santiago_nardiz : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 7d]
+santiago_nardiz : relance. 40 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à santiago_nardiz.
+santiago_nardiz a remporté 40  lors du pot .
+santiago_nardiz : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : santiago_nardiz (bouton) (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°261234602639 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 24/06/2026 7:45:38 CET [24/06/2026 1:45:38 ET]
+Table '4010964326 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (490 en jetons) 
+Place 3: santiago_nardiz (1010 en jetons) 
+psychoman59 : met la petite blind. 15
+santiago_nardiz : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Kh]
+psychoman59 : suit. 15
+santiago_nardiz : parole 
+*** FLOP *** [5h 9h 4h]
+santiago_nardiz : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5h 9h 4h] [6d]
+santiago_nardiz : mise. 60
+psychoman59 : suit. 60
+*** RIVIÈRE *** [5h 9h 4h 6d] [Js]
+santiago_nardiz : mise. 90
+psychoman59 : passe. 
+Personne n'a suivi. (90) sont retournés à santiago_nardiz.
+santiago_nardiz a remporté 180  lors du pot .
+santiago_nardiz : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [5h 9h 4h 6d Js]
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 3 : santiago_nardiz (grosse blind) a remporté (180)
+
+
+
+Main PokerStars n°261234604057 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 24/06/2026 7:46:05 CET [24/06/2026 1:46:05 ET]
+Table '4010964326 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (400 en jetons) 
+Place 3: santiago_nardiz (1100 en jetons) 
+santiago_nardiz : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Ks]
+santiago_nardiz : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+Siège 3 : santiago_nardiz (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261234604279 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 24/06/2026 7:46:09 CET [24/06/2026 1:46:09 ET]
+Table '4010964326 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (415 en jetons) 
+Place 3: santiago_nardiz (1085 en jetons) 
+psychoman59 : met la petite blind. 15
+santiago_nardiz : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Ac]
+psychoman59 : relance. 30 à 60
+santiago_nardiz : suit. 30
+*** FLOP *** [8c Ah Jc]
+santiago_nardiz : parole 
+psychoman59 : mise. 45
+santiago_nardiz : suit. 45
+*** TOURNANT *** [8c Ah Jc] [Qc]
+santiago_nardiz : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [8c Ah Jc Qc] [Jh]
+santiago_nardiz : mise. 105
+psychoman59 : relance. 205 à 310 et est all-in.
+santiago_nardiz : passe. 
+Personne n'a suivi. (205) sont retournés à psychoman59.
+psychoman59 a remporté 420  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [8c Ah Jc Qc Jh]
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (420)
+Siège 3 : santiago_nardiz (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°261234605781 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 24/06/2026 7:46:38 CET [24/06/2026 1:46:38 ET]
+Table '4010964326 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (625 en jetons) 
+Place 3: santiago_nardiz (875 en jetons) 
+santiago_nardiz : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 8d]
+santiago_nardiz : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+Siège 3 : santiago_nardiz (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261234606020 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 24/06/2026 7:46:42 CET [24/06/2026 1:46:42 ET]
+Table '4010964326 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (640 en jetons) 
+Place 3: santiago_nardiz (860 en jetons) 
+psychoman59 : met la petite blind. 15
+santiago_nardiz : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 8h]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à santiago_nardiz.
+santiago_nardiz a remporté 30  lors du pot .
+santiago_nardiz : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : santiago_nardiz (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°261234606366 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 24/06/2026 7:46:49 CET [24/06/2026 1:46:49 ET]
+Table '4010964326 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (625 en jetons) 
+Place 3: santiago_nardiz (875 en jetons) 
+santiago_nardiz : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 2h]
+santiago_nardiz : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+Siège 3 : santiago_nardiz (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261234606567 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 24/06/2026 7:46:53 CET [24/06/2026 1:46:53 ET]
+Table '4010964326 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (640 en jetons) 
+Place 3: santiago_nardiz (860 en jetons) 
+psychoman59 : met la petite blind. 15
+santiago_nardiz : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 5s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à santiago_nardiz.
+santiago_nardiz a remporté 30  lors du pot .
+santiago_nardiz : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : santiago_nardiz (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°261234606951 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 24/06/2026 7:47:01 CET [24/06/2026 1:47:01 ET]
+Table '4010964326 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (625 en jetons) 
+Place 3: santiago_nardiz (875 en jetons) 
+santiago_nardiz : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Kh]
+santiago_nardiz : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Th Qd 7c]
+psychoman59 : parole 
+santiago_nardiz : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à santiago_nardiz.
+santiago_nardiz a remporté 60  lors du pot .
+santiago_nardiz : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Th Qd 7c]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : santiago_nardiz (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°261234607776 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 24/06/2026 7:47:16 CET [24/06/2026 1:47:16 ET]
+Table '4010964326 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (595 en jetons) 
+Place 3: santiago_nardiz (905 en jetons) 
+psychoman59 : met la petite blind. 15
+santiago_nardiz : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Ac]
+psychoman59 : relance. 565 à 595 et est all-in.
+santiago_nardiz : passe. 
+Personne n'a suivi. (565) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 3 : santiago_nardiz (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261234608228 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 24/06/2026 7:47:25 CET [24/06/2026 1:47:25 ET]
+Table '4010964326 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (625 en jetons) 
+Place 3: santiago_nardiz (875 en jetons) 
+santiago_nardiz : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Jh]
+santiago_nardiz : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+Siège 3 : santiago_nardiz (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261234608452 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 24/06/2026 7:47:30 CET [24/06/2026 1:47:30 ET]
+Table '4010964326 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (640 en jetons) 
+Place 3: santiago_nardiz (860 en jetons) 
+psychoman59 : met la petite blind. 15
+santiago_nardiz : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 8h]
+psychoman59 : suit. 15
+santiago_nardiz : parole 
+*** FLOP *** [4d 7d 3h]
+santiago_nardiz : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à santiago_nardiz.
+santiago_nardiz a remporté 60  lors du pot .
+santiago_nardiz : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [4d 7d 3h]
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+Siège 3 : santiago_nardiz (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°261234609353 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 24/06/2026 7:47:47 CET [24/06/2026 1:47:47 ET]
+Table '4010964326 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (610 en jetons) 
+Place 3: santiago_nardiz (890 en jetons) 
+santiago_nardiz : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Td]
+santiago_nardiz : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : santiago_nardiz (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261234609585 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 24/06/2026 7:47:51 CET [24/06/2026 1:47:51 ET]
+Table '4010964326 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (630 en jetons) 
+Place 3: santiago_nardiz (870 en jetons) 
+psychoman59 : met la petite blind. 20
+santiago_nardiz : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Ah]
+psychoman59 : suit. 20
+santiago_nardiz : parole 
+*** FLOP *** [9d Ac Jd]
+santiago_nardiz : parole 
+psychoman59 : mise. 80
+santiago_nardiz : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [9d Ac Jd]
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 3 : santiago_nardiz (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261234610293 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 24/06/2026 7:48:05 CET [24/06/2026 1:48:05 ET]
+Table '4010964326 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (670 en jetons) 
+Place 3: santiago_nardiz (830 en jetons) 
+santiago_nardiz : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 4s]
+santiago_nardiz : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Ad 8c Kd]
+psychoman59 : parole 
+santiago_nardiz : mise. 80
+psychoman59 : relance. 550 à 630 et est all-in.
+santiago_nardiz : passe. 
+Personne n'a suivi. (550) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Ad 8c Kd]
+Siège 2 : psychoman59 (grosse blind) a remporté (240)
+Siège 3 : santiago_nardiz (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261234611014 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 24/06/2026 7:48:19 CET [24/06/2026 1:48:19 ET]
+Table '4010964326 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (790 en jetons) 
+Place 3: santiago_nardiz (710 en jetons) 
+psychoman59 : met la petite blind. 20
+santiago_nardiz : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 4c]
+psychoman59 : suit. 20
+santiago_nardiz : parole 
+*** FLOP *** [7c 2c Kh]
+santiago_nardiz : parole 
+psychoman59 : parole 
+*** TOURNANT *** [7c 2c Kh] [2h]
+santiago_nardiz : mise. 80
+psychoman59 : suit. 80
+*** RIVIÈRE *** [7c 2c Kh 2h] [6s]
+santiago_nardiz : mise. 120
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à santiago_nardiz.
+santiago_nardiz a remporté 240  lors du pot .
+santiago_nardiz : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [7c 2c Kh 2h 6s]
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 3 : santiago_nardiz (grosse blind) a remporté (240)
+
+
+
+Main PokerStars n°261234612091 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 24/06/2026 7:48:40 CET [24/06/2026 1:48:40 ET]
+Table '4010964326 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (670 en jetons) 
+Place 3: santiago_nardiz (830 en jetons) 
+santiago_nardiz : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Kd]
+santiago_nardiz : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Qc 9c 9s]
+psychoman59 : parole 
+santiago_nardiz : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à santiago_nardiz.
+santiago_nardiz a remporté 80  lors du pot .
+santiago_nardiz : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Qc 9c 9s]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : santiago_nardiz (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°261234612797 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 24/06/2026 7:48:54 CET [24/06/2026 1:48:54 ET]
+Table '4010964326 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (630 en jetons) 
+Place 3: santiago_nardiz (870 en jetons) 
+psychoman59 : met la petite blind. 20
+santiago_nardiz : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 7s]
+psychoman59 : suit. 20
+santiago_nardiz : parole 
+*** FLOP *** [Qs 3s 2c]
+santiago_nardiz : parole 
+psychoman59 : mise. 80
+santiago_nardiz : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Qs 3s 2c]
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 3 : santiago_nardiz (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261234613473 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 24/06/2026 7:49:07 CET [24/06/2026 1:49:07 ET]
+Table '4010964326 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (670 en jetons) 
+Place 3: santiago_nardiz (830 en jetons) 
+santiago_nardiz : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 5s]
+santiago_nardiz : relance. 40 à 80
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à santiago_nardiz.
+santiago_nardiz a remporté 80  lors du pot .
+santiago_nardiz : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : santiago_nardiz (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°261234613865 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 24/06/2026 7:49:15 CET [24/06/2026 1:49:15 ET]
+Table '4010964326 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (630 en jetons) 
+Place 3: santiago_nardiz (870 en jetons) 
+psychoman59 : met la petite blind. 20
+santiago_nardiz : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 3d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à santiago_nardiz.
+santiago_nardiz a remporté 40  lors du pot .
+santiago_nardiz : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : santiago_nardiz (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°261234614193 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 24/06/2026 7:49:21 CET [24/06/2026 1:49:21 ET]
+Table '4010964326 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (610 en jetons) 
+Place 3: santiago_nardiz (890 en jetons) 
+santiago_nardiz : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 4s]
+santiago_nardiz : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Ac 8c Qd]
+psychoman59 : parole 
+santiago_nardiz : parole 
+*** TOURNANT *** [Ac 8c Qd] [Th]
+psychoman59 : parole 
+santiago_nardiz : parole 
+*** RIVIÈRE *** [Ac 8c Qd Th] [Jh]
+psychoman59 : parole 
+santiago_nardiz : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à santiago_nardiz.
+santiago_nardiz a remporté 80  lors du pot .
+santiago_nardiz : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Ac 8c Qd Th Jh]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : santiago_nardiz (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°261234615493 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/06/2026 7:49:46 CET [24/06/2026 1:49:46 ET]
+Table '4010964326 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (570 en jetons) 
+Place 3: santiago_nardiz (930 en jetons) 
+psychoman59 : met la petite blind. 30
+santiago_nardiz : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Qs]
+psychoman59 : suit. 30
+santiago_nardiz : relance. 120 à 180
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à santiago_nardiz.
+santiago_nardiz a remporté 120  lors du pot .
+santiago_nardiz : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : santiago_nardiz (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°261234616091 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/06/2026 7:49:58 CET [24/06/2026 1:49:58 ET]
+Table '4010964326 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (510 en jetons) 
+Place 3: santiago_nardiz (990 en jetons) 
+santiago_nardiz : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Jh]
+santiago_nardiz : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : santiago_nardiz (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261234616323 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/06/2026 7:50:02 CET [24/06/2026 1:50:02 ET]
+Table '4010964326 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (540 en jetons) 
+Place 3: santiago_nardiz (960 en jetons) 
+psychoman59 : met la petite blind. 30
+santiago_nardiz : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 9h]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à santiago_nardiz.
+santiago_nardiz a remporté 60  lors du pot .
+santiago_nardiz : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : santiago_nardiz (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°261234616664 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/06/2026 7:50:08 CET [24/06/2026 1:50:08 ET]
+Table '4010964326 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (510 en jetons) 
+Place 3: santiago_nardiz (990 en jetons) 
+santiago_nardiz : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Ts]
+santiago_nardiz : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : santiago_nardiz (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261234616879 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/06/2026 7:50:13 CET [24/06/2026 1:50:13 ET]
+Table '4010964326 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (540 en jetons) 
+Place 3: santiago_nardiz (960 en jetons) 
+psychoman59 : met la petite blind. 30
+santiago_nardiz : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 9h]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à santiago_nardiz.
+santiago_nardiz a remporté 60  lors du pot .
+santiago_nardiz : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : santiago_nardiz (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°261234617181 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/06/2026 7:50:19 CET [24/06/2026 1:50:19 ET]
+Table '4010964326 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (510 en jetons) 
+Place 3: santiago_nardiz (990 en jetons) 
+santiago_nardiz : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 9c]
+santiago_nardiz : suit. 30
+psychoman59 : parole 
+*** FLOP *** [4d Ah Kc]
+psychoman59 : parole 
+santiago_nardiz : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à santiago_nardiz.
+santiago_nardiz a remporté 120  lors du pot .
+santiago_nardiz : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [4d Ah Kc]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : santiago_nardiz (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°261234617877 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/06/2026 7:50:33 CET [24/06/2026 1:50:33 ET]
+Table '4010964326 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (450 en jetons) 
+Place 3: santiago_nardiz (1050 en jetons) 
+psychoman59 : met la petite blind. 30
+santiago_nardiz : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Ah]
+psychoman59 : relance. 390 à 450 et est all-in.
+santiago_nardiz : passe. 
+Personne n'a suivi. (390) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 3 : santiago_nardiz (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261234618533 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/06/2026 7:50:45 CET [24/06/2026 1:50:45 ET]
+Table '4010964326 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (510 en jetons) 
+Place 3: santiago_nardiz (990 en jetons) 
+santiago_nardiz : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 3h]
+santiago_nardiz : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : santiago_nardiz (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261234618775 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/06/2026 7:50:49 CET [24/06/2026 1:50:49 ET]
+Table '4010964326 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (540 en jetons) 
+Place 3: santiago_nardiz (960 en jetons) 
+psychoman59 : met la petite blind. 30
+santiago_nardiz : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Qh]
+psychoman59 : suit. 30
+santiago_nardiz : parole 
+*** FLOP *** [Js Ac 2h]
+santiago_nardiz : parole 
+psychoman59 : mise. 120
+santiago_nardiz : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Js Ac 2h]
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 3 : santiago_nardiz (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261234619559 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/06/2026 7:51:04 CET [24/06/2026 1:51:04 ET]
+Table '4010964326 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (600 en jetons) 
+Place 3: santiago_nardiz (900 en jetons) 
+santiago_nardiz : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Ks]
+santiago_nardiz : suit. 30
+psychoman59 : relance. 540 à 600 et est all-in.
+santiago_nardiz : passe. 
+Personne n'a suivi. (540) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (120)
+Siège 3 : santiago_nardiz (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261234620054 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/06/2026 7:51:14 CET [24/06/2026 1:51:14 ET]
+Table '4010964326 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (660 en jetons) 
+Place 3: santiago_nardiz (840 en jetons) 
+psychoman59 : met la petite blind. 30
+santiago_nardiz : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Tc]
+psychoman59 : suit. 30
+santiago_nardiz : parole 
+*** FLOP *** [5s 6s Ks]
+santiago_nardiz : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5s 6s Ks] [Ts]
+santiago_nardiz : parole 
+psychoman59 : mise. 60
+santiago_nardiz : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [5s 6s Ks Ts]
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 3 : santiago_nardiz (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°261234620971 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/06/2026 7:51:31 CET [24/06/2026 1:51:31 ET]
+Table '4010964326 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (720 en jetons) 
+Place 3: santiago_nardiz (780 en jetons) 
+santiago_nardiz : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 4c]
+santiago_nardiz : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : santiago_nardiz (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261234621333 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 24/06/2026 7:51:39 CET [24/06/2026 1:51:39 ET]
+Table '4010964326 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (750 en jetons) 
+Place 3: santiago_nardiz (750 en jetons) 
+psychoman59 : met la petite blind. 40
+santiago_nardiz : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 4d]
+psychoman59 : relance. 670 à 750 et est all-in.
+santiago_nardiz : passe. 
+Personne n'a suivi. (670) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (160)
+Siège 3 : santiago_nardiz (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261234621746 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 24/06/2026 7:51:46 CET [24/06/2026 1:51:46 ET]
+Table '4010964326 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (830 en jetons) 
+Place 3: santiago_nardiz (670 en jetons) 
+santiago_nardiz : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Jh]
+santiago_nardiz : relance. 590 à 670 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (590) sont retournés à santiago_nardiz.
+santiago_nardiz a remporté 160  lors du pot .
+santiago_nardiz : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : santiago_nardiz (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°261234622118 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 24/06/2026 7:51:53 CET [24/06/2026 1:51:53 ET]
+Table '4010964326 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (750 en jetons) 
+Place 3: santiago_nardiz (750 en jetons) 
+psychoman59 : met la petite blind. 40
+santiago_nardiz : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 2d]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à santiago_nardiz.
+santiago_nardiz a remporté 80  lors du pot .
+santiago_nardiz : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : santiago_nardiz (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°261234622427 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 24/06/2026 7:51:59 CET [24/06/2026 1:51:59 ET]
+Table '4010964326 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (710 en jetons) 
+Place 3: santiago_nardiz (790 en jetons) 
+santiago_nardiz : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 8s]
+santiago_nardiz : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : santiago_nardiz (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261234622684 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 24/06/2026 7:52:04 CET [24/06/2026 1:52:04 ET]
+Table '4010964326 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (750 en jetons) 
+Place 3: santiago_nardiz (750 en jetons) 
+psychoman59 : met la petite blind. 40
+santiago_nardiz : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 9c]
+psychoman59 : relance. 670 à 750 et est all-in.
+santiago_nardiz : passe. 
+Personne n'a suivi. (670) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (160)
+Siège 3 : santiago_nardiz (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261234623125 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 24/06/2026 7:52:13 CET [24/06/2026 1:52:13 ET]
+Table '4010964326 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (830 en jetons) 
+Place 3: santiago_nardiz (670 en jetons) 
+santiago_nardiz : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 8h]
+santiago_nardiz : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : santiago_nardiz (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261234623338 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 24/06/2026 7:52:17 CET [24/06/2026 1:52:17 ET]
+Table '4010964326 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (870 en jetons) 
+Place 3: santiago_nardiz (630 en jetons) 
+psychoman59 : met la petite blind. 40
+santiago_nardiz : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 5d]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à santiago_nardiz.
+santiago_nardiz a remporté 80  lors du pot .
+santiago_nardiz : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : santiago_nardiz (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°261234623642 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 24/06/2026 7:52:23 CET [24/06/2026 1:52:23 ET]
+Table '4010964326 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (830 en jetons) 
+Place 3: santiago_nardiz (670 en jetons) 
+santiago_nardiz : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Ac]
+santiago_nardiz : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : santiago_nardiz (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261234623860 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 24/06/2026 7:52:28 CET [24/06/2026 1:52:28 ET]
+Table '4010964326 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (870 en jetons) 
+Place 3: santiago_nardiz (630 en jetons) 
+psychoman59 : met la petite blind. 40
+santiago_nardiz : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 5d]
+psychoman59 : relance. 790 à 870 et est all-in.
+santiago_nardiz : passe. 
+Personne n'a suivi. (790) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (160)
+Siège 3 : santiago_nardiz (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261234624320 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 24/06/2026 7:52:36 CET [24/06/2026 1:52:36 ET]
+Table '4010964326 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (950 en jetons) 
+Place 3: santiago_nardiz (550 en jetons) 
+santiago_nardiz : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Ah]
+santiago_nardiz : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : santiago_nardiz (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261234624533 : Tournoi #4010964326, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 24/06/2026 7:52:40 CET [24/06/2026 1:52:40 ET]
+Table '4010964326 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (990 en jetons) 
+Place 3: santiago_nardiz (510 en jetons) 
+psychoman59 : met la petite blind. 40
+santiago_nardiz : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Ad]
+psychoman59 : relance. 910 à 990 et est all-in.
+santiago_nardiz : suit. 430 et est all-in.
+Personne n'a suivi. (480) sont retournés à psychoman59.
+*** FLOP *** [3s Qd Ah]
+*** TOURNANT *** [3s Qd Ah] [Tc]
+*** RIVIÈRE *** [3s Qd Ah Tc] [7h]
+*** ABATTAGE ***
+santiago_nardiz : montre [9c 9s] (une paire de Neuf)
+psychoman59 : montre [7d Ad] (double paire, As et Sept)
+psychoman59 a remporté 1020  lors du pot .
+santiago_nardiz a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 1.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 1020 | Commission 0 
+Tableau [3s Qd Ah Tc 7h]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [7d Ad] et a gagné (1020) avec double paire, As et Sept
+Siège 3 : santiago_nardiz (grosse blind) a montré [9c 9s] et a perdu avec une paire de Neuf
+
+
+

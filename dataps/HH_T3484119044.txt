@@ -1,0 +1,63 @@
+﻿Main PokerStars n°239159417689 : Tournoi #3484119044, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/10/2022 8:01:18 CET [11/10/2022 2:01:18 ET]
+Table '3484119044 1' 3-max Siège #1 est au bouton.
+Place 1: MightyKal (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: leguro21 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+leguro21 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 2h]
+MightyKal : passe. 
+psychoman59 : relance. 20 à 40
+leguro21 : suit. 20
+*** FLOP *** [Tc Qc 5h]
+psychoman59 : mise. 40
+leguro21 : suit. 40
+*** TOURNANT *** [Tc Qc 5h] [9h]
+psychoman59 : parole 
+leguro21 : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [Tc Qc 5h 9h] [7h]
+psychoman59 : parole 
+leguro21 : mise. 100
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à leguro21.
+leguro21 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [Tc Qc 5h 9h 7h]
+Siège 1 : MightyKal (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Rivière
+Siège 3 : leguro21 (grosse blind) a remporté (200)
+
+
+
+Main PokerStars n°239159421209 : Tournoi #3484119044, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/10/2022 8:01:56 CET [11/10/2022 2:01:56 ET]
+Table '3484119044 1' 3-max Siège #2 est au bouton.
+Place 1: MightyKal (300 en jetons) 
+Place 2: psychoman59 (200 en jetons) 
+Place 3: leguro21 (400 en jetons) 
+leguro21 : met la petite blind. 10
+MightyKal : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Qd]
+psychoman59 : relance. 180 à 200 et est all-in.
+leguro21 : passe. 
+MightyKal : suit. 180
+*** FLOP *** [5c 7s Jd]
+*** TOURNANT *** [5c 7s Jd] [Td]
+*** RIVIÈRE *** [5c 7s Jd Td] [9h]
+*** ABATTAGE ***
+MightyKal : montre [Js Qh] (une paire de Valets)
+psychoman59 : montre [Ah Qd] (Hauteur As)
+MightyKal a remporté 410  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 410 | Commission 0 
+Tableau [5c 7s Jd Td 9h]
+Siège 1 : MightyKal (grosse blind) a montré [Js Qh] et a gagné (410) avec une paire de Valets
+Siège 2 : psychoman59 (bouton) a montré [Ah Qd] et a perdu avec Hauteur As
+Siège 3 : leguro21 (petite blind) s'est couché. avant Flop
+
+
+

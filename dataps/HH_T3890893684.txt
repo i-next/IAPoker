@@ -1,0 +1,434 @@
+﻿Main PokerStars n°256190389006 : Tournoi #3890893684, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 18/05/2025 7:28:47 CET [18/05/2025 1:28:47 ET]
+Table '3890893684 1' 3-max Siège #1 est au bouton.
+Place 1: skisito-btf (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: japonefaray (500 en jetons) 
+psychoman59 : met la petite blind. 10
+japonefaray : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 2s]
+skisito-btf : suit. 20
+psychoman59 : passe. 
+japonefaray : parole 
+*** FLOP *** [5c 2h 7d]
+japonefaray : parole 
+skisito-btf : parole 
+*** TOURNANT *** [5c 2h 7d] [4h]
+japonefaray : mise. 20
+skisito-btf : suit. 20
+*** RIVIÈRE *** [5c 2h 7d 4h] [Ts]
+japonefaray : mise. 460 et est all-in.
+skisito-btf : passe. 
+Personne n'a suivi. (460) sont retournés à japonefaray.
+japonefaray a remporté 90  lors du pot .
+japonefaray : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [5c 2h 7d 4h Ts]
+Siège 1 : skisito-btf (bouton) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : japonefaray (grosse blind) a remporté (90)
+
+
+
+Main PokerStars n°256190391620 : Tournoi #3890893684, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 18/05/2025 7:29:20 CET [18/05/2025 1:29:20 ET]
+Table '3890893684 1' 3-max Siège #2 est au bouton.
+Place 1: skisito-btf (460 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: japonefaray (550 en jetons) 
+japonefaray : met la petite blind. 10
+skisito-btf : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Qs]
+psychoman59 : suit. 20
+japonefaray : suit. 10
+skisito-btf : parole 
+*** FLOP *** [4h Jh 5s]
+japonefaray : parole 
+skisito-btf : parole 
+psychoman59 : parole 
+*** TOURNANT *** [4h Jh 5s] [3s]
+japonefaray : parole 
+skisito-btf : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [4h Jh 5s 3s] [Ah]
+japonefaray : mise. 20
+skisito-btf : suit. 20
+psychoman59 : passe. 
+*** ABATTAGE ***
+japonefaray : montre [3h 7d] (une paire de Trois)
+skisito-btf : cache la main perdante. 
+japonefaray a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [4h Jh 5s 3s Ah]
+Siège 1 : skisito-btf (grosse blind) a caché la main perdante. [7c Kc]
+Siège 2 : psychoman59 (bouton) s'est couché. sur le Rivière
+Siège 3 : japonefaray (petite blind) a montré [3h 7d] et a gagné (100) avec une paire de Trois
+
+
+
+Main PokerStars n°256190393690 : Tournoi #3890893684, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 18/05/2025 7:29:47 CET [18/05/2025 1:29:47 ET]
+Table '3890893684 1' 3-max Siège #3 est au bouton.
+Place 1: skisito-btf (420 en jetons) 
+Place 2: psychoman59 (470 en jetons) 
+Place 3: japonefaray (610 en jetons) 
+skisito-btf : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Jd]
+japonefaray : suit. 20
+skisito-btf : suit. 10
+psychoman59 : parole 
+*** FLOP *** [7c 3d 7h]
+skisito-btf : parole 
+psychoman59 : parole 
+japonefaray : parole 
+*** TOURNANT *** [7c 3d 7h] [2s]
+skisito-btf : parole 
+psychoman59 : parole 
+japonefaray : parole 
+*** RIVIÈRE *** [7c 3d 7h 2s] [2h]
+skisito-btf : parole 
+psychoman59 : parole 
+japonefaray : mise. 20
+skisito-btf : suit. 20
+psychoman59 : suit. 20
+*** ABATTAGE ***
+japonefaray : montre [8d 9h] (double paire, Sept et Deux)
+skisito-btf : cache la main perdante. 
+psychoman59 : montre [Ks Jd] (double paire, Sept et Deux - Roi kicker)
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [7c 3d 7h 2s 2h]
+Siège 1 : skisito-btf (petite blind) a caché la main perdante. [8c 4c]
+Siège 2 : psychoman59 (grosse blind) a montré [Ks Jd] et a gagné (120) avec double paire, Sept et Deux
+Siège 3 : japonefaray (bouton) a montré [8d 9h] et a perdu avec double paire, Sept et Deux
+
+
+
+Main PokerStars n°256190396407 : Tournoi #3890893684, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 18/05/2025 7:30:22 CET [18/05/2025 1:30:22 ET]
+Table '3890893684 1' 3-max Siège #1 est au bouton.
+Place 1: skisito-btf (380 en jetons) 
+Place 2: psychoman59 (550 en jetons) 
+Place 3: japonefaray (570 en jetons) 
+psychoman59 : met la petite blind. 10
+japonefaray : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Qh]
+skisito-btf : suit. 20
+psychoman59 : suit. 10
+japonefaray : relance. 80 à 100
+skisito-btf : suit. 80
+psychoman59 : passe. 
+*** FLOP *** [6s 8h Kh]
+japonefaray : parole 
+skisito-btf : parole 
+*** TOURNANT *** [6s 8h Kh] [4h]
+japonefaray : parole 
+skisito-btf : parole 
+*** RIVIÈRE *** [6s 8h Kh 4h] [5s]
+japonefaray : mise. 100
+skisito-btf : suit. 100
+*** ABATTAGE ***
+japonefaray : montre [7s Ah] (une suite, Quatre à Huit)
+skisito-btf : montre [7d Jd] (une suite, Quatre à Huit)
+japonefaray a remporté 210  lors du pot .
+skisito-btf a remporté 210  lors du pot .
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [6s 8h Kh 4h 5s]
+Siège 1 : skisito-btf (bouton) a montré [7d Jd] et a gagné (210) avec une suite, Quatre à Huit
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : japonefaray (grosse blind) a montré [7s Ah] et a gagné (210) avec une suite, Quatre à Huit
+
+
+
+Main PokerStars n°256190399534 : Tournoi #3890893684, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 18/05/2025 7:31:03 CET [18/05/2025 1:31:03 ET]
+Table '3890893684 1' 3-max Siège #2 est au bouton.
+Place 1: skisito-btf (390 en jetons) 
+Place 2: psychoman59 (530 en jetons) 
+Place 3: japonefaray (580 en jetons) 
+japonefaray : met la petite blind. 15
+skisito-btf : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Qc]
+psychoman59 : suit. 30
+japonefaray : suit. 15
+skisito-btf : parole 
+*** FLOP *** [Qh 2h 9c]
+japonefaray : mise. 30
+skisito-btf : passe. 
+psychoman59 : suit. 30
+*** TOURNANT *** [Qh 2h 9c] [5d]
+japonefaray : mise. 30
+psychoman59 : suit. 30
+*** RIVIÈRE *** [Qh 2h 9c 5d] [4h]
+japonefaray : mise. 30
+psychoman59 : suit. 30
+*** ABATTAGE ***
+japonefaray : montre [9s 8s] (une paire de Neuf)
+psychoman59 : montre [6c Qc] (une paire de Dames)
+psychoman59 a remporté 270  lors du pot .
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Tableau [Qh 2h 9c 5d 4h]
+Siège 1 : skisito-btf (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) a montré [6c Qc] et a gagné (270) avec une paire de Dames
+Siège 3 : japonefaray (petite blind) a montré [9s 8s] et a perdu avec une paire de Neuf
+
+
+
+Main PokerStars n°256190402270 : Tournoi #3890893684, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 18/05/2025 7:31:39 CET [18/05/2025 1:31:39 ET]
+Table '3890893684 1' 3-max Siège #3 est au bouton.
+Place 1: skisito-btf (360 en jetons) 
+Place 2: psychoman59 (680 en jetons) 
+Place 3: japonefaray (460 en jetons) 
+skisito-btf : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Ks]
+japonefaray : suit. 30
+skisito-btf : suit. 15
+psychoman59 : parole 
+*** FLOP *** [5s 6h Kh]
+skisito-btf : mise. 30
+psychoman59 : suit. 30
+japonefaray : suit. 30
+*** TOURNANT *** [5s 6h Kh] [Js]
+skisito-btf : parole 
+psychoman59 : mise. 90
+japonefaray : passe. 
+skisito-btf : passe. 
+Personne n'a suivi. (90) sont retournés à psychoman59.
+psychoman59 a remporté 180  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [5s 6h Kh Js]
+Siège 1 : skisito-btf (petite blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (grosse blind) a remporté (180)
+Siège 3 : japonefaray (bouton) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°256190405749 : Tournoi #3890893684, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 18/05/2025 7:32:24 CET [18/05/2025 1:32:24 ET]
+Table '3890893684 1' 3-max Siège #1 est au bouton.
+Place 1: skisito-btf (300 en jetons) 
+Place 2: psychoman59 (800 en jetons) 
+Place 3: japonefaray (400 en jetons) 
+psychoman59 : met la petite blind. 15
+japonefaray : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 4c]
+skisito-btf : suit. 30
+psychoman59 : passe. 
+japonefaray : parole 
+*** FLOP *** [8h 7c 8s]
+japonefaray : parole 
+skisito-btf : parole 
+*** TOURNANT *** [8h 7c 8s] [Ac]
+japonefaray : mise. 30
+skisito-btf : suit. 30
+*** RIVIÈRE *** [8h 7c 8s Ac] [5d]
+japonefaray : mise. 340 et est all-in.
+skisito-btf : passe. 
+Personne n'a suivi. (340) sont retournés à japonefaray.
+japonefaray a remporté 135  lors du pot .
+japonefaray : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 135 | Commission 0 
+Tableau [8h 7c 8s Ac 5d]
+Siège 1 : skisito-btf (bouton) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : japonefaray (grosse blind) a remporté (135)
+
+
+
+Main PokerStars n°256190407934 : Tournoi #3890893684, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 18/05/2025 7:32:53 CET [18/05/2025 1:32:53 ET]
+Table '3890893684 1' 3-max Siège #2 est au bouton.
+Place 1: skisito-btf (240 en jetons) 
+Place 2: psychoman59 (785 en jetons) 
+Place 3: japonefaray (475 en jetons) 
+japonefaray : met la petite blind. 20
+skisito-btf : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 7s]
+psychoman59 : passe. 
+japonefaray : suit. 20
+skisito-btf : parole 
+*** FLOP *** [9d 2h Ac]
+japonefaray : parole 
+skisito-btf : parole 
+*** TOURNANT *** [9d 2h Ac] [Td]
+japonefaray : mise. 40
+skisito-btf : suit. 40
+*** RIVIÈRE *** [9d 2h Ac Td] [5c]
+japonefaray : parole 
+skisito-btf : parole 
+*** ABATTAGE ***
+japonefaray : montre [3s 9s] (une paire de Neuf)
+skisito-btf : cache la main perdante. 
+japonefaray a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [9d 2h Ac Td 5c]
+Siège 1 : skisito-btf (grosse blind) a caché la main perdante. [2d 6d]
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : japonefaray (petite blind) a montré [3s 9s] et a gagné (160) avec une paire de Neuf
+
+
+
+Main PokerStars n°256190409674 : Tournoi #3890893684, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 18/05/2025 7:33:15 CET [18/05/2025 1:33:15 ET]
+Table '3890893684 1' 3-max Siège #3 est au bouton.
+Place 1: skisito-btf (160 en jetons) 
+Place 2: psychoman59 (785 en jetons) 
+Place 3: japonefaray (555 en jetons) 
+skisito-btf : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Jc]
+japonefaray : suit. 40
+skisito-btf : suit. 20
+psychoman59 : relance. 745 à 785 et est all-in.
+japonefaray : passe. 
+skisito-btf : suit. 120 et est all-in.
+Personne n'a suivi. (625) sont retournés à psychoman59.
+*** FLOP *** [Ts Qh 7h]
+*** TOURNANT *** [Ts Qh 7h] [6d]
+*** RIVIÈRE *** [Ts Qh 7h 6d] [8c]
+*** ABATTAGE ***
+skisito-btf : montre [7d 5d] (une paire de Sept)
+psychoman59 : montre [Ah Jc] (Hauteur As)
+skisito-btf a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [Ts Qh 7h 6d 8c]
+Siège 1 : skisito-btf (petite blind) a montré [7d 5d] et a gagné (360) avec une paire de Sept
+Siège 2 : psychoman59 (grosse blind) a montré [Ah Jc] et a perdu avec Hauteur As
+Siège 3 : japonefaray (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°256190411694 : Tournoi #3890893684, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 18/05/2025 7:33:42 CET [18/05/2025 1:33:42 ET]
+Table '3890893684 1' 3-max Siège #1 est au bouton.
+Place 1: skisito-btf (360 en jetons) 
+Place 2: psychoman59 (625 en jetons) 
+Place 3: japonefaray (515 en jetons) 
+psychoman59 : met la petite blind. 20
+japonefaray : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Qs]
+skisito-btf : suit. 40
+psychoman59 : suit. 20
+japonefaray : parole 
+*** FLOP *** [Ts Ac 5d]
+psychoman59 : parole 
+japonefaray : parole 
+skisito-btf : mise. 80
+psychoman59 : passe. 
+japonefaray : passe. 
+Personne n'a suivi. (80) sont retournés à skisito-btf.
+skisito-btf a remporté 120  lors du pot .
+skisito-btf : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Ts Ac 5d]
+Siège 1 : skisito-btf (bouton) a remporté (120)
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 3 : japonefaray (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°256190413552 : Tournoi #3890893684, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 18/05/2025 7:34:07 CET [18/05/2025 1:34:07 ET]
+Table '3890893684 1' 3-max Siège #2 est au bouton.
+Place 1: skisito-btf (440 en jetons) 
+Place 2: psychoman59 (585 en jetons) 
+Place 3: japonefaray (475 en jetons) 
+japonefaray : met la petite blind. 20
+skisito-btf : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 3h]
+psychoman59 : passe. 
+japonefaray : suit. 20
+skisito-btf : parole 
+*** FLOP *** [Kc Qh 8d]
+japonefaray : parole 
+skisito-btf : parole 
+*** TOURNANT *** [Kc Qh 8d] [4c]
+japonefaray : parole 
+skisito-btf : mise. 80
+japonefaray : passe. 
+Personne n'a suivi. (80) sont retournés à skisito-btf.
+skisito-btf a remporté 80  lors du pot .
+skisito-btf : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Kc Qh 8d 4c]
+Siège 1 : skisito-btf (grosse blind) a remporté (80)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : japonefaray (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°256190415017 : Tournoi #3890893684, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 18/05/2025 7:34:27 CET [18/05/2025 1:34:27 ET]
+Table '3890893684 1' 3-max Siège #3 est au bouton.
+Place 1: skisito-btf (480 en jetons) 
+Place 2: psychoman59 (585 en jetons) 
+Place 3: japonefaray (435 en jetons) 
+skisito-btf : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 2s]
+japonefaray : passe. 
+skisito-btf : relance. 40 à 80
+psychoman59 : relance. 505 à 585 et est all-in.
+skisito-btf : suit. 400 et est all-in.
+Personne n'a suivi. (105) sont retournés à psychoman59.
+*** FLOP *** [Td 7c 3s]
+*** TOURNANT *** [Td 7c 3s] [9c]
+*** RIVIÈRE *** [Td 7c 3s 9c] [7s]
+*** ABATTAGE ***
+skisito-btf : montre [7d 6d] (un brelan de Sept)
+psychoman59 : montre [Ac 2s] (une paire de Sept)
+skisito-btf a remporté 960  lors du pot .
+*** SYNTHÈSE ***
+Pot total 960 | Commission 0 
+Tableau [Td 7c 3s 9c 7s]
+Siège 1 : skisito-btf (petite blind) a montré [7d 6d] et a gagné (960) avec un brelan de Sept
+Siège 2 : psychoman59 (grosse blind) a montré [Ac 2s] et a perdu avec une paire de Sept
+Siège 3 : japonefaray (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°256190416605 : Tournoi #3890893684, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 18/05/2025 7:34:48 CET [18/05/2025 1:34:48 ET]
+Table '3890893684 1' 3-max Siège #1 est au bouton.
+Place 1: skisito-btf (960 en jetons) 
+Place 2: psychoman59 (105 en jetons) 
+Place 3: japonefaray (435 en jetons) 
+psychoman59 : met la petite blind. 20
+japonefaray : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Tc]
+skisito-btf : suit. 40
+psychoman59 : relance. 65 à 105 et est all-in.
+japonefaray : passe. 
+skisito-btf : suit. 65
+*** FLOP *** [Jh 3h Qh]
+*** TOURNANT *** [Jh 3h Qh] [2s]
+*** RIVIÈRE *** [Jh 3h Qh 2s] [8d]
+*** ABATTAGE ***
+psychoman59 : montre [Ad Tc] (Hauteur As)
+skisito-btf : montre [8h Qd] (double paire, Dames et Huit)
+skisito-btf a remporté 250  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 250 | Commission 0 
+Tableau [Jh 3h Qh 2s 8d]
+Siège 1 : skisito-btf (bouton) a montré [8h Qd] et a gagné (250) avec double paire, Dames et Huit
+Siège 2 : psychoman59 (petite blind) a montré [Ad Tc] et a perdu avec Hauteur As
+Siège 3 : japonefaray (grosse blind) s'est couché. avant Flop
+
+
+

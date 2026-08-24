@@ -1,0 +1,500 @@
+﻿Main PokerStars n°254575836106 : Tournoi #3852112188, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 27/01/2025 7:37:14 CET [27/01/2025 1:37:14 ET]
+Table '3852112188 1' 3-max Siège #1 est au bouton.
+Place 1: Alaima19 (500 en jetons) 
+Place 2: nassme46 (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+nassme46 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 9c]
+Alaima19 : suit. 20
+nassme46 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [2s 3h 3s]
+nassme46 : parole 
+psychoman59 : parole 
+Alaima19 : parole 
+*** TOURNANT *** [2s 3h 3s] [5h]
+nassme46 : parole 
+psychoman59 : parole 
+Alaima19 : parole 
+*** RIVIÈRE *** [2s 3h 3s 5h] [9h]
+nassme46 : parole 
+psychoman59 : parole 
+Alaima19 : parole 
+*** ABATTAGE ***
+nassme46 : montre [Js 6c] (une paire de Trois)
+psychoman59 : montre [Kc 9c] (double paire, Neuf et Trois)
+Alaima19 : cache la main perdante. 
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [2s 3h 3s 5h 9h]
+Siège 1 : Alaima19 (bouton) a caché la main perdante. [Kh Qc]
+Siège 2 : nassme46 (petite blind) a montré [Js 6c] et a perdu avec une paire de Trois
+Siège 3 : psychoman59 (grosse blind) a montré [Kc 9c] et a gagné (60) avec double paire, Neuf et Trois
+
+
+
+Main PokerStars n°254575838223 : Tournoi #3852112188, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 27/01/2025 7:37:48 CET [27/01/2025 1:37:48 ET]
+Table '3852112188 1' 3-max Siège #2 est au bouton.
+Place 1: Alaima19 (480 en jetons) 
+Place 2: nassme46 (480 en jetons) 
+Place 3: psychoman59 (540 en jetons) 
+psychoman59 : met la petite blind. 10
+Alaima19 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Td]
+nassme46 : suit. 20
+psychoman59 : passe. 
+Alaima19 : parole 
+*** FLOP *** [5h 9h 9c]
+Alaima19 : parole 
+nassme46 : parole 
+*** TOURNANT *** [5h 9h 9c] [6s]
+Alaima19 : parole 
+nassme46 : mise. 20
+Alaima19 : suit. 20
+*** RIVIÈRE *** [5h 9h 9c 6s] [6d]
+Alaima19 : parole 
+nassme46 : mise. 90
+Alaima19 : passe. 
+Personne n'a suivi. (90) sont retournés à nassme46.
+nassme46 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [5h 9h 9c 6s 6d]
+Siège 1 : Alaima19 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : nassme46 (bouton) a remporté (90)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254575839570 : Tournoi #3852112188, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 27/01/2025 7:38:09 CET [27/01/2025 1:38:09 ET]
+Table '3852112188 1' 3-max Siège #3 est au bouton.
+Place 1: Alaima19 (440 en jetons) 
+Place 2: nassme46 (530 en jetons) 
+Place 3: psychoman59 (530 en jetons) 
+Alaima19 : met la petite blind. 10
+nassme46 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Kd]
+psychoman59 : suit. 20
+Alaima19 : suit. 10
+nassme46 : parole 
+*** FLOP *** [8h 7c Qh]
+Alaima19 : parole 
+nassme46 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [8h 7c Qh] [4c]
+Alaima19 : parole 
+nassme46 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [8h 7c Qh 4c] [5d]
+Alaima19 : parole 
+nassme46 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Alaima19 : montre [3d Ts] (Hauteur Dame)
+nassme46 : montre [3h Kc] (Hauteur Roi)
+psychoman59 : montre [9d Kd] (Hauteur Roi - Dame+Neuf kicker)
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [8h 7c Qh 4c 5d]
+Siège 1 : Alaima19 (petite blind) a montré [3d Ts] et a perdu avec Hauteur Dame
+Siège 2 : nassme46 (grosse blind) a montré [3h Kc] et a perdu avec Hauteur Roi
+Siège 3 : psychoman59 (bouton) a montré [9d Kd] et a gagné (60) avec Hauteur Roi
+
+
+
+Main PokerStars n°254575840891 : Tournoi #3852112188, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 27/01/2025 7:38:31 CET [27/01/2025 1:38:31 ET]
+Table '3852112188 1' 3-max Siège #1 est au bouton.
+Place 1: Alaima19 (420 en jetons) 
+Place 2: nassme46 (510 en jetons) 
+Place 3: psychoman59 (570 en jetons) 
+nassme46 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 3d]
+Alaima19 : suit. 20
+nassme46 : relance. 20 à 40
+psychoman59 : passe. 
+Alaima19 : suit. 20
+*** FLOP *** [8s 7d Jh]
+nassme46 : mise. 20
+Alaima19 : suit. 20
+*** TOURNANT *** [8s 7d Jh] [9c]
+nassme46 : parole 
+Alaima19 : mise. 20
+nassme46 : suit. 20
+*** RIVIÈRE *** [8s 7d Jh 9c] [7s]
+nassme46 : parole 
+Alaima19 : mise. 90
+nassme46 : suit. 90
+*** ABATTAGE ***
+Alaima19 : montre [6c 6h] (double paire, Sept et Six)
+nassme46 : montre [Ac 7c] (un brelan de Sept)
+nassme46 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [8s 7d Jh 9c 7s]
+Siège 1 : Alaima19 (bouton) a montré [6c 6h] et a perdu avec double paire, Sept et Six
+Siège 2 : nassme46 (petite blind) a montré [Ac 7c] et a gagné (360) avec un brelan de Sept
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254575842518 : Tournoi #3852112188, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 27/01/2025 7:38:57 CET [27/01/2025 1:38:57 ET]
+Table '3852112188 1' 3-max Siège #2 est au bouton.
+Place 1: Alaima19 (250 en jetons) 
+Place 2: nassme46 (700 en jetons) 
+Place 3: psychoman59 (550 en jetons) 
+psychoman59 : met la petite blind. 10
+Alaima19 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Qh]
+nassme46 : passe. 
+psychoman59 : suit. 10
+Alaima19 : parole 
+*** FLOP *** [Qs 9d 4s]
+psychoman59 : parole 
+Alaima19 : parole 
+*** TOURNANT *** [Qs 9d 4s] [3s]
+psychoman59 : parole 
+Alaima19 : parole 
+*** RIVIÈRE *** [Qs 9d 4s 3s] [9s]
+psychoman59 : parole 
+Alaima19 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Th Qh] (double paire, Dames et Neuf)
+Alaima19 : cache la main perdante. 
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Qs 9d 4s 3s 9s]
+Siège 1 : Alaima19 (grosse blind) a caché la main perdante. [Tc Td]
+Siège 2 : nassme46 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [Th Qh] et a gagné (40) avec double paire, Dames et Neuf
+
+
+
+Main PokerStars n°254575844039 : Tournoi #3852112188, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 27/01/2025 7:39:20 CET [27/01/2025 1:39:20 ET]
+Table '3852112188 1' 3-max Siège #3 est au bouton.
+Place 1: Alaima19 (230 en jetons) 
+Place 2: nassme46 (700 en jetons) 
+Place 3: psychoman59 (570 en jetons) 
+Alaima19 : met la petite blind. 15
+nassme46 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Qc]
+psychoman59 : passe. 
+Alaima19 : suit. 15
+nassme46 : parole 
+*** FLOP *** [9c 6s 9d]
+Alaima19 : parole 
+nassme46 : parole 
+*** TOURNANT *** [9c 6s 9d] [9s]
+Alaima19 : parole 
+nassme46 : parole 
+*** RIVIÈRE *** [9c 6s 9d 9s] [Tc]
+Alaima19 : parole 
+nassme46 : parole 
+*** ABATTAGE ***
+Alaima19 : montre [7c 3h] (un brelan de Neuf)
+nassme46 : montre [Qh 5s] (un brelan de Neuf - Dame kicker)
+nassme46 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [9c 6s 9d 9s Tc]
+Siège 1 : Alaima19 (petite blind) a montré [7c 3h] et a perdu avec un brelan de Neuf
+Siège 2 : nassme46 (grosse blind) a montré [Qh 5s] et a gagné (60) avec un brelan de Neuf
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°254575844832 : Tournoi #3852112188, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 27/01/2025 7:39:33 CET [27/01/2025 1:39:33 ET]
+Table '3852112188 1' 3-max Siège #1 est au bouton.
+Place 1: Alaima19 (200 en jetons) 
+Place 2: nassme46 (730 en jetons) 
+Place 3: psychoman59 (570 en jetons) 
+nassme46 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 3c]
+Alaima19 : suit. 30
+nassme46 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Jd 2c Th]
+nassme46 : mise. 90
+psychoman59 : passe. 
+Alaima19 : passe. 
+Personne n'a suivi. (90) sont retournés à nassme46.
+nassme46 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [Jd 2c Th]
+Siège 1 : Alaima19 (bouton) s'est couché. sur le Flop
+Siège 2 : nassme46 (petite blind) a remporté (90)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°254575845787 : Tournoi #3852112188, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 27/01/2025 7:39:48 CET [27/01/2025 1:39:48 ET]
+Table '3852112188 1' 3-max Siège #2 est au bouton.
+Place 1: Alaima19 (170 en jetons) 
+Place 2: nassme46 (790 en jetons) 
+Place 3: psychoman59 (540 en jetons) 
+psychoman59 : met la petite blind. 15
+Alaima19 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Jh]
+nassme46 : relance. 30 à 60
+psychoman59 : passe. 
+Alaima19 : suit. 30
+*** FLOP *** [9c 5d 8h]
+Alaima19 : mise. 30
+nassme46 : suit. 30
+*** TOURNANT *** [9c 5d 8h] [Qc]
+Alaima19 : mise. 30
+nassme46 : suit. 30
+*** RIVIÈRE *** [9c 5d 8h Qc] [Js]
+Alaima19 : mise. 30
+nassme46 : passe. 
+Personne n'a suivi. (30) sont retournés à Alaima19.
+Alaima19 a remporté 255  lors du pot .
+*** SYNTHÈSE ***
+Pot total 255 | Commission 0 
+Tableau [9c 5d 8h Qc Js]
+Siège 1 : Alaima19 (grosse blind) a remporté (255)
+Siège 2 : nassme46 (bouton) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254575846962 : Tournoi #3852112188, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 27/01/2025 7:40:07 CET [27/01/2025 1:40:07 ET]
+Table '3852112188 1' 3-max Siège #3 est au bouton.
+Place 1: Alaima19 (305 en jetons) 
+Place 2: nassme46 (670 en jetons) 
+Place 3: psychoman59 (525 en jetons) 
+Alaima19 : met la petite blind. 15
+nassme46 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 9d]
+psychoman59 : relance. 30 à 60
+Alaima19 : suit. 45
+nassme46 : suit. 30
+*** FLOP *** [7c Kh 4h]
+Alaima19 : parole 
+nassme46 : parole 
+psychoman59 : mise. 90
+Alaima19 : passe. 
+nassme46 : passe. 
+Personne n'a suivi. (90) sont retournés à psychoman59.
+psychoman59 a remporté 180  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [7c Kh 4h]
+Siège 1 : Alaima19 (petite blind) s'est couché. sur le Flop
+Siège 2 : nassme46 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) a remporté (180)
+
+
+
+Main PokerStars n°254575847960 : Tournoi #3852112188, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 27/01/2025 7:40:23 CET [27/01/2025 1:40:23 ET]
+Table '3852112188 1' 3-max Siège #1 est au bouton.
+Place 1: Alaima19 (245 en jetons) 
+Place 2: nassme46 (610 en jetons) 
+Place 3: psychoman59 (645 en jetons) 
+nassme46 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 4c]
+Alaima19 : relance. 215 à 245 et est all-in.
+nassme46 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (215) sont retournés à Alaima19.
+Alaima19 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : Alaima19 (bouton) a remporté (75)
+Siège 2 : nassme46 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254575848359 : Tournoi #3852112188, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 27/01/2025 7:40:29 CET [27/01/2025 1:40:29 ET]
+Table '3852112188 1' 3-max Siège #2 est au bouton.
+Place 1: Alaima19 (290 en jetons) 
+Place 2: nassme46 (595 en jetons) 
+Place 3: psychoman59 (615 en jetons) 
+psychoman59 : met la petite blind. 15
+Alaima19 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 4h]
+nassme46 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à Alaima19.
+Alaima19 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : Alaima19 (grosse blind) a remporté (30)
+Siège 2 : nassme46 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254575848693 : Tournoi #3852112188, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 27/01/2025 7:40:34 CET [27/01/2025 1:40:34 ET]
+Table '3852112188 1' 3-max Siège #3 est au bouton.
+Place 1: Alaima19 (305 en jetons) 
+Place 2: nassme46 (595 en jetons) 
+Place 3: psychoman59 (600 en jetons) 
+Alaima19 : met la petite blind. 15
+nassme46 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 9h]
+psychoman59 : suit. 30
+Alaima19 : suit. 15
+nassme46 : parole 
+*** FLOP *** [8h 6d 8s]
+Alaima19 : parole 
+nassme46 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [8h 6d 8s] [Td]
+Alaima19 : parole 
+nassme46 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [8h 6d 8s Td] [Ah]
+Alaima19 : mise. 30
+nassme46 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Alaima19.
+Alaima19 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [8h 6d 8s Td Ah]
+Siège 1 : Alaima19 (petite blind) a remporté (90)
+Siège 2 : nassme46 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (bouton) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°254575850136 : Tournoi #3852112188, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 27/01/2025 7:40:57 CET [27/01/2025 1:40:57 ET]
+Table '3852112188 1' 3-max Siège #1 est au bouton.
+Place 1: Alaima19 (365 en jetons) 
+Place 2: nassme46 (565 en jetons) 
+Place 3: psychoman59 (570 en jetons) 
+nassme46 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 5s]
+Alaima19 : suit. 30
+nassme46 : suit. 15
+psychoman59 : relance. 540 à 570 et est all-in.
+Alaima19 : suit. 335 et est all-in.
+nassme46 : passe. 
+Personne n'a suivi. (205) sont retournés à psychoman59.
+*** FLOP *** [4d Ks Jd]
+*** TOURNANT *** [4d Ks Jd] [Qc]
+*** RIVIÈRE *** [4d Ks Jd Qc] [As]
+*** ABATTAGE ***
+psychoman59 : montre [5h 5s] (une paire de Cinq)
+Alaima19 : montre [6h Kc] (une paire de Rois)
+Alaima19 a remporté 760  lors du pot .
+*** SYNTHÈSE ***
+Pot total 760 | Commission 0 
+Tableau [4d Ks Jd Qc As]
+Siège 1 : Alaima19 (bouton) a montré [6h Kc] et a gagné (760) avec une paire de Rois
+Siège 2 : nassme46 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [5h 5s] et a perdu avec une paire de Cinq
+
+
+
+Main PokerStars n°254575851270 : Tournoi #3852112188, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 27/01/2025 7:41:15 CET [27/01/2025 1:41:15 ET]
+Table '3852112188 1' 3-max Siège #2 est au bouton.
+Place 1: Alaima19 (760 en jetons) 
+Place 2: nassme46 (535 en jetons) 
+Place 3: psychoman59 (205 en jetons) 
+psychoman59 : met la petite blind. 15
+Alaima19 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Jh]
+nassme46 : relance. 75 à 105
+psychoman59 : passe. 
+Alaima19 : passe. 
+Personne n'a suivi. (75) sont retournés à nassme46.
+nassme46 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : Alaima19 (grosse blind) s'est couché. avant Flop
+Siège 2 : nassme46 (bouton) a remporté (75)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254575852218 : Tournoi #3852112188, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 27/01/2025 7:41:30 CET [27/01/2025 1:41:30 ET]
+Table '3852112188 1' 3-max Siège #3 est au bouton.
+Place 1: Alaima19 (730 en jetons) 
+Place 2: nassme46 (580 en jetons) 
+Place 3: psychoman59 (190 en jetons) 
+Alaima19 : met la petite blind. 20
+nassme46 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Ah]
+psychoman59 : relance. 150 à 190 et est all-in.
+Alaima19 : suit. 170
+nassme46 : suit. 150
+*** FLOP *** [Ks As 8c]
+Alaima19 : mise. 40
+nassme46 : passe. 
+Personne n'a suivi. (40) sont retournés à Alaima19.
+*** TOURNANT *** [Ks As 8c] [Qd]
+*** RIVIÈRE *** [Ks As 8c Qd] [8d]
+*** ABATTAGE ***
+Alaima19 : montre [Ac 3c] (double paire, As et Huit)
+psychoman59 : montre [6s Ah] (double paire, As et Huit)
+Alaima19 a remporté 285  lors du pot .
+psychoman59 a remporté 285  lors du pot .
+*** SYNTHÈSE ***
+Pot total 570 | Commission 0 
+Tableau [Ks As 8c Qd 8d]
+Siège 1 : Alaima19 (petite blind) a montré [Ac 3c] et a gagné (285) avec double paire, As et Huit
+Siège 2 : nassme46 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) a montré [6s Ah] et a gagné (285) avec double paire, As et Huit
+
+
+
+Main PokerStars n°254575853270 : Tournoi #3852112188, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 27/01/2025 7:41:48 CET [27/01/2025 1:41:48 ET]
+Table '3852112188 1' 3-max Siège #1 est au bouton.
+Place 1: Alaima19 (825 en jetons) 
+Place 2: nassme46 (390 en jetons) 
+Place 3: psychoman59 (285 en jetons) 
+nassme46 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 9c]
+Alaima19 : suit. 40
+nassme46 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [As 2s Ts]
+nassme46 : parole 
+psychoman59 : mise. 245 et est all-in.
+Alaima19 : suit. 245
+nassme46 : passe. 
+*** TOURNANT *** [As 2s Ts] [Kc]
+*** RIVIÈRE *** [As 2s Ts Kc] [Ac]
+*** ABATTAGE ***
+psychoman59 : montre [Td 9c] (double paire, As et Dix)
+Alaima19 : montre [Ks 5h] (double paire, As et Rois)
+Alaima19 a remporté 610  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 610 | Commission 0 
+Tableau [As 2s Ts Kc Ac]
+Siège 1 : Alaima19 (bouton) a montré [Ks 5h] et a gagné (610) avec double paire, As et Rois
+Siège 2 : nassme46 (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a montré [Td 9c] et a perdu avec double paire, As et Dix
+
+
+

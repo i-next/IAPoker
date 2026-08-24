@@ -1,0 +1,106 @@
+﻿Main PokerStars n°243560279747 : Tournoi #3588270829, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/05/2023 9:51:24 CET [08/05/2023 3:51:24 ET]
+Table '3588270829 1' 3-max Siège #1 est au bouton.
+Place 1: ceckik63 (300 en jetons) 
+Place 2: cedricdrix (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+cedricdrix : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 8d]
+ceckik63 : relance. 20 à 40
+cedricdrix : suit. 30
+psychoman59 : suit. 20
+*** FLOP *** [Ts Jd 2d]
+cedricdrix : parole 
+psychoman59 : parole 
+ceckik63 : mise. 120
+cedricdrix : suit. 120
+psychoman59 : passe. 
+*** TOURNANT *** [Ts Jd 2d] [6d]
+cedricdrix : parole 
+ceckik63 : mise. 140 et est all-in.
+cedricdrix : suit. 140 et est all-in.
+*** RIVIÈRE *** [Ts Jd 2d 6d] [4s]
+*** ABATTAGE ***
+cedricdrix : montre [Js Td] (double paire, Valets et Dix)
+ceckik63 : montre [Kd Qs] (Hauteur Roi)
+cedricdrix a remporté 640  lors du pot .
+ceckik63 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [Ts Jd 2d 6d 4s]
+Siège 1 : ceckik63 (bouton) a montré [Kd Qs] et a perdu avec Hauteur Roi
+Siège 2 : cedricdrix (petite blind) a montré [Js Td] et a gagné (640) avec double paire, Valets et Dix
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°243560283631 : Tournoi #3588270829, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/05/2023 9:51:59 CET [08/05/2023 3:51:59 ET]
+Table '3588270829 1' 3-max Siège #3 est au bouton.
+Place 2: cedricdrix (640 en jetons) 
+Place 3: psychoman59 (260 en jetons) 
+psychoman59 : met la petite blind. 10
+cedricdrix : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 3h]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à cedricdrix.
+cedricdrix a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 2 : cedricdrix (grosse blind) a remporté (20)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243560284443 : Tournoi #3588270829, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/05/2023 9:52:07 CET [08/05/2023 3:52:07 ET]
+Table '3588270829 1' 3-max Siège #2 est au bouton.
+Place 2: cedricdrix (650 en jetons) 
+Place 3: psychoman59 (250 en jetons) 
+cedricdrix : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Th]
+cedricdrix : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Jd 2h Ah]
+psychoman59 : parole 
+cedricdrix : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à cedricdrix.
+cedricdrix a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Jd 2h Ah]
+Siège 2 : cedricdrix (bouton) (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°243560286166 : Tournoi #3588270829, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/05/2023 9:52:23 CET [08/05/2023 3:52:23 ET]
+Table '3588270829 1' 3-max Siège #3 est au bouton.
+Place 2: cedricdrix (670 en jetons) 
+Place 3: psychoman59 (230 en jetons) 
+psychoman59 : met la petite blind. 10
+cedricdrix : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Kh]
+psychoman59 : relance. 210 à 230 et est all-in.
+cedricdrix : suit. 210
+*** FLOP *** [Th 2h 4d]
+*** TOURNANT *** [Th 2h 4d] [Ks]
+*** RIVIÈRE *** [Th 2h 4d Ks] [Qh]
+*** ABATTAGE ***
+cedricdrix : montre [Kd Qs] (double paire, Rois et Dames)
+psychoman59 : montre [Jc Kh] (une paire de Rois)
+cedricdrix a remporté 460  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+cedricdrix remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 460 | Commission 0 
+Tableau [Th 2h 4d Ks Qh]
+Siège 2 : cedricdrix (grosse blind) a montré [Kd Qs] et a gagné (460) avec double paire, Rois et Dames
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Jc Kh] et a perdu avec une paire de Rois
+
+
+

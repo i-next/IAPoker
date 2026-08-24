@@ -1,0 +1,83 @@
+﻿Main PokerStars n°242371118694 : Tournoi #3560379408, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/03/2023 7:42:29 CET [11/03/2023 1:42:29 ET]
+Table '3560379408 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: fouego210992 (300 en jetons) 
+Place 3: sebastien420 (300 en jetons) 
+fouego210992 : met la petite blind. 10
+sebastien420 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Js]
+psychoman59 : suit. 20
+fouego210992 : suit. 10
+sebastien420 : parole 
+*** FLOP *** [Ah Qd 5h]
+fouego210992 : parole 
+sebastien420 : mise. 86
+psychoman59 : passe. 
+fouego210992 : passe. 
+Personne n'a suivi. (86) sont retournés à sebastien420.
+sebastien420 a remporté 60  lors du pot .
+sebastien420 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ah Qd 5h]
+Siège 1 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 2 : fouego210992 (petite blind) s'est couché. sur le Flop
+Siège 3 : sebastien420 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°242371120641 : Tournoi #3560379408, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/03/2023 7:42:45 CET [11/03/2023 1:42:45 ET]
+Table '3560379408 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: fouego210992 (280 en jetons) 
+Place 3: sebastien420 (340 en jetons) 
+sebastien420 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 5c]
+fouego210992 : suit. 20
+sebastien420 : relance. 320 à 340 et est all-in.
+psychoman59 : passe. 
+fouego210992 : passe. 
+Personne n'a suivi. (320) sont retournés à sebastien420.
+sebastien420 a remporté 60  lors du pot .
+sebastien420 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : fouego210992 (bouton) s'est couché. avant Flop
+Siège 3 : sebastien420 (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°242371121694 : Tournoi #3560379408, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/03/2023 7:42:53 CET [11/03/2023 1:42:53 ET]
+Table '3560379408 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (260 en jetons) 
+Place 2: fouego210992 (260 en jetons) 
+Place 3: sebastien420 (380 en jetons) 
+psychoman59 : met la petite blind. 10
+fouego210992 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 4d]
+sebastien420 : relance. 360 à 380 et est all-in.
+psychoman59 : suit. 250 et est all-in.
+fouego210992 : passe. 
+Personne n'a suivi. (120) sont retournés à sebastien420.
+*** FLOP *** [3c As Jd]
+*** TOURNANT *** [3c As Jd] [Td]
+*** RIVIÈRE *** [3c As Jd Td] [3h]
+*** ABATTAGE ***
+psychoman59 : montre [Ac 4d] (double paire, As et Trois)
+sebastien420 : montre [Ah Tc] (double paire, As et Dix)
+sebastien420 a remporté 540  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [3c As Jd Td 3h]
+Siège 1 : psychoman59 (petite blind) a montré [Ac 4d] et a perdu avec double paire, As et Trois
+Siège 2 : fouego210992 (grosse blind) s'est couché. avant Flop
+Siège 3 : sebastien420 (bouton) a montré [Ah Tc] et a gagné (540) avec double paire, As et Dix
+
+
+

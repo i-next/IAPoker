@@ -1,0 +1,595 @@
+﻿Main PokerStars n°261273680092 : Tournoi #4011954885, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/06/2026 9:24:31 CET [28/06/2026 3:24:31 ET]
+Table '4011954885 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: cmdj8 (500 en jetons) 
+Place 3: noface187 (500 en jetons) 
+cmdj8 : met la petite blind. 10
+noface187 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 3h]
+psychoman59 : passe. 
+cmdj8 : suit. 10
+noface187 : parole 
+*** FLOP *** [Kc Qc 2c]
+cmdj8 : parole 
+noface187 : parole 
+*** TOURNANT *** [Kc Qc 2c] [Jd]
+cmdj8 : mise. 20
+noface187 : relance. 460 à 480 et est all-in.
+cmdj8 : suit. 460 et est all-in.
+*** RIVIÈRE *** [Kc Qc 2c Jd] [Kh]
+*** ABATTAGE ***
+cmdj8 : montre [3c 8c] (une couleur, hauteur Roi)
+noface187 : montre [Qd Jh] (double paire, Rois et Dames)
+cmdj8 a remporté 1000  lors du pot .
+noface187 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 1000 | Commission 0 
+Tableau [Kc Qc 2c Jd Kh]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : cmdj8 (petite blind) a montré [3c 8c] et a gagné (1000) avec une couleur, hauteur Roi
+Siège 3 : noface187 (grosse blind) a montré [Qd Jh] et a perdu avec double paire, Rois et Dames
+
+
+
+Main PokerStars n°261273681445 : Tournoi #4011954885, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/06/2026 9:24:55 CET [28/06/2026 3:24:55 ET]
+Table '4011954885 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: cmdj8 (1000 en jetons) 
+cmdj8 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 9h]
+cmdj8 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [4h 4c Td]
+psychoman59 : parole 
+cmdj8 : parole 
+*** TOURNANT *** [4h 4c Td] [9s]
+psychoman59 : parole 
+cmdj8 : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [4h 4c Td 9s] [Kc]
+psychoman59 : parole 
+cmdj8 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [8c 9h] (double paire, Neuf et Quatre)
+cmdj8 : montre [9d 3s] (double paire, Neuf et Quatre)
+psychoman59 a remporté 40  lors du pot .
+cmdj8 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [4h 4c Td 9s Kc]
+Siège 1 : psychoman59 (grosse blind) a montré [8c 9h] et a gagné (40) avec double paire, Neuf et Quatre
+Siège 2 : cmdj8 (bouton) (petite blind) a montré [9d 3s] et a gagné (40) avec double paire, Neuf et Quatre
+
+
+
+Main PokerStars n°261273682673 : Tournoi #4011954885, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/06/2026 9:25:16 CET [28/06/2026 3:25:16 ET]
+Table '4011954885 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: cmdj8 (1000 en jetons) 
+psychoman59 : met la petite blind. 10
+cmdj8 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 5d]
+psychoman59 : suit. 10
+cmdj8 : parole 
+*** FLOP *** [6d 8d 7h]
+cmdj8 : parole 
+psychoman59 : mise. 40
+cmdj8 : suit. 40
+*** TOURNANT *** [6d 8d 7h] [7d]
+cmdj8 : parole 
+psychoman59 : mise. 50
+cmdj8 : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [6d 8d 7h 7d]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 2 : cmdj8 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°261273683909 : Tournoi #4011954885, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/06/2026 9:25:39 CET [28/06/2026 3:25:39 ET]
+Table '4011954885 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (560 en jetons) 
+Place 2: cmdj8 (940 en jetons) 
+cmdj8 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 9c]
+cmdj8 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [5s 3c 9h]
+psychoman59 : parole 
+cmdj8 : mise. 40
+psychoman59 : relance. 500 à 540 et est all-in.
+cmdj8 : passe. 
+Personne n'a suivi. (500) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [5s 3c 9h]
+Siège 1 : psychoman59 (grosse blind) a remporté (120)
+Siège 2 : cmdj8 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261273684914 : Tournoi #4011954885, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/06/2026 9:25:57 CET [28/06/2026 3:25:57 ET]
+Table '4011954885 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (620 en jetons) 
+Place 2: cmdj8 (880 en jetons) 
+psychoman59 : met la petite blind. 10
+cmdj8 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Jd]
+psychoman59 : relance. 600 à 620 et est all-in.
+cmdj8 : passe. 
+Personne n'a suivi. (600) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (40)
+Siège 2 : cmdj8 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261273685776 : Tournoi #4011954885, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/06/2026 9:26:12 CET [28/06/2026 3:26:12 ET]
+Table '4011954885 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (640 en jetons) 
+Place 2: cmdj8 (860 en jetons) 
+cmdj8 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac As]
+cmdj8 : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (20)
+Siège 2 : cmdj8 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261273686058 : Tournoi #4011954885, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/06/2026 9:26:17 CET [28/06/2026 3:26:17 ET]
+Table '4011954885 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (650 en jetons) 
+Place 2: cmdj8 (850 en jetons) 
+psychoman59 : met la petite blind. 10
+cmdj8 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 5s]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à cmdj8.
+cmdj8 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : cmdj8 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°261273686398 : Tournoi #4011954885, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/06/2026 9:26:23 CET [28/06/2026 3:26:23 ET]
+Table '4011954885 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (640 en jetons) 
+Place 2: cmdj8 (860 en jetons) 
+cmdj8 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 7h]
+cmdj8 : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (20)
+Siège 2 : cmdj8 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261273686726 : Tournoi #4011954885, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/06/2026 9:26:28 CET [28/06/2026 3:26:28 ET]
+Table '4011954885 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (650 en jetons) 
+Place 2: cmdj8 (850 en jetons) 
+psychoman59 : met la petite blind. 10
+cmdj8 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Js]
+psychoman59 : suit. 10
+cmdj8 : parole 
+*** FLOP *** [3h 7h Td]
+cmdj8 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3h 7h Td] [Kh]
+cmdj8 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [3h 7h Td Kh] [2h]
+cmdj8 : parole 
+psychoman59 : mise. 40
+cmdj8 : suit. 40
+*** ABATTAGE ***
+psychoman59 : montre [9h Js] (une couleur, hauteur Roi)
+cmdj8 : cache la main perdante. 
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [3h 7h Td Kh 2h]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [9h Js] et a gagné (120) avec une couleur, hauteur Roi
+Siège 2 : cmdj8 (grosse blind) a caché la main perdante. [3c 8h]
+
+
+
+Main PokerStars n°261273688366 : Tournoi #4011954885, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 28/06/2026 9:26:57 CET [28/06/2026 3:26:57 ET]
+Table '4011954885 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (710 en jetons) 
+Place 2: cmdj8 (790 en jetons) 
+cmdj8 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 5d]
+cmdj8 : relance. 760 à 790 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (760) sont retournés à cmdj8.
+cmdj8 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : cmdj8 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°261273688888 : Tournoi #4011954885, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 28/06/2026 9:27:06 CET [28/06/2026 3:27:06 ET]
+Table '4011954885 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (680 en jetons) 
+Place 2: cmdj8 (820 en jetons) 
+psychoman59 : met la petite blind. 15
+cmdj8 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 7c]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à cmdj8.
+cmdj8 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : cmdj8 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°261273689229 : Tournoi #4011954885, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 28/06/2026 9:27:12 CET [28/06/2026 3:27:12 ET]
+Table '4011954885 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (665 en jetons) 
+Place 2: cmdj8 (835 en jetons) 
+cmdj8 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 2s]
+cmdj8 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [6c 4s 5d]
+psychoman59 : parole 
+cmdj8 : parole 
+*** TOURNANT *** [6c 4s 5d] [Js]
+psychoman59 : parole 
+cmdj8 : parole 
+*** RIVIÈRE *** [6c 4s 5d Js] [Td]
+psychoman59 : mise. 60
+cmdj8 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [6c 4s 5d Js Td]
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 2 : cmdj8 (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°261273690609 : Tournoi #4011954885, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 28/06/2026 9:27:36 CET [28/06/2026 3:27:36 ET]
+Table '4011954885 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (695 en jetons) 
+Place 2: cmdj8 (805 en jetons) 
+psychoman59 : met la petite blind. 15
+cmdj8 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Ah]
+psychoman59 : suit. 15
+cmdj8 : parole 
+*** FLOP *** [4s Th 6c]
+cmdj8 : parole 
+psychoman59 : mise. 60
+cmdj8 : suit. 60
+*** TOURNANT *** [4s Th 6c] [7s]
+cmdj8 : parole 
+psychoman59 : mise. 45
+cmdj8 : suit. 45
+*** RIVIÈRE *** [4s Th 6c 7s] [4c]
+cmdj8 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+cmdj8 : montre [4h Ks] (un brelan de Quatre)
+psychoman59 : cache la main perdante. 
+cmdj8 a remporté 270  lors du pot .
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Tableau [4s Th 6c 7s 4c]
+Siège 1 : psychoman59 (bouton) (petite blind) a caché la main perdante. [6h Ah]
+Siège 2 : cmdj8 (grosse blind) a montré [4h Ks] et a gagné (270) avec un brelan de Quatre
+
+
+
+Main PokerStars n°261273692125 : Tournoi #4011954885, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 28/06/2026 9:28:01 CET [28/06/2026 3:28:01 ET]
+Table '4011954885 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (560 en jetons) 
+Place 2: cmdj8 (940 en jetons) 
+cmdj8 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 3d]
+cmdj8 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (30)
+Siège 2 : cmdj8 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261273692530 : Tournoi #4011954885, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 28/06/2026 9:28:08 CET [28/06/2026 3:28:08 ET]
+Table '4011954885 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (575 en jetons) 
+Place 2: cmdj8 (925 en jetons) 
+psychoman59 : met la petite blind. 15
+cmdj8 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 5h]
+psychoman59 : suit. 15
+cmdj8 : parole 
+*** FLOP *** [5d 5c 8c]
+cmdj8 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5d 5c 8c] [6h]
+cmdj8 : parole 
+psychoman59 : mise. 30
+cmdj8 : suit. 30
+*** RIVIÈRE *** [5d 5c 8c 6h] [6c]
+cmdj8 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+cmdj8 : montre [Td 6s] (un full, full aux Six par les Cinq)
+psychoman59 : cache la main perdante. 
+cmdj8 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [5d 5c 8c 6h 6c]
+Siège 1 : psychoman59 (bouton) (petite blind) a caché la main perdante. [4h 5h]
+Siège 2 : cmdj8 (grosse blind) a montré [Td 6s] et a gagné (120) avec un full, full aux Six par les Cinq
+
+
+
+Main PokerStars n°261273693690 : Tournoi #4011954885, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 28/06/2026 9:28:29 CET [28/06/2026 3:28:29 ET]
+Table '4011954885 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (515 en jetons) 
+Place 2: cmdj8 (985 en jetons) 
+cmdj8 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 8s]
+cmdj8 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (30)
+Siège 2 : cmdj8 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261273694214 : Tournoi #4011954885, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 28/06/2026 9:28:39 CET [28/06/2026 3:28:39 ET]
+Table '4011954885 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (530 en jetons) 
+Place 2: cmdj8 (970 en jetons) 
+psychoman59 : met la petite blind. 20
+cmdj8 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Js]
+psychoman59 : suit. 20
+cmdj8 : parole 
+*** FLOP *** [Jh 2s 9s]
+cmdj8 : parole 
+psychoman59 : mise. 80
+cmdj8 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Jh 2s 9s]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 2 : cmdj8 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261273694876 : Tournoi #4011954885, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 28/06/2026 9:28:50 CET [28/06/2026 3:28:50 ET]
+Table '4011954885 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (570 en jetons) 
+Place 2: cmdj8 (930 en jetons) 
+cmdj8 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Ah]
+cmdj8 : suit. 20
+psychoman59 : relance. 530 à 570 et est all-in.
+cmdj8 : passe. 
+Personne n'a suivi. (530) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (80)
+Siège 2 : cmdj8 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261273695365 : Tournoi #4011954885, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 28/06/2026 9:28:59 CET [28/06/2026 3:28:59 ET]
+Table '4011954885 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (610 en jetons) 
+Place 2: cmdj8 (890 en jetons) 
+psychoman59 : met la petite blind. 20
+cmdj8 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Jc]
+psychoman59 : suit. 20
+cmdj8 : relance. 850 à 890 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (850) sont retournés à cmdj8.
+cmdj8 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : cmdj8 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°261273696048 : Tournoi #4011954885, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 28/06/2026 9:29:10 CET [28/06/2026 3:29:10 ET]
+Table '4011954885 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (570 en jetons) 
+Place 2: cmdj8 (930 en jetons) 
+cmdj8 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 9h]
+cmdj8 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Jd 5s 4h]
+psychoman59 : parole 
+cmdj8 : parole 
+*** TOURNANT *** [Jd 5s 4h] [8d]
+psychoman59 : parole 
+cmdj8 : parole 
+*** RIVIÈRE *** [Jd 5s 4h 8d] [9d]
+psychoman59 : parole 
+cmdj8 : mise. 40
+psychoman59 : suit. 40
+*** ABATTAGE ***
+cmdj8 : montre [Ts 9s] (une paire de Neuf)
+psychoman59 : cache la main perdante. 
+cmdj8 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Jd 5s 4h 8d 9d]
+Siège 1 : psychoman59 (grosse blind) a caché la main perdante. [6s 9h]
+Siège 2 : cmdj8 (bouton) (petite blind) a montré [Ts 9s] et a gagné (160) avec une paire de Neuf
+
+
+
+Main PokerStars n°261273697352 : Tournoi #4011954885, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 28/06/2026 9:29:33 CET [28/06/2026 3:29:33 ET]
+Table '4011954885 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (490 en jetons) 
+Place 2: cmdj8 (1010 en jetons) 
+psychoman59 : met la petite blind. 20
+cmdj8 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Ac]
+psychoman59 : suit. 20
+cmdj8 : parole 
+*** FLOP *** [4c Ad 9c]
+cmdj8 : parole 
+psychoman59 : mise. 80
+cmdj8 : suit. 80
+*** TOURNANT *** [4c Ad 9c] [9s]
+cmdj8 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [4c Ad 9c 9s] [2c]
+cmdj8 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+cmdj8 : montre [4s Td] (double paire, Neuf et Quatre)
+psychoman59 : montre [2s Ac] (double paire, As et Neuf)
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [4c Ad 9c 9s 2c]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [2s Ac] et a gagné (240) avec double paire, As et Neuf
+Siège 2 : cmdj8 (grosse blind) a montré [4s Td] et a perdu avec double paire, Neuf et Quatre
+
+
+
+Main PokerStars n°261273698507 : Tournoi #4011954885, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 28/06/2026 9:29:54 CET [28/06/2026 3:29:54 ET]
+Table '4011954885 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (610 en jetons) 
+Place 2: cmdj8 (890 en jetons) 
+cmdj8 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 2h]
+cmdj8 : relance. 850 à 890 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (850) sont retournés à cmdj8.
+cmdj8 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : cmdj8 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°261273699106 : Tournoi #4011954885, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 28/06/2026 9:30:04 CET [28/06/2026 3:30:04 ET]
+Table '4011954885 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (570 en jetons) 
+Place 2: cmdj8 (930 en jetons) 
+psychoman59 : met la petite blind. 20
+cmdj8 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 6s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à cmdj8.
+cmdj8 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : cmdj8 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°261273699474 : Tournoi #4011954885, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 28/06/2026 9:30:10 CET [28/06/2026 3:30:10 ET]
+Table '4011954885 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (550 en jetons) 
+Place 2: cmdj8 (950 en jetons) 
+cmdj8 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Tc]
+cmdj8 : relance. 910 à 950 et est all-in.
+psychoman59 : suit. 510 et est all-in.
+Personne n'a suivi. (400) sont retournés à cmdj8.
+*** FLOP *** [9d 6d Qs]
+*** TOURNANT *** [9d 6d Qs] [8s]
+*** RIVIÈRE *** [9d 6d Qs 8s] [Qc]
+*** ABATTAGE ***
+psychoman59 : montre [Ks Tc] (une paire de Dames)
+cmdj8 : montre [As 8d] (double paire, Dames et Huit)
+cmdj8 a remporté 1100  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+cmdj8 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 1100 | Commission 0 
+Tableau [9d 6d Qs 8s Qc]
+Siège 1 : psychoman59 (grosse blind) a montré [Ks Tc] et a perdu avec une paire de Dames
+Siège 2 : cmdj8 (bouton) (petite blind) a montré [As 8d] et a gagné (1100) avec double paire, Dames et Huit
+
+
+

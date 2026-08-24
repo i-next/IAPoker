@@ -1,0 +1,399 @@
+﻿Main PokerStars n°254082407247 : Tournoi #3839571283, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 29/12/2024 6:22:40 CET [29/12/2024 0:22:40 ET]
+Table '3839571283 1' 3-max Siège #1 est au bouton.
+Place 1: Akia49001 (500 en jetons) 
+Place 2: Mananges (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+Mananges : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 5h]
+Akia49001 : passe. 
+Mananges : relance. 480 à 500 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (480) sont retournés à Mananges.
+Mananges a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Akia49001 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Mananges (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254082408528 : Tournoi #3839571283, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 29/12/2024 6:22:53 CET [29/12/2024 0:22:53 ET]
+Table '3839571283 1' 3-max Siège #2 est au bouton.
+Place 1: Akia49001 (500 en jetons) 
+Place 2: Mananges (520 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 10
+Akia49001 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Qc]
+Mananges : passe. 
+psychoman59 : suit. 10
+Akia49001 : parole 
+*** FLOP *** [2s 4c 8d]
+psychoman59 : parole 
+Akia49001 : parole 
+*** TOURNANT *** [2s 4c 8d] [5h]
+psychoman59 : parole 
+Akia49001 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Akia49001.
+Akia49001 a remporté 40  lors du pot .
+Akia49001 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [2s 4c 8d 5h]
+Siège 1 : Akia49001 (grosse blind) a remporté (40)
+Siège 2 : Mananges (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°254082410954 : Tournoi #3839571283, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 29/12/2024 6:23:18 CET [29/12/2024 0:23:18 ET]
+Table '3839571283 1' 3-max Siège #3 est au bouton.
+Place 1: Akia49001 (520 en jetons) 
+Place 2: Mananges (520 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+Akia49001 : met la petite blind. 10
+Mananges : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Jd]
+psychoman59 : passe. 
+Akia49001 : suit. 10
+Mananges : parole 
+*** FLOP *** [6h Ac Jc]
+Akia49001 : parole 
+Mananges : mise. 20
+Akia49001 : suit. 20
+*** TOURNANT *** [6h Ac Jc] [5d]
+Akia49001 : parole 
+Mananges : mise. 20
+Akia49001 : suit. 20
+*** RIVIÈRE *** [6h Ac Jc 5d] [5s]
+Akia49001 : mise. 40
+Mananges : suit. 40
+*** ABATTAGE ***
+Akia49001 : montre [As 4h] (double paire, As et Cinq)
+Mananges : cache la main perdante. 
+Akia49001 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [6h Ac Jc 5d 5s]
+Siège 1 : Akia49001 (petite blind) a montré [As 4h] et a gagné (200) avec double paire, As et Cinq
+Siège 2 : Mananges (grosse blind) a caché la main perdante. [9h Kc]
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°254082414176 : Tournoi #3839571283, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 29/12/2024 6:23:50 CET [29/12/2024 0:23:50 ET]
+Table '3839571283 1' 3-max Siège #1 est au bouton.
+Place 1: Akia49001 (620 en jetons) 
+Place 2: Mananges (420 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+Mananges : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 5d]
+Akia49001 : suit. 20
+Mananges : passe. 
+psychoman59 : parole 
+*** FLOP *** [3c 9c 3h]
+psychoman59 : parole 
+Akia49001 : parole 
+*** TOURNANT *** [3c 9c 3h] [Td]
+psychoman59 : parole 
+Akia49001 : parole 
+*** RIVIÈRE *** [3c 9c 3h Td] [Js]
+psychoman59 : parole 
+Akia49001 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Ah 5d] (une paire de Trois)
+Akia49001 : cache la main perdante. 
+psychoman59 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [3c 9c 3h Td Js]
+Siège 1 : Akia49001 (bouton) a caché la main perdante. [6h 5h]
+Siège 2 : Mananges (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [Ah 5d] et a gagné (50) avec une paire de Trois
+
+
+
+Main PokerStars n°254082416961 : Tournoi #3839571283, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 29/12/2024 6:24:18 CET [29/12/2024 0:24:18 ET]
+Table '3839571283 1' 3-max Siège #2 est au bouton.
+Place 1: Akia49001 (600 en jetons) 
+Place 2: Mananges (410 en jetons) 
+Place 3: psychoman59 (490 en jetons) 
+psychoman59 : met la petite blind. 10
+Akia49001 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Td]
+Mananges : relance. 390 à 410 et est all-in.
+psychoman59 : passe. 
+Akia49001 : passe. 
+Personne n'a suivi. (390) sont retournés à Mananges.
+Mananges a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : Akia49001 (grosse blind) s'est couché. avant Flop
+Siège 2 : Mananges (bouton) a remporté (50)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254082418422 : Tournoi #3839571283, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 29/12/2024 6:24:33 CET [29/12/2024 0:24:33 ET]
+Table '3839571283 1' 3-max Siège #3 est au bouton.
+Place 1: Akia49001 (580 en jetons) 
+Place 2: Mananges (440 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+Akia49001 : met la petite blind. 10
+Mananges : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 8s]
+psychoman59 : passe. 
+Akia49001 : relance. 40 à 60
+Mananges : suit. 40
+*** FLOP *** [7s Jd 4c]
+Akia49001 : parole 
+Mananges : parole 
+*** TOURNANT *** [7s Jd 4c] [8h]
+Akia49001 : mise. 20
+Mananges : suit. 20
+*** RIVIÈRE *** [7s Jd 4c 8h] [2h]
+Akia49001 : mise. 80
+Mananges : passe. 
+Personne n'a suivi. (80) sont retournés à Akia49001.
+Akia49001 a remporté 160  lors du pot .
+Akia49001 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [7s Jd 4c 8h 2h]
+Siège 1 : Akia49001 (petite blind) a remporté (160)
+Siège 2 : Mananges (grosse blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°254082422416 : Tournoi #3839571283, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 29/12/2024 6:25:12 CET [29/12/2024 0:25:12 ET]
+Table '3839571283 1' 3-max Siège #1 est au bouton.
+Place 1: Akia49001 (660 en jetons) 
+Place 2: Mananges (360 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+Mananges : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 3h]
+Akia49001 : relance. 30 à 60
+Mananges : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Akia49001.
+Akia49001 a remporté 75  lors du pot .
+Akia49001 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : Akia49001 (bouton) a remporté (75)
+Siège 2 : Mananges (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254082423340 : Tournoi #3839571283, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 29/12/2024 6:25:22 CET [29/12/2024 0:25:22 ET]
+Table '3839571283 1' 3-max Siège #2 est au bouton.
+Place 1: Akia49001 (705 en jetons) 
+Place 2: Mananges (345 en jetons) 
+Place 3: psychoman59 (450 en jetons) 
+psychoman59 : met la petite blind. 15
+Akia49001 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 7s]
+Mananges : suit. 30
+psychoman59 : relance. 420 à 450 et est all-in.
+Akia49001 : passe. 
+Mananges : suit. 315 et est all-in.
+Personne n'a suivi. (105) sont retournés à psychoman59.
+*** FLOP *** [4s Th Jd]
+*** TOURNANT *** [4s Th Jd] [5c]
+*** RIVIÈRE *** [4s Th Jd 5c] [2d]
+*** ABATTAGE ***
+psychoman59 : montre [Ac 7s] (Hauteur As)
+Mananges : montre [Qs 8h] (Hauteur Dame)
+psychoman59 a remporté 720  lors du pot .
+Mananges a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 720 | Commission 0 
+Tableau [4s Th Jd 5c 2d]
+Siège 1 : Akia49001 (grosse blind) s'est couché. avant Flop
+Siège 2 : Mananges (bouton) a montré [Qs 8h] et a perdu avec Hauteur Dame
+Siège 3 : psychoman59 (petite blind) a montré [Ac 7s] et a gagné (720) avec Hauteur As
+
+
+
+Main PokerStars n°254082425518 : Tournoi #3839571283, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 29/12/2024 6:25:43 CET [29/12/2024 0:25:43 ET]
+Table '3839571283 1' 3-max Siège #1 est au bouton.
+Place 1: Akia49001 (675 en jetons) 
+Place 3: psychoman59 (825 en jetons) 
+Akia49001 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s As]
+Akia49001 : suit. 15
+psychoman59 : relance. 795 à 825 et est all-in.
+Akia49001 : passe. 
+Personne n'a suivi. (795) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Akia49001 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°254082426465 : Tournoi #3839571283, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 29/12/2024 6:25:53 CET [29/12/2024 0:25:53 ET]
+Table '3839571283 1' 3-max Siège #3 est au bouton.
+Place 1: Akia49001 (645 en jetons) 
+Place 3: psychoman59 (855 en jetons) 
+psychoman59 : met la petite blind. 15
+Akia49001 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 2d]
+psychoman59 : suit. 15
+Akia49001 : parole 
+*** FLOP *** [2h 6c 4h]
+Akia49001 : parole 
+psychoman59 : mise. 60
+Akia49001 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [2h 6c 4h]
+Siège 1 : Akia49001 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°254082428060 : Tournoi #3839571283, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 29/12/2024 6:26:09 CET [29/12/2024 0:26:09 ET]
+Table '3839571283 1' 3-max Siège #1 est au bouton.
+Place 1: Akia49001 (615 en jetons) 
+Place 3: psychoman59 (885 en jetons) 
+Akia49001 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Ah]
+Akia49001 : suit. 15
+psychoman59 : relance. 855 à 885 et est all-in.
+Akia49001 : passe. 
+Personne n'a suivi. (855) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Akia49001 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°254082429161 : Tournoi #3839571283, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 29/12/2024 6:26:20 CET [29/12/2024 0:26:20 ET]
+Table '3839571283 1' 3-max Siège #3 est au bouton.
+Place 1: Akia49001 (585 en jetons) 
+Place 3: psychoman59 (915 en jetons) 
+psychoman59 : met la petite blind. 15
+Akia49001 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Ac]
+psychoman59 : suit. 15
+Akia49001 : parole 
+*** FLOP *** [Qd 7c Kh]
+Akia49001 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Qd 7c Kh] [3h]
+Akia49001 : mise. 30
+psychoman59 : suit. 30
+*** RIVIÈRE *** [Qd 7c Kh 3h] [2d]
+Akia49001 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Akia49001 : montre [Qc 5c] (une paire de Dames)
+psychoman59 : cache la main perdante. 
+Akia49001 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Qd 7c Kh 3h 2d]
+Siège 1 : Akia49001 (grosse blind) a montré [Qc 5c] et a gagné (120) avec une paire de Dames
+Siège 3 : psychoman59 (bouton) (petite blind) a caché la main perdante. [Td Ac]
+
+
+
+Main PokerStars n°254082431012 : Tournoi #3839571283, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 29/12/2024 6:26:39 CET [29/12/2024 0:26:39 ET]
+Table '3839571283 1' 3-max Siège #1 est au bouton.
+Place 1: Akia49001 (645 en jetons) 
+Place 3: psychoman59 (855 en jetons) 
+Akia49001 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 4h]
+Akia49001 : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Akia49001.
+Akia49001 a remporté 60  lors du pot .
+Akia49001 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Akia49001 (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254082432088 : Tournoi #3839571283, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 29/12/2024 6:26:49 CET [29/12/2024 0:26:49 ET]
+Table '3839571283 1' 3-max Siège #3 est au bouton.
+Place 1: Akia49001 (675 en jetons) 
+Place 3: psychoman59 (825 en jetons) 
+psychoman59 : met la petite blind. 20
+Akia49001 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 8s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Akia49001.
+Akia49001 a remporté 40  lors du pot .
+Akia49001 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Akia49001 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254082432539 : Tournoi #3839571283, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 29/12/2024 6:26:54 CET [29/12/2024 0:26:54 ET]
+Table '3839571283 1' 3-max Siège #1 est au bouton.
+Place 1: Akia49001 (695 en jetons) 
+Place 3: psychoman59 (805 en jetons) 
+Akia49001 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s As]
+Akia49001 : suit. 20
+psychoman59 : relance. 765 à 805 et est all-in.
+Akia49001 : suit. 655 et est all-in.
+Personne n'a suivi. (110) sont retournés à psychoman59.
+*** FLOP *** [5h Ts Qc]
+*** TOURNANT *** [5h Ts Qc] [Ac]
+*** RIVIÈRE *** [5h Ts Qc Ac] [2c]
+*** ABATTAGE ***
+psychoman59 : montre [3s As] (une paire de As)
+Akia49001 : montre [8d 9d] (Hauteur As)
+psychoman59 a remporté 1390  lors du pot .
+Akia49001 a fini le tournoi en 2e position.
+psychoman59 gagne le tournoi - félicitations !
+psychoman59 gagne un ticket " €1.50 Step 2 SnG Power Path ticket "
+*** SYNTHÈSE ***
+Pot total 1390 | Commission 0 
+Tableau [5h Ts Qc Ac 2c]
+Siège 1 : Akia49001 (bouton) (petite blind) a montré [8d 9d] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (grosse blind) a montré [3s As] et a gagné (1390) avec une paire de As
+
+
+

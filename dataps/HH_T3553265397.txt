@@ -1,0 +1,94 @@
+﻿Main PokerStars n°242064438330 : Tournoi #3553265397, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/02/2023 8:55:25 CET [25/02/2023 2:55:25 ET]
+Table '3553265397 1' 3-max Siège #1 est au bouton.
+Place 1: bellebury31 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: IP MAN 2020 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+IP MAN 2020 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 5s]
+bellebury31 : passe. 
+psychoman59 : suit. 10
+IP MAN 2020 : parole 
+*** FLOP *** [5c Tc 6d]
+psychoman59 : parole 
+IP MAN 2020 : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [5c Tc 6d] [4s]
+psychoman59 : parole 
+IP MAN 2020 : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [5c Tc 6d 4s] [2d]
+psychoman59 : parole 
+IP MAN 2020 : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à IP MAN 2020.
+IP MAN 2020 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [5c Tc 6d 4s 2d]
+Siège 1 : bellebury31 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Rivière
+Siège 3 : IP MAN 2020 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°242064441761 : Tournoi #3553265397, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/02/2023 8:55:55 CET [25/02/2023 2:55:55 ET]
+Table '3553265397 1' 3-max Siège #2 est au bouton.
+Place 1: bellebury31 (300 en jetons) 
+Place 2: psychoman59 (240 en jetons) 
+Place 3: IP MAN 2020 (360 en jetons) 
+IP MAN 2020 : met la petite blind. 10
+bellebury31 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 6h]
+psychoman59 : passe. 
+IP MAN 2020 : suit. 10
+bellebury31 : parole 
+*** FLOP *** [2d 8c Qc]
+IP MAN 2020 : parole 
+bellebury31 : mise. 20
+IP MAN 2020 : passe. 
+Personne n'a suivi. (20) sont retournés à bellebury31.
+bellebury31 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [2d 8c Qc]
+Siège 1 : bellebury31 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : IP MAN 2020 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°242064444393 : Tournoi #3553265397, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/02/2023 8:56:18 CET [25/02/2023 2:56:18 ET]
+Table '3553265397 1' 3-max Siège #3 est au bouton.
+Place 1: bellebury31 (320 en jetons) 
+Place 2: psychoman59 (240 en jetons) 
+Place 3: IP MAN 2020 (340 en jetons) 
+bellebury31 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 2d]
+IP MAN 2020 : passe. 
+bellebury31 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Qh 2s Qc]
+bellebury31 : parole 
+psychoman59 : mise. 220 et est all-in.
+bellebury31 : suit. 220
+*** TOURNANT *** [Qh 2s Qc] [Ts]
+*** RIVIÈRE *** [Qh 2s Qc Ts] [9h]
+*** ABATTAGE ***
+bellebury31 : montre [5h Qs] (un brelan de Dames)
+psychoman59 : montre [3c 2d] (double paire, Dames et Deux)
+bellebury31 a remporté 480  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [Qh 2s Qc Ts 9h]
+Siège 1 : bellebury31 (petite blind) a montré [5h Qs] et a gagné (480) avec un brelan de Dames
+Siège 2 : psychoman59 (grosse blind) a montré [3c 2d] et a perdu avec double paire, Dames et Deux
+Siège 3 : IP MAN 2020 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+

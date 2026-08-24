@@ -1,0 +1,142 @@
+﻿Main PokerStars n°245050874231 : Tournoi #3623138285, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 27/07/2023 19:16:05 CET [27/07/2023 13:16:05 ET]
+Table '3623138285 1' 3-max Siège #1 est au bouton.
+Place 1: caBETouca3BET (300 en jetons) 
+Place 2: ril86 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+ril86 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 7s]
+caBETouca3BET : relance. 20 à 40
+ril86 : passe. 
+psychoman59 : suit. 20
+*** FLOP *** [Kd Qh Ts]
+psychoman59 : parole 
+caBETouca3BET : mise. 30
+psychoman59 : suit. 30
+*** TOURNANT *** [Kd Qh Ts] [Ah]
+psychoman59 : parole 
+caBETouca3BET : mise. 150
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à caBETouca3BET.
+caBETouca3BET a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Tableau [Kd Qh Ts Ah]
+Siège 1 : caBETouca3BET (bouton) a remporté (150)
+Siège 2 : ril86 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°245050879836 : Tournoi #3623138285, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 27/07/2023 19:16:25 CET [27/07/2023 13:16:25 ET]
+Table '3623138285 1' 3-max Siège #2 est au bouton.
+Place 1: caBETouca3BET (380 en jetons) 
+Place 2: ril86 (290 en jetons) 
+Place 3: psychoman59 (230 en jetons) 
+psychoman59 : met la petite blind. 10
+caBETouca3BET : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 3d]
+ril86 : passe. 
+psychoman59 : suit. 10
+caBETouca3BET : relance. 360 à 380 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (360) sont retournés à caBETouca3BET.
+caBETouca3BET a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : caBETouca3BET (grosse blind) a remporté (40)
+Siège 2 : ril86 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°245050882370 : Tournoi #3623138285, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 27/07/2023 19:16:34 CET [27/07/2023 13:16:34 ET]
+Table '3623138285 1' 3-max Siège #3 est au bouton.
+Place 1: caBETouca3BET (400 en jetons) 
+Place 2: ril86 (290 en jetons) 
+Place 3: psychoman59 (210 en jetons) 
+caBETouca3BET : met la petite blind. 10
+ril86 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Jc]
+psychoman59 : relance. 20 à 40
+caBETouca3BET : passe. 
+ril86 : suit. 20
+*** FLOP *** [Qc 6c 4c]
+ril86 : mise. 90
+psychoman59 : relance. 80 à 170 et est all-in.
+ril86 : suit. 80
+*** TOURNANT *** [Qc 6c 4c] [Kc]
+*** RIVIÈRE *** [Qc 6c 4c Kc] [3d]
+*** ABATTAGE ***
+ril86 : montre [6s Kd] (double paire, Rois et Six)
+psychoman59 : montre [Ac Jc] (une couleur, hauteur As)
+psychoman59 a remporté 430  lors du pot .
+*** SYNTHÈSE ***
+Pot total 430 | Commission 0 
+Tableau [Qc 6c 4c Kc 3d]
+Siège 1 : caBETouca3BET (petite blind) s'est couché. avant Flop
+Siège 2 : ril86 (grosse blind) a montré [6s Kd] et a perdu avec double paire, Rois et Six
+Siège 3 : psychoman59 (bouton) a montré [Ac Jc] et a gagné (430) avec une couleur, hauteur As
+
+
+
+Main PokerStars n°245050889122 : Tournoi #3623138285, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 27/07/2023 19:16:59 CET [27/07/2023 13:16:59 ET]
+Table '3623138285 1' 3-max Siège #1 est au bouton.
+Place 1: caBETouca3BET (390 en jetons) 
+Place 2: ril86 (80 en jetons) 
+Place 3: psychoman59 (430 en jetons) 
+ril86 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Js]
+caBETouca3BET : passe. 
+ril86 : relance. 60 à 80 et est all-in.
+psychoman59 : suit. 60
+*** FLOP *** [3c Qd 4s]
+*** TOURNANT *** [3c Qd 4s] [8d]
+*** RIVIÈRE *** [3c Qd 4s 8d] [5c]
+*** ABATTAGE ***
+ril86 : montre [7d 9h] (Hauteur Dame)
+psychoman59 : montre [Ah Js] (Hauteur As)
+psychoman59 a remporté 160  lors du pot .
+ril86 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [3c Qd 4s 8d 5c]
+Siège 1 : caBETouca3BET (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : ril86 (petite blind) a montré [7d 9h] et a perdu avec Hauteur Dame
+Siège 3 : psychoman59 (grosse blind) a montré [Ah Js] et a gagné (160) avec Hauteur As
+
+
+
+Main PokerStars n°245050893813 : Tournoi #3623138285, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 27/07/2023 19:17:16 CET [27/07/2023 13:17:16 ET]
+Table '3623138285 1' 3-max Siège #3 est au bouton.
+Place 1: caBETouca3BET (390 en jetons) 
+Place 3: psychoman59 (510 en jetons) 
+psychoman59 : met la petite blind. 15
+caBETouca3BET : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Th]
+psychoman59 : relance. 480 à 510 et est all-in.
+caBETouca3BET : suit. 360 et est all-in.
+Personne n'a suivi. (120) sont retournés à psychoman59.
+*** FLOP *** [Ah 4d Qh]
+*** TOURNANT *** [Ah 4d Qh] [Jh]
+*** RIVIÈRE *** [Ah 4d Qh Jh] [2d]
+*** ABATTAGE ***
+caBETouca3BET : montre [3c 3h] (une paire de Trois)
+psychoman59 : montre [Kd Th] (une suite, Dix à As)
+psychoman59 a remporté 780  lors du pot .
+caBETouca3BET a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 4.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 780 | Commission 0 
+Tableau [Ah 4d Qh Jh 2d]
+Siège 1 : caBETouca3BET (grosse blind) a montré [3c 3h] et a perdu avec une paire de Trois
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Kd Th] et a gagné (780) avec une suite, Dix à As
+
+
+

@@ -1,0 +1,127 @@
+﻿Main PokerStars n°240946923462 : Tournoi #3526992784, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 06/01/2023 9:42:13 CET [06/01/2023 3:42:13 ET]
+Table '3526992784 1' 3-max Siège #1 est au bouton.
+Place 1: Ker2i (300 en jetons) 
+Place 2: aless6250 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+aless6250 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 4d]
+Ker2i : suit. 20
+aless6250 : passe. 
+psychoman59 : parole 
+*** FLOP *** [8d Kh Js]
+psychoman59 : parole 
+Ker2i : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Ker2i.
+Ker2i a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [8d Kh Js]
+Siège 1 : Ker2i (bouton) a remporté (50)
+Siège 2 : aless6250 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°240946925342 : Tournoi #3526992784, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 06/01/2023 9:42:28 CET [06/01/2023 3:42:28 ET]
+Table '3526992784 1' 3-max Siège #2 est au bouton.
+Place 1: Ker2i (330 en jetons) 
+Place 2: aless6250 (290 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+Ker2i : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 9c]
+aless6250 : passe. 
+psychoman59 : suit. 10
+Ker2i : relance. 20 à 40
+psychoman59 : suit. 20
+*** FLOP *** [5h 3d 3c]
+psychoman59 : parole 
+Ker2i : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [5h 3d 3c] [8c]
+psychoman59 : parole 
+Ker2i : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [5h 3d 3c 8c] [Qs]
+psychoman59 : parole 
+Ker2i : parole 
+*** ABATTAGE ***
+psychoman59 : montre [2c 9c] (une paire de Trois)
+Ker2i : montre [9d Ac] (une paire de Trois - As kicker)
+Ker2i a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [5h 3d 3c 8c Qs]
+Siège 1 : Ker2i (grosse blind) a montré [9d Ac] et a gagné (160) avec une paire de Trois
+Siège 2 : aless6250 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [2c 9c] et a perdu avec une paire de Trois
+
+
+
+Main PokerStars n°240946928799 : Tournoi #3526992784, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 06/01/2023 9:42:56 CET [06/01/2023 3:42:56 ET]
+Table '3526992784 1' 3-max Siège #3 est au bouton.
+Place 1: Ker2i (410 en jetons) 
+Place 2: aless6250 (290 en jetons) 
+Place 3: psychoman59 (200 en jetons) 
+Ker2i : met la petite blind. 10
+aless6250 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 3c]
+psychoman59 : passe. 
+Ker2i : suit. 10
+aless6250 : parole 
+*** FLOP *** [4s 2s 3d]
+Ker2i : parole 
+aless6250 : parole 
+*** TOURNANT *** [4s 2s 3d] [3h]
+Ker2i : parole 
+aless6250 : parole 
+*** RIVIÈRE *** [4s 2s 3d 3h] [As]
+Ker2i : parole 
+aless6250 : mise. 20
+Ker2i : passe. 
+Personne n'a suivi. (20) sont retournés à aless6250.
+aless6250 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [4s 2s 3d 3h As]
+Siège 1 : Ker2i (petite blind) s'est couché. sur le Rivière
+Siège 2 : aless6250 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°240946930928 : Tournoi #3526992784, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 06/01/2023 9:43:14 CET [06/01/2023 3:43:14 ET]
+Table '3526992784 1' 3-max Siège #1 est au bouton.
+Place 1: Ker2i (390 en jetons) 
+Place 2: aless6250 (310 en jetons) 
+Place 3: psychoman59 (200 en jetons) 
+aless6250 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 6s]
+Ker2i : passe. 
+aless6250 : suit. 10
+psychoman59 : relance. 180 à 200 et est all-in.
+aless6250 : suit. 180
+*** FLOP *** [8h 4s 9s]
+*** TOURNANT *** [8h 4s 9s] [Qs]
+*** RIVIÈRE *** [8h 4s 9s Qs] [Jd]
+*** ABATTAGE ***
+aless6250 : montre [Qh 8c] (double paire, Dames et Huit)
+psychoman59 : montre [Kh 6s] (Hauteur Roi)
+aless6250 a remporté 400  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [8h 4s 9s Qs Jd]
+Siège 1 : Ker2i (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : aless6250 (petite blind) a montré [Qh 8c] et a gagné (400) avec double paire, Dames et Huit
+Siège 3 : psychoman59 (grosse blind) a montré [Kh 6s] et a perdu avec Hauteur Roi
+
+
+

@@ -1,0 +1,75 @@
+﻿Main PokerStars n°261256481339 : Tournoi #4011526724, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 26/06/2026 16:48:10 CET [26/06/2026 10:48:10 ET]
+Table '4011526724 1' 3-max Siège #1 est au bouton.
+Place 1: RaulPeska (500 en jetons) 
+Place 2: charlie18547 (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+charlie18547 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Ad]
+RaulPeska : suit. 20
+charlie18547 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Tc Jc 7c]
+charlie18547 : parole 
+psychoman59 : parole 
+RaulPeska : mise. 40
+charlie18547 : suit. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [Tc Jc 7c] [Td]
+charlie18547 : parole 
+psychoman59 : parole 
+RaulPeska : mise. 40
+charlie18547 : suit. 40
+psychoman59 : suit. 40
+*** RIVIÈRE *** [Tc Jc 7c Td] [Ts]
+charlie18547 : parole 
+psychoman59 : parole 
+RaulPeska : mise. 100
+charlie18547 : relance. 160 à 260
+psychoman59 : passe. 
+RaulPeska : relance. 140 à 400 et est all-in.
+charlie18547 : passe. 
+Personne n'a suivi. (140) sont retournés à RaulPeska.
+RaulPeska a remporté 820  lors du pot .
+*** SYNTHÈSE ***
+Pot total 820 | Commission 0 
+Tableau [Tc Jc 7c Td Ts]
+Siège 1 : RaulPeska (bouton) a remporté (820)
+Siège 2 : charlie18547 (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°261256493200 : Tournoi #4011526724, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 26/06/2026 16:49:38 CET [26/06/2026 10:49:38 ET]
+Table '4011526724 1' 3-max Siège #2 est au bouton.
+Place 1: RaulPeska (960 en jetons) 
+Place 2: charlie18547 (140 en jetons) 
+Place 3: psychoman59 (400 en jetons) 
+psychoman59 : met la petite blind. 10
+RaulPeska : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Ks]
+charlie18547 : passe. 
+psychoman59 : suit. 10
+RaulPeska : relance. 40 à 60
+psychoman59 : suit. 40
+*** FLOP *** [8h 7c 7s]
+psychoman59 : mise. 340 et est all-in.
+RaulPeska : suit. 340
+*** TOURNANT *** [8h 7c 7s] [9h]
+*** RIVIÈRE *** [8h 7c 7s 9h] [Qd]
+*** ABATTAGE ***
+psychoman59 : montre [6s Ks] (une paire de Sept)
+RaulPeska : montre [As Ad] (double paire, As et Sept)
+RaulPeska a remporté 800  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 800 | Commission 0 
+Tableau [8h 7c 7s 9h Qd]
+Siège 1 : RaulPeska (grosse blind) a montré [As Ad] et a gagné (800) avec double paire, As et Sept
+Siège 2 : charlie18547 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [6s Ks] et a perdu avec une paire de Sept
+
+
+

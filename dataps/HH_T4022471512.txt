@@ -1,0 +1,264 @@
+﻿Main PokerStars n°261692535941 : Tournoi #4022471512, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 09/08/2026 7:44:16 CET [09/08/2026 1:44:16 ET]
+Table '4022471512 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: sambaaces (500 en jetons) 
+Place 3: fizsa (500 en jetons) 
+sambaaces : met la petite blind. 10
+fizsa : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 7h]
+psychoman59 : suit. 20
+sambaaces : suit. 10
+fizsa : parole 
+*** FLOP *** [Jh 3d 5s]
+sambaaces : parole 
+fizsa : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Jh 3d 5s] [5c]
+sambaaces : parole 
+fizsa : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Jh 3d 5s 5c] [5h]
+sambaaces : parole 
+fizsa : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+sambaaces : montre [6d As] (un brelan de Cinq)
+fizsa : cache la main perdante. 
+psychoman59 : cache la main perdante. 
+sambaaces a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Jh 3d 5s 5c 5h]
+Siège 1 : psychoman59 (bouton) a caché la main perdante. [Qs 7h]
+Siège 2 : sambaaces (petite blind) a montré [6d As] et a gagné (60) avec un brelan de Cinq
+Siège 3 : fizsa (grosse blind) a caché la main perdante. [Th 4s]
+
+
+
+Main PokerStars n°261692537811 : Tournoi #4022471512, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 09/08/2026 7:44:49 CET [09/08/2026 1:44:49 ET]
+Table '4022471512 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (480 en jetons) 
+Place 2: sambaaces (540 en jetons) 
+Place 3: fizsa (480 en jetons) 
+fizsa : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Ac]
+sambaaces : relance. 40 à 60
+fizsa : relance. 420 à 480 et est all-in.
+psychoman59 : passe. 
+sambaaces : suit. 420
+*** FLOP *** [Qd 8c 3c]
+*** TOURNANT *** [Qd 8c 3c] [6h]
+*** RIVIÈRE *** [Qd 8c 3c 6h] [6c]
+*** ABATTAGE ***
+fizsa : montre [3d 3s] (un full, full aux Trois par les Six)
+sambaaces : montre [Js Ah] (une paire de Six)
+fizsa a remporté 980  lors du pot .
+*** SYNTHÈSE ***
+Pot total 980 | Commission 0 
+Tableau [Qd 8c 3c 6h 6c]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : sambaaces (bouton) a montré [Js Ah] et a perdu avec une paire de Six
+Siège 3 : fizsa (petite blind) a montré [3d 3s] et a gagné (980) avec un full, full aux Trois par les Six
+
+
+
+Main PokerStars n°261692538944 : Tournoi #4022471512, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 09/08/2026 7:45:08 CET [09/08/2026 1:45:08 ET]
+Table '4022471512 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (460 en jetons) 
+Place 2: sambaaces (60 en jetons) 
+Place 3: fizsa (980 en jetons) 
+psychoman59 : met la petite blind. 10
+sambaaces : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 6s]
+fizsa : relance. 960 à 980 et est all-in.
+psychoman59 : suit. 450 et est all-in.
+sambaaces : suit. 40 et est all-in.
+Personne n'a suivi. (520) sont retournés à fizsa.
+*** FLOP *** [7h 7s Qc]
+*** TOURNANT *** [7h 7s Qc] [8h]
+*** RIVIÈRE *** [7h 7s Qc 8h] [Kc]
+*** ABATTAGE ***
+psychoman59 : montre [Ac 6s] (une paire de Sept)
+fizsa : montre [Th As] (une paire de Sept)
+psychoman59 a remporté 400  parallèle lors du pot .
+fizsa a remporté 400  parallèle lors du pot .
+sambaaces : montre [Qh 3h] (double paire, Dames et Sept)
+sambaaces a remporté 180  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 980 Principal pot 180. Parallèle pot 800. | Commission 0 
+Tableau [7h 7s Qc 8h Kc]
+Siège 1 : psychoman59 (petite blind) a montré [Ac 6s] et a gagné (400) avec une paire de Sept
+Siège 2 : sambaaces (grosse blind) a montré [Qh 3h] et a gagné (180) avec double paire, Dames et Sept
+Siège 3 : fizsa (bouton) a montré [Th As] et a gagné (400) avec une paire de Sept
+
+
+
+Main PokerStars n°261692540093 : Tournoi #4022471512, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 09/08/2026 7:45:28 CET [09/08/2026 1:45:28 ET]
+Table '4022471512 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (400 en jetons) 
+Place 2: sambaaces (180 en jetons) 
+Place 3: fizsa (920 en jetons) 
+sambaaces : met la petite blind. 10
+fizsa : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 2s]
+psychoman59 : passe. 
+sambaaces : passe. 
+Personne n'a suivi. (10) sont retournés à fizsa.
+fizsa a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : sambaaces (petite blind) s'est couché. avant Flop
+Siège 3 : fizsa (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°261692540603 : Tournoi #4022471512, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 09/08/2026 7:45:37 CET [09/08/2026 1:45:37 ET]
+Table '4022471512 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (400 en jetons) 
+Place 2: sambaaces (170 en jetons) 
+Place 3: fizsa (930 en jetons) 
+fizsa : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 4c]
+sambaaces : relance. 150 à 170 et est all-in.
+fizsa : relance. 760 à 930 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (760) sont retournés à fizsa.
+*** FLOP *** [Qc Th 3s]
+*** TOURNANT *** [Qc Th 3s] [8d]
+*** RIVIÈRE *** [Qc Th 3s 8d] [9s]
+*** ABATTAGE ***
+fizsa : montre [7d Kc] (Hauteur Roi)
+sambaaces : montre [8h Ks] (une paire de Huit)
+sambaaces a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [Qc Th 3s 8d 9s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : sambaaces (bouton) a montré [8h Ks] et a gagné (360) avec une paire de Huit
+Siège 3 : fizsa (petite blind) a montré [7d Kc] et a perdu avec Hauteur Roi
+
+
+
+Main PokerStars n°261692541361 : Tournoi #4022471512, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 09/08/2026 7:45:51 CET [09/08/2026 1:45:51 ET]
+Table '4022471512 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (380 en jetons) 
+Place 2: sambaaces (360 en jetons) 
+Place 3: fizsa (760 en jetons) 
+psychoman59 : met la petite blind. 10
+sambaaces : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 7s]
+fizsa : suit. 20
+psychoman59 : passe. 
+sambaaces : parole 
+*** FLOP *** [Qh 7h 8h]
+sambaaces : parole 
+fizsa : mise. 50
+sambaaces : suit. 50
+*** TOURNANT *** [Qh 7h 8h] [Jc]
+sambaaces : parole 
+fizsa : mise. 150
+sambaaces : passe. 
+Personne n'a suivi. (150) sont retournés à fizsa.
+fizsa a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Tableau [Qh 7h 8h Jc]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : sambaaces (grosse blind) s'est couché. sur le Tournant
+Siège 3 : fizsa (bouton) a remporté (150)
+
+
+
+Main PokerStars n°261692542853 : Tournoi #4022471512, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 09/08/2026 7:46:17 CET [09/08/2026 1:46:17 ET]
+Table '4022471512 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (370 en jetons) 
+Place 2: sambaaces (290 en jetons) 
+Place 3: fizsa (840 en jetons) 
+sambaaces : met la petite blind. 10
+fizsa : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Tc]
+psychoman59 : suit. 20
+sambaaces : passe. 
+fizsa : parole 
+*** FLOP *** [9h 5h As]
+fizsa : parole 
+psychoman59 : mise. 50
+fizsa : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [9h 5h As]
+Siège 1 : psychoman59 (bouton) a remporté (50)
+Siège 2 : sambaaces (petite blind) s'est couché. avant Flop
+Siège 3 : fizsa (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261692543851 : Tournoi #4022471512, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 09/08/2026 7:46:34 CET [09/08/2026 1:46:34 ET]
+Table '4022471512 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (400 en jetons) 
+Place 2: sambaaces (280 en jetons) 
+Place 3: fizsa (820 en jetons) 
+fizsa : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 2d]
+sambaaces : passe. 
+fizsa : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Th 5h 3h]
+fizsa : mise. 790 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (790) sont retournés à fizsa.
+fizsa a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Th 5h 3h]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : sambaaces (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : fizsa (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°261692544900 : Tournoi #4022471512, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 09/08/2026 7:46:52 CET [09/08/2026 1:46:52 ET]
+Table '4022471512 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (370 en jetons) 
+Place 2: sambaaces (280 en jetons) 
+Place 3: fizsa (850 en jetons) 
+psychoman59 : met la petite blind. 15
+sambaaces : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Ad]
+fizsa : relance. 820 à 850 et est all-in.
+psychoman59 : suit. 355 et est all-in.
+sambaaces : passe. 
+Personne n'a suivi. (480) sont retournés à fizsa.
+*** FLOP *** [7c 6s Jh]
+*** TOURNANT *** [7c 6s Jh] [6h]
+*** RIVIÈRE *** [7c 6s Jh 6h] [2c]
+*** ABATTAGE ***
+psychoman59 : montre [7h Ad] (double paire, Sept et Six)
+fizsa : montre [Qc Qd] (double paire, Dames et Six)
+fizsa a remporté 770  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 770 | Commission 0 
+Tableau [7c 6s Jh 6h 2c]
+Siège 1 : psychoman59 (petite blind) a montré [7h Ad] et a perdu avec double paire, Sept et Six
+Siège 2 : sambaaces (grosse blind) s'est couché. avant Flop
+Siège 3 : fizsa (bouton) a montré [Qc Qd] et a gagné (770) avec double paire, Dames et Six
+
+
+

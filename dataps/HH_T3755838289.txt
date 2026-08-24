@@ -1,0 +1,592 @@
+﻿Main PokerStars n°250559631322 : Tournoi #3755838289, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/05/2024 7:53:48 CET [18/05/2024 1:53:48 ET]
+Table '3755838289 1' 3-max Siège #1 est au bouton.
+Place 1: sheron64 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: ortega4240 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+ortega4240 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Jc]
+sheron64 : suit. 20
+psychoman59 : suit. 10
+ortega4240 : parole 
+*** FLOP *** [5h 6h 4h]
+psychoman59 : parole 
+ortega4240 : mise. 60
+sheron64 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à ortega4240.
+ortega4240 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [5h 6h 4h]
+Siège 1 : sheron64 (bouton) s'est couché. sur le Flop
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 3 : ortega4240 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°250559633171 : Tournoi #3755838289, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/05/2024 7:54:05 CET [18/05/2024 1:54:05 ET]
+Table '3755838289 1' 3-max Siège #2 est au bouton.
+Place 1: sheron64 (280 en jetons) 
+Place 2: psychoman59 (280 en jetons) 
+Place 3: ortega4240 (340 en jetons) 
+ortega4240 : met la petite blind. 10
+sheron64 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Kc]
+psychoman59 : passe. 
+ortega4240 : suit. 10
+sheron64 : parole 
+*** FLOP *** [Jh 2c 2d]
+ortega4240 : parole 
+sheron64 : mise. 20
+ortega4240 : passe. 
+Personne n'a suivi. (20) sont retournés à sheron64.
+sheron64 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Jh 2c 2d]
+Siège 1 : sheron64 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : ortega4240 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°250559634762 : Tournoi #3755838289, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/05/2024 7:54:20 CET [18/05/2024 1:54:20 ET]
+Table '3755838289 1' 3-max Siège #3 est au bouton.
+Place 1: sheron64 (300 en jetons) 
+Place 2: psychoman59 (280 en jetons) 
+Place 3: ortega4240 (320 en jetons) 
+sheron64 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 8h]
+ortega4240 : suit. 20
+sheron64 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [6s 9c Js]
+sheron64 : parole 
+psychoman59 : parole 
+ortega4240 : parole 
+*** TOURNANT *** [6s 9c Js] [5c]
+sheron64 : mise. 20
+psychoman59 : suit. 20
+ortega4240 : passe. 
+*** RIVIÈRE *** [6s 9c Js 5c] [As]
+sheron64 : mise. 20
+psychoman59 : relance. 40 à 60
+sheron64 : suit. 40
+*** ABATTAGE ***
+psychoman59 : montre [7c 8h] (une suite, Cinq à Neuf)
+sheron64 : cache la main perdante. 
+psychoman59 a remporté 220  lors du pot .
+*** SYNTHÈSE ***
+Pot total 220 | Commission 0 
+Tableau [6s 9c Js 5c As]
+Siège 1 : sheron64 (petite blind) a caché la main perdante. [8d 9s]
+Siège 2 : psychoman59 (grosse blind) a montré [7c 8h] et a gagné (220) avec une suite, Cinq à Neuf
+Siège 3 : ortega4240 (bouton) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°250559638448 : Tournoi #3755838289, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/05/2024 7:54:56 CET [18/05/2024 1:54:56 ET]
+Table '3755838289 1' 3-max Siège #1 est au bouton.
+Place 1: sheron64 (200 en jetons) 
+Place 2: psychoman59 (400 en jetons) 
+Place 3: ortega4240 (300 en jetons) 
+psychoman59 : met la petite blind. 15
+ortega4240 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 2h]
+sheron64 : suit. 30
+psychoman59 : passe. 
+ortega4240 : parole 
+*** FLOP *** [Tc Ts 8d]
+ortega4240 : parole 
+sheron64 : parole 
+*** TOURNANT *** [Tc Ts 8d] [Qh]
+ortega4240 : parole 
+sheron64 : parole 
+*** RIVIÈRE *** [Tc Ts 8d Qh] [5s]
+ortega4240 : parole 
+sheron64 : parole 
+*** ABATTAGE ***
+ortega4240 : montre [9h Td] (un brelan de Dix)
+sheron64 : cache la main perdante. 
+ortega4240 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Tableau [Tc Ts 8d Qh 5s]
+Siège 1 : sheron64 (bouton) a caché la main perdante. [6s 7s]
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : ortega4240 (grosse blind) a montré [9h Td] et a gagné (75) avec un brelan de Dix
+
+
+
+Main PokerStars n°250559640836 : Tournoi #3755838289, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/05/2024 7:55:21 CET [18/05/2024 1:55:21 ET]
+Table '3755838289 1' 3-max Siège #2 est au bouton.
+Place 1: sheron64 (170 en jetons) 
+Place 2: psychoman59 (385 en jetons) 
+Place 3: ortega4240 (345 en jetons) 
+ortega4240 : met la petite blind. 15
+sheron64 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 4c]
+psychoman59 : passe. 
+ortega4240 : suit. 15
+sheron64 : relance. 30 à 60
+ortega4240 : suit. 30
+*** FLOP *** [Qs 5c 9c]
+ortega4240 : parole 
+sheron64 : parole 
+*** TOURNANT *** [Qs 5c 9c] [6h]
+ortega4240 : parole 
+sheron64 : mise. 30
+ortega4240 : suit. 30
+*** RIVIÈRE *** [Qs 5c 9c 6h] [4h]
+ortega4240 : parole 
+sheron64 : mise. 30
+ortega4240 : suit. 30
+*** ABATTAGE ***
+sheron64 : montre [Ac Qh] (une paire de Dames)
+ortega4240 : cache la main perdante. 
+sheron64 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Qs 5c 9c 6h 4h]
+Siège 1 : sheron64 (grosse blind) a montré [Ac Qh] et a gagné (240) avec une paire de Dames
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : ortega4240 (petite blind) a caché la main perdante. [Kd 2s]
+
+
+
+Main PokerStars n°250559644976 : Tournoi #3755838289, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 18/05/2024 7:56:07 CET [18/05/2024 1:56:07 ET]
+Table '3755838289 1' 3-max Siège #3 est au bouton.
+Place 1: sheron64 (290 en jetons) 
+Place 2: psychoman59 (385 en jetons) 
+Place 3: ortega4240 (225 en jetons) 
+sheron64 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Kh]
+ortega4240 : relance. 185 à 225 et est all-in.
+sheron64 : relance. 65 à 290 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (65) sont retournés à sheron64.
+*** FLOP *** [Qs Jc 9h]
+*** TOURNANT *** [Qs Jc 9h] [As]
+*** RIVIÈRE *** [Qs Jc 9h As] [7h]
+*** ABATTAGE ***
+sheron64 : montre [Ah 6s] (une paire de As)
+ortega4240 : montre [Qc 5c] (une paire de Dames)
+sheron64 a remporté 490  lors du pot .
+ortega4240 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 490 | Commission 0 
+Tableau [Qs Jc 9h As 7h]
+Siège 1 : sheron64 (petite blind) a montré [Ah 6s] et a gagné (490) avec une paire de As
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : ortega4240 (bouton) a montré [Qc 5c] et a perdu avec une paire de Dames
+
+
+
+Main PokerStars n°250559646865 : Tournoi #3755838289, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 18/05/2024 7:56:28 CET [18/05/2024 1:56:28 ET]
+Table '3755838289 1' 3-max Siège #2 est au bouton.
+Place 1: sheron64 (555 en jetons) 
+Place 2: psychoman59 (345 en jetons) 
+psychoman59 : met la petite blind. 20
+sheron64 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Ad]
+psychoman59 : relance. 40 à 80
+sheron64 : suit. 40
+*** FLOP *** [Jh Qd 7h]
+sheron64 : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [Jh Qd 7h] [Js]
+sheron64 : mise. 40
+psychoman59 : suit. 40
+*** RIVIÈRE *** [Jh Qd 7h Js] [Tc]
+sheron64 : mise. 40
+psychoman59 : relance. 145 à 185 et est all-in.
+sheron64 : suit. 145
+*** ABATTAGE ***
+psychoman59 : montre [Ks Ad] (une suite, Dix à As)
+sheron64 : montre [Qh Ts] (double paire, Dames et Valets)
+psychoman59 a remporté 690  lors du pot .
+*** SYNTHÈSE ***
+Pot total 690 | Commission 0 
+Tableau [Jh Qd 7h Js Tc]
+Siège 1 : sheron64 (grosse blind) a montré [Qh Ts] et a perdu avec double paire, Dames et Valets
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Ks Ad] et a gagné (690) avec une suite, Dix à As
+
+
+
+Main PokerStars n°250559649310 : Tournoi #3755838289, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 18/05/2024 7:56:54 CET [18/05/2024 1:56:54 ET]
+Table '3755838289 1' 3-max Siège #1 est au bouton.
+Place 1: sheron64 (210 en jetons) 
+Place 2: psychoman59 (690 en jetons) 
+sheron64 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 7d]
+sheron64 : suit. 30
+psychoman59 : relance. 630 à 690 et est all-in.
+sheron64 : suit. 150 et est all-in.
+Personne n'a suivi. (480) sont retournés à psychoman59.
+*** FLOP *** [9c 9d Kh]
+*** TOURNANT *** [9c 9d Kh] [Jc]
+*** RIVIÈRE *** [9c 9d Kh Jc] [5s]
+*** ABATTAGE ***
+psychoman59 : montre [As 7d] (une paire de Neuf)
+sheron64 : montre [2c Ad] (une paire de Neuf)
+psychoman59 a remporté 210  lors du pot .
+sheron64 a remporté 210  lors du pot .
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [9c 9d Kh Jc 5s]
+Siège 1 : sheron64 (bouton) (petite blind) a montré [2c Ad] et a gagné (210) avec une paire de Neuf
+Siège 2 : psychoman59 (grosse blind) a montré [As 7d] et a gagné (210) avec une paire de Neuf
+
+
+
+Main PokerStars n°250559650606 : Tournoi #3755838289, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 18/05/2024 7:57:09 CET [18/05/2024 1:57:09 ET]
+Table '3755838289 1' 3-max Siège #2 est au bouton.
+Place 1: sheron64 (210 en jetons) 
+Place 2: psychoman59 (690 en jetons) 
+psychoman59 : met la petite blind. 30
+sheron64 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 7s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à sheron64.
+sheron64 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : sheron64 (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°250559651021 : Tournoi #3755838289, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 18/05/2024 7:57:13 CET [18/05/2024 1:57:13 ET]
+Table '3755838289 1' 3-max Siège #1 est au bouton.
+Place 1: sheron64 (240 en jetons) 
+Place 2: psychoman59 (660 en jetons) 
+sheron64 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Ks]
+sheron64 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : sheron64 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°250559651419 : Tournoi #3755838289, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 18/05/2024 7:57:18 CET [18/05/2024 1:57:18 ET]
+Table '3755838289 1' 3-max Siège #2 est au bouton.
+Place 1: sheron64 (210 en jetons) 
+Place 2: psychoman59 (690 en jetons) 
+psychoman59 : met la petite blind. 30
+sheron64 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 8s]
+psychoman59 : suit. 30
+sheron64 : parole 
+*** FLOP *** [5s Qh Js]
+sheron64 : mise. 150 et est all-in.
+psychoman59 : suit. 150
+*** TOURNANT *** [5s Qh Js] [3d]
+*** RIVIÈRE *** [5s Qh Js 3d] [6d]
+*** ABATTAGE ***
+sheron64 : montre [Jd 7h] (une paire de Valets)
+psychoman59 : montre [9s 8s] (Hauteur Dame)
+sheron64 a remporté 420  lors du pot .
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [5s Qh Js 3d 6d]
+Siège 1 : sheron64 (grosse blind) a montré [Jd 7h] et a gagné (420) avec une paire de Valets
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [9s 8s] et a perdu avec Hauteur Dame
+
+
+
+Main PokerStars n°250559652877 : Tournoi #3755838289, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 18/05/2024 7:57:34 CET [18/05/2024 1:57:34 ET]
+Table '3755838289 1' 3-max Siège #1 est au bouton.
+Place 1: sheron64 (420 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+sheron64 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 9c]
+sheron64 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : sheron64 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°250559653305 : Tournoi #3755838289, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 18/05/2024 7:57:38 CET [18/05/2024 1:57:38 ET]
+Table '3755838289 1' 3-max Siège #2 est au bouton.
+Place 1: sheron64 (390 en jetons) 
+Place 2: psychoman59 (510 en jetons) 
+psychoman59 : met la petite blind. 30
+sheron64 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 5h]
+psychoman59 : relance. 450 à 510 et est all-in.
+sheron64 : passe. 
+Personne n'a suivi. (450) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : sheron64 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°250559653945 : Tournoi #3755838289, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 18/05/2024 7:57:45 CET [18/05/2024 1:57:45 ET]
+Table '3755838289 1' 3-max Siège #1 est au bouton.
+Place 1: sheron64 (330 en jetons) 
+Place 2: psychoman59 (570 en jetons) 
+sheron64 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 5h]
+sheron64 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Ts 3h 7h]
+psychoman59 : parole 
+sheron64 : parole 
+*** TOURNANT *** [Ts 3h 7h] [Ad]
+psychoman59 : parole 
+sheron64 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à sheron64.
+sheron64 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Ts 3h 7h Ad]
+Siège 1 : sheron64 (bouton) (petite blind) a remporté (120)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°250559655902 : Tournoi #3755838289, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 18/05/2024 7:58:06 CET [18/05/2024 1:58:06 ET]
+Table '3755838289 1' 3-max Siège #2 est au bouton.
+Place 1: sheron64 (390 en jetons) 
+Place 2: psychoman59 (510 en jetons) 
+psychoman59 : met la petite blind. 40
+sheron64 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 8s]
+psychoman59 : suit. 40
+sheron64 : parole 
+*** FLOP *** [9h 9s 6s]
+sheron64 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [9h 9s 6s] [6h]
+sheron64 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [9h 9s 6s 6h] [3h]
+sheron64 : parole 
+psychoman59 : mise. 80
+sheron64 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [9h 9s 6s 6h 3h]
+Siège 1 : sheron64 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°250559657529 : Tournoi #3755838289, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 18/05/2024 7:58:23 CET [18/05/2024 1:58:23 ET]
+Table '3755838289 1' 3-max Siège #1 est au bouton.
+Place 1: sheron64 (310 en jetons) 
+Place 2: psychoman59 (590 en jetons) 
+sheron64 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 8d]
+sheron64 : suit. 40
+psychoman59 : parole 
+*** FLOP *** [2s Tc 7s]
+psychoman59 : parole 
+sheron64 : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à sheron64.
+sheron64 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [2s Tc 7s]
+Siège 1 : sheron64 (bouton) (petite blind) a remporté (160)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°250559658660 : Tournoi #3755838289, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 18/05/2024 7:58:36 CET [18/05/2024 1:58:36 ET]
+Table '3755838289 1' 3-max Siège #2 est au bouton.
+Place 1: sheron64 (390 en jetons) 
+Place 2: psychoman59 (510 en jetons) 
+psychoman59 : met la petite blind. 40
+sheron64 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Qc]
+psychoman59 : suit. 40
+sheron64 : parole 
+*** FLOP *** [2c Ts Js]
+sheron64 : parole 
+psychoman59 : mise. 160
+sheron64 : passe. 
+Personne n'a suivi. (160) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [2c Ts Js]
+Siège 1 : sheron64 (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°250559659786 : Tournoi #3755838289, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 18/05/2024 7:58:48 CET [18/05/2024 1:58:48 ET]
+Table '3755838289 1' 3-max Siège #1 est au bouton.
+Place 1: sheron64 (310 en jetons) 
+Place 2: psychoman59 (590 en jetons) 
+sheron64 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 6h]
+sheron64 : suit. 40
+psychoman59 : parole 
+*** FLOP *** [Kh 2s 3c]
+psychoman59 : parole 
+sheron64 : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à sheron64.
+sheron64 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Kh 2s 3c]
+Siège 1 : sheron64 (bouton) (petite blind) a remporté (160)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°250559661146 : Tournoi #3755838289, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 18/05/2024 7:59:03 CET [18/05/2024 1:59:03 ET]
+Table '3755838289 1' 3-max Siège #2 est au bouton.
+Place 1: sheron64 (390 en jetons) 
+Place 2: psychoman59 (510 en jetons) 
+psychoman59 : met la petite blind. 50
+sheron64 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Td]
+psychoman59 : suit. 50
+sheron64 : parole 
+*** FLOP *** [Jh 7s Ts]
+sheron64 : mise. 100
+psychoman59 : suit. 100
+*** TOURNANT *** [Jh 7s Ts] [9h]
+sheron64 : mise. 100
+psychoman59 : relance. 210 à 310 et est all-in.
+sheron64 : suit. 90 et est all-in.
+Personne n'a suivi. (120) sont retournés à psychoman59.
+*** RIVIÈRE *** [Jh 7s Ts 9h] [Qc]
+*** ABATTAGE ***
+sheron64 : montre [8c Js] (une suite, Huit à Dame)
+psychoman59 : montre [9c Td] (double paire, Dix et Neuf)
+sheron64 a remporté 780  lors du pot .
+*** SYNTHÈSE ***
+Pot total 780 | Commission 0 
+Tableau [Jh 7s Ts 9h Qc]
+Siège 1 : sheron64 (grosse blind) a montré [8c Js] et a gagné (780) avec une suite, Huit à Dame
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [9c Td] et a perdu avec double paire, Dix et Neuf
+
+
+
+Main PokerStars n°250559662852 : Tournoi #3755838289, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 18/05/2024 7:59:22 CET [18/05/2024 1:59:22 ET]
+Table '3755838289 1' 3-max Siège #1 est au bouton.
+Place 1: sheron64 (780 en jetons) 
+Place 2: psychoman59 (120 en jetons) 
+sheron64 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 2d]
+sheron64 : suit. 50
+psychoman59 : parole 
+*** FLOP *** [4d Th 8s]
+psychoman59 : parole 
+sheron64 : mise. 100
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à sheron64.
+sheron64 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [4d Th 8s]
+Siège 1 : sheron64 (bouton) (petite blind) a remporté (200)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°250559663896 : Tournoi #3755838289, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 18/05/2024 7:59:33 CET [18/05/2024 1:59:33 ET]
+Table '3755838289 1' 3-max Siège #2 est au bouton.
+Place 1: sheron64 (880 en jetons) 
+Place 2: psychoman59 (20 en jetons) 
+psychoman59 : met la petite blind. 20 et est all-in.
+sheron64 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 4h]
+Personne n'a suivi. (80) sont retournés à sheron64.
+*** FLOP *** [8s 3c Jd]
+*** TOURNANT *** [8s 3c Jd] [5s]
+*** RIVIÈRE *** [8s 3c Jd 5s] [9s]
+*** ABATTAGE ***
+sheron64 : montre [Ks 6h] (Hauteur Roi)
+psychoman59 : montre [3s 4h] (une paire de Trois)
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [8s 3c Jd 5s 9s]
+Siège 1 : sheron64 (grosse blind) a montré [Ks 6h] et a perdu avec Hauteur Roi
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [3s 4h] et a gagné (40) avec une paire de Trois
+
+
+
+Main PokerStars n°250559664641 : Tournoi #3755838289, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 18/05/2024 7:59:41 CET [18/05/2024 1:59:41 ET]
+Table '3755838289 1' 3-max Siège #1 est au bouton.
+Place 1: sheron64 (860 en jetons) 
+Place 2: psychoman59 (40 en jetons) 
+sheron64 : met la petite blind. 50
+psychoman59 : met la grosse blind. 40 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Qd]
+Personne n'a suivi. (10) sont retournés à sheron64.
+*** FLOP *** [Ac 6s 5d]
+*** TOURNANT *** [Ac 6s 5d] [Kd]
+*** RIVIÈRE *** [Ac 6s 5d Kd] [4d]
+*** ABATTAGE ***
+psychoman59 : montre [Th Qd] (Hauteur As)
+sheron64 : montre [Jc 5h] (une paire de Cinq)
+sheron64 a remporté 80  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+sheron64 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Ac 6s 5d Kd 4d]
+Siège 1 : sheron64 (bouton) (petite blind) a montré [Jc 5h] et a gagné (80) avec une paire de Cinq
+Siège 2 : psychoman59 (grosse blind) a montré [Th Qd] et a perdu avec Hauteur As
+
+
+

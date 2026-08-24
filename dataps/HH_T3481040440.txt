@@ -1,0 +1,32 @@
+﻿Main PokerStars n°239028205309 : Tournoi #3481040440, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/10/2022 16:00:12 CET [04/10/2022 10:00:12 ET]
+Table '3481040440 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: MonsieurSpin (300 en jetons) 
+Place 3: TFK42 (300 en jetons) 
+MonsieurSpin : met la petite blind. 10
+TFK42 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 9h]
+psychoman59 : relance. 280 à 300 et est all-in.
+MonsieurSpin : suit. 290 et est all-in.
+TFK42 : suit. 280 et est all-in.
+*** FLOP *** [2s 2d Jh]
+*** TOURNANT *** [2s 2d Jh] [8s]
+*** RIVIÈRE *** [2s 2d Jh 8s] [As]
+*** ABATTAGE ***
+MonsieurSpin : montre [Kh Kd] (double paire, Rois et Deux)
+TFK42 : montre [Qs Qd] (double paire, Dames et Deux)
+psychoman59 : montre [9c 9h] (double paire, Neuf et Deux)
+MonsieurSpin a remporté 900  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+TFK42 a fini le tournoi en 2e position.
+MonsieurSpin remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Tableau [2s 2d Jh 8s As]
+Siège 1 : psychoman59 (bouton) a montré [9c 9h] et a perdu avec double paire, Neuf et Deux
+Siège 2 : MonsieurSpin (petite blind) a montré [Kh Kd] et a gagné (900) avec double paire, Rois et Deux
+Siège 3 : TFK42 (grosse blind) a montré [Qs Qd] et a perdu avec double paire, Dames et Deux
+
+
+

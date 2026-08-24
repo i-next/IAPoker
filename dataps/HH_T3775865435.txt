@@ -1,0 +1,939 @@
+﻿Main PokerStars n°251402874374 : Tournoi #3775865435, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 09/07/2024 7:48:19 CET [09/07/2024 1:48:19 ET]
+Table '3775865435 1' 3-max Siège #1 est au bouton.
+Place 1: fanmf (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: AntifaOu (500 en jetons) 
+psychoman59 : met la petite blind. 10
+AntifaOu : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Ks]
+fanmf : passe. 
+psychoman59 : suit. 10
+AntifaOu : parole 
+*** FLOP *** [Qh 6c 8c]
+psychoman59 : parole 
+AntifaOu : parole 
+*** TOURNANT *** [Qh 6c 8c] [Jh]
+psychoman59 : parole 
+AntifaOu : parole 
+*** RIVIÈRE *** [Qh 6c 8c Jh] [2d]
+psychoman59 : mise. 40
+AntifaOu : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Qh 6c 8c Jh 2d]
+Siège 1 : fanmf (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (40)
+Siège 3 : AntifaOu (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°251402875156 : Tournoi #3775865435, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 09/07/2024 7:48:38 CET [09/07/2024 1:48:38 ET]
+Table '3775865435 1' 3-max Siège #2 est au bouton.
+Place 1: fanmf (500 en jetons) 
+Place 2: psychoman59 (520 en jetons) 
+Place 3: AntifaOu (480 en jetons) 
+AntifaOu : met la petite blind. 10
+fanmf : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 6d]
+psychoman59 : passe. 
+AntifaOu : suit. 10
+fanmf : parole 
+*** FLOP *** [Ad Qc 7c]
+AntifaOu : parole 
+fanmf : parole 
+*** TOURNANT *** [Ad Qc 7c] [5c]
+AntifaOu : parole 
+fanmf : mise. 20
+AntifaOu : suit. 20
+*** RIVIÈRE *** [Ad Qc 7c 5c] [4h]
+AntifaOu : parole 
+fanmf : mise. 20
+AntifaOu : suit. 20
+*** ABATTAGE ***
+fanmf : montre [8h Qs] (une paire de Dames)
+AntifaOu : cache la main perdante. 
+fanmf a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Ad Qc 7c 5c 4h]
+Siège 1 : fanmf (grosse blind) a montré [8h Qs] et a gagné (120) avec une paire de Dames
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : AntifaOu (petite blind) a caché la main perdante. [Jh 7d]
+
+
+
+Main PokerStars n°251402876331 : Tournoi #3775865435, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 09/07/2024 7:49:05 CET [09/07/2024 1:49:05 ET]
+Table '3775865435 1' 3-max Siège #3 est au bouton.
+Place 1: fanmf (560 en jetons) 
+Place 2: psychoman59 (520 en jetons) 
+Place 3: AntifaOu (420 en jetons) 
+fanmf : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 9d]
+AntifaOu : suit. 20
+fanmf : passe. 
+psychoman59 : parole 
+*** FLOP *** [Js Jc Ts]
+psychoman59 : parole 
+AntifaOu : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à AntifaOu.
+AntifaOu a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [Js Jc Ts]
+Siège 1 : fanmf (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : AntifaOu (bouton) a remporté (50)
+
+
+
+Main PokerStars n°251402877000 : Tournoi #3775865435, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 09/07/2024 7:49:20 CET [09/07/2024 1:49:20 ET]
+Table '3775865435 1' 3-max Siège #1 est au bouton.
+Place 1: fanmf (550 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: AntifaOu (450 en jetons) 
+psychoman59 : met la petite blind. 10
+AntifaOu : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 6d]
+fanmf : passe. 
+psychoman59 : suit. 10
+AntifaOu : parole 
+*** FLOP *** [Jd Tc Qh]
+psychoman59 : parole 
+AntifaOu : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [Jd Tc Qh] [2s]
+psychoman59 : parole 
+AntifaOu : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [Jd Tc Qh 2s] [9s]
+psychoman59 : parole 
+AntifaOu : parole 
+*** ABATTAGE ***
+psychoman59 : montre [9d 6d] (une paire de Neuf)
+AntifaOu : montre [5c Qd] (une paire de Dames)
+AntifaOu a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Jd Tc Qh 2s 9s]
+Siège 1 : fanmf (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [9d 6d] et a perdu avec une paire de Neuf
+Siège 3 : AntifaOu (grosse blind) a montré [5c Qd] et a gagné (120) avec une paire de Dames
+
+
+
+Main PokerStars n°251402877931 : Tournoi #3775865435, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 09/07/2024 7:49:41 CET [09/07/2024 1:49:41 ET]
+Table '3775865435 1' 3-max Siège #2 est au bouton.
+Place 1: fanmf (550 en jetons) 
+Place 2: psychoman59 (440 en jetons) 
+Place 3: AntifaOu (510 en jetons) 
+AntifaOu : met la petite blind. 10
+fanmf : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 8s]
+psychoman59 : passe. 
+AntifaOu : suit. 10
+fanmf : relance. 20 à 40
+AntifaOu : suit. 20
+*** FLOP *** [Kh 3c 7s]
+AntifaOu : parole 
+fanmf : parole 
+*** TOURNANT *** [Kh 3c 7s] [Tc]
+AntifaOu : parole 
+fanmf : mise. 20
+AntifaOu : suit. 20
+*** RIVIÈRE *** [Kh 3c 7s Tc] [Jd]
+AntifaOu : parole 
+fanmf : mise. 20
+AntifaOu : suit. 20
+*** ABATTAGE ***
+fanmf : montre [Kc Qd] (une paire de Rois)
+AntifaOu : cache la main perdante. 
+fanmf a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Kh 3c 7s Tc Jd]
+Siège 1 : fanmf (grosse blind) a montré [Kc Qd] et a gagné (160) avec une paire de Rois
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : AntifaOu (petite blind) a caché la main perdante. [7d 5c]
+
+
+
+Main PokerStars n°251402879236 : Tournoi #3775865435, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 09/07/2024 7:50:08 CET [09/07/2024 1:50:08 ET]
+Table '3775865435 1' 3-max Siège #3 est au bouton.
+Place 1: fanmf (630 en jetons) 
+Place 2: psychoman59 (440 en jetons) 
+Place 3: AntifaOu (430 en jetons) 
+fanmf : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 4d]
+AntifaOu : suit. 20
+fanmf : suit. 10
+psychoman59 : parole 
+*** FLOP *** [3h 6s 8d]
+fanmf : parole 
+psychoman59 : parole 
+AntifaOu : parole 
+*** TOURNANT *** [3h 6s 8d] [Jh]
+fanmf : parole 
+psychoman59 : parole 
+AntifaOu : parole 
+*** RIVIÈRE *** [3h 6s 8d Jh] [4c]
+fanmf : parole 
+psychoman59 : parole 
+AntifaOu : parole 
+*** ABATTAGE ***
+fanmf : montre [Ad 6d] (une paire de Six)
+psychoman59 : cache la main perdante. 
+AntifaOu : cache la main perdante. 
+fanmf a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [3h 6s 8d Jh 4c]
+Siège 1 : fanmf (petite blind) a montré [Ad 6d] et a gagné (60) avec une paire de Six
+Siège 2 : psychoman59 (grosse blind) a caché la main perdante. [Qd 4d]
+Siège 3 : AntifaOu (bouton) a caché la main perdante. [3c 2c]
+
+
+
+Main PokerStars n°251402880921 : Tournoi #3775865435, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 09/07/2024 7:50:43 CET [09/07/2024 1:50:43 ET]
+Table '3775865435 1' 3-max Siège #1 est au bouton.
+Place 1: fanmf (670 en jetons) 
+Place 2: psychoman59 (420 en jetons) 
+Place 3: AntifaOu (410 en jetons) 
+psychoman59 : met la petite blind. 15
+AntifaOu : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 7d]
+fanmf : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à AntifaOu.
+AntifaOu a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : fanmf (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : AntifaOu (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°251402881181 : Tournoi #3775865435, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 09/07/2024 7:50:49 CET [09/07/2024 1:50:49 ET]
+Table '3775865435 1' 3-max Siège #2 est au bouton.
+Place 1: fanmf (670 en jetons) 
+Place 2: psychoman59 (405 en jetons) 
+Place 3: AntifaOu (425 en jetons) 
+AntifaOu : met la petite blind. 15
+fanmf : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Ad]
+psychoman59 : relance. 30 à 60
+AntifaOu : passe. 
+fanmf : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 75  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : fanmf (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a remporté (75)
+Siège 3 : AntifaOu (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°251402881527 : Tournoi #3775865435, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 09/07/2024 7:50:55 CET [09/07/2024 1:50:55 ET]
+Table '3775865435 1' 3-max Siège #3 est au bouton.
+Place 1: fanmf (640 en jetons) 
+Place 2: psychoman59 (450 en jetons) 
+Place 3: AntifaOu (410 en jetons) 
+fanmf : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 7c]
+AntifaOu : suit. 30
+fanmf : passe. 
+psychoman59 : parole 
+*** FLOP *** [8c 3c Ac]
+psychoman59 : parole 
+AntifaOu : mise. 30
+psychoman59 : suit. 30
+*** TOURNANT *** [8c 3c Ac] [Ks]
+psychoman59 : parole 
+AntifaOu : parole 
+*** RIVIÈRE *** [8c 3c Ac Ks] [8h]
+psychoman59 : parole 
+AntifaOu : mise. 68
+psychoman59 : passe. 
+Personne n'a suivi. (68) sont retournés à AntifaOu.
+AntifaOu a remporté 135  lors du pot .
+*** SYNTHÈSE ***
+Pot total 135 | Commission 0 
+Tableau [8c 3c Ac Ks 8h]
+Siège 1 : fanmf (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : AntifaOu (bouton) a remporté (135)
+
+
+
+Main PokerStars n°251402882676 : Tournoi #3775865435, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 09/07/2024 7:51:18 CET [09/07/2024 1:51:18 ET]
+Table '3775865435 1' 3-max Siège #1 est au bouton.
+Place 1: fanmf (625 en jetons) 
+Place 2: psychoman59 (390 en jetons) 
+Place 3: AntifaOu (485 en jetons) 
+psychoman59 : met la petite blind. 15
+AntifaOu : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c As]
+fanmf : passe. 
+psychoman59 : relance. 360 à 390 et est all-in.
+AntifaOu : passe. 
+Personne n'a suivi. (360) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : fanmf (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (60)
+Siège 3 : AntifaOu (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°251402883146 : Tournoi #3775865435, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 09/07/2024 7:51:27 CET [09/07/2024 1:51:27 ET]
+Table '3775865435 1' 3-max Siège #2 est au bouton.
+Place 1: fanmf (625 en jetons) 
+Place 2: psychoman59 (420 en jetons) 
+Place 3: AntifaOu (455 en jetons) 
+AntifaOu : met la petite blind. 15
+fanmf : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 9c]
+psychoman59 : passe. 
+AntifaOu : relance. 30 à 60
+fanmf : passe. 
+Personne n'a suivi. (30) sont retournés à AntifaOu.
+AntifaOu a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : fanmf (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : AntifaOu (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°251402883479 : Tournoi #3775865435, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 09/07/2024 7:51:34 CET [09/07/2024 1:51:34 ET]
+Table '3775865435 1' 3-max Siège #3 est au bouton.
+Place 1: fanmf (595 en jetons) 
+Place 2: psychoman59 (420 en jetons) 
+Place 3: AntifaOu (485 en jetons) 
+fanmf : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Jh]
+AntifaOu : relance. 30 à 60
+fanmf : suit. 45
+psychoman59 : passe. 
+*** FLOP *** [7h Ts Td]
+fanmf : parole 
+AntifaOu : mise. 75
+fanmf : passe. 
+Personne n'a suivi. (75) sont retournés à AntifaOu.
+AntifaOu a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Tableau [7h Ts Td]
+Siège 1 : fanmf (petite blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : AntifaOu (bouton) a remporté (150)
+
+
+
+Main PokerStars n°251402884492 : Tournoi #3775865435, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 09/07/2024 7:51:54 CET [09/07/2024 1:51:54 ET]
+Table '3775865435 1' 3-max Siège #1 est au bouton.
+Place 1: fanmf (535 en jetons) 
+Place 2: psychoman59 (390 en jetons) 
+Place 3: AntifaOu (575 en jetons) 
+psychoman59 : met la petite blind. 15
+AntifaOu : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Ks]
+fanmf : relance. 30 à 60
+psychoman59 : relance. 330 à 390 et est all-in.
+AntifaOu : passe. 
+fanmf : suit. 330
+*** FLOP *** [6d 3h 8c]
+*** TOURNANT *** [6d 3h 8c] [Td]
+*** RIVIÈRE *** [6d 3h 8c Td] [9d]
+*** ABATTAGE ***
+psychoman59 : montre [Ac Ks] (Hauteur As)
+fanmf : montre [Qs Kc] (Hauteur Roi)
+psychoman59 a remporté 810  lors du pot .
+*** SYNTHÈSE ***
+Pot total 810 | Commission 0 
+Tableau [6d 3h 8c Td 9d]
+Siège 1 : fanmf (bouton) a montré [Qs Kc] et a perdu avec Hauteur Roi
+Siège 2 : psychoman59 (petite blind) a montré [Ac Ks] et a gagné (810) avec Hauteur As
+Siège 3 : AntifaOu (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°251402885770 : Tournoi #3775865435, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 09/07/2024 7:52:19 CET [09/07/2024 1:52:19 ET]
+Table '3775865435 1' 3-max Siège #2 est au bouton.
+Place 1: fanmf (145 en jetons) 
+Place 2: psychoman59 (810 en jetons) 
+Place 3: AntifaOu (545 en jetons) 
+AntifaOu : met la petite blind. 15
+fanmf : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 4c]
+psychoman59 : passe. 
+AntifaOu : relance. 30 à 60
+fanmf : relance. 85 à 145 et est all-in.
+AntifaOu : passe. 
+Personne n'a suivi. (85) sont retournés à fanmf.
+fanmf a remporté 120  lors du pot .
+fanmf : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : fanmf (grosse blind) a remporté (120)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : AntifaOu (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°251402886583 : Tournoi #3775865435, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 09/07/2024 7:52:34 CET [09/07/2024 1:52:34 ET]
+Table '3775865435 1' 3-max Siège #3 est au bouton.
+Place 1: fanmf (205 en jetons) 
+Place 2: psychoman59 (810 en jetons) 
+Place 3: AntifaOu (485 en jetons) 
+fanmf : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Ac]
+AntifaOu : passe. 
+fanmf : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : fanmf (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : AntifaOu (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°251402886851 : Tournoi #3775865435, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 09/07/2024 7:52:39 CET [09/07/2024 1:52:39 ET]
+Table '3775865435 1' 3-max Siège #1 est au bouton.
+Place 1: fanmf (185 en jetons) 
+Place 2: psychoman59 (830 en jetons) 
+Place 3: AntifaOu (485 en jetons) 
+psychoman59 : met la petite blind. 20
+AntifaOu : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Ac]
+fanmf : relance. 145 à 185 et est all-in.
+psychoman59 : relance. 645 à 830 et est all-in.
+AntifaOu : passe. 
+Personne n'a suivi. (645) sont retournés à psychoman59.
+*** FLOP *** [Qc 5c 4h]
+*** TOURNANT *** [Qc 5c 4h] [Ad]
+*** RIVIÈRE *** [Qc 5c 4h Ad] [9d]
+*** ABATTAGE ***
+psychoman59 : montre [Ts Ac] (une paire de As)
+fanmf : montre [7h 7d] (une paire de Sept)
+psychoman59 a remporté 410  lors du pot .
+fanmf a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 410 | Commission 0 
+Tableau [Qc 5c 4h Ad 9d]
+Siège 1 : fanmf (bouton) a montré [7h 7d] et a perdu avec une paire de Sept
+Siège 2 : psychoman59 (petite blind) a montré [Ts Ac] et a gagné (410) avec une paire de As
+Siège 3 : AntifaOu (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°251402887794 : Tournoi #3775865435, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 09/07/2024 7:52:57 CET [09/07/2024 1:52:57 ET]
+Table '3775865435 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1055 en jetons) 
+Place 3: AntifaOu (445 en jetons) 
+AntifaOu : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 7d]
+AntifaOu : suit. 20
+psychoman59 : parole 
+*** FLOP *** [9s Qh 3d]
+psychoman59 : parole 
+AntifaOu : parole 
+*** TOURNANT *** [9s Qh 3d] [8d]
+psychoman59 : parole 
+AntifaOu : parole 
+*** RIVIÈRE *** [9s Qh 3d 8d] [5h]
+psychoman59 : parole 
+AntifaOu : parole 
+*** ABATTAGE ***
+psychoman59 : montre [5s 7d] (une paire de Cinq)
+AntifaOu : cache la main perdante. 
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [9s Qh 3d 8d 5h]
+Siège 2 : psychoman59 (grosse blind) a montré [5s 7d] et a gagné (80) avec une paire de Cinq
+Siège 3 : AntifaOu (bouton) (petite blind) a caché la main perdante. [7s Kd]
+
+
+
+Main PokerStars n°251402888717 : Tournoi #3775865435, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 09/07/2024 7:53:14 CET [09/07/2024 1:53:14 ET]
+Table '3775865435 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1095 en jetons) 
+Place 3: AntifaOu (405 en jetons) 
+psychoman59 : met la petite blind. 20
+AntifaOu : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Ts]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à AntifaOu.
+AntifaOu a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : AntifaOu (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°251402888964 : Tournoi #3775865435, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 09/07/2024 7:53:19 CET [09/07/2024 1:53:19 ET]
+Table '3775865435 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1075 en jetons) 
+Place 3: AntifaOu (425 en jetons) 
+AntifaOu : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 7c]
+AntifaOu : suit. 20
+psychoman59 : parole 
+*** FLOP *** [5h Kd Kh]
+psychoman59 : parole 
+AntifaOu : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à AntifaOu.
+AntifaOu a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [5h Kd Kh]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : AntifaOu (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°251402889504 : Tournoi #3775865435, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 09/07/2024 7:53:29 CET [09/07/2024 1:53:29 ET]
+Table '3775865435 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1035 en jetons) 
+Place 3: AntifaOu (465 en jetons) 
+psychoman59 : met la petite blind. 20
+AntifaOu : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 2h]
+psychoman59 : relance. 995 à 1035 et est all-in.
+AntifaOu : passe. 
+Personne n'a suivi. (995) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 3 : AntifaOu (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°251402889868 : Tournoi #3775865435, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 09/07/2024 7:53:35 CET [09/07/2024 1:53:35 ET]
+Table '3775865435 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1075 en jetons) 
+Place 3: AntifaOu (425 en jetons) 
+AntifaOu : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 6d]
+AntifaOu : suit. 20
+psychoman59 : parole 
+*** FLOP *** [9s As 7h]
+psychoman59 : parole 
+AntifaOu : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [9s As 7h] [2c]
+psychoman59 : parole 
+AntifaOu : parole 
+*** RIVIÈRE *** [9s As 7h 2c] [Jc]
+psychoman59 : parole 
+AntifaOu : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Tc 6d] (Hauteur As)
+AntifaOu : montre [4h 9d] (une paire de Neuf)
+AntifaOu a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [9s As 7h 2c Jc]
+Siège 2 : psychoman59 (grosse blind) a montré [Tc 6d] et a perdu avec Hauteur As
+Siège 3 : AntifaOu (bouton) (petite blind) a montré [4h 9d] et a gagné (160) avec une paire de Neuf
+
+
+
+Main PokerStars n°251402890834 : Tournoi #3775865435, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 09/07/2024 7:53:53 CET [09/07/2024 1:53:53 ET]
+Table '3775865435 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (995 en jetons) 
+Place 3: AntifaOu (505 en jetons) 
+psychoman59 : met la petite blind. 20
+AntifaOu : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 5s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à AntifaOu.
+AntifaOu a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : AntifaOu (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°251402891095 : Tournoi #3775865435, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 09/07/2024 7:53:57 CET [09/07/2024 1:53:57 ET]
+Table '3775865435 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (975 en jetons) 
+Place 3: AntifaOu (525 en jetons) 
+AntifaOu : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Ts]
+AntifaOu : relance. 40 à 80
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à AntifaOu.
+AntifaOu a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : AntifaOu (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°251402891388 : Tournoi #3775865435, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 09/07/2024 7:54:03 CET [09/07/2024 1:54:03 ET]
+Table '3775865435 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (935 en jetons) 
+Place 3: AntifaOu (565 en jetons) 
+psychoman59 : met la petite blind. 20
+AntifaOu : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Qs]
+psychoman59 : suit. 20
+AntifaOu : parole 
+*** FLOP *** [4s 4d 2h]
+AntifaOu : parole 
+psychoman59 : parole 
+*** TOURNANT *** [4s 4d 2h] [6s]
+AntifaOu : mise. 40
+psychoman59 : suit. 40
+*** RIVIÈRE *** [4s 4d 2h 6s] [Td]
+AntifaOu : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à AntifaOu.
+AntifaOu a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [4s 4d 2h 6s Td]
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 3 : AntifaOu (grosse blind) a remporté (160)
+
+
+
+Main PokerStars n°251402892288 : Tournoi #3775865435, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 09/07/2024 7:54:19 CET [09/07/2024 1:54:19 ET]
+Table '3775865435 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (855 en jetons) 
+Place 3: AntifaOu (645 en jetons) 
+AntifaOu : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 2d]
+AntifaOu : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Td 8d 6d]
+psychoman59 : parole 
+AntifaOu : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à AntifaOu.
+AntifaOu a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Td 8d 6d]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : AntifaOu (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°251402893041 : Tournoi #3775865435, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 09/07/2024 7:54:32 CET [09/07/2024 1:54:32 ET]
+Table '3775865435 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (815 en jetons) 
+Place 3: AntifaOu (685 en jetons) 
+psychoman59 : met la petite blind. 30
+AntifaOu : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Ts]
+psychoman59 : relance. 120 à 180
+AntifaOu : suit. 120
+*** FLOP *** [Ac Th 8c]
+AntifaOu : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Ac Th 8c] [9s]
+AntifaOu : parole 
+psychoman59 : mise. 120
+AntifaOu : suit. 120
+*** RIVIÈRE *** [Ac Th 8c 9s] [2h]
+AntifaOu : parole 
+psychoman59 : mise. 300
+AntifaOu : passe. 
+Personne n'a suivi. (300) sont retournés à psychoman59.
+psychoman59 a remporté 600  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [Ac Th 8c 9s 2h]
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (600)
+Siège 3 : AntifaOu (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°251402894387 : Tournoi #3775865435, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 09/07/2024 7:54:57 CET [09/07/2024 1:54:57 ET]
+Table '3775865435 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1115 en jetons) 
+Place 3: AntifaOu (385 en jetons) 
+AntifaOu : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Ts]
+AntifaOu : relance. 60 à 120
+psychoman59 : relance. 995 à 1115 et est all-in.
+AntifaOu : passe. 
+Personne n'a suivi. (995) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (240)
+Siège 3 : AntifaOu (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°251402894868 : Tournoi #3775865435, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 09/07/2024 7:55:05 CET [09/07/2024 1:55:05 ET]
+Table '3775865435 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1235 en jetons) 
+Place 3: AntifaOu (265 en jetons) 
+psychoman59 : met la petite blind. 30
+AntifaOu : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Qh]
+psychoman59 : suit. 30
+AntifaOu : parole 
+*** FLOP *** [9s 7d 2d]
+AntifaOu : parole 
+psychoman59 : mise. 120
+AntifaOu : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [9s 7d 2d]
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 3 : AntifaOu (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°251402895499 : Tournoi #3775865435, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 09/07/2024 7:55:17 CET [09/07/2024 1:55:17 ET]
+Table '3775865435 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1295 en jetons) 
+Place 3: AntifaOu (205 en jetons) 
+AntifaOu : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 7d]
+AntifaOu : relance. 145 à 205 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (145) sont retournés à AntifaOu.
+AntifaOu a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : AntifaOu (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°251402895833 : Tournoi #3775865435, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 09/07/2024 7:55:23 CET [09/07/2024 1:55:23 ET]
+Table '3775865435 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1235 en jetons) 
+Place 3: AntifaOu (265 en jetons) 
+psychoman59 : met la petite blind. 30
+AntifaOu : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 4h]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à AntifaOu.
+AntifaOu a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : AntifaOu (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°251402896121 : Tournoi #3775865435, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 09/07/2024 7:55:28 CET [09/07/2024 1:55:28 ET]
+Table '3775865435 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1205 en jetons) 
+Place 3: AntifaOu (295 en jetons) 
+AntifaOu : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 5s]
+AntifaOu : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : AntifaOu (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°251402896347 : Tournoi #3775865435, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 09/07/2024 7:55:32 CET [09/07/2024 1:55:32 ET]
+Table '3775865435 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1235 en jetons) 
+Place 3: AntifaOu (265 en jetons) 
+psychoman59 : met la petite blind. 30
+AntifaOu : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Qc]
+psychoman59 : suit. 30
+AntifaOu : parole 
+*** FLOP *** [Kd Jc 4c]
+AntifaOu : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à AntifaOu.
+AntifaOu a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Kd Jc 4c]
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+Siège 3 : AntifaOu (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°251402896921 : Tournoi #3775865435, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 09/07/2024 7:55:43 CET [09/07/2024 1:55:43 ET]
+Table '3775865435 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1175 en jetons) 
+Place 3: AntifaOu (325 en jetons) 
+AntifaOu : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 5h]
+AntifaOu : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Qs Kd As]
+psychoman59 : parole 
+AntifaOu : parole 
+*** TOURNANT *** [Qs Kd As] [8c]
+psychoman59 : parole 
+AntifaOu : parole 
+*** RIVIÈRE *** [Qs Kd As 8c] [4d]
+psychoman59 : parole 
+AntifaOu : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à AntifaOu.
+AntifaOu a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Qs Kd As 8c 4d]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : AntifaOu (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°251402897787 : Tournoi #3775865435, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 09/07/2024 7:55:58 CET [09/07/2024 1:55:58 ET]
+Table '3775865435 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1115 en jetons) 
+Place 3: AntifaOu (385 en jetons) 
+psychoman59 : met la petite blind. 30
+AntifaOu : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 7c]
+psychoman59 : relance. 1055 à 1115 et est all-in.
+AntifaOu : suit. 325 et est all-in.
+Personne n'a suivi. (730) sont retournés à psychoman59.
+*** FLOP *** [Kh 6s Jc]
+*** TOURNANT *** [Kh 6s Jc] [Jh]
+*** RIVIÈRE *** [Kh 6s Jc Jh] [9d]
+*** ABATTAGE ***
+AntifaOu : montre [Kd Td] (double paire, Rois et Valets)
+psychoman59 : montre [As 7c] (une paire de Valets)
+AntifaOu a remporté 770  lors du pot .
+*** SYNTHÈSE ***
+Pot total 770 | Commission 0 
+Tableau [Kh 6s Jc Jh 9d]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [As 7c] et a perdu avec une paire de Valets
+Siège 3 : AntifaOu (grosse blind) a montré [Kd Td] et a gagné (770) avec double paire, Rois et Valets
+
+
+
+Main PokerStars n°251402898514 : Tournoi #3775865435, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 09/07/2024 7:56:11 CET [09/07/2024 1:56:11 ET]
+Table '3775865435 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (730 en jetons) 
+Place 3: AntifaOu (770 en jetons) 
+AntifaOu : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Kc]
+AntifaOu : relance. 60 à 120
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à AntifaOu.
+AntifaOu a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : AntifaOu (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°251402898832 : Tournoi #3775865435, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 09/07/2024 7:56:16 CET [09/07/2024 1:56:16 ET]
+Table '3775865435 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (670 en jetons) 
+Place 3: AntifaOu (830 en jetons) 
+psychoman59 : met la petite blind. 30
+AntifaOu : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Qd]
+psychoman59 : relance. 60 à 120
+AntifaOu : suit. 60
+*** FLOP *** [Th Kh 7h]
+AntifaOu : mise. 240
+psychoman59 : relance. 310 à 550 et est all-in.
+AntifaOu : suit. 310
+*** TOURNANT *** [Th Kh 7h] [3c]
+*** RIVIÈRE *** [Th Kh 7h 3c] [6d]
+*** ABATTAGE ***
+AntifaOu : montre [3h 6h] (une couleur, hauteur Roi)
+psychoman59 : montre [Ks Qd] (une paire de Rois)
+AntifaOu a remporté 1340  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+AntifaOu remporte le tournoi et reçoit 0.50 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 1340 | Commission 0 
+Tableau [Th Kh 7h 3c 6d]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Ks Qd] et a perdu avec une paire de Rois
+Siège 3 : AntifaOu (grosse blind) a montré [3h 6h] et a gagné (1340) avec une couleur, hauteur Roi
+
+
+

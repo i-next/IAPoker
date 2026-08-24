@@ -1,0 +1,926 @@
+﻿Main PokerStars n°261006715327 : Tournoi #4005225642, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 02/06/2026 9:33:47 CET [02/06/2026 3:33:47 ET]
+Table '4005225642 1' 3-max Siège #1 est au bouton.
+Place 1: chulito69579 (500 en jetons) 
+Place 2: bobdebercy (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+bobdebercy : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 9d]
+chulito69579 : suit. 20
+bobdebercy : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Ts 4s Qc]
+bobdebercy : parole 
+psychoman59 : parole 
+chulito69579 : mise. 40
+bobdebercy : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à chulito69579.
+chulito69579 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ts 4s Qc]
+Siège 1 : chulito69579 (bouton) a remporté (60)
+Siège 2 : bobdebercy (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261006716145 : Tournoi #4005225642, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 02/06/2026 9:34:01 CET [02/06/2026 3:34:01 ET]
+Table '4005225642 1' 3-max Siège #2 est au bouton.
+Place 1: chulito69579 (540 en jetons) 
+Place 2: bobdebercy (480 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 10
+chulito69579 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 9s]
+bobdebercy : suit. 20
+psychoman59 : suit. 10
+chulito69579 : parole 
+*** FLOP *** [6s Kd Qh]
+psychoman59 : parole 
+chulito69579 : mise. 20
+bobdebercy : suit. 20
+psychoman59 : passe. 
+*** TOURNANT *** [6s Kd Qh] [Jh]
+chulito69579 : parole 
+bobdebercy : mise. 20
+chulito69579 : passe. 
+Personne n'a suivi. (20) sont retournés à bobdebercy.
+bobdebercy a remporté 100  lors du pot .
+bobdebercy : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [6s Kd Qh Jh]
+Siège 1 : chulito69579 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : bobdebercy (bouton) a remporté (100)
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261006717404 : Tournoi #4005225642, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 02/06/2026 9:34:22 CET [02/06/2026 3:34:22 ET]
+Table '4005225642 1' 3-max Siège #3 est au bouton.
+Place 1: chulito69579 (500 en jetons) 
+Place 2: bobdebercy (540 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+chulito69579 : met la petite blind. 10
+bobdebercy : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 5s]
+psychoman59 : passe. 
+chulito69579 : suit. 10
+bobdebercy : parole 
+*** FLOP *** [8s Ah 7d]
+chulito69579 : parole 
+bobdebercy : parole 
+*** TOURNANT *** [8s Ah 7d] [5d]
+chulito69579 : parole 
+bobdebercy : parole 
+*** RIVIÈRE *** [8s Ah 7d 5d] [Qd]
+chulito69579 : mise. 20
+bobdebercy : passe. 
+Personne n'a suivi. (20) sont retournés à chulito69579.
+chulito69579 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [8s Ah 7d 5d Qd]
+Siège 1 : chulito69579 (petite blind) a remporté (40)
+Siège 2 : bobdebercy (grosse blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261006718186 : Tournoi #4005225642, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 02/06/2026 9:34:35 CET [02/06/2026 3:34:35 ET]
+Table '4005225642 1' 3-max Siège #1 est au bouton.
+Place 1: chulito69579 (520 en jetons) 
+Place 2: bobdebercy (520 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+bobdebercy : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Ts]
+chulito69579 : passe. 
+bobdebercy : suit. 10
+psychoman59 : parole 
+*** FLOP *** [8s 9h 2h]
+bobdebercy : parole 
+psychoman59 : parole 
+*** TOURNANT *** [8s 9h 2h] [Ks]
+bobdebercy : parole 
+psychoman59 : mise. 20
+bobdebercy : suit. 20
+*** RIVIÈRE *** [8s 9h 2h Ks] [4s]
+bobdebercy : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+bobdebercy : montre [Tc 9d] (une paire de Neuf)
+psychoman59 : cache la main perdante. 
+bobdebercy a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [8s 9h 2h Ks 4s]
+Siège 1 : chulito69579 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : bobdebercy (petite blind) a montré [Tc 9d] et a gagné (80) avec une paire de Neuf
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [Jh Ts]
+
+
+
+Main PokerStars n°261006719105 : Tournoi #4005225642, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 02/06/2026 9:34:50 CET [02/06/2026 3:34:50 ET]
+Table '4005225642 1' 3-max Siège #2 est au bouton.
+Place 1: chulito69579 (520 en jetons) 
+Place 2: bobdebercy (560 en jetons) 
+Place 3: psychoman59 (420 en jetons) 
+psychoman59 : met la petite blind. 10
+chulito69579 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 5s]
+bobdebercy : suit. 20
+psychoman59 : passe. 
+chulito69579 : parole 
+*** FLOP *** [2c 7s Ah]
+chulito69579 : parole 
+bobdebercy : mise. 20
+chulito69579 : suit. 20
+*** TOURNANT *** [2c 7s Ah] [4h]
+chulito69579 : parole 
+bobdebercy : mise. 20
+chulito69579 : passe. 
+Personne n'a suivi. (20) sont retournés à bobdebercy.
+bobdebercy a remporté 90  lors du pot .
+bobdebercy : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [2c 7s Ah 4h]
+Siège 1 : chulito69579 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : bobdebercy (bouton) a remporté (90)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261006719958 : Tournoi #4005225642, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 02/06/2026 9:35:05 CET [02/06/2026 3:35:05 ET]
+Table '4005225642 1' 3-max Siège #3 est au bouton.
+Place 1: chulito69579 (480 en jetons) 
+Place 2: bobdebercy (610 en jetons) 
+Place 3: psychoman59 (410 en jetons) 
+chulito69579 : met la petite blind. 10
+bobdebercy : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Ks]
+psychoman59 : suit. 20
+chulito69579 : passe. 
+bobdebercy : parole 
+*** FLOP *** [Js 7h 8s]
+bobdebercy : parole 
+psychoman59 : mise. 50
+bobdebercy : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [Js 7h 8s]
+Siège 1 : chulito69579 (petite blind) s'est couché. avant Flop
+Siège 2 : bobdebercy (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) a remporté (50)
+
+
+
+Main PokerStars n°261006720690 : Tournoi #4005225642, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 02/06/2026 9:35:17 CET [02/06/2026 3:35:17 ET]
+Table '4005225642 1' 3-max Siège #1 est au bouton.
+Place 1: chulito69579 (470 en jetons) 
+Place 2: bobdebercy (590 en jetons) 
+Place 3: psychoman59 (440 en jetons) 
+bobdebercy : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 7d]
+chulito69579 : suit. 20
+bobdebercy : suit. 10
+psychoman59 : parole 
+*** FLOP *** [4c 6d Tc]
+bobdebercy : parole 
+psychoman59 : parole 
+chulito69579 : parole 
+*** TOURNANT *** [4c 6d Tc] [2d]
+bobdebercy : parole 
+psychoman59 : mise. 30
+chulito69579 : suit. 30
+bobdebercy : suit. 30
+*** RIVIÈRE *** [4c 6d Tc 2d] [Td]
+bobdebercy : parole 
+psychoman59 : mise. 75
+chulito69579 : relance. 105 à 180
+bobdebercy : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (105) sont retournés à chulito69579.
+chulito69579 a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [4c 6d Tc 2d Td]
+Siège 1 : chulito69579 (bouton) a remporté (300)
+Siège 2 : bobdebercy (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°261006722197 : Tournoi #4005225642, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 02/06/2026 9:35:42 CET [02/06/2026 3:35:42 ET]
+Table '4005225642 1' 3-max Siège #2 est au bouton.
+Place 1: chulito69579 (645 en jetons) 
+Place 2: bobdebercy (540 en jetons) 
+Place 3: psychoman59 (315 en jetons) 
+psychoman59 : met la petite blind. 10
+chulito69579 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Td]
+bobdebercy : suit. 20
+psychoman59 : passe. 
+chulito69579 : relance. 40 à 60
+bobdebercy : suit. 40
+*** FLOP *** [Js 9d 8s]
+chulito69579 : mise. 60
+bobdebercy : passe. 
+Personne n'a suivi. (60) sont retournés à chulito69579.
+chulito69579 a remporté 130  lors du pot .
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Tableau [Js 9d 8s]
+Siège 1 : chulito69579 (grosse blind) a remporté (130)
+Siège 2 : bobdebercy (bouton) s'est couché. sur le Flop
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261006722870 : Tournoi #4005225642, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 02/06/2026 9:35:53 CET [02/06/2026 3:35:53 ET]
+Table '4005225642 1' 3-max Siège #3 est au bouton.
+Place 1: chulito69579 (715 en jetons) 
+Place 2: bobdebercy (480 en jetons) 
+Place 3: psychoman59 (305 en jetons) 
+chulito69579 : met la petite blind. 10
+bobdebercy : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Ks]
+psychoman59 : passe. 
+chulito69579 : suit. 10
+bobdebercy : parole 
+*** FLOP *** [5d 6s Qc]
+chulito69579 : parole 
+bobdebercy : parole 
+*** TOURNANT *** [5d 6s Qc] [Kc]
+chulito69579 : parole 
+bobdebercy : parole 
+*** RIVIÈRE *** [5d 6s Qc Kc] [Qd]
+chulito69579 : parole 
+bobdebercy : parole 
+*** ABATTAGE ***
+chulito69579 : montre [4d Ah] (une paire de Dames)
+bobdebercy : cache la main perdante. 
+chulito69579 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [5d 6s Qc Kc Qd]
+Siège 1 : chulito69579 (petite blind) a montré [4d Ah] et a gagné (40) avec une paire de Dames
+Siège 2 : bobdebercy (grosse blind) a caché la main perdante. [8h 2s]
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261006723658 : Tournoi #4005225642, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 02/06/2026 9:36:06 CET [02/06/2026 3:36:06 ET]
+Table '4005225642 1' 3-max Siège #1 est au bouton.
+Place 1: chulito69579 (735 en jetons) 
+Place 2: bobdebercy (460 en jetons) 
+Place 3: psychoman59 (305 en jetons) 
+bobdebercy : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s As]
+chulito69579 : passe. 
+bobdebercy : suit. 10
+psychoman59 : relance. 285 à 305 et est all-in.
+bobdebercy : passe. 
+Personne n'a suivi. (285) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : chulito69579 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : bobdebercy (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°261006724278 : Tournoi #4005225642, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 02/06/2026 9:36:16 CET [02/06/2026 3:36:16 ET]
+Table '4005225642 1' 3-max Siège #2 est au bouton.
+Place 1: chulito69579 (735 en jetons) 
+Place 2: bobdebercy (440 en jetons) 
+Place 3: psychoman59 (325 en jetons) 
+psychoman59 : met la petite blind. 10
+chulito69579 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Tc]
+bobdebercy : suit. 20
+psychoman59 : suit. 10
+chulito69579 : parole 
+*** FLOP *** [4c Td Qh]
+psychoman59 : parole 
+chulito69579 : parole 
+bobdebercy : parole 
+*** TOURNANT *** [4c Td Qh] [Th]
+psychoman59 : parole 
+chulito69579 : parole 
+bobdebercy : parole 
+*** RIVIÈRE *** [4c Td Qh Th] [4d]
+psychoman59 : mise. 60
+chulito69579 : passe. 
+bobdebercy : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [4c Td Qh Th 4d]
+Siège 1 : chulito69579 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : bobdebercy (bouton) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°261006725443 : Tournoi #4005225642, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 02/06/2026 9:36:35 CET [02/06/2026 3:36:35 ET]
+Table '4005225642 1' 3-max Siège #3 est au bouton.
+Place 1: chulito69579 (715 en jetons) 
+Place 2: bobdebercy (420 en jetons) 
+Place 3: psychoman59 (365 en jetons) 
+chulito69579 : met la petite blind. 10
+bobdebercy : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Qh]
+psychoman59 : suit. 20
+chulito69579 : suit. 10
+bobdebercy : parole 
+*** FLOP *** [3s 6c 5s]
+chulito69579 : parole 
+bobdebercy : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3s 6c 5s] [7s]
+chulito69579 : mise. 60
+bobdebercy : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à chulito69579.
+chulito69579 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [3s 6c 5s 7s]
+Siège 1 : chulito69579 (petite blind) a remporté (60)
+Siège 2 : bobdebercy (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°261006726722 : Tournoi #4005225642, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 02/06/2026 9:36:55 CET [02/06/2026 3:36:55 ET]
+Table '4005225642 1' 3-max Siège #1 est au bouton.
+Place 1: chulito69579 (755 en jetons) 
+Place 2: bobdebercy (400 en jetons) 
+Place 3: psychoman59 (345 en jetons) 
+bobdebercy : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 5d]
+chulito69579 : relance. 60 à 90
+bobdebercy : suit. 75
+psychoman59 : passe. 
+*** FLOP *** [4d 2c Tc]
+bobdebercy : parole 
+chulito69579 : mise. 90
+bobdebercy : suit. 90
+*** TOURNANT *** [4d 2c Tc] [7d]
+bobdebercy : parole 
+chulito69579 : mise. 575 et est all-in.
+bobdebercy : suit. 220 et est all-in.
+Personne n'a suivi. (355) sont retournés à chulito69579.
+*** RIVIÈRE *** [4d 2c Tc 7d] [5s]
+*** ABATTAGE ***
+bobdebercy : montre [8h 7c] (une paire de Sept)
+chulito69579 : montre [Jh Jd] (une paire de Valets)
+chulito69579 a remporté 830  lors du pot .
+bobdebercy a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 830 | Commission 0 
+Tableau [4d 2c Tc 7d 5s]
+Siège 1 : chulito69579 (bouton) a montré [Jh Jd] et a gagné (830) avec une paire de Valets
+Siège 2 : bobdebercy (petite blind) a montré [8h 7c] et a perdu avec une paire de Sept
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261006728037 : Tournoi #4005225642, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 02/06/2026 9:37:17 CET [02/06/2026 3:37:17 ET]
+Table '4005225642 1' 3-max Siège #3 est au bouton.
+Place 1: chulito69579 (1185 en jetons) 
+Place 3: psychoman59 (315 en jetons) 
+psychoman59 : met la petite blind. 15
+chulito69579 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 2d]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à chulito69579.
+chulito69579 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : chulito69579 (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261006728393 : Tournoi #4005225642, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 02/06/2026 9:37:23 CET [02/06/2026 3:37:23 ET]
+Table '4005225642 1' 3-max Siège #1 est au bouton.
+Place 1: chulito69579 (1200 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+chulito69579 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 5s]
+chulito69579 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Ts 4d 7h]
+psychoman59 : parole 
+chulito69579 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à chulito69579.
+chulito69579 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ts 4d 7h]
+Siège 1 : chulito69579 (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261006729318 : Tournoi #4005225642, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 02/06/2026 9:37:38 CET [02/06/2026 3:37:38 ET]
+Table '4005225642 1' 3-max Siège #3 est au bouton.
+Place 1: chulito69579 (1230 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+psychoman59 : met la petite blind. 15
+chulito69579 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 7h]
+psychoman59 : suit. 15
+chulito69579 : parole 
+*** FLOP *** [5d 5s Kc]
+chulito69579 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5d 5s Kc] [4c]
+chulito69579 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à chulito69579.
+chulito69579 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [5d 5s Kc 4c]
+Siège 1 : chulito69579 (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°261006730001 : Tournoi #4005225642, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 02/06/2026 9:37:50 CET [02/06/2026 3:37:50 ET]
+Table '4005225642 1' 3-max Siège #1 est au bouton.
+Place 1: chulito69579 (1260 en jetons) 
+Place 3: psychoman59 (240 en jetons) 
+chulito69579 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 6d]
+chulito69579 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [2s 9c Jc]
+psychoman59 : parole 
+chulito69579 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à chulito69579.
+chulito69579 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [2s 9c Jc]
+Siège 1 : chulito69579 (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261006730772 : Tournoi #4005225642, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 02/06/2026 9:38:03 CET [02/06/2026 3:38:03 ET]
+Table '4005225642 1' 3-max Siège #3 est au bouton.
+Place 1: chulito69579 (1290 en jetons) 
+Place 3: psychoman59 (210 en jetons) 
+psychoman59 : met la petite blind. 15
+chulito69579 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 9s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à chulito69579.
+chulito69579 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : chulito69579 (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261006731052 : Tournoi #4005225642, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 02/06/2026 9:38:07 CET [02/06/2026 3:38:07 ET]
+Table '4005225642 1' 3-max Siège #1 est au bouton.
+Place 1: chulito69579 (1305 en jetons) 
+Place 3: psychoman59 (195 en jetons) 
+chulito69579 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 6c]
+chulito69579 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [4d 8c 6d]
+psychoman59 : parole 
+chulito69579 : parole 
+*** TOURNANT *** [4d 8c 6d] [Ad]
+psychoman59 : parole 
+chulito69579 : parole 
+*** RIVIÈRE *** [4d 8c 6d Ad] [2d]
+psychoman59 : parole 
+chulito69579 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [8h 6c] (double paire, Huit et Six)
+chulito69579 : cache la main perdante. 
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [4d 8c 6d Ad 2d]
+Siège 1 : chulito69579 (bouton) (petite blind) a caché la main perdante. [7h Kc]
+Siège 3 : psychoman59 (grosse blind) a montré [8h 6c] et a gagné (60) avec double paire, Huit et Six
+
+
+
+Main PokerStars n°261006731925 : Tournoi #4005225642, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 02/06/2026 9:38:22 CET [02/06/2026 3:38:22 ET]
+Table '4005225642 1' 3-max Siège #3 est au bouton.
+Place 1: chulito69579 (1275 en jetons) 
+Place 3: psychoman59 (225 en jetons) 
+psychoman59 : met la petite blind. 15
+chulito69579 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Qh]
+psychoman59 : suit. 15
+chulito69579 : parole 
+*** FLOP *** [9s 9d Ac]
+chulito69579 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [9s 9d Ac] [Th]
+chulito69579 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à chulito69579.
+chulito69579 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [9s 9d Ac Th]
+Siège 1 : chulito69579 (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°261006732818 : Tournoi #4005225642, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 02/06/2026 9:38:37 CET [02/06/2026 3:38:37 ET]
+Table '4005225642 1' 3-max Siège #1 est au bouton.
+Place 1: chulito69579 (1305 en jetons) 
+Place 3: psychoman59 (195 en jetons) 
+chulito69579 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Qc]
+chulito69579 : relance. 1275 à 1305 et est all-in.
+psychoman59 : suit. 165 et est all-in.
+Personne n'a suivi. (1110) sont retournés à chulito69579.
+*** FLOP *** [Qd 8d Jd]
+*** TOURNANT *** [Qd 8d Jd] [6h]
+*** RIVIÈRE *** [Qd 8d Jd 6h] [2h]
+*** ABATTAGE ***
+psychoman59 : montre [Jc Qc] (double paire, Dames et Valets)
+chulito69579 : montre [As 8h] (une paire de Huit)
+psychoman59 a remporté 390  lors du pot .
+*** SYNTHÈSE ***
+Pot total 390 | Commission 0 
+Tableau [Qd 8d Jd 6h 2h]
+Siège 1 : chulito69579 (bouton) (petite blind) a montré [As 8h] et a perdu avec une paire de Huit
+Siège 3 : psychoman59 (grosse blind) a montré [Jc Qc] et a gagné (390) avec double paire, Dames et Valets
+
+
+
+Main PokerStars n°261006733670 : Tournoi #4005225642, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 02/06/2026 9:38:51 CET [02/06/2026 3:38:51 ET]
+Table '4005225642 1' 3-max Siège #3 est au bouton.
+Place 1: chulito69579 (1110 en jetons) 
+Place 3: psychoman59 (390 en jetons) 
+psychoman59 : met la petite blind. 15
+chulito69579 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 5s]
+psychoman59 : relance. 360 à 390 et est all-in.
+chulito69579 : suit. 360
+*** FLOP *** [Js Th 7d]
+*** TOURNANT *** [Js Th 7d] [8c]
+*** RIVIÈRE *** [Js Th 7d 8c] [Qd]
+*** ABATTAGE ***
+chulito69579 : montre [Ad 6h] (Hauteur As)
+psychoman59 : montre [As 5s] (Hauteur As)
+chulito69579 a remporté 390  lors du pot .
+psychoman59 a remporté 390  lors du pot .
+*** SYNTHÈSE ***
+Pot total 780 | Commission 0 
+Tableau [Js Th 7d 8c Qd]
+Siège 1 : chulito69579 (grosse blind) a montré [Ad 6h] et a gagné (390) avec Hauteur As
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [As 5s] et a gagné (390) avec Hauteur As
+
+
+
+Main PokerStars n°261006734556 : Tournoi #4005225642, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 02/06/2026 9:39:06 CET [02/06/2026 3:39:06 ET]
+Table '4005225642 1' 3-max Siège #1 est au bouton.
+Place 1: chulito69579 (1110 en jetons) 
+Place 3: psychoman59 (390 en jetons) 
+chulito69579 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 2d]
+chulito69579 : suit. 15
+psychoman59 : relance. 360 à 390 et est all-in.
+chulito69579 : passe. 
+Personne n'a suivi. (360) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : chulito69579 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°261006734983 : Tournoi #4005225642, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 02/06/2026 9:39:13 CET [02/06/2026 3:39:13 ET]
+Table '4005225642 1' 3-max Siège #3 est au bouton.
+Place 1: chulito69579 (1080 en jetons) 
+Place 3: psychoman59 (420 en jetons) 
+psychoman59 : met la petite blind. 15
+chulito69579 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 8d]
+psychoman59 : suit. 15
+chulito69579 : relance. 1050 à 1080 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (1050) sont retournés à chulito69579.
+chulito69579 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : chulito69579 (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261006735523 : Tournoi #4005225642, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 02/06/2026 9:39:22 CET [02/06/2026 3:39:22 ET]
+Table '4005225642 1' 3-max Siège #1 est au bouton.
+Place 1: chulito69579 (1110 en jetons) 
+Place 3: psychoman59 (390 en jetons) 
+chulito69579 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 7c]
+chulito69579 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : chulito69579 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°261006735768 : Tournoi #4005225642, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 02/06/2026 9:39:26 CET [02/06/2026 3:39:26 ET]
+Table '4005225642 1' 3-max Siège #3 est au bouton.
+Place 1: chulito69579 (1095 en jetons) 
+Place 3: psychoman59 (405 en jetons) 
+psychoman59 : met la petite blind. 15
+chulito69579 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Qs]
+psychoman59 : relance. 375 à 405 et est all-in.
+chulito69579 : passe. 
+Personne n'a suivi. (375) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : chulito69579 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°261006736232 : Tournoi #4005225642, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 02/06/2026 9:39:32 CET [02/06/2026 3:39:32 ET]
+Table '4005225642 1' 3-max Siège #1 est au bouton.
+Place 1: chulito69579 (1065 en jetons) 
+Place 3: psychoman59 (435 en jetons) 
+chulito69579 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 3h]
+chulito69579 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Js 2c 8d]
+psychoman59 : parole 
+chulito69579 : parole 
+*** TOURNANT *** [Js 2c 8d] [6s]
+psychoman59 : parole 
+chulito69579 : mise. 60
+psychoman59 : relance. 345 à 405 et est all-in.
+chulito69579 : passe. 
+Personne n'a suivi. (345) sont retournés à psychoman59.
+psychoman59 a remporté 180  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Js 2c 8d 6s]
+Siège 1 : chulito69579 (bouton) (petite blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (grosse blind) a remporté (180)
+
+
+
+Main PokerStars n°261006737088 : Tournoi #4005225642, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 02/06/2026 9:39:46 CET [02/06/2026 3:39:46 ET]
+Table '4005225642 1' 3-max Siège #3 est au bouton.
+Place 1: chulito69579 (975 en jetons) 
+Place 3: psychoman59 (525 en jetons) 
+psychoman59 : met la petite blind. 15
+chulito69579 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Qs]
+psychoman59 : suit. 15
+chulito69579 : parole 
+*** FLOP *** [3h 8h 5s]
+chulito69579 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3h 8h 5s] [9d]
+chulito69579 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [3h 8h 5s 9d] [7h]
+chulito69579 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+chulito69579 : montre [Jd 4d] (Hauteur Valet)
+psychoman59 : montre [Jc Qs] (Hauteur Dame)
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [3h 8h 5s 9d 7h]
+Siège 1 : chulito69579 (grosse blind) a montré [Jd 4d] et a perdu avec Hauteur Valet
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Jc Qs] et a gagné (60) avec Hauteur Dame
+
+
+
+Main PokerStars n°261006738090 : Tournoi #4005225642, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 02/06/2026 9:40:04 CET [02/06/2026 3:40:04 ET]
+Table '4005225642 1' 3-max Siège #1 est au bouton.
+Place 1: chulito69579 (945 en jetons) 
+Place 3: psychoman59 (555 en jetons) 
+chulito69579 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 2h]
+chulito69579 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [2s 2c 8h]
+psychoman59 : parole 
+chulito69579 : parole 
+*** TOURNANT *** [2s 2c 8h] [9s]
+psychoman59 : parole 
+chulito69579 : mise. 40
+psychoman59 : relance. 475 à 515 et est all-in.
+chulito69579 : suit. 475
+*** RIVIÈRE *** [2s 2c 8h 9s] [5s]
+*** ABATTAGE ***
+psychoman59 : montre [6h 2h] (un brelan de Deux)
+chulito69579 : montre [2d 3d] (un brelan de Deux)
+psychoman59 a remporté 555  lors du pot .
+chulito69579 a remporté 555  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1110 | Commission 0 
+Tableau [2s 2c 8h 9s 5s]
+Siège 1 : chulito69579 (bouton) (petite blind) a montré [2d 3d] et a gagné (555) avec un brelan de Deux
+Siège 3 : psychoman59 (grosse blind) a montré [6h 2h] et a gagné (555) avec un brelan de Deux
+
+
+
+Main PokerStars n°261006739157 : Tournoi #4005225642, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 02/06/2026 9:40:21 CET [02/06/2026 3:40:21 ET]
+Table '4005225642 1' 3-max Siège #3 est au bouton.
+Place 1: chulito69579 (945 en jetons) 
+Place 3: psychoman59 (555 en jetons) 
+psychoman59 : met la petite blind. 20
+chulito69579 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Ts]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à chulito69579.
+chulito69579 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : chulito69579 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261006739565 : Tournoi #4005225642, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 02/06/2026 9:40:29 CET [02/06/2026 3:40:29 ET]
+Table '4005225642 1' 3-max Siège #1 est au bouton.
+Place 1: chulito69579 (965 en jetons) 
+Place 3: psychoman59 (535 en jetons) 
+chulito69579 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Tc]
+chulito69579 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Jc 2d Th]
+psychoman59 : parole 
+chulito69579 : mise. 120
+psychoman59 : relance. 375 à 495 et est all-in.
+chulito69579 : passe. 
+Personne n'a suivi. (375) sont retournés à psychoman59.
+psychoman59 a remporté 320  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [Jc 2d Th]
+Siège 1 : chulito69579 (bouton) (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (320)
+
+
+
+Main PokerStars n°261006740274 : Tournoi #4005225642, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 02/06/2026 9:40:41 CET [02/06/2026 3:40:41 ET]
+Table '4005225642 1' 3-max Siège #3 est au bouton.
+Place 1: chulito69579 (805 en jetons) 
+Place 3: psychoman59 (695 en jetons) 
+psychoman59 : met la petite blind. 20
+chulito69579 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Td]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à chulito69579.
+chulito69579 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : chulito69579 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261006740567 : Tournoi #4005225642, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 02/06/2026 9:40:45 CET [02/06/2026 3:40:45 ET]
+Table '4005225642 1' 3-max Siège #1 est au bouton.
+Place 1: chulito69579 (825 en jetons) 
+Place 3: psychoman59 (675 en jetons) 
+chulito69579 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 6s]
+chulito69579 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [As 8c Qh]
+psychoman59 : parole 
+chulito69579 : parole 
+*** TOURNANT *** [As 8c Qh] [3d]
+psychoman59 : parole 
+chulito69579 : parole 
+*** RIVIÈRE *** [As 8c Qh 3d] [Kh]
+psychoman59 : parole 
+chulito69579 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [3h 6s] (une paire de Trois)
+chulito69579 : cache la main perdante. 
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [As 8c Qh 3d Kh]
+Siège 1 : chulito69579 (bouton) (petite blind) a caché la main perdante. [9d 7c]
+Siège 3 : psychoman59 (grosse blind) a montré [3h 6s] et a gagné (80) avec une paire de Trois
+
+
+
+Main PokerStars n°261006741518 : Tournoi #4005225642, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 02/06/2026 9:41:01 CET [02/06/2026 3:41:01 ET]
+Table '4005225642 1' 3-max Siège #3 est au bouton.
+Place 1: chulito69579 (785 en jetons) 
+Place 3: psychoman59 (715 en jetons) 
+psychoman59 : met la petite blind. 20
+chulito69579 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Jc]
+psychoman59 : relance. 675 à 715 et est all-in.
+chulito69579 : suit. 675
+*** FLOP *** [3s 9d 2s]
+*** TOURNANT *** [3s 9d 2s] [Td]
+*** RIVIÈRE *** [3s 9d 2s Td] [7d]
+*** ABATTAGE ***
+chulito69579 : montre [As Ah] (une paire de As)
+psychoman59 : montre [Jd Jc] (une paire de Valets)
+chulito69579 a remporté 1430  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+chulito69579 remporte le tournoi et reçoit 4.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 1430 | Commission 0 
+Tableau [3s 9d 2s Td 7d]
+Siège 1 : chulito69579 (grosse blind) a montré [As Ah] et a gagné (1430) avec une paire de As
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Jd Jc] et a perdu avec une paire de Valets
+
+
+

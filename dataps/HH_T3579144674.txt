@@ -1,0 +1,248 @@
+﻿Main PokerStars n°243164056105 : Tournoi #3579144674, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/04/2023 7:11:59 CET [18/04/2023 1:11:59 ET]
+Table '3579144674 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: laetitia599 (300 en jetons) 
+Place 3: givre_crabe (300 en jetons) 
+laetitia599 : met la petite blind. 10
+givre_crabe : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 4d]
+psychoman59 : passe. 
+laetitia599 : suit. 10
+givre_crabe : relance. 280 à 300 et est all-in.
+laetitia599 : passe. 
+Personne n'a suivi. (280) sont retournés à givre_crabe.
+givre_crabe a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : laetitia599 (petite blind) s'est couché. avant Flop
+Siège 3 : givre_crabe (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°243164057361 : Tournoi #3579144674, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/04/2023 7:12:12 CET [18/04/2023 1:12:12 ET]
+Table '3579144674 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: laetitia599 (280 en jetons) 
+Place 3: givre_crabe (320 en jetons) 
+givre_crabe : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Qc]
+laetitia599 : suit. 20
+givre_crabe : suit. 10
+psychoman59 : parole 
+*** FLOP *** [3s Qs Jc]
+givre_crabe : parole 
+psychoman59 : parole 
+laetitia599 : parole 
+*** TOURNANT *** [3s Qs Jc] [Jd]
+givre_crabe : mise. 20
+psychoman59 : suit. 20
+laetitia599 : suit. 20
+*** RIVIÈRE *** [3s Qs Jc Jd] [9c]
+givre_crabe : parole 
+psychoman59 : mise. 60
+laetitia599 : suit. 60
+givre_crabe : passe. 
+*** ABATTAGE ***
+psychoman59 : montre [Js Qc] (un full, full aux Valets par les Dames)
+laetitia599 : cache la main perdante. 
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [3s Qs Jc Jd 9c]
+Siège 1 : psychoman59 (grosse blind) a montré [Js Qc] et a gagné (240) avec un full, full aux Valets par les Dames
+Siège 2 : laetitia599 (bouton) a caché la main perdante. [9s 4c]
+Siège 3 : givre_crabe (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°243164060463 : Tournoi #3579144674, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/04/2023 7:12:43 CET [18/04/2023 1:12:43 ET]
+Table '3579144674 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (440 en jetons) 
+Place 2: laetitia599 (180 en jetons) 
+Place 3: givre_crabe (280 en jetons) 
+psychoman59 : met la petite blind. 10
+laetitia599 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 2d]
+givre_crabe : suit. 20
+psychoman59 : passe. 
+laetitia599 : relance. 160 à 180 et est all-in.
+givre_crabe : passe. 
+Personne n'a suivi. (160) sont retournés à laetitia599.
+laetitia599 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : laetitia599 (grosse blind) a remporté (50)
+Siège 3 : givre_crabe (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243164061547 : Tournoi #3579144674, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/04/2023 7:12:55 CET [18/04/2023 1:12:55 ET]
+Table '3579144674 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (430 en jetons) 
+Place 2: laetitia599 (210 en jetons) 
+Place 3: givre_crabe (260 en jetons) 
+laetitia599 : met la petite blind. 10
+givre_crabe : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 5d]
+psychoman59 : relance. 40 à 60
+laetitia599 : suit. 50
+givre_crabe : passe. 
+*** FLOP *** [6d 6c Ac]
+laetitia599 : parole 
+psychoman59 : mise. 70
+laetitia599 : suit. 70
+*** TOURNANT *** [6d 6c Ac] [4c]
+laetitia599 : mise. 80 et est all-in.
+psychoman59 : suit. 80
+*** RIVIÈRE *** [6d 6c Ac 4c] [3d]
+*** ABATTAGE ***
+laetitia599 : montre [5c Jd] (une paire de Six)
+psychoman59 : montre [As 5d] (double paire, As et Six)
+psychoman59 a remporté 440  lors du pot .
+laetitia599 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 440 | Commission 0 
+Tableau [6d 6c Ac 4c 3d]
+Siège 1 : psychoman59 (bouton) a montré [As 5d] et a gagné (440) avec double paire, As et Six
+Siège 2 : laetitia599 (petite blind) a montré [5c Jd] et a perdu avec une paire de Six
+Siège 3 : givre_crabe (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243164064715 : Tournoi #3579144674, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/04/2023 7:13:26 CET [18/04/2023 1:13:26 ET]
+Table '3579144674 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (660 en jetons) 
+Place 3: givre_crabe (240 en jetons) 
+givre_crabe : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 2s]
+givre_crabe : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (30)
+Siège 3 : givre_crabe (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243164065207 : Tournoi #3579144674, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/04/2023 7:13:31 CET [18/04/2023 1:13:31 ET]
+Table '3579144674 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (675 en jetons) 
+Place 3: givre_crabe (225 en jetons) 
+psychoman59 : met la petite blind. 15
+givre_crabe : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Kd]
+psychoman59 : suit. 15
+givre_crabe : relance. 195 à 225 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (195) sont retournés à givre_crabe.
+givre_crabe a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : givre_crabe (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°243164066226 : Tournoi #3579144674, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/04/2023 7:13:42 CET [18/04/2023 1:13:42 ET]
+Table '3579144674 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (645 en jetons) 
+Place 3: givre_crabe (255 en jetons) 
+givre_crabe : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 4d]
+givre_crabe : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (30)
+Siège 3 : givre_crabe (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243164066744 : Tournoi #3579144674, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/04/2023 7:13:47 CET [18/04/2023 1:13:47 ET]
+Table '3579144674 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (660 en jetons) 
+Place 3: givre_crabe (240 en jetons) 
+psychoman59 : met la petite blind. 15
+givre_crabe : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 6c]
+psychoman59 : relance. 630 à 660 et est all-in.
+givre_crabe : passe. 
+Personne n'a suivi. (630) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 3 : givre_crabe (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243164067668 : Tournoi #3579144674, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/04/2023 7:13:56 CET [18/04/2023 1:13:56 ET]
+Table '3579144674 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (690 en jetons) 
+Place 3: givre_crabe (210 en jetons) 
+givre_crabe : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Qc]
+givre_crabe : suit. 15
+psychoman59 : parole 
+*** FLOP *** [5s Ks 3h]
+psychoman59 : parole 
+givre_crabe : mise. 90
+psychoman59 : passe. 
+Personne n'a suivi. (90) sont retournés à givre_crabe.
+givre_crabe a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [5s Ks 3h]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : givre_crabe (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°243164069618 : Tournoi #3579144674, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 18/04/2023 7:14:16 CET [18/04/2023 1:14:16 ET]
+Table '3579144674 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (660 en jetons) 
+Place 3: givre_crabe (240 en jetons) 
+psychoman59 : met la petite blind. 20
+givre_crabe : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 9h]
+psychoman59 : relance. 620 à 660 et est all-in.
+givre_crabe : suit. 200 et est all-in.
+Personne n'a suivi. (420) sont retournés à psychoman59.
+*** FLOP *** [3d 9d Jc]
+*** TOURNANT *** [3d 9d Jc] [6s]
+*** RIVIÈRE *** [3d 9d Jc 6s] [3c]
+*** ABATTAGE ***
+givre_crabe : montre [Ac Kc] (une paire de Trois)
+psychoman59 : montre [Ks 9h] (double paire, Neuf et Trois)
+psychoman59 a remporté 480  lors du pot .
+givre_crabe a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [3d 9d Jc 6s 3c]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Ks 9h] et a gagné (480) avec double paire, Neuf et Trois
+Siège 3 : givre_crabe (grosse blind) a montré [Ac Kc] et a perdu avec une paire de Trois
+
+
+

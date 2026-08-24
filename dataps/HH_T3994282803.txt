@@ -1,0 +1,66 @@
+﻿Main PokerStars n°260552475950 : Tournoi #3994282803, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/04/2026 15:37:42 CET [22/04/2026 9:37:42 ET]
+Table '3994282803 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: manutens (500 en jetons) 
+Place 3: IAMTHEVEGAN (500 en jetons) 
+manutens : met la petite blind. 10
+IAMTHEVEGAN : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 7d]
+psychoman59 : passe. 
+manutens : suit. 10
+IAMTHEVEGAN : parole 
+*** FLOP *** [2s 9h 3s]
+manutens : parole 
+IAMTHEVEGAN : parole 
+*** TOURNANT *** [2s 9h 3s] [Th]
+manutens : parole 
+IAMTHEVEGAN : mise. 30
+manutens : suit. 30
+*** RIVIÈRE *** [2s 9h 3s Th] [3h]
+manutens : parole 
+IAMTHEVEGAN : mise. 60
+manutens : passe. 
+Personne n'a suivi. (60) sont retournés à IAMTHEVEGAN.
+IAMTHEVEGAN a remporté 100  lors du pot .
+IAMTHEVEGAN : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [2s 9h 3s Th 3h]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : manutens (petite blind) s'est couché. sur le Rivière
+Siège 3 : IAMTHEVEGAN (grosse blind) a remporté (100)
+
+
+
+Main PokerStars n°260552481172 : Tournoi #3994282803, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/04/2026 15:38:23 CET [22/04/2026 9:38:23 ET]
+Table '3994282803 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: manutens (450 en jetons) 
+Place 3: IAMTHEVEGAN (550 en jetons) 
+IAMTHEVEGAN : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Ah]
+manutens : suit. 20
+IAMTHEVEGAN : relance. 530 à 550 et est all-in.
+psychoman59 : suit. 480 et est all-in.
+manutens : passe. 
+Personne n'a suivi. (50) sont retournés à IAMTHEVEGAN.
+*** FLOP *** [Ts Th 3h]
+*** TOURNANT *** [Ts Th 3h] [9c]
+*** RIVIÈRE *** [Ts Th 3h 9c] [8d]
+*** ABATTAGE ***
+IAMTHEVEGAN : montre [7h 7s] (double paire, Dix et Sept)
+psychoman59 : montre [Qd Ah] (une paire de Dix)
+IAMTHEVEGAN a remporté 1020  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 1020 | Commission 0 
+Tableau [Ts Th 3h 9c 8d]
+Siège 1 : psychoman59 (grosse blind) a montré [Qd Ah] et a perdu avec une paire de Dix
+Siège 2 : manutens (bouton) s'est couché. avant Flop
+Siège 3 : IAMTHEVEGAN (petite blind) a montré [7h 7s] et a gagné (1020) avec double paire, Dix et Sept
+
+
+

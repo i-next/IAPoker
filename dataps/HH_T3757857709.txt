@@ -1,0 +1,52 @@
+﻿Main PokerStars n°250650881371 : Tournoi #3757857709, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 23/05/2024 14:35:43 CET [23/05/2024 8:35:43 ET]
+Table '3757857709 1' 3-max Siège #1 est au bouton.
+Place 1: Christophe2312 (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: Roger-SGS (500 en jetons) 
+psychoman59 : met la petite blind. 10
+Roger-SGS : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 5s]
+Christophe2312 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à Roger-SGS.
+Roger-SGS a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : Christophe2312 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Roger-SGS (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°250650882869 : Tournoi #3757857709, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 23/05/2024 14:35:52 CET [23/05/2024 8:35:52 ET]
+Table '3757857709 1' 3-max Siège #2 est au bouton.
+Place 1: Christophe2312 (500 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: Roger-SGS (510 en jetons) 
+Roger-SGS : met la petite blind. 10
+Christophe2312 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 3s]
+psychoman59 : relance. 20 à 40
+Roger-SGS : relance. 470 à 510 et est all-in.
+Christophe2312 : passe. 
+psychoman59 : suit. 450 et est all-in.
+Personne n'a suivi. (20) sont retournés à Roger-SGS.
+*** FLOP *** [4d 6d Td]
+*** TOURNANT *** [4d 6d Td] [Ad]
+*** RIVIÈRE *** [4d 6d Td Ad] [6c]
+*** ABATTAGE ***
+Roger-SGS : montre [2c 2d] (une couleur, hauteur As)
+psychoman59 : montre [3c 3s] (double paire, Six et Trois)
+Roger-SGS a remporté 1000  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 1000 | Commission 0 
+Tableau [4d 6d Td Ad 6c]
+Siège 1 : Christophe2312 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a montré [3c 3s] et a perdu avec double paire, Six et Trois
+Siège 3 : Roger-SGS (petite blind) a montré [2c 2d] et a gagné (1000) avec une couleur, hauteur As
+
+
+

@@ -1,0 +1,436 @@
+﻿Main PokerStars n°245068943918 : Tournoi #3623589691, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau I (10/20) - 28/07/2023 19:11:41 CET [28/07/2023 13:11:41 ET]
+Table '3623589691 1' 3-max Siège #1 est au bouton.
+Place 1: Mr_Scrupulus (300 en jetons) ne joue pas.
+Place 2: PEJ51 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+PEJ51 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Qh]
+Mr_Scrupulus : passe. 
+Mr_Scrupulus est déconnecté 
+PEJ51 : suit. 10
+Mr_Scrupulus est revenu.
+psychoman59 : relance. 60 à 80
+PEJ51 : suit. 60
+*** FLOP *** [3h Ks Ts]
+PEJ51 : parole 
+psychoman59 : mise. 80
+PEJ51 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [3h Ks Ts]
+Siège 1 : Mr_Scrupulus (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : PEJ51 (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (160)
+
+
+
+Main PokerStars n°245068950079 : Tournoi #3623589691, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau I (10/20) - 28/07/2023 19:12:04 CET [28/07/2023 13:12:04 ET]
+Table '3623589691 1' 3-max Siège #2 est au bouton.
+Place 1: Mr_Scrupulus (300 en jetons) 
+Place 2: PEJ51 (220 en jetons) 
+Place 3: psychoman59 (380 en jetons) 
+psychoman59 : met la petite blind. 10
+Mr_Scrupulus : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 5d]
+PEJ51 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à Mr_Scrupulus.
+Mr_Scrupulus a remporté 20  lors du pot .
+Mr_Scrupulus : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : Mr_Scrupulus (grosse blind) a remporté (20)
+Siège 2 : PEJ51 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°245068951990 : Tournoi #3623589691, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau I (10/20) - 28/07/2023 19:12:11 CET [28/07/2023 13:12:11 ET]
+Table '3623589691 1' 3-max Siège #3 est au bouton.
+Place 1: Mr_Scrupulus (310 en jetons) 
+Place 2: PEJ51 (220 en jetons) 
+Place 3: psychoman59 (370 en jetons) 
+Mr_Scrupulus : met la petite blind. 10
+PEJ51 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 5c]
+psychoman59 : passe. 
+Mr_Scrupulus : suit. 10
+PEJ51 : parole 
+*** FLOP *** [8d 6h 3h]
+Mr_Scrupulus : parole 
+PEJ51 : parole 
+*** TOURNANT *** [8d 6h 3h] [3c]
+Mr_Scrupulus : parole 
+PEJ51 : parole 
+*** RIVIÈRE *** [8d 6h 3h 3c] [4h]
+Mr_Scrupulus : parole 
+PEJ51 : parole 
+*** ABATTAGE ***
+Mr_Scrupulus : montre [Kc 5s] (une paire de Trois)
+PEJ51 : cache la main perdante. 
+Mr_Scrupulus a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [8d 6h 3h 3c 4h]
+Siège 1 : Mr_Scrupulus (petite blind) a montré [Kc 5s] et a gagné (40) avec une paire de Trois
+Siège 2 : PEJ51 (grosse blind) a caché la main perdante. [9c 2c]
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°245068961909 : Tournoi #3623589691, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau II (15/30) - 28/07/2023 19:12:47 CET [28/07/2023 13:12:47 ET]
+Table '3623589691 1' 3-max Siège #1 est au bouton.
+Place 1: Mr_Scrupulus (330 en jetons) 
+Place 2: PEJ51 (200 en jetons) 
+Place 3: psychoman59 (370 en jetons) 
+PEJ51 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 6d]
+Mr_Scrupulus : passe. 
+PEJ51 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [7c Td Kc]
+PEJ51 : mise. 170 et est all-in.
+psychoman59 : suit. 170
+*** TOURNANT *** [7c Td Kc] [5c]
+*** RIVIÈRE *** [7c Td Kc 5c] [8c]
+*** ABATTAGE ***
+PEJ51 : montre [6c 3c] (une couleur, hauteur Roi)
+psychoman59 : montre [Kh 6d] (une paire de Rois)
+PEJ51 a remporté 400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [7c Td Kc 5c 8c]
+Siège 1 : Mr_Scrupulus (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : PEJ51 (petite blind) a montré [6c 3c] et a gagné (400) avec une couleur, hauteur Roi
+Siège 3 : psychoman59 (grosse blind) a montré [Kh 6d] et a perdu avec une paire de Rois
+
+
+
+Main PokerStars n°245068968534 : Tournoi #3623589691, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau II (15/30) - 28/07/2023 19:13:11 CET [28/07/2023 13:13:11 ET]
+Table '3623589691 1' 3-max Siège #2 est au bouton.
+Place 1: Mr_Scrupulus (330 en jetons) 
+Place 2: PEJ51 (400 en jetons) 
+Place 3: psychoman59 (170 en jetons) 
+psychoman59 : met la petite blind. 15
+Mr_Scrupulus : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Ac]
+PEJ51 : suit. 30
+psychoman59 : relance. 140 à 170 et est all-in.
+Mr_Scrupulus : passe. 
+PEJ51 : suit. 140
+*** FLOP *** [2d 7d 3c]
+*** TOURNANT *** [2d 7d 3c] [8c]
+*** RIVIÈRE *** [2d 7d 3c 8c] [3d]
+*** ABATTAGE ***
+psychoman59 : montre [7h Ac] (double paire, Sept et Trois)
+PEJ51 : montre [Jh Kc] (une paire de Trois)
+psychoman59 a remporté 370  lors du pot .
+*** SYNTHÈSE ***
+Pot total 370 | Commission 0 
+Tableau [2d 7d 3c 8c 3d]
+Siège 1 : Mr_Scrupulus (grosse blind) s'est couché. avant Flop
+Siège 2 : PEJ51 (bouton) a montré [Jh Kc] et a perdu avec une paire de Trois
+Siège 3 : psychoman59 (petite blind) a montré [7h Ac] et a gagné (370) avec double paire, Sept et Trois
+
+
+
+Main PokerStars n°245068973793 : Tournoi #3623589691, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau II (15/30) - 28/07/2023 19:13:29 CET [28/07/2023 13:13:29 ET]
+Table '3623589691 1' 3-max Siège #3 est au bouton.
+Place 1: Mr_Scrupulus (300 en jetons) 
+Place 2: PEJ51 (230 en jetons) 
+Place 3: psychoman59 (370 en jetons) 
+Mr_Scrupulus : met la petite blind. 15
+PEJ51 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 8d]
+psychoman59 : passe. 
+Mr_Scrupulus : passe. 
+Personne n'a suivi. (15) sont retournés à PEJ51.
+PEJ51 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : Mr_Scrupulus (petite blind) s'est couché. avant Flop
+Siège 2 : PEJ51 (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°245068975442 : Tournoi #3623589691, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau II (15/30) - 28/07/2023 19:13:35 CET [28/07/2023 13:13:35 ET]
+Table '3623589691 1' 3-max Siège #1 est au bouton.
+Place 1: Mr_Scrupulus (285 en jetons) 
+Place 2: PEJ51 (245 en jetons) 
+Place 3: psychoman59 (370 en jetons) 
+PEJ51 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 5h]
+Mr_Scrupulus : passe. 
+PEJ51 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [7c 3d 6c]
+PEJ51 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [7c 3d 6c] [8d]
+PEJ51 : parole 
+psychoman59 : mise. 30
+PEJ51 : suit. 30
+*** RIVIÈRE *** [7c 3d 6c 8d] [6h]
+PEJ51 : mise. 60
+psychoman59 : relance. 150 à 210
+PEJ51 : suit. 125 et est all-in.
+Personne n'a suivi. (25) sont retournés à psychoman59.
+*** ABATTAGE ***
+psychoman59 : montre [4d 5h] (une suite, Quatre à Huit)
+PEJ51 : montre [6s Th] (un brelan de Six)
+psychoman59 a remporté 490  lors du pot .
+PEJ51 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 490 | Commission 0 
+Tableau [7c 3d 6c 8d 6h]
+Siège 1 : Mr_Scrupulus (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : PEJ51 (petite blind) a montré [6s Th] et a perdu avec un brelan de Six
+Siège 3 : psychoman59 (grosse blind) a montré [4d 5h] et a gagné (490) avec une suite, Quatre à Huit
+
+
+
+Main PokerStars n°245068985789 : Tournoi #3623589691, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau III (20/40) - 28/07/2023 19:14:12 CET [28/07/2023 13:14:12 ET]
+Table '3623589691 1' 3-max Siège #3 est au bouton.
+Place 1: Mr_Scrupulus (285 en jetons) 
+Place 3: psychoman59 (615 en jetons) 
+psychoman59 : met la petite blind. 20
+Mr_Scrupulus : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 7h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Mr_Scrupulus.
+Mr_Scrupulus a remporté 40  lors du pot .
+Mr_Scrupulus : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Mr_Scrupulus (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°245068987824 : Tournoi #3623589691, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau III (20/40) - 28/07/2023 19:14:20 CET [28/07/2023 13:14:20 ET]
+Table '3623589691 1' 3-max Siège #1 est au bouton.
+Place 1: Mr_Scrupulus (305 en jetons) 
+Place 3: psychoman59 (595 en jetons) 
+Mr_Scrupulus : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 6s]
+Mr_Scrupulus : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Mr_Scrupulus (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°245068989559 : Tournoi #3623589691, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau III (20/40) - 28/07/2023 19:14:26 CET [28/07/2023 13:14:26 ET]
+Table '3623589691 1' 3-max Siège #3 est au bouton.
+Place 1: Mr_Scrupulus (285 en jetons) 
+Place 3: psychoman59 (615 en jetons) 
+psychoman59 : met la petite blind. 20
+Mr_Scrupulus : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Ts]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Mr_Scrupulus.
+Mr_Scrupulus a remporté 40  lors du pot .
+Mr_Scrupulus : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Mr_Scrupulus (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°245068991431 : Tournoi #3623589691, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau III (20/40) - 28/07/2023 19:14:33 CET [28/07/2023 13:14:33 ET]
+Table '3623589691 1' 3-max Siège #1 est au bouton.
+Place 1: Mr_Scrupulus (305 en jetons) 
+Place 3: psychoman59 (595 en jetons) 
+Mr_Scrupulus : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 5c]
+Mr_Scrupulus : relance. 265 à 305 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (265) sont retournés à Mr_Scrupulus.
+Mr_Scrupulus a remporté 80  lors du pot .
+Mr_Scrupulus : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : Mr_Scrupulus (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°245068993945 : Tournoi #3623589691, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau III (20/40) - 28/07/2023 19:14:42 CET [28/07/2023 13:14:42 ET]
+Table '3623589691 1' 3-max Siège #3 est au bouton.
+Place 1: Mr_Scrupulus (345 en jetons) 
+Place 3: psychoman59 (555 en jetons) 
+psychoman59 : met la petite blind. 20
+Mr_Scrupulus : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 7d]
+psychoman59 : relance. 40 à 80
+Mr_Scrupulus : suit. 40
+*** FLOP *** [Kc 6c 3s]
+Mr_Scrupulus : parole 
+psychoman59 : mise. 160
+Mr_Scrupulus : passe. 
+Personne n'a suivi. (160) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Kc 6c 3s]
+Siège 1 : Mr_Scrupulus (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°245068999589 : Tournoi #3623589691, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau IV (30/60) - 28/07/2023 19:15:03 CET [28/07/2023 13:15:03 ET]
+Table '3623589691 1' 3-max Siège #1 est au bouton.
+Place 1: Mr_Scrupulus (265 en jetons) 
+Place 3: psychoman59 (635 en jetons) 
+Mr_Scrupulus : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Td]
+Mr_Scrupulus : relance. 205 à 265 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (205) sont retournés à Mr_Scrupulus.
+Mr_Scrupulus a remporté 120  lors du pot .
+Mr_Scrupulus : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : Mr_Scrupulus (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°245069002873 : Tournoi #3623589691, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau IV (30/60) - 28/07/2023 19:15:14 CET [28/07/2023 13:15:14 ET]
+Table '3623589691 1' 3-max Siège #3 est au bouton.
+Place 1: Mr_Scrupulus (325 en jetons) 
+Place 3: psychoman59 (575 en jetons) 
+psychoman59 : met la petite blind. 30
+Mr_Scrupulus : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 8s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Mr_Scrupulus.
+Mr_Scrupulus a remporté 60  lors du pot .
+Mr_Scrupulus : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Mr_Scrupulus (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°245069004217 : Tournoi #3623589691, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau IV (30/60) - 28/07/2023 19:15:19 CET [28/07/2023 13:15:19 ET]
+Table '3623589691 1' 3-max Siège #1 est au bouton.
+Place 1: Mr_Scrupulus (355 en jetons) 
+Place 3: psychoman59 (545 en jetons) 
+Mr_Scrupulus : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 4s]
+Mr_Scrupulus : relance. 295 à 355 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (295) sont retournés à Mr_Scrupulus.
+Mr_Scrupulus a remporté 120  lors du pot .
+Mr_Scrupulus : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : Mr_Scrupulus (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°245069006771 : Tournoi #3623589691, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau IV (30/60) - 28/07/2023 19:15:28 CET [28/07/2023 13:15:28 ET]
+Table '3623589691 1' 3-max Siège #3 est au bouton.
+Place 1: Mr_Scrupulus (415 en jetons) 
+Place 3: psychoman59 (485 en jetons) 
+psychoman59 : met la petite blind. 30
+Mr_Scrupulus : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 5s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Mr_Scrupulus.
+Mr_Scrupulus a remporté 60  lors du pot .
+Mr_Scrupulus : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Mr_Scrupulus (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°245069008011 : Tournoi #3623589691, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau IV (30/60) - 28/07/2023 19:15:33 CET [28/07/2023 13:15:33 ET]
+Table '3623589691 1' 3-max Siège #1 est au bouton.
+Place 1: Mr_Scrupulus (445 en jetons) 
+Place 3: psychoman59 (455 en jetons) 
+Mr_Scrupulus : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 5s]
+Mr_Scrupulus : relance. 385 à 445 et est all-in.
+psychoman59 : suit. 385
+*** FLOP *** [3d 2c Kh]
+*** TOURNANT *** [3d 2c Kh] [2s]
+*** RIVIÈRE *** [3d 2c Kh 2s] [Jc]
+*** ABATTAGE ***
+psychoman59 : montre [Qh 5s] (une paire de Deux)
+Mr_Scrupulus : montre [8d Ac] (une paire de Deux - As kicker)
+Mr_Scrupulus a remporté 890  lors du pot .
+*** SYNTHÈSE ***
+Pot total 890 | Commission 0 
+Tableau [3d 2c Kh 2s Jc]
+Siège 1 : Mr_Scrupulus (bouton) (petite blind) a montré [8d Ac] et a gagné (890) avec une paire de Deux
+Siège 3 : psychoman59 (grosse blind) a montré [Qh 5s] et a perdu avec une paire de Deux
+
+
+
+Main PokerStars n°245069012826 : Tournoi #3623589691, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau V (40/80) - 28/07/2023 19:15:50 CET [28/07/2023 13:15:50 ET]
+Table '3623589691 1' 3-max Siège #3 est au bouton.
+Place 1: Mr_Scrupulus (890 en jetons) 
+Place 3: psychoman59 (10 en jetons) 
+psychoman59 : met la petite blind. 10 et est all-in.
+Mr_Scrupulus : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 6s]
+Personne n'a suivi. (70) sont retournés à Mr_Scrupulus.
+*** FLOP *** [Qc As 9s]
+*** TOURNANT *** [Qc As 9s] [7d]
+*** RIVIÈRE *** [Qc As 9s 7d] [4s]
+*** ABATTAGE ***
+Mr_Scrupulus : montre [9d Ts] (une paire de Neuf)
+psychoman59 : montre [3h 6s] (Hauteur As)
+Mr_Scrupulus a remporté 20  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+Mr_Scrupulus remporte le tournoi et reçoit 15.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Tableau [Qc As 9s 7d 4s]
+Siège 1 : Mr_Scrupulus (grosse blind) a montré [9d Ts] et a gagné (20) avec une paire de Neuf
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [3h 6s] et a perdu avec Hauteur As
+
+
+

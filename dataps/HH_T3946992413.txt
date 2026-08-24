@@ -1,0 +1,97 @@
+﻿Main PokerStars n°258506649709 : Tournoi #3946992413, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 14/11/2025 8:14:45 CET [14/11/2025 2:14:45 ET]
+Table '3946992413 1' 3-max Siège #1 est au bouton.
+Place 1: K_I_A_I_O_S (500 en jetons) 
+Place 2: tathanne74 (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+tathanne74 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 3s]
+K_I_A_I_O_S : passe. 
+tathanne74 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [2c Ah 9h]
+tathanne74 : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à tathanne74.
+tathanne74 a remporté 40  lors du pot .
+tathanne74 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [2c Ah 9h]
+Siège 1 : K_I_A_I_O_S (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : tathanne74 (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°258506650840 : Tournoi #3946992413, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 14/11/2025 8:15:03 CET [14/11/2025 2:15:03 ET]
+Table '3946992413 1' 3-max Siège #2 est au bouton.
+Place 1: K_I_A_I_O_S (500 en jetons) 
+Place 2: tathanne74 (520 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 10
+K_I_A_I_O_S : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Th]
+tathanne74 : suit. 20
+psychoman59 : suit. 10
+K_I_A_I_O_S : relance. 46 à 66
+tathanne74 : suit. 46
+psychoman59 : suit. 46
+*** FLOP *** [2d 2c Ad]
+psychoman59 : parole 
+K_I_A_I_O_S : parole 
+tathanne74 : parole 
+*** TOURNANT *** [2d 2c Ad] [Td]
+psychoman59 : parole 
+K_I_A_I_O_S : parole 
+tathanne74 : parole 
+*** RIVIÈRE *** [2d 2c Ad Td] [8s]
+psychoman59 : mise. 99
+K_I_A_I_O_S : suit. 99
+tathanne74 : passe. 
+*** ABATTAGE ***
+psychoman59 : montre [Jh Th] (double paire, Dix et Deux)
+K_I_A_I_O_S : montre [Qd Qs] (double paire, Dames et Deux)
+K_I_A_I_O_S a remporté 396  lors du pot .
+*** SYNTHÈSE ***
+Pot total 396 | Commission 0 
+Tableau [2d 2c Ad Td 8s]
+Siège 1 : K_I_A_I_O_S (grosse blind) a montré [Qd Qs] et a gagné (396) avec double paire, Dames et Deux
+Siège 2 : tathanne74 (bouton) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (petite blind) a montré [Jh Th] et a perdu avec double paire, Dix et Deux
+
+
+
+Main PokerStars n°258506652715 : Tournoi #3946992413, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 14/11/2025 8:15:34 CET [14/11/2025 2:15:34 ET]
+Table '3946992413 1' 3-max Siège #3 est au bouton.
+Place 1: K_I_A_I_O_S (731 en jetons) 
+Place 2: tathanne74 (454 en jetons) 
+Place 3: psychoman59 (315 en jetons) 
+K_I_A_I_O_S : met la petite blind. 10
+tathanne74 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h As]
+psychoman59 : suit. 20
+K_I_A_I_O_S : passe. 
+tathanne74 : relance. 434 à 454 et est all-in.
+psychoman59 : suit. 295 et est all-in.
+Personne n'a suivi. (139) sont retournés à tathanne74.
+*** FLOP *** [Jh 4h Kd]
+*** TOURNANT *** [Jh 4h Kd] [4c]
+*** RIVIÈRE *** [Jh 4h Kd 4c] [7c]
+*** ABATTAGE ***
+tathanne74 : montre [Qs Ks] (double paire, Rois et Quatre)
+psychoman59 : montre [5h As] (une paire de Quatre)
+tathanne74 a remporté 640  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [Jh 4h Kd 4c 7c]
+Siège 1 : K_I_A_I_O_S (petite blind) s'est couché. avant Flop
+Siège 2 : tathanne74 (grosse blind) a montré [Qs Ks] et a gagné (640) avec double paire, Rois et Quatre
+Siège 3 : psychoman59 (bouton) a montré [5h As] et a perdu avec une paire de Quatre
+
+
+

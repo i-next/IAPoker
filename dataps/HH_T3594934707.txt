@@ -1,0 +1,58 @@
+﻿Main PokerStars n°243854833676 : Tournoi #3594934707, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 23/05/2023 7:13:55 CET [23/05/2023 1:13:55 ET]
+Table '3594934707 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Astralios (300 en jetons) 
+Place 3: PepinoFif (300 en jetons) 
+Astralios : met la petite blind. 10
+PepinoFif : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 4s]
+psychoman59 : passe. 
+Astralios : relance. 20 à 40
+PepinoFif : relance. 260 à 300 et est all-in.
+Astralios : suit. 260 et est all-in.
+*** FLOP *** [8d 4h As]
+*** TOURNANT *** [8d 4h As] [7s]
+*** RIVIÈRE *** [8d 4h As 7s] [3d]
+*** ABATTAGE ***
+Astralios : montre [8s 8h] (un brelan de Huit)
+PepinoFif : montre [Ah Ks] (une paire de As)
+Astralios a remporté 600  lors du pot .
+PepinoFif a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [8d 4h As 7s 3d]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Astralios (petite blind) a montré [8s 8h] et a gagné (600) avec un brelan de Huit
+Siège 3 : PepinoFif (grosse blind) a montré [Ah Ks] et a perdu avec une paire de As
+
+
+
+Main PokerStars n°243854835720 : Tournoi #3594934707, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 23/05/2023 7:14:16 CET [23/05/2023 1:14:16 ET]
+Table '3594934707 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Astralios (600 en jetons) 
+Astralios : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Td]
+Astralios : relance. 20 à 40
+psychoman59 : relance. 260 à 300 et est all-in.
+Astralios : suit. 260
+*** FLOP *** [3c 5c Kd]
+*** TOURNANT *** [3c 5c Kd] [7s]
+*** RIVIÈRE *** [3c 5c Kd 7s] [9c]
+*** ABATTAGE ***
+psychoman59 : montre [Ah Td] (Hauteur As)
+Astralios : montre [5s As] (une paire de Cinq)
+Astralios a remporté 600  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+Astralios remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [3c 5c Kd 7s 9c]
+Siège 1 : psychoman59 (grosse blind) a montré [Ah Td] et a perdu avec Hauteur As
+Siège 2 : Astralios (bouton) (petite blind) a montré [5s As] et a gagné (600) avec une paire de Cinq
+
+
+

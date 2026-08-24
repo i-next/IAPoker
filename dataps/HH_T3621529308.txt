@@ -1,0 +1,488 @@
+﻿Main PokerStars n°244983245221 : Tournoi #3621529308, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 23/07/2023 23:14:47 CET [23/07/2023 17:14:47 ET]
+Table '3621529308 1' 3-max Siège #1 est au bouton.
+Place 1: LuckyMain97 (300 en jetons) 
+Place 2: bestbenred (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+bestbenred : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Js]
+LuckyMain97 : passe. 
+bestbenred : suit. 10
+psychoman59 : parole 
+*** FLOP *** [3d 6h 3c]
+bestbenred : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3d 6h 3c] [2c]
+bestbenred : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [3d 6h 3c 2c] [6c]
+bestbenred : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+bestbenred : montre [9c Ts] (double paire, Six et Trois)
+psychoman59 : montre [5s Js] (double paire, Six et Trois - Valet kicker)
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [3d 6h 3c 2c 6c]
+Siège 1 : LuckyMain97 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : bestbenred (petite blind) a montré [9c Ts] et a perdu avec double paire, Six et Trois
+Siège 3 : psychoman59 (grosse blind) a montré [5s Js] et a gagné (40) avec double paire, Six et Trois
+
+
+
+Main PokerStars n°244983256742 : Tournoi #3621529308, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 23/07/2023 23:15:17 CET [23/07/2023 17:15:17 ET]
+Table '3621529308 1' 3-max Siège #2 est au bouton.
+Place 1: LuckyMain97 (300 en jetons) 
+Place 2: bestbenred (280 en jetons) 
+Place 3: psychoman59 (320 en jetons) 
+psychoman59 : met la petite blind. 10
+LuckyMain97 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 8s]
+bestbenred : relance. 260 à 280 et est all-in.
+psychoman59 : passe. 
+LuckyMain97 : passe. 
+Personne n'a suivi. (260) sont retournés à bestbenred.
+bestbenred a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : LuckyMain97 (grosse blind) s'est couché. avant Flop
+Siège 2 : bestbenred (bouton) a remporté (50)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244983263999 : Tournoi #3621529308, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 23/07/2023 23:15:36 CET [23/07/2023 17:15:36 ET]
+Table '3621529308 1' 3-max Siège #3 est au bouton.
+Place 1: LuckyMain97 (280 en jetons) 
+Place 2: bestbenred (310 en jetons) 
+Place 3: psychoman59 (310 en jetons) 
+LuckyMain97 : met la petite blind. 10
+bestbenred : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 5s]
+psychoman59 : passe. 
+LuckyMain97 : passe. 
+Personne n'a suivi. (10) sont retournés à bestbenred.
+bestbenred a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : LuckyMain97 (petite blind) s'est couché. avant Flop
+Siège 2 : bestbenred (grosse blind) a remporté (20)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°244983267050 : Tournoi #3621529308, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 23/07/2023 23:15:44 CET [23/07/2023 17:15:44 ET]
+Table '3621529308 1' 3-max Siège #1 est au bouton.
+Place 1: LuckyMain97 (270 en jetons) 
+Place 2: bestbenred (320 en jetons) 
+Place 3: psychoman59 (310 en jetons) 
+bestbenred : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Kc]
+LuckyMain97 : relance. 20 à 40
+bestbenred : relance. 20 à 60
+psychoman59 : passe. 
+LuckyMain97 : suit. 20
+*** FLOP *** [6c 9h 6h]
+bestbenred : mise. 20
+LuckyMain97 : suit. 20
+*** TOURNANT *** [6c 9h 6h] [2h]
+bestbenred : parole 
+LuckyMain97 : parole 
+*** RIVIÈRE *** [6c 9h 6h 2h] [Ts]
+bestbenred : parole 
+LuckyMain97 : parole 
+*** ABATTAGE ***
+bestbenred : montre [Th Ah] (une couleur, hauteur As)
+LuckyMain97 : cache la main perdante. 
+bestbenred a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [6c 9h 6h 2h Ts]
+Siège 1 : LuckyMain97 (bouton) a caché la main perdante. [Jc Td]
+Siège 2 : bestbenred (petite blind) a montré [Th Ah] et a gagné (180) avec une couleur, hauteur As
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244983282548 : Tournoi #3621529308, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 23/07/2023 23:16:25 CET [23/07/2023 17:16:25 ET]
+Table '3621529308 1' 3-max Siège #2 est au bouton.
+Place 1: LuckyMain97 (190 en jetons) 
+Place 2: bestbenred (420 en jetons) 
+Place 3: psychoman59 (290 en jetons) 
+psychoman59 : met la petite blind. 15
+LuckyMain97 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 9c]
+bestbenred : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à LuckyMain97.
+LuckyMain97 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : LuckyMain97 (grosse blind) a remporté (30)
+Siège 2 : bestbenred (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244983284858 : Tournoi #3621529308, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 23/07/2023 23:16:31 CET [23/07/2023 17:16:31 ET]
+Table '3621529308 1' 3-max Siège #3 est au bouton.
+Place 1: LuckyMain97 (205 en jetons) 
+Place 2: bestbenred (420 en jetons) 
+Place 3: psychoman59 (275 en jetons) 
+LuckyMain97 : met la petite blind. 15
+bestbenred : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 2c]
+psychoman59 : passe. 
+LuckyMain97 : relance. 175 à 205 et est all-in.
+bestbenred : passe. 
+Personne n'a suivi. (175) sont retournés à LuckyMain97.
+LuckyMain97 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : LuckyMain97 (petite blind) a remporté (60)
+Siège 2 : bestbenred (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°244983288518 : Tournoi #3621529308, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 23/07/2023 23:16:41 CET [23/07/2023 17:16:41 ET]
+Table '3621529308 1' 3-max Siège #1 est au bouton.
+Place 1: LuckyMain97 (235 en jetons) 
+Place 2: bestbenred (390 en jetons) 
+Place 3: psychoman59 (275 en jetons) 
+bestbenred : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 4d]
+LuckyMain97 : passe. 
+bestbenred : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : LuckyMain97 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : bestbenred (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°244983291996 : Tournoi #3621529308, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 23/07/2023 23:16:51 CET [23/07/2023 17:16:51 ET]
+Table '3621529308 1' 3-max Siège #2 est au bouton.
+Place 1: LuckyMain97 (235 en jetons) 
+Place 2: bestbenred (375 en jetons) 
+Place 3: psychoman59 (290 en jetons) 
+psychoman59 : met la petite blind. 20
+LuckyMain97 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc As]
+bestbenred : passe. 
+psychoman59 : relance. 250 à 290 et est all-in.
+LuckyMain97 : passe. 
+Personne n'a suivi. (250) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : LuckyMain97 (grosse blind) s'est couché. avant Flop
+Siège 2 : bestbenred (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°244983298508 : Tournoi #3621529308, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 23/07/2023 23:17:08 CET [23/07/2023 17:17:08 ET]
+Table '3621529308 1' 3-max Siège #3 est au bouton.
+Place 1: LuckyMain97 (195 en jetons) 
+Place 2: bestbenred (375 en jetons) 
+Place 3: psychoman59 (330 en jetons) 
+LuckyMain97 : met la petite blind. 20
+bestbenred : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 8d]
+psychoman59 : relance. 290 à 330 et est all-in.
+LuckyMain97 : passe. 
+bestbenred : passe. 
+Personne n'a suivi. (290) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : LuckyMain97 (petite blind) s'est couché. avant Flop
+Siège 2 : bestbenred (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a remporté (100)
+
+
+
+Main PokerStars n°244983302072 : Tournoi #3621529308, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 23/07/2023 23:17:18 CET [23/07/2023 17:17:18 ET]
+Table '3621529308 1' 3-max Siège #1 est au bouton.
+Place 1: LuckyMain97 (175 en jetons) 
+Place 2: bestbenred (335 en jetons) 
+Place 3: psychoman59 (390 en jetons) 
+bestbenred : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 4c]
+LuckyMain97 : relance. 135 à 175 et est all-in.
+bestbenred : relance. 160 à 335 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (160) sont retournés à bestbenred.
+*** FLOP *** [9s Ks 8h]
+*** TOURNANT *** [9s Ks 8h] [5c]
+*** RIVIÈRE *** [9s Ks 8h 5c] [8d]
+*** ABATTAGE ***
+bestbenred : montre [4d As] (une paire de Huit)
+LuckyMain97 : montre [Qc 8s] (un brelan de Huit)
+LuckyMain97 a remporté 390  lors du pot .
+*** SYNTHÈSE ***
+Pot total 390 | Commission 0 
+Tableau [9s Ks 8h 5c 8d]
+Siège 1 : LuckyMain97 (bouton) a montré [Qc 8s] et a gagné (390) avec un brelan de Huit
+Siège 2 : bestbenred (petite blind) a montré [4d As] et a perdu avec une paire de Huit
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244983308276 : Tournoi #3621529308, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 23/07/2023 23:17:35 CET [23/07/2023 17:17:35 ET]
+Table '3621529308 1' 3-max Siège #2 est au bouton.
+Place 1: LuckyMain97 (390 en jetons) 
+Place 2: bestbenred (160 en jetons) 
+Place 3: psychoman59 (350 en jetons) 
+psychoman59 : met la petite blind. 20
+LuckyMain97 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 5h]
+bestbenred : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à LuckyMain97.
+LuckyMain97 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : LuckyMain97 (grosse blind) a remporté (40)
+Siège 2 : bestbenred (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244983310997 : Tournoi #3621529308, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 23/07/2023 23:17:42 CET [23/07/2023 17:17:42 ET]
+Table '3621529308 1' 3-max Siège #3 est au bouton.
+Place 1: LuckyMain97 (410 en jetons) 
+Place 2: bestbenred (160 en jetons) 
+Place 3: psychoman59 (330 en jetons) 
+LuckyMain97 : met la petite blind. 20
+bestbenred : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 7h]
+psychoman59 : passe. 
+LuckyMain97 : relance. 370 à 410 et est all-in.
+bestbenred : passe. 
+Personne n'a suivi. (370) sont retournés à LuckyMain97.
+LuckyMain97 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : LuckyMain97 (petite blind) a remporté (80)
+Siège 2 : bestbenred (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°244983315639 : Tournoi #3621529308, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 23/07/2023 23:17:54 CET [23/07/2023 17:17:54 ET]
+Table '3621529308 1' 3-max Siège #1 est au bouton.
+Place 1: LuckyMain97 (450 en jetons) 
+Place 2: bestbenred (120 en jetons) 
+Place 3: psychoman59 (330 en jetons) 
+bestbenred : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 2h]
+LuckyMain97 : passe. 
+bestbenred : relance. 60 à 120 et est all-in.
+psychoman59 : suit. 60
+*** FLOP *** [8d Js Kh]
+*** TOURNANT *** [8d Js Kh] [6d]
+*** RIVIÈRE *** [8d Js Kh 6d] [6s]
+*** ABATTAGE ***
+bestbenred : montre [As 4c] (une paire de Six)
+psychoman59 : montre [Kd 2h] (double paire, Rois et Six)
+psychoman59 a remporté 240  lors du pot .
+bestbenred a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [8d Js Kh 6d 6s]
+Siège 1 : LuckyMain97 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : bestbenred (petite blind) a montré [As 4c] et a perdu avec une paire de Six
+Siège 3 : psychoman59 (grosse blind) a montré [Kd 2h] et a gagné (240) avec double paire, Rois et Six
+
+
+
+Main PokerStars n°244983321726 : Tournoi #3621529308, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 23/07/2023 23:18:11 CET [23/07/2023 17:18:11 ET]
+Table '3621529308 1' 3-max Siège #3 est au bouton.
+Place 1: LuckyMain97 (450 en jetons) 
+Place 3: psychoman59 (450 en jetons) 
+psychoman59 : met la petite blind. 30
+LuckyMain97 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 9d]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à LuckyMain97.
+LuckyMain97 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : LuckyMain97 (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244983323848 : Tournoi #3621529308, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 23/07/2023 23:18:17 CET [23/07/2023 17:18:17 ET]
+Table '3621529308 1' 3-max Siège #1 est au bouton.
+Place 1: LuckyMain97 (480 en jetons) 
+Place 3: psychoman59 (420 en jetons) 
+LuckyMain97 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 6h]
+LuckyMain97 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [5c 2s Ad]
+psychoman59 : parole 
+LuckyMain97 : mise. 60
+psychoman59 : relance. 300 à 360 et est all-in.
+LuckyMain97 : passe. 
+Personne n'a suivi. (300) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [5c 2s Ad]
+Siège 1 : LuckyMain97 (bouton) (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (240)
+
+
+
+Main PokerStars n°244983333010 : Tournoi #3621529308, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 23/07/2023 23:18:41 CET [23/07/2023 17:18:41 ET]
+Table '3621529308 1' 3-max Siège #3 est au bouton.
+Place 1: LuckyMain97 (360 en jetons) 
+Place 3: psychoman59 (540 en jetons) 
+psychoman59 : met la petite blind. 30
+LuckyMain97 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Qc]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à LuckyMain97.
+LuckyMain97 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : LuckyMain97 (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244983335147 : Tournoi #3621529308, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 23/07/2023 23:18:47 CET [23/07/2023 17:18:47 ET]
+Table '3621529308 1' 3-max Siège #1 est au bouton.
+Place 1: LuckyMain97 (390 en jetons) 
+Place 3: psychoman59 (510 en jetons) 
+LuckyMain97 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 6c]
+LuckyMain97 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : LuckyMain97 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°244983338096 : Tournoi #3621529308, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 23/07/2023 23:18:54 CET [23/07/2023 17:18:54 ET]
+Table '3621529308 1' 3-max Siège #3 est au bouton.
+Place 1: LuckyMain97 (360 en jetons) 
+Place 3: psychoman59 (540 en jetons) 
+psychoman59 : met la petite blind. 40
+LuckyMain97 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 3s]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à LuckyMain97.
+LuckyMain97 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : LuckyMain97 (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244983340043 : Tournoi #3621529308, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 23/07/2023 23:19:00 CET [23/07/2023 17:19:00 ET]
+Table '3621529308 1' 3-max Siège #1 est au bouton.
+Place 1: LuckyMain97 (400 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+LuckyMain97 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Jh]
+LuckyMain97 : relance. 320 à 400 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (320) sont retournés à LuckyMain97.
+LuckyMain97 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : LuckyMain97 (bouton) (petite blind) a remporté (160)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244983342740 : Tournoi #3621529308, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 23/07/2023 23:19:07 CET [23/07/2023 17:19:07 ET]
+Table '3621529308 1' 3-max Siège #3 est au bouton.
+Place 1: LuckyMain97 (480 en jetons) 
+Place 3: psychoman59 (420 en jetons) 
+psychoman59 : met la petite blind. 40
+LuckyMain97 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 5c]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à LuckyMain97.
+LuckyMain97 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : LuckyMain97 (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244983344507 : Tournoi #3621529308, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 23/07/2023 23:19:12 CET [23/07/2023 17:19:12 ET]
+Table '3621529308 1' 3-max Siège #1 est au bouton.
+Place 1: LuckyMain97 (520 en jetons) 
+Place 3: psychoman59 (380 en jetons) 
+LuckyMain97 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 7d]
+LuckyMain97 : relance. 440 à 520 et est all-in.
+psychoman59 : suit. 300 et est all-in.
+Personne n'a suivi. (140) sont retournés à LuckyMain97.
+*** FLOP *** [Td 4c Ac]
+*** TOURNANT *** [Td 4c Ac] [6s]
+*** RIVIÈRE *** [Td 4c Ac 6s] [2c]
+*** ABATTAGE ***
+psychoman59 : montre [Ah 7d] (une paire de As)
+LuckyMain97 : montre [9h Ad] (une paire de As - Dix+Neuf kicker)
+LuckyMain97 a remporté 760  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+LuckyMain97 remporte le tournoi et reçoit 6.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 760 | Commission 0 
+Tableau [Td 4c Ac 6s 2c]
+Siège 1 : LuckyMain97 (bouton) (petite blind) a montré [9h Ad] et a gagné (760) avec une paire de As
+Siège 3 : psychoman59 (grosse blind) a montré [Ah 7d] et a perdu avec une paire de As
+
+
+

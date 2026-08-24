@@ -1,0 +1,355 @@
+﻿Main PokerStars n°260253206602 : Tournoi #3987124208, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 28/03/2026 7:24:38 CET [28/03/2026 2:24:38 ET]
+Table '3987124208 1' 3-max Siège #1 est au bouton.
+Place 1: primaço_83 (500 en jetons) 
+Place 2: chris105105 (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+chris105105 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 2s]
+primaço_83 : relance. 20 à 40
+chris105105 : suit. 30
+psychoman59 : passe. 
+*** FLOP *** [7h Kh Qh]
+chris105105 : parole 
+primaço_83 : parole 
+*** TOURNANT *** [7h Kh Qh] [Th]
+chris105105 : mise. 20
+primaço_83 : suit. 20
+*** RIVIÈRE *** [7h Kh Qh Th] [9h]
+chris105105 : mise. 20
+primaço_83 : suit. 20
+*** ABATTAGE ***
+chris105105 : montre [Kc 3h] (une couleur, hauteur Roi)
+primaço_83 : montre [Ts 8c] (une couleur, hauteur Roi)
+chris105105 a remporté 90  lors du pot .
+primaço_83 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [7h Kh Qh Th 9h]
+Siège 1 : primaço_83 (bouton) a montré [Ts 8c] et a gagné (90) avec une couleur, hauteur Roi
+Siège 2 : chris105105 (petite blind) a montré [Kc 3h] et a gagné (90) avec une couleur, hauteur Roi
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260253208184 : Tournoi #3987124208, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 28/03/2026 7:25:04 CET [28/03/2026 2:25:04 ET]
+Table '3987124208 1' 3-max Siège #2 est au bouton.
+Place 1: primaço_83 (510 en jetons) 
+Place 2: chris105105 (510 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 10
+primaço_83 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Kc]
+chris105105 : passe. 
+psychoman59 : suit. 10
+primaço_83 : parole 
+*** FLOP *** [2c 9d 2h]
+psychoman59 : parole 
+primaço_83 : parole 
+*** TOURNANT *** [2c 9d 2h] [7c]
+psychoman59 : parole 
+primaço_83 : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [2c 9d 2h 7c] [7s]
+psychoman59 : parole 
+primaço_83 : mise. 20
+psychoman59 : suit. 20
+*** ABATTAGE ***
+primaço_83 : montre [2s Qh] (un full, full aux Deux par les Sept)
+psychoman59 : cache la main perdante. 
+primaço_83 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [2c 9d 2h 7c 7s]
+Siège 1 : primaço_83 (grosse blind) a montré [2s Qh] et a gagné (120) avec un full, full aux Deux par les Sept
+Siège 2 : chris105105 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a caché la main perdante. [Qc Kc]
+
+
+
+Main PokerStars n°260253210157 : Tournoi #3987124208, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 28/03/2026 7:25:37 CET [28/03/2026 2:25:37 ET]
+Table '3987124208 1' 3-max Siège #3 est au bouton.
+Place 1: primaço_83 (570 en jetons) 
+Place 2: chris105105 (510 en jetons) 
+Place 3: psychoman59 (420 en jetons) 
+primaço_83 : met la petite blind. 10
+chris105105 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 7s]
+psychoman59 : passe. 
+primaço_83 : suit. 10
+chris105105 : relance. 40 à 60
+primaço_83 : suit. 40
+*** FLOP *** [5c 7c 7h]
+primaço_83 : parole 
+chris105105 : mise. 60
+primaço_83 : suit. 60
+*** TOURNANT *** [5c 7c 7h] [Qd]
+primaço_83 : parole 
+chris105105 : mise. 100
+primaço_83 : passe. 
+Personne n'a suivi. (100) sont retournés à chris105105.
+chris105105 a remporté 240  lors du pot .
+chris105105 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [5c 7c 7h Qd]
+Siège 1 : primaço_83 (petite blind) s'est couché. sur le Tournant
+Siège 2 : chris105105 (grosse blind) a remporté (240)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260253211921 : Tournoi #3987124208, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 28/03/2026 7:26:06 CET [28/03/2026 2:26:06 ET]
+Table '3987124208 1' 3-max Siège #1 est au bouton.
+Place 1: primaço_83 (450 en jetons) 
+Place 2: chris105105 (630 en jetons) 
+Place 3: psychoman59 (420 en jetons) 
+chris105105 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 7s]
+primaço_83 : relance. 20 à 40
+chris105105 : suit. 30
+psychoman59 : passe. 
+*** FLOP *** [9s 3d 6c]
+chris105105 : parole 
+primaço_83 : parole 
+*** TOURNANT *** [9s 3d 6c] [7d]
+chris105105 : parole 
+primaço_83 : parole 
+*** RIVIÈRE *** [9s 3d 6c 7d] [Js]
+chris105105 : parole 
+primaço_83 : parole 
+*** ABATTAGE ***
+chris105105 : montre [Ts 5c] (Hauteur Valet)
+primaço_83 : montre [7h Kc] (une paire de Sept)
+primaço_83 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [9s 3d 6c 7d Js]
+Siège 1 : primaço_83 (bouton) a montré [7h Kc] et a gagné (100) avec une paire de Sept
+Siège 2 : chris105105 (petite blind) a montré [Ts 5c] et a perdu avec Hauteur Valet
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260253213494 : Tournoi #3987124208, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 28/03/2026 7:26:32 CET [28/03/2026 2:26:32 ET]
+Table '3987124208 1' 3-max Siège #2 est au bouton.
+Place 1: primaço_83 (510 en jetons) 
+Place 2: chris105105 (590 en jetons) 
+Place 3: psychoman59 (400 en jetons) 
+psychoman59 : met la petite blind. 10
+primaço_83 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Qd]
+chris105105 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à primaço_83.
+primaço_83 a remporté 20  lors du pot .
+primaço_83 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : primaço_83 (grosse blind) a remporté (20)
+Siège 2 : chris105105 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260253213898 : Tournoi #3987124208, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 28/03/2026 7:26:39 CET [28/03/2026 2:26:39 ET]
+Table '3987124208 1' 3-max Siège #3 est au bouton.
+Place 1: primaço_83 (520 en jetons) 
+Place 2: chris105105 (590 en jetons) 
+Place 3: psychoman59 (390 en jetons) 
+primaço_83 : met la petite blind. 10
+chris105105 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 3d]
+psychoman59 : passe. 
+primaço_83 : relance. 20 à 40
+chris105105 : suit. 20
+*** FLOP *** [Jd 7h 5c]
+primaço_83 : parole 
+chris105105 : parole 
+*** TOURNANT *** [Jd 7h 5c] [9s]
+primaço_83 : parole 
+chris105105 : mise. 40
+primaço_83 : suit. 40
+*** RIVIÈRE *** [Jd 7h 5c 9s] [4s]
+primaço_83 : parole 
+chris105105 : mise. 80
+primaço_83 : passe. 
+Personne n'a suivi. (80) sont retournés à chris105105.
+chris105105 a remporté 160  lors du pot .
+chris105105 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Jd 7h 5c 9s 4s]
+Siège 1 : primaço_83 (petite blind) s'est couché. sur le Rivière
+Siège 2 : chris105105 (grosse blind) a remporté (160)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260253216076 : Tournoi #3987124208, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 28/03/2026 7:27:15 CET [28/03/2026 2:27:15 ET]
+Table '3987124208 1' 3-max Siège #1 est au bouton.
+Place 1: primaço_83 (440 en jetons) 
+Place 2: chris105105 (670 en jetons) 
+Place 3: psychoman59 (390 en jetons) 
+chris105105 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 4h]
+primaço_83 : relance. 30 à 60
+chris105105 : suit. 45
+psychoman59 : passe. 
+*** FLOP *** [Td 8d 4d]
+chris105105 : parole 
+primaço_83 : parole 
+*** TOURNANT *** [Td 8d 4d] [6h]
+chris105105 : mise. 30
+primaço_83 : suit. 30
+*** RIVIÈRE *** [Td 8d 4d 6h] [8s]
+chris105105 : mise. 30
+primaço_83 : relance. 30 à 60
+chris105105 : passe. 
+Personne n'a suivi. (30) sont retournés à primaço_83.
+primaço_83 a remporté 270  lors du pot .
+primaço_83 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Tableau [Td 8d 4d 6h 8s]
+Siège 1 : primaço_83 (bouton) a remporté (270)
+Siège 2 : chris105105 (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260253217978 : Tournoi #3987124208, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 28/03/2026 7:27:46 CET [28/03/2026 2:27:46 ET]
+Table '3987124208 1' 3-max Siège #2 est au bouton.
+Place 1: primaço_83 (590 en jetons) 
+Place 2: chris105105 (550 en jetons) 
+Place 3: psychoman59 (360 en jetons) 
+psychoman59 : met la petite blind. 15
+primaço_83 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Ac]
+chris105105 : relance. 30 à 60
+psychoman59 : suit. 45
+primaço_83 : suit. 30
+*** FLOP *** [4h 9s 6s]
+psychoman59 : parole 
+primaço_83 : parole 
+chris105105 : mise. 90
+psychoman59 : suit. 90
+primaço_83 : suit. 90
+*** TOURNANT *** [4h 9s 6s] [Qd]
+psychoman59 : parole 
+primaço_83 : parole 
+chris105105 : parole 
+*** RIVIÈRE *** [4h 9s 6s Qd] [5s]
+psychoman59 : parole 
+primaço_83 : mise. 30
+chris105105 : suit. 30
+psychoman59 : suit. 30
+*** ABATTAGE ***
+primaço_83 : montre [8h 7s] (une suite, Cinq à Neuf)
+chris105105 : cache la main perdante. 
+psychoman59 : cache la main perdante. 
+primaço_83 a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [4h 9s 6s Qd 5s]
+Siège 1 : primaço_83 (grosse blind) a montré [8h 7s] et a gagné (540) avec une suite, Cinq à Neuf
+Siège 2 : chris105105 (bouton) a caché la main perdante. [9d Ah]
+Siège 3 : psychoman59 (petite blind) a caché la main perdante. [Ad Ac]
+
+
+
+Main PokerStars n°260253219948 : Tournoi #3987124208, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 28/03/2026 7:28:19 CET [28/03/2026 2:28:19 ET]
+Table '3987124208 1' 3-max Siège #3 est au bouton.
+Place 1: primaço_83 (950 en jetons) 
+Place 2: chris105105 (370 en jetons) 
+Place 3: psychoman59 (180 en jetons) 
+primaço_83 : met la petite blind. 15
+chris105105 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Th]
+psychoman59 : passe. 
+primaço_83 : suit. 15
+chris105105 : parole 
+*** FLOP *** [Ks As Qs]
+primaço_83 : parole 
+chris105105 : mise. 60
+primaço_83 : suit. 60
+*** TOURNANT *** [Ks As Qs] [Td]
+primaço_83 : parole 
+chris105105 : mise. 90
+primaço_83 : passe. 
+Personne n'a suivi. (90) sont retournés à chris105105.
+chris105105 a remporté 180  lors du pot .
+chris105105 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Ks As Qs Td]
+Siège 1 : primaço_83 (petite blind) s'est couché. sur le Tournant
+Siège 2 : chris105105 (grosse blind) a remporté (180)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260253221451 : Tournoi #3987124208, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 28/03/2026 7:28:44 CET [28/03/2026 2:28:44 ET]
+Table '3987124208 1' 3-max Siège #1 est au bouton.
+Place 1: primaço_83 (860 en jetons) 
+Place 2: chris105105 (460 en jetons) 
+Place 3: psychoman59 (180 en jetons) 
+chris105105 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 8c]
+primaço_83 : suit. 40
+chris105105 : relance. 420 à 460 et est all-in.
+psychoman59 : passe. 
+primaço_83 : passe. 
+Personne n'a suivi. (420) sont retournés à chris105105.
+chris105105 a remporté 120  lors du pot .
+chris105105 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : primaço_83 (bouton) s'est couché. avant Flop
+Siège 2 : chris105105 (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260253222487 : Tournoi #3987124208, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 28/03/2026 7:29:01 CET [28/03/2026 2:29:01 ET]
+Table '3987124208 1' 3-max Siège #2 est au bouton.
+Place 1: primaço_83 (820 en jetons) 
+Place 2: chris105105 (540 en jetons) 
+Place 3: psychoman59 (140 en jetons) 
+psychoman59 : met la petite blind. 20
+primaço_83 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Td]
+chris105105 : passe. 
+psychoman59 : relance. 100 à 140 et est all-in.
+primaço_83 : suit. 100
+*** FLOP *** [8d Ah 6c]
+*** TOURNANT *** [8d Ah 6c] [3d]
+*** RIVIÈRE *** [8d Ah 6c 3d] [7s]
+*** ABATTAGE ***
+psychoman59 : montre [7d Td] (une paire de Sept)
+primaço_83 : montre [Qs Qh] (une paire de Dames)
+primaço_83 a remporté 280  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Tableau [8d Ah 6c 3d 7s]
+Siège 1 : primaço_83 (grosse blind) a montré [Qs Qh] et a gagné (280) avec une paire de Dames
+Siège 2 : chris105105 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [7d Td] et a perdu avec une paire de Sept
+
+
+

@@ -1,0 +1,638 @@
+﻿Main PokerStars n°254346383088 : Tournoi #3846299535, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 13/01/2025 10:36:57 CET [13/01/2025 4:36:57 ET]
+Table '3846299535 1' 3-max Siège #1 est au bouton.
+Place 1: juveni (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: vinizu (500 en jetons) 
+psychoman59 : met la petite blind. 10
+vinizu : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 4s]
+juveni : suit. 20
+psychoman59 : suit. 10
+vinizu : parole 
+*** FLOP *** [Ah Tc 5d]
+psychoman59 : parole 
+vinizu : parole 
+juveni : parole 
+*** TOURNANT *** [Ah Tc 5d] [4h]
+psychoman59 : mise. 60
+vinizu : passe. 
+juveni : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ah Tc 5d 4h]
+Siège 1 : juveni (bouton) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (petite blind) a remporté (60)
+Siège 3 : vinizu (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°254346384745 : Tournoi #3846299535, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 13/01/2025 10:37:15 CET [13/01/2025 4:37:15 ET]
+Table '3846299535 1' 3-max Siège #2 est au bouton.
+Place 1: juveni (480 en jetons) 
+Place 2: psychoman59 (540 en jetons) 
+Place 3: vinizu (480 en jetons) 
+vinizu : met la petite blind. 10
+juveni : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 7h]
+psychoman59 : suit. 20
+vinizu : suit. 10
+juveni : parole 
+*** FLOP *** [2c 5d 9s]
+vinizu : parole 
+juveni : mise. 30
+psychoman59 : passe. 
+vinizu : suit. 30
+*** TOURNANT *** [2c 5d 9s] [Qd]
+vinizu : parole 
+juveni : mise. 120
+vinizu : passe. 
+Personne n'a suivi. (120) sont retournés à juveni.
+juveni a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [2c 5d 9s Qd]
+Siège 1 : juveni (grosse blind) a remporté (120)
+Siège 2 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 3 : vinizu (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°254346388513 : Tournoi #3846299535, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 13/01/2025 10:37:54 CET [13/01/2025 4:37:54 ET]
+Table '3846299535 1' 3-max Siège #3 est au bouton.
+Place 1: juveni (550 en jetons) 
+Place 2: psychoman59 (520 en jetons) 
+Place 3: vinizu (430 en jetons) 
+juveni : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Ad]
+vinizu : passe. 
+juveni : suit. 10
+psychoman59 : parole 
+*** FLOP *** [9h Ts Jc]
+juveni : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à juveni.
+juveni a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [9h Ts Jc]
+Siège 1 : juveni (petite blind) a remporté (40)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : vinizu (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°254346389621 : Tournoi #3846299535, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 13/01/2025 10:38:06 CET [13/01/2025 4:38:06 ET]
+Table '3846299535 1' 3-max Siège #1 est au bouton.
+Place 1: juveni (570 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: vinizu (430 en jetons) 
+psychoman59 : met la petite blind. 10
+vinizu : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 7s]
+juveni : relance. 50 à 70
+psychoman59 : passe. 
+vinizu : relance. 360 à 430 et est all-in.
+juveni : suit. 360
+*** FLOP *** [7h Ah 3d]
+*** TOURNANT *** [7h Ah 3d] [5c]
+*** RIVIÈRE *** [7h Ah 3d 5c] [3h]
+*** ABATTAGE ***
+vinizu : montre [Jc Jd] (double paire, Valets et Trois)
+juveni : montre [As 7c] (double paire, As et Sept)
+juveni a remporté 870  lors du pot .
+vinizu a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 870 | Commission 0 
+Tableau [7h Ah 3d 5c 3h]
+Siège 1 : juveni (bouton) a montré [As 7c] et a gagné (870) avec double paire, As et Sept
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : vinizu (grosse blind) a montré [Jc Jd] et a perdu avec double paire, Valets et Trois
+
+
+
+Main PokerStars n°254346391658 : Tournoi #3846299535, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 13/01/2025 10:38:27 CET [13/01/2025 4:38:27 ET]
+Table '3846299535 1' 3-max Siège #2 est au bouton.
+Place 1: juveni (1010 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+psychoman59 : met la petite blind. 10
+juveni : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Ah]
+psychoman59 : suit. 10
+juveni : parole 
+*** FLOP *** [9h 4c 9d]
+juveni : parole 
+psychoman59 : mise. 40
+juveni : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [9h 4c 9d]
+Siège 1 : juveni (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°254346392720 : Tournoi #3846299535, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 13/01/2025 10:38:38 CET [13/01/2025 4:38:38 ET]
+Table '3846299535 1' 3-max Siège #1 est au bouton.
+Place 1: juveni (990 en jetons) 
+Place 2: psychoman59 (510 en jetons) 
+juveni : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 7c]
+juveni : relance. 40 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à juveni.
+juveni a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : juveni (bouton) (petite blind) a remporté (40)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254346393403 : Tournoi #3846299535, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 13/01/2025 10:38:45 CET [13/01/2025 4:38:45 ET]
+Table '3846299535 1' 3-max Siège #2 est au bouton.
+Place 1: juveni (1010 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+psychoman59 : met la petite blind. 10
+juveni : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Tc]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à juveni.
+juveni a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : juveni (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254346393826 : Tournoi #3846299535, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 13/01/2025 10:38:50 CET [13/01/2025 4:38:50 ET]
+Table '3846299535 1' 3-max Siège #1 est au bouton.
+Place 1: juveni (1020 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+juveni : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 5s]
+juveni : relance. 40 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à juveni.
+juveni a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : juveni (bouton) (petite blind) a remporté (40)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254346394500 : Tournoi #3846299535, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 13/01/2025 10:38:57 CET [13/01/2025 4:38:57 ET]
+Table '3846299535 1' 3-max Siège #2 est au bouton.
+Place 1: juveni (1040 en jetons) 
+Place 2: psychoman59 (460 en jetons) 
+psychoman59 : met la petite blind. 10
+juveni : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 6d]
+psychoman59 : relance. 440 à 460 et est all-in.
+juveni : suit. 440
+*** FLOP *** [5h Js 7h]
+*** TOURNANT *** [5h Js 7h] [2s]
+*** RIVIÈRE *** [5h Js 7h 2s] [3s]
+*** ABATTAGE ***
+juveni : montre [Qd Ts] (Hauteur Dame)
+psychoman59 : montre [6c 6d] (une paire de Six)
+psychoman59 a remporté 920  lors du pot .
+*** SYNTHÈSE ***
+Pot total 920 | Commission 0 
+Tableau [5h Js 7h 2s 3s]
+Siège 1 : juveni (grosse blind) a montré [Qd Ts] et a perdu avec Hauteur Dame
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [6c 6d] et a gagné (920) avec une paire de Six
+
+
+
+Main PokerStars n°254346395758 : Tournoi #3846299535, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 13/01/2025 10:39:10 CET [13/01/2025 4:39:10 ET]
+Table '3846299535 1' 3-max Siège #1 est au bouton.
+Place 1: juveni (580 en jetons) 
+Place 2: psychoman59 (920 en jetons) 
+juveni : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 4c]
+juveni : relance. 560 à 580 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (560) sont retournés à juveni.
+juveni a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : juveni (bouton) (petite blind) a remporté (40)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254346396536 : Tournoi #3846299535, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 13/01/2025 10:39:18 CET [13/01/2025 4:39:18 ET]
+Table '3846299535 1' 3-max Siège #2 est au bouton.
+Place 1: juveni (600 en jetons) 
+Place 2: psychoman59 (900 en jetons) 
+psychoman59 : met la petite blind. 10
+juveni : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 4d]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à juveni.
+juveni a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : juveni (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254346396955 : Tournoi #3846299535, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 13/01/2025 10:39:23 CET [13/01/2025 4:39:23 ET]
+Table '3846299535 1' 3-max Siège #1 est au bouton.
+Place 1: juveni (610 en jetons) 
+Place 2: psychoman59 (890 en jetons) 
+juveni : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 3c]
+juveni : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : juveni (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°254346397441 : Tournoi #3846299535, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 13/01/2025 10:39:28 CET [13/01/2025 4:39:28 ET]
+Table '3846299535 1' 3-max Siège #2 est au bouton.
+Place 1: juveni (600 en jetons) 
+Place 2: psychoman59 (900 en jetons) 
+psychoman59 : met la petite blind. 10
+juveni : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 6h]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à juveni.
+juveni a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : juveni (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254346397890 : Tournoi #3846299535, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 13/01/2025 10:39:32 CET [13/01/2025 4:39:32 ET]
+Table '3846299535 1' 3-max Siège #1 est au bouton.
+Place 1: juveni (610 en jetons) 
+Place 2: psychoman59 (890 en jetons) 
+juveni : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Qd]
+juveni : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : juveni (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°254346398355 : Tournoi #3846299535, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 13/01/2025 10:39:37 CET [13/01/2025 4:39:37 ET]
+Table '3846299535 1' 3-max Siège #2 est au bouton.
+Place 1: juveni (600 en jetons) 
+Place 2: psychoman59 (900 en jetons) 
+psychoman59 : met la petite blind. 10
+juveni : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 8h]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à juveni.
+juveni a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : juveni (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254346398846 : Tournoi #3846299535, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 13/01/2025 10:39:42 CET [13/01/2025 4:39:42 ET]
+Table '3846299535 1' 3-max Siège #1 est au bouton.
+Place 1: juveni (610 en jetons) 
+Place 2: psychoman59 (890 en jetons) 
+juveni : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 9c]
+juveni : relance. 20 à 40
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à juveni.
+juveni a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : juveni (bouton) (petite blind) a remporté (40)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254346399371 : Tournoi #3846299535, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 13/01/2025 10:39:48 CET [13/01/2025 4:39:48 ET]
+Table '3846299535 1' 3-max Siège #2 est au bouton.
+Place 1: juveni (630 en jetons) 
+Place 2: psychoman59 (870 en jetons) 
+psychoman59 : met la petite blind. 10
+juveni : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 6c]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à juveni.
+juveni a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : juveni (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254346399794 : Tournoi #3846299535, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 13/01/2025 10:39:52 CET [13/01/2025 4:39:52 ET]
+Table '3846299535 1' 3-max Siège #1 est au bouton.
+Place 1: juveni (640 en jetons) 
+Place 2: psychoman59 (860 en jetons) 
+juveni : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Js]
+juveni : relance. 20 à 40
+psychoman59 : suit. 20
+*** FLOP *** [9s 7d 5d]
+psychoman59 : mise. 820 et est all-in.
+juveni : passe. 
+Personne n'a suivi. (820) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [9s 7d 5d]
+Siège 1 : juveni (bouton) (petite blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°254346401445 : Tournoi #3846299535, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 13/01/2025 10:40:09 CET [13/01/2025 4:40:09 ET]
+Table '3846299535 1' 3-max Siège #2 est au bouton.
+Place 1: juveni (600 en jetons) 
+Place 2: psychoman59 (900 en jetons) 
+psychoman59 : met la petite blind. 15
+juveni : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Qh]
+psychoman59 : suit. 15
+juveni : parole 
+*** FLOP *** [Qs 7d 3s]
+juveni : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Qs 7d 3s] [5c]
+juveni : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Qs 7d 3s 5c] [7c]
+juveni : parole 
+psychoman59 : mise. 60
+juveni : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Qs 7d 3s 5c 7c]
+Siège 1 : juveni (grosse blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°254346403417 : Tournoi #3846299535, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 13/01/2025 10:40:30 CET [13/01/2025 4:40:30 ET]
+Table '3846299535 1' 3-max Siège #1 est au bouton.
+Place 1: juveni (570 en jetons) 
+Place 2: psychoman59 (930 en jetons) 
+juveni : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Ks]
+juveni : relance. 30 à 60
+psychoman59 : suit. 30
+*** FLOP *** [4d 3d Ac]
+psychoman59 : mise. 870 et est all-in.
+juveni : passe. [2h]
+Personne n'a suivi. (870) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [4d 3d Ac]
+Siège 1 : juveni (bouton) (petite blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°254346404819 : Tournoi #3846299535, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 13/01/2025 10:40:44 CET [13/01/2025 4:40:44 ET]
+Table '3846299535 1' 3-max Siège #2 est au bouton.
+Place 1: juveni (510 en jetons) 
+Place 2: psychoman59 (990 en jetons) 
+psychoman59 : met la petite blind. 15
+juveni : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 2d]
+psychoman59 : suit. 15
+juveni : parole 
+*** FLOP *** [3h Ts Ks]
+juveni : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3h Ts Ks] [Qh]
+juveni : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à juveni.
+juveni a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [3h Ts Ks Qh]
+Siège 1 : juveni (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°254346406325 : Tournoi #3846299535, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 13/01/2025 10:40:59 CET [13/01/2025 4:40:59 ET]
+Table '3846299535 1' 3-max Siège #1 est au bouton.
+Place 1: juveni (540 en jetons) 
+Place 2: psychoman59 (960 en jetons) 
+juveni : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Qd]
+juveni : relance. 30 à 60
+psychoman59 : suit. 30
+*** FLOP *** [Ac Kc Ad]
+psychoman59 : parole 
+juveni : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à juveni.
+juveni a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Ac Kc Ad]
+Siège 1 : juveni (bouton) (petite blind) a remporté (120)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°254346407717 : Tournoi #3846299535, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 13/01/2025 10:41:14 CET [13/01/2025 4:41:14 ET]
+Table '3846299535 1' 3-max Siège #2 est au bouton.
+Place 1: juveni (600 en jetons) 
+Place 2: psychoman59 (900 en jetons) 
+psychoman59 : met la petite blind. 15
+juveni : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 5d]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à juveni.
+juveni a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : juveni (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254346408129 : Tournoi #3846299535, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 13/01/2025 10:41:18 CET [13/01/2025 4:41:18 ET]
+Table '3846299535 1' 3-max Siège #1 est au bouton.
+Place 1: juveni (615 en jetons) 
+Place 2: psychoman59 (885 en jetons) 
+juveni : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Ad]
+juveni : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : juveni (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°254346408615 : Tournoi #3846299535, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 13/01/2025 10:41:23 CET [13/01/2025 4:41:23 ET]
+Table '3846299535 1' 3-max Siège #2 est au bouton.
+Place 1: juveni (600 en jetons) 
+Place 2: psychoman59 (900 en jetons) 
+psychoman59 : met la petite blind. 15
+juveni : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Kh]
+psychoman59 : relance. 30 à 60
+juveni : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : juveni (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°254346409346 : Tournoi #3846299535, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 13/01/2025 10:41:30 CET [13/01/2025 4:41:30 ET]
+Table '3846299535 1' 3-max Siège #1 est au bouton.
+Place 1: juveni (570 en jetons) 
+Place 2: psychoman59 (930 en jetons) 
+juveni : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Kh]
+juveni : relance. 30 à 60
+psychoman59 : suit. 30
+*** FLOP *** [Qc Td 9d]
+psychoman59 : parole 
+juveni : mise. 60
+psychoman59 : suit. 60
+*** TOURNANT *** [Qc Td 9d] [Js]
+psychoman59 : parole 
+juveni : parole 
+*** RIVIÈRE *** [Qc Td 9d Js] [8c]
+psychoman59 : mise. 240
+juveni : passe. 
+Personne n'a suivi. (240) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Qc Td 9d Js 8c]
+Siège 1 : juveni (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (grosse blind) a remporté (240)
+
+
+
+Main PokerStars n°254346411457 : Tournoi #3846299535, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 13/01/2025 10:41:52 CET [13/01/2025 4:41:52 ET]
+Table '3846299535 1' 3-max Siège #2 est au bouton.
+Place 1: juveni (450 en jetons) 
+Place 2: psychoman59 (1050 en jetons) 
+psychoman59 : met la petite blind. 15
+juveni : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Jd]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à juveni.
+juveni a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : juveni (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254346411909 : Tournoi #3846299535, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 13/01/2025 10:41:56 CET [13/01/2025 4:41:56 ET]
+Table '3846299535 1' 3-max Siège #1 est au bouton.
+Place 1: juveni (465 en jetons) 
+Place 2: psychoman59 (1035 en jetons) 
+juveni : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 6s]
+juveni : relance. 30 à 60
+psychoman59 : relance. 975 à 1035 et est all-in.
+juveni : suit. 405 et est all-in.
+Personne n'a suivi. (570) sont retournés à psychoman59.
+*** FLOP *** [8d 2h 7c]
+*** TOURNANT *** [8d 2h 7c] [7h]
+*** RIVIÈRE *** [8d 2h 7c 7h] [Qc]
+*** ABATTAGE ***
+psychoman59 : montre [6d 6s] (double paire, Sept et Six)
+juveni : montre [Ac 3h] (une paire de Sept)
+psychoman59 a remporté 930  lors du pot .
+juveni a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 0.75 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 930 | Commission 0 
+Tableau [8d 2h 7c 7h Qc]
+Siège 1 : juveni (bouton) (petite blind) a montré [Ac 3h] et a perdu avec une paire de Sept
+Siège 2 : psychoman59 (grosse blind) a montré [6d 6s] et a gagné (930) avec double paire, Sept et Six
+
+
+

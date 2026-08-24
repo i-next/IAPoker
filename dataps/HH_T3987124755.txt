@@ -1,0 +1,902 @@
+﻿Main PokerStars n°260253227585 : Tournoi #3987124755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 28/03/2026 7:30:27 CET [28/03/2026 2:30:27 ET]
+Table '3987124755 1' 3-max Siège #1 est au bouton.
+Place 1: pispasjb (500 en jetons) 
+Place 2: Nasasan5 (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+Nasasan5 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Jh]
+pispasjb : suit. 20
+Nasasan5 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Jc Ac 8d]
+Nasasan5 : parole 
+psychoman59 : parole 
+pispasjb : parole 
+*** TOURNANT *** [Jc Ac 8d] [Td]
+Nasasan5 : mise. 40
+psychoman59 : passe. 
+pispasjb : passe. 
+Personne n'a suivi. (40) sont retournés à Nasasan5.
+Nasasan5 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Jc Ac 8d Td]
+Siège 1 : pispasjb (bouton) s'est couché. sur le Tournant
+Siège 2 : Nasasan5 (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°260253229190 : Tournoi #3987124755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 28/03/2026 7:30:54 CET [28/03/2026 2:30:54 ET]
+Table '3987124755 1' 3-max Siège #2 est au bouton.
+Place 1: pispasjb (480 en jetons) 
+Place 2: Nasasan5 (540 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 10
+pispasjb : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 8d]
+Nasasan5 : passe. 
+psychoman59 : suit. 10
+pispasjb : parole 
+*** FLOP *** [9s As 7s]
+psychoman59 : parole 
+pispasjb : parole 
+*** TOURNANT *** [9s As 7s] [7c]
+psychoman59 : parole 
+pispasjb : parole 
+*** RIVIÈRE *** [9s As 7s 7c] [Jh]
+psychoman59 : mise. 40
+pispasjb : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [9s As 7s 7c Jh]
+Siège 1 : pispasjb (grosse blind) s'est couché. sur le Rivière
+Siège 2 : Nasasan5 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°260253230283 : Tournoi #3987124755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 28/03/2026 7:31:12 CET [28/03/2026 2:31:12 ET]
+Table '3987124755 1' 3-max Siège #3 est au bouton.
+Place 1: pispasjb (460 en jetons) 
+Place 2: Nasasan5 (540 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+pispasjb : met la petite blind. 10
+Nasasan5 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Jc]
+psychoman59 : relance. 20 à 40
+pispasjb : suit. 30
+Nasasan5 : suit. 20
+*** FLOP *** [8d 8h Qd]
+pispasjb : parole 
+Nasasan5 : parole 
+psychoman59 : mise. 60
+pispasjb : suit. 60
+Nasasan5 : passe. 
+*** TOURNANT *** [8d 8h Qd] [4h]
+pispasjb : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [8d 8h Qd 4h] [7c]
+pispasjb : mise. 20
+psychoman59 : suit. 20
+*** ABATTAGE ***
+pispasjb : montre [Td 7h] (double paire, Huit et Sept)
+psychoman59 : cache la main perdante. 
+pispasjb a remporté 280  lors du pot .
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Tableau [8d 8h Qd 4h 7c]
+Siège 1 : pispasjb (petite blind) a montré [Td 7h] et a gagné (280) avec double paire, Huit et Sept
+Siège 2 : Nasasan5 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) a caché la main perdante. [As Jc]
+
+
+
+Main PokerStars n°260253231533 : Tournoi #3987124755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 28/03/2026 7:31:34 CET [28/03/2026 2:31:34 ET]
+Table '3987124755 1' 3-max Siège #1 est au bouton.
+Place 1: pispasjb (620 en jetons) 
+Place 2: Nasasan5 (500 en jetons) 
+Place 3: psychoman59 (380 en jetons) 
+Nasasan5 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Jc]
+pispasjb : suit. 20
+Nasasan5 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [9d Td Th]
+Nasasan5 : parole 
+psychoman59 : parole 
+pispasjb : parole 
+*** TOURNANT *** [9d Td Th] [Ad]
+Nasasan5 : parole 
+psychoman59 : parole 
+pispasjb : parole 
+*** RIVIÈRE *** [9d Td Th Ad] [Js]
+Nasasan5 : parole 
+psychoman59 : parole 
+pispasjb : parole 
+*** ABATTAGE ***
+Nasasan5 : montre [6s 6c] (double paire, Dix et Six)
+psychoman59 : montre [6d Jc] (double paire, Valets et Dix)
+pispasjb : cache la main perdante. 
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [9d Td Th Ad Js]
+Siège 1 : pispasjb (bouton) a caché la main perdante. [Ks 2s]
+Siège 2 : Nasasan5 (petite blind) a montré [6s 6c] et a perdu avec double paire, Dix et Six
+Siège 3 : psychoman59 (grosse blind) a montré [6d Jc] et a gagné (60) avec double paire, Valets et Dix
+
+
+
+Main PokerStars n°260253232998 : Tournoi #3987124755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 28/03/2026 7:31:59 CET [28/03/2026 2:31:59 ET]
+Table '3987124755 1' 3-max Siège #2 est au bouton.
+Place 1: pispasjb (600 en jetons) 
+Place 2: Nasasan5 (480 en jetons) 
+Place 3: psychoman59 (420 en jetons) 
+psychoman59 : met la petite blind. 10
+pispasjb : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 7h]
+Nasasan5 : suit. 20
+psychoman59 : suit. 10
+pispasjb : parole 
+*** FLOP *** [2c 4c Jd]
+psychoman59 : parole 
+pispasjb : mise. 60
+Nasasan5 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à pispasjb.
+pispasjb a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [2c 4c Jd]
+Siège 1 : pispasjb (grosse blind) a remporté (60)
+Siège 2 : Nasasan5 (bouton) s'est couché. sur le Flop
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°260253233827 : Tournoi #3987124755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 28/03/2026 7:32:14 CET [28/03/2026 2:32:14 ET]
+Table '3987124755 1' 3-max Siège #3 est au bouton.
+Place 1: pispasjb (640 en jetons) 
+Place 2: Nasasan5 (460 en jetons) 
+Place 3: psychoman59 (400 en jetons) 
+pispasjb : met la petite blind. 10
+Nasasan5 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 2s]
+psychoman59 : passe. 
+pispasjb : suit. 10
+Nasasan5 : parole 
+*** FLOP *** [8c 6d Qh]
+pispasjb : parole 
+Nasasan5 : parole 
+*** TOURNANT *** [8c 6d Qh] [8h]
+pispasjb : parole 
+Nasasan5 : parole 
+*** RIVIÈRE *** [8c 6d Qh 8h] [2c]
+pispasjb : parole 
+Nasasan5 : parole 
+*** ABATTAGE ***
+pispasjb : montre [9s 7c] (une paire de Huit)
+Nasasan5 : montre [7h Td] (une paire de Huit - Dame+Dix kicker)
+Nasasan5 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [8c 6d Qh 8h 2c]
+Siège 1 : pispasjb (petite blind) a montré [9s 7c] et a perdu avec une paire de Huit
+Siège 2 : Nasasan5 (grosse blind) a montré [7h Td] et a gagné (40) avec une paire de Huit
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260253234630 : Tournoi #3987124755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 28/03/2026 7:32:28 CET [28/03/2026 2:32:28 ET]
+Table '3987124755 1' 3-max Siège #1 est au bouton.
+Place 1: pispasjb (620 en jetons) 
+Place 2: Nasasan5 (480 en jetons) 
+Place 3: psychoman59 (400 en jetons) 
+Nasasan5 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 5s]
+pispasjb : suit. 20
+Nasasan5 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [7d Ts 5c]
+Nasasan5 : parole 
+psychoman59 : parole 
+pispasjb : parole 
+*** TOURNANT *** [7d Ts 5c] [3d]
+Nasasan5 : parole 
+psychoman59 : mise. 20
+pispasjb : passe. 
+Nasasan5 : suit. 20
+*** RIVIÈRE *** [7d Ts 5c 3d] [5h]
+Nasasan5 : parole 
+psychoman59 : mise. 50
+Nasasan5 : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [7d Ts 5c 3d 5h]
+Siège 1 : pispasjb (bouton) s'est couché. sur le Tournant
+Siège 2 : Nasasan5 (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) a remporté (100)
+
+
+
+Main PokerStars n°260253236226 : Tournoi #3987124755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 28/03/2026 7:32:56 CET [28/03/2026 2:32:56 ET]
+Table '3987124755 1' 3-max Siège #2 est au bouton.
+Place 1: pispasjb (600 en jetons) 
+Place 2: Nasasan5 (440 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+psychoman59 : met la petite blind. 15
+pispasjb : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 6d]
+Nasasan5 : suit. 30
+psychoman59 : passe. 
+pispasjb : parole 
+*** FLOP *** [3h Qh Jh]
+pispasjb : parole 
+Nasasan5 : mise. 30
+pispasjb : suit. 30
+*** TOURNANT *** [3h Qh Jh] [9d]
+pispasjb : parole 
+Nasasan5 : mise. 60
+pispasjb : suit. 60
+*** RIVIÈRE *** [3h Qh Jh 9d] [4d]
+pispasjb : parole 
+Nasasan5 : mise. 90
+pispasjb : suit. 90
+*** ABATTAGE ***
+Nasasan5 : montre [3c 3s] (un brelan de Trois)
+pispasjb : cache la main perdante. 
+Nasasan5 a remporté 435  lors du pot .
+*** SYNTHÈSE ***
+Pot total 435 | Commission 0 
+Tableau [3h Qh Jh 9d 4d]
+Siège 1 : pispasjb (grosse blind) a caché la main perdante. [Td 9c]
+Siège 2 : Nasasan5 (bouton) a montré [3c 3s] et a gagné (435) avec un brelan de Trois
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260253237404 : Tournoi #3987124755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 28/03/2026 7:33:16 CET [28/03/2026 2:33:16 ET]
+Table '3987124755 1' 3-max Siège #3 est au bouton.
+Place 1: pispasjb (390 en jetons) 
+Place 2: Nasasan5 (665 en jetons) 
+Place 3: psychoman59 (445 en jetons) 
+pispasjb : met la petite blind. 15
+Nasasan5 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Js]
+psychoman59 : passe. 
+pispasjb : suit. 15
+Nasasan5 : parole 
+*** FLOP *** [7c Td 3h]
+pispasjb : parole 
+Nasasan5 : mise. 30
+pispasjb : suit. 30
+*** TOURNANT *** [7c Td 3h] [5h]
+pispasjb : parole 
+Nasasan5 : parole 
+*** RIVIÈRE *** [7c Td 3h 5h] [8d]
+pispasjb : parole 
+Nasasan5 : parole 
+*** ABATTAGE ***
+pispasjb : montre [2d 3s] (une paire de Trois)
+Nasasan5 : montre [3c 2c] (une paire de Trois)
+pispasjb a remporté 60  lors du pot .
+Nasasan5 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [7c Td 3h 5h 8d]
+Siège 1 : pispasjb (petite blind) a montré [2d 3s] et a gagné (60) avec une paire de Trois
+Siège 2 : Nasasan5 (grosse blind) a montré [3c 2c] et a gagné (60) avec une paire de Trois
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260253238482 : Tournoi #3987124755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 28/03/2026 7:33:34 CET [28/03/2026 2:33:34 ET]
+Table '3987124755 1' 3-max Siège #1 est au bouton.
+Place 1: pispasjb (390 en jetons) 
+Place 2: Nasasan5 (665 en jetons) 
+Place 3: psychoman59 (445 en jetons) 
+Nasasan5 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 5h]
+pispasjb : suit. 30
+Nasasan5 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Ts 3d 4d]
+Nasasan5 : mise. 30
+psychoman59 : suit. 30
+pispasjb : suit. 30
+*** TOURNANT *** [Ts 3d 4d] [Ah]
+Nasasan5 : mise. 60
+psychoman59 : suit. 60
+pispasjb : passe. 
+*** RIVIÈRE *** [Ts 3d 4d Ah] [5c]
+Nasasan5 : parole 
+psychoman59 : mise. 150
+Nasasan5 : suit. 150
+*** ABATTAGE ***
+psychoman59 : montre [Th 5h] (double paire, Dix et Cinq)
+Nasasan5 : montre [5d Ad] (double paire, As et Cinq)
+Nasasan5 a remporté 600  lors du pot .
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [Ts 3d 4d Ah 5c]
+Siège 1 : pispasjb (bouton) s'est couché. sur le Tournant
+Siège 2 : Nasasan5 (petite blind) a montré [5d Ad] et a gagné (600) avec double paire, As et Cinq
+Siège 3 : psychoman59 (grosse blind) a montré [Th 5h] et a perdu avec double paire, Dix et Cinq
+
+
+
+Main PokerStars n°260253240085 : Tournoi #3987124755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 28/03/2026 7:34:03 CET [28/03/2026 2:34:03 ET]
+Table '3987124755 1' 3-max Siège #2 est au bouton.
+Place 1: pispasjb (330 en jetons) 
+Place 2: Nasasan5 (995 en jetons) 
+Place 3: psychoman59 (175 en jetons) 
+psychoman59 : met la petite blind. 15
+pispasjb : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Ts]
+Nasasan5 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à pispasjb.
+pispasjb a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : pispasjb (grosse blind) a remporté (30)
+Siège 2 : Nasasan5 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260253241242 : Tournoi #3987124755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 28/03/2026 7:34:22 CET [28/03/2026 2:34:22 ET]
+Table '3987124755 1' 3-max Siège #3 est au bouton.
+Place 1: pispasjb (345 en jetons) 
+Place 2: Nasasan5 (995 en jetons) 
+Place 3: psychoman59 (160 en jetons) 
+pispasjb : met la petite blind. 15
+Nasasan5 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 7d]
+psychoman59 : passe. 
+pispasjb : suit. 15
+Nasasan5 : parole 
+*** FLOP *** [Td 8h 8s]
+pispasjb : mise. 30
+Nasasan5 : passe. 
+Personne n'a suivi. (30) sont retournés à pispasjb.
+pispasjb a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Td 8h 8s]
+Siège 1 : pispasjb (petite blind) a remporté (60)
+Siège 2 : Nasasan5 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260253242010 : Tournoi #3987124755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 28/03/2026 7:34:36 CET [28/03/2026 2:34:36 ET]
+Table '3987124755 1' 3-max Siège #1 est au bouton.
+Place 1: pispasjb (375 en jetons) 
+Place 2: Nasasan5 (965 en jetons) 
+Place 3: psychoman59 (160 en jetons) 
+Nasasan5 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 3c]
+pispasjb : suit. 40
+Nasasan5 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [9s Qs 2s]
+Nasasan5 : parole 
+psychoman59 : mise. 120 et est all-in.
+pispasjb : passe. 
+Nasasan5 : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [9s Qs 2s]
+Siège 1 : pispasjb (bouton) s'est couché. sur le Flop
+Siège 2 : Nasasan5 (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°260253242781 : Tournoi #3987124755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 28/03/2026 7:34:49 CET [28/03/2026 2:34:49 ET]
+Table '3987124755 1' 3-max Siège #2 est au bouton.
+Place 1: pispasjb (335 en jetons) 
+Place 2: Nasasan5 (925 en jetons) 
+Place 3: psychoman59 (240 en jetons) 
+psychoman59 : met la petite blind. 20
+pispasjb : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 9c]
+Nasasan5 : suit. 40
+psychoman59 : suit. 20
+pispasjb : parole 
+*** FLOP *** [Jc Td 2d]
+psychoman59 : parole 
+pispasjb : parole 
+Nasasan5 : mise. 80
+psychoman59 : suit. 80
+pispasjb : suit. 80
+*** TOURNANT *** [Jc Td 2d] [Qc]
+psychoman59 : parole 
+pispasjb : parole 
+Nasasan5 : parole 
+*** RIVIÈRE *** [Jc Td 2d Qc] [Kd]
+psychoman59 : mise. 120 et est all-in.
+pispasjb : suit. 120
+Nasasan5 : passe. 
+*** ABATTAGE ***
+psychoman59 : montre [8d 9c] (une suite, Neuf à Roi)
+pispasjb : montre [Jh Kc] (double paire, Rois et Valets)
+psychoman59 a remporté 600  lors du pot .
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [Jc Td 2d Qc Kd]
+Siège 1 : pispasjb (grosse blind) a montré [Jh Kc] et a perdu avec double paire, Rois et Valets
+Siège 2 : Nasasan5 (bouton) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (petite blind) a montré [8d 9c] et a gagné (600) avec une suite, Neuf à Roi
+
+
+
+Main PokerStars n°260253244394 : Tournoi #3987124755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 28/03/2026 7:35:17 CET [28/03/2026 2:35:17 ET]
+Table '3987124755 1' 3-max Siège #3 est au bouton.
+Place 1: pispasjb (95 en jetons) 
+Place 2: Nasasan5 (805 en jetons) 
+Place 3: psychoman59 (600 en jetons) 
+pispasjb : met la petite blind. 20
+Nasasan5 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Qh]
+psychoman59 : suit. 40
+pispasjb : relance. 55 à 95 et est all-in.
+Nasasan5 : suit. 55
+psychoman59 : suit. 55
+*** FLOP *** [2s 7c 8s]
+Nasasan5 : parole 
+psychoman59 : mise. 505 et est all-in.
+Nasasan5 : passe. 
+Personne n'a suivi. (505) sont retournés à psychoman59.
+*** TOURNANT *** [2s 7c 8s] [7h]
+*** RIVIÈRE *** [2s 7c 8s 7h] [3c]
+*** ABATTAGE ***
+pispasjb : montre [2d 2h] (un full, full aux Deux par les Sept)
+psychoman59 : montre [8h Qh] (double paire, Huit et Sept)
+pispasjb a remporté 285  lors du pot .
+*** SYNTHÈSE ***
+Pot total 285 | Commission 0 
+Tableau [2s 7c 8s 7h 3c]
+Siège 1 : pispasjb (petite blind) a montré [2d 2h] et a gagné (285) avec un full, full aux Deux par les Sept
+Siège 2 : Nasasan5 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) a montré [8h Qh] et a perdu avec double paire, Huit et Sept
+
+
+
+Main PokerStars n°260253245637 : Tournoi #3987124755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 28/03/2026 7:35:39 CET [28/03/2026 2:35:39 ET]
+Table '3987124755 1' 3-max Siège #1 est au bouton.
+Place 1: pispasjb (285 en jetons) 
+Place 2: Nasasan5 (710 en jetons) 
+Place 3: psychoman59 (505 en jetons) 
+Nasasan5 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Th]
+pispasjb : suit. 40
+Nasasan5 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [7h As 8s]
+Nasasan5 : parole 
+psychoman59 : parole 
+pispasjb : parole 
+*** TOURNANT *** [7h As 8s] [7d]
+Nasasan5 : parole 
+psychoman59 : parole 
+pispasjb : parole 
+*** RIVIÈRE *** [7h As 8s 7d] [5s]
+Nasasan5 : parole 
+psychoman59 : parole 
+pispasjb : parole 
+*** ABATTAGE ***
+Nasasan5 : montre [5d Kc] (double paire, Sept et Cinq)
+psychoman59 : cache la main perdante. 
+pispasjb : cache la main perdante. 
+Nasasan5 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [7h As 8s 7d 5s]
+Siège 1 : pispasjb (bouton) a caché la main perdante. [Qc 4s]
+Siège 2 : Nasasan5 (petite blind) a montré [5d Kc] et a gagné (120) avec double paire, Sept et Cinq
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [2h Th]
+
+
+
+Main PokerStars n°260253248291 : Tournoi #3987124755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 28/03/2026 7:36:24 CET [28/03/2026 2:36:24 ET]
+Table '3987124755 1' 3-max Siège #2 est au bouton.
+Place 1: pispasjb (245 en jetons) 
+Place 2: Nasasan5 (790 en jetons) 
+Place 3: psychoman59 (465 en jetons) 
+psychoman59 : met la petite blind. 20
+pispasjb : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 9h]
+Nasasan5 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à pispasjb.
+pispasjb a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : pispasjb (grosse blind) a remporté (40)
+Siège 2 : Nasasan5 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260253248873 : Tournoi #3987124755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 28/03/2026 7:36:34 CET [28/03/2026 2:36:34 ET]
+Table '3987124755 1' 3-max Siège #3 est au bouton.
+Place 1: pispasjb (265 en jetons) 
+Place 2: Nasasan5 (790 en jetons) 
+Place 3: psychoman59 (445 en jetons) 
+pispasjb : met la petite blind. 30
+Nasasan5 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 8d]
+psychoman59 : passe. 
+pispasjb : relance. 205 à 265 et est all-in.
+Nasasan5 : passe. 
+Personne n'a suivi. (205) sont retournés à pispasjb.
+pispasjb a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : pispasjb (petite blind) a remporté (120)
+Siège 2 : Nasasan5 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260253249459 : Tournoi #3987124755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 28/03/2026 7:36:44 CET [28/03/2026 2:36:44 ET]
+Table '3987124755 1' 3-max Siège #1 est au bouton.
+Place 1: pispasjb (325 en jetons) 
+Place 2: Nasasan5 (730 en jetons) 
+Place 3: psychoman59 (445 en jetons) 
+Nasasan5 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 8h]
+pispasjb : relance. 60 à 120
+Nasasan5 : suit. 90
+psychoman59 : passe. 
+*** FLOP *** [9s Th 5s]
+Nasasan5 : parole 
+pispasjb : mise. 205 et est all-in.
+Nasasan5 : passe. 
+Personne n'a suivi. (205) sont retournés à pispasjb.
+pispasjb a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [9s Th 5s]
+Siège 1 : pispasjb (bouton) a remporté (300)
+Siège 2 : Nasasan5 (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260253250496 : Tournoi #3987124755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 28/03/2026 7:37:02 CET [28/03/2026 2:37:02 ET]
+Table '3987124755 1' 3-max Siège #2 est au bouton.
+Place 1: pispasjb (505 en jetons) 
+Place 2: Nasasan5 (610 en jetons) 
+Place 3: psychoman59 (385 en jetons) 
+psychoman59 : met la petite blind. 30
+pispasjb : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 5c]
+Nasasan5 : passe. 
+psychoman59 : suit. 30
+pispasjb : parole 
+*** FLOP *** [9d 6c Kh]
+psychoman59 : parole 
+pispasjb : parole 
+*** TOURNANT *** [9d 6c Kh] [As]
+psychoman59 : parole 
+pispasjb : parole 
+*** RIVIÈRE *** [9d 6c Kh As] [8c]
+psychoman59 : mise. 60
+pispasjb : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [9d 6c Kh As 8c]
+Siège 1 : pispasjb (grosse blind) s'est couché. sur le Rivière
+Siège 2 : Nasasan5 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°260253251599 : Tournoi #3987124755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 28/03/2026 7:37:21 CET [28/03/2026 2:37:21 ET]
+Table '3987124755 1' 3-max Siège #3 est au bouton.
+Place 1: pispasjb (445 en jetons) 
+Place 2: Nasasan5 (610 en jetons) 
+Place 3: psychoman59 (445 en jetons) 
+pispasjb : met la petite blind. 30
+Nasasan5 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 9c]
+psychoman59 : passe. 
+pispasjb : suit. 30
+Nasasan5 : parole 
+*** FLOP *** [Kc 9s Qs]
+pispasjb : mise. 60
+Nasasan5 : suit. 60
+*** TOURNANT *** [Kc 9s Qs] [7d]
+pispasjb : parole 
+Nasasan5 : mise. 120
+pispasjb : suit. 120
+*** RIVIÈRE *** [Kc 9s Qs 7d] [As]
+pispasjb : mise. 205 et est all-in.
+Nasasan5 : passe. 
+Personne n'a suivi. (205) sont retournés à pispasjb.
+pispasjb a remporté 480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [Kc 9s Qs 7d As]
+Siège 1 : pispasjb (petite blind) a remporté (480)
+Siège 2 : Nasasan5 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260253253050 : Tournoi #3987124755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 28/03/2026 7:37:45 CET [28/03/2026 2:37:45 ET]
+Table '3987124755 1' 3-max Siège #1 est au bouton.
+Place 1: pispasjb (685 en jetons) 
+Place 2: Nasasan5 (370 en jetons) 
+Place 3: psychoman59 (445 en jetons) 
+Nasasan5 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 7s]
+pispasjb : relance. 60 à 120
+Nasasan5 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à pispasjb.
+pispasjb a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Siège 1 : pispasjb (bouton) a remporté (150)
+Siège 2 : Nasasan5 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260253253586 : Tournoi #3987124755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 28/03/2026 7:37:54 CET [28/03/2026 2:37:54 ET]
+Table '3987124755 1' 3-max Siège #2 est au bouton.
+Place 1: pispasjb (775 en jetons) 
+Place 2: Nasasan5 (340 en jetons) 
+Place 3: psychoman59 (385 en jetons) 
+psychoman59 : met la petite blind. 30
+pispasjb : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 3d]
+Nasasan5 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à pispasjb.
+pispasjb a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : pispasjb (grosse blind) a remporté (60)
+Siège 2 : Nasasan5 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260253253853 : Tournoi #3987124755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 28/03/2026 7:37:59 CET [28/03/2026 2:37:59 ET]
+Table '3987124755 1' 3-max Siège #3 est au bouton.
+Place 1: pispasjb (805 en jetons) 
+Place 2: Nasasan5 (340 en jetons) 
+Place 3: psychoman59 (355 en jetons) 
+pispasjb : met la petite blind. 30
+Nasasan5 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 9s]
+psychoman59 : passe. 
+pispasjb : suit. 30
+Nasasan5 : parole 
+*** FLOP *** [Jd 3d 5h]
+pispasjb : parole 
+Nasasan5 : mise. 280 et est all-in.
+pispasjb : passe. 
+Personne n'a suivi. (280) sont retournés à Nasasan5.
+Nasasan5 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Jd 3d 5h]
+Siège 1 : pispasjb (petite blind) s'est couché. sur le Flop
+Siège 2 : Nasasan5 (grosse blind) a remporté (120)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260253254712 : Tournoi #3987124755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 28/03/2026 7:38:15 CET [28/03/2026 2:38:15 ET]
+Table '3987124755 1' 3-max Siège #1 est au bouton.
+Place 1: pispasjb (745 en jetons) 
+Place 2: Nasasan5 (400 en jetons) 
+Place 3: psychoman59 (355 en jetons) 
+Nasasan5 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 2h]
+pispasjb : suit. 60
+Nasasan5 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Qc 5s 8s]
+Nasasan5 : mise. 60
+psychoman59 : passe. 
+pispasjb : passe. 
+Personne n'a suivi. (60) sont retournés à Nasasan5.
+Nasasan5 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Qc 5s 8s]
+Siège 1 : pispasjb (bouton) s'est couché. sur le Flop
+Siège 2 : Nasasan5 (petite blind) a remporté (180)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°260253255856 : Tournoi #3987124755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 28/03/2026 7:38:35 CET [28/03/2026 2:38:35 ET]
+Table '3987124755 1' 3-max Siège #2 est au bouton.
+Place 1: pispasjb (685 en jetons) 
+Place 2: Nasasan5 (520 en jetons) 
+Place 3: psychoman59 (295 en jetons) 
+psychoman59 : met la petite blind. 40
+pispasjb : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Jd]
+Nasasan5 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à pispasjb.
+pispasjb a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : pispasjb (grosse blind) a remporté (80)
+Siège 2 : Nasasan5 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260253256295 : Tournoi #3987124755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 28/03/2026 7:38:41 CET [28/03/2026 2:38:41 ET]
+Table '3987124755 1' 3-max Siège #3 est au bouton.
+Place 1: pispasjb (725 en jetons) 
+Place 2: Nasasan5 (520 en jetons) 
+Place 3: psychoman59 (255 en jetons) 
+pispasjb : met la petite blind. 40
+Nasasan5 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 3c]
+psychoman59 : passe. 
+pispasjb : suit. 40
+Nasasan5 : parole 
+*** FLOP *** [2s 4s 3s]
+pispasjb : mise. 80
+Nasasan5 : suit. 80
+*** TOURNANT *** [2s 4s 3s] [5h]
+pispasjb : mise. 80
+Nasasan5 : suit. 80
+*** RIVIÈRE *** [2s 4s 3s 5h] [Jc]
+pispasjb : parole 
+Nasasan5 : parole 
+*** ABATTAGE ***
+pispasjb : montre [2h 7h] (une paire de Deux)
+Nasasan5 : cache la main perdante. 
+pispasjb a remporté 480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [2s 4s 3s 5h Jc]
+Siège 1 : pispasjb (petite blind) a montré [2h 7h] et a gagné (480) avec une paire de Deux
+Siège 2 : Nasasan5 (grosse blind) a caché la main perdante. [Tc Qs]
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260253257984 : Tournoi #3987124755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 28/03/2026 7:39:11 CET [28/03/2026 2:39:11 ET]
+Table '3987124755 1' 3-max Siège #1 est au bouton.
+Place 1: pispasjb (965 en jetons) 
+Place 2: Nasasan5 (280 en jetons) 
+Place 3: psychoman59 (255 en jetons) 
+Nasasan5 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 6c]
+pispasjb : relance. 80 à 160
+Nasasan5 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à pispasjb.
+pispasjb a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Siège 1 : pispasjb (bouton) a remporté (200)
+Siège 2 : Nasasan5 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260253258569 : Tournoi #3987124755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 28/03/2026 7:39:21 CET [28/03/2026 2:39:21 ET]
+Table '3987124755 1' 3-max Siège #2 est au bouton.
+Place 1: pispasjb (1085 en jetons) 
+Place 2: Nasasan5 (240 en jetons) 
+Place 3: psychoman59 (175 en jetons) 
+psychoman59 : met la petite blind. 40
+pispasjb : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 4s]
+Nasasan5 : relance. 160 à 240 et est all-in.
+psychoman59 : passe. 
+pispasjb : suit. 160
+*** FLOP *** [Td 6s Kc]
+*** TOURNANT *** [Td 6s Kc] [7c]
+*** RIVIÈRE *** [Td 6s Kc 7c] [6d]
+*** ABATTAGE ***
+pispasjb : montre [Ts Qs] (double paire, Dix et Six)
+Nasasan5 : montre [8s Jh] (une paire de Six)
+pispasjb a remporté 520  lors du pot .
+Nasasan5 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 520 | Commission 0 
+Tableau [Td 6s Kc 7c 6d]
+Siège 1 : pispasjb (grosse blind) a montré [Ts Qs] et a gagné (520) avec double paire, Dix et Six
+Siège 2 : Nasasan5 (bouton) a montré [8s Jh] et a perdu avec une paire de Six
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260253259667 : Tournoi #3987124755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 28/03/2026 7:39:40 CET [28/03/2026 2:39:40 ET]
+Table '3987124755 1' 3-max Siège #1 est au bouton.
+Place 1: pispasjb (1365 en jetons) 
+Place 3: psychoman59 (135 en jetons) 
+pispasjb : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 2h]
+pispasjb : suit. 40
+psychoman59 : relance. 55 à 135 et est all-in.
+pispasjb : suit. 55
+*** FLOP *** [2c Ts Qh]
+*** TOURNANT *** [2c Ts Qh] [5c]
+*** RIVIÈRE *** [2c Ts Qh 5c] [Qd]
+*** ABATTAGE ***
+psychoman59 : montre [Ac 2h] (double paire, Dames et Deux)
+pispasjb : montre [9d Qc] (un brelan de Dames)
+pispasjb a remporté 270  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+pispasjb gagne le tournoi - félicitations !
+pispasjb gagne un ticket " €1 Step 2 MTT Power Path ticket "
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Tableau [2c Ts Qh 5c Qd]
+Siège 1 : pispasjb (bouton) (petite blind) a montré [9d Qc] et a gagné (270) avec un brelan de Dames
+Siège 3 : psychoman59 (grosse blind) a montré [Ac 2h] et a perdu avec double paire, Dames et Deux
+
+
+

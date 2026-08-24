@@ -1,0 +1,539 @@
+﻿Main PokerStars n°260848157549 : Tournoi #4001419746, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 18/05/2026 14:46:27 CET [18/05/2026 8:46:27 ET]
+Table '4001419746 1' 3-max Siège #1 est au bouton.
+Place 1: salvador865 (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: oOBVPOo (500 en jetons) 
+psychoman59 : met la petite blind. 10
+oOBVPOo : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 3c]
+salvador865 : passe. 
+psychoman59 : suit. 10
+oOBVPOo : parole 
+*** FLOP *** [3d Kd Qh]
+psychoman59 : mise. 20
+oOBVPOo : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [3d Kd Qh]
+Siège 1 : salvador865 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (40)
+Siège 3 : oOBVPOo (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°260848159201 : Tournoi #4001419746, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 18/05/2026 14:46:42 CET [18/05/2026 8:46:42 ET]
+Table '4001419746 1' 3-max Siège #2 est au bouton.
+Place 1: salvador865 (500 en jetons) 
+Place 2: psychoman59 (520 en jetons) 
+Place 3: oOBVPOo (480 en jetons) 
+oOBVPOo : met la petite blind. 10
+salvador865 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 2c]
+psychoman59 : passe. 
+oOBVPOo : suit. 10
+salvador865 : parole 
+*** FLOP *** [6h 3d 8s]
+oOBVPOo : parole 
+salvador865 : parole 
+*** TOURNANT *** [6h 3d 8s] [Qc]
+oOBVPOo : mise. 30
+salvador865 : suit. 30
+*** RIVIÈRE *** [6h 3d 8s Qc] [Ac]
+oOBVPOo : mise. 75
+salvador865 : relance. 75 à 150
+oOBVPOo : suit. 75
+*** ABATTAGE ***
+salvador865 : montre [As 8h] (double paire, As et Huit)
+oOBVPOo : cache la main perdante. 
+salvador865 a remporté 400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [6h 3d 8s Qc Ac]
+Siège 1 : salvador865 (grosse blind) a montré [As 8h] et a gagné (400) avec double paire, As et Huit
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : oOBVPOo (petite blind) a caché la main perdante. [3c Qs]
+
+
+
+Main PokerStars n°260848162873 : Tournoi #4001419746, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 18/05/2026 14:47:15 CET [18/05/2026 8:47:15 ET]
+Table '4001419746 1' 3-max Siège #3 est au bouton.
+Place 1: salvador865 (700 en jetons) 
+Place 2: psychoman59 (520 en jetons) 
+Place 3: oOBVPOo (280 en jetons) 
+salvador865 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 2c]
+oOBVPOo : relance. 260 à 280 et est all-in.
+salvador865 : passe. 
+psychoman59 : suit. 260
+*** FLOP *** [8h 2s 9s]
+*** TOURNANT *** [8h 2s 9s] [Ks]
+*** RIVIÈRE *** [8h 2s 9s Ks] [9d]
+*** ABATTAGE ***
+psychoman59 : montre [2d 2c] (un full, full aux Deux par les Neuf)
+oOBVPOo : montre [Ac Qs] (une paire de Neuf)
+psychoman59 a remporté 570  lors du pot .
+oOBVPOo a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 570 | Commission 0 
+Tableau [8h 2s 9s Ks 9d]
+Siège 1 : salvador865 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a montré [2d 2c] et a gagné (570) avec un full, full aux Deux par les Neuf
+Siège 3 : oOBVPOo (bouton) a montré [Ac Qs] et a perdu avec une paire de Neuf
+
+
+
+Main PokerStars n°260848165320 : Tournoi #4001419746, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 18/05/2026 14:47:37 CET [18/05/2026 8:47:37 ET]
+Table '4001419746 1' 3-max Siège #2 est au bouton.
+Place 1: salvador865 (690 en jetons) 
+Place 2: psychoman59 (810 en jetons) 
+psychoman59 : met la petite blind. 10
+salvador865 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 3c]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à salvador865.
+salvador865 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : salvador865 (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260848165862 : Tournoi #4001419746, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 18/05/2026 14:47:42 CET [18/05/2026 8:47:42 ET]
+Table '4001419746 1' 3-max Siège #1 est au bouton.
+Place 1: salvador865 (700 en jetons) 
+Place 2: psychoman59 (800 en jetons) 
+salvador865 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Td]
+salvador865 : relance. 60 à 80
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à salvador865.
+salvador865 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : salvador865 (bouton) (petite blind) a remporté (40)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260848166756 : Tournoi #4001419746, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 18/05/2026 14:47:50 CET [18/05/2026 8:47:50 ET]
+Table '4001419746 1' 3-max Siège #2 est au bouton.
+Place 1: salvador865 (720 en jetons) 
+Place 2: psychoman59 (780 en jetons) 
+psychoman59 : met la petite blind. 10
+salvador865 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Th]
+psychoman59 : relance. 20 à 40
+salvador865 : suit. 20
+*** FLOP *** [2d Kd 5c]
+salvador865 : parole 
+psychoman59 : mise. 40
+salvador865 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [2d Kd 5c]
+Siège 1 : salvador865 (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°260848168120 : Tournoi #4001419746, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 18/05/2026 14:48:03 CET [18/05/2026 8:48:03 ET]
+Table '4001419746 1' 3-max Siège #1 est au bouton.
+Place 1: salvador865 (680 en jetons) 
+Place 2: psychoman59 (820 en jetons) 
+salvador865 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 3s]
+salvador865 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [2d 5c 4d]
+psychoman59 : parole 
+salvador865 : parole 
+*** TOURNANT *** [2d 5c 4d] [9c]
+psychoman59 : parole 
+salvador865 : parole 
+*** RIVIÈRE *** [2d 5c 4d 9c] [Ks]
+psychoman59 : parole 
+salvador865 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Th 3s] (Hauteur Roi)
+salvador865 : montre [8h Jh] (Hauteur Roi - Valet kicker)
+salvador865 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [2d 5c 4d 9c Ks]
+Siège 1 : salvador865 (bouton) (petite blind) a montré [8h Jh] et a gagné (40) avec Hauteur Roi
+Siège 2 : psychoman59 (grosse blind) a montré [Th 3s] et a perdu avec Hauteur Roi
+
+
+
+Main PokerStars n°260848170690 : Tournoi #4001419746, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 18/05/2026 14:48:26 CET [18/05/2026 8:48:26 ET]
+Table '4001419746 1' 3-max Siège #2 est au bouton.
+Place 1: salvador865 (700 en jetons) 
+Place 2: psychoman59 (800 en jetons) 
+psychoman59 : met la petite blind. 10
+salvador865 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 2c]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à salvador865.
+salvador865 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : salvador865 (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260848171751 : Tournoi #4001419746, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 18/05/2026 14:48:35 CET [18/05/2026 8:48:35 ET]
+Table '4001419746 1' 3-max Siège #1 est au bouton.
+Place 1: salvador865 (710 en jetons) 
+Place 2: psychoman59 (790 en jetons) 
+salvador865 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 2s]
+salvador865 : suit. 15
+psychoman59 : relance. 60 à 90
+salvador865 : suit. 60
+*** FLOP *** [9c Js 4s]
+psychoman59 : mise. 90
+salvador865 : suit. 90
+*** TOURNANT *** [9c Js 4s] [Td]
+psychoman59 : parole 
+salvador865 : mise. 90
+psychoman59 : passe. 
+Personne n'a suivi. (90) sont retournés à salvador865.
+salvador865 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [9c Js 4s Td]
+Siège 1 : salvador865 (bouton) (petite blind) a remporté (360)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°260848174820 : Tournoi #4001419746, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 18/05/2026 14:49:02 CET [18/05/2026 8:49:02 ET]
+Table '4001419746 1' 3-max Siège #2 est au bouton.
+Place 1: salvador865 (890 en jetons) 
+Place 2: psychoman59 (610 en jetons) 
+psychoman59 : met la petite blind. 15
+salvador865 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 2h]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à salvador865.
+salvador865 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : salvador865 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260848175345 : Tournoi #4001419746, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 18/05/2026 14:49:06 CET [18/05/2026 8:49:06 ET]
+Table '4001419746 1' 3-max Siège #1 est au bouton.
+Place 1: salvador865 (905 en jetons) 
+Place 2: psychoman59 (595 en jetons) 
+salvador865 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 4s]
+salvador865 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [2s 3h 5h]
+psychoman59 : parole 
+salvador865 : mise. 60
+psychoman59 : suit. 60
+*** TOURNANT *** [2s 3h 5h] [Qs]
+psychoman59 : parole 
+salvador865 : mise. 60
+psychoman59 : suit. 60
+*** RIVIÈRE *** [2s 3h 5h Qs] [Ah]
+psychoman59 : parole 
+salvador865 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Ts 4s] (une suite, As à Cinq)
+salvador865 : cache la main perdante. 
+psychoman59 a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [2s 3h 5h Qs Ah]
+Siège 1 : salvador865 (bouton) (petite blind) a caché la main perdante. [Kh 5c]
+Siège 2 : psychoman59 (grosse blind) a montré [Ts 4s] et a gagné (300) avec une suite, As à Cinq
+
+
+
+Main PokerStars n°260848178387 : Tournoi #4001419746, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 18/05/2026 14:49:33 CET [18/05/2026 8:49:33 ET]
+Table '4001419746 1' 3-max Siège #2 est au bouton.
+Place 1: salvador865 (755 en jetons) 
+Place 2: psychoman59 (745 en jetons) 
+psychoman59 : met la petite blind. 15
+salvador865 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 6h]
+psychoman59 : suit. 15
+salvador865 : relance. 60 à 90
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à salvador865.
+salvador865 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : salvador865 (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260848179604 : Tournoi #4001419746, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 18/05/2026 14:49:44 CET [18/05/2026 8:49:44 ET]
+Table '4001419746 1' 3-max Siège #1 est au bouton.
+Place 1: salvador865 (785 en jetons) 
+Place 2: psychoman59 (715 en jetons) 
+salvador865 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Ah]
+salvador865 : suit. 15
+psychoman59 : relance. 60 à 90
+salvador865 : suit. 60
+*** FLOP *** [5d Tc Kh]
+psychoman59 : parole 
+salvador865 : parole 
+*** TOURNANT *** [5d Tc Kh] [6d]
+psychoman59 : parole 
+salvador865 : mise. 90
+psychoman59 : relance. 90 à 180
+salvador865 : suit. 90
+*** RIVIÈRE *** [5d Tc Kh 6d] [3h]
+psychoman59 : mise. 270
+salvador865 : passe. 
+Personne n'a suivi. (270) sont retournés à psychoman59.
+psychoman59 a remporté 540  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [5d Tc Kh 6d 3h]
+Siège 1 : salvador865 (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (grosse blind) a remporté (540)
+
+
+
+Main PokerStars n°260848184147 : Tournoi #4001419746, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 18/05/2026 14:50:25 CET [18/05/2026 8:50:25 ET]
+Table '4001419746 1' 3-max Siège #2 est au bouton.
+Place 1: salvador865 (515 en jetons) 
+Place 2: psychoman59 (985 en jetons) 
+psychoman59 : met la petite blind. 15
+salvador865 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Ks]
+psychoman59 : suit. 15
+salvador865 : relance. 60 à 90
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à salvador865.
+salvador865 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : salvador865 (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260848185659 : Tournoi #4001419746, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 18/05/2026 14:50:39 CET [18/05/2026 8:50:39 ET]
+Table '4001419746 1' 3-max Siège #1 est au bouton.
+Place 1: salvador865 (545 en jetons) 
+Place 2: psychoman59 (955 en jetons) 
+salvador865 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 3h]
+salvador865 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [4h Qh Ts]
+psychoman59 : parole 
+salvador865 : parole 
+*** TOURNANT *** [4h Qh Ts] [Jc]
+psychoman59 : parole 
+salvador865 : parole 
+*** RIVIÈRE *** [4h Qh Ts Jc] [5c]
+psychoman59 : parole 
+salvador865 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [5h 3h] (une paire de Cinq)
+salvador865 : cache la main perdante. 
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [4h Qh Ts Jc 5c]
+Siège 1 : salvador865 (bouton) (petite blind) a caché la main perdante. [7d 2c]
+Siège 2 : psychoman59 (grosse blind) a montré [5h 3h] et a gagné (80) avec une paire de Cinq
+
+
+
+Main PokerStars n°260848188986 : Tournoi #4001419746, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 18/05/2026 14:51:08 CET [18/05/2026 8:51:08 ET]
+Table '4001419746 1' 3-max Siège #2 est au bouton.
+Place 1: salvador865 (505 en jetons) 
+Place 2: psychoman59 (995 en jetons) 
+psychoman59 : met la petite blind. 20
+salvador865 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Kh]
+psychoman59 : suit. 20
+salvador865 : parole 
+*** FLOP *** [6h Ac Ks]
+salvador865 : parole 
+psychoman59 : mise. 80
+salvador865 : suit. 80
+*** TOURNANT *** [6h Ac Ks] [5d]
+salvador865 : parole 
+psychoman59 : mise. 120
+salvador865 : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [6h Ac Ks 5d]
+Siège 1 : salvador865 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (240)
+
+
+
+Main PokerStars n°260848192293 : Tournoi #4001419746, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 18/05/2026 14:51:38 CET [18/05/2026 8:51:38 ET]
+Table '4001419746 1' 3-max Siège #1 est au bouton.
+Place 1: salvador865 (385 en jetons) 
+Place 2: psychoman59 (1115 en jetons) 
+salvador865 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 8c]
+salvador865 : relance. 120 à 160
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à salvador865.
+salvador865 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : salvador865 (bouton) (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260848193247 : Tournoi #4001419746, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 18/05/2026 14:51:47 CET [18/05/2026 8:51:47 ET]
+Table '4001419746 1' 3-max Siège #2 est au bouton.
+Place 1: salvador865 (425 en jetons) 
+Place 2: psychoman59 (1075 en jetons) 
+psychoman59 : met la petite blind. 20
+salvador865 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Kh]
+psychoman59 : relance. 40 à 80
+salvador865 : suit. 40
+*** FLOP *** [As 2s 6d]
+salvador865 : parole 
+psychoman59 : mise. 80
+salvador865 : suit. 80
+*** TOURNANT *** [As 2s 6d] [Qh]
+salvador865 : parole 
+psychoman59 : mise. 320
+salvador865 : passe. 
+Personne n'a suivi. (320) sont retournés à psychoman59.
+psychoman59 a remporté 320  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [As 2s 6d Qh]
+Siège 1 : salvador865 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (320)
+
+
+
+Main PokerStars n°260848195803 : Tournoi #4001419746, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 18/05/2026 14:52:09 CET [18/05/2026 8:52:09 ET]
+Table '4001419746 1' 3-max Siège #1 est au bouton.
+Place 1: salvador865 (265 en jetons) 
+Place 2: psychoman59 (1235 en jetons) 
+salvador865 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Qh]
+salvador865 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : salvador865 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°260848196373 : Tournoi #4001419746, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 18/05/2026 14:52:14 CET [18/05/2026 8:52:14 ET]
+Table '4001419746 1' 3-max Siège #2 est au bouton.
+Place 1: salvador865 (245 en jetons) 
+Place 2: psychoman59 (1255 en jetons) 
+psychoman59 : met la petite blind. 20
+salvador865 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 7h]
+psychoman59 : suit. 20
+salvador865 : parole 
+*** FLOP *** [4d 2s 5s]
+salvador865 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [4d 2s 5s] [3s]
+salvador865 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [4d 2s 5s 3s] [8c]
+salvador865 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+salvador865 : montre [7c Js] (Hauteur Valet)
+psychoman59 : montre [8s 7h] (une paire de Huit)
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [4d 2s 5s 3s 8c]
+Siège 1 : salvador865 (grosse blind) a montré [7c Js] et a perdu avec Hauteur Valet
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [8s 7h] et a gagné (80) avec une paire de Huit
+
+
+
+Main PokerStars n°260848198786 : Tournoi #4001419746, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 18/05/2026 14:52:36 CET [18/05/2026 8:52:36 ET]
+Table '4001419746 1' 3-max Siège #1 est au bouton.
+Place 1: salvador865 (205 en jetons) 
+Place 2: psychoman59 (1295 en jetons) 
+salvador865 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Ah]
+salvador865 : relance. 145 à 205 et est all-in.
+psychoman59 : suit. 145
+*** FLOP *** [6d 5d 8s]
+*** TOURNANT *** [6d 5d 8s] [4s]
+*** RIVIÈRE *** [6d 5d 8s 4s] [4d]
+*** ABATTAGE ***
+psychoman59 : montre [Th Ah] (une paire de Quatre)
+salvador865 : montre [3s Kd] (une paire de Quatre - plus basse kicker)
+psychoman59 a remporté 410  lors du pot .
+salvador865 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 4.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 410 | Commission 0 
+Tableau [6d 5d 8s 4s 4d]
+Siège 1 : salvador865 (bouton) (petite blind) a montré [3s Kd] et a perdu avec une paire de Quatre
+Siège 2 : psychoman59 (grosse blind) a montré [Th Ah] et a gagné (410) avec une paire de Quatre
+
+
+

@@ -1,0 +1,136 @@
+﻿Main PokerStars n°241759260656 : Tournoi #3546190283, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/02/2023 9:45:46 CET [11/02/2023 3:45:46 ET]
+Table '3546190283 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Pa2ku83 (300 en jetons) 
+Place 3: mikky60 (300 en jetons) 
+Pa2ku83 : met la petite blind. 10
+mikky60 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 5d]
+psychoman59 : passe. 
+Pa2ku83 : passe. 
+Personne n'a suivi. (10) sont retournés à mikky60.
+mikky60 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Pa2ku83 (petite blind) s'est couché. avant Flop
+Siège 3 : mikky60 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°241759261302 : Tournoi #3546190283, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/02/2023 9:45:51 CET [11/02/2023 3:45:51 ET]
+Table '3546190283 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Pa2ku83 (290 en jetons) 
+Place 3: mikky60 (310 en jetons) 
+mikky60 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 5c]
+Pa2ku83 : passe. 
+mikky60 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [6d Tc Kc]
+mikky60 : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [6d Tc Kc] [9s]
+mikky60 : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [6d Tc Kc 9s] [Th]
+mikky60 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+mikky60 : montre [8c Ac] (une paire de Dix)
+psychoman59 : montre [Ks 5c] (double paire, Rois et Dix)
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [6d Tc Kc 9s Th]
+Siège 1 : psychoman59 (grosse blind) a montré [Ks 5c] et a gagné (120) avec double paire, Rois et Dix
+Siège 2 : Pa2ku83 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : mikky60 (petite blind) a montré [8c Ac] et a perdu avec une paire de Dix
+
+
+
+Main PokerStars n°241759265063 : Tournoi #3546190283, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/02/2023 9:46:19 CET [11/02/2023 3:46:19 ET]
+Table '3546190283 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (360 en jetons) 
+Place 2: Pa2ku83 (290 en jetons) 
+Place 3: mikky60 (250 en jetons) 
+psychoman59 : met la petite blind. 10
+Pa2ku83 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 5h]
+mikky60 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à Pa2ku83.
+Pa2ku83 a remporté 20  lors du pot .
+Pa2ku83 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Pa2ku83 (grosse blind) a remporté (20)
+Siège 3 : mikky60 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°241759265906 : Tournoi #3546190283, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/02/2023 9:46:25 CET [11/02/2023 3:46:25 ET]
+Table '3546190283 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (350 en jetons) 
+Place 2: Pa2ku83 (300 en jetons) 
+Place 3: mikky60 (250 en jetons) 
+Pa2ku83 : met la petite blind. 10
+mikky60 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Tc]
+psychoman59 : relance. 330 à 350 et est all-in.
+Pa2ku83 : suit. 290 et est all-in.
+mikky60 : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+*** FLOP *** [Th Kd Qs]
+*** TOURNANT *** [Th Kd Qs] [Td]
+*** RIVIÈRE *** [Th Kd Qs Td] [Jh]
+*** ABATTAGE ***
+Pa2ku83 : montre [9d 2c] (une suite, Neuf à Roi)
+psychoman59 : montre [Ts Tc] (un carré de Dix)
+psychoman59 a remporté 620  lors du pot .
+Pa2ku83 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [Th Kd Qs Td Jh]
+Siège 1 : psychoman59 (bouton) a montré [Ts Tc] et a gagné (620) avec un carré de Dix
+Siège 2 : Pa2ku83 (petite blind) a montré [9d 2c] et a perdu avec une suite, Neuf à Roi
+Siège 3 : mikky60 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241759268108 : Tournoi #3546190283, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/02/2023 9:46:42 CET [11/02/2023 3:46:42 ET]
+Table '3546190283 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (670 en jetons) 
+Place 3: mikky60 (230 en jetons) 
+mikky60 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 9d]
+mikky60 : suit. 10
+psychoman59 : relance. 650 à 670 et est all-in.
+mikky60 : suit. 210 et est all-in.
+Personne n'a suivi. (440) sont retournés à psychoman59.
+*** FLOP *** [Jd 3s Kh]
+*** TOURNANT *** [Jd 3s Kh] [Js]
+*** RIVIÈRE *** [Jd 3s Kh Js] [Ac]
+*** ABATTAGE ***
+psychoman59 : montre [9s 9d] (double paire, Valets et Neuf)
+mikky60 : montre [5s Qs] (une paire de Valets)
+psychoman59 a remporté 460  lors du pot .
+mikky60 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 460 | Commission 0 
+Tableau [Jd 3s Kh Js Ac]
+Siège 1 : psychoman59 (grosse blind) a montré [9s 9d] et a gagné (460) avec double paire, Valets et Neuf
+Siège 3 : mikky60 (bouton) (petite blind) a montré [5s Qs] et a perdu avec une paire de Valets
+
+
+

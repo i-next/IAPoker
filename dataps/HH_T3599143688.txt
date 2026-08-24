@@ -1,0 +1,206 @@
+﻿Main PokerStars n°244043434257 : Tournoi #3599143688, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 02/06/2023 7:09:23 CET [02/06/2023 1:09:23 ET]
+Table '3599143688 1' 3-max Siège #3 est au bouton.
+Place 1: maitreroi (460 en jetons) 
+Place 2: psychoman59 (260 en jetons) 
+Place 3: avelgornog (180 en jetons) 
+maitreroi : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Jd]
+avelgornog : suit. 20
+maitreroi : suit. 10
+psychoman59 : parole 
+*** FLOP *** [5c 9c 8d]
+maitreroi : mise. 20
+psychoman59 : suit. 20
+avelgornog : passe. 
+*** TOURNANT *** [5c 9c 8d] [Qh]
+maitreroi : parole 
+psychoman59 : mise. 50
+maitreroi : suit. 50
+*** RIVIÈRE *** [5c 9c 8d Qh] [5s]
+maitreroi : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+maitreroi : montre [6c 4d] (une paire de Cinq)
+psychoman59 : montre [8h Jd] (double paire, Huit et Cinq)
+psychoman59 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [5c 9c 8d Qh 5s]
+Siège 1 : maitreroi (petite blind) a montré [6c 4d] et a perdu avec une paire de Cinq
+Siège 2 : psychoman59 (grosse blind) a montré [8h Jd] et a gagné (200) avec double paire, Huit et Cinq
+Siège 3 : avelgornog (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°244043437958 : Tournoi #3599143688, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 02/06/2023 7:09:58 CET [02/06/2023 1:09:58 ET]
+Table '3599143688 1' 3-max Siège #1 est au bouton.
+Place 1: maitreroi (370 en jetons) 
+Place 2: psychoman59 (370 en jetons) 
+Place 3: avelgornog (160 en jetons) 
+psychoman59 : met la petite blind. 15
+avelgornog : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 9d]
+maitreroi : relance. 30 à 60
+psychoman59 : passe. 
+avelgornog : suit. 30
+*** FLOP *** [Ks 8h Td]
+avelgornog : parole 
+maitreroi : mise. 135
+avelgornog : passe. 
+Personne n'a suivi. (135) sont retournés à maitreroi.
+maitreroi a remporté 135  lors du pot .
+*** SYNTHÈSE ***
+Pot total 135 | Commission 0 
+Tableau [Ks 8h Td]
+Siège 1 : maitreroi (bouton) a remporté (135)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : avelgornog (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°244043439700 : Tournoi #3599143688, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 02/06/2023 7:10:14 CET [02/06/2023 1:10:14 ET]
+Table '3599143688 1' 3-max Siège #2 est au bouton.
+Place 1: maitreroi (445 en jetons) 
+Place 2: psychoman59 (355 en jetons) 
+Place 3: avelgornog (100 en jetons) 
+avelgornog : met la petite blind. 15
+maitreroi : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 7h]
+psychoman59 : passe. 
+avelgornog : suit. 15
+maitreroi : parole 
+*** FLOP *** [8c 5c Td]
+avelgornog : parole 
+maitreroi : mise. 60
+avelgornog : passe. 
+Personne n'a suivi. (60) sont retournés à maitreroi.
+maitreroi a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [8c 5c Td]
+Siège 1 : maitreroi (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : avelgornog (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°244043441741 : Tournoi #3599143688, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 02/06/2023 7:10:33 CET [02/06/2023 1:10:33 ET]
+Table '3599143688 1' 3-max Siège #3 est au bouton.
+Place 1: maitreroi (475 en jetons) 
+Place 2: psychoman59 (355 en jetons) 
+Place 3: avelgornog (70 en jetons) 
+maitreroi : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 6s]
+avelgornog : relance. 30 à 70 et est all-in.
+maitreroi : suit. 50
+psychoman59 : suit. 30
+*** FLOP *** [5d 8d 3d]
+maitreroi : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [5d 8d 3d] [Jd]
+maitreroi : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [5d 8d 3d Jd] [Qs]
+maitreroi : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+maitreroi : montre [2s 8h] (une paire de Huit)
+psychoman59 : cache la main perdante. 
+maitreroi a remporté 80  parallèle lors du pot .
+avelgornog : montre [3s Qd] (une couleur, hauteur Dame)
+avelgornog a remporté 210  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 290 Principal pot 210. Parallèle pot 80. | Commission 0 
+Tableau [5d 8d 3d Jd Qs]
+Siège 1 : maitreroi (petite blind) a montré [2s 8h] et a gagné (80) avec une paire de Huit
+Siège 2 : psychoman59 (grosse blind) a caché la main perdante. [4s 6s]
+Siège 3 : avelgornog (bouton) a montré [3s Qd] et a gagné (210) avec une couleur, hauteur Dame
+
+
+
+Main PokerStars n°244043445378 : Tournoi #3599143688, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 02/06/2023 7:11:06 CET [02/06/2023 1:11:06 ET]
+Table '3599143688 1' 3-max Siège #1 est au bouton.
+Place 1: maitreroi (445 en jetons) 
+Place 2: psychoman59 (245 en jetons) 
+Place 3: avelgornog (210 en jetons) 
+psychoman59 : met la petite blind. 20
+avelgornog : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 6h]
+maitreroi : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à avelgornog.
+avelgornog a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : maitreroi (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : avelgornog (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°244043446094 : Tournoi #3599143688, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 02/06/2023 7:11:12 CET [02/06/2023 1:11:12 ET]
+Table '3599143688 1' 3-max Siège #2 est au bouton.
+Place 1: maitreroi (445 en jetons) 
+Place 2: psychoman59 (225 en jetons) 
+Place 3: avelgornog (230 en jetons) 
+avelgornog : met la petite blind. 20
+maitreroi : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 7c]
+psychoman59 : suit. 40
+avelgornog : relance. 120 à 160
+maitreroi : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à avelgornog.
+avelgornog a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : maitreroi (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 3 : avelgornog (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°244043447792 : Tournoi #3599143688, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 02/06/2023 7:11:27 CET [02/06/2023 1:11:27 ET]
+Table '3599143688 1' 3-max Siège #3 est au bouton.
+Place 1: maitreroi (405 en jetons) 
+Place 2: psychoman59 (185 en jetons) 
+Place 3: avelgornog (310 en jetons) 
+maitreroi : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 2s]
+avelgornog : relance. 120 à 160
+maitreroi : suit. 140
+psychoman59 : relance. 25 à 185 et est all-in.
+avelgornog : suit. 25
+maitreroi : suit. 25
+*** FLOP *** [9d Th 8c]
+maitreroi : mise. 220 et est all-in.
+avelgornog : suit. 125 et est all-in.
+Personne n'a suivi. (95) sont retournés à maitreroi.
+*** TOURNANT *** [9d Th 8c] [As]
+*** RIVIÈRE *** [9d Th 8c As] [4c]
+*** ABATTAGE ***
+maitreroi : montre [Td 7d] (une paire de Dix)
+avelgornog : montre [Ad 9s] (double paire, As et Neuf)
+avelgornog a remporté 250  parallèle lors du pot .
+psychoman59 : montre [Ah 2s] (une paire de As)
+avelgornog a remporté 555  principal lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 805 Principal pot 555. Parallèle pot 250. | Commission 0 
+Tableau [9d Th 8c As 4c]
+Siège 1 : maitreroi (petite blind) a montré [Td 7d] et a perdu avec une paire de Dix
+Siège 2 : psychoman59 (grosse blind) a montré [Ah 2s] et a perdu avec une paire de As
+Siège 3 : avelgornog (bouton) a montré [Ad 9s] et a gagné (805) avec double paire, As et Neuf
+
+
+

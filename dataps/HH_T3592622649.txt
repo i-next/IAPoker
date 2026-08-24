@@ -1,0 +1,37 @@
+﻿Main PokerStars n°243751206283 : Tournoi #3592622649, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 17/05/2023 23:25:45 CET [17/05/2023 17:25:45 ET]
+Table '3592622649 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: jorisdix (300 en jetons) 
+Place 3: givemeyourdolz (300 en jetons) 
+jorisdix : met la petite blind. 10
+givemeyourdolz : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Kh]
+psychoman59 : suit. 20
+jorisdix : passe. 
+givemeyourdolz : parole 
+*** FLOP *** [As 2d Ts]
+givemeyourdolz : parole 
+psychoman59 : mise. 50
+givemeyourdolz : suit. 50
+*** TOURNANT *** [As 2d Ts] [Kc]
+givemeyourdolz : parole 
+psychoman59 : mise. 75
+givemeyourdolz : suit. 75
+*** RIVIÈRE *** [As 2d Ts Kc] [3s]
+givemeyourdolz : mise. 155 et est all-in.
+psychoman59 : suit. 155 et est all-in.
+*** ABATTAGE ***
+givemeyourdolz : montre [5s Qs] (une couleur, hauteur As)
+psychoman59 : montre [8c Kh] (une paire de Rois)
+givemeyourdolz a remporté 610  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 610 | Commission 0 
+Tableau [As 2d Ts Kc 3s]
+Siège 1 : psychoman59 (bouton) a montré [8c Kh] et a perdu avec une paire de Rois
+Siège 2 : jorisdix (petite blind) s'est couché. avant Flop
+Siège 3 : givemeyourdolz (grosse blind) a montré [5s Qs] et a gagné (610) avec une couleur, hauteur As
+
+
+

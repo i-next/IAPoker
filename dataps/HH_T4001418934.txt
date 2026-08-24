@@ -1,0 +1,455 @@
+﻿Main PokerStars n°260848123047 : Tournoi #4001418934, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/05/2026 14:41:19 CET [18/05/2026 8:41:19 ET]
+Table '4001418934 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: Wehbz (500 en jetons) 
+Place 3: Acheurx (500 en jetons) 
+Wehbz : met la petite blind. 10
+Acheurx : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 9c]
+psychoman59 : suit. 20
+Wehbz : relance. 20 à 40
+Acheurx : suit. 20
+psychoman59 : suit. 20
+*** FLOP *** [Tc 9d 3h]
+Wehbz : parole 
+Acheurx : mise. 60
+psychoman59 : passe. 
+Wehbz : suit. 60
+*** TOURNANT *** [Tc 9d 3h] [5c]
+Wehbz : parole 
+Acheurx : parole 
+*** RIVIÈRE *** [Tc 9d 3h 5c] [6c]
+Wehbz : mise. 120
+Acheurx : suit. 120
+*** ABATTAGE ***
+Wehbz : montre [5s As] (une paire de Cinq)
+Acheurx : cache la main perdante. 
+Wehbz a remporté 480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [Tc 9d 3h 5c 6c]
+Siège 1 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 2 : Wehbz (petite blind) a montré [5s As] et a gagné (480) avec une paire de Cinq
+Siège 3 : Acheurx (grosse blind) a caché la main perdante. [4h 4s]
+
+
+
+Main PokerStars n°260848126398 : Tournoi #4001418934, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/05/2026 14:41:49 CET [18/05/2026 8:41:49 ET]
+Table '4001418934 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (460 en jetons) 
+Place 2: Wehbz (760 en jetons) 
+Place 3: Acheurx (280 en jetons) 
+Acheurx : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 7h]
+Wehbz : relance. 20 à 40
+Acheurx : suit. 30
+psychoman59 : passe. 
+*** FLOP *** [4s As Td]
+Acheurx : parole 
+Wehbz : mise. 60
+Acheurx : passe. 
+Personne n'a suivi. (60) sont retournés à Wehbz.
+Wehbz a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [4s As Td]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Wehbz (bouton) a remporté (100)
+Siège 3 : Acheurx (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°260848128545 : Tournoi #4001418934, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/05/2026 14:42:08 CET [18/05/2026 8:42:08 ET]
+Table '4001418934 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (440 en jetons) 
+Place 2: Wehbz (820 en jetons) 
+Place 3: Acheurx (240 en jetons) 
+psychoman59 : met la petite blind. 10
+Wehbz : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 9h]
+Acheurx : suit. 20
+psychoman59 : suit. 10
+Wehbz : parole 
+*** FLOP *** [3h 4c 3d]
+psychoman59 : parole 
+Wehbz : parole 
+Acheurx : parole 
+*** TOURNANT *** [3h 4c 3d] [5d]
+psychoman59 : parole 
+Wehbz : mise. 20
+Acheurx : suit. 20
+psychoman59 : passe. 
+*** RIVIÈRE *** [3h 4c 3d 5d] [Ad]
+Wehbz : mise. 70
+Acheurx : relance. 130 à 200 et est all-in.
+Wehbz : suit. 130
+*** ABATTAGE ***
+Acheurx : montre [7d 8d] (une couleur, hauteur As)
+Wehbz : montre [2d Kd] (une couleur, hauteur As - Roi plus haute)
+Wehbz a remporté 500  lors du pot .
+Acheurx a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Tableau [3h 4c 3d 5d Ad]
+Siège 1 : psychoman59 (petite blind) s'est couché. sur le Tournant
+Siège 2 : Wehbz (grosse blind) a montré [2d Kd] et a gagné (500) avec une couleur, hauteur As
+Siège 3 : Acheurx (bouton) a montré [7d 8d] et a perdu avec une couleur, hauteur As
+
+
+
+Main PokerStars n°260848132550 : Tournoi #4001418934, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/05/2026 14:42:45 CET [18/05/2026 8:42:45 ET]
+Table '4001418934 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (420 en jetons) 
+Place 2: Wehbz (1080 en jetons) 
+Wehbz : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 8c]
+Wehbz : suit. 10
+psychoman59 : parole 
+*** FLOP *** [6h 2c Tc]
+psychoman59 : parole 
+Wehbz : parole 
+*** TOURNANT *** [6h 2c Tc] [7h]
+psychoman59 : parole 
+Wehbz : parole 
+*** RIVIÈRE *** [6h 2c Tc 7h] [Qd]
+psychoman59 : mise. 20
+Wehbz : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [6h 2c Tc 7h Qd]
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 2 : Wehbz (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°260848134682 : Tournoi #4001418934, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/05/2026 14:43:05 CET [18/05/2026 8:43:05 ET]
+Table '4001418934 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (440 en jetons) 
+Place 2: Wehbz (1060 en jetons) 
+psychoman59 : met la petite blind. 10
+Wehbz : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 5s]
+psychoman59 : suit. 10
+Wehbz : relance. 20 à 40
+psychoman59 : suit. 20
+*** FLOP *** [7c 7h Ac]
+Wehbz : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Wehbz.
+Wehbz a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [7c 7h Ac]
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+Siège 2 : Wehbz (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°260848135830 : Tournoi #4001418934, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/05/2026 14:43:15 CET [18/05/2026 8:43:15 ET]
+Table '4001418934 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (400 en jetons) 
+Place 2: Wehbz (1100 en jetons) 
+Wehbz : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 2d]
+Wehbz : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (20)
+Siège 2 : Wehbz (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260848136310 : Tournoi #4001418934, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/05/2026 14:43:19 CET [18/05/2026 8:43:19 ET]
+Table '4001418934 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (410 en jetons) 
+Place 2: Wehbz (1090 en jetons) 
+psychoman59 : met la petite blind. 10
+Wehbz : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js As]
+psychoman59 : relance. 40 à 60
+Wehbz : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (40)
+Siège 2 : Wehbz (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260848137315 : Tournoi #4001418934, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/05/2026 14:43:28 CET [18/05/2026 8:43:28 ET]
+Table '4001418934 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (430 en jetons) 
+Place 2: Wehbz (1070 en jetons) 
+Wehbz : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Kh]
+Wehbz : relance. 20 à 40
+psychoman59 : relance. 390 à 430 et est all-in.
+Wehbz : passe. 
+Personne n'a suivi. (390) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (80)
+Siège 2 : Wehbz (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260848138309 : Tournoi #4001418934, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/05/2026 14:43:37 CET [18/05/2026 8:43:37 ET]
+Table '4001418934 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (470 en jetons) 
+Place 2: Wehbz (1030 en jetons) 
+psychoman59 : met la petite blind. 10
+Wehbz : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 8s]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à Wehbz.
+Wehbz a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : Wehbz (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°260848138818 : Tournoi #4001418934, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/05/2026 14:43:42 CET [18/05/2026 8:43:42 ET]
+Table '4001418934 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (460 en jetons) 
+Place 2: Wehbz (1040 en jetons) 
+Wehbz : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Qc]
+Wehbz : suit. 10
+psychoman59 : parole 
+*** FLOP *** [4h 5c 8h]
+psychoman59 : parole 
+Wehbz : parole 
+*** TOURNANT *** [4h 5c 8h] [9d]
+psychoman59 : parole 
+Wehbz : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Wehbz.
+Wehbz a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [4h 5c 8h 9d]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : Wehbz (bouton) (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°260848140745 : Tournoi #4001418934, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/05/2026 14:43:58 CET [18/05/2026 8:43:58 ET]
+Table '4001418934 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (440 en jetons) 
+Place 2: Wehbz (1060 en jetons) 
+psychoman59 : met la petite blind. 10
+Wehbz : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Jc]
+psychoman59 : suit. 10
+Wehbz : parole 
+*** FLOP *** [4d 7h 3c]
+Wehbz : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Wehbz.
+Wehbz a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [4d 7h 3c]
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+Siège 2 : Wehbz (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°260848142267 : Tournoi #4001418934, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/05/2026 14:44:13 CET [18/05/2026 8:44:13 ET]
+Table '4001418934 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (420 en jetons) 
+Place 2: Wehbz (1080 en jetons) 
+Wehbz : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 4d]
+Wehbz : relance. 1060 à 1080 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (1060) sont retournés à Wehbz.
+Wehbz a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Wehbz (bouton) (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°260848142995 : Tournoi #4001418934, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/05/2026 14:44:19 CET [18/05/2026 8:44:19 ET]
+Table '4001418934 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (400 en jetons) 
+Place 2: Wehbz (1100 en jetons) 
+psychoman59 : met la petite blind. 10
+Wehbz : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 7c]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à Wehbz.
+Wehbz a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : Wehbz (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°260848143807 : Tournoi #4001418934, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/05/2026 14:44:26 CET [18/05/2026 8:44:26 ET]
+Table '4001418934 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (390 en jetons) 
+Place 2: Wehbz (1110 en jetons) 
+Wehbz : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Qh]
+Wehbz : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (30)
+Siège 2 : Wehbz (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260848144290 : Tournoi #4001418934, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/05/2026 14:44:31 CET [18/05/2026 8:44:31 ET]
+Table '4001418934 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (405 en jetons) 
+Place 2: Wehbz (1095 en jetons) 
+psychoman59 : met la petite blind. 15
+Wehbz : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 2h]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à Wehbz.
+Wehbz a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : Wehbz (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°260848144838 : Tournoi #4001418934, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/05/2026 14:44:35 CET [18/05/2026 8:44:35 ET]
+Table '4001418934 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (390 en jetons) 
+Place 2: Wehbz (1110 en jetons) 
+Wehbz : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Th]
+Wehbz : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Ks 8h Qd]
+psychoman59 : parole 
+Wehbz : parole 
+*** TOURNANT *** [Ks 8h Qd] [2h]
+psychoman59 : mise. 30
+Wehbz : suit. 30
+*** RIVIÈRE *** [Ks 8h Qd 2h] [Tc]
+psychoman59 : mise. 60
+Wehbz : relance. 120 à 180
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à Wehbz.
+Wehbz a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Ks 8h Qd 2h Tc]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : Wehbz (bouton) (petite blind) a remporté (240)
+
+
+
+Main PokerStars n°260848147915 : Tournoi #4001418934, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/05/2026 14:45:02 CET [18/05/2026 8:45:02 ET]
+Table '4001418934 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 2: Wehbz (1230 en jetons) 
+psychoman59 : met la petite blind. 15
+Wehbz : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 9c]
+psychoman59 : relance. 240 à 270 et est all-in.
+Wehbz : passe. 
+Personne n'a suivi. (240) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 2 : Wehbz (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260848148630 : Tournoi #4001418934, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/05/2026 14:45:08 CET [18/05/2026 8:45:08 ET]
+Table '4001418934 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Wehbz (1200 en jetons) 
+Wehbz : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 2h]
+Wehbz : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Wehbz.
+Wehbz a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Wehbz (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°260848149211 : Tournoi #4001418934, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/05/2026 14:45:14 CET [18/05/2026 8:45:14 ET]
+Table '4001418934 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 2: Wehbz (1230 en jetons) 
+psychoman59 : met la petite blind. 15
+Wehbz : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Kc]
+psychoman59 : relance. 240 à 270 et est all-in.
+Wehbz : suit. 240
+*** FLOP *** [5c 5d 9d]
+*** TOURNANT *** [5c 5d 9d] [2s]
+*** RIVIÈRE *** [5c 5d 9d 2s] [Qs]
+*** ABATTAGE ***
+Wehbz : montre [Qc Js] (double paire, Dames et Cinq)
+psychoman59 : montre [3d Kc] (une paire de Cinq)
+Wehbz a remporté 540  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+Wehbz remporte le tournoi et reçoit 5.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [5c 5d 9d 2s Qs]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [3d Kc] et a perdu avec une paire de Cinq
+Siège 2 : Wehbz (grosse blind) a montré [Qc Js] et a gagné (540) avec double paire, Dames et Cinq
+
+
+

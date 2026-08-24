@@ -1,0 +1,160 @@
+﻿Main PokerStars n°241556858761 : Tournoi #3541472032, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 02/02/2023 7:14:28 CET [02/02/2023 1:14:28 ET]
+Table '3541472032 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: voide40 (300 en jetons) 
+Place 3: INsuppo (300 en jetons) 
+voide40 : met la petite blind. 10
+INsuppo : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 4d]
+psychoman59 : passe. 
+voide40 : suit. 10
+INsuppo : parole 
+*** FLOP *** [7c 2c Tc]
+voide40 : parole 
+INsuppo : mise. 20
+voide40 : suit. 20
+*** TOURNANT *** [7c 2c Tc] [3h]
+voide40 : parole 
+INsuppo : parole 
+*** RIVIÈRE *** [7c 2c Tc 3h] [Ac]
+voide40 : mise. 40
+INsuppo : suit. 40
+*** ABATTAGE ***
+voide40 : montre [Jc 8s] (une couleur, hauteur As)
+INsuppo : cache la main perdante. 
+voide40 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [7c 2c Tc 3h Ac]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : voide40 (petite blind) a montré [Jc 8s] et a gagné (160) avec une couleur, hauteur As
+Siège 3 : INsuppo (grosse blind) a caché la main perdante. [Kh 5c]
+
+
+
+Main PokerStars n°241556862757 : Tournoi #3541472032, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 02/02/2023 7:15:03 CET [02/02/2023 1:15:03 ET]
+Table '3541472032 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: voide40 (380 en jetons) 
+Place 3: INsuppo (220 en jetons) 
+INsuppo : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 3h]
+voide40 : passe. 
+INsuppo : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Ah Kc Jd]
+INsuppo : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Ah Kc Jd] [Ad]
+INsuppo : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à INsuppo.
+INsuppo a remporté 40  lors du pot .
+INsuppo : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Ah Kc Jd Ad]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : voide40 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : INsuppo (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°241556864687 : Tournoi #3541472032, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 02/02/2023 7:15:21 CET [02/02/2023 1:15:21 ET]
+Table '3541472032 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: voide40 (380 en jetons) 
+Place 3: INsuppo (240 en jetons) 
+psychoman59 : met la petite blind. 10
+voide40 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c As]
+INsuppo : relance. 220 à 240 et est all-in.
+psychoman59 : suit. 230
+voide40 : suit. 220
+*** FLOP *** [Ks 2s 8h]
+psychoman59 : parole 
+voide40 : parole 
+*** TOURNANT *** [Ks 2s 8h] [5d]
+psychoman59 : parole 
+voide40 : parole 
+*** RIVIÈRE *** [Ks 2s 8h 5d] [6h]
+psychoman59 : parole 
+voide40 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [9c As] (Hauteur As)
+voide40 : cache la main perdante. 
+INsuppo : montre [9h 9s] (une paire de Neuf)
+INsuppo a remporté 720  lors du pot .
+*** SYNTHÈSE ***
+Pot total 720 | Commission 0 
+Tableau [Ks 2s 8h 5d 6h]
+Siège 1 : psychoman59 (petite blind) a montré [9c As] et a perdu avec Hauteur As
+Siège 2 : voide40 (grosse blind) a caché la main perdante. [Jh 7h]
+Siège 3 : INsuppo (bouton) a montré [9h 9s] et a gagné (720) avec une paire de Neuf
+
+
+
+Main PokerStars n°241556867011 : Tournoi #3541472032, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 02/02/2023 7:15:42 CET [02/02/2023 1:15:42 ET]
+Table '3541472032 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (40 en jetons) 
+Place 2: voide40 (140 en jetons) 
+Place 3: INsuppo (720 en jetons) 
+voide40 : met la petite blind. 15
+INsuppo : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 4h]
+psychoman59 : passe. 
+voide40 : passe. 
+Personne n'a suivi. (15) sont retournés à INsuppo.
+INsuppo a remporté 30  lors du pot .
+INsuppo : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : voide40 (petite blind) s'est couché. avant Flop
+Siège 3 : INsuppo (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°241556867718 : Tournoi #3541472032, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 02/02/2023 7:15:48 CET [02/02/2023 1:15:48 ET]
+Table '3541472032 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (40 en jetons) 
+Place 2: voide40 (125 en jetons) 
+Place 3: INsuppo (735 en jetons) 
+INsuppo : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 4c]
+voide40 : suit. 30
+INsuppo : suit. 15
+psychoman59 : relance. 10 à 40 et est all-in.
+voide40 : suit. 10
+INsuppo : suit. 10
+*** FLOP *** [9h Qh Ts]
+INsuppo : parole 
+voide40 : parole 
+*** TOURNANT *** [9h Qh Ts] [5s]
+INsuppo : parole 
+voide40 : parole 
+*** RIVIÈRE *** [9h Qh Ts 5s] [Js]
+INsuppo : mise. 60
+voide40 : passe. 
+Personne n'a suivi. (60) sont retournés à INsuppo.
+*** ABATTAGE ***
+INsuppo : montre [Ks 2h] (une suite, Neuf à Roi)
+psychoman59 : montre [As 4c] (Hauteur As)
+INsuppo a remporté 120  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [9h Qh Ts 5s Js]
+Siège 1 : psychoman59 (grosse blind) a montré [As 4c] et a perdu avec Hauteur As
+Siège 2 : voide40 (bouton) s'est couché. sur le Rivière
+Siège 3 : INsuppo (petite blind) a montré [Ks 2h] et a gagné (120) avec une suite, Neuf à Roi
+
+
+

@@ -1,0 +1,29 @@
+﻿Main PokerStars n°241470403731 : Tournoi #3539556736, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 29/01/2023 11:49:17 CET [29/01/2023 5:49:17 ET]
+Table '3539556736 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Pichon6259 (300 en jetons) 
+Place 3: fougeres01 (300 en jetons) 
+Pichon6259 : met la petite blind. 10
+fougeres01 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 8c]
+psychoman59 : relance. 280 à 300 et est all-in.
+Pichon6259 : suit. 290 et est all-in.
+fougeres01 : passe. 
+*** FLOP *** [Jc Th Td]
+*** TOURNANT *** [Jc Th Td] [Ac]
+*** RIVIÈRE *** [Jc Th Td Ac] [Kc]
+*** ABATTAGE ***
+Pichon6259 : montre [Qd 3d] (une suite, Dix à As)
+psychoman59 : montre [Ad 8c] (double paire, As et Dix)
+Pichon6259 a remporté 620  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [Jc Th Td Ac Kc]
+Siège 1 : psychoman59 (bouton) a montré [Ad 8c] et a perdu avec double paire, As et Dix
+Siège 2 : Pichon6259 (petite blind) a montré [Qd 3d] et a gagné (620) avec une suite, Dix à As
+Siège 3 : fougeres01 (grosse blind) s'est couché. avant Flop
+
+
+

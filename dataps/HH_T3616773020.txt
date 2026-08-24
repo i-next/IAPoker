@@ -1,0 +1,477 @@
+﻿Main PokerStars n°244802806785 : Tournoi #3616773020, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 14/07/2023 8:50:31 CET [14/07/2023 2:50:31 ET]
+Table '3616773020 1' 3-max Siège #1 est au bouton.
+Place 1: toureffeil (300 en jetons) 
+Place 2: alconos82 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+alconos82 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 6h]
+toureffeil : relance. 50 à 70
+alconos82 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à toureffeil.
+toureffeil a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : toureffeil (bouton) a remporté (50)
+Siège 2 : alconos82 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244802807496 : Tournoi #3616773020, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 14/07/2023 8:50:38 CET [14/07/2023 2:50:38 ET]
+Table '3616773020 1' 3-max Siège #2 est au bouton.
+Place 1: toureffeil (330 en jetons) 
+Place 2: alconos82 (290 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+toureffeil : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 8d]
+alconos82 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à toureffeil.
+toureffeil a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : toureffeil (grosse blind) a remporté (20)
+Siège 2 : alconos82 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244802808108 : Tournoi #3616773020, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 14/07/2023 8:50:44 CET [14/07/2023 2:50:44 ET]
+Table '3616773020 1' 3-max Siège #3 est au bouton.
+Place 1: toureffeil (340 en jetons) 
+Place 2: alconos82 (290 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+toureffeil : met la petite blind. 10
+alconos82 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Ts]
+psychoman59 : relance. 20 à 40
+toureffeil : passe. 
+alconos82 : suit. 20
+*** FLOP *** [2s 8d Td]
+alconos82 : parole 
+psychoman59 : mise. 90
+alconos82 : relance. 160 à 250 et est all-in.
+psychoman59 : suit. 140 et est all-in.
+Personne n'a suivi. (20) sont retournés à alconos82.
+*** TOURNANT *** [2s 8d Td] [Js]
+*** RIVIÈRE *** [2s 8d Td Js] [Jh]
+*** ABATTAGE ***
+alconos82 : montre [7h Tc] (double paire, Valets et Dix)
+psychoman59 : montre [Kh Ts] (double paire, Valets et Dix - Roi kicker)
+psychoman59 a remporté 550  lors du pot .
+*** SYNTHÈSE ***
+Pot total 550 | Commission 0 
+Tableau [2s 8d Td Js Jh]
+Siège 1 : toureffeil (petite blind) s'est couché. avant Flop
+Siège 2 : alconos82 (grosse blind) a montré [7h Tc] et a perdu avec double paire, Valets et Dix
+Siège 3 : psychoman59 (bouton) a montré [Kh Ts] et a gagné (550) avec double paire, Valets et Dix
+
+
+
+Main PokerStars n°244802810380 : Tournoi #3616773020, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 14/07/2023 8:51:07 CET [14/07/2023 2:51:07 ET]
+Table '3616773020 1' 3-max Siège #1 est au bouton.
+Place 1: toureffeil (330 en jetons) 
+Place 2: alconos82 (20 en jetons) 
+Place 3: psychoman59 (550 en jetons) 
+alconos82 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 7d]
+toureffeil : relance. 50 à 70
+alconos82 : suit. 10 et est all-in.
+psychoman59 : suit. 50
+*** FLOP *** [Ah Ac 3c]
+psychoman59 : parole 
+toureffeil : mise. 160
+psychoman59 : passe. 
+Personne n'a suivi. (160) sont retournés à toureffeil.
+*** TOURNANT *** [Ah Ac 3c] [2d]
+*** RIVIÈRE *** [Ah Ac 3c 2d] [9d]
+*** ABATTAGE ***
+toureffeil : montre [Qd Ad] (un brelan de As)
+toureffeil a remporté 100  parallèle lors du pot .
+alconos82 : montre [8s Kd] (une paire de As)
+toureffeil a remporté 60  principal lors du pot .
+alconos82 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 160 Principal pot 60. Parallèle pot 100. | Commission 0 
+Tableau [Ah Ac 3c 2d 9d]
+Siège 1 : toureffeil (bouton) a montré [Qd Ad] et a gagné (160) avec un brelan de As
+Siège 2 : alconos82 (petite blind) a montré [8s Kd] et a perdu avec une paire de As
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°244802812774 : Tournoi #3616773020, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 14/07/2023 8:51:31 CET [14/07/2023 2:51:31 ET]
+Table '3616773020 1' 3-max Siège #3 est au bouton.
+Place 1: toureffeil (420 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 10
+toureffeil : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Kh]
+psychoman59 : suit. 10
+toureffeil : parole 
+*** FLOP *** [Th 3c 3h]
+toureffeil : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [Th 3c 3h] [Td]
+toureffeil : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [Th 3c 3h Td] [Ac]
+toureffeil : parole 
+psychoman59 : mise. 160
+toureffeil : passe. 
+Personne n'a suivi. (160) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Th 3c 3h Td Ac]
+Siège 1 : toureffeil (grosse blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°244802816144 : Tournoi #3616773020, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 14/07/2023 8:52:04 CET [14/07/2023 2:52:04 ET]
+Table '3616773020 1' 3-max Siège #1 est au bouton.
+Place 1: toureffeil (340 en jetons) 
+Place 3: psychoman59 (560 en jetons) 
+toureffeil : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 2d]
+toureffeil : relance. 310 à 340 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (310) sont retournés à toureffeil.
+toureffeil a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : toureffeil (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244802816796 : Tournoi #3616773020, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 14/07/2023 8:52:10 CET [14/07/2023 2:52:10 ET]
+Table '3616773020 1' 3-max Siège #3 est au bouton.
+Place 1: toureffeil (370 en jetons) 
+Place 3: psychoman59 (530 en jetons) 
+psychoman59 : met la petite blind. 15
+toureffeil : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 4s]
+psychoman59 : suit. 15
+toureffeil : relance. 340 à 370 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (340) sont retournés à toureffeil.
+toureffeil a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : toureffeil (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244802817668 : Tournoi #3616773020, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 14/07/2023 8:52:19 CET [14/07/2023 2:52:19 ET]
+Table '3616773020 1' 3-max Siège #1 est au bouton.
+Place 1: toureffeil (400 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+toureffeil : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 8s]
+toureffeil : relance. 60 à 90
+psychoman59 : relance. 410 à 500 et est all-in.
+toureffeil : suit. 310 et est all-in.
+Personne n'a suivi. (100) sont retournés à psychoman59.
+*** FLOP *** [Th 7d 3d]
+*** TOURNANT *** [Th 7d 3d] [4d]
+*** RIVIÈRE *** [Th 7d 3d 4d] [Jc]
+*** ABATTAGE ***
+psychoman59 : montre [Qh 8s] (Hauteur Dame)
+toureffeil : montre [Ad 8h] (Hauteur As)
+toureffeil a remporté 800  lors du pot .
+*** SYNTHÈSE ***
+Pot total 800 | Commission 0 
+Tableau [Th 7d 3d 4d Jc]
+Siège 1 : toureffeil (bouton) (petite blind) a montré [Ad 8h] et a gagné (800) avec Hauteur As
+Siège 3 : psychoman59 (grosse blind) a montré [Qh 8s] et a perdu avec Hauteur Dame
+
+
+
+Main PokerStars n°244802819562 : Tournoi #3616773020, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 14/07/2023 8:52:38 CET [14/07/2023 2:52:38 ET]
+Table '3616773020 1' 3-max Siège #3 est au bouton.
+Place 1: toureffeil (800 en jetons) 
+Place 3: psychoman59 (100 en jetons) 
+psychoman59 : met la petite blind. 20
+toureffeil : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 6h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à toureffeil.
+toureffeil a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : toureffeil (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244802820099 : Tournoi #3616773020, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 14/07/2023 8:52:43 CET [14/07/2023 2:52:43 ET]
+Table '3616773020 1' 3-max Siège #1 est au bouton.
+Place 1: toureffeil (820 en jetons) 
+Place 3: psychoman59 (80 en jetons) 
+toureffeil : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 4h]
+toureffeil : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : toureffeil (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°244802820599 : Tournoi #3616773020, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 14/07/2023 8:52:47 CET [14/07/2023 2:52:47 ET]
+Table '3616773020 1' 3-max Siège #3 est au bouton.
+Place 1: toureffeil (800 en jetons) 
+Place 3: psychoman59 (100 en jetons) 
+psychoman59 : met la petite blind. 20
+toureffeil : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 4h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à toureffeil.
+toureffeil a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : toureffeil (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244802821155 : Tournoi #3616773020, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 14/07/2023 8:52:52 CET [14/07/2023 2:52:52 ET]
+Table '3616773020 1' 3-max Siège #1 est au bouton.
+Place 1: toureffeil (820 en jetons) 
+Place 3: psychoman59 (80 en jetons) 
+toureffeil : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Tc]
+toureffeil : relance. 780 à 820 et est all-in.
+psychoman59 : suit. 40 et est all-in.
+Personne n'a suivi. (740) sont retournés à toureffeil.
+*** FLOP *** [6h 9h 6d]
+*** TOURNANT *** [6h 9h 6d] [8d]
+*** RIVIÈRE *** [6h 9h 6d 8d] [2s]
+*** ABATTAGE ***
+psychoman59 : montre [9d Tc] (double paire, Neuf et Six)
+toureffeil : montre [Qd Jh] (une paire de Six)
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [6h 9h 6d 8d 2s]
+Siège 1 : toureffeil (bouton) (petite blind) a montré [Qd Jh] et a perdu avec une paire de Six
+Siège 3 : psychoman59 (grosse blind) a montré [9d Tc] et a gagné (160) avec double paire, Neuf et Six
+
+
+
+Main PokerStars n°244802822479 : Tournoi #3616773020, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 14/07/2023 8:53:06 CET [14/07/2023 2:53:06 ET]
+Table '3616773020 1' 3-max Siège #3 est au bouton.
+Place 1: toureffeil (740 en jetons) 
+Place 3: psychoman59 (160 en jetons) 
+psychoman59 : met la petite blind. 20
+toureffeil : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Js]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à toureffeil.
+toureffeil a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : toureffeil (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244802823028 : Tournoi #3616773020, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 14/07/2023 8:53:11 CET [14/07/2023 2:53:11 ET]
+Table '3616773020 1' 3-max Siège #1 est au bouton.
+Place 1: toureffeil (760 en jetons) 
+Place 3: psychoman59 (140 en jetons) 
+toureffeil : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Kd]
+toureffeil : suit. 20
+psychoman59 : relance. 100 à 140 et est all-in.
+toureffeil : suit. 100
+*** FLOP *** [Ks Qc 6d]
+*** TOURNANT *** [Ks Qc 6d] [7c]
+*** RIVIÈRE *** [Ks Qc 6d 7c] [2h]
+*** ABATTAGE ***
+psychoman59 : montre [4d Kd] (une paire de Rois)
+toureffeil : montre [8c 6c] (une paire de Six)
+psychoman59 a remporté 280  lors du pot .
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Tableau [Ks Qc 6d 7c 2h]
+Siège 1 : toureffeil (bouton) (petite blind) a montré [8c 6c] et a perdu avec une paire de Six
+Siège 3 : psychoman59 (grosse blind) a montré [4d Kd] et a gagné (280) avec une paire de Rois
+
+
+
+Main PokerStars n°244802824730 : Tournoi #3616773020, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 14/07/2023 8:53:27 CET [14/07/2023 2:53:27 ET]
+Table '3616773020 1' 3-max Siège #3 est au bouton.
+Place 1: toureffeil (620 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 20
+toureffeil : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 5h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à toureffeil.
+toureffeil a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : toureffeil (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244802825592 : Tournoi #3616773020, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 14/07/2023 8:53:36 CET [14/07/2023 2:53:36 ET]
+Table '3616773020 1' 3-max Siège #1 est au bouton.
+Place 1: toureffeil (640 en jetons) 
+Place 3: psychoman59 (260 en jetons) 
+toureffeil : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 6d]
+toureffeil : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : toureffeil (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°244802826039 : Tournoi #3616773020, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 14/07/2023 8:53:40 CET [14/07/2023 2:53:40 ET]
+Table '3616773020 1' 3-max Siège #3 est au bouton.
+Place 1: toureffeil (610 en jetons) 
+Place 3: psychoman59 (290 en jetons) 
+psychoman59 : met la petite blind. 30
+toureffeil : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 8d]
+psychoman59 : relance. 230 à 290 et est all-in.
+toureffeil : suit. 230
+*** FLOP *** [Qd 9s Jd]
+*** TOURNANT *** [Qd 9s Jd] [Ac]
+*** RIVIÈRE *** [Qd 9s Jd Ac] [4d]
+*** ABATTAGE ***
+toureffeil : montre [Ah 3d] (une paire de As)
+psychoman59 : montre [Ad 8d] (une couleur, hauteur As)
+psychoman59 a remporté 580  lors du pot .
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [Qd 9s Jd Ac 4d]
+Siège 1 : toureffeil (grosse blind) a montré [Ah 3d] et a perdu avec une paire de As
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Ad 8d] et a gagné (580) avec une couleur, hauteur As
+
+
+
+Main PokerStars n°244802827449 : Tournoi #3616773020, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 14/07/2023 8:53:53 CET [14/07/2023 2:53:53 ET]
+Table '3616773020 1' 3-max Siège #1 est au bouton.
+Place 1: toureffeil (320 en jetons) 
+Place 3: psychoman59 (580 en jetons) 
+toureffeil : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 6h]
+toureffeil : relance. 260 à 320 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (260) sont retournés à toureffeil.
+toureffeil a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : toureffeil (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244802828021 : Tournoi #3616773020, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 14/07/2023 8:53:59 CET [14/07/2023 2:53:59 ET]
+Table '3616773020 1' 3-max Siège #3 est au bouton.
+Place 1: toureffeil (380 en jetons) 
+Place 3: psychoman59 (520 en jetons) 
+psychoman59 : met la petite blind. 30
+toureffeil : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 2s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à toureffeil.
+toureffeil a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : toureffeil (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244802828515 : Tournoi #3616773020, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 14/07/2023 8:54:04 CET [14/07/2023 2:54:04 ET]
+Table '3616773020 1' 3-max Siège #1 est au bouton.
+Place 1: toureffeil (410 en jetons) 
+Place 3: psychoman59 (490 en jetons) 
+toureffeil : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 7h]
+toureffeil : relance. 120 à 180
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à toureffeil.
+toureffeil a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : toureffeil (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244802829137 : Tournoi #3616773020, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 14/07/2023 8:54:10 CET [14/07/2023 2:54:10 ET]
+Table '3616773020 1' 3-max Siège #3 est au bouton.
+Place 1: toureffeil (470 en jetons) 
+Place 3: psychoman59 (430 en jetons) 
+psychoman59 : met la petite blind. 30
+toureffeil : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Kd]
+psychoman59 : relance. 370 à 430 et est all-in.
+toureffeil : suit. 370
+*** FLOP *** [5c Qh Jh]
+*** TOURNANT *** [5c Qh Jh] [4h]
+*** RIVIÈRE *** [5c Qh Jh 4h] [Ad]
+*** ABATTAGE ***
+toureffeil : montre [7h 7d] (une paire de Sept)
+psychoman59 : montre [8c Kd] (Hauteur As)
+toureffeil a remporté 860  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+toureffeil remporte le tournoi et reçoit 8.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 860 | Commission 0 
+Tableau [5c Qh Jh 4h Ad]
+Siège 1 : toureffeil (grosse blind) a montré [7h 7d] et a gagné (860) avec une paire de Sept
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [8c Kd] et a perdu avec Hauteur As
+
+
+

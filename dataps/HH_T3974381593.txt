@@ -1,0 +1,397 @@
+﻿Main PokerStars n°259693222574 : Tournoi #3974381593, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 12/02/2026 8:38:28 CET [12/02/2026 2:38:28 ET]
+Table '3974381593 1' 3-max Siège #1 est au bouton.
+Place 1: marga beva (500 en jetons) 
+Place 2: philia17 (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+philia17 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 8c]
+marga beva : suit. 20
+philia17 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [4h 6h 3c]
+philia17 : parole 
+psychoman59 : parole 
+marga beva : parole 
+*** TOURNANT *** [4h 6h 3c] [6d]
+philia17 : parole 
+psychoman59 : parole 
+marga beva : parole 
+*** RIVIÈRE *** [4h 6h 3c 6d] [Kh]
+philia17 : parole 
+psychoman59 : parole 
+marga beva : parole 
+*** ABATTAGE ***
+philia17 : montre [8h 7s] (une paire de Six)
+psychoman59 : montre [Jc 8c] (une paire de Six - Roi+Valet kicker)
+marga beva : montre [Jh Qc] (une paire de Six - Roi+Dame kicker)
+marga beva a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [4h 6h 3c 6d Kh]
+Siège 1 : marga beva (bouton) a montré [Jh Qc] et a gagné (60) avec une paire de Six
+Siège 2 : philia17 (petite blind) a montré [8h 7s] et a perdu avec une paire de Six
+Siège 3 : psychoman59 (grosse blind) a montré [Jc 8c] et a perdu avec une paire de Six
+
+
+
+Main PokerStars n°259693223806 : Tournoi #3974381593, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 12/02/2026 8:38:48 CET [12/02/2026 2:38:48 ET]
+Table '3974381593 1' 3-max Siège #2 est au bouton.
+Place 1: marga beva (540 en jetons) 
+Place 2: philia17 (480 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 10
+marga beva : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Qd]
+philia17 : passe. 
+psychoman59 : suit. 10
+marga beva : parole 
+*** FLOP *** [8c Tc 3h]
+psychoman59 : parole 
+marga beva : parole 
+*** TOURNANT *** [8c Tc 3h] [3s]
+psychoman59 : parole 
+marga beva : parole 
+*** RIVIÈRE *** [8c Tc 3h 3s] [Qs]
+psychoman59 : mise. 20
+marga beva : suit. 20
+*** ABATTAGE ***
+psychoman59 : montre [5c Qd] (double paire, Dames et Trois)
+marga beva : montre [Td Qh] (double paire, Dames et Dix)
+marga beva a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [8c Tc 3h 3s Qs]
+Siège 1 : marga beva (grosse blind) a montré [Td Qh] et a gagné (80) avec double paire, Dames et Dix
+Siège 2 : philia17 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [5c Qd] et a perdu avec double paire, Dames et Trois
+
+
+
+Main PokerStars n°259693224942 : Tournoi #3974381593, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 12/02/2026 8:39:08 CET [12/02/2026 2:39:08 ET]
+Table '3974381593 1' 3-max Siège #3 est au bouton.
+Place 1: marga beva (580 en jetons) 
+Place 2: philia17 (480 en jetons) 
+Place 3: psychoman59 (440 en jetons) 
+marga beva : met la petite blind. 10
+philia17 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 8s]
+psychoman59 : passe. 
+marga beva : suit. 10
+philia17 : parole 
+*** FLOP *** [Kc Qh 6h]
+marga beva : parole 
+philia17 : parole 
+*** TOURNANT *** [Kc Qh 6h] [4d]
+marga beva : parole 
+philia17 : parole 
+*** RIVIÈRE *** [Kc Qh 6h 4d] [Ts]
+marga beva : parole 
+philia17 : parole 
+*** ABATTAGE ***
+marga beva : montre [Tc 8c] (une paire de Dix)
+philia17 : cache la main perdante. 
+marga beva a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Kc Qh 6h 4d Ts]
+Siège 1 : marga beva (petite blind) a montré [Tc 8c] et a gagné (40) avec une paire de Dix
+Siège 2 : philia17 (grosse blind) a caché la main perdante. [8d 2s]
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°259693225985 : Tournoi #3974381593, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 12/02/2026 8:39:26 CET [12/02/2026 2:39:26 ET]
+Table '3974381593 1' 3-max Siège #1 est au bouton.
+Place 1: marga beva (600 en jetons) 
+Place 2: philia17 (460 en jetons) 
+Place 3: psychoman59 (440 en jetons) 
+philia17 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Ad]
+marga beva : passe. 
+philia17 : suit. 10
+psychoman59 : relance. 420 à 440 et est all-in.
+philia17 : passe. 
+Personne n'a suivi. (420) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : marga beva (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : philia17 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°259693226879 : Tournoi #3974381593, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 12/02/2026 8:39:41 CET [12/02/2026 2:39:41 ET]
+Table '3974381593 1' 3-max Siège #2 est au bouton.
+Place 1: marga beva (600 en jetons) 
+Place 2: philia17 (440 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+psychoman59 : met la petite blind. 10
+marga beva : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 7h]
+philia17 : suit. 20
+psychoman59 : suit. 10
+marga beva : relance. 580 à 600 et est all-in.
+philia17 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (580) sont retournés à marga beva.
+marga beva a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : marga beva (grosse blind) a remporté (60)
+Siège 2 : philia17 (bouton) s'est couché. avant Flop
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°259693227455 : Tournoi #3974381593, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 12/02/2026 8:39:51 CET [12/02/2026 2:39:51 ET]
+Table '3974381593 1' 3-max Siège #3 est au bouton.
+Place 1: marga beva (640 en jetons) 
+Place 2: philia17 (420 en jetons) 
+Place 3: psychoman59 (440 en jetons) 
+marga beva : met la petite blind. 10
+philia17 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Js]
+psychoman59 : passe. 
+marga beva : passe. 
+Personne n'a suivi. (10) sont retournés à philia17.
+philia17 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : marga beva (petite blind) s'est couché. avant Flop
+Siège 2 : philia17 (grosse blind) a remporté (20)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°259693227791 : Tournoi #3974381593, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 12/02/2026 8:39:57 CET [12/02/2026 2:39:57 ET]
+Table '3974381593 1' 3-max Siège #1 est au bouton.
+Place 1: marga beva (630 en jetons) 
+Place 2: philia17 (430 en jetons) 
+Place 3: psychoman59 (440 en jetons) 
+philia17 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 7s]
+marga beva : suit. 20
+philia17 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [8d 6d As]
+philia17 : parole 
+psychoman59 : parole 
+marga beva : parole 
+*** TOURNANT *** [8d 6d As] [Ac]
+philia17 : parole 
+psychoman59 : parole 
+marga beva : parole 
+*** RIVIÈRE *** [8d 6d As Ac] [4h]
+philia17 : mise. 20
+psychoman59 : passe. 
+marga beva : passe. 
+Personne n'a suivi. (20) sont retournés à philia17.
+philia17 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [8d 6d As Ac 4h]
+Siège 1 : marga beva (bouton) s'est couché. sur le Rivière
+Siège 2 : philia17 (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°259693228938 : Tournoi #3974381593, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 12/02/2026 8:40:15 CET [12/02/2026 2:40:15 ET]
+Table '3974381593 1' 3-max Siège #2 est au bouton.
+Place 1: marga beva (610 en jetons) 
+Place 2: philia17 (470 en jetons) 
+Place 3: psychoman59 (420 en jetons) 
+psychoman59 : met la petite blind. 10
+marga beva : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Qs]
+philia17 : suit. 20
+psychoman59 : suit. 10
+marga beva : parole 
+*** FLOP *** [9h Jd 4c]
+psychoman59 : parole 
+marga beva : parole 
+philia17 : parole 
+*** TOURNANT *** [9h Jd 4c] [3h]
+psychoman59 : parole 
+marga beva : parole 
+philia17 : parole 
+*** RIVIÈRE *** [9h Jd 4c 3h] [Ah]
+psychoman59 : parole 
+marga beva : parole 
+philia17 : mise. 20
+psychoman59 : passe. 
+marga beva : passe. 
+Personne n'a suivi. (20) sont retournés à philia17.
+philia17 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [9h Jd 4c 3h Ah]
+Siège 1 : marga beva (grosse blind) s'est couché. sur le Rivière
+Siège 2 : philia17 (bouton) a remporté (60)
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°259693230342 : Tournoi #3974381593, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 12/02/2026 8:40:39 CET [12/02/2026 2:40:39 ET]
+Table '3974381593 1' 3-max Siège #3 est au bouton.
+Place 1: marga beva (590 en jetons) 
+Place 2: philia17 (510 en jetons) 
+Place 3: psychoman59 (400 en jetons) 
+marga beva : met la petite blind. 15
+philia17 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Th]
+psychoman59 : passe. 
+marga beva : suit. 15
+philia17 : parole 
+*** FLOP *** [3d Qh Qc]
+marga beva : mise. 30
+philia17 : suit. 30
+*** TOURNANT *** [3d Qh Qc] [8h]
+marga beva : mise. 30
+philia17 : suit. 30
+*** RIVIÈRE *** [3d Qh Qc 8h] [Ts]
+marga beva : mise. 30
+philia17 : suit. 30
+*** ABATTAGE ***
+marga beva : montre [Ac 3c] (double paire, Dames et Trois)
+philia17 : montre [9d Tc] (double paire, Dames et Dix)
+philia17 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [3d Qh Qc 8h Ts]
+Siège 1 : marga beva (petite blind) a montré [Ac 3c] et a perdu avec double paire, Dames et Trois
+Siège 2 : philia17 (grosse blind) a montré [9d Tc] et a gagné (240) avec double paire, Dames et Dix
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°259693231279 : Tournoi #3974381593, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 12/02/2026 8:40:55 CET [12/02/2026 2:40:55 ET]
+Table '3974381593 1' 3-max Siège #1 est au bouton.
+Place 1: marga beva (470 en jetons) 
+Place 2: philia17 (630 en jetons) 
+Place 3: psychoman59 (400 en jetons) 
+philia17 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 8h]
+marga beva : suit. 30
+philia17 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Qd Th 8s]
+philia17 : mise. 90
+psychoman59 : passe. 
+marga beva : relance. 350 à 440 et est all-in.
+philia17 : suit. 350
+*** TOURNANT *** [Qd Th 8s] [Jd]
+*** RIVIÈRE *** [Qd Th 8s Jd] [3h]
+*** ABATTAGE ***
+philia17 : montre [Jh Qc] (double paire, Dames et Valets)
+marga beva : montre [Qh Ks] (une paire de Dames)
+philia17 a remporté 970  lors du pot .
+marga beva a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 970 | Commission 0 
+Tableau [Qd Th 8s Jd 3h]
+Siège 1 : marga beva (bouton) a montré [Qh Ks] et a perdu avec une paire de Dames
+Siège 2 : philia17 (petite blind) a montré [Jh Qc] et a gagné (970) avec double paire, Dames et Valets
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°259693232749 : Tournoi #3974381593, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 12/02/2026 8:41:20 CET [12/02/2026 2:41:20 ET]
+Table '3974381593 1' 3-max Siège #3 est au bouton.
+Place 2: philia17 (1130 en jetons) 
+Place 3: psychoman59 (370 en jetons) 
+psychoman59 : met la petite blind. 15
+philia17 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Jh]
+psychoman59 : suit. 15
+philia17 : relance. 30 à 60
+psychoman59 : suit. 30
+*** FLOP *** [2c As Js]
+philia17 : mise. 30
+psychoman59 : suit. 30
+*** TOURNANT *** [2c As Js] [Td]
+philia17 : mise. 30
+psychoman59 : suit. 30
+*** RIVIÈRE *** [2c As Js Td] [6h]
+philia17 : mise. 240
+psychoman59 : suit. 240
+*** ABATTAGE ***
+philia17 : montre [Ac Tc] (double paire, As et Dix)
+psychoman59 : cache la main perdante. 
+philia17 a remporté 720  lors du pot .
+*** SYNTHÈSE ***
+Pot total 720 | Commission 0 
+Tableau [2c As Js Td 6h]
+Siège 2 : philia17 (grosse blind) a montré [Ac Tc] et a gagné (720) avec double paire, As et Dix
+Siège 3 : psychoman59 (bouton) (petite blind) a caché la main perdante. [Th Jh]
+
+
+
+Main PokerStars n°259693233942 : Tournoi #3974381593, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 12/02/2026 8:41:40 CET [12/02/2026 2:41:40 ET]
+Table '3974381593 1' 3-max Siège #2 est au bouton.
+Place 2: philia17 (1490 en jetons) 
+Place 3: psychoman59 (10 en jetons) 
+philia17 : met la petite blind. 15
+psychoman59 : met la grosse blind. 10 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 4d]
+Personne n'a suivi. (5) sont retournés à philia17.
+*** FLOP *** [9d 7h 2d]
+*** TOURNANT *** [9d 7h 2d] [7c]
+*** RIVIÈRE *** [9d 7h 2d 7c] [5s]
+*** ABATTAGE ***
+psychoman59 : montre [7d 4d] (un brelan de Sept)
+philia17 : montre [Qc Jd] (une paire de Sept)
+psychoman59 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Tableau [9d 7h 2d 7c 5s]
+Siège 2 : philia17 (bouton) (petite blind) a montré [Qc Jd] et a perdu avec une paire de Sept
+Siège 3 : psychoman59 (grosse blind) a montré [7d 4d] et a gagné (20) avec un brelan de Sept
+
+
+
+Main PokerStars n°259693234460 : Tournoi #3974381593, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 12/02/2026 8:41:48 CET [12/02/2026 2:41:48 ET]
+Table '3974381593 1' 3-max Siège #3 est au bouton.
+Place 2: philia17 (1480 en jetons) 
+Place 3: psychoman59 (20 en jetons) 
+psychoman59 : met la petite blind. 15
+philia17 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 3h]
+psychoman59 : suit. 5 et est all-in.
+Personne n'a suivi. (10) sont retournés à philia17.
+*** FLOP *** [Ac Js Td]
+*** TOURNANT *** [Ac Js Td] [9c]
+*** RIVIÈRE *** [Ac Js Td 9c] [5h]
+*** ABATTAGE ***
+philia17 : montre [9h 6d] (une paire de Neuf)
+psychoman59 : montre [8s 3h] (Hauteur As)
+philia17 a remporté 40  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+philia17 remporte le tournoi et reçoit 1.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Ac Js Td 9c 5h]
+Siège 2 : philia17 (grosse blind) a montré [9h 6d] et a gagné (40) avec une paire de Neuf
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [8s 3h] et a perdu avec Hauteur As
+
+
+

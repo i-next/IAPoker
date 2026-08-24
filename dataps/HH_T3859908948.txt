@@ -1,0 +1,831 @@
+﻿Main PokerStars n°254907503519 : Tournoi #3859908948, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 17/02/2025 10:09:08 CET [17/02/2025 4:09:08 ET]
+Table '3859908948 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: lourmel (500 en jetons) 
+Place 3: sheyla216 (500 en jetons) 
+lourmel : met la petite blind. 10
+sheyla216 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Ks]
+psychoman59 : passe. 
+lourmel : relance. 20 à 40
+sheyla216 : suit. 20
+*** FLOP *** [9h 3d Ah]
+lourmel : mise. 100
+sheyla216 : passe. 
+Personne n'a suivi. (100) sont retournés à lourmel.
+lourmel a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [9h 3d Ah]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : lourmel (petite blind) a remporté (80)
+Siège 3 : sheyla216 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°254907505755 : Tournoi #3859908948, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 17/02/2025 10:09:34 CET [17/02/2025 4:09:34 ET]
+Table '3859908948 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: lourmel (540 en jetons) 
+Place 3: sheyla216 (460 en jetons) 
+sheyla216 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Js]
+lourmel : relance. 20 à 40
+sheyla216 : suit. 30
+psychoman59 : passe. 
+*** FLOP *** [Tc 5d 2h]
+sheyla216 : parole 
+lourmel : mise. 20
+sheyla216 : suit. 20
+*** TOURNANT *** [Tc 5d 2h] [9s]
+sheyla216 : parole 
+lourmel : parole 
+*** RIVIÈRE *** [Tc 5d 2h 9s] [6d]
+sheyla216 : mise. 140
+lourmel : passe. 
+Personne n'a suivi. (140) sont retournés à sheyla216.
+sheyla216 a remporté 140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [Tc 5d 2h 9s 6d]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : lourmel (bouton) s'est couché. sur le Rivière
+Siège 3 : sheyla216 (petite blind) a remporté (140)
+
+
+
+Main PokerStars n°254907509180 : Tournoi #3859908948, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 17/02/2025 10:10:15 CET [17/02/2025 4:10:15 ET]
+Table '3859908948 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (480 en jetons) 
+Place 2: lourmel (480 en jetons) 
+Place 3: sheyla216 (540 en jetons) 
+psychoman59 : met la petite blind. 10
+lourmel : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Ah]
+sheyla216 : relance. 20 à 40
+psychoman59 : suit. 30
+lourmel : suit. 20
+*** FLOP *** [Qh 5c Qs]
+psychoman59 : parole 
+lourmel : parole 
+sheyla216 : mise. 20
+psychoman59 : relance. 40 à 60
+lourmel : passe. 
+sheyla216 : suit. 40
+*** TOURNANT *** [Qh 5c Qs] [Kd]
+psychoman59 : mise. 120
+sheyla216 : suit. 120
+*** RIVIÈRE *** [Qh 5c Qs Kd] [7h]
+psychoman59 : parole 
+sheyla216 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [5d Ah] (double paire, Dames et Cinq)
+sheyla216 : montre [Ad 5h] (double paire, Dames et Cinq)
+psychoman59 a remporté 240  lors du pot .
+sheyla216 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [Qh 5c Qs Kd 7h]
+Siège 1 : psychoman59 (petite blind) a montré [5d Ah] et a gagné (240) avec double paire, Dames et Cinq
+Siège 2 : lourmel (grosse blind) s'est couché. sur le Flop
+Siège 3 : sheyla216 (bouton) a montré [Ad 5h] et a gagné (240) avec double paire, Dames et Cinq
+
+
+
+Main PokerStars n°254907513886 : Tournoi #3859908948, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 17/02/2025 10:11:10 CET [17/02/2025 4:11:10 ET]
+Table '3859908948 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: lourmel (440 en jetons) 
+Place 3: sheyla216 (560 en jetons) 
+lourmel : met la petite blind. 10
+sheyla216 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 7s]
+psychoman59 : relance. 480 à 500 et est all-in.
+lourmel : passe. 
+sheyla216 : suit. 480
+*** FLOP *** [5s Ts 4s]
+*** TOURNANT *** [5s Ts 4s] [Th]
+*** RIVIÈRE *** [5s Ts 4s Th] [2s]
+*** ABATTAGE ***
+sheyla216 : montre [Kc Qd] (une paire de Dix)
+psychoman59 : montre [7d 7s] (une couleur, hauteur Dix)
+psychoman59 a remporté 1010  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1010 | Commission 0 
+Tableau [5s Ts 4s Th 2s]
+Siège 1 : psychoman59 (bouton) a montré [7d 7s] et a gagné (1010) avec une couleur, hauteur Dix
+Siège 2 : lourmel (petite blind) s'est couché. avant Flop
+Siège 3 : sheyla216 (grosse blind) a montré [Kc Qd] et a perdu avec une paire de Dix
+
+
+
+Main PokerStars n°254907515509 : Tournoi #3859908948, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 17/02/2025 10:11:30 CET [17/02/2025 4:11:30 ET]
+Table '3859908948 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (1010 en jetons) 
+Place 2: lourmel (430 en jetons) 
+Place 3: sheyla216 (60 en jetons) 
+sheyla216 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Js]
+lourmel : suit. 20
+sheyla216 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Jh 3s Qd]
+sheyla216 : parole 
+psychoman59 : mise. 40
+lourmel : passe. 
+sheyla216 : suit. 40 et est all-in.
+*** TOURNANT *** [Jh 3s Qd] [4c]
+*** RIVIÈRE *** [Jh 3s Qd 4c] [6s]
+*** ABATTAGE ***
+sheyla216 : montre [2h 3d] (une paire de Trois)
+psychoman59 : montre [Tc Js] (une paire de Valets)
+psychoman59 a remporté 140  lors du pot .
+sheyla216 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [Jh 3s Qd 4c 6s]
+Siège 1 : psychoman59 (grosse blind) a montré [Tc Js] et a gagné (140) avec une paire de Valets
+Siège 2 : lourmel (bouton) s'est couché. sur le Flop
+Siège 3 : sheyla216 (petite blind) a montré [2h 3d] et a perdu avec une paire de Trois
+
+
+
+Main PokerStars n°254907519168 : Tournoi #3859908948, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 17/02/2025 10:12:13 CET [17/02/2025 4:12:13 ET]
+Table '3859908948 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1090 en jetons) 
+Place 2: lourmel (410 en jetons) 
+psychoman59 : met la petite blind. 15
+lourmel : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 5d]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à lourmel.
+lourmel a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : lourmel (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°254907519571 : Tournoi #3859908948, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 17/02/2025 10:12:18 CET [17/02/2025 4:12:18 ET]
+Table '3859908948 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (1075 en jetons) 
+Place 2: lourmel (425 en jetons) 
+lourmel : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 5h]
+lourmel : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (30)
+Siège 2 : lourmel (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254907520036 : Tournoi #3859908948, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 17/02/2025 10:12:24 CET [17/02/2025 4:12:24 ET]
+Table '3859908948 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1090 en jetons) 
+Place 2: lourmel (410 en jetons) 
+psychoman59 : met la petite blind. 15
+lourmel : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 2s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à lourmel.
+lourmel a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : lourmel (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°254907520482 : Tournoi #3859908948, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 17/02/2025 10:12:29 CET [17/02/2025 4:12:29 ET]
+Table '3859908948 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (1075 en jetons) 
+Place 2: lourmel (425 en jetons) 
+lourmel : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Kd]
+lourmel : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (30)
+Siège 2 : lourmel (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254907520933 : Tournoi #3859908948, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 17/02/2025 10:12:34 CET [17/02/2025 4:12:34 ET]
+Table '3859908948 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1090 en jetons) 
+Place 2: lourmel (410 en jetons) 
+psychoman59 : met la petite blind. 15
+lourmel : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Jc]
+psychoman59 : relance. 30 à 60
+lourmel : suit. 30
+*** FLOP *** [Ad 4c 6h]
+lourmel : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à lourmel.
+lourmel a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Ad 4c 6h]
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+Siège 2 : lourmel (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°254907522326 : Tournoi #3859908948, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 17/02/2025 10:12:51 CET [17/02/2025 4:12:51 ET]
+Table '3859908948 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (1030 en jetons) 
+Place 2: lourmel (470 en jetons) 
+lourmel : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 2d]
+lourmel : suit. 15
+psychoman59 : parole 
+*** FLOP *** [3c As Kh]
+psychoman59 : parole 
+lourmel : mise. 90
+psychoman59 : passe. 
+Personne n'a suivi. (90) sont retournés à lourmel.
+lourmel a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [3c As Kh]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : lourmel (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°254907523876 : Tournoi #3859908948, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 17/02/2025 10:13:09 CET [17/02/2025 4:13:09 ET]
+Table '3859908948 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1000 en jetons) 
+Place 2: lourmel (500 en jetons) 
+psychoman59 : met la petite blind. 15
+lourmel : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Qs]
+psychoman59 : relance. 970 à 1000 et est all-in.
+lourmel : passe. 
+Personne n'a suivi. (970) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 2 : lourmel (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254907524510 : Tournoi #3859908948, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 17/02/2025 10:13:16 CET [17/02/2025 4:13:16 ET]
+Table '3859908948 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (1030 en jetons) 
+Place 2: lourmel (470 en jetons) 
+lourmel : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Jd]
+lourmel : suit. 15
+psychoman59 : parole 
+*** FLOP *** [7h Qc Ah]
+psychoman59 : parole 
+lourmel : mise. 90
+psychoman59 : passe. 
+Personne n'a suivi. (90) sont retournés à lourmel.
+lourmel a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [7h Qc Ah]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : lourmel (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°254907525800 : Tournoi #3859908948, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 17/02/2025 10:13:31 CET [17/02/2025 4:13:31 ET]
+Table '3859908948 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1000 en jetons) 
+Place 2: lourmel (500 en jetons) 
+psychoman59 : met la petite blind. 15
+lourmel : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 6s]
+psychoman59 : suit. 15
+lourmel : parole 
+*** FLOP *** [4h 3s 7c]
+lourmel : parole 
+psychoman59 : parole 
+*** TOURNANT *** [4h 3s 7c] [7d]
+lourmel : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [4h 3s 7c 7d] [9h]
+lourmel : parole 
+psychoman59 : mise. 60
+lourmel : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [4h 3s 7c 7d 9h]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 2 : lourmel (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°254907527346 : Tournoi #3859908948, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 17/02/2025 10:13:49 CET [17/02/2025 4:13:49 ET]
+Table '3859908948 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (1030 en jetons) 
+Place 2: lourmel (470 en jetons) 
+lourmel : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 4s]
+lourmel : suit. 15
+psychoman59 : parole 
+*** FLOP *** [As 9d 5h]
+psychoman59 : parole 
+lourmel : mise. 90
+psychoman59 : passe. 
+Personne n'a suivi. (90) sont retournés à lourmel.
+lourmel a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [As 9d 5h]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : lourmel (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°254907528607 : Tournoi #3859908948, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 17/02/2025 10:14:04 CET [17/02/2025 4:14:04 ET]
+Table '3859908948 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1000 en jetons) 
+Place 2: lourmel (500 en jetons) 
+psychoman59 : met la petite blind. 15
+lourmel : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 8d]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à lourmel.
+lourmel a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : lourmel (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°254907528979 : Tournoi #3859908948, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 17/02/2025 10:14:08 CET [17/02/2025 4:14:08 ET]
+Table '3859908948 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (985 en jetons) 
+Place 2: lourmel (515 en jetons) 
+lourmel : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 7h]
+lourmel : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à lourmel.
+lourmel a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : lourmel (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°254907529628 : Tournoi #3859908948, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 17/02/2025 10:14:16 CET [17/02/2025 4:14:16 ET]
+Table '3859908948 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (955 en jetons) 
+Place 2: lourmel (545 en jetons) 
+psychoman59 : met la petite blind. 15
+lourmel : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 7s]
+psychoman59 : relance. 30 à 60
+lourmel : suit. 30
+*** FLOP *** [3s Ac Js]
+lourmel : parole 
+psychoman59 : mise. 60
+lourmel : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [3s Ac Js]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 2 : lourmel (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°254907531218 : Tournoi #3859908948, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 17/02/2025 10:14:34 CET [17/02/2025 4:14:34 ET]
+Table '3859908948 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (1015 en jetons) 
+Place 2: lourmel (485 en jetons) 
+lourmel : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 9h]
+lourmel : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (30)
+Siège 2 : lourmel (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254907531737 : Tournoi #3859908948, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 17/02/2025 10:14:40 CET [17/02/2025 4:14:40 ET]
+Table '3859908948 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1030 en jetons) 
+Place 2: lourmel (470 en jetons) 
+psychoman59 : met la petite blind. 15
+lourmel : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 2h]
+psychoman59 : suit. 15
+lourmel : parole 
+*** FLOP *** [2d 2s 4s]
+lourmel : parole 
+psychoman59 : parole 
+*** TOURNANT *** [2d 2s 4s] [7h]
+lourmel : mise. 30
+psychoman59 : suit. 30
+*** RIVIÈRE *** [2d 2s 4s 7h] [7d]
+lourmel : mise. 30
+psychoman59 : suit. 30
+*** ABATTAGE ***
+lourmel : montre [7c 5s] (un full, full aux Sept par les Deux)
+psychoman59 : cache la main perdante. 
+lourmel a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [2d 2s 4s 7h 7d]
+Siège 1 : psychoman59 (bouton) (petite blind) a caché la main perdante. [Kh 2h]
+Siège 2 : lourmel (grosse blind) a montré [7c 5s] et a gagné (180) avec un full, full aux Sept par les Deux
+
+
+
+Main PokerStars n°254907533488 : Tournoi #3859908948, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 17/02/2025 10:15:00 CET [17/02/2025 4:15:00 ET]
+Table '3859908948 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (940 en jetons) 
+Place 2: lourmel (560 en jetons) 
+lourmel : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 5s]
+lourmel : suit. 15
+psychoman59 : parole 
+*** FLOP *** [6h Ts 5h]
+psychoman59 : parole 
+lourmel : parole 
+*** TOURNANT *** [6h Ts 5h] [Qd]
+psychoman59 : parole 
+lourmel : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à lourmel.
+lourmel a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [6h Ts 5h Qd]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : lourmel (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°254907535361 : Tournoi #3859908948, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 17/02/2025 10:15:22 CET [17/02/2025 4:15:22 ET]
+Table '3859908948 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (910 en jetons) 
+Place 2: lourmel (590 en jetons) 
+psychoman59 : met la petite blind. 20
+lourmel : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh As]
+psychoman59 : relance. 870 à 910 et est all-in.
+lourmel : passe. 
+Personne n'a suivi. (870) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 2 : lourmel (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254907535938 : Tournoi #3859908948, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 17/02/2025 10:15:29 CET [17/02/2025 4:15:29 ET]
+Table '3859908948 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (950 en jetons) 
+Place 2: lourmel (550 en jetons) 
+lourmel : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 5c]
+lourmel : suit. 20
+psychoman59 : parole 
+*** FLOP *** [6s 8d 6c]
+psychoman59 : parole 
+lourmel : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à lourmel.
+lourmel a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [6s 8d 6c]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : lourmel (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°254907538016 : Tournoi #3859908948, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 17/02/2025 10:15:53 CET [17/02/2025 4:15:53 ET]
+Table '3859908948 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (910 en jetons) 
+Place 2: lourmel (590 en jetons) 
+psychoman59 : met la petite blind. 20
+lourmel : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 4s]
+psychoman59 : suit. 20
+lourmel : parole 
+*** FLOP *** [Kd 8c 6h]
+lourmel : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à lourmel.
+lourmel a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Kd 8c 6h]
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+Siège 2 : lourmel (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°254907539046 : Tournoi #3859908948, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 17/02/2025 10:16:05 CET [17/02/2025 4:16:05 ET]
+Table '3859908948 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (870 en jetons) 
+Place 2: lourmel (630 en jetons) 
+lourmel : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 7c]
+lourmel : relance. 40 à 80
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à lourmel.
+lourmel a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : lourmel (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°254907539692 : Tournoi #3859908948, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 17/02/2025 10:16:12 CET [17/02/2025 4:16:12 ET]
+Table '3859908948 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (830 en jetons) 
+Place 2: lourmel (670 en jetons) 
+psychoman59 : met la petite blind. 20
+lourmel : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Td]
+psychoman59 : relance. 80 à 120
+lourmel : suit. 80
+*** FLOP *** [Kd 6c 5h]
+lourmel : mise. 40
+psychoman59 : relance. 670 à 710 et est all-in.
+lourmel : passe. 
+Personne n'a suivi. (670) sont retournés à psychoman59.
+psychoman59 a remporté 320  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [Kd 6c 5h]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (320)
+Siège 2 : lourmel (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°254907541011 : Tournoi #3859908948, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 17/02/2025 10:16:28 CET [17/02/2025 4:16:28 ET]
+Table '3859908948 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (990 en jetons) 
+Place 2: lourmel (510 en jetons) 
+lourmel : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 7d]
+lourmel : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Th Kc 3s]
+psychoman59 : parole 
+lourmel : parole 
+*** TOURNANT *** [Th Kc 3s] [4d]
+psychoman59 : parole 
+lourmel : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à lourmel.
+lourmel a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Th Kc 3s 4d]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : lourmel (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°254907543190 : Tournoi #3859908948, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 17/02/2025 10:16:53 CET [17/02/2025 4:16:53 ET]
+Table '3859908948 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (950 en jetons) 
+Place 2: lourmel (550 en jetons) 
+psychoman59 : met la petite blind. 20
+lourmel : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Kh]
+psychoman59 : suit. 20
+lourmel : parole 
+*** FLOP *** [5h 3d Th]
+lourmel : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [5h 3d Th] [Td]
+lourmel : mise. 40
+psychoman59 : relance. 120 à 160
+lourmel : relance. 310 à 470 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (310) sont retournés à lourmel.
+lourmel a remporté 480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [5h 3d Th Td]
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. sur le Tournant
+Siège 2 : lourmel (grosse blind) a remporté (480)
+
+
+
+Main PokerStars n°254907545827 : Tournoi #3859908948, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 17/02/2025 10:17:24 CET [17/02/2025 4:17:24 ET]
+Table '3859908948 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (710 en jetons) 
+Place 2: lourmel (790 en jetons) 
+lourmel : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Ah]
+lourmel : suit. 20
+psychoman59 : relance. 670 à 710 et est all-in.
+lourmel : passe. 
+Personne n'a suivi. (670) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (80)
+Siège 2 : lourmel (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254907546508 : Tournoi #3859908948, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 17/02/2025 10:17:33 CET [17/02/2025 4:17:33 ET]
+Table '3859908948 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (750 en jetons) 
+Place 2: lourmel (750 en jetons) 
+psychoman59 : met la petite blind. 20
+lourmel : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 5d]
+psychoman59 : relance. 710 à 750 et est all-in.
+lourmel : passe. 
+Personne n'a suivi. (710) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 2 : lourmel (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254907547229 : Tournoi #3859908948, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 17/02/2025 10:17:41 CET [17/02/2025 4:17:41 ET]
+Table '3859908948 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (790 en jetons) 
+Place 2: lourmel (710 en jetons) 
+lourmel : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Ah]
+lourmel : suit. 20
+psychoman59 : relance. 750 à 790 et est all-in.
+lourmel : suit. 670 et est all-in.
+Personne n'a suivi. (80) sont retournés à psychoman59.
+*** FLOP *** [Tc Jc Kd]
+*** TOURNANT *** [Tc Jc Kd] [5c]
+*** RIVIÈRE *** [Tc Jc Kd 5c] [7s]
+*** ABATTAGE ***
+psychoman59 : montre [6c Ah] (Hauteur As)
+lourmel : montre [Td Th] (un brelan de Dix)
+lourmel a remporté 1420  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1420 | Commission 0 
+Tableau [Tc Jc Kd 5c 7s]
+Siège 1 : psychoman59 (grosse blind) a montré [6c Ah] et a perdu avec Hauteur As
+Siège 2 : lourmel (bouton) (petite blind) a montré [Td Th] et a gagné (1420) avec un brelan de Dix
+
+
+
+Main PokerStars n°254907548480 : Tournoi #3859908948, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 17/02/2025 10:17:56 CET [17/02/2025 4:17:56 ET]
+Table '3859908948 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (80 en jetons) 
+Place 2: lourmel (1420 en jetons) 
+psychoman59 : met la petite blind. 20
+lourmel : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 3c]
+psychoman59 : relance. 40 à 80 et est all-in.
+lourmel : suit. 40
+*** FLOP *** [Kd Ad 7h]
+*** TOURNANT *** [Kd Ad 7h] [Ks]
+*** RIVIÈRE *** [Kd Ad 7h Ks] [Ts]
+*** ABATTAGE ***
+lourmel : montre [Jd 5h] (une paire de Rois)
+psychoman59 : montre [Js 3c] (une paire de Rois)
+lourmel a remporté 80  lors du pot .
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Kd Ad 7h Ks Ts]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Js 3c] et a gagné (80) avec une paire de Rois
+Siège 2 : lourmel (grosse blind) a montré [Jd 5h] et a gagné (80) avec une paire de Rois
+
+
+
+Main PokerStars n°254907549992 : Tournoi #3859908948, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 17/02/2025 10:18:14 CET [17/02/2025 4:18:14 ET]
+Table '3859908948 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (80 en jetons) 
+Place 2: lourmel (1420 en jetons) 
+lourmel : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Qd]
+lourmel : relance. 1360 à 1420 et est all-in.
+psychoman59 : suit. 20 et est all-in.
+Personne n'a suivi. (1340) sont retournés à lourmel.
+*** FLOP *** [3c As Qh]
+*** TOURNANT *** [3c As Qh] [Jh]
+*** RIVIÈRE *** [3c As Qh Jh] [3s]
+*** ABATTAGE ***
+psychoman59 : montre [Kh Qd] (double paire, Dames et Trois)
+lourmel : montre [2d 2c] (double paire, Trois et Deux)
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [3c As Qh Jh 3s]
+Siège 1 : psychoman59 (grosse blind) a montré [Kh Qd] et a gagné (160) avec double paire, Dames et Trois
+Siège 2 : lourmel (bouton) (petite blind) a montré [2d 2c] et a perdu avec double paire, Trois et Deux
+
+
+
+Main PokerStars n°254907551068 : Tournoi #3859908948, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 17/02/2025 10:18:27 CET [17/02/2025 4:18:27 ET]
+Table '3859908948 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (160 en jetons) 
+Place 2: lourmel (1340 en jetons) 
+psychoman59 : met la petite blind. 30
+lourmel : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Js]
+psychoman59 : relance. 100 à 160 et est all-in.
+lourmel : suit. 100
+*** FLOP *** [4c Ts Ah]
+*** TOURNANT *** [4c Ts Ah] [6h]
+*** RIVIÈRE *** [4c Ts Ah 6h] [9h]
+*** ABATTAGE ***
+lourmel : montre [8s 7d] (une suite, Six à Dix)
+psychoman59 : montre [3d Js] (Hauteur As)
+lourmel a remporté 320  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+lourmel remporte le tournoi et reçoit 4.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [4c Ts Ah 6h 9h]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [3d Js] et a perdu avec Hauteur As
+Siège 2 : lourmel (grosse blind) a montré [8s 7d] et a gagné (320) avec une suite, Six à Dix
+
+
+

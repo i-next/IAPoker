@@ -1,0 +1,422 @@
+﻿Main PokerStars n°244505970654 : Tournoi #3609854495, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 28/06/2023 7:17:16 CET [28/06/2023 1:17:16 ET]
+Table '3609854495 1' 3-max Siège #1 est au bouton.
+Place 1: Gotyee (300 en jetons) 
+Place 2: javilito66 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+javilito66 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 8d]
+Gotyee : suit. 20
+javilito66 : passe. 
+psychoman59 : parole 
+*** FLOP *** [Ad Kh Ts]
+psychoman59 : parole 
+Gotyee : mise. 50
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à Gotyee.
+Gotyee a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [Ad Kh Ts]
+Siège 1 : Gotyee (bouton) a remporté (50)
+Siège 2 : javilito66 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°244505972989 : Tournoi #3609854495, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 28/06/2023 7:17:40 CET [28/06/2023 1:17:40 ET]
+Table '3609854495 1' 3-max Siège #2 est au bouton.
+Place 1: Gotyee (330 en jetons) 
+Place 2: javilito66 (290 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+Gotyee : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 9h]
+javilito66 : relance. 20 à 40
+psychoman59 : passe. 
+Gotyee : passe. 
+Personne n'a suivi. (20) sont retournés à javilito66.
+javilito66 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : Gotyee (grosse blind) s'est couché. avant Flop
+Siège 2 : javilito66 (bouton) a remporté (50)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244505974371 : Tournoi #3609854495, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 28/06/2023 7:17:54 CET [28/06/2023 1:17:54 ET]
+Table '3609854495 1' 3-max Siège #3 est au bouton.
+Place 1: Gotyee (310 en jetons) 
+Place 2: javilito66 (320 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+Gotyee : met la petite blind. 10
+javilito66 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Js]
+psychoman59 : passe. 
+Gotyee : relance. 40 à 60
+javilito66 : suit. 40
+*** FLOP *** [5s 4d 7d]
+Gotyee : mise. 120
+javilito66 : relance. 120 à 240
+Gotyee : suit. 120
+*** TOURNANT *** [5s 4d 7d] [3c]
+Gotyee : mise. 10 et est all-in.
+javilito66 : suit. 10
+*** RIVIÈRE *** [5s 4d 7d 3c] [2h]
+*** ABATTAGE ***
+Gotyee : montre [Qc 4h] (une paire de Quatre)
+javilito66 : montre [8h 9h] (Hauteur Neuf)
+Gotyee a remporté 620  lors du pot .
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [5s 4d 7d 3c 2h]
+Siège 1 : Gotyee (petite blind) a montré [Qc 4h] et a gagné (620) avec une paire de Quatre
+Siège 2 : javilito66 (grosse blind) a montré [8h 9h] et a perdu avec Hauteur Neuf
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°244505978314 : Tournoi #3609854495, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 28/06/2023 7:18:35 CET [28/06/2023 1:18:35 ET]
+Table '3609854495 1' 3-max Siège #1 est au bouton.
+Place 1: Gotyee (620 en jetons) 
+Place 2: javilito66 (10 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+javilito66 : met la petite blind. 10 et est all-in.
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 8h]
+Gotyee : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+*** FLOP *** [Kh 8s 2c]
+*** TOURNANT *** [Kh 8s 2c] [2d]
+*** RIVIÈRE *** [Kh 8s 2c 2d] [Kd]
+*** ABATTAGE ***
+javilito66 : montre [Ad 5d] (double paire, Rois et Deux)
+psychoman59 : montre [6s 8h] (double paire, Rois et Huit)
+psychoman59 a remporté 20  lors du pot .
+javilito66 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Tableau [Kh 8s 2c 2d Kd]
+Siège 1 : Gotyee (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : javilito66 (petite blind) a montré [Ad 5d] et a perdu avec double paire, Rois et Deux
+Siège 3 : psychoman59 (grosse blind) a montré [6s 8h] et a gagné (20) avec double paire, Rois et Huit
+
+
+
+Main PokerStars n°244505979723 : Tournoi #3609854495, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 28/06/2023 7:18:49 CET [28/06/2023 1:18:49 ET]
+Table '3609854495 1' 3-max Siège #3 est au bouton.
+Place 1: Gotyee (620 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 15
+Gotyee : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 7c]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à Gotyee.
+Gotyee a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : Gotyee (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244505980234 : Tournoi #3609854495, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 28/06/2023 7:18:55 CET [28/06/2023 1:18:55 ET]
+Table '3609854495 1' 3-max Siège #1 est au bouton.
+Place 1: Gotyee (635 en jetons) 
+Place 3: psychoman59 (265 en jetons) 
+Gotyee : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Jc]
+Gotyee : suit. 15
+psychoman59 : relance. 235 à 265 et est all-in.
+Gotyee : passe. 
+Personne n'a suivi. (235) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Gotyee (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°244505981249 : Tournoi #3609854495, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 28/06/2023 7:19:05 CET [28/06/2023 1:19:05 ET]
+Table '3609854495 1' 3-max Siège #3 est au bouton.
+Place 1: Gotyee (605 en jetons) 
+Place 3: psychoman59 (295 en jetons) 
+psychoman59 : met la petite blind. 15
+Gotyee : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 8s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à Gotyee.
+Gotyee a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : Gotyee (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244505981753 : Tournoi #3609854495, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 28/06/2023 7:19:10 CET [28/06/2023 1:19:10 ET]
+Table '3609854495 1' 3-max Siège #1 est au bouton.
+Place 1: Gotyee (620 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+Gotyee : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 2c]
+Gotyee : suit. 15
+psychoman59 : relance. 250 à 280 et est all-in.
+Gotyee : passe. 
+Personne n'a suivi. (250) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Gotyee (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°244505983154 : Tournoi #3609854495, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 28/06/2023 7:19:25 CET [28/06/2023 1:19:25 ET]
+Table '3609854495 1' 3-max Siège #3 est au bouton.
+Place 1: Gotyee (590 en jetons) 
+Place 3: psychoman59 (310 en jetons) 
+psychoman59 : met la petite blind. 20
+Gotyee : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Qc]
+psychoman59 : suit. 20
+Gotyee : relance. 550 à 590 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (550) sont retournés à Gotyee.
+Gotyee a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : Gotyee (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244505984478 : Tournoi #3609854495, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 28/06/2023 7:19:39 CET [28/06/2023 1:19:39 ET]
+Table '3609854495 1' 3-max Siège #1 est au bouton.
+Place 1: Gotyee (630 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+Gotyee : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Qd]
+Gotyee : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Qs Ad 6s]
+psychoman59 : mise. 230 et est all-in.
+Gotyee : passe. 
+Personne n'a suivi. (230) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Qs Ad 6s]
+Siège 1 : Gotyee (bouton) (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°244505986270 : Tournoi #3609854495, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 28/06/2023 7:19:56 CET [28/06/2023 1:19:56 ET]
+Table '3609854495 1' 3-max Siège #3 est au bouton.
+Place 1: Gotyee (590 en jetons) 
+Place 3: psychoman59 (310 en jetons) 
+psychoman59 : met la petite blind. 20
+Gotyee : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 3c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Gotyee.
+Gotyee a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Gotyee (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244505986798 : Tournoi #3609854495, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 28/06/2023 7:20:02 CET [28/06/2023 1:20:02 ET]
+Table '3609854495 1' 3-max Siège #1 est au bouton.
+Place 1: Gotyee (610 en jetons) 
+Place 3: psychoman59 (290 en jetons) 
+Gotyee : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Jh]
+Gotyee : relance. 570 à 610 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (570) sont retournés à Gotyee.
+Gotyee a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : Gotyee (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244505987600 : Tournoi #3609854495, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 28/06/2023 7:20:10 CET [28/06/2023 1:20:10 ET]
+Table '3609854495 1' 3-max Siège #3 est au bouton.
+Place 1: Gotyee (650 en jetons) 
+Place 3: psychoman59 (250 en jetons) 
+psychoman59 : met la petite blind. 20
+Gotyee : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 2h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Gotyee.
+Gotyee a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Gotyee (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244505988135 : Tournoi #3609854495, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 28/06/2023 7:20:15 CET [28/06/2023 1:20:15 ET]
+Table '3609854495 1' 3-max Siège #1 est au bouton.
+Place 1: Gotyee (670 en jetons) 
+Place 3: psychoman59 (230 en jetons) 
+Gotyee : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Ac]
+Gotyee : suit. 20
+psychoman59 : relance. 190 à 230 et est all-in.
+Gotyee : suit. 190
+*** FLOP *** [3s Jh Kh]
+*** TOURNANT *** [3s Jh Kh] [8h]
+*** RIVIÈRE *** [3s Jh Kh 8h] [5c]
+*** ABATTAGE ***
+psychoman59 : montre [8c Ac] (une paire de Huit)
+Gotyee : montre [Ad 7d] (Hauteur As)
+psychoman59 a remporté 460  lors du pot .
+*** SYNTHÈSE ***
+Pot total 460 | Commission 0 
+Tableau [3s Jh Kh 8h 5c]
+Siège 1 : Gotyee (bouton) (petite blind) a montré [Ad 7d] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (grosse blind) a montré [8c Ac] et a gagné (460) avec une paire de Huit
+
+
+
+Main PokerStars n°244505990110 : Tournoi #3609854495, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 28/06/2023 7:20:35 CET [28/06/2023 1:20:35 ET]
+Table '3609854495 1' 3-max Siège #3 est au bouton.
+Place 1: Gotyee (440 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+psychoman59 : met la petite blind. 30
+Gotyee : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 8h]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Gotyee.
+Gotyee a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Gotyee (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244505990563 : Tournoi #3609854495, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 28/06/2023 7:20:41 CET [28/06/2023 1:20:41 ET]
+Table '3609854495 1' 3-max Siège #1 est au bouton.
+Place 1: Gotyee (470 en jetons) 
+Place 3: psychoman59 (430 en jetons) 
+Gotyee : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Th]
+Gotyee : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Gotyee (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°244505991115 : Tournoi #3609854495, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 28/06/2023 7:20:46 CET [28/06/2023 1:20:46 ET]
+Table '3609854495 1' 3-max Siège #3 est au bouton.
+Place 1: Gotyee (440 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+psychoman59 : met la petite blind. 30
+Gotyee : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Ad]
+psychoman59 : relance. 400 à 460 et est all-in.
+Gotyee : passe. 
+Personne n'a suivi. (400) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : Gotyee (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°244505992725 : Tournoi #3609854495, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 28/06/2023 7:21:03 CET [28/06/2023 1:21:03 ET]
+Table '3609854495 1' 3-max Siège #1 est au bouton.
+Place 1: Gotyee (380 en jetons) 
+Place 3: psychoman59 (520 en jetons) 
+Gotyee : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Ac]
+Gotyee : relance. 320 à 380 et est all-in.
+psychoman59 : suit. 320
+*** FLOP *** [3h Th 6s]
+*** TOURNANT *** [3h Th 6s] [Ah]
+*** RIVIÈRE *** [3h Th 6s Ah] [Kh]
+*** ABATTAGE ***
+psychoman59 : montre [2d Ac] (une paire de As)
+Gotyee : montre [Qd Js] (une suite, Dix à As)
+Gotyee a remporté 760  lors du pot .
+*** SYNTHÈSE ***
+Pot total 760 | Commission 0 
+Tableau [3h Th 6s Ah Kh]
+Siège 1 : Gotyee (bouton) (petite blind) a montré [Qd Js] et a gagné (760) avec une suite, Dix à As
+Siège 3 : psychoman59 (grosse blind) a montré [2d Ac] et a perdu avec une paire de As
+
+
+
+Main PokerStars n°244505993972 : Tournoi #3609854495, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 28/06/2023 7:21:16 CET [28/06/2023 1:21:16 ET]
+Table '3609854495 1' 3-max Siège #3 est au bouton.
+Place 1: Gotyee (760 en jetons) 
+Place 3: psychoman59 (140 en jetons) 
+psychoman59 : met la petite blind. 30
+Gotyee : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 8d]
+psychoman59 : relance. 80 à 140 et est all-in.
+Gotyee : suit. 80
+*** FLOP *** [As 5s Ts]
+*** TOURNANT *** [As 5s Ts] [9h]
+*** RIVIÈRE *** [As 5s Ts 9h] [Ad]
+*** ABATTAGE ***
+Gotyee : montre [Qd Qs] (double paire, As et Dames)
+psychoman59 : montre [Td 8d] (double paire, As et Dix)
+Gotyee a remporté 280  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+Gotyee remporte le tournoi et reçoit 6.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Tableau [As 5s Ts 9h Ad]
+Siège 1 : Gotyee (grosse blind) a montré [Qd Qs] et a gagné (280) avec double paire, As et Dames
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Td 8d] et a perdu avec double paire, As et Dix
+
+
+

@@ -1,0 +1,86 @@
+﻿Main PokerStars n°255265341311 : Tournoi #3868346198, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 13/03/2025 8:03:18 CET [13/03/2025 3:03:18 ET]
+Table '3868346198 1' 3-max Siège #1 est au bouton.
+Place 1: PENDRAGON33 (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: pierrot36611 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+pierrot36611 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 7s]
+PENDRAGON33 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à pierrot36611.
+pierrot36611 a remporté 20  lors du pot .
+pierrot36611 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : PENDRAGON33 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : pierrot36611 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°255265341673 : Tournoi #3868346198, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 13/03/2025 8:03:23 CET [13/03/2025 3:03:23 ET]
+Table '3868346198 1' 3-max Siège #2 est au bouton.
+Place 1: PENDRAGON33 (500 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: pierrot36611 (510 en jetons) 
+pierrot36611 : met la petite blind. 10
+PENDRAGON33 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 6s]
+psychoman59 : passe. 
+pierrot36611 : suit. 10
+PENDRAGON33 : parole 
+*** FLOP *** [Qc 2d Td]
+pierrot36611 : parole 
+PENDRAGON33 : parole 
+*** TOURNANT *** [Qc 2d Td] [4d]
+pierrot36611 : parole 
+PENDRAGON33 : parole 
+*** RIVIÈRE *** [Qc 2d Td 4d] [5h]
+pierrot36611 : parole 
+PENDRAGON33 : parole 
+*** ABATTAGE ***
+pierrot36611 : montre [4s 7s] (une paire de Quatre)
+PENDRAGON33 : cache la main perdante. 
+pierrot36611 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Qc 2d Td 4d 5h]
+Siège 1 : PENDRAGON33 (grosse blind) a caché la main perdante. [Kd 6h]
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : pierrot36611 (petite blind) a montré [4s 7s] et a gagné (40) avec une paire de Quatre
+
+
+
+Main PokerStars n°255265342967 : Tournoi #3868346198, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 13/03/2025 8:03:45 CET [13/03/2025 3:03:45 ET]
+Table '3868346198 1' 3-max Siège #3 est au bouton.
+Place 1: PENDRAGON33 (480 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: pierrot36611 (530 en jetons) 
+PENDRAGON33 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Jh]
+pierrot36611 : relance. 510 à 530 et est all-in.
+PENDRAGON33 : passe. 
+psychoman59 : suit. 470 et est all-in.
+Personne n'a suivi. (40) sont retournés à pierrot36611.
+*** FLOP *** [3h 2c 7c]
+*** TOURNANT *** [3h 2c 7c] [Qs]
+*** RIVIÈRE *** [3h 2c 7c Qs] [5c]
+*** ABATTAGE ***
+psychoman59 : montre [As Jh] (Hauteur As)
+pierrot36611 : montre [Kh Kc] (une paire de Rois)
+pierrot36611 a remporté 990  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 990 | Commission 0 
+Tableau [3h 2c 7c Qs 5c]
+Siège 1 : PENDRAGON33 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a montré [As Jh] et a perdu avec Hauteur As
+Siège 3 : pierrot36611 (bouton) a montré [Kh Kc] et a gagné (990) avec une paire de Rois
+
+
+

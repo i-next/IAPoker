@@ -1,0 +1,1084 @@
+﻿Main PokerStars n°255839348481 : Tournoi #3881724188, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 22/04/2025 7:33:59 CET [22/04/2025 1:33:59 ET]
+Table '3881724188 1' 3-max Siège #1 est au bouton.
+Place 1: paula sacoto (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: anpaba (500 en jetons) 
+psychoman59 : met la petite blind. 10
+anpaba : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 7h]
+paula sacoto : suit. 20
+psychoman59 : suit. 10
+anpaba : parole 
+*** FLOP *** [Kh Th 5s]
+psychoman59 : parole 
+anpaba : parole 
+paula sacoto : parole 
+*** TOURNANT *** [Kh Th 5s] [9s]
+psychoman59 : parole 
+anpaba : mise. 20
+paula sacoto : passe. 
+psychoman59 : suit. 20
+*** RIVIÈRE *** [Kh Th 5s 9s] [5h]
+psychoman59 : parole 
+anpaba : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Qh 7h] (une couleur, hauteur Roi)
+anpaba : cache la main perdante. 
+psychoman59 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [Kh Th 5s 9s 5h]
+Siège 1 : paula sacoto (bouton) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (petite blind) a montré [Qh 7h] et a gagné (100) avec une couleur, hauteur Roi
+Siège 3 : anpaba (grosse blind) a caché la main perdante. [Td 6s]
+
+
+
+Main PokerStars n°255839350834 : Tournoi #3881724188, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 22/04/2025 7:34:36 CET [22/04/2025 1:34:36 ET]
+Table '3881724188 1' 3-max Siège #2 est au bouton.
+Place 1: paula sacoto (480 en jetons) 
+Place 2: psychoman59 (560 en jetons) 
+Place 3: anpaba (460 en jetons) 
+anpaba : met la petite blind. 10
+paula sacoto : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 7c]
+psychoman59 : passe. 
+anpaba : suit. 10
+paula sacoto : parole 
+*** FLOP *** [5c Ks Kc]
+anpaba : parole 
+paula sacoto : parole 
+*** TOURNANT *** [5c Ks Kc] [Qd]
+anpaba : parole 
+paula sacoto : parole 
+*** RIVIÈRE *** [5c Ks Kc Qd] [Ts]
+anpaba : mise. 40
+paula sacoto : passe. 
+Personne n'a suivi. (40) sont retournés à anpaba.
+anpaba a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [5c Ks Kc Qd Ts]
+Siège 1 : paula sacoto (grosse blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : anpaba (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°255839352804 : Tournoi #3881724188, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 22/04/2025 7:35:07 CET [22/04/2025 1:35:07 ET]
+Table '3881724188 1' 3-max Siège #3 est au bouton.
+Place 1: paula sacoto (460 en jetons) 
+Place 2: psychoman59 (560 en jetons) 
+Place 3: anpaba (480 en jetons) 
+paula sacoto : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c As]
+anpaba : passe. 
+paula sacoto : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : paula sacoto (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (20)
+Siège 3 : anpaba (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°255839353155 : Tournoi #3881724188, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 22/04/2025 7:35:12 CET [22/04/2025 1:35:12 ET]
+Table '3881724188 1' 3-max Siège #1 est au bouton.
+Place 1: paula sacoto (450 en jetons) 
+Place 2: psychoman59 (570 en jetons) 
+Place 3: anpaba (480 en jetons) 
+psychoman59 : met la petite blind. 10
+anpaba : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Tc]
+paula sacoto : suit. 20
+psychoman59 : suit. 10
+anpaba : parole 
+*** FLOP *** [7h Qh 9s]
+psychoman59 : parole 
+anpaba : parole 
+paula sacoto : parole 
+*** TOURNANT *** [7h Qh 9s] [2d]
+psychoman59 : parole 
+anpaba : parole 
+paula sacoto : parole 
+*** RIVIÈRE *** [7h Qh 9s 2d] [4h]
+psychoman59 : parole 
+anpaba : parole 
+paula sacoto : parole 
+*** ABATTAGE ***
+psychoman59 : montre [As Tc] (Hauteur As)
+anpaba : cache la main perdante. 
+paula sacoto : montre [9d Jc] (une paire de Neuf)
+paula sacoto a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [7h Qh 9s 2d 4h]
+Siège 1 : paula sacoto (bouton) a montré [9d Jc] et a gagné (60) avec une paire de Neuf
+Siège 2 : psychoman59 (petite blind) a montré [As Tc] et a perdu avec Hauteur As
+Siège 3 : anpaba (grosse blind) a caché la main perdante. [Ks 3h]
+
+
+
+Main PokerStars n°255839355288 : Tournoi #3881724188, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 22/04/2025 7:35:45 CET [22/04/2025 1:35:45 ET]
+Table '3881724188 1' 3-max Siège #2 est au bouton.
+Place 1: paula sacoto (490 en jetons) 
+Place 2: psychoman59 (550 en jetons) 
+Place 3: anpaba (460 en jetons) 
+anpaba : met la petite blind. 10
+paula sacoto : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 3c]
+psychoman59 : suit. 20
+anpaba : suit. 10
+paula sacoto : parole 
+*** FLOP *** [5c Th Kh]
+anpaba : parole 
+paula sacoto : parole 
+psychoman59 : mise. 60
+anpaba : passe. 
+paula sacoto : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [5c Th Kh]
+Siège 1 : paula sacoto (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) a remporté (60)
+Siège 3 : anpaba (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°255839357020 : Tournoi #3881724188, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 22/04/2025 7:36:11 CET [22/04/2025 1:36:11 ET]
+Table '3881724188 1' 3-max Siège #3 est au bouton.
+Place 1: paula sacoto (470 en jetons) 
+Place 2: psychoman59 (590 en jetons) 
+Place 3: anpaba (440 en jetons) 
+paula sacoto : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Qd]
+anpaba : suit. 30
+paula sacoto : passe. 
+psychoman59 : parole 
+*** FLOP *** [Jc Qh Js]
+psychoman59 : parole 
+anpaba : mise. 30
+psychoman59 : suit. 30
+*** TOURNANT *** [Jc Qh Js] [Ad]
+psychoman59 : parole 
+anpaba : parole 
+*** RIVIÈRE *** [Jc Qh Js Ad] [7c]
+psychoman59 : mise. 68
+anpaba : passe. 
+Personne n'a suivi. (68) sont retournés à psychoman59.
+psychoman59 a remporté 135  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 135 | Commission 0 
+Tableau [Jc Qh Js Ad 7c]
+Siège 1 : paula sacoto (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (135)
+Siège 3 : anpaba (bouton) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°255839358521 : Tournoi #3881724188, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 22/04/2025 7:36:34 CET [22/04/2025 1:36:34 ET]
+Table '3881724188 1' 3-max Siège #1 est au bouton.
+Place 1: paula sacoto (455 en jetons) 
+Place 2: psychoman59 (665 en jetons) 
+Place 3: anpaba (380 en jetons) 
+psychoman59 : met la petite blind. 15
+anpaba : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 8d]
+paula sacoto : suit. 30
+psychoman59 : passe. 
+anpaba : parole 
+*** FLOP *** [7c 2c Tc]
+anpaba : mise. 30
+paula sacoto : passe. 
+Personne n'a suivi. (30) sont retournés à anpaba.
+anpaba a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Tableau [7c 2c Tc]
+Siège 1 : paula sacoto (bouton) s'est couché. sur le Flop
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : anpaba (grosse blind) a remporté (75)
+
+
+
+Main PokerStars n°255839359696 : Tournoi #3881724188, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 22/04/2025 7:36:51 CET [22/04/2025 1:36:51 ET]
+Table '3881724188 1' 3-max Siège #2 est au bouton.
+Place 1: paula sacoto (425 en jetons) 
+Place 2: psychoman59 (650 en jetons) 
+Place 3: anpaba (425 en jetons) 
+anpaba : met la petite blind. 15
+paula sacoto : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 6h]
+psychoman59 : passe. 
+anpaba : suit. 15
+paula sacoto : parole 
+*** FLOP *** [Qs Th 7c]
+anpaba : parole 
+paula sacoto : parole 
+*** TOURNANT *** [Qs Th 7c] [2d]
+anpaba : parole 
+paula sacoto : parole 
+*** RIVIÈRE *** [Qs Th 7c 2d] [7h]
+anpaba : mise. 60
+paula sacoto : passe. 
+Personne n'a suivi. (60) sont retournés à anpaba.
+anpaba a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Qs Th 7c 2d 7h]
+Siège 1 : paula sacoto (grosse blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : anpaba (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°255839362161 : Tournoi #3881724188, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 22/04/2025 7:37:29 CET [22/04/2025 1:37:29 ET]
+Table '3881724188 1' 3-max Siège #3 est au bouton.
+Place 1: paula sacoto (395 en jetons) 
+Place 2: psychoman59 (650 en jetons) 
+Place 3: anpaba (455 en jetons) 
+paula sacoto : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 8c]
+anpaba : suit. 30
+paula sacoto : relance. 365 à 395 et est all-in.
+psychoman59 : passe. 
+anpaba : passe. 
+Personne n'a suivi. (365) sont retournés à paula sacoto.
+paula sacoto a remporté 90  lors du pot .
+paula sacoto : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Siège 1 : paula sacoto (petite blind) a remporté (90)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : anpaba (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°255839363020 : Tournoi #3881724188, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 22/04/2025 7:37:42 CET [22/04/2025 1:37:42 ET]
+Table '3881724188 1' 3-max Siège #1 est au bouton.
+Place 1: paula sacoto (455 en jetons) 
+Place 2: psychoman59 (620 en jetons) 
+Place 3: anpaba (425 en jetons) 
+psychoman59 : met la petite blind. 15
+anpaba : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Ah]
+paula sacoto : relance. 30 à 60
+psychoman59 : suit. 45
+anpaba : suit. 30
+*** FLOP *** [Th 7c 9s]
+psychoman59 : parole 
+anpaba : parole 
+paula sacoto : mise. 180
+psychoman59 : passe. 
+anpaba : relance. 180 à 360
+paula sacoto : relance. 35 à 395 et est all-in.
+anpaba : suit. 5 et est all-in.
+Personne n'a suivi. (30) sont retournés à paula sacoto.
+*** TOURNANT *** [Th 7c 9s] [Kh]
+*** RIVIÈRE *** [Th 7c 9s Kh] [5s]
+*** ABATTAGE ***
+anpaba : montre [Ac 7s] (une paire de Sept)
+paula sacoto : montre [Kd Kc] (un brelan de Rois)
+paula sacoto a remporté 910  lors du pot .
+anpaba a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 910 | Commission 0 
+Tableau [Th 7c 9s Kh 5s]
+Siège 1 : paula sacoto (bouton) a montré [Kd Kc] et a gagné (910) avec un brelan de Rois
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 3 : anpaba (grosse blind) a montré [Ac 7s] et a perdu avec une paire de Sept
+
+
+
+Main PokerStars n°255839365187 : Tournoi #3881724188, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 22/04/2025 7:38:14 CET [22/04/2025 1:38:14 ET]
+Table '3881724188 1' 3-max Siège #2 est au bouton.
+Place 1: paula sacoto (940 en jetons) 
+Place 2: psychoman59 (560 en jetons) 
+psychoman59 : met la petite blind. 20
+paula sacoto : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Qc]
+psychoman59 : suit. 20
+paula sacoto : parole 
+*** FLOP *** [2h 3d 6h]
+paula sacoto : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à paula sacoto.
+paula sacoto a remporté 80  lors du pot .
+paula sacoto : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [2h 3d 6h]
+Siège 1 : paula sacoto (grosse blind) a remporté (80)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°255839366063 : Tournoi #3881724188, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 22/04/2025 7:38:27 CET [22/04/2025 1:38:27 ET]
+Table '3881724188 1' 3-max Siège #1 est au bouton.
+Place 1: paula sacoto (980 en jetons) 
+Place 2: psychoman59 (520 en jetons) 
+paula sacoto : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Qd]
+paula sacoto : suit. 20
+psychoman59 : parole 
+*** FLOP *** [As 5d 6d]
+psychoman59 : parole 
+paula sacoto : parole 
+*** TOURNANT *** [As 5d 6d] [9s]
+psychoman59 : parole 
+paula sacoto : parole 
+*** RIVIÈRE *** [As 5d 6d 9s] [3c]
+psychoman59 : parole 
+paula sacoto : parole 
+*** ABATTAGE ***
+psychoman59 : montre [8h Qd] (Hauteur As)
+paula sacoto : montre [Jd 3h] (une paire de Trois)
+paula sacoto a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [As 5d 6d 9s 3c]
+Siège 1 : paula sacoto (bouton) (petite blind) a montré [Jd 3h] et a gagné (80) avec une paire de Trois
+Siège 2 : psychoman59 (grosse blind) a montré [8h Qd] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°255839367661 : Tournoi #3881724188, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 22/04/2025 7:38:52 CET [22/04/2025 1:38:52 ET]
+Table '3881724188 1' 3-max Siège #2 est au bouton.
+Place 1: paula sacoto (1020 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 20
+paula sacoto : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 5c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à paula sacoto.
+paula sacoto a remporté 40  lors du pot .
+paula sacoto : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : paula sacoto (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°255839368069 : Tournoi #3881724188, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 22/04/2025 7:38:58 CET [22/04/2025 1:38:58 ET]
+Table '3881724188 1' 3-max Siège #1 est au bouton.
+Place 1: paula sacoto (1040 en jetons) 
+Place 2: psychoman59 (460 en jetons) 
+paula sacoto : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 4h]
+paula sacoto : suit. 20
+psychoman59 : parole 
+*** FLOP *** [3c Qs 6h]
+psychoman59 : parole 
+paula sacoto : parole 
+*** TOURNANT *** [3c Qs 6h] [8d]
+psychoman59 : parole 
+paula sacoto : parole 
+*** RIVIÈRE *** [3c Qs 6h 8d] [5d]
+psychoman59 : parole 
+paula sacoto : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Ts 4h] (Hauteur Dame)
+paula sacoto : montre [Ks 4c] (Hauteur Roi)
+paula sacoto a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [3c Qs 6h 8d 5d]
+Siège 1 : paula sacoto (bouton) (petite blind) a montré [Ks 4c] et a gagné (80) avec Hauteur Roi
+Siège 2 : psychoman59 (grosse blind) a montré [Ts 4h] et a perdu avec Hauteur Dame
+
+
+
+Main PokerStars n°255839370277 : Tournoi #3881724188, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 22/04/2025 7:39:32 CET [22/04/2025 1:39:32 ET]
+Table '3881724188 1' 3-max Siège #2 est au bouton.
+Place 1: paula sacoto (1080 en jetons) 
+Place 2: psychoman59 (420 en jetons) 
+psychoman59 : met la petite blind. 20
+paula sacoto : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Td]
+psychoman59 : suit. 20
+paula sacoto : parole 
+*** FLOP *** [8d 5c Kc]
+paula sacoto : parole 
+psychoman59 : mise. 80
+paula sacoto : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [8d 5c Kc]
+Siège 1 : paula sacoto (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°255839371626 : Tournoi #3881724188, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 22/04/2025 7:39:52 CET [22/04/2025 1:39:52 ET]
+Table '3881724188 1' 3-max Siège #1 est au bouton.
+Place 1: paula sacoto (1040 en jetons) 
+Place 2: psychoman59 (460 en jetons) 
+paula sacoto : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 9s]
+paula sacoto : suit. 20
+psychoman59 : parole 
+*** FLOP *** [4s Kd Ad]
+psychoman59 : parole 
+paula sacoto : parole 
+*** TOURNANT *** [4s Kd Ad] [5d]
+psychoman59 : parole 
+paula sacoto : parole 
+*** RIVIÈRE *** [4s Kd Ad 5d] [As]
+psychoman59 : parole 
+paula sacoto : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Th 9s] (une paire de As)
+paula sacoto : montre [Js 5c] (double paire, As et Cinq)
+paula sacoto a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [4s Kd Ad 5d As]
+Siège 1 : paula sacoto (bouton) (petite blind) a montré [Js 5c] et a gagné (80) avec double paire, As et Cinq
+Siège 2 : psychoman59 (grosse blind) a montré [Th 9s] et a perdu avec une paire de As
+
+
+
+Main PokerStars n°255839373610 : Tournoi #3881724188, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 22/04/2025 7:40:22 CET [22/04/2025 1:40:22 ET]
+Table '3881724188 1' 3-max Siège #2 est au bouton.
+Place 1: paula sacoto (1080 en jetons) 
+Place 2: psychoman59 (420 en jetons) 
+psychoman59 : met la petite blind. 30
+paula sacoto : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Ks]
+psychoman59 : relance. 60 à 120
+paula sacoto : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : paula sacoto (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°255839374176 : Tournoi #3881724188, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 22/04/2025 7:40:30 CET [22/04/2025 1:40:30 ET]
+Table '3881724188 1' 3-max Siège #1 est au bouton.
+Place 1: paula sacoto (1020 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+paula sacoto : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 8d]
+paula sacoto : suit. 30
+psychoman59 : parole 
+*** FLOP *** [7h 7s Ah]
+psychoman59 : parole 
+paula sacoto : parole 
+*** TOURNANT *** [7h 7s Ah] [6h]
+psychoman59 : parole 
+paula sacoto : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à paula sacoto.
+paula sacoto a remporté 120  lors du pot .
+paula sacoto : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [7h 7s Ah 6h]
+Siège 1 : paula sacoto (bouton) (petite blind) a remporté (120)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°255839375408 : Tournoi #3881724188, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 22/04/2025 7:40:48 CET [22/04/2025 1:40:48 ET]
+Table '3881724188 1' 3-max Siège #2 est au bouton.
+Place 1: paula sacoto (1080 en jetons) 
+Place 2: psychoman59 (420 en jetons) 
+psychoman59 : met la petite blind. 30
+paula sacoto : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Ts]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à paula sacoto.
+paula sacoto a remporté 60  lors du pot .
+paula sacoto : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : paula sacoto (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°255839375663 : Tournoi #3881724188, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 22/04/2025 7:40:52 CET [22/04/2025 1:40:52 ET]
+Table '3881724188 1' 3-max Siège #1 est au bouton.
+Place 1: paula sacoto (1110 en jetons) 
+Place 2: psychoman59 (390 en jetons) 
+paula sacoto : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd As]
+paula sacoto : suit. 30
+psychoman59 : relance. 330 à 390 et est all-in.
+paula sacoto : passe. 
+Personne n'a suivi. (330) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : paula sacoto (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°255839376252 : Tournoi #3881724188, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 22/04/2025 7:41:01 CET [22/04/2025 1:41:01 ET]
+Table '3881724188 1' 3-max Siège #2 est au bouton.
+Place 1: paula sacoto (1050 en jetons) 
+Place 2: psychoman59 (450 en jetons) 
+psychoman59 : met la petite blind. 30
+paula sacoto : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 2d]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à paula sacoto.
+paula sacoto a remporté 60  lors du pot .
+paula sacoto : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : paula sacoto (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°255839376582 : Tournoi #3881724188, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 22/04/2025 7:41:05 CET [22/04/2025 1:41:05 ET]
+Table '3881724188 1' 3-max Siège #1 est au bouton.
+Place 1: paula sacoto (1080 en jetons) 
+Place 2: psychoman59 (420 en jetons) 
+paula sacoto : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 7d]
+paula sacoto : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : paula sacoto (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°255839376950 : Tournoi #3881724188, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 22/04/2025 7:41:11 CET [22/04/2025 1:41:11 ET]
+Table '3881724188 1' 3-max Siège #2 est au bouton.
+Place 1: paula sacoto (1050 en jetons) 
+Place 2: psychoman59 (450 en jetons) 
+psychoman59 : met la petite blind. 30
+paula sacoto : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 3h]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à paula sacoto.
+paula sacoto a remporté 60  lors du pot .
+paula sacoto : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : paula sacoto (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°255839377245 : Tournoi #3881724188, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 22/04/2025 7:41:15 CET [22/04/2025 1:41:15 ET]
+Table '3881724188 1' 3-max Siège #1 est au bouton.
+Place 1: paula sacoto (1080 en jetons) 
+Place 2: psychoman59 (420 en jetons) 
+paula sacoto : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 4h]
+paula sacoto : suit. 30
+psychoman59 : parole 
+*** FLOP *** [8h 2s 3s]
+psychoman59 : parole 
+paula sacoto : parole 
+*** TOURNANT *** [8h 2s 3s] [6c]
+psychoman59 : parole 
+paula sacoto : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à paula sacoto.
+paula sacoto a remporté 120  lors du pot .
+paula sacoto : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [8h 2s 3s 6c]
+Siège 1 : paula sacoto (bouton) (petite blind) a remporté (120)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°255839378457 : Tournoi #3881724188, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 22/04/2025 7:41:34 CET [22/04/2025 1:41:34 ET]
+Table '3881724188 1' 3-max Siège #2 est au bouton.
+Place 1: paula sacoto (1140 en jetons) 
+Place 2: psychoman59 (360 en jetons) 
+psychoman59 : met la petite blind. 30
+paula sacoto : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Ks]
+psychoman59 : relance. 300 à 360 et est all-in.
+paula sacoto : suit. 300
+*** FLOP *** [Ac 4h 3c]
+*** TOURNANT *** [Ac 4h 3c] [8s]
+*** RIVIÈRE *** [Ac 4h 3c 8s] [5c]
+*** ABATTAGE ***
+paula sacoto : montre [As 2h] (une suite, As à Cinq)
+psychoman59 : montre [2s Ks] (une suite, As à Cinq)
+paula sacoto a remporté 360  lors du pot .
+psychoman59 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 720 | Commission 0 
+Tableau [Ac 4h 3c 8s 5c]
+Siège 1 : paula sacoto (grosse blind) a montré [As 2h] et a gagné (360) avec une suite, As à Cinq
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [2s Ks] et a gagné (360) avec une suite, As à Cinq
+
+
+
+Main PokerStars n°255839379358 : Tournoi #3881724188, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 22/04/2025 7:41:47 CET [22/04/2025 1:41:47 ET]
+Table '3881724188 1' 3-max Siège #1 est au bouton.
+Place 1: paula sacoto (1140 en jetons) 
+Place 2: psychoman59 (360 en jetons) 
+paula sacoto : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 3d]
+paula sacoto : relance. 1080 à 1140 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (1080) sont retournés à paula sacoto.
+paula sacoto a remporté 120  lors du pot .
+paula sacoto : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : paula sacoto (bouton) (petite blind) a remporté (120)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°255839380014 : Tournoi #3881724188, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 22/04/2025 7:41:56 CET [22/04/2025 1:41:56 ET]
+Table '3881724188 1' 3-max Siège #2 est au bouton.
+Place 1: paula sacoto (1200 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+psychoman59 : met la petite blind. 30
+paula sacoto : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 5c]
+psychoman59 : relance. 240 à 300 et est all-in.
+paula sacoto : passe. 
+Personne n'a suivi. (240) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : paula sacoto (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°255839380596 : Tournoi #3881724188, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau V (40/80) - 22/04/2025 7:42:05 CET [22/04/2025 1:42:05 ET]
+Table '3881724188 1' 3-max Siège #1 est au bouton.
+Place 1: paula sacoto (1140 en jetons) 
+Place 2: psychoman59 (360 en jetons) 
+paula sacoto : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Kc]
+paula sacoto : suit. 40
+psychoman59 : parole 
+*** FLOP *** [3d Js Kd]
+psychoman59 : parole 
+paula sacoto : mise. 80
+psychoman59 : relance. 200 à 280 et est all-in.
+paula sacoto : suit. 200
+*** TOURNANT *** [3d Js Kd] [Kh]
+*** RIVIÈRE *** [3d Js Kd Kh] [2s]
+*** ABATTAGE ***
+psychoman59 : montre [9s Kc] (un brelan de Rois)
+paula sacoto : montre [Ah Ad] (double paire, As et Rois)
+psychoman59 a remporté 720  lors du pot .
+*** SYNTHÈSE ***
+Pot total 720 | Commission 0 
+Tableau [3d Js Kd Kh 2s]
+Siège 1 : paula sacoto (bouton) (petite blind) a montré [Ah Ad] et a perdu avec double paire, As et Rois
+Siège 2 : psychoman59 (grosse blind) a montré [9s Kc] et a gagné (720) avec un brelan de Rois
+
+
+
+Main PokerStars n°255839381901 : Tournoi #3881724188, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau V (40/80) - 22/04/2025 7:42:25 CET [22/04/2025 1:42:25 ET]
+Table '3881724188 1' 3-max Siège #2 est au bouton.
+Place 1: paula sacoto (780 en jetons) 
+Place 2: psychoman59 (720 en jetons) 
+psychoman59 : met la petite blind. 40
+paula sacoto : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Jc]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à paula sacoto.
+paula sacoto a remporté 80  lors du pot .
+paula sacoto : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : paula sacoto (grosse blind) a remporté (80)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°255839382340 : Tournoi #3881724188, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau V (40/80) - 22/04/2025 7:42:31 CET [22/04/2025 1:42:31 ET]
+Table '3881724188 1' 3-max Siège #1 est au bouton.
+Place 1: paula sacoto (820 en jetons) 
+Place 2: psychoman59 (680 en jetons) 
+paula sacoto : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Tc]
+paula sacoto : relance. 740 à 820 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (740) sont retournés à paula sacoto.
+paula sacoto a remporté 160  lors du pot .
+paula sacoto : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : paula sacoto (bouton) (petite blind) a remporté (160)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°255839382785 : Tournoi #3881724188, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau V (40/80) - 22/04/2025 7:42:38 CET [22/04/2025 1:42:38 ET]
+Table '3881724188 1' 3-max Siège #2 est au bouton.
+Place 1: paula sacoto (900 en jetons) 
+Place 2: psychoman59 (600 en jetons) 
+psychoman59 : met la petite blind. 40
+paula sacoto : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d As]
+psychoman59 : relance. 520 à 600 et est all-in.
+paula sacoto : suit. 520
+*** FLOP *** [7h 8s 4s]
+*** TOURNANT *** [7h 8s 4s] [5h]
+*** RIVIÈRE *** [7h 8s 4s 5h] [2h]
+*** ABATTAGE ***
+paula sacoto : montre [Ac Qc] (Hauteur As)
+psychoman59 : montre [4d As] (une paire de Quatre)
+psychoman59 a remporté 1200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1200 | Commission 0 
+Tableau [7h 8s 4s 5h 2h]
+Siège 1 : paula sacoto (grosse blind) a montré [Ac Qc] et a perdu avec Hauteur As
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [4d As] et a gagné (1200) avec une paire de Quatre
+
+
+
+Main PokerStars n°255839383587 : Tournoi #3881724188, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau V (40/80) - 22/04/2025 7:42:50 CET [22/04/2025 1:42:50 ET]
+Table '3881724188 1' 3-max Siège #1 est au bouton.
+Place 1: paula sacoto (300 en jetons) 
+Place 2: psychoman59 (1200 en jetons) 
+paula sacoto : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 5h]
+paula sacoto : relance. 220 à 300 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (220) sont retournés à paula sacoto.
+paula sacoto a remporté 160  lors du pot .
+paula sacoto : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : paula sacoto (bouton) (petite blind) a remporté (160)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°255839384152 : Tournoi #3881724188, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau V (40/80) - 22/04/2025 7:42:58 CET [22/04/2025 1:42:58 ET]
+Table '3881724188 1' 3-max Siège #2 est au bouton.
+Place 1: paula sacoto (380 en jetons) 
+Place 2: psychoman59 (1120 en jetons) 
+psychoman59 : met la petite blind. 40
+paula sacoto : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 3s]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à paula sacoto.
+paula sacoto a remporté 80  lors du pot .
+paula sacoto : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : paula sacoto (grosse blind) a remporté (80)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°255839384454 : Tournoi #3881724188, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau V (40/80) - 22/04/2025 7:43:03 CET [22/04/2025 1:43:03 ET]
+Table '3881724188 1' 3-max Siège #1 est au bouton.
+Place 1: paula sacoto (420 en jetons) 
+Place 2: psychoman59 (1080 en jetons) 
+paula sacoto : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 5c]
+paula sacoto : relance. 340 à 420 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (340) sont retournés à paula sacoto.
+paula sacoto a remporté 160  lors du pot .
+paula sacoto : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : paula sacoto (bouton) (petite blind) a remporté (160)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°255839385236 : Tournoi #3881724188, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau V (40/80) - 22/04/2025 7:43:15 CET [22/04/2025 1:43:15 ET]
+Table '3881724188 1' 3-max Siège #2 est au bouton.
+Place 1: paula sacoto (500 en jetons) 
+Place 2: psychoman59 (1000 en jetons) 
+psychoman59 : met la petite blind. 40
+paula sacoto : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 4c]
+psychoman59 : relance. 920 à 1000 et est all-in.
+paula sacoto : passe. 
+Personne n'a suivi. (920) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : paula sacoto (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°255839385635 : Tournoi #3881724188, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau V (40/80) - 22/04/2025 7:43:21 CET [22/04/2025 1:43:21 ET]
+Table '3881724188 1' 3-max Siège #1 est au bouton.
+Place 1: paula sacoto (420 en jetons) 
+Place 2: psychoman59 (1080 en jetons) 
+paula sacoto : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 3c]
+paula sacoto : relance. 340 à 420 et est all-in.
+psychoman59 : suit. 340
+*** FLOP *** [8s 6c Jh]
+*** TOURNANT *** [8s 6c Jh] [9c]
+*** RIVIÈRE *** [8s 6c Jh 9c] [7d]
+*** ABATTAGE ***
+psychoman59 : montre [Ad 3c] (Hauteur As)
+paula sacoto : montre [Qh Ac] (Hauteur As - Dame kicker)
+paula sacoto a remporté 840  lors du pot .
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Tableau [8s 6c Jh 9c 7d]
+Siège 1 : paula sacoto (bouton) (petite blind) a montré [Qh Ac] et a gagné (840) avec Hauteur As
+Siège 2 : psychoman59 (grosse blind) a montré [Ad 3c] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°255839386542 : Tournoi #3881724188, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau V (40/80) - 22/04/2025 7:43:34 CET [22/04/2025 1:43:34 ET]
+Table '3881724188 1' 3-max Siège #2 est au bouton.
+Place 1: paula sacoto (840 en jetons) 
+Place 2: psychoman59 (660 en jetons) 
+psychoman59 : met la petite blind. 40
+paula sacoto : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 9d]
+psychoman59 : relance. 580 à 660 et est all-in.
+paula sacoto : suit. 580
+*** FLOP *** [Kd Ts 8h]
+*** TOURNANT *** [Kd Ts 8h] [5c]
+*** RIVIÈRE *** [Kd Ts 8h 5c] [3d]
+*** ABATTAGE ***
+paula sacoto : montre [9s As] (Hauteur As)
+psychoman59 : montre [9c 9d] (une paire de Neuf)
+psychoman59 a remporté 1320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1320 | Commission 0 
+Tableau [Kd Ts 8h 5c 3d]
+Siège 1 : paula sacoto (grosse blind) a montré [9s As] et a perdu avec Hauteur As
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [9c 9d] et a gagné (1320) avec une paire de Neuf
+
+
+
+Main PokerStars n°255839387487 : Tournoi #3881724188, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau V (40/80) - 22/04/2025 7:43:48 CET [22/04/2025 1:43:48 ET]
+Table '3881724188 1' 3-max Siège #1 est au bouton.
+Place 1: paula sacoto (180 en jetons) 
+Place 2: psychoman59 (1320 en jetons) 
+paula sacoto : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 5c]
+paula sacoto : relance. 100 à 180 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à paula sacoto.
+paula sacoto a remporté 160  lors du pot .
+paula sacoto : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : paula sacoto (bouton) (petite blind) a remporté (160)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°255839388042 : Tournoi #3881724188, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau V (40/80) - 22/04/2025 7:43:56 CET [22/04/2025 1:43:56 ET]
+Table '3881724188 1' 3-max Siège #2 est au bouton.
+Place 1: paula sacoto (260 en jetons) 
+Place 2: psychoman59 (1240 en jetons) 
+psychoman59 : met la petite blind. 40
+paula sacoto : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Js]
+psychoman59 : relance. 1160 à 1240 et est all-in.
+paula sacoto : passe. 
+Personne n'a suivi. (1160) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : paula sacoto (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°255839388649 : Tournoi #3881724188, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau VI (50/100) - 22/04/2025 7:44:05 CET [22/04/2025 1:44:05 ET]
+Table '3881724188 1' 3-max Siège #1 est au bouton.
+Place 1: paula sacoto (180 en jetons) 
+Place 2: psychoman59 (1320 en jetons) 
+paula sacoto : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 4d]
+paula sacoto : relance. 80 à 180 et est all-in.
+psychoman59 : suit. 80
+*** FLOP *** [3s As 5h]
+*** TOURNANT *** [3s As 5h] [5d]
+*** RIVIÈRE *** [3s As 5h 5d] [4c]
+*** ABATTAGE ***
+psychoman59 : montre [Js 4d] (double paire, Cinq et Quatre)
+paula sacoto : montre [Qc 2h] (une suite, As à Cinq)
+paula sacoto a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [3s As 5h 5d 4c]
+Siège 1 : paula sacoto (bouton) (petite blind) a montré [Qc 2h] et a gagné (360) avec une suite, As à Cinq
+Siège 2 : psychoman59 (grosse blind) a montré [Js 4d] et a perdu avec double paire, Cinq et Quatre
+
+
+
+Main PokerStars n°255839389490 : Tournoi #3881724188, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau VI (50/100) - 22/04/2025 7:44:18 CET [22/04/2025 1:44:18 ET]
+Table '3881724188 1' 3-max Siège #2 est au bouton.
+Place 1: paula sacoto (360 en jetons) 
+Place 2: psychoman59 (1140 en jetons) 
+psychoman59 : met la petite blind. 50
+paula sacoto : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 2c]
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à paula sacoto.
+paula sacoto a remporté 100  lors du pot .
+paula sacoto : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : paula sacoto (grosse blind) a remporté (100)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°255839389908 : Tournoi #3881724188, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau VI (50/100) - 22/04/2025 7:44:24 CET [22/04/2025 1:44:24 ET]
+Table '3881724188 1' 3-max Siège #1 est au bouton.
+Place 1: paula sacoto (410 en jetons) 
+Place 2: psychoman59 (1090 en jetons) 
+paula sacoto : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 9c]
+paula sacoto : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : paula sacoto (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (100)
+
+
+
+Main PokerStars n°255839390280 : Tournoi #3881724188, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau VI (50/100) - 22/04/2025 7:44:30 CET [22/04/2025 1:44:30 ET]
+Table '3881724188 1' 3-max Siège #2 est au bouton.
+Place 1: paula sacoto (360 en jetons) 
+Place 2: psychoman59 (1140 en jetons) 
+psychoman59 : met la petite blind. 50
+paula sacoto : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Ad]
+psychoman59 : relance. 200 à 300
+paula sacoto : passe. 
+Personne n'a suivi. (200) sont retournés à psychoman59.
+psychoman59 a remporté 200  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Siège 1 : paula sacoto (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (200)
+
+
+
+Main PokerStars n°255839390797 : Tournoi #3881724188, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau VI (50/100) - 22/04/2025 7:44:37 CET [22/04/2025 1:44:37 ET]
+Table '3881724188 1' 3-max Siège #1 est au bouton.
+Place 1: paula sacoto (260 en jetons) 
+Place 2: psychoman59 (1240 en jetons) 
+paula sacoto : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Js]
+paula sacoto : relance. 160 à 260 et est all-in.
+psychoman59 : suit. 160
+*** FLOP *** [4s 2d 2h]
+*** TOURNANT *** [4s 2d 2h] [8s]
+*** RIVIÈRE *** [4s 2d 2h 8s] [3s]
+*** ABATTAGE ***
+psychoman59 : montre [9s Js] (une couleur, hauteur Valet)
+paula sacoto : montre [Qc 5h] (une paire de Deux)
+psychoman59 a remporté 520  lors du pot .
+paula sacoto a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 0.50 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 520 | Commission 0 
+Tableau [4s 2d 2h 8s 3s]
+Siège 1 : paula sacoto (bouton) (petite blind) a montré [Qc 5h] et a perdu avec une paire de Deux
+Siège 2 : psychoman59 (grosse blind) a montré [9s Js] et a gagné (520) avec une couleur, hauteur Valet
+
+
+

@@ -1,0 +1,646 @@
+﻿Main PokerStars n°257855526377 : Tournoi #3930713002, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 23/09/2025 14:29:58 CET [23/09/2025 8:29:58 ET]
+Table '3930713002 1' 3-max Siège #1 est au bouton.
+Place 1: zivajp (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: kuko1969 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+kuko1969 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 9h]
+zivajp : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à kuko1969.
+kuko1969 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : zivajp (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : kuko1969 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°257855527277 : Tournoi #3930713002, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 23/09/2025 14:30:05 CET [23/09/2025 8:30:05 ET]
+Table '3930713002 1' 3-max Siège #2 est au bouton.
+Place 1: zivajp (500 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: kuko1969 (510 en jetons) 
+kuko1969 : met la petite blind. 10
+zivajp : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 4s]
+psychoman59 : passe. 
+kuko1969 : suit. 10
+zivajp : parole 
+*** FLOP *** [5d 3h 8h]
+kuko1969 : mise. 80
+zivajp : suit. 80
+*** TOURNANT *** [5d 3h 8h] [8c]
+kuko1969 : mise. 160
+zivajp : passe. 
+Personne n'a suivi. (160) sont retournés à kuko1969.
+kuko1969 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [5d 3h 8h 8c]
+Siège 1 : zivajp (grosse blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : kuko1969 (petite blind) a remporté (200)
+
+
+
+Main PokerStars n°257855530114 : Tournoi #3930713002, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 23/09/2025 14:30:27 CET [23/09/2025 8:30:27 ET]
+Table '3930713002 1' 3-max Siège #3 est au bouton.
+Place 1: zivajp (400 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: kuko1969 (610 en jetons) 
+zivajp : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Kd]
+kuko1969 : suit. 20
+zivajp : suit. 10
+psychoman59 : parole 
+*** FLOP *** [6d As Js]
+kuko1969 est déconnecté 
+zivajp : parole 
+psychoman59 : parole 
+kuko1969 : parole 
+*** TOURNANT *** [6d As Js] [Ts]
+zivajp : parole 
+psychoman59 : parole 
+kuko1969 est déconnecté 
+kuko1969 est connecté 
+kuko1969 : parole 
+*** RIVIÈRE *** [6d As Js Ts] [6c]
+zivajp : mise. 20
+psychoman59 : passe. 
+kuko1969 : passe. 
+Personne n'a suivi. (20) sont retournés à zivajp.
+zivajp a remporté 60  lors du pot .
+zivajp : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [6d As Js Ts 6c]
+Siège 1 : zivajp (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : kuko1969 (bouton) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°257855533879 : Tournoi #3930713002, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 23/09/2025 14:30:58 CET [23/09/2025 8:30:58 ET]
+Table '3930713002 1' 3-max Siège #1 est au bouton.
+Place 1: zivajp (440 en jetons) 
+Place 2: psychoman59 (470 en jetons) 
+Place 3: kuko1969 (590 en jetons) 
+psychoman59 : met la petite blind. 10
+kuko1969 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 9c]
+zivajp : passe. 
+psychoman59 : relance. 450 à 470 et est all-in.
+kuko1969 : suit. 450
+*** FLOP *** [Qd Qh 6h]
+*** TOURNANT *** [Qd Qh 6h] [5c]
+*** RIVIÈRE *** [Qd Qh 6h 5c] [4s]
+*** ABATTAGE ***
+psychoman59 : montre [9h 9c] (double paire, Dames et Neuf)
+kuko1969 : montre [3d 3s] (double paire, Dames et Trois)
+psychoman59 a remporté 940  lors du pot .
+*** SYNTHÈSE ***
+Pot total 940 | Commission 0 
+Tableau [Qd Qh 6h 5c 4s]
+Siège 1 : zivajp (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [9h 9c] et a gagné (940) avec double paire, Dames et Neuf
+Siège 3 : kuko1969 (grosse blind) a montré [3d 3s] et a perdu avec double paire, Dames et Trois
+
+
+
+Main PokerStars n°257855535894 : Tournoi #3930713002, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 23/09/2025 14:31:14 CET [23/09/2025 8:31:14 ET]
+Table '3930713002 1' 3-max Siège #2 est au bouton.
+Place 1: zivajp (440 en jetons) 
+Place 2: psychoman59 (940 en jetons) 
+Place 3: kuko1969 (120 en jetons) 
+kuko1969 : met la petite blind. 10
+zivajp : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Jd]
+psychoman59 : passe. 
+kuko1969 : relance. 100 à 120 et est all-in.
+zivajp : passe. 
+Personne n'a suivi. (100) sont retournés à kuko1969.
+kuko1969 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : zivajp (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : kuko1969 (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°257855537409 : Tournoi #3930713002, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 23/09/2025 14:31:26 CET [23/09/2025 8:31:26 ET]
+Table '3930713002 1' 3-max Siège #3 est au bouton.
+Place 1: zivajp (420 en jetons) 
+Place 2: psychoman59 (940 en jetons) 
+Place 3: kuko1969 (140 en jetons) 
+zivajp : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Ah]
+kuko1969 : suit. 20
+zivajp : passe. 
+psychoman59 : relance. 920 à 940 et est all-in.
+kuko1969 : suit. 120 et est all-in.
+Personne n'a suivi. (800) sont retournés à psychoman59.
+*** FLOP *** [3d 6c 8s]
+*** TOURNANT *** [3d 6c 8s] [5s]
+*** RIVIÈRE *** [3d 6c 8s 5s] [4h]
+*** ABATTAGE ***
+psychoman59 : montre [Ks Ah] (Hauteur As)
+kuko1969 : montre [Qh Jd] (Hauteur Dame)
+psychoman59 a remporté 290  lors du pot .
+kuko1969 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Tableau [3d 6c 8s 5s 4h]
+Siège 1 : zivajp (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a montré [Ks Ah] et a gagné (290) avec Hauteur As
+Siège 3 : kuko1969 (bouton) a montré [Qh Jd] et a perdu avec Hauteur Dame
+
+
+
+Main PokerStars n°257855539944 : Tournoi #3930713002, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 23/09/2025 14:31:47 CET [23/09/2025 8:31:47 ET]
+Table '3930713002 1' 3-max Siège #2 est au bouton.
+Place 1: zivajp (410 en jetons) 
+Place 2: psychoman59 (1090 en jetons) 
+psychoman59 : met la petite blind. 10
+zivajp : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 2h]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à zivajp.
+zivajp a remporté 20  lors du pot .
+zivajp : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : zivajp (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257855540402 : Tournoi #3930713002, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 23/09/2025 14:31:50 CET [23/09/2025 8:31:50 ET]
+Table '3930713002 1' 3-max Siège #1 est au bouton.
+Place 1: zivajp (420 en jetons) 
+Place 2: psychoman59 (1080 en jetons) 
+zivajp : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Th]
+zivajp : suit. 10
+psychoman59 : parole 
+*** FLOP *** [As Qc 5s]
+psychoman59 : parole 
+zivajp : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [As Qc 5s] [2h]
+psychoman59 : parole 
+zivajp : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [As Qc 5s 2h] [8s]
+psychoman59 : parole 
+zivajp : mise. 20
+psychoman59 : suit. 20
+*** ABATTAGE ***
+zivajp : montre [Ts Ad] (une paire de As)
+psychoman59 : cache la main perdante. 
+zivajp a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [As Qc 5s 2h 8s]
+Siège 1 : zivajp (bouton) (petite blind) a montré [Ts Ad] et a gagné (160) avec une paire de As
+Siège 2 : psychoman59 (grosse blind) a caché la main perdante. [Qh Th]
+
+
+
+Main PokerStars n°257855543237 : Tournoi #3930713002, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 23/09/2025 14:32:13 CET [23/09/2025 8:32:13 ET]
+Table '3930713002 1' 3-max Siège #2 est au bouton.
+Place 1: zivajp (500 en jetons) 
+Place 2: psychoman59 (1000 en jetons) 
+psychoman59 : met la petite blind. 10
+zivajp : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts As]
+psychoman59 : relance. 980 à 1000 et est all-in.
+zivajp : passe. 
+Personne n'a suivi. (980) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : zivajp (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°257855544434 : Tournoi #3930713002, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 23/09/2025 14:32:23 CET [23/09/2025 8:32:23 ET]
+Table '3930713002 1' 3-max Siège #1 est au bouton.
+Place 1: zivajp (480 en jetons) 
+Place 2: psychoman59 (1020 en jetons) 
+zivajp : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 5c]
+zivajp : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : zivajp (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°257855545116 : Tournoi #3930713002, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 23/09/2025 14:32:28 CET [23/09/2025 8:32:28 ET]
+Table '3930713002 1' 3-max Siège #2 est au bouton.
+Place 1: zivajp (470 en jetons) 
+Place 2: psychoman59 (1030 en jetons) 
+psychoman59 : met la petite blind. 10
+zivajp : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 9d]
+psychoman59 : suit. 10
+zivajp : parole 
+*** FLOP *** [4s 6h 3c]
+zivajp : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à zivajp.
+zivajp a remporté 40  lors du pot .
+zivajp : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [4s 6h 3c]
+Siège 1 : zivajp (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°257855546448 : Tournoi #3930713002, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 23/09/2025 14:32:39 CET [23/09/2025 8:32:39 ET]
+Table '3930713002 1' 3-max Siège #1 est au bouton.
+Place 1: zivajp (490 en jetons) 
+Place 2: psychoman59 (1010 en jetons) 
+zivajp : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 7s]
+zivajp : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Qd Jh 8c]
+psychoman59 : parole 
+zivajp : parole 
+*** TOURNANT *** [Qd Jh 8c] [4s]
+psychoman59 : mise. 40
+zivajp : suit. 40
+*** RIVIÈRE *** [Qd Jh 8c 4s] [5h]
+psychoman59 : mise. 60
+zivajp : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Qd Jh 8c 4s 5h]
+Siège 1 : zivajp (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°257855550913 : Tournoi #3930713002, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 23/09/2025 14:33:15 CET [23/09/2025 8:33:15 ET]
+Table '3930713002 1' 3-max Siège #2 est au bouton.
+Place 1: zivajp (430 en jetons) 
+Place 2: psychoman59 (1070 en jetons) 
+psychoman59 : met la petite blind. 15
+zivajp : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Ks]
+psychoman59 : suit. 15
+zivajp : parole 
+*** FLOP *** [3c As Ts]
+zivajp : mise. 30
+psychoman59 : suit. 30
+*** TOURNANT *** [3c As Ts] [7d]
+zivajp : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à zivajp.
+zivajp a remporté 120  lors du pot .
+zivajp : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [3c As Ts 7d]
+Siège 1 : zivajp (grosse blind) a remporté (120)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°257855553706 : Tournoi #3930713002, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 23/09/2025 14:33:37 CET [23/09/2025 8:33:37 ET]
+Table '3930713002 1' 3-max Siège #1 est au bouton.
+Place 1: zivajp (490 en jetons) 
+Place 2: psychoman59 (1010 en jetons) 
+zivajp : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 4d]
+zivajp : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Td 5d 2c]
+psychoman59 : parole 
+zivajp : parole 
+*** TOURNANT *** [Td 5d 2c] [As]
+psychoman59 : parole 
+zivajp : mise. 30
+psychoman59 : suit. 30
+*** RIVIÈRE *** [Td 5d 2c As] [Qh]
+psychoman59 : parole 
+zivajp : parole 
+*** ABATTAGE ***
+psychoman59 : montre [8d 4d] (Hauteur As)
+zivajp : montre [Ac 7c] (une paire de As)
+zivajp a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Td 5d 2c As Qh]
+Siège 1 : zivajp (bouton) (petite blind) a montré [Ac 7c] et a gagné (120) avec une paire de As
+Siège 2 : psychoman59 (grosse blind) a montré [8d 4d] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°257855556426 : Tournoi #3930713002, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 23/09/2025 14:33:59 CET [23/09/2025 8:33:59 ET]
+Table '3930713002 1' 3-max Siège #2 est au bouton.
+Place 1: zivajp (550 en jetons) 
+Place 2: psychoman59 (950 en jetons) 
+psychoman59 : met la petite blind. 15
+zivajp : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 9h]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à zivajp.
+zivajp a remporté 30  lors du pot .
+zivajp : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : zivajp (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257855557154 : Tournoi #3930713002, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 23/09/2025 14:34:05 CET [23/09/2025 8:34:05 ET]
+Table '3930713002 1' 3-max Siège #1 est au bouton.
+Place 1: zivajp (565 en jetons) 
+Place 2: psychoman59 (935 en jetons) 
+zivajp : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Ac]
+zivajp : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : zivajp (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°257855558535 : Tournoi #3930713002, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 23/09/2025 14:34:16 CET [23/09/2025 8:34:16 ET]
+Table '3930713002 1' 3-max Siège #2 est au bouton.
+Place 1: zivajp (550 en jetons) 
+Place 2: psychoman59 (950 en jetons) 
+psychoman59 : met la petite blind. 15
+zivajp : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 9d]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à zivajp.
+zivajp a remporté 30  lors du pot .
+zivajp : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : zivajp (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257855559106 : Tournoi #3930713002, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 23/09/2025 14:34:21 CET [23/09/2025 8:34:21 ET]
+Table '3930713002 1' 3-max Siège #1 est au bouton.
+Place 1: zivajp (565 en jetons) 
+Place 2: psychoman59 (935 en jetons) 
+zivajp : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 7c]
+zivajp : suit. 15
+psychoman59 : parole 
+*** FLOP *** [4d 3c Ah]
+psychoman59 : parole 
+zivajp : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à zivajp.
+zivajp a remporté 60  lors du pot .
+zivajp : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [4d 3c Ah]
+Siège 1 : zivajp (bouton) (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°257855561262 : Tournoi #3930713002, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 23/09/2025 14:34:38 CET [23/09/2025 8:34:38 ET]
+Table '3930713002 1' 3-max Siège #2 est au bouton.
+Place 1: zivajp (595 en jetons) 
+Place 2: psychoman59 (905 en jetons) 
+psychoman59 : met la petite blind. 15
+zivajp : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 5h]
+psychoman59 : suit. 15
+zivajp : parole 
+*** FLOP *** [9c 6s Td]
+zivajp : parole 
+psychoman59 : parole 
+*** TOURNANT *** [9c 6s Td] [3s]
+zivajp : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [9c 6s Td 3s] [Ah]
+zivajp : parole 
+psychoman59 : mise. 120
+zivajp : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [9c 6s Td 3s Ah]
+Siège 1 : zivajp (grosse blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°257855565431 : Tournoi #3930713002, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 23/09/2025 14:35:11 CET [23/09/2025 8:35:11 ET]
+Table '3930713002 1' 3-max Siège #1 est au bouton.
+Place 1: zivajp (565 en jetons) 
+Place 2: psychoman59 (935 en jetons) 
+zivajp : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 8s]
+zivajp : suit. 15
+psychoman59 : parole 
+*** FLOP *** [8h 9s As]
+psychoman59 : parole 
+zivajp : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à zivajp.
+zivajp a remporté 60  lors du pot .
+zivajp : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [8h 9s As]
+Siège 1 : zivajp (bouton) (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°257855567404 : Tournoi #3930713002, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 23/09/2025 14:35:26 CET [23/09/2025 8:35:26 ET]
+Table '3930713002 1' 3-max Siège #2 est au bouton.
+Place 1: zivajp (595 en jetons) 
+Place 2: psychoman59 (905 en jetons) 
+psychoman59 : met la petite blind. 15
+zivajp : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 3h]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à zivajp.
+zivajp a remporté 30  lors du pot .
+zivajp : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : zivajp (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257855567957 : Tournoi #3930713002, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 23/09/2025 14:35:31 CET [23/09/2025 8:35:31 ET]
+Table '3930713002 1' 3-max Siège #1 est au bouton.
+Place 1: zivajp (610 en jetons) 
+Place 2: psychoman59 (890 en jetons) 
+zivajp : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Kh]
+zivajp : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Js 9d Kc]
+psychoman59 : parole 
+zivajp : mise. 30
+psychoman59 : relance. 830 à 860 et est all-in.
+zivajp : passe. 
+Personne n'a suivi. (830) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Js 9d Kc]
+Siège 1 : zivajp (bouton) (petite blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°257855570310 : Tournoi #3930713002, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 23/09/2025 14:35:49 CET [23/09/2025 8:35:49 ET]
+Table '3930713002 1' 3-max Siège #2 est au bouton.
+Place 1: zivajp (550 en jetons) 
+Place 2: psychoman59 (950 en jetons) 
+psychoman59 : met la petite blind. 15
+zivajp : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 3d]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à zivajp.
+zivajp a remporté 30  lors du pot .
+zivajp : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : zivajp (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257855570899 : Tournoi #3930713002, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 23/09/2025 14:35:54 CET [23/09/2025 8:35:54 ET]
+Table '3930713002 1' 3-max Siège #1 est au bouton.
+Place 1: zivajp (565 en jetons) 
+Place 2: psychoman59 (935 en jetons) 
+zivajp : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 9c]
+zivajp : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : zivajp (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°257855572059 : Tournoi #3930713002, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 23/09/2025 14:36:03 CET [23/09/2025 8:36:03 ET]
+Table '3930713002 1' 3-max Siège #2 est au bouton.
+Place 1: zivajp (550 en jetons) 
+Place 2: psychoman59 (950 en jetons) 
+psychoman59 : met la petite blind. 20
+zivajp : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 4s]
+psychoman59 : relance. 910 à 950 et est all-in.
+zivajp : passe. 
+Personne n'a suivi. (910) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : zivajp (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°257855572941 : Tournoi #3930713002, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 23/09/2025 14:36:10 CET [23/09/2025 8:36:10 ET]
+Table '3930713002 1' 3-max Siège #1 est au bouton.
+Place 1: zivajp (510 en jetons) 
+Place 2: psychoman59 (990 en jetons) 
+zivajp : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 6s]
+zivajp : suit. 20
+psychoman59 : parole 
+*** FLOP *** [2h 7c 6d]
+psychoman59 : mise. 950 et est all-in.
+zivajp : suit. 470 et est all-in.
+Personne n'a suivi. (480) sont retournés à psychoman59.
+*** TOURNANT *** [2h 7c 6d] [3d]
+*** RIVIÈRE *** [2h 7c 6d 3d] [5s]
+*** ABATTAGE ***
+psychoman59 : montre [4d 6s] (une suite, Trois à Sept)
+zivajp : montre [Ac Js] (Hauteur As)
+psychoman59 a remporté 1020  lors du pot .
+zivajp a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 0.75 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 1020 | Commission 0 
+Tableau [2h 7c 6d 3d 5s]
+Siège 1 : zivajp (bouton) (petite blind) a montré [Ac Js] et a perdu avec Hauteur As
+Siège 2 : psychoman59 (grosse blind) a montré [4d 6s] et a gagné (1020) avec une suite, Trois à Sept
+
+
+

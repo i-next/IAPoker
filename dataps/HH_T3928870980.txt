@@ -1,0 +1,85 @@
+﻿Main PokerStars n°257775907550 : Tournoi #3928870980, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 17/09/2025 7:06:41 CET [17/09/2025 1:06:41 ET]
+Table '3928870980 1' 3-max Siège #1 est au bouton.
+Place 1: yorch25 (500 en jetons) 
+Place 2: KyE07 (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+KyE07 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 2h]
+yorch25 : passe. 
+KyE07 : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : yorch25 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : KyE07 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°257775908042 : Tournoi #3928870980, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 17/09/2025 7:06:48 CET [17/09/2025 1:06:48 ET]
+Table '3928870980 1' 3-max Siège #2 est au bouton.
+Place 1: yorch25 (500 en jetons) 
+Place 2: KyE07 (490 en jetons) 
+Place 3: psychoman59 (510 en jetons) 
+psychoman59 : met la petite blind. 10
+yorch25 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 8c]
+KyE07 : passe. 
+psychoman59 : relance. 490 à 510 et est all-in.
+yorch25 : suit. 480 et est all-in.
+Personne n'a suivi. (10) sont retournés à psychoman59.
+*** FLOP *** [Kd Th Jc]
+*** TOURNANT *** [Kd Th Jc] [6c]
+*** RIVIÈRE *** [Kd Th Jc 6c] [3c]
+*** ABATTAGE ***
+psychoman59 : montre [8d 8c] (une paire de Huit)
+yorch25 : montre [9h 9s] (une paire de Neuf)
+yorch25 a remporté 1000  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1000 | Commission 0 
+Tableau [Kd Th Jc 6c 3c]
+Siège 1 : yorch25 (grosse blind) a montré [9h 9s] et a gagné (1000) avec une paire de Neuf
+Siège 2 : KyE07 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [8d 8c] et a perdu avec une paire de Huit
+
+
+
+Main PokerStars n°257775908955 : Tournoi #3928870980, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 17/09/2025 7:07:02 CET [17/09/2025 1:07:02 ET]
+Table '3928870980 1' 3-max Siège #3 est au bouton.
+Place 1: yorch25 (1000 en jetons) 
+Place 2: KyE07 (490 en jetons) 
+Place 3: psychoman59 (10 en jetons) 
+yorch25 : met la petite blind. 10
+KyE07 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Js]
+psychoman59 : suit. 10 et est all-in.
+yorch25 : suit. 10
+KyE07 : parole 
+*** FLOP *** [9d 6s 8s]
+yorch25 : parole 
+KyE07 : mise. 20
+yorch25 : passe. 
+Personne n'a suivi. (20) sont retournés à KyE07.
+*** TOURNANT *** [9d 6s 8s] [Ad]
+*** RIVIÈRE *** [9d 6s 8s Ad] [5d]
+*** ABATTAGE ***
+KyE07 : montre [9h Qs] (une paire de Neuf)
+KyE07 a remporté 20  parallèle lors du pot .
+psychoman59 : montre [Th Js] (Hauteur As)
+KyE07 a remporté 30  principal lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 50 Principal pot 30. Parallèle pot 20. | Commission 0 
+Tableau [9d 6s 8s Ad 5d]
+Siège 1 : yorch25 (petite blind) s'est couché. sur le Flop
+Siège 2 : KyE07 (grosse blind) a montré [9h Qs] et a gagné (50) avec une paire de Neuf
+Siège 3 : psychoman59 (bouton) a montré [Th Js] et a perdu avec Hauteur As
+
+
+

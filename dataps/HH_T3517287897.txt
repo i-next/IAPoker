@@ -1,0 +1,578 @@
+﻿Main PokerStars n°240533569815 : Tournoi #3517287897, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/12/2022 10:53:00 CET [18/12/2022 4:53:00 ET]
+Table '3517287897 1' 3-max Siège #1 est au bouton.
+Place 1: c0c0te (300 en jetons) 
+Place 2: tayon85 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+tayon85 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 2d]
+c0c0te : passe. 
+tayon85 : suit. 10
+psychoman59 : relance. 280 à 300 et est all-in.
+tayon85 : passe. 
+Personne n'a suivi. (280) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : c0c0te (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : tayon85 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°240533572917 : Tournoi #3517287897, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/12/2022 10:53:20 CET [18/12/2022 4:53:20 ET]
+Table '3517287897 1' 3-max Siège #2 est au bouton.
+Place 1: c0c0te (300 en jetons) 
+Place 2: tayon85 (280 en jetons) 
+Place 3: psychoman59 (320 en jetons) 
+psychoman59 : met la petite blind. 10
+c0c0te : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 7h]
+tayon85 : suit. 20
+psychoman59 : passe. 
+c0c0te : parole 
+*** FLOP *** [Js 5c 8c]
+c0c0te : parole 
+tayon85 : parole 
+*** TOURNANT *** [Js 5c 8c] [5h]
+c0c0te : parole 
+tayon85 : parole 
+*** RIVIÈRE *** [Js 5c 8c 5h] [6h]
+c0c0te : parole 
+tayon85 : parole 
+*** ABATTAGE ***
+c0c0te : montre [Tc 7s] (une paire de Cinq)
+tayon85 : montre [Kd 2h] (une paire de Cinq - Roi kicker)
+tayon85 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [Js 5c 8c 5h 6h]
+Siège 1 : c0c0te (grosse blind) a montré [Tc 7s] et a perdu avec une paire de Cinq
+Siège 2 : tayon85 (bouton) a montré [Kd 2h] et a gagné (50) avec une paire de Cinq
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240533576652 : Tournoi #3517287897, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/12/2022 10:53:44 CET [18/12/2022 4:53:44 ET]
+Table '3517287897 1' 3-max Siège #3 est au bouton.
+Place 1: c0c0te (280 en jetons) 
+Place 2: tayon85 (310 en jetons) 
+Place 3: psychoman59 (310 en jetons) 
+c0c0te : met la petite blind. 10
+tayon85 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Jd]
+psychoman59 : suit. 20
+c0c0te : suit. 10
+tayon85 : parole 
+*** FLOP *** [3c Ts 3d]
+c0c0te : parole 
+tayon85 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3c Ts 3d] [7h]
+c0c0te : parole 
+tayon85 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [3c Ts 3d 7h] [5h]
+c0c0te : parole 
+tayon85 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+c0c0te : montre [2d Kh] (une paire de Trois)
+tayon85 : montre [Ah 2s] (une paire de Trois - As kicker)
+psychoman59 : cache la main perdante. 
+tayon85 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [3c Ts 3d 7h 5h]
+Siège 1 : c0c0te (petite blind) a montré [2d Kh] et a perdu avec une paire de Trois
+Siège 2 : tayon85 (grosse blind) a montré [Ah 2s] et a gagné (60) avec une paire de Trois
+Siège 3 : psychoman59 (bouton) a caché la main perdante. [Qs Jd]
+
+
+
+Main PokerStars n°240533581990 : Tournoi #3517287897, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/12/2022 10:54:18 CET [18/12/2022 4:54:18 ET]
+Table '3517287897 1' 3-max Siège #1 est au bouton.
+Place 1: c0c0te (260 en jetons) 
+Place 2: tayon85 (350 en jetons) 
+Place 3: psychoman59 (290 en jetons) 
+tayon85 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 8s]
+c0c0te : passe. 
+tayon85 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Qd 4s Qc]
+tayon85 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Qd 4s Qc] [5c]
+tayon85 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Qd 4s Qc 5c] [Jh]
+tayon85 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à tayon85.
+tayon85 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Qd 4s Qc 5c Jh]
+Siège 1 : c0c0te (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : tayon85 (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°240533586396 : Tournoi #3517287897, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/12/2022 10:54:47 CET [18/12/2022 4:54:47 ET]
+Table '3517287897 1' 3-max Siège #2 est au bouton.
+Place 1: c0c0te (260 en jetons) 
+Place 2: tayon85 (380 en jetons) 
+Place 3: psychoman59 (260 en jetons) 
+psychoman59 : met la petite blind. 15
+c0c0te : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 5h]
+tayon85 : suit. 30
+psychoman59 : passe. 
+c0c0te : parole 
+*** FLOP *** [9h 6s Ad]
+c0c0te : parole 
+tayon85 : parole 
+*** TOURNANT *** [9h 6s Ad] [Ks]
+c0c0te : parole 
+tayon85 : mise. 30
+c0c0te : passe. 
+Personne n'a suivi. (30) sont retournés à tayon85.
+tayon85 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Tableau [9h 6s Ad Ks]
+Siège 1 : c0c0te (grosse blind) s'est couché. sur le Tournant
+Siège 2 : tayon85 (bouton) a remporté (75)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240533589632 : Tournoi #3517287897, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 18/12/2022 10:55:07 CET [18/12/2022 4:55:07 ET]
+Table '3517287897 1' 3-max Siège #3 est au bouton.
+Place 1: c0c0te (230 en jetons) 
+Place 2: tayon85 (425 en jetons) 
+Place 3: psychoman59 (245 en jetons) 
+c0c0te : met la petite blind. 20
+tayon85 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 6d]
+psychoman59 : passe. 
+c0c0te : passe. 
+Personne n'a suivi. (20) sont retournés à tayon85.
+tayon85 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : c0c0te (petite blind) s'est couché. avant Flop
+Siège 2 : tayon85 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°240533590838 : Tournoi #3517287897, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 18/12/2022 10:55:17 CET [18/12/2022 4:55:17 ET]
+Table '3517287897 1' 3-max Siège #1 est au bouton.
+Place 1: c0c0te (210 en jetons) 
+Place 2: tayon85 (445 en jetons) 
+Place 3: psychoman59 (245 en jetons) 
+tayon85 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Qc]
+c0c0te : relance. 40 à 80
+tayon85 : suit. 60
+psychoman59 : suit. 40
+*** FLOP *** [2h 6h 4s]
+tayon85 : parole 
+psychoman59 : parole 
+c0c0te : parole 
+*** TOURNANT *** [2h 6h 4s] [7d]
+tayon85 : parole 
+psychoman59 : parole 
+c0c0te : mise. 40
+tayon85 : suit. 40
+psychoman59 : passe. 
+*** RIVIÈRE *** [2h 6h 4s 7d] [Jd]
+tayon85 : parole 
+c0c0te : mise. 90 et est all-in.
+tayon85 : passe. 
+Personne n'a suivi. (90) sont retournés à c0c0te.
+c0c0te a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [2h 6h 4s 7d Jd]
+Siège 1 : c0c0te (bouton) a remporté (320)
+Siège 2 : tayon85 (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°240533594473 : Tournoi #3517287897, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 18/12/2022 10:55:44 CET [18/12/2022 4:55:44 ET]
+Table '3517287897 1' 3-max Siège #2 est au bouton.
+Place 1: c0c0te (410 en jetons) 
+Place 2: tayon85 (325 en jetons) 
+Place 3: psychoman59 (165 en jetons) 
+psychoman59 : met la petite blind. 20
+c0c0te : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 9h]
+tayon85 : suit. 40
+psychoman59 : passe. 
+c0c0te : parole 
+*** FLOP *** [6d 7c 7s]
+c0c0te : parole 
+tayon85 : parole 
+*** TOURNANT *** [6d 7c 7s] [Ah]
+c0c0te : parole 
+tayon85 : parole 
+*** RIVIÈRE *** [6d 7c 7s Ah] [4c]
+c0c0te : parole 
+tayon85 : mise. 40
+c0c0te : passe. 
+Personne n'a suivi. (40) sont retournés à tayon85.
+tayon85 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [6d 7c 7s Ah 4c]
+Siège 1 : c0c0te (grosse blind) s'est couché. sur le Rivière
+Siège 2 : tayon85 (bouton) a remporté (100)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240533596857 : Tournoi #3517287897, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 18/12/2022 10:56:01 CET [18/12/2022 4:56:01 ET]
+Table '3517287897 1' 3-max Siège #3 est au bouton.
+Place 1: c0c0te (370 en jetons) 
+Place 2: tayon85 (385 en jetons) 
+Place 3: psychoman59 (145 en jetons) 
+c0c0te : met la petite blind. 20
+tayon85 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 9c]
+psychoman59 : relance. 105 à 145 et est all-in.
+c0c0te : passe. 
+tayon85 : suit. 105
+*** FLOP *** [5d 6h 5h]
+*** TOURNANT *** [5d 6h 5h] [3h]
+*** RIVIÈRE *** [5d 6h 5h 3h] [8c]
+*** ABATTAGE ***
+tayon85 : montre [Qd 7d] (une paire de Cinq)
+psychoman59 : montre [Qc 9c] (une paire de Cinq - Dame+Neuf kicker)
+psychoman59 a remporté 310  lors du pot .
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Tableau [5d 6h 5h 3h 8c]
+Siège 1 : c0c0te (petite blind) s'est couché. avant Flop
+Siège 2 : tayon85 (grosse blind) a montré [Qd 7d] et a perdu avec une paire de Cinq
+Siège 3 : psychoman59 (bouton) a montré [Qc 9c] et a gagné (310) avec une paire de Cinq
+
+
+
+Main PokerStars n°240533599376 : Tournoi #3517287897, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 18/12/2022 10:56:20 CET [18/12/2022 4:56:20 ET]
+Table '3517287897 1' 3-max Siège #1 est au bouton.
+Place 1: c0c0te (350 en jetons) 
+Place 2: tayon85 (240 en jetons) 
+Place 3: psychoman59 (310 en jetons) 
+tayon85 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Qc]
+c0c0te : suit. 60
+tayon85 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Ac 5c Ad]
+tayon85 : parole 
+psychoman59 : parole 
+c0c0te : parole 
+*** TOURNANT *** [Ac 5c Ad] [6d]
+tayon85 : parole 
+psychoman59 : parole 
+c0c0te : parole 
+*** RIVIÈRE *** [Ac 5c Ad 6d] [Kh]
+tayon85 : parole 
+psychoman59 : parole 
+c0c0te : mise. 60
+tayon85 : passe. 
+psychoman59 : suit. 60
+*** ABATTAGE ***
+c0c0te : montre [6s As] (un full, full aux As par les Six)
+psychoman59 : cache la main perdante. 
+c0c0te a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [Ac 5c Ad 6d Kh]
+Siège 1 : c0c0te (bouton) a montré [6s As] et a gagné (300) avec un full, full aux As par les Six
+Siège 2 : tayon85 (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [6c Qc]
+
+
+
+Main PokerStars n°240533602985 : Tournoi #3517287897, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 18/12/2022 10:56:47 CET [18/12/2022 4:56:47 ET]
+Table '3517287897 1' 3-max Siège #2 est au bouton.
+Place 1: c0c0te (530 en jetons) 
+Place 2: tayon85 (180 en jetons) 
+Place 3: psychoman59 (190 en jetons) 
+psychoman59 : met la petite blind. 30
+c0c0te : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Ks]
+tayon85 : suit. 60
+psychoman59 : relance. 130 à 190 et est all-in.
+c0c0te : passe. 
+tayon85 : passe. 
+Personne n'a suivi. (130) sont retournés à psychoman59.
+psychoman59 a remporté 180  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Siège 1 : c0c0te (grosse blind) s'est couché. avant Flop
+Siège 2 : tayon85 (bouton) s'est couché. avant Flop
+Siège 3 : psychoman59 (petite blind) a remporté (180)
+
+
+
+Main PokerStars n°240533604360 : Tournoi #3517287897, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 18/12/2022 10:56:57 CET [18/12/2022 4:56:57 ET]
+Table '3517287897 1' 3-max Siège #3 est au bouton.
+Place 1: c0c0te (470 en jetons) 
+Place 2: tayon85 (120 en jetons) 
+Place 3: psychoman59 (310 en jetons) 
+c0c0te : met la petite blind. 30
+tayon85 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 2c]
+psychoman59 : passe. 
+c0c0te : suit. 30
+tayon85 : parole 
+*** FLOP *** [2s 8d 7c]
+c0c0te : mise. 60
+tayon85 : suit. 60 et est all-in.
+*** TOURNANT *** [2s 8d 7c] [6h]
+*** RIVIÈRE *** [2s 8d 7c 6h] [Ad]
+*** ABATTAGE ***
+c0c0te : montre [5c 8c] (une paire de Huit)
+tayon85 : montre [5d 2h] (une paire de Deux)
+c0c0te a remporté 240  lors du pot .
+tayon85 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [2s 8d 7c 6h Ad]
+Siège 1 : c0c0te (petite blind) a montré [5c 8c] et a gagné (240) avec une paire de Huit
+Siège 2 : tayon85 (grosse blind) a montré [5d 2h] et a perdu avec une paire de Deux
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°240533607176 : Tournoi #3517287897, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 18/12/2022 10:57:18 CET [18/12/2022 4:57:18 ET]
+Table '3517287897 1' 3-max Siège #1 est au bouton.
+Place 1: c0c0te (590 en jetons) 
+Place 3: psychoman59 (310 en jetons) 
+c0c0te : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 6c]
+c0c0te : suit. 40
+psychoman59 : parole 
+*** FLOP *** [9h 3d 6d]
+psychoman59 : parole 
+c0c0te : parole 
+*** TOURNANT *** [9h 3d 6d] [As]
+psychoman59 : parole 
+c0c0te : parole 
+*** RIVIÈRE *** [9h 3d 6d As] [7s]
+psychoman59 : parole 
+c0c0te : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Kh 6c] (une paire de Six)
+c0c0te : cache la main perdante. 
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [9h 3d 6d As 7s]
+Siège 1 : c0c0te (bouton) (petite blind) a caché la main perdante. [Jd Th]
+Siège 3 : psychoman59 (grosse blind) a montré [Kh 6c] et a gagné (160) avec une paire de Six
+
+
+
+Main PokerStars n°240533609496 : Tournoi #3517287897, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 18/12/2022 10:57:35 CET [18/12/2022 4:57:35 ET]
+Table '3517287897 1' 3-max Siège #3 est au bouton.
+Place 1: c0c0te (510 en jetons) 
+Place 3: psychoman59 (390 en jetons) 
+psychoman59 : met la petite blind. 40
+c0c0te : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 5s]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à c0c0te.
+c0c0te a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : c0c0te (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240533610199 : Tournoi #3517287897, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 18/12/2022 10:57:41 CET [18/12/2022 4:57:41 ET]
+Table '3517287897 1' 3-max Siège #1 est au bouton.
+Place 1: c0c0te (550 en jetons) 
+Place 3: psychoman59 (350 en jetons) 
+c0c0te : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 8h]
+c0c0te : suit. 40
+psychoman59 : parole 
+*** FLOP *** [9c Ac Ah]
+psychoman59 : parole 
+c0c0te : parole 
+*** TOURNANT *** [9c Ac Ah] [3c]
+psychoman59 : parole 
+c0c0te : parole 
+*** RIVIÈRE *** [9c Ac Ah 3c] [2s]
+psychoman59 : parole 
+c0c0te : parole 
+*** ABATTAGE ***
+psychoman59 : montre [3h 8h] (double paire, As et Trois)
+c0c0te : cache la main perdante. 
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [9c Ac Ah 3c 2s]
+Siège 1 : c0c0te (bouton) (petite blind) a caché la main perdante. [6c Kd]
+Siège 3 : psychoman59 (grosse blind) a montré [3h 8h] et a gagné (160) avec double paire, As et Trois
+
+
+
+Main PokerStars n°240533612855 : Tournoi #3517287897, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 18/12/2022 10:58:00 CET [18/12/2022 4:58:00 ET]
+Table '3517287897 1' 3-max Siège #3 est au bouton.
+Place 1: c0c0te (470 en jetons) 
+Place 3: psychoman59 (430 en jetons) 
+psychoman59 : met la petite blind. 40
+c0c0te : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 7d]
+psychoman59 : relance. 350 à 430 et est all-in.
+c0c0te : passe. 
+Personne n'a suivi. (350) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : c0c0te (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°240533614371 : Tournoi #3517287897, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 18/12/2022 10:58:11 CET [18/12/2022 4:58:11 ET]
+Table '3517287897 1' 3-max Siège #1 est au bouton.
+Place 1: c0c0te (390 en jetons) 
+Place 3: psychoman59 (510 en jetons) 
+c0c0te : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Qc]
+c0c0te : suit. 50
+psychoman59 : parole 
+*** FLOP *** [3d 3s Ks]
+psychoman59 : parole 
+c0c0te : mise. 100
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à c0c0te.
+c0c0te a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [3d 3s Ks]
+Siège 1 : c0c0te (bouton) (petite blind) a remporté (200)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°240533616356 : Tournoi #3517287897, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 18/12/2022 10:58:26 CET [18/12/2022 4:58:26 ET]
+Table '3517287897 1' 3-max Siège #3 est au bouton.
+Place 1: c0c0te (490 en jetons) 
+Place 3: psychoman59 (410 en jetons) 
+psychoman59 : met la petite blind. 50
+c0c0te : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 9s]
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à c0c0te.
+c0c0te a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : c0c0te (grosse blind) a remporté (100)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240533617087 : Tournoi #3517287897, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 18/12/2022 10:58:31 CET [18/12/2022 4:58:31 ET]
+Table '3517287897 1' 3-max Siège #1 est au bouton.
+Place 1: c0c0te (540 en jetons) 
+Place 3: psychoman59 (360 en jetons) 
+c0c0te : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Jc]
+c0c0te : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : c0c0te (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (100)
+
+
+
+Main PokerStars n°240533617716 : Tournoi #3517287897, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 18/12/2022 10:58:36 CET [18/12/2022 4:58:36 ET]
+Table '3517287897 1' 3-max Siège #3 est au bouton.
+Place 1: c0c0te (490 en jetons) 
+Place 3: psychoman59 (410 en jetons) 
+psychoman59 : met la petite blind. 50
+c0c0te : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 6s]
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à c0c0te.
+c0c0te a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : c0c0te (grosse blind) a remporté (100)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240533618602 : Tournoi #3517287897, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 18/12/2022 10:58:42 CET [18/12/2022 4:58:42 ET]
+Table '3517287897 1' 3-max Siège #1 est au bouton.
+Place 1: c0c0te (540 en jetons) 
+Place 3: psychoman59 (360 en jetons) 
+c0c0te : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Th]
+c0c0te : suit. 50
+psychoman59 : relance. 260 à 360 et est all-in.
+c0c0te : suit. 260
+*** FLOP *** [5s 7d Ac]
+*** TOURNANT *** [5s 7d Ac] [6d]
+*** RIVIÈRE *** [5s 7d Ac 6d] [Jd]
+*** ABATTAGE ***
+psychoman59 : montre [Kd Th] (Hauteur As)
+c0c0te : montre [6c As] (double paire, As et Six)
+c0c0te a remporté 720  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+c0c0te remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 720 | Commission 0 
+Tableau [5s 7d Ac 6d Jd]
+Siège 1 : c0c0te (bouton) (petite blind) a montré [6c As] et a gagné (720) avec double paire, As et Six
+Siège 3 : psychoman59 (grosse blind) a montré [Kd Th] et a perdu avec Hauteur As
+
+
+

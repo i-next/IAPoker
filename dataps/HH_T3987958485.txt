@@ -1,0 +1,789 @@
+﻿Main PokerStars n°260290029010 : Tournoi #3987958485, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 31/03/2026 7:54:49 CET [31/03/2026 1:54:49 ET]
+Table '3987958485 1' 3-max Siège #1 est au bouton.
+Place 1: ChuckRemix (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: poussy920 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+poussy920 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Ah]
+ChuckRemix : passe. 
+psychoman59 : suit. 10
+poussy920 : relance. 480 à 500 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (480) sont retournés à poussy920.
+poussy920 a remporté 40  lors du pot .
+poussy920 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : ChuckRemix (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : poussy920 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°260290030234 : Tournoi #3987958485, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 31/03/2026 7:55:10 CET [31/03/2026 1:55:10 ET]
+Table '3987958485 1' 3-max Siège #2 est au bouton.
+Place 1: ChuckRemix (500 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+Place 3: poussy920 (520 en jetons) 
+poussy920 : met la petite blind. 10
+ChuckRemix : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 9d]
+psychoman59 : passe. 
+poussy920 : relance. 500 à 520 et est all-in.
+ChuckRemix : passe. 
+Personne n'a suivi. (500) sont retournés à poussy920.
+poussy920 a remporté 40  lors du pot .
+poussy920 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : ChuckRemix (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : poussy920 (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°260290030822 : Tournoi #3987958485, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 31/03/2026 7:55:23 CET [31/03/2026 1:55:23 ET]
+Table '3987958485 1' 3-max Siège #3 est au bouton.
+Place 1: ChuckRemix (480 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+Place 3: poussy920 (540 en jetons) 
+ChuckRemix : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Ah]
+poussy920 : relance. 520 à 540 et est all-in.
+ChuckRemix : passe. 
+psychoman59 : suit. 460 et est all-in.
+Personne n'a suivi. (60) sont retournés à poussy920.
+*** FLOP *** [4s 2h Js]
+*** TOURNANT *** [4s 2h Js] [8d]
+*** RIVIÈRE *** [4s 2h Js 8d] [6h]
+*** ABATTAGE ***
+psychoman59 : montre [7s Ah] (Hauteur As)
+poussy920 : montre [Qs Kh] (Hauteur Roi)
+psychoman59 a remporté 970  lors du pot .
+*** SYNTHÈSE ***
+Pot total 970 | Commission 0 
+Tableau [4s 2h Js 8d 6h]
+Siège 1 : ChuckRemix (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a montré [7s Ah] et a gagné (970) avec Hauteur As
+Siège 3 : poussy920 (bouton) a montré [Qs Kh] et a perdu avec Hauteur Roi
+
+
+
+Main PokerStars n°260290031716 : Tournoi #3987958485, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 31/03/2026 7:55:41 CET [31/03/2026 1:55:41 ET]
+Table '3987958485 1' 3-max Siège #1 est au bouton.
+Place 1: ChuckRemix (470 en jetons) 
+Place 2: psychoman59 (970 en jetons) 
+Place 3: poussy920 (60 en jetons) 
+psychoman59 : met la petite blind. 10
+poussy920 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Js]
+ChuckRemix : relance. 20 à 40
+psychoman59 : passe. 
+poussy920 : relance. 20 à 60 et est all-in.
+ChuckRemix : suit. 20
+*** FLOP *** [2d 6c 8d]
+*** TOURNANT *** [2d 6c 8d] [4h]
+*** RIVIÈRE *** [2d 6c 8d 4h] [9h]
+*** ABATTAGE ***
+poussy920 : montre [Ad Td] (Hauteur As)
+ChuckRemix : montre [Ks 3s] (Hauteur Roi)
+poussy920 a remporté 130  lors du pot .
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Tableau [2d 6c 8d 4h 9h]
+Siège 1 : ChuckRemix (bouton) a montré [Ks 3s] et a perdu avec Hauteur Roi
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : poussy920 (grosse blind) a montré [Ad Td] et a gagné (130) avec Hauteur As
+
+
+
+Main PokerStars n°260290032840 : Tournoi #3987958485, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 31/03/2026 7:56:05 CET [31/03/2026 1:56:05 ET]
+Table '3987958485 1' 3-max Siège #2 est au bouton.
+Place 1: ChuckRemix (410 en jetons) 
+Place 2: psychoman59 (960 en jetons) 
+Place 3: poussy920 (130 en jetons) 
+poussy920 : met la petite blind. 10
+ChuckRemix : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Jd]
+psychoman59 : suit. 20
+poussy920 : relance. 110 à 130 et est all-in.
+ChuckRemix : passe. 
+psychoman59 : suit. 110
+*** FLOP *** [Qs Qd 4c]
+*** TOURNANT *** [Qs Qd 4c] [Ts]
+*** RIVIÈRE *** [Qs Qd 4c Ts] [4h]
+*** ABATTAGE ***
+poussy920 : montre [Ks 6h] (double paire, Dames et Quatre)
+psychoman59 : montre [Jc Jd] (double paire, Dames et Valets)
+psychoman59 a remporté 280  lors du pot .
+poussy920 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Tableau [Qs Qd 4c Ts 4h]
+Siège 1 : ChuckRemix (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a montré [Jc Jd] et a gagné (280) avec double paire, Dames et Valets
+Siège 3 : poussy920 (petite blind) a montré [Ks 6h] et a perdu avec double paire, Dames et Quatre
+
+
+
+Main PokerStars n°260290034081 : Tournoi #3987958485, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 31/03/2026 7:56:31 CET [31/03/2026 1:56:31 ET]
+Table '3987958485 1' 3-max Siège #1 est au bouton.
+Place 1: ChuckRemix (390 en jetons) 
+Place 2: psychoman59 (1110 en jetons) 
+ChuckRemix : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 2d]
+ChuckRemix : suit. 10
+psychoman59 : parole 
+*** FLOP *** [5h 7c 7d]
+psychoman59 : parole 
+ChuckRemix : parole 
+*** TOURNANT *** [5h 7c 7d] [8h]
+psychoman59 : parole 
+ChuckRemix : parole 
+*** RIVIÈRE *** [5h 7c 7d 8h] [9s]
+psychoman59 : mise. 20
+ChuckRemix : suit. 20
+*** ABATTAGE ***
+psychoman59 : montre [6c 2d] (une suite, Cinq à Neuf)
+ChuckRemix : cache la main perdante. 
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [5h 7c 7d 8h 9s]
+Siège 1 : ChuckRemix (bouton) (petite blind) a caché la main perdante. [5d Js]
+Siège 2 : psychoman59 (grosse blind) a montré [6c 2d] et a gagné (80) avec une suite, Cinq à Neuf
+
+
+
+Main PokerStars n°260290035776 : Tournoi #3987958485, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 31/03/2026 7:57:06 CET [31/03/2026 1:57:06 ET]
+Table '3987958485 1' 3-max Siège #2 est au bouton.
+Place 1: ChuckRemix (350 en jetons) 
+Place 2: psychoman59 (1150 en jetons) 
+psychoman59 : met la petite blind. 15
+ChuckRemix : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc As]
+psychoman59 : relance. 1120 à 1150 et est all-in.
+ChuckRemix : passe. 
+Personne n'a suivi. (1120) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : ChuckRemix (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°260290036112 : Tournoi #3987958485, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 31/03/2026 7:57:14 CET [31/03/2026 1:57:14 ET]
+Table '3987958485 1' 3-max Siège #1 est au bouton.
+Place 1: ChuckRemix (320 en jetons) 
+Place 2: psychoman59 (1180 en jetons) 
+ChuckRemix : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h As]
+ChuckRemix : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Qc 7s Qd]
+psychoman59 : parole 
+ChuckRemix : parole 
+*** TOURNANT *** [Qc 7s Qd] [Ks]
+psychoman59 : parole 
+ChuckRemix : parole 
+*** RIVIÈRE *** [Qc 7s Qd Ks] [8d]
+psychoman59 : parole 
+ChuckRemix : parole 
+*** ABATTAGE ***
+psychoman59 : montre [5h As] (une paire de Dames)
+ChuckRemix : montre [Ts 7c] (double paire, Dames et Sept)
+ChuckRemix a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Qc 7s Qd Ks 8d]
+Siège 1 : ChuckRemix (bouton) (petite blind) a montré [Ts 7c] et a gagné (60) avec double paire, Dames et Sept
+Siège 2 : psychoman59 (grosse blind) a montré [5h As] et a perdu avec une paire de Dames
+
+
+
+Main PokerStars n°260290037216 : Tournoi #3987958485, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 31/03/2026 7:57:37 CET [31/03/2026 1:57:37 ET]
+Table '3987958485 1' 3-max Siège #2 est au bouton.
+Place 1: ChuckRemix (350 en jetons) 
+Place 2: psychoman59 (1150 en jetons) 
+psychoman59 : met la petite blind. 15
+ChuckRemix : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 3s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à ChuckRemix.
+ChuckRemix a remporté 30  lors du pot .
+ChuckRemix : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : ChuckRemix (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260290037527 : Tournoi #3987958485, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 31/03/2026 7:57:43 CET [31/03/2026 1:57:43 ET]
+Table '3987958485 1' 3-max Siège #1 est au bouton.
+Place 1: ChuckRemix (365 en jetons) 
+Place 2: psychoman59 (1135 en jetons) 
+ChuckRemix : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 3s]
+ChuckRemix : relance. 30 à 60
+psychoman59 : suit. 30
+*** FLOP *** [Th Kd Ac]
+psychoman59 : parole 
+ChuckRemix : parole 
+*** TOURNANT *** [Th Kd Ac] [Ah]
+psychoman59 : mise. 60
+ChuckRemix : suit. 60
+*** RIVIÈRE *** [Th Kd Ac Ah] [Td]
+psychoman59 : mise. 120
+ChuckRemix : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Th Kd Ac Ah Td]
+Siège 1 : ChuckRemix (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (grosse blind) a remporté (240)
+
+
+
+Main PokerStars n°260290039002 : Tournoi #3987958485, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 31/03/2026 7:58:14 CET [31/03/2026 1:58:14 ET]
+Table '3987958485 1' 3-max Siège #2 est au bouton.
+Place 1: ChuckRemix (245 en jetons) 
+Place 2: psychoman59 (1255 en jetons) 
+psychoman59 : met la petite blind. 15
+ChuckRemix : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Ks]
+psychoman59 : suit. 15
+ChuckRemix : parole 
+*** FLOP *** [9d Jh 5c]
+ChuckRemix : parole 
+psychoman59 : parole 
+*** TOURNANT *** [9d Jh 5c] [3s]
+ChuckRemix : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [9d Jh 5c 3s] [2d]
+ChuckRemix : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à ChuckRemix.
+ChuckRemix a remporté 60  lors du pot .
+ChuckRemix : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [9d Jh 5c 3s 2d]
+Siège 1 : ChuckRemix (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°260290039913 : Tournoi #3987958485, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 31/03/2026 7:58:34 CET [31/03/2026 1:58:34 ET]
+Table '3987958485 1' 3-max Siège #1 est au bouton.
+Place 1: ChuckRemix (275 en jetons) 
+Place 2: psychoman59 (1225 en jetons) 
+ChuckRemix : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 2h]
+ChuckRemix : suit. 15
+psychoman59 : parole 
+*** FLOP *** [5c Qh 5s]
+psychoman59 : parole 
+ChuckRemix : parole 
+*** TOURNANT *** [5c Qh 5s] [9h]
+psychoman59 : parole 
+ChuckRemix : mise. 30
+psychoman59 : suit. 30
+*** RIVIÈRE *** [5c Qh 5s 9h] [Tc]
+psychoman59 : parole 
+ChuckRemix : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Qs 2h] (double paire, Dames et Cinq)
+ChuckRemix : cache la main perdante. 
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [5c Qh 5s 9h Tc]
+Siège 1 : ChuckRemix (bouton) (petite blind) a caché la main perdante. [4d 7d]
+Siège 2 : psychoman59 (grosse blind) a montré [Qs 2h] et a gagné (120) avec double paire, Dames et Cinq
+
+
+
+Main PokerStars n°260290041047 : Tournoi #3987958485, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 31/03/2026 7:58:58 CET [31/03/2026 1:58:58 ET]
+Table '3987958485 1' 3-max Siège #2 est au bouton.
+Place 1: ChuckRemix (215 en jetons) 
+Place 2: psychoman59 (1285 en jetons) 
+psychoman59 : met la petite blind. 20
+ChuckRemix : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Th]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à ChuckRemix.
+ChuckRemix a remporté 40  lors du pot .
+ChuckRemix : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : ChuckRemix (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260290041229 : Tournoi #3987958485, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 31/03/2026 7:59:02 CET [31/03/2026 1:59:02 ET]
+Table '3987958485 1' 3-max Siège #1 est au bouton.
+Place 1: ChuckRemix (235 en jetons) 
+Place 2: psychoman59 (1265 en jetons) 
+ChuckRemix : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 3d]
+ChuckRemix : relance. 195 à 235 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (195) sont retournés à ChuckRemix.
+ChuckRemix a remporté 80  lors du pot .
+ChuckRemix : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : ChuckRemix (bouton) (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260290041593 : Tournoi #3987958485, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 31/03/2026 7:59:09 CET [31/03/2026 1:59:09 ET]
+Table '3987958485 1' 3-max Siège #2 est au bouton.
+Place 1: ChuckRemix (275 en jetons) 
+Place 2: psychoman59 (1225 en jetons) 
+psychoman59 : met la petite blind. 20
+ChuckRemix : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 8h]
+psychoman59 : relance. 40 à 80
+ChuckRemix : suit. 40
+*** FLOP *** [As 7h 3d]
+ChuckRemix : parole 
+psychoman59 : mise. 80
+ChuckRemix : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [As 7h 3d]
+Siège 1 : ChuckRemix (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°260290042435 : Tournoi #3987958485, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 31/03/2026 7:59:27 CET [31/03/2026 1:59:27 ET]
+Table '3987958485 1' 3-max Siège #1 est au bouton.
+Place 1: ChuckRemix (195 en jetons) 
+Place 2: psychoman59 (1305 en jetons) 
+ChuckRemix : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Kh]
+ChuckRemix : suit. 20
+psychoman59 : parole 
+*** FLOP *** [6c 4d 6s]
+psychoman59 : parole 
+ChuckRemix : parole 
+*** TOURNANT *** [6c 4d 6s] [Th]
+psychoman59 : parole 
+ChuckRemix : parole 
+*** RIVIÈRE *** [6c 4d 6s Th] [5s]
+psychoman59 : parole 
+ChuckRemix : parole 
+*** ABATTAGE ***
+psychoman59 : montre [3s Kh] (une paire de Six)
+ChuckRemix : montre [5d 2d] (double paire, Six et Cinq)
+ChuckRemix a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [6c 4d 6s Th 5s]
+Siège 1 : ChuckRemix (bouton) (petite blind) a montré [5d 2d] et a gagné (80) avec double paire, Six et Cinq
+Siège 2 : psychoman59 (grosse blind) a montré [3s Kh] et a perdu avec une paire de Six
+
+
+
+Main PokerStars n°260290043607 : Tournoi #3987958485, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 31/03/2026 7:59:52 CET [31/03/2026 1:59:52 ET]
+Table '3987958485 1' 3-max Siège #2 est au bouton.
+Place 1: ChuckRemix (235 en jetons) 
+Place 2: psychoman59 (1265 en jetons) 
+psychoman59 : met la petite blind. 20
+ChuckRemix : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 6s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à ChuckRemix.
+ChuckRemix a remporté 40  lors du pot .
+ChuckRemix : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : ChuckRemix (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260290043881 : Tournoi #3987958485, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 31/03/2026 7:59:58 CET [31/03/2026 1:59:58 ET]
+Table '3987958485 1' 3-max Siège #1 est au bouton.
+Place 1: ChuckRemix (255 en jetons) 
+Place 2: psychoman59 (1245 en jetons) 
+ChuckRemix : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 6d]
+ChuckRemix : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Td 5s 5d]
+psychoman59 : parole 
+ChuckRemix : parole 
+*** TOURNANT *** [Td 5s 5d] [Ah]
+psychoman59 : parole 
+ChuckRemix : parole 
+*** RIVIÈRE *** [Td 5s 5d Ah] [2h]
+psychoman59 : mise. 80
+ChuckRemix : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Td 5s 5d Ah 2h]
+Siège 1 : ChuckRemix (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°260290044780 : Tournoi #3987958485, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 31/03/2026 8:00:17 CET [31/03/2026 2:00:17 ET]
+Table '3987958485 1' 3-max Siège #2 est au bouton.
+Place 1: ChuckRemix (215 en jetons) 
+Place 2: psychoman59 (1285 en jetons) 
+psychoman59 : met la petite blind. 20
+ChuckRemix : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 5c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à ChuckRemix.
+ChuckRemix a remporté 40  lors du pot .
+ChuckRemix : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : ChuckRemix (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260290045040 : Tournoi #3987958485, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 31/03/2026 8:00:22 CET [31/03/2026 2:00:22 ET]
+Table '3987958485 1' 3-max Siège #1 est au bouton.
+Place 1: ChuckRemix (235 en jetons) 
+Place 2: psychoman59 (1265 en jetons) 
+ChuckRemix : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 4d]
+ChuckRemix : relance. 195 à 235 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (195) sont retournés à ChuckRemix.
+ChuckRemix a remporté 80  lors du pot .
+ChuckRemix : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : ChuckRemix (bouton) (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260290045424 : Tournoi #3987958485, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 31/03/2026 8:00:30 CET [31/03/2026 2:00:30 ET]
+Table '3987958485 1' 3-max Siège #2 est au bouton.
+Place 1: ChuckRemix (275 en jetons) 
+Place 2: psychoman59 (1225 en jetons) 
+psychoman59 : met la petite blind. 20
+ChuckRemix : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Ac]
+psychoman59 : relance. 1185 à 1225 et est all-in.
+ChuckRemix : passe. 
+Personne n'a suivi. (1185) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : ChuckRemix (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°260290045883 : Tournoi #3987958485, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 31/03/2026 8:00:38 CET [31/03/2026 2:00:38 ET]
+Table '3987958485 1' 3-max Siège #1 est au bouton.
+Place 1: ChuckRemix (235 en jetons) 
+Place 2: psychoman59 (1265 en jetons) 
+ChuckRemix : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 6d]
+ChuckRemix : relance. 195 à 235 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (195) sont retournés à ChuckRemix.
+ChuckRemix a remporté 80  lors du pot .
+ChuckRemix : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : ChuckRemix (bouton) (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260290046281 : Tournoi #3987958485, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 31/03/2026 8:00:46 CET [31/03/2026 2:00:46 ET]
+Table '3987958485 1' 3-max Siège #2 est au bouton.
+Place 1: ChuckRemix (275 en jetons) 
+Place 2: psychoman59 (1225 en jetons) 
+psychoman59 : met la petite blind. 20
+ChuckRemix : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Qh]
+psychoman59 : relance. 40 à 80
+ChuckRemix : suit. 40
+*** FLOP *** [8d 3c 5d]
+ChuckRemix : parole 
+psychoman59 : mise. 80
+ChuckRemix : relance. 115 à 195 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (115) sont retournés à ChuckRemix.
+ChuckRemix a remporté 320  lors du pot .
+ChuckRemix : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [8d 3c 5d]
+Siège 1 : ChuckRemix (grosse blind) a remporté (320)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°260290047403 : Tournoi #3987958485, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 31/03/2026 8:01:07 CET [31/03/2026 2:01:07 ET]
+Table '3987958485 1' 3-max Siège #1 est au bouton.
+Place 1: ChuckRemix (435 en jetons) 
+Place 2: psychoman59 (1065 en jetons) 
+ChuckRemix : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 7d]
+ChuckRemix : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : ChuckRemix (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°260290047635 : Tournoi #3987958485, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 31/03/2026 8:01:11 CET [31/03/2026 2:01:11 ET]
+Table '3987958485 1' 3-max Siège #2 est au bouton.
+Place 1: ChuckRemix (405 en jetons) 
+Place 2: psychoman59 (1095 en jetons) 
+psychoman59 : met la petite blind. 30
+ChuckRemix : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Ks]
+psychoman59 : suit. 30
+ChuckRemix : parole 
+*** FLOP *** [Kd Qd Ad]
+ChuckRemix : parole 
+psychoman59 : mise. 120
+ChuckRemix : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Kd Qd Ad]
+Siège 1 : ChuckRemix (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°260290048356 : Tournoi #3987958485, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 31/03/2026 8:01:25 CET [31/03/2026 2:01:25 ET]
+Table '3987958485 1' 3-max Siège #1 est au bouton.
+Place 1: ChuckRemix (345 en jetons) 
+Place 2: psychoman59 (1155 en jetons) 
+ChuckRemix : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 2s]
+ChuckRemix : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : ChuckRemix (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°260290048737 : Tournoi #3987958485, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 31/03/2026 8:01:31 CET [31/03/2026 2:01:31 ET]
+Table '3987958485 1' 3-max Siège #2 est au bouton.
+Place 1: ChuckRemix (315 en jetons) 
+Place 2: psychoman59 (1185 en jetons) 
+psychoman59 : met la petite blind. 30
+ChuckRemix : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 4d]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à ChuckRemix.
+ChuckRemix a remporté 60  lors du pot .
+ChuckRemix : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : ChuckRemix (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260290049034 : Tournoi #3987958485, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 31/03/2026 8:01:36 CET [31/03/2026 2:01:36 ET]
+Table '3987958485 1' 3-max Siège #1 est au bouton.
+Place 1: ChuckRemix (345 en jetons) 
+Place 2: psychoman59 (1155 en jetons) 
+ChuckRemix : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 3c]
+ChuckRemix : suit. 30
+psychoman59 : parole 
+*** FLOP *** [7h 7c 3d]
+psychoman59 : mise. 120
+ChuckRemix : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [7h 7c 3d]
+Siège 1 : ChuckRemix (bouton) (petite blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°260290050221 : Tournoi #3987958485, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 31/03/2026 8:02:00 CET [31/03/2026 2:02:00 ET]
+Table '3987958485 1' 3-max Siège #2 est au bouton.
+Place 1: ChuckRemix (285 en jetons) 
+Place 2: psychoman59 (1215 en jetons) 
+psychoman59 : met la petite blind. 30
+ChuckRemix : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 7c]
+psychoman59 : suit. 30
+ChuckRemix : relance. 225 à 285 et est all-in.
+psychoman59 : suit. 225
+*** FLOP *** [Ac 2d 3d]
+*** TOURNANT *** [Ac 2d 3d] [4s]
+*** RIVIÈRE *** [Ac 2d 3d 4s] [Tc]
+*** ABATTAGE ***
+ChuckRemix : montre [7h 7d] (une paire de Sept)
+psychoman59 : montre [Kh 7c] (Hauteur As)
+ChuckRemix a remporté 570  lors du pot .
+*** SYNTHÈSE ***
+Pot total 570 | Commission 0 
+Tableau [Ac 2d 3d 4s Tc]
+Siège 1 : ChuckRemix (grosse blind) a montré [7h 7d] et a gagné (570) avec une paire de Sept
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Kh 7c] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°260290051061 : Tournoi #3987958485, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 31/03/2026 8:02:15 CET [31/03/2026 2:02:15 ET]
+Table '3987958485 1' 3-max Siège #1 est au bouton.
+Place 1: ChuckRemix (570 en jetons) 
+Place 2: psychoman59 (930 en jetons) 
+ChuckRemix : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 6c]
+ChuckRemix : suit. 30
+psychoman59 : parole 
+*** FLOP *** [5d 3h 8d]
+psychoman59 : mise. 870 et est all-in.
+ChuckRemix : suit. 510 et est all-in.
+Personne n'a suivi. (360) sont retournés à psychoman59.
+*** TOURNANT *** [5d 3h 8d] [5h]
+*** RIVIÈRE *** [5d 3h 8d 5h] [Jc]
+*** ABATTAGE ***
+psychoman59 : montre [8h 6c] (double paire, Huit et Cinq)
+ChuckRemix : montre [5c 7d] (un brelan de Cinq)
+ChuckRemix a remporté 1140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1140 | Commission 0 
+Tableau [5d 3h 8d 5h Jc]
+Siège 1 : ChuckRemix (bouton) (petite blind) a montré [5c 7d] et a gagné (1140) avec un brelan de Cinq
+Siège 2 : psychoman59 (grosse blind) a montré [8h 6c] et a perdu avec double paire, Huit et Cinq
+
+
+
+Main PokerStars n°260290052359 : Tournoi #3987958485, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 31/03/2026 8:02:39 CET [31/03/2026 2:02:39 ET]
+Table '3987958485 1' 3-max Siège #2 est au bouton.
+Place 1: ChuckRemix (1140 en jetons) 
+Place 2: psychoman59 (360 en jetons) 
+psychoman59 : met la petite blind. 30
+ChuckRemix : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 2s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à ChuckRemix.
+ChuckRemix a remporté 60  lors du pot .
+ChuckRemix : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : ChuckRemix (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260290052750 : Tournoi #3987958485, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 31/03/2026 8:02:47 CET [31/03/2026 2:02:47 ET]
+Table '3987958485 1' 3-max Siège #1 est au bouton.
+Place 1: ChuckRemix (1170 en jetons) 
+Place 2: psychoman59 (330 en jetons) 
+ChuckRemix : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Qc]
+ChuckRemix : suit. 30
+psychoman59 : parole 
+*** FLOP *** [3c 2c 9c]
+psychoman59 : parole 
+ChuckRemix : mise. 60
+psychoman59 : suit. 60
+*** TOURNANT *** [3c 2c 9c] [9d]
+psychoman59 : mise. 210 et est all-in.
+ChuckRemix : suit. 210
+*** RIVIÈRE *** [3c 2c 9c 9d] [4d]
+*** ABATTAGE ***
+psychoman59 : montre [7h Qc] (une paire de Neuf)
+ChuckRemix : montre [9h Ks] (un brelan de Neuf)
+ChuckRemix a remporté 660  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+ChuckRemix gagne le tournoi - félicitations !
+ChuckRemix gagne un ticket " €1 Step 2 MTT Power Path ticket "
+*** SYNTHÈSE ***
+Pot total 660 | Commission 0 
+Tableau [3c 2c 9c 9d 4d]
+Siège 1 : ChuckRemix (bouton) (petite blind) a montré [9h Ks] et a gagné (660) avec un brelan de Neuf
+Siège 2 : psychoman59 (grosse blind) a montré [7h Qc] et a perdu avec une paire de Neuf
+
+
+

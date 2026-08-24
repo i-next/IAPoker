@@ -1,0 +1,369 @@
+﻿Main PokerStars n°260167547067 : Tournoi #3985193531, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 21/03/2026 7:57:32 CET [21/03/2026 2:57:32 ET]
+Table '3985193531 1' 3-max Siège #1 est au bouton.
+Place 1: FRANTXESKA (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: cakepaco (500 en jetons) 
+psychoman59 : met la petite blind. 10
+cakepaco : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Ac]
+FRANTXESKA : suit. 20
+psychoman59 : relance. 480 à 500 et est all-in.
+cakepaco : passe. 
+FRANTXESKA : passe. 
+Personne n'a suivi. (480) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : FRANTXESKA (bouton) s'est couché. avant Flop
+Siège 2 : psychoman59 (petite blind) a remporté (60)
+Siège 3 : cakepaco (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260167547831 : Tournoi #3985193531, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 21/03/2026 7:57:46 CET [21/03/2026 2:57:46 ET]
+Table '3985193531 1' 3-max Siège #2 est au bouton.
+Place 1: FRANTXESKA (480 en jetons) 
+Place 2: psychoman59 (540 en jetons) 
+Place 3: cakepaco (480 en jetons) 
+cakepaco : met la petite blind. 10
+FRANTXESKA : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 2c]
+psychoman59 : passe. 
+cakepaco : suit. 10
+FRANTXESKA : parole 
+*** FLOP *** [9h 9s 6s]
+cakepaco : mise. 20
+FRANTXESKA : suit. 20
+*** TOURNANT *** [9h 9s 6s] [6d]
+cakepaco : mise. 20
+FRANTXESKA : passe. 
+Personne n'a suivi. (20) sont retournés à cakepaco.
+cakepaco a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [9h 9s 6s 6d]
+Siège 1 : FRANTXESKA (grosse blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : cakepaco (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°260167549130 : Tournoi #3985193531, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 21/03/2026 7:58:10 CET [21/03/2026 2:58:10 ET]
+Table '3985193531 1' 3-max Siège #3 est au bouton.
+Place 1: FRANTXESKA (440 en jetons) 
+Place 2: psychoman59 (540 en jetons) 
+Place 3: cakepaco (520 en jetons) 
+FRANTXESKA : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Qh]
+cakepaco : suit. 20
+FRANTXESKA : relance. 60 à 80
+psychoman59 : passe. 
+cakepaco : suit. 60
+*** FLOP *** [2c 6c 4h]
+FRANTXESKA : mise. 360 et est all-in.
+cakepaco : suit. 360
+*** TOURNANT *** [2c 6c 4h] [4s]
+*** RIVIÈRE *** [2c 6c 4h 4s] [Ks]
+*** ABATTAGE ***
+FRANTXESKA : montre [7h Ah] (une paire de Quatre)
+cakepaco : montre [5h 7c] (une paire de Quatre - plus basse kicker)
+FRANTXESKA a remporté 900  lors du pot .
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Tableau [2c 6c 4h 4s Ks]
+Siège 1 : FRANTXESKA (petite blind) a montré [7h Ah] et a gagné (900) avec une paire de Quatre
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : cakepaco (bouton) a montré [5h 7c] et a perdu avec une paire de Quatre
+
+
+
+Main PokerStars n°260167550299 : Tournoi #3985193531, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 21/03/2026 7:58:32 CET [21/03/2026 2:58:32 ET]
+Table '3985193531 1' 3-max Siège #1 est au bouton.
+Place 1: FRANTXESKA (900 en jetons) 
+Place 2: psychoman59 (520 en jetons) 
+Place 3: cakepaco (80 en jetons) 
+psychoman59 : met la petite blind. 10
+cakepaco : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Th]
+FRANTXESKA : relance. 20 à 40
+psychoman59 : passe. 
+cakepaco : suit. 20
+*** FLOP *** [8d Ks 2h]
+cakepaco : mise. 40 et est all-in.
+FRANTXESKA : suit. 40
+*** TOURNANT *** [8d Ks 2h] [2c]
+*** RIVIÈRE *** [8d Ks 2h 2c] [4d]
+*** ABATTAGE ***
+cakepaco : montre [3c Qs] (une paire de Deux)
+FRANTXESKA : montre [Ad 6d] (une paire de Deux - As kicker)
+FRANTXESKA a remporté 170  lors du pot .
+cakepaco a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 170 | Commission 0 
+Tableau [8d Ks 2h 2c 4d]
+Siège 1 : FRANTXESKA (bouton) a montré [Ad 6d] et a gagné (170) avec une paire de Deux
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : cakepaco (grosse blind) a montré [3c Qs] et a perdu avec une paire de Deux
+
+
+
+Main PokerStars n°260167551436 : Tournoi #3985193531, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 21/03/2026 7:58:53 CET [21/03/2026 2:58:53 ET]
+Table '3985193531 1' 3-max Siège #2 est au bouton.
+Place 1: FRANTXESKA (990 en jetons) 
+Place 2: psychoman59 (510 en jetons) 
+psychoman59 : met la petite blind. 10
+FRANTXESKA : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 2s]
+psychoman59 : suit. 10
+FRANTXESKA : parole 
+*** FLOP *** [Qh 5d Jh]
+FRANTXESKA : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à FRANTXESKA.
+FRANTXESKA a remporté 40  lors du pot .
+FRANTXESKA : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Qh 5d Jh]
+Siège 1 : FRANTXESKA (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°260167551961 : Tournoi #3985193531, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 21/03/2026 7:59:03 CET [21/03/2026 2:59:03 ET]
+Table '3985193531 1' 3-max Siège #1 est au bouton.
+Place 1: FRANTXESKA (1010 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+FRANTXESKA : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Jc]
+FRANTXESKA : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Js 6s Ah]
+psychoman59 : parole 
+FRANTXESKA : parole 
+*** TOURNANT *** [Js 6s Ah] [Ad]
+psychoman59 : mise. 20
+FRANTXESKA : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Js 6s Ah Ad]
+Siège 1 : FRANTXESKA (bouton) (petite blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°260167552677 : Tournoi #3985193531, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 21/03/2026 7:59:17 CET [21/03/2026 2:59:17 ET]
+Table '3985193531 1' 3-max Siège #2 est au bouton.
+Place 1: FRANTXESKA (990 en jetons) 
+Place 2: psychoman59 (510 en jetons) 
+psychoman59 : met la petite blind. 10
+FRANTXESKA : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 3h]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à FRANTXESKA.
+FRANTXESKA a remporté 20  lors du pot .
+FRANTXESKA : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : FRANTXESKA (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260167552927 : Tournoi #3985193531, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 21/03/2026 7:59:22 CET [21/03/2026 2:59:22 ET]
+Table '3985193531 1' 3-max Siège #1 est au bouton.
+Place 1: FRANTXESKA (1000 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+FRANTXESKA : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 6h]
+FRANTXESKA : relance. 40 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à FRANTXESKA.
+FRANTXESKA a remporté 40  lors du pot .
+FRANTXESKA : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : FRANTXESKA (bouton) (petite blind) a remporté (40)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260167553350 : Tournoi #3985193531, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 21/03/2026 7:59:29 CET [21/03/2026 2:59:29 ET]
+Table '3985193531 1' 3-max Siège #2 est au bouton.
+Place 1: FRANTXESKA (1020 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 10
+FRANTXESKA : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 7d]
+psychoman59 : suit. 10
+FRANTXESKA : parole 
+*** FLOP *** [Ks 9s 8c]
+FRANTXESKA : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [Ks 9s 8c] [Js]
+FRANTXESKA : mise. 980 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (980) sont retournés à FRANTXESKA.
+FRANTXESKA a remporté 80  lors du pot .
+FRANTXESKA : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Ks 9s 8c Js]
+Siège 1 : FRANTXESKA (grosse blind) a remporté (80)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°260167554262 : Tournoi #3985193531, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 21/03/2026 7:59:47 CET [21/03/2026 2:59:47 ET]
+Table '3985193531 1' 3-max Siège #1 est au bouton.
+Place 1: FRANTXESKA (1060 en jetons) 
+Place 2: psychoman59 (440 en jetons) 
+FRANTXESKA : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Jc]
+FRANTXESKA : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Ac 5c 5d]
+psychoman59 : parole 
+FRANTXESKA : parole 
+*** TOURNANT *** [Ac 5c 5d] [7d]
+psychoman59 : parole 
+FRANTXESKA : mise. 60
+psychoman59 : suit. 60
+*** RIVIÈRE *** [Ac 5c 5d 7d] [3s]
+psychoman59 : parole 
+FRANTXESKA : parole 
+*** ABATTAGE ***
+psychoman59 : montre [9c Jc] (une paire de Cinq)
+FRANTXESKA : montre [7c Jh] (double paire, Sept et Cinq)
+FRANTXESKA a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Ac 5c 5d 7d 3s]
+Siège 1 : FRANTXESKA (bouton) (petite blind) a montré [7c Jh] et a gagné (180) avec double paire, Sept et Cinq
+Siège 2 : psychoman59 (grosse blind) a montré [9c Jc] et a perdu avec une paire de Cinq
+
+
+
+Main PokerStars n°260167555373 : Tournoi #3985193531, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 21/03/2026 8:00:08 CET [21/03/2026 3:00:08 ET]
+Table '3985193531 1' 3-max Siège #2 est au bouton.
+Place 1: FRANTXESKA (1150 en jetons) 
+Place 2: psychoman59 (350 en jetons) 
+psychoman59 : met la petite blind. 15
+FRANTXESKA : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 9d]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à FRANTXESKA.
+FRANTXESKA a remporté 30  lors du pot .
+FRANTXESKA : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : FRANTXESKA (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260167555676 : Tournoi #3985193531, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 21/03/2026 8:00:13 CET [21/03/2026 3:00:13 ET]
+Table '3985193531 1' 3-max Siège #1 est au bouton.
+Place 1: FRANTXESKA (1165 en jetons) 
+Place 2: psychoman59 (335 en jetons) 
+FRANTXESKA : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Kc]
+FRANTXESKA : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : FRANTXESKA (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°260167555998 : Tournoi #3985193531, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 21/03/2026 8:00:19 CET [21/03/2026 3:00:19 ET]
+Table '3985193531 1' 3-max Siège #2 est au bouton.
+Place 1: FRANTXESKA (1150 en jetons) 
+Place 2: psychoman59 (350 en jetons) 
+psychoman59 : met la petite blind. 15
+FRANTXESKA : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Ts]
+psychoman59 : relance. 320 à 350 et est all-in.
+FRANTXESKA : passe. 
+Personne n'a suivi. (320) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : FRANTXESKA (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°260167556380 : Tournoi #3985193531, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 21/03/2026 8:00:26 CET [21/03/2026 3:00:26 ET]
+Table '3985193531 1' 3-max Siège #1 est au bouton.
+Place 1: FRANTXESKA (1120 en jetons) 
+Place 2: psychoman59 (380 en jetons) 
+FRANTXESKA : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 2c]
+FRANTXESKA : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : FRANTXESKA (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°260167556612 : Tournoi #3985193531, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 21/03/2026 8:00:30 CET [21/03/2026 3:00:30 ET]
+Table '3985193531 1' 3-max Siège #2 est au bouton.
+Place 1: FRANTXESKA (1105 en jetons) 
+Place 2: psychoman59 (395 en jetons) 
+psychoman59 : met la petite blind. 15
+FRANTXESKA : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c As]
+psychoman59 : relance. 365 à 395 et est all-in.
+FRANTXESKA : suit. 365
+*** FLOP *** [9d 9h 7h]
+*** TOURNANT *** [9d 9h 7h] [Ts]
+*** RIVIÈRE *** [9d 9h 7h Ts] [Qh]
+*** ABATTAGE ***
+FRANTXESKA : montre [Qs 2h] (double paire, Dames et Neuf)
+psychoman59 : montre [4c As] (une paire de Neuf)
+FRANTXESKA a remporté 790  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+FRANTXESKA gagne le tournoi - félicitations !
+FRANTXESKA gagne un ticket " €1.50 Step 2 SnG Power Path ticket "
+*** SYNTHÈSE ***
+Pot total 790 | Commission 0 
+Tableau [9d 9h 7h Ts Qh]
+Siège 1 : FRANTXESKA (grosse blind) a montré [Qs 2h] et a gagné (790) avec double paire, Dames et Neuf
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [4c As] et a perdu avec une paire de Neuf
+
+
+

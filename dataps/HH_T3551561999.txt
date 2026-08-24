@@ -1,0 +1,433 @@
+﻿Main PokerStars n°241991481964 : Tournoi #3551561999, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/02/2023 23:05:02 CET [21/02/2023 17:05:02 ET]
+Table '3551561999 1' 3-max Siège #1 est au bouton.
+Place 1: yoooo22 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: timtimiii (300 en jetons) 
+psychoman59 : met la petite blind. 10
+timtimiii : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Qc]
+yoooo22 : suit. 20
+psychoman59 : passe. 
+timtimiii : parole 
+*** FLOP *** [9d 4c 3c]
+timtimiii : parole 
+yoooo22 : parole 
+*** TOURNANT *** [9d 4c 3c] [5c]
+timtimiii : parole 
+yoooo22 : parole 
+*** RIVIÈRE *** [9d 4c 3c 5c] [5h]
+timtimiii : parole 
+yoooo22 : parole 
+*** ABATTAGE ***
+timtimiii : montre [8d Kd] (une paire de Cinq)
+yoooo22 : cache la main perdante. 
+timtimiii a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [9d 4c 3c 5c 5h]
+Siège 1 : yoooo22 (bouton) a caché la main perdante. [Js 7d]
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : timtimiii (grosse blind) a montré [8d Kd] et a gagné (50) avec une paire de Cinq
+
+
+
+Main PokerStars n°241991494628 : Tournoi #3551561999, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/02/2023 23:05:33 CET [21/02/2023 17:05:33 ET]
+Table '3551561999 1' 3-max Siège #2 est au bouton.
+Place 1: yoooo22 (280 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: timtimiii (330 en jetons) 
+timtimiii : met la petite blind. 10
+yoooo22 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 6s]
+psychoman59 : passe. 
+timtimiii : relance. 310 à 330 et est all-in.
+yoooo22 : passe. 
+Personne n'a suivi. (310) sont retournés à timtimiii.
+timtimiii a remporté 40  lors du pot .
+timtimiii : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : yoooo22 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : timtimiii (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°241991498703 : Tournoi #3551561999, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/02/2023 23:05:43 CET [21/02/2023 17:05:43 ET]
+Table '3551561999 1' 3-max Siège #3 est au bouton.
+Place 1: yoooo22 (260 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: timtimiii (350 en jetons) 
+yoooo22 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 8s]
+timtimiii : passe. 
+yoooo22 : relance. 20 à 40
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à yoooo22.
+yoooo22 a remporté 40  lors du pot .
+yoooo22 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : yoooo22 (petite blind) a remporté (40)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : timtimiii (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°241991502855 : Tournoi #3551561999, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/02/2023 23:05:54 CET [21/02/2023 17:05:54 ET]
+Table '3551561999 1' 3-max Siège #1 est au bouton.
+Place 1: yoooo22 (280 en jetons) 
+Place 2: psychoman59 (270 en jetons) 
+Place 3: timtimiii (350 en jetons) 
+psychoman59 : met la petite blind. 10
+timtimiii : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 3c]
+yoooo22 : relance. 40 à 60
+psychoman59 : relance. 210 à 270 et est all-in.
+timtimiii : passe. 
+yoooo22 : suit. 210
+*** FLOP *** [Jc Qc Tc]
+*** TOURNANT *** [Jc Qc Tc] [4h]
+*** RIVIÈRE *** [Jc Qc Tc 4h] [2c]
+*** ABATTAGE ***
+psychoman59 : montre [3d 3c] (une couleur, hauteur Dame)
+yoooo22 : montre [Qh Ah] (une paire de Dames)
+psychoman59 a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [Jc Qc Tc 4h 2c]
+Siège 1 : yoooo22 (bouton) a montré [Qh Ah] et a perdu avec une paire de Dames
+Siège 2 : psychoman59 (petite blind) a montré [3d 3c] et a gagné (560) avec une couleur, hauteur Dame
+Siège 3 : timtimiii (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241991512847 : Tournoi #3551561999, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 21/02/2023 23:06:19 CET [21/02/2023 17:06:19 ET]
+Table '3551561999 1' 3-max Siège #2 est au bouton.
+Place 1: yoooo22 (10 en jetons) 
+Place 2: psychoman59 (560 en jetons) 
+Place 3: timtimiii (330 en jetons) 
+timtimiii : met la petite blind. 15
+yoooo22 : met la grosse blind. 10 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 9c]
+psychoman59 : suit. 30
+timtimiii : suit. 15
+*** FLOP *** [7h 5h 6c]
+timtimiii : parole 
+psychoman59 : parole 
+*** TOURNANT *** [7h 5h 6c] [Kd]
+timtimiii : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [7h 5h 6c Kd] [8d]
+timtimiii : parole 
+psychoman59 : mise. 30
+timtimiii : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+*** ABATTAGE ***
+psychoman59 : montre [Jd 9c] (une suite, Cinq à Neuf)
+psychoman59 a remporté 40  parallèle lors du pot .
+yoooo22 : montre [Ks Jh] (une paire de Rois)
+psychoman59 a remporté 30  principal lors du pot .
+yoooo22 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 70 Principal pot 30. Parallèle pot 40. | Commission 0 
+Tableau [7h 5h 6c Kd 8d]
+Siège 1 : yoooo22 (grosse blind) a montré [Ks Jh] et a perdu avec une paire de Rois
+Siège 2 : psychoman59 (bouton) a montré [Jd 9c] et a gagné (70) avec une suite, Cinq à Neuf
+Siège 3 : timtimiii (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°241991524777 : Tournoi #3551561999, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 21/02/2023 23:06:49 CET [21/02/2023 17:06:49 ET]
+Table '3551561999 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (600 en jetons) 
+Place 3: timtimiii (300 en jetons) 
+timtimiii : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Ks]
+timtimiii : relance. 270 à 300 et est all-in.
+psychoman59 : suit. 270
+*** FLOP *** [7s 4d Qh]
+*** TOURNANT *** [7s 4d Qh] [6d]
+*** RIVIÈRE *** [7s 4d Qh 6d] [Ad]
+*** ABATTAGE ***
+psychoman59 : montre [Th Ks] (Hauteur As)
+timtimiii : montre [Jd 8d] (une couleur, hauteur As)
+timtimiii a remporté 600  lors du pot .
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [7s 4d Qh 6d Ad]
+Siège 2 : psychoman59 (grosse blind) a montré [Th Ks] et a perdu avec Hauteur As
+Siège 3 : timtimiii (bouton) (petite blind) a montré [Jd 8d] et a gagné (600) avec une couleur, hauteur As
+
+
+
+Main PokerStars n°241991531730 : Tournoi #3551561999, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 21/02/2023 23:07:06 CET [21/02/2023 17:07:06 ET]
+Table '3551561999 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (300 en jetons) 
+Place 3: timtimiii (600 en jetons) 
+psychoman59 : met la petite blind. 20
+timtimiii : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 3d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à timtimiii.
+timtimiii a remporté 40  lors du pot .
+timtimiii : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : timtimiii (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°241991534264 : Tournoi #3551561999, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 21/02/2023 23:07:13 CET [21/02/2023 17:07:13 ET]
+Table '3551561999 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (280 en jetons) 
+Place 3: timtimiii (620 en jetons) 
+timtimiii : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Th]
+timtimiii : relance. 580 à 620 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (580) sont retournés à timtimiii.
+timtimiii a remporté 80  lors du pot .
+timtimiii : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : timtimiii (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°241991536913 : Tournoi #3551561999, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 21/02/2023 23:07:19 CET [21/02/2023 17:07:19 ET]
+Table '3551561999 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (240 en jetons) 
+Place 3: timtimiii (660 en jetons) 
+psychoman59 : met la petite blind. 20
+timtimiii : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 8c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à timtimiii.
+timtimiii a remporté 40  lors du pot .
+timtimiii : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : timtimiii (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°241991538892 : Tournoi #3551561999, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 21/02/2023 23:07:24 CET [21/02/2023 17:07:24 ET]
+Table '3551561999 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (220 en jetons) 
+Place 3: timtimiii (680 en jetons) 
+timtimiii : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Th]
+timtimiii : relance. 640 à 680 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (640) sont retournés à timtimiii.
+timtimiii a remporté 80  lors du pot .
+timtimiii : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : timtimiii (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°241991543375 : Tournoi #3551561999, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 21/02/2023 23:07:36 CET [21/02/2023 17:07:36 ET]
+Table '3551561999 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (180 en jetons) 
+Place 3: timtimiii (720 en jetons) 
+psychoman59 : met la petite blind. 20
+timtimiii : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Jc]
+psychoman59 : relance. 140 à 180 et est all-in.
+timtimiii : suit. 140
+*** FLOP *** [Tc 9c Qs]
+*** TOURNANT *** [Tc 9c Qs] [4c]
+*** RIVIÈRE *** [Tc 9c Qs 4c] [5d]
+*** ABATTAGE ***
+timtimiii : montre [Ah Ks] (Hauteur As)
+psychoman59 : montre [Kh Jc] (une suite, Neuf à Roi)
+psychoman59 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [Tc 9c Qs 4c 5d]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Kh Jc] et a gagné (360) avec une suite, Neuf à Roi
+Siège 3 : timtimiii (grosse blind) a montré [Ah Ks] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°241991548975 : Tournoi #3551561999, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 21/02/2023 23:07:50 CET [21/02/2023 17:07:50 ET]
+Table '3551561999 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (360 en jetons) 
+Place 3: timtimiii (540 en jetons) 
+timtimiii : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 3s]
+timtimiii : relance. 500 à 540 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (500) sont retournés à timtimiii.
+timtimiii a remporté 80  lors du pot .
+timtimiii : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : timtimiii (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°241991552650 : Tournoi #3551561999, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 21/02/2023 23:07:59 CET [21/02/2023 17:07:59 ET]
+Table '3551561999 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (320 en jetons) 
+Place 3: timtimiii (580 en jetons) 
+psychoman59 : met la petite blind. 20
+timtimiii : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 8d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à timtimiii.
+timtimiii a remporté 40  lors du pot .
+timtimiii : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : timtimiii (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°241991555872 : Tournoi #3551561999, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 21/02/2023 23:08:07 CET [21/02/2023 17:08:07 ET]
+Table '3551561999 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (300 en jetons) 
+Place 3: timtimiii (600 en jetons) 
+timtimiii : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Qs]
+timtimiii : relance. 540 à 600 et est all-in.
+psychoman59 : suit. 240 et est all-in.
+Personne n'a suivi. (300) sont retournés à timtimiii.
+*** FLOP *** [Qc 5s 3c]
+*** TOURNANT *** [Qc 5s 3c] [8h]
+*** RIVIÈRE *** [Qc 5s 3c 8h] [7d]
+*** ABATTAGE ***
+psychoman59 : montre [9s Qs] (une paire de Dames)
+timtimiii : montre [4s Qh] (une paire de Dames - plus basse kicker)
+psychoman59 a remporté 600  lors du pot .
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [Qc 5s 3c 8h 7d]
+Siège 2 : psychoman59 (grosse blind) a montré [9s Qs] et a gagné (600) avec une paire de Dames
+Siège 3 : timtimiii (bouton) (petite blind) a montré [4s Qh] et a perdu avec une paire de Dames
+
+
+
+Main PokerStars n°241991563032 : Tournoi #3551561999, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 21/02/2023 23:08:25 CET [21/02/2023 17:08:25 ET]
+Table '3551561999 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (600 en jetons) 
+Place 3: timtimiii (300 en jetons) 
+psychoman59 : met la petite blind. 30
+timtimiii : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Kc]
+psychoman59 : relance. 540 à 600 et est all-in.
+timtimiii : passe. 
+Personne n'a suivi. (540) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 3 : timtimiii (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241991567173 : Tournoi #3551561999, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 21/02/2023 23:08:35 CET [21/02/2023 17:08:35 ET]
+Table '3551561999 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (660 en jetons) 
+Place 3: timtimiii (240 en jetons) 
+timtimiii : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Ad]
+timtimiii : suit. 30
+psychoman59 : relance. 600 à 660 et est all-in.
+timtimiii : suit. 180 et est all-in.
+Personne n'a suivi. (420) sont retournés à psychoman59.
+*** FLOP *** [8c Qh 9d]
+*** TOURNANT *** [8c Qh 9d] [4s]
+*** RIVIÈRE *** [8c Qh 9d 4s] [Jc]
+*** ABATTAGE ***
+psychoman59 : montre [2h Ad] (Hauteur As)
+timtimiii : montre [5d Td] (une suite, Huit à Dame)
+timtimiii a remporté 480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [8c Qh 9d 4s Jc]
+Siège 2 : psychoman59 (grosse blind) a montré [2h Ad] et a perdu avec Hauteur As
+Siège 3 : timtimiii (bouton) (petite blind) a montré [5d Td] et a gagné (480) avec une suite, Huit à Dame
+
+
+
+Main PokerStars n°241991574025 : Tournoi #3551561999, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 21/02/2023 23:08:52 CET [21/02/2023 17:08:52 ET]
+Table '3551561999 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (420 en jetons) 
+Place 3: timtimiii (480 en jetons) 
+psychoman59 : met la petite blind. 30
+timtimiii : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Ah]
+psychoman59 : relance. 360 à 420 et est all-in.
+timtimiii : passe. 
+Personne n'a suivi. (360) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 3 : timtimiii (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241991577166 : Tournoi #3551561999, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 21/02/2023 23:09:00 CET [21/02/2023 17:09:00 ET]
+Table '3551561999 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (480 en jetons) 
+Place 3: timtimiii (420 en jetons) 
+timtimiii : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s As]
+timtimiii : relance. 360 à 420 et est all-in.
+psychoman59 : suit. 360
+*** FLOP *** [5c 8c Kh]
+*** TOURNANT *** [5c 8c Kh] [Js]
+*** RIVIÈRE *** [5c 8c Kh Js] [Jd]
+*** ABATTAGE ***
+psychoman59 : montre [7s As] (une paire de Valets)
+timtimiii : montre [9h Qd] (une paire de Valets - plus basse kicker)
+psychoman59 a remporté 840  lors du pot .
+timtimiii a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Tableau [5c 8c Kh Js Jd]
+Siège 2 : psychoman59 (grosse blind) a montré [7s As] et a gagné (840) avec une paire de Valets
+Siège 3 : timtimiii (bouton) (petite blind) a montré [9h Qd] et a perdu avec une paire de Valets
+
+
+

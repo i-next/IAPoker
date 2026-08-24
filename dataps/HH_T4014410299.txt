@@ -1,0 +1,52 @@
+﻿Main PokerStars n°261371688659 : Tournoi #4014410299, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2026 7:31:09 CET [08/07/2026 1:31:09 ET]
+Table '4014410299 1' 3-max Siège #1 est au bouton.
+Place 1: jeffbref (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: ilovecristal (500 en jetons) 
+psychoman59 : met la petite blind. 10
+ilovecristal : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Js]
+jeffbref : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à ilovecristal.
+ilovecristal a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : jeffbref (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : ilovecristal (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°261371689302 : Tournoi #4014410299, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 08/07/2026 7:31:22 CET [08/07/2026 1:31:22 ET]
+Table '4014410299 1' 3-max Siège #2 est au bouton.
+Place 1: jeffbref (500 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: ilovecristal (510 en jetons) 
+ilovecristal : met la petite blind. 10
+jeffbref : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Th]
+psychoman59 : relance. 50 à 70
+ilovecristal : passe. 
+jeffbref : relance. 430 à 500 et est all-in.
+psychoman59 : suit. 420 et est all-in.
+Personne n'a suivi. (10) sont retournés à jeffbref.
+*** FLOP *** [9c 6d 2d]
+*** TOURNANT *** [9c 6d 2d] [4c]
+*** RIVIÈRE *** [9c 6d 2d 4c] [7c]
+*** ABATTAGE ***
+jeffbref : montre [7d Ah] (une paire de Sept)
+psychoman59 : montre [As Th] (Hauteur As)
+jeffbref a remporté 990  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 990 | Commission 0 
+Tableau [9c 6d 2d 4c 7c]
+Siège 1 : jeffbref (grosse blind) a montré [7d Ah] et a gagné (990) avec une paire de Sept
+Siège 2 : psychoman59 (bouton) a montré [As Th] et a perdu avec Hauteur As
+Siège 3 : ilovecristal (petite blind) s'est couché. avant Flop
+
+
+

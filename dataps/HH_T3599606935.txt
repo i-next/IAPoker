@@ -1,0 +1,299 @@
+﻿Main PokerStars n°244062312327 : Tournoi #3599606935, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 03/06/2023 8:35:12 CET [03/06/2023 2:35:12 ET]
+Table '3599606935 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: phil6373 (300 en jetons) 
+Place 3: mmams850 (300 en jetons) 
+phil6373 : met la petite blind. 10
+mmams850 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Jd]
+psychoman59 : passe. 
+phil6373 : suit. 10
+mmams850 : parole 
+*** FLOP *** [2h 4c 6c]
+phil6373 : parole 
+mmams850 : parole 
+*** TOURNANT *** [2h 4c 6c] [8s]
+phil6373 : mise. 20
+mmams850 : passe. 
+Personne n'a suivi. (20) sont retournés à phil6373.
+phil6373 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [2h 4c 6c 8s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : phil6373 (petite blind) a remporté (40)
+Siège 3 : mmams850 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°244062313969 : Tournoi #3599606935, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 03/06/2023 8:35:26 CET [03/06/2023 2:35:26 ET]
+Table '3599606935 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: phil6373 (320 en jetons) 
+Place 3: mmams850 (280 en jetons) 
+mmams850 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 2h]
+phil6373 : relance. 20 à 40
+mmams850 : relance. 20 à 60
+psychoman59 : passe. 
+phil6373 : suit. 20
+*** FLOP *** [Ad 8c 5d]
+mmams850 : parole 
+phil6373 : parole 
+*** TOURNANT *** [Ad 8c 5d] [4h]
+mmams850 : mise. 140
+phil6373 : passe. 
+Personne n'a suivi. (140) sont retournés à mmams850.
+mmams850 a remporté 140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [Ad 8c 5d 4h]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : phil6373 (bouton) s'est couché. sur le Tournant
+Siège 3 : mmams850 (petite blind) a remporté (140)
+
+
+
+Main PokerStars n°244062316313 : Tournoi #3599606935, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 03/06/2023 8:35:47 CET [03/06/2023 2:35:47 ET]
+Table '3599606935 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: phil6373 (260 en jetons) 
+Place 3: mmams850 (360 en jetons) 
+psychoman59 : met la petite blind. 10
+phil6373 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 8c]
+mmams850 : suit. 20
+psychoman59 : suit. 10
+phil6373 : parole 
+*** FLOP *** [Ts Ks 8h]
+psychoman59 : parole 
+phil6373 : parole 
+mmams850 : parole 
+*** TOURNANT *** [Ts Ks 8h] [Jd]
+psychoman59 : mise. 60
+phil6373 : passe. 
+mmams850 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ts Ks 8h Jd]
+Siège 1 : psychoman59 (petite blind) a remporté (60)
+Siège 2 : phil6373 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : mmams850 (bouton) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°244062318877 : Tournoi #3599606935, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 03/06/2023 8:36:10 CET [03/06/2023 2:36:10 ET]
+Table '3599606935 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (320 en jetons) 
+Place 2: phil6373 (240 en jetons) 
+Place 3: mmams850 (340 en jetons) 
+phil6373 : met la petite blind. 10
+mmams850 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Jh]
+psychoman59 : relance. 20 à 40
+phil6373 : relance. 200 à 240 et est all-in.
+mmams850 : passe. 
+psychoman59 : suit. 200
+*** FLOP *** [7s 4c 2d]
+*** TOURNANT *** [7s 4c 2d] [7c]
+*** RIVIÈRE *** [7s 4c 2d 7c] [Td]
+*** ABATTAGE ***
+phil6373 : montre [Ad Ks] (une paire de Sept)
+psychoman59 : montre [Kc Jh] (une paire de Sept - plus basse kicker)
+phil6373 a remporté 500  lors du pot .
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Tableau [7s 4c 2d 7c Td]
+Siège 1 : psychoman59 (bouton) a montré [Kc Jh] et a perdu avec une paire de Sept
+Siège 2 : phil6373 (petite blind) a montré [Ad Ks] et a gagné (500) avec une paire de Sept
+Siège 3 : mmams850 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244062321279 : Tournoi #3599606935, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 03/06/2023 8:36:30 CET [03/06/2023 2:36:30 ET]
+Table '3599606935 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (80 en jetons) 
+Place 2: phil6373 (500 en jetons) 
+Place 3: mmams850 (320 en jetons) 
+mmams850 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 3s]
+phil6373 : suit. 30
+mmams850 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [3c 9h Jd]
+mmams850 : parole 
+psychoman59 : mise. 50 et est all-in.
+phil6373 : passe. 
+mmams850 : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 90  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [3c 9h Jd]
+Siège 1 : psychoman59 (grosse blind) a remporté (90)
+Siège 2 : phil6373 (bouton) s'est couché. sur le Flop
+Siège 3 : mmams850 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°244062323533 : Tournoi #3599606935, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 03/06/2023 8:36:50 CET [03/06/2023 2:36:50 ET]
+Table '3599606935 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (140 en jetons) 
+Place 2: phil6373 (470 en jetons) 
+Place 3: mmams850 (290 en jetons) 
+psychoman59 : met la petite blind. 15
+phil6373 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Qd]
+mmams850 : relance. 260 à 290 et est all-in.
+psychoman59 : suit. 125 et est all-in.
+phil6373 : passe. 
+Personne n'a suivi. (150) sont retournés à mmams850.
+*** FLOP *** [Js Jh 3h]
+*** TOURNANT *** [Js Jh 3h] [5c]
+*** RIVIÈRE *** [Js Jh 3h 5c] [8h]
+*** ABATTAGE ***
+psychoman59 : montre [Ac Qd] (une paire de Valets)
+mmams850 : montre [9c As] (une paire de Valets - plus basse kicker)
+psychoman59 a remporté 310  lors du pot .
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Tableau [Js Jh 3h 5c 8h]
+Siège 1 : psychoman59 (petite blind) a montré [Ac Qd] et a gagné (310) avec une paire de Valets
+Siège 2 : phil6373 (grosse blind) s'est couché. avant Flop
+Siège 3 : mmams850 (bouton) a montré [9c As] et a perdu avec une paire de Valets
+
+
+
+Main PokerStars n°244062325490 : Tournoi #3599606935, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 03/06/2023 8:37:07 CET [03/06/2023 2:37:07 ET]
+Table '3599606935 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (310 en jetons) 
+Place 2: phil6373 (440 en jetons) 
+Place 3: mmams850 (150 en jetons) 
+phil6373 : met la petite blind. 15
+mmams850 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 3h]
+psychoman59 : passe. 
+phil6373 : suit. 15
+mmams850 : parole 
+*** FLOP *** [As 7h Kh]
+phil6373 : parole 
+mmams850 : mise. 120 et est all-in.
+phil6373 : passe. 
+Personne n'a suivi. (120) sont retournés à mmams850.
+mmams850 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [As 7h Kh]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : phil6373 (petite blind) s'est couché. sur le Flop
+Siège 3 : mmams850 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°244062327724 : Tournoi #3599606935, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 03/06/2023 8:37:27 CET [03/06/2023 2:37:27 ET]
+Table '3599606935 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (310 en jetons) 
+Place 2: phil6373 (410 en jetons) 
+Place 3: mmams850 (180 en jetons) 
+mmams850 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Jh]
+phil6373 : suit. 40
+mmams850 : relance. 140 à 180 et est all-in.
+psychoman59 : passe. 
+phil6373 : suit. 140
+*** FLOP *** [3c 8d 3s]
+*** TOURNANT *** [3c 8d 3s] [4s]
+*** RIVIÈRE *** [3c 8d 3s 4s] [9s]
+*** ABATTAGE ***
+mmams850 : montre [Qh Tc] (une paire de Trois)
+phil6373 : montre [Kh Ts] (une paire de Trois - Roi kicker)
+phil6373 a remporté 400  lors du pot .
+mmams850 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [3c 8d 3s 4s 9s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : phil6373 (bouton) a montré [Kh Ts] et a gagné (400) avec une paire de Trois
+Siège 3 : mmams850 (petite blind) a montré [Qh Tc] et a perdu avec une paire de Trois
+
+
+
+Main PokerStars n°244062330453 : Tournoi #3599606935, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 03/06/2023 8:37:50 CET [03/06/2023 2:37:50 ET]
+Table '3599606935 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 2: phil6373 (630 en jetons) 
+psychoman59 : met la petite blind. 20
+phil6373 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 9h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à phil6373.
+phil6373 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : phil6373 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°244062331065 : Tournoi #3599606935, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 03/06/2023 8:37:55 CET [03/06/2023 2:37:55 ET]
+Table '3599606935 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (250 en jetons) 
+Place 2: phil6373 (650 en jetons) 
+phil6373 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Ah]
+phil6373 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 2 : phil6373 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244062331732 : Tournoi #3599606935, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 03/06/2023 8:38:01 CET [03/06/2023 2:38:01 ET]
+Table '3599606935 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 2: phil6373 (630 en jetons) 
+psychoman59 : met la petite blind. 20
+phil6373 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Ah]
+psychoman59 : relance. 230 à 270 et est all-in.
+phil6373 : suit. 230
+*** FLOP *** [4d Ts Th]
+*** TOURNANT *** [4d Ts Th] [8s]
+*** RIVIÈRE *** [4d Ts Th 8s] [9h]
+*** ABATTAGE ***
+phil6373 : montre [8c Kh] (double paire, Dix et Huit)
+psychoman59 : montre [7h Ah] (une paire de Dix)
+phil6373 a remporté 540  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+phil6373 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [4d Ts Th 8s 9h]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [7h Ah] et a perdu avec une paire de Dix
+Siège 2 : phil6373 (grosse blind) a montré [8c Kh] et a gagné (540) avec double paire, Dix et Huit
+
+
+

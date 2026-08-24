@@ -1,0 +1,118 @@
+﻿Main PokerStars n°260423229567 : Tournoi #3991174963, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/04/2026 11:56:11 CET [11/04/2026 5:56:11 ET]
+Table '3991174963 1' 3-max Siège #1 est au bouton.
+Place 1: tuchobien (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: roifou59 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+roifou59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 8c]
+tuchobien : suit. 20
+psychoman59 : suit. 10
+roifou59 : relance. 60 à 80
+tuchobien : suit. 60
+psychoman59 : passe. 
+*** FLOP *** [4s Qs 4h]
+roifou59 : mise. 420 et est all-in.
+tuchobien : passe. 
+Personne n'a suivi. (420) sont retournés à roifou59.
+roifou59 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [4s Qs 4h]
+Siège 1 : tuchobien (bouton) s'est couché. sur le Flop
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : roifou59 (grosse blind) a remporté (180)
+
+
+
+Main PokerStars n°260423231073 : Tournoi #3991174963, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/04/2026 11:56:31 CET [11/04/2026 5:56:31 ET]
+Table '3991174963 1' 3-max Siège #2 est au bouton.
+Place 1: tuchobien (420 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+Place 3: roifou59 (600 en jetons) 
+roifou59 : met la petite blind. 10
+tuchobien : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Ah]
+psychoman59 : relance. 20 à 40
+roifou59 : passe. 
+tuchobien : suit. 20
+*** FLOP *** [4h 7d Ad]
+tuchobien : mise. 20
+psychoman59 : relance. 65 à 85
+tuchobien : relance. 65 à 150
+psychoman59 : relance. 290 à 440 et est all-in.
+tuchobien : passe. 
+Personne n'a suivi. (290) sont retournés à psychoman59.
+psychoman59 a remporté 390  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 390 | Commission 0 
+Tableau [4h 7d Ad]
+Siège 1 : tuchobien (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) a remporté (390)
+Siège 3 : roifou59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260423232731 : Tournoi #3991174963, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/04/2026 11:56:53 CET [11/04/2026 5:56:53 ET]
+Table '3991174963 1' 3-max Siège #3 est au bouton.
+Place 1: tuchobien (230 en jetons) 
+Place 2: psychoman59 (680 en jetons) 
+Place 3: roifou59 (590 en jetons) 
+tuchobien : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh As]
+roifou59 : relance. 50 à 70
+tuchobien : relance. 160 à 230 et est all-in.
+psychoman59 : relance. 450 à 680 et est all-in.
+roifou59 : suit. 520 et est all-in.
+Personne n'a suivi. (90) sont retournés à psychoman59.
+*** FLOP *** [Th 2d 5h]
+*** TOURNANT *** [Th 2d 5h] [9d]
+*** RIVIÈRE *** [Th 2d 5h 9d] [Tc]
+*** ABATTAGE ***
+psychoman59 : montre [Jh As] (une paire de Dix)
+roifou59 : montre [Ks Kc] (double paire, Rois et Dix)
+roifou59 a remporté 720  parallèle lors du pot .
+tuchobien : montre [6d 8d] (une paire de Dix)
+roifou59 a remporté 690  principal lors du pot .
+tuchobien a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 1410 Principal pot 690. Parallèle pot 720. | Commission 0 
+Tableau [Th 2d 5h 9d Tc]
+Siège 1 : tuchobien (petite blind) a montré [6d 8d] et a perdu avec une paire de Dix
+Siège 2 : psychoman59 (grosse blind) a montré [Jh As] et a perdu avec une paire de Dix
+Siège 3 : roifou59 (bouton) a montré [Ks Kc] et a gagné (1410) avec double paire, Rois et Dix
+
+
+
+Main PokerStars n°260423234621 : Tournoi #3991174963, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/04/2026 11:57:18 CET [11/04/2026 5:57:18 ET]
+Table '3991174963 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (90 en jetons) 
+Place 3: roifou59 (1410 en jetons) 
+psychoman59 : met la petite blind. 10
+roifou59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Js]
+psychoman59 : relance. 70 à 90 et est all-in.
+roifou59 : suit. 70
+*** FLOP *** [9s 5d Kh]
+*** TOURNANT *** [9s 5d Kh] [2d]
+*** RIVIÈRE *** [9s 5d Kh 2d] [2h]
+*** ABATTAGE ***
+roifou59 : montre [5h 6h] (double paire, Cinq et Deux)
+psychoman59 : montre [4c Js] (une paire de Deux)
+roifou59 a remporté 180  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+roifou59 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [9s 5d Kh 2d 2h]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [4c Js] et a perdu avec une paire de Deux
+Siège 3 : roifou59 (grosse blind) a montré [5h 6h] et a gagné (180) avec double paire, Cinq et Deux
+
+
+

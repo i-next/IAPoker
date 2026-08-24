@@ -1,0 +1,414 @@
+﻿Main PokerStars n°239283476919 : Tournoi #3487021284, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 17/10/2022 16:23:45 CET [17/10/2022 10:23:45 ET]
+Table '3487021284 1' 3-max Siège #1 est au bouton.
+Place 1: _xavier_4521 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: LSKZR (300 en jetons) 
+psychoman59 : met la petite blind. 10
+LSKZR : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 6c]
+_xavier_4521 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à LSKZR.
+LSKZR a remporté 20  lors du pot .
+LSKZR : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : _xavier_4521 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : LSKZR (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°239283478416 : Tournoi #3487021284, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 17/10/2022 16:23:51 CET [17/10/2022 10:23:51 ET]
+Table '3487021284 1' 3-max Siège #2 est au bouton.
+Place 1: _xavier_4521 (300 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: LSKZR (310 en jetons) 
+LSKZR : met la petite blind. 10
+_xavier_4521 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Th]
+psychoman59 : passe. 
+LSKZR : passe. 
+Personne n'a suivi. (10) sont retournés à _xavier_4521.
+_xavier_4521 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : _xavier_4521 (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : LSKZR (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239283479583 : Tournoi #3487021284, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 17/10/2022 16:23:56 CET [17/10/2022 10:23:56 ET]
+Table '3487021284 1' 3-max Siège #3 est au bouton.
+Place 1: _xavier_4521 (310 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: LSKZR (300 en jetons) 
+_xavier_4521 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 7s]
+LSKZR : relance. 20 à 40
+_xavier_4521 : relance. 270 à 310 et est all-in.
+psychoman59 : passe. 
+LSKZR : suit. 260 et est all-in.
+Personne n'a suivi. (10) sont retournés à _xavier_4521.
+*** FLOP *** [9h 5d 4c]
+*** TOURNANT *** [9h 5d 4c] [7c]
+*** RIVIÈRE *** [9h 5d 4c 7c] [3s]
+*** ABATTAGE ***
+_xavier_4521 : montre [As 9s] (une paire de Neuf)
+LSKZR : montre [Ac 6s] (une suite, Trois à Sept)
+LSKZR a remporté 620  lors du pot .
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [9h 5d 4c 7c 3s]
+Siège 1 : _xavier_4521 (petite blind) a montré [As 9s] et a perdu avec une paire de Neuf
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : LSKZR (bouton) a montré [Ac 6s] et a gagné (620) avec une suite, Trois à Sept
+
+
+
+Main PokerStars n°239283483825 : Tournoi #3487021284, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 17/10/2022 16:24:13 CET [17/10/2022 10:24:13 ET]
+Table '3487021284 1' 3-max Siège #1 est au bouton.
+Place 1: _xavier_4521 (10 en jetons) 
+Place 2: psychoman59 (270 en jetons) 
+Place 3: LSKZR (620 en jetons) 
+psychoman59 : met la petite blind. 10
+LSKZR : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 9s]
+_xavier_4521 : suit. 10 et est all-in.
+psychoman59 : suit. 10
+LSKZR : parole 
+*** FLOP *** [Kh Td 8s]
+psychoman59 : parole 
+LSKZR : parole 
+*** TOURNANT *** [Kh Td 8s] [2s]
+psychoman59 : parole 
+LSKZR : parole 
+*** RIVIÈRE *** [Kh Td 8s 2s] [Ad]
+psychoman59 : parole 
+LSKZR : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Qd 9s] (Hauteur As)
+LSKZR : cache la main perdante. 
+psychoman59 a remporté 20  parallèle lors du pot .
+_xavier_4521 : cache la main perdante. 
+psychoman59 a remporté 30  principal lors du pot .
+_xavier_4521 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 50 Principal pot 30. Parallèle pot 20. | Commission 0 
+Tableau [Kh Td 8s 2s Ad]
+Siège 1 : _xavier_4521 (bouton) a caché la main perdante. [6s Qc]
+Siège 2 : psychoman59 (petite blind) a montré [Qd 9s] et a gagné (50) avec Hauteur As
+Siège 3 : LSKZR (grosse blind) a caché la main perdante. [Jd 7s]
+
+
+
+Main PokerStars n°239283489213 : Tournoi #3487021284, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 17/10/2022 16:24:35 CET [17/10/2022 10:24:35 ET]
+Table '3487021284 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (300 en jetons) 
+Place 3: LSKZR (600 en jetons) 
+LSKZR : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 7d]
+LSKZR : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (20)
+Siège 3 : LSKZR (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239283490257 : Tournoi #3487021284, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 17/10/2022 16:24:40 CET [17/10/2022 10:24:40 ET]
+Table '3487021284 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (310 en jetons) 
+Place 3: LSKZR (590 en jetons) 
+psychoman59 : met la petite blind. 10
+LSKZR : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 8h]
+psychoman59 : relance. 290 à 310 et est all-in.
+LSKZR : passe. 
+Personne n'a suivi. (290) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (40)
+Siège 3 : LSKZR (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239283492689 : Tournoi #3487021284, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 17/10/2022 16:24:50 CET [17/10/2022 10:24:50 ET]
+Table '3487021284 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (330 en jetons) 
+Place 3: LSKZR (570 en jetons) 
+LSKZR : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Qc]
+LSKZR : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+Siège 3 : LSKZR (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239283494055 : Tournoi #3487021284, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 17/10/2022 16:24:56 CET [17/10/2022 10:24:56 ET]
+Table '3487021284 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (345 en jetons) 
+Place 3: LSKZR (555 en jetons) 
+psychoman59 : met la petite blind. 15
+LSKZR : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Jd]
+psychoman59 : relance. 315 à 345 et est all-in.
+LSKZR : passe. 
+Personne n'a suivi. (315) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 3 : LSKZR (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239283496026 : Tournoi #3487021284, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 17/10/2022 16:25:04 CET [17/10/2022 10:25:04 ET]
+Table '3487021284 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (375 en jetons) 
+Place 3: LSKZR (525 en jetons) 
+LSKZR : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 8s]
+LSKZR : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à LSKZR.
+LSKZR a remporté 60  lors du pot .
+LSKZR : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : LSKZR (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°239283497621 : Tournoi #3487021284, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 17/10/2022 16:25:10 CET [17/10/2022 10:25:10 ET]
+Table '3487021284 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (345 en jetons) 
+Place 3: LSKZR (555 en jetons) 
+psychoman59 : met la petite blind. 15
+LSKZR : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 4c]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à LSKZR.
+LSKZR a remporté 30  lors du pot .
+LSKZR : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : LSKZR (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°239283499070 : Tournoi #3487021284, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 17/10/2022 16:25:16 CET [17/10/2022 10:25:16 ET]
+Table '3487021284 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (330 en jetons) 
+Place 3: LSKZR (570 en jetons) 
+LSKZR : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 7d]
+LSKZR : relance. 540 à 570 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (540) sont retournés à LSKZR.
+LSKZR a remporté 60  lors du pot .
+LSKZR : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : LSKZR (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°239283500898 : Tournoi #3487021284, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 17/10/2022 16:25:24 CET [17/10/2022 10:25:24 ET]
+Table '3487021284 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (300 en jetons) 
+Place 3: LSKZR (600 en jetons) 
+psychoman59 : met la petite blind. 15
+LSKZR : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 3c]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à LSKZR.
+LSKZR a remporté 30  lors du pot .
+LSKZR : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : LSKZR (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°239283502354 : Tournoi #3487021284, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 17/10/2022 16:25:30 CET [17/10/2022 10:25:30 ET]
+Table '3487021284 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (285 en jetons) 
+Place 3: LSKZR (615 en jetons) 
+LSKZR : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 8c]
+LSKZR : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+Siège 3 : LSKZR (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239283503409 : Tournoi #3487021284, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 17/10/2022 16:25:34 CET [17/10/2022 10:25:34 ET]
+Table '3487021284 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (300 en jetons) 
+Place 3: LSKZR (600 en jetons) 
+psychoman59 : met la petite blind. 15
+LSKZR : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 4d]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à LSKZR.
+LSKZR a remporté 30  lors du pot .
+LSKZR : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : LSKZR (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°239283504642 : Tournoi #3487021284, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 17/10/2022 16:25:39 CET [17/10/2022 10:25:39 ET]
+Table '3487021284 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (285 en jetons) 
+Place 3: LSKZR (615 en jetons) 
+LSKZR : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 6h]
+LSKZR : suit. 15
+psychoman59 : parole 
+*** FLOP *** [9d Tc Ad]
+psychoman59 : parole 
+LSKZR : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à LSKZR.
+LSKZR a remporté 60  lors du pot .
+LSKZR : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [9d Tc Ad]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : LSKZR (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°239283508435 : Tournoi #3487021284, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 17/10/2022 16:25:55 CET [17/10/2022 10:25:55 ET]
+Table '3487021284 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (255 en jetons) 
+Place 3: LSKZR (645 en jetons) 
+psychoman59 : met la petite blind. 20
+LSKZR : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 9h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à LSKZR.
+LSKZR a remporté 40  lors du pot .
+LSKZR : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : LSKZR (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°239283509624 : Tournoi #3487021284, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 17/10/2022 16:26:00 CET [17/10/2022 10:26:00 ET]
+Table '3487021284 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (235 en jetons) 
+Place 3: LSKZR (665 en jetons) 
+LSKZR : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 7h]
+LSKZR : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : LSKZR (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239283511559 : Tournoi #3487021284, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 17/10/2022 16:26:07 CET [17/10/2022 10:26:07 ET]
+Table '3487021284 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (255 en jetons) 
+Place 3: LSKZR (645 en jetons) 
+psychoman59 : met la petite blind. 20
+LSKZR : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 3c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à LSKZR.
+LSKZR a remporté 40  lors du pot .
+LSKZR : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : LSKZR (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°239283513025 : Tournoi #3487021284, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 17/10/2022 16:26:13 CET [17/10/2022 10:26:13 ET]
+Table '3487021284 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (235 en jetons) 
+Place 3: LSKZR (665 en jetons) 
+LSKZR : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 2d]
+LSKZR : relance. 625 à 665 et est all-in.
+psychoman59 : suit. 195 et est all-in.
+Personne n'a suivi. (430) sont retournés à LSKZR.
+*** FLOP *** [9d Ac Js]
+*** TOURNANT *** [9d Ac Js] [Qh]
+*** RIVIÈRE *** [9d Ac Js Qh] [6s]
+*** ABATTAGE ***
+psychoman59 : montre [Kh 2d] (Hauteur As)
+LSKZR : montre [5c As] (une paire de As)
+LSKZR a remporté 470  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+LSKZR remporte le tournoi et reçoit 6.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 470 | Commission 0 
+Tableau [9d Ac Js Qh 6s]
+Siège 2 : psychoman59 (grosse blind) a montré [Kh 2d] et a perdu avec Hauteur As
+Siège 3 : LSKZR (bouton) (petite blind) a montré [5c As] et a gagné (470) avec une paire de As
+
+
+

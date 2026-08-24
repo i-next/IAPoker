@@ -1,0 +1,59 @@
+﻿Main PokerStars n°257813339781 : Tournoi #3929781460, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 20/09/2025 7:14:19 CET [20/09/2025 1:14:19 ET]
+Table '3929781460 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: sylvainb2ob (500 en jetons) 
+Place 3: PEJ51 (500 en jetons) 
+sylvainb2ob : met la petite blind. 10
+PEJ51 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Ah]
+psychoman59 : relance. 480 à 500 et est all-in.
+sylvainb2ob : suit. 490 et est all-in.
+PEJ51 : passe. 
+*** FLOP *** [As Qd Td]
+*** TOURNANT *** [As Qd Td] [Ts]
+*** RIVIÈRE *** [As Qd Td Ts] [9d]
+*** ABATTAGE ***
+sylvainb2ob : montre [Kc 7c] (une paire de Dix)
+psychoman59 : montre [Kd Ah] (double paire, As et Dix)
+psychoman59 a remporté 1020  lors du pot .
+sylvainb2ob a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 1020 | Commission 0 
+Tableau [As Qd Td Ts 9d]
+Siège 1 : psychoman59 (bouton) a montré [Kd Ah] et a gagné (1020) avec double paire, As et Dix
+Siège 2 : sylvainb2ob (petite blind) a montré [Kc 7c] et a perdu avec une paire de Dix
+Siège 3 : PEJ51 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257813341319 : Tournoi #3929781460, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 20/09/2025 7:14:39 CET [20/09/2025 1:14:39 ET]
+Table '3929781460 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (1020 en jetons) 
+Place 3: PEJ51 (480 en jetons) 
+PEJ51 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Tc]
+PEJ51 : suit. 10
+psychoman59 : relance. 1000 à 1020 et est all-in.
+PEJ51 : suit. 460 et est all-in.
+Personne n'a suivi. (540) sont retournés à psychoman59.
+*** FLOP *** [4c 6c 3h]
+*** TOURNANT *** [4c 6c 3h] [7h]
+*** RIVIÈRE *** [4c 6c 3h 7h] [8s]
+*** ABATTAGE ***
+psychoman59 : montre [Ts Tc] (une paire de Dix)
+PEJ51 : montre [Th 7s] (une paire de Sept)
+psychoman59 a remporté 960  lors du pot .
+PEJ51 a fini le tournoi en 2e position.
+psychoman59 gagne le tournoi - félicitations !
+psychoman59 gagne un ticket " €1.50 Step 2 SnG Power Path ticket "
+*** SYNTHÈSE ***
+Pot total 960 | Commission 0 
+Tableau [4c 6c 3h 7h 8s]
+Siège 1 : psychoman59 (grosse blind) a montré [Ts Tc] et a gagné (960) avec une paire de Dix
+Siège 3 : PEJ51 (bouton) (petite blind) a montré [Th 7s] et a perdu avec une paire de Sept
+
+
+

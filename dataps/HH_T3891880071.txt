@@ -1,0 +1,310 @@
+﻿Main PokerStars n°256235795459 : Tournoi #3891880071, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/05/2025 14:55:37 CET [21/05/2025 8:55:37 ET]
+Table '3891880071 1' 3-max Siège #1 est au bouton.
+Place 1: davidelkon1983 (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: ladouille94350 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+ladouille94350 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Jc]
+davidelkon1983 : suit. 20
+psychoman59 : suit. 10
+ladouille94350 : parole 
+*** FLOP *** [Qd 2h 7s]
+psychoman59 : parole 
+ladouille94350 : parole 
+davidelkon1983 : mise. 40
+psychoman59 : passe. 
+ladouille94350 : passe. 
+Personne n'a suivi. (40) sont retournés à davidelkon1983.
+davidelkon1983 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Qd 2h 7s]
+Siège 1 : davidelkon1983 (bouton) a remporté (60)
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 3 : ladouille94350 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°256235797425 : Tournoi #3891880071, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/05/2025 14:55:55 CET [21/05/2025 8:55:55 ET]
+Table '3891880071 1' 3-max Siège #2 est au bouton.
+Place 1: davidelkon1983 (540 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+Place 3: ladouille94350 (480 en jetons) 
+ladouille94350 : met la petite blind. 10
+davidelkon1983 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Qc]
+psychoman59 : passe. 
+ladouille94350 : relance. 20 à 40
+davidelkon1983 : suit. 20
+*** FLOP *** [Ts Tc 4d]
+ladouille94350 : parole 
+davidelkon1983 : parole 
+*** TOURNANT *** [Ts Tc 4d] [Qd]
+ladouille94350 : parole 
+davidelkon1983 : parole 
+*** RIVIÈRE *** [Ts Tc 4d Qd] [9s]
+ladouille94350 : parole 
+davidelkon1983 : parole 
+*** ABATTAGE ***
+ladouille94350 : montre [Kh 6h] (une paire de Dix)
+davidelkon1983 : cache la main perdante. 
+ladouille94350 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Ts Tc 4d Qd 9s]
+Siège 1 : davidelkon1983 (grosse blind) a caché la main perdante. [6s 8s]
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : ladouille94350 (petite blind) a montré [Kh 6h] et a gagné (80) avec une paire de Dix
+
+
+
+Main PokerStars n°256235799729 : Tournoi #3891880071, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/05/2025 14:56:17 CET [21/05/2025 8:56:17 ET]
+Table '3891880071 1' 3-max Siège #3 est au bouton.
+Place 1: davidelkon1983 (500 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+Place 3: ladouille94350 (520 en jetons) 
+davidelkon1983 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 2s]
+ladouille94350 : relance. 20 à 40
+davidelkon1983 : relance. 460 à 500 et est all-in.
+psychoman59 : passe. 
+ladouille94350 : suit. 460
+*** FLOP *** [9s 6h 9c]
+*** TOURNANT *** [9s 6h 9c] [4c]
+*** RIVIÈRE *** [9s 6h 9c 4c] [5s]
+*** ABATTAGE ***
+davidelkon1983 : montre [4d 4h] (un full, full aux Quatre par les Neuf)
+ladouille94350 : montre [6s Jc] (double paire, Neuf et Six)
+davidelkon1983 a remporté 1020  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1020 | Commission 0 
+Tableau [9s 6h 9c 4c 5s]
+Siège 1 : davidelkon1983 (petite blind) a montré [4d 4h] et a gagné (1020) avec un full, full aux Quatre par les Neuf
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : ladouille94350 (bouton) a montré [6s Jc] et a perdu avec double paire, Neuf et Six
+
+
+
+Main PokerStars n°256235801701 : Tournoi #3891880071, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/05/2025 14:56:35 CET [21/05/2025 8:56:35 ET]
+Table '3891880071 1' 3-max Siège #1 est au bouton.
+Place 1: davidelkon1983 (1020 en jetons) 
+Place 2: psychoman59 (460 en jetons) 
+Place 3: ladouille94350 (20 en jetons) 
+psychoman59 : met la petite blind. 10
+ladouille94350 : met la grosse blind. 20 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Tc]
+davidelkon1983 : relance. 20 à 40
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à davidelkon1983.
+*** FLOP *** [8c 3d 7h]
+*** TOURNANT *** [8c 3d 7h] [Th]
+*** RIVIÈRE *** [8c 3d 7h Th] [4h]
+*** ABATTAGE ***
+ladouille94350 : montre [8s 7s] (double paire, Huit et Sept)
+davidelkon1983 : montre [Js Jd] (une paire de Valets)
+ladouille94350 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [8c 3d 7h Th 4h]
+Siège 1 : davidelkon1983 (bouton) a montré [Js Jd] et a perdu avec une paire de Valets
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : ladouille94350 (grosse blind) a montré [8s 7s] et a gagné (50) avec double paire, Huit et Sept
+
+
+
+Main PokerStars n°256235803286 : Tournoi #3891880071, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/05/2025 14:56:49 CET [21/05/2025 8:56:49 ET]
+Table '3891880071 1' 3-max Siège #2 est au bouton.
+Place 1: davidelkon1983 (1000 en jetons) 
+Place 2: psychoman59 (450 en jetons) 
+Place 3: ladouille94350 (50 en jetons) 
+ladouille94350 : met la petite blind. 10
+davidelkon1983 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 6d]
+psychoman59 : passe. 
+ladouille94350 : relance. 20 à 40
+davidelkon1983 : suit. 20
+*** FLOP *** [Kc Jd Ts]
+ladouille94350 : mise. 10 et est all-in.
+davidelkon1983 : suit. 10
+*** TOURNANT *** [Kc Jd Ts] [Ks]
+*** RIVIÈRE *** [Kc Jd Ts Ks] [6h]
+*** ABATTAGE ***
+ladouille94350 : montre [2d 2s] (double paire, Rois et Deux)
+davidelkon1983 : montre [7h Qd] (une paire de Rois)
+ladouille94350 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [Kc Jd Ts Ks 6h]
+Siège 1 : davidelkon1983 (grosse blind) a montré [7h Qd] et a perdu avec une paire de Rois
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : ladouille94350 (petite blind) a montré [2d 2s] et a gagné (100) avec double paire, Rois et Deux
+
+
+
+Main PokerStars n°256235805455 : Tournoi #3891880071, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/05/2025 14:57:09 CET [21/05/2025 8:57:09 ET]
+Table '3891880071 1' 3-max Siège #3 est au bouton.
+Place 1: davidelkon1983 (950 en jetons) 
+Place 2: psychoman59 (450 en jetons) 
+Place 3: ladouille94350 (100 en jetons) 
+davidelkon1983 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 4c]
+ladouille94350 : relance. 80 à 100 et est all-in.
+davidelkon1983 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à ladouille94350.
+ladouille94350 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : davidelkon1983 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : ladouille94350 (bouton) a remporté (50)
+
+
+
+Main PokerStars n°256235806546 : Tournoi #3891880071, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/05/2025 14:57:19 CET [21/05/2025 8:57:19 ET]
+Table '3891880071 1' 3-max Siège #1 est au bouton.
+Place 1: davidelkon1983 (940 en jetons) 
+Place 2: psychoman59 (430 en jetons) 
+Place 3: ladouille94350 (130 en jetons) 
+psychoman59 : met la petite blind. 10
+ladouille94350 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 6d]
+davidelkon1983 : passe. 
+psychoman59 : suit. 10
+ladouille94350 : relance. 110 à 130 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (110) sont retournés à ladouille94350.
+ladouille94350 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : davidelkon1983 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : ladouille94350 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°256235807524 : Tournoi #3891880071, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/05/2025 14:57:28 CET [21/05/2025 8:57:28 ET]
+Table '3891880071 1' 3-max Siège #2 est au bouton.
+Place 1: davidelkon1983 (940 en jetons) 
+Place 2: psychoman59 (410 en jetons) 
+Place 3: ladouille94350 (150 en jetons) 
+ladouille94350 : met la petite blind. 10
+davidelkon1983 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d As]
+psychoman59 : suit. 20
+ladouille94350 : relance. 20 à 40
+davidelkon1983 : relance. 900 à 940 et est all-in.
+psychoman59 : passe. 
+ladouille94350 : suit. 110 et est all-in.
+Personne n'a suivi. (790) sont retournés à davidelkon1983.
+*** FLOP *** [Qh Th Qs]
+*** TOURNANT *** [Qh Th Qs] [4d]
+*** RIVIÈRE *** [Qh Th Qs 4d] [2h]
+*** ABATTAGE ***
+ladouille94350 : montre [7d Ac] (une paire de Dames)
+davidelkon1983 : montre [3h 3d] (double paire, Dames et Trois)
+davidelkon1983 a remporté 320  lors du pot .
+ladouille94350 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [Qh Th Qs 4d 2h]
+Siège 1 : davidelkon1983 (grosse blind) a montré [3h 3d] et a gagné (320) avec double paire, Dames et Trois
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 3 : ladouille94350 (petite blind) a montré [7d Ac] et a perdu avec une paire de Dames
+
+
+
+Main PokerStars n°256235809617 : Tournoi #3891880071, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 21/05/2025 14:57:48 CET [21/05/2025 8:57:48 ET]
+Table '3891880071 1' 3-max Siège #1 est au bouton.
+Place 1: davidelkon1983 (1110 en jetons) 
+Place 2: psychoman59 (390 en jetons) 
+davidelkon1983 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Qc]
+davidelkon1983 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : davidelkon1983 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°256235810090 : Tournoi #3891880071, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 21/05/2025 14:57:53 CET [21/05/2025 8:57:53 ET]
+Table '3891880071 1' 3-max Siège #2 est au bouton.
+Place 1: davidelkon1983 (1095 en jetons) 
+Place 2: psychoman59 (405 en jetons) 
+psychoman59 : met la petite blind. 15
+davidelkon1983 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 3s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à davidelkon1983.
+davidelkon1983 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : davidelkon1983 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°256235810632 : Tournoi #3891880071, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 21/05/2025 14:57:57 CET [21/05/2025 8:57:57 ET]
+Table '3891880071 1' 3-max Siège #1 est au bouton.
+Place 1: davidelkon1983 (1110 en jetons) 
+Place 2: psychoman59 (390 en jetons) 
+davidelkon1983 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 9d]
+davidelkon1983 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : davidelkon1983 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°256235811167 : Tournoi #3891880071, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 21/05/2025 14:58:02 CET [21/05/2025 8:58:02 ET]
+Table '3891880071 1' 3-max Siège #2 est au bouton.
+Place 1: davidelkon1983 (1095 en jetons) 
+Place 2: psychoman59 (405 en jetons) 
+psychoman59 : met la petite blind. 15
+davidelkon1983 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Qd]
+psychoman59 : relance. 375 à 405 et est all-in.
+davidelkon1983 : suit. 375
+*** FLOP *** [7c 7h Jd]
+*** TOURNANT *** [7c 7h Jd] [8h]
+*** RIVIÈRE *** [7c 7h Jd 8h] [Kh]
+*** ABATTAGE ***
+davidelkon1983 : montre [Tc Ac] (une paire de Sept)
+psychoman59 : montre [6c Qd] (une paire de Sept - plus basse kicker)
+davidelkon1983 a remporté 810  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+davidelkon1983 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 810 | Commission 0 
+Tableau [7c 7h Jd 8h Kh]
+Siège 1 : davidelkon1983 (grosse blind) a montré [Tc Ac] et a gagné (810) avec une paire de Sept
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [6c Qd] et a perdu avec une paire de Sept
+
+
+

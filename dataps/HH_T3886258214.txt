@@ -1,0 +1,391 @@
+﻿Main PokerStars n°256012987488 : Tournoi #3886258214, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 05/05/2025 8:08:55 CET [05/05/2025 2:08:55 ET]
+Table '3886258214 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: Ru1zZ (500 en jetons) 
+Place 3: jacquette (500 en jetons) 
+Ru1zZ : met la petite blind. 10
+jacquette : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Jh]
+psychoman59 : passe. 
+Ru1zZ : passe. 
+Personne n'a suivi. (10) sont retournés à jacquette.
+jacquette a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Ru1zZ (petite blind) s'est couché. avant Flop
+Siège 3 : jacquette (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°256012987829 : Tournoi #3886258214, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 05/05/2025 8:09:01 CET [05/05/2025 2:09:01 ET]
+Table '3886258214 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: Ru1zZ (490 en jetons) 
+Place 3: jacquette (510 en jetons) 
+jacquette : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 6c]
+Ru1zZ : suit. 20
+jacquette : suit. 10
+psychoman59 : parole 
+*** FLOP *** [9h 9s 3d]
+jacquette : mise. 20
+psychoman59 : passe. 
+Ru1zZ : passe. 
+Personne n'a suivi. (20) sont retournés à jacquette.
+jacquette a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [9h 9s 3d]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : Ru1zZ (bouton) s'est couché. sur le Flop
+Siège 3 : jacquette (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°256012988941 : Tournoi #3886258214, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 05/05/2025 8:09:19 CET [05/05/2025 2:09:19 ET]
+Table '3886258214 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (480 en jetons) 
+Place 2: Ru1zZ (470 en jetons) 
+Place 3: jacquette (550 en jetons) 
+psychoman59 : met la petite blind. 10
+Ru1zZ : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 3s]
+jacquette : relance. 40 à 60
+psychoman59 : passe. 
+Ru1zZ : suit. 40
+*** FLOP *** [5d 9c 3h]
+Ru1zZ : mise. 65
+jacquette : suit. 65
+*** TOURNANT *** [5d 9c 3h] [4h]
+Ru1zZ : parole 
+jacquette : mise. 20
+Ru1zZ : suit. 20
+*** RIVIÈRE *** [5d 9c 3h 4h] [7s]
+Ru1zZ : parole 
+jacquette : mise. 60
+Ru1zZ : suit. 60
+*** ABATTAGE ***
+jacquette : montre [6s As] (une suite, Trois à Sept)
+Ru1zZ : cache la main perdante. 
+jacquette a remporté 420  lors du pot .
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [5d 9c 3h 4h 7s]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Ru1zZ (grosse blind) a caché la main perdante. [Jc 9d]
+Siège 3 : jacquette (bouton) a montré [6s As] et a gagné (420) avec une suite, Trois à Sept
+
+
+
+Main PokerStars n°256012990945 : Tournoi #3886258214, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 05/05/2025 8:09:52 CET [05/05/2025 2:09:52 ET]
+Table '3886258214 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (470 en jetons) 
+Place 2: Ru1zZ (265 en jetons) 
+Place 3: jacquette (765 en jetons) 
+Ru1zZ : met la petite blind. 10
+jacquette : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 9d]
+psychoman59 : passe. 
+Ru1zZ : relance. 20 à 40
+jacquette : suit. 20
+*** FLOP *** [6d 8h 4h]
+Ru1zZ : parole 
+jacquette : mise. 20
+Ru1zZ : suit. 20
+*** TOURNANT *** [6d 8h 4h] [5h]
+Ru1zZ : mise. 120
+jacquette : suit. 120
+*** RIVIÈRE *** [6d 8h 4h 5h] [7s]
+Ru1zZ : mise. 85 et est all-in.
+jacquette : suit. 85
+*** ABATTAGE ***
+Ru1zZ : montre [Ts Qc] (une suite, Quatre à Huit)
+jacquette : montre [4s Qh] (une suite, Quatre à Huit)
+Ru1zZ a remporté 265  lors du pot .
+jacquette a remporté 265  lors du pot .
+*** SYNTHÈSE ***
+Pot total 530 | Commission 0 
+Tableau [6d 8h 4h 5h 7s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Ru1zZ (petite blind) a montré [Ts Qc] et a gagné (265) avec une suite, Quatre à Huit
+Siège 3 : jacquette (grosse blind) a montré [4s Qh] et a gagné (265) avec une suite, Quatre à Huit
+
+
+
+Main PokerStars n°256012992829 : Tournoi #3886258214, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 05/05/2025 8:10:23 CET [05/05/2025 2:10:23 ET]
+Table '3886258214 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (470 en jetons) 
+Place 2: Ru1zZ (265 en jetons) 
+Place 3: jacquette (765 en jetons) 
+jacquette : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 5d]
+Ru1zZ : suit. 20
+jacquette : suit. 10
+psychoman59 : parole 
+*** FLOP *** [9c Th 7s]
+jacquette : mise. 20
+psychoman59 : suit. 20
+Ru1zZ : suit. 20
+*** TOURNANT *** [9c Th 7s] [9s]
+jacquette : mise. 20
+psychoman59 : suit. 20
+Ru1zZ : suit. 20
+*** RIVIÈRE *** [9c Th 7s 9s] [As]
+jacquette : mise. 40
+psychoman59 : passe. 
+Ru1zZ : passe. 
+Personne n'a suivi. (40) sont retournés à jacquette.
+jacquette a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [9c Th 7s 9s As]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : Ru1zZ (bouton) s'est couché. sur le Rivière
+Siège 3 : jacquette (petite blind) a remporté (180)
+
+
+
+Main PokerStars n°256012994603 : Tournoi #3886258214, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 05/05/2025 8:10:51 CET [05/05/2025 2:10:51 ET]
+Table '3886258214 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (410 en jetons) 
+Place 2: Ru1zZ (205 en jetons) 
+Place 3: jacquette (885 en jetons) 
+psychoman59 : met la petite blind. 10
+Ru1zZ : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 7h]
+jacquette : relance. 180 à 200
+psychoman59 : passe. 
+Ru1zZ : relance. 5 à 205 et est all-in.
+jacquette : suit. 5
+*** FLOP *** [Jd Ad 3d]
+*** TOURNANT *** [Jd Ad 3d] [Th]
+*** RIVIÈRE *** [Jd Ad 3d Th] [4s]
+*** ABATTAGE ***
+Ru1zZ : montre [8d Qd] (une couleur, hauteur As)
+jacquette : montre [8h 8c] (une paire de Huit)
+Ru1zZ a remporté 420  lors du pot .
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [Jd Ad 3d Th 4s]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Ru1zZ (grosse blind) a montré [8d Qd] et a gagné (420) avec une couleur, hauteur As
+Siège 3 : jacquette (bouton) a montré [8h 8c] et a perdu avec une paire de Huit
+
+
+
+Main PokerStars n°256012995970 : Tournoi #3886258214, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 05/05/2025 8:11:13 CET [05/05/2025 2:11:13 ET]
+Table '3886258214 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (400 en jetons) 
+Place 2: Ru1zZ (420 en jetons) 
+Place 3: jacquette (680 en jetons) 
+Ru1zZ : met la petite blind. 15
+jacquette : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Jh]
+psychoman59 : passe. 
+Ru1zZ : suit. 15
+jacquette : parole 
+*** FLOP *** [6s Qs 3s]
+Ru1zZ : parole 
+jacquette : mise. 30
+Ru1zZ : relance. 60 à 90
+jacquette : suit. 60
+*** TOURNANT *** [6s Qs 3s] [Ad]
+Ru1zZ : parole 
+jacquette : mise. 30
+Ru1zZ : relance. 270 à 300 et est all-in.
+jacquette : suit. 270
+*** RIVIÈRE *** [6s Qs 3s Ad] [6d]
+*** ABATTAGE ***
+Ru1zZ : montre [6c 6h] (un carré de Six)
+jacquette : montre [3d 7s] (double paire, Six et Trois)
+Ru1zZ a remporté 840  lors du pot .
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Tableau [6s Qs 3s Ad 6d]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Ru1zZ (petite blind) a montré [6c 6h] et a gagné (840) avec un carré de Six
+Siège 3 : jacquette (grosse blind) a montré [3d 7s] et a perdu avec double paire, Six et Trois
+
+
+
+Main PokerStars n°256012997800 : Tournoi #3886258214, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 05/05/2025 8:11:42 CET [05/05/2025 2:11:42 ET]
+Table '3886258214 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (400 en jetons) 
+Place 2: Ru1zZ (840 en jetons) 
+Place 3: jacquette (260 en jetons) 
+jacquette : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 9d]
+Ru1zZ : passe. 
+jacquette : relance. 90 à 120
+psychoman59 : passe. 
+Personne n'a suivi. (90) sont retournés à jacquette.
+jacquette a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Ru1zZ (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : jacquette (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°256012998607 : Tournoi #3886258214, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 05/05/2025 8:11:55 CET [05/05/2025 2:11:55 ET]
+Table '3886258214 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (370 en jetons) 
+Place 2: Ru1zZ (840 en jetons) 
+Place 3: jacquette (290 en jetons) 
+psychoman59 : met la petite blind. 15
+Ru1zZ : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 6h]
+jacquette : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à Ru1zZ.
+Ru1zZ a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Ru1zZ (grosse blind) a remporté (30)
+Siège 3 : jacquette (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°256012998960 : Tournoi #3886258214, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 05/05/2025 8:12:01 CET [05/05/2025 2:12:01 ET]
+Table '3886258214 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (355 en jetons) 
+Place 2: Ru1zZ (855 en jetons) 
+Place 3: jacquette (290 en jetons) 
+Ru1zZ : met la petite blind. 15
+jacquette : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 2c]
+psychoman59 : suit. 30
+Ru1zZ : suit. 15
+jacquette : parole 
+*** FLOP *** [2s As Ts]
+Ru1zZ : parole 
+jacquette : mise. 120
+psychoman59 : relance. 205 à 325 et est all-in.
+Ru1zZ : passe. 
+jacquette : suit. 140 et est all-in.
+Personne n'a suivi. (65) sont retournés à psychoman59.
+*** TOURNANT *** [2s As Ts] [4h]
+*** RIVIÈRE *** [2s As Ts 4h] [8h]
+*** ABATTAGE ***
+jacquette : montre [6d 4s] (une paire de Quatre)
+psychoman59 : montre [Ah 2c] (double paire, As et Deux)
+psychoman59 a remporté 610  lors du pot .
+jacquette a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 610 | Commission 0 
+Tableau [2s As Ts 4h 8h]
+Siège 1 : psychoman59 (bouton) a montré [Ah 2c] et a gagné (610) avec double paire, As et Deux
+Siège 2 : Ru1zZ (petite blind) s'est couché. sur le Flop
+Siège 3 : jacquette (grosse blind) a montré [6d 4s] et a perdu avec une paire de Quatre
+
+
+
+Main PokerStars n°256013000476 : Tournoi #3886258214, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 05/05/2025 8:12:25 CET [05/05/2025 2:12:25 ET]
+Table '3886258214 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (675 en jetons) 
+Place 2: Ru1zZ (825 en jetons) 
+Ru1zZ : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 5h]
+Ru1zZ : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (30)
+Siège 2 : Ru1zZ (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°256013000759 : Tournoi #3886258214, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 05/05/2025 8:12:30 CET [05/05/2025 2:12:30 ET]
+Table '3886258214 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (690 en jetons) 
+Place 2: Ru1zZ (810 en jetons) 
+psychoman59 : met la petite blind. 15
+Ru1zZ : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac As]
+psychoman59 : relance. 30 à 60
+Ru1zZ : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 2 : Ru1zZ (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°256013001248 : Tournoi #3886258214, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 05/05/2025 8:12:37 CET [05/05/2025 2:12:37 ET]
+Table '3886258214 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (720 en jetons) 
+Place 2: Ru1zZ (780 en jetons) 
+Ru1zZ : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 8h]
+Ru1zZ : relance. 30 à 60
+psychoman59 : suit. 30
+*** FLOP *** [Js 2c As]
+psychoman59 : parole 
+Ru1zZ : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à Ru1zZ.
+Ru1zZ a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Js 2c As]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : Ru1zZ (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°256013002246 : Tournoi #3886258214, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 05/05/2025 8:12:53 CET [05/05/2025 2:12:53 ET]
+Table '3886258214 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (660 en jetons) 
+Place 2: Ru1zZ (840 en jetons) 
+psychoman59 : met la petite blind. 15
+Ru1zZ : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Qc]
+psychoman59 : relance. 30 à 60
+Ru1zZ : suit. 30
+*** FLOP *** [7d 6c 2c]
+Ru1zZ : mise. 60
+psychoman59 : relance. 540 à 600 et est all-in.
+Ru1zZ : suit. 540
+*** TOURNANT *** [7d 6c 2c] [8h]
+*** RIVIÈRE *** [7d 6c 2c 8h] [Kd]
+*** ABATTAGE ***
+Ru1zZ : montre [Qd 6s] (une paire de Six)
+psychoman59 : montre [Ac Qc] (Hauteur As)
+Ru1zZ a remporté 1320  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+Ru1zZ remporte le tournoi et reçoit 0.50 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 1320 | Commission 0 
+Tableau [7d 6c 2c 8h Kd]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Ac Qc] et a perdu avec Hauteur As
+Siège 2 : Ru1zZ (grosse blind) a montré [Qd 6s] et a gagné (1320) avec une paire de Six
+
+
+

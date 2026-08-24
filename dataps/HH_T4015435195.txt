@@ -1,0 +1,517 @@
+﻿Main PokerStars n°261411634347 : Tournoi #4015435195, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 12/07/2026 8:08:54 CET [12/07/2026 2:08:54 ET]
+Table '4015435195 1' 3-max Siège #1 est au bouton.
+Place 1: solking24 (500 en jetons) 
+Place 2: fullTraff (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+fullTraff : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Qs]
+solking24 : suit. 20
+fullTraff : relance. 50 à 70
+psychoman59 : passe. 
+solking24 : suit. 50
+*** FLOP *** [9c Ac 6s]
+fullTraff : mise. 50
+solking24 : passe. 
+Personne n'a suivi. (50) sont retournés à fullTraff.
+fullTraff a remporté 160  lors du pot .
+fullTraff : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [9c Ac 6s]
+Siège 1 : solking24 (bouton) s'est couché. sur le Flop
+Siège 2 : fullTraff (petite blind) a remporté (160)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261411636109 : Tournoi #4015435195, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 12/07/2026 8:09:25 CET [12/07/2026 2:09:25 ET]
+Table '4015435195 1' 3-max Siège #2 est au bouton.
+Place 1: solking24 (430 en jetons) 
+Place 2: fullTraff (590 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 10
+solking24 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 4d]
+fullTraff : relance. 20 à 40
+psychoman59 : passe. 
+solking24 : suit. 20
+*** FLOP *** [7d Ac 5c]
+solking24 : parole 
+fullTraff : mise. 30
+solking24 : passe. 
+Personne n'a suivi. (30) sont retournés à fullTraff.
+fullTraff a remporté 90  lors du pot .
+fullTraff : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [7d Ac 5c]
+Siège 1 : solking24 (grosse blind) s'est couché. sur le Flop
+Siège 2 : fullTraff (bouton) a remporté (90)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261411637161 : Tournoi #4015435195, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 12/07/2026 8:09:43 CET [12/07/2026 2:09:43 ET]
+Table '4015435195 1' 3-max Siège #3 est au bouton.
+Place 1: solking24 (390 en jetons) 
+Place 2: fullTraff (640 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+solking24 : met la petite blind. 10
+fullTraff : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 9h]
+psychoman59 : passe. 
+solking24 : suit. 10
+fullTraff : parole 
+*** FLOP *** [8s 7d Js]
+solking24 : parole 
+fullTraff : parole 
+*** TOURNANT *** [8s 7d Js] [2s]
+solking24 : parole 
+fullTraff : mise. 20
+solking24 : passe. 
+Personne n'a suivi. (20) sont retournés à fullTraff.
+fullTraff a remporté 40  lors du pot .
+fullTraff : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [8s 7d Js 2s]
+Siège 1 : solking24 (petite blind) s'est couché. sur le Tournant
+Siège 2 : fullTraff (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261411638364 : Tournoi #4015435195, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 12/07/2026 8:10:04 CET [12/07/2026 2:10:04 ET]
+Table '4015435195 1' 3-max Siège #1 est au bouton.
+Place 1: solking24 (370 en jetons) 
+Place 2: fullTraff (660 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+fullTraff : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 2d]
+solking24 : suit. 20
+fullTraff : passe. 
+psychoman59 : parole 
+*** FLOP *** [9d 8h Jd]
+psychoman59 : parole 
+solking24 : parole 
+*** TOURNANT *** [9d 8h Jd] [As]
+psychoman59 : parole 
+solking24 : parole 
+*** RIVIÈRE *** [9d 8h Jd As] [Ks]
+psychoman59 : parole 
+solking24 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [9h 2d] (une paire de Neuf)
+solking24 : cache la main perdante. 
+psychoman59 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [9d 8h Jd As Ks]
+Siège 1 : solking24 (bouton) a caché la main perdante. [5d Th]
+Siège 2 : fullTraff (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [9h 2d] et a gagné (50) avec une paire de Neuf
+
+
+
+Main PokerStars n°261411639952 : Tournoi #4015435195, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 12/07/2026 8:10:33 CET [12/07/2026 2:10:33 ET]
+Table '4015435195 1' 3-max Siège #2 est au bouton.
+Place 1: solking24 (350 en jetons) 
+Place 2: fullTraff (650 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+solking24 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 8d]
+fullTraff : passe. 
+psychoman59 : suit. 10
+solking24 : parole 
+*** FLOP *** [7c 6c 7s]
+psychoman59 : parole 
+solking24 : parole 
+*** TOURNANT *** [7c 6c 7s] [2c]
+psychoman59 : parole 
+solking24 : parole 
+*** RIVIÈRE *** [7c 6c 7s 2c] [2h]
+psychoman59 : parole 
+solking24 : mise. 200
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à solking24.
+solking24 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [7c 6c 7s 2c 2h]
+Siège 1 : solking24 (grosse blind) a remporté (40)
+Siège 2 : fullTraff (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°261411641806 : Tournoi #4015435195, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 12/07/2026 8:11:07 CET [12/07/2026 2:11:07 ET]
+Table '4015435195 1' 3-max Siège #3 est au bouton.
+Place 1: solking24 (370 en jetons) 
+Place 2: fullTraff (650 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+solking24 : met la petite blind. 15
+fullTraff : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 4d]
+psychoman59 : passe. 
+solking24 : suit. 15
+fullTraff : parole 
+*** FLOP *** [As 2s 9s]
+solking24 : parole 
+fullTraff : parole 
+*** TOURNANT *** [As 2s 9s] [8h]
+solking24 : parole 
+fullTraff : mise. 30
+solking24 : suit. 30
+*** RIVIÈRE *** [As 2s 9s 8h] [6d]
+solking24 : mise. 30
+fullTraff : relance. 120 à 150
+solking24 : suit. 120
+*** ABATTAGE ***
+fullTraff : montre [Kd 5c] (Hauteur As)
+solking24 : montre [6h Qs] (une paire de Six)
+solking24 a remporté 420  lors du pot .
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [As 2s 9s 8h 6d]
+Siège 1 : solking24 (petite blind) a montré [6h Qs] et a gagné (420) avec une paire de Six
+Siège 2 : fullTraff (grosse blind) a montré [Kd 5c] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261411644716 : Tournoi #4015435195, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 12/07/2026 8:12:00 CET [12/07/2026 2:12:00 ET]
+Table '4015435195 1' 3-max Siège #1 est au bouton.
+Place 1: solking24 (580 en jetons) 
+Place 2: fullTraff (440 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+fullTraff : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Kc]
+solking24 : suit. 30
+fullTraff : relance. 105 à 135
+psychoman59 : relance. 345 à 480 et est all-in.
+solking24 : passe. 
+fullTraff : suit. 305 et est all-in.
+Personne n'a suivi. (40) sont retournés à psychoman59.
+*** FLOP *** [3h 5c Js]
+*** TOURNANT *** [3h 5c Js] [2s]
+*** RIVIÈRE *** [3h 5c Js 2s] [6d]
+*** ABATTAGE ***
+fullTraff : montre [Ac Kd] (Hauteur As)
+psychoman59 : montre [Ks Kc] (une paire de Rois)
+psychoman59 a remporté 910  lors du pot .
+fullTraff a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 910 | Commission 0 
+Tableau [3h 5c Js 2s 6d]
+Siège 1 : solking24 (bouton) s'est couché. avant Flop
+Siège 2 : fullTraff (petite blind) a montré [Ac Kd] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (grosse blind) a montré [Ks Kc] et a gagné (910) avec une paire de Rois
+
+
+
+Main PokerStars n°261411646640 : Tournoi #4015435195, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 12/07/2026 8:12:35 CET [12/07/2026 2:12:35 ET]
+Table '4015435195 1' 3-max Siège #3 est au bouton.
+Place 1: solking24 (550 en jetons) 
+Place 3: psychoman59 (950 en jetons) 
+psychoman59 : met la petite blind. 15
+solking24 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Qs]
+psychoman59 : suit. 15
+solking24 : parole 
+*** FLOP *** [Ks 8s 4c]
+solking24 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à solking24.
+solking24 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ks 8s 4c]
+Siège 1 : solking24 (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261411647490 : Tournoi #4015435195, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 12/07/2026 8:12:50 CET [12/07/2026 2:12:50 ET]
+Table '4015435195 1' 3-max Siège #1 est au bouton.
+Place 1: solking24 (580 en jetons) 
+Place 3: psychoman59 (920 en jetons) 
+solking24 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Tc]
+solking24 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [8c 2d 3s]
+psychoman59 : parole 
+solking24 : parole 
+*** TOURNANT *** [8c 2d 3s] [8h]
+psychoman59 : parole 
+solking24 : parole 
+*** RIVIÈRE *** [8c 2d 3s 8h] [5s]
+psychoman59 : parole 
+solking24 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [9c Tc] (une paire de Huit)
+solking24 : montre [Ad 7d] (une paire de Huit - As kicker)
+solking24 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [8c 2d 3s 8h 5s]
+Siège 1 : solking24 (bouton) (petite blind) a montré [Ad 7d] et a gagné (60) avec une paire de Huit
+Siège 3 : psychoman59 (grosse blind) a montré [9c Tc] et a perdu avec une paire de Huit
+
+
+
+Main PokerStars n°261411648869 : Tournoi #4015435195, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 12/07/2026 8:13:14 CET [12/07/2026 2:13:14 ET]
+Table '4015435195 1' 3-max Siège #3 est au bouton.
+Place 1: solking24 (610 en jetons) 
+Place 3: psychoman59 (890 en jetons) 
+psychoman59 : met la petite blind. 20
+solking24 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 8s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à solking24.
+solking24 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : solking24 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261411649139 : Tournoi #4015435195, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 12/07/2026 8:13:19 CET [12/07/2026 2:13:19 ET]
+Table '4015435195 1' 3-max Siège #1 est au bouton.
+Place 1: solking24 (630 en jetons) 
+Place 3: psychoman59 (870 en jetons) 
+solking24 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 8d]
+solking24 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : solking24 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°261411649418 : Tournoi #4015435195, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 12/07/2026 8:13:24 CET [12/07/2026 2:13:24 ET]
+Table '4015435195 1' 3-max Siège #3 est au bouton.
+Place 1: solking24 (610 en jetons) 
+Place 3: psychoman59 (890 en jetons) 
+psychoman59 : met la petite blind. 20
+solking24 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 4c]
+psychoman59 : suit. 20
+solking24 : parole 
+*** FLOP *** [Kh Ts 2d]
+solking24 : parole 
+psychoman59 : mise. 80
+solking24 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Kh Ts 2d]
+Siège 1 : solking24 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°261411650168 : Tournoi #4015435195, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 12/07/2026 8:13:38 CET [12/07/2026 2:13:38 ET]
+Table '4015435195 1' 3-max Siège #1 est au bouton.
+Place 1: solking24 (570 en jetons) 
+Place 3: psychoman59 (930 en jetons) 
+solking24 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 9h]
+solking24 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Ah Qh 3c]
+psychoman59 : parole 
+solking24 : parole 
+*** TOURNANT *** [Ah Qh 3c] [3h]
+psychoman59 : parole 
+solking24 : mise. 40
+psychoman59 : suit. 40
+*** RIVIÈRE *** [Ah Qh 3c 3h] [5c]
+psychoman59 : parole 
+solking24 : mise. 80
+psychoman59 : suit. 80
+*** ABATTAGE ***
+solking24 : montre [Tc 3d] (un brelan de Trois)
+psychoman59 : montre [Kh 9h] (une couleur, hauteur As)
+psychoman59 a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [Ah Qh 3c 3h 5c]
+Siège 1 : solking24 (bouton) (petite blind) a montré [Tc 3d] et a perdu avec un brelan de Trois
+Siège 3 : psychoman59 (grosse blind) a montré [Kh 9h] et a gagné (320) avec une couleur, hauteur As
+
+
+
+Main PokerStars n°261411651476 : Tournoi #4015435195, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 12/07/2026 8:14:02 CET [12/07/2026 2:14:02 ET]
+Table '4015435195 1' 3-max Siège #3 est au bouton.
+Place 1: solking24 (410 en jetons) 
+Place 3: psychoman59 (1090 en jetons) 
+psychoman59 : met la petite blind. 20
+solking24 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 5h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à solking24.
+solking24 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : solking24 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261411651852 : Tournoi #4015435195, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 12/07/2026 8:14:09 CET [12/07/2026 2:14:09 ET]
+Table '4015435195 1' 3-max Siège #1 est au bouton.
+Place 1: solking24 (430 en jetons) 
+Place 3: psychoman59 (1070 en jetons) 
+solking24 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 3s]
+solking24 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [6s Kc 4c]
+psychoman59 : parole 
+solking24 : mise. 360
+psychoman59 : passe. 
+Personne n'a suivi. (360) sont retournés à solking24.
+solking24 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [6s Kc 4c]
+Siège 1 : solking24 (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261411652711 : Tournoi #4015435195, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 12/07/2026 8:14:24 CET [12/07/2026 2:14:24 ET]
+Table '4015435195 1' 3-max Siège #3 est au bouton.
+Place 1: solking24 (470 en jetons) 
+Place 3: psychoman59 (1030 en jetons) 
+psychoman59 : met la petite blind. 20
+solking24 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 7h]
+psychoman59 : suit. 20
+solking24 : parole 
+*** FLOP *** [Tc Ac 9h]
+solking24 : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [Tc Ac 9h] [2h]
+solking24 : parole 
+psychoman59 : mise. 80
+solking24 : suit. 80
+*** RIVIÈRE *** [Tc Ac 9h 2h] [Jc]
+solking24 : mise. 160
+psychoman59 : passe. 
+Personne n'a suivi. (160) sont retournés à solking24.
+solking24 a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [Tc Ac 9h 2h Jc]
+Siège 1 : solking24 (grosse blind) a remporté (320)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°261411654339 : Tournoi #4015435195, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 12/07/2026 8:14:53 CET [12/07/2026 2:14:53 ET]
+Table '4015435195 1' 3-max Siège #1 est au bouton.
+Place 1: solking24 (630 en jetons) 
+Place 3: psychoman59 (870 en jetons) 
+solking24 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 3c]
+solking24 : relance. 40 à 80
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à solking24.
+solking24 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : solking24 (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261411654965 : Tournoi #4015435195, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/07/2026 8:15:05 CET [12/07/2026 2:15:05 ET]
+Table '4015435195 1' 3-max Siège #3 est au bouton.
+Place 1: solking24 (670 en jetons) 
+Place 3: psychoman59 (830 en jetons) 
+psychoman59 : met la petite blind. 30
+solking24 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Ac]
+psychoman59 : relance. 770 à 830 et est all-in.
+solking24 : suit. 610 et est all-in.
+Personne n'a suivi. (160) sont retournés à psychoman59.
+*** FLOP *** [8h Js Qc]
+*** TOURNANT *** [8h Js Qc] [Qd]
+*** RIVIÈRE *** [8h Js Qc Qd] [5d]
+*** ABATTAGE ***
+solking24 : montre [Jc 8s] (double paire, Dames et Valets)
+psychoman59 : montre [4c Ac] (une paire de Dames)
+solking24 a remporté 1340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1340 | Commission 0 
+Tableau [8h Js Qc Qd 5d]
+Siège 1 : solking24 (grosse blind) a montré [Jc 8s] et a gagné (1340) avec double paire, Dames et Valets
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [4c Ac] et a perdu avec une paire de Dames
+
+
+
+Main PokerStars n°261411655752 : Tournoi #4015435195, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 12/07/2026 8:15:19 CET [12/07/2026 2:15:19 ET]
+Table '4015435195 1' 3-max Siège #1 est au bouton.
+Place 1: solking24 (1340 en jetons) 
+Place 3: psychoman59 (160 en jetons) 
+solking24 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 8h]
+solking24 : relance. 60 à 120
+psychoman59 : relance. 40 à 160 et est all-in.
+solking24 : suit. 40
+*** FLOP *** [Td 7d 4h]
+*** TOURNANT *** [Td 7d 4h] [Kd]
+*** RIVIÈRE *** [Td 7d 4h Kd] [Qd]
+*** ABATTAGE ***
+psychoman59 : montre [Jc 8h] (Hauteur Roi)
+solking24 : montre [Jd Tc] (une couleur, hauteur Roi)
+solking24 a remporté 320  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+solking24 gagne le tournoi - félicitations !
+solking24 gagne un ticket " €1 Step 2 MTT Power Path ticket "
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [Td 7d 4h Kd Qd]
+Siège 1 : solking24 (bouton) (petite blind) a montré [Jd Tc] et a gagné (320) avec une couleur, hauteur Roi
+Siège 3 : psychoman59 (grosse blind) a montré [Jc 8h] et a perdu avec Hauteur Roi
+
+
+

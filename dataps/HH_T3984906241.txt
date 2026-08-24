@@ -1,0 +1,291 @@
+﻿Main PokerStars n°260156256249 : Tournoi #3984906241, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/03/2026 10:30:04 CET [20/03/2026 5:30:04 ET]
+Table '3984906241 1' 3-max Siège #1 est au bouton.
+Place 1: Stouf92350 (500 en jetons) 
+Place 2: JAD198921 (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+JAD198921 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Kd]
+Stouf92350 : suit. 20
+JAD198921 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Jc 7s 2h]
+JAD198921 : mise. 20
+psychoman59 : passe. 
+Stouf92350 : suit. 20
+*** TOURNANT *** [Jc 7s 2h] [Jd]
+JAD198921 : mise. 80
+Stouf92350 : passe. 
+Personne n'a suivi. (80) sont retournés à JAD198921.
+JAD198921 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [Jc 7s 2h Jd]
+Siège 1 : Stouf92350 (bouton) s'est couché. sur le Tournant
+Siège 2 : JAD198921 (petite blind) a remporté (100)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°260156257342 : Tournoi #3984906241, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/03/2026 10:30:19 CET [20/03/2026 5:30:19 ET]
+Table '3984906241 1' 3-max Siège #2 est au bouton.
+Place 1: Stouf92350 (460 en jetons) 
+Place 2: JAD198921 (560 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 10
+Stouf92350 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 6s]
+JAD198921 : relance. 20 à 40
+psychoman59 : passe. 
+Stouf92350 : suit. 20
+*** FLOP *** [4h 4d 6d]
+Stouf92350 : parole 
+JAD198921 : mise. 40
+Stouf92350 : passe. 
+Personne n'a suivi. (40) sont retournés à JAD198921.
+JAD198921 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [4h 4d 6d]
+Siège 1 : Stouf92350 (grosse blind) s'est couché. sur le Flop
+Siège 2 : JAD198921 (bouton) a remporté (90)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260156258125 : Tournoi #3984906241, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/03/2026 10:30:30 CET [20/03/2026 5:30:30 ET]
+Table '3984906241 1' 3-max Siège #3 est au bouton.
+Place 1: Stouf92350 (420 en jetons) 
+Place 2: JAD198921 (610 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+Stouf92350 : met la petite blind. 10
+JAD198921 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 7h]
+psychoman59 : passe. 
+Stouf92350 : suit. 10
+JAD198921 : parole 
+*** FLOP *** [8c Ad Qs]
+Stouf92350 : parole 
+JAD198921 : mise. 20
+Stouf92350 : suit. 20
+*** TOURNANT *** [8c Ad Qs] [9s]
+Stouf92350 : parole 
+JAD198921 : mise. 40
+Stouf92350 : suit. 40
+*** RIVIÈRE *** [8c Ad Qs 9s] [5d]
+Stouf92350 : mise. 80
+JAD198921 : passe. 
+Personne n'a suivi. (80) sont retournés à Stouf92350.
+Stouf92350 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [8c Ad Qs 9s 5d]
+Siège 1 : Stouf92350 (petite blind) a remporté (160)
+Siège 2 : JAD198921 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260156259562 : Tournoi #3984906241, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/03/2026 10:30:51 CET [20/03/2026 5:30:51 ET]
+Table '3984906241 1' 3-max Siège #1 est au bouton.
+Place 1: Stouf92350 (500 en jetons) 
+Place 2: JAD198921 (530 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+JAD198921 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 8d]
+Stouf92350 : passe. 
+JAD198921 : relance. 20 à 40
+psychoman59 : relance. 430 à 470 et est all-in.
+JAD198921 : suit. 430
+*** FLOP *** [Jd 2d 9d]
+*** TOURNANT *** [Jd 2d 9d] [Kd]
+*** RIVIÈRE *** [Jd 2d 9d Kd] [9s]
+*** ABATTAGE ***
+JAD198921 : montre [As 7c] (une paire de Neuf)
+psychoman59 : montre [8s 8d] (une couleur, hauteur Roi)
+psychoman59 a remporté 940  lors du pot .
+*** SYNTHÈSE ***
+Pot total 940 | Commission 0 
+Tableau [Jd 2d 9d Kd 9s]
+Siège 1 : Stouf92350 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : JAD198921 (petite blind) a montré [As 7c] et a perdu avec une paire de Neuf
+Siège 3 : psychoman59 (grosse blind) a montré [8s 8d] et a gagné (940) avec une couleur, hauteur Roi
+
+
+
+Main PokerStars n°260156260805 : Tournoi #3984906241, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/03/2026 10:31:07 CET [20/03/2026 5:31:07 ET]
+Table '3984906241 1' 3-max Siège #2 est au bouton.
+Place 1: Stouf92350 (500 en jetons) 
+Place 2: JAD198921 (60 en jetons) 
+Place 3: psychoman59 (940 en jetons) 
+psychoman59 : met la petite blind. 10
+Stouf92350 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 5d]
+JAD198921 : relance. 20 à 40
+psychoman59 : passe. 
+Stouf92350 : relance. 20 à 60
+JAD198921 : suit. 20 et est all-in.
+*** FLOP *** [2c 8d 9s]
+*** TOURNANT *** [2c 8d 9s] [Js]
+*** RIVIÈRE *** [2c 8d 9s Js] [3s]
+*** ABATTAGE ***
+Stouf92350 : montre [9d Ks] (une paire de Neuf)
+JAD198921 : montre [6s Ad] (Hauteur As)
+Stouf92350 a remporté 130  lors du pot .
+JAD198921 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Tableau [2c 8d 9s Js 3s]
+Siège 1 : Stouf92350 (grosse blind) a montré [9d Ks] et a gagné (130) avec une paire de Neuf
+Siège 2 : JAD198921 (bouton) a montré [6s Ad] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260156262209 : Tournoi #3984906241, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/03/2026 10:31:27 CET [20/03/2026 5:31:27 ET]
+Table '3984906241 1' 3-max Siège #1 est au bouton.
+Place 1: Stouf92350 (570 en jetons) 
+Place 3: psychoman59 (930 en jetons) 
+Stouf92350 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 9h]
+Stouf92350 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [2d Kh Jc]
+psychoman59 : parole 
+Stouf92350 : parole 
+*** TOURNANT *** [2d Kh Jc] [7s]
+psychoman59 : parole 
+Stouf92350 : parole 
+*** RIVIÈRE *** [2d Kh Jc 7s] [Kc]
+psychoman59 : parole 
+Stouf92350 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [4h 9h] (une paire de Rois)
+Stouf92350 : montre [9d 4c] (une paire de Rois)
+psychoman59 a remporté 20  lors du pot .
+Stouf92350 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [2d Kh Jc 7s Kc]
+Siège 1 : Stouf92350 (bouton) (petite blind) a montré [9d 4c] et a gagné (20) avec une paire de Rois
+Siège 3 : psychoman59 (grosse blind) a montré [4h 9h] et a gagné (20) avec une paire de Rois
+
+
+
+Main PokerStars n°260156263406 : Tournoi #3984906241, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/03/2026 10:31:43 CET [20/03/2026 5:31:43 ET]
+Table '3984906241 1' 3-max Siège #3 est au bouton.
+Place 1: Stouf92350 (570 en jetons) 
+Place 3: psychoman59 (930 en jetons) 
+psychoman59 : met la petite blind. 10
+Stouf92350 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 3c]
+psychoman59 : suit. 10
+Stouf92350 : parole 
+*** FLOP *** [3s 4s 9c]
+Stouf92350 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3s 4s 9c] [8d]
+Stouf92350 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Stouf92350.
+Stouf92350 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [3s 4s 9c 8d]
+Siège 1 : Stouf92350 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°260156264369 : Tournoi #3984906241, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/03/2026 10:31:56 CET [20/03/2026 5:31:56 ET]
+Table '3984906241 1' 3-max Siège #1 est au bouton.
+Place 1: Stouf92350 (590 en jetons) 
+Place 3: psychoman59 (910 en jetons) 
+Stouf92350 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 9s]
+Stouf92350 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [5c As Td]
+psychoman59 : parole 
+Stouf92350 : parole 
+*** TOURNANT *** [5c As Td] [Ad]
+psychoman59 : parole 
+Stouf92350 : parole 
+*** RIVIÈRE *** [5c As Td Ad] [3s]
+psychoman59 : parole 
+Stouf92350 : mise. 40
+psychoman59 : suit. 40
+*** ABATTAGE ***
+Stouf92350 : montre [Qh 3h] (double paire, As et Trois)
+psychoman59 : cache la main perdante. 
+Stouf92350 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [5c As Td Ad 3s]
+Siège 1 : Stouf92350 (bouton) (petite blind) a montré [Qh 3h] et a gagné (120) avec double paire, As et Trois
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [Kh 9s]
+
+
+
+Main PokerStars n°260156265955 : Tournoi #3984906241, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 20/03/2026 10:32:19 CET [20/03/2026 5:32:19 ET]
+Table '3984906241 1' 3-max Siège #3 est au bouton.
+Place 1: Stouf92350 (650 en jetons) 
+Place 3: psychoman59 (850 en jetons) 
+psychoman59 : met la petite blind. 15
+Stouf92350 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 4d]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à Stouf92350.
+Stouf92350 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : Stouf92350 (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260156266332 : Tournoi #3984906241, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 20/03/2026 10:32:23 CET [20/03/2026 5:32:23 ET]
+Table '3984906241 1' 3-max Siège #1 est au bouton.
+Place 1: Stouf92350 (665 en jetons) 
+Place 3: psychoman59 (835 en jetons) 
+Stouf92350 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad As]
+Stouf92350 : suit. 15
+psychoman59 : relance. 30 à 60
+Stouf92350 : suit. 30
+*** FLOP *** [6d 5c 3h]
+psychoman59 : parole 
+Stouf92350 : mise. 120
+psychoman59 : relance. 655 à 775 et est all-in.
+Stouf92350 : suit. 485 et est all-in.
+Personne n'a suivi. (170) sont retournés à psychoman59.
+*** TOURNANT *** [6d 5c 3h] [5d]
+*** RIVIÈRE *** [6d 5c 3h 5d] [Qs]
+*** ABATTAGE ***
+psychoman59 : montre [Ad As] (double paire, As et Cinq)
+Stouf92350 : montre [3d 4s] (double paire, Cinq et Trois)
+psychoman59 a remporté 1330  lors du pot .
+Stouf92350 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 1330 | Commission 0 
+Tableau [6d 5c 3h 5d Qs]
+Siège 1 : Stouf92350 (bouton) (petite blind) a montré [3d 4s] et a perdu avec double paire, Cinq et Trois
+Siège 3 : psychoman59 (grosse blind) a montré [Ad As] et a gagné (1330) avec double paire, As et Cinq
+
+
+

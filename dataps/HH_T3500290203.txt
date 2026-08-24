@@ -1,0 +1,90 @@
+﻿Main PokerStars n°239848493175 : Tournoi #3500290203, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 14/11/2022 11:36:09 CET [14/11/2022 5:36:09 ET]
+Table '3500290203 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: wareskyze (300 en jetons) 
+Place 3: naeboi (300 en jetons) 
+wareskyze : met la petite blind. 10
+naeboi : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 4c]
+psychoman59 : passe. 
+wareskyze : suit. 10
+naeboi : parole 
+*** FLOP *** [Ad 5s 9d]
+wareskyze : parole 
+naeboi : mise. 20
+wareskyze : suit. 20
+*** TOURNANT *** [Ad 5s 9d] [Ah]
+wareskyze : parole 
+naeboi : mise. 20
+wareskyze : suit. 20
+*** RIVIÈRE *** [Ad 5s 9d Ah] [2d]
+wareskyze : parole 
+naeboi : mise. 20
+wareskyze : passe. 
+Personne n'a suivi. (20) sont retournés à naeboi.
+naeboi a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Ad 5s 9d Ah 2d]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : wareskyze (petite blind) s'est couché. sur le Rivière
+Siège 3 : naeboi (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°239848496975 : Tournoi #3500290203, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 14/11/2022 11:36:35 CET [14/11/2022 5:36:35 ET]
+Table '3500290203 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: wareskyze (240 en jetons) 
+Place 3: naeboi (360 en jetons) 
+naeboi : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh As]
+wareskyze a dépassé le temps imparti.
+wareskyze : passe. 
+wareskyze ne joue pas.
+naeboi : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (20)
+Siège 2 : wareskyze (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : naeboi (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239848499225 : Tournoi #3500290203, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 14/11/2022 11:36:50 CET [14/11/2022 5:36:50 ET]
+Table '3500290203 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (310 en jetons) 
+Place 2: wareskyze (240 en jetons) ne joue pas.
+Place 3: naeboi (350 en jetons) 
+psychoman59 : met la petite blind. 10
+wareskyze : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Jd]
+naeboi : relance. 20 à 40
+wareskyze est revenu.
+psychoman59 : relance. 270 à 310 et est all-in.
+wareskyze : passe. 
+naeboi : suit. 270
+*** FLOP *** [2d Ac Qh]
+*** TOURNANT *** [2d Ac Qh] [6d]
+*** RIVIÈRE *** [2d Ac Qh 6d] [3h]
+*** ABATTAGE ***
+psychoman59 : montre [Jc Jd] (une paire de Valets)
+naeboi : montre [9c Ah] (une paire de As)
+naeboi a remporté 640  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [2d Ac Qh 6d 3h]
+Siège 1 : psychoman59 (petite blind) a montré [Jc Jd] et a perdu avec une paire de Valets
+Siège 2 : wareskyze (grosse blind) s'est couché. avant Flop
+Siège 3 : naeboi (bouton) a montré [9c Ah] et a gagné (640) avec une paire de As
+
+
+

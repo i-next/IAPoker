@@ -1,0 +1,612 @@
+﻿Main PokerStars n°260019766408 : Tournoi #3981787850, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (25/50) - 09/03/2026 10:29:07 CET [09/03/2026 5:29:07 ET]
+Table '3981787850 1' 8-max Siège #1 est au bouton.
+Place 1: sasa71800 (500 en jetons) 
+Place 2: AnthoninM (500 en jetons) 
+Place 3: elmariaxi (500 en jetons) 
+Place 4: lucho1950 (500 en jetons) 
+Place 5: psychoman59 (500 en jetons) 
+Place 6: smp64 (500 en jetons) 
+Place 7: Lechauve34 (500 en jetons) 
+Place 8: josepbm (500 en jetons) 
+sasa71800 : met l'ante. 10
+AnthoninM : met l'ante. 10
+elmariaxi : met l'ante. 10
+lucho1950 : met l'ante. 10
+psychoman59 : met l'ante. 10
+smp64 : met l'ante. 10
+Lechauve34 : met l'ante. 10
+josepbm : met l'ante. 10
+AnthoninM : met la petite blind. 25
+elmariaxi : met la grosse blind. 50
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Kh]
+lucho1950 : passe. 
+psychoman59 : passe. 
+smp64 : suit. 50
+Lechauve34 : passe. 
+josepbm : suit. 50
+sasa71800 : relance. 440 à 490 et est all-in.
+AnthoninM : passe. 
+elmariaxi : passe. 
+smp64 : suit. 440 et est all-in.
+josepbm : passe. 
+*** FLOP *** [Qs Qh Jc]
+*** TOURNANT *** [Qs Qh Jc] [Qc]
+*** RIVIÈRE *** [Qs Qh Jc Qc] [2d]
+*** ABATTAGE ***
+smp64 : montre [7c Ah] (un brelan de Dames)
+sasa71800 : montre [As Js] (un full, full aux Dames par les Valets)
+sasa71800 a remporté 1185  lors du pot .
+smp64 a fini le tournoi en 8e position.
+*** SYNTHÈSE ***
+Pot total 1185 | Commission 0 
+Tableau [Qs Qh Jc Qc 2d]
+Siège 1 : sasa71800 (bouton) a montré [As Js] et a gagné (1185) avec un full, full aux Dames par les Valets
+Siège 2 : AnthoninM (petite blind) s'est couché. avant Flop
+Siège 3 : elmariaxi (grosse blind) s'est couché. avant Flop
+Siège 4 : lucho1950 s'est couché. avant Flop (n'a pas misé)
+Siège 5 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 6 : smp64 a montré [7c Ah] et a perdu avec un brelan de Dames
+Siège 7 : Lechauve34 s'est couché. avant Flop (n'a pas misé)
+Siège 8 : josepbm s'est couché. avant Flop
+
+
+
+Main PokerStars n°260019768951 : Tournoi #3981787850, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (25/50) - 09/03/2026 10:29:43 CET [09/03/2026 5:29:43 ET]
+Table '3981787850 1' 8-max Siège #2 est au bouton.
+Place 1: sasa71800 (1185 en jetons) 
+Place 2: AnthoninM (465 en jetons) 
+Place 3: elmariaxi (440 en jetons) 
+Place 4: lucho1950 (490 en jetons) 
+Place 5: psychoman59 (490 en jetons) 
+Place 7: Lechauve34 (490 en jetons) 
+Place 8: josepbm (440 en jetons) 
+sasa71800 : met l'ante. 10
+AnthoninM : met l'ante. 10
+elmariaxi : met l'ante. 10
+lucho1950 : met l'ante. 10
+psychoman59 : met l'ante. 10
+Lechauve34 : met l'ante. 10
+josepbm : met l'ante. 10
+elmariaxi : met la petite blind. 25
+lucho1950 : met la grosse blind. 50
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 6c]
+psychoman59 : passe. 
+Lechauve34 : passe. 
+josepbm : relance. 380 à 430 et est all-in.
+sasa71800 : passe. 
+AnthoninM : relance. 25 à 455 et est all-in.
+elmariaxi : passe. 
+lucho1950 : suit. 405
+*** FLOP *** [2c Qs Th]
+*** TOURNANT *** [2c Qs Th] [7c]
+*** RIVIÈRE *** [2c Qs Th 7c] [6h]
+*** ABATTAGE ***
+lucho1950 : montre [Js Qd] (une paire de Dames)
+AnthoninM : montre [Qh Kh] (une paire de Dames - Roi kicker)
+AnthoninM a remporté 50  parallèle lors du pot .
+josepbm : montre [Td As] (une paire de Dix)
+AnthoninM a remporté 1385  principal lors du pot .
+josepbm a fini le tournoi en 7e position.
+*** SYNTHÈSE ***
+Pot total 1435 Principal pot 1385. Parallèle pot 50. | Commission 0 
+Tableau [2c Qs Th 7c 6h]
+Siège 1 : sasa71800 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : AnthoninM (bouton) a montré [Qh Kh] et a gagné (1435) avec une paire de Dames
+Siège 3 : elmariaxi (petite blind) s'est couché. avant Flop
+Siège 4 : lucho1950 (grosse blind) a montré [Js Qd] et a perdu avec une paire de Dames
+Siège 5 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : Lechauve34 s'est couché. avant Flop (n'a pas misé)
+Siège 8 : josepbm a montré [Td As] et a perdu avec une paire de Dix
+
+
+
+Main PokerStars n°260019771247 : Tournoi #3981787850, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (25/50) - 09/03/2026 10:30:15 CET [09/03/2026 5:30:15 ET]
+Table '3981787850 1' 8-max Siège #3 est au bouton.
+Place 1: sasa71800 (1175 en jetons) 
+Place 2: AnthoninM (1435 en jetons) 
+Place 3: elmariaxi (405 en jetons) 
+Place 4: lucho1950 (25 en jetons) 
+Place 5: psychoman59 (480 en jetons) 
+Place 7: Lechauve34 (480 en jetons) 
+sasa71800 : met l'ante. 10
+AnthoninM : met l'ante. 10
+elmariaxi : met l'ante. 10
+lucho1950 : met l'ante. 10
+psychoman59 : met l'ante. 10
+Lechauve34 : met l'ante. 10
+lucho1950 : met la petite blind. 15 et est all-in.
+psychoman59 : met la grosse blind. 50
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Th]
+Lechauve34 : passe. 
+sasa71800 : passe. 
+AnthoninM : suit. 50
+elmariaxi : relance. 345 à 395 et est all-in.
+psychoman59 : passe. 
+AnthoninM : suit. 345
+*** FLOP *** [2s 9s 2d]
+*** TOURNANT *** [2s 9s 2d] [8h]
+*** RIVIÈRE *** [2s 9s 2d 8h] [Jd]
+*** ABATTAGE ***
+AnthoninM : montre [3s 3c] (double paire, Trois et Deux)
+elmariaxi : montre [Kc Qs] (une paire de Deux)
+AnthoninM a remporté 795  parallèle lors du pot .
+lucho1950 : montre [Ah Qc] (une paire de Deux)
+AnthoninM a remporté 120  principal lors du pot .
+elmariaxi a fini le tournoi en 5e position.
+lucho1950 a fini le tournoi en 6e position.
+*** SYNTHÈSE ***
+Pot total 915 Principal pot 120. Parallèle pot 795. | Commission 0 
+Tableau [2s 9s 2d 8h Jd]
+Siège 1 : sasa71800 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : AnthoninM a montré [3s 3c] et a gagné (915) avec double paire, Trois et Deux
+Siège 3 : elmariaxi (bouton) a montré [Kc Qs] et a perdu avec une paire de Deux
+Siège 4 : lucho1950 (petite blind) a montré [Ah Qc] et a perdu avec une paire de Deux
+Siège 5 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 7 : Lechauve34 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260019773554 : Tournoi #3981787850, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (25/50) - 09/03/2026 10:30:47 CET [09/03/2026 5:30:47 ET]
+Table '3981787850 1' 8-max Siège #5 est au bouton.
+Place 1: sasa71800 (1165 en jetons) 
+Place 2: AnthoninM (1945 en jetons) 
+Place 5: psychoman59 (420 en jetons) 
+Place 7: Lechauve34 (470 en jetons) 
+sasa71800 : met l'ante. 10
+AnthoninM : met l'ante. 10
+psychoman59 : met l'ante. 10
+Lechauve34 : met l'ante. 10
+Lechauve34 : met la petite blind. 25
+sasa71800 : met la grosse blind. 50
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Td]
+AnthoninM : passe. 
+psychoman59 : relance. 360 à 410 et est all-in.
+Lechauve34 : passe. 
+sasa71800 : passe. 
+Personne n'a suivi. (360) sont retournés à psychoman59.
+psychoman59 a remporté 165  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 165 | Commission 0 
+Siège 1 : sasa71800 (grosse blind) s'est couché. avant Flop
+Siège 2 : AnthoninM s'est couché. avant Flop (n'a pas misé)
+Siège 5 : psychoman59 (bouton) a remporté (165)
+Siège 7 : Lechauve34 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260019774583 : Tournoi #3981787850, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (25/50) - 09/03/2026 10:31:01 CET [09/03/2026 5:31:01 ET]
+Table '3981787850 1' 8-max Siège #7 est au bouton.
+Place 1: sasa71800 (1105 en jetons) 
+Place 2: AnthoninM (1935 en jetons) 
+Place 5: psychoman59 (525 en jetons) 
+Place 7: Lechauve34 (435 en jetons) 
+sasa71800 : met l'ante. 10
+AnthoninM : met l'ante. 10
+psychoman59 : met l'ante. 10
+Lechauve34 : met l'ante. 10
+sasa71800 : met la petite blind. 25
+AnthoninM : met la grosse blind. 50
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Th]
+psychoman59 : passe. 
+Lechauve34 : passe. 
+sasa71800 : suit. 25
+AnthoninM : parole 
+*** FLOP *** [Ad As 6c]
+sasa71800 : parole 
+AnthoninM : mise. 140
+sasa71800 : passe. 
+Personne n'a suivi. (140) sont retournés à AnthoninM.
+AnthoninM a remporté 140  lors du pot .
+AnthoninM : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [Ad As 6c]
+Siège 1 : sasa71800 (petite blind) s'est couché. sur le Flop
+Siège 2 : AnthoninM (grosse blind) a remporté (140)
+Siège 5 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 7 : Lechauve34 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260019775707 : Tournoi #3981787850, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (25/50) - 09/03/2026 10:31:18 CET [09/03/2026 5:31:18 ET]
+Table '3981787850 1' 8-max Siège #1 est au bouton.
+Place 1: sasa71800 (1045 en jetons) 
+Place 2: AnthoninM (2015 en jetons) 
+Place 5: psychoman59 (515 en jetons) 
+Place 7: Lechauve34 (425 en jetons) 
+sasa71800 : met l'ante. 10
+AnthoninM : met l'ante. 10
+psychoman59 : met l'ante. 10
+Lechauve34 : met l'ante. 10
+AnthoninM : met la petite blind. 25
+psychoman59 : met la grosse blind. 50
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 3c]
+Lechauve34 : passe. 
+sasa71800 : passe. 
+AnthoninM : suit. 25
+psychoman59 : parole 
+*** FLOP *** [2c 6s 7d]
+AnthoninM : mise. 140
+psychoman59 : relance. 315 à 455 et est all-in.
+AnthoninM : suit. 315
+*** TOURNANT *** [2c 6s 7d] [6d]
+*** RIVIÈRE *** [2c 6s 7d 6d] [7c]
+*** ABATTAGE ***
+AnthoninM : montre [Qs 6c] (un full, full aux Six par les Sept)
+psychoman59 : montre [7h 3c] (un full, full aux Sept par les Six)
+psychoman59 a remporté 1050  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1050 | Commission 0 
+Tableau [2c 6s 7d 6d 7c]
+Siège 1 : sasa71800 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : AnthoninM (petite blind) a montré [Qs 6c] et a perdu avec un full, full aux Six par les Sept
+Siège 5 : psychoman59 (grosse blind) a montré [7h 3c] et a gagné (1050) avec un full, full aux Sept par les Six
+Siège 7 : Lechauve34 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260019777144 : Tournoi #3981787850, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (25/50) - 09/03/2026 10:31:38 CET [09/03/2026 5:31:38 ET]
+Table '3981787850 1' 8-max Siège #2 est au bouton.
+Place 1: sasa71800 (1035 en jetons) 
+Place 2: AnthoninM (1500 en jetons) 
+Place 5: psychoman59 (1050 en jetons) 
+Place 7: Lechauve34 (415 en jetons) 
+sasa71800 : met l'ante. 10
+AnthoninM : met l'ante. 10
+psychoman59 : met l'ante. 10
+Lechauve34 : met l'ante. 10
+psychoman59 : met la petite blind. 25
+Lechauve34 : met la grosse blind. 50
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 9h]
+sasa71800 : passe. 
+AnthoninM : relance. 165 à 215
+psychoman59 : passe. 
+Lechauve34 : suit. 165
+*** FLOP *** [9d 2h Kh]
+Lechauve34 : mise. 190 et est all-in.
+AnthoninM : suit. 190
+*** TOURNANT *** [9d 2h Kh] [6c]
+*** RIVIÈRE *** [9d 2h Kh 6c] [8h]
+*** ABATTAGE ***
+Lechauve34 : montre [Kc Ts] (une paire de Rois)
+AnthoninM : montre [Ac Kd] (une paire de Rois - As kicker)
+AnthoninM a remporté 875  lors du pot .
+Lechauve34 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 875 | Commission 0 
+Tableau [9d 2h Kh 6c 8h]
+Siège 1 : sasa71800 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : AnthoninM (bouton) a montré [Ac Kd] et a gagné (875) avec une paire de Rois
+Siège 5 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 7 : Lechauve34 (grosse blind) a montré [Kc Ts] et a perdu avec une paire de Rois
+
+
+
+Main PokerStars n°260019778707 : Tournoi #3981787850, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (25/50) - 09/03/2026 10:32:00 CET [09/03/2026 5:32:00 ET]
+Table '3981787850 1' 8-max Siège #5 est au bouton.
+Place 1: sasa71800 (1025 en jetons) 
+Place 2: AnthoninM (1960 en jetons) 
+Place 5: psychoman59 (1015 en jetons) 
+sasa71800 : met l'ante. 10
+AnthoninM : met l'ante. 10
+psychoman59 : met l'ante. 10
+sasa71800 : met la petite blind. 25
+AnthoninM : met la grosse blind. 50
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 9s]
+psychoman59 : passe. 
+sasa71800 : suit. 25
+AnthoninM : parole 
+*** FLOP *** [Qs 3c 4s]
+sasa71800 : parole 
+AnthoninM : mise. 130
+sasa71800 : passe. 
+Personne n'a suivi. (130) sont retournés à AnthoninM.
+AnthoninM a remporté 130  lors du pot .
+AnthoninM : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Tableau [Qs 3c 4s]
+Siège 1 : sasa71800 (petite blind) s'est couché. sur le Flop
+Siège 2 : AnthoninM (grosse blind) a remporté (130)
+Siège 5 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260019780017 : Tournoi #3981787850, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (50/100) - 09/03/2026 10:32:19 CET [09/03/2026 5:32:19 ET]
+Table '3981787850 1' 8-max Siège #1 est au bouton.
+Place 1: sasa71800 (965 en jetons) 
+Place 2: AnthoninM (2030 en jetons) 
+Place 5: psychoman59 (1005 en jetons) 
+sasa71800 : met l'ante. 20
+AnthoninM : met l'ante. 20
+psychoman59 : met l'ante. 20
+AnthoninM : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 3s]
+sasa71800 : passe. 
+AnthoninM : suit. 50
+psychoman59 : parole 
+*** FLOP *** [4c Qd 2h]
+AnthoninM : mise. 130
+psychoman59 : passe. 
+Personne n'a suivi. (130) sont retournés à AnthoninM.
+AnthoninM a remporté 260  lors du pot .
+AnthoninM : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 260 | Commission 0 
+Tableau [4c Qd 2h]
+Siège 1 : sasa71800 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : AnthoninM (petite blind) a remporté (260)
+Siège 5 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°260019781053 : Tournoi #3981787850, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (50/100) - 09/03/2026 10:32:33 CET [09/03/2026 5:32:33 ET]
+Table '3981787850 1' 8-max Siège #2 est au bouton.
+Place 1: sasa71800 (945 en jetons) 
+Place 2: AnthoninM (2170 en jetons) 
+Place 5: psychoman59 (885 en jetons) 
+sasa71800 : met l'ante. 20
+AnthoninM : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 50
+sasa71800 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 4h]
+AnthoninM : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à sasa71800.
+sasa71800 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : sasa71800 (grosse blind) a remporté (160)
+Siège 2 : AnthoninM (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 5 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260019781443 : Tournoi #3981787850, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (50/100) - 09/03/2026 10:32:39 CET [09/03/2026 5:32:39 ET]
+Table '3981787850 1' 8-max Siège #5 est au bouton.
+Place 1: sasa71800 (1035 en jetons) 
+Place 2: AnthoninM (2150 en jetons) 
+Place 5: psychoman59 (815 en jetons) 
+sasa71800 : met l'ante. 20
+AnthoninM : met l'ante. 20
+psychoman59 : met l'ante. 20
+sasa71800 : met la petite blind. 50
+AnthoninM : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 2c]
+psychoman59 : passe. 
+sasa71800 : passe. 
+Personne n'a suivi. (50) sont retournés à AnthoninM.
+AnthoninM a remporté 160  lors du pot .
+AnthoninM : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : sasa71800 (petite blind) s'est couché. avant Flop
+Siège 2 : AnthoninM (grosse blind) a remporté (160)
+Siège 5 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260019781790 : Tournoi #3981787850, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (50/100) - 09/03/2026 10:32:44 CET [09/03/2026 5:32:44 ET]
+Table '3981787850 1' 8-max Siège #1 est au bouton.
+Place 1: sasa71800 (965 en jetons) 
+Place 2: AnthoninM (2240 en jetons) 
+Place 5: psychoman59 (795 en jetons) 
+sasa71800 : met l'ante. 20
+AnthoninM : met l'ante. 20
+psychoman59 : met l'ante. 20
+AnthoninM : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 3c]
+sasa71800 : suit. 100
+AnthoninM : suit. 50
+psychoman59 : parole 
+*** FLOP *** [9c 2c Qs]
+AnthoninM : parole 
+psychoman59 : parole 
+sasa71800 : mise. 845 et est all-in.
+AnthoninM : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (845) sont retournés à sasa71800.
+sasa71800 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [9c 2c Qs]
+Siège 1 : sasa71800 (bouton) a remporté (360)
+Siège 2 : AnthoninM (petite blind) s'est couché. sur le Flop
+Siège 5 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°260019783112 : Tournoi #3981787850, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (50/100) - 09/03/2026 10:33:04 CET [09/03/2026 5:33:04 ET]
+Table '3981787850 1' 8-max Siège #2 est au bouton.
+Place 1: sasa71800 (1205 en jetons) 
+Place 2: AnthoninM (2120 en jetons) 
+Place 5: psychoman59 (675 en jetons) 
+sasa71800 : met l'ante. 20
+AnthoninM : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 50
+sasa71800 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Jd]
+AnthoninM : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à sasa71800.
+sasa71800 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : sasa71800 (grosse blind) a remporté (160)
+Siège 2 : AnthoninM (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 5 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260019783727 : Tournoi #3981787850, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (50/100) - 09/03/2026 10:33:13 CET [09/03/2026 5:33:13 ET]
+Table '3981787850 1' 8-max Siège #5 est au bouton.
+Place 1: sasa71800 (1295 en jetons) 
+Place 2: AnthoninM (2100 en jetons) 
+Place 5: psychoman59 (605 en jetons) 
+sasa71800 : met l'ante. 20
+AnthoninM : met l'ante. 20
+psychoman59 : met l'ante. 20
+sasa71800 : met la petite blind. 50
+AnthoninM : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 3c]
+psychoman59 : passe. 
+sasa71800 : passe. 
+Personne n'a suivi. (50) sont retournés à AnthoninM.
+AnthoninM a remporté 160  lors du pot .
+AnthoninM : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : sasa71800 (petite blind) s'est couché. avant Flop
+Siège 2 : AnthoninM (grosse blind) a remporté (160)
+Siège 5 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260019784113 : Tournoi #3981787850, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (50/100) - 09/03/2026 10:33:18 CET [09/03/2026 5:33:18 ET]
+Table '3981787850 1' 8-max Siège #1 est au bouton.
+Place 1: sasa71800 (1225 en jetons) 
+Place 2: AnthoninM (2190 en jetons) 
+Place 5: psychoman59 (585 en jetons) 
+sasa71800 : met l'ante. 20
+AnthoninM : met l'ante. 20
+psychoman59 : met l'ante. 20
+AnthoninM : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Th]
+sasa71800 : passe. 
+AnthoninM : suit. 50
+psychoman59 : parole 
+*** FLOP *** [Kh Qs Js]
+AnthoninM : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Kh Qs Js] [2c]
+AnthoninM : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Kh Qs Js 2c] [6c]
+AnthoninM : mise. 260
+psychoman59 : passe. 
+Personne n'a suivi. (260) sont retournés à AnthoninM.
+AnthoninM a remporté 260  lors du pot .
+AnthoninM : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 260 | Commission 0 
+Tableau [Kh Qs Js 2c 6c]
+Siège 1 : sasa71800 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : AnthoninM (petite blind) a remporté (260)
+Siège 5 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°260019785432 : Tournoi #3981787850, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (50/100) - 09/03/2026 10:33:37 CET [09/03/2026 5:33:37 ET]
+Table '3981787850 1' 8-max Siège #2 est au bouton.
+Place 1: sasa71800 (1205 en jetons) 
+Place 2: AnthoninM (2330 en jetons) 
+Place 5: psychoman59 (465 en jetons) 
+sasa71800 : met l'ante. 20
+AnthoninM : met l'ante. 20
+psychoman59 : met l'ante. 20
+psychoman59 : met la petite blind. 50
+sasa71800 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Th]
+AnthoninM : relance. 100 à 200
+psychoman59 : passe. 
+sasa71800 : suit. 100
+*** FLOP *** [2c Ts 2d]
+sasa71800 : parole 
+AnthoninM : mise. 510
+sasa71800 : passe. 
+Personne n'a suivi. (510) sont retournés à AnthoninM.
+AnthoninM a remporté 510  lors du pot .
+AnthoninM : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 510 | Commission 0 
+Tableau [2c Ts 2d]
+Siège 1 : sasa71800 (grosse blind) s'est couché. sur le Flop
+Siège 2 : AnthoninM (bouton) a remporté (510)
+Siège 5 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260019786337 : Tournoi #3981787850, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (50/100) - 09/03/2026 10:33:51 CET [09/03/2026 5:33:51 ET]
+Table '3981787850 1' 8-max Siège #5 est au bouton.
+Place 1: sasa71800 (985 en jetons) 
+Place 2: AnthoninM (2620 en jetons) 
+Place 5: psychoman59 (395 en jetons) 
+sasa71800 : met l'ante. 20
+AnthoninM : met l'ante. 20
+psychoman59 : met l'ante. 20
+sasa71800 : met la petite blind. 50
+AnthoninM : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 9h]
+psychoman59 : passe. 
+sasa71800 : passe. 
+Personne n'a suivi. (50) sont retournés à AnthoninM.
+AnthoninM a remporté 160  lors du pot .
+AnthoninM : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : sasa71800 (petite blind) s'est couché. avant Flop
+Siège 2 : AnthoninM (grosse blind) a remporté (160)
+Siège 5 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260019786737 : Tournoi #3981787850, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (50/100) - 09/03/2026 10:33:57 CET [09/03/2026 5:33:57 ET]
+Table '3981787850 1' 8-max Siège #1 est au bouton.
+Place 1: sasa71800 (915 en jetons) 
+Place 2: AnthoninM (2710 en jetons) 
+Place 5: psychoman59 (375 en jetons) 
+sasa71800 : met l'ante. 20
+AnthoninM : met l'ante. 20
+psychoman59 : met l'ante. 20
+AnthoninM : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s As]
+sasa71800 : suit. 100
+AnthoninM : suit. 50
+psychoman59 : relance. 255 à 355 et est all-in.
+sasa71800 : suit. 255
+AnthoninM : suit. 255
+*** FLOP *** [9c Th 3s]
+AnthoninM : mise. 1125
+sasa71800 : passe. 
+Personne n'a suivi. (1125) sont retournés à AnthoninM.
+*** TOURNANT *** [9c Th 3s] [6c]
+*** RIVIÈRE *** [9c Th 3s 6c] [6s]
+*** ABATTAGE ***
+AnthoninM : montre [9s Ah] (double paire, Neuf et Six)
+psychoman59 : montre [2s As] (une paire de Six)
+AnthoninM a remporté 1125  lors du pot .
+psychoman59 a fini le tournoi à la 3e place et a reçu 0.04 €.
+*** SYNTHÈSE ***
+Pot total 1125 | Commission 0 
+Tableau [9c Th 3s 6c 6s]
+Siège 1 : sasa71800 (bouton) s'est couché. sur le Flop
+Siège 2 : AnthoninM (petite blind) a montré [9s Ah] et a gagné (1125) avec double paire, Neuf et Six
+Siège 5 : psychoman59 (grosse blind) a montré [2s As] et a perdu avec une paire de Six
+
+
+

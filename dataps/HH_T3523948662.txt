@@ -1,0 +1,51 @@
+﻿Main PokerStars n°240814185970 : Tournoi #3523948662, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 31/12/2022 10:03:55 CET [31/12/2022 4:03:55 ET]
+Table '3523948662 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Patachoudu64 (300 en jetons) 
+Place 3: sabire (300 en jetons) 
+Patachoudu64 : met la petite blind. 10
+sabire : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 5h]
+psychoman59 : passe. 
+Patachoudu64 : passe. 
+Personne n'a suivi. (10) sont retournés à sabire.
+sabire a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Patachoudu64 (petite blind) s'est couché. avant Flop
+Siège 3 : sabire (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°240814187624 : Tournoi #3523948662, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 31/12/2022 10:04:08 CET [31/12/2022 4:04:08 ET]
+Table '3523948662 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Patachoudu64 (290 en jetons) 
+Place 3: sabire (310 en jetons) 
+sabire : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 3h]
+Patachoudu64 : passe. 
+sabire : relance. 290 à 310 et est all-in.
+psychoman59 : suit. 280 et est all-in.
+Personne n'a suivi. (10) sont retournés à sabire.
+*** FLOP *** [5d 4c 5h]
+*** TOURNANT *** [5d 4c 5h] [7s]
+*** RIVIÈRE *** [5d 4c 5h 7s] [Ac]
+*** ABATTAGE ***
+sabire : montre [8d Ad] (double paire, As et Cinq)
+psychoman59 : montre [3s 3h] (double paire, Cinq et Trois)
+sabire a remporté 600  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [5d 4c 5h 7s Ac]
+Siège 1 : psychoman59 (grosse blind) a montré [3s 3h] et a perdu avec double paire, Cinq et Trois
+Siège 2 : Patachoudu64 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : sabire (petite blind) a montré [8d Ad] et a gagné (600) avec double paire, As et Cinq
+
+
+

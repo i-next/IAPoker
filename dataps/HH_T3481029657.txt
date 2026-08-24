@@ -1,0 +1,824 @@
+﻿Main PokerStars n°239027895975 : Tournoi #3481029657, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 04/10/2022 15:37:03 CET [04/10/2022 9:37:03 ET]
+Table '3481029657 1' 4-max Siège #1 est au bouton.
+Place 1: holloman3900 (5000 en jetons) 
+Place 2: psychoman59 (5000 en jetons) 
+Place 3: santy2911 (5000 en jetons) 
+Place 4: YiddoMerls88 (5000 en jetons) 
+holloman3900 : met l'ante. 10
+psychoman59 : met l'ante. 10
+santy2911 : met l'ante. 10
+YiddoMerls88 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+santy2911 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 8h]
+YiddoMerls88 : passe. 
+holloman3900 : suit. 100
+psychoman59 : suit. 50
+santy2911 : parole 
+*** FLOP *** [Jc Qc 9s]
+psychoman59 : parole 
+santy2911 : parole 
+holloman3900 : parole 
+*** TOURNANT *** [Jc Qc 9s] [6s]
+psychoman59 : parole 
+santy2911 : mise. 100
+holloman3900 : suit. 100
+psychoman59 : suit. 100
+*** RIVIÈRE *** [Jc Qc 9s 6s] [Ad]
+psychoman59 : parole 
+santy2911 : mise. 200
+holloman3900 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (200) sont retournés à santy2911.
+santy2911 a remporté 640  lors du pot .
+santy2911 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [Jc Qc 9s 6s Ad]
+Siège 1 : holloman3900 (bouton) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Rivière
+Siège 3 : santy2911 (grosse blind) a remporté (640)
+Siège 4 : YiddoMerls88 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°239027905726 : Tournoi #3481029657, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 04/10/2022 15:37:47 CET [04/10/2022 9:37:47 ET]
+Table '3481029657 1' 4-max Siège #2 est au bouton.
+Place 1: holloman3900 (4790 en jetons) 
+Place 2: psychoman59 (4790 en jetons) 
+Place 3: santy2911 (5430 en jetons) 
+Place 4: YiddoMerls88 (4990 en jetons) 
+holloman3900 : met l'ante. 10
+psychoman59 : met l'ante. 10
+santy2911 : met l'ante. 10
+YiddoMerls88 : met l'ante. 10
+santy2911 : met la petite blind. 50
+YiddoMerls88 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Qs]
+holloman3900 : relance. 100 à 200
+psychoman59 : relance. 590 à 790
+santy2911 : relance. 1920 à 2710
+YiddoMerls88 : passe. 
+holloman3900 : suit. 2510
+psychoman59 : suit. 1920
+*** FLOP *** [4c 5h 4s]
+santy2911 : mise. 2710 et est all-in.
+holloman3900 : suit. 2070 et est all-in.
+psychoman59 : suit. 2070 et est all-in.
+Personne n'a suivi. (640) sont retournés à santy2911.
+*** TOURNANT *** [4c 5h 4s] [2d]
+*** RIVIÈRE *** [4c 5h 4s 2d] [Td]
+*** ABATTAGE ***
+santy2911 : montre [Qd Qc] (double paire, Dames et Quatre)
+holloman3900 : montre [Jh Js] (double paire, Valets et Quatre)
+psychoman59 : montre [Qh Qs] (double paire, Dames et Quatre)
+santy2911 a remporté 7240  lors du pot .
+psychoman59 a remporté 7240  lors du pot .
+holloman3900 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 14480 | Commission 0 
+Tableau [4c 5h 4s 2d Td]
+Siège 1 : holloman3900 a montré [Jh Js] et a perdu avec double paire, Valets et Quatre
+Siège 2 : psychoman59 (bouton) a montré [Qh Qs] et a gagné (7240) avec double paire, Dames et Quatre
+Siège 3 : santy2911 (petite blind) a montré [Qd Qc] et a gagné (7240) avec double paire, Dames et Quatre
+Siège 4 : YiddoMerls88 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239027915815 : Tournoi #3481029657, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 04/10/2022 15:38:32 CET [04/10/2022 9:38:32 ET]
+Table '3481029657 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (7240 en jetons) 
+Place 3: santy2911 (7880 en jetons) 
+Place 4: YiddoMerls88 (4880 en jetons) 
+psychoman59 : met l'ante. 10
+santy2911 : met l'ante. 10
+YiddoMerls88 : met l'ante. 10
+YiddoMerls88 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd As]
+santy2911 : suit. 100
+YiddoMerls88 : suit. 50
+psychoman59 : relance. 7130 à 7230 et est all-in.
+santy2911 : passe. 
+YiddoMerls88 : passe. 
+Personne n'a suivi. (7130) sont retournés à psychoman59.
+psychoman59 a remporté 330  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 330 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (330)
+Siège 3 : santy2911 (bouton) s'est couché. avant Flop
+Siège 4 : YiddoMerls88 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239027920006 : Tournoi #3481029657, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 04/10/2022 15:38:50 CET [04/10/2022 9:38:50 ET]
+Table '3481029657 1' 4-max Siège #4 est au bouton.
+Place 2: psychoman59 (7460 en jetons) 
+Place 3: santy2911 (7770 en jetons) 
+Place 4: YiddoMerls88 (4770 en jetons) 
+psychoman59 : met l'ante. 10
+santy2911 : met l'ante. 10
+YiddoMerls88 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+santy2911 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Qc]
+YiddoMerls88 : passe. 
+psychoman59 : relance. 300 à 400
+santy2911 : passe. 
+Personne n'a suivi. (300) sont retournés à psychoman59.
+psychoman59 a remporté 230  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 230 | Commission 0 
+Siège 2 : psychoman59 (petite blind) a remporté (230)
+Siège 3 : santy2911 (grosse blind) s'est couché. avant Flop
+Siège 4 : YiddoMerls88 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°239027923581 : Tournoi #3481029657, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 04/10/2022 15:39:06 CET [04/10/2022 9:39:06 ET]
+Table '3481029657 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (7580 en jetons) 
+Place 3: santy2911 (7660 en jetons) 
+Place 4: YiddoMerls88 (4760 en jetons) 
+psychoman59 : met l'ante. 10
+santy2911 : met l'ante. 10
+YiddoMerls88 : met l'ante. 10
+santy2911 : met la petite blind. 50
+YiddoMerls88 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 6c]
+psychoman59 : passe. 
+santy2911 : suit. 50
+YiddoMerls88 : parole 
+*** FLOP *** [5d Qd 2s]
+santy2911 : mise. 100
+YiddoMerls88 : passe. 
+Personne n'a suivi. (100) sont retournés à santy2911.
+santy2911 a remporté 230  lors du pot .
+santy2911 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 230 | Commission 0 
+Tableau [5d Qd 2s]
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : santy2911 (petite blind) a remporté (230)
+Siège 4 : YiddoMerls88 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°239027927664 : Tournoi #3481029657, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 04/10/2022 15:39:25 CET [04/10/2022 9:39:25 ET]
+Table '3481029657 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (7570 en jetons) 
+Place 3: santy2911 (7780 en jetons) 
+Place 4: YiddoMerls88 (4650 en jetons) 
+psychoman59 : met l'ante. 10
+santy2911 : met l'ante. 10
+YiddoMerls88 : met l'ante. 10
+YiddoMerls88 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Qc]
+santy2911 : passe. 
+YiddoMerls88 : suit. 50
+psychoman59 : parole 
+*** FLOP *** [6s Ks Kc]
+YiddoMerls88 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6s Ks Kc] [2h]
+YiddoMerls88 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [6s Ks Kc 2h] [9s]
+YiddoMerls88 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+YiddoMerls88 : montre [Js 8h] (une paire de Rois)
+psychoman59 : montre [Tc Qc] (une paire de Rois - Dame kicker)
+psychoman59 a remporté 230  lors du pot .
+*** SYNTHÈSE ***
+Pot total 230 | Commission 0 
+Tableau [6s Ks Kc 2h 9s]
+Siège 2 : psychoman59 (grosse blind) a montré [Tc Qc] et a gagné (230) avec une paire de Rois
+Siège 3 : santy2911 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 4 : YiddoMerls88 (petite blind) a montré [Js 8h] et a perdu avec une paire de Rois
+
+
+
+Main PokerStars n°239027932249 : Tournoi #3481029657, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 04/10/2022 15:39:45 CET [04/10/2022 9:39:45 ET]
+Table '3481029657 1' 4-max Siège #4 est au bouton.
+Place 2: psychoman59 (7690 en jetons) 
+Place 3: santy2911 (7770 en jetons) 
+Place 4: YiddoMerls88 (4540 en jetons) 
+psychoman59 : met l'ante. 10
+santy2911 : met l'ante. 10
+YiddoMerls88 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+santy2911 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 9d]
+YiddoMerls88 : suit. 100
+psychoman59 : passe. 
+santy2911 : parole 
+*** FLOP *** [Kd Kc 9s]
+santy2911 : parole 
+YiddoMerls88 : parole 
+*** TOURNANT *** [Kd Kc 9s] [8s]
+santy2911 : mise. 100
+YiddoMerls88 : passe. 
+Personne n'a suivi. (100) sont retournés à santy2911.
+santy2911 a remporté 280  lors du pot .
+santy2911 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Tableau [Kd Kc 9s 8s]
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : santy2911 (grosse blind) a remporté (280)
+Siège 4 : YiddoMerls88 (bouton) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°239027938699 : Tournoi #3481029657, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 04/10/2022 15:40:14 CET [04/10/2022 9:40:14 ET]
+Table '3481029657 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (7630 en jetons) 
+Place 3: santy2911 (7940 en jetons) 
+Place 4: YiddoMerls88 (4430 en jetons) 
+psychoman59 : met l'ante. 15
+santy2911 : met l'ante. 15
+YiddoMerls88 : met l'ante. 15
+santy2911 : met la petite blind. 60
+YiddoMerls88 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 4h]
+psychoman59 : suit. 120
+santy2911 : suit. 60
+YiddoMerls88 : parole 
+*** FLOP *** [8s Kh 8h]
+santy2911 : mise. 120
+YiddoMerls88 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à santy2911.
+santy2911 a remporté 405  lors du pot .
+santy2911 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 405 | Commission 0 
+Tableau [8s Kh 8h]
+Siège 2 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 3 : santy2911 (petite blind) a remporté (405)
+Siège 4 : YiddoMerls88 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°239027945270 : Tournoi #3481029657, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 04/10/2022 15:40:43 CET [04/10/2022 9:40:43 ET]
+Table '3481029657 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (7495 en jetons) 
+Place 3: santy2911 (8210 en jetons) 
+Place 4: YiddoMerls88 (4295 en jetons) 
+psychoman59 : met l'ante. 15
+santy2911 : met l'ante. 15
+YiddoMerls88 : met l'ante. 15
+YiddoMerls88 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 7c]
+santy2911 : suit. 120
+YiddoMerls88 : suit. 60
+psychoman59 : parole 
+*** FLOP *** [Kc Ac 9s]
+YiddoMerls88 : parole 
+psychoman59 : parole 
+santy2911 : mise. 240
+YiddoMerls88 : passe. 
+psychoman59 : suit. 240
+*** TOURNANT *** [Kc Ac 9s] [Td]
+psychoman59 : parole 
+santy2911 : mise. 240
+psychoman59 : suit. 240
+*** RIVIÈRE *** [Kc Ac 9s Td] [As]
+psychoman59 : parole 
+santy2911 : mise. 960
+psychoman59 : passe. 
+Personne n'a suivi. (960) sont retournés à santy2911.
+santy2911 a remporté 1365  lors du pot .
+santy2911 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1365 | Commission 0 
+Tableau [Kc Ac 9s Td As]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : santy2911 (bouton) a remporté (1365)
+Siège 4 : YiddoMerls88 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°239027955933 : Tournoi #3481029657, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 04/10/2022 15:41:30 CET [04/10/2022 9:41:30 ET]
+Table '3481029657 1' 4-max Siège #4 est au bouton.
+Place 2: psychoman59 (6880 en jetons) 
+Place 3: santy2911 (8960 en jetons) 
+Place 4: YiddoMerls88 (4160 en jetons) 
+psychoman59 : met l'ante. 15
+santy2911 : met l'ante. 15
+YiddoMerls88 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+santy2911 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Ah]
+YiddoMerls88 : passe. 
+psychoman59 : suit. 60
+santy2911 : parole 
+*** FLOP *** [6h 2s As]
+psychoman59 : parole 
+santy2911 : mise. 240
+psychoman59 : suit. 240
+*** TOURNANT *** [6h 2s As] [5c]
+psychoman59 : parole 
+santy2911 : mise. 360
+psychoman59 : suit. 360
+*** RIVIÈRE *** [6h 2s As 5c] [Kd]
+psychoman59 : parole 
+santy2911 : mise. 1485
+psychoman59 : suit. 1485
+*** ABATTAGE ***
+santy2911 : montre [6s Ad] (double paire, As et Six)
+psychoman59 : cache la main perdante. 
+santy2911 a remporté 4455  lors du pot .
+*** SYNTHÈSE ***
+Pot total 4455 | Commission 0 
+Tableau [6h 2s As 5c Kd]
+Siège 2 : psychoman59 (petite blind) a caché la main perdante. [5h Ah]
+Siège 3 : santy2911 (grosse blind) a montré [6s Ad] et a gagné (4455) avec double paire, As et Six
+Siège 4 : YiddoMerls88 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°239027963029 : Tournoi #3481029657, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 04/10/2022 15:42:01 CET [04/10/2022 9:42:01 ET]
+Table '3481029657 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (4660 en jetons) 
+Place 3: santy2911 (11195 en jetons) 
+Place 4: YiddoMerls88 (4145 en jetons) 
+psychoman59 : met l'ante. 15
+santy2911 : met l'ante. 15
+YiddoMerls88 : met l'ante. 15
+santy2911 : met la petite blind. 60
+YiddoMerls88 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 8s]
+psychoman59 : passe. 
+santy2911 : suit. 60
+YiddoMerls88 : parole 
+*** FLOP *** [6h Ac 4s]
+santy2911 : parole 
+YiddoMerls88 : mise. 120
+santy2911 : passe. 
+Personne n'a suivi. (120) sont retournés à YiddoMerls88.
+YiddoMerls88 a remporté 285  lors du pot .
+YiddoMerls88 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 285 | Commission 0 
+Tableau [6h Ac 4s]
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : santy2911 (petite blind) s'est couché. sur le Flop
+Siège 4 : YiddoMerls88 (grosse blind) a remporté (285)
+
+
+
+Main PokerStars n°239027966818 : Tournoi #3481029657, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 04/10/2022 15:42:18 CET [04/10/2022 9:42:18 ET]
+Table '3481029657 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (4645 en jetons) 
+Place 3: santy2911 (11060 en jetons) 
+Place 4: YiddoMerls88 (4295 en jetons) 
+psychoman59 : met l'ante. 15
+santy2911 : met l'ante. 15
+YiddoMerls88 : met l'ante. 15
+YiddoMerls88 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Jc]
+santy2911 : suit. 120
+YiddoMerls88 : suit. 60
+psychoman59 : relance. 4510 à 4630 et est all-in.
+santy2911 : passe. 
+YiddoMerls88 : passe. 
+Personne n'a suivi. (4510) sont retournés à psychoman59.
+psychoman59 a remporté 405  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 405 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (405)
+Siège 3 : santy2911 (bouton) s'est couché. avant Flop
+Siège 4 : YiddoMerls88 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239027970045 : Tournoi #3481029657, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 04/10/2022 15:42:32 CET [04/10/2022 9:42:32 ET]
+Table '3481029657 1' 4-max Siège #4 est au bouton.
+Place 2: psychoman59 (4915 en jetons) 
+Place 3: santy2911 (10925 en jetons) 
+Place 4: YiddoMerls88 (4160 en jetons) 
+psychoman59 : met l'ante. 15
+santy2911 : met l'ante. 15
+YiddoMerls88 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+santy2911 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Js]
+YiddoMerls88 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à santy2911.
+santy2911 a remporté 165  lors du pot .
+santy2911 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 165 | Commission 0 
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : santy2911 (grosse blind) a remporté (165)
+Siège 4 : YiddoMerls88 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°239027972208 : Tournoi #3481029657, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (60/120) - 04/10/2022 15:42:42 CET [04/10/2022 9:42:42 ET]
+Table '3481029657 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (4840 en jetons) 
+Place 3: santy2911 (11015 en jetons) 
+Place 4: YiddoMerls88 (4145 en jetons) 
+psychoman59 : met l'ante. 15
+santy2911 : met l'ante. 15
+YiddoMerls88 : met l'ante. 15
+santy2911 : met la petite blind. 60
+YiddoMerls88 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 8h]
+psychoman59 : relance. 4705 à 4825 et est all-in.
+santy2911 : suit. 4765
+YiddoMerls88 : passe. 
+*** FLOP *** [Qh Js 2h]
+*** TOURNANT *** [Qh Js 2h] [2s]
+*** RIVIÈRE *** [Qh Js 2h 2s] [5s]
+*** ABATTAGE ***
+santy2911 : montre [Th Ad] (une paire de Deux)
+psychoman59 : montre [8d 8h] (double paire, Huit et Deux)
+psychoman59 a remporté 9815  lors du pot .
+*** SYNTHÈSE ***
+Pot total 9815 | Commission 0 
+Tableau [Qh Js 2h 2s 5s]
+Siège 2 : psychoman59 (bouton) a montré [8d 8h] et a gagné (9815) avec double paire, Huit et Deux
+Siège 3 : santy2911 (petite blind) a montré [Th Ad] et a perdu avec une paire de Deux
+Siège 4 : YiddoMerls88 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239027982773 : Tournoi #3481029657, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 04/10/2022 15:43:27 CET [04/10/2022 9:43:27 ET]
+Table '3481029657 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (9815 en jetons) 
+Place 3: santy2911 (6175 en jetons) 
+Place 4: YiddoMerls88 (4010 en jetons) 
+psychoman59 : met l'ante. 20
+santy2911 : met l'ante. 20
+YiddoMerls88 : met l'ante. 20
+YiddoMerls88 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 8s]
+santy2911 : suit. 150
+YiddoMerls88 : suit. 75
+psychoman59 : parole 
+*** FLOP *** [3h 5s 5c]
+YiddoMerls88 : parole 
+psychoman59 : parole 
+santy2911 : parole 
+*** TOURNANT *** [3h 5s 5c] [3s]
+YiddoMerls88 : parole 
+psychoman59 : parole 
+santy2911 : parole 
+*** RIVIÈRE *** [3h 5s 5c 3s] [Td]
+YiddoMerls88 : parole 
+psychoman59 : parole 
+santy2911 : parole 
+*** ABATTAGE ***
+YiddoMerls88 : montre [Qs Th] (double paire, Dix et Cinq)
+psychoman59 : cache la main perdante. 
+santy2911 : cache la main perdante. 
+YiddoMerls88 a remporté 510  lors du pot .
+*** SYNTHÈSE ***
+Pot total 510 | Commission 0 
+Tableau [3h 5s 5c 3s Td]
+Siège 2 : psychoman59 (grosse blind) a caché la main perdante. [As 8s]
+Siège 3 : santy2911 (bouton) a caché la main perdante. [2s 7c]
+Siège 4 : YiddoMerls88 (petite blind) a montré [Qs Th] et a gagné (510) avec double paire, Dix et Cinq
+
+
+
+Main PokerStars n°239027988062 : Tournoi #3481029657, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 04/10/2022 15:43:51 CET [04/10/2022 9:43:51 ET]
+Table '3481029657 1' 4-max Siège #4 est au bouton.
+Place 2: psychoman59 (9645 en jetons) 
+Place 3: santy2911 (6005 en jetons) 
+Place 4: YiddoMerls88 (4350 en jetons) 
+psychoman59 : met l'ante. 20
+santy2911 : met l'ante. 20
+YiddoMerls88 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+santy2911 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Qc]
+YiddoMerls88 : relance. 150 à 300
+psychoman59 : passe. 
+santy2911 : relance. 5685 à 5985 et est all-in.
+YiddoMerls88 : suit. 4030 et est all-in.
+Personne n'a suivi. (1655) sont retournés à santy2911.
+*** FLOP *** [3h 9h Ad]
+*** TOURNANT *** [3h 9h Ad] [Ah]
+*** RIVIÈRE *** [3h 9h Ad Ah] [7h]
+*** ABATTAGE ***
+santy2911 : montre [Ks 2h] (une couleur, hauteur As)
+YiddoMerls88 : montre [Ac 5h] (une couleur, hauteur As - Cinq plus haute)
+YiddoMerls88 a remporté 8795  lors du pot .
+*** SYNTHÈSE ***
+Pot total 8795 | Commission 0 
+Tableau [3h 9h Ad Ah 7h]
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : santy2911 (grosse blind) a montré [Ks 2h] et a perdu avec une couleur, hauteur As
+Siège 4 : YiddoMerls88 (bouton) a montré [Ac 5h] et a gagné (8795) avec une couleur, hauteur As
+
+
+
+Main PokerStars n°239027992595 : Tournoi #3481029657, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 04/10/2022 15:44:11 CET [04/10/2022 9:44:11 ET]
+Table '3481029657 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (9550 en jetons) 
+Place 3: santy2911 (1655 en jetons) 
+Place 4: YiddoMerls88 (8795 en jetons) 
+psychoman59 : met l'ante. 20
+santy2911 : met l'ante. 20
+YiddoMerls88 : met l'ante. 20
+santy2911 : met la petite blind. 75
+YiddoMerls88 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Ah]
+psychoman59 : relance. 150 à 300
+santy2911 : passe. 
+YiddoMerls88 : passe. 
+Personne n'a suivi. (150) sont retournés à psychoman59.
+psychoman59 a remporté 435  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 435 | Commission 0 
+Siège 2 : psychoman59 (bouton) a remporté (435)
+Siège 3 : santy2911 (petite blind) s'est couché. avant Flop
+Siège 4 : YiddoMerls88 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239027995372 : Tournoi #3481029657, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 04/10/2022 15:44:23 CET [04/10/2022 9:44:23 ET]
+Table '3481029657 1' 4-max Siège #3 est au bouton.
+Place 2: psychoman59 (9815 en jetons) 
+Place 3: santy2911 (1560 en jetons) 
+Place 4: YiddoMerls88 (8625 en jetons) 
+psychoman59 : met l'ante. 20
+santy2911 : met l'ante. 20
+YiddoMerls88 : met l'ante. 20
+YiddoMerls88 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 9d]
+santy2911 : relance. 1390 à 1540 et est all-in.
+YiddoMerls88 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (1390) sont retournés à santy2911.
+santy2911 a remporté 435  lors du pot .
+santy2911 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 435 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : santy2911 (bouton) a remporté (435)
+Siège 4 : YiddoMerls88 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239027997419 : Tournoi #3481029657, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 04/10/2022 15:44:32 CET [04/10/2022 9:44:32 ET]
+Table '3481029657 1' 4-max Siège #4 est au bouton.
+Place 2: psychoman59 (9645 en jetons) 
+Place 3: santy2911 (1825 en jetons) 
+Place 4: YiddoMerls88 (8530 en jetons) 
+psychoman59 : met l'ante. 20
+santy2911 : met l'ante. 20
+YiddoMerls88 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+santy2911 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 3s]
+YiddoMerls88 : passe. 
+psychoman59 : relance. 300 à 450
+santy2911 : relance. 1355 à 1805 et est all-in.
+psychoman59 : suit. 1355
+*** FLOP *** [5d 9h Kh]
+*** TOURNANT *** [5d 9h Kh] [6d]
+*** RIVIÈRE *** [5d 9h Kh 6d] [2d]
+*** ABATTAGE ***
+psychoman59 : montre [As 3s] (Hauteur As)
+santy2911 : montre [Td 7c] (Hauteur Roi)
+psychoman59 a remporté 3670  lors du pot .
+santy2911 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 3670 | Commission 0 
+Tableau [5d 9h Kh 6d 2d]
+Siège 2 : psychoman59 (petite blind) a montré [As 3s] et a gagné (3670) avec Hauteur As
+Siège 3 : santy2911 (grosse blind) a montré [Td 7c] et a perdu avec Hauteur Roi
+Siège 4 : YiddoMerls88 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°239028002910 : Tournoi #3481029657, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 04/10/2022 15:44:56 CET [04/10/2022 9:44:56 ET]
+Table '3481029657 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (11490 en jetons) 
+Place 4: YiddoMerls88 (8510 en jetons) 
+psychoman59 : met l'ante. 20
+YiddoMerls88 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+YiddoMerls88 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 7h]
+psychoman59 : suit. 75
+YiddoMerls88 : relance. 300 à 450
+psychoman59 : suit. 300
+*** FLOP *** [3c Th 7d]
+YiddoMerls88 : mise. 470
+psychoman59 : suit. 470
+*** TOURNANT *** [3c Th 7d] [Jc]
+YiddoMerls88 : parole 
+psychoman59 : mise. 940
+YiddoMerls88 : passe. 
+Personne n'a suivi. (940) sont retournés à psychoman59.
+psychoman59 a remporté 1880  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 1880 | Commission 0 
+Tableau [3c Th 7d Jc]
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (1880)
+Siège 4 : YiddoMerls88 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°239028008330 : Tournoi #3481029657, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 04/10/2022 15:45:20 CET [04/10/2022 9:45:20 ET]
+Table '3481029657 1' 4-max Siège #4 est au bouton.
+Place 2: psychoman59 (12430 en jetons) 
+Place 4: YiddoMerls88 (7570 en jetons) 
+psychoman59 : met l'ante. 20
+YiddoMerls88 : met l'ante. 20
+YiddoMerls88 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 7d]
+YiddoMerls88 : relance. 150 à 300
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à YiddoMerls88.
+YiddoMerls88 a remporté 340  lors du pot .
+YiddoMerls88 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 4 : YiddoMerls88 (bouton) (petite blind) a remporté (340)
+
+
+
+Main PokerStars n°239028010619 : Tournoi #3481029657, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 04/10/2022 15:45:30 CET [04/10/2022 9:45:30 ET]
+Table '3481029657 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (12260 en jetons) 
+Place 4: YiddoMerls88 (7740 en jetons) 
+psychoman59 : met l'ante. 20
+YiddoMerls88 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+YiddoMerls88 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 7s]
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à YiddoMerls88.
+YiddoMerls88 a remporté 190  lors du pot .
+YiddoMerls88 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 4 : YiddoMerls88 (grosse blind) a remporté (190)
+
+
+
+Main PokerStars n°239028012494 : Tournoi #3481029657, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 04/10/2022 15:45:38 CET [04/10/2022 9:45:38 ET]
+Table '3481029657 1' 4-max Siège #4 est au bouton.
+Place 2: psychoman59 (12165 en jetons) 
+Place 4: YiddoMerls88 (7835 en jetons) 
+psychoman59 : met l'ante. 20
+YiddoMerls88 : met l'ante. 20
+YiddoMerls88 : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 5h]
+YiddoMerls88 : suit. 75
+psychoman59 : parole 
+*** FLOP *** [Ah Qc 6c]
+psychoman59 : parole 
+YiddoMerls88 : parole 
+*** TOURNANT *** [Ah Qc 6c] [Jc]
+psychoman59 : parole 
+YiddoMerls88 : mise. 150
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à YiddoMerls88.
+YiddoMerls88 a remporté 340  lors du pot .
+YiddoMerls88 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [Ah Qc 6c Jc]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 4 : YiddoMerls88 (bouton) (petite blind) a remporté (340)
+
+
+
+Main PokerStars n°239028017594 : Tournoi #3481029657, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (75/150) - 04/10/2022 15:46:01 CET [04/10/2022 9:46:01 ET]
+Table '3481029657 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (11995 en jetons) 
+Place 4: YiddoMerls88 (8005 en jetons) 
+psychoman59 : met l'ante. 20
+YiddoMerls88 : met l'ante. 20
+psychoman59 : met la petite blind. 75
+YiddoMerls88 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 7s]
+psychoman59 : suit. 75
+YiddoMerls88 : parole 
+*** FLOP *** [Ah 5s Kd]
+YiddoMerls88 : parole 
+psychoman59 : mise. 340
+YiddoMerls88 : passe. 
+Personne n'a suivi. (340) sont retournés à psychoman59.
+psychoman59 a remporté 340  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [Ah 5s Kd]
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (340)
+Siège 4 : YiddoMerls88 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°239028021645 : Tournoi #3481029657, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 04/10/2022 15:46:18 CET [04/10/2022 9:46:18 ET]
+Table '3481029657 1' 4-max Siège #4 est au bouton.
+Place 2: psychoman59 (12165 en jetons) 
+Place 4: YiddoMerls88 (7835 en jetons) 
+psychoman59 : met l'ante. 25
+YiddoMerls88 : met l'ante. 25
+YiddoMerls88 : met la petite blind. 100
+psychoman59 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 6h]
+YiddoMerls88 : relance. 200 à 400
+psychoman59 : suit. 200
+*** FLOP *** [2d 9c Qc]
+psychoman59 : parole 
+YiddoMerls88 : parole 
+*** TOURNANT *** [2d 9c Qc] [8c]
+psychoman59 : parole 
+YiddoMerls88 : mise. 400
+psychoman59 : suit. 400
+*** RIVIÈRE *** [2d 9c Qc 8c] [Tc]
+psychoman59 : parole 
+YiddoMerls88 : mise. 7010 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (7010) sont retournés à YiddoMerls88.
+YiddoMerls88 a remporté 1650  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1650 | Commission 0 
+Tableau [2d 9c Qc 8c Tc]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 4 : YiddoMerls88 (bouton) (petite blind) a remporté (1650)
+
+
+
+Main PokerStars n°239028027885 : Tournoi #3481029657, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (100/200) - 04/10/2022 15:46:46 CET [04/10/2022 9:46:46 ET]
+Table '3481029657 1' 4-max Siège #2 est au bouton.
+Place 2: psychoman59 (11340 en jetons) 
+Place 4: YiddoMerls88 (8660 en jetons) 
+psychoman59 : met l'ante. 25
+YiddoMerls88 : met l'ante. 25
+psychoman59 : met la petite blind. 100
+YiddoMerls88 : met la grosse blind. 200
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Qc]
+psychoman59 : relance. 450 à 650
+YiddoMerls88 : relance. 7985 à 8635 et est all-in.
+psychoman59 : suit. 7985
+*** FLOP *** [Qh 3c Ah]
+*** TOURNANT *** [Qh 3c Ah] [Kc]
+*** RIVIÈRE *** [Qh 3c Ah Kc] [5h]
+*** ABATTAGE ***
+YiddoMerls88 : montre [8c 8h] (une paire de Huit)
+psychoman59 : montre [Ks Qc] (double paire, Rois et Dames)
+psychoman59 a remporté 17320  lors du pot .
+YiddoMerls88 a fini le tournoi à la 2e place et a reçu 0.34 €.
+psychoman59 gagne le tournoi - félicitations !
+psychoman59 gagne un ticket " PSPC Mega Path Ticket - €1,50 "
+*** SYNTHÈSE ***
+Pot total 17320 | Commission 0 
+Tableau [Qh 3c Ah Kc 5h]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Ks Qc] et a gagné (17320) avec double paire, Rois et Dames
+Siège 4 : YiddoMerls88 (grosse blind) a montré [8c 8h] et a perdu avec une paire de Huit
+
+
+

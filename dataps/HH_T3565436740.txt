@@ -1,0 +1,573 @@
+﻿Main PokerStars n°242591262853 : Tournoi #3565436740, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/03/2023 17:42:35 CET [21/03/2023 12:42:35 ET]
+Table '3565436740 1' 3-max Siège #1 est au bouton.
+Place 1: woodflop250 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: chirloupette (300 en jetons) 
+psychoman59 : met la petite blind. 10
+chirloupette : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 9c]
+woodflop250 : relance. 20 à 40
+psychoman59 : passe. 
+chirloupette : suit. 20
+*** FLOP *** [3d Kd Qd]
+chirloupette : parole 
+woodflop250 : mise. 45
+chirloupette : passe. 
+Personne n'a suivi. (45) sont retournés à woodflop250.
+woodflop250 a remporté 90  lors du pot .
+woodflop250 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [3d Kd Qd]
+Siège 1 : woodflop250 (bouton) a remporté (90)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : chirloupette (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°242591274280 : Tournoi #3565436740, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/03/2023 17:43:12 CET [21/03/2023 12:43:12 ET]
+Table '3565436740 1' 3-max Siège #2 est au bouton.
+Place 1: woodflop250 (350 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: chirloupette (260 en jetons) 
+chirloupette : met la petite blind. 10
+woodflop250 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 8s]
+psychoman59 : passe. 
+chirloupette : relance. 40 à 60
+woodflop250 : suit. 40
+*** FLOP *** [Kd 5h Td]
+chirloupette : mise. 120
+woodflop250 : passe. 
+Personne n'a suivi. (120) sont retournés à chirloupette.
+chirloupette a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Kd 5h Td]
+Siège 1 : woodflop250 (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : chirloupette (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°242591278730 : Tournoi #3565436740, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/03/2023 17:43:26 CET [21/03/2023 12:43:26 ET]
+Table '3565436740 1' 3-max Siège #3 est au bouton.
+Place 1: woodflop250 (290 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: chirloupette (320 en jetons) 
+woodflop250 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 4c]
+chirloupette : suit. 20
+woodflop250 : relance. 270 à 290 et est all-in.
+psychoman59 : passe. 
+chirloupette : passe. 
+Personne n'a suivi. (270) sont retournés à woodflop250.
+woodflop250 a remporté 60  lors du pot .
+woodflop250 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : woodflop250 (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : chirloupette (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242591284783 : Tournoi #3565436740, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 21/03/2023 17:43:45 CET [21/03/2023 12:43:45 ET]
+Table '3565436740 1' 3-max Siège #1 est au bouton.
+Place 1: woodflop250 (330 en jetons) 
+Place 2: psychoman59 (270 en jetons) 
+Place 3: chirloupette (300 en jetons) 
+psychoman59 : met la petite blind. 15
+chirloupette : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Js]
+woodflop250 : passe. 
+psychoman59 : suit. 15
+chirloupette : parole 
+*** FLOP *** [Qc 8h Kd]
+psychoman59 : parole 
+chirloupette : mise. 30
+psychoman59 : suit. 30
+*** TOURNANT *** [Qc 8h Kd] [7c]
+psychoman59 : parole 
+chirloupette : mise. 30
+psychoman59 : suit. 30
+*** RIVIÈRE *** [Qc 8h Kd 7c] [As]
+psychoman59 : parole 
+chirloupette : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Th Js] (une suite, Dix à As)
+chirloupette : cache la main perdante. 
+psychoman59 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Qc 8h Kd 7c As]
+Siège 1 : woodflop250 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [Th Js] et a gagné (180) avec une suite, Dix à As
+Siège 3 : chirloupette (grosse blind) a caché la main perdante. [6d 8d]
+
+
+
+Main PokerStars n°242591297417 : Tournoi #3565436740, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 21/03/2023 17:44:26 CET [21/03/2023 12:44:26 ET]
+Table '3565436740 1' 3-max Siège #2 est au bouton.
+Place 1: woodflop250 (330 en jetons) 
+Place 2: psychoman59 (360 en jetons) 
+Place 3: chirloupette (210 en jetons) 
+chirloupette : met la petite blind. 15
+woodflop250 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 7c]
+psychoman59 : passe. 
+chirloupette : suit. 15
+woodflop250 : parole 
+*** FLOP *** [5h Td Jh]
+chirloupette : parole 
+woodflop250 : mise. 300 et est all-in.
+chirloupette : passe. 
+Personne n'a suivi. (300) sont retournés à woodflop250.
+woodflop250 a remporté 60  lors du pot .
+woodflop250 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [5h Td Jh]
+Siège 1 : woodflop250 (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : chirloupette (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°242591303890 : Tournoi #3565436740, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 21/03/2023 17:44:47 CET [21/03/2023 12:44:47 ET]
+Table '3565436740 1' 3-max Siège #3 est au bouton.
+Place 1: woodflop250 (360 en jetons) 
+Place 2: psychoman59 (360 en jetons) 
+Place 3: chirloupette (180 en jetons) 
+woodflop250 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Qc]
+chirloupette : passe. 
+woodflop250 : relance. 320 à 360 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (320) sont retournés à woodflop250.
+woodflop250 a remporté 80  lors du pot .
+woodflop250 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : woodflop250 (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : chirloupette (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°242591309169 : Tournoi #3565436740, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 21/03/2023 17:45:04 CET [21/03/2023 12:45:04 ET]
+Table '3565436740 1' 3-max Siège #1 est au bouton.
+Place 1: woodflop250 (400 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: chirloupette (180 en jetons) 
+psychoman59 : met la petite blind. 20
+chirloupette : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 5d]
+woodflop250 : relance. 360 à 400 et est all-in.
+psychoman59 : passe. 
+chirloupette : suit. 140 et est all-in.
+Personne n'a suivi. (220) sont retournés à woodflop250.
+*** FLOP *** [Kc 3h 4s]
+*** TOURNANT *** [Kc 3h 4s] [Jc]
+*** RIVIÈRE *** [Kc 3h 4s Jc] [6d]
+*** ABATTAGE ***
+chirloupette : montre [7c Kd] (une paire de Rois)
+woodflop250 : montre [Ah 8h] (Hauteur As)
+chirloupette a remporté 380  lors du pot .
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Tableau [Kc 3h 4s Jc 6d]
+Siège 1 : woodflop250 (bouton) a montré [Ah 8h] et a perdu avec Hauteur As
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : chirloupette (grosse blind) a montré [7c Kd] et a gagné (380) avec une paire de Rois
+
+
+
+Main PokerStars n°242591315550 : Tournoi #3565436740, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 21/03/2023 17:45:25 CET [21/03/2023 12:45:25 ET]
+Table '3565436740 1' 3-max Siège #2 est au bouton.
+Place 1: woodflop250 (220 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: chirloupette (380 en jetons) 
+chirloupette : met la petite blind. 20
+woodflop250 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 4h]
+psychoman59 : passe. 
+chirloupette : passe. 
+Personne n'a suivi. (20) sont retournés à woodflop250.
+woodflop250 a remporté 40  lors du pot .
+woodflop250 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : woodflop250 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : chirloupette (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242591317402 : Tournoi #3565436740, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 21/03/2023 17:45:31 CET [21/03/2023 12:45:31 ET]
+Table '3565436740 1' 3-max Siège #3 est au bouton.
+Place 1: woodflop250 (240 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: chirloupette (360 en jetons) 
+woodflop250 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 9h]
+chirloupette : relance. 320 à 360 et est all-in.
+woodflop250 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (320) sont retournés à chirloupette.
+chirloupette a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : woodflop250 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : chirloupette (bouton) a remporté (100)
+
+
+
+Main PokerStars n°242591322233 : Tournoi #3565436740, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 21/03/2023 17:45:46 CET [21/03/2023 12:45:46 ET]
+Table '3565436740 1' 3-max Siège #1 est au bouton.
+Place 1: woodflop250 (220 en jetons) 
+Place 2: psychoman59 (260 en jetons) 
+Place 3: chirloupette (420 en jetons) 
+psychoman59 : met la petite blind. 30
+chirloupette : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 8d]
+woodflop250 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à chirloupette.
+chirloupette a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : woodflop250 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : chirloupette (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°242591324208 : Tournoi #3565436740, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 21/03/2023 17:45:52 CET [21/03/2023 12:45:52 ET]
+Table '3565436740 1' 3-max Siège #2 est au bouton.
+Place 1: woodflop250 (220 en jetons) 
+Place 2: psychoman59 (230 en jetons) 
+Place 3: chirloupette (450 en jetons) 
+chirloupette : met la petite blind. 30
+woodflop250 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Qc]
+psychoman59 : passe. 
+chirloupette : relance. 390 à 450 et est all-in.
+woodflop250 : suit. 160 et est all-in.
+Personne n'a suivi. (230) sont retournés à chirloupette.
+*** FLOP *** [6d 3h Js]
+*** TOURNANT *** [6d 3h Js] [Jc]
+*** RIVIÈRE *** [6d 3h Js Jc] [4s]
+*** ABATTAGE ***
+chirloupette : montre [9s As] (une paire de Valets)
+woodflop250 : montre [5s Kd] (une paire de Valets - plus basse kicker)
+chirloupette a remporté 440  lors du pot .
+woodflop250 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 440 | Commission 0 
+Tableau [6d 3h Js Jc 4s]
+Siège 1 : woodflop250 (grosse blind) a montré [5s Kd] et a perdu avec une paire de Valets
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : chirloupette (petite blind) a montré [9s As] et a gagné (440) avec une paire de Valets
+
+
+
+Main PokerStars n°242591331833 : Tournoi #3565436740, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 21/03/2023 17:46:17 CET [21/03/2023 12:46:17 ET]
+Table '3565436740 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (230 en jetons) 
+Place 3: chirloupette (670 en jetons) 
+chirloupette : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 8h]
+chirloupette : relance. 610 à 670 et est all-in.
+psychoman59 : suit. 170 et est all-in.
+Personne n'a suivi. (440) sont retournés à chirloupette.
+*** FLOP *** [4h Ks As]
+*** TOURNANT *** [4h Ks As] [Ts]
+*** RIVIÈRE *** [4h Ks As Ts] [Kh]
+*** ABATTAGE ***
+psychoman59 : montre [8s 8h] (double paire, Rois et Huit)
+chirloupette : montre [Qc 2s] (une paire de Rois)
+psychoman59 a remporté 460  lors du pot .
+*** SYNTHÈSE ***
+Pot total 460 | Commission 0 
+Tableau [4h Ks As Ts Kh]
+Siège 2 : psychoman59 (grosse blind) a montré [8s 8h] et a gagné (460) avec double paire, Rois et Huit
+Siège 3 : chirloupette (bouton) (petite blind) a montré [Qc 2s] et a perdu avec une paire de Rois
+
+
+
+Main PokerStars n°242591336095 : Tournoi #3565436740, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 21/03/2023 17:46:31 CET [21/03/2023 12:46:31 ET]
+Table '3565436740 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (460 en jetons) 
+Place 3: chirloupette (440 en jetons) 
+psychoman59 : met la petite blind. 30
+chirloupette : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 9s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à chirloupette.
+chirloupette a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : chirloupette (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°242591337609 : Tournoi #3565436740, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 21/03/2023 17:46:36 CET [21/03/2023 12:46:36 ET]
+Table '3565436740 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (430 en jetons) 
+Place 3: chirloupette (470 en jetons) 
+chirloupette : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 5s]
+chirloupette : relance. 410 à 470 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (410) sont retournés à chirloupette.
+chirloupette a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : chirloupette (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°242591340898 : Tournoi #3565436740, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 21/03/2023 17:46:46 CET [21/03/2023 12:46:46 ET]
+Table '3565436740 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (370 en jetons) 
+Place 3: chirloupette (530 en jetons) 
+psychoman59 : met la petite blind. 40
+chirloupette : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 8c]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à chirloupette.
+chirloupette a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : chirloupette (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°242591342371 : Tournoi #3565436740, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 21/03/2023 17:46:51 CET [21/03/2023 12:46:51 ET]
+Table '3565436740 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (330 en jetons) 
+Place 3: chirloupette (570 en jetons) 
+chirloupette : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 6c]
+chirloupette : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : chirloupette (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242591343733 : Tournoi #3565436740, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 21/03/2023 17:46:55 CET [21/03/2023 12:46:55 ET]
+Table '3565436740 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (370 en jetons) 
+Place 3: chirloupette (530 en jetons) 
+psychoman59 : met la petite blind. 40
+chirloupette : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Qh]
+psychoman59 : relance. 290 à 370 et est all-in.
+chirloupette : passe. 
+Personne n'a suivi. (290) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (160)
+Siège 3 : chirloupette (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242591345675 : Tournoi #3565436740, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 21/03/2023 17:47:02 CET [21/03/2023 12:47:02 ET]
+Table '3565436740 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (450 en jetons) 
+Place 3: chirloupette (450 en jetons) 
+chirloupette : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 6s]
+chirloupette : relance. 370 à 450 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (370) sont retournés à chirloupette.
+chirloupette a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : chirloupette (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°242591347603 : Tournoi #3565436740, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 21/03/2023 17:47:08 CET [21/03/2023 12:47:08 ET]
+Table '3565436740 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (370 en jetons) 
+Place 3: chirloupette (530 en jetons) 
+psychoman59 : met la petite blind. 40
+chirloupette : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 5c]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à chirloupette.
+chirloupette a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : chirloupette (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°242591349190 : Tournoi #3565436740, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 21/03/2023 17:47:13 CET [21/03/2023 12:47:13 ET]
+Table '3565436740 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (330 en jetons) 
+Place 3: chirloupette (570 en jetons) 
+chirloupette : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 6s]
+chirloupette : suit. 40
+psychoman59 : relance. 250 à 330 et est all-in.
+chirloupette : passe. 
+Personne n'a suivi. (250) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (160)
+Siège 3 : chirloupette (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242591351780 : Tournoi #3565436740, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 21/03/2023 17:47:21 CET [21/03/2023 12:47:21 ET]
+Table '3565436740 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (410 en jetons) 
+Place 3: chirloupette (490 en jetons) 
+psychoman59 : met la petite blind. 40
+chirloupette : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Jd]
+psychoman59 : relance. 330 à 410 et est all-in.
+chirloupette : passe. 
+Personne n'a suivi. (330) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (160)
+Siège 3 : chirloupette (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242591354250 : Tournoi #3565436740, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 21/03/2023 17:47:29 CET [21/03/2023 12:47:29 ET]
+Table '3565436740 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (490 en jetons) 
+Place 3: chirloupette (410 en jetons) 
+chirloupette : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 6h]
+chirloupette : relance. 330 à 410 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (330) sont retournés à chirloupette.
+chirloupette a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : chirloupette (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°242591356210 : Tournoi #3565436740, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 21/03/2023 17:47:35 CET [21/03/2023 12:47:35 ET]
+Table '3565436740 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (410 en jetons) 
+Place 3: chirloupette (490 en jetons) 
+psychoman59 : met la petite blind. 40
+chirloupette : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 4c]
+psychoman59 : relance. 330 à 410 et est all-in.
+chirloupette : passe. 
+Personne n'a suivi. (330) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (160)
+Siège 3 : chirloupette (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242591359477 : Tournoi #3565436740, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 21/03/2023 17:47:46 CET [21/03/2023 12:47:46 ET]
+Table '3565436740 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (490 en jetons) 
+Place 3: chirloupette (410 en jetons) 
+chirloupette : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Jc]
+chirloupette : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (100)
+Siège 3 : chirloupette (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242591360802 : Tournoi #3565436740, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 21/03/2023 17:47:50 CET [21/03/2023 12:47:50 ET]
+Table '3565436740 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (540 en jetons) 
+Place 3: chirloupette (360 en jetons) 
+psychoman59 : met la petite blind. 50
+chirloupette : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Ts]
+psychoman59 : relance. 440 à 540 et est all-in.
+chirloupette : suit. 260 et est all-in.
+Personne n'a suivi. (180) sont retournés à psychoman59.
+*** FLOP *** [Tc 7d Jd]
+*** TOURNANT *** [Tc 7d Jd] [4h]
+*** RIVIÈRE *** [Tc 7d Jd 4h] [2c]
+*** ABATTAGE ***
+chirloupette : montre [As 7s] (une paire de Sept)
+psychoman59 : montre [Js Ts] (double paire, Valets et Dix)
+psychoman59 a remporté 720  lors du pot .
+chirloupette a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 720 | Commission 0 
+Tableau [Tc 7d Jd 4h 2c]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Js Ts] et a gagné (720) avec double paire, Valets et Dix
+Siège 3 : chirloupette (grosse blind) a montré [As 7s] et a perdu avec une paire de Sept
+
+
+

@@ -1,0 +1,57 @@
+﻿Main PokerStars n°243121740915 : Tournoi #3578234260, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/04/2023 8:11:03 CET [16/04/2023 2:11:03 ET]
+Table '3578234260 1' 3-max Siège #1 est au bouton.
+Place 1: qlf44000 (150 en jetons) 
+Place 2: coucou260976 (295 en jetons) 
+Place 3: psychoman59 (455 en jetons) 
+coucou260976 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Ac]
+qlf44000 : passe. 
+coucou260976 : relance. 265 à 295 et est all-in.
+psychoman59 : suit. 265
+*** FLOP *** [As 9d 4d]
+*** TOURNANT *** [As 9d 4d] [Qh]
+*** RIVIÈRE *** [As 9d 4d Qh] [6d]
+*** ABATTAGE ***
+coucou260976 : montre [Kc 8d] (Hauteur As)
+psychoman59 : montre [Jd Ac] (une paire de As)
+psychoman59 a remporté 590  lors du pot .
+coucou260976 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 590 | Commission 0 
+Tableau [As 9d 4d Qh 6d]
+Siège 1 : qlf44000 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : coucou260976 (petite blind) a montré [Kc 8d] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (grosse blind) a montré [Jd Ac] et a gagné (590) avec une paire de As
+
+
+
+Main PokerStars n°243121742903 : Tournoi #3578234260, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 16/04/2023 8:11:22 CET [16/04/2023 2:11:22 ET]
+Table '3578234260 1' 3-max Siège #3 est au bouton.
+Place 1: qlf44000 (150 en jetons) 
+Place 3: psychoman59 (750 en jetons) 
+psychoman59 : met la petite blind. 20
+qlf44000 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Td]
+psychoman59 : relance. 80 à 120
+qlf44000 : relance. 30 à 150 et est all-in.
+psychoman59 : suit. 30
+*** FLOP *** [Qs 3h Ts]
+*** TOURNANT *** [Qs 3h Ts] [6h]
+*** RIVIÈRE *** [Qs 3h Ts 6h] [Th]
+*** ABATTAGE ***
+qlf44000 : montre [Kh 8c] (une paire de Dix)
+psychoman59 : montre [Ad Td] (un brelan de Dix)
+psychoman59 a remporté 300  lors du pot .
+qlf44000 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [Qs 3h Ts 6h Th]
+Siège 1 : qlf44000 (grosse blind) a montré [Kh 8c] et a perdu avec une paire de Dix
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Ad Td] et a gagné (300) avec un brelan de Dix
+
+
+

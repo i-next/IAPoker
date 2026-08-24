@@ -1,0 +1,674 @@
+﻿Main PokerStars n°257802220606 : Tournoi #3929492022, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 19/09/2025 11:21:44 CET [19/09/2025 5:21:44 ET]
+Table '3929492022 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: Miguel An888 (500 en jetons) ne joue pas.
+Place 3: Rico Verona (500 en jetons) 
+Miguel An888 : met la petite blind. 10
+Rico Verona : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 9h]
+psychoman59 : relance. 480 à 500 et est all-in.
+Miguel An888 : passe. 
+Rico Verona : passe. 
+Personne n'a suivi. (480) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : psychoman59 (bouton) a remporté (50)
+Siège 2 : Miguel An888 (petite blind) s'est couché. avant Flop
+Siège 3 : Rico Verona (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257802221315 : Tournoi #3929492022, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 19/09/2025 11:21:53 CET [19/09/2025 5:21:53 ET]
+Table '3929492022 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (530 en jetons) 
+Place 2: Miguel An888 (490 en jetons) ne joue pas.
+Place 3: Rico Verona (480 en jetons) 
+Rico Verona : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 3d]
+Miguel An888 : passe. 
+Rico Verona : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Kh 4c Jh]
+Rico Verona : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Kh 4c Jh] [Kd]
+Rico Verona : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Kh 4c Jh Kd] [4h]
+Rico Verona : mise. 40
+psychoman59 : suit. 40
+*** ABATTAGE ***
+Rico Verona : montre [7s 4s] (un full, full aux Quatre par les Rois)
+psychoman59 : cache la main perdante. 
+Rico Verona a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Kh 4c Jh Kd 4h]
+Siège 1 : psychoman59 (grosse blind) a caché la main perdante. [Ac 3d]
+Siège 2 : Miguel An888 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Rico Verona (petite blind) a montré [7s 4s] et a gagné (120) avec un full, full aux Quatre par les Rois
+
+
+
+Main PokerStars n°257802223235 : Tournoi #3929492022, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 19/09/2025 11:22:15 CET [19/09/2025 5:22:15 ET]
+Table '3929492022 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (470 en jetons) 
+Place 2: Miguel An888 (490 en jetons) ne joue pas.
+Place 3: Rico Verona (540 en jetons) 
+psychoman59 : met la petite blind. 10
+Miguel An888 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 6c]
+Rico Verona : suit. 20
+psychoman59 : suit. 10
+Miguel An888 : passe. 
+*** FLOP *** [5d Ts 5s]
+psychoman59 : parole 
+Rico Verona : parole 
+*** TOURNANT *** [5d Ts 5s] [Ks]
+psychoman59 : parole 
+Rico Verona : parole 
+*** RIVIÈRE *** [5d Ts 5s Ks] [8s]
+psychoman59 : parole 
+Miguel An888 est déconnecté 
+Miguel An888 est revenu.
+Rico Verona : parole 
+*** ABATTAGE ***
+psychoman59 : montre [7d 6c] (une paire de Cinq)
+Rico Verona : montre [3c 3d] (double paire, Cinq et Trois)
+Rico Verona a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [5d Ts 5s Ks 8s]
+Siège 1 : psychoman59 (petite blind) a montré [7d 6c] et a perdu avec une paire de Cinq
+Siège 2 : Miguel An888 (grosse blind) s'est couché. avant Flop
+Siège 3 : Rico Verona (bouton) a montré [3c 3d] et a gagné (60) avec double paire, Cinq et Trois
+
+
+
+Main PokerStars n°257802225002 : Tournoi #3929492022, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 19/09/2025 11:22:36 CET [19/09/2025 5:22:36 ET]
+Table '3929492022 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (450 en jetons) 
+Place 2: Miguel An888 (470 en jetons) 
+Place 3: Rico Verona (580 en jetons) 
+Miguel An888 : met la petite blind. 10
+Rico Verona : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 9s]
+psychoman59 : passe. 
+Miguel An888 : suit. 10
+Rico Verona : parole 
+*** FLOP *** [Th 2s Tc]
+Miguel An888 : parole 
+Rico Verona : parole 
+*** TOURNANT *** [Th 2s Tc] [4s]
+Miguel An888 : parole 
+Rico Verona : mise. 20
+Miguel An888 : suit. 20
+*** RIVIÈRE *** [Th 2s Tc 4s] [4d]
+Miguel An888 : parole 
+Rico Verona : mise. 40
+Miguel An888 : suit. 40
+*** ABATTAGE ***
+Rico Verona : montre [4c 5s] (un full, full aux Quatre par les Dix)
+Miguel An888 : cache la main perdante. 
+Rico Verona a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Th 2s Tc 4s 4d]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Miguel An888 (petite blind) a caché la main perdante. [8h Kd]
+Siège 3 : Rico Verona (grosse blind) a montré [4c 5s] et a gagné (160) avec un full, full aux Quatre par les Dix
+
+
+
+Main PokerStars n°257802227799 : Tournoi #3929492022, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 19/09/2025 11:23:10 CET [19/09/2025 5:23:10 ET]
+Table '3929492022 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (450 en jetons) 
+Place 2: Miguel An888 (390 en jetons) 
+Place 3: Rico Verona (660 en jetons) 
+Rico Verona : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 4d]
+Miguel An888 : suit. 20
+Rico Verona : suit. 10
+psychoman59 : parole 
+*** FLOP *** [3d 7c 5c]
+Rico Verona : parole 
+psychoman59 : parole 
+Miguel An888 : parole 
+*** TOURNANT *** [3d 7c 5c] [6s]
+Rico Verona : parole 
+psychoman59 : mise. 60
+Miguel An888 : suit. 60
+Rico Verona : passe. 
+*** RIVIÈRE *** [3d 7c 5c 6s] [4h]
+psychoman59 : mise. 90
+Miguel An888 : suit. 90
+*** ABATTAGE ***
+psychoman59 : montre [Qs 4d] (une suite, Trois à Sept)
+Miguel An888 : montre [Td 9d] (une suite, Trois à Sept)
+psychoman59 a remporté 180  lors du pot .
+Miguel An888 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [3d 7c 5c 6s 4h]
+Siège 1 : psychoman59 (grosse blind) a montré [Qs 4d] et a gagné (180) avec une suite, Trois à Sept
+Siège 2 : Miguel An888 (bouton) a montré [Td 9d] et a gagné (180) avec une suite, Trois à Sept
+Siège 3 : Rico Verona (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°257802231519 : Tournoi #3929492022, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 19/09/2025 11:23:54 CET [19/09/2025 5:23:54 ET]
+Table '3929492022 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (460 en jetons) 
+Place 2: Miguel An888 (400 en jetons) 
+Place 3: Rico Verona (640 en jetons) 
+psychoman59 : met la petite blind. 10
+Miguel An888 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 7d]
+Rico Verona : passe. 
+psychoman59 : suit. 10
+Miguel An888 : parole 
+*** FLOP *** [Kh Jd 6h]
+psychoman59 : parole 
+Miguel An888 : parole 
+*** TOURNANT *** [Kh Jd 6h] [Th]
+psychoman59 : parole 
+Miguel An888 : parole 
+*** RIVIÈRE *** [Kh Jd 6h Th] [Qc]
+psychoman59 : parole 
+Miguel An888 : mise. 160
+psychoman59 : passe. 
+Personne n'a suivi. (160) sont retournés à Miguel An888.
+Miguel An888 a remporté 40  lors du pot .
+Miguel An888 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Kh Jd 6h Th Qc]
+Siège 1 : psychoman59 (petite blind) s'est couché. sur le Rivière
+Siège 2 : Miguel An888 (grosse blind) a remporté (40)
+Siège 3 : Rico Verona (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°257802233644 : Tournoi #3929492022, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 19/09/2025 11:24:18 CET [19/09/2025 5:24:18 ET]
+Table '3929492022 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (440 en jetons) 
+Place 2: Miguel An888 (420 en jetons) 
+Place 3: Rico Verona (640 en jetons) 
+Miguel An888 : met la petite blind. 10
+Rico Verona : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Js]
+psychoman59 : passe. 
+Miguel An888 : suit. 10
+Rico Verona : parole 
+*** FLOP *** [As Ts Kc]
+Miguel An888 : mise. 200
+Rico Verona : passe. 
+Personne n'a suivi. (200) sont retournés à Miguel An888.
+Miguel An888 a remporté 40  lors du pot .
+Miguel An888 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [As Ts Kc]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Miguel An888 (petite blind) a remporté (40)
+Siège 3 : Rico Verona (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°257802235515 : Tournoi #3929492022, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 19/09/2025 11:24:40 CET [19/09/2025 5:24:40 ET]
+Table '3929492022 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (440 en jetons) 
+Place 2: Miguel An888 (440 en jetons) 
+Place 3: Rico Verona (620 en jetons) 
+Rico Verona : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h As]
+Miguel An888 : suit. 20
+Rico Verona : passe. 
+psychoman59 : relance. 420 à 440 et est all-in.
+Miguel An888 : passe. 
+Personne n'a suivi. (420) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (50)
+Siège 2 : Miguel An888 (bouton) s'est couché. avant Flop
+Siège 3 : Rico Verona (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257802237129 : Tournoi #3929492022, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 19/09/2025 11:25:00 CET [19/09/2025 5:25:00 ET]
+Table '3929492022 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (470 en jetons) 
+Place 2: Miguel An888 (420 en jetons) 
+Place 3: Rico Verona (610 en jetons) 
+psychoman59 : met la petite blind. 15
+Miguel An888 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Tc]
+Rico Verona : relance. 30 à 60
+psychoman59 : suit. 45
+Miguel An888 : suit. 30
+*** FLOP *** [4h 7d 3s]
+psychoman59 : parole 
+Miguel An888 : parole 
+Rico Verona : parole 
+*** TOURNANT *** [4h 7d 3s] [2h]
+psychoman59 : parole 
+Miguel An888 a dépassé le temps imparti.
+Miguel An888 : parole 
+Rico Verona : parole 
+*** RIVIÈRE *** [4h 7d 3s 2h] [Jd]
+psychoman59 : parole 
+Miguel An888 : parole 
+Rico Verona : mise. 60
+psychoman59 : passe. 
+Miguel An888 : suit. 60
+*** ABATTAGE ***
+Rico Verona : montre [Jc Ts] (une paire de Valets)
+Miguel An888 : cache la main perdante. 
+Rico Verona a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [4h 7d 3s 2h Jd]
+Siège 1 : psychoman59 (petite blind) s'est couché. sur le Rivière
+Siège 2 : Miguel An888 (grosse blind) a caché la main perdante. [Ah 3h]
+Siège 3 : Rico Verona (bouton) a montré [Jc Ts] et a gagné (300) avec une paire de Valets
+
+
+
+Main PokerStars n°257802244233 : Tournoi #3929492022, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 19/09/2025 11:26:23 CET [19/09/2025 5:26:23 ET]
+Table '3929492022 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (410 en jetons) 
+Place 2: Miguel An888 (300 en jetons) 
+Place 3: Rico Verona (790 en jetons) 
+Miguel An888 : met la petite blind. 15
+Rico Verona : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Js]
+psychoman59 : relance. 30 à 60
+Miguel An888 a dépassé le temps imparti.
+Miguel An888 : passe. 
+Miguel An888 ne joue pas.
+Rico Verona : suit. 30
+*** FLOP *** [Qc Qd 5d]
+Miguel An888 est revenu.
+Rico Verona : parole 
+psychoman59 : mise. 135
+Rico Verona : passe. 
+Personne n'a suivi. (135) sont retournés à psychoman59.
+psychoman59 a remporté 135  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 135 | Commission 0 
+Tableau [Qc Qd 5d]
+Siège 1 : psychoman59 (bouton) a remporté (135)
+Siège 2 : Miguel An888 (petite blind) s'est couché. avant Flop
+Siège 3 : Rico Verona (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°257802246973 : Tournoi #3929492022, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 19/09/2025 11:26:56 CET [19/09/2025 5:26:56 ET]
+Table '3929492022 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (485 en jetons) 
+Place 2: Miguel An888 (285 en jetons) 
+Place 3: Rico Verona (730 en jetons) 
+Rico Verona : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Kc]
+Miguel An888 : passe. 
+Rico Verona : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Rico Verona.
+Rico Verona a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Miguel An888 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Rico Verona (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°257802248039 : Tournoi #3929492022, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 19/09/2025 11:27:08 CET [19/09/2025 5:27:08 ET]
+Table '3929492022 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (455 en jetons) 
+Place 2: Miguel An888 (285 en jetons) 
+Place 3: Rico Verona (760 en jetons) 
+psychoman59 : met la petite blind. 15
+Miguel An888 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 7c]
+Rico Verona : relance. 30 à 60
+psychoman59 : passe. 
+Miguel An888 : suit. 30
+*** FLOP *** [4s 7d 4c]
+Miguel An888 : parole 
+Rico Verona : mise. 60
+Miguel An888 : suit. 60
+*** TOURNANT *** [4s 7d 4c] [Kd]
+Miguel An888 : parole 
+Rico Verona : mise. 120
+Miguel An888 : passe. 
+Personne n'a suivi. (120) sont retournés à Rico Verona.
+Rico Verona a remporté 255  lors du pot .
+*** SYNTHÈSE ***
+Pot total 255 | Commission 0 
+Tableau [4s 7d 4c Kd]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Miguel An888 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : Rico Verona (bouton) a remporté (255)
+
+
+
+Main PokerStars n°257802250482 : Tournoi #3929492022, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 19/09/2025 11:27:37 CET [19/09/2025 5:27:37 ET]
+Table '3929492022 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (440 en jetons) 
+Place 2: Miguel An888 (165 en jetons) 
+Place 3: Rico Verona (895 en jetons) 
+Miguel An888 : met la petite blind. 15
+Rico Verona : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Th]
+psychoman59 : relance. 30 à 60
+Miguel An888 : suit. 45
+Rico Verona : passe. 
+*** FLOP *** [3h Kc 3c]
+Miguel An888 : parole 
+psychoman59 : mise. 150
+Miguel An888 : passe. 
+Personne n'a suivi. (150) sont retournés à psychoman59.
+psychoman59 a remporté 150  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Tableau [3h Kc 3c]
+Siège 1 : psychoman59 (bouton) a remporté (150)
+Siège 2 : Miguel An888 (petite blind) s'est couché. sur le Flop
+Siège 3 : Rico Verona (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257802252171 : Tournoi #3929492022, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 19/09/2025 11:27:56 CET [19/09/2025 5:27:56 ET]
+Table '3929492022 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (530 en jetons) 
+Place 2: Miguel An888 (105 en jetons) 
+Place 3: Rico Verona (865 en jetons) 
+Rico Verona : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c As]
+Miguel An888 : passe. 
+Rico Verona : suit. 20
+psychoman59 : parole 
+*** FLOP *** [7s Kh 2h]
+Rico Verona : parole 
+psychoman59 : parole 
+*** TOURNANT *** [7s Kh 2h] [Kd]
+Rico Verona : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [7s Kh 2h Kd] [Qd]
+Rico Verona : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Rico Verona : montre [Tc Jh] (une paire de Rois)
+psychoman59 : montre [3c As] (une paire de Rois - As kicker)
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [7s Kh 2h Kd Qd]
+Siège 1 : psychoman59 (grosse blind) a montré [3c As] et a gagné (80) avec une paire de Rois
+Siège 2 : Miguel An888 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Rico Verona (petite blind) a montré [Tc Jh] et a perdu avec une paire de Rois
+
+
+
+Main PokerStars n°257802253919 : Tournoi #3929492022, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 19/09/2025 11:28:17 CET [19/09/2025 5:28:17 ET]
+Table '3929492022 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (570 en jetons) 
+Place 2: Miguel An888 (105 en jetons) 
+Place 3: Rico Verona (825 en jetons) 
+psychoman59 : met la petite blind. 20
+Miguel An888 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 3h]
+Rico Verona : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Miguel An888.
+Miguel An888 a remporté 40  lors du pot .
+Miguel An888 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Miguel An888 (grosse blind) a remporté (40)
+Siège 3 : Rico Verona (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°257802254474 : Tournoi #3929492022, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 19/09/2025 11:28:24 CET [19/09/2025 5:28:24 ET]
+Table '3929492022 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (550 en jetons) 
+Place 2: Miguel An888 (125 en jetons) 
+Place 3: Rico Verona (825 en jetons) 
+Miguel An888 : met la petite blind. 20
+Rico Verona : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Qs]
+psychoman59 : passe. 
+Miguel An888 : relance. 85 à 125 et est all-in.
+Rico Verona : passe. 
+Personne n'a suivi. (85) sont retournés à Miguel An888.
+Miguel An888 a remporté 80  lors du pot .
+Miguel An888 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Miguel An888 (petite blind) a remporté (80)
+Siège 3 : Rico Verona (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257802255577 : Tournoi #3929492022, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 19/09/2025 11:28:36 CET [19/09/2025 5:28:36 ET]
+Table '3929492022 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (550 en jetons) 
+Place 2: Miguel An888 (165 en jetons) 
+Place 3: Rico Verona (785 en jetons) 
+Rico Verona : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 2h]
+Miguel An888 : passe. 
+Rico Verona : relance. 40 à 80
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Rico Verona.
+Rico Verona a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Miguel An888 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Rico Verona (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°257802256553 : Tournoi #3929492022, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 19/09/2025 11:28:48 CET [19/09/2025 5:28:48 ET]
+Table '3929492022 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (510 en jetons) 
+Place 2: Miguel An888 (165 en jetons) 
+Place 3: Rico Verona (825 en jetons) 
+psychoman59 : met la petite blind. 20
+Miguel An888 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 5s]
+Rico Verona : relance. 40 à 80
+psychoman59 : passe. 
+Miguel An888 : suit. 40
+*** FLOP *** [Jh 9h 9c]
+Miguel An888 : parole 
+Rico Verona : mise. 40
+Miguel An888 : passe. 
+Personne n'a suivi. (40) sont retournés à Rico Verona.
+Rico Verona a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Jh 9h 9c]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Miguel An888 (grosse blind) s'est couché. sur le Flop
+Siège 3 : Rico Verona (bouton) a remporté (180)
+
+
+
+Main PokerStars n°257802258206 : Tournoi #3929492022, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 19/09/2025 11:29:07 CET [19/09/2025 5:29:07 ET]
+Table '3929492022 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (490 en jetons) 
+Place 2: Miguel An888 (85 en jetons) 
+Place 3: Rico Verona (925 en jetons) 
+Miguel An888 : met la petite blind. 20
+Rico Verona : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 6d]
+psychoman59 : relance. 450 à 490 et est all-in.
+Miguel An888 : suit. 65 et est all-in.
+Rico Verona : passe. 
+Personne n'a suivi. (405) sont retournés à psychoman59.
+*** FLOP *** [Kh As Ad]
+*** TOURNANT *** [Kh As Ad] [Qc]
+*** RIVIÈRE *** [Kh As Ad Qc] [2s]
+*** ABATTAGE ***
+Miguel An888 : montre [Jd 3s] (une paire de As)
+psychoman59 : montre [6h 6d] (double paire, As et Six)
+psychoman59 a remporté 210  lors du pot .
+Miguel An888 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Tableau [Kh As Ad Qc 2s]
+Siège 1 : psychoman59 (bouton) a montré [6h 6d] et a gagné (210) avec double paire, As et Six
+Siège 2 : Miguel An888 (petite blind) a montré [Jd 3s] et a perdu avec une paire de As
+Siège 3 : Rico Verona (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257802259908 : Tournoi #3929492022, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 19/09/2025 11:29:27 CET [19/09/2025 5:29:27 ET]
+Table '3929492022 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (615 en jetons) 
+Place 3: Rico Verona (885 en jetons) 
+Rico Verona : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Ah]
+Rico Verona : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : Rico Verona (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257802260429 : Tournoi #3929492022, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 19/09/2025 11:29:33 CET [19/09/2025 5:29:33 ET]
+Table '3929492022 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (635 en jetons) 
+Place 3: Rico Verona (865 en jetons) 
+psychoman59 : met la petite blind. 20
+Rico Verona : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 4s]
+psychoman59 : suit. 20
+Rico Verona : parole 
+*** FLOP *** [4d Ah Kc]
+Rico Verona : parole 
+psychoman59 : parole 
+*** TOURNANT *** [4d Ah Kc] [Jd]
+Rico Verona : parole 
+psychoman59 : mise. 80
+Rico Verona : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [4d Ah Kc Jd]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 3 : Rico Verona (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°257802262067 : Tournoi #3929492022, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 19/09/2025 11:29:52 CET [19/09/2025 5:29:52 ET]
+Table '3929492022 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (675 en jetons) 
+Place 3: Rico Verona (825 en jetons) 
+Rico Verona : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 3s]
+Rico Verona : suit. 20
+psychoman59 : parole 
+*** FLOP *** [3d 5d Jd]
+psychoman59 : parole 
+Rico Verona : parole 
+*** TOURNANT *** [3d 5d Jd] [9d]
+psychoman59 : parole 
+Rico Verona : parole 
+*** RIVIÈRE *** [3d 5d Jd 9d] [Ah]
+psychoman59 : mise. 80
+Rico Verona : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [3d 5d Jd 9d Ah]
+Siège 1 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : Rico Verona (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°257802263804 : Tournoi #3929492022, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 19/09/2025 11:30:12 CET [19/09/2025 5:30:12 ET]
+Table '3929492022 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (715 en jetons) 
+Place 3: Rico Verona (785 en jetons) 
+psychoman59 : met la petite blind. 20
+Rico Verona : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 5c]
+psychoman59 : suit. 20
+Rico Verona : parole 
+*** FLOP *** [2c Qd Td]
+Rico Verona : parole 
+psychoman59 : mise. 80
+Rico Verona : suit. 80
+*** TOURNANT *** [2c Qd Td] [Ac]
+Rico Verona : parole 
+psychoman59 : mise. 240
+Rico Verona : relance. 240 à 480
+psychoman59 : relance. 115 à 595 et est all-in.
+Rico Verona : suit. 115
+*** RIVIÈRE *** [2c Qd Td Ac] [8d]
+*** ABATTAGE ***
+Rico Verona : montre [Qs 2d] (double paire, Dames et Deux)
+psychoman59 : montre [Qc 5c] (une paire de Dames)
+Rico Verona a remporté 1430  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+Rico Verona remporte le tournoi et reçoit 0.75 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 1430 | Commission 0 
+Tableau [2c Qd Td Ac 8d]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Qc 5c] et a perdu avec une paire de Dames
+Siège 3 : Rico Verona (grosse blind) a montré [Qs 2d] et a gagné (1430) avec double paire, Dames et Deux
+
+
+

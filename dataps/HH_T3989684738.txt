@@ -1,0 +1,1228 @@
+﻿Main PokerStars n°260363506691 : Tournoi #3989684738, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 06/04/2026 7:54:12 CET [06/04/2026 1:54:12 ET]
+Table '3989684738 1' 3-max Siège #1 est au bouton.
+Place 1: kraptol (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: Ecila34 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+Ecila34 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 8c]
+kraptol : relance. 40 à 60
+psychoman59 : suit. 50
+Ecila34 : suit. 40
+*** FLOP *** [4c 8h Qd]
+psychoman59 : parole 
+Ecila34 : parole 
+kraptol : parole 
+*** TOURNANT *** [4c 8h Qd] [Ad]
+psychoman59 : parole 
+Ecila34 : parole 
+kraptol : mise. 40
+psychoman59 : relance. 130 à 170
+Ecila34 : passe. 
+kraptol : suit. 130
+*** RIVIÈRE *** [4c 8h Qd Ad] [4s]
+psychoman59 : mise. 260
+kraptol : suit. 260
+*** ABATTAGE ***
+psychoman59 : montre [Ac 8c] (double paire, As et Huit)
+kraptol : cache la main perdante. 
+psychoman59 a remporté 1040  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1040 | Commission 0 
+Tableau [4c 8h Qd Ad 4s]
+Siège 1 : kraptol (bouton) a caché la main perdante. [9h As]
+Siège 2 : psychoman59 (petite blind) a montré [Ac 8c] et a gagné (1040) avec double paire, As et Huit
+Siège 3 : Ecila34 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°260363508254 : Tournoi #3989684738, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 06/04/2026 7:54:41 CET [06/04/2026 1:54:41 ET]
+Table '3989684738 1' 3-max Siège #2 est au bouton.
+Place 1: kraptol (10 en jetons) 
+Place 2: psychoman59 (1050 en jetons) 
+Place 3: Ecila34 (440 en jetons) 
+Ecila34 : met la petite blind. 10
+kraptol : met la grosse blind. 10 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 4c]
+psychoman59 : passe. 
+*** FLOP *** [Ts Qh 6d]
+*** TOURNANT *** [Ts Qh 6d] [5h]
+*** RIVIÈRE *** [Ts Qh 6d 5h] [8s]
+*** ABATTAGE ***
+Ecila34 : montre [Jd 2h] (Hauteur Dame)
+kraptol : montre [6h 4h] (une paire de Six)
+kraptol a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Tableau [Ts Qh 6d 5h 8s]
+Siège 1 : kraptol (grosse blind) a montré [6h 4h] et a gagné (20) avec une paire de Six
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Ecila34 (petite blind) a montré [Jd 2h] et a perdu avec Hauteur Dame
+
+
+
+Main PokerStars n°260363508955 : Tournoi #3989684738, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 06/04/2026 7:54:54 CET [06/04/2026 1:54:54 ET]
+Table '3989684738 1' 3-max Siège #3 est au bouton.
+Place 1: kraptol (20 en jetons) 
+Place 2: psychoman59 (1050 en jetons) 
+Place 3: Ecila34 (430 en jetons) 
+kraptol : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Ad]
+Ecila34 : passe. 
+kraptol : suit. 10 et est all-in.
+*** FLOP *** [3c 4d 3d]
+*** TOURNANT *** [3c 4d 3d] [5s]
+*** RIVIÈRE *** [3c 4d 3d 5s] [Jc]
+*** ABATTAGE ***
+kraptol : montre [Ks 6h] (une paire de Trois)
+psychoman59 : montre [Kc Ad] (une paire de Trois - As kicker)
+psychoman59 a remporté 40  lors du pot .
+kraptol a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [3c 4d 3d 5s Jc]
+Siège 1 : kraptol (petite blind) a montré [Ks 6h] et a perdu avec une paire de Trois
+Siège 2 : psychoman59 (grosse blind) a montré [Kc Ad] et a gagné (40) avec une paire de Trois
+Siège 3 : Ecila34 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260363509874 : Tournoi #3989684738, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 06/04/2026 7:55:11 CET [06/04/2026 1:55:11 ET]
+Table '3989684738 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1070 en jetons) 
+Place 3: Ecila34 (430 en jetons) 
+psychoman59 : met la petite blind. 10
+Ecila34 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 5s]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à Ecila34.
+Ecila34 a remporté 20  lors du pot .
+Ecila34 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Ecila34 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°260363510079 : Tournoi #3989684738, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 06/04/2026 7:55:15 CET [06/04/2026 1:55:15 ET]
+Table '3989684738 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1060 en jetons) 
+Place 3: Ecila34 (440 en jetons) 
+Ecila34 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Th]
+Ecila34 : suit. 10
+psychoman59 : relance. 1040 à 1060 et est all-in.
+Ecila34 : passe. 
+Personne n'a suivi. (1040) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : Ecila34 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260363510467 : Tournoi #3989684738, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 06/04/2026 7:55:23 CET [06/04/2026 1:55:23 ET]
+Table '3989684738 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1080 en jetons) 
+Place 3: Ecila34 (420 en jetons) 
+psychoman59 : met la petite blind. 10
+Ecila34 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 5c]
+psychoman59 : suit. 10
+Ecila34 : parole 
+*** FLOP *** [Jh Jd 9s]
+Ecila34 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Jh Jd 9s] [6c]
+Ecila34 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Jh Jd 9s 6c] [6d]
+Ecila34 : parole 
+psychoman59 : mise. 40
+Ecila34 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Jh Jd 9s 6c 6d]
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (40)
+Siège 3 : Ecila34 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°260363511948 : Tournoi #3989684738, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 06/04/2026 7:55:55 CET [06/04/2026 1:55:55 ET]
+Table '3989684738 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1100 en jetons) 
+Place 3: Ecila34 (400 en jetons) 
+Ecila34 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Kd]
+Ecila34 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [7s 7h As]
+psychoman59 : parole 
+Ecila34 : parole 
+*** TOURNANT *** [7s 7h As] [6h]
+psychoman59 : parole 
+Ecila34 : parole 
+*** RIVIÈRE *** [7s 7h As 6h] [2h]
+psychoman59 : parole 
+Ecila34 : mise. 20
+psychoman59 : suit. 20
+*** ABATTAGE ***
+Ecila34 : montre [4c Qc] (une paire de Sept)
+psychoman59 : montre [Js Kd] (une paire de Sept - As+Roi kicker)
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [7s 7h As 6h 2h]
+Siège 2 : psychoman59 (grosse blind) a montré [Js Kd] et a gagné (80) avec une paire de Sept
+Siège 3 : Ecila34 (bouton) (petite blind) a montré [4c Qc] et a perdu avec une paire de Sept
+
+
+
+Main PokerStars n°260363512913 : Tournoi #3989684738, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 06/04/2026 7:56:15 CET [06/04/2026 1:56:15 ET]
+Table '3989684738 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1140 en jetons) 
+Place 3: Ecila34 (360 en jetons) 
+psychoman59 : met la petite blind. 10
+Ecila34 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 5d]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à Ecila34.
+Ecila34 a remporté 20  lors du pot .
+Ecila34 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Ecila34 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°260363513234 : Tournoi #3989684738, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 06/04/2026 7:56:22 CET [06/04/2026 1:56:22 ET]
+Table '3989684738 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1130 en jetons) 
+Place 3: Ecila34 (370 en jetons) 
+Ecila34 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 9c]
+Ecila34 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [2h Th Kc]
+psychoman59 : parole 
+Ecila34 : parole 
+*** TOURNANT *** [2h Th Kc] [6s]
+psychoman59 : parole 
+Ecila34 : parole 
+*** RIVIÈRE *** [2h Th Kc 6s] [4h]
+psychoman59 : parole 
+Ecila34 : mise. 20
+psychoman59 : suit. 20
+*** ABATTAGE ***
+Ecila34 : montre [4d 7h] (une paire de Quatre)
+psychoman59 : montre [Ks 9c] (une paire de Rois)
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [2h Th Kc 6s 4h]
+Siège 2 : psychoman59 (grosse blind) a montré [Ks 9c] et a gagné (80) avec une paire de Rois
+Siège 3 : Ecila34 (bouton) (petite blind) a montré [4d 7h] et a perdu avec une paire de Quatre
+
+
+
+Main PokerStars n°260363514010 : Tournoi #3989684738, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 06/04/2026 7:56:38 CET [06/04/2026 1:56:38 ET]
+Table '3989684738 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1170 en jetons) 
+Place 3: Ecila34 (330 en jetons) 
+psychoman59 : met la petite blind. 10
+Ecila34 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Th]
+psychoman59 : suit. 10
+Ecila34 : parole 
+*** FLOP *** [3s 2h 5d]
+Ecila34 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3s 2h 5d] [6s]
+Ecila34 : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Ecila34.
+Ecila34 a remporté 40  lors du pot .
+Ecila34 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [3s 2h 5d 6s]
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Tournant
+Siège 3 : Ecila34 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°260363514780 : Tournoi #3989684738, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 06/04/2026 7:56:54 CET [06/04/2026 1:56:54 ET]
+Table '3989684738 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1150 en jetons) 
+Place 3: Ecila34 (350 en jetons) 
+Ecila34 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 4c]
+Ecila34 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Js 3d 5h]
+psychoman59 : parole 
+Ecila34 : parole 
+*** TOURNANT *** [Js 3d 5h] [Tc]
+psychoman59 : parole 
+Ecila34 : parole 
+*** RIVIÈRE *** [Js 3d 5h Tc] [8c]
+psychoman59 : parole 
+Ecila34 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Qs 4c] (Hauteur Dame)
+Ecila34 : cache la main perdante. 
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Js 3d 5h Tc 8c]
+Siège 2 : psychoman59 (grosse blind) a montré [Qs 4c] et a gagné (40) avec Hauteur Dame
+Siège 3 : Ecila34 (bouton) (petite blind) a caché la main perdante. [4d 9h]
+
+
+
+Main PokerStars n°260363516024 : Tournoi #3989684738, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 06/04/2026 7:57:20 CET [06/04/2026 1:57:20 ET]
+Table '3989684738 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1170 en jetons) 
+Place 3: Ecila34 (330 en jetons) 
+psychoman59 : met la petite blind. 15
+Ecila34 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 8c]
+psychoman59 : suit. 15
+Ecila34 : parole 
+*** FLOP *** [7s Ad 4d]
+Ecila34 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [7s Ad 4d] [9s]
+Ecila34 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [7s Ad 4d 9s] [4s]
+Ecila34 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Ecila34.
+Ecila34 a remporté 60  lors du pot .
+Ecila34 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [7s Ad 4d 9s 4s]
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 3 : Ecila34 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°260363517003 : Tournoi #3989684738, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 06/04/2026 7:57:41 CET [06/04/2026 1:57:41 ET]
+Table '3989684738 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1140 en jetons) 
+Place 3: Ecila34 (360 en jetons) 
+Ecila34 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 4h]
+Ecila34 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Qc Qh 8h]
+psychoman59 : parole 
+Ecila34 : parole 
+*** TOURNANT *** [Qc Qh 8h] [3d]
+psychoman59 : parole 
+Ecila34 : parole 
+*** RIVIÈRE *** [Qc Qh 8h 3d] [7c]
+psychoman59 : parole 
+Ecila34 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [9h 4h] (une paire de Dames)
+Ecila34 : montre [As 2d] (une paire de Dames - As kicker)
+Ecila34 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Qc Qh 8h 3d 7c]
+Siège 2 : psychoman59 (grosse blind) a montré [9h 4h] et a perdu avec une paire de Dames
+Siège 3 : Ecila34 (bouton) (petite blind) a montré [As 2d] et a gagné (60) avec une paire de Dames
+
+
+
+Main PokerStars n°260363517656 : Tournoi #3989684738, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 06/04/2026 7:57:55 CET [06/04/2026 1:57:55 ET]
+Table '3989684738 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1110 en jetons) 
+Place 3: Ecila34 (390 en jetons) 
+psychoman59 : met la petite blind. 15
+Ecila34 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 3s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à Ecila34.
+Ecila34 a remporté 30  lors du pot .
+Ecila34 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Ecila34 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°260363517905 : Tournoi #3989684738, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 06/04/2026 7:58:00 CET [06/04/2026 1:58:00 ET]
+Table '3989684738 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1095 en jetons) 
+Place 3: Ecila34 (405 en jetons) 
+Ecila34 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Ad]
+Ecila34 : suit. 15
+psychoman59 : relance. 1065 à 1095 et est all-in.
+Ecila34 : passe. 
+Personne n'a suivi. (1065) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : Ecila34 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260363518371 : Tournoi #3989684738, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 06/04/2026 7:58:10 CET [06/04/2026 1:58:10 ET]
+Table '3989684738 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1125 en jetons) 
+Place 3: Ecila34 (375 en jetons) 
+psychoman59 : met la petite blind. 15
+Ecila34 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Jh]
+psychoman59 : suit. 15
+Ecila34 : parole 
+*** FLOP *** [3h 4s Ac]
+Ecila34 : parole 
+psychoman59 : mise. 60
+Ecila34 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [3h 4s Ac]
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 3 : Ecila34 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°260363519026 : Tournoi #3989684738, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 06/04/2026 7:58:24 CET [06/04/2026 1:58:24 ET]
+Table '3989684738 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1155 en jetons) 
+Place 3: Ecila34 (345 en jetons) 
+Ecila34 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 7s]
+Ecila34 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [9h 2c Qd]
+psychoman59 : parole 
+Ecila34 : parole 
+*** TOURNANT *** [9h 2c Qd] [Ks]
+psychoman59 : parole 
+Ecila34 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Ecila34.
+Ecila34 a remporté 60  lors du pot .
+Ecila34 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [9h 2c Qd Ks]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : Ecila34 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°260363519565 : Tournoi #3989684738, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 06/04/2026 7:58:36 CET [06/04/2026 1:58:36 ET]
+Table '3989684738 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1125 en jetons) 
+Place 3: Ecila34 (375 en jetons) 
+psychoman59 : met la petite blind. 15
+Ecila34 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 5c]
+psychoman59 : suit. 15
+Ecila34 : parole 
+*** FLOP *** [Ad Td Qc]
+Ecila34 : mise. 30
+psychoman59 : suit. 30
+*** TOURNANT *** [Ad Td Qc] [6c]
+Ecila34 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Ecila34.
+Ecila34 a remporté 120  lors du pot .
+Ecila34 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Ad Td Qc 6c]
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Tournant
+Siège 3 : Ecila34 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°260363520142 : Tournoi #3989684738, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 06/04/2026 7:58:48 CET [06/04/2026 1:58:48 ET]
+Table '3989684738 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1065 en jetons) 
+Place 3: Ecila34 (435 en jetons) 
+Ecila34 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 5c]
+Ecila34 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Kh Jd Ts]
+psychoman59 : parole 
+Ecila34 : parole 
+*** TOURNANT *** [Kh Jd Ts] [8c]
+psychoman59 : parole 
+Ecila34 : parole 
+*** RIVIÈRE *** [Kh Jd Ts 8c] [Jc]
+psychoman59 : parole 
+Ecila34 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [7d 5c] (une paire de Valets)
+Ecila34 : montre [6h 6s] (double paire, Valets et Six)
+Ecila34 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Kh Jd Ts 8c Jc]
+Siège 2 : psychoman59 (grosse blind) a montré [7d 5c] et a perdu avec une paire de Valets
+Siège 3 : Ecila34 (bouton) (petite blind) a montré [6h 6s] et a gagné (60) avec double paire, Valets et Six
+
+
+
+Main PokerStars n°260363520893 : Tournoi #3989684738, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 06/04/2026 7:59:05 CET [06/04/2026 1:59:05 ET]
+Table '3989684738 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1035 en jetons) 
+Place 3: Ecila34 (465 en jetons) 
+psychoman59 : met la petite blind. 15
+Ecila34 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc As]
+psychoman59 : relance. 1005 à 1035 et est all-in.
+Ecila34 : passe. 
+Personne n'a suivi. (1005) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 3 : Ecila34 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260363521396 : Tournoi #3989684738, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 06/04/2026 7:59:14 CET [06/04/2026 1:59:14 ET]
+Table '3989684738 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1065 en jetons) 
+Place 3: Ecila34 (435 en jetons) 
+Ecila34 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 5c]
+Ecila34 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [5s Qs Jc]
+psychoman59 : parole 
+Ecila34 : parole 
+*** TOURNANT *** [5s Qs Jc] [Js]
+psychoman59 : mise. 30
+Ecila34 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [5s Qs Jc Js]
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : Ecila34 (bouton) (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°260363521929 : Tournoi #3989684738, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 06/04/2026 7:59:26 CET [06/04/2026 1:59:26 ET]
+Table '3989684738 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1095 en jetons) 
+Place 3: Ecila34 (405 en jetons) 
+psychoman59 : met la petite blind. 15
+Ecila34 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 7h]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à Ecila34.
+Ecila34 a remporté 30  lors du pot .
+Ecila34 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Ecila34 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°260363522154 : Tournoi #3989684738, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 06/04/2026 7:59:31 CET [06/04/2026 1:59:31 ET]
+Table '3989684738 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1080 en jetons) 
+Place 3: Ecila34 (420 en jetons) 
+Ecila34 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Js]
+Ecila34 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Qd Td Kh]
+psychoman59 : parole 
+Ecila34 : mise. 30
+psychoman59 : suit. 30
+*** TOURNANT *** [Qd Td Kh] [As]
+psychoman59 : parole 
+Ecila34 : mise. 30
+psychoman59 : suit. 30
+*** RIVIÈRE *** [Qd Td Kh As] [Qs]
+psychoman59 : parole 
+Ecila34 : mise. 30
+psychoman59 : suit. 30
+*** ABATTAGE ***
+Ecila34 : montre [3h Qc] (un brelan de Dames)
+psychoman59 : montre [3d Js] (une suite, Dix à As)
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Qd Td Kh As Qs]
+Siège 2 : psychoman59 (grosse blind) a montré [3d Js] et a gagné (240) avec une suite, Dix à As
+Siège 3 : Ecila34 (bouton) (petite blind) a montré [3h Qc] et a perdu avec un brelan de Dames
+
+
+
+Main PokerStars n°260363523021 : Tournoi #3989684738, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 06/04/2026 7:59:50 CET [06/04/2026 1:59:50 ET]
+Table '3989684738 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1200 en jetons) 
+Place 3: Ecila34 (300 en jetons) 
+psychoman59 : met la petite blind. 15
+Ecila34 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 7d]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à Ecila34.
+Ecila34 a remporté 30  lors du pot .
+Ecila34 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Ecila34 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°260363523305 : Tournoi #3989684738, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 06/04/2026 7:59:56 CET [06/04/2026 1:59:56 ET]
+Table '3989684738 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1185 en jetons) 
+Place 3: Ecila34 (315 en jetons) 
+Ecila34 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 3h]
+Ecila34 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [8h 2s Js]
+psychoman59 : parole 
+Ecila34 : parole 
+*** TOURNANT *** [8h 2s Js] [5d]
+psychoman59 : parole 
+Ecila34 : parole 
+*** RIVIÈRE *** [8h 2s Js 5d] [4d]
+psychoman59 : parole 
+Ecila34 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Ts 3h] (Hauteur Valet)
+Ecila34 : montre [6h Ah] (Hauteur As)
+Ecila34 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [8h 2s Js 5d 4d]
+Siège 2 : psychoman59 (grosse blind) a montré [Ts 3h] et a perdu avec Hauteur Valet
+Siège 3 : Ecila34 (bouton) (petite blind) a montré [6h Ah] et a gagné (60) avec Hauteur As
+
+
+
+Main PokerStars n°260363524099 : Tournoi #3989684738, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 06/04/2026 8:00:13 CET [06/04/2026 2:00:13 ET]
+Table '3989684738 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1155 en jetons) 
+Place 3: Ecila34 (345 en jetons) 
+psychoman59 : met la petite blind. 15
+Ecila34 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 4c]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à Ecila34.
+Ecila34 a remporté 30  lors du pot .
+Ecila34 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Ecila34 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°260363524559 : Tournoi #3989684738, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 06/04/2026 8:00:22 CET [06/04/2026 2:00:22 ET]
+Table '3989684738 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1140 en jetons) 
+Place 3: Ecila34 (360 en jetons) 
+Ecila34 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 4s]
+Ecila34 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Td 3c Jh]
+psychoman59 : parole 
+Ecila34 : parole 
+*** TOURNANT *** [Td 3c Jh] [7h]
+psychoman59 : parole 
+Ecila34 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Ecila34.
+Ecila34 a remporté 80  lors du pot .
+Ecila34 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Td 3c Jh 7h]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : Ecila34 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°260363525209 : Tournoi #3989684738, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 06/04/2026 8:00:35 CET [06/04/2026 2:00:35 ET]
+Table '3989684738 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1100 en jetons) 
+Place 3: Ecila34 (400 en jetons) 
+psychoman59 : met la petite blind. 20
+Ecila34 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 3h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Ecila34.
+Ecila34 a remporté 40  lors du pot .
+Ecila34 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Ecila34 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°260363525430 : Tournoi #3989684738, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 06/04/2026 8:00:39 CET [06/04/2026 2:00:39 ET]
+Table '3989684738 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1080 en jetons) 
+Place 3: Ecila34 (420 en jetons) 
+Ecila34 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 6s]
+Ecila34 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : Ecila34 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260363525758 : Tournoi #3989684738, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 06/04/2026 8:00:46 CET [06/04/2026 2:00:46 ET]
+Table '3989684738 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1100 en jetons) 
+Place 3: Ecila34 (400 en jetons) 
+psychoman59 : met la petite blind. 20
+Ecila34 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 6s]
+psychoman59 : suit. 20
+Ecila34 : parole 
+*** FLOP *** [Qc Ks 2h]
+Ecila34 : parole 
+psychoman59 : mise. 80
+Ecila34 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Qc Ks 2h]
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 3 : Ecila34 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°260363526342 : Tournoi #3989684738, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 06/04/2026 8:00:57 CET [06/04/2026 2:00:57 ET]
+Table '3989684738 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1140 en jetons) 
+Place 3: Ecila34 (360 en jetons) 
+Ecila34 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Jh]
+Ecila34 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [8h 2c 6d]
+psychoman59 : parole 
+Ecila34 : parole 
+*** TOURNANT *** [8h 2c 6d] [Jc]
+psychoman59 : parole 
+Ecila34 : parole 
+*** RIVIÈRE *** [8h 2c 6d Jc] [5s]
+psychoman59 : mise. 40
+Ecila34 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [8h 2c 6d Jc 5s]
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : Ecila34 (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°260363527305 : Tournoi #3989684738, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 06/04/2026 8:01:15 CET [06/04/2026 2:01:15 ET]
+Table '3989684738 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1180 en jetons) 
+Place 3: Ecila34 (320 en jetons) 
+psychoman59 : met la petite blind. 20
+Ecila34 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 8d]
+psychoman59 : suit. 20
+Ecila34 : parole 
+*** FLOP *** [3c 4d Kd]
+Ecila34 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3c 4d Kd] [3s]
+Ecila34 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [3c 4d Kd 3s] [6s]
+Ecila34 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Ecila34 : montre [Th 5c] (une paire de Trois)
+psychoman59 : montre [Js 8d] (une paire de Trois - Roi+Valet kicker)
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [3c 4d Kd 3s 6s]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Js 8d] et a gagné (80) avec une paire de Trois
+Siège 3 : Ecila34 (grosse blind) a montré [Th 5c] et a perdu avec une paire de Trois
+
+
+
+Main PokerStars n°260363528157 : Tournoi #3989684738, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 06/04/2026 8:01:30 CET [06/04/2026 2:01:30 ET]
+Table '3989684738 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1220 en jetons) 
+Place 3: Ecila34 (280 en jetons) 
+Ecila34 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 4s]
+Ecila34 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Qs Jc 6s]
+psychoman59 : parole 
+Ecila34 : parole 
+*** TOURNANT *** [Qs Jc 6s] [3h]
+psychoman59 : parole 
+Ecila34 : parole 
+*** RIVIÈRE *** [Qs Jc 6s 3h] [6c]
+psychoman59 : parole 
+Ecila34 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Ecila34.
+Ecila34 a remporté 80  lors du pot .
+Ecila34 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Qs Jc 6s 3h 6c]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : Ecila34 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°260363529095 : Tournoi #3989684738, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 06/04/2026 8:01:47 CET [06/04/2026 2:01:47 ET]
+Table '3989684738 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1180 en jetons) 
+Place 3: Ecila34 (320 en jetons) 
+psychoman59 : met la petite blind. 20
+Ecila34 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Tc]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Ecila34.
+Ecila34 a remporté 40  lors du pot .
+Ecila34 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Ecila34 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°260363529334 : Tournoi #3989684738, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 06/04/2026 8:01:51 CET [06/04/2026 2:01:51 ET]
+Table '3989684738 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1160 en jetons) 
+Place 3: Ecila34 (340 en jetons) 
+Ecila34 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 5d]
+Ecila34 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [9h As Ac]
+psychoman59 : parole 
+Ecila34 : parole 
+*** TOURNANT *** [9h As Ac] [Qd]
+psychoman59 : parole 
+Ecila34 : parole 
+*** RIVIÈRE *** [9h As Ac Qd] [2s]
+psychoman59 : mise. 80
+Ecila34 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [9h As Ac Qd 2s]
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : Ecila34 (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°260363530155 : Tournoi #3989684738, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 06/04/2026 8:02:07 CET [06/04/2026 2:02:07 ET]
+Table '3989684738 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1200 en jetons) 
+Place 3: Ecila34 (300 en jetons) 
+psychoman59 : met la petite blind. 20
+Ecila34 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Td]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Ecila34.
+Ecila34 a remporté 40  lors du pot .
+Ecila34 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Ecila34 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°260363530393 : Tournoi #3989684738, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 06/04/2026 8:02:12 CET [06/04/2026 2:02:12 ET]
+Table '3989684738 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1180 en jetons) 
+Place 3: Ecila34 (320 en jetons) 
+Ecila34 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 8c]
+Ecila34 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : Ecila34 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260363530845 : Tournoi #3989684738, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 06/04/2026 8:02:20 CET [06/04/2026 2:02:20 ET]
+Table '3989684738 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1200 en jetons) 
+Place 3: Ecila34 (300 en jetons) 
+psychoman59 : met la petite blind. 20
+Ecila34 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Ac]
+psychoman59 : suit. 20
+Ecila34 : parole 
+*** FLOP *** [4c Qs 6s]
+Ecila34 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Ecila34.
+Ecila34 a remporté 80  lors du pot .
+Ecila34 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [4c Qs 6s]
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+Siège 3 : Ecila34 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°260363531399 : Tournoi #3989684738, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 06/04/2026 8:02:29 CET [06/04/2026 2:02:29 ET]
+Table '3989684738 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1160 en jetons) 
+Place 3: Ecila34 (340 en jetons) 
+Ecila34 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Td]
+Ecila34 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Kc 3c 8h]
+psychoman59 : parole 
+Ecila34 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Ecila34.
+Ecila34 a remporté 80  lors du pot .
+Ecila34 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Kc 3c 8h]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : Ecila34 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°260363531937 : Tournoi #3989684738, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 06/04/2026 8:02:39 CET [06/04/2026 2:02:39 ET]
+Table '3989684738 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1120 en jetons) 
+Place 3: Ecila34 (380 en jetons) 
+psychoman59 : met la petite blind. 20
+Ecila34 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 8h]
+psychoman59 : suit. 20
+Ecila34 : parole 
+*** FLOP *** [Js 3c Jd]
+Ecila34 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Js 3c Jd] [5s]
+Ecila34 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Js 3c Jd 5s] [6h]
+Ecila34 : mise. 40
+psychoman59 : relance. 40 à 80
+Ecila34 : suit. 40
+*** ABATTAGE ***
+psychoman59 : montre [Jc 8h] (un brelan de Valets)
+Ecila34 : cache la main perdante. 
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Js 3c Jd 5s 6h]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Jc 8h] et a gagné (240) avec un brelan de Valets
+Siège 3 : Ecila34 (grosse blind) a caché la main perdante. [6d 7d]
+
+
+
+Main PokerStars n°260363532904 : Tournoi #3989684738, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 06/04/2026 8:02:56 CET [06/04/2026 2:02:56 ET]
+Table '3989684738 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1240 en jetons) 
+Place 3: Ecila34 (260 en jetons) 
+Ecila34 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 6s]
+Ecila34 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Tc Ad Js]
+psychoman59 : parole 
+Ecila34 : parole 
+*** TOURNANT *** [Tc Ad Js] [9h]
+psychoman59 : parole 
+Ecila34 : parole 
+*** RIVIÈRE *** [Tc Ad Js 9h] [2d]
+psychoman59 : parole 
+Ecila34 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [2s 6s] (une paire de Deux)
+Ecila34 : cache la main perdante. 
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Tc Ad Js 9h 2d]
+Siège 2 : psychoman59 (grosse blind) a montré [2s 6s] et a gagné (80) avec une paire de Deux
+Siège 3 : Ecila34 (bouton) (petite blind) a caché la main perdante. [Qc 7c]
+
+
+
+Main PokerStars n°260363533796 : Tournoi #3989684738, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 06/04/2026 8:03:12 CET [06/04/2026 2:03:12 ET]
+Table '3989684738 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1280 en jetons) 
+Place 3: Ecila34 (220 en jetons) 
+psychoman59 : met la petite blind. 20
+Ecila34 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Th]
+psychoman59 : suit. 20
+Ecila34 : parole 
+*** FLOP *** [3h 5c 4c]
+Ecila34 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3h 5c 4c] [2s]
+Ecila34 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [3h 5c 4c 2s] [Qs]
+Ecila34 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Ecila34 : montre [2c 7s] (une paire de Deux)
+psychoman59 : cache la main perdante. 
+Ecila34 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [3h 5c 4c 2s Qs]
+Siège 2 : psychoman59 (bouton) (petite blind) a caché la main perdante. [7c Th]
+Siège 3 : Ecila34 (grosse blind) a montré [2c 7s] et a gagné (80) avec une paire de Deux
+
+
+
+Main PokerStars n°260363535067 : Tournoi #3989684738, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 06/04/2026 8:03:35 CET [06/04/2026 2:03:35 ET]
+Table '3989684738 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1240 en jetons) 
+Place 3: Ecila34 (260 en jetons) 
+Ecila34 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 4s]
+Ecila34 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : Ecila34 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260363535711 : Tournoi #3989684738, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 06/04/2026 8:03:46 CET [06/04/2026 2:03:46 ET]
+Table '3989684738 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1270 en jetons) 
+Place 3: Ecila34 (230 en jetons) 
+psychoman59 : met la petite blind. 30
+Ecila34 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 9c]
+psychoman59 : suit. 30
+Ecila34 : parole 
+*** FLOP *** [Qd 3d 8h]
+Ecila34 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Qd 3d 8h] [Ks]
+Ecila34 : parole 
+psychoman59 : mise. 60
+Ecila34 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Qd 3d 8h Ks]
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 3 : Ecila34 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°260363536625 : Tournoi #3989684738, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 06/04/2026 8:04:03 CET [06/04/2026 2:04:03 ET]
+Table '3989684738 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1330 en jetons) 
+Place 3: Ecila34 (170 en jetons) 
+Ecila34 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Qs]
+Ecila34 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [4s 6h 7s]
+psychoman59 : parole 
+Ecila34 : parole 
+*** TOURNANT *** [4s 6h 7s] [Qd]
+psychoman59 : parole 
+Ecila34 : mise. 60
+psychoman59 : relance. 60 à 120
+Ecila34 : suit. 50 et est all-in.
+Personne n'a suivi. (10) sont retournés à psychoman59.
+*** RIVIÈRE *** [4s 6h 7s Qd] [4c]
+*** ABATTAGE ***
+psychoman59 : montre [5s Qs] (double paire, Dames et Quatre)
+Ecila34 : montre [Qc 5h] (double paire, Dames et Quatre)
+psychoman59 a remporté 170  lors du pot .
+Ecila34 a remporté 170  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [4s 6h 7s Qd 4c]
+Siège 2 : psychoman59 (grosse blind) a montré [5s Qs] et a gagné (170) avec double paire, Dames et Quatre
+Siège 3 : Ecila34 (bouton) (petite blind) a montré [Qc 5h] et a gagné (170) avec double paire, Dames et Quatre
+
+
+
+Main PokerStars n°260363537840 : Tournoi #3989684738, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 06/04/2026 8:04:24 CET [06/04/2026 2:04:24 ET]
+Table '3989684738 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1330 en jetons) 
+Place 3: Ecila34 (170 en jetons) 
+psychoman59 : met la petite blind. 30
+Ecila34 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 8s]
+psychoman59 : relance. 120 à 180
+Ecila34 : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 3 : Ecila34 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260363538644 : Tournoi #3989684738, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 06/04/2026 8:04:39 CET [06/04/2026 2:04:39 ET]
+Table '3989684738 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1390 en jetons) 
+Place 3: Ecila34 (110 en jetons) 
+Ecila34 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s As]
+Ecila34 : suit. 30
+psychoman59 : relance. 60 à 120
+Ecila34 : suit. 50 et est all-in.
+Personne n'a suivi. (10) sont retournés à psychoman59.
+*** FLOP *** [7d Kc 2d]
+*** TOURNANT *** [7d Kc 2d] [2c]
+*** RIVIÈRE *** [7d Kc 2d 2c] [Ac]
+*** ABATTAGE ***
+psychoman59 : montre [2s As] (un full, full aux Deux par les As)
+Ecila34 : montre [Kd 6c] (double paire, Rois et Deux)
+psychoman59 a remporté 220  lors du pot .
+Ecila34 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 220 | Commission 0 
+Tableau [7d Kc 2d 2c Ac]
+Siège 2 : psychoman59 (grosse blind) a montré [2s As] et a gagné (220) avec un full, full aux Deux par les As
+Siège 3 : Ecila34 (bouton) (petite blind) a montré [Kd 6c] et a perdu avec double paire, Rois et Deux
+
+
+

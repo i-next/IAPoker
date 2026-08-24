@@ -1,0 +1,271 @@
+﻿Main PokerStars n°244672224563 : Tournoi #3613686261, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2023 7:34:16 CET [07/07/2023 1:34:16 ET]
+Table '3613686261 1' 3-max Siège #1 est au bouton.
+Place 1: sempregz (300 en jetons) 
+Place 2: Beoukdil (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+Beoukdil : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Jd]
+sempregz : relance. 280 à 300 et est all-in.
+Beoukdil : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (280) sont retournés à sempregz.
+sempregz a remporté 50  lors du pot .
+sempregz : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : sempregz (bouton) a remporté (50)
+Siège 2 : Beoukdil (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244672225391 : Tournoi #3613686261, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2023 7:34:24 CET [07/07/2023 1:34:24 ET]
+Table '3613686261 1' 3-max Siège #2 est au bouton.
+Place 1: sempregz (330 en jetons) 
+Place 2: Beoukdil (290 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+sempregz : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd As]
+Beoukdil : relance. 40 à 60
+psychoman59 : relance. 220 à 280 et est all-in.
+sempregz : passe. 
+Beoukdil : suit. 220
+*** FLOP *** [Ts Kh Th]
+*** TOURNANT *** [Ts Kh Th] [6h]
+*** RIVIÈRE *** [Ts Kh Th 6h] [Qh]
+*** ABATTAGE ***
+psychoman59 : montre [Jd As] (une suite, Dix à As)
+Beoukdil : montre [Ks Ad] (double paire, Rois et Dix)
+psychoman59 a remporté 580  lors du pot .
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [Ts Kh Th 6h Qh]
+Siège 1 : sempregz (grosse blind) s'est couché. avant Flop
+Siège 2 : Beoukdil (bouton) a montré [Ks Ad] et a perdu avec double paire, Rois et Dix
+Siège 3 : psychoman59 (petite blind) a montré [Jd As] et a gagné (580) avec une suite, Dix à As
+
+
+
+Main PokerStars n°244672227265 : Tournoi #3613686261, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2023 7:34:41 CET [07/07/2023 1:34:41 ET]
+Table '3613686261 1' 3-max Siège #3 est au bouton.
+Place 1: sempregz (310 en jetons) 
+Place 2: Beoukdil (10 en jetons) 
+Place 3: psychoman59 (580 en jetons) 
+sempregz : met la petite blind. 10
+Beoukdil : met la grosse blind. 10 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 7d]
+psychoman59 : suit. 20
+sempregz : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+*** FLOP *** [Jd 6d Qc]
+*** TOURNANT *** [Jd 6d Qc] [Kc]
+*** RIVIÈRE *** [Jd 6d Qc Kc] [5d]
+*** ABATTAGE ***
+Beoukdil : montre [6s 4s] (une paire de Six)
+psychoman59 : montre [8h 7d] (Hauteur Roi)
+Beoukdil a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Tableau [Jd 6d Qc Kc 5d]
+Siège 1 : sempregz (petite blind) s'est couché. avant Flop
+Siège 2 : Beoukdil (grosse blind) a montré [6s 4s] et a gagné (30) avec une paire de Six
+Siège 3 : psychoman59 (bouton) a montré [8h 7d] et a perdu avec Hauteur Roi
+
+
+
+Main PokerStars n°244672228721 : Tournoi #3613686261, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2023 7:34:56 CET [07/07/2023 1:34:56 ET]
+Table '3613686261 1' 3-max Siège #1 est au bouton.
+Place 1: sempregz (300 en jetons) 
+Place 2: Beoukdil (30 en jetons) 
+Place 3: psychoman59 (570 en jetons) 
+Beoukdil : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Ks]
+sempregz : passe. 
+Beoukdil : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Kd 9h 2d]
+Beoukdil : mise. 10 et est all-in.
+psychoman59 : suit. 10
+*** TOURNANT *** [Kd 9h 2d] [Jc]
+*** RIVIÈRE *** [Kd 9h 2d Jc] [Kc]
+*** ABATTAGE ***
+Beoukdil : montre [As 8s] (une paire de Rois)
+psychoman59 : montre [7s Ks] (un brelan de Rois)
+psychoman59 a remporté 60  lors du pot .
+Beoukdil a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Kd 9h 2d Jc Kc]
+Siège 1 : sempregz (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Beoukdil (petite blind) a montré [As 8s] et a perdu avec une paire de Rois
+Siège 3 : psychoman59 (grosse blind) a montré [7s Ks] et a gagné (60) avec un brelan de Rois
+
+
+
+Main PokerStars n°244672230752 : Tournoi #3613686261, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2023 7:35:14 CET [07/07/2023 1:35:14 ET]
+Table '3613686261 1' 3-max Siège #3 est au bouton.
+Place 1: sempregz (300 en jetons) 
+Place 3: psychoman59 (600 en jetons) 
+psychoman59 : met la petite blind. 10
+sempregz : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 7c]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à sempregz.
+sempregz a remporté 20  lors du pot .
+sempregz : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : sempregz (grosse blind) a remporté (20)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244672231814 : Tournoi #3613686261, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 07/07/2023 7:35:25 CET [07/07/2023 1:35:25 ET]
+Table '3613686261 1' 3-max Siège #1 est au bouton.
+Place 1: sempregz (310 en jetons) 
+Place 3: psychoman59 (590 en jetons) 
+sempregz : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 8h]
+sempregz : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : sempregz (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°244672232267 : Tournoi #3613686261, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 07/07/2023 7:35:29 CET [07/07/2023 1:35:29 ET]
+Table '3613686261 1' 3-max Siège #3 est au bouton.
+Place 1: sempregz (295 en jetons) 
+Place 3: psychoman59 (605 en jetons) 
+psychoman59 : met la petite blind. 15
+sempregz : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Kd]
+psychoman59 : suit. 15
+sempregz : parole 
+*** FLOP *** [4c Qs Ah]
+sempregz : parole 
+psychoman59 : mise. 60
+sempregz : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [4c Qs Ah]
+Siège 1 : sempregz (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°244672234143 : Tournoi #3613686261, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 07/07/2023 7:35:47 CET [07/07/2023 1:35:47 ET]
+Table '3613686261 1' 3-max Siège #1 est au bouton.
+Place 1: sempregz (265 en jetons) 
+Place 3: psychoman59 (635 en jetons) 
+sempregz : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Td]
+sempregz : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : sempregz (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°244672234701 : Tournoi #3613686261, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 07/07/2023 7:35:53 CET [07/07/2023 1:35:53 ET]
+Table '3613686261 1' 3-max Siège #3 est au bouton.
+Place 1: sempregz (250 en jetons) 
+Place 3: psychoman59 (650 en jetons) 
+psychoman59 : met la petite blind. 15
+sempregz : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Ah]
+psychoman59 : relance. 620 à 650 et est all-in.
+sempregz : suit. 220 et est all-in.
+Personne n'a suivi. (400) sont retournés à psychoman59.
+*** FLOP *** [7c Jd 8d]
+*** TOURNANT *** [7c Jd 8d] [Ks]
+*** RIVIÈRE *** [7c Jd 8d Ks] [Tc]
+*** ABATTAGE ***
+sempregz : montre [Ts 9s] (une suite, Sept à Valet)
+psychoman59 : montre [Kh Ah] (une paire de Rois)
+sempregz a remporté 500  lors du pot .
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Tableau [7c Jd 8d Ks Tc]
+Siège 1 : sempregz (grosse blind) a montré [Ts 9s] et a gagné (500) avec une suite, Sept à Valet
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Kh Ah] et a perdu avec une paire de Rois
+
+
+
+Main PokerStars n°244672236372 : Tournoi #3613686261, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 07/07/2023 7:36:08 CET [07/07/2023 1:36:08 ET]
+Table '3613686261 1' 3-max Siège #1 est au bouton.
+Place 1: sempregz (500 en jetons) 
+Place 3: psychoman59 (400 en jetons) 
+sempregz : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Kh]
+sempregz : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Qs 5h 3h]
+psychoman59 : parole 
+sempregz : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à sempregz.
+sempregz a remporté 60  lors du pot .
+sempregz : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Qs 5h 3h]
+Siège 1 : sempregz (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°244672238618 : Tournoi #3613686261, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 07/07/2023 7:36:30 CET [07/07/2023 1:36:30 ET]
+Table '3613686261 1' 3-max Siège #3 est au bouton.
+Place 1: sempregz (530 en jetons) 
+Place 3: psychoman59 (370 en jetons) 
+psychoman59 : met la petite blind. 20
+sempregz : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 9c]
+psychoman59 : relance. 330 à 370 et est all-in.
+sempregz : suit. 330
+*** FLOP *** [Jc 7s 7h]
+*** TOURNANT *** [Jc 7s 7h] [Ks]
+*** RIVIÈRE *** [Jc 7s 7h Ks] [6s]
+*** ABATTAGE ***
+sempregz : montre [7d As] (un brelan de Sept)
+psychoman59 : montre [Kc 9c] (double paire, Rois et Sept)
+sempregz a remporté 740  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+sempregz remporte le tournoi et reçoit 4.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Tableau [Jc 7s 7h Ks 6s]
+Siège 1 : sempregz (grosse blind) a montré [7d As] et a gagné (740) avec un brelan de Sept
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Kc 9c] et a perdu avec double paire, Rois et Sept
+
+
+

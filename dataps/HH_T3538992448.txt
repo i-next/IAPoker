@@ -1,0 +1,117 @@
+﻿Main PokerStars n°241445700974 : Tournoi #3538992448, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/01/2023 9:06:36 CET [28/01/2023 3:06:36 ET]
+Table '3538992448 1' 3-max Siège #1 est au bouton.
+Place 1: ghidev (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: jpb57640 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+jpb57640 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 9h]
+ghidev : relance. 20 à 40
+psychoman59 : passe. 
+jpb57640 : suit. 20
+*** FLOP *** [3c Td 7d]
+jpb57640 : parole 
+ghidev : mise. 20
+jpb57640 : suit. 20
+*** TOURNANT *** [3c Td 7d] [6d]
+jpb57640 : parole 
+ghidev : mise. 20
+jpb57640 : suit. 20
+*** RIVIÈRE *** [3c Td 7d 6d] [6s]
+jpb57640 : parole 
+ghidev : mise. 20
+jpb57640 : passe. 
+Personne n'a suivi. (20) sont retournés à ghidev.
+ghidev a remporté 170  lors du pot .
+*** SYNTHÈSE ***
+Pot total 170 | Commission 0 
+Tableau [3c Td 7d 6d 6s]
+Siège 1 : ghidev (bouton) a remporté (170)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : jpb57640 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°241445704078 : Tournoi #3538992448, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/01/2023 9:07:01 CET [28/01/2023 3:07:01 ET]
+Table '3538992448 1' 3-max Siège #2 est au bouton.
+Place 1: ghidev (390 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: jpb57640 (220 en jetons) 
+jpb57640 : met la petite blind. 10
+ghidev : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 2s]
+psychoman59 : passe. 
+jpb57640 : passe. 
+Personne n'a suivi. (10) sont retournés à ghidev.
+ghidev a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : ghidev (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : jpb57640 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241445704809 : Tournoi #3538992448, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/01/2023 9:07:07 CET [28/01/2023 3:07:07 ET]
+Table '3538992448 1' 3-max Siège #3 est au bouton.
+Place 1: ghidev (400 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: jpb57640 (210 en jetons) 
+ghidev : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 5s]
+jpb57640 : suit. 20
+ghidev : suit. 10
+psychoman59 : parole 
+*** FLOP *** [7c Jc 6h]
+ghidev : mise. 20
+psychoman59 : passe. 
+jpb57640 : passe. 
+Personne n'a suivi. (20) sont retournés à ghidev.
+ghidev a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [7c Jc 6h]
+Siège 1 : ghidev (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : jpb57640 (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°241445706926 : Tournoi #3538992448, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/01/2023 9:07:24 CET [28/01/2023 3:07:24 ET]
+Table '3538992448 1' 3-max Siège #1 est au bouton.
+Place 1: ghidev (440 en jetons) 
+Place 2: psychoman59 (270 en jetons) 
+Place 3: jpb57640 (190 en jetons) 
+psychoman59 : met la petite blind. 10
+jpb57640 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Ks]
+ghidev : relance. 420 à 440 et est all-in.
+psychoman59 : suit. 260 et est all-in.
+jpb57640 : suit. 170 et est all-in.
+Personne n'a suivi. (170) sont retournés à ghidev.
+*** FLOP *** [Jh 5c 6c]
+*** TOURNANT *** [Jh 5c 6c] [Js]
+*** RIVIÈRE *** [Jh 5c 6c Js] [3s]
+*** ABATTAGE ***
+psychoman59 : montre [Ad Ks] (une paire de Valets)
+ghidev : montre [6d 6s] (un full, full aux Six par les Valets)
+ghidev a remporté 160  parallèle lors du pot .
+jpb57640 : montre [Kd 3d] (double paire, Valets et Trois)
+ghidev a remporté 570  principal lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+jpb57640 a fini le tournoi en 3e position.
+ghidev remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 730 Principal pot 570. Parallèle pot 160. | Commission 0 
+Tableau [Jh 5c 6c Js 3s]
+Siège 1 : ghidev (bouton) a montré [6d 6s] et a gagné (730) avec un full, full aux Six par les Valets
+Siège 2 : psychoman59 (petite blind) a montré [Ad Ks] et a perdu avec une paire de Valets
+Siège 3 : jpb57640 (grosse blind) a montré [Kd 3d] et a perdu avec double paire, Valets et Trois
+
+
+

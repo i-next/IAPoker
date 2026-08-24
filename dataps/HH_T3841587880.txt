@@ -1,0 +1,869 @@
+﻿Main PokerStars n°254167476580 : Tournoi #3841587880, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 03/01/2025 7:27:37 CET [03/01/2025 1:27:37 ET]
+Table '3841587880 1' 3-max Siège #1 est au bouton.
+Place 1: jfsfonseca (500 en jetons) 
+Place 2: pablorui11 (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+pablorui11 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Kc]
+jfsfonseca : suit. 20
+pablorui11 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Tc 6d 4h]
+pablorui11 : parole 
+psychoman59 : parole 
+jfsfonseca : parole 
+*** TOURNANT *** [Tc 6d 4h] [7d]
+pablorui11 : mise. 20
+psychoman59 : passe. 
+jfsfonseca : passe. 
+Personne n'a suivi. (20) sont retournés à pablorui11.
+pablorui11 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Tc 6d 4h 7d]
+Siège 1 : jfsfonseca (bouton) s'est couché. sur le Tournant
+Siège 2 : pablorui11 (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°254167478238 : Tournoi #3841587880, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 03/01/2025 7:27:59 CET [03/01/2025 1:27:59 ET]
+Table '3841587880 1' 3-max Siège #2 est au bouton.
+Place 1: jfsfonseca (480 en jetons) 
+Place 2: pablorui11 (540 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 10
+jfsfonseca : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 2c]
+pablorui11 : suit. 20
+psychoman59 : passe. 
+jfsfonseca : parole 
+*** FLOP *** [Kc Kd Ks]
+jfsfonseca : parole 
+pablorui11 : parole 
+*** TOURNANT *** [Kc Kd Ks] [9c]
+jfsfonseca : parole 
+pablorui11 : parole 
+*** RIVIÈRE *** [Kc Kd Ks 9c] [Jc]
+jfsfonseca : mise. 20
+pablorui11 : passe. 
+Personne n'a suivi. (20) sont retournés à jfsfonseca.
+jfsfonseca a remporté 50  lors du pot .
+jfsfonseca : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [Kc Kd Ks 9c Jc]
+Siège 1 : jfsfonseca (grosse blind) a remporté (50)
+Siège 2 : pablorui11 (bouton) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254167479848 : Tournoi #3841587880, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 03/01/2025 7:28:19 CET [03/01/2025 1:28:19 ET]
+Table '3841587880 1' 3-max Siège #3 est au bouton.
+Place 1: jfsfonseca (510 en jetons) 
+Place 2: pablorui11 (520 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+jfsfonseca : met la petite blind. 10
+pablorui11 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 4c]
+psychoman59 : passe. 
+jfsfonseca : suit. 10
+pablorui11 : parole 
+*** FLOP *** [9d Ts Kh]
+jfsfonseca : parole 
+pablorui11 : parole 
+*** TOURNANT *** [9d Ts Kh] [Jc]
+jfsfonseca : parole 
+pablorui11 : mise. 20
+jfsfonseca : suit. 20
+*** RIVIÈRE *** [9d Ts Kh Jc] [7s]
+jfsfonseca : mise. 20
+pablorui11 : suit. 20
+*** ABATTAGE ***
+jfsfonseca : montre [7c Kc] (double paire, Rois et Sept)
+pablorui11 : cache la main perdante. 
+jfsfonseca a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [9d Ts Kh Jc 7s]
+Siège 1 : jfsfonseca (petite blind) a montré [7c Kc] et a gagné (120) avec double paire, Rois et Sept
+Siège 2 : pablorui11 (grosse blind) a caché la main perdante. [9s 4d]
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°254167482021 : Tournoi #3841587880, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 03/01/2025 7:28:46 CET [03/01/2025 1:28:46 ET]
+Table '3841587880 1' 3-max Siège #1 est au bouton.
+Place 1: jfsfonseca (570 en jetons) 
+Place 2: pablorui11 (460 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+pablorui11 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 2s]
+jfsfonseca : suit. 20
+pablorui11 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Ad Qh Th]
+pablorui11 : parole 
+psychoman59 : parole 
+jfsfonseca : parole 
+*** TOURNANT *** [Ad Qh Th] [2c]
+pablorui11 : parole 
+psychoman59 : parole 
+jfsfonseca : parole 
+*** RIVIÈRE *** [Ad Qh Th 2c] [5c]
+pablorui11 : mise. 20
+psychoman59 : suit. 20
+jfsfonseca : passe. 
+*** ABATTAGE ***
+pablorui11 : montre [Tc 9d] (une paire de Dix)
+psychoman59 : cache la main perdante. 
+pablorui11 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [Ad Qh Th 2c 5c]
+Siège 1 : jfsfonseca (bouton) s'est couché. sur le Rivière
+Siège 2 : pablorui11 (petite blind) a montré [Tc 9d] et a gagné (100) avec une paire de Dix
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [7c 2s]
+
+
+
+Main PokerStars n°254167484920 : Tournoi #3841587880, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 03/01/2025 7:29:24 CET [03/01/2025 1:29:24 ET]
+Table '3841587880 1' 3-max Siège #2 est au bouton.
+Place 1: jfsfonseca (550 en jetons) 
+Place 2: pablorui11 (520 en jetons) 
+Place 3: psychoman59 (430 en jetons) 
+psychoman59 : met la petite blind. 10
+jfsfonseca : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 9h]
+pablorui11 : suit. 20
+psychoman59 : suit. 10
+jfsfonseca : parole 
+*** FLOP *** [4h 9c 2c]
+psychoman59 : mise. 60
+jfsfonseca : passe. 
+pablorui11 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [4h 9c 2c]
+Siège 1 : jfsfonseca (grosse blind) s'est couché. sur le Flop
+Siège 2 : pablorui11 (bouton) s'est couché. sur le Flop
+Siège 3 : psychoman59 (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°254167486892 : Tournoi #3841587880, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 03/01/2025 7:29:49 CET [03/01/2025 1:29:49 ET]
+Table '3841587880 1' 3-max Siège #3 est au bouton.
+Place 1: jfsfonseca (530 en jetons) 
+Place 2: pablorui11 (500 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+jfsfonseca : met la petite blind. 10
+pablorui11 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c As]
+psychoman59 : suit. 20
+jfsfonseca : suit. 10
+pablorui11 : parole 
+*** FLOP *** [8h Jh Kh]
+jfsfonseca : parole 
+pablorui11 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [8h Jh Kh] [3d]
+jfsfonseca : parole 
+pablorui11 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [8h Jh Kh 3d] [Tc]
+jfsfonseca : parole 
+pablorui11 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+jfsfonseca : montre [8s 9s] (une paire de Huit)
+pablorui11 : cache la main perdante. 
+psychoman59 : cache la main perdante. 
+jfsfonseca a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [8h Jh Kh 3d Tc]
+Siège 1 : jfsfonseca (petite blind) a montré [8s 9s] et a gagné (60) avec une paire de Huit
+Siège 2 : pablorui11 (grosse blind) a caché la main perdante. [9d 6d]
+Siège 3 : psychoman59 (bouton) a caché la main perdante. [4c As]
+
+
+
+Main PokerStars n°254167489307 : Tournoi #3841587880, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 03/01/2025 7:30:19 CET [03/01/2025 1:30:19 ET]
+Table '3841587880 1' 3-max Siège #1 est au bouton.
+Place 1: jfsfonseca (570 en jetons) 
+Place 2: pablorui11 (480 en jetons) 
+Place 3: psychoman59 (450 en jetons) 
+pablorui11 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Ad]
+jfsfonseca : suit. 20
+pablorui11 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [6d 5d Jh]
+pablorui11 : parole 
+psychoman59 : parole 
+jfsfonseca : mise. 60
+pablorui11 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à jfsfonseca.
+jfsfonseca a remporté 60  lors du pot .
+jfsfonseca : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [6d 5d Jh]
+Siège 1 : jfsfonseca (bouton) a remporté (60)
+Siège 2 : pablorui11 (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°254167491147 : Tournoi #3841587880, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 03/01/2025 7:30:42 CET [03/01/2025 1:30:42 ET]
+Table '3841587880 1' 3-max Siège #2 est au bouton.
+Place 1: jfsfonseca (610 en jetons) 
+Place 2: pablorui11 (460 en jetons) 
+Place 3: psychoman59 (430 en jetons) 
+psychoman59 : met la petite blind. 15
+jfsfonseca : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 9s]
+pablorui11 : relance. 30 à 60
+psychoman59 : passe. 
+jfsfonseca : suit. 30
+*** FLOP *** [Jc 9c 8d]
+jfsfonseca : parole 
+pablorui11 : mise. 30
+jfsfonseca : passe. 
+Personne n'a suivi. (30) sont retournés à pablorui11.
+pablorui11 a remporté 135  lors du pot .
+*** SYNTHÈSE ***
+Pot total 135 | Commission 0 
+Tableau [Jc 9c 8d]
+Siège 1 : jfsfonseca (grosse blind) s'est couché. sur le Flop
+Siège 2 : pablorui11 (bouton) a remporté (135)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254167492912 : Tournoi #3841587880, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 03/01/2025 7:31:05 CET [03/01/2025 1:31:05 ET]
+Table '3841587880 1' 3-max Siège #3 est au bouton.
+Place 1: jfsfonseca (550 en jetons) 
+Place 2: pablorui11 (535 en jetons) 
+Place 3: psychoman59 (415 en jetons) 
+jfsfonseca : met la petite blind. 15
+pablorui11 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Jh]
+psychoman59 : passe. 
+jfsfonseca : suit. 15
+pablorui11 : relance. 30 à 60
+jfsfonseca : suit. 30
+*** FLOP *** [5h Kc Ks]
+jfsfonseca : parole 
+pablorui11 : mise. 90
+jfsfonseca : passe. 
+Personne n'a suivi. (90) sont retournés à pablorui11.
+pablorui11 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [5h Kc Ks]
+Siège 1 : jfsfonseca (petite blind) s'est couché. sur le Flop
+Siège 2 : pablorui11 (grosse blind) a remporté (120)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°254167494586 : Tournoi #3841587880, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 03/01/2025 7:31:26 CET [03/01/2025 1:31:26 ET]
+Table '3841587880 1' 3-max Siège #1 est au bouton.
+Place 1: jfsfonseca (490 en jetons) 
+Place 2: pablorui11 (595 en jetons) 
+Place 3: psychoman59 (415 en jetons) 
+pablorui11 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 9s]
+jfsfonseca : passe. 
+pablorui11 : relance. 30 à 60
+psychoman59 : suit. 30
+*** FLOP *** [9c 5s 3s]
+pablorui11 : parole 
+psychoman59 : mise. 355 et est all-in.
+pablorui11 : suit. 355
+*** TOURNANT *** [9c 5s 3s] [Th]
+*** RIVIÈRE *** [9c 5s 3s Th] [8c]
+*** ABATTAGE ***
+pablorui11 : montre [Js As] (Hauteur As)
+psychoman59 : montre [Qc 9s] (une paire de Neuf)
+psychoman59 a remporté 830  lors du pot .
+*** SYNTHÈSE ***
+Pot total 830 | Commission 0 
+Tableau [9c 5s 3s Th 8c]
+Siège 1 : jfsfonseca (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : pablorui11 (petite blind) a montré [Js As] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (grosse blind) a montré [Qc 9s] et a gagné (830) avec une paire de Neuf
+
+
+
+Main PokerStars n°254167496704 : Tournoi #3841587880, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 03/01/2025 7:31:53 CET [03/01/2025 1:31:53 ET]
+Table '3841587880 1' 3-max Siège #2 est au bouton.
+Place 1: jfsfonseca (490 en jetons) 
+Place 2: pablorui11 (180 en jetons) 
+Place 3: psychoman59 (830 en jetons) 
+psychoman59 : met la petite blind. 15
+jfsfonseca : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 8h]
+pablorui11 : suit. 30
+psychoman59 : passe. 
+jfsfonseca : parole 
+*** FLOP *** [5c 7s Ac]
+jfsfonseca : parole 
+pablorui11 : parole 
+*** TOURNANT *** [5c 7s Ac] [8c]
+jfsfonseca : mise. 30
+pablorui11 : suit. 30
+*** RIVIÈRE *** [5c 7s Ac 8c] [2c]
+jfsfonseca : mise. 30
+pablorui11 : suit. 30
+*** ABATTAGE ***
+jfsfonseca : montre [As 9h] (une paire de As)
+pablorui11 : montre [8d Tc] (une couleur, hauteur As)
+pablorui11 a remporté 195  lors du pot .
+*** SYNTHÈSE ***
+Pot total 195 | Commission 0 
+Tableau [5c 7s Ac 8c 2c]
+Siège 1 : jfsfonseca (grosse blind) a montré [As 9h] et a perdu avec une paire de As
+Siège 2 : pablorui11 (bouton) a montré [8d Tc] et a gagné (195) avec une couleur, hauteur As
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254167498954 : Tournoi #3841587880, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 03/01/2025 7:32:22 CET [03/01/2025 1:32:22 ET]
+Table '3841587880 1' 3-max Siège #3 est au bouton.
+Place 1: jfsfonseca (400 en jetons) 
+Place 2: pablorui11 (285 en jetons) 
+Place 3: psychoman59 (815 en jetons) 
+jfsfonseca : met la petite blind. 15
+pablorui11 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Ks]
+psychoman59 : relance. 60 à 90
+jfsfonseca : passe. 
+pablorui11 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 75  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : jfsfonseca (petite blind) s'est couché. avant Flop
+Siège 2 : pablorui11 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a remporté (75)
+
+
+
+Main PokerStars n°254167500234 : Tournoi #3841587880, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 03/01/2025 7:32:38 CET [03/01/2025 1:32:38 ET]
+Table '3841587880 1' 3-max Siège #1 est au bouton.
+Place 1: jfsfonseca (385 en jetons) 
+Place 2: pablorui11 (255 en jetons) 
+Place 3: psychoman59 (860 en jetons) 
+pablorui11 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 6d]
+jfsfonseca : suit. 30
+pablorui11 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [4h 2h 9d]
+pablorui11 : parole 
+psychoman59 : mise. 830 et est all-in.
+jfsfonseca : passe. 
+pablorui11 : passe. 
+Personne n'a suivi. (830) sont retournés à psychoman59.
+psychoman59 a remporté 90  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [4h 2h 9d]
+Siège 1 : jfsfonseca (bouton) s'est couché. sur le Flop
+Siège 2 : pablorui11 (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (90)
+
+
+
+Main PokerStars n°254167502345 : Tournoi #3841587880, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 03/01/2025 7:33:05 CET [03/01/2025 1:33:05 ET]
+Table '3841587880 1' 3-max Siège #2 est au bouton.
+Place 1: jfsfonseca (355 en jetons) 
+Place 2: pablorui11 (225 en jetons) 
+Place 3: psychoman59 (920 en jetons) 
+psychoman59 : met la petite blind. 15
+jfsfonseca : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 4h]
+pablorui11 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à jfsfonseca.
+jfsfonseca a remporté 30  lors du pot .
+jfsfonseca : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : jfsfonseca (grosse blind) a remporté (30)
+Siège 2 : pablorui11 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254167502921 : Tournoi #3841587880, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 03/01/2025 7:33:12 CET [03/01/2025 1:33:12 ET]
+Table '3841587880 1' 3-max Siège #3 est au bouton.
+Place 1: jfsfonseca (370 en jetons) 
+Place 2: pablorui11 (225 en jetons) 
+Place 3: psychoman59 (905 en jetons) 
+jfsfonseca : met la petite blind. 15
+pablorui11 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Qh]
+psychoman59 : passe. 
+jfsfonseca : suit. 15
+pablorui11 : parole 
+*** FLOP *** [9d 8h 6h]
+jfsfonseca : mise. 30
+pablorui11 : suit. 30
+*** TOURNANT *** [9d 8h 6h] [Qd]
+jfsfonseca : parole 
+pablorui11 : parole 
+*** RIVIÈRE *** [9d 8h 6h Qd] [Td]
+jfsfonseca : mise. 30
+pablorui11 : suit. 30
+*** ABATTAGE ***
+jfsfonseca : montre [3d 5d] (une couleur, hauteur Dame)
+pablorui11 : cache la main perdante. 
+jfsfonseca a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [9d 8h 6h Qd Td]
+Siège 1 : jfsfonseca (petite blind) a montré [3d 5d] et a gagné (180) avec une couleur, hauteur Dame
+Siège 2 : pablorui11 (grosse blind) a caché la main perdante. [Ah Ts]
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°254167505298 : Tournoi #3841587880, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 03/01/2025 7:33:42 CET [03/01/2025 1:33:42 ET]
+Table '3841587880 1' 3-max Siège #1 est au bouton.
+Place 1: jfsfonseca (460 en jetons) 
+Place 2: pablorui11 (135 en jetons) 
+Place 3: psychoman59 (905 en jetons) 
+pablorui11 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 9s]
+jfsfonseca : passe. 
+pablorui11 : relance. 40 à 80
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à pablorui11.
+pablorui11 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : jfsfonseca (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : pablorui11 (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254167506056 : Tournoi #3841587880, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 03/01/2025 7:33:51 CET [03/01/2025 1:33:51 ET]
+Table '3841587880 1' 3-max Siège #2 est au bouton.
+Place 1: jfsfonseca (460 en jetons) 
+Place 2: pablorui11 (175 en jetons) 
+Place 3: psychoman59 (865 en jetons) 
+psychoman59 : met la petite blind. 20
+jfsfonseca : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 5c]
+pablorui11 : suit. 40
+psychoman59 : suit. 20
+jfsfonseca : parole 
+*** FLOP *** [Jc Jh Ks]
+psychoman59 : parole 
+jfsfonseca : parole 
+pablorui11 : mise. 40
+psychoman59 : passe. 
+jfsfonseca : passe. 
+Personne n'a suivi. (40) sont retournés à pablorui11.
+pablorui11 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Jc Jh Ks]
+Siège 1 : jfsfonseca (grosse blind) s'est couché. sur le Flop
+Siège 2 : pablorui11 (bouton) a remporté (120)
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°254167507790 : Tournoi #3841587880, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 03/01/2025 7:34:13 CET [03/01/2025 1:34:13 ET]
+Table '3841587880 1' 3-max Siège #3 est au bouton.
+Place 1: jfsfonseca (420 en jetons) 
+Place 2: pablorui11 (255 en jetons) 
+Place 3: psychoman59 (825 en jetons) 
+jfsfonseca : met la petite blind. 20
+pablorui11 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 4s]
+psychoman59 : passe. 
+jfsfonseca : suit. 20
+pablorui11 : parole 
+*** FLOP *** [9s Kh 9h]
+jfsfonseca : mise. 80
+pablorui11 : relance. 80 à 160
+jfsfonseca : relance. 80 à 240
+pablorui11 : suit. 55 et est all-in.
+Personne n'a suivi. (25) sont retournés à jfsfonseca.
+*** TOURNANT *** [9s Kh 9h] [Ts]
+*** RIVIÈRE *** [9s Kh 9h Ts] [Ks]
+*** ABATTAGE ***
+jfsfonseca : montre [Kd 2c] (un full, full aux Rois par les Neuf)
+pablorui11 : montre [9c 5c] (un full, full aux Neuf par les Rois)
+jfsfonseca a remporté 510  lors du pot .
+pablorui11 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 510 | Commission 0 
+Tableau [9s Kh 9h Ts Ks]
+Siège 1 : jfsfonseca (petite blind) a montré [Kd 2c] et a gagné (510) avec un full, full aux Rois par les Neuf
+Siège 2 : pablorui11 (grosse blind) a montré [9c 5c] et a perdu avec un full, full aux Neuf par les Rois
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°254167509735 : Tournoi #3841587880, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 03/01/2025 7:34:38 CET [03/01/2025 1:34:38 ET]
+Table '3841587880 1' 3-max Siège #1 est au bouton.
+Place 1: jfsfonseca (675 en jetons) 
+Place 3: psychoman59 (825 en jetons) 
+jfsfonseca : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 7c]
+jfsfonseca : suit. 20
+psychoman59 : relance. 785 à 825 et est all-in.
+jfsfonseca : passe. 
+Personne n'a suivi. (785) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : jfsfonseca (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°254167510596 : Tournoi #3841587880, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 03/01/2025 7:34:49 CET [03/01/2025 1:34:49 ET]
+Table '3841587880 1' 3-max Siège #3 est au bouton.
+Place 1: jfsfonseca (635 en jetons) 
+Place 3: psychoman59 (865 en jetons) 
+psychoman59 : met la petite blind. 20
+jfsfonseca : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 8h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à jfsfonseca.
+jfsfonseca a remporté 40  lors du pot .
+jfsfonseca : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : jfsfonseca (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254167511089 : Tournoi #3841587880, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 03/01/2025 7:34:55 CET [03/01/2025 1:34:55 ET]
+Table '3841587880 1' 3-max Siège #1 est au bouton.
+Place 1: jfsfonseca (655 en jetons) 
+Place 3: psychoman59 (845 en jetons) 
+jfsfonseca : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 9d]
+jfsfonseca : suit. 20
+psychoman59 : parole 
+*** FLOP *** [4h 2h 7h]
+psychoman59 : parole 
+jfsfonseca : parole 
+*** TOURNANT *** [4h 2h 7h] [Qc]
+psychoman59 : parole 
+jfsfonseca : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à jfsfonseca.
+jfsfonseca a remporté 80  lors du pot .
+jfsfonseca : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [4h 2h 7h Qc]
+Siège 1 : jfsfonseca (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°254167513433 : Tournoi #3841587880, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 03/01/2025 7:35:24 CET [03/01/2025 1:35:24 ET]
+Table '3841587880 1' 3-max Siège #3 est au bouton.
+Place 1: jfsfonseca (695 en jetons) 
+Place 3: psychoman59 (805 en jetons) 
+psychoman59 : met la petite blind. 20
+jfsfonseca : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Ac]
+psychoman59 : relance. 80 à 120
+jfsfonseca : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : jfsfonseca (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°254167513983 : Tournoi #3841587880, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 03/01/2025 7:35:31 CET [03/01/2025 1:35:31 ET]
+Table '3841587880 1' 3-max Siège #1 est au bouton.
+Place 1: jfsfonseca (655 en jetons) 
+Place 3: psychoman59 (845 en jetons) 
+jfsfonseca : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Th]
+jfsfonseca : suit. 20
+psychoman59 : parole 
+*** FLOP *** [3c 4d Ts]
+psychoman59 : parole 
+jfsfonseca : mise. 80
+psychoman59 : relance. 725 à 805 et est all-in.
+jfsfonseca : passe. 
+Personne n'a suivi. (725) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [3c 4d Ts]
+Siège 1 : jfsfonseca (bouton) (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (240)
+
+
+
+Main PokerStars n°254167515465 : Tournoi #3841587880, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 03/01/2025 7:35:51 CET [03/01/2025 1:35:51 ET]
+Table '3841587880 1' 3-max Siège #3 est au bouton.
+Place 1: jfsfonseca (535 en jetons) 
+Place 3: psychoman59 (965 en jetons) 
+psychoman59 : met la petite blind. 20
+jfsfonseca : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Kd]
+psychoman59 : suit. 20
+jfsfonseca : parole 
+*** FLOP *** [7h 8h 6s]
+jfsfonseca : parole 
+psychoman59 : parole 
+*** TOURNANT *** [7h 8h 6s] [Td]
+jfsfonseca : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [7h 8h 6s Td] [5h]
+jfsfonseca : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à jfsfonseca.
+jfsfonseca a remporté 80  lors du pot .
+jfsfonseca : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [7h 8h 6s Td 5h]
+Siège 1 : jfsfonseca (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°254167517360 : Tournoi #3841587880, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 03/01/2025 7:36:15 CET [03/01/2025 1:36:15 ET]
+Table '3841587880 1' 3-max Siège #1 est au bouton.
+Place 1: jfsfonseca (575 en jetons) 
+Place 3: psychoman59 (925 en jetons) 
+jfsfonseca : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Qs]
+jfsfonseca : suit. 20
+psychoman59 : parole 
+*** FLOP *** [9h Jd 9s]
+psychoman59 : parole 
+jfsfonseca : mise. 120
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à jfsfonseca.
+jfsfonseca a remporté 80  lors du pot .
+jfsfonseca : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [9h Jd 9s]
+Siège 1 : jfsfonseca (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°254167518420 : Tournoi #3841587880, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 03/01/2025 7:36:29 CET [03/01/2025 1:36:29 ET]
+Table '3841587880 1' 3-max Siège #3 est au bouton.
+Place 1: jfsfonseca (615 en jetons) 
+Place 3: psychoman59 (885 en jetons) 
+psychoman59 : met la petite blind. 20
+jfsfonseca : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 2s]
+psychoman59 : suit. 20
+jfsfonseca : parole 
+*** FLOP *** [Kd Ah Td]
+jfsfonseca : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [Kd Ah Td] [Ts]
+jfsfonseca : parole 
+psychoman59 : mise. 80
+jfsfonseca : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Kd Ah Td Ts]
+Siège 1 : jfsfonseca (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°254167520065 : Tournoi #3841587880, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 03/01/2025 7:36:50 CET [03/01/2025 1:36:50 ET]
+Table '3841587880 1' 3-max Siège #1 est au bouton.
+Place 1: jfsfonseca (535 en jetons) 
+Place 3: psychoman59 (965 en jetons) 
+jfsfonseca : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 5c]
+jfsfonseca : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : jfsfonseca (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°254167520438 : Tournoi #3841587880, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 03/01/2025 7:36:55 CET [03/01/2025 1:36:55 ET]
+Table '3841587880 1' 3-max Siège #3 est au bouton.
+Place 1: jfsfonseca (505 en jetons) 
+Place 3: psychoman59 (995 en jetons) 
+psychoman59 : met la petite blind. 30
+jfsfonseca : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 4h]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à jfsfonseca.
+jfsfonseca a remporté 60  lors du pot .
+jfsfonseca : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : jfsfonseca (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254167520782 : Tournoi #3841587880, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 03/01/2025 7:36:59 CET [03/01/2025 1:36:59 ET]
+Table '3841587880 1' 3-max Siège #1 est au bouton.
+Place 1: jfsfonseca (535 en jetons) 
+Place 3: psychoman59 (965 en jetons) 
+jfsfonseca : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Jh]
+jfsfonseca : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : jfsfonseca (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°254167521135 : Tournoi #3841587880, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 03/01/2025 7:37:04 CET [03/01/2025 1:37:04 ET]
+Table '3841587880 1' 3-max Siège #3 est au bouton.
+Place 1: jfsfonseca (505 en jetons) 
+Place 3: psychoman59 (995 en jetons) 
+psychoman59 : met la petite blind. 30
+jfsfonseca : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 2s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à jfsfonseca.
+jfsfonseca a remporté 60  lors du pot .
+jfsfonseca : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : jfsfonseca (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254167521518 : Tournoi #3841587880, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 03/01/2025 7:37:08 CET [03/01/2025 1:37:08 ET]
+Table '3841587880 1' 3-max Siège #1 est au bouton.
+Place 1: jfsfonseca (535 en jetons) 
+Place 3: psychoman59 (965 en jetons) 
+jfsfonseca : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 4h]
+jfsfonseca : suit. 30
+psychoman59 : relance. 905 à 965 et est all-in.
+jfsfonseca : passe. 
+Personne n'a suivi. (905) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : jfsfonseca (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°254167522139 : Tournoi #3841587880, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 03/01/2025 7:37:17 CET [03/01/2025 1:37:17 ET]
+Table '3841587880 1' 3-max Siège #3 est au bouton.
+Place 1: jfsfonseca (475 en jetons) 
+Place 3: psychoman59 (1025 en jetons) 
+psychoman59 : met la petite blind. 30
+jfsfonseca : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 8c]
+psychoman59 : suit. 30
+jfsfonseca : relance. 60 à 120
+psychoman59 : relance. 905 à 1025 et est all-in.
+jfsfonseca : suit. 355 et est all-in.
+Personne n'a suivi. (550) sont retournés à psychoman59.
+*** FLOP *** [Js 8s 8h]
+*** TOURNANT *** [Js 8s 8h] [7h]
+*** RIVIÈRE *** [Js 8s 8h 7h] [5d]
+*** ABATTAGE ***
+jfsfonseca : montre [Kh Qh] (une paire de Huit)
+psychoman59 : montre [8d 8c] (un carré de Huit)
+psychoman59 a remporté 950  lors du pot .
+jfsfonseca a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 0.75 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 950 | Commission 0 
+Tableau [Js 8s 8h 7h 5d]
+Siège 1 : jfsfonseca (grosse blind) a montré [Kh Qh] et a perdu avec une paire de Huit
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [8d 8c] et a gagné (950) avec un carré de Huit
+
+
+

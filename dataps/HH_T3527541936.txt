@@ -1,0 +1,40 @@
+﻿Main PokerStars n°240969956030 : Tournoi #3527541936, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/01/2023 9:13:55 CET [07/01/2023 3:13:55 ET]
+Table '3527541936 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: m4thiieu (300 en jetons) 
+Place 3: barade cedric (300 en jetons) 
+m4thiieu : met la petite blind. 10
+barade cedric : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 7h]
+psychoman59 : suit. 20
+m4thiieu : suit. 10
+barade cedric : parole 
+*** FLOP *** [9s 8h 5s]
+m4thiieu : mise. 20
+barade cedric : suit. 20
+psychoman59 : relance. 40 à 60
+m4thiieu : relance. 40 à 100
+barade cedric : suit. 80
+psychoman59 : relance. 180 à 280 et est all-in.
+m4thiieu : suit. 180 et est all-in.
+barade cedric : suit. 180 et est all-in.
+*** TOURNANT *** [9s 8h 5s] [3h]
+*** RIVIÈRE *** [9s 8h 5s 3h] [Td]
+*** ABATTAGE ***
+m4thiieu : montre [5d 6d] (une paire de Cinq)
+barade cedric : montre [As Ad] (une paire de As)
+psychoman59 : montre [6h 7h] (une suite, Six à Dix)
+psychoman59 a remporté 900  lors du pot .
+m4thiieu a fini le tournoi en 2e position.
+barade cedric a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Tableau [9s 8h 5s 3h Td]
+Siège 1 : psychoman59 (bouton) a montré [6h 7h] et a gagné (900) avec une suite, Six à Dix
+Siège 2 : m4thiieu (petite blind) a montré [5d 6d] et a perdu avec une paire de Cinq
+Siège 3 : barade cedric (grosse blind) a montré [As Ad] et a perdu avec une paire de As
+
+
+

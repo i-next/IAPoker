@@ -1,0 +1,30 @@
+﻿Main PokerStars n°246523957841 : Tournoi #3658759436, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 14/10/2023 10:16:09 CET [14/10/2023 4:16:09 ET]
+Table '3658759436 1' 3-max Siège #1 est au bouton.
+Place 1: tintin468 (300 en jetons) 
+Place 2: angele566 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+angele566 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Ac]
+tintin468 : passe. 
+angele566 : relance. 20 à 40
+psychoman59 : relance. 260 à 300 et est all-in.
+angele566 : suit. 260 et est all-in.
+*** FLOP *** [2d Tc 6h]
+*** TOURNANT *** [2d Tc 6h] [9s]
+*** RIVIÈRE *** [2d Tc 6h 9s] [7h]
+*** ABATTAGE ***
+angele566 : montre [Ah Qh] (Hauteur As)
+psychoman59 : montre [Jd Ac] (Hauteur As - plus basse kicker)
+angele566 a remporté 600  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [2d Tc 6h 9s 7h]
+Siège 1 : tintin468 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : angele566 (petite blind) a montré [Ah Qh] et a gagné (600) avec Hauteur As
+Siège 3 : psychoman59 (grosse blind) a montré [Jd Ac] et a perdu avec Hauteur As
+
+
+

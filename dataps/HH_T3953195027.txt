@@ -1,0 +1,678 @@
+﻿Main PokerStars n°258774139974 : Tournoi #3953195027, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 05/12/2025 7:34:57 CET [05/12/2025 1:34:57 ET]
+Table '3953195027 1' 3-max Siège #1 est au bouton.
+Place 1: fratt5 (500 en jetons) 
+Place 2: aneruy88 (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+aneruy88 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 5d]
+fratt5 : passe. 
+aneruy88 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Jd Qs 2s]
+aneruy88 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Jd Qs 2s] [Ad]
+aneruy88 : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à aneruy88.
+aneruy88 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Jd Qs 2s Ad]
+Siège 1 : fratt5 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : aneruy88 (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°258774141255 : Tournoi #3953195027, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 05/12/2025 7:35:18 CET [05/12/2025 1:35:18 ET]
+Table '3953195027 1' 3-max Siège #2 est au bouton.
+Place 1: fratt5 (500 en jetons) 
+Place 2: aneruy88 (520 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 10
+fratt5 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 5c]
+aneruy88 : suit. 20
+psychoman59 : passe. 
+fratt5 : relance. 100 à 120
+aneruy88 : passe. 
+Personne n'a suivi. (100) sont retournés à fratt5.
+fratt5 a remporté 50  lors du pot .
+fratt5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : fratt5 (grosse blind) a remporté (50)
+Siège 2 : aneruy88 (bouton) s'est couché. avant Flop
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258774143542 : Tournoi #3953195027, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 05/12/2025 7:35:56 CET [05/12/2025 1:35:56 ET]
+Table '3953195027 1' 3-max Siège #3 est au bouton.
+Place 1: fratt5 (530 en jetons) 
+Place 2: aneruy88 (500 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+fratt5 : met la petite blind. 10
+aneruy88 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 6h]
+psychoman59 : passe. 
+fratt5 : suit. 10
+aneruy88 : parole 
+*** FLOP *** [Jh 4h Ad]
+fratt5 : mise. 40
+aneruy88 : suit. 40
+*** TOURNANT *** [Jh 4h Ad] [4s]
+fratt5 : mise. 40
+aneruy88 : suit. 40
+*** RIVIÈRE *** [Jh 4h Ad 4s] [8s]
+fratt5 : parole 
+aneruy88 : parole 
+*** ABATTAGE ***
+fratt5 : montre [5d 2s] (une paire de Quatre)
+aneruy88 : montre [8h Ac] (double paire, As et Huit)
+aneruy88 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [Jh 4h Ad 4s 8s]
+Siège 1 : fratt5 (petite blind) a montré [5d 2s] et a perdu avec une paire de Quatre
+Siège 2 : aneruy88 (grosse blind) a montré [8h Ac] et a gagné (200) avec double paire, As et Huit
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°258774145363 : Tournoi #3953195027, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 05/12/2025 7:36:26 CET [05/12/2025 1:36:26 ET]
+Table '3953195027 1' 3-max Siège #1 est au bouton.
+Place 1: fratt5 (430 en jetons) 
+Place 2: aneruy88 (600 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+aneruy88 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 6c]
+fratt5 : passe. 
+aneruy88 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [6h 7c Td]
+aneruy88 : parole 
+psychoman59 : mise. 40
+aneruy88 : suit. 40
+*** TOURNANT *** [6h 7c Td] [Jh]
+aneruy88 : parole 
+psychoman59 : mise. 410 et est all-in.
+aneruy88 : passe. 
+Personne n'a suivi. (410) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [6h 7c Td Jh]
+Siège 1 : fratt5 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : aneruy88 (petite blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°258774148430 : Tournoi #3953195027, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 05/12/2025 7:37:17 CET [05/12/2025 1:37:17 ET]
+Table '3953195027 1' 3-max Siège #2 est au bouton.
+Place 1: fratt5 (430 en jetons) 
+Place 2: aneruy88 (540 en jetons) 
+Place 3: psychoman59 (530 en jetons) 
+psychoman59 : met la petite blind. 15
+fratt5 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 4s]
+aneruy88 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à fratt5.
+fratt5 a remporté 30  lors du pot .
+fratt5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : fratt5 (grosse blind) a remporté (30)
+Siège 2 : aneruy88 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258774148864 : Tournoi #3953195027, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 05/12/2025 7:37:24 CET [05/12/2025 1:37:24 ET]
+Table '3953195027 1' 3-max Siège #3 est au bouton.
+Place 1: fratt5 (445 en jetons) 
+Place 2: aneruy88 (540 en jetons) 
+Place 3: psychoman59 (515 en jetons) 
+fratt5 : met la petite blind. 15
+aneruy88 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Jh]
+psychoman59 : suit. 30
+fratt5 : relance. 90 à 120
+aneruy88 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (90) sont retournés à fratt5.
+fratt5 a remporté 90  lors du pot .
+fratt5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Siège 1 : fratt5 (petite blind) a remporté (90)
+Siège 2 : aneruy88 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258774149893 : Tournoi #3953195027, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 05/12/2025 7:37:41 CET [05/12/2025 1:37:41 ET]
+Table '3953195027 1' 3-max Siège #1 est au bouton.
+Place 1: fratt5 (505 en jetons) 
+Place 2: aneruy88 (510 en jetons) 
+Place 3: psychoman59 (485 en jetons) 
+aneruy88 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Ah]
+fratt5 : suit. 30
+aneruy88 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [8d Kd 2h]
+aneruy88 : parole 
+psychoman59 : parole 
+fratt5 : parole 
+*** TOURNANT *** [8d Kd 2h] [4h]
+aneruy88 : mise. 30
+psychoman59 : suit. 30
+fratt5 : relance. 90 à 120
+aneruy88 : suit. 90
+psychoman59 : passe. 
+*** RIVIÈRE *** [8d Kd 2h 4h] [5c]
+aneruy88 : parole 
+fratt5 : mise. 120
+aneruy88 : suit. 120
+*** ABATTAGE ***
+fratt5 : montre [Js Ks] (une paire de Rois)
+aneruy88 : montre [2c Kc] (double paire, Rois et Deux)
+aneruy88 a remporté 600  lors du pot .
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [8d Kd 2h 4h 5c]
+Siège 1 : fratt5 (bouton) a montré [Js Ks] et a perdu avec une paire de Rois
+Siège 2 : aneruy88 (petite blind) a montré [2c Kc] et a gagné (600) avec double paire, Rois et Deux
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°258774152532 : Tournoi #3953195027, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 05/12/2025 7:38:25 CET [05/12/2025 1:38:25 ET]
+Table '3953195027 1' 3-max Siège #2 est au bouton.
+Place 1: fratt5 (235 en jetons) 
+Place 2: aneruy88 (840 en jetons) 
+Place 3: psychoman59 (425 en jetons) 
+psychoman59 : met la petite blind. 15
+fratt5 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 3h]
+aneruy88 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à fratt5.
+fratt5 a remporté 30  lors du pot .
+fratt5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : fratt5 (grosse blind) a remporté (30)
+Siège 2 : aneruy88 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258774153000 : Tournoi #3953195027, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 05/12/2025 7:38:33 CET [05/12/2025 1:38:33 ET]
+Table '3953195027 1' 3-max Siège #3 est au bouton.
+Place 1: fratt5 (250 en jetons) 
+Place 2: aneruy88 (840 en jetons) 
+Place 3: psychoman59 (410 en jetons) 
+fratt5 : met la petite blind. 15
+aneruy88 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 2s]
+psychoman59 : passe. 
+fratt5 : suit. 15
+aneruy88 : parole 
+*** FLOP *** [7c 3h Qd]
+fratt5 : parole 
+aneruy88 : mise. 30
+fratt5 : passe. 
+Personne n'a suivi. (30) sont retournés à aneruy88.
+aneruy88 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [7c 3h Qd]
+Siège 1 : fratt5 (petite blind) s'est couché. sur le Flop
+Siège 2 : aneruy88 (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°258774153798 : Tournoi #3953195027, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 05/12/2025 7:38:46 CET [05/12/2025 1:38:46 ET]
+Table '3953195027 1' 3-max Siège #1 est au bouton.
+Place 1: fratt5 (220 en jetons) 
+Place 2: aneruy88 (870 en jetons) 
+Place 3: psychoman59 (410 en jetons) 
+aneruy88 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 6d]
+fratt5 : relance. 190 à 220 et est all-in.
+aneruy88 : suit. 205
+psychoman59 : passe. 
+*** FLOP *** [5h Ks 4d]
+*** TOURNANT *** [5h Ks 4d] [9h]
+*** RIVIÈRE *** [5h Ks 4d 9h] [5d]
+*** ABATTAGE ***
+aneruy88 : montre [Ad Qh] (une paire de Cinq)
+fratt5 : montre [Ac 4c] (double paire, Cinq et Quatre)
+fratt5 a remporté 470  lors du pot .
+*** SYNTHÈSE ***
+Pot total 470 | Commission 0 
+Tableau [5h Ks 4d 9h 5d]
+Siège 1 : fratt5 (bouton) a montré [Ac 4c] et a gagné (470) avec double paire, Cinq et Quatre
+Siège 2 : aneruy88 (petite blind) a montré [Ad Qh] et a perdu avec une paire de Cinq
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258774154819 : Tournoi #3953195027, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 05/12/2025 7:39:02 CET [05/12/2025 1:39:02 ET]
+Table '3953195027 1' 3-max Siège #2 est au bouton.
+Place 1: fratt5 (470 en jetons) 
+Place 2: aneruy88 (650 en jetons) 
+Place 3: psychoman59 (380 en jetons) 
+psychoman59 : met la petite blind. 20
+fratt5 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 3c]
+aneruy88 : suit. 40
+psychoman59 : passe. 
+fratt5 : parole 
+*** FLOP *** [Js 9s Ad]
+fratt5 : parole 
+aneruy88 : parole 
+*** TOURNANT *** [Js 9s Ad] [7c]
+fratt5 : parole 
+aneruy88 : parole 
+*** RIVIÈRE *** [Js 9s Ad 7c] [3d]
+fratt5 : parole 
+aneruy88 : parole 
+*** ABATTAGE ***
+fratt5 : montre [Qd 5h] (Hauteur As)
+aneruy88 : cache la main perdante. 
+fratt5 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [Js 9s Ad 7c 3d]
+Siège 1 : fratt5 (grosse blind) a montré [Qd 5h] et a gagné (100) avec Hauteur As
+Siège 2 : aneruy88 (bouton) a caché la main perdante. [Ts 5c]
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258774156139 : Tournoi #3953195027, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 05/12/2025 7:39:24 CET [05/12/2025 1:39:24 ET]
+Table '3953195027 1' 3-max Siège #3 est au bouton.
+Place 1: fratt5 (530 en jetons) 
+Place 2: aneruy88 (610 en jetons) 
+Place 3: psychoman59 (360 en jetons) 
+fratt5 : met la petite blind. 20
+aneruy88 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Jd]
+psychoman59 : passe. 
+fratt5 : passe. 
+Personne n'a suivi. (20) sont retournés à aneruy88.
+aneruy88 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : fratt5 (petite blind) s'est couché. avant Flop
+Siège 2 : aneruy88 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°258774156625 : Tournoi #3953195027, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 05/12/2025 7:39:32 CET [05/12/2025 1:39:32 ET]
+Table '3953195027 1' 3-max Siège #1 est au bouton.
+Place 1: fratt5 (510 en jetons) 
+Place 2: aneruy88 (630 en jetons) 
+Place 3: psychoman59 (360 en jetons) 
+aneruy88 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Ah]
+fratt5 : relance. 470 à 510 et est all-in.
+aneruy88 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (470) sont retournés à fratt5.
+fratt5 a remporté 100  lors du pot .
+fratt5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : fratt5 (bouton) a remporté (100)
+Siège 2 : aneruy88 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258774157225 : Tournoi #3953195027, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 05/12/2025 7:39:42 CET [05/12/2025 1:39:42 ET]
+Table '3953195027 1' 3-max Siège #2 est au bouton.
+Place 1: fratt5 (570 en jetons) 
+Place 2: aneruy88 (610 en jetons) 
+Place 3: psychoman59 (320 en jetons) 
+psychoman59 : met la petite blind. 20
+fratt5 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Jd]
+aneruy88 : suit. 40
+psychoman59 : suit. 20
+fratt5 : parole 
+*** FLOP *** [8s 6h 9s]
+psychoman59 : parole 
+fratt5 : parole 
+aneruy88 : parole 
+*** TOURNANT *** [8s 6h 9s] [7c]
+psychoman59 : parole 
+fratt5 : parole 
+aneruy88 : parole 
+*** RIVIÈRE *** [8s 6h 9s 7c] [Ac]
+psychoman59 : parole 
+fratt5 : mise. 80
+aneruy88 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à fratt5.
+fratt5 a remporté 120  lors du pot .
+fratt5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [8s 6h 9s 7c Ac]
+Siège 1 : fratt5 (grosse blind) a remporté (120)
+Siège 2 : aneruy88 (bouton) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°258774159876 : Tournoi #3953195027, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 05/12/2025 7:40:24 CET [05/12/2025 1:40:24 ET]
+Table '3953195027 1' 3-max Siège #3 est au bouton.
+Place 1: fratt5 (650 en jetons) 
+Place 2: aneruy88 (570 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+fratt5 : met la petite blind. 20
+aneruy88 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 8d]
+psychoman59 : passe. 
+fratt5 : relance. 80 à 120
+aneruy88 : suit. 80
+*** FLOP *** [8s 9c 2c]
+fratt5 : parole 
+aneruy88 : parole 
+*** TOURNANT *** [8s 9c 2c] [4d]
+fratt5 : parole 
+aneruy88 : mise. 40
+fratt5 : passe. 
+Personne n'a suivi. (40) sont retournés à aneruy88.
+aneruy88 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [8s 9c 2c 4d]
+Siège 1 : fratt5 (petite blind) s'est couché. sur le Tournant
+Siège 2 : aneruy88 (grosse blind) a remporté (240)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°258774161372 : Tournoi #3953195027, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 05/12/2025 7:40:49 CET [05/12/2025 1:40:49 ET]
+Table '3953195027 1' 3-max Siège #1 est au bouton.
+Place 1: fratt5 (530 en jetons) 
+Place 2: aneruy88 (690 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+aneruy88 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 8s]
+fratt5 : passe. 
+aneruy88 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [8d 9h 2h]
+aneruy88 : parole 
+psychoman59 : mise. 40
+aneruy88 : suit. 40
+*** TOURNANT *** [8d 9h 2h] [Kc]
+aneruy88 : parole 
+psychoman59 : mise. 80
+aneruy88 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [8d 9h 2h Kc]
+Siège 1 : fratt5 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : aneruy88 (petite blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (grosse blind) a remporté (160)
+
+
+
+Main PokerStars n°258774163647 : Tournoi #3953195027, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 05/12/2025 7:41:25 CET [05/12/2025 1:41:25 ET]
+Table '3953195027 1' 3-max Siège #2 est au bouton.
+Place 1: fratt5 (530 en jetons) 
+Place 2: aneruy88 (610 en jetons) 
+Place 3: psychoman59 (360 en jetons) 
+psychoman59 : met la petite blind. 30
+fratt5 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 4s]
+aneruy88 : suit. 60
+psychoman59 : passe. 
+fratt5 : parole 
+*** FLOP *** [3c 3h 6c]
+fratt5 : parole 
+aneruy88 : parole 
+*** TOURNANT *** [3c 3h 6c] [9s]
+fratt5 : mise. 120
+aneruy88 : suit. 120
+*** RIVIÈRE *** [3c 3h 6c 9s] [3s]
+fratt5 : mise. 120
+aneruy88 : passe. 
+Personne n'a suivi. (120) sont retournés à fratt5.
+fratt5 a remporté 390  lors du pot .
+fratt5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 390 | Commission 0 
+Tableau [3c 3h 6c 9s 3s]
+Siège 1 : fratt5 (grosse blind) a remporté (390)
+Siège 2 : aneruy88 (bouton) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258774165159 : Tournoi #3953195027, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 05/12/2025 7:41:49 CET [05/12/2025 1:41:49 ET]
+Table '3953195027 1' 3-max Siège #3 est au bouton.
+Place 1: fratt5 (740 en jetons) 
+Place 2: aneruy88 (430 en jetons) 
+Place 3: psychoman59 (330 en jetons) 
+fratt5 : met la petite blind. 30
+aneruy88 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 6c]
+psychoman59 : passe. 
+fratt5 : suit. 30
+aneruy88 : parole 
+*** FLOP *** [3s 8h 9d]
+fratt5 : parole 
+aneruy88 : parole 
+*** TOURNANT *** [3s 8h 9d] [Qd]
+fratt5 : parole 
+aneruy88 : mise. 60
+fratt5 : passe. 
+Personne n'a suivi. (60) sont retournés à aneruy88.
+aneruy88 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [3s 8h 9d Qd]
+Siège 1 : fratt5 (petite blind) s'est couché. sur le Tournant
+Siège 2 : aneruy88 (grosse blind) a remporté (120)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°258774166555 : Tournoi #3953195027, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 05/12/2025 7:42:11 CET [05/12/2025 1:42:11 ET]
+Table '3953195027 1' 3-max Siège #1 est au bouton.
+Place 1: fratt5 (680 en jetons) 
+Place 2: aneruy88 (490 en jetons) 
+Place 3: psychoman59 (330 en jetons) 
+aneruy88 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 8s]
+fratt5 : relance. 180 à 240
+aneruy88 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (180) sont retournés à fratt5.
+fratt5 a remporté 150  lors du pot .
+fratt5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Siège 1 : fratt5 (bouton) a remporté (150)
+Siège 2 : aneruy88 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258774167260 : Tournoi #3953195027, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 05/12/2025 7:42:22 CET [05/12/2025 1:42:22 ET]
+Table '3953195027 1' 3-max Siège #2 est au bouton.
+Place 1: fratt5 (770 en jetons) 
+Place 2: aneruy88 (460 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+psychoman59 : met la petite blind. 30
+fratt5 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 7c]
+aneruy88 : suit. 60
+psychoman59 : passe. 
+fratt5 : parole 
+*** FLOP *** [8s Jc 8h]
+fratt5 : parole 
+aneruy88 : parole 
+*** TOURNANT *** [8s Jc 8h] [2c]
+fratt5 : parole 
+aneruy88 : mise. 60
+fratt5 : passe. 
+Personne n'a suivi. (60) sont retournés à aneruy88.
+aneruy88 a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Tableau [8s Jc 8h 2c]
+Siège 1 : fratt5 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : aneruy88 (bouton) a remporté (150)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258774168367 : Tournoi #3953195027, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 05/12/2025 7:42:40 CET [05/12/2025 1:42:40 ET]
+Table '3953195027 1' 3-max Siège #3 est au bouton.
+Place 1: fratt5 (710 en jetons) 
+Place 2: aneruy88 (550 en jetons) 
+Place 3: psychoman59 (240 en jetons) 
+fratt5 : met la petite blind. 30
+aneruy88 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 4c]
+psychoman59 : relance. 180 à 240 et est all-in.
+fratt5 : passe. 
+aneruy88 : passe. 
+Personne n'a suivi. (180) sont retournés à psychoman59.
+psychoman59 a remporté 150  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Siège 1 : fratt5 (petite blind) s'est couché. avant Flop
+Siège 2 : aneruy88 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a remporté (150)
+
+
+
+Main PokerStars n°258774168935 : Tournoi #3953195027, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 05/12/2025 7:42:49 CET [05/12/2025 1:42:49 ET]
+Table '3953195027 1' 3-max Siège #1 est au bouton.
+Place 1: fratt5 (680 en jetons) 
+Place 2: aneruy88 (490 en jetons) 
+Place 3: psychoman59 (330 en jetons) 
+aneruy88 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 4d]
+fratt5 : relance. 240 à 300
+aneruy88 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (240) sont retournés à fratt5.
+fratt5 a remporté 150  lors du pot .
+fratt5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Siège 1 : fratt5 (bouton) a remporté (150)
+Siège 2 : aneruy88 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258774169809 : Tournoi #3953195027, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 05/12/2025 7:43:03 CET [05/12/2025 1:43:03 ET]
+Table '3953195027 1' 3-max Siège #2 est au bouton.
+Place 1: fratt5 (770 en jetons) 
+Place 2: aneruy88 (460 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+psychoman59 : met la petite blind. 40
+fratt5 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 9d]
+aneruy88 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à fratt5.
+fratt5 a remporté 80  lors du pot .
+fratt5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : fratt5 (grosse blind) a remporté (80)
+Siège 2 : aneruy88 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258774170149 : Tournoi #3953195027, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 05/12/2025 7:43:08 CET [05/12/2025 1:43:08 ET]
+Table '3953195027 1' 3-max Siège #3 est au bouton.
+Place 1: fratt5 (810 en jetons) 
+Place 2: aneruy88 (460 en jetons) 
+Place 3: psychoman59 (230 en jetons) 
+fratt5 : met la petite blind. 40
+aneruy88 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 9d]
+psychoman59 : relance. 150 à 230 et est all-in.
+fratt5 : suit. 190
+aneruy88 : suit. 150
+*** FLOP *** [Kh 4s 3h]
+fratt5 : parole 
+aneruy88 : parole 
+*** TOURNANT *** [Kh 4s 3h] [8h]
+fratt5 : parole 
+aneruy88 : parole 
+*** RIVIÈRE *** [Kh 4s 3h 8h] [7h]
+fratt5 : parole 
+aneruy88 : parole 
+*** ABATTAGE ***
+fratt5 : montre [Ac 5c] (Hauteur As)
+aneruy88 : montre [As Tc] (Hauteur As - Roi+Dix kicker)
+psychoman59 : cache la main perdante. 
+aneruy88 a remporté 690  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 690 | Commission 0 
+Tableau [Kh 4s 3h 8h 7h]
+Siège 1 : fratt5 (petite blind) a montré [Ac 5c] et a perdu avec Hauteur As
+Siège 2 : aneruy88 (grosse blind) a montré [As Tc] et a gagné (690) avec Hauteur As
+Siège 3 : psychoman59 (bouton) a caché la main perdante. [Qd 9d]
+
+
+

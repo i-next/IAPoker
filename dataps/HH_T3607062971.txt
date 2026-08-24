@@ -1,0 +1,192 @@
+﻿Main PokerStars n°244384061896 : Tournoi #3607062971, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 21/06/2023 7:05:52 CET [21/06/2023 1:05:52 ET]
+Table '3607062971 1' 3-max Siège #1 est au bouton.
+Place 1: Ddrikce78120 (300 en jetons) 
+Place 2: floj17 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+floj17 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 7d]
+Ddrikce78120 : passe. 
+floj17 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Ts 3h Jc]
+floj17 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Ts 3h Jc] [5c]
+floj17 : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à floj17.
+floj17 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Ts 3h Jc 5c]
+Siège 1 : Ddrikce78120 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : floj17 (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°244384063781 : Tournoi #3607062971, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 21/06/2023 7:06:11 CET [21/06/2023 1:06:11 ET]
+Table '3607062971 1' 3-max Siège #2 est au bouton.
+Place 1: Ddrikce78120 (300 en jetons) 
+Place 2: floj17 (320 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+Ddrikce78120 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 6d]
+floj17 : suit. 20
+psychoman59 : suit. 10
+Ddrikce78120 : parole 
+*** FLOP *** [4h 4c 6h]
+psychoman59 : mise. 60
+Ddrikce78120 : passe. 
+floj17 : relance. 240 à 300 et est all-in.
+psychoman59 : suit. 200 et est all-in.
+Personne n'a suivi. (40) sont retournés à floj17.
+*** TOURNANT *** [4h 4c 6h] [5s]
+*** RIVIÈRE *** [4h 4c 6h 5s] [8c]
+*** ABATTAGE ***
+psychoman59 : montre [Kc 6d] (double paire, Six et Quatre)
+floj17 : montre [Ah 9h] (une paire de Quatre)
+psychoman59 a remporté 580  lors du pot .
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [4h 4c 6h 5s 8c]
+Siège 1 : Ddrikce78120 (grosse blind) s'est couché. sur le Flop
+Siège 2 : floj17 (bouton) a montré [Ah 9h] et a perdu avec une paire de Quatre
+Siège 3 : psychoman59 (petite blind) a montré [Kc 6d] et a gagné (580) avec double paire, Six et Quatre
+
+
+
+Main PokerStars n°244384066386 : Tournoi #3607062971, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 21/06/2023 7:06:38 CET [21/06/2023 1:06:38 ET]
+Table '3607062971 1' 3-max Siège #3 est au bouton.
+Place 1: Ddrikce78120 (280 en jetons) 
+Place 2: floj17 (40 en jetons) 
+Place 3: psychoman59 (580 en jetons) 
+Ddrikce78120 : met la petite blind. 10
+floj17 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 5h]
+psychoman59 : passe. 
+Ddrikce78120 : passe. 
+Personne n'a suivi. (10) sont retournés à floj17.
+floj17 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : Ddrikce78120 (petite blind) s'est couché. avant Flop
+Siège 2 : floj17 (grosse blind) a remporté (20)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°244384067117 : Tournoi #3607062971, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 21/06/2023 7:06:46 CET [21/06/2023 1:06:46 ET]
+Table '3607062971 1' 3-max Siège #1 est au bouton.
+Place 1: Ddrikce78120 (270 en jetons) 
+Place 2: floj17 (50 en jetons) 
+Place 3: psychoman59 (580 en jetons) 
+floj17 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 7s]
+Ddrikce78120 : passe. 
+floj17 : relance. 30 à 50 et est all-in.
+psychoman59 : suit. 30
+*** FLOP *** [Ks As 8d]
+*** TOURNANT *** [Ks As 8d] [7h]
+*** RIVIÈRE *** [Ks As 8d 7h] [5s]
+*** ABATTAGE ***
+floj17 : montre [Js 6d] (Hauteur As)
+psychoman59 : montre [Ah 7s] (double paire, As et Sept)
+psychoman59 a remporté 100  lors du pot .
+floj17 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [Ks As 8d 7h 5s]
+Siège 1 : Ddrikce78120 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : floj17 (petite blind) a montré [Js 6d] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (grosse blind) a montré [Ah 7s] et a gagné (100) avec double paire, As et Sept
+
+
+
+Main PokerStars n°244384068883 : Tournoi #3607062971, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 21/06/2023 7:07:04 CET [21/06/2023 1:07:04 ET]
+Table '3607062971 1' 3-max Siège #3 est au bouton.
+Place 1: Ddrikce78120 (270 en jetons) 
+Place 3: psychoman59 (630 en jetons) 
+psychoman59 : met la petite blind. 15
+Ddrikce78120 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Kd]
+psychoman59 : relance. 600 à 630 et est all-in.
+Ddrikce78120 : suit. 240 et est all-in.
+Personne n'a suivi. (360) sont retournés à psychoman59.
+*** FLOP *** [As 7c 5h]
+*** TOURNANT *** [As 7c 5h] [5d]
+*** RIVIÈRE *** [As 7c 5h 5d] [9d]
+*** ABATTAGE ***
+Ddrikce78120 : montre [7s 7d] (un full, full aux Sept par les Cinq)
+psychoman59 : montre [Qh Kd] (une paire de Cinq)
+Ddrikce78120 a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [As 7c 5h 5d 9d]
+Siège 1 : Ddrikce78120 (grosse blind) a montré [7s 7d] et a gagné (540) avec un full, full aux Sept par les Cinq
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Qh Kd] et a perdu avec une paire de Cinq
+
+
+
+Main PokerStars n°244384071662 : Tournoi #3607062971, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 21/06/2023 7:07:33 CET [21/06/2023 1:07:33 ET]
+Table '3607062971 1' 3-max Siège #1 est au bouton.
+Place 1: Ddrikce78120 (540 en jetons) 
+Place 3: psychoman59 (360 en jetons) 
+Ddrikce78120 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 7s]
+Ddrikce78120 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [4d 5h 2d]
+psychoman59 : parole 
+Ddrikce78120 : parole 
+*** TOURNANT *** [4d 5h 2d] [As]
+psychoman59 : parole 
+Ddrikce78120 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Ddrikce78120.
+Ddrikce78120 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [4d 5h 2d As]
+Siège 1 : Ddrikce78120 (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°244384074305 : Tournoi #3607062971, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 21/06/2023 7:08:00 CET [21/06/2023 1:08:00 ET]
+Table '3607062971 1' 3-max Siège #3 est au bouton.
+Place 1: Ddrikce78120 (570 en jetons) 
+Place 3: psychoman59 (330 en jetons) 
+psychoman59 : met la petite blind. 20
+Ddrikce78120 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 5s]
+psychoman59 : relance. 290 à 330 et est all-in.
+Ddrikce78120 : suit. 290
+*** FLOP *** [Qs 9d Tc]
+*** TOURNANT *** [Qs 9d Tc] [9c]
+*** RIVIÈRE *** [Qs 9d Tc 9c] [Ah]
+*** ABATTAGE ***
+Ddrikce78120 : montre [Ks Kh] (double paire, Rois et Neuf)
+psychoman59 : montre [Qc 5s] (double paire, Dames et Neuf)
+Ddrikce78120 a remporté 660  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+Ddrikce78120 remporte le tournoi et reçoit 4.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 660 | Commission 0 
+Tableau [Qs 9d Tc 9c Ah]
+Siège 1 : Ddrikce78120 (grosse blind) a montré [Ks Kh] et a gagné (660) avec double paire, Rois et Neuf
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Qc 5s] et a perdu avec double paire, Dames et Neuf
+
+
+

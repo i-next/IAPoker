@@ -1,0 +1,299 @@
+﻿Main PokerStars n°261244601271 : Tournoi #4011215883, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/06/2026 9:51:51 CET [25/06/2026 3:51:51 ET]
+Table '4011215883 1' 3-max Siège #1 est au bouton.
+Place 1: KCWhaynn (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: QUIB76 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+QUIB76 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Qc]
+KCWhaynn : relance. 40 à 60
+psychoman59 : passe. 
+QUIB76 : passe. 
+Personne n'a suivi. (40) sont retournés à KCWhaynn.
+KCWhaynn a remporté 50  lors du pot .
+KCWhaynn : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : KCWhaynn (bouton) a remporté (50)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : QUIB76 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261244601651 : Tournoi #4011215883, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/06/2026 9:51:58 CET [25/06/2026 3:51:58 ET]
+Table '4011215883 1' 3-max Siège #2 est au bouton.
+Place 1: KCWhaynn (530 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: QUIB76 (480 en jetons) 
+QUIB76 : met la petite blind. 10
+KCWhaynn : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 5h]
+psychoman59 : passe. 
+QUIB76 : suit. 10
+KCWhaynn : parole 
+*** FLOP *** [6c 6s 3d]
+QUIB76 : parole 
+KCWhaynn : parole 
+*** TOURNANT *** [6c 6s 3d] [Qs]
+QUIB76 : parole 
+KCWhaynn : parole 
+*** RIVIÈRE *** [6c 6s 3d Qs] [Kc]
+QUIB76 : parole 
+KCWhaynn : mise. 20
+QUIB76 : passe. 
+Personne n'a suivi. (20) sont retournés à KCWhaynn.
+KCWhaynn a remporté 40  lors du pot .
+KCWhaynn : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [6c 6s 3d Qs Kc]
+Siège 1 : KCWhaynn (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : QUIB76 (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°261244602602 : Tournoi #4011215883, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/06/2026 9:52:16 CET [25/06/2026 3:52:16 ET]
+Table '4011215883 1' 3-max Siège #3 est au bouton.
+Place 1: KCWhaynn (550 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: QUIB76 (460 en jetons) 
+KCWhaynn : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 9s]
+QUIB76 : suit. 20
+KCWhaynn : suit. 10
+psychoman59 : parole 
+*** FLOP *** [3c 6c Th]
+KCWhaynn : parole 
+psychoman59 : parole 
+QUIB76 : parole 
+*** TOURNANT *** [3c 6c Th] [4d]
+KCWhaynn : parole 
+psychoman59 : parole 
+QUIB76 : parole 
+*** RIVIÈRE *** [3c 6c Th 4d] [3s]
+KCWhaynn : parole 
+psychoman59 : parole 
+QUIB76 : parole 
+*** ABATTAGE ***
+KCWhaynn : montre [Js 2d] (une paire de Trois)
+psychoman59 : montre [Ah 9s] (une paire de Trois - As kicker)
+QUIB76 : cache la main perdante. 
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [3c 6c Th 4d 3s]
+Siège 1 : KCWhaynn (petite blind) a montré [Js 2d] et a perdu avec une paire de Trois
+Siège 2 : psychoman59 (grosse blind) a montré [Ah 9s] et a gagné (60) avec une paire de Trois
+Siège 3 : QUIB76 (bouton) a caché la main perdante. [7c 8d]
+
+
+
+Main PokerStars n°261244603951 : Tournoi #4011215883, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/06/2026 9:52:41 CET [25/06/2026 3:52:41 ET]
+Table '4011215883 1' 3-max Siège #1 est au bouton.
+Place 1: KCWhaynn (530 en jetons) 
+Place 2: psychoman59 (530 en jetons) 
+Place 3: QUIB76 (440 en jetons) 
+psychoman59 : met la petite blind. 10
+QUIB76 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 7s]
+KCWhaynn : passe. 
+psychoman59 : suit. 10
+QUIB76 : parole 
+*** FLOP *** [Tc Th 5c]
+psychoman59 : parole 
+QUIB76 : parole 
+*** TOURNANT *** [Tc Th 5c] [Jc]
+psychoman59 : parole 
+QUIB76 : parole 
+*** RIVIÈRE *** [Tc Th 5c Jc] [Qs]
+psychoman59 : mise. 20
+QUIB76 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Tc Th 5c Jc Qs]
+Siège 1 : KCWhaynn (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (40)
+Siège 3 : QUIB76 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°261244605097 : Tournoi #4011215883, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/06/2026 9:53:03 CET [25/06/2026 3:53:03 ET]
+Table '4011215883 1' 3-max Siège #2 est au bouton.
+Place 1: KCWhaynn (530 en jetons) 
+Place 2: psychoman59 (550 en jetons) 
+Place 3: QUIB76 (420 en jetons) 
+QUIB76 : met la petite blind. 10
+KCWhaynn : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s As]
+psychoman59 : suit. 20
+QUIB76 : suit. 10
+KCWhaynn : parole 
+*** FLOP *** [5s Td Qs]
+QUIB76 : parole 
+KCWhaynn : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5s Td Qs] [Jd]
+QUIB76 : parole 
+KCWhaynn : mise. 30
+psychoman59 : suit. 30
+QUIB76 : suit. 30
+*** RIVIÈRE *** [5s Td Qs Jd] [7h]
+QUIB76 : parole 
+KCWhaynn : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+QUIB76 : montre [3d Js] (une paire de Valets)
+KCWhaynn : cache la main perdante. 
+psychoman59 : cache la main perdante. 
+QUIB76 a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Tableau [5s Td Qs Jd 7h]
+Siège 1 : KCWhaynn (grosse blind) a caché la main perdante. [7c 9s]
+Siège 2 : psychoman59 (bouton) a caché la main perdante. [6s As]
+Siège 3 : QUIB76 (petite blind) a montré [3d Js] et a gagné (150) avec une paire de Valets
+
+
+
+Main PokerStars n°261244606868 : Tournoi #4011215883, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/06/2026 9:53:35 CET [25/06/2026 3:53:35 ET]
+Table '4011215883 1' 3-max Siège #3 est au bouton.
+Place 1: KCWhaynn (480 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: QUIB76 (520 en jetons) 
+KCWhaynn : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 9c]
+QUIB76 : passe. 
+KCWhaynn : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Kd Td 5s]
+KCWhaynn : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Kd Td 5s] [3d]
+KCWhaynn : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Kd Td 5s 3d] [8c]
+KCWhaynn : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à KCWhaynn.
+KCWhaynn a remporté 40  lors du pot .
+KCWhaynn : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Kd Td 5s 3d 8c]
+Siège 1 : KCWhaynn (petite blind) a remporté (40)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : QUIB76 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261244608266 : Tournoi #4011215883, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 25/06/2026 9:54:02 CET [25/06/2026 3:54:02 ET]
+Table '4011215883 1' 3-max Siège #1 est au bouton.
+Place 1: KCWhaynn (500 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+Place 3: QUIB76 (520 en jetons) 
+psychoman59 : met la petite blind. 15
+QUIB76 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Qs]
+KCWhaynn : passe. 
+psychoman59 : suit. 15
+QUIB76 : parole 
+*** FLOP *** [4s Tc 3c]
+psychoman59 : parole 
+QUIB76 : parole 
+*** TOURNANT *** [4s Tc 3c] [6s]
+psychoman59 : parole 
+QUIB76 : parole 
+*** RIVIÈRE *** [4s Tc 3c 6s] [5h]
+psychoman59 : parole 
+QUIB76 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à QUIB76.
+QUIB76 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [4s Tc 3c 6s 5h]
+Siège 1 : KCWhaynn (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Rivière
+Siège 3 : QUIB76 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°261244609348 : Tournoi #4011215883, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 25/06/2026 9:54:21 CET [25/06/2026 3:54:21 ET]
+Table '4011215883 1' 3-max Siège #2 est au bouton.
+Place 1: KCWhaynn (500 en jetons) 
+Place 2: psychoman59 (450 en jetons) 
+Place 3: QUIB76 (550 en jetons) 
+QUIB76 : met la petite blind. 15
+KCWhaynn : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Qc]
+psychoman59 : relance. 75 à 105
+QUIB76 : passe. 
+KCWhaynn : suit. 75
+*** FLOP *** [9h Jd 8s]
+KCWhaynn : parole 
+psychoman59 : mise. 345 et est all-in.
+KCWhaynn : suit. 345
+*** TOURNANT *** [9h Jd 8s] [3s]
+*** RIVIÈRE *** [9h Jd 8s 3s] [Ah]
+*** ABATTAGE ***
+KCWhaynn : montre [Qh Kh] (Hauteur As)
+psychoman59 : montre [Qd Qc] (une paire de Dames)
+psychoman59 a remporté 915  lors du pot .
+*** SYNTHÈSE ***
+Pot total 915 | Commission 0 
+Tableau [9h Jd 8s 3s Ah]
+Siège 1 : KCWhaynn (grosse blind) a montré [Qh Kh] et a perdu avec Hauteur As
+Siège 2 : psychoman59 (bouton) a montré [Qd Qc] et a gagné (915) avec une paire de Dames
+Siège 3 : QUIB76 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261244610491 : Tournoi #4011215883, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 25/06/2026 9:54:43 CET [25/06/2026 3:54:43 ET]
+Table '4011215883 1' 3-max Siège #3 est au bouton.
+Place 1: KCWhaynn (50 en jetons) 
+Place 2: psychoman59 (915 en jetons) 
+Place 3: QUIB76 (535 en jetons) 
+KCWhaynn : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Ac]
+QUIB76 : suit. 30
+KCWhaynn : relance. 20 à 50 et est all-in.
+psychoman59 : relance. 865 à 915 et est all-in.
+QUIB76 : suit. 505 et est all-in.
+Personne n'a suivi. (380) sont retournés à psychoman59.
+*** FLOP *** [3d 7s 5c]
+*** TOURNANT *** [3d 7s 5c] [8h]
+*** RIVIÈRE *** [3d 7s 5c 8h] [Ad]
+*** ABATTAGE ***
+psychoman59 : montre [Qc Ac] (une paire de As)
+QUIB76 : montre [Qs Ts] (Hauteur As)
+psychoman59 a remporté 970  parallèle lors du pot .
+KCWhaynn : montre [2s 6d] (Hauteur As)
+psychoman59 a remporté 150  principal lors du pot .
+QUIB76 a fini le tournoi en 2e position.
+KCWhaynn a fini le tournoi en 3e position.
+psychoman59 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 1120 Principal pot 150. Parallèle pot 970. | Commission 0 
+Tableau [3d 7s 5c 8h Ad]
+Siège 1 : KCWhaynn (petite blind) a montré [2s 6d] et a perdu avec Hauteur As
+Siège 2 : psychoman59 (grosse blind) a montré [Qc Ac] et a gagné (1120) avec une paire de As
+Siège 3 : QUIB76 (bouton) a montré [Qs Ts] et a perdu avec Hauteur As
+
+
+

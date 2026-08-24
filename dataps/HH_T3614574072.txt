@@ -1,0 +1,483 @@
+﻿Main PokerStars n°244709255902 : Tournoi #3614574072, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 09/07/2023 7:58:57 CET [09/07/2023 1:58:57 ET]
+Table '3614574072 1' 3-max Siège #1 est au bouton.
+Place 1: kalimadu (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: Javima56 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+Javima56 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 6s]
+kalimadu : relance. 20 à 40
+psychoman59 : passe. 
+Javima56 : suit. 20
+*** FLOP *** [3d 4h 7h]
+Javima56 : mise. 45
+kalimadu : suit. 45
+*** TOURNANT *** [3d 4h 7h] [Qc]
+Javima56 : mise. 54
+kalimadu : relance. 161 à 215 et est all-in.
+Javima56 : passe. 
+Personne n'a suivi. (161) sont retournés à kalimadu.
+kalimadu a remporté 288  lors du pot .
+kalimadu : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 288 | Commission 0 
+Tableau [3d 4h 7h Qc]
+Siège 1 : kalimadu (bouton) a remporté (288)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Javima56 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°244709258353 : Tournoi #3614574072, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 09/07/2023 7:59:23 CET [09/07/2023 1:59:23 ET]
+Table '3614574072 1' 3-max Siège #2 est au bouton.
+Place 1: kalimadu (449 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: Javima56 (161 en jetons) 
+Javima56 : met la petite blind. 10
+kalimadu : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Ac]
+psychoman59 : suit. 20
+Javima56 : passe. 
+kalimadu : parole 
+*** FLOP *** [6h 7d 7h]
+kalimadu : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6h 7d 7h] [9c]
+kalimadu : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [6h 7d 7h 9c] [Ad]
+kalimadu : parole 
+psychoman59 : mise. 50
+kalimadu : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [6h 7d 7h 9c Ad]
+Siège 1 : kalimadu (grosse blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (bouton) a remporté (50)
+Siège 3 : Javima56 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244709260573 : Tournoi #3614574072, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 09/07/2023 7:59:48 CET [09/07/2023 1:59:48 ET]
+Table '3614574072 1' 3-max Siège #3 est au bouton.
+Place 1: kalimadu (429 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: Javima56 (151 en jetons) 
+kalimadu : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 9d]
+Javima56 : passe. 
+kalimadu : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : kalimadu (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (20)
+Siège 3 : Javima56 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°244709261180 : Tournoi #3614574072, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 09/07/2023 7:59:54 CET [09/07/2023 1:59:54 ET]
+Table '3614574072 1' 3-max Siège #1 est au bouton.
+Place 1: kalimadu (419 en jetons) 
+Place 2: psychoman59 (330 en jetons) 
+Place 3: Javima56 (151 en jetons) 
+psychoman59 : met la petite blind. 10
+Javima56 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 6s]
+kalimadu : relance. 40 à 60
+psychoman59 : passe. 
+Javima56 : relance. 91 à 151 et est all-in.
+kalimadu : suit. 91
+*** FLOP *** [Td 9s Jc]
+*** TOURNANT *** [Td 9s Jc] [Js]
+*** RIVIÈRE *** [Td 9s Jc Js] [3c]
+*** ABATTAGE ***
+Javima56 : montre [9h 9c] (un full, full aux Neuf par les Valets)
+kalimadu : montre [Qh Jh] (un brelan de Valets)
+Javima56 a remporté 312  lors du pot .
+*** SYNTHÈSE ***
+Pot total 312 | Commission 0 
+Tableau [Td 9s Jc Js 3c]
+Siège 1 : kalimadu (bouton) a montré [Qh Jh] et a perdu avec un brelan de Valets
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Javima56 (grosse blind) a montré [9h 9c] et a gagné (312) avec un full, full aux Neuf par les Valets
+
+
+
+Main PokerStars n°244709263916 : Tournoi #3614574072, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 09/07/2023 8:00:24 CET [09/07/2023 2:00:24 ET]
+Table '3614574072 1' 3-max Siège #2 est au bouton.
+Place 1: kalimadu (268 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: Javima56 (312 en jetons) 
+Javima56 : met la petite blind. 15
+kalimadu : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 5d]
+psychoman59 : passe. 
+Javima56 : relance. 30 à 60
+kalimadu : suit. 30
+*** FLOP *** [Qs Kc 6c]
+Javima56 : parole 
+kalimadu : parole 
+*** TOURNANT *** [Qs Kc 6c] [6s]
+Javima56 : mise. 60
+kalimadu : passe. 
+Personne n'a suivi. (60) sont retournés à Javima56.
+Javima56 a remporté 120  lors du pot .
+Javima56 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Qs Kc 6c 6s]
+Siège 1 : kalimadu (grosse blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Javima56 (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°244709266730 : Tournoi #3614574072, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 09/07/2023 8:00:54 CET [09/07/2023 2:00:54 ET]
+Table '3614574072 1' 3-max Siège #3 est au bouton.
+Place 1: kalimadu (208 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: Javima56 (372 en jetons) 
+kalimadu : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Td]
+Javima56 : passe. 
+kalimadu : relance. 178 à 208 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (178) sont retournés à kalimadu.
+kalimadu a remporté 60  lors du pot .
+kalimadu : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : kalimadu (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : Javima56 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°244709267968 : Tournoi #3614574072, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 09/07/2023 8:01:07 CET [09/07/2023 2:01:07 ET]
+Table '3614574072 1' 3-max Siège #1 est au bouton.
+Place 1: kalimadu (238 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: Javima56 (372 en jetons) 
+psychoman59 : met la petite blind. 20
+Javima56 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 2s]
+kalimadu : relance. 198 à 238 et est all-in.
+psychoman59 : suit. 218
+Javima56 : relance. 134 à 372 et est all-in.
+psychoman59 : suit. 52 et est all-in.
+Personne n'a suivi. (82) sont retournés à Javima56.
+*** FLOP *** [8d 5h 5d]
+*** TOURNANT *** [8d 5h 5d] [Ah]
+*** RIVIÈRE *** [8d 5h 5d Ah] [4h]
+*** ABATTAGE ***
+psychoman59 : montre [2h 2s] (double paire, Cinq et Deux)
+Javima56 : montre [Ts Qc] (une paire de Cinq)
+psychoman59 a remporté 104  parallèle lors du pot .
+kalimadu : montre [Kc 6d] (une paire de Cinq)
+psychoman59 a remporté 714  principal lors du pot .
+kalimadu a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 818 Principal pot 714. Parallèle pot 104. | Commission 0 
+Tableau [8d 5h 5d Ah 4h]
+Siège 1 : kalimadu (bouton) a montré [Kc 6d] et a perdu avec une paire de Cinq
+Siège 2 : psychoman59 (petite blind) a montré [2h 2s] et a gagné (818) avec double paire, Cinq et Deux
+Siège 3 : Javima56 (grosse blind) a montré [Ts Qc] et a perdu avec une paire de Cinq
+
+
+
+Main PokerStars n°244709270753 : Tournoi #3614574072, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 09/07/2023 8:01:33 CET [09/07/2023 2:01:33 ET]
+Table '3614574072 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (818 en jetons) 
+Place 3: Javima56 (82 en jetons) 
+Javima56 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 7s]
+Javima56 : relance. 42 à 82 et est all-in.
+psychoman59 : suit. 42
+*** FLOP *** [9h 8h 6d]
+*** TOURNANT *** [9h 8h 6d] [6s]
+*** RIVIÈRE *** [9h 8h 6d 6s] [9d]
+*** ABATTAGE ***
+psychoman59 : montre [Qd 7s] (double paire, Neuf et Six)
+Javima56 : montre [9s 9c] (un carré de Neuf)
+Javima56 a remporté 164  lors du pot .
+*** SYNTHÈSE ***
+Pot total 164 | Commission 0 
+Tableau [9h 8h 6d 6s 9d]
+Siège 2 : psychoman59 (grosse blind) a montré [Qd 7s] et a perdu avec double paire, Neuf et Six
+Siège 3 : Javima56 (bouton) (petite blind) a montré [9s 9c] et a gagné (164) avec un carré de Neuf
+
+
+
+Main PokerStars n°244709272354 : Tournoi #3614574072, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 09/07/2023 8:01:49 CET [09/07/2023 2:01:49 ET]
+Table '3614574072 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (736 en jetons) 
+Place 3: Javima56 (164 en jetons) 
+psychoman59 : met la petite blind. 20
+Javima56 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 7c]
+psychoman59 : relance. 80 à 120
+Javima56 : suit. 80
+*** FLOP *** [3h 5h 6h]
+Javima56 : mise. 44 et est all-in.
+psychoman59 : suit. 44
+*** TOURNANT *** [3h 5h 6h] [8c]
+*** RIVIÈRE *** [3h 5h 6h 8c] [Ac]
+*** ABATTAGE ***
+Javima56 : montre [4d 5d] (une paire de Cinq)
+psychoman59 : montre [Jh 7c] (Hauteur As)
+Javima56 a remporté 328  lors du pot .
+*** SYNTHÈSE ***
+Pot total 328 | Commission 0 
+Tableau [3h 5h 6h 8c Ac]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Jh 7c] et a perdu avec Hauteur As
+Siège 3 : Javima56 (grosse blind) a montré [4d 5d] et a gagné (328) avec une paire de Cinq
+
+
+
+Main PokerStars n°244709274430 : Tournoi #3614574072, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 09/07/2023 8:02:10 CET [09/07/2023 2:02:10 ET]
+Table '3614574072 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (572 en jetons) 
+Place 3: Javima56 (328 en jetons) 
+Javima56 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Th]
+Javima56 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : Javima56 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244709274966 : Tournoi #3614574072, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 09/07/2023 8:02:15 CET [09/07/2023 2:02:15 ET]
+Table '3614574072 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (602 en jetons) 
+Place 3: Javima56 (298 en jetons) 
+psychoman59 : met la petite blind. 30
+Javima56 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Ah]
+psychoman59 : relance. 542 à 602 et est all-in.
+Javima56 : passe. 
+Personne n'a suivi. (542) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 3 : Javima56 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244709275693 : Tournoi #3614574072, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 09/07/2023 8:02:22 CET [09/07/2023 2:02:22 ET]
+Table '3614574072 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (662 en jetons) 
+Place 3: Javima56 (238 en jetons) 
+Javima56 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 6c]
+Javima56 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : Javima56 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244709276172 : Tournoi #3614574072, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 09/07/2023 8:02:27 CET [09/07/2023 2:02:27 ET]
+Table '3614574072 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (692 en jetons) 
+Place 3: Javima56 (208 en jetons) 
+psychoman59 : met la petite blind. 30
+Javima56 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Ac]
+psychoman59 : relance. 632 à 692 et est all-in.
+Javima56 : passe. 
+Personne n'a suivi. (632) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 3 : Javima56 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244709277052 : Tournoi #3614574072, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 09/07/2023 8:02:36 CET [09/07/2023 2:02:36 ET]
+Table '3614574072 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (752 en jetons) 
+Place 3: Javima56 (148 en jetons) 
+Javima56 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 4s]
+Javima56 : suit. 30
+psychoman59 : relance. 692 à 752 et est all-in.
+Javima56 : suit. 88 et est all-in.
+Personne n'a suivi. (604) sont retournés à psychoman59.
+*** FLOP *** [Tc 8c Ks]
+*** TOURNANT *** [Tc 8c Ks] [7d]
+*** RIVIÈRE *** [Tc 8c Ks 7d] [Ah]
+*** ABATTAGE ***
+psychoman59 : montre [4c 4s] (une paire de Quatre)
+Javima56 : montre [9c Jd] (une suite, Sept à Valet)
+Javima56 a remporté 296  lors du pot .
+*** SYNTHÈSE ***
+Pot total 296 | Commission 0 
+Tableau [Tc 8c Ks 7d Ah]
+Siège 2 : psychoman59 (grosse blind) a montré [4c 4s] et a perdu avec une paire de Quatre
+Siège 3 : Javima56 (bouton) (petite blind) a montré [9c Jd] et a gagné (296) avec une suite, Sept à Valet
+
+
+
+Main PokerStars n°244709278554 : Tournoi #3614574072, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 09/07/2023 8:02:51 CET [09/07/2023 2:02:51 ET]
+Table '3614574072 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (604 en jetons) 
+Place 3: Javima56 (296 en jetons) 
+psychoman59 : met la petite blind. 30
+Javima56 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 6d]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Javima56.
+Javima56 a remporté 60  lors du pot .
+Javima56 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Javima56 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°244709279088 : Tournoi #3614574072, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 09/07/2023 8:02:56 CET [09/07/2023 2:02:56 ET]
+Table '3614574072 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (574 en jetons) 
+Place 3: Javima56 (326 en jetons) 
+Javima56 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Kd]
+Javima56 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : Javima56 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244709279893 : Tournoi #3614574072, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 09/07/2023 8:03:04 CET [09/07/2023 2:03:04 ET]
+Table '3614574072 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (604 en jetons) 
+Place 3: Javima56 (296 en jetons) 
+psychoman59 : met la petite blind. 40
+Javima56 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 8d]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Javima56.
+Javima56 a remporté 80  lors du pot .
+Javima56 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Javima56 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°244709280433 : Tournoi #3614574072, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 09/07/2023 8:03:09 CET [09/07/2023 2:03:09 ET]
+Table '3614574072 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (564 en jetons) 
+Place 3: Javima56 (336 en jetons) 
+Javima56 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Ks]
+Javima56 : relance. 80 à 160
+psychoman59 : relance. 120 à 280
+Javima56 : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 320  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (320)
+Siège 3 : Javima56 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244709281848 : Tournoi #3614574072, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 09/07/2023 8:03:24 CET [09/07/2023 2:03:24 ET]
+Table '3614574072 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (724 en jetons) 
+Place 3: Javima56 (176 en jetons) 
+psychoman59 : met la petite blind. 40
+Javima56 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 4h]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Javima56.
+Javima56 a remporté 80  lors du pot .
+Javima56 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Javima56 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°244709282334 : Tournoi #3614574072, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 09/07/2023 8:03:29 CET [09/07/2023 2:03:29 ET]
+Table '3614574072 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (684 en jetons) 
+Place 3: Javima56 (216 en jetons) 
+Javima56 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Kh]
+Javima56 : relance. 136 à 216 et est all-in.
+psychoman59 : suit. 136
+*** FLOP *** [7s 6s 4c]
+*** TOURNANT *** [7s 6s 4c] [6h]
+*** RIVIÈRE *** [7s 6s 4c 6h] [4h]
+*** ABATTAGE ***
+psychoman59 : montre [2c Kh] (double paire, Six et Quatre)
+Javima56 : montre [Jh Tc] (double paire, Six et Quatre - plus basse kicker)
+psychoman59 a remporté 432  lors du pot .
+Javima56 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 6.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 432 | Commission 0 
+Tableau [7s 6s 4c 6h 4h]
+Siège 2 : psychoman59 (grosse blind) a montré [2c Kh] et a gagné (432) avec double paire, Six et Quatre
+Siège 3 : Javima56 (bouton) (petite blind) a montré [Jh Tc] et a perdu avec double paire, Six et Quatre
+
+
+

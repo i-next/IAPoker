@@ -1,0 +1,373 @@
+﻿Main PokerStars n°244610026177 : Tournoi #3612240220, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 03/07/2023 22:52:14 CET [03/07/2023 16:52:14 ET]
+Table '3612240220 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Iiachi69kakashi (300 en jetons) 
+Place 3: RomFishBot (300 en jetons) 
+Iiachi69kakashi : met la petite blind. 10
+RomFishBot : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Kh]
+psychoman59 : relance. 20 à 40
+Iiachi69kakashi : suit. 30
+RomFishBot : passe. 
+*** FLOP *** [4s Ah Ts]
+Iiachi69kakashi : parole 
+psychoman59 : mise. 50
+Iiachi69kakashi : suit. 50
+*** TOURNANT *** [4s Ah Ts] [5s]
+Iiachi69kakashi : parole 
+psychoman59 : mise. 100
+Iiachi69kakashi : suit. 100
+*** RIVIÈRE *** [4s Ah Ts 5s] [9c]
+Iiachi69kakashi : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Iiachi69kakashi : montre [Jd Qd] (Hauteur As)
+psychoman59 : montre [Qs Kh] (Hauteur As - Roi kicker)
+psychoman59 a remporté 400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [4s Ah Ts 5s 9c]
+Siège 1 : psychoman59 (bouton) a montré [Qs Kh] et a gagné (400) avec Hauteur As
+Siège 2 : Iiachi69kakashi (petite blind) a montré [Jd Qd] et a perdu avec Hauteur As
+Siège 3 : RomFishBot (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244610040981 : Tournoi #3612240220, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 03/07/2023 22:52:53 CET [03/07/2023 16:52:53 ET]
+Table '3612240220 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (510 en jetons) 
+Place 2: Iiachi69kakashi (110 en jetons) 
+Place 3: RomFishBot (280 en jetons) 
+RomFishBot : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 9s]
+Iiachi69kakashi : passe. 
+RomFishBot : suit. 10
+psychoman59 : parole 
+*** FLOP *** [2c Qc Ad]
+RomFishBot : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à RomFishBot.
+RomFishBot a remporté 40  lors du pot .
+RomFishBot : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [2c Qc Ad]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : Iiachi69kakashi (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : RomFishBot (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°244610048846 : Tournoi #3612240220, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 03/07/2023 22:53:14 CET [03/07/2023 16:53:14 ET]
+Table '3612240220 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (490 en jetons) 
+Place 2: Iiachi69kakashi (110 en jetons) 
+Place 3: RomFishBot (300 en jetons) 
+psychoman59 : met la petite blind. 10
+Iiachi69kakashi : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 2d]
+RomFishBot : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à Iiachi69kakashi.
+Iiachi69kakashi a remporté 20  lors du pot .
+Iiachi69kakashi : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Iiachi69kakashi (grosse blind) a remporté (20)
+Siège 3 : RomFishBot (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°244610054333 : Tournoi #3612240220, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 03/07/2023 22:53:29 CET [03/07/2023 16:53:29 ET]
+Table '3612240220 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (480 en jetons) 
+Place 2: Iiachi69kakashi (120 en jetons) 
+Place 3: RomFishBot (300 en jetons) 
+Iiachi69kakashi : met la petite blind. 15
+RomFishBot : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Qs]
+psychoman59 : suit. 30
+Iiachi69kakashi : suit. 15
+RomFishBot : relance. 270 à 300 et est all-in.
+psychoman59 : passe. 
+Iiachi69kakashi : suit. 90 et est all-in.
+Personne n'a suivi. (180) sont retournés à RomFishBot.
+*** FLOP *** [9h 5c Qc]
+*** TOURNANT *** [9h 5c Qc] [2d]
+*** RIVIÈRE *** [9h 5c Qc 2d] [9s]
+*** ABATTAGE ***
+Iiachi69kakashi : montre [4c 8h] (une paire de Neuf)
+RomFishBot : montre [Jh Jc] (double paire, Valets et Neuf)
+RomFishBot a remporté 270  lors du pot .
+Iiachi69kakashi a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Tableau [9h 5c Qc 2d 9s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 2 : Iiachi69kakashi (petite blind) a montré [4c 8h] et a perdu avec une paire de Neuf
+Siège 3 : RomFishBot (grosse blind) a montré [Jh Jc] et a gagné (270) avec double paire, Valets et Neuf
+
+
+
+Main PokerStars n°244610064626 : Tournoi #3612240220, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 03/07/2023 22:53:56 CET [03/07/2023 16:53:56 ET]
+Table '3612240220 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (450 en jetons) 
+Place 3: RomFishBot (450 en jetons) 
+RomFishBot : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 3s]
+RomFishBot : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Qs Qd Ah]
+psychoman59 : parole 
+RomFishBot : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à RomFishBot.
+RomFishBot a remporté 60  lors du pot .
+RomFishBot : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Qs Qd Ah]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : RomFishBot (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°244610071299 : Tournoi #3612240220, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 03/07/2023 22:54:14 CET [03/07/2023 16:54:14 ET]
+Table '3612240220 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (420 en jetons) 
+Place 3: RomFishBot (480 en jetons) 
+psychoman59 : met la petite blind. 15
+RomFishBot : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 6s]
+psychoman59 : relance. 30 à 60
+RomFishBot : suit. 30
+*** FLOP *** [8c Ts 4h]
+RomFishBot : parole 
+psychoman59 : parole 
+*** TOURNANT *** [8c Ts 4h] [Kd]
+RomFishBot : mise. 75
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à RomFishBot.
+RomFishBot a remporté 120  lors du pot .
+RomFishBot : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [8c Ts 4h Kd]
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. sur le Tournant
+Siège 3 : RomFishBot (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°244610083884 : Tournoi #3612240220, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 03/07/2023 22:54:48 CET [03/07/2023 16:54:48 ET]
+Table '3612240220 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (360 en jetons) 
+Place 3: RomFishBot (540 en jetons) 
+RomFishBot : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 8c]
+RomFishBot : suit. 20
+psychoman59 : relance. 320 à 360 et est all-in.
+RomFishBot : passe. 
+Personne n'a suivi. (320) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : RomFishBot (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244610090462 : Tournoi #3612240220, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 03/07/2023 22:55:06 CET [03/07/2023 16:55:06 ET]
+Table '3612240220 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (400 en jetons) 
+Place 3: RomFishBot (500 en jetons) 
+psychoman59 : met la petite blind. 20
+RomFishBot : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 6d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à RomFishBot.
+RomFishBot a remporté 40  lors du pot .
+RomFishBot : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : RomFishBot (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°244610092497 : Tournoi #3612240220, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 03/07/2023 22:55:14 CET [03/07/2023 16:55:14 ET]
+Table '3612240220 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (380 en jetons) 
+Place 3: RomFishBot (520 en jetons) 
+RomFishBot : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 5h]
+RomFishBot : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : RomFishBot (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244610094560 : Tournoi #3612240220, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 03/07/2023 22:55:22 CET [03/07/2023 16:55:22 ET]
+Table '3612240220 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (400 en jetons) 
+Place 3: RomFishBot (500 en jetons) 
+psychoman59 : met la petite blind. 30
+RomFishBot : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 9d]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à RomFishBot.
+RomFishBot a remporté 60  lors du pot .
+RomFishBot : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : RomFishBot (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°244610096475 : Tournoi #3612240220, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 03/07/2023 22:55:29 CET [03/07/2023 16:55:29 ET]
+Table '3612240220 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (370 en jetons) 
+Place 3: RomFishBot (530 en jetons) 
+RomFishBot : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 9c]
+RomFishBot : relance. 470 à 530 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (470) sont retournés à RomFishBot.
+RomFishBot a remporté 120  lors du pot .
+RomFishBot : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : RomFishBot (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°244610099267 : Tournoi #3612240220, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 03/07/2023 22:55:39 CET [03/07/2023 16:55:39 ET]
+Table '3612240220 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (310 en jetons) 
+Place 3: RomFishBot (590 en jetons) 
+psychoman59 : met la petite blind. 30
+RomFishBot : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Ts]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à RomFishBot.
+RomFishBot a remporté 60  lors du pot .
+RomFishBot : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : RomFishBot (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°244610100393 : Tournoi #3612240220, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 03/07/2023 22:55:43 CET [03/07/2023 16:55:43 ET]
+Table '3612240220 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 3: RomFishBot (620 en jetons) 
+RomFishBot : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 6h]
+RomFishBot : relance. 560 à 620 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (560) sont retournés à RomFishBot.
+RomFishBot a remporté 120  lors du pot .
+RomFishBot : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : RomFishBot (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°244610102408 : Tournoi #3612240220, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 03/07/2023 22:55:51 CET [03/07/2023 16:55:51 ET]
+Table '3612240220 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (220 en jetons) 
+Place 3: RomFishBot (680 en jetons) 
+psychoman59 : met la petite blind. 30
+RomFishBot : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Kh]
+psychoman59 : relance. 160 à 220 et est all-in.
+RomFishBot : passe. 
+Personne n'a suivi. (160) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 3 : RomFishBot (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244610104991 : Tournoi #3612240220, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 03/07/2023 22:56:00 CET [03/07/2023 16:56:00 ET]
+Table '3612240220 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 3: RomFishBot (620 en jetons) 
+RomFishBot : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 6h]
+RomFishBot : relance. 560 à 620 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (560) sont retournés à RomFishBot.
+RomFishBot a remporté 120  lors du pot .
+RomFishBot : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : RomFishBot (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°244610108388 : Tournoi #3612240220, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 03/07/2023 22:56:13 CET [03/07/2023 16:56:13 ET]
+Table '3612240220 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (220 en jetons) 
+Place 3: RomFishBot (680 en jetons) 
+psychoman59 : met la petite blind. 30
+RomFishBot : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Tc]
+psychoman59 : relance. 160 à 220 et est all-in.
+RomFishBot : suit. 160
+*** FLOP *** [7d 8c 3d]
+*** TOURNANT *** [7d 8c 3d] [9h]
+*** RIVIÈRE *** [7d 8c 3d 9h] [8s]
+*** ABATTAGE ***
+RomFishBot : montre [Ac 7h] (double paire, Huit et Sept)
+psychoman59 : montre [4c Tc] (une paire de Huit)
+RomFishBot a remporté 440  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+RomFishBot remporte le tournoi et reçoit 4.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 440 | Commission 0 
+Tableau [7d 8c 3d 9h 8s]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [4c Tc] et a perdu avec une paire de Huit
+Siège 3 : RomFishBot (grosse blind) a montré [Ac 7h] et a gagné (440) avec double paire, Huit et Sept
+
+
+

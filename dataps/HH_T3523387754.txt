@@ -1,0 +1,147 @@
+﻿Main PokerStars n°240790841404 : Tournoi #3523387754, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 30/12/2022 8:55:34 CET [30/12/2022 2:55:34 ET]
+Table '3523387754 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: facd62 (300 en jetons) 
+Place 3: ponpinou (300 en jetons) 
+facd62 : met la petite blind. 10
+ponpinou : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Kc]
+psychoman59 : passe. 
+facd62 : passe. 
+Personne n'a suivi. (10) sont retournés à ponpinou.
+ponpinou a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : facd62 (petite blind) s'est couché. avant Flop
+Siège 3 : ponpinou (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°240790842019 : Tournoi #3523387754, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 30/12/2022 8:55:40 CET [30/12/2022 2:55:40 ET]
+Table '3523387754 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: facd62 (290 en jetons) 
+Place 3: ponpinou (310 en jetons) 
+ponpinou : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 4h]
+facd62 : relance. 20 à 40
+ponpinou : suit. 30
+psychoman59 : passe. 
+*** FLOP *** [Qd 8d 2h]
+ponpinou : parole 
+facd62 : parole 
+*** TOURNANT *** [Qd 8d 2h] [Th]
+ponpinou : parole 
+facd62 : mise. 20
+ponpinou : suit. 20
+*** RIVIÈRE *** [Qd 8d 2h Th] [7s]
+ponpinou : parole 
+facd62 : mise. 70
+ponpinou : passe. 
+Personne n'a suivi. (70) sont retournés à facd62.
+facd62 a remporté 140  lors du pot .
+facd62 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [Qd 8d 2h Th 7s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : facd62 (bouton) a remporté (140)
+Siège 3 : ponpinou (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°240790844431 : Tournoi #3523387754, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 30/12/2022 8:56:05 CET [30/12/2022 2:56:05 ET]
+Table '3523387754 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: facd62 (370 en jetons) 
+Place 3: ponpinou (250 en jetons) 
+psychoman59 : met la petite blind. 10
+facd62 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Ks]
+ponpinou : relance. 20 à 40
+psychoman59 : passe. 
+facd62 : suit. 20
+*** FLOP *** [Ad 2d 6d]
+facd62 : parole 
+ponpinou : parole 
+*** TOURNANT *** [Ad 2d 6d] [6h]
+facd62 : mise. 45
+ponpinou : suit. 45
+*** RIVIÈRE *** [Ad 2d 6d 6h] [Qc]
+facd62 : mise. 285 et est all-in.
+ponpinou : passe. 
+Personne n'a suivi. (285) sont retournés à facd62.
+facd62 a remporté 180  lors du pot .
+facd62 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Ad 2d 6d 6h Qc]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : facd62 (grosse blind) a remporté (180)
+Siège 3 : ponpinou (bouton) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°240790848018 : Tournoi #3523387754, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 30/12/2022 8:56:40 CET [30/12/2022 2:56:40 ET]
+Table '3523387754 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 2: facd62 (465 en jetons) 
+Place 3: ponpinou (165 en jetons) 
+facd62 : met la petite blind. 15
+ponpinou : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 7d]
+psychoman59 : passe. 
+facd62 : relance. 435 à 465 et est all-in.
+ponpinou : suit. 135 et est all-in.
+Personne n'a suivi. (300) sont retournés à facd62.
+*** FLOP *** [7c Th 4d]
+*** TOURNANT *** [7c Th 4d] [Ks]
+*** RIVIÈRE *** [7c Th 4d Ks] [Jc]
+*** ABATTAGE ***
+facd62 : montre [Qc 9c] (une suite, Neuf à Roi)
+ponpinou : montre [Qs 7s] (une paire de Sept)
+facd62 a remporté 330  lors du pot .
+ponpinou a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 330 | Commission 0 
+Tableau [7c Th 4d Ks Jc]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : facd62 (petite blind) a montré [Qc 9c] et a gagné (330) avec une suite, Neuf à Roi
+Siège 3 : ponpinou (grosse blind) a montré [Qs 7s] et a perdu avec une paire de Sept
+
+
+
+Main PokerStars n°240790849921 : Tournoi #3523387754, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 30/12/2022 8:56:59 CET [30/12/2022 2:56:59 ET]
+Table '3523387754 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 2: facd62 (630 en jetons) 
+facd62 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 7s]
+facd62 : relance. 600 à 630 et est all-in.
+psychoman59 : suit. 240 et est all-in.
+Personne n'a suivi. (360) sont retournés à facd62.
+*** FLOP *** [Jd 4c 2c]
+*** TOURNANT *** [Jd 4c 2c] [3s]
+*** RIVIÈRE *** [Jd 4c 2c 3s] [4s]
+*** ABATTAGE ***
+psychoman59 : montre [Ks 7s] (une paire de Quatre)
+facd62 : montre [As 8h] (une paire de Quatre - As kicker)
+facd62 a remporté 540  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+facd62 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [Jd 4c 2c 3s 4s]
+Siège 1 : psychoman59 (grosse blind) a montré [Ks 7s] et a perdu avec une paire de Quatre
+Siège 2 : facd62 (bouton) (petite blind) a montré [As 8h] et a gagné (540) avec une paire de Quatre
+
+
+

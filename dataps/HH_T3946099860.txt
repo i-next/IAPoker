@@ -1,0 +1,735 @@
+﻿Main PokerStars n°258469663303 : Tournoi #3946099860, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 11/11/2025 7:34:51 CET [11/11/2025 1:34:51 ET]
+Table '3946099860 1' 3-max Siège #1 est au bouton.
+Place 1: unais (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: sol medusa (500 en jetons) 
+psychoman59 : met la petite blind. 10
+sol medusa : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 6s]
+unais : suit. 20
+psychoman59 : passe. 
+sol medusa : parole 
+*** FLOP *** [9h Qs 2h]
+sol medusa : mise. 20
+unais : passe. 
+Personne n'a suivi. (20) sont retournés à sol medusa.
+sol medusa a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [9h Qs 2h]
+Siège 1 : unais (bouton) s'est couché. sur le Flop
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : sol medusa (grosse blind) a remporté (50)
+
+
+
+Main PokerStars n°258469664062 : Tournoi #3946099860, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 11/11/2025 7:35:03 CET [11/11/2025 1:35:03 ET]
+Table '3946099860 1' 3-max Siège #2 est au bouton.
+Place 1: unais (480 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: sol medusa (530 en jetons) 
+sol medusa : met la petite blind. 10
+unais : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Kc]
+psychoman59 : suit. 20
+sol medusa : passe. 
+unais : parole 
+*** FLOP *** [8s 2s 5h]
+unais : parole 
+psychoman59 : parole 
+*** TOURNANT *** [8s 2s 5h] [Ks]
+unais : parole 
+psychoman59 : mise. 50
+unais : suit. 50
+*** RIVIÈRE *** [8s 2s 5h Ks] [7c]
+unais : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+unais : montre [Ts 4d] (Hauteur Roi)
+psychoman59 : montre [6c Kc] (une paire de Rois)
+psychoman59 a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Tableau [8s 2s 5h Ks 7c]
+Siège 1 : unais (grosse blind) a montré [Ts 4d] et a perdu avec Hauteur Roi
+Siège 2 : psychoman59 (bouton) a montré [6c Kc] et a gagné (150) avec une paire de Rois
+Siège 3 : sol medusa (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258469665203 : Tournoi #3946099860, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 11/11/2025 7:35:23 CET [11/11/2025 1:35:23 ET]
+Table '3946099860 1' 3-max Siège #3 est au bouton.
+Place 1: unais (410 en jetons) 
+Place 2: psychoman59 (570 en jetons) 
+Place 3: sol medusa (520 en jetons) 
+unais : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Qh]
+sol medusa : suit. 20
+unais : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Jc 5d 8c]
+unais : mise. 80
+psychoman59 : passe. 
+sol medusa : suit. 80
+*** TOURNANT *** [Jc 5d 8c] [Jh]
+unais : mise. 310 et est all-in.
+sol medusa : passe. 
+Personne n'a suivi. (310) sont retournés à unais.
+unais a remporté 220  lors du pot .
+unais : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 220 | Commission 0 
+Tableau [Jc 5d 8c Jh]
+Siège 1 : unais (petite blind) a remporté (220)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : sol medusa (bouton) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°258469668395 : Tournoi #3946099860, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 11/11/2025 7:36:19 CET [11/11/2025 1:36:19 ET]
+Table '3946099860 1' 3-max Siège #1 est au bouton.
+Place 1: unais (530 en jetons) 
+Place 2: psychoman59 (550 en jetons) 
+Place 3: sol medusa (420 en jetons) 
+psychoman59 : met la petite blind. 10
+sol medusa : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Js]
+unais : suit. 20
+psychoman59 : passe. 
+sol medusa : parole 
+*** FLOP *** [Ah 3d 4h]
+sol medusa : parole 
+unais : parole 
+*** TOURNANT *** [Ah 3d 4h] [4s]
+sol medusa : parole 
+unais : parole 
+*** RIVIÈRE *** [Ah 3d 4h 4s] [Ts]
+sol medusa : parole 
+unais : mise. 20
+sol medusa : relance. 40 à 60
+unais : suit. 40
+*** ABATTAGE ***
+sol medusa : montre [7s Td] (double paire, Dix et Quatre)
+unais : montre [Th 8h] (double paire, Dix et Quatre)
+sol medusa a remporté 85  lors du pot .
+unais a remporté 85  lors du pot .
+*** SYNTHÈSE ***
+Pot total 170 | Commission 0 
+Tableau [Ah 3d 4h 4s Ts]
+Siège 1 : unais (bouton) a montré [Th 8h] et a gagné (85) avec double paire, Dix et Quatre
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : sol medusa (grosse blind) a montré [7s Td] et a gagné (85) avec double paire, Dix et Quatre
+
+
+
+Main PokerStars n°258469669743 : Tournoi #3946099860, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 11/11/2025 7:36:42 CET [11/11/2025 1:36:42 ET]
+Table '3946099860 1' 3-max Siège #2 est au bouton.
+Place 1: unais (535 en jetons) 
+Place 2: psychoman59 (540 en jetons) 
+Place 3: sol medusa (425 en jetons) 
+sol medusa : met la petite blind. 10
+unais : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Js]
+psychoman59 : relance. 70 à 90
+sol medusa : passe. 
+unais : passe. 
+Personne n'a suivi. (70) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : unais (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a remporté (50)
+Siège 3 : sol medusa (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258469670484 : Tournoi #3946099860, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 11/11/2025 7:36:55 CET [11/11/2025 1:36:55 ET]
+Table '3946099860 1' 3-max Siège #3 est au bouton.
+Place 1: unais (515 en jetons) 
+Place 2: psychoman59 (570 en jetons) 
+Place 3: sol medusa (415 en jetons) 
+unais : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 8h]
+sol medusa : passe. 
+unais : suit. 10
+psychoman59 : parole 
+*** FLOP *** [5c Ks 8s]
+unais : parole 
+psychoman59 : mise. 40
+unais : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [5c Ks 8s]
+Siège 1 : unais (petite blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : sol medusa (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°258469671991 : Tournoi #3946099860, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 11/11/2025 7:37:21 CET [11/11/2025 1:37:21 ET]
+Table '3946099860 1' 3-max Siège #1 est au bouton.
+Place 1: unais (495 en jetons) 
+Place 2: psychoman59 (590 en jetons) 
+Place 3: sol medusa (415 en jetons) 
+psychoman59 : met la petite blind. 10
+sol medusa : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 6c]
+unais : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à sol medusa.
+sol medusa a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : unais (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : sol medusa (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°258469672382 : Tournoi #3946099860, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 11/11/2025 7:37:28 CET [11/11/2025 1:37:28 ET]
+Table '3946099860 1' 3-max Siège #2 est au bouton.
+Place 1: unais (495 en jetons) 
+Place 2: psychoman59 (580 en jetons) 
+Place 3: sol medusa (425 en jetons) 
+sol medusa : met la petite blind. 10
+unais : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 9c]
+psychoman59 : passe. 
+sol medusa : suit. 10
+unais : parole 
+*** FLOP *** [5d Kd 9h]
+sol medusa : parole 
+unais : mise. 40
+sol medusa : relance. 60 à 100
+unais : suit. 60
+*** TOURNANT *** [5d Kd 9h] [2d]
+sol medusa : mise. 120
+unais : passe. 
+Personne n'a suivi. (120) sont retournés à sol medusa.
+sol medusa a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [5d Kd 9h 2d]
+Siège 1 : unais (grosse blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : sol medusa (petite blind) a remporté (240)
+
+
+
+Main PokerStars n°258469674809 : Tournoi #3946099860, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 11/11/2025 7:38:10 CET [11/11/2025 1:38:10 ET]
+Table '3946099860 1' 3-max Siège #3 est au bouton.
+Place 1: unais (375 en jetons) 
+Place 2: psychoman59 (580 en jetons) 
+Place 3: sol medusa (545 en jetons) 
+unais : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 3c]
+sol medusa : passe. 
+unais : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : unais (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+Siège 3 : sol medusa (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°258469675175 : Tournoi #3946099860, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 11/11/2025 7:38:16 CET [11/11/2025 1:38:16 ET]
+Table '3946099860 1' 3-max Siège #1 est au bouton.
+Place 1: unais (360 en jetons) 
+Place 2: psychoman59 (595 en jetons) 
+Place 3: sol medusa (545 en jetons) 
+psychoman59 : met la petite blind. 15
+sol medusa : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 6s]
+unais : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à sol medusa.
+sol medusa a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : unais (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : sol medusa (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°258469675529 : Tournoi #3946099860, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 11/11/2025 7:38:22 CET [11/11/2025 1:38:22 ET]
+Table '3946099860 1' 3-max Siège #2 est au bouton.
+Place 1: unais (360 en jetons) 
+Place 2: psychoman59 (580 en jetons) 
+Place 3: sol medusa (560 en jetons) 
+sol medusa : met la petite blind. 15
+unais : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 5s]
+psychoman59 : passe. 
+sol medusa : suit. 15
+unais : parole 
+*** FLOP *** [Qc Kd Qh]
+sol medusa : parole 
+unais : parole 
+*** TOURNANT *** [Qc Kd Qh] [Jh]
+sol medusa : parole 
+unais : mise. 30
+sol medusa : passe. 
+Personne n'a suivi. (30) sont retournés à unais.
+unais a remporté 60  lors du pot .
+unais : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Qc Kd Qh Jh]
+Siège 1 : unais (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : sol medusa (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°258469676680 : Tournoi #3946099860, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 11/11/2025 7:38:42 CET [11/11/2025 1:38:42 ET]
+Table '3946099860 1' 3-max Siège #3 est au bouton.
+Place 1: unais (390 en jetons) 
+Place 2: psychoman59 (580 en jetons) 
+Place 3: sol medusa (530 en jetons) 
+unais : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 6h]
+sol medusa : relance. 75 à 105
+unais : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à sol medusa.
+sol medusa a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : unais (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : sol medusa (bouton) a remporté (75)
+
+
+
+Main PokerStars n°258469677612 : Tournoi #3946099860, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 11/11/2025 7:38:58 CET [11/11/2025 1:38:58 ET]
+Table '3946099860 1' 3-max Siège #1 est au bouton.
+Place 1: unais (375 en jetons) 
+Place 2: psychoman59 (550 en jetons) 
+Place 3: sol medusa (575 en jetons) 
+psychoman59 : met la petite blind. 15
+sol medusa : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 6h]
+unais : suit. 30
+psychoman59 : passe. 
+sol medusa : parole 
+*** FLOP *** [As 4d 4s]
+sol medusa : parole 
+unais : parole 
+*** TOURNANT *** [As 4d 4s] [8s]
+sol medusa : parole 
+unais : parole 
+*** RIVIÈRE *** [As 4d 4s 8s] [Qs]
+sol medusa : parole 
+unais : mise. 75
+sol medusa : passe. 
+Personne n'a suivi. (75) sont retournés à unais.
+unais a remporté 75  lors du pot .
+unais : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Tableau [As 4d 4s 8s Qs]
+Siège 1 : unais (bouton) a remporté (75)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : sol medusa (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°258469679038 : Tournoi #3946099860, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 11/11/2025 7:39:23 CET [11/11/2025 1:39:23 ET]
+Table '3946099860 1' 3-max Siège #2 est au bouton.
+Place 1: unais (420 en jetons) 
+Place 2: psychoman59 (535 en jetons) 
+Place 3: sol medusa (545 en jetons) 
+sol medusa : met la petite blind. 15
+unais : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Ad]
+psychoman59 : relance. 30 à 60
+sol medusa : passe. 
+unais : suit. 30
+*** FLOP *** [7h 8h As]
+unais : parole 
+psychoman59 : mise. 68
+unais : suit. 68
+*** TOURNANT *** [7h 8h As] [Jd]
+unais : parole 
+psychoman59 : mise. 271
+unais : suit. 271
+*** RIVIÈRE *** [7h 8h As Jd] [2d]
+unais : mise. 21 et est all-in.
+psychoman59 : suit. 21
+*** ABATTAGE ***
+unais : montre [6h Jh] (une paire de Valets)
+psychoman59 : montre [9h Ad] (une paire de As)
+psychoman59 a remporté 855  lors du pot .
+unais a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 855 | Commission 0 
+Tableau [7h 8h As Jd 2d]
+Siège 1 : unais (grosse blind) a montré [6h Jh] et a perdu avec une paire de Valets
+Siège 2 : psychoman59 (bouton) a montré [9h Ad] et a gagné (855) avec une paire de As
+Siège 3 : sol medusa (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258469681362 : Tournoi #3946099860, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 11/11/2025 7:40:03 CET [11/11/2025 1:40:03 ET]
+Table '3946099860 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (970 en jetons) 
+Place 3: sol medusa (530 en jetons) 
+sol medusa : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Qs]
+sol medusa : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+Siège 3 : sol medusa (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258469681872 : Tournoi #3946099860, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 11/11/2025 7:40:12 CET [11/11/2025 1:40:12 ET]
+Table '3946099860 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (985 en jetons) 
+Place 3: sol medusa (515 en jetons) 
+psychoman59 : met la petite blind. 15
+sol medusa : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Qc]
+psychoman59 : suit. 15
+sol medusa : parole 
+*** FLOP *** [As 2c 6c]
+sol medusa : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à sol medusa.
+sol medusa a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [As 2c 6c]
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+Siège 3 : sol medusa (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°258469682536 : Tournoi #3946099860, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 11/11/2025 7:40:23 CET [11/11/2025 1:40:23 ET]
+Table '3946099860 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (955 en jetons) 
+Place 3: sol medusa (545 en jetons) 
+sol medusa : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d As]
+sol medusa : suit. 15
+psychoman59 : relance. 925 à 955 et est all-in.
+sol medusa : passe. 
+Personne n'a suivi. (925) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : sol medusa (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258469683119 : Tournoi #3946099860, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 11/11/2025 7:40:32 CET [11/11/2025 1:40:32 ET]
+Table '3946099860 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (985 en jetons) 
+Place 3: sol medusa (515 en jetons) 
+psychoman59 : met la petite blind. 15
+sol medusa : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 5s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à sol medusa.
+sol medusa a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : sol medusa (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°258469683434 : Tournoi #3946099860, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 11/11/2025 7:40:37 CET [11/11/2025 1:40:37 ET]
+Table '3946099860 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (970 en jetons) 
+Place 3: sol medusa (530 en jetons) 
+sol medusa : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 2d]
+sol medusa : suit. 15
+psychoman59 : parole 
+*** FLOP *** [3d 4c Kd]
+psychoman59 : parole 
+sol medusa : parole 
+*** TOURNANT *** [3d 4c Kd] [5d]
+psychoman59 : mise. 30
+sol medusa : suit. 30
+*** RIVIÈRE *** [3d 4c Kd 5d] [5c]
+psychoman59 : mise. 60
+sol medusa : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [3d 4c Kd 5d 5c]
+Siège 2 : psychoman59 (grosse blind) a remporté (120)
+Siège 3 : sol medusa (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°258469685330 : Tournoi #3946099860, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 11/11/2025 7:41:09 CET [11/11/2025 1:41:09 ET]
+Table '3946099860 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1030 en jetons) 
+Place 3: sol medusa (470 en jetons) 
+psychoman59 : met la petite blind. 20
+sol medusa : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 4c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à sol medusa.
+sol medusa a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : sol medusa (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°258469685600 : Tournoi #3946099860, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 11/11/2025 7:41:13 CET [11/11/2025 1:41:13 ET]
+Table '3946099860 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1010 en jetons) 
+Place 3: sol medusa (490 en jetons) 
+sol medusa : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Tc]
+sol medusa : suit. 20
+psychoman59 : relance. 970 à 1010 et est all-in.
+sol medusa : passe. 
+Personne n'a suivi. (970) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : sol medusa (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258469686203 : Tournoi #3946099860, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 11/11/2025 7:41:23 CET [11/11/2025 1:41:23 ET]
+Table '3946099860 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1050 en jetons) 
+Place 3: sol medusa (450 en jetons) 
+psychoman59 : met la petite blind. 20
+sol medusa : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 7s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à sol medusa.
+sol medusa a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : sol medusa (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°258469686532 : Tournoi #3946099860, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 11/11/2025 7:41:29 CET [11/11/2025 1:41:29 ET]
+Table '3946099860 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1030 en jetons) 
+Place 3: sol medusa (470 en jetons) 
+sol medusa : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 9h]
+sol medusa : relance. 80 à 120
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à sol medusa.
+sol medusa a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : sol medusa (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°258469687315 : Tournoi #3946099860, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 11/11/2025 7:41:42 CET [11/11/2025 1:41:42 ET]
+Table '3946099860 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (990 en jetons) 
+Place 3: sol medusa (510 en jetons) 
+psychoman59 : met la petite blind. 20
+sol medusa : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 4s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à sol medusa.
+sol medusa a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : sol medusa (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°258469687596 : Tournoi #3946099860, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 11/11/2025 7:41:47 CET [11/11/2025 1:41:47 ET]
+Table '3946099860 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (970 en jetons) 
+Place 3: sol medusa (530 en jetons) 
+sol medusa : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 8d]
+sol medusa : suit. 20
+psychoman59 : parole 
+*** FLOP *** [3d 2d 7h]
+psychoman59 : parole 
+sol medusa : parole 
+*** TOURNANT *** [3d 2d 7h] [9s]
+psychoman59 : parole 
+sol medusa : parole 
+*** RIVIÈRE *** [3d 2d 7h 9s] [Kd]
+psychoman59 : parole 
+sol medusa : parole 
+*** ABATTAGE ***
+psychoman59 : montre [4h 8d] (Hauteur Roi)
+sol medusa : montre [Tc Jc] (Hauteur Roi - Valet kicker)
+sol medusa a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [3d 2d 7h 9s Kd]
+Siège 2 : psychoman59 (grosse blind) a montré [4h 8d] et a perdu avec Hauteur Roi
+Siège 3 : sol medusa (bouton) (petite blind) a montré [Tc Jc] et a gagné (80) avec Hauteur Roi
+
+
+
+Main PokerStars n°258469688832 : Tournoi #3946099860, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 11/11/2025 7:42:08 CET [11/11/2025 1:42:08 ET]
+Table '3946099860 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (930 en jetons) 
+Place 3: sol medusa (570 en jetons) 
+psychoman59 : met la petite blind. 20
+sol medusa : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 4c]
+psychoman59 : suit. 20
+sol medusa : parole 
+*** FLOP *** [8d Js 7s]
+sol medusa : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à sol medusa.
+sol medusa a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [8d Js 7s]
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+Siège 3 : sol medusa (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°258469689986 : Tournoi #3946099860, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 11/11/2025 7:42:27 CET [11/11/2025 1:42:27 ET]
+Table '3946099860 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (890 en jetons) 
+Place 3: sol medusa (610 en jetons) 
+sol medusa : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Qh]
+sol medusa : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : sol medusa (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258469690507 : Tournoi #3946099860, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 11/11/2025 7:42:35 CET [11/11/2025 1:42:35 ET]
+Table '3946099860 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (910 en jetons) 
+Place 3: sol medusa (590 en jetons) 
+psychoman59 : met la petite blind. 20
+sol medusa : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 7h]
+psychoman59 : suit. 20
+sol medusa : parole 
+*** FLOP *** [Kc Jh 6d]
+sol medusa : parole 
+psychoman59 : mise. 80
+sol medusa : suit. 80
+*** TOURNANT *** [Kc Jh 6d] [Ah]
+sol medusa : parole 
+psychoman59 : mise. 120
+sol medusa : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Kc Jh 6d Ah]
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (240)
+Siège 3 : sol medusa (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°258469691900 : Tournoi #3946099860, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 11/11/2025 7:42:59 CET [11/11/2025 1:42:59 ET]
+Table '3946099860 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1030 en jetons) 
+Place 3: sol medusa (470 en jetons) 
+sol medusa : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 5h]
+sol medusa : suit. 20
+psychoman59 : relance. 990 à 1030 et est all-in.
+sol medusa : suit. 430 et est all-in.
+Personne n'a suivi. (560) sont retournés à psychoman59.
+*** FLOP *** [6c 2d 8s]
+*** TOURNANT *** [6c 2d 8s] [8c]
+*** RIVIÈRE *** [6c 2d 8s 8c] [Qc]
+*** ABATTAGE ***
+psychoman59 : montre [5d 5h] (double paire, Huit et Cinq)
+sol medusa : montre [Jh 9h] (une paire de Huit)
+psychoman59 a remporté 940  lors du pot .
+sol medusa a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 0.75 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 940 | Commission 0 
+Tableau [6c 2d 8s 8c Qc]
+Siège 2 : psychoman59 (grosse blind) a montré [5d 5h] et a gagné (940) avec double paire, Huit et Cinq
+Siège 3 : sol medusa (bouton) (petite blind) a montré [Jh 9h] et a perdu avec une paire de Huit
+
+
+

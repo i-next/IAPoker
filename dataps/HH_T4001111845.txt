@@ -1,0 +1,633 @@
+﻿Main PokerStars n°260834618463 : Tournoi #4001111845, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 17/05/2026 7:51:18 CET [17/05/2026 1:51:18 ET]
+Table '4001111845 1' 3-max Siège #1 est au bouton.
+Place 1: ketameang1rl (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: jloup92 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+jloup92 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Qd]
+ketameang1rl : suit. 20
+psychoman59 : suit. 10
+jloup92 : parole 
+*** FLOP *** [9s Kh 4d]
+psychoman59 : parole 
+jloup92 : parole 
+ketameang1rl : mise. 40
+psychoman59 : passe. 
+jloup92 : passe. 
+Personne n'a suivi. (40) sont retournés à ketameang1rl.
+ketameang1rl a remporté 60  lors du pot .
+ketameang1rl : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [9s Kh 4d]
+Siège 1 : ketameang1rl (bouton) a remporté (60)
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 3 : jloup92 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°260834620967 : Tournoi #4001111845, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 17/05/2026 7:52:00 CET [17/05/2026 1:52:00 ET]
+Table '4001111845 1' 3-max Siège #2 est au bouton.
+Place 1: ketameang1rl (540 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+Place 3: jloup92 (480 en jetons) 
+jloup92 : met la petite blind. 10
+ketameang1rl : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Kh]
+psychoman59 : suit. 20
+jloup92 : passe. 
+ketameang1rl : parole 
+*** FLOP *** [Jc Ac Qd]
+ketameang1rl : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [Jc Ac Qd] [Jh]
+ketameang1rl : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [Jc Ac Qd Jh] [8s]
+ketameang1rl : mise. 20
+psychoman59 : suit. 20
+*** ABATTAGE ***
+ketameang1rl : montre [Ts Kc] (une suite, Dix à As)
+psychoman59 : cache la main perdante. 
+ketameang1rl a remporté 170  lors du pot .
+*** SYNTHÈSE ***
+Pot total 170 | Commission 0 
+Tableau [Jc Ac Qd Jh 8s]
+Siège 1 : ketameang1rl (grosse blind) a montré [Ts Kc] et a gagné (170) avec une suite, Dix à As
+Siège 2 : psychoman59 (bouton) a caché la main perdante. [2h Kh]
+Siège 3 : jloup92 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260834622221 : Tournoi #4001111845, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 17/05/2026 7:52:20 CET [17/05/2026 1:52:20 ET]
+Table '4001111845 1' 3-max Siège #3 est au bouton.
+Place 1: ketameang1rl (630 en jetons) 
+Place 2: psychoman59 (400 en jetons) 
+Place 3: jloup92 (470 en jetons) 
+ketameang1rl : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 3s]
+jloup92 : passe. 
+ketameang1rl : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Ts 2s Ah]
+ketameang1rl : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Ts 2s Ah] [Tc]
+ketameang1rl : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Ts 2s Ah Tc] [9s]
+ketameang1rl : mise. 60
+psychoman59 : suit. 60
+*** ABATTAGE ***
+ketameang1rl : montre [5s Kc] (une paire de Dix)
+psychoman59 : montre [Th 3s] (un brelan de Dix)
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Ts 2s Ah Tc 9s]
+Siège 1 : ketameang1rl (petite blind) a montré [5s Kc] et a perdu avec une paire de Dix
+Siège 2 : psychoman59 (grosse blind) a montré [Th 3s] et a gagné (160) avec un brelan de Dix
+Siège 3 : jloup92 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260834623569 : Tournoi #4001111845, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 17/05/2026 7:52:43 CET [17/05/2026 1:52:43 ET]
+Table '4001111845 1' 3-max Siège #1 est au bouton.
+Place 1: ketameang1rl (550 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+Place 3: jloup92 (470 en jetons) 
+psychoman59 : met la petite blind. 10
+jloup92 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 2h]
+ketameang1rl : suit. 20
+psychoman59 : suit. 10
+jloup92 : parole 
+*** FLOP *** [Jh Ks Jc]
+psychoman59 : parole 
+jloup92 : parole 
+ketameang1rl : parole 
+*** TOURNANT *** [Jh Ks Jc] [4h]
+psychoman59 : parole 
+jloup92 : parole 
+ketameang1rl : parole 
+*** RIVIÈRE *** [Jh Ks Jc 4h] [6c]
+psychoman59 : parole 
+jloup92 : parole 
+ketameang1rl : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Ac 2h] (une paire de Valets)
+jloup92 : cache la main perdante. 
+ketameang1rl : montre [6s Qh] (double paire, Valets et Six)
+ketameang1rl a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Jh Ks Jc 4h 6c]
+Siège 1 : ketameang1rl (bouton) a montré [6s Qh] et a gagné (60) avec double paire, Valets et Six
+Siège 2 : psychoman59 (petite blind) a montré [Ac 2h] et a perdu avec une paire de Valets
+Siège 3 : jloup92 (grosse blind) a caché la main perdante. [Qs 3c]
+
+
+
+Main PokerStars n°260834625704 : Tournoi #4001111845, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 17/05/2026 7:53:19 CET [17/05/2026 1:53:19 ET]
+Table '4001111845 1' 3-max Siège #2 est au bouton.
+Place 1: ketameang1rl (590 en jetons) 
+Place 2: psychoman59 (460 en jetons) 
+Place 3: jloup92 (450 en jetons) 
+jloup92 : met la petite blind. 10
+ketameang1rl : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 8c]
+psychoman59 : passe. 
+jloup92 : relance. 20 à 40
+ketameang1rl : suit. 20
+*** FLOP *** [9h Jd 6c]
+jloup92 : parole 
+ketameang1rl : parole 
+*** TOURNANT *** [9h Jd 6c] [2c]
+jloup92 : parole 
+ketameang1rl : mise. 20
+jloup92 : suit. 20
+*** RIVIÈRE *** [9h Jd 6c 2c] [Kc]
+jloup92 : mise. 20
+ketameang1rl : suit. 20
+*** ABATTAGE ***
+jloup92 : montre [Th Qs] (une suite, Neuf à Roi)
+ketameang1rl : cache la main perdante. 
+jloup92 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [9h Jd 6c 2c Kc]
+Siège 1 : ketameang1rl (grosse blind) a caché la main perdante. [Ah 2d]
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : jloup92 (petite blind) a montré [Th Qs] et a gagné (160) avec une suite, Neuf à Roi
+
+
+
+Main PokerStars n°260834627461 : Tournoi #4001111845, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 17/05/2026 7:53:49 CET [17/05/2026 1:53:49 ET]
+Table '4001111845 1' 3-max Siège #3 est au bouton.
+Place 1: ketameang1rl (510 en jetons) 
+Place 2: psychoman59 (460 en jetons) 
+Place 3: jloup92 (530 en jetons) 
+ketameang1rl : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 3s]
+jloup92 : passe. 
+ketameang1rl : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Kh 4h 3d]
+ketameang1rl : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Kh 4h 3d] [Th]
+ketameang1rl : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Kh 4h 3d Th] [Ac]
+ketameang1rl : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à ketameang1rl.
+ketameang1rl a remporté 40  lors du pot .
+ketameang1rl : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Kh 4h 3d Th Ac]
+Siège 1 : ketameang1rl (petite blind) a remporté (40)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : jloup92 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260834628923 : Tournoi #4001111845, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 17/05/2026 7:54:14 CET [17/05/2026 1:54:14 ET]
+Table '4001111845 1' 3-max Siège #1 est au bouton.
+Place 1: ketameang1rl (530 en jetons) 
+Place 2: psychoman59 (440 en jetons) 
+Place 3: jloup92 (530 en jetons) 
+psychoman59 : met la petite blind. 10
+jloup92 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 5d]
+ketameang1rl : suit. 20
+psychoman59 : passe. 
+jloup92 : parole 
+*** FLOP *** [Jh Kh 8h]
+jloup92 : parole 
+ketameang1rl : mise. 20
+jloup92 : suit. 20
+*** TOURNANT *** [Jh Kh 8h] [Jd]
+jloup92 : parole 
+ketameang1rl : mise. 20
+jloup92 : suit. 20
+*** RIVIÈRE *** [Jh Kh 8h Jd] [6c]
+jloup92 : parole 
+ketameang1rl : mise. 60
+jloup92 : passe. 
+Personne n'a suivi. (60) sont retournés à ketameang1rl.
+ketameang1rl a remporté 130  lors du pot .
+ketameang1rl : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Tableau [Jh Kh 8h Jd 6c]
+Siège 1 : ketameang1rl (bouton) a remporté (130)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : jloup92 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°260834631041 : Tournoi #4001111845, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 17/05/2026 7:54:49 CET [17/05/2026 1:54:49 ET]
+Table '4001111845 1' 3-max Siège #2 est au bouton.
+Place 1: ketameang1rl (600 en jetons) 
+Place 2: psychoman59 (430 en jetons) 
+Place 3: jloup92 (470 en jetons) 
+jloup92 : met la petite blind. 15
+ketameang1rl : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Th]
+psychoman59 : passe. 
+jloup92 : relance. 30 à 60
+ketameang1rl : suit. 30
+*** FLOP *** [Jc 6h 5d]
+jloup92 : mise. 30
+ketameang1rl : suit. 30
+*** TOURNANT *** [Jc 6h 5d] [Ts]
+jloup92 : mise. 90
+ketameang1rl : passe. 
+Personne n'a suivi. (90) sont retournés à jloup92.
+jloup92 a remporté 180  lors du pot .
+jloup92 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Jc 6h 5d Ts]
+Siège 1 : ketameang1rl (grosse blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : jloup92 (petite blind) a remporté (180)
+
+
+
+Main PokerStars n°260834632289 : Tournoi #4001111845, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 17/05/2026 7:55:09 CET [17/05/2026 1:55:09 ET]
+Table '4001111845 1' 3-max Siège #3 est au bouton.
+Place 1: ketameang1rl (510 en jetons) 
+Place 2: psychoman59 (430 en jetons) 
+Place 3: jloup92 (560 en jetons) 
+ketameang1rl : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Jc]
+jloup92 : passe. 
+ketameang1rl : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Js 3c Qs]
+ketameang1rl : parole 
+psychoman59 : mise. 60
+ketameang1rl : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Js 3c Qs]
+Siège 1 : ketameang1rl (petite blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : jloup92 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260834633241 : Tournoi #4001111845, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 17/05/2026 7:55:26 CET [17/05/2026 1:55:26 ET]
+Table '4001111845 1' 3-max Siège #1 est au bouton.
+Place 1: ketameang1rl (480 en jetons) 
+Place 2: psychoman59 (460 en jetons) 
+Place 3: jloup92 (560 en jetons) 
+psychoman59 : met la petite blind. 15
+jloup92 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 6s]
+ketameang1rl : relance. 60 à 90
+psychoman59 : passe. 
+jloup92 : passe. 
+Personne n'a suivi. (60) sont retournés à ketameang1rl.
+ketameang1rl a remporté 75  lors du pot .
+ketameang1rl : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : ketameang1rl (bouton) a remporté (75)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : jloup92 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260834633685 : Tournoi #4001111845, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 17/05/2026 7:55:35 CET [17/05/2026 1:55:35 ET]
+Table '4001111845 1' 3-max Siège #2 est au bouton.
+Place 1: ketameang1rl (525 en jetons) 
+Place 2: psychoman59 (445 en jetons) 
+Place 3: jloup92 (530 en jetons) 
+jloup92 : met la petite blind. 15
+ketameang1rl : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Qs]
+psychoman59 : passe. 
+jloup92 : relance. 30 à 60
+ketameang1rl : passe. 
+Personne n'a suivi. (30) sont retournés à jloup92.
+jloup92 a remporté 60  lors du pot .
+jloup92 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : ketameang1rl (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : jloup92 (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°260834634207 : Tournoi #4001111845, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 17/05/2026 7:55:46 CET [17/05/2026 1:55:46 ET]
+Table '4001111845 1' 3-max Siège #3 est au bouton.
+Place 1: ketameang1rl (495 en jetons) 
+Place 2: psychoman59 (445 en jetons) 
+Place 3: jloup92 (560 en jetons) 
+ketameang1rl : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 9d]
+jloup92 : passe. 
+ketameang1rl : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Kd 8d Ts]
+ketameang1rl : mise. 30
+psychoman59 : suit. 30
+*** TOURNANT *** [Kd 8d Ts] [Qd]
+ketameang1rl : mise. 30
+psychoman59 : suit. 30
+*** RIVIÈRE *** [Kd 8d Ts Qd] [2s]
+ketameang1rl : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à ketameang1rl.
+ketameang1rl a remporté 180  lors du pot .
+ketameang1rl : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Kd 8d Ts Qd 2s]
+Siège 1 : ketameang1rl (petite blind) a remporté (180)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : jloup92 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260834635333 : Tournoi #4001111845, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 17/05/2026 7:56:07 CET [17/05/2026 1:56:07 ET]
+Table '4001111845 1' 3-max Siège #1 est au bouton.
+Place 1: ketameang1rl (585 en jetons) 
+Place 2: psychoman59 (355 en jetons) 
+Place 3: jloup92 (560 en jetons) 
+psychoman59 : met la petite blind. 15
+jloup92 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h As]
+ketameang1rl : passe. 
+psychoman59 : suit. 15
+jloup92 : parole 
+*** FLOP *** [2c 4h Kd]
+psychoman59 : parole 
+jloup92 : parole 
+*** TOURNANT *** [2c 4h Kd] [Qh]
+psychoman59 : mise. 30
+jloup92 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [2c 4h Kd Qh]
+Siège 1 : ketameang1rl (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (60)
+Siège 3 : jloup92 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°260834636550 : Tournoi #4001111845, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 17/05/2026 7:56:31 CET [17/05/2026 1:56:31 ET]
+Table '4001111845 1' 3-max Siège #2 est au bouton.
+Place 1: ketameang1rl (585 en jetons) 
+Place 2: psychoman59 (385 en jetons) 
+Place 3: jloup92 (530 en jetons) 
+jloup92 : met la petite blind. 15
+ketameang1rl : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Qd]
+psychoman59 : passe. 
+jloup92 : relance. 30 à 60
+ketameang1rl : suit. 30
+*** FLOP *** [8s 8h 2s]
+jloup92 : mise. 30
+ketameang1rl : suit. 30
+*** TOURNANT *** [8s 8h 2s] [8d]
+jloup92 : mise. 30
+ketameang1rl : relance. 30 à 60
+jloup92 : relance. 30 à 90
+ketameang1rl : suit. 30
+*** RIVIÈRE *** [8s 8h 2s 8d] [5s]
+jloup92 : mise. 180
+ketameang1rl : relance. 180 à 360
+jloup92 : suit. 170 et est all-in.
+Personne n'a suivi. (10) sont retournés à ketameang1rl.
+*** ABATTAGE ***
+ketameang1rl : montre [8c Qs] (un carré de Huit)
+jloup92 : montre [Ad As] (un full, full aux Huit par les As)
+ketameang1rl a remporté 1060  lors du pot .
+jloup92 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 1060 | Commission 0 
+Tableau [8s 8h 2s 8d 5s]
+Siège 1 : ketameang1rl (grosse blind) a montré [8c Qs] et a gagné (1060) avec un carré de Huit
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : jloup92 (petite blind) a montré [Ad As] et a perdu avec un full, full aux Huit par les As
+
+
+
+Main PokerStars n°260834638534 : Tournoi #4001111845, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 17/05/2026 7:57:09 CET [17/05/2026 1:57:09 ET]
+Table '4001111845 1' 3-max Siège #1 est au bouton.
+Place 1: ketameang1rl (1115 en jetons) 
+Place 2: psychoman59 (385 en jetons) 
+ketameang1rl : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Ts]
+ketameang1rl : suit. 15
+psychoman59 : parole 
+*** FLOP *** [5c 5h 4c]
+psychoman59 : parole 
+ketameang1rl : parole 
+*** TOURNANT *** [5c 5h 4c] [2s]
+psychoman59 : parole 
+ketameang1rl : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à ketameang1rl.
+ketameang1rl a remporté 60  lors du pot .
+ketameang1rl : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [5c 5h 4c 2s]
+Siège 1 : ketameang1rl (bouton) (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°260834639839 : Tournoi #4001111845, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 17/05/2026 7:57:34 CET [17/05/2026 1:57:34 ET]
+Table '4001111845 1' 3-max Siège #2 est au bouton.
+Place 1: ketameang1rl (1145 en jetons) 
+Place 2: psychoman59 (355 en jetons) 
+psychoman59 : met la petite blind. 20
+ketameang1rl : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 7h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à ketameang1rl.
+ketameang1rl a remporté 40  lors du pot .
+ketameang1rl : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : ketameang1rl (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260834640086 : Tournoi #4001111845, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 17/05/2026 7:57:38 CET [17/05/2026 1:57:38 ET]
+Table '4001111845 1' 3-max Siège #1 est au bouton.
+Place 1: ketameang1rl (1165 en jetons) 
+Place 2: psychoman59 (335 en jetons) 
+ketameang1rl : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 3s]
+ketameang1rl : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : ketameang1rl (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°260834640469 : Tournoi #4001111845, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 17/05/2026 7:57:45 CET [17/05/2026 1:57:45 ET]
+Table '4001111845 1' 3-max Siège #2 est au bouton.
+Place 1: ketameang1rl (1145 en jetons) 
+Place 2: psychoman59 (355 en jetons) 
+psychoman59 : met la petite blind. 20
+ketameang1rl : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Ks]
+psychoman59 : relance. 40 à 80
+ketameang1rl : suit. 40
+*** FLOP *** [6d Jh 4h]
+ketameang1rl : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [6d Jh 4h] [3s]
+ketameang1rl : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à ketameang1rl.
+ketameang1rl a remporté 240  lors du pot .
+ketameang1rl : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [6d Jh 4h 3s]
+Siège 1 : ketameang1rl (grosse blind) a remporté (240)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°260834641372 : Tournoi #4001111845, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 17/05/2026 7:58:03 CET [17/05/2026 1:58:03 ET]
+Table '4001111845 1' 3-max Siège #1 est au bouton.
+Place 1: ketameang1rl (1265 en jetons) 
+Place 2: psychoman59 (235 en jetons) 
+ketameang1rl : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 6d]
+ketameang1rl : suit. 20
+psychoman59 : relance. 195 à 235 et est all-in.
+ketameang1rl : suit. 195
+*** FLOP *** [2c 7c 3h]
+*** TOURNANT *** [2c 7c 3h] [Tc]
+*** RIVIÈRE *** [2c 7c 3h Tc] [9h]
+*** ABATTAGE ***
+psychoman59 : montre [Qs 6d] (Hauteur Dame)
+ketameang1rl : montre [Qd 6h] (Hauteur Dame)
+psychoman59 a remporté 235  lors du pot .
+ketameang1rl a remporté 235  lors du pot .
+*** SYNTHÈSE ***
+Pot total 470 | Commission 0 
+Tableau [2c 7c 3h Tc 9h]
+Siège 1 : ketameang1rl (bouton) (petite blind) a montré [Qd 6h] et a gagné (235) avec Hauteur Dame
+Siège 2 : psychoman59 (grosse blind) a montré [Qs 6d] et a gagné (235) avec Hauteur Dame
+
+
+
+Main PokerStars n°260834642245 : Tournoi #4001111845, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 17/05/2026 7:58:19 CET [17/05/2026 1:58:19 ET]
+Table '4001111845 1' 3-max Siège #2 est au bouton.
+Place 1: ketameang1rl (1265 en jetons) 
+Place 2: psychoman59 (235 en jetons) 
+psychoman59 : met la petite blind. 20
+ketameang1rl : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 3s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à ketameang1rl.
+ketameang1rl a remporté 40  lors du pot .
+ketameang1rl : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : ketameang1rl (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260834642571 : Tournoi #4001111845, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 17/05/2026 7:58:25 CET [17/05/2026 1:58:25 ET]
+Table '4001111845 1' 3-max Siège #1 est au bouton.
+Place 1: ketameang1rl (1285 en jetons) 
+Place 2: psychoman59 (215 en jetons) 
+ketameang1rl : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Qs]
+ketameang1rl : suit. 20
+psychoman59 : relance. 175 à 215 et est all-in.
+ketameang1rl : passe. 
+Personne n'a suivi. (175) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : ketameang1rl (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°260834643082 : Tournoi #4001111845, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 17/05/2026 7:58:36 CET [17/05/2026 1:58:36 ET]
+Table '4001111845 1' 3-max Siège #2 est au bouton.
+Place 1: ketameang1rl (1245 en jetons) 
+Place 2: psychoman59 (255 en jetons) 
+psychoman59 : met la petite blind. 20
+ketameang1rl : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 3s]
+psychoman59 : relance. 215 à 255 et est all-in.
+ketameang1rl : suit. 215
+*** FLOP *** [As 9s Jd]
+*** TOURNANT *** [As 9s Jd] [5s]
+*** RIVIÈRE *** [As 9s Jd 5s] [6s]
+*** ABATTAGE ***
+ketameang1rl : montre [Kd 4s] (une couleur, hauteur As)
+psychoman59 : montre [Kh 3s] (une couleur, hauteur As - plus basse cartes)
+ketameang1rl a remporté 510  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+ketameang1rl remporte le tournoi et reçoit 1.50 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 510 | Commission 0 
+Tableau [As 9s Jd 5s 6s]
+Siège 1 : ketameang1rl (grosse blind) a montré [Kd 4s] et a gagné (510) avec une couleur, hauteur As
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Kh 3s] et a perdu avec une couleur, hauteur As
+
+
+

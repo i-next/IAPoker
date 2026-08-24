@@ -1,0 +1,519 @@
+﻿Main PokerStars n°261422110284 : Tournoi #4015675869, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 13/07/2026 7:21:50 CET [13/07/2026 1:21:50 ET]
+Table '4015675869 1' 3-max Siège #1 est au bouton.
+Place 1: Poker_trebol_98 (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: MaizuM BR (500 en jetons) 
+psychoman59 : met la petite blind. 10
+MaizuM BR : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 8s]
+Poker_trebol_98 : passe. 
+psychoman59 : suit. 10
+MaizuM BR : parole 
+*** FLOP *** [8h Qd 5c]
+psychoman59 : parole 
+MaizuM BR : parole 
+*** TOURNANT *** [8h Qd 5c] [Qs]
+psychoman59 : mise. 40
+MaizuM BR : suit. 40
+*** RIVIÈRE *** [8h Qd 5c Qs] [5h]
+psychoman59 : mise. 60
+MaizuM BR : suit. 60
+*** ABATTAGE ***
+psychoman59 : montre [Kc 8s] (double paire, Dames et Huit)
+MaizuM BR : cache la main perdante. 
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [8h Qd 5c Qs 5h]
+Siège 1 : Poker_trebol_98 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [Kc 8s] et a gagné (240) avec double paire, Dames et Huit
+Siège 3 : MaizuM BR (grosse blind) a caché la main perdante. [8c 9d]
+
+
+
+Main PokerStars n°261422111637 : Tournoi #4015675869, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 13/07/2026 7:22:18 CET [13/07/2026 1:22:18 ET]
+Table '4015675869 1' 3-max Siège #2 est au bouton.
+Place 1: Poker_trebol_98 (500 en jetons) 
+Place 2: psychoman59 (620 en jetons) 
+Place 3: MaizuM BR (380 en jetons) 
+MaizuM BR : met la petite blind. 10
+Poker_trebol_98 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 4c]
+psychoman59 : passe. 
+MaizuM BR : passe. 
+Personne n'a suivi. (10) sont retournés à Poker_trebol_98.
+Poker_trebol_98 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : Poker_trebol_98 (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : MaizuM BR (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261422112038 : Tournoi #4015675869, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 13/07/2026 7:22:27 CET [13/07/2026 1:22:27 ET]
+Table '4015675869 1' 3-max Siège #3 est au bouton.
+Place 1: Poker_trebol_98 (510 en jetons) 
+Place 2: psychoman59 (620 en jetons) 
+Place 3: MaizuM BR (370 en jetons) 
+Poker_trebol_98 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 3c]
+MaizuM BR : suit. 20
+Poker_trebol_98 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [As Kd 4s]
+Poker_trebol_98 : parole 
+psychoman59 : parole 
+MaizuM BR : parole 
+*** TOURNANT *** [As Kd 4s] [7h]
+Poker_trebol_98 : mise. 20
+psychoman59 : passe. 
+MaizuM BR : suit. 20
+*** RIVIÈRE *** [As Kd 4s 7h] [5d]
+Poker_trebol_98 : parole 
+MaizuM BR : parole 
+*** ABATTAGE ***
+Poker_trebol_98 : montre [7d Jc] (une paire de Sept)
+MaizuM BR : montre [4c 5s] (double paire, Cinq et Quatre)
+MaizuM BR a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [As Kd 4s 7h 5d]
+Siège 1 : Poker_trebol_98 (petite blind) a montré [7d Jc] et a perdu avec une paire de Sept
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : MaizuM BR (bouton) a montré [4c 5s] et a gagné (100) avec double paire, Cinq et Quatre
+
+
+
+Main PokerStars n°261422114019 : Tournoi #4015675869, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 13/07/2026 7:23:08 CET [13/07/2026 1:23:08 ET]
+Table '4015675869 1' 3-max Siège #1 est au bouton.
+Place 1: Poker_trebol_98 (470 en jetons) 
+Place 2: psychoman59 (600 en jetons) 
+Place 3: MaizuM BR (430 en jetons) 
+psychoman59 : met la petite blind. 10
+MaizuM BR : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 6h]
+Poker_trebol_98 : suit. 20
+psychoman59 : suit. 10
+MaizuM BR : parole 
+*** FLOP *** [2c 2s Tc]
+psychoman59 : parole 
+MaizuM BR : parole 
+Poker_trebol_98 : parole 
+*** TOURNANT *** [2c 2s Tc] [Js]
+psychoman59 : parole 
+MaizuM BR : parole 
+Poker_trebol_98 : parole 
+*** RIVIÈRE *** [2c 2s Tc Js] [4c]
+psychoman59 : parole 
+MaizuM BR : parole 
+Poker_trebol_98 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Ad 6h] (une paire de Deux)
+MaizuM BR : cache la main perdante. 
+Poker_trebol_98 : cache la main perdante. 
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [2c 2s Tc Js 4c]
+Siège 1 : Poker_trebol_98 (bouton) a caché la main perdante. [6s 9d]
+Siège 2 : psychoman59 (petite blind) a montré [Ad 6h] et a gagné (60) avec une paire de Deux
+Siège 3 : MaizuM BR (grosse blind) a caché la main perdante. [7d 5s]
+
+
+
+Main PokerStars n°261422115852 : Tournoi #4015675869, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 13/07/2026 7:23:46 CET [13/07/2026 1:23:46 ET]
+Table '4015675869 1' 3-max Siège #2 est au bouton.
+Place 1: Poker_trebol_98 (450 en jetons) 
+Place 2: psychoman59 (640 en jetons) 
+Place 3: MaizuM BR (410 en jetons) 
+MaizuM BR : met la petite blind. 10
+Poker_trebol_98 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Qd]
+psychoman59 : passe. 
+MaizuM BR : suit. 10
+Poker_trebol_98 : relance. 20 à 40
+MaizuM BR : suit. 20
+*** FLOP *** [Tc 8d Ah]
+MaizuM BR : parole 
+Poker_trebol_98 : mise. 40
+MaizuM BR : passe. 
+Personne n'a suivi. (40) sont retournés à Poker_trebol_98.
+Poker_trebol_98 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Tc 8d Ah]
+Siège 1 : Poker_trebol_98 (grosse blind) a remporté (80)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : MaizuM BR (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261422118353 : Tournoi #4015675869, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 13/07/2026 7:24:38 CET [13/07/2026 1:24:38 ET]
+Table '4015675869 1' 3-max Siège #3 est au bouton.
+Place 1: Poker_trebol_98 (490 en jetons) 
+Place 2: psychoman59 (640 en jetons) 
+Place 3: MaizuM BR (370 en jetons) 
+Poker_trebol_98 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 9s]
+MaizuM BR : passe. 
+Poker_trebol_98 : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Poker_trebol_98.
+Poker_trebol_98 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Poker_trebol_98 (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : MaizuM BR (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261422119020 : Tournoi #4015675869, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 13/07/2026 7:24:53 CET [13/07/2026 1:24:53 ET]
+Table '4015675869 1' 3-max Siège #1 est au bouton.
+Place 1: Poker_trebol_98 (520 en jetons) 
+Place 2: psychoman59 (610 en jetons) 
+Place 3: MaizuM BR (370 en jetons) 
+psychoman59 : met la petite blind. 15
+MaizuM BR : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Ts]
+Poker_trebol_98 : relance. 30 à 60
+psychoman59 : passe. 
+MaizuM BR : suit. 30
+*** FLOP *** [8d 2s 5h]
+MaizuM BR : parole 
+Poker_trebol_98 : parole 
+*** TOURNANT *** [8d 2s 5h] [3d]
+MaizuM BR : parole 
+Poker_trebol_98 : mise. 39
+MaizuM BR : passe. 
+Personne n'a suivi. (39) sont retournés à Poker_trebol_98.
+Poker_trebol_98 a remporté 135  lors du pot .
+*** SYNTHÈSE ***
+Pot total 135 | Commission 0 
+Tableau [8d 2s 5h 3d]
+Siège 1 : Poker_trebol_98 (bouton) a remporté (135)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : MaizuM BR (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°261422120652 : Tournoi #4015675869, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 13/07/2026 7:25:27 CET [13/07/2026 1:25:27 ET]
+Table '4015675869 1' 3-max Siège #2 est au bouton.
+Place 1: Poker_trebol_98 (595 en jetons) 
+Place 2: psychoman59 (595 en jetons) 
+Place 3: MaizuM BR (310 en jetons) 
+MaizuM BR : met la petite blind. 15
+Poker_trebol_98 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 6d]
+psychoman59 : passe. 
+MaizuM BR : passe. 
+Personne n'a suivi. (15) sont retournés à Poker_trebol_98.
+Poker_trebol_98 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : Poker_trebol_98 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : MaizuM BR (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261422121024 : Tournoi #4015675869, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 13/07/2026 7:25:35 CET [13/07/2026 1:25:35 ET]
+Table '4015675869 1' 3-max Siège #3 est au bouton.
+Place 1: Poker_trebol_98 (610 en jetons) 
+Place 2: psychoman59 (595 en jetons) 
+Place 3: MaizuM BR (295 en jetons) 
+Poker_trebol_98 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 2h]
+MaizuM BR : suit. 30
+Poker_trebol_98 : passe. 
+psychoman59 : parole 
+*** FLOP *** [Ts Ks 8h]
+psychoman59 : parole 
+MaizuM BR : parole 
+*** TOURNANT *** [Ts Ks 8h] [7c]
+psychoman59 : parole 
+MaizuM BR : parole 
+*** RIVIÈRE *** [Ts Ks 8h 7c] [Ah]
+psychoman59 : parole 
+MaizuM BR : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à MaizuM BR.
+MaizuM BR a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Tableau [Ts Ks 8h 7c Ah]
+Siège 1 : Poker_trebol_98 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : MaizuM BR (bouton) a remporté (75)
+
+
+
+Main PokerStars n°261422122621 : Tournoi #4015675869, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 13/07/2026 7:26:09 CET [13/07/2026 1:26:09 ET]
+Table '4015675869 1' 3-max Siège #1 est au bouton.
+Place 1: Poker_trebol_98 (595 en jetons) 
+Place 2: psychoman59 (565 en jetons) 
+Place 3: MaizuM BR (340 en jetons) 
+psychoman59 : met la petite blind. 20
+MaizuM BR : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 9h]
+Poker_trebol_98 : relance. 40 à 80
+psychoman59 : passe. 
+MaizuM BR : passe. 
+Personne n'a suivi. (40) sont retournés à Poker_trebol_98.
+Poker_trebol_98 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : Poker_trebol_98 (bouton) a remporté (100)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : MaizuM BR (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261422122898 : Tournoi #4015675869, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 13/07/2026 7:26:15 CET [13/07/2026 1:26:15 ET]
+Table '4015675869 1' 3-max Siège #2 est au bouton.
+Place 1: Poker_trebol_98 (655 en jetons) 
+Place 2: psychoman59 (545 en jetons) 
+Place 3: MaizuM BR (300 en jetons) 
+MaizuM BR : met la petite blind. 20
+Poker_trebol_98 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 3d]
+psychoman59 : passe. 
+MaizuM BR : suit. 20
+Poker_trebol_98 : parole 
+*** FLOP *** [Qs Qc Js]
+MaizuM BR : parole 
+Poker_trebol_98 : mise. 40
+MaizuM BR : suit. 40
+*** TOURNANT *** [Qs Qc Js] [4h]
+MaizuM BR : parole 
+Poker_trebol_98 : parole 
+*** RIVIÈRE *** [Qs Qc Js 4h] [Td]
+MaizuM BR : mise. 80
+Poker_trebol_98 : passe. 
+Personne n'a suivi. (80) sont retournés à MaizuM BR.
+MaizuM BR a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Qs Qc Js 4h Td]
+Siège 1 : Poker_trebol_98 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : MaizuM BR (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°261422124064 : Tournoi #4015675869, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 13/07/2026 7:26:39 CET [13/07/2026 1:26:39 ET]
+Table '4015675869 1' 3-max Siège #3 est au bouton.
+Place 1: Poker_trebol_98 (575 en jetons) 
+Place 2: psychoman59 (545 en jetons) 
+Place 3: MaizuM BR (380 en jetons) 
+Poker_trebol_98 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Ac]
+MaizuM BR : passe. 
+Poker_trebol_98 : suit. 20
+psychoman59 : relance. 505 à 545 et est all-in.
+Poker_trebol_98 : passe. 
+Personne n'a suivi. (505) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : Poker_trebol_98 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : MaizuM BR (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261422124749 : Tournoi #4015675869, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 13/07/2026 7:26:54 CET [13/07/2026 1:26:54 ET]
+Table '4015675869 1' 3-max Siège #1 est au bouton.
+Place 1: Poker_trebol_98 (535 en jetons) 
+Place 2: psychoman59 (585 en jetons) 
+Place 3: MaizuM BR (380 en jetons) 
+psychoman59 : met la petite blind. 20
+MaizuM BR : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Qs]
+Poker_trebol_98 : passe. 
+psychoman59 : suit. 20
+MaizuM BR : parole 
+*** FLOP *** [8h 6s 4d]
+psychoman59 : parole 
+MaizuM BR : parole 
+*** TOURNANT *** [8h 6s 4d] [7s]
+psychoman59 : parole 
+MaizuM BR : parole 
+*** RIVIÈRE *** [8h 6s 4d 7s] [6d]
+psychoman59 : parole 
+MaizuM BR : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Th Qs] (une paire de Six)
+MaizuM BR : cache la main perdante. 
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [8h 6s 4d 7s 6d]
+Siège 1 : Poker_trebol_98 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [Th Qs] et a gagné (80) avec une paire de Six
+Siège 3 : MaizuM BR (grosse blind) a caché la main perdante. [2s 3h]
+
+
+
+Main PokerStars n°261422126382 : Tournoi #4015675869, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 13/07/2026 7:27:30 CET [13/07/2026 1:27:30 ET]
+Table '4015675869 1' 3-max Siège #2 est au bouton.
+Place 1: Poker_trebol_98 (535 en jetons) 
+Place 2: psychoman59 (625 en jetons) 
+Place 3: MaizuM BR (340 en jetons) 
+MaizuM BR : met la petite blind. 20
+Poker_trebol_98 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Jh]
+psychoman59 : relance. 100 à 140
+MaizuM BR : passe. 
+Poker_trebol_98 : passe. 
+Personne n'a suivi. (100) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : Poker_trebol_98 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a remporté (100)
+Siège 3 : MaizuM BR (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261422127294 : Tournoi #4015675869, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 13/07/2026 7:27:49 CET [13/07/2026 1:27:49 ET]
+Table '4015675869 1' 3-max Siège #3 est au bouton.
+Place 1: Poker_trebol_98 (495 en jetons) 
+Place 2: psychoman59 (685 en jetons) 
+Place 3: MaizuM BR (320 en jetons) 
+Poker_trebol_98 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 6d]
+MaizuM BR : passe. 
+Poker_trebol_98 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Poker_trebol_98 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : MaizuM BR (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261422127695 : Tournoi #4015675869, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/07/2026 7:27:58 CET [13/07/2026 1:27:58 ET]
+Table '4015675869 1' 3-max Siège #1 est au bouton.
+Place 1: Poker_trebol_98 (475 en jetons) 
+Place 2: psychoman59 (705 en jetons) 
+Place 3: MaizuM BR (320 en jetons) 
+psychoman59 : met la petite blind. 30
+MaizuM BR : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Ad]
+Poker_trebol_98 : relance. 60 à 120
+psychoman59 : relance. 585 à 705 et est all-in.
+MaizuM BR : suit. 260 et est all-in.
+Poker_trebol_98 : passe. 
+Personne n'a suivi. (385) sont retournés à psychoman59.
+*** FLOP *** [7c 6c Qd]
+*** TOURNANT *** [7c 6c Qd] [8h]
+*** RIVIÈRE *** [7c 6c Qd 8h] [4d]
+*** ABATTAGE ***
+psychoman59 : montre [Qs Ad] (une paire de Dames)
+MaizuM BR : montre [Th Tc] (une paire de Dix)
+psychoman59 a remporté 760  lors du pot .
+MaizuM BR a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 760 | Commission 0 
+Tableau [7c 6c Qd 8h 4d]
+Siège 1 : Poker_trebol_98 (bouton) s'est couché. avant Flop
+Siège 2 : psychoman59 (petite blind) a montré [Qs Ad] et a gagné (760) avec une paire de Dames
+Siège 3 : MaizuM BR (grosse blind) a montré [Th Tc] et a perdu avec une paire de Dix
+
+
+
+Main PokerStars n°261422129065 : Tournoi #4015675869, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/07/2026 7:28:27 CET [13/07/2026 1:28:27 ET]
+Table '4015675869 1' 3-max Siège #2 est au bouton.
+Place 1: Poker_trebol_98 (355 en jetons) 
+Place 2: psychoman59 (1145 en jetons) 
+psychoman59 : met la petite blind. 30
+Poker_trebol_98 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 5d]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Poker_trebol_98.
+Poker_trebol_98 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Poker_trebol_98 (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261422129269 : Tournoi #4015675869, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/07/2026 7:28:32 CET [13/07/2026 1:28:32 ET]
+Table '4015675869 1' 3-max Siège #1 est au bouton.
+Place 1: Poker_trebol_98 (385 en jetons) 
+Place 2: psychoman59 (1115 en jetons) 
+Poker_trebol_98 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 6d]
+Poker_trebol_98 : relance. 60 à 120
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à Poker_trebol_98.
+Poker_trebol_98 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : Poker_trebol_98 (bouton) (petite blind) a remporté (120)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261422129608 : Tournoi #4015675869, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/07/2026 7:28:38 CET [13/07/2026 1:28:38 ET]
+Table '4015675869 1' 3-max Siège #2 est au bouton.
+Place 1: Poker_trebol_98 (445 en jetons) 
+Place 2: psychoman59 (1055 en jetons) 
+psychoman59 : met la petite blind. 30
+Poker_trebol_98 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Js]
+psychoman59 : suit. 30
+Poker_trebol_98 : relance. 60 à 120
+psychoman59 : relance. 935 à 1055 et est all-in.
+Poker_trebol_98 : suit. 325 et est all-in.
+Personne n'a suivi. (610) sont retournés à psychoman59.
+*** FLOP *** [Ah 4c 8c]
+*** TOURNANT *** [Ah 4c 8c] [Qs]
+*** RIVIÈRE *** [Ah 4c 8c Qs] [Td]
+*** ABATTAGE ***
+Poker_trebol_98 : montre [Qd Kd] (une paire de Dames)
+psychoman59 : montre [Kh Js] (une suite, Dix à As)
+psychoman59 a remporté 890  lors du pot .
+Poker_trebol_98 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 1.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 890 | Commission 0 
+Tableau [Ah 4c 8c Qs Td]
+Siège 1 : Poker_trebol_98 (grosse blind) a montré [Qd Kd] et a perdu avec une paire de Dames
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Kh Js] et a gagné (890) avec une suite, Dix à As
+
+
+

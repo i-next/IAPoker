@@ -1,0 +1,407 @@
+﻿Main PokerStars n°244653401936 : Tournoi #3613254563, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 06/07/2023 7:11:53 CET [06/07/2023 1:11:53 ET]
+Table '3613254563 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Beatrice3307 (300 en jetons) 
+Place 3: tazdevil@13560 (300 en jetons) 
+Beatrice3307 : met la petite blind. 10
+tazdevil@13560 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Ks]
+psychoman59 : relance. 40 à 60
+Beatrice3307 : suit. 50
+tazdevil@13560 : passe. 
+*** FLOP *** [9s 8h 3d]
+Beatrice3307 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [9s 8h 3d] [Jc]
+Beatrice3307 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [9s 8h 3d Jc] [Qs]
+Beatrice3307 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Beatrice3307 : montre [As 4c] (Hauteur As)
+psychoman59 : montre [Qc Ks] (une paire de Dames)
+psychoman59 a remporté 140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [9s 8h 3d Jc Qs]
+Siège 1 : psychoman59 (bouton) a montré [Qc Ks] et a gagné (140) avec une paire de Dames
+Siège 2 : Beatrice3307 (petite blind) a montré [As 4c] et a perdu avec Hauteur As
+Siège 3 : tazdevil@13560 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244653404205 : Tournoi #3613254563, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 06/07/2023 7:12:13 CET [06/07/2023 1:12:13 ET]
+Table '3613254563 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (380 en jetons) 
+Place 2: Beatrice3307 (240 en jetons) 
+Place 3: tazdevil@13560 (280 en jetons) 
+tazdevil@13560 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 7d]
+Beatrice3307 : passe. 
+tazdevil@13560 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Qd Jd 2c]
+tazdevil@13560 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Qd Jd 2c] [8h]
+tazdevil@13560 : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [Qd Jd 2c 8h] [Ks]
+tazdevil@13560 : mise. 40
+psychoman59 : suit. 40
+*** ABATTAGE ***
+tazdevil@13560 : montre [Qc Td] (une paire de Dames)
+psychoman59 : cache la main perdante. 
+tazdevil@13560 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Qd Jd 2c 8h Ks]
+Siège 1 : psychoman59 (grosse blind) a caché la main perdante. [Jh 7d]
+Siège 2 : Beatrice3307 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : tazdevil@13560 (petite blind) a montré [Qc Td] et a gagné (160) avec une paire de Dames
+
+
+
+Main PokerStars n°244653406156 : Tournoi #3613254563, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 06/07/2023 7:12:33 CET [06/07/2023 1:12:33 ET]
+Table '3613254563 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Beatrice3307 (240 en jetons) 
+Place 3: tazdevil@13560 (360 en jetons) 
+psychoman59 : met la petite blind. 10
+Beatrice3307 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 7d]
+tazdevil@13560 : relance. 20 à 40
+psychoman59 : suit. 30
+Beatrice3307 : suit. 20
+*** FLOP *** [Kc 2c Kh]
+psychoman59 : parole 
+Beatrice3307 : parole 
+tazdevil@13560 : mise. 20
+psychoman59 : suit. 20
+Beatrice3307 : suit. 20
+*** TOURNANT *** [Kc 2c Kh] [4d]
+psychoman59 : parole 
+Beatrice3307 : parole 
+tazdevil@13560 : mise. 20
+psychoman59 : suit. 20
+Beatrice3307 : passe. 
+*** RIVIÈRE *** [Kc 2c Kh 4d] [Qc]
+psychoman59 : parole 
+tazdevil@13560 : mise. 20
+psychoman59 : suit. 20
+*** ABATTAGE ***
+tazdevil@13560 : montre [6c 6s] (double paire, Rois et Six)
+psychoman59 : cache la main perdante. 
+tazdevil@13560 a remporté 260  lors du pot .
+*** SYNTHÈSE ***
+Pot total 260 | Commission 0 
+Tableau [Kc 2c Kh 4d Qc]
+Siège 1 : psychoman59 (petite blind) a caché la main perdante. [As 7d]
+Siège 2 : Beatrice3307 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : tazdevil@13560 (bouton) a montré [6c 6s] et a gagné (260) avec double paire, Rois et Six
+
+
+
+Main PokerStars n°244653409505 : Tournoi #3613254563, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 06/07/2023 7:13:05 CET [06/07/2023 1:13:05 ET]
+Table '3613254563 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (200 en jetons) 
+Place 2: Beatrice3307 (180 en jetons) 
+Place 3: tazdevil@13560 (520 en jetons) 
+Beatrice3307 : met la petite blind. 15
+tazdevil@13560 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 8c]
+psychoman59 : passe. 
+Beatrice3307 : passe. 
+Personne n'a suivi. (15) sont retournés à tazdevil@13560.
+tazdevil@13560 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Beatrice3307 (petite blind) s'est couché. avant Flop
+Siège 3 : tazdevil@13560 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°244653410169 : Tournoi #3613254563, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 06/07/2023 7:13:11 CET [06/07/2023 1:13:11 ET]
+Table '3613254563 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (200 en jetons) 
+Place 2: Beatrice3307 (165 en jetons) 
+Place 3: tazdevil@13560 (535 en jetons) 
+tazdevil@13560 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Kh]
+Beatrice3307 : suit. 30
+tazdevil@13560 : relance. 30 à 60
+psychoman59 : relance. 140 à 200 et est all-in.
+Beatrice3307 : passe. 
+tazdevil@13560 : suit. 140
+*** FLOP *** [Qc 9h 4s]
+*** TOURNANT *** [Qc 9h 4s] [Qs]
+*** RIVIÈRE *** [Qc 9h 4s Qs] [2d]
+*** ABATTAGE ***
+tazdevil@13560 : montre [Jh As] (une paire de Dames)
+psychoman59 : montre [Ac Kh] (une paire de Dames - As+Roi kicker)
+psychoman59 a remporté 430  lors du pot .
+*** SYNTHÈSE ***
+Pot total 430 | Commission 0 
+Tableau [Qc 9h 4s Qs 2d]
+Siège 1 : psychoman59 (grosse blind) a montré [Ac Kh] et a gagné (430) avec une paire de Dames
+Siège 2 : Beatrice3307 (bouton) s'est couché. avant Flop
+Siège 3 : tazdevil@13560 (petite blind) a montré [Jh As] et a perdu avec une paire de Dames
+
+
+
+Main PokerStars n°244653412949 : Tournoi #3613254563, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 06/07/2023 7:13:37 CET [06/07/2023 1:13:37 ET]
+Table '3613254563 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (430 en jetons) 
+Place 2: Beatrice3307 (135 en jetons) 
+Place 3: tazdevil@13560 (335 en jetons) 
+psychoman59 : met la petite blind. 15
+Beatrice3307 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Kc]
+tazdevil@13560 : suit. 30
+psychoman59 : suit. 15
+Beatrice3307 : parole 
+*** FLOP *** [8d 5c 7s]
+psychoman59 : parole 
+Beatrice3307 : parole 
+tazdevil@13560 : parole 
+*** TOURNANT *** [8d 5c 7s] [6s]
+psychoman59 : parole 
+Beatrice3307 : mise. 60
+tazdevil@13560 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à Beatrice3307.
+Beatrice3307 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [8d 5c 7s 6s]
+Siège 1 : psychoman59 (petite blind) s'est couché. sur le Tournant
+Siège 2 : Beatrice3307 (grosse blind) a remporté (90)
+Siège 3 : tazdevil@13560 (bouton) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°244653415307 : Tournoi #3613254563, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 06/07/2023 7:13:59 CET [06/07/2023 1:13:59 ET]
+Table '3613254563 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (400 en jetons) 
+Place 2: Beatrice3307 (195 en jetons) 
+Place 3: tazdevil@13560 (305 en jetons) 
+Beatrice3307 : met la petite blind. 20
+tazdevil@13560 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 8c]
+psychoman59 : passe. 
+Beatrice3307 : passe. 
+Personne n'a suivi. (20) sont retournés à tazdevil@13560.
+tazdevil@13560 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Beatrice3307 (petite blind) s'est couché. avant Flop
+Siège 3 : tazdevil@13560 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°244653416995 : Tournoi #3613254563, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 06/07/2023 7:14:15 CET [06/07/2023 1:14:15 ET]
+Table '3613254563 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (400 en jetons) 
+Place 2: Beatrice3307 (175 en jetons) 
+Place 3: tazdevil@13560 (325 en jetons) 
+tazdevil@13560 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Ah]
+Beatrice3307 : passe. 
+tazdevil@13560 : suit. 20
+psychoman59 : relance. 360 à 400 et est all-in.
+tazdevil@13560 : passe. 
+Personne n'a suivi. (360) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (80)
+Siège 2 : Beatrice3307 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : tazdevil@13560 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244653418240 : Tournoi #3613254563, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 06/07/2023 7:14:27 CET [06/07/2023 1:14:27 ET]
+Table '3613254563 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (440 en jetons) 
+Place 2: Beatrice3307 (175 en jetons) 
+Place 3: tazdevil@13560 (285 en jetons) 
+psychoman59 : met la petite blind. 20
+Beatrice3307 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Kh]
+tazdevil@13560 : suit. 40
+psychoman59 : relance. 400 à 440 et est all-in.
+Beatrice3307 : passe. 
+tazdevil@13560 : suit. 245 et est all-in.
+Personne n'a suivi. (155) sont retournés à psychoman59.
+*** FLOP *** [9d Qc Td]
+*** TOURNANT *** [9d Qc Td] [8s]
+*** RIVIÈRE *** [9d Qc Td 8s] [Ks]
+*** ABATTAGE ***
+psychoman59 : montre [Ac Kh] (une paire de Rois)
+tazdevil@13560 : montre [Th Tc] (un brelan de Dix)
+tazdevil@13560 a remporté 610  lors du pot .
+*** SYNTHÈSE ***
+Pot total 610 | Commission 0 
+Tableau [9d Qc Td 8s Ks]
+Siège 1 : psychoman59 (petite blind) a montré [Ac Kh] et a perdu avec une paire de Rois
+Siège 2 : Beatrice3307 (grosse blind) s'est couché. avant Flop
+Siège 3 : tazdevil@13560 (bouton) a montré [Th Tc] et a gagné (610) avec un brelan de Dix
+
+
+
+Main PokerStars n°244653420325 : Tournoi #3613254563, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 06/07/2023 7:14:47 CET [06/07/2023 1:14:47 ET]
+Table '3613254563 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (155 en jetons) 
+Place 2: Beatrice3307 (135 en jetons) 
+Place 3: tazdevil@13560 (610 en jetons) 
+Beatrice3307 : met la petite blind. 20
+tazdevil@13560 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Ah]
+psychoman59 : relance. 115 à 155 et est all-in.
+Beatrice3307 : suit. 115 et est all-in.
+tazdevil@13560 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+*** FLOP *** [2c 4d 5c]
+*** TOURNANT *** [2c 4d 5c] [Ad]
+*** RIVIÈRE *** [2c 4d 5c Ad] [Qd]
+*** ABATTAGE ***
+Beatrice3307 : montre [Js 8c] (Hauteur As)
+psychoman59 : montre [6s Ah] (une paire de As)
+psychoman59 a remporté 310  lors du pot .
+Beatrice3307 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Tableau [2c 4d 5c Ad Qd]
+Siège 1 : psychoman59 (bouton) a montré [6s Ah] et a gagné (310) avec une paire de As
+Siège 2 : Beatrice3307 (petite blind) a montré [Js 8c] et a perdu avec Hauteur As
+Siège 3 : tazdevil@13560 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244653422768 : Tournoi #3613254563, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 06/07/2023 7:15:11 CET [06/07/2023 1:15:11 ET]
+Table '3613254563 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (330 en jetons) 
+Place 3: tazdevil@13560 (570 en jetons) 
+tazdevil@13560 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 5c]
+tazdevil@13560 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [3c Jd 9s]
+psychoman59 : parole 
+tazdevil@13560 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à tazdevil@13560.
+tazdevil@13560 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [3c Jd 9s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : tazdevil@13560 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°244653424156 : Tournoi #3613254563, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 06/07/2023 7:15:25 CET [06/07/2023 1:15:25 ET]
+Table '3613254563 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 3: tazdevil@13560 (630 en jetons) 
+psychoman59 : met la petite blind. 30
+tazdevil@13560 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Qc]
+psychoman59 : relance. 210 à 270 et est all-in.
+tazdevil@13560 : passe. 
+Personne n'a suivi. (210) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 3 : tazdevil@13560 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244653424941 : Tournoi #3613254563, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 06/07/2023 7:15:31 CET [06/07/2023 1:15:31 ET]
+Table '3613254563 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (330 en jetons) 
+Place 3: tazdevil@13560 (570 en jetons) 
+tazdevil@13560 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 2h]
+tazdevil@13560 : relance. 60 à 120
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à tazdevil@13560.
+tazdevil@13560 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : tazdevil@13560 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°244653425605 : Tournoi #3613254563, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 06/07/2023 7:15:38 CET [06/07/2023 1:15:38 ET]
+Table '3613254563 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 3: tazdevil@13560 (630 en jetons) 
+psychoman59 : met la petite blind. 30
+tazdevil@13560 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 9d]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à tazdevil@13560.
+tazdevil@13560 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : tazdevil@13560 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°244653426048 : Tournoi #3613254563, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 06/07/2023 7:15:42 CET [06/07/2023 1:15:42 ET]
+Table '3613254563 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (240 en jetons) 
+Place 3: tazdevil@13560 (660 en jetons) 
+tazdevil@13560 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 9c]
+tazdevil@13560 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [2s 7s 5d]
+psychoman59 : mise. 180 et est all-in.
+tazdevil@13560 : suit. 180
+*** TOURNANT *** [2s 7s 5d] [As]
+*** RIVIÈRE *** [2s 7s 5d As] [4c]
+*** ABATTAGE ***
+psychoman59 : montre [6c 9c] (Hauteur As)
+tazdevil@13560 : montre [Qd Kc] (Hauteur As - Roi kicker)
+tazdevil@13560 a remporté 480  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+tazdevil@13560 remporte le tournoi et reçoit 10.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [2s 7s 5d As 4c]
+Siège 1 : psychoman59 (grosse blind) a montré [6c 9c] et a perdu avec Hauteur As
+Siège 3 : tazdevil@13560 (bouton) (petite blind) a montré [Qd Kc] et a gagné (480) avec Hauteur As
+
+
+

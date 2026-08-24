@@ -1,0 +1,71 @@
+﻿Main PokerStars n°239017328674 : Tournoi #3480757893, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 03/10/2022 23:01:14 CET [03/10/2022 17:01:14 ET]
+Table '3480757893 1' 3-max Siège #1 est au bouton.
+Place 1: Jsarri1324 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: hitbarr83 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+hitbarr83 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 7s]
+Jsarri1324 : suit. 20
+psychoman59 : suit. 10
+hitbarr83 : parole 
+*** FLOP *** [As Kh 7c]
+psychoman59 : parole 
+hitbarr83 : parole 
+Jsarri1324 : parole 
+*** TOURNANT *** [As Kh 7c] [3s]
+psychoman59 : mise. 30
+hitbarr83 : passe. 
+Jsarri1324 : suit. 30
+*** RIVIÈRE *** [As Kh 7c 3s] [Ts]
+psychoman59 : mise. 60
+Jsarri1324 : relance. 60 à 120
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à Jsarri1324.
+Jsarri1324 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [As Kh 7c 3s Ts]
+Siège 1 : Jsarri1324 (bouton) a remporté (240)
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Rivière
+Siège 3 : hitbarr83 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°239017343230 : Tournoi #3480757893, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 03/10/2022 23:01:57 CET [03/10/2022 17:01:57 ET]
+Table '3480757893 1' 3-max Siège #2 est au bouton.
+Place 1: Jsarri1324 (430 en jetons) 
+Place 2: psychoman59 (190 en jetons) 
+Place 3: hitbarr83 (280 en jetons) 
+hitbarr83 : met la petite blind. 10
+Jsarri1324 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 6h]
+psychoman59 : relance. 170 à 190 et est all-in.
+hitbarr83 : suit. 180
+Jsarri1324 : suit. 170
+*** FLOP *** [As Tc 4d]
+hitbarr83 : parole 
+Jsarri1324 : parole 
+*** TOURNANT *** [As Tc 4d] [2h]
+hitbarr83 : parole 
+Jsarri1324 : parole 
+*** RIVIÈRE *** [As Tc 4d 2h] [7h]
+hitbarr83 : parole 
+Jsarri1324 : parole 
+*** ABATTAGE ***
+hitbarr83 : montre [Qs 8s] (Hauteur As)
+Jsarri1324 : montre [9d 9h] (une paire de Neuf)
+psychoman59 : cache la main perdante. 
+Jsarri1324 a remporté 570  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 570 | Commission 0 
+Tableau [As Tc 4d 2h 7h]
+Siège 1 : Jsarri1324 (grosse blind) a montré [9d 9h] et a gagné (570) avec une paire de Neuf
+Siège 2 : psychoman59 (bouton) a caché la main perdante. [6s 6h]
+Siège 3 : hitbarr83 (petite blind) a montré [Qs 8s] et a perdu avec Hauteur As
+
+
+

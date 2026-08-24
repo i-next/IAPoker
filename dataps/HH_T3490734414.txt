@@ -1,0 +1,405 @@
+﻿Main PokerStars n°239442488646 : Tournoi #3490734414, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 25/10/2022 15:42:17 CET [25/10/2022 9:42:17 ET]
+Table '3490734414 1' 4-max Siège #1 est au bouton.
+Place 1: LETIGREDU76 (5000 en jetons) 
+Place 2: LeHerisson75 (5000 en jetons) 
+Place 3: psychoman59 (5000 en jetons) 
+Place 4: javijota7 (5000 en jetons) 
+LETIGREDU76 : met l'ante. 10
+LeHerisson75 : met l'ante. 10
+psychoman59 : met l'ante. 10
+javijota7 : met l'ante. 10
+LeHerisson75 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 8s]
+javijota7 : suit. 100
+LETIGREDU76 : suit. 100
+LeHerisson75 : suit. 50
+psychoman59 : parole 
+*** FLOP *** [Jh Ts 8d]
+LeHerisson75 : parole 
+psychoman59 : parole 
+javijota7 : mise. 200
+LETIGREDU76 : suit. 200
+LeHerisson75 : passe. 
+psychoman59 : suit. 200
+*** TOURNANT *** [Jh Ts 8d] [6h]
+psychoman59 : parole 
+javijota7 : mise. 300
+LETIGREDU76 : passe. 
+psychoman59 : suit. 300
+*** RIVIÈRE *** [Jh Ts 8d 6h] [Kd]
+psychoman59 : parole 
+javijota7 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Qs 8s] (une paire de Huit)
+javijota7 : montre [Js 4s] (une paire de Valets)
+javijota7 a remporté 1640  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1640 | Commission 0 
+Tableau [Jh Ts 8d 6h Kd]
+Siège 1 : LETIGREDU76 (bouton) s'est couché. sur le Tournant
+Siège 2 : LeHerisson75 (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a montré [Qs 8s] et a perdu avec une paire de Huit
+Siège 4 : javijota7 a montré [Js 4s] et a gagné (1640) avec une paire de Valets
+
+
+
+Main PokerStars n°239442500825 : Tournoi #3490734414, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 25/10/2022 15:43:11 CET [25/10/2022 9:43:11 ET]
+Table '3490734414 1' 4-max Siège #2 est au bouton.
+Place 1: LETIGREDU76 (4690 en jetons) 
+Place 2: LeHerisson75 (4890 en jetons) 
+Place 3: psychoman59 (4390 en jetons) 
+Place 4: javijota7 (6030 en jetons) 
+LETIGREDU76 : met l'ante. 10
+LeHerisson75 : met l'ante. 10
+psychoman59 : met l'ante. 10
+javijota7 : met l'ante. 10
+psychoman59 : met la petite blind. 50
+javijota7 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Qc]
+LETIGREDU76 : suit. 100
+LeHerisson75 : passe. 
+psychoman59 : passe. 
+javijota7 : parole 
+*** FLOP *** [Ac Ah 5d]
+javijota7 : parole 
+LETIGREDU76 : parole 
+*** TOURNANT *** [Ac Ah 5d] [9h]
+javijota7 : parole 
+LETIGREDU76 : parole 
+*** RIVIÈRE *** [Ac Ah 5d 9h] [6c]
+javijota7 : parole 
+LETIGREDU76 : parole 
+*** ABATTAGE ***
+javijota7 : montre [6h 7h] (double paire, As et Six)
+LETIGREDU76 : cache la main perdante. 
+javijota7 a remporté 290  lors du pot .
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Tableau [Ac Ah 5d 9h 6c]
+Siège 1 : LETIGREDU76 a caché la main perdante. [8h Th]
+Siège 2 : LeHerisson75 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : javijota7 (grosse blind) a montré [6h 7h] et a gagné (290) avec double paire, As et Six
+
+
+
+Main PokerStars n°239442509257 : Tournoi #3490734414, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 25/10/2022 15:43:48 CET [25/10/2022 9:43:48 ET]
+Table '3490734414 1' 4-max Siège #3 est au bouton.
+Place 1: LETIGREDU76 (4580 en jetons) 
+Place 2: LeHerisson75 (4880 en jetons) 
+Place 3: psychoman59 (4330 en jetons) 
+Place 4: javijota7 (6210 en jetons) 
+LETIGREDU76 : met l'ante. 10
+LeHerisson75 : met l'ante. 10
+psychoman59 : met l'ante. 10
+javijota7 : met l'ante. 10
+javijota7 : met la petite blind. 50
+LETIGREDU76 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 3s]
+LeHerisson75 : passe. 
+psychoman59 : suit. 100
+javijota7 : relance. 300 à 400
+LETIGREDU76 : passe. 
+psychoman59 : suit. 300
+*** FLOP *** [Ah 9h Kd]
+javijota7 : mise. 5800 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (5800) sont retournés à javijota7.
+javijota7 a remporté 940  lors du pot .
+*** SYNTHÈSE ***
+Pot total 940 | Commission 0 
+Tableau [Ah 9h Kd]
+Siège 1 : LETIGREDU76 (grosse blind) s'est couché. avant Flop
+Siège 2 : LeHerisson75 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 4 : javijota7 (petite blind) a remporté (940)
+
+
+
+Main PokerStars n°239442516077 : Tournoi #3490734414, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 25/10/2022 15:44:19 CET [25/10/2022 9:44:19 ET]
+Table '3490734414 1' 4-max Siège #4 est au bouton.
+Place 1: LETIGREDU76 (4470 en jetons) 
+Place 2: LeHerisson75 (4870 en jetons) 
+Place 3: psychoman59 (3920 en jetons) 
+Place 4: javijota7 (6740 en jetons) 
+LETIGREDU76 : met l'ante. 10
+LeHerisson75 : met l'ante. 10
+psychoman59 : met l'ante. 10
+javijota7 : met l'ante. 10
+LETIGREDU76 : met la petite blind. 50
+LeHerisson75 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Qc]
+psychoman59 : passe. 
+javijota7 : suit. 100
+LETIGREDU76 : passe. 
+LeHerisson75 : parole 
+*** FLOP *** [6s As Ad]
+LeHerisson75 : parole 
+javijota7 : parole 
+*** TOURNANT *** [6s As Ad] [6c]
+LeHerisson75 : mise. 145
+javijota7 : suit. 145
+*** RIVIÈRE *** [6s As Ad 6c] [Qs]
+LeHerisson75 : parole 
+javijota7 : mise. 580
+LeHerisson75 : passe. 
+Personne n'a suivi. (580) sont retournés à javijota7.
+javijota7 a remporté 580  lors du pot .
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [6s As Ad 6c Qs]
+Siège 1 : LETIGREDU76 (petite blind) s'est couché. avant Flop
+Siège 2 : LeHerisson75 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : javijota7 (bouton) a remporté (580)
+
+
+
+Main PokerStars n°239442523859 : Tournoi #3490734414, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau I (50/100) - 25/10/2022 15:44:54 CET [25/10/2022 9:44:54 ET]
+Table '3490734414 1' 4-max Siège #1 est au bouton.
+Place 1: LETIGREDU76 (4410 en jetons) 
+Place 2: LeHerisson75 (4615 en jetons) 
+Place 3: psychoman59 (3910 en jetons) 
+Place 4: javijota7 (7065 en jetons) 
+LETIGREDU76 : met l'ante. 10
+LeHerisson75 : met l'ante. 10
+psychoman59 : met l'ante. 10
+javijota7 : met l'ante. 10
+LeHerisson75 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 9c]
+javijota7 : passe. 
+LETIGREDU76 : suit. 100
+LeHerisson75 : passe. 
+psychoman59 : parole 
+*** FLOP *** [Qs 5c 9d]
+psychoman59 : parole 
+LETIGREDU76 : mise. 145
+psychoman59 : suit. 145
+*** TOURNANT *** [Qs 5c 9d] [Qd]
+psychoman59 : parole 
+LETIGREDU76 : mise. 290
+psychoman59 : suit. 290
+*** RIVIÈRE *** [Qs 5c 9d Qd] [8d]
+psychoman59 : parole 
+LETIGREDU76 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [2h 9c] (double paire, Dames et Neuf)
+LETIGREDU76 : montre [Js 9s] (double paire, Dames et Neuf - Valet kicker)
+LETIGREDU76 a remporté 1160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1160 | Commission 0 
+Tableau [Qs 5c 9d Qd 8d]
+Siège 1 : LETIGREDU76 (bouton) a montré [Js 9s] et a gagné (1160) avec double paire, Dames et Neuf
+Siège 2 : LeHerisson75 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [2h 9c] et a perdu avec double paire, Dames et Neuf
+Siège 4 : javijota7 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°239442532214 : Tournoi #3490734414, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 25/10/2022 15:45:31 CET [25/10/2022 9:45:31 ET]
+Table '3490734414 1' 4-max Siège #2 est au bouton.
+Place 1: LETIGREDU76 (5025 en jetons) 
+Place 2: LeHerisson75 (4555 en jetons) 
+Place 3: psychoman59 (3365 en jetons) 
+Place 4: javijota7 (7055 en jetons) 
+LETIGREDU76 : met l'ante. 15
+LeHerisson75 : met l'ante. 15
+psychoman59 : met l'ante. 15
+javijota7 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+javijota7 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 4d]
+LETIGREDU76 : passe. 
+LeHerisson75 : passe. 
+psychoman59 : relance. 3230 à 3350 et est all-in.
+javijota7 : passe. 
+Personne n'a suivi. (3230) sont retournés à psychoman59.
+psychoman59 a remporté 300  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Siège 1 : LETIGREDU76 s'est couché. avant Flop (n'a pas misé)
+Siège 2 : LeHerisson75 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (300)
+Siège 4 : javijota7 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239442535567 : Tournoi #3490734414, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 25/10/2022 15:45:46 CET [25/10/2022 9:45:46 ET]
+Table '3490734414 1' 4-max Siège #3 est au bouton.
+Place 1: LETIGREDU76 (5010 en jetons) 
+Place 2: LeHerisson75 (4540 en jetons) 
+Place 3: psychoman59 (3530 en jetons) 
+Place 4: javijota7 (6920 en jetons) 
+LETIGREDU76 : met l'ante. 15
+LeHerisson75 : met l'ante. 15
+psychoman59 : met l'ante. 15
+javijota7 : met l'ante. 15
+javijota7 : met la petite blind. 60
+LETIGREDU76 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 3h]
+LeHerisson75 : passe. 
+psychoman59 : suit. 120
+javijota7 : passe. 
+LETIGREDU76 : parole 
+*** FLOP *** [6h 3d 5d]
+LETIGREDU76 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6h 3d 5d] [Jh]
+LETIGREDU76 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [6h 3d 5d Jh] [3s]
+LETIGREDU76 : parole 
+psychoman59 : mise. 360
+LETIGREDU76 : passe. 
+Personne n'a suivi. (360) sont retournés à psychoman59.
+psychoman59 a remporté 360  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [6h 3d 5d Jh 3s]
+Siège 1 : LETIGREDU76 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : LeHerisson75 s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (bouton) a remporté (360)
+Siège 4 : javijota7 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239442542756 : Tournoi #3490734414, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 25/10/2022 15:46:16 CET [25/10/2022 9:46:16 ET]
+Table '3490734414 1' 4-max Siège #4 est au bouton.
+Place 1: LETIGREDU76 (4875 en jetons) 
+Place 2: LeHerisson75 (4525 en jetons) 
+Place 3: psychoman59 (3755 en jetons) 
+Place 4: javijota7 (6845 en jetons) 
+LETIGREDU76 : met l'ante. 15
+LeHerisson75 : met l'ante. 15
+psychoman59 : met l'ante. 15
+javijota7 : met l'ante. 15
+LETIGREDU76 : met la petite blind. 60
+LeHerisson75 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Qc]
+psychoman59 : passe. 
+javijota7 : relance. 360 à 480
+LETIGREDU76 : passe. 
+LeHerisson75 : passe. 
+Personne n'a suivi. (360) sont retournés à javijota7.
+javijota7 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Siège 1 : LETIGREDU76 (petite blind) s'est couché. avant Flop
+Siège 2 : LeHerisson75 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 s'est couché. avant Flop (n'a pas misé)
+Siège 4 : javijota7 (bouton) a remporté (360)
+
+
+
+Main PokerStars n°239442546820 : Tournoi #3490734414, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 25/10/2022 15:46:34 CET [25/10/2022 9:46:34 ET]
+Table '3490734414 1' 4-max Siège #1 est au bouton.
+Place 1: LETIGREDU76 (4800 en jetons) 
+Place 2: LeHerisson75 (4390 en jetons) 
+Place 3: psychoman59 (3740 en jetons) 
+Place 4: javijota7 (7070 en jetons) 
+LETIGREDU76 : met l'ante. 15
+LeHerisson75 : met l'ante. 15
+psychoman59 : met l'ante. 15
+javijota7 : met l'ante. 15
+LeHerisson75 : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 2d]
+javijota7 : passe. 
+LETIGREDU76 : passe. 
+LeHerisson75 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 180  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Siège 1 : LETIGREDU76 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : LeHerisson75 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (180)
+Siège 4 : javijota7 s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°239442550393 : Tournoi #3490734414, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 25/10/2022 15:46:50 CET [25/10/2022 9:46:50 ET]
+Table '3490734414 1' 4-max Siège #2 est au bouton.
+Place 1: LETIGREDU76 (4785 en jetons) 
+Place 2: LeHerisson75 (4315 en jetons) 
+Place 3: psychoman59 (3845 en jetons) 
+Place 4: javijota7 (7055 en jetons) 
+LETIGREDU76 : met l'ante. 15
+LeHerisson75 : met l'ante. 15
+psychoman59 : met l'ante. 15
+javijota7 : met l'ante. 15
+psychoman59 : met la petite blind. 60
+javijota7 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 6c]
+LETIGREDU76 : relance. 240 à 360
+LeHerisson75 : passe. 
+psychoman59 : suit. 300
+javijota7 : passe. 
+*** FLOP *** [8h 3c Qh]
+psychoman59 : parole 
+LETIGREDU76 : mise. 450
+psychoman59 : passe. 
+Personne n'a suivi. (450) sont retournés à LETIGREDU76.
+LETIGREDU76 a remporté 900  lors du pot .
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Tableau [8h 3c Qh]
+Siège 1 : LETIGREDU76 a remporté (900)
+Siège 2 : LeHerisson75 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 4 : javijota7 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239442558000 : Tournoi #3490734414, 1.38 €+0.12 € EUR Hold'em No Limit - Niveau II (60/120) - 25/10/2022 15:47:23 CET [25/10/2022 9:47:23 ET]
+Table '3490734414 1' 4-max Siège #3 est au bouton.
+Place 1: LETIGREDU76 (5310 en jetons) 
+Place 2: LeHerisson75 (4300 en jetons) 
+Place 3: psychoman59 (3470 en jetons) 
+Place 4: javijota7 (6920 en jetons) 
+LETIGREDU76 : met l'ante. 15
+LeHerisson75 : met l'ante. 15
+psychoman59 : met l'ante. 15
+javijota7 : met l'ante. 15
+javijota7 : met la petite blind. 60
+LETIGREDU76 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 2c]
+LeHerisson75 : relance. 120 à 240
+psychoman59 : relance. 3215 à 3455 et est all-in.
+javijota7 : suit. 3395
+LETIGREDU76 : passe. 
+LeHerisson75 : passe. 
+*** FLOP *** [5h Qc 6h]
+*** TOURNANT *** [5h Qc 6h] [Js]
+*** RIVIÈRE *** [5h Qc 6h Js] [Td]
+*** ABATTAGE ***
+javijota7 : montre [8s 8c] (une paire de Huit)
+psychoman59 : montre [2h 2c] (une paire de Deux)
+javijota7 a remporté 7330  lors du pot .
+psychoman59 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 7330 | Commission 0 
+Tableau [5h Qc 6h Js Td]
+Siège 1 : LETIGREDU76 (grosse blind) s'est couché. avant Flop
+Siège 2 : LeHerisson75 s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a montré [2h 2c] et a perdu avec une paire de Deux
+Siège 4 : javijota7 (petite blind) a montré [8s 8c] et a gagné (7330) avec une paire de Huit
+
+
+

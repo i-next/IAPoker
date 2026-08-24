@@ -1,0 +1,814 @@
+﻿Main PokerStars n°261332309104 : Tournoi #4013432320, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/07/2026 8:13:07 CET [04/07/2026 2:13:07 ET]
+Table '4013432320 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: boy2654 (500 en jetons) 
+Place 3: sarajosito (500 en jetons) 
+boy2654 : met la petite blind. 10
+sarajosito : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Ac]
+psychoman59 : relance. 50 à 70
+boy2654 : passe. 
+sarajosito : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : psychoman59 (bouton) a remporté (50)
+Siège 2 : boy2654 (petite blind) s'est couché. avant Flop
+Siège 3 : sarajosito (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261332309641 : Tournoi #4013432320, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/07/2026 8:13:16 CET [04/07/2026 2:13:16 ET]
+Table '4013432320 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (530 en jetons) 
+Place 2: boy2654 (490 en jetons) 
+Place 3: sarajosito (480 en jetons) 
+sarajosito : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 4d]
+boy2654 : relance. 20 à 40
+sarajosito : passe. 
+psychoman59 : suit. 20
+*** FLOP *** [3s 8s 8c]
+psychoman59 : parole 
+boy2654 : parole 
+*** TOURNANT *** [3s 8s 8c] [8h]
+psychoman59 : parole 
+boy2654 : parole 
+*** RIVIÈRE *** [3s 8s 8c 8h] [5s]
+psychoman59 : parole 
+boy2654 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à boy2654.
+boy2654 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [3s 8s 8c 8h 5s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : boy2654 (bouton) a remporté (90)
+Siège 3 : sarajosito (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261332311313 : Tournoi #4013432320, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/07/2026 8:13:44 CET [04/07/2026 2:13:44 ET]
+Table '4013432320 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (490 en jetons) 
+Place 2: boy2654 (540 en jetons) 
+Place 3: sarajosito (470 en jetons) 
+psychoman59 : met la petite blind. 10
+boy2654 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 5h]
+sarajosito : relance. 20 à 40
+psychoman59 : passe. 
+boy2654 : suit. 20
+*** FLOP *** [7d 6s 2h]
+boy2654 : parole 
+sarajosito : mise. 90
+boy2654 : passe. 
+Personne n'a suivi. (90) sont retournés à sarajosito.
+sarajosito a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [7d 6s 2h]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : boy2654 (grosse blind) s'est couché. sur le Flop
+Siège 3 : sarajosito (bouton) a remporté (90)
+
+
+
+Main PokerStars n°261332312245 : Tournoi #4013432320, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/07/2026 8:14:00 CET [04/07/2026 2:14:00 ET]
+Table '4013432320 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (480 en jetons) 
+Place 2: boy2654 (500 en jetons) 
+Place 3: sarajosito (520 en jetons) 
+boy2654 : met la petite blind. 10
+sarajosito : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 9h]
+psychoman59 : passe. 
+boy2654 : suit. 10
+sarajosito : parole 
+*** FLOP *** [Jd 8d Qs]
+boy2654 : parole 
+sarajosito : parole 
+*** TOURNANT *** [Jd 8d Qs] [7c]
+boy2654 : parole 
+sarajosito : parole 
+*** RIVIÈRE *** [Jd 8d Qs 7c] [Kc]
+boy2654 : mise. 60
+sarajosito : suit. 60
+*** ABATTAGE ***
+boy2654 : montre [Td Ac] (une suite, Dix à As)
+sarajosito : cache la main perdante. 
+boy2654 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Jd 8d Qs 7c Kc]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : boy2654 (petite blind) a montré [Td Ac] et a gagné (160) avec une suite, Dix à As
+Siège 3 : sarajosito (grosse blind) a caché la main perdante. [Kh 6h]
+
+
+
+Main PokerStars n°261332313978 : Tournoi #4013432320, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/07/2026 8:14:28 CET [04/07/2026 2:14:28 ET]
+Table '4013432320 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (480 en jetons) 
+Place 2: boy2654 (580 en jetons) 
+Place 3: sarajosito (440 en jetons) 
+sarajosito : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Ks]
+boy2654 : suit. 20
+sarajosito : relance. 20 à 40
+psychoman59 : suit. 20
+boy2654 : passe. 
+*** FLOP *** [Jh Qs 7h]
+sarajosito : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Jh Qs 7h] [Tc]
+sarajosito : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Jh Qs 7h Tc] [2h]
+sarajosito : parole 
+psychoman59 : mise. 100
+sarajosito : passe. 
+Personne n'a suivi. (100) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [Jh Qs 7h Tc 2h]
+Siège 1 : psychoman59 (grosse blind) a remporté (100)
+Siège 2 : boy2654 (bouton) s'est couché. avant Flop
+Siège 3 : sarajosito (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°261332316736 : Tournoi #4013432320, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/07/2026 8:15:14 CET [04/07/2026 2:15:14 ET]
+Table '4013432320 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (540 en jetons) 
+Place 2: boy2654 (560 en jetons) 
+Place 3: sarajosito (400 en jetons) 
+psychoman59 : met la petite blind. 10
+boy2654 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 6s]
+sarajosito : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à boy2654.
+boy2654 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : boy2654 (grosse blind) a remporté (20)
+Siège 3 : sarajosito (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261332317417 : Tournoi #4013432320, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/07/2026 8:15:25 CET [04/07/2026 2:15:25 ET]
+Table '4013432320 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (530 en jetons) 
+Place 2: boy2654 (570 en jetons) 
+Place 3: sarajosito (400 en jetons) 
+boy2654 : met la petite blind. 10
+sarajosito : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Kh]
+psychoman59 : suit. 20
+boy2654 : suit. 10
+sarajosito : relance. 380 à 400 et est all-in.
+psychoman59 : passe. 
+boy2654 : passe. 
+Personne n'a suivi. (380) sont retournés à sarajosito.
+sarajosito a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 2 : boy2654 (petite blind) s'est couché. avant Flop
+Siège 3 : sarajosito (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°261332318283 : Tournoi #4013432320, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/07/2026 8:15:40 CET [04/07/2026 2:15:40 ET]
+Table '4013432320 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (510 en jetons) 
+Place 2: boy2654 (550 en jetons) 
+Place 3: sarajosito (440 en jetons) 
+sarajosito : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 8s]
+boy2654 : relance. 20 à 40
+sarajosito : relance. 20 à 60
+psychoman59 : passe. 
+boy2654 : suit. 20
+*** FLOP *** [Ad 4h 6c]
+sarajosito : parole 
+boy2654 : parole 
+*** TOURNANT *** [Ad 4h 6c] [5c]
+sarajosito : parole 
+boy2654 : parole 
+*** RIVIÈRE *** [Ad 4h 6c 5c] [7s]
+sarajosito : mise. 140
+boy2654 : passe. 
+Personne n'a suivi. (140) sont retournés à sarajosito.
+sarajosito a remporté 140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [Ad 4h 6c 5c 7s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : boy2654 (bouton) s'est couché. sur le Rivière
+Siège 3 : sarajosito (petite blind) a remporté (140)
+
+
+
+Main PokerStars n°261332319828 : Tournoi #4013432320, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/07/2026 8:16:06 CET [04/07/2026 2:16:06 ET]
+Table '4013432320 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (490 en jetons) 
+Place 2: boy2654 (490 en jetons) 
+Place 3: sarajosito (520 en jetons) 
+psychoman59 : met la petite blind. 10
+boy2654 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 3h]
+sarajosito : relance. 500 à 520 et est all-in.
+psychoman59 : passe. 
+boy2654 : suit. 470 et est all-in.
+Personne n'a suivi. (30) sont retournés à sarajosito.
+*** FLOP *** [9c Ks Ad]
+*** TOURNANT *** [9c Ks Ad] [8s]
+*** RIVIÈRE *** [9c Ks Ad 8s] [Td]
+*** ABATTAGE ***
+boy2654 : montre [Js Jc] (une paire de Valets)
+sarajosito : montre [4s 4c] (une paire de Quatre)
+boy2654 a remporté 990  lors du pot .
+*** SYNTHÈSE ***
+Pot total 990 | Commission 0 
+Tableau [9c Ks Ad 8s Td]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : boy2654 (grosse blind) a montré [Js Jc] et a gagné (990) avec une paire de Valets
+Siège 3 : sarajosito (bouton) a montré [4s 4c] et a perdu avec une paire de Quatre
+
+
+
+Main PokerStars n°261332320909 : Tournoi #4013432320, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 04/07/2026 8:16:24 CET [04/07/2026 2:16:24 ET]
+Table '4013432320 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (480 en jetons) 
+Place 2: boy2654 (990 en jetons) 
+Place 3: sarajosito (30 en jetons) 
+boy2654 : met la petite blind. 15
+sarajosito : met la grosse blind. 30 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 8d]
+psychoman59 : suit. 30
+boy2654 : relance. 30 à 60
+psychoman59 : suit. 30
+*** FLOP *** [2h Jd 4d]
+boy2654 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [2h Jd 4d] [As]
+boy2654 : mise. 90
+psychoman59 : suit. 90
+*** RIVIÈRE *** [2h Jd 4d As] [Jc]
+boy2654 : mise. 120
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à boy2654.
+*** ABATTAGE ***
+boy2654 : montre [Ks Ad] (double paire, As et Valets)
+boy2654 a remporté 240  parallèle lors du pot .
+sarajosito : montre [Jh 7c] (un brelan de Valets)
+sarajosito a remporté 90  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 330 Principal pot 90. Parallèle pot 240. | Commission 0 
+Tableau [2h Jd 4d As Jc]
+Siège 1 : psychoman59 (bouton) s'est couché. sur le Rivière
+Siège 2 : boy2654 (petite blind) a montré [Ks Ad] et a gagné (240) avec double paire, As et Valets
+Siège 3 : sarajosito (grosse blind) a montré [Jh 7c] et a gagné (90) avec un brelan de Valets
+
+
+
+Main PokerStars n°261332322189 : Tournoi #4013432320, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 04/07/2026 8:16:45 CET [04/07/2026 2:16:45 ET]
+Table '4013432320 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (330 en jetons) 
+Place 2: boy2654 (1080 en jetons) 
+Place 3: sarajosito (90 en jetons) 
+sarajosito : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 3s]
+boy2654 : relance. 30 à 60
+sarajosito : relance. 30 à 90 et est all-in.
+psychoman59 : relance. 240 à 330 et est all-in.
+boy2654 : passe. 
+Personne n'a suivi. (240) sont retournés à psychoman59.
+*** FLOP *** [2c 5h Qh]
+*** TOURNANT *** [2c 5h Qh] [Kc]
+*** RIVIÈRE *** [2c 5h Qh Kc] [Ks]
+*** ABATTAGE ***
+sarajosito : montre [Jc Jd] (double paire, Rois et Valets)
+psychoman59 : montre [Ah 3s] (une paire de Rois)
+sarajosito a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [2c 5h Qh Kc Ks]
+Siège 1 : psychoman59 (grosse blind) a montré [Ah 3s] et a perdu avec une paire de Rois
+Siège 2 : boy2654 (bouton) s'est couché. avant Flop
+Siège 3 : sarajosito (petite blind) a montré [Jc Jd] et a gagné (240) avec double paire, Rois et Valets
+
+
+
+Main PokerStars n°261332323404 : Tournoi #4013432320, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 04/07/2026 8:17:05 CET [04/07/2026 2:17:05 ET]
+Table '4013432320 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (240 en jetons) 
+Place 2: boy2654 (1020 en jetons) 
+Place 3: sarajosito (240 en jetons) 
+psychoman59 : met la petite blind. 15
+boy2654 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 4d]
+sarajosito : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à boy2654.
+boy2654 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : boy2654 (grosse blind) a remporté (30)
+Siège 3 : sarajosito (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261332323847 : Tournoi #4013432320, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 04/07/2026 8:17:12 CET [04/07/2026 2:17:12 ET]
+Table '4013432320 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (225 en jetons) 
+Place 2: boy2654 (1035 en jetons) 
+Place 3: sarajosito (240 en jetons) 
+boy2654 : met la petite blind. 15
+sarajosito : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 2s]
+psychoman59 : passe. 
+boy2654 : suit. 15
+sarajosito : parole 
+*** FLOP *** [8c As 3c]
+boy2654 : parole 
+sarajosito : mise. 210 et est all-in.
+boy2654 : passe. 
+Personne n'a suivi. (210) sont retournés à sarajosito.
+sarajosito a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [8c As 3c]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : boy2654 (petite blind) s'est couché. sur le Flop
+Siège 3 : sarajosito (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°261332325093 : Tournoi #4013432320, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 04/07/2026 8:17:33 CET [04/07/2026 2:17:33 ET]
+Table '4013432320 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (225 en jetons) 
+Place 2: boy2654 (1005 en jetons) 
+Place 3: sarajosito (270 en jetons) 
+sarajosito : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Qh]
+boy2654 : relance. 30 à 60
+sarajosito : passe. 
+psychoman59 : suit. 30
+*** FLOP *** [7c 3s 4d]
+psychoman59 : parole 
+boy2654 : parole 
+*** TOURNANT *** [7c 3s 4d] [Jh]
+psychoman59 : parole 
+boy2654 : parole 
+*** RIVIÈRE *** [7c 3s 4d Jh] [6d]
+psychoman59 : parole 
+boy2654 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [8d Qh] (Hauteur Dame)
+boy2654 : montre [Ac 2c] (Hauteur As)
+boy2654 a remporté 135  lors du pot .
+*** SYNTHÈSE ***
+Pot total 135 | Commission 0 
+Tableau [7c 3s 4d Jh 6d]
+Siège 1 : psychoman59 (grosse blind) a montré [8d Qh] et a perdu avec Hauteur Dame
+Siège 2 : boy2654 (bouton) a montré [Ac 2c] et a gagné (135) avec Hauteur As
+Siège 3 : sarajosito (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261332326375 : Tournoi #4013432320, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 04/07/2026 8:17:54 CET [04/07/2026 2:17:54 ET]
+Table '4013432320 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (165 en jetons) 
+Place 2: boy2654 (1080 en jetons) 
+Place 3: sarajosito (255 en jetons) 
+psychoman59 : met la petite blind. 15
+boy2654 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 4s]
+sarajosito : relance. 225 à 255 et est all-in.
+psychoman59 : passe. 
+boy2654 : passe. 
+Personne n'a suivi. (225) sont retournés à sarajosito.
+sarajosito a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : boy2654 (grosse blind) s'est couché. avant Flop
+Siège 3 : sarajosito (bouton) a remporté (75)
+
+
+
+Main PokerStars n°261332326900 : Tournoi #4013432320, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 04/07/2026 8:18:03 CET [04/07/2026 2:18:03 ET]
+Table '4013432320 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (150 en jetons) 
+Place 2: boy2654 (1050 en jetons) 
+Place 3: sarajosito (300 en jetons) 
+boy2654 : met la petite blind. 15
+sarajosito : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 9d]
+psychoman59 : passe. 
+boy2654 : suit. 15
+sarajosito : relance. 270 à 300 et est all-in.
+boy2654 : passe. 
+Personne n'a suivi. (270) sont retournés à sarajosito.
+sarajosito a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : boy2654 (petite blind) s'est couché. avant Flop
+Siège 3 : sarajosito (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°261332327722 : Tournoi #4013432320, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 04/07/2026 8:18:17 CET [04/07/2026 2:18:17 ET]
+Table '4013432320 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (150 en jetons) 
+Place 2: boy2654 (1020 en jetons) 
+Place 3: sarajosito (330 en jetons) 
+sarajosito : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 9s]
+boy2654 : suit. 30
+sarajosito : suit. 15
+psychoman59 : parole 
+*** FLOP *** [8d Kd 8s]
+sarajosito : parole 
+psychoman59 : parole 
+boy2654 : parole 
+*** TOURNANT *** [8d Kd 8s] [3c]
+sarajosito : parole 
+psychoman59 : parole 
+boy2654 : parole 
+*** RIVIÈRE *** [8d Kd 8s 3c] [4c]
+sarajosito : parole 
+psychoman59 : parole 
+boy2654 : parole 
+*** ABATTAGE ***
+sarajosito : montre [3s 2h] (double paire, Huit et Trois)
+psychoman59 : cache la main perdante. 
+boy2654 : cache la main perdante. 
+sarajosito a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [8d Kd 8s 3c 4c]
+Siège 1 : psychoman59 (grosse blind) a caché la main perdante. [5s 9s]
+Siège 2 : boy2654 (bouton) a caché la main perdante. [7d Ts]
+Siège 3 : sarajosito (petite blind) a montré [3s 2h] et a gagné (90) avec double paire, Huit et Trois
+
+
+
+Main PokerStars n°261332329509 : Tournoi #4013432320, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 04/07/2026 8:18:46 CET [04/07/2026 2:18:46 ET]
+Table '4013432320 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (120 en jetons) 
+Place 2: boy2654 (990 en jetons) 
+Place 3: sarajosito (390 en jetons) 
+psychoman59 : met la petite blind. 15
+boy2654 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 2s]
+sarajosito : passe. 
+psychoman59 : relance. 90 à 120 et est all-in.
+boy2654 : passe. 
+Personne n'a suivi. (90) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (petite blind) a remporté (60)
+Siège 2 : boy2654 (grosse blind) s'est couché. avant Flop
+Siège 3 : sarajosito (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261332330159 : Tournoi #4013432320, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 04/07/2026 8:18:57 CET [04/07/2026 2:18:57 ET]
+Table '4013432320 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (150 en jetons) 
+Place 2: boy2654 (960 en jetons) 
+Place 3: sarajosito (390 en jetons) 
+boy2654 : met la petite blind. 15
+sarajosito : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h As]
+psychoman59 : relance. 120 à 150 et est all-in.
+boy2654 : passe. 
+sarajosito : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 75  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : psychoman59 (bouton) a remporté (75)
+Siège 2 : boy2654 (petite blind) s'est couché. avant Flop
+Siège 3 : sarajosito (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261332330607 : Tournoi #4013432320, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 04/07/2026 8:19:04 CET [04/07/2026 2:19:04 ET]
+Table '4013432320 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (195 en jetons) 
+Place 2: boy2654 (945 en jetons) 
+Place 3: sarajosito (360 en jetons) 
+sarajosito : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 3d]
+boy2654 : suit. 30
+sarajosito : relance. 30 à 60
+psychoman59 : passe. 
+boy2654 : suit. 30
+*** FLOP *** [2d 6c 4d]
+sarajosito : parole 
+boy2654 : parole 
+*** TOURNANT *** [2d 6c 4d] [4h]
+sarajosito : parole 
+boy2654 : parole 
+*** RIVIÈRE *** [2d 6c 4d 4h] [6h]
+sarajosito : parole 
+boy2654 : parole 
+*** ABATTAGE ***
+sarajosito : montre [9s Ts] (double paire, Six et Quatre)
+boy2654 : montre [7s Ah] (double paire, Six et Quatre - As kicker)
+boy2654 a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Tableau [2d 6c 4d 4h 6h]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : boy2654 (bouton) a montré [7s Ah] et a gagné (150) avec double paire, Six et Quatre
+Siège 3 : sarajosito (petite blind) a montré [9s Ts] et a perdu avec double paire, Six et Quatre
+
+
+
+Main PokerStars n°261332332237 : Tournoi #4013432320, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 04/07/2026 8:19:32 CET [04/07/2026 2:19:32 ET]
+Table '4013432320 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (165 en jetons) 
+Place 2: boy2654 (1035 en jetons) 
+Place 3: sarajosito (300 en jetons) 
+psychoman59 : met la petite blind. 20
+boy2654 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 4c]
+sarajosito : suit. 40
+psychoman59 : passe. 
+boy2654 : parole 
+*** FLOP *** [2h Js 4d]
+boy2654 : parole 
+sarajosito : parole 
+*** TOURNANT *** [2h Js 4d] [Td]
+boy2654 : mise. 120
+sarajosito : suit. 120
+*** RIVIÈRE *** [2h Js 4d Td] [Ad]
+boy2654 : parole 
+sarajosito : mise. 140 et est all-in.
+boy2654 : suit. 140
+*** ABATTAGE ***
+sarajosito : montre [9s 8c] (Hauteur As)
+boy2654 : montre [6h Tc] (une paire de Dix)
+boy2654 a remporté 620  lors du pot .
+sarajosito a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [2h Js 4d Td Ad]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : boy2654 (grosse blind) a montré [6h Tc] et a gagné (620) avec une paire de Dix
+Siège 3 : sarajosito (bouton) a montré [9s 8c] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°261332334028 : Tournoi #4013432320, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 04/07/2026 8:20:03 CET [04/07/2026 2:20:03 ET]
+Table '4013432320 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (145 en jetons) 
+Place 2: boy2654 (1355 en jetons) 
+boy2654 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Jh]
+boy2654 : relance. 40 à 80
+psychoman59 : relance. 65 à 145 et est all-in.
+boy2654 : suit. 65
+*** FLOP *** [As Qd Qh]
+*** TOURNANT *** [As Qd Qh] [Tc]
+*** RIVIÈRE *** [As Qd Qh Tc] [4s]
+*** ABATTAGE ***
+psychoman59 : montre [Ac Jh] (double paire, As et Dames)
+boy2654 : montre [7d 3d] (une paire de Dames)
+psychoman59 a remporté 290  lors du pot .
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Tableau [As Qd Qh Tc 4s]
+Siège 1 : psychoman59 (grosse blind) a montré [Ac Jh] et a gagné (290) avec double paire, As et Dames
+Siège 2 : boy2654 (bouton) (petite blind) a montré [7d 3d] et a perdu avec une paire de Dames
+
+
+
+Main PokerStars n°261332334870 : Tournoi #4013432320, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 04/07/2026 8:20:17 CET [04/07/2026 2:20:17 ET]
+Table '4013432320 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (290 en jetons) 
+Place 2: boy2654 (1210 en jetons) 
+psychoman59 : met la petite blind. 20
+boy2654 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Jc]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à boy2654.
+boy2654 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : boy2654 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°261332335224 : Tournoi #4013432320, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 04/07/2026 8:20:24 CET [04/07/2026 2:20:24 ET]
+Table '4013432320 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 2: boy2654 (1230 en jetons) 
+boy2654 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 7h]
+boy2654 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [9c 7c Td]
+psychoman59 : parole 
+boy2654 : mise. 120
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à boy2654.
+boy2654 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [9c 7c Td]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : boy2654 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°261332336027 : Tournoi #4013432320, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 04/07/2026 8:20:37 CET [04/07/2026 2:20:37 ET]
+Table '4013432320 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (230 en jetons) 
+Place 2: boy2654 (1270 en jetons) 
+psychoman59 : met la petite blind. 20
+boy2654 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 6s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à boy2654.
+boy2654 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : boy2654 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°261332336346 : Tournoi #4013432320, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 04/07/2026 8:20:42 CET [04/07/2026 2:20:42 ET]
+Table '4013432320 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (210 en jetons) 
+Place 2: boy2654 (1290 en jetons) 
+boy2654 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 3c]
+boy2654 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Ah 6d 5s]
+psychoman59 : parole 
+boy2654 : parole 
+*** TOURNANT *** [Ah 6d 5s] [Qd]
+psychoman59 : parole 
+boy2654 : parole 
+*** RIVIÈRE *** [Ah 6d 5s Qd] [9d]
+psychoman59 : parole 
+boy2654 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [8c 3c] (Hauteur As)
+boy2654 : montre [Js 8h] (Hauteur As - Dame+Valet kicker)
+boy2654 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Ah 6d 5s Qd 9d]
+Siège 1 : psychoman59 (grosse blind) a montré [8c 3c] et a perdu avec Hauteur As
+Siège 2 : boy2654 (bouton) (petite blind) a montré [Js 8h] et a gagné (80) avec Hauteur As
+
+
+
+Main PokerStars n°261332337448 : Tournoi #4013432320, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 04/07/2026 8:21:01 CET [04/07/2026 2:21:01 ET]
+Table '4013432320 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (170 en jetons) 
+Place 2: boy2654 (1330 en jetons) 
+psychoman59 : met la petite blind. 20
+boy2654 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 4s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à boy2654.
+boy2654 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : boy2654 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°261332337814 : Tournoi #4013432320, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 04/07/2026 8:21:08 CET [04/07/2026 2:21:08 ET]
+Table '4013432320 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (150 en jetons) 
+Place 2: boy2654 (1350 en jetons) 
+boy2654 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 6c]
+boy2654 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [6h 2d 3s]
+psychoman59 : mise. 110 et est all-in.
+boy2654 : passe. 
+Personne n'a suivi. (110) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [6h 2d 3s]
+Siège 1 : psychoman59 (grosse blind) a remporté (80)
+Siège 2 : boy2654 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261332338359 : Tournoi #4013432320, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 04/07/2026 8:21:17 CET [04/07/2026 2:21:17 ET]
+Table '4013432320 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (190 en jetons) 
+Place 2: boy2654 (1310 en jetons) 
+psychoman59 : met la petite blind. 20
+boy2654 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 2d]
+psychoman59 : relance. 150 à 190 et est all-in.
+boy2654 : passe. 
+Personne n'a suivi. (150) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 2 : boy2654 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261332338743 : Tournoi #4013432320, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 04/07/2026 8:21:23 CET [04/07/2026 2:21:23 ET]
+Table '4013432320 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (230 en jetons) 
+Place 2: boy2654 (1270 en jetons) 
+boy2654 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 9c]
+boy2654 : relance. 40 à 80
+psychoman59 : relance. 150 à 230 et est all-in.
+boy2654 : suit. 150
+*** FLOP *** [7c Qh 2c]
+*** TOURNANT *** [7c Qh 2c] [5s]
+*** RIVIÈRE *** [7c Qh 2c 5s] [Jd]
+*** ABATTAGE ***
+psychoman59 : montre [Ah 9c] (Hauteur As)
+boy2654 : montre [Qc Jh] (double paire, Dames et Valets)
+boy2654 a remporté 460  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+boy2654 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 460 | Commission 0 
+Tableau [7c Qh 2c 5s Jd]
+Siège 1 : psychoman59 (grosse blind) a montré [Ah 9c] et a perdu avec Hauteur As
+Siège 2 : boy2654 (bouton) (petite blind) a montré [Qc Jh] et a gagné (460) avec double paire, Dames et Valets
+
+
+

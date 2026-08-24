@@ -1,0 +1,76 @@
+﻿Main PokerStars n°257763775760 : Tournoi #3928592951, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 16/09/2025 10:22:09 CET [16/09/2025 4:22:09 ET]
+Table '3928592951 1' 3-max Siège #1 est au bouton.
+Place 1: gameryo (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: monsterhyde (500 en jetons) 
+psychoman59 : met la petite blind. 10
+monsterhyde : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 8c]
+gameryo : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à monsterhyde.
+monsterhyde a remporté 20  lors du pot .
+monsterhyde : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : gameryo (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : monsterhyde (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°257763776211 : Tournoi #3928592951, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 16/09/2025 10:22:15 CET [16/09/2025 4:22:15 ET]
+Table '3928592951 1' 3-max Siège #2 est au bouton.
+Place 1: gameryo (500 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: monsterhyde (510 en jetons) 
+monsterhyde : met la petite blind. 10
+gameryo : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 3d]
+psychoman59 : passe. 
+monsterhyde : relance. 60 à 80
+gameryo : passe. 
+Personne n'a suivi. (60) sont retournés à monsterhyde.
+monsterhyde a remporté 40  lors du pot .
+monsterhyde : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : gameryo (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : monsterhyde (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°257763777033 : Tournoi #3928592951, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 16/09/2025 10:22:27 CET [16/09/2025 4:22:27 ET]
+Table '3928592951 1' 3-max Siège #3 est au bouton.
+Place 1: gameryo (480 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: monsterhyde (530 en jetons) 
+gameryo : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Ac]
+monsterhyde : suit. 20
+gameryo : suit. 10
+psychoman59 : relance. 470 à 490 et est all-in.
+monsterhyde : suit. 470
+gameryo : passe. 
+*** FLOP *** [Jh 4c 3d]
+*** TOURNANT *** [Jh 4c 3d] [5s]
+*** RIVIÈRE *** [Jh 4c 3d 5s] [Kd]
+*** ABATTAGE ***
+psychoman59 : montre [5d Ac] (une paire de Cinq)
+monsterhyde : montre [7d 7s] (une paire de Sept)
+monsterhyde a remporté 1000  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 1000 | Commission 0 
+Tableau [Jh 4c 3d 5s Kd]
+Siège 1 : gameryo (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a montré [5d Ac] et a perdu avec une paire de Cinq
+Siège 3 : monsterhyde (bouton) a montré [7d 7s] et a gagné (1000) avec une paire de Sept
+
+
+

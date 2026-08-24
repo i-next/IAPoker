@@ -1,0 +1,32 @@
+﻿Main PokerStars n°239378100044 : Tournoi #3489254967, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/10/2022 10:14:15 CET [22/10/2022 4:14:15 ET]
+Table '3489254967 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: goulwen35561 (300 en jetons) 
+Place 3: scofield_fo (300 en jetons) 
+goulwen35561 : met la petite blind. 10
+scofield_fo : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah As]
+psychoman59 : relance. 40 à 60
+goulwen35561 : suit. 50
+scofield_fo : passe. 
+*** FLOP *** [8s 5s Jd]
+goulwen35561 : mise. 70
+psychoman59 : relance. 170 à 240 et est all-in.
+goulwen35561 : suit. 170 et est all-in.
+*** TOURNANT *** [8s 5s Jd] [Qc]
+*** RIVIÈRE *** [8s 5s Jd Qc] [Ts]
+*** ABATTAGE ***
+goulwen35561 : montre [Jh Tc] (double paire, Valets et Dix)
+psychoman59 : montre [Ah As] (une paire de As)
+goulwen35561 a remporté 620  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [8s 5s Jd Qc Ts]
+Siège 1 : psychoman59 (bouton) a montré [Ah As] et a perdu avec une paire de As
+Siège 2 : goulwen35561 (petite blind) a montré [Jh Tc] et a gagné (620) avec double paire, Valets et Dix
+Siège 3 : scofield_fo (grosse blind) s'est couché. avant Flop
+
+
+

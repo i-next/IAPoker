@@ -1,0 +1,67 @@
+﻿Main PokerStars n°243989194979 : Tournoi #3597893048, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 30/05/2023 7:05:34 CET [30/05/2023 1:05:34 ET]
+Table '3597893048 1' 3-max Siège #1 est au bouton.
+Place 1: avelgornog (300 en jetons) 
+Place 2: anicet7247 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+anicet7247 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 2c]
+avelgornog : passe. 
+anicet7247 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Tc 3d Qc]
+anicet7247 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Tc 3d Qc] [7d]
+anicet7247 : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [Tc 3d Qc 7d] [Ks]
+anicet7247 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à anicet7247.
+anicet7247 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Tc 3d Qc 7d Ks]
+Siège 1 : avelgornog (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : anicet7247 (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°243989197417 : Tournoi #3597893048, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 30/05/2023 7:05:58 CET [30/05/2023 1:05:58 ET]
+Table '3597893048 1' 3-max Siège #2 est au bouton.
+Place 1: avelgornog (300 en jetons) 
+Place 2: anicet7247 (340 en jetons) 
+Place 3: psychoman59 (260 en jetons) 
+psychoman59 : met la petite blind. 10
+avelgornog : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 6s]
+anicet7247 : relance. 20 à 40
+psychoman59 : suit. 30
+avelgornog : suit. 20
+*** FLOP *** [7s 5s 6d]
+psychoman59 : parole 
+avelgornog : parole 
+anicet7247 : mise. 20
+psychoman59 : relance. 200 à 220 et est all-in.
+avelgornog : passe. 
+anicet7247 : suit. 200
+*** TOURNANT *** [7s 5s 6d] [9d]
+*** RIVIÈRE *** [7s 5s 6d 9d] [5c]
+*** ABATTAGE ***
+psychoman59 : montre [Ad 6s] (double paire, Six et Cinq)
+anicet7247 : montre [Qs 7c] (double paire, Sept et Cinq)
+anicet7247 a remporté 560  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [7s 5s 6d 9d 5c]
+Siège 1 : avelgornog (grosse blind) s'est couché. sur le Flop
+Siège 2 : anicet7247 (bouton) a montré [Qs 7c] et a gagné (560) avec double paire, Sept et Cinq
+Siège 3 : psychoman59 (petite blind) a montré [Ad 6s] et a perdu avec double paire, Six et Cinq
+
+
+

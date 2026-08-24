@@ -1,0 +1,594 @@
+﻿Main PokerStars n°258055106103 : Tournoi #3935346254, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 09/10/2025 7:28:16 CET [09/10/2025 1:28:16 ET]
+Table '3935346254 1' 3-max Siège #1 est au bouton.
+Place 1: tu-do8125 (500 en jetons) 
+Place 2: maximussus77 (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+maximussus77 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Qh]
+tu-do8125 : suit. 20
+maximussus77 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Qc Jc 2h]
+maximussus77 : parole 
+psychoman59 : parole 
+tu-do8125 : parole 
+*** TOURNANT *** [Qc Jc 2h] [3s]
+maximussus77 : parole 
+psychoman59 : mise. 30
+tu-do8125 : suit. 30
+maximussus77 : passe. 
+*** RIVIÈRE *** [Qc Jc 2h 3s] [5s]
+psychoman59 : mise. 60
+tu-do8125 : suit. 60
+*** ABATTAGE ***
+psychoman59 : montre [9h Qh] (une paire de Dames)
+tu-do8125 : cache la main perdante. 
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Qc Jc 2h 3s 5s]
+Siège 1 : tu-do8125 (bouton) a caché la main perdante. [9c 5c]
+Siège 2 : maximussus77 (petite blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (grosse blind) a montré [9h Qh] et a gagné (240) avec une paire de Dames
+
+
+
+Main PokerStars n°258055107450 : Tournoi #3935346254, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 09/10/2025 7:28:38 CET [09/10/2025 1:28:38 ET]
+Table '3935346254 1' 3-max Siège #2 est au bouton.
+Place 1: tu-do8125 (390 en jetons) 
+Place 2: maximussus77 (480 en jetons) 
+Place 3: psychoman59 (630 en jetons) 
+psychoman59 : met la petite blind. 10
+tu-do8125 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Td]
+maximussus77 : suit. 20
+psychoman59 : passe. 
+tu-do8125 : parole 
+*** FLOP *** [3s 9s 9h]
+tu-do8125 : parole 
+maximussus77 : mise. 40
+tu-do8125 : suit. 40
+*** TOURNANT *** [3s 9s 9h] [Qs]
+tu-do8125 : parole 
+maximussus77 : mise. 40
+tu-do8125 : suit. 40
+*** RIVIÈRE *** [3s 9s 9h Qs] [3d]
+tu-do8125 : mise. 40
+maximussus77 : suit. 40
+*** ABATTAGE ***
+tu-do8125 : montre [9d 3c] (un full, full aux Neuf par les Trois)
+maximussus77 : cache la main perdante. 
+tu-do8125 a remporté 290  lors du pot .
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Tableau [3s 9s 9h Qs 3d]
+Siège 1 : tu-do8125 (grosse blind) a montré [9d 3c] et a gagné (290) avec un full, full aux Neuf par les Trois
+Siège 2 : maximussus77 (bouton) a caché la main perdante. [Ac 3h]
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258055109280 : Tournoi #3935346254, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 09/10/2025 7:29:07 CET [09/10/2025 1:29:07 ET]
+Table '3935346254 1' 3-max Siège #3 est au bouton.
+Place 1: tu-do8125 (540 en jetons) 
+Place 2: maximussus77 (340 en jetons) 
+Place 3: psychoman59 (620 en jetons) 
+tu-do8125 : met la petite blind. 10
+maximussus77 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 4d]
+psychoman59 : suit. 20
+tu-do8125 : suit. 10
+maximussus77 : parole 
+*** FLOP *** [7h 4c 5c]
+tu-do8125 : parole 
+maximussus77 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [7h 4c 5c] [7c]
+tu-do8125 : parole 
+maximussus77 : parole 
+psychoman59 : mise. 60
+tu-do8125 : suit. 60
+maximussus77 : passe. 
+*** RIVIÈRE *** [7h 4c 5c 7c] [2s]
+tu-do8125 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+tu-do8125 : montre [8s Kc] (une paire de Sept)
+psychoman59 : montre [Qd 4d] (double paire, Sept et Quatre)
+psychoman59 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [7h 4c 5c 7c 2s]
+Siège 1 : tu-do8125 (petite blind) a montré [8s Kc] et a perdu avec une paire de Sept
+Siège 2 : maximussus77 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) a montré [Qd 4d] et a gagné (180) avec double paire, Sept et Quatre
+
+
+
+Main PokerStars n°258055110890 : Tournoi #3935346254, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 09/10/2025 7:29:33 CET [09/10/2025 1:29:33 ET]
+Table '3935346254 1' 3-max Siège #1 est au bouton.
+Place 1: tu-do8125 (460 en jetons) 
+Place 2: maximussus77 (320 en jetons) 
+Place 3: psychoman59 (720 en jetons) 
+maximussus77 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 2h]
+tu-do8125 : suit. 20
+maximussus77 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [As 7c Js]
+maximussus77 : parole 
+psychoman59 : parole 
+tu-do8125 : parole 
+*** TOURNANT *** [As 7c Js] [Jc]
+maximussus77 : parole 
+psychoman59 : parole 
+tu-do8125 : parole 
+*** RIVIÈRE *** [As 7c Js Jc] [Ad]
+maximussus77 : parole 
+psychoman59 : parole 
+tu-do8125 : parole 
+*** ABATTAGE ***
+maximussus77 : montre [9c 6h] (double paire, As et Valets)
+psychoman59 : montre [Qc 2h] (double paire, As et Valets - Dame kicker)
+tu-do8125 : cache la main perdante. 
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [As 7c Js Jc Ad]
+Siège 1 : tu-do8125 (bouton) a caché la main perdante. [3h 3c]
+Siège 2 : maximussus77 (petite blind) a montré [9c 6h] et a perdu avec double paire, As et Valets
+Siège 3 : psychoman59 (grosse blind) a montré [Qc 2h] et a gagné (60) avec double paire, As et Valets
+
+
+
+Main PokerStars n°258055112449 : Tournoi #3935346254, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 09/10/2025 7:29:57 CET [09/10/2025 1:29:57 ET]
+Table '3935346254 1' 3-max Siège #2 est au bouton.
+Place 1: tu-do8125 (440 en jetons) 
+Place 2: maximussus77 (300 en jetons) 
+Place 3: psychoman59 (760 en jetons) 
+psychoman59 : met la petite blind. 10
+tu-do8125 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 8d]
+maximussus77 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à tu-do8125.
+tu-do8125 a remporté 20  lors du pot .
+tu-do8125 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : tu-do8125 (grosse blind) a remporté (20)
+Siège 2 : maximussus77 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258055112894 : Tournoi #3935346254, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 09/10/2025 7:30:04 CET [09/10/2025 1:30:04 ET]
+Table '3935346254 1' 3-max Siège #3 est au bouton.
+Place 1: tu-do8125 (450 en jetons) 
+Place 2: maximussus77 (300 en jetons) 
+Place 3: psychoman59 (750 en jetons) 
+tu-do8125 : met la petite blind. 10
+maximussus77 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Ts]
+psychoman59 : suit. 20
+tu-do8125 : suit. 10
+maximussus77 : parole 
+*** FLOP *** [Kd 7s 8h]
+tu-do8125 : parole 
+maximussus77 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Kd 7s 8h] [9h]
+tu-do8125 : mise. 30
+maximussus77 : passe. 
+psychoman59 : suit. 30
+*** RIVIÈRE *** [Kd 7s 8h 9h] [8d]
+tu-do8125 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à tu-do8125.
+tu-do8125 a remporté 120  lors du pot .
+tu-do8125 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Kd 7s 8h 9h 8d]
+Siège 1 : tu-do8125 (petite blind) a remporté (120)
+Siège 2 : maximussus77 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°258055114523 : Tournoi #3935346254, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 09/10/2025 7:30:30 CET [09/10/2025 1:30:30 ET]
+Table '3935346254 1' 3-max Siège #1 est au bouton.
+Place 1: tu-do8125 (520 en jetons) 
+Place 2: maximussus77 (280 en jetons) 
+Place 3: psychoman59 (700 en jetons) 
+maximussus77 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Jd]
+tu-do8125 : suit. 20
+maximussus77 : passe. 
+psychoman59 : parole 
+*** FLOP *** [3c Ad Qs]
+psychoman59 : parole 
+tu-do8125 : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à tu-do8125.
+tu-do8125 a remporté 50  lors du pot .
+tu-do8125 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [3c Ad Qs]
+Siège 1 : tu-do8125 (bouton) a remporté (50)
+Siège 2 : maximussus77 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°258055115367 : Tournoi #3935346254, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 09/10/2025 7:30:44 CET [09/10/2025 1:30:44 ET]
+Table '3935346254 1' 3-max Siège #2 est au bouton.
+Place 1: tu-do8125 (550 en jetons) 
+Place 2: maximussus77 (270 en jetons) 
+Place 3: psychoman59 (680 en jetons) 
+psychoman59 : met la petite blind. 10
+tu-do8125 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Qd]
+maximussus77 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à tu-do8125.
+tu-do8125 a remporté 20  lors du pot .
+tu-do8125 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : tu-do8125 (grosse blind) a remporté (20)
+Siège 2 : maximussus77 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258055115752 : Tournoi #3935346254, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 09/10/2025 7:30:50 CET [09/10/2025 1:30:50 ET]
+Table '3935346254 1' 3-max Siège #3 est au bouton.
+Place 1: tu-do8125 (560 en jetons) 
+Place 2: maximussus77 (270 en jetons) 
+Place 3: psychoman59 (670 en jetons) 
+tu-do8125 : met la petite blind. 10
+maximussus77 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 3s]
+psychoman59 : suit. 20
+tu-do8125 : suit. 10
+maximussus77 : parole 
+*** FLOP *** [3h 4d 2d]
+tu-do8125 : parole 
+maximussus77 : parole 
+psychoman59 : mise. 30
+tu-do8125 : passe. 
+maximussus77 : suit. 30
+*** TOURNANT *** [3h 4d 2d] [4s]
+maximussus77 : parole 
+psychoman59 : mise. 60
+maximussus77 : suit. 60
+*** RIVIÈRE *** [3h 4d 2d 4s] [Th]
+maximussus77 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+maximussus77 : montre [8h 5c] (une paire de Quatre)
+psychoman59 : montre [Qs 3s] (double paire, Quatre et Trois)
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [3h 4d 2d 4s Th]
+Siège 1 : tu-do8125 (petite blind) s'est couché. sur le Flop
+Siège 2 : maximussus77 (grosse blind) a montré [8h 5c] et a perdu avec une paire de Quatre
+Siège 3 : psychoman59 (bouton) a montré [Qs 3s] et a gagné (240) avec double paire, Quatre et Trois
+
+
+
+Main PokerStars n°258055117241 : Tournoi #3935346254, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 09/10/2025 7:31:14 CET [09/10/2025 1:31:14 ET]
+Table '3935346254 1' 3-max Siège #1 est au bouton.
+Place 1: tu-do8125 (540 en jetons) 
+Place 2: maximussus77 (160 en jetons) 
+Place 3: psychoman59 (800 en jetons) 
+maximussus77 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Td]
+tu-do8125 : relance. 520 à 540 et est all-in.
+maximussus77 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (520) sont retournés à tu-do8125.
+tu-do8125 a remporté 50  lors du pot .
+tu-do8125 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : tu-do8125 (bouton) a remporté (50)
+Siège 2 : maximussus77 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258055118105 : Tournoi #3935346254, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 09/10/2025 7:31:28 CET [09/10/2025 1:31:28 ET]
+Table '3935346254 1' 3-max Siège #2 est au bouton.
+Place 1: tu-do8125 (570 en jetons) 
+Place 2: maximussus77 (150 en jetons) 
+Place 3: psychoman59 (780 en jetons) 
+psychoman59 : met la petite blind. 15
+tu-do8125 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Jh]
+maximussus77 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à tu-do8125.
+tu-do8125 a remporté 30  lors du pot .
+tu-do8125 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : tu-do8125 (grosse blind) a remporté (30)
+Siège 2 : maximussus77 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258055118416 : Tournoi #3935346254, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 09/10/2025 7:31:33 CET [09/10/2025 1:31:33 ET]
+Table '3935346254 1' 3-max Siège #3 est au bouton.
+Place 1: tu-do8125 (585 en jetons) 
+Place 2: maximussus77 (150 en jetons) 
+Place 3: psychoman59 (765 en jetons) 
+tu-do8125 : met la petite blind. 15
+maximussus77 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 7c]
+psychoman59 : passe. 
+tu-do8125 : suit. 15
+maximussus77 : parole 
+*** FLOP *** [Ad 6h 8s]
+tu-do8125 : mise. 30
+maximussus77 : passe. 
+Personne n'a suivi. (30) sont retournés à tu-do8125.
+tu-do8125 a remporté 60  lors du pot .
+tu-do8125 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ad 6h 8s]
+Siège 1 : tu-do8125 (petite blind) a remporté (60)
+Siège 2 : maximussus77 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°258055119063 : Tournoi #3935346254, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 09/10/2025 7:31:43 CET [09/10/2025 1:31:43 ET]
+Table '3935346254 1' 3-max Siège #1 est au bouton.
+Place 1: tu-do8125 (615 en jetons) 
+Place 2: maximussus77 (120 en jetons) 
+Place 3: psychoman59 (765 en jetons) 
+maximussus77 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 9c]
+tu-do8125 : suit. 30
+maximussus77 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Qd 3d 9h]
+maximussus77 : mise. 90 et est all-in.
+psychoman59 : passe. 
+tu-do8125 : passe. 
+Personne n'a suivi. (90) sont retournés à maximussus77.
+maximussus77 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [Qd 3d 9h]
+Siège 1 : tu-do8125 (bouton) s'est couché. sur le Flop
+Siège 2 : maximussus77 (petite blind) a remporté (90)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°258055119869 : Tournoi #3935346254, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 09/10/2025 7:31:56 CET [09/10/2025 1:31:56 ET]
+Table '3935346254 1' 3-max Siège #2 est au bouton.
+Place 1: tu-do8125 (585 en jetons) 
+Place 2: maximussus77 (180 en jetons) 
+Place 3: psychoman59 (735 en jetons) 
+psychoman59 : met la petite blind. 15
+tu-do8125 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 9c]
+maximussus77 : relance. 150 à 180 et est all-in.
+psychoman59 : passe. 
+tu-do8125 : passe. 
+Personne n'a suivi. (150) sont retournés à maximussus77.
+maximussus77 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : tu-do8125 (grosse blind) s'est couché. avant Flop
+Siège 2 : maximussus77 (bouton) a remporté (75)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258055120235 : Tournoi #3935346254, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 09/10/2025 7:32:02 CET [09/10/2025 1:32:02 ET]
+Table '3935346254 1' 3-max Siège #3 est au bouton.
+Place 1: tu-do8125 (555 en jetons) 
+Place 2: maximussus77 (225 en jetons) 
+Place 3: psychoman59 (720 en jetons) 
+tu-do8125 : met la petite blind. 15
+maximussus77 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 3h]
+psychoman59 : passe. 
+tu-do8125 : passe. 
+Personne n'a suivi. (15) sont retournés à maximussus77.
+maximussus77 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : tu-do8125 (petite blind) s'est couché. avant Flop
+Siège 2 : maximussus77 (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°258055120588 : Tournoi #3935346254, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 09/10/2025 7:32:08 CET [09/10/2025 1:32:08 ET]
+Table '3935346254 1' 3-max Siège #1 est au bouton.
+Place 1: tu-do8125 (540 en jetons) 
+Place 2: maximussus77 (240 en jetons) 
+Place 3: psychoman59 (720 en jetons) 
+maximussus77 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 3h]
+tu-do8125 : suit. 30
+maximussus77 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Th 3c 9d]
+maximussus77 : parole 
+psychoman59 : parole 
+tu-do8125 : mise. 45
+maximussus77 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (45) sont retournés à tu-do8125.
+tu-do8125 a remporté 90  lors du pot .
+tu-do8125 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [Th 3c 9d]
+Siège 1 : tu-do8125 (bouton) a remporté (90)
+Siège 2 : maximussus77 (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°258055121499 : Tournoi #3935346254, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 09/10/2025 7:32:22 CET [09/10/2025 1:32:22 ET]
+Table '3935346254 1' 3-max Siège #2 est au bouton.
+Place 1: tu-do8125 (600 en jetons) 
+Place 2: maximussus77 (210 en jetons) 
+Place 3: psychoman59 (690 en jetons) 
+psychoman59 : met la petite blind. 15
+tu-do8125 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 8h]
+maximussus77 : relance. 180 à 210 et est all-in.
+psychoman59 : passe. 
+tu-do8125 : suit. 180
+*** FLOP *** [Jh Tc 5d]
+*** TOURNANT *** [Jh Tc 5d] [Qh]
+*** RIVIÈRE *** [Jh Tc 5d Qh] [8d]
+*** ABATTAGE ***
+tu-do8125 : montre [Kh Ad] (une suite, Dix à As)
+maximussus77 : montre [Ac Ts] (une paire de Dix)
+tu-do8125 a remporté 435  lors du pot .
+maximussus77 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 435 | Commission 0 
+Tableau [Jh Tc 5d Qh 8d]
+Siège 1 : tu-do8125 (grosse blind) a montré [Kh Ad] et a gagné (435) avec une suite, Dix à As
+Siège 2 : maximussus77 (bouton) a montré [Ac Ts] et a perdu avec une paire de Dix
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258055122490 : Tournoi #3935346254, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 09/10/2025 7:32:38 CET [09/10/2025 1:32:38 ET]
+Table '3935346254 1' 3-max Siège #1 est au bouton.
+Place 1: tu-do8125 (825 en jetons) 
+Place 3: psychoman59 (675 en jetons) 
+tu-do8125 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 6c]
+tu-do8125 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : tu-do8125 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°258055122792 : Tournoi #3935346254, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 09/10/2025 7:32:43 CET [09/10/2025 1:32:43 ET]
+Table '3935346254 1' 3-max Siège #3 est au bouton.
+Place 1: tu-do8125 (810 en jetons) 
+Place 3: psychoman59 (690 en jetons) 
+psychoman59 : met la petite blind. 15
+tu-do8125 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 8s]
+psychoman59 : suit. 15
+tu-do8125 : parole 
+*** FLOP *** [3s Kd 3d]
+tu-do8125 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3s Kd 3d] [5h]
+tu-do8125 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [3s Kd 3d 5h] [7h]
+tu-do8125 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+tu-do8125 : montre [4c 9h] (une paire de Trois)
+psychoman59 : montre [Qs 8s] (une paire de Trois - Roi+Dame kicker)
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [3s Kd 3d 5h 7h]
+Siège 1 : tu-do8125 (grosse blind) a montré [4c 9h] et a perdu avec une paire de Trois
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Qs 8s] et a gagné (60) avec une paire de Trois
+
+
+
+Main PokerStars n°258055124273 : Tournoi #3935346254, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 09/10/2025 7:33:08 CET [09/10/2025 1:33:08 ET]
+Table '3935346254 1' 3-max Siège #1 est au bouton.
+Place 1: tu-do8125 (780 en jetons) 
+Place 3: psychoman59 (720 en jetons) 
+tu-do8125 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 5c]
+tu-do8125 : suit. 15
+psychoman59 : relance. 690 à 720 et est all-in.
+tu-do8125 : passe. 
+Personne n'a suivi. (690) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : tu-do8125 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°258055124887 : Tournoi #3935346254, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 09/10/2025 7:33:18 CET [09/10/2025 1:33:18 ET]
+Table '3935346254 1' 3-max Siège #3 est au bouton.
+Place 1: tu-do8125 (750 en jetons) 
+Place 3: psychoman59 (750 en jetons) 
+psychoman59 : met la petite blind. 15
+tu-do8125 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Kh]
+psychoman59 : relance. 30 à 60
+tu-do8125 : relance. 690 à 750 et est all-in.
+psychoman59 : suit. 690 et est all-in.
+*** FLOP *** [2c 6h Ks]
+*** TOURNANT *** [2c 6h Ks] [9s]
+*** RIVIÈRE *** [2c 6h Ks 9s] [6c]
+*** ABATTAGE ***
+tu-do8125 : montre [Jc As] (une paire de Six)
+psychoman59 : montre [Jd Kh] (double paire, Rois et Six)
+psychoman59 a remporté 1500  lors du pot .
+tu-do8125 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 0.75 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 1500 | Commission 0 
+Tableau [2c 6h Ks 9s 6c]
+Siège 1 : tu-do8125 (grosse blind) a montré [Jc As] et a perdu avec une paire de Six
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Jd Kh] et a gagné (1500) avec double paire, Rois et Six
+
+
+

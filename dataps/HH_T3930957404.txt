@@ -1,0 +1,1208 @@
+﻿Main PokerStars n°257867140346 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/09/2025 9:48:07 CET [24/09/2025 3:48:07 ET]
+Table '3930957404 1' 3-max Siège #1 est au bouton.
+Place 1: picasian (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: Z800sugomi (500 en jetons) 
+psychoman59 : met la petite blind. 10
+Z800sugomi : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Kd]
+picasian : suit. 20
+psychoman59 : suit. 10
+Z800sugomi : parole 
+*** FLOP *** [Js 2c 3d]
+psychoman59 : mise. 60
+Z800sugomi : passe. 
+picasian : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Js 2c 3d]
+Siège 1 : picasian (bouton) s'est couché. sur le Flop
+Siège 2 : psychoman59 (petite blind) a remporté (60)
+Siège 3 : Z800sugomi (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°257867141564 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/09/2025 9:48:25 CET [24/09/2025 3:48:25 ET]
+Table '3930957404 1' 3-max Siège #2 est au bouton.
+Place 1: picasian (480 en jetons) 
+Place 2: psychoman59 (540 en jetons) 
+Place 3: Z800sugomi (480 en jetons) 
+Z800sugomi : met la petite blind. 10
+picasian : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 4c]
+psychoman59 : suit. 20
+Z800sugomi : passe. 
+picasian : relance. 20 à 40
+psychoman59 : suit. 20
+*** FLOP *** [3h Ts 2c]
+picasian : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3h Ts 2c] [7d]
+picasian : mise. 45
+psychoman59 : passe. 
+Personne n'a suivi. (45) sont retournés à picasian.
+picasian a remporté 90  lors du pot .
+picasian : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [3h Ts 2c 7d]
+Siège 1 : picasian (grosse blind) a remporté (90)
+Siège 2 : psychoman59 (bouton) s'est couché. sur le Tournant
+Siège 3 : Z800sugomi (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257867143453 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/09/2025 9:48:54 CET [24/09/2025 3:48:54 ET]
+Table '3930957404 1' 3-max Siège #3 est au bouton.
+Place 1: picasian (530 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: Z800sugomi (470 en jetons) 
+picasian : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 2s]
+Z800sugomi : suit. 20
+picasian : suit. 10
+psychoman59 : parole 
+*** FLOP *** [9c 6s 6c]
+picasian : parole 
+psychoman59 : parole 
+Z800sugomi : parole 
+*** TOURNANT *** [9c 6s 6c] [8s]
+picasian : mise. 30
+psychoman59 : passe. 
+Z800sugomi : suit. 30
+*** RIVIÈRE *** [9c 6s 6c 8s] [Tc]
+picasian : parole 
+Z800sugomi : parole 
+*** ABATTAGE ***
+picasian : montre [8h 5c] (double paire, Huit et Six)
+Z800sugomi : cache la main perdante. 
+picasian a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [9c 6s 6c 8s Tc]
+Siège 1 : picasian (petite blind) a montré [8h 5c] et a gagné (120) avec double paire, Huit et Six
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : Z800sugomi (bouton) a caché la main perdante. [Ks 3s]
+
+
+
+Main PokerStars n°257867145867 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/09/2025 9:49:32 CET [24/09/2025 3:49:32 ET]
+Table '3930957404 1' 3-max Siège #1 est au bouton.
+Place 1: picasian (600 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+Place 3: Z800sugomi (420 en jetons) 
+psychoman59 : met la petite blind. 10
+Z800sugomi : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 8d]
+picasian : relance. 20 à 40
+psychoman59 : passe. 
+Z800sugomi : suit. 20
+*** FLOP *** [3d 2d 2s]
+Z800sugomi : parole 
+picasian : parole 
+*** TOURNANT *** [3d 2d 2s] [9c]
+Z800sugomi : parole 
+picasian : parole 
+*** RIVIÈRE *** [3d 2d 2s 9c] [9h]
+Z800sugomi : parole 
+picasian : parole 
+*** ABATTAGE ***
+Z800sugomi : montre [5s 7s] (double paire, Neuf et Deux)
+picasian : montre [Ts Jd] (double paire, Neuf et Deux - Valet kicker)
+picasian a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [3d 2d 2s 9c 9h]
+Siège 1 : picasian (bouton) a montré [Ts Jd] et a gagné (90) avec double paire, Neuf et Deux
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Z800sugomi (grosse blind) a montré [5s 7s] et a perdu avec double paire, Neuf et Deux
+
+
+
+Main PokerStars n°257867147555 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/09/2025 9:49:58 CET [24/09/2025 3:49:58 ET]
+Table '3930957404 1' 3-max Siège #2 est au bouton.
+Place 1: picasian (650 en jetons) 
+Place 2: psychoman59 (470 en jetons) 
+Place 3: Z800sugomi (380 en jetons) 
+Z800sugomi : met la petite blind. 10
+picasian : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Ac]
+psychoman59 : relance. 450 à 470 et est all-in.
+Z800sugomi : passe. 
+picasian : passe. 
+Personne n'a suivi. (450) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : picasian (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a remporté (50)
+Siège 3 : Z800sugomi (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257867148369 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 24/09/2025 9:50:11 CET [24/09/2025 3:50:11 ET]
+Table '3930957404 1' 3-max Siège #3 est au bouton.
+Place 1: picasian (630 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: Z800sugomi (370 en jetons) 
+picasian : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 6d]
+Z800sugomi : passe. 
+picasian : suit. 15
+psychoman59 : parole 
+*** FLOP *** [7s 7h 5d]
+picasian : parole 
+psychoman59 : mise. 60
+picasian : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [7s 7h 5d]
+Siège 1 : picasian (petite blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : Z800sugomi (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°257867149266 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 24/09/2025 9:50:24 CET [24/09/2025 3:50:24 ET]
+Table '3930957404 1' 3-max Siège #1 est au bouton.
+Place 1: picasian (600 en jetons) 
+Place 2: psychoman59 (530 en jetons) 
+Place 3: Z800sugomi (370 en jetons) 
+psychoman59 : met la petite blind. 15
+Z800sugomi : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Jd]
+picasian : relance. 30 à 60
+psychoman59 : passe. 
+Z800sugomi : suit. 30
+*** FLOP *** [Qc 7c As]
+Z800sugomi : parole 
+picasian : parole 
+*** TOURNANT *** [Qc 7c As] [5h]
+Z800sugomi : mise. 30
+picasian : suit. 30
+*** RIVIÈRE *** [Qc 7c As 5h] [2s]
+Z800sugomi : mise. 30
+picasian : passe. 
+Personne n'a suivi. (30) sont retournés à Z800sugomi.
+Z800sugomi a remporté 195  lors du pot .
+*** SYNTHÈSE ***
+Pot total 195 | Commission 0 
+Tableau [Qc 7c As 5h 2s]
+Siège 1 : picasian (bouton) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Z800sugomi (grosse blind) a remporté (195)
+
+
+
+Main PokerStars n°257867150374 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 24/09/2025 9:50:42 CET [24/09/2025 3:50:42 ET]
+Table '3930957404 1' 3-max Siège #2 est au bouton.
+Place 1: picasian (510 en jetons) 
+Place 2: psychoman59 (515 en jetons) 
+Place 3: Z800sugomi (475 en jetons) 
+Z800sugomi : met la petite blind. 15
+picasian : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 2c]
+psychoman59 : passe. 
+Z800sugomi : suit. 15
+picasian : parole 
+*** FLOP *** [Ad Ac 3c]
+Z800sugomi : parole 
+picasian : parole 
+*** TOURNANT *** [Ad Ac 3c] [6h]
+Z800sugomi : parole 
+picasian : parole 
+*** RIVIÈRE *** [Ad Ac 3c 6h] [Qh]
+Z800sugomi : parole 
+picasian : parole 
+*** ABATTAGE ***
+Z800sugomi : montre [9d 5d] (une paire de As)
+picasian : montre [4h Kc] (une paire de As - Roi kicker)
+picasian a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ad Ac 3c 6h Qh]
+Siège 1 : picasian (grosse blind) a montré [4h Kc] et a gagné (60) avec une paire de As
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Z800sugomi (petite blind) a montré [9d 5d] et a perdu avec une paire de As
+
+
+
+Main PokerStars n°257867152000 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 24/09/2025 9:51:07 CET [24/09/2025 3:51:07 ET]
+Table '3930957404 1' 3-max Siège #3 est au bouton.
+Place 1: picasian (540 en jetons) 
+Place 2: psychoman59 (515 en jetons) 
+Place 3: Z800sugomi (445 en jetons) 
+picasian : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 5s]
+Z800sugomi : relance. 75 à 105
+picasian : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à Z800sugomi.
+Z800sugomi a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : picasian (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : Z800sugomi (bouton) a remporté (75)
+
+
+
+Main PokerStars n°257867152785 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 24/09/2025 9:51:19 CET [24/09/2025 3:51:19 ET]
+Table '3930957404 1' 3-max Siège #1 est au bouton.
+Place 1: picasian (525 en jetons) 
+Place 2: psychoman59 (485 en jetons) 
+Place 3: Z800sugomi (490 en jetons) 
+psychoman59 : met la petite blind. 15
+Z800sugomi : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 9h]
+picasian : suit. 30
+psychoman59 : suit. 15
+Z800sugomi : relance. 60 à 90
+picasian : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à Z800sugomi.
+Z800sugomi a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Siège 1 : picasian (bouton) s'est couché. avant Flop
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Z800sugomi (grosse blind) a remporté (90)
+
+
+
+Main PokerStars n°257867153889 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 24/09/2025 9:51:36 CET [24/09/2025 3:51:36 ET]
+Table '3930957404 1' 3-max Siège #2 est au bouton.
+Place 1: picasian (495 en jetons) 
+Place 2: psychoman59 (455 en jetons) 
+Place 3: Z800sugomi (550 en jetons) 
+Z800sugomi : met la petite blind. 15
+picasian : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Th]
+psychoman59 : suit. 30
+Z800sugomi : suit. 15
+picasian : parole 
+*** FLOP *** [8s 9s 2d]
+Z800sugomi : parole 
+picasian : mise. 30
+psychoman59 : suit. 30
+Z800sugomi : relance. 30 à 60
+picasian : passe. 
+psychoman59 : suit. 30
+*** TOURNANT *** [8s 9s 2d] [4d]
+Z800sugomi : mise. 30
+psychoman59 : suit. 30
+*** RIVIÈRE *** [8s 9s 2d 4d] [Qh]
+Z800sugomi : mise. 30
+psychoman59 : relance. 180 à 210
+Z800sugomi : passe. 
+Personne n'a suivi. (180) sont retournés à psychoman59.
+psychoman59 a remporté 360  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [8s 9s 2d 4d Qh]
+Siège 1 : picasian (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) a remporté (360)
+Siège 3 : Z800sugomi (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°257867156366 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/09/2025 9:52:16 CET [24/09/2025 3:52:16 ET]
+Table '3930957404 1' 3-max Siège #3 est au bouton.
+Place 1: picasian (435 en jetons) 
+Place 2: psychoman59 (665 en jetons) 
+Place 3: Z800sugomi (400 en jetons) 
+picasian : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 2s]
+Z800sugomi : relance. 100 à 140
+picasian : suit. 120
+psychoman59 : passe. 
+*** FLOP *** [Qd 3s Kc]
+picasian : mise. 160
+Z800sugomi : relance. 100 à 260 et est all-in.
+picasian : suit. 100
+*** TOURNANT *** [Qd 3s Kc] [5d]
+*** RIVIÈRE *** [Qd 3s Kc 5d] [2c]
+*** ABATTAGE ***
+picasian : montre [Ah 5c] (une paire de Cinq)
+Z800sugomi : montre [Qs Ks] (double paire, Rois et Dames)
+Z800sugomi a remporté 840  lors du pot .
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Tableau [Qd 3s Kc 5d 2c]
+Siège 1 : picasian (petite blind) a montré [Ah 5c] et a perdu avec une paire de Cinq
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : Z800sugomi (bouton) a montré [Qs Ks] et a gagné (840) avec double paire, Rois et Dames
+
+
+
+Main PokerStars n°257867158126 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/09/2025 9:52:43 CET [24/09/2025 3:52:43 ET]
+Table '3930957404 1' 3-max Siège #1 est au bouton.
+Place 1: picasian (35 en jetons) 
+Place 2: psychoman59 (625 en jetons) 
+Place 3: Z800sugomi (840 en jetons) 
+psychoman59 : met la petite blind. 20
+Z800sugomi : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Qs]
+picasian : suit. 35 et est all-in.
+psychoman59 : suit. 20
+Z800sugomi : parole 
+*** FLOP *** [5d Ad 8c]
+psychoman59 : parole 
+Z800sugomi : parole 
+*** TOURNANT *** [5d Ad 8c] [Jd]
+psychoman59 : parole 
+Z800sugomi : parole 
+*** RIVIÈRE *** [5d Ad 8c Jd] [Ks]
+psychoman59 : parole 
+Z800sugomi : parole 
+*** ABATTAGE ***
+psychoman59 : montre [3h Qs] (Hauteur As)
+Z800sugomi : cache la main perdante. 
+psychoman59 a remporté 10  parallèle lors du pot .
+picasian : cache la main perdante. 
+psychoman59 a remporté 105  principal lors du pot .
+picasian a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 115 Principal pot 105. Parallèle pot 10. | Commission 0 
+Tableau [5d Ad 8c Jd Ks]
+Siège 1 : picasian (bouton) a caché la main perdante. [4s Ts]
+Siège 2 : psychoman59 (petite blind) a montré [3h Qs] et a gagné (115) avec Hauteur As
+Siège 3 : Z800sugomi (grosse blind) a caché la main perdante. [6h 4c]
+
+
+
+Main PokerStars n°257867160209 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/09/2025 9:53:15 CET [24/09/2025 3:53:15 ET]
+Table '3930957404 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (700 en jetons) 
+Place 3: Z800sugomi (800 en jetons) 
+Z800sugomi : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Qh]
+Z800sugomi : relance. 80 à 120
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à Z800sugomi.
+Z800sugomi a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : Z800sugomi (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°257867160920 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/09/2025 9:53:26 CET [24/09/2025 3:53:26 ET]
+Table '3930957404 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (660 en jetons) 
+Place 3: Z800sugomi (840 en jetons) 
+psychoman59 : met la petite blind. 20
+Z800sugomi : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 2c]
+psychoman59 : relance. 620 à 660 et est all-in.
+Z800sugomi : passe. 
+Personne n'a suivi. (620) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 3 : Z800sugomi (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257867161436 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/09/2025 9:53:34 CET [24/09/2025 3:53:34 ET]
+Table '3930957404 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (700 en jetons) 
+Place 3: Z800sugomi (800 en jetons) 
+Z800sugomi : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 2h]
+Z800sugomi : relance. 760 à 800 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (760) sont retournés à Z800sugomi.
+Z800sugomi a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : Z800sugomi (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°257867161921 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/09/2025 9:53:41 CET [24/09/2025 3:53:41 ET]
+Table '3930957404 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (660 en jetons) 
+Place 3: Z800sugomi (840 en jetons) 
+psychoman59 : met la petite blind. 20
+Z800sugomi : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Kh]
+psychoman59 : relance. 620 à 660 et est all-in.
+Z800sugomi : passe. 
+Personne n'a suivi. (620) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 3 : Z800sugomi (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257867162375 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/09/2025 9:53:48 CET [24/09/2025 3:53:48 ET]
+Table '3930957404 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (700 en jetons) 
+Place 3: Z800sugomi (800 en jetons) 
+Z800sugomi : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Kc]
+Z800sugomi : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : Z800sugomi (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257867162688 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/09/2025 9:53:53 CET [24/09/2025 3:53:53 ET]
+Table '3930957404 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (720 en jetons) 
+Place 3: Z800sugomi (780 en jetons) 
+psychoman59 : met la petite blind. 20
+Z800sugomi : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 6h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Z800sugomi.
+Z800sugomi a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Z800sugomi (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°257867163026 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/09/2025 9:53:58 CET [24/09/2025 3:53:58 ET]
+Table '3930957404 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (700 en jetons) 
+Place 3: Z800sugomi (800 en jetons) 
+Z800sugomi : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Ah]
+Z800sugomi : suit. 20
+psychoman59 : relance. 660 à 700 et est all-in.
+Z800sugomi : suit. 660
+*** FLOP *** [5h 4s 3d]
+*** TOURNANT *** [5h 4s 3d] [2h]
+*** RIVIÈRE *** [5h 4s 3d 2h] [9s]
+*** ABATTAGE ***
+psychoman59 : montre [5c Ah] (une suite, As à Cinq)
+Z800sugomi : montre [Js Th] (Hauteur Valet)
+psychoman59 a remporté 1400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1400 | Commission 0 
+Tableau [5h 4s 3d 2h 9s]
+Siège 2 : psychoman59 (grosse blind) a montré [5c Ah] et a gagné (1400) avec une suite, As à Cinq
+Siège 3 : Z800sugomi (bouton) (petite blind) a montré [Js Th] et a perdu avec Hauteur Valet
+
+
+
+Main PokerStars n°257867164361 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/09/2025 9:54:19 CET [24/09/2025 3:54:19 ET]
+Table '3930957404 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1400 en jetons) 
+Place 3: Z800sugomi (100 en jetons) 
+psychoman59 : met la petite blind. 30
+Z800sugomi : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 3s]
+psychoman59 : relance. 60 à 120
+Z800sugomi : suit. 40 et est all-in.
+Personne n'a suivi. (20) sont retournés à psychoman59.
+*** FLOP *** [9s 5c 2s]
+*** TOURNANT *** [9s 5c 2s] [5s]
+*** RIVIÈRE *** [9s 5c 2s 5s] [8h]
+*** ABATTAGE ***
+Z800sugomi : montre [4h Kd] (une paire de Cinq)
+psychoman59 : montre [Jc 3s] (une paire de Cinq - plus basse kicker)
+Z800sugomi a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [9s 5c 2s 5s 8h]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Jc 3s] et a perdu avec une paire de Cinq
+Siège 3 : Z800sugomi (grosse blind) a montré [4h Kd] et a gagné (200) avec une paire de Cinq
+
+
+
+Main PokerStars n°257867165251 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/09/2025 9:54:33 CET [24/09/2025 3:54:33 ET]
+Table '3930957404 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1300 en jetons) 
+Place 3: Z800sugomi (200 en jetons) 
+Z800sugomi : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 5h]
+Z800sugomi : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : Z800sugomi (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257867165660 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/09/2025 9:54:39 CET [24/09/2025 3:54:39 ET]
+Table '3930957404 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1330 en jetons) 
+Place 3: Z800sugomi (170 en jetons) 
+psychoman59 : met la petite blind. 30
+Z800sugomi : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 5c]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Z800sugomi.
+Z800sugomi a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Z800sugomi (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°257867166050 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/09/2025 9:54:45 CET [24/09/2025 3:54:45 ET]
+Table '3930957404 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1300 en jetons) 
+Place 3: Z800sugomi (200 en jetons) 
+Z800sugomi : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 2s]
+Z800sugomi : relance. 140 à 200 et est all-in.
+psychoman59 : suit. 140
+*** FLOP *** [2h Qh 7d]
+*** TOURNANT *** [2h Qh 7d] [8s]
+*** RIVIÈRE *** [2h Qh 7d 8s] [6s]
+*** ABATTAGE ***
+psychoman59 : montre [Ks 2s] (une paire de Deux)
+Z800sugomi : montre [8h 9c] (une paire de Huit)
+Z800sugomi a remporté 400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [2h Qh 7d 8s 6s]
+Siège 2 : psychoman59 (grosse blind) a montré [Ks 2s] et a perdu avec une paire de Deux
+Siège 3 : Z800sugomi (bouton) (petite blind) a montré [8h 9c] et a gagné (400) avec une paire de Huit
+
+
+
+Main PokerStars n°257867166864 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/09/2025 9:54:58 CET [24/09/2025 3:54:58 ET]
+Table '3930957404 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1100 en jetons) 
+Place 3: Z800sugomi (400 en jetons) 
+psychoman59 : met la petite blind. 30
+Z800sugomi : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 5h]
+psychoman59 : relance. 1040 à 1100 et est all-in.
+Z800sugomi : passe. 
+Personne n'a suivi. (1040) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 3 : Z800sugomi (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257867167419 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/09/2025 9:55:06 CET [24/09/2025 3:55:06 ET]
+Table '3930957404 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1160 en jetons) 
+Place 3: Z800sugomi (340 en jetons) 
+Z800sugomi : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 5s]
+Z800sugomi : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : Z800sugomi (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257867167713 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/09/2025 9:55:11 CET [24/09/2025 3:55:11 ET]
+Table '3930957404 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1190 en jetons) 
+Place 3: Z800sugomi (310 en jetons) 
+psychoman59 : met la petite blind. 30
+Z800sugomi : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Kh]
+psychoman59 : relance. 1130 à 1190 et est all-in.
+Z800sugomi : suit. 250 et est all-in.
+Personne n'a suivi. (880) sont retournés à psychoman59.
+*** FLOP *** [4c 7s Jc]
+*** TOURNANT *** [4c 7s Jc] [7c]
+*** RIVIÈRE *** [4c 7s Jc 7c] [9d]
+*** ABATTAGE ***
+Z800sugomi : montre [3h 3c] (double paire, Sept et Trois)
+psychoman59 : montre [Qc Kh] (une paire de Sept)
+Z800sugomi a remporté 620  lors du pot .
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [4c 7s Jc 7c 9d]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Qc Kh] et a perdu avec une paire de Sept
+Siège 3 : Z800sugomi (grosse blind) a montré [3h 3c] et a gagné (620) avec double paire, Sept et Trois
+
+
+
+Main PokerStars n°257867168466 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/09/2025 9:55:24 CET [24/09/2025 3:55:24 ET]
+Table '3930957404 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (880 en jetons) 
+Place 3: Z800sugomi (620 en jetons) 
+Z800sugomi : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Jh]
+Z800sugomi : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : Z800sugomi (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257867168824 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/09/2025 9:55:30 CET [24/09/2025 3:55:30 ET]
+Table '3930957404 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (910 en jetons) 
+Place 3: Z800sugomi (590 en jetons) 
+psychoman59 : met la petite blind. 30
+Z800sugomi : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 7c]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Z800sugomi.
+Z800sugomi a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Z800sugomi (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°257867169116 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/09/2025 9:55:35 CET [24/09/2025 3:55:35 ET]
+Table '3930957404 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (880 en jetons) 
+Place 3: Z800sugomi (620 en jetons) 
+Z800sugomi : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 4c]
+Z800sugomi : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : Z800sugomi (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257867169391 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/09/2025 9:55:39 CET [24/09/2025 3:55:39 ET]
+Table '3930957404 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (910 en jetons) 
+Place 3: Z800sugomi (590 en jetons) 
+psychoman59 : met la petite blind. 30
+Z800sugomi : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Kc]
+psychoman59 : relance. 850 à 910 et est all-in.
+Z800sugomi : suit. 530 et est all-in.
+Personne n'a suivi. (320) sont retournés à psychoman59.
+*** FLOP *** [Ad 7h 5s]
+*** TOURNANT *** [Ad 7h 5s] [3c]
+*** RIVIÈRE *** [Ad 7h 5s 3c] [Tc]
+*** ABATTAGE ***
+Z800sugomi : montre [Jh 3h] (une paire de Trois)
+psychoman59 : montre [Qd Kc] (Hauteur As)
+Z800sugomi a remporté 1180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1180 | Commission 0 
+Tableau [Ad 7h 5s 3c Tc]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Qd Kc] et a perdu avec Hauteur As
+Siège 3 : Z800sugomi (grosse blind) a montré [Jh 3h] et a gagné (1180) avec une paire de Trois
+
+
+
+Main PokerStars n°257867170116 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/09/2025 9:55:52 CET [24/09/2025 3:55:52 ET]
+Table '3930957404 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (320 en jetons) 
+Place 3: Z800sugomi (1180 en jetons) 
+Z800sugomi : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 6c]
+Z800sugomi : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : Z800sugomi (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257867170492 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/09/2025 9:55:59 CET [24/09/2025 3:55:59 ET]
+Table '3930957404 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (350 en jetons) 
+Place 3: Z800sugomi (1150 en jetons) 
+psychoman59 : met la petite blind. 30
+Z800sugomi : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Qd]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Z800sugomi.
+Z800sugomi a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Z800sugomi (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°257867170799 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/09/2025 9:56:04 CET [24/09/2025 3:56:04 ET]
+Table '3930957404 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (320 en jetons) 
+Place 3: Z800sugomi (1180 en jetons) 
+Z800sugomi : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 9d]
+Z800sugomi : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : Z800sugomi (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257867171197 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 24/09/2025 9:56:12 CET [24/09/2025 3:56:12 ET]
+Table '3930957404 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (350 en jetons) 
+Place 3: Z800sugomi (1150 en jetons) 
+psychoman59 : met la petite blind. 40
+Z800sugomi : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Jh]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Z800sugomi.
+Z800sugomi a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Z800sugomi (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°257867171481 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 24/09/2025 9:56:17 CET [24/09/2025 3:56:17 ET]
+Table '3930957404 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (310 en jetons) 
+Place 3: Z800sugomi (1190 en jetons) 
+Z800sugomi : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 3c]
+Z800sugomi : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : Z800sugomi (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257867171727 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 24/09/2025 9:56:21 CET [24/09/2025 3:56:21 ET]
+Table '3930957404 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (350 en jetons) 
+Place 3: Z800sugomi (1150 en jetons) 
+psychoman59 : met la petite blind. 40
+Z800sugomi : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 8s]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Z800sugomi.
+Z800sugomi a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Z800sugomi (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°257867172012 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 24/09/2025 9:56:26 CET [24/09/2025 3:56:26 ET]
+Table '3930957404 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (310 en jetons) 
+Place 3: Z800sugomi (1190 en jetons) 
+Z800sugomi : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Ks]
+Z800sugomi : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : Z800sugomi (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257867172281 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 24/09/2025 9:56:31 CET [24/09/2025 3:56:31 ET]
+Table '3930957404 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (350 en jetons) 
+Place 3: Z800sugomi (1150 en jetons) 
+psychoman59 : met la petite blind. 40
+Z800sugomi : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Ah]
+psychoman59 : relance. 270 à 350 et est all-in.
+Z800sugomi : suit. 270
+*** FLOP *** [9d Kc Kd]
+*** TOURNANT *** [9d Kc Kd] [Ac]
+*** RIVIÈRE *** [9d Kc Kd Ac] [4d]
+*** ABATTAGE ***
+Z800sugomi : montre [Qs 3s] (une paire de Rois)
+psychoman59 : montre [Qc Ah] (double paire, As et Rois)
+psychoman59 a remporté 700  lors du pot .
+*** SYNTHÈSE ***
+Pot total 700 | Commission 0 
+Tableau [9d Kc Kd Ac 4d]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Qc Ah] et a gagné (700) avec double paire, As et Rois
+Siège 3 : Z800sugomi (grosse blind) a montré [Qs 3s] et a perdu avec une paire de Rois
+
+
+
+Main PokerStars n°257867172999 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 24/09/2025 9:56:44 CET [24/09/2025 3:56:44 ET]
+Table '3930957404 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (700 en jetons) 
+Place 3: Z800sugomi (800 en jetons) 
+Z800sugomi : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Ah]
+Z800sugomi : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : Z800sugomi (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257867173331 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 24/09/2025 9:56:50 CET [24/09/2025 3:56:50 ET]
+Table '3930957404 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (740 en jetons) 
+Place 3: Z800sugomi (760 en jetons) 
+psychoman59 : met la petite blind. 40
+Z800sugomi : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 2h]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Z800sugomi.
+Z800sugomi a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Z800sugomi (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°257867173616 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 24/09/2025 9:56:55 CET [24/09/2025 3:56:55 ET]
+Table '3930957404 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (700 en jetons) 
+Place 3: Z800sugomi (800 en jetons) 
+Z800sugomi : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Ad]
+Z800sugomi : relance. 720 à 800 et est all-in.
+psychoman59 : suit. 620 et est all-in.
+Personne n'a suivi. (100) sont retournés à Z800sugomi.
+*** FLOP *** [3d Ah As]
+*** TOURNANT *** [3d Ah As] [6h]
+*** RIVIÈRE *** [3d Ah As 6h] [9c]
+*** ABATTAGE ***
+psychoman59 : montre [5s Ad] (un brelan de As)
+Z800sugomi : montre [Jh Kd] (une paire de As)
+psychoman59 a remporté 1400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1400 | Commission 0 
+Tableau [3d Ah As 6h 9c]
+Siège 2 : psychoman59 (grosse blind) a montré [5s Ad] et a gagné (1400) avec un brelan de As
+Siège 3 : Z800sugomi (bouton) (petite blind) a montré [Jh Kd] et a perdu avec une paire de As
+
+
+
+Main PokerStars n°257867174369 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 24/09/2025 9:57:09 CET [24/09/2025 3:57:09 ET]
+Table '3930957404 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1400 en jetons) 
+Place 3: Z800sugomi (100 en jetons) 
+psychoman59 : met la petite blind. 40
+Z800sugomi : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 2s]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Z800sugomi.
+Z800sugomi a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Z800sugomi (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°257867174750 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 24/09/2025 9:57:15 CET [24/09/2025 3:57:15 ET]
+Table '3930957404 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1360 en jetons) 
+Place 3: Z800sugomi (140 en jetons) 
+Z800sugomi : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 2d]
+Z800sugomi : relance. 60 à 140 et est all-in.
+psychoman59 : suit. 60
+*** FLOP *** [8d Ks 5d]
+*** TOURNANT *** [8d Ks 5d] [6s]
+*** RIVIÈRE *** [8d Ks 5d 6s] [Ts]
+*** ABATTAGE ***
+psychoman59 : montre [Jh 2d] (Hauteur Roi)
+Z800sugomi : montre [7c Ah] (Hauteur As)
+Z800sugomi a remporté 280  lors du pot .
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Tableau [8d Ks 5d 6s Ts]
+Siège 2 : psychoman59 (grosse blind) a montré [Jh 2d] et a perdu avec Hauteur Roi
+Siège 3 : Z800sugomi (bouton) (petite blind) a montré [7c Ah] et a gagné (280) avec Hauteur As
+
+
+
+Main PokerStars n°257867175495 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 24/09/2025 9:57:29 CET [24/09/2025 3:57:29 ET]
+Table '3930957404 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1220 en jetons) 
+Place 3: Z800sugomi (280 en jetons) 
+psychoman59 : met la petite blind. 40
+Z800sugomi : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 3s]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Z800sugomi.
+Z800sugomi a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Z800sugomi (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°257867175875 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 24/09/2025 9:57:35 CET [24/09/2025 3:57:35 ET]
+Table '3930957404 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1180 en jetons) 
+Place 3: Z800sugomi (320 en jetons) 
+Z800sugomi : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 9d]
+Z800sugomi : relance. 240 à 320 et est all-in.
+psychoman59 : suit. 240
+*** FLOP *** [Kd Qh 5d]
+*** TOURNANT *** [Kd Qh 5d] [8s]
+*** RIVIÈRE *** [Kd Qh 5d 8s] [Td]
+*** ABATTAGE ***
+psychoman59 : montre [9h 9d] (une paire de Neuf)
+Z800sugomi : montre [Th 7s] (une paire de Dix)
+Z800sugomi a remporté 640  lors du pot .
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [Kd Qh 5d 8s Td]
+Siège 2 : psychoman59 (grosse blind) a montré [9h 9d] et a perdu avec une paire de Neuf
+Siège 3 : Z800sugomi (bouton) (petite blind) a montré [Th 7s] et a gagné (640) avec une paire de Dix
+
+
+
+Main PokerStars n°257867176581 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 24/09/2025 9:57:48 CET [24/09/2025 3:57:48 ET]
+Table '3930957404 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (860 en jetons) 
+Place 3: Z800sugomi (640 en jetons) 
+psychoman59 : met la petite blind. 40
+Z800sugomi : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 5s]
+psychoman59 : relance. 780 à 860 et est all-in.
+Z800sugomi : passe. 
+Personne n'a suivi. (780) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (160)
+Siège 3 : Z800sugomi (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257867177030 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 24/09/2025 9:57:56 CET [24/09/2025 3:57:56 ET]
+Table '3930957404 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (940 en jetons) 
+Place 3: Z800sugomi (560 en jetons) 
+Z800sugomi : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 9h]
+Z800sugomi : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : Z800sugomi (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257867177314 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 24/09/2025 9:58:01 CET [24/09/2025 3:58:01 ET]
+Table '3930957404 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (980 en jetons) 
+Place 3: Z800sugomi (520 en jetons) 
+psychoman59 : met la petite blind. 40
+Z800sugomi : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 5h]
+psychoman59 : suit. 40
+Z800sugomi : relance. 440 à 520 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (440) sont retournés à Z800sugomi.
+Z800sugomi a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Z800sugomi (grosse blind) a remporté (160)
+
+
+
+Main PokerStars n°257867178014 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 24/09/2025 9:58:14 CET [24/09/2025 3:58:14 ET]
+Table '3930957404 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (900 en jetons) 
+Place 3: Z800sugomi (600 en jetons) 
+Z800sugomi : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Ah]
+Z800sugomi : relance. 500 à 600 et est all-in.
+psychoman59 : suit. 500
+*** FLOP *** [3h 5d 4h]
+*** TOURNANT *** [3h 5d 4h] [7h]
+*** RIVIÈRE *** [3h 5d 4h 7h] [6d]
+*** ABATTAGE ***
+psychoman59 : montre [3d Ah] (une suite, Trois à Sept)
+Z800sugomi : montre [7c 6h] (une suite, Trois à Sept)
+psychoman59 a remporté 600  lors du pot .
+Z800sugomi a remporté 600  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1200 | Commission 0 
+Tableau [3h 5d 4h 7h 6d]
+Siège 2 : psychoman59 (grosse blind) a montré [3d Ah] et a gagné (600) avec une suite, Trois à Sept
+Siège 3 : Z800sugomi (bouton) (petite blind) a montré [7c 6h] et a gagné (600) avec une suite, Trois à Sept
+
+
+
+Main PokerStars n°257867178741 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 24/09/2025 9:58:26 CET [24/09/2025 3:58:26 ET]
+Table '3930957404 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (900 en jetons) 
+Place 3: Z800sugomi (600 en jetons) 
+psychoman59 : met la petite blind. 50
+Z800sugomi : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 9s]
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à Z800sugomi.
+Z800sugomi a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Z800sugomi (grosse blind) a remporté (100)
+
+
+
+Main PokerStars n°257867179199 : Tournoi #3930957404, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 24/09/2025 9:58:35 CET [24/09/2025 3:58:35 ET]
+Table '3930957404 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (850 en jetons) 
+Place 3: Z800sugomi (650 en jetons) 
+Z800sugomi : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Qh]
+Z800sugomi : relance. 550 à 650 et est all-in.
+psychoman59 : suit. 550
+*** FLOP *** [Qs 5c 3d]
+*** TOURNANT *** [Qs 5c 3d] [Td]
+*** RIVIÈRE *** [Qs 5c 3d Td] [Ad]
+*** ABATTAGE ***
+psychoman59 : montre [Kh Qh] (une paire de Dames)
+Z800sugomi : montre [8h 7c] (Hauteur As)
+psychoman59 a remporté 1300  lors du pot .
+Z800sugomi a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 1300 | Commission 0 
+Tableau [Qs 5c 3d Td Ad]
+Siège 2 : psychoman59 (grosse blind) a montré [Kh Qh] et a gagné (1300) avec une paire de Dames
+Siège 3 : Z800sugomi (bouton) (petite blind) a montré [8h 7c] et a perdu avec Hauteur As
+
+
+

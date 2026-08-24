@@ -1,0 +1,922 @@
+﻿Main PokerStars n°259912928832 : Tournoi #3979396246, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 01/03/2026 7:56:20 CET [01/03/2026 1:56:20 ET]
+Table '3979396246 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: 61tournesol (500 en jetons) 
+Place 3: ismaelo_341 (500 en jetons) 
+61tournesol : met la petite blind. 10
+ismaelo_341 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 3h]
+psychoman59 : passe. 
+61tournesol : suit. 10
+ismaelo_341 : parole 
+*** FLOP *** [4s Qd 9s]
+61tournesol : mise. 40
+ismaelo_341 : passe. 
+Personne n'a suivi. (40) sont retournés à 61tournesol.
+61tournesol a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [4s Qd 9s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : 61tournesol (petite blind) a remporté (40)
+Siège 3 : ismaelo_341 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°259912929488 : Tournoi #3979396246, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 01/03/2026 7:56:32 CET [01/03/2026 1:56:32 ET]
+Table '3979396246 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: 61tournesol (520 en jetons) 
+Place 3: ismaelo_341 (480 en jetons) 
+ismaelo_341 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Jh]
+61tournesol : passe. 
+ismaelo_341 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [2h 4h Jd]
+ismaelo_341 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [2h 4h Jd] [9c]
+ismaelo_341 : parole 
+psychoman59 : mise. 20
+ismaelo_341 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [2h 4h Jd 9c]
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 2 : 61tournesol (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : ismaelo_341 (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°259912930320 : Tournoi #3979396246, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 01/03/2026 7:56:48 CET [01/03/2026 1:56:48 ET]
+Table '3979396246 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (520 en jetons) 
+Place 2: 61tournesol (520 en jetons) 
+Place 3: ismaelo_341 (460 en jetons) 
+psychoman59 : met la petite blind. 10
+61tournesol : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 3h]
+ismaelo_341 : suit. 20
+psychoman59 : suit. 10
+61tournesol : parole 
+*** FLOP *** [3s Ah Ac]
+psychoman59 : parole 
+61tournesol : parole 
+ismaelo_341 : parole 
+*** TOURNANT *** [3s Ah Ac] [4s]
+psychoman59 : parole 
+61tournesol : parole 
+ismaelo_341 : mise. 20
+psychoman59 : suit. 20
+61tournesol : suit. 20
+*** RIVIÈRE *** [3s Ah Ac 4s] [4d]
+psychoman59 : parole 
+61tournesol : parole 
+ismaelo_341 : mise. 40
+psychoman59 : suit. 40
+61tournesol : passe. 
+*** ABATTAGE ***
+ismaelo_341 : montre [6c As] (un full, full aux As par les Quatre)
+psychoman59 : cache la main perdante. 
+ismaelo_341 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [3s Ah Ac 4s 4d]
+Siège 1 : psychoman59 (petite blind) a caché la main perdante. [Ks 3h]
+Siège 2 : 61tournesol (grosse blind) s'est couché. sur le Rivière
+Siège 3 : ismaelo_341 (bouton) a montré [6c As] et a gagné (200) avec un full, full aux As par les Quatre
+
+
+
+Main PokerStars n°259912931859 : Tournoi #3979396246, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 01/03/2026 7:57:15 CET [01/03/2026 1:57:15 ET]
+Table '3979396246 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (440 en jetons) 
+Place 2: 61tournesol (480 en jetons) 
+Place 3: ismaelo_341 (580 en jetons) 
+61tournesol : met la petite blind. 10
+ismaelo_341 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Ah]
+psychoman59 : suit. 20
+61tournesol : relance. 60 à 80
+ismaelo_341 : suit. 60
+psychoman59 : passe. 
+*** FLOP *** [4s Js 8d]
+61tournesol : mise. 180
+ismaelo_341 : passe. 
+Personne n'a suivi. (180) sont retournés à 61tournesol.
+61tournesol a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [4s Js 8d]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 2 : 61tournesol (petite blind) a remporté (180)
+Siège 3 : ismaelo_341 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°259912932643 : Tournoi #3979396246, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 01/03/2026 7:57:30 CET [01/03/2026 1:57:30 ET]
+Table '3979396246 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (420 en jetons) 
+Place 2: 61tournesol (580 en jetons) 
+Place 3: ismaelo_341 (500 en jetons) 
+ismaelo_341 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Tc]
+61tournesol : suit. 20
+ismaelo_341 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [4c 9s 9d]
+ismaelo_341 : parole 
+psychoman59 : parole 
+61tournesol : mise. 60
+ismaelo_341 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à 61tournesol.
+61tournesol a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [4c 9s 9d]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : 61tournesol (bouton) a remporté (60)
+Siège 3 : ismaelo_341 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°259912933477 : Tournoi #3979396246, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 01/03/2026 7:57:45 CET [01/03/2026 1:57:45 ET]
+Table '3979396246 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (400 en jetons) 
+Place 2: 61tournesol (620 en jetons) 
+Place 3: ismaelo_341 (480 en jetons) 
+psychoman59 : met la petite blind. 10
+61tournesol : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 3c]
+ismaelo_341 : suit. 20
+psychoman59 : passe. 
+61tournesol : parole 
+*** FLOP *** [8c Ks Js]
+61tournesol : parole 
+ismaelo_341 : parole 
+*** TOURNANT *** [8c Ks Js] [4d]
+61tournesol : parole 
+ismaelo_341 : parole 
+*** RIVIÈRE *** [8c Ks Js 4d] [7s]
+61tournesol : parole 
+ismaelo_341 : parole 
+*** ABATTAGE ***
+61tournesol : montre [9h 3h] (Hauteur Roi)
+ismaelo_341 : montre [5c 9d] (Hauteur Roi)
+61tournesol a remporté 25  lors du pot .
+ismaelo_341 a remporté 25  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [8c Ks Js 4d 7s]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : 61tournesol (grosse blind) a montré [9h 3h] et a gagné (25) avec Hauteur Roi
+Siège 3 : ismaelo_341 (bouton) a montré [5c 9d] et a gagné (25) avec Hauteur Roi
+
+
+
+Main PokerStars n°259912934246 : Tournoi #3979396246, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 01/03/2026 7:57:58 CET [01/03/2026 1:57:58 ET]
+Table '3979396246 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (390 en jetons) 
+Place 2: 61tournesol (625 en jetons) 
+Place 3: ismaelo_341 (485 en jetons) 
+61tournesol : met la petite blind. 10
+ismaelo_341 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 2h]
+psychoman59 : suit. 20
+61tournesol : relance. 40 à 60
+ismaelo_341 : suit. 40
+psychoman59 : passe. 
+*** FLOP *** [Js Ts 9s]
+61tournesol : parole 
+ismaelo_341 : parole 
+*** TOURNANT *** [Js Ts 9s] [7c]
+61tournesol : parole 
+ismaelo_341 : parole 
+*** RIVIÈRE *** [Js Ts 9s 7c] [Kh]
+61tournesol : parole 
+ismaelo_341 : mise. 425 et est all-in.
+61tournesol : passe. 
+Personne n'a suivi. (425) sont retournés à ismaelo_341.
+ismaelo_341 a remporté 140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [Js Ts 9s 7c Kh]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 2 : 61tournesol (petite blind) s'est couché. sur le Rivière
+Siège 3 : ismaelo_341 (grosse blind) a remporté (140)
+
+
+
+Main PokerStars n°259912935436 : Tournoi #3979396246, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 01/03/2026 7:58:20 CET [01/03/2026 1:58:20 ET]
+Table '3979396246 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (370 en jetons) 
+Place 2: 61tournesol (565 en jetons) 
+Place 3: ismaelo_341 (565 en jetons) 
+ismaelo_341 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 5c]
+61tournesol : passe. 
+ismaelo_341 : suit. 10
+psychoman59 : relance. 350 à 370 et est all-in.
+ismaelo_341 : passe. 
+Personne n'a suivi. (350) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 2 : 61tournesol (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : ismaelo_341 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°259912935847 : Tournoi #3979396246, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 01/03/2026 7:58:28 CET [01/03/2026 1:58:28 ET]
+Table '3979396246 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (390 en jetons) 
+Place 2: 61tournesol (565 en jetons) 
+Place 3: ismaelo_341 (545 en jetons) 
+psychoman59 : met la petite blind. 10
+61tournesol : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Ah]
+ismaelo_341 : suit. 20
+psychoman59 : suit. 10
+61tournesol : parole 
+*** FLOP *** [4c 8s Jh]
+psychoman59 : parole 
+61tournesol : mise. 60
+ismaelo_341 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à 61tournesol.
+61tournesol a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [4c 8s Jh]
+Siège 1 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 2 : 61tournesol (grosse blind) a remporté (60)
+Siège 3 : ismaelo_341 (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°259912936574 : Tournoi #3979396246, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 01/03/2026 7:58:42 CET [01/03/2026 1:58:42 ET]
+Table '3979396246 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (370 en jetons) 
+Place 2: 61tournesol (605 en jetons) 
+Place 3: ismaelo_341 (525 en jetons) 
+61tournesol : met la petite blind. 10
+ismaelo_341 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Qh]
+psychoman59 : suit. 20
+61tournesol : suit. 10
+ismaelo_341 : parole 
+*** FLOP *** [Qc Kc Jc]
+61tournesol : mise. 20
+ismaelo_341 : suit. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [Qc Kc Jc] [5h]
+61tournesol : mise. 20
+ismaelo_341 : suit. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [Qc Kc Jc 5h] [6s]
+61tournesol : mise. 20
+ismaelo_341 : passe. 
+psychoman59 : suit. 20
+*** ABATTAGE ***
+61tournesol : montre [Ks 7c] (une paire de Rois)
+psychoman59 : cache la main perdante. 
+61tournesol a remporté 220  lors du pot .
+*** SYNTHÈSE ***
+Pot total 220 | Commission 0 
+Tableau [Qc Kc Jc 5h 6s]
+Siège 1 : psychoman59 (bouton) a caché la main perdante. [9d Qh]
+Siège 2 : 61tournesol (petite blind) a montré [Ks 7c] et a gagné (220) avec une paire de Rois
+Siège 3 : ismaelo_341 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°259912937698 : Tournoi #3979396246, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 01/03/2026 7:59:02 CET [01/03/2026 1:59:02 ET]
+Table '3979396246 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (290 en jetons) 
+Place 2: 61tournesol (745 en jetons) 
+Place 3: ismaelo_341 (465 en jetons) 
+ismaelo_341 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 5c]
+61tournesol : suit. 20
+ismaelo_341 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [6h 2c Ac]
+ismaelo_341 : parole 
+psychoman59 : parole 
+61tournesol : mise. 30
+ismaelo_341 : passe. 
+psychoman59 : relance. 240 à 270 et est all-in.
+61tournesol : passe. 
+Personne n'a suivi. (240) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [6h 2c Ac]
+Siège 1 : psychoman59 (grosse blind) a remporté (120)
+Siège 2 : 61tournesol (bouton) s'est couché. sur le Flop
+Siège 3 : ismaelo_341 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°259912939206 : Tournoi #3979396246, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 01/03/2026 7:59:30 CET [01/03/2026 1:59:30 ET]
+Table '3979396246 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (360 en jetons) 
+Place 2: 61tournesol (695 en jetons) 
+Place 3: ismaelo_341 (445 en jetons) 
+psychoman59 : met la petite blind. 15
+61tournesol : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 9s]
+ismaelo_341 : suit. 30
+psychoman59 : suit. 15
+61tournesol : relance. 60 à 90
+ismaelo_341 : suit. 60
+psychoman59 : passe. 
+*** FLOP *** [Jd Ad 4s]
+61tournesol : mise. 105
+ismaelo_341 : suit. 105
+*** TOURNANT *** [Jd Ad 4s] [Kd]
+61tournesol : parole 
+ismaelo_341 : parole 
+*** RIVIÈRE *** [Jd Ad 4s Kd] [6h]
+61tournesol : parole 
+ismaelo_341 : parole 
+*** ABATTAGE ***
+61tournesol : montre [Qc Qs] (une paire de Dames)
+ismaelo_341 : cache la main perdante. 
+61tournesol a remporté 420  lors du pot .
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [Jd Ad 4s Kd 6h]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : 61tournesol (grosse blind) a montré [Qc Qs] et a gagné (420) avec une paire de Dames
+Siège 3 : ismaelo_341 (bouton) a caché la main perdante. [4c Qd]
+
+
+
+Main PokerStars n°259912940512 : Tournoi #3979396246, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 01/03/2026 7:59:54 CET [01/03/2026 1:59:54 ET]
+Table '3979396246 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (330 en jetons) 
+Place 2: 61tournesol (920 en jetons) 
+Place 3: ismaelo_341 (250 en jetons) 
+61tournesol : met la petite blind. 15
+ismaelo_341 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 2d]
+psychoman59 : passe. 
+61tournesol : relance. 60 à 90
+ismaelo_341 : suit. 60
+*** FLOP *** [5s 2s 2h]
+61tournesol : mise. 90
+ismaelo_341 : suit. 90
+*** TOURNANT *** [5s 2s 2h] [5d]
+61tournesol : mise. 30
+ismaelo_341 : suit. 30
+*** RIVIÈRE *** [5s 2s 2h 5d] [Jc]
+61tournesol : mise. 30
+ismaelo_341 : relance. 10 à 40 et est all-in.
+61tournesol : suit. 10
+*** ABATTAGE ***
+ismaelo_341 : montre [5c Ks] (un full, full aux Cinq par les Deux)
+61tournesol : montre [Qd Kh] (double paire, Cinq et Deux)
+ismaelo_341 a remporté 500  lors du pot .
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Tableau [5s 2s 2h 5d Jc]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : 61tournesol (petite blind) a montré [Qd Kh] et a perdu avec double paire, Cinq et Deux
+Siège 3 : ismaelo_341 (grosse blind) a montré [5c Ks] et a gagné (500) avec un full, full aux Cinq par les Deux
+
+
+
+Main PokerStars n°259912941709 : Tournoi #3979396246, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 01/03/2026 8:00:16 CET [01/03/2026 2:00:16 ET]
+Table '3979396246 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (330 en jetons) 
+Place 2: 61tournesol (670 en jetons) 
+Place 3: ismaelo_341 (500 en jetons) 
+ismaelo_341 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 6d]
+61tournesol : relance. 60 à 90
+ismaelo_341 : suit. 75
+psychoman59 : passe. 
+*** FLOP *** [Qh 2d Tc]
+ismaelo_341 : parole 
+61tournesol : parole 
+*** TOURNANT *** [Qh 2d Tc] [Qs]
+ismaelo_341 : parole 
+61tournesol : mise. 210
+ismaelo_341 : suit. 210
+*** RIVIÈRE *** [Qh 2d Tc Qs] [8d]
+ismaelo_341 : parole 
+61tournesol : parole 
+*** ABATTAGE ***
+ismaelo_341 : montre [6c Qc] (un brelan de Dames)
+61tournesol : cache la main perdante. 
+ismaelo_341 a remporté 630  lors du pot .
+*** SYNTHÈSE ***
+Pot total 630 | Commission 0 
+Tableau [Qh 2d Tc Qs 8d]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : 61tournesol (bouton) a caché la main perdante. [4d Ac]
+Siège 3 : ismaelo_341 (petite blind) a montré [6c Qc] et a gagné (630) avec un brelan de Dames
+
+
+
+Main PokerStars n°259912942891 : Tournoi #3979396246, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 01/03/2026 8:00:37 CET [01/03/2026 2:00:37 ET]
+Table '3979396246 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: 61tournesol (370 en jetons) 
+Place 3: ismaelo_341 (830 en jetons) 
+psychoman59 : met la petite blind. 15
+61tournesol : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 8c]
+ismaelo_341 : suit. 30
+psychoman59 : passe. 
+61tournesol : relance. 340 à 370 et est all-in.
+ismaelo_341 : passe. 
+Personne n'a suivi. (340) sont retournés à 61tournesol.
+61tournesol a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : 61tournesol (grosse blind) a remporté (75)
+Siège 3 : ismaelo_341 (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°259912944609 : Tournoi #3979396246, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 01/03/2026 8:01:04 CET [01/03/2026 2:01:04 ET]
+Table '3979396246 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (285 en jetons) 
+Place 2: 61tournesol (415 en jetons) 
+Place 3: ismaelo_341 (800 en jetons) 
+61tournesol : met la petite blind. 15
+ismaelo_341 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 3s]
+psychoman59 : relance. 255 à 285 et est all-in.
+61tournesol : passe. 
+ismaelo_341 : passe. 
+Personne n'a suivi. (255) sont retournés à psychoman59.
+psychoman59 a remporté 75  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : psychoman59 (bouton) a remporté (75)
+Siège 2 : 61tournesol (petite blind) s'est couché. avant Flop
+Siège 3 : ismaelo_341 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°259912945214 : Tournoi #3979396246, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 01/03/2026 8:01:14 CET [01/03/2026 2:01:14 ET]
+Table '3979396246 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (330 en jetons) 
+Place 2: 61tournesol (400 en jetons) 
+Place 3: ismaelo_341 (770 en jetons) 
+ismaelo_341 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 3d]
+61tournesol : passe. 
+ismaelo_341 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [6h 5s Qs]
+ismaelo_341 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6h 5s Qs] [7d]
+ismaelo_341 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [6h 5s Qs 7d] [Kh]
+ismaelo_341 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+ismaelo_341 : montre [9h 7c] (une paire de Sept)
+psychoman59 : cache la main perdante. 
+ismaelo_341 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [6h 5s Qs 7d Kh]
+Siège 1 : psychoman59 (grosse blind) a caché la main perdante. [2h 3d]
+Siège 2 : 61tournesol (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : ismaelo_341 (petite blind) a montré [9h 7c] et a gagné (60) avec une paire de Sept
+
+
+
+Main PokerStars n°259912946213 : Tournoi #3979396246, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 01/03/2026 8:01:31 CET [01/03/2026 2:01:31 ET]
+Table '3979396246 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: 61tournesol (400 en jetons) 
+Place 3: ismaelo_341 (800 en jetons) 
+psychoman59 : met la petite blind. 15
+61tournesol : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Kd]
+ismaelo_341 : suit. 30
+psychoman59 : suit. 15
+61tournesol : relance. 60 à 90
+ismaelo_341 : suit. 60
+psychoman59 : suit. 60
+*** FLOP *** [Ks 6c Qh]
+psychoman59 : parole 
+61tournesol : parole 
+ismaelo_341 : parole 
+*** TOURNANT *** [Ks 6c Qh] [Kh]
+psychoman59 : mise. 135
+61tournesol : passe. 
+ismaelo_341 : passe. 
+Personne n'a suivi. (135) sont retournés à psychoman59.
+psychoman59 a remporté 270  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Tableau [Ks 6c Qh Kh]
+Siège 1 : psychoman59 (petite blind) a remporté (270)
+Siège 2 : 61tournesol (grosse blind) s'est couché. sur le Tournant
+Siège 3 : ismaelo_341 (bouton) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°259912947642 : Tournoi #3979396246, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 01/03/2026 8:01:53 CET [01/03/2026 2:01:53 ET]
+Table '3979396246 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (480 en jetons) 
+Place 2: 61tournesol (310 en jetons) 
+Place 3: ismaelo_341 (710 en jetons) 
+61tournesol : met la petite blind. 15
+ismaelo_341 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 2s]
+psychoman59 : passe. 
+61tournesol : relance. 280 à 310 et est all-in.
+ismaelo_341 : passe. 
+Personne n'a suivi. (280) sont retournés à 61tournesol.
+61tournesol a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : 61tournesol (petite blind) a remporté (60)
+Siège 3 : ismaelo_341 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°259912948128 : Tournoi #3979396246, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 01/03/2026 8:02:00 CET [01/03/2026 2:02:00 ET]
+Table '3979396246 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (480 en jetons) 
+Place 2: 61tournesol (340 en jetons) 
+Place 3: ismaelo_341 (680 en jetons) 
+ismaelo_341 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Ad]
+61tournesol : relance. 310 à 340 et est all-in.
+ismaelo_341 : suit. 325
+psychoman59 : passe. 
+*** FLOP *** [Qc 6s 9d]
+*** TOURNANT *** [Qc 6s 9d] [Ac]
+*** RIVIÈRE *** [Qc 6s 9d Ac] [3d]
+*** ABATTAGE ***
+ismaelo_341 : montre [Kc Qd] (une paire de Dames)
+61tournesol : montre [3s 3h] (un brelan de Trois)
+61tournesol a remporté 710  lors du pot .
+*** SYNTHÈSE ***
+Pot total 710 | Commission 0 
+Tableau [Qc 6s 9d Ac 3d]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : 61tournesol (bouton) a montré [3s 3h] et a gagné (710) avec un brelan de Trois
+Siège 3 : ismaelo_341 (petite blind) a montré [Kc Qd] et a perdu avec une paire de Dames
+
+
+
+Main PokerStars n°259912949127 : Tournoi #3979396246, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 01/03/2026 8:02:17 CET [01/03/2026 2:02:17 ET]
+Table '3979396246 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (450 en jetons) 
+Place 2: 61tournesol (710 en jetons) 
+Place 3: ismaelo_341 (340 en jetons) 
+psychoman59 : met la petite blind. 15
+61tournesol : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Jc]
+ismaelo_341 : suit. 30
+psychoman59 : relance. 420 à 450 et est all-in.
+61tournesol : passe. 
+ismaelo_341 : passe. 
+Personne n'a suivi. (420) sont retournés à psychoman59.
+psychoman59 a remporté 90  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Siège 1 : psychoman59 (petite blind) a remporté (90)
+Siège 2 : 61tournesol (grosse blind) s'est couché. avant Flop
+Siège 3 : ismaelo_341 (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°259912949959 : Tournoi #3979396246, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 01/03/2026 8:02:29 CET [01/03/2026 2:02:29 ET]
+Table '3979396246 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (510 en jetons) 
+Place 2: 61tournesol (680 en jetons) 
+Place 3: ismaelo_341 (310 en jetons) 
+61tournesol : met la petite blind. 20
+ismaelo_341 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 9c]
+psychoman59 : passe. 
+61tournesol : suit. 20
+ismaelo_341 : parole 
+*** FLOP *** [9h Ts 8s]
+61tournesol : parole 
+ismaelo_341 : parole 
+*** TOURNANT *** [9h Ts 8s] [Kh]
+61tournesol : parole 
+ismaelo_341 : parole 
+*** RIVIÈRE *** [9h Ts 8s Kh] [9s]
+61tournesol : parole 
+ismaelo_341 : parole 
+*** ABATTAGE ***
+61tournesol : montre [5h 7d] (une paire de Neuf)
+ismaelo_341 : montre [3c Tc] (double paire, Dix et Neuf)
+ismaelo_341 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [9h Ts 8s Kh 9s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : 61tournesol (petite blind) a montré [5h 7d] et a perdu avec une paire de Neuf
+Siège 3 : ismaelo_341 (grosse blind) a montré [3c Tc] et a gagné (80) avec double paire, Dix et Neuf
+
+
+
+Main PokerStars n°259912950930 : Tournoi #3979396246, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 01/03/2026 8:02:44 CET [01/03/2026 2:02:44 ET]
+Table '3979396246 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (510 en jetons) 
+Place 2: 61tournesol (640 en jetons) 
+Place 3: ismaelo_341 (350 en jetons) 
+ismaelo_341 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Kd]
+61tournesol : passe. 
+ismaelo_341 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [6s Ks 9c]
+ismaelo_341 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6s Ks 9c] [7h]
+ismaelo_341 : parole 
+psychoman59 : mise. 40
+ismaelo_341 : suit. 40
+*** RIVIÈRE *** [6s Ks 9c 7h] [Th]
+ismaelo_341 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+ismaelo_341 : montre [2d 2c] (une paire de Deux)
+psychoman59 : montre [Jh Kd] (une paire de Rois)
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [6s Ks 9c 7h Th]
+Siège 1 : psychoman59 (grosse blind) a montré [Jh Kd] et a gagné (160) avec une paire de Rois
+Siège 2 : 61tournesol (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : ismaelo_341 (petite blind) a montré [2d 2c] et a perdu avec une paire de Deux
+
+
+
+Main PokerStars n°259912952180 : Tournoi #3979396246, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 01/03/2026 8:03:04 CET [01/03/2026 2:03:04 ET]
+Table '3979396246 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (590 en jetons) 
+Place 2: 61tournesol (640 en jetons) 
+Place 3: ismaelo_341 (270 en jetons) 
+psychoman59 : met la petite blind. 20
+61tournesol : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 8d]
+ismaelo_341 : suit. 40
+psychoman59 : passe. 
+61tournesol : parole 
+*** FLOP *** [4d 9d 6s]
+61tournesol : mise. 40
+ismaelo_341 : suit. 40
+*** TOURNANT *** [4d 9d 6s] [Th]
+61tournesol : mise. 40
+ismaelo_341 : suit. 40
+*** RIVIÈRE *** [4d 9d 6s Th] [9c]
+61tournesol : parole 
+ismaelo_341 : parole 
+*** ABATTAGE ***
+61tournesol : montre [5s 3c] (une paire de Neuf)
+ismaelo_341 : montre [Ad 4h] (double paire, Neuf et Quatre)
+ismaelo_341 a remporté 260  lors du pot .
+*** SYNTHÈSE ***
+Pot total 260 | Commission 0 
+Tableau [4d 9d 6s Th 9c]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : 61tournesol (grosse blind) a montré [5s 3c] et a perdu avec une paire de Neuf
+Siège 3 : ismaelo_341 (bouton) a montré [Ad 4h] et a gagné (260) avec double paire, Neuf et Quatre
+
+
+
+Main PokerStars n°259912953330 : Tournoi #3979396246, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 01/03/2026 8:03:22 CET [01/03/2026 2:03:22 ET]
+Table '3979396246 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (570 en jetons) 
+Place 2: 61tournesol (520 en jetons) 
+Place 3: ismaelo_341 (410 en jetons) 
+61tournesol : met la petite blind. 20
+ismaelo_341 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Qc]
+psychoman59 : suit. 40
+61tournesol : relance. 480 à 520 et est all-in.
+ismaelo_341 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (480) sont retournés à 61tournesol.
+61tournesol a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 2 : 61tournesol (petite blind) a remporté (120)
+Siège 3 : ismaelo_341 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°259912954169 : Tournoi #3979396246, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 01/03/2026 8:03:35 CET [01/03/2026 2:03:35 ET]
+Table '3979396246 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (530 en jetons) 
+Place 2: 61tournesol (600 en jetons) 
+Place 3: ismaelo_341 (370 en jetons) 
+ismaelo_341 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 6c]
+61tournesol : passe. 
+ismaelo_341 : relance. 330 à 370 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (330) sont retournés à ismaelo_341.
+ismaelo_341 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : 61tournesol (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : ismaelo_341 (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°259912954798 : Tournoi #3979396246, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 01/03/2026 8:03:45 CET [01/03/2026 2:03:45 ET]
+Table '3979396246 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (490 en jetons) 
+Place 2: 61tournesol (600 en jetons) 
+Place 3: ismaelo_341 (410 en jetons) 
+psychoman59 : met la petite blind. 20
+61tournesol : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Ks]
+ismaelo_341 : passe. 
+psychoman59 : suit. 20
+61tournesol : parole 
+*** FLOP *** [6d 2h Tc]
+psychoman59 : mise. 80
+61tournesol : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [6d 2h Tc]
+Siège 1 : psychoman59 (petite blind) a remporté (80)
+Siège 2 : 61tournesol (grosse blind) s'est couché. sur le Flop
+Siège 3 : ismaelo_341 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°259912955714 : Tournoi #3979396246, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 01/03/2026 8:03:58 CET [01/03/2026 2:03:58 ET]
+Table '3979396246 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (530 en jetons) 
+Place 2: 61tournesol (560 en jetons) 
+Place 3: ismaelo_341 (410 en jetons) 
+61tournesol : met la petite blind. 20
+ismaelo_341 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Jd]
+psychoman59 : passe. 
+61tournesol : suit. 20
+ismaelo_341 : parole 
+*** FLOP *** [2s Kh 7c]
+61tournesol : parole 
+ismaelo_341 : parole 
+*** TOURNANT *** [2s Kh 7c] [3h]
+61tournesol : parole 
+ismaelo_341 : parole 
+*** RIVIÈRE *** [2s Kh 7c 3h] [Ac]
+61tournesol : parole 
+ismaelo_341 : parole 
+*** ABATTAGE ***
+61tournesol : montre [5h 6h] (Hauteur As)
+ismaelo_341 : montre [Tc 8h] (Hauteur As - Roi+Dix kicker)
+ismaelo_341 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [2s Kh 7c 3h Ac]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : 61tournesol (petite blind) a montré [5h 6h] et a perdu avec Hauteur As
+Siège 3 : ismaelo_341 (grosse blind) a montré [Tc 8h] et a gagné (80) avec Hauteur As
+
+
+
+Main PokerStars n°259912956648 : Tournoi #3979396246, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 01/03/2026 8:04:13 CET [01/03/2026 2:04:13 ET]
+Table '3979396246 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (530 en jetons) 
+Place 2: 61tournesol (520 en jetons) 
+Place 3: ismaelo_341 (450 en jetons) 
+ismaelo_341 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Jh]
+61tournesol : suit. 40
+ismaelo_341 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [4s Ts Ks]
+ismaelo_341 : parole 
+psychoman59 : parole 
+61tournesol : parole 
+*** TOURNANT *** [4s Ts Ks] [2h]
+ismaelo_341 : parole 
+psychoman59 : parole 
+61tournesol : parole 
+*** RIVIÈRE *** [4s Ts Ks 2h] [9d]
+ismaelo_341 : mise. 120
+psychoman59 : suit. 120
+61tournesol : relance. 360 à 480 et est all-in.
+ismaelo_341 : passe. 
+psychoman59 : suit. 360
+*** ABATTAGE ***
+61tournesol : montre [As 5s] (une couleur, hauteur As)
+psychoman59 : montre [Qd Jh] (une suite, Neuf à Roi)
+61tournesol a remporté 1200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1200 | Commission 0 
+Tableau [4s Ts Ks 2h 9d]
+Siège 1 : psychoman59 (grosse blind) a montré [Qd Jh] et a perdu avec une suite, Neuf à Roi
+Siège 2 : 61tournesol (bouton) a montré [As 5s] et a gagné (1200) avec une couleur, hauteur As
+Siège 3 : ismaelo_341 (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°259912958885 : Tournoi #3979396246, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 01/03/2026 8:04:47 CET [01/03/2026 2:04:47 ET]
+Table '3979396246 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (10 en jetons) 
+Place 2: 61tournesol (1200 en jetons) 
+Place 3: ismaelo_341 (290 en jetons) 
+psychoman59 : met la petite blind. 10 et est all-in.
+61tournesol : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 3c]
+ismaelo_341 : suit. 40
+61tournesol : parole 
+*** FLOP *** [9c 8c 2c]
+61tournesol : parole 
+ismaelo_341 : parole 
+*** TOURNANT *** [9c 8c 2c] [9d]
+61tournesol : parole 
+ismaelo_341 : parole 
+*** RIVIÈRE *** [9c 8c 2c 9d] [Tc]
+61tournesol : parole 
+ismaelo_341 : mise. 80
+61tournesol : passe. 
+Personne n'a suivi. (80) sont retournés à ismaelo_341.
+*** ABATTAGE ***
+ismaelo_341 : montre [Qc 4d] (une couleur, hauteur Dame)
+ismaelo_341 a remporté 60  parallèle lors du pot .
+psychoman59 : montre [Ah 3c] (une couleur, hauteur Dix)
+ismaelo_341 a remporté 30  principal lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 90 Principal pot 30. Parallèle pot 60. | Commission 0 
+Tableau [9c 8c 2c 9d Tc]
+Siège 1 : psychoman59 (petite blind) a montré [Ah 3c] et a perdu avec une couleur, hauteur Dix
+Siège 2 : 61tournesol (grosse blind) s'est couché. sur le Rivière
+Siège 3 : ismaelo_341 (bouton) a montré [Qc 4d] et a gagné (90) avec une couleur, hauteur Dame
+
+
+

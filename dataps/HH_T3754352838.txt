@@ -1,0 +1,38 @@
+﻿Main PokerStars n°250494653806 : Tournoi #3754352838, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 14/05/2024 16:51:38 CET [14/05/2024 10:51:38 ET]
+Table '3754352838 1' 3-max Siège #1 est au bouton.
+Place 1: baltazard186 (500 en jetons) 
+Place 2: Uotit12Z (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+Uotit12Z : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Kh]
+baltazard186 : passe. 
+Uotit12Z : suit. 10
+psychoman59 : relance. 40 à 60
+Uotit12Z : suit. 40
+*** FLOP *** [9h 8h Qc]
+Uotit12Z : parole 
+psychoman59 : mise. 60
+Uotit12Z : relance. 60 à 120
+psychoman59 : suit. 60
+*** TOURNANT *** [9h 8h Qc] [7c]
+Uotit12Z : parole 
+psychoman59 : mise. 120
+Uotit12Z : relance. 200 à 320 et est all-in.
+psychoman59 : suit. 200 et est all-in.
+*** RIVIÈRE *** [9h 8h Qc 7c] [3s]
+*** ABATTAGE ***
+Uotit12Z : montre [Qd 5d] (une paire de Dames)
+psychoman59 : montre [Jd Kh] (Hauteur Roi)
+Uotit12Z a remporté 1000  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 1000 | Commission 0 
+Tableau [9h 8h Qc 7c 3s]
+Siège 1 : baltazard186 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Uotit12Z (petite blind) a montré [Qd 5d] et a gagné (1000) avec une paire de Dames
+Siège 3 : psychoman59 (grosse blind) a montré [Jd Kh] et a perdu avec Hauteur Roi
+
+
+

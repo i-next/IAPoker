@@ -1,0 +1,673 @@
+﻿Main PokerStars n°253929727385 : Tournoi #3835861911, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/12/2024 22:27:22 CET [19/12/2024 16:27:22 ET]
+Table '3835861911 1' 3-max Siège #1 est au bouton.
+Place 1: YobombaYoclak (500 en jetons) 
+Place 2: gravinais (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+gravinais : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 6d]
+YobombaYoclak : passe. 
+gravinais : suit. 10
+psychoman59 : parole 
+*** FLOP *** [6c Qh 2d]
+gravinais : parole 
+psychoman59 : mise. 40
+gravinais : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [6c Qh 2d]
+Siège 1 : YobombaYoclak (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : gravinais (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°253929732183 : Tournoi #3835861911, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/12/2024 22:27:38 CET [19/12/2024 16:27:38 ET]
+Table '3835861911 1' 3-max Siège #2 est au bouton.
+Place 1: YobombaYoclak (500 en jetons) 
+Place 2: gravinais (480 en jetons) 
+Place 3: psychoman59 (520 en jetons) 
+psychoman59 : met la petite blind. 10
+YobombaYoclak : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Ks]
+gravinais : passe. 
+psychoman59 : suit. 10
+YobombaYoclak : parole 
+*** FLOP *** [Kc Ac 2h]
+psychoman59 : parole 
+YobombaYoclak : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [Kc Ac 2h] [Kh]
+psychoman59 : parole 
+YobombaYoclak : mise. 120
+psychoman59 : relance. 340 à 460 et est all-in.
+YobombaYoclak : suit. 320 et est all-in.
+Personne n'a suivi. (20) sont retournés à psychoman59.
+*** RIVIÈRE *** [Kc Ac 2h Kh] [7s]
+*** ABATTAGE ***
+psychoman59 : montre [Qh Ks] (un brelan de Rois)
+YobombaYoclak : montre [5c 6c] (une paire de Rois)
+psychoman59 a remporté 1000  lors du pot .
+YobombaYoclak a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 1000 | Commission 0 
+Tableau [Kc Ac 2h Kh 7s]
+Siège 1 : YobombaYoclak (grosse blind) a montré [5c 6c] et a perdu avec une paire de Rois
+Siège 2 : gravinais (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [Qh Ks] et a gagné (1000) avec un brelan de Rois
+
+
+
+Main PokerStars n°253929742332 : Tournoi #3835861911, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/12/2024 22:28:12 CET [19/12/2024 16:28:12 ET]
+Table '3835861911 1' 3-max Siège #3 est au bouton.
+Place 2: gravinais (480 en jetons) 
+Place 3: psychoman59 (1020 en jetons) 
+psychoman59 : met la petite blind. 10
+gravinais : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Jd]
+psychoman59 : suit. 10
+gravinais : parole 
+*** FLOP *** [6c Jc 3c]
+gravinais : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [6c Jc 3c] [4c]
+gravinais : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [6c Jc 3c 4c] [Ac]
+gravinais : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+gravinais : montre [5d 3h] (une couleur, hauteur As)
+psychoman59 : montre [4d Jd] (une couleur, hauteur As)
+gravinais a remporté 60  lors du pot .
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [6c Jc 3c 4c Ac]
+Siège 2 : gravinais (grosse blind) a montré [5d 3h] et a gagné (60) avec une couleur, hauteur As
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [4d Jd] et a gagné (60) avec une couleur, hauteur As
+
+
+
+Main PokerStars n°253929748747 : Tournoi #3835861911, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/12/2024 22:28:34 CET [19/12/2024 16:28:34 ET]
+Table '3835861911 1' 3-max Siège #2 est au bouton.
+Place 2: gravinais (480 en jetons) 
+Place 3: psychoman59 (1020 en jetons) 
+gravinais : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 7h]
+gravinais : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 2 : gravinais (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°253929750693 : Tournoi #3835861911, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/12/2024 22:28:41 CET [19/12/2024 16:28:41 ET]
+Table '3835861911 1' 3-max Siège #3 est au bouton.
+Place 2: gravinais (470 en jetons) 
+Place 3: psychoman59 (1030 en jetons) 
+psychoman59 : met la petite blind. 10
+gravinais : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Ac]
+psychoman59 : suit. 10
+gravinais : parole 
+*** FLOP *** [7s 6d 6s]
+gravinais : parole 
+psychoman59 : parole 
+*** TOURNANT *** [7s 6d 6s] [3d]
+gravinais : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à gravinais.
+gravinais a remporté 40  lors du pot .
+gravinais : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [7s 6d 6s 3d]
+Siège 2 : gravinais (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°253929755381 : Tournoi #3835861911, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/12/2024 22:28:56 CET [19/12/2024 16:28:56 ET]
+Table '3835861911 1' 3-max Siège #2 est au bouton.
+Place 2: gravinais (490 en jetons) 
+Place 3: psychoman59 (1010 en jetons) 
+gravinais : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 9h]
+gravinais : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Ac 7h Ts]
+psychoman59 : parole 
+gravinais : parole 
+*** TOURNANT *** [Ac 7h Ts] [5c]
+psychoman59 : parole 
+gravinais : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à gravinais.
+gravinais a remporté 40  lors du pot .
+gravinais : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Ac 7h Ts 5c]
+Siège 2 : gravinais (bouton) (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°253929761402 : Tournoi #3835861911, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/12/2024 22:29:17 CET [19/12/2024 16:29:17 ET]
+Table '3835861911 1' 3-max Siège #3 est au bouton.
+Place 2: gravinais (510 en jetons) 
+Place 3: psychoman59 (990 en jetons) 
+psychoman59 : met la petite blind. 10
+gravinais : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 8d]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à gravinais.
+gravinais a remporté 20  lors du pot .
+gravinais : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 2 : gravinais (grosse blind) a remporté (20)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°253929762950 : Tournoi #3835861911, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/12/2024 22:29:22 CET [19/12/2024 16:29:22 ET]
+Table '3835861911 1' 3-max Siège #2 est au bouton.
+Place 2: gravinais (520 en jetons) 
+Place 3: psychoman59 (980 en jetons) 
+gravinais : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 6s]
+gravinais : relance. 60 à 80
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à gravinais.
+gravinais a remporté 40  lors du pot .
+gravinais : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : gravinais (bouton) (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°253929765904 : Tournoi #3835861911, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/12/2024 22:29:32 CET [19/12/2024 16:29:32 ET]
+Table '3835861911 1' 3-max Siège #3 est au bouton.
+Place 2: gravinais (540 en jetons) 
+Place 3: psychoman59 (960 en jetons) 
+psychoman59 : met la petite blind. 10
+gravinais : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Ad]
+psychoman59 : suit. 10
+gravinais : relance. 40 à 60
+psychoman59 : suit. 40
+*** FLOP *** [7h Qs Ks]
+gravinais : parole 
+psychoman59 : parole 
+*** TOURNANT *** [7h Qs Ks] [As]
+gravinais : mise. 60
+psychoman59 : suit. 60
+*** RIVIÈRE *** [7h Qs Ks As] [Th]
+gravinais : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+gravinais : montre [2c Ac] (une paire de As)
+psychoman59 : montre [9d Ad] (une paire de As)
+gravinais a remporté 120  lors du pot .
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [7h Qs Ks As Th]
+Siège 2 : gravinais (grosse blind) a montré [2c Ac] et a gagné (120) avec une paire de As
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [9d Ad] et a gagné (120) avec une paire de As
+
+
+
+Main PokerStars n°253929773558 : Tournoi #3835861911, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/12/2024 22:29:58 CET [19/12/2024 16:29:58 ET]
+Table '3835861911 1' 3-max Siège #2 est au bouton.
+Place 2: gravinais (540 en jetons) 
+Place 3: psychoman59 (960 en jetons) 
+gravinais : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Th]
+gravinais : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Qs Jd 6d]
+psychoman59 : parole 
+gravinais : parole 
+*** TOURNANT *** [Qs Jd 6d] [5s]
+psychoman59 : parole 
+gravinais : parole 
+*** RIVIÈRE *** [Qs Jd 6d 5s] [Qh]
+psychoman59 : mise. 40
+gravinais : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Qs Jd 6d 5s Qh]
+Siège 2 : gravinais (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°253929780160 : Tournoi #3835861911, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/12/2024 22:30:20 CET [19/12/2024 16:30:20 ET]
+Table '3835861911 1' 3-max Siège #3 est au bouton.
+Place 2: gravinais (520 en jetons) 
+Place 3: psychoman59 (980 en jetons) 
+psychoman59 : met la petite blind. 10
+gravinais : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Ks]
+psychoman59 : suit. 10
+gravinais : parole 
+*** FLOP *** [3h 6c 5d]
+gravinais : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à gravinais.
+gravinais a remporté 40  lors du pot .
+gravinais : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [3h 6c 5d]
+Siège 2 : gravinais (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°253929785487 : Tournoi #3835861911, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/12/2024 22:30:38 CET [19/12/2024 16:30:38 ET]
+Table '3835861911 1' 3-max Siège #2 est au bouton.
+Place 2: gravinais (540 en jetons) 
+Place 3: psychoman59 (960 en jetons) 
+gravinais : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 4c]
+gravinais : suit. 15
+psychoman59 : parole 
+*** FLOP *** [6c 8s 2h]
+psychoman59 : parole 
+gravinais : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à gravinais.
+gravinais a remporté 60  lors du pot .
+gravinais : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [6c 8s 2h]
+Siège 2 : gravinais (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°253929790810 : Tournoi #3835861911, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/12/2024 22:30:56 CET [19/12/2024 16:30:56 ET]
+Table '3835861911 1' 3-max Siège #3 est au bouton.
+Place 2: gravinais (570 en jetons) 
+Place 3: psychoman59 (930 en jetons) 
+psychoman59 : met la petite blind. 15
+gravinais : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 5s]
+psychoman59 : suit. 15
+gravinais : parole 
+*** FLOP *** [6h Qc 3s]
+gravinais : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à gravinais.
+gravinais a remporté 60  lors du pot .
+gravinais : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [6h Qc 3s]
+Siège 2 : gravinais (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°253929795098 : Tournoi #3835861911, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/12/2024 22:31:10 CET [19/12/2024 16:31:10 ET]
+Table '3835861911 1' 3-max Siège #2 est au bouton.
+Place 2: gravinais (600 en jetons) 
+Place 3: psychoman59 (900 en jetons) 
+gravinais : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 9d]
+gravinais : relance. 60 à 90
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à gravinais.
+gravinais a remporté 60  lors du pot .
+gravinais : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : gravinais (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°253929797797 : Tournoi #3835861911, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/12/2024 22:31:19 CET [19/12/2024 16:31:19 ET]
+Table '3835861911 1' 3-max Siège #3 est au bouton.
+Place 2: gravinais (630 en jetons) 
+Place 3: psychoman59 (870 en jetons) 
+psychoman59 : met la petite blind. 15
+gravinais : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 8s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à gravinais.
+gravinais a remporté 30  lors du pot .
+gravinais : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : gravinais (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°253929799244 : Tournoi #3835861911, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/12/2024 22:31:24 CET [19/12/2024 16:31:24 ET]
+Table '3835861911 1' 3-max Siège #2 est au bouton.
+Place 2: gravinais (645 en jetons) 
+Place 3: psychoman59 (855 en jetons) 
+gravinais : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 9c]
+gravinais : relance. 60 à 90
+psychoman59 : suit. 60
+*** FLOP *** [9h 9s 3h]
+psychoman59 : parole 
+gravinais : mise. 90
+psychoman59 : suit. 90
+*** TOURNANT *** [9h 9s 3h] [4d]
+psychoman59 : parole 
+gravinais : parole 
+*** RIVIÈRE *** [9h 9s 3h 4d] [Kh]
+psychoman59 : parole 
+gravinais : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Tc 9c] (un brelan de Neuf)
+gravinais : cache la main perdante. 
+psychoman59 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [9h 9s 3h 4d Kh]
+Siège 2 : gravinais (bouton) (petite blind) a caché la main perdante. [Ac 7h]
+Siège 3 : psychoman59 (grosse blind) a montré [Tc 9c] et a gagné (360) avec un brelan de Neuf
+
+
+
+Main PokerStars n°253929807802 : Tournoi #3835861911, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/12/2024 22:31:53 CET [19/12/2024 16:31:53 ET]
+Table '3835861911 1' 3-max Siège #3 est au bouton.
+Place 2: gravinais (465 en jetons) 
+Place 3: psychoman59 (1035 en jetons) 
+psychoman59 : met la petite blind. 15
+gravinais : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Kc]
+psychoman59 : suit. 15
+gravinais : parole 
+*** FLOP *** [Tc 4h Kd]
+gravinais : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Tc 4h Kd] [Th]
+gravinais : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Tc 4h Kd Th] [2c]
+gravinais : parole 
+psychoman59 : mise. 60
+gravinais : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Tc 4h Kd Th 2c]
+Siège 2 : gravinais (grosse blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°253929814000 : Tournoi #3835861911, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/12/2024 22:32:14 CET [19/12/2024 16:32:14 ET]
+Table '3835861911 1' 3-max Siège #2 est au bouton.
+Place 2: gravinais (435 en jetons) 
+Place 3: psychoman59 (1065 en jetons) 
+gravinais : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Ah]
+gravinais : relance. 30 à 60
+psychoman59 : relance. 1005 à 1065 et est all-in.
+gravinais : passe. 
+Personne n'a suivi. (1005) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : gravinais (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°253929816922 : Tournoi #3835861911, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/12/2024 22:32:24 CET [19/12/2024 16:32:24 ET]
+Table '3835861911 1' 3-max Siège #3 est au bouton.
+Place 2: gravinais (375 en jetons) 
+Place 3: psychoman59 (1125 en jetons) 
+psychoman59 : met la petite blind. 15
+gravinais : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 3d]
+psychoman59 : suit. 15
+gravinais : parole 
+*** FLOP *** [9s 7d 6s]
+gravinais : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à gravinais.
+gravinais a remporté 60  lors du pot .
+gravinais : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [9s 7d 6s]
+Siège 2 : gravinais (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°253929821021 : Tournoi #3835861911, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/12/2024 22:32:37 CET [19/12/2024 16:32:37 ET]
+Table '3835861911 1' 3-max Siège #2 est au bouton.
+Place 2: gravinais (405 en jetons) 
+Place 3: psychoman59 (1095 en jetons) 
+gravinais : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Ad]
+gravinais : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : gravinais (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°253929822759 : Tournoi #3835861911, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/12/2024 22:32:43 CET [19/12/2024 16:32:43 ET]
+Table '3835861911 1' 3-max Siège #3 est au bouton.
+Place 2: gravinais (390 en jetons) 
+Place 3: psychoman59 (1110 en jetons) 
+psychoman59 : met la petite blind. 15
+gravinais : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 8d]
+psychoman59 : relance. 60 à 90
+gravinais : suit. 60
+*** FLOP *** [6c 4d Qd]
+gravinais : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6c 4d Qd] [Qs]
+gravinais : parole 
+psychoman59 : mise. 90
+gravinais : passe. 
+Personne n'a suivi. (90) sont retournés à psychoman59.
+psychoman59 a remporté 180  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [6c 4d Qd Qs]
+Siège 2 : gravinais (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (180)
+
+
+
+Main PokerStars n°253929830294 : Tournoi #3835861911, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/12/2024 22:33:08 CET [19/12/2024 16:33:08 ET]
+Table '3835861911 1' 3-max Siège #2 est au bouton.
+Place 2: gravinais (300 en jetons) 
+Place 3: psychoman59 (1200 en jetons) 
+gravinais : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 7s]
+gravinais : relance. 270 à 300 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (270) sont retournés à gravinais.
+gravinais a remporté 60  lors du pot .
+gravinais : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : gravinais (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°253929832479 : Tournoi #3835861911, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/12/2024 22:33:15 CET [19/12/2024 16:33:15 ET]
+Table '3835861911 1' 3-max Siège #3 est au bouton.
+Place 2: gravinais (330 en jetons) 
+Place 3: psychoman59 (1170 en jetons) 
+psychoman59 : met la petite blind. 15
+gravinais : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Ac]
+psychoman59 : suit. 15
+gravinais : parole 
+*** FLOP *** [6s 5h 3h]
+gravinais : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6s 5h 3h] [Jh]
+gravinais : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [6s 5h 3h Jh] [Kc]
+gravinais : parole 
+psychoman59 : mise. 60
+gravinais : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [6s 5h 3h Jh Kc]
+Siège 2 : gravinais (grosse blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°253929839647 : Tournoi #3835861911, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/12/2024 22:33:39 CET [19/12/2024 16:33:39 ET]
+Table '3835861911 1' 3-max Siège #2 est au bouton.
+Place 2: gravinais (300 en jetons) 
+Place 3: psychoman59 (1200 en jetons) 
+gravinais : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 7d]
+gravinais : suit. 20
+psychoman59 : parole 
+*** FLOP *** [5d 9d 3h]
+psychoman59 : parole 
+gravinais : mise. 80
+psychoman59 : suit. 80
+*** TOURNANT *** [5d 9d 3h] [Kd]
+psychoman59 : parole 
+gravinais : parole 
+*** RIVIÈRE *** [5d 9d 3h Kd] [Qd]
+psychoman59 : mise. 240
+gravinais : passe. 
+Personne n'a suivi. (240) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [5d 9d 3h Kd Qd]
+Siège 2 : gravinais (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) a remporté (240)
+
+
+
+Main PokerStars n°253929847874 : Tournoi #3835861911, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/12/2024 22:34:07 CET [19/12/2024 16:34:07 ET]
+Table '3835861911 1' 3-max Siège #3 est au bouton.
+Place 2: gravinais (180 en jetons) 
+Place 3: psychoman59 (1320 en jetons) 
+psychoman59 : met la petite blind. 20
+gravinais : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 4s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à gravinais.
+gravinais a remporté 40  lors du pot .
+gravinais : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : gravinais (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°253929849322 : Tournoi #3835861911, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/12/2024 22:34:12 CET [19/12/2024 16:34:12 ET]
+Table '3835861911 1' 3-max Siège #2 est au bouton.
+Place 2: gravinais (200 en jetons) 
+Place 3: psychoman59 (1300 en jetons) 
+gravinais : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 9d]
+gravinais : suit. 20
+psychoman59 : parole 
+*** FLOP *** [9s 4s 6c]
+psychoman59 : mise. 80
+gravinais : suit. 80
+*** TOURNANT *** [9s 4s 6c] [Jd]
+psychoman59 : mise. 120
+gravinais : suit. 80 et est all-in.
+Personne n'a suivi. (40) sont retournés à psychoman59.
+*** RIVIÈRE *** [9s 4s 6c Jd] [5s]
+*** ABATTAGE ***
+psychoman59 : montre [7c 9d] (une paire de Neuf)
+gravinais : montre [7s Tc] (Hauteur Valet)
+psychoman59 a remporté 400  lors du pot .
+gravinais a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [9s 4s 6c Jd 5s]
+Siège 2 : gravinais (bouton) (petite blind) a montré [7s Tc] et a perdu avec Hauteur Valet
+Siège 3 : psychoman59 (grosse blind) a montré [7c 9d] et a gagné (400) avec une paire de Neuf
+
+
+

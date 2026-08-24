@@ -1,0 +1,369 @@
+﻿Main PokerStars n°243243631624 : Tournoi #3581009152, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/04/2023 10:31:35 CET [22/04/2023 4:31:35 ET]
+Table '3581009152 1' 3-max Siège #1 est au bouton.
+Place 1: pierrepirate (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: gdbd888 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+gdbd888 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Kd]
+pierrepirate : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à gdbd888.
+gdbd888 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : pierrepirate (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : gdbd888 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°243243632422 : Tournoi #3581009152, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/04/2023 10:31:41 CET [22/04/2023 4:31:41 ET]
+Table '3581009152 1' 3-max Siège #2 est au bouton.
+Place 1: pierrepirate (300 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: gdbd888 (310 en jetons) 
+gdbd888 : met la petite blind. 10
+pierrepirate : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 8c]
+psychoman59 : passe. 
+gdbd888 : passe. 
+Personne n'a suivi. (10) sont retournés à pierrepirate.
+pierrepirate a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : pierrepirate (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : gdbd888 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243243633516 : Tournoi #3581009152, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/04/2023 10:31:49 CET [22/04/2023 4:31:49 ET]
+Table '3581009152 1' 3-max Siège #3 est au bouton.
+Place 1: pierrepirate (310 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: gdbd888 (300 en jetons) 
+pierrepirate : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 8h]
+gdbd888 : passe. 
+pierrepirate : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Qs Kd 9c]
+pierrepirate : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Qs Kd 9c] [Ad]
+pierrepirate : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Qs Kd 9c Ad] [9h]
+pierrepirate : mise. 20
+psychoman59 : suit. 20
+*** ABATTAGE ***
+pierrepirate : montre [6d 3s] (une paire de Neuf)
+psychoman59 : montre [2s 8h] (une paire de Neuf)
+pierrepirate a remporté 40  lors du pot .
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Qs Kd 9c Ad 9h]
+Siège 1 : pierrepirate (petite blind) a montré [6d 3s] et a gagné (40) avec une paire de Neuf
+Siège 2 : psychoman59 (grosse blind) a montré [2s 8h] et a gagné (40) avec une paire de Neuf
+Siège 3 : gdbd888 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°243243637069 : Tournoi #3581009152, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/04/2023 10:32:15 CET [22/04/2023 4:32:15 ET]
+Table '3581009152 1' 3-max Siège #1 est au bouton.
+Place 1: pierrepirate (310 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: gdbd888 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+gdbd888 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 7s]
+pierrepirate : relance. 50 à 70
+psychoman59 : passe. 
+gdbd888 : relance. 230 à 300 et est all-in.
+pierrepirate : suit. 230
+*** FLOP *** [Qc 5c Qh]
+*** TOURNANT *** [Qc 5c Qh] [6h]
+*** RIVIÈRE *** [Qc 5c Qh 6h] [5s]
+*** ABATTAGE ***
+gdbd888 : montre [7c Ad] (double paire, Dames et Cinq)
+pierrepirate : montre [Ac Td] (double paire, Dames et Cinq)
+gdbd888 a remporté 305  lors du pot .
+pierrepirate a remporté 305  lors du pot .
+*** SYNTHÈSE ***
+Pot total 610 | Commission 0 
+Tableau [Qc 5c Qh 6h 5s]
+Siège 1 : pierrepirate (bouton) a montré [Ac Td] et a gagné (305) avec double paire, Dames et Cinq
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : gdbd888 (grosse blind) a montré [7c Ad] et a gagné (305) avec double paire, Dames et Cinq
+
+
+
+Main PokerStars n°243243639295 : Tournoi #3581009152, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/04/2023 10:32:31 CET [22/04/2023 4:32:31 ET]
+Table '3581009152 1' 3-max Siège #2 est au bouton.
+Place 1: pierrepirate (315 en jetons) 
+Place 2: psychoman59 (280 en jetons) 
+Place 3: gdbd888 (305 en jetons) 
+gdbd888 : met la petite blind. 10
+pierrepirate : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 6h]
+psychoman59 : passe. 
+gdbd888 : passe. 
+Personne n'a suivi. (10) sont retournés à pierrepirate.
+pierrepirate a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : pierrepirate (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : gdbd888 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243243640901 : Tournoi #3581009152, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 22/04/2023 10:32:43 CET [22/04/2023 4:32:43 ET]
+Table '3581009152 1' 3-max Siège #3 est au bouton.
+Place 1: pierrepirate (325 en jetons) 
+Place 2: psychoman59 (280 en jetons) 
+Place 3: gdbd888 (295 en jetons) 
+pierrepirate : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 6h]
+gdbd888 : relance. 265 à 295 et est all-in.
+pierrepirate : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (265) sont retournés à gdbd888.
+gdbd888 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : pierrepirate (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : gdbd888 (bouton) a remporté (75)
+
+
+
+Main PokerStars n°243243642273 : Tournoi #3581009152, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 22/04/2023 10:32:53 CET [22/04/2023 4:32:53 ET]
+Table '3581009152 1' 3-max Siège #1 est au bouton.
+Place 1: pierrepirate (310 en jetons) 
+Place 2: psychoman59 (250 en jetons) 
+Place 3: gdbd888 (340 en jetons) 
+psychoman59 : met la petite blind. 15
+gdbd888 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Qs]
+pierrepirate : suit. 30
+psychoman59 : suit. 15
+gdbd888 : parole 
+*** FLOP *** [4c Th Ah]
+psychoman59 : parole 
+gdbd888 : parole 
+pierrepirate : mise. 30
+psychoman59 : passe. 
+gdbd888 : suit. 30
+*** TOURNANT *** [4c Th Ah] [5s]
+gdbd888 : parole 
+pierrepirate : mise. 30
+gdbd888 : suit. 30
+*** RIVIÈRE *** [4c Th Ah 5s] [Kd]
+gdbd888 : mise. 250 et est all-in.
+pierrepirate : passe. 
+Personne n'a suivi. (250) sont retournés à gdbd888.
+gdbd888 a remporté 210  lors du pot .
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Tableau [4c Th Ah 5s Kd]
+Siège 1 : pierrepirate (bouton) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 3 : gdbd888 (grosse blind) a remporté (210)
+
+
+
+Main PokerStars n°243243646394 : Tournoi #3581009152, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 22/04/2023 10:33:23 CET [22/04/2023 4:33:23 ET]
+Table '3581009152 1' 3-max Siège #2 est au bouton.
+Place 1: pierrepirate (220 en jetons) 
+Place 2: psychoman59 (220 en jetons) 
+Place 3: gdbd888 (460 en jetons) 
+gdbd888 : met la petite blind. 15
+pierrepirate : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Jc]
+psychoman59 : passe. 
+gdbd888 : relance. 430 à 460 et est all-in.
+pierrepirate : passe. 
+Personne n'a suivi. (430) sont retournés à gdbd888.
+gdbd888 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : pierrepirate (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : gdbd888 (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°243243647502 : Tournoi #3581009152, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 22/04/2023 10:33:31 CET [22/04/2023 4:33:31 ET]
+Table '3581009152 1' 3-max Siège #3 est au bouton.
+Place 1: pierrepirate (190 en jetons) 
+Place 2: psychoman59 (220 en jetons) 
+Place 3: gdbd888 (490 en jetons) 
+pierrepirate : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 2c]
+gdbd888 : passe. 
+pierrepirate : suit. 15
+psychoman59 : relance. 190 à 220 et est all-in.
+pierrepirate : passe. 
+Personne n'a suivi. (190) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : pierrepirate (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : gdbd888 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°243243649005 : Tournoi #3581009152, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 22/04/2023 10:33:43 CET [22/04/2023 4:33:43 ET]
+Table '3581009152 1' 3-max Siège #1 est au bouton.
+Place 1: pierrepirate (160 en jetons) 
+Place 2: psychoman59 (250 en jetons) 
+Place 3: gdbd888 (490 en jetons) 
+psychoman59 : met la petite blind. 20
+gdbd888 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 6d]
+pierrepirate : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à gdbd888.
+gdbd888 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : pierrepirate (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : gdbd888 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°243243649755 : Tournoi #3581009152, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 22/04/2023 10:33:48 CET [22/04/2023 4:33:48 ET]
+Table '3581009152 1' 3-max Siège #2 est au bouton.
+Place 1: pierrepirate (160 en jetons) 
+Place 2: psychoman59 (230 en jetons) 
+Place 3: gdbd888 (510 en jetons) 
+gdbd888 : met la petite blind. 20
+pierrepirate : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Ad]
+psychoman59 : relance. 190 à 230 et est all-in.
+gdbd888 : passe. 
+pierrepirate : passe. 
+Personne n'a suivi. (190) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : pierrepirate (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a remporté (100)
+Siège 3 : gdbd888 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243243650888 : Tournoi #3581009152, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 22/04/2023 10:33:56 CET [22/04/2023 4:33:56 ET]
+Table '3581009152 1' 3-max Siège #3 est au bouton.
+Place 1: pierrepirate (120 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: gdbd888 (490 en jetons) 
+pierrepirate : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 6c]
+gdbd888 : passe. 
+pierrepirate : relance. 80 à 120 et est all-in.
+psychoman59 : suit. 80
+*** FLOP *** [5c Ks 3s]
+*** TOURNANT *** [5c Ks 3s] [5d]
+*** RIVIÈRE *** [5c Ks 3s 5d] [Jd]
+*** ABATTAGE ***
+pierrepirate : montre [4d Td] (une paire de Cinq)
+psychoman59 : montre [Qd 6c] (une paire de Cinq - Roi+Dame kicker)
+psychoman59 a remporté 240  lors du pot .
+pierrepirate a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [5c Ks 3s 5d Jd]
+Siège 1 : pierrepirate (petite blind) a montré [4d Td] et a perdu avec une paire de Cinq
+Siège 2 : psychoman59 (grosse blind) a montré [Qd 6c] et a gagné (240) avec une paire de Cinq
+Siège 3 : gdbd888 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°243243654360 : Tournoi #3581009152, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 22/04/2023 10:34:22 CET [22/04/2023 4:34:22 ET]
+Table '3581009152 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (410 en jetons) 
+Place 3: gdbd888 (490 en jetons) 
+psychoman59 : met la petite blind. 20
+gdbd888 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 4c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à gdbd888.
+gdbd888 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : gdbd888 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°243243655205 : Tournoi #3581009152, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 22/04/2023 10:34:28 CET [22/04/2023 4:34:28 ET]
+Table '3581009152 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (390 en jetons) 
+Place 3: gdbd888 (510 en jetons) 
+gdbd888 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Ts]
+gdbd888 : relance. 470 à 510 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (470) sont retournés à gdbd888.
+gdbd888 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : gdbd888 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°243243656047 : Tournoi #3581009152, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 22/04/2023 10:34:34 CET [22/04/2023 4:34:34 ET]
+Table '3581009152 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (350 en jetons) 
+Place 3: gdbd888 (550 en jetons) 
+psychoman59 : met la petite blind. 20
+gdbd888 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Ad]
+psychoman59 : relance. 310 à 350 et est all-in.
+gdbd888 : suit. 310
+*** FLOP *** [7d Th Td]
+*** TOURNANT *** [7d Th Td] [2c]
+*** RIVIÈRE *** [7d Th Td 2c] [Qc]
+*** ABATTAGE ***
+gdbd888 : montre [4c 4d] (double paire, Dix et Quatre)
+psychoman59 : montre [3d Ad] (une paire de Dix)
+gdbd888 a remporté 700  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+gdbd888 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 700 | Commission 0 
+Tableau [7d Th Td 2c Qc]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [3d Ad] et a perdu avec une paire de Dix
+Siège 3 : gdbd888 (grosse blind) a montré [4c 4d] et a gagné (700) avec double paire, Dix et Quatre
+
+
+

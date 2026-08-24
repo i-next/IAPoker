@@ -1,0 +1,117 @@
+﻿Main PokerStars n°259331830609 : Tournoi #3966109611, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 16/01/2026 8:05:14 CET [16/01/2026 2:05:14 ET]
+Table '3966109611 1' 3-max Siège #1 est au bouton.
+Place 1: quinone363 (500 en jetons) 
+Place 2: menxismes (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+menxismes : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Ts]
+quinone363 : passe. 
+menxismes : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Kc Ah As]
+menxismes : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à menxismes.
+menxismes a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Kc Ah As]
+Siège 1 : quinone363 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : menxismes (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°259331831382 : Tournoi #3966109611, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 16/01/2026 8:05:26 CET [16/01/2026 2:05:26 ET]
+Table '3966109611 1' 3-max Siège #2 est au bouton.
+Place 1: quinone363 (500 en jetons) 
+Place 2: menxismes (520 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 10
+quinone363 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Jc]
+menxismes : suit. 20
+psychoman59 : suit. 10
+quinone363 : relance. 480 à 500 et est all-in.
+menxismes : suit. 480
+psychoman59 : passe. 
+*** FLOP *** [6s 7s 6c]
+*** TOURNANT *** [6s 7s 6c] [5h]
+*** RIVIÈRE *** [6s 7s 6c 5h] [Jd]
+*** ABATTAGE ***
+quinone363 : montre [8s Kc] (une paire de Six)
+menxismes : montre [Ac 2c] (une paire de Six - As kicker)
+menxismes a remporté 1020  lors du pot .
+quinone363 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 1020 | Commission 0 
+Tableau [6s 7s 6c 5h Jd]
+Siège 1 : quinone363 (grosse blind) a montré [8s Kc] et a perdu avec une paire de Six
+Siège 2 : menxismes (bouton) a montré [Ac 2c] et a gagné (1020) avec une paire de Six
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°259331832618 : Tournoi #3966109611, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 16/01/2026 8:05:47 CET [16/01/2026 2:05:47 ET]
+Table '3966109611 1' 3-max Siège #3 est au bouton.
+Place 2: menxismes (1040 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+psychoman59 : met la petite blind. 10
+menxismes : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 4s]
+psychoman59 : suit. 10
+menxismes : parole 
+*** FLOP *** [5d 3h 4d]
+menxismes : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5d 3h 4d] [2h]
+menxismes : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [5d 3h 4d 2h] [5h]
+menxismes : mise. 20
+psychoman59 : suit. 20
+*** ABATTAGE ***
+menxismes : montre [Jh 9s] (une paire de Cinq)
+psychoman59 : montre [Kd 4s] (double paire, Cinq et Quatre)
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [5d 3h 4d 2h 5h]
+Siège 2 : menxismes (grosse blind) a montré [Jh 9s] et a perdu avec une paire de Cinq
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Kd 4s] et a gagné (80) avec double paire, Cinq et Quatre
+
+
+
+Main PokerStars n°259331833551 : Tournoi #3966109611, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 16/01/2026 8:06:02 CET [16/01/2026 2:06:02 ET]
+Table '3966109611 1' 3-max Siège #2 est au bouton.
+Place 2: menxismes (1000 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+menxismes : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Ts]
+menxismes : suit. 10
+psychoman59 : relance. 480 à 500 et est all-in.
+menxismes : suit. 480
+*** FLOP *** [4c 8d Qh]
+*** TOURNANT *** [4c 8d Qh] [Kc]
+*** RIVIÈRE *** [4c 8d Qh Kc] [7d]
+*** ABATTAGE ***
+psychoman59 : montre [Ac Ts] (Hauteur As)
+menxismes : montre [Kh Qd] (double paire, Rois et Dames)
+menxismes a remporté 1000  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+menxismes gagne le tournoi - félicitations !
+menxismes gagne un ticket " €1 Step 2 MTT Power Path ticket "
+*** SYNTHÈSE ***
+Pot total 1000 | Commission 0 
+Tableau [4c 8d Qh Kc 7d]
+Siège 2 : menxismes (bouton) (petite blind) a montré [Kh Qd] et a gagné (1000) avec double paire, Rois et Dames
+Siège 3 : psychoman59 (grosse blind) a montré [Ac Ts] et a perdu avec Hauteur As
+
+
+

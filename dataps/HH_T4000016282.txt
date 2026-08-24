@@ -1,0 +1,891 @@
+﻿Main PokerStars n°260790095004 : Tournoi #4000016282, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 13/05/2026 11:10:49 CET [13/05/2026 5:10:49 ET]
+Table '4000016282 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: Rodu78 (500 en jetons) 
+Place 3: jackdemon666 (500 en jetons) 
+Rodu78 : met la petite blind. 10
+jackdemon666 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 2h]
+psychoman59 : passe. 
+Rodu78 : suit. 10
+jackdemon666 : parole 
+*** FLOP *** [2c 4s 6h]
+Rodu78 : parole 
+jackdemon666 : mise. 60
+Rodu78 : suit. 60
+*** TOURNANT *** [2c 4s 6h] [As]
+Rodu78 : parole 
+jackdemon666 : parole 
+*** RIVIÈRE *** [2c 4s 6h As] [Jh]
+Rodu78 : mise. 80
+jackdemon666 : suit. 80
+*** ABATTAGE ***
+Rodu78 : montre [Ts 5h] (Hauteur As)
+jackdemon666 : montre [2d 4c] (double paire, Quatre et Deux)
+jackdemon666 a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [2c 4s 6h As Jh]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Rodu78 (petite blind) a montré [Ts 5h] et a perdu avec Hauteur As
+Siège 3 : jackdemon666 (grosse blind) a montré [2d 4c] et a gagné (320) avec double paire, Quatre et Deux
+
+
+
+Main PokerStars n°260790096876 : Tournoi #4000016282, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 13/05/2026 11:11:14 CET [13/05/2026 5:11:14 ET]
+Table '4000016282 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: Rodu78 (340 en jetons) 
+Place 3: jackdemon666 (660 en jetons) 
+jackdemon666 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 6d]
+Rodu78 : passe. 
+jackdemon666 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [3d Ah 9s]
+jackdemon666 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3d Ah 9s] [2s]
+jackdemon666 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [3d Ah 9s 2s] [7c]
+jackdemon666 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+jackdemon666 : montre [4s 3s] (une paire de Trois)
+psychoman59 : montre [3h 6d] (une paire de Trois)
+jackdemon666 a remporté 20  lors du pot .
+psychoman59 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [3d Ah 9s 2s 7c]
+Siège 1 : psychoman59 (grosse blind) a montré [3h 6d] et a gagné (20) avec une paire de Trois
+Siège 2 : Rodu78 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : jackdemon666 (petite blind) a montré [4s 3s] et a gagné (20) avec une paire de Trois
+
+
+
+Main PokerStars n°260790098186 : Tournoi #4000016282, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 13/05/2026 11:11:33 CET [13/05/2026 5:11:33 ET]
+Table '4000016282 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: Rodu78 (340 en jetons) 
+Place 3: jackdemon666 (660 en jetons) 
+psychoman59 : met la petite blind. 10
+Rodu78 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 7d]
+jackdemon666 : suit. 20
+psychoman59 : passe. 
+Rodu78 : parole 
+*** FLOP *** [Ac As 8c]
+Rodu78 : mise. 20
+jackdemon666 : passe. 
+Personne n'a suivi. (20) sont retournés à Rodu78.
+Rodu78 a remporté 50  lors du pot .
+Rodu78 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [Ac As 8c]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Rodu78 (grosse blind) a remporté (50)
+Siège 3 : jackdemon666 (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°260790099196 : Tournoi #4000016282, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 13/05/2026 11:11:47 CET [13/05/2026 5:11:47 ET]
+Table '4000016282 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (490 en jetons) 
+Place 2: Rodu78 (370 en jetons) 
+Place 3: jackdemon666 (640 en jetons) 
+Rodu78 : met la petite blind. 10
+jackdemon666 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 4d]
+psychoman59 : passe. 
+Rodu78 : suit. 10
+jackdemon666 : parole 
+*** FLOP *** [5c Jh Ks]
+Rodu78 : mise. 20
+jackdemon666 : suit. 20
+*** TOURNANT *** [5c Jh Ks] [Ts]
+Rodu78 : mise. 40
+jackdemon666 : passe. 
+Personne n'a suivi. (40) sont retournés à Rodu78.
+Rodu78 a remporté 80  lors du pot .
+Rodu78 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [5c Jh Ks Ts]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Rodu78 (petite blind) a remporté (80)
+Siège 3 : jackdemon666 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°260790101083 : Tournoi #4000016282, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 13/05/2026 11:12:12 CET [13/05/2026 5:12:12 ET]
+Table '4000016282 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (490 en jetons) 
+Place 2: Rodu78 (410 en jetons) 
+Place 3: jackdemon666 (600 en jetons) 
+jackdemon666 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 3h]
+Rodu78 : relance. 20 à 40
+jackdemon666 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Rodu78.
+Rodu78 a remporté 50  lors du pot .
+Rodu78 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Rodu78 (bouton) a remporté (50)
+Siège 3 : jackdemon666 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260790101717 : Tournoi #4000016282, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 13/05/2026 11:12:20 CET [13/05/2026 5:12:20 ET]
+Table '4000016282 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (470 en jetons) 
+Place 2: Rodu78 (440 en jetons) 
+Place 3: jackdemon666 (590 en jetons) 
+psychoman59 : met la petite blind. 10
+Rodu78 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Qd]
+jackdemon666 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à Rodu78.
+Rodu78 a remporté 20  lors du pot .
+Rodu78 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Rodu78 (grosse blind) a remporté (20)
+Siège 3 : jackdemon666 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260790102123 : Tournoi #4000016282, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 13/05/2026 11:12:26 CET [13/05/2026 5:12:26 ET]
+Table '4000016282 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (460 en jetons) 
+Place 2: Rodu78 (450 en jetons) 
+Place 3: jackdemon666 (590 en jetons) 
+Rodu78 : met la petite blind. 10
+jackdemon666 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Jc]
+psychoman59 : relance. 20 à 40
+Rodu78 : relance. 160 à 200
+jackdemon666 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (160) sont retournés à Rodu78.
+Rodu78 a remporté 100  lors du pot .
+Rodu78 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 2 : Rodu78 (petite blind) a remporté (100)
+Siège 3 : jackdemon666 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260790103505 : Tournoi #4000016282, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 13/05/2026 11:12:45 CET [13/05/2026 5:12:45 ET]
+Table '4000016282 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (420 en jetons) 
+Place 2: Rodu78 (510 en jetons) 
+Place 3: jackdemon666 (570 en jetons) 
+jackdemon666 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Qd]
+Rodu78 : passe. 
+jackdemon666 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [8c Ks Ad]
+jackdemon666 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [8c Ks Ad] [Jc]
+jackdemon666 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [8c Ks Ad Jc] [5s]
+jackdemon666 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+jackdemon666 : montre [Qc 3h] (Hauteur As)
+psychoman59 : montre [9d Qd] (Hauteur As - Roi+Dame+Valet+Neuf kicker)
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [8c Ks Ad Jc 5s]
+Siège 1 : psychoman59 (grosse blind) a montré [9d Qd] et a gagné (40) avec Hauteur As
+Siège 2 : Rodu78 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : jackdemon666 (petite blind) a montré [Qc 3h] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°260790104837 : Tournoi #4000016282, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 13/05/2026 11:13:03 CET [13/05/2026 5:13:03 ET]
+Table '4000016282 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (440 en jetons) 
+Place 2: Rodu78 (510 en jetons) 
+Place 3: jackdemon666 (550 en jetons) 
+psychoman59 : met la petite blind. 15
+Rodu78 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Ac]
+jackdemon666 : relance. 105 à 135
+psychoman59 : suit. 120
+Rodu78 : passe. 
+*** FLOP *** [Kc 9d 6d]
+psychoman59 : parole 
+jackdemon666 : parole 
+*** TOURNANT *** [Kc 9d 6d] [Ad]
+psychoman59 : mise. 150
+jackdemon666 : passe. 
+Personne n'a suivi. (150) sont retournés à psychoman59.
+psychoman59 a remporté 300  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [Kc 9d 6d Ad]
+Siège 1 : psychoman59 (petite blind) a remporté (300)
+Siège 2 : Rodu78 (grosse blind) s'est couché. avant Flop
+Siège 3 : jackdemon666 (bouton) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°260790106251 : Tournoi #4000016282, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 13/05/2026 11:13:22 CET [13/05/2026 5:13:22 ET]
+Table '4000016282 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (605 en jetons) 
+Place 2: Rodu78 (480 en jetons) 
+Place 3: jackdemon666 (415 en jetons) 
+Rodu78 : met la petite blind. 15
+jackdemon666 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Tc]
+psychoman59 : suit. 30
+Rodu78 : suit. 15
+jackdemon666 : parole 
+*** FLOP *** [Th Ad 5d]
+Rodu78 : parole 
+jackdemon666 : parole 
+psychoman59 : mise. 45
+Rodu78 : passe. 
+jackdemon666 : suit. 45
+*** TOURNANT *** [Th Ad 5d] [Kc]
+jackdemon666 : parole 
+psychoman59 : mise. 90
+jackdemon666 : suit. 90
+*** RIVIÈRE *** [Th Ad 5d Kc] [8d]
+jackdemon666 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+jackdemon666 : montre [Jd 5h] (une paire de Cinq)
+psychoman59 : montre [Qs Tc] (une paire de Dix)
+psychoman59 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [Th Ad 5d Kc 8d]
+Siège 1 : psychoman59 (bouton) a montré [Qs Tc] et a gagné (360) avec une paire de Dix
+Siège 2 : Rodu78 (petite blind) s'est couché. sur le Flop
+Siège 3 : jackdemon666 (grosse blind) a montré [Jd 5h] et a perdu avec une paire de Cinq
+
+
+
+Main PokerStars n°260790109186 : Tournoi #4000016282, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 13/05/2026 11:14:01 CET [13/05/2026 5:14:01 ET]
+Table '4000016282 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (800 en jetons) 
+Place 2: Rodu78 (450 en jetons) 
+Place 3: jackdemon666 (250 en jetons) 
+jackdemon666 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 4d]
+Rodu78 : relance. 30 à 60
+jackdemon666 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Rodu78.
+Rodu78 a remporté 75  lors du pot .
+Rodu78 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Rodu78 (bouton) a remporté (75)
+Siège 3 : jackdemon666 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260790110190 : Tournoi #4000016282, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 13/05/2026 11:14:15 CET [13/05/2026 5:14:15 ET]
+Table '4000016282 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (770 en jetons) 
+Place 2: Rodu78 (495 en jetons) 
+Place 3: jackdemon666 (235 en jetons) 
+psychoman59 : met la petite blind. 15
+Rodu78 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 5d]
+jackdemon666 : passe. 
+psychoman59 : relance. 740 à 770 et est all-in.
+Rodu78 : suit. 465 et est all-in.
+Personne n'a suivi. (275) sont retournés à psychoman59.
+*** FLOP *** [2d 7c Jd]
+*** TOURNANT *** [2d 7c Jd] [8c]
+*** RIVIÈRE *** [2d 7c Jd 8c] [Qh]
+*** ABATTAGE ***
+psychoman59 : montre [5c 5d] (une paire de Cinq)
+Rodu78 : montre [Kh Td] (Hauteur Roi)
+psychoman59 a remporté 990  lors du pot .
+Rodu78 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 990 | Commission 0 
+Tableau [2d 7c Jd 8c Qh]
+Siège 1 : psychoman59 (petite blind) a montré [5c 5d] et a gagné (990) avec une paire de Cinq
+Siège 2 : Rodu78 (grosse blind) a montré [Kh Td] et a perdu avec Hauteur Roi
+Siège 3 : jackdemon666 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260790111805 : Tournoi #4000016282, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 13/05/2026 11:14:37 CET [13/05/2026 5:14:37 ET]
+Table '4000016282 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1265 en jetons) 
+Place 3: jackdemon666 (235 en jetons) 
+psychoman59 : met la petite blind. 15
+jackdemon666 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 3s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à jackdemon666.
+jackdemon666 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : jackdemon666 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°260790112166 : Tournoi #4000016282, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 13/05/2026 11:14:42 CET [13/05/2026 5:14:42 ET]
+Table '4000016282 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (1250 en jetons) 
+Place 3: jackdemon666 (250 en jetons) 
+jackdemon666 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 3h]
+jackdemon666 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [4d 5c Kc]
+psychoman59 : parole 
+jackdemon666 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à jackdemon666.
+jackdemon666 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [4d 5c Kc]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : jackdemon666 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°260790113499 : Tournoi #4000016282, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 13/05/2026 11:15:01 CET [13/05/2026 5:15:01 ET]
+Table '4000016282 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1220 en jetons) 
+Place 3: jackdemon666 (280 en jetons) 
+psychoman59 : met la petite blind. 20
+jackdemon666 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 6c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à jackdemon666.
+jackdemon666 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : jackdemon666 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°260790113846 : Tournoi #4000016282, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 13/05/2026 11:15:05 CET [13/05/2026 5:15:05 ET]
+Table '4000016282 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (1200 en jetons) 
+Place 3: jackdemon666 (300 en jetons) 
+jackdemon666 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Jc]
+jackdemon666 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [3c 9h Qs]
+psychoman59 : parole 
+jackdemon666 : parole 
+*** TOURNANT *** [3c 9h Qs] [9s]
+psychoman59 : parole 
+jackdemon666 : parole 
+*** RIVIÈRE *** [3c 9h Qs 9s] [9c]
+psychoman59 : mise. 80
+jackdemon666 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [3c 9h Qs 9s 9c]
+Siège 1 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : jackdemon666 (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°260790115342 : Tournoi #4000016282, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 13/05/2026 11:15:25 CET [13/05/2026 5:15:25 ET]
+Table '4000016282 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1240 en jetons) 
+Place 3: jackdemon666 (260 en jetons) 
+psychoman59 : met la petite blind. 20
+jackdemon666 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Qc]
+psychoman59 : suit. 20
+jackdemon666 : parole 
+*** FLOP *** [2h 9d 5h]
+jackdemon666 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [2h 9d 5h] [2d]
+jackdemon666 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [2h 9d 5h 2d] [Js]
+jackdemon666 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+jackdemon666 : montre [8d 3s] (une paire de Deux)
+psychoman59 : montre [Kc Qc] (une paire de Deux - Roi kicker)
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [2h 9d 5h 2d Js]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Kc Qc] et a gagné (80) avec une paire de Deux
+Siège 3 : jackdemon666 (grosse blind) a montré [8d 3s] et a perdu avec une paire de Deux
+
+
+
+Main PokerStars n°260790116439 : Tournoi #4000016282, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 13/05/2026 11:15:40 CET [13/05/2026 5:15:40 ET]
+Table '4000016282 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (1280 en jetons) 
+Place 3: jackdemon666 (220 en jetons) 
+jackdemon666 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Jc]
+jackdemon666 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [8d 6s 3h]
+psychoman59 : parole 
+jackdemon666 : parole 
+*** TOURNANT *** [8d 6s 3h] [2c]
+psychoman59 : parole 
+jackdemon666 : parole 
+*** RIVIÈRE *** [8d 6s 3h 2c] [7s]
+psychoman59 : parole 
+jackdemon666 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Qc Jc] (Hauteur Dame)
+jackdemon666 : montre [5c Ac] (Hauteur As)
+jackdemon666 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [8d 6s 3h 2c 7s]
+Siège 1 : psychoman59 (grosse blind) a montré [Qc Jc] et a perdu avec Hauteur Dame
+Siège 3 : jackdemon666 (bouton) (petite blind) a montré [5c Ac] et a gagné (80) avec Hauteur As
+
+
+
+Main PokerStars n°260790117859 : Tournoi #4000016282, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 13/05/2026 11:15:59 CET [13/05/2026 5:15:59 ET]
+Table '4000016282 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1240 en jetons) 
+Place 3: jackdemon666 (260 en jetons) 
+psychoman59 : met la petite blind. 20
+jackdemon666 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 9c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à jackdemon666.
+jackdemon666 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : jackdemon666 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°260790118284 : Tournoi #4000016282, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 13/05/2026 11:16:05 CET [13/05/2026 5:16:05 ET]
+Table '4000016282 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (1220 en jetons) 
+Place 3: jackdemon666 (280 en jetons) 
+jackdemon666 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 6h]
+jackdemon666 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [5s Qd 3c]
+psychoman59 : parole 
+jackdemon666 : parole 
+*** TOURNANT *** [5s Qd 3c] [Qh]
+psychoman59 : parole 
+jackdemon666 : parole 
+*** RIVIÈRE *** [5s Qd 3c Qh] [Kd]
+psychoman59 : parole 
+jackdemon666 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [2s 6h] (une paire de Dames)
+jackdemon666 : montre [Kc 4h] (double paire, Rois et Dames)
+jackdemon666 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [5s Qd 3c Qh Kd]
+Siège 1 : psychoman59 (grosse blind) a montré [2s 6h] et a perdu avec une paire de Dames
+Siège 3 : jackdemon666 (bouton) (petite blind) a montré [Kc 4h] et a gagné (80) avec double paire, Rois et Dames
+
+
+
+Main PokerStars n°260790119809 : Tournoi #4000016282, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 13/05/2026 11:16:25 CET [13/05/2026 5:16:25 ET]
+Table '4000016282 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1180 en jetons) 
+Place 3: jackdemon666 (320 en jetons) 
+psychoman59 : met la petite blind. 20
+jackdemon666 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 3h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à jackdemon666.
+jackdemon666 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : jackdemon666 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°260790120299 : Tournoi #4000016282, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 13/05/2026 11:16:33 CET [13/05/2026 5:16:33 ET]
+Table '4000016282 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (1160 en jetons) 
+Place 3: jackdemon666 (340 en jetons) 
+jackdemon666 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Qd]
+jackdemon666 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [7h 4c 7s]
+psychoman59 : mise. 40
+jackdemon666 : suit. 40
+*** TOURNANT *** [7h 4c 7s] [9s]
+psychoman59 : mise. 40
+jackdemon666 : suit. 40
+*** RIVIÈRE *** [7h 4c 7s 9s] [6c]
+psychoman59 : mise. 40
+jackdemon666 : suit. 40
+*** ABATTAGE ***
+psychoman59 : montre [4d Qd] (double paire, Sept et Quatre)
+jackdemon666 : montre [6d 5d] (double paire, Sept et Six)
+jackdemon666 a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [7h 4c 7s 9s 6c]
+Siège 1 : psychoman59 (grosse blind) a montré [4d Qd] et a perdu avec double paire, Sept et Quatre
+Siège 3 : jackdemon666 (bouton) (petite blind) a montré [6d 5d] et a gagné (320) avec double paire, Sept et Six
+
+
+
+Main PokerStars n°260790121498 : Tournoi #4000016282, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 13/05/2026 11:16:48 CET [13/05/2026 5:16:48 ET]
+Table '4000016282 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1000 en jetons) 
+Place 3: jackdemon666 (500 en jetons) 
+psychoman59 : met la petite blind. 20
+jackdemon666 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 3d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à jackdemon666.
+jackdemon666 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : jackdemon666 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°260790122167 : Tournoi #4000016282, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/05/2026 11:16:57 CET [13/05/2026 5:16:57 ET]
+Table '4000016282 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (980 en jetons) 
+Place 3: jackdemon666 (520 en jetons) 
+jackdemon666 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 8h]
+jackdemon666 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [3d 9d 4h]
+psychoman59 : parole 
+jackdemon666 : parole 
+*** TOURNANT *** [3d 9d 4h] [6h]
+psychoman59 : parole 
+jackdemon666 : parole 
+*** RIVIÈRE *** [3d 9d 4h 6h] [Kh]
+psychoman59 : parole 
+jackdemon666 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Qc 8h] (Hauteur Roi)
+jackdemon666 : montre [7h 9c] (une paire de Neuf)
+jackdemon666 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [3d 9d 4h 6h Kh]
+Siège 1 : psychoman59 (grosse blind) a montré [Qc 8h] et a perdu avec Hauteur Roi
+Siège 3 : jackdemon666 (bouton) (petite blind) a montré [7h 9c] et a gagné (120) avec une paire de Neuf
+
+
+
+Main PokerStars n°260790123667 : Tournoi #4000016282, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/05/2026 11:17:17 CET [13/05/2026 5:17:17 ET]
+Table '4000016282 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (920 en jetons) 
+Place 3: jackdemon666 (580 en jetons) 
+psychoman59 : met la petite blind. 30
+jackdemon666 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Kh]
+psychoman59 : suit. 30
+jackdemon666 : parole 
+*** FLOP *** [2d 4s 8c]
+jackdemon666 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [2d 4s 8c] [Td]
+jackdemon666 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [2d 4s 8c Td] [Kd]
+jackdemon666 : parole 
+psychoman59 : mise. 60
+jackdemon666 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [2d 4s 8c Td Kd]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 3 : jackdemon666 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°260790125193 : Tournoi #4000016282, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/05/2026 11:17:38 CET [13/05/2026 5:17:38 ET]
+Table '4000016282 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (980 en jetons) 
+Place 3: jackdemon666 (520 en jetons) 
+jackdemon666 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Tc]
+jackdemon666 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Jh 4d Td]
+psychoman59 : parole 
+jackdemon666 : parole 
+*** TOURNANT *** [Jh 4d Td] [6s]
+psychoman59 : parole 
+jackdemon666 : parole 
+*** RIVIÈRE *** [Jh 4d Td 6s] [9c]
+psychoman59 : mise. 60
+jackdemon666 : suit. 60
+*** ABATTAGE ***
+psychoman59 : montre [9s Tc] (double paire, Dix et Neuf)
+jackdemon666 : cache la main perdante. 
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Jh 4d Td 6s 9c]
+Siège 1 : psychoman59 (grosse blind) a montré [9s Tc] et a gagné (240) avec double paire, Dix et Neuf
+Siège 3 : jackdemon666 (bouton) (petite blind) a caché la main perdante. [6c 9d]
+
+
+
+Main PokerStars n°260790126483 : Tournoi #4000016282, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/05/2026 11:17:54 CET [13/05/2026 5:17:54 ET]
+Table '4000016282 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1100 en jetons) 
+Place 3: jackdemon666 (400 en jetons) 
+psychoman59 : met la petite blind. 30
+jackdemon666 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Qd]
+psychoman59 : suit. 30
+jackdemon666 : parole 
+*** FLOP *** [Kh Ad Kc]
+jackdemon666 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Kh Ad Kc] [4d]
+jackdemon666 : mise. 120
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à jackdemon666.
+jackdemon666 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Kh Ad Kc 4d]
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. sur le Tournant
+Siège 3 : jackdemon666 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°260790127627 : Tournoi #4000016282, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/05/2026 11:18:09 CET [13/05/2026 5:18:09 ET]
+Table '4000016282 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (1040 en jetons) 
+Place 3: jackdemon666 (460 en jetons) 
+jackdemon666 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 4d]
+jackdemon666 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : jackdemon666 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260790127975 : Tournoi #4000016282, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/05/2026 11:18:14 CET [13/05/2026 5:18:14 ET]
+Table '4000016282 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1070 en jetons) 
+Place 3: jackdemon666 (430 en jetons) 
+psychoman59 : met la petite blind. 30
+jackdemon666 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 8d]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à jackdemon666.
+jackdemon666 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : jackdemon666 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°260790128340 : Tournoi #4000016282, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/05/2026 11:18:18 CET [13/05/2026 5:18:18 ET]
+Table '4000016282 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (1040 en jetons) 
+Place 3: jackdemon666 (460 en jetons) 
+jackdemon666 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 2h]
+jackdemon666 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [4d 7s 2s]
+psychoman59 : parole 
+jackdemon666 : parole 
+*** TOURNANT *** [4d 7s 2s] [7d]
+psychoman59 : mise. 60
+jackdemon666 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [4d 7s 2s 7d]
+Siège 1 : psychoman59 (grosse blind) a remporté (120)
+Siège 3 : jackdemon666 (bouton) (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°260790129361 : Tournoi #4000016282, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/05/2026 11:18:32 CET [13/05/2026 5:18:32 ET]
+Table '4000016282 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1100 en jetons) 
+Place 3: jackdemon666 (400 en jetons) 
+psychoman59 : met la petite blind. 30
+jackdemon666 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 8d]
+psychoman59 : suit. 30
+jackdemon666 : parole 
+*** FLOP *** [6c 4h Jh]
+jackdemon666 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6c 4h Jh] [4s]
+jackdemon666 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [6c 4h Jh 4s] [4c]
+jackdemon666 : parole 
+psychoman59 : mise. 120
+jackdemon666 : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [6c 4h Jh 4s 4c]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 3 : jackdemon666 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°260790130529 : Tournoi #4000016282, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 13/05/2026 11:18:47 CET [13/05/2026 5:18:47 ET]
+Table '4000016282 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (1160 en jetons) 
+Place 3: jackdemon666 (340 en jetons) 
+jackdemon666 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Jd]
+jackdemon666 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Js 7h Qh]
+psychoman59 : parole 
+jackdemon666 : parole 
+*** TOURNANT *** [Js 7h Qh] [7c]
+psychoman59 : parole 
+jackdemon666 : parole 
+*** RIVIÈRE *** [Js 7h Qh 7c] [Jc]
+psychoman59 : mise. 60
+jackdemon666 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Js 7h Qh 7c Jc]
+Siège 1 : psychoman59 (grosse blind) a remporté (120)
+Siège 3 : jackdemon666 (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°260790132035 : Tournoi #4000016282, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 13/05/2026 11:19:06 CET [13/05/2026 5:19:06 ET]
+Table '4000016282 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1220 en jetons) 
+Place 3: jackdemon666 (280 en jetons) 
+psychoman59 : met la petite blind. 40
+jackdemon666 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 7s]
+psychoman59 : relance. 1140 à 1220 et est all-in.
+jackdemon666 : suit. 200 et est all-in.
+Personne n'a suivi. (940) sont retournés à psychoman59.
+*** FLOP *** [3h Ad 2h]
+*** TOURNANT *** [3h Ad 2h] [Ks]
+*** RIVIÈRE *** [3h Ad 2h Ks] [9s]
+*** ABATTAGE ***
+jackdemon666 : montre [5d Qh] (Hauteur As)
+psychoman59 : montre [7d 7s] (une paire de Sept)
+psychoman59 a remporté 560  lors du pot .
+jackdemon666 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [3h Ad 2h Ks 9s]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [7d 7s] et a gagné (560) avec une paire de Sept
+Siège 3 : jackdemon666 (grosse blind) a montré [5d Qh] et a perdu avec Hauteur As
+
+
+

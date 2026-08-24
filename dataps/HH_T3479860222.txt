@@ -1,0 +1,260 @@
+﻿Main PokerStars n°238977648688 : Tournoi #3479860222, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 01/10/2022 23:30:11 CET [01/10/2022 17:30:11 ET]
+Table '3479860222 1' 4-max Siège #1 est au bouton.
+Place 1: chele13666 (5000 en jetons) 
+Place 2: psychoman59 (5000 en jetons) 
+Place 3: rudy51200 (5000 en jetons) 
+Place 4: giohector (5000 en jetons) 
+chele13666 : met l'ante. 10
+psychoman59 : met l'ante. 10
+rudy51200 : met l'ante. 10
+giohector : met l'ante. 10
+psychoman59 : met la petite blind. 50
+rudy51200 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 8s]
+giohector : suit. 100
+chele13666 : passe. 
+psychoman59 : suit. 50
+rudy51200 : parole 
+*** FLOP *** [Jd 2d 8d]
+psychoman59 : mise. 170
+rudy51200 : passe. 
+giohector : passe. 
+Personne n'a suivi. (170) sont retournés à psychoman59.
+psychoman59 a remporté 340  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [Jd 2d 8d]
+Siège 1 : chele13666 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (340)
+Siège 3 : rudy51200 (grosse blind) s'est couché. sur le Flop
+Siège 4 : giohector s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238977660351 : Tournoi #3479860222, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 01/10/2022 23:30:45 CET [01/10/2022 17:30:45 ET]
+Table '3479860222 1' 4-max Siège #2 est au bouton.
+Place 1: chele13666 (4990 en jetons) 
+Place 2: psychoman59 (5230 en jetons) 
+Place 3: rudy51200 (4890 en jetons) 
+Place 4: giohector (4890 en jetons) 
+chele13666 : met l'ante. 10
+psychoman59 : met l'ante. 10
+rudy51200 : met l'ante. 10
+giohector : met l'ante. 10
+rudy51200 : met la petite blind. 50
+giohector : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Qs]
+chele13666 : relance. 100 à 200
+psychoman59 : relance. 590 à 790
+rudy51200 : suit. 740
+giohector : passe. 
+chele13666 : relance. 4190 à 4980 et est all-in.
+psychoman59 : suit. 4190
+rudy51200 : suit. 4090 et est all-in.
+*** FLOP *** [Qd Kh 2h]
+*** TOURNANT *** [Qd Kh 2h] [8s]
+*** RIVIÈRE *** [Qd Kh 2h 8s] [4c]
+*** ABATTAGE ***
+chele13666 : montre [Kc Qh] (double paire, Rois et Dames)
+psychoman59 : montre [Ad Qs] (une paire de Dames)
+chele13666 a remporté 200  parallèle lors du pot .
+rudy51200 : montre [9c Ac] (Hauteur As)
+chele13666 a remporté 14780  principal lors du pot .
+rudy51200 a fini le tournoi en 4e position.
+*** SYNTHÈSE ***
+Pot total 14980 Principal pot 14780. Parallèle pot 200. | Commission 0 
+Tableau [Qd Kh 2h 8s 4c]
+Siège 1 : chele13666 a montré [Kc Qh] et a gagné (14980) avec double paire, Rois et Dames
+Siège 2 : psychoman59 (bouton) a montré [Ad Qs] et a perdu avec une paire de Dames
+Siège 3 : rudy51200 (petite blind) a montré [9c Ac] et a perdu avec Hauteur As
+Siège 4 : giohector (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238977672734 : Tournoi #3479860222, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 01/10/2022 23:31:22 CET [01/10/2022 17:31:22 ET]
+Table '3479860222 1' 4-max Siège #4 est au bouton.
+Place 1: chele13666 (14980 en jetons) 
+Place 2: psychoman59 (240 en jetons) 
+Place 4: giohector (4780 en jetons) 
+chele13666 : met l'ante. 10
+psychoman59 : met l'ante. 10
+giohector : met l'ante. 10
+chele13666 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 7s]
+giohector : suit. 100
+chele13666 : relance. 330 à 430
+psychoman59 : suit. 130 et est all-in.
+giohector : suit. 330
+*** FLOP *** [Jd 3c As]
+chele13666 : mise. 560
+giohector : passe. 
+Personne n'a suivi. (560) sont retournés à chele13666.
+*** TOURNANT *** [Jd 3c As] [5h]
+*** RIVIÈRE *** [Jd 3c As 5h] [9s]
+*** ABATTAGE ***
+chele13666 : montre [Tc Qh] (Hauteur As)
+chele13666 a remporté 400  parallèle lors du pot .
+psychoman59 : montre [Jh 7s] (une paire de Valets)
+psychoman59 a remporté 720  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 1120 Principal pot 720. Parallèle pot 400. | Commission 0 
+Tableau [Jd 3c As 5h 9s]
+Siège 1 : chele13666 (petite blind) a montré [Tc Qh] et a gagné (400) avec Hauteur As
+Siège 2 : psychoman59 (grosse blind) a montré [Jh 7s] et a gagné (720) avec une paire de Valets
+Siège 4 : giohector (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°238977683371 : Tournoi #3479860222, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 01/10/2022 23:31:53 CET [01/10/2022 17:31:53 ET]
+Table '3479860222 1' 4-max Siège #1 est au bouton.
+Place 1: chele13666 (14940 en jetons) 
+Place 2: psychoman59 (720 en jetons) 
+Place 4: giohector (4340 en jetons) 
+chele13666 : met l'ante. 10
+psychoman59 : met l'ante. 10
+giohector : met l'ante. 10
+psychoman59 : met la petite blind. 50
+giohector : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 8h]
+chele13666 : passe. 
+psychoman59 : relance. 610 à 710 et est all-in.
+giohector : suit. 610
+*** FLOP *** [7s Qd 8c]
+*** TOURNANT *** [7s Qd 8c] [6h]
+*** RIVIÈRE *** [7s Qd 8c 6h] [8d]
+*** ABATTAGE ***
+psychoman59 : montre [Tc 8h] (un brelan de Huit)
+giohector : montre [Jh 5h] (une paire de Huit)
+psychoman59 a remporté 1450  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1450 | Commission 0 
+Tableau [7s Qd 8c 6h 8d]
+Siège 1 : chele13666 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [Tc 8h] et a gagné (1450) avec un brelan de Huit
+Siège 4 : giohector (grosse blind) a montré [Jh 5h] et a perdu avec une paire de Huit
+
+
+
+Main PokerStars n°238977690081 : Tournoi #3479860222, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 01/10/2022 23:32:12 CET [01/10/2022 17:32:12 ET]
+Table '3479860222 1' 4-max Siège #2 est au bouton.
+Place 1: chele13666 (14930 en jetons) 
+Place 2: psychoman59 (1450 en jetons) 
+Place 4: giohector (3620 en jetons) 
+chele13666 : met l'ante. 10
+psychoman59 : met l'ante. 10
+giohector : met l'ante. 10
+giohector : met la petite blind. 50
+chele13666 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Qd]
+psychoman59 : relance. 1340 à 1440 et est all-in.
+giohector : suit. 1390
+chele13666 : passe. 
+*** FLOP *** [4s 2s 8s]
+*** TOURNANT *** [4s 2s 8s] [Ts]
+*** RIVIÈRE *** [4s 2s 8s Ts] [5d]
+*** ABATTAGE ***
+giohector : montre [3c Ac] (une suite, As à Cinq)
+psychoman59 : montre [As Qd] (une couleur, hauteur As)
+psychoman59 a remporté 3010  lors du pot .
+*** SYNTHÈSE ***
+Pot total 3010 | Commission 0 
+Tableau [4s 2s 8s Ts 5d]
+Siège 1 : chele13666 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a montré [As Qd] et a gagné (3010) avec une couleur, hauteur As
+Siège 4 : giohector (petite blind) a montré [3c Ac] et a perdu avec une suite, As à Cinq
+
+
+
+Main PokerStars n°238977697233 : Tournoi #3479860222, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 01/10/2022 23:32:33 CET [01/10/2022 17:32:33 ET]
+Table '3479860222 1' 4-max Siège #4 est au bouton.
+Place 1: chele13666 (14820 en jetons) 
+Place 2: psychoman59 (3010 en jetons) 
+Place 4: giohector (2170 en jetons) 
+chele13666 : met l'ante. 10
+psychoman59 : met l'ante. 10
+giohector : met l'ante. 10
+chele13666 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 5s]
+giohector : relance. 2060 à 2160 et est all-in.
+chele13666 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (2060) sont retournés à giohector.
+giohector a remporté 280  lors du pot .
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Siège 1 : chele13666 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 4 : giohector (bouton) a remporté (280)
+
+
+
+Main PokerStars n°238977701278 : Tournoi #3479860222, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 01/10/2022 23:32:45 CET [01/10/2022 17:32:45 ET]
+Table '3479860222 1' 4-max Siège #1 est au bouton.
+Place 1: chele13666 (14760 en jetons) 
+Place 2: psychoman59 (2900 en jetons) 
+Place 4: giohector (2340 en jetons) 
+chele13666 : met l'ante. 10
+psychoman59 : met l'ante. 10
+giohector : met l'ante. 10
+psychoman59 : met la petite blind. 50
+giohector : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 6d]
+chele13666 : relance. 14650 à 14750 et est all-in.
+psychoman59 : passe. 
+giohector : passe. 
+Personne n'a suivi. (14650) sont retournés à chele13666.
+chele13666 a remporté 280  lors du pot .
+chele13666 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Siège 1 : chele13666 (bouton) a remporté (280)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 4 : giohector (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°238977704567 : Tournoi #3479860222, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (50/100) - 01/10/2022 23:32:55 CET [01/10/2022 17:32:55 ET]
+Table '3479860222 1' 4-max Siège #2 est au bouton.
+Place 1: chele13666 (14930 en jetons) 
+Place 2: psychoman59 (2840 en jetons) 
+Place 4: giohector (2230 en jetons) 
+chele13666 : met l'ante. 10
+psychoman59 : met l'ante. 10
+giohector : met l'ante. 10
+giohector : met la petite blind. 50
+chele13666 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Kh]
+psychoman59 : relance. 280 à 380
+giohector : passe. 
+chele13666 : suit. 280
+*** FLOP *** [5s 4s 8d]
+chele13666 : mise. 840
+psychoman59 : relance. 1610 à 2450 et est all-in.
+chele13666 : suit. 1610
+*** TOURNANT *** [5s 4s 8d] [7s]
+*** RIVIÈRE *** [5s 4s 8d 7s] [2s]
+*** ABATTAGE ***
+chele13666 : montre [2h 5d] (double paire, Cinq et Deux)
+psychoman59 : montre [4c Kh] (une paire de Quatre)
+chele13666 a remporté 5740  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 5740 | Commission 0 
+Tableau [5s 4s 8d 7s 2s]
+Siège 1 : chele13666 (grosse blind) a montré [2h 5d] et a gagné (5740) avec double paire, Cinq et Deux
+Siège 2 : psychoman59 (bouton) a montré [4c Kh] et a perdu avec une paire de Quatre
+Siège 4 : giohector (petite blind) s'est couché. avant Flop
+
+
+

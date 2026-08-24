@@ -1,0 +1,709 @@
+﻿Main PokerStars n°260811862264 : Tournoi #4000544378, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 15/05/2026 7:22:12 CET [15/05/2026 1:22:12 ET]
+Table '4000544378 1' 3-max Siège #1 est au bouton.
+Place 1: majetti (500 en jetons) 
+Place 2: dmb_vlc (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+dmb_vlc : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Tc]
+majetti : suit. 20
+dmb_vlc : passe. 
+psychoman59 : parole 
+*** FLOP *** [6d Kc 8d]
+psychoman59 : parole 
+majetti : parole 
+*** TOURNANT *** [6d Kc 8d] [Jh]
+psychoman59 : parole 
+majetti : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [6d Kc 8d Jh] [7c]
+psychoman59 : parole 
+majetti : parole 
+*** ABATTAGE ***
+psychoman59 : montre [9h Tc] (une suite, Sept à Valet)
+majetti : cache la main perdante. 
+psychoman59 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [6d Kc 8d Jh 7c]
+Siège 1 : majetti (bouton) a caché la main perdante. [4h Js]
+Siège 2 : dmb_vlc (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [9h Tc] et a gagné (90) avec une suite, Sept à Valet
+
+
+
+Main PokerStars n°260811863643 : Tournoi #4000544378, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 15/05/2026 7:22:37 CET [15/05/2026 1:22:37 ET]
+Table '4000544378 1' 3-max Siège #2 est au bouton.
+Place 1: majetti (460 en jetons) 
+Place 2: dmb_vlc (490 en jetons) 
+Place 3: psychoman59 (550 en jetons) 
+psychoman59 : met la petite blind. 10
+majetti : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 3s]
+dmb_vlc : relance. 20 à 40
+psychoman59 : passe. 
+majetti : suit. 20
+*** FLOP *** [5d 3c Kc]
+majetti : parole 
+dmb_vlc : parole 
+*** TOURNANT *** [5d 3c Kc] [4c]
+majetti : mise. 20
+dmb_vlc : suit. 20
+*** RIVIÈRE *** [5d 3c Kc 4c] [3h]
+majetti : mise. 20
+dmb_vlc : passe. 
+Personne n'a suivi. (20) sont retournés à majetti.
+majetti a remporté 130  lors du pot .
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Tableau [5d 3c Kc 4c 3h]
+Siège 1 : majetti (grosse blind) a remporté (130)
+Siège 2 : dmb_vlc (bouton) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260811865263 : Tournoi #4000544378, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 15/05/2026 7:23:04 CET [15/05/2026 1:23:04 ET]
+Table '4000544378 1' 3-max Siège #3 est au bouton.
+Place 1: majetti (530 en jetons) 
+Place 2: dmb_vlc (430 en jetons) 
+Place 3: psychoman59 (540 en jetons) 
+majetti : met la petite blind. 10
+dmb_vlc : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Td]
+psychoman59 : suit. 20
+majetti : suit. 10
+dmb_vlc : parole 
+*** FLOP *** [Ac 4d Ah]
+majetti : parole 
+dmb_vlc : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Ac 4d Ah] [3c]
+majetti : mise. 20
+dmb_vlc : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à majetti.
+majetti a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ac 4d Ah 3c]
+Siège 1 : majetti (petite blind) a remporté (60)
+Siège 2 : dmb_vlc (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°260811866566 : Tournoi #4000544378, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 15/05/2026 7:23:27 CET [15/05/2026 1:23:27 ET]
+Table '4000544378 1' 3-max Siège #1 est au bouton.
+Place 1: majetti (570 en jetons) 
+Place 2: dmb_vlc (410 en jetons) 
+Place 3: psychoman59 (520 en jetons) 
+dmb_vlc : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Qs]
+majetti : suit. 20
+dmb_vlc : suit. 10
+psychoman59 : parole 
+*** FLOP *** [8d As 8c]
+dmb_vlc : parole 
+psychoman59 : parole 
+majetti : parole 
+*** TOURNANT *** [8d As 8c] [8h]
+dmb_vlc : parole 
+psychoman59 : mise. 60
+majetti : suit. 60
+dmb_vlc : passe. 
+*** RIVIÈRE *** [8d As 8c 8h] [9h]
+psychoman59 : mise. 80
+majetti : suit. 80
+*** ABATTAGE ***
+psychoman59 : montre [Kd Qs] (un brelan de Huit)
+majetti : cache la main perdante. 
+psychoman59 a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [8d As 8c 8h 9h]
+Siège 1 : majetti (bouton) a caché la main perdante. [Qc 2h]
+Siège 2 : dmb_vlc (petite blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (grosse blind) a montré [Kd Qs] et a gagné (340) avec un brelan de Huit
+
+
+
+Main PokerStars n°260811868900 : Tournoi #4000544378, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 15/05/2026 7:24:07 CET [15/05/2026 1:24:07 ET]
+Table '4000544378 1' 3-max Siège #2 est au bouton.
+Place 1: majetti (410 en jetons) 
+Place 2: dmb_vlc (390 en jetons) 
+Place 3: psychoman59 (700 en jetons) 
+psychoman59 : met la petite blind. 10
+majetti : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 3s]
+dmb_vlc : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à majetti.
+majetti a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : majetti (grosse blind) a remporté (20)
+Siège 2 : dmb_vlc (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260811869604 : Tournoi #4000544378, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 15/05/2026 7:24:19 CET [15/05/2026 1:24:19 ET]
+Table '4000544378 1' 3-max Siège #3 est au bouton.
+Place 1: majetti (420 en jetons) 
+Place 2: dmb_vlc (390 en jetons) 
+Place 3: psychoman59 (690 en jetons) 
+majetti : met la petite blind. 15
+dmb_vlc : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 7s]
+psychoman59 : passe. 
+majetti : suit. 15
+dmb_vlc : parole 
+*** FLOP *** [6s 4h As]
+majetti : parole 
+dmb_vlc : parole 
+*** TOURNANT *** [6s 4h As] [4d]
+majetti : parole 
+dmb_vlc : mise. 30
+majetti : passe. 
+Personne n'a suivi. (30) sont retournés à dmb_vlc.
+dmb_vlc a remporté 60  lors du pot .
+dmb_vlc : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [6s 4h As 4d]
+Siège 1 : majetti (petite blind) s'est couché. sur le Tournant
+Siège 2 : dmb_vlc (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260811870866 : Tournoi #4000544378, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 15/05/2026 7:24:42 CET [15/05/2026 1:24:42 ET]
+Table '4000544378 1' 3-max Siège #1 est au bouton.
+Place 1: majetti (390 en jetons) 
+Place 2: dmb_vlc (420 en jetons) 
+Place 3: psychoman59 (690 en jetons) 
+dmb_vlc : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Kh]
+majetti : passe. 
+dmb_vlc : relance. 390 à 420 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (390) sont retournés à dmb_vlc.
+dmb_vlc a remporté 60  lors du pot .
+dmb_vlc : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : majetti (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : dmb_vlc (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260811871532 : Tournoi #4000544378, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 15/05/2026 7:24:53 CET [15/05/2026 1:24:53 ET]
+Table '4000544378 1' 3-max Siège #2 est au bouton.
+Place 1: majetti (390 en jetons) 
+Place 2: dmb_vlc (450 en jetons) 
+Place 3: psychoman59 (660 en jetons) 
+psychoman59 : met la petite blind. 15
+majetti : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c As]
+dmb_vlc : passe. 
+psychoman59 : relance. 30 à 60
+majetti : suit. 30
+*** FLOP *** [3c 6c Ah]
+psychoman59 : mise. 60
+majetti : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [3c 6c Ah]
+Siège 1 : majetti (grosse blind) s'est couché. sur le Flop
+Siège 2 : dmb_vlc (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°260811872594 : Tournoi #4000544378, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 15/05/2026 7:25:12 CET [15/05/2026 1:25:12 ET]
+Table '4000544378 1' 3-max Siège #3 est au bouton.
+Place 1: majetti (330 en jetons) 
+Place 2: dmb_vlc (450 en jetons) 
+Place 3: psychoman59 (720 en jetons) 
+majetti : met la petite blind. 15
+dmb_vlc : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 2h]
+psychoman59 : passe. 
+majetti : suit. 15
+dmb_vlc : parole 
+*** FLOP *** [4d Qc 5d]
+majetti : parole 
+dmb_vlc : parole 
+*** TOURNANT *** [4d Qc 5d] [4c]
+majetti : mise. 30
+dmb_vlc : suit. 30
+*** RIVIÈRE *** [4d Qc 5d 4c] [9h]
+majetti : mise. 90
+dmb_vlc : passe. 
+Personne n'a suivi. (90) sont retournés à majetti.
+majetti a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [4d Qc 5d 4c 9h]
+Siège 1 : majetti (petite blind) a remporté (120)
+Siège 2 : dmb_vlc (grosse blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260811873820 : Tournoi #4000544378, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 15/05/2026 7:25:34 CET [15/05/2026 1:25:34 ET]
+Table '4000544378 1' 3-max Siège #1 est au bouton.
+Place 1: majetti (390 en jetons) 
+Place 2: dmb_vlc (390 en jetons) 
+Place 3: psychoman59 (720 en jetons) 
+dmb_vlc : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 8d]
+majetti : suit. 30
+dmb_vlc : relance. 360 à 390 et est all-in.
+psychoman59 : passe. 
+majetti : suit. 360 et est all-in.
+*** FLOP *** [3s Jh 4s]
+*** TOURNANT *** [3s Jh 4s] [5c]
+*** RIVIÈRE *** [3s Jh 4s 5c] [5d]
+*** ABATTAGE ***
+dmb_vlc : montre [Kd Qd] (une paire de Cinq)
+majetti : montre [6s Ad] (une paire de Cinq - As kicker)
+majetti a remporté 810  lors du pot .
+dmb_vlc a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 810 | Commission 0 
+Tableau [3s Jh 4s 5c 5d]
+Siège 1 : majetti (bouton) a montré [6s Ad] et a gagné (810) avec une paire de Cinq
+Siège 2 : dmb_vlc (petite blind) a montré [Kd Qd] et a perdu avec une paire de Cinq
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260811874934 : Tournoi #4000544378, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 15/05/2026 7:25:54 CET [15/05/2026 1:25:54 ET]
+Table '4000544378 1' 3-max Siège #3 est au bouton.
+Place 1: majetti (810 en jetons) 
+Place 3: psychoman59 (690 en jetons) 
+psychoman59 : met la petite blind. 15
+majetti : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Jh]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à majetti.
+majetti a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : majetti (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260811875222 : Tournoi #4000544378, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 15/05/2026 7:25:59 CET [15/05/2026 1:25:59 ET]
+Table '4000544378 1' 3-max Siège #1 est au bouton.
+Place 1: majetti (825 en jetons) 
+Place 3: psychoman59 (675 en jetons) 
+majetti : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Ac]
+majetti : suit. 15
+psychoman59 : parole 
+*** FLOP *** [7d Ks 2c]
+psychoman59 : parole 
+majetti : mise. 30
+psychoman59 : suit. 30
+*** TOURNANT *** [7d Ks 2c] [Kh]
+psychoman59 : parole 
+majetti : parole 
+*** RIVIÈRE *** [7d Ks 2c Kh] [2d]
+psychoman59 : mise. 60
+majetti : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [7d Ks 2c Kh 2d]
+Siège 1 : majetti (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°260811876681 : Tournoi #4000544378, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 15/05/2026 7:26:24 CET [15/05/2026 1:26:24 ET]
+Table '4000544378 1' 3-max Siège #3 est au bouton.
+Place 1: majetti (765 en jetons) 
+Place 3: psychoman59 (735 en jetons) 
+psychoman59 : met la petite blind. 20
+majetti : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Js]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à majetti.
+majetti a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : majetti (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260811876969 : Tournoi #4000544378, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 15/05/2026 7:26:29 CET [15/05/2026 1:26:29 ET]
+Table '4000544378 1' 3-max Siège #1 est au bouton.
+Place 1: majetti (785 en jetons) 
+Place 3: psychoman59 (715 en jetons) 
+majetti : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 6d]
+majetti : suit. 20
+psychoman59 : parole 
+*** FLOP *** [9d 5d 4c]
+psychoman59 : parole 
+majetti : parole 
+*** TOURNANT *** [9d 5d 4c] [Qd]
+psychoman59 : parole 
+majetti : parole 
+*** RIVIÈRE *** [9d 5d 4c Qd] [Kc]
+psychoman59 : parole 
+majetti : parole 
+*** ABATTAGE ***
+psychoman59 : montre [3s 6d] (Hauteur Roi)
+majetti : montre [8h As] (Hauteur As)
+majetti a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [9d 5d 4c Qd Kc]
+Siège 1 : majetti (bouton) (petite blind) a montré [8h As] et a gagné (80) avec Hauteur As
+Siège 3 : psychoman59 (grosse blind) a montré [3s 6d] et a perdu avec Hauteur Roi
+
+
+
+Main PokerStars n°260811877998 : Tournoi #4000544378, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 15/05/2026 7:26:48 CET [15/05/2026 1:26:48 ET]
+Table '4000544378 1' 3-max Siège #3 est au bouton.
+Place 1: majetti (825 en jetons) 
+Place 3: psychoman59 (675 en jetons) 
+psychoman59 : met la petite blind. 20
+majetti : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Kc]
+psychoman59 : suit. 20
+majetti : parole 
+*** FLOP *** [8h Qd 2c]
+majetti : parole 
+psychoman59 : parole 
+*** TOURNANT *** [8h Qd 2c] [3h]
+majetti : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [8h Qd 2c 3h] [Td]
+majetti : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+majetti : montre [5c 4s] (Hauteur Dame)
+psychoman59 : montre [7d Kc] (Hauteur Roi)
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [8h Qd 2c 3h Td]
+Siège 1 : majetti (grosse blind) a montré [5c 4s] et a perdu avec Hauteur Dame
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [7d Kc] et a gagné (80) avec Hauteur Roi
+
+
+
+Main PokerStars n°260811878937 : Tournoi #4000544378, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 15/05/2026 7:27:05 CET [15/05/2026 1:27:05 ET]
+Table '4000544378 1' 3-max Siège #1 est au bouton.
+Place 1: majetti (785 en jetons) 
+Place 3: psychoman59 (715 en jetons) 
+majetti : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 3c]
+majetti : suit. 20
+psychoman59 : parole 
+*** FLOP *** [7d 7h Jc]
+psychoman59 : parole 
+majetti : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à majetti.
+majetti a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [7d 7h Jc]
+Siège 1 : majetti (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°260811879746 : Tournoi #4000544378, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 15/05/2026 7:27:19 CET [15/05/2026 1:27:19 ET]
+Table '4000544378 1' 3-max Siège #3 est au bouton.
+Place 1: majetti (825 en jetons) 
+Place 3: psychoman59 (675 en jetons) 
+psychoman59 : met la petite blind. 20
+majetti : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 8c]
+psychoman59 : relance. 40 à 80
+majetti : suit. 40
+*** FLOP *** [As Ks 3c]
+majetti : parole 
+psychoman59 : mise. 80
+majetti : suit. 80
+*** TOURNANT *** [As Ks 3c] [9d]
+majetti : parole 
+psychoman59 : mise. 160
+majetti : suit. 160
+*** RIVIÈRE *** [As Ks 3c 9d] [5c]
+majetti : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+majetti : montre [Kd Qh] (une paire de Rois)
+psychoman59 : montre [Ah 8c] (une paire de As)
+psychoman59 a remporté 640  lors du pot .
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [As Ks 3c 9d 5c]
+Siège 1 : majetti (grosse blind) a montré [Kd Qh] et a perdu avec une paire de Rois
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Ah 8c] et a gagné (640) avec une paire de As
+
+
+
+Main PokerStars n°260811880772 : Tournoi #4000544378, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 15/05/2026 7:27:37 CET [15/05/2026 1:27:37 ET]
+Table '4000544378 1' 3-max Siège #1 est au bouton.
+Place 1: majetti (505 en jetons) 
+Place 3: psychoman59 (995 en jetons) 
+majetti : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 3h]
+majetti : suit. 20
+psychoman59 : parole 
+*** FLOP *** [6c 9d 8d]
+psychoman59 : parole 
+majetti : parole 
+*** TOURNANT *** [6c 9d 8d] [3d]
+psychoman59 : parole 
+majetti : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à majetti.
+majetti a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [6c 9d 8d 3d]
+Siège 1 : majetti (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°260811881701 : Tournoi #4000544378, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 15/05/2026 7:27:54 CET [15/05/2026 1:27:54 ET]
+Table '4000544378 1' 3-max Siège #3 est au bouton.
+Place 1: majetti (545 en jetons) 
+Place 3: psychoman59 (955 en jetons) 
+psychoman59 : met la petite blind. 20
+majetti : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 4d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à majetti.
+majetti a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : majetti (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260811881974 : Tournoi #4000544378, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 15/05/2026 7:27:58 CET [15/05/2026 1:27:58 ET]
+Table '4000544378 1' 3-max Siège #1 est au bouton.
+Place 1: majetti (565 en jetons) 
+Place 3: psychoman59 (935 en jetons) 
+majetti : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 2h]
+majetti : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Qs 4s Th]
+psychoman59 : parole 
+majetti : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à majetti.
+majetti a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Qs 4s Th]
+Siège 1 : majetti (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°260811882677 : Tournoi #4000544378, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 15/05/2026 7:28:10 CET [15/05/2026 1:28:10 ET]
+Table '4000544378 1' 3-max Siège #3 est au bouton.
+Place 1: majetti (605 en jetons) 
+Place 3: psychoman59 (895 en jetons) 
+psychoman59 : met la petite blind. 20
+majetti : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 3c]
+psychoman59 : suit. 20
+majetti : parole 
+*** FLOP *** [9d 9h Kh]
+majetti : parole 
+psychoman59 : mise. 40
+majetti : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [9d 9h Kh]
+Siège 1 : majetti (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°260811883429 : Tournoi #4000544378, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/05/2026 7:28:24 CET [15/05/2026 1:28:24 ET]
+Table '4000544378 1' 3-max Siège #1 est au bouton.
+Place 1: majetti (565 en jetons) 
+Place 3: psychoman59 (935 en jetons) 
+majetti : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 3h]
+majetti : suit. 30
+psychoman59 : parole 
+*** FLOP *** [8d Qd 4h]
+psychoman59 : parole 
+majetti : parole 
+*** TOURNANT *** [8d Qd 4h] [Qh]
+psychoman59 : parole 
+majetti : mise. 60
+psychoman59 : suit. 60
+*** RIVIÈRE *** [8d Qd 4h Qh] [Qs]
+psychoman59 : parole 
+majetti : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à majetti.
+majetti a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [8d Qd 4h Qh Qs]
+Siège 1 : majetti (bouton) (petite blind) a remporté (240)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°260811884590 : Tournoi #4000544378, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/05/2026 7:28:44 CET [15/05/2026 1:28:44 ET]
+Table '4000544378 1' 3-max Siège #3 est au bouton.
+Place 1: majetti (685 en jetons) 
+Place 3: psychoman59 (815 en jetons) 
+psychoman59 : met la petite blind. 30
+majetti : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 3c]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à majetti.
+majetti a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : majetti (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260811884891 : Tournoi #4000544378, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/05/2026 7:28:49 CET [15/05/2026 1:28:49 ET]
+Table '4000544378 1' 3-max Siège #1 est au bouton.
+Place 1: majetti (715 en jetons) 
+Place 3: psychoman59 (785 en jetons) 
+majetti : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 2h]
+majetti : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : majetti (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°260811885174 : Tournoi #4000544378, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/05/2026 7:28:54 CET [15/05/2026 1:28:54 ET]
+Table '4000544378 1' 3-max Siège #3 est au bouton.
+Place 1: majetti (685 en jetons) 
+Place 3: psychoman59 (815 en jetons) 
+psychoman59 : met la petite blind. 30
+majetti : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Js]
+psychoman59 : suit. 30
+majetti : parole 
+*** FLOP *** [Jd 5d 6c]
+majetti : parole 
+psychoman59 : mise. 60
+majetti : suit. 60
+*** TOURNANT *** [Jd 5d 6c] [8d]
+majetti : parole 
+psychoman59 : mise. 60
+majetti : suit. 60
+*** RIVIÈRE *** [Jd 5d 6c 8d] [5h]
+majetti : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+majetti : montre [2c 3s] (une paire de Cinq)
+psychoman59 : montre [Td Js] (double paire, Valets et Cinq)
+psychoman59 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [Jd 5d 6c 8d 5h]
+Siège 1 : majetti (grosse blind) a montré [2c 3s] et a perdu avec une paire de Cinq
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Td Js] et a gagné (360) avec double paire, Valets et Cinq
+
+
+
+Main PokerStars n°260811886238 : Tournoi #4000544378, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/05/2026 7:29:13 CET [15/05/2026 1:29:13 ET]
+Table '4000544378 1' 3-max Siège #1 est au bouton.
+Place 1: majetti (505 en jetons) 
+Place 3: psychoman59 (995 en jetons) 
+majetti : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Ac]
+majetti : suit. 30
+psychoman59 : relance. 935 à 995 et est all-in.
+majetti : suit. 445 et est all-in.
+Personne n'a suivi. (490) sont retournés à psychoman59.
+*** FLOP *** [8h 7c 2s]
+*** TOURNANT *** [8h 7c 2s] [3d]
+*** RIVIÈRE *** [8h 7c 2s 3d] [4h]
+*** ABATTAGE ***
+psychoman59 : montre [5s Ac] (une suite, As à Cinq)
+majetti : montre [4d 5d] (une paire de Quatre)
+psychoman59 a remporté 1010  lors du pot .
+majetti a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 1.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 1010 | Commission 0 
+Tableau [8h 7c 2s 3d 4h]
+Siège 1 : majetti (bouton) (petite blind) a montré [4d 5d] et a perdu avec une paire de Quatre
+Siège 3 : psychoman59 (grosse blind) a montré [5s Ac] et a gagné (1010) avec une suite, As à Cinq
+
+
+

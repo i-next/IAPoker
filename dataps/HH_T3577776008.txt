@@ -1,0 +1,435 @@
+﻿Main PokerStars n°243102075532 : Tournoi #3577776008, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/04/2023 10:39:52 CET [15/04/2023 4:39:52 ET]
+Table '3577776008 1' 3-max Siège #1 est au bouton.
+Place 1: qlf44000 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: Anael75 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+Anael75 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 9h]
+qlf44000 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à Anael75.
+Anael75 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : qlf44000 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Anael75 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°243102076521 : Tournoi #3577776008, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/04/2023 10:39:58 CET [15/04/2023 4:39:58 ET]
+Table '3577776008 1' 3-max Siège #2 est au bouton.
+Place 1: qlf44000 (300 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: Anael75 (310 en jetons) 
+Anael75 : met la petite blind. 10
+qlf44000 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 3c]
+psychoman59 : passe. 
+Anael75 : suit. 10
+qlf44000 : parole 
+*** FLOP *** [Qd 8c 5c]
+Anael75 : parole 
+qlf44000 : parole 
+*** TOURNANT *** [Qd 8c 5c] [8s]
+Anael75 : parole 
+qlf44000 : mise. 40
+Anael75 : passe. 
+Personne n'a suivi. (40) sont retournés à qlf44000.
+qlf44000 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Qd 8c 5c 8s]
+Siège 1 : qlf44000 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Anael75 (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°243102080858 : Tournoi #3577776008, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/04/2023 10:40:27 CET [15/04/2023 4:40:27 ET]
+Table '3577776008 1' 3-max Siège #3 est au bouton.
+Place 1: qlf44000 (320 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: Anael75 (290 en jetons) 
+qlf44000 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Th]
+Anael75 : suit. 20
+qlf44000 : passe. 
+psychoman59 : parole 
+*** FLOP *** [2d 8c 2s]
+psychoman59 : parole 
+Anael75 : parole 
+*** TOURNANT *** [2d 8c 2s] [Qh]
+psychoman59 : parole 
+Anael75 : parole 
+*** RIVIÈRE *** [2d 8c 2s Qh] [Ks]
+psychoman59 : parole 
+Anael75 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [4c Th] (une paire de Deux)
+Anael75 : cache la main perdante. 
+psychoman59 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [2d 8c 2s Qh Ks]
+Siège 1 : qlf44000 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a montré [4c Th] et a gagné (50) avec une paire de Deux
+Siège 3 : Anael75 (bouton) a caché la main perdante. [7s 3s]
+
+
+
+Main PokerStars n°243102085329 : Tournoi #3577776008, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/04/2023 10:40:56 CET [15/04/2023 4:40:56 ET]
+Table '3577776008 1' 3-max Siège #1 est au bouton.
+Place 1: qlf44000 (310 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: Anael75 (270 en jetons) 
+psychoman59 : met la petite blind. 15
+Anael75 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 4h]
+qlf44000 : suit. 30
+psychoman59 : passe. 
+Anael75 : parole 
+*** FLOP *** [Th 7c 3c]
+Anael75 : parole 
+qlf44000 : mise. 30
+Anael75 : suit. 30
+*** TOURNANT *** [Th 7c 3c] [Qs]
+Anael75 : parole 
+qlf44000 : mise. 60
+Anael75 : suit. 60
+*** RIVIÈRE *** [Th 7c 3c Qs] [2d]
+Anael75 : parole 
+qlf44000 : mise. 190 et est all-in.
+Anael75 : passe. 
+Personne n'a suivi. (190) sont retournés à qlf44000.
+qlf44000 a remporté 255  lors du pot .
+*** SYNTHÈSE ***
+Pot total 255 | Commission 0 
+Tableau [Th 7c 3c Qs 2d]
+Siège 1 : qlf44000 (bouton) a remporté (255)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Anael75 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°243102090761 : Tournoi #3577776008, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/04/2023 10:41:31 CET [15/04/2023 4:41:31 ET]
+Table '3577776008 1' 3-max Siège #2 est au bouton.
+Place 1: qlf44000 (445 en jetons) 
+Place 2: psychoman59 (305 en jetons) 
+Place 3: Anael75 (150 en jetons) 
+Anael75 : met la petite blind. 15
+qlf44000 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 9s]
+psychoman59 : passe. 
+Anael75 : suit. 15
+qlf44000 : parole 
+*** FLOP *** [2c 9c 7h]
+Anael75 : parole 
+qlf44000 : parole 
+*** TOURNANT *** [2c 9c 7h] [Ad]
+Anael75 : parole 
+qlf44000 : mise. 60
+Anael75 : suit. 60
+*** RIVIÈRE *** [2c 9c 7h Ad] [Jh]
+Anael75 : mise. 60 et est all-in.
+qlf44000 : suit. 60
+*** ABATTAGE ***
+Anael75 : montre [8c Th] (une suite, Sept à Valet)
+qlf44000 : montre [2h Kh] (une paire de Deux)
+Anael75 a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [2c 9c 7h Ad Jh]
+Siège 1 : qlf44000 (grosse blind) a montré [2h Kh] et a perdu avec une paire de Deux
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Anael75 (petite blind) a montré [8c Th] et a gagné (300) avec une suite, Sept à Valet
+
+
+
+Main PokerStars n°243102095094 : Tournoi #3577776008, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/04/2023 10:42:00 CET [15/04/2023 4:42:00 ET]
+Table '3577776008 1' 3-max Siège #3 est au bouton.
+Place 1: qlf44000 (295 en jetons) 
+Place 2: psychoman59 (305 en jetons) 
+Place 3: Anael75 (300 en jetons) 
+qlf44000 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 4s]
+Anael75 : suit. 40
+qlf44000 : relance. 255 à 295 et est all-in.
+psychoman59 : passe. 
+Anael75 : passe. 
+Personne n'a suivi. (255) sont retournés à qlf44000.
+qlf44000 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : qlf44000 (petite blind) a remporté (120)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : Anael75 (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243102096870 : Tournoi #3577776008, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/04/2023 10:42:11 CET [15/04/2023 4:42:11 ET]
+Table '3577776008 1' 3-max Siège #1 est au bouton.
+Place 1: qlf44000 (375 en jetons) 
+Place 2: psychoman59 (265 en jetons) 
+Place 3: Anael75 (260 en jetons) 
+psychoman59 : met la petite blind. 20
+Anael75 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 2s]
+qlf44000 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Anael75.
+Anael75 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : qlf44000 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Anael75 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°243102097707 : Tournoi #3577776008, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/04/2023 10:42:17 CET [15/04/2023 4:42:17 ET]
+Table '3577776008 1' 3-max Siège #2 est au bouton.
+Place 1: qlf44000 (375 en jetons) 
+Place 2: psychoman59 (245 en jetons) 
+Place 3: Anael75 (280 en jetons) 
+Anael75 : met la petite blind. 20
+qlf44000 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Ad]
+psychoman59 : relance. 40 à 80
+Anael75 : suit. 60
+qlf44000 : suit. 40
+*** FLOP *** [8s 8d 5h]
+Anael75 : parole 
+qlf44000 : parole 
+psychoman59 : mise. 165 et est all-in.
+Anael75 : passe. 
+qlf44000 : passe. 
+Personne n'a suivi. (165) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [8s 8d 5h]
+Siège 1 : qlf44000 (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) a remporté (240)
+Siège 3 : Anael75 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°243102101139 : Tournoi #3577776008, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/04/2023 10:42:39 CET [15/04/2023 4:42:39 ET]
+Table '3577776008 1' 3-max Siège #3 est au bouton.
+Place 1: qlf44000 (295 en jetons) 
+Place 2: psychoman59 (405 en jetons) 
+Place 3: Anael75 (200 en jetons) 
+qlf44000 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 2d]
+Anael75 : relance. 40 à 80
+qlf44000 : relance. 215 à 295 et est all-in.
+psychoman59 : passe. 
+Anael75 : suit. 120 et est all-in.
+Personne n'a suivi. (95) sont retournés à qlf44000.
+*** FLOP *** [8c 9h Kh]
+*** TOURNANT *** [8c 9h Kh] [7d]
+*** RIVIÈRE *** [8c 9h Kh 7d] [9s]
+*** ABATTAGE ***
+qlf44000 : montre [Qh 6h] (une paire de Neuf)
+Anael75 : montre [Jc Td] (une suite, Sept à Valet)
+Anael75 a remporté 440  lors du pot .
+*** SYNTHÈSE ***
+Pot total 440 | Commission 0 
+Tableau [8c 9h Kh 7d 9s]
+Siège 1 : qlf44000 (petite blind) a montré [Qh 6h] et a perdu avec une paire de Neuf
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : Anael75 (bouton) a montré [Jc Td] et a gagné (440) avec une suite, Sept à Valet
+
+
+
+Main PokerStars n°243102104902 : Tournoi #3577776008, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/04/2023 10:43:03 CET [15/04/2023 4:43:03 ET]
+Table '3577776008 1' 3-max Siège #1 est au bouton.
+Place 1: qlf44000 (95 en jetons) 
+Place 2: psychoman59 (365 en jetons) 
+Place 3: Anael75 (440 en jetons) 
+psychoman59 : met la petite blind. 30
+Anael75 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Qs]
+qlf44000 : relance. 35 à 95 et est all-in.
+psychoman59 : suit. 65
+Anael75 : passe. 
+*** FLOP *** [As 2h 6c]
+*** TOURNANT *** [As 2h 6c] [Kd]
+*** RIVIÈRE *** [As 2h 6c Kd] [7c]
+*** ABATTAGE ***
+psychoman59 : montre [8d Qs] (Hauteur As)
+qlf44000 : montre [5d Qh] (Hauteur As - plus basse kicker)
+psychoman59 a remporté 250  lors du pot .
+qlf44000 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 250 | Commission 0 
+Tableau [As 2h 6c Kd 7c]
+Siège 1 : qlf44000 (bouton) a montré [5d Qh] et a perdu avec Hauteur As
+Siège 2 : psychoman59 (petite blind) a montré [8d Qs] et a gagné (250) avec Hauteur As
+Siège 3 : Anael75 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243102108038 : Tournoi #3577776008, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/04/2023 10:43:23 CET [15/04/2023 4:43:23 ET]
+Table '3577776008 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (520 en jetons) 
+Place 3: Anael75 (380 en jetons) 
+Anael75 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Jc]
+Anael75 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [2c Ks 2d]
+psychoman59 : parole 
+Anael75 : parole 
+*** TOURNANT *** [2c Ks 2d] [3c]
+psychoman59 : parole 
+Anael75 : parole 
+*** RIVIÈRE *** [2c Ks 2d 3c] [5c]
+psychoman59 : parole 
+Anael75 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Ts Jc] (une paire de Deux)
+Anael75 : montre [5d Jh] (double paire, Cinq et Deux)
+Anael75 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [2c Ks 2d 3c 5c]
+Siège 2 : psychoman59 (grosse blind) a montré [Ts Jc] et a perdu avec une paire de Deux
+Siège 3 : Anael75 (bouton) (petite blind) a montré [5d Jh] et a gagné (120) avec double paire, Cinq et Deux
+
+
+
+Main PokerStars n°243102111731 : Tournoi #3577776008, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/04/2023 10:43:47 CET [15/04/2023 4:43:47 ET]
+Table '3577776008 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (460 en jetons) 
+Place 3: Anael75 (440 en jetons) 
+psychoman59 : met la petite blind. 30
+Anael75 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 9c]
+psychoman59 : suit. 30
+Anael75 : parole 
+*** FLOP *** [6h Qs 2s]
+Anael75 : parole 
+psychoman59 : mise. 120
+Anael75 : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [6h Qs 2s]
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 3 : Anael75 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°243102115443 : Tournoi #3577776008, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 15/04/2023 10:44:11 CET [15/04/2023 4:44:11 ET]
+Table '3577776008 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (520 en jetons) 
+Place 3: Anael75 (380 en jetons) 
+Anael75 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 2d]
+Anael75 : suit. 40
+psychoman59 : parole 
+*** FLOP *** [3s 7h 4c]
+psychoman59 : parole 
+Anael75 : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à Anael75.
+Anael75 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [3s 7h 4c]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : Anael75 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°243102117792 : Tournoi #3577776008, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 15/04/2023 10:44:26 CET [15/04/2023 4:44:26 ET]
+Table '3577776008 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (440 en jetons) 
+Place 3: Anael75 (460 en jetons) 
+psychoman59 : met la petite blind. 40
+Anael75 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 4c]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Anael75.
+Anael75 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Anael75 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°243102118636 : Tournoi #3577776008, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 15/04/2023 10:44:32 CET [15/04/2023 4:44:32 ET]
+Table '3577776008 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (400 en jetons) 
+Place 3: Anael75 (500 en jetons) 
+Anael75 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 9c]
+Anael75 : suit. 40
+psychoman59 : relance. 320 à 400 et est all-in.
+Anael75 : passe. 
+Personne n'a suivi. (320) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (160)
+Siège 3 : Anael75 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243102120260 : Tournoi #3577776008, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 15/04/2023 10:44:42 CET [15/04/2023 4:44:42 ET]
+Table '3577776008 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (480 en jetons) 
+Place 3: Anael75 (420 en jetons) 
+psychoman59 : met la petite blind. 40
+Anael75 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Ks]
+psychoman59 : relance. 400 à 480 et est all-in.
+Anael75 : suit. 340 et est all-in.
+Personne n'a suivi. (60) sont retournés à psychoman59.
+*** FLOP *** [5s 4d 4c]
+*** TOURNANT *** [5s 4d 4c] [9d]
+*** RIVIÈRE *** [5s 4d 4c 9d] [4s]
+*** ABATTAGE ***
+Anael75 : montre [Tc Jh] (un brelan de Quatre)
+psychoman59 : montre [Qh Ks] (un brelan de Quatre - Roi kicker)
+psychoman59 a remporté 840  lors du pot .
+Anael75 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Tableau [5s 4d 4c 9d 4s]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Qh Ks] et a gagné (840) avec un brelan de Quatre
+Siège 3 : Anael75 (grosse blind) a montré [Tc Jh] et a perdu avec un brelan de Quatre
+
+
+

@@ -1,0 +1,88 @@
+﻿Main PokerStars n°261102500885 : Tournoi #4007595316, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 11/06/2026 7:31:50 CET [11/06/2026 1:31:50 ET]
+Table '4007595316 1' 3-max Siège #1 est au bouton.
+Place 1: Lili59100 (500 en jetons) 
+Place 2: JOSELU07 (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+JOSELU07 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 7d]
+Lili59100 : suit. 20
+JOSELU07 : relance. 20 à 40
+psychoman59 : suit. 20
+Lili59100 : suit. 20
+*** FLOP *** [2c 5s 9c]
+JOSELU07 : mise. 40
+psychoman59 : passe. 
+Lili59100 : suit. 40
+*** TOURNANT *** [2c 5s 9c] [As]
+JOSELU07 a dépassé le temps imparti.
+JOSELU07 : parole 
+Lili59100 : parole 
+*** RIVIÈRE *** [2c 5s 9c As] [Ts]
+JOSELU07 : mise. 60
+Lili59100 : passe. 
+Personne n'a suivi. (60) sont retournés à JOSELU07.
+JOSELU07 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [2c 5s 9c As Ts]
+Siège 1 : Lili59100 (bouton) s'est couché. sur le Rivière
+Siège 2 : JOSELU07 (petite blind) a remporté (200)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261102504936 : Tournoi #4007595316, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 11/06/2026 7:33:01 CET [11/06/2026 1:33:01 ET]
+Table '4007595316 1' 3-max Siège #2 est au bouton.
+Place 1: Lili59100 (420 en jetons) 
+Place 2: JOSELU07 (620 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+psychoman59 : met la petite blind. 10
+Lili59100 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 8s]
+JOSELU07 : relance. 600 à 620 et est all-in.
+psychoman59 : passe. 
+Lili59100 : passe. 
+Personne n'a suivi. (600) sont retournés à JOSELU07.
+JOSELU07 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : Lili59100 (grosse blind) s'est couché. avant Flop
+Siège 2 : JOSELU07 (bouton) a remporté (50)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261102505905 : Tournoi #4007595316, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 11/06/2026 7:33:18 CET [11/06/2026 1:33:18 ET]
+Table '4007595316 1' 3-max Siège #3 est au bouton.
+Place 1: Lili59100 (400 en jetons) 
+Place 2: JOSELU07 (650 en jetons) 
+Place 3: psychoman59 (450 en jetons) 
+Lili59100 : met la petite blind. 10
+JOSELU07 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 3c]
+psychoman59 : relance. 430 à 450 et est all-in.
+Lili59100 : suit. 390 et est all-in.
+JOSELU07 : suit. 430
+*** FLOP *** [6s 2s Ah]
+*** TOURNANT *** [6s 2s Ah] [8d]
+*** RIVIÈRE *** [6s 2s Ah 8d] [Qh]
+*** ABATTAGE ***
+JOSELU07 : montre [9s 9h] (une paire de Neuf)
+psychoman59 : montre [3d 3c] (une paire de Trois)
+JOSELU07 a remporté 100  parallèle lors du pot .
+Lili59100 : montre [2d 6d] (double paire, Six et Deux)
+Lili59100 a remporté 1200  principal lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 1300 Principal pot 1200. Parallèle pot 100. | Commission 0 
+Tableau [6s 2s Ah 8d Qh]
+Siège 1 : Lili59100 (petite blind) a montré [2d 6d] et a gagné (1200) avec double paire, Six et Deux
+Siège 2 : JOSELU07 (grosse blind) a montré [9s 9h] et a gagné (100) avec une paire de Neuf
+Siège 3 : psychoman59 (bouton) a montré [3d 3c] et a perdu avec une paire de Trois
+
+
+

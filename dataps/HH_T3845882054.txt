@@ -1,0 +1,547 @@
+﻿Main PokerStars n°254327482043 : Tournoi #3845882054, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 12/01/2025 8:39:46 CET [12/01/2025 2:39:46 ET]
+Table '3845882054 1' 3-max Siège #1 est au bouton.
+Place 1: skalp78 (500 en jetons) 
+Place 2: Wolfleni (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+Wolfleni : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 7s]
+skalp78 : passe. 
+Wolfleni : suit. 10
+psychoman59 : parole 
+*** FLOP *** [5s 8c 2c]
+Wolfleni : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5s 8c 2c] [Tc]
+Wolfleni : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [5s 8c 2c Tc] [Ah]
+Wolfleni : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Wolfleni : montre [Kc 3s] (Hauteur As)
+psychoman59 : cache la main perdante. 
+Wolfleni a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [5s 8c 2c Tc Ah]
+Siège 1 : skalp78 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Wolfleni (petite blind) a montré [Kc 3s] et a gagné (40) avec Hauteur As
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [Qc 7s]
+
+
+
+Main PokerStars n°254327484089 : Tournoi #3845882054, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 12/01/2025 8:40:11 CET [12/01/2025 2:40:11 ET]
+Table '3845882054 1' 3-max Siège #2 est au bouton.
+Place 1: skalp78 (500 en jetons) 
+Place 2: Wolfleni (520 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 10
+skalp78 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 7s]
+Wolfleni : suit. 20
+psychoman59 : suit. 10
+skalp78 : parole 
+*** FLOP *** [5c 8s 5h]
+psychoman59 : parole 
+skalp78 : parole 
+Wolfleni : mise. 20
+psychoman59 : suit. 20
+skalp78 : passe. 
+*** TOURNANT *** [5c 8s 5h] [Ts]
+psychoman59 : parole 
+Wolfleni : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [5c 8s 5h Ts] [As]
+psychoman59 : parole 
+Wolfleni : parole 
+*** ABATTAGE ***
+psychoman59 : montre [6c 7s] (une paire de Cinq)
+Wolfleni : montre [9h 8h] (double paire, Huit et Cinq)
+Wolfleni a remporté 140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [5c 8s 5h Ts As]
+Siège 1 : skalp78 (grosse blind) s'est couché. sur le Flop
+Siège 2 : Wolfleni (bouton) a montré [9h 8h] et a gagné (140) avec double paire, Huit et Cinq
+Siège 3 : psychoman59 (petite blind) a montré [6c 7s] et a perdu avec une paire de Cinq
+
+
+
+Main PokerStars n°254327486448 : Tournoi #3845882054, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 12/01/2025 8:40:40 CET [12/01/2025 2:40:40 ET]
+Table '3845882054 1' 3-max Siège #3 est au bouton.
+Place 1: skalp78 (480 en jetons) 
+Place 2: Wolfleni (600 en jetons) 
+Place 3: psychoman59 (420 en jetons) 
+skalp78 : met la petite blind. 10
+Wolfleni : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 6s]
+psychoman59 : passe. 
+skalp78 : relance. 20 à 40
+Wolfleni : passe. 
+Personne n'a suivi. (20) sont retournés à skalp78.
+skalp78 a remporté 40  lors du pot .
+skalp78 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : skalp78 (petite blind) a remporté (40)
+Siège 2 : Wolfleni (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°254327487187 : Tournoi #3845882054, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 12/01/2025 8:40:49 CET [12/01/2025 2:40:49 ET]
+Table '3845882054 1' 3-max Siège #1 est au bouton.
+Place 1: skalp78 (500 en jetons) 
+Place 2: Wolfleni (580 en jetons) 
+Place 3: psychoman59 (420 en jetons) 
+Wolfleni : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Ah]
+skalp78 : passe. 
+Wolfleni : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : skalp78 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Wolfleni (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°254327487632 : Tournoi #3845882054, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 12/01/2025 8:40:54 CET [12/01/2025 2:40:54 ET]
+Table '3845882054 1' 3-max Siège #2 est au bouton.
+Place 1: skalp78 (500 en jetons) 
+Place 2: Wolfleni (570 en jetons) 
+Place 3: psychoman59 (430 en jetons) 
+psychoman59 : met la petite blind. 10
+skalp78 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 3h]
+Wolfleni : passe. 
+psychoman59 : relance. 410 à 430 et est all-in.
+skalp78 : passe. 
+Personne n'a suivi. (410) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : skalp78 (grosse blind) s'est couché. avant Flop
+Siège 2 : Wolfleni (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°254327488601 : Tournoi #3845882054, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 12/01/2025 8:41:06 CET [12/01/2025 2:41:06 ET]
+Table '3845882054 1' 3-max Siège #3 est au bouton.
+Place 1: skalp78 (480 en jetons) 
+Place 2: Wolfleni (570 en jetons) 
+Place 3: psychoman59 (450 en jetons) 
+skalp78 : met la petite blind. 10
+Wolfleni : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Qc]
+psychoman59 : relance. 20 à 40
+skalp78 : suit. 30
+Wolfleni : passe. 
+*** FLOP *** [4s Kc Th]
+skalp78 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [4s Kc Th] [4d]
+skalp78 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [4s Kc Th 4d] [6s]
+skalp78 : mise. 50
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à skalp78.
+skalp78 a remporté 100  lors du pot .
+skalp78 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [4s Kc Th 4d 6s]
+Siège 1 : skalp78 (petite blind) a remporté (100)
+Siège 2 : Wolfleni (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°254327490079 : Tournoi #3845882054, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 12/01/2025 8:41:25 CET [12/01/2025 2:41:25 ET]
+Table '3845882054 1' 3-max Siège #1 est au bouton.
+Place 1: skalp78 (540 en jetons) 
+Place 2: Wolfleni (550 en jetons) 
+Place 3: psychoman59 (410 en jetons) 
+Wolfleni : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Ac]
+skalp78 : suit. 20
+Wolfleni : passe. 
+psychoman59 : parole 
+*** FLOP *** [4s 9h Kh]
+psychoman59 : parole 
+skalp78 : mise. 25
+psychoman59 : passe. 
+Personne n'a suivi. (25) sont retournés à skalp78.
+skalp78 a remporté 50  lors du pot .
+skalp78 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [4s 9h Kh]
+Siège 1 : skalp78 (bouton) a remporté (50)
+Siège 2 : Wolfleni (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°254327491258 : Tournoi #3845882054, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 12/01/2025 8:41:39 CET [12/01/2025 2:41:39 ET]
+Table '3845882054 1' 3-max Siège #2 est au bouton.
+Place 1: skalp78 (570 en jetons) 
+Place 2: Wolfleni (540 en jetons) 
+Place 3: psychoman59 (390 en jetons) 
+psychoman59 : met la petite blind. 10
+skalp78 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 9c]
+Wolfleni : passe. 
+psychoman59 : relance. 370 à 390 et est all-in.
+skalp78 : passe. 
+Personne n'a suivi. (370) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : skalp78 (grosse blind) s'est couché. avant Flop
+Siège 2 : Wolfleni (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°254327491993 : Tournoi #3845882054, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 12/01/2025 8:41:47 CET [12/01/2025 2:41:47 ET]
+Table '3845882054 1' 3-max Siège #3 est au bouton.
+Place 1: skalp78 (550 en jetons) 
+Place 2: Wolfleni (540 en jetons) 
+Place 3: psychoman59 (410 en jetons) 
+skalp78 : met la petite blind. 10
+Wolfleni : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Kd]
+psychoman59 : suit. 20
+skalp78 : passe. 
+Wolfleni : parole 
+*** FLOP *** [3d 6h 5c]
+Wolfleni : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3d 6h 5c] [Qc]
+Wolfleni : parole 
+psychoman59 : mise. 50
+Wolfleni : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [3d 6h 5c Qc]
+Siège 1 : skalp78 (petite blind) s'est couché. avant Flop
+Siège 2 : Wolfleni (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) a remporté (50)
+
+
+
+Main PokerStars n°254327494152 : Tournoi #3845882054, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 12/01/2025 8:42:13 CET [12/01/2025 2:42:13 ET]
+Table '3845882054 1' 3-max Siège #1 est au bouton.
+Place 1: skalp78 (540 en jetons) 
+Place 2: Wolfleni (520 en jetons) 
+Place 3: psychoman59 (440 en jetons) 
+Wolfleni : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 4s]
+skalp78 : relance. 30 à 60
+Wolfleni : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à skalp78.
+skalp78 a remporté 75  lors du pot .
+skalp78 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : skalp78 (bouton) a remporté (75)
+Siège 2 : Wolfleni (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254327494772 : Tournoi #3845882054, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 12/01/2025 8:42:21 CET [12/01/2025 2:42:21 ET]
+Table '3845882054 1' 3-max Siège #2 est au bouton.
+Place 1: skalp78 (585 en jetons) 
+Place 2: Wolfleni (505 en jetons) 
+Place 3: psychoman59 (410 en jetons) 
+psychoman59 : met la petite blind. 15
+skalp78 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 7s]
+Wolfleni : suit. 30
+psychoman59 : passe. 
+skalp78 : relance. 555 à 585 et est all-in.
+Wolfleni : passe. 
+Personne n'a suivi. (555) sont retournés à skalp78.
+skalp78 a remporté 75  lors du pot .
+skalp78 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : skalp78 (grosse blind) a remporté (75)
+Siège 2 : Wolfleni (bouton) s'est couché. avant Flop
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254327495797 : Tournoi #3845882054, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 12/01/2025 8:42:33 CET [12/01/2025 2:42:33 ET]
+Table '3845882054 1' 3-max Siège #3 est au bouton.
+Place 1: skalp78 (630 en jetons) 
+Place 2: Wolfleni (475 en jetons) 
+Place 3: psychoman59 (395 en jetons) 
+skalp78 : met la petite blind. 15
+Wolfleni : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Qd]
+psychoman59 : passe. 
+skalp78 : suit. 15
+Wolfleni : parole 
+*** FLOP *** [7h 2d 2c]
+skalp78 : parole 
+Wolfleni : parole 
+*** TOURNANT *** [7h 2d 2c] [5s]
+skalp78 : parole 
+Wolfleni : parole 
+*** RIVIÈRE *** [7h 2d 2c 5s] [Kc]
+skalp78 : mise. 60
+Wolfleni : suit. 60
+*** ABATTAGE ***
+skalp78 : montre [Tc Kd] (double paire, Rois et Deux)
+Wolfleni : cache la main perdante. 
+skalp78 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [7h 2d 2c 5s Kc]
+Siège 1 : skalp78 (petite blind) a montré [Tc Kd] et a gagné (180) avec double paire, Rois et Deux
+Siège 2 : Wolfleni (grosse blind) a caché la main perdante. [Kh 6c]
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°254327497427 : Tournoi #3845882054, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 12/01/2025 8:42:52 CET [12/01/2025 2:42:52 ET]
+Table '3845882054 1' 3-max Siège #1 est au bouton.
+Place 1: skalp78 (720 en jetons) 
+Place 2: Wolfleni (385 en jetons) 
+Place 3: psychoman59 (395 en jetons) 
+Wolfleni : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 8c]
+skalp78 : relance. 30 à 60
+Wolfleni : suit. 45
+psychoman59 : relance. 335 à 395 et est all-in.
+skalp78 : suit. 335
+Wolfleni : passe. 
+*** FLOP *** [Ad Ts 5h]
+*** TOURNANT *** [Ad Ts 5h] [7s]
+*** RIVIÈRE *** [Ad Ts 5h 7s] [6c]
+*** ABATTAGE ***
+psychoman59 : montre [8h 8c] (une paire de Huit)
+skalp78 : montre [Qh Kh] (Hauteur As)
+psychoman59 a remporté 850  lors du pot .
+*** SYNTHÈSE ***
+Pot total 850 | Commission 0 
+Tableau [Ad Ts 5h 7s 6c]
+Siège 1 : skalp78 (bouton) a montré [Qh Kh] et a perdu avec Hauteur As
+Siège 2 : Wolfleni (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [8h 8c] et a gagné (850) avec une paire de Huit
+
+
+
+Main PokerStars n°254327499106 : Tournoi #3845882054, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 12/01/2025 8:43:13 CET [12/01/2025 2:43:13 ET]
+Table '3845882054 1' 3-max Siège #2 est au bouton.
+Place 1: skalp78 (325 en jetons) 
+Place 2: Wolfleni (325 en jetons) 
+Place 3: psychoman59 (850 en jetons) 
+psychoman59 : met la petite blind. 15
+skalp78 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 8s]
+Wolfleni : passe. 
+psychoman59 : suit. 15
+skalp78 : relance. 295 à 325 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (295) sont retournés à skalp78.
+skalp78 a remporté 60  lors du pot .
+skalp78 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : skalp78 (grosse blind) a remporté (60)
+Siège 2 : Wolfleni (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254327500189 : Tournoi #3845882054, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 12/01/2025 8:43:26 CET [12/01/2025 2:43:26 ET]
+Table '3845882054 1' 3-max Siège #3 est au bouton.
+Place 1: skalp78 (355 en jetons) 
+Place 2: Wolfleni (325 en jetons) 
+Place 3: psychoman59 (820 en jetons) 
+skalp78 : met la petite blind. 15
+Wolfleni : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Jh]
+psychoman59 : passe. 
+skalp78 : passe. 
+Personne n'a suivi. (15) sont retournés à Wolfleni.
+Wolfleni a remporté 30  lors du pot .
+Wolfleni : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : skalp78 (petite blind) s'est couché. avant Flop
+Siège 2 : Wolfleni (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°254327500619 : Tournoi #3845882054, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 12/01/2025 8:43:31 CET [12/01/2025 2:43:31 ET]
+Table '3845882054 1' 3-max Siège #1 est au bouton.
+Place 1: skalp78 (340 en jetons) 
+Place 2: Wolfleni (340 en jetons) 
+Place 3: psychoman59 (820 en jetons) 
+Wolfleni : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Qd]
+skalp78 : suit. 30
+Wolfleni : suit. 15
+psychoman59 : parole 
+*** FLOP *** [5d 2s 7h]
+Wolfleni : parole 
+psychoman59 : parole 
+skalp78 : mise. 90
+Wolfleni : suit. 90
+psychoman59 : passe. 
+*** TOURNANT *** [5d 2s 7h] [3d]
+Wolfleni : parole 
+skalp78 : mise. 220 et est all-in.
+Wolfleni : suit. 220 et est all-in.
+*** RIVIÈRE *** [5d 2s 7h 3d] [As]
+*** ABATTAGE ***
+Wolfleni : montre [7c Tc] (une paire de Sept)
+skalp78 : montre [Js 7s] (une paire de Sept - As+Valet kicker)
+skalp78 a remporté 710  lors du pot .
+Wolfleni a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 710 | Commission 0 
+Tableau [5d 2s 7h 3d As]
+Siège 1 : skalp78 (bouton) a montré [Js 7s] et a gagné (710) avec une paire de Sept
+Siège 2 : Wolfleni (petite blind) a montré [7c Tc] et a perdu avec une paire de Sept
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°254327503138 : Tournoi #3845882054, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 12/01/2025 8:44:02 CET [12/01/2025 2:44:02 ET]
+Table '3845882054 1' 3-max Siège #3 est au bouton.
+Place 1: skalp78 (710 en jetons) 
+Place 3: psychoman59 (790 en jetons) 
+psychoman59 : met la petite blind. 20
+skalp78 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 6h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à skalp78.
+skalp78 a remporté 40  lors du pot .
+skalp78 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : skalp78 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254327503558 : Tournoi #3845882054, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 12/01/2025 8:44:06 CET [12/01/2025 2:44:06 ET]
+Table '3845882054 1' 3-max Siège #1 est au bouton.
+Place 1: skalp78 (730 en jetons) 
+Place 3: psychoman59 (770 en jetons) 
+skalp78 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 7d]
+skalp78 : relance. 40 à 80
+psychoman59 : suit. 40
+*** FLOP *** [Jh Ks Qc]
+psychoman59 : parole 
+skalp78 : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à skalp78.
+skalp78 a remporté 160  lors du pot .
+skalp78 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Jh Ks Qc]
+Siège 1 : skalp78 (bouton) (petite blind) a remporté (160)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°254327504627 : Tournoi #3845882054, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 12/01/2025 8:44:19 CET [12/01/2025 2:44:19 ET]
+Table '3845882054 1' 3-max Siège #3 est au bouton.
+Place 1: skalp78 (810 en jetons) 
+Place 3: psychoman59 (690 en jetons) 
+psychoman59 : met la petite blind. 20
+skalp78 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Kd]
+psychoman59 : relance. 80 à 120
+skalp78 : suit. 80
+*** FLOP *** [Ah Qh 9c]
+skalp78 : parole 
+psychoman59 : mise. 240
+skalp78 : passe. 
+Personne n'a suivi. (240) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Ah Qh 9c]
+Siège 1 : skalp78 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (240)
+
+
+
+Main PokerStars n°254327505627 : Tournoi #3845882054, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 12/01/2025 8:44:31 CET [12/01/2025 2:44:31 ET]
+Table '3845882054 1' 3-max Siège #1 est au bouton.
+Place 1: skalp78 (690 en jetons) 
+Place 3: psychoman59 (810 en jetons) 
+skalp78 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Th]
+skalp78 : relance. 40 à 80
+psychoman59 : relance. 730 à 810 et est all-in.
+skalp78 : suit. 610 et est all-in.
+Personne n'a suivi. (120) sont retournés à psychoman59.
+*** FLOP *** [Jd 5s Ac]
+*** TOURNANT *** [Jd 5s Ac] [2d]
+*** RIVIÈRE *** [Jd 5s Ac 2d] [Kd]
+*** ABATTAGE ***
+psychoman59 : montre [Ad Th] (une paire de As)
+skalp78 : montre [4h 4c] (une paire de Quatre)
+psychoman59 a remporté 1380  lors du pot .
+skalp78 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 0.50 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 1380 | Commission 0 
+Tableau [Jd 5s Ac 2d Kd]
+Siège 1 : skalp78 (bouton) (petite blind) a montré [4h 4c] et a perdu avec une paire de Quatre
+Siège 3 : psychoman59 (grosse blind) a montré [Ad Th] et a gagné (1380) avec une paire de As
+
+
+

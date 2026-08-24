@@ -1,0 +1,573 @@
+﻿Main PokerStars n°260505978198 : Tournoi #3993185145, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/04/2026 11:27:31 CET [18/04/2026 5:27:31 ET]
+Table '3993185145 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: welvor (500 en jetons) 
+Place 3: iMafs (500 en jetons) 
+welvor : met la petite blind. 10
+iMafs : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 4c]
+psychoman59 : suit. 20
+welvor : suit. 10
+iMafs : parole 
+*** FLOP *** [9h 7c 5c]
+welvor : parole 
+iMafs : mise. 20
+psychoman59 : suit. 20
+welvor : passe. 
+*** TOURNANT *** [9h 7c 5c] [4h]
+iMafs : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [9h 7c 5c 4h] [8c]
+iMafs : parole 
+psychoman59 : mise. 70
+iMafs : passe. 
+Personne n'a suivi. (70) sont retournés à psychoman59.
+psychoman59 a remporté 140  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [9h 7c 5c 4h 8c]
+Siège 1 : psychoman59 (bouton) a remporté (140)
+Siège 2 : welvor (petite blind) s'est couché. sur le Flop
+Siège 3 : iMafs (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°260505980602 : Tournoi #3993185145, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/04/2026 11:28:00 CET [18/04/2026 5:28:00 ET]
+Table '3993185145 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (580 en jetons) 
+Place 2: welvor (480 en jetons) 
+Place 3: iMafs (440 en jetons) 
+iMafs : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 3h]
+welvor : suit. 20
+iMafs : suit. 10
+psychoman59 : parole 
+*** FLOP *** [8d 5c 7s]
+iMafs : parole 
+psychoman59 : parole 
+welvor : mise. 60
+iMafs : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à welvor.
+welvor a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [8d 5c 7s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : welvor (bouton) a remporté (60)
+Siège 3 : iMafs (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°260505981984 : Tournoi #3993185145, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/04/2026 11:28:17 CET [18/04/2026 5:28:17 ET]
+Table '3993185145 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (560 en jetons) 
+Place 2: welvor (520 en jetons) 
+Place 3: iMafs (420 en jetons) 
+psychoman59 : met la petite blind. 10
+welvor : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 7c]
+iMafs : relance. 40 à 60
+psychoman59 : passe. 
+welvor : suit. 40
+*** FLOP *** [2c 7s 6d]
+welvor : parole 
+iMafs : parole 
+*** TOURNANT *** [2c 7s 6d] [5s]
+welvor : parole 
+iMafs : mise. 43
+welvor : suit. 43
+*** RIVIÈRE *** [2c 7s 6d 5s] [5c]
+welvor : parole 
+iMafs : parole 
+*** ABATTAGE ***
+welvor : montre [Kd Th] (une paire de Cinq)
+iMafs : montre [Kh Jc] (une paire de Cinq - Roi+Valet kicker)
+iMafs a remporté 216  lors du pot .
+*** SYNTHÈSE ***
+Pot total 216 | Commission 0 
+Tableau [2c 7s 6d 5s 5c]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : welvor (grosse blind) a montré [Kd Th] et a perdu avec une paire de Cinq
+Siège 3 : iMafs (bouton) a montré [Kh Jc] et a gagné (216) avec une paire de Cinq
+
+
+
+Main PokerStars n°260505984382 : Tournoi #3993185145, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/04/2026 11:28:46 CET [18/04/2026 5:28:46 ET]
+Table '3993185145 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (550 en jetons) 
+Place 2: welvor (417 en jetons) 
+Place 3: iMafs (533 en jetons) 
+welvor : met la petite blind. 10
+iMafs : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Qc]
+psychoman59 : suit. 20
+welvor : suit. 10
+iMafs : parole 
+*** FLOP *** [8c 2s 7s]
+welvor : mise. 60
+iMafs : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à welvor.
+welvor a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [8c 2s 7s]
+Siège 1 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 2 : welvor (petite blind) a remporté (60)
+Siège 3 : iMafs (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°260505985739 : Tournoi #3993185145, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/04/2026 11:29:03 CET [18/04/2026 5:29:03 ET]
+Table '3993185145 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (530 en jetons) 
+Place 2: welvor (457 en jetons) 
+Place 3: iMafs (513 en jetons) 
+iMafs : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 5d]
+welvor : suit. 20
+iMafs : suit. 10
+psychoman59 : relance. 510 à 530 et est all-in.
+welvor : passe. 
+iMafs : passe. 
+Personne n'a suivi. (510) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 2 : welvor (bouton) s'est couché. avant Flop
+Siège 3 : iMafs (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260505987244 : Tournoi #3993185145, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/04/2026 11:29:21 CET [18/04/2026 5:29:21 ET]
+Table '3993185145 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (570 en jetons) 
+Place 2: welvor (437 en jetons) 
+Place 3: iMafs (493 en jetons) 
+psychoman59 : met la petite blind. 10
+welvor : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 5c]
+iMafs : suit. 20
+psychoman59 : suit. 10
+welvor : parole 
+*** FLOP *** [2c Jh 9h]
+psychoman59 : parole 
+welvor : mise. 60
+iMafs : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à welvor.
+welvor a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [2c Jh 9h]
+Siège 1 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 2 : welvor (grosse blind) a remporté (60)
+Siège 3 : iMafs (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°260505989639 : Tournoi #3993185145, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/04/2026 11:29:51 CET [18/04/2026 5:29:51 ET]
+Table '3993185145 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (550 en jetons) 
+Place 2: welvor (477 en jetons) 
+Place 3: iMafs (473 en jetons) 
+welvor : met la petite blind. 15
+iMafs : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 2d]
+psychoman59 : passe. 
+welvor : relance. 60 à 90
+iMafs : suit. 60
+*** FLOP *** [Qs Ah 4s]
+welvor : mise. 180
+iMafs : passe. 
+Personne n'a suivi. (180) sont retournés à welvor.
+welvor a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Qs Ah 4s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : welvor (petite blind) a remporté (180)
+Siège 3 : iMafs (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°260505991541 : Tournoi #3993185145, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/04/2026 11:30:15 CET [18/04/2026 5:30:15 ET]
+Table '3993185145 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (550 en jetons) 
+Place 2: welvor (567 en jetons) 
+Place 3: iMafs (383 en jetons) 
+iMafs : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 3h]
+welvor : passe. 
+iMafs : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (30)
+Siège 2 : welvor (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : iMafs (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260505992084 : Tournoi #3993185145, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/04/2026 11:30:22 CET [18/04/2026 5:30:22 ET]
+Table '3993185145 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (565 en jetons) 
+Place 2: welvor (567 en jetons) 
+Place 3: iMafs (368 en jetons) 
+psychoman59 : met la petite blind. 15
+welvor : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 4d]
+iMafs : relance. 338 à 368 et est all-in.
+psychoman59 : passe. 
+welvor : passe. 
+Personne n'a suivi. (338) sont retournés à iMafs.
+iMafs a remporté 75  lors du pot .
+iMafs : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : welvor (grosse blind) s'est couché. avant Flop
+Siège 3 : iMafs (bouton) a remporté (75)
+
+
+
+Main PokerStars n°260505992965 : Tournoi #3993185145, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/04/2026 11:30:32 CET [18/04/2026 5:30:32 ET]
+Table '3993185145 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (550 en jetons) 
+Place 2: welvor (537 en jetons) 
+Place 3: iMafs (413 en jetons) 
+welvor : met la petite blind. 15
+iMafs : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 5d]
+psychoman59 : passe. 
+welvor : suit. 15
+iMafs : parole 
+*** FLOP *** [2s Td 5c]
+welvor : mise. 60
+iMafs : passe. 
+Personne n'a suivi. (60) sont retournés à welvor.
+welvor a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [2s Td 5c]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : welvor (petite blind) a remporté (60)
+Siège 3 : iMafs (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°260505994823 : Tournoi #3993185145, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/04/2026 11:30:55 CET [18/04/2026 5:30:55 ET]
+Table '3993185145 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (550 en jetons) 
+Place 2: welvor (567 en jetons) 
+Place 3: iMafs (383 en jetons) 
+iMafs : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Jc]
+welvor : passe. 
+iMafs : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (30)
+Siège 2 : welvor (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : iMafs (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260505995923 : Tournoi #3993185145, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/04/2026 11:31:08 CET [18/04/2026 5:31:08 ET]
+Table '3993185145 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (565 en jetons) 
+Place 2: welvor (567 en jetons) 
+Place 3: iMafs (368 en jetons) 
+psychoman59 : met la petite blind. 15
+welvor : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Td]
+iMafs : suit. 30
+psychoman59 : passe. 
+welvor : parole 
+*** FLOP *** [2h Ks 3s]
+welvor : parole 
+iMafs : parole 
+*** TOURNANT *** [2h Ks 3s] [3d]
+welvor : parole 
+iMafs : mise. 30
+welvor : passe. 
+Personne n'a suivi. (30) sont retournés à iMafs.
+iMafs a remporté 75  lors du pot .
+iMafs : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Tableau [2h Ks 3s 3d]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : welvor (grosse blind) s'est couché. sur le Tournant
+Siège 3 : iMafs (bouton) a remporté (75)
+
+
+
+Main PokerStars n°260505998256 : Tournoi #3993185145, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 18/04/2026 11:31:36 CET [18/04/2026 5:31:36 ET]
+Table '3993185145 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (550 en jetons) 
+Place 2: welvor (537 en jetons) 
+Place 3: iMafs (413 en jetons) 
+welvor : met la petite blind. 20
+iMafs : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 6d]
+psychoman59 : passe. 
+welvor : suit. 20
+iMafs : relance. 40 à 80
+welvor : suit. 40
+*** FLOP *** [5d 3d 3s]
+welvor : mise. 160
+iMafs : passe. 
+Personne n'a suivi. (160) sont retournés à welvor.
+welvor a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [5d 3d 3s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : welvor (petite blind) a remporté (160)
+Siège 3 : iMafs (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°260506000415 : Tournoi #3993185145, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 18/04/2026 11:32:02 CET [18/04/2026 5:32:02 ET]
+Table '3993185145 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (550 en jetons) 
+Place 2: welvor (617 en jetons) 
+Place 3: iMafs (333 en jetons) 
+iMafs : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Td]
+welvor : passe. 
+iMafs : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Tc 8h Jc]
+iMafs : mise. 80
+psychoman59 : suit. 80
+*** TOURNANT *** [Tc 8h Jc] [Ac]
+iMafs : parole 
+psychoman59 : mise. 120
+iMafs : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Tc 8h Jc Ac]
+Siège 1 : psychoman59 (grosse blind) a remporté (240)
+Siège 2 : welvor (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : iMafs (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°260506004230 : Tournoi #3993185145, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 18/04/2026 11:32:46 CET [18/04/2026 5:32:46 ET]
+Table '3993185145 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (670 en jetons) 
+Place 2: welvor (617 en jetons) 
+Place 3: iMafs (213 en jetons) 
+psychoman59 : met la petite blind. 20
+welvor : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 8d]
+welvor est déconnecté 
+iMafs : relance. 173 à 213 et est all-in.
+welvor est déconnecté 
+psychoman59 : passe. 
+welvor est connecté 
+welvor : suit. 173
+*** FLOP *** [3s 9h 4h]
+*** TOURNANT *** [3s 9h 4h] [8c]
+*** RIVIÈRE *** [3s 9h 4h 8c] [5d]
+*** ABATTAGE ***
+welvor : montre [Ad Td] (Hauteur As)
+iMafs : montre [Jc 8s] (une paire de Huit)
+iMafs a remporté 446  lors du pot .
+*** SYNTHÈSE ***
+Pot total 446 | Commission 0 
+Tableau [3s 9h 4h 8c 5d]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : welvor (grosse blind) a montré [Ad Td] et a perdu avec Hauteur As
+Siège 3 : iMafs (bouton) a montré [Jc 8s] et a gagné (446) avec une paire de Huit
+
+
+
+Main PokerStars n°260506005712 : Tournoi #3993185145, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 18/04/2026 11:33:04 CET [18/04/2026 5:33:04 ET]
+Table '3993185145 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (650 en jetons) 
+Place 2: welvor (404 en jetons) 
+Place 3: iMafs (446 en jetons) 
+welvor : met la petite blind. 20
+iMafs : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Td]
+psychoman59 : passe. 
+welvor : suit. 20
+iMafs : parole 
+*** FLOP *** [8h Tc Qs]
+welvor : mise. 80
+iMafs : passe. 
+Personne n'a suivi. (80) sont retournés à welvor.
+welvor a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [8h Tc Qs]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : welvor (petite blind) a remporté (80)
+Siège 3 : iMafs (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°260506007669 : Tournoi #3993185145, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 18/04/2026 11:33:26 CET [18/04/2026 5:33:26 ET]
+Table '3993185145 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (650 en jetons) 
+Place 2: welvor (444 en jetons) 
+Place 3: iMafs (406 en jetons) 
+iMafs : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 2c]
+welvor : passe. 
+iMafs : relance. 366 à 406 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (366) sont retournés à iMafs.
+iMafs a remporté 80  lors du pot .
+iMafs : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : welvor (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : iMafs (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°260506008824 : Tournoi #3993185145, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 18/04/2026 11:33:40 CET [18/04/2026 5:33:40 ET]
+Table '3993185145 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (610 en jetons) 
+Place 2: welvor (444 en jetons) 
+Place 3: iMafs (446 en jetons) 
+psychoman59 : met la petite blind. 30
+welvor : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Qs]
+iMafs : relance. 386 à 446 et est all-in.
+psychoman59 : passe. 
+welvor : passe. 
+Personne n'a suivi. (386) sont retournés à iMafs.
+iMafs a remporté 150  lors du pot .
+iMafs : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : welvor (grosse blind) s'est couché. avant Flop
+Siège 3 : iMafs (bouton) a remporté (150)
+
+
+
+Main PokerStars n°260506009834 : Tournoi #3993185145, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 18/04/2026 11:33:51 CET [18/04/2026 5:33:51 ET]
+Table '3993185145 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (580 en jetons) 
+Place 2: welvor (384 en jetons) 
+Place 3: iMafs (536 en jetons) 
+welvor : met la petite blind. 30
+iMafs : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Ts]
+psychoman59 : suit. 60
+welvor : suit. 30
+iMafs : relance. 476 à 536 et est all-in.
+psychoman59 : passe. 
+welvor : suit. 324 et est all-in.
+Personne n'a suivi. (152) sont retournés à iMafs.
+*** FLOP *** [6s Kh 4d]
+*** TOURNANT *** [6s Kh 4d] [4h]
+*** RIVIÈRE *** [6s Kh 4d 4h] [5h]
+*** ABATTAGE ***
+welvor : montre [Jh Td] (une paire de Quatre)
+iMafs : montre [7d Kd] (double paire, Rois et Quatre)
+iMafs a remporté 828  lors du pot .
+welvor a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 828 | Commission 0 
+Tableau [6s Kh 4d 4h 5h]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 2 : welvor (petite blind) a montré [Jh Td] et a perdu avec une paire de Quatre
+Siège 3 : iMafs (grosse blind) a montré [7d Kd] et a gagné (828) avec double paire, Rois et Quatre
+
+
+
+Main PokerStars n°260506011998 : Tournoi #3993185145, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 18/04/2026 11:34:17 CET [18/04/2026 5:34:17 ET]
+Table '3993185145 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (520 en jetons) 
+Place 3: iMafs (980 en jetons) 
+iMafs : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 2c]
+iMafs : suit. 30
+psychoman59 : relance. 460 à 520 et est all-in.
+iMafs : passe. 
+Personne n'a suivi. (460) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (120)
+Siège 3 : iMafs (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260506012697 : Tournoi #3993185145, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 18/04/2026 11:34:25 CET [18/04/2026 5:34:25 ET]
+Table '3993185145 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (580 en jetons) 
+Place 3: iMafs (920 en jetons) 
+psychoman59 : met la petite blind. 30
+iMafs : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 4h]
+psychoman59 : suit. 30
+iMafs : relance. 860 à 920 et est all-in.
+psychoman59 : suit. 520 et est all-in.
+Personne n'a suivi. (340) sont retournés à iMafs.
+*** FLOP *** [Ks 2d Jh]
+*** TOURNANT *** [Ks 2d Jh] [Jd]
+*** RIVIÈRE *** [Ks 2d Jh Jd] [Ad]
+*** ABATTAGE ***
+iMafs : montre [As 3h] (double paire, As et Valets)
+psychoman59 : montre [Kc 4h] (double paire, Rois et Valets)
+iMafs a remporté 1160  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+iMafs remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 1160 | Commission 0 
+Tableau [Ks 2d Jh Jd Ad]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Kc 4h] et a perdu avec double paire, Rois et Valets
+Siège 3 : iMafs (grosse blind) a montré [As 3h] et a gagné (1160) avec double paire, As et Valets
+
+
+

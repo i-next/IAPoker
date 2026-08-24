@@ -1,0 +1,63 @@
+﻿Main PokerStars n°261187521994 : Tournoi #4009787829, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/06/2026 16:25:18 CET [19/06/2026 10:25:18 ET]
+Table '4009787829 1' 3-max Siège #1 est au bouton.
+Place 1: jlopezftp (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: fredchez (500 en jetons) 
+psychoman59 : met la petite blind. 10
+fredchez : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 3s]
+jlopezftp : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à fredchez.
+fredchez a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : jlopezftp (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : fredchez (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°261187522590 : Tournoi #4009787829, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/06/2026 16:25:23 CET [19/06/2026 10:25:23 ET]
+Table '4009787829 1' 3-max Siège #2 est au bouton.
+Place 1: jlopezftp (500 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: fredchez (510 en jetons) 
+fredchez : met la petite blind. 10
+jlopezftp : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Ac]
+psychoman59 : relance. 20 à 40
+fredchez : suit. 30
+jlopezftp : suit. 20
+*** FLOP *** [As 5h 6h]
+fredchez : parole 
+jlopezftp : parole 
+psychoman59 : mise. 60
+fredchez : suit. 60
+jlopezftp : suit. 60
+*** TOURNANT *** [As 5h 6h] [Qc]
+fredchez : mise. 20
+jlopezftp : suit. 20
+psychoman59 : relance. 180 à 200
+fredchez : suit. 180
+jlopezftp : passe. 
+*** RIVIÈRE *** [As 5h 6h Qc] [3h]
+fredchez : mise. 210 et est all-in.
+psychoman59 : suit. 190 et est all-in.
+Personne n'a suivi. (20) sont retournés à fredchez.
+*** ABATTAGE ***
+fredchez : montre [Kh Qh] (une couleur, hauteur Roi)
+psychoman59 : montre [7c Ac] (une paire de As)
+fredchez a remporté 1100  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 1100 | Commission 0 
+Tableau [As 5h 6h Qc 3h]
+Siège 1 : jlopezftp (grosse blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (bouton) a montré [7c Ac] et a perdu avec une paire de As
+Siège 3 : fredchez (petite blind) a montré [Kh Qh] et a gagné (1100) avec une couleur, hauteur Roi
+
+
+

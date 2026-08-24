@@ -1,0 +1,311 @@
+﻿Main PokerStars n°244943972771 : Tournoi #3620121524, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 21/07/2023 22:57:08 CET [21/07/2023 16:57:08 ET]
+Table '3620121524 1' 3-max Siège #1 est au bouton.
+Place 1: Tomodrogas (300 en jetons) 
+Place 2: saulcanana (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+saulcanana : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 3c]
+Tomodrogas : passe. 
+saulcanana : relance. 280 à 300 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (280) sont retournés à saulcanana.
+saulcanana a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Tomodrogas (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : saulcanana (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244943977288 : Tournoi #3620121524, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 21/07/2023 22:57:26 CET [21/07/2023 16:57:26 ET]
+Table '3620121524 1' 3-max Siège #2 est au bouton.
+Place 1: Tomodrogas (300 en jetons) 
+Place 2: saulcanana (320 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+Tomodrogas : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 8s]
+saulcanana : suit. 20
+psychoman59 : suit. 10
+Tomodrogas : parole 
+*** FLOP *** [9h As Jh]
+psychoman59 : parole 
+Tomodrogas : parole 
+saulcanana : parole 
+*** TOURNANT *** [9h As Jh] [Qh]
+psychoman59 : parole 
+Tomodrogas : parole 
+saulcanana : parole 
+*** RIVIÈRE *** [9h As Jh Qh] [Th]
+psychoman59 : parole 
+Tomodrogas : mise. 30
+saulcanana : suit. 30
+psychoman59 : passe. 
+*** ABATTAGE ***
+Tomodrogas : montre [5s Kd] (une suite, Dix à As)
+saulcanana : cache la main perdante. 
+Tomodrogas a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [9h As Jh Qh Th]
+Siège 1 : Tomodrogas (grosse blind) a montré [5s Kd] et a gagné (120) avec une suite, Dix à As
+Siège 2 : saulcanana (bouton) a caché la main perdante. [3c 4c]
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°244943991870 : Tournoi #3620121524, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 21/07/2023 22:58:23 CET [21/07/2023 16:58:23 ET]
+Table '3620121524 1' 3-max Siège #3 est au bouton.
+Place 1: Tomodrogas (370 en jetons) 
+Place 2: saulcanana (270 en jetons) 
+Place 3: psychoman59 (260 en jetons) 
+Tomodrogas : met la petite blind. 15
+saulcanana : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Tc]
+psychoman59 : passe. 
+Tomodrogas : suit. 15
+saulcanana : relance. 240 à 270 et est all-in.
+Tomodrogas : passe. 
+Personne n'a suivi. (240) sont retournés à saulcanana.
+saulcanana a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Tomodrogas (petite blind) s'est couché. avant Flop
+Siège 2 : saulcanana (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°244943994836 : Tournoi #3620121524, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 21/07/2023 22:58:35 CET [21/07/2023 16:58:35 ET]
+Table '3620121524 1' 3-max Siège #1 est au bouton.
+Place 1: Tomodrogas (340 en jetons) 
+Place 2: saulcanana (300 en jetons) 
+Place 3: psychoman59 (260 en jetons) 
+saulcanana : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 3d]
+Tomodrogas : suit. 30
+saulcanana : passe. 
+psychoman59 : parole 
+*** FLOP *** [3s Qd Qh]
+psychoman59 : parole 
+Tomodrogas : parole 
+*** TOURNANT *** [3s Qd Qh] [7d]
+psychoman59 : parole 
+Tomodrogas : parole 
+*** RIVIÈRE *** [3s Qd Qh 7d] [Ad]
+psychoman59 : parole 
+Tomodrogas : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Kc 3d] (double paire, Dames et Trois)
+Tomodrogas : cache la main perdante. 
+psychoman59 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Tableau [3s Qd Qh 7d Ad]
+Siège 1 : Tomodrogas (bouton) a caché la main perdante. [8s 5h]
+Siège 2 : saulcanana (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [Kc 3d] et a gagné (75) avec double paire, Dames et Trois
+
+
+
+Main PokerStars n°244944000234 : Tournoi #3620121524, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 21/07/2023 22:58:56 CET [21/07/2023 16:58:56 ET]
+Table '3620121524 1' 3-max Siège #2 est au bouton.
+Place 1: Tomodrogas (310 en jetons) 
+Place 2: saulcanana (285 en jetons) 
+Place 3: psychoman59 (305 en jetons) 
+psychoman59 : met la petite blind. 15
+Tomodrogas : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Th]
+saulcanana : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à Tomodrogas.
+Tomodrogas a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : Tomodrogas (grosse blind) a remporté (30)
+Siège 2 : saulcanana (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244944001666 : Tournoi #3620121524, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 21/07/2023 22:59:02 CET [21/07/2023 16:59:02 ET]
+Table '3620121524 1' 3-max Siège #3 est au bouton.
+Place 1: Tomodrogas (325 en jetons) 
+Place 2: saulcanana (285 en jetons) 
+Place 3: psychoman59 (290 en jetons) 
+Tomodrogas : met la petite blind. 15
+saulcanana : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 7d]
+psychoman59 : passe. 
+Tomodrogas : relance. 30 à 60
+saulcanana : passe. 
+Personne n'a suivi. (30) sont retournés à Tomodrogas.
+Tomodrogas a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Tomodrogas (petite blind) a remporté (60)
+Siège 2 : saulcanana (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°244944003360 : Tournoi #3620121524, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 21/07/2023 22:59:08 CET [21/07/2023 16:59:08 ET]
+Table '3620121524 1' 3-max Siège #1 est au bouton.
+Place 1: Tomodrogas (355 en jetons) 
+Place 2: saulcanana (255 en jetons) 
+Place 3: psychoman59 (290 en jetons) 
+saulcanana : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 3h]
+Tomodrogas : passe. 
+saulcanana : suit. 15
+psychoman59 : parole 
+*** FLOP *** [6h Ac 5d]
+saulcanana : mise. 30
+psychoman59 : suit. 30
+*** TOURNANT *** [6h Ac 5d] [9s]
+saulcanana : parole 
+psychoman59 : mise. 60
+saulcanana : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [6h Ac 5d 9s]
+Siège 1 : Tomodrogas (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : saulcanana (petite blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°244944016195 : Tournoi #3620121524, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 21/07/2023 22:59:59 CET [21/07/2023 16:59:59 ET]
+Table '3620121524 1' 3-max Siège #2 est au bouton.
+Place 1: Tomodrogas (355 en jetons) 
+Place 2: saulcanana (195 en jetons) 
+Place 3: psychoman59 (350 en jetons) 
+psychoman59 : met la petite blind. 20
+Tomodrogas : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Kd]
+saulcanana : relance. 155 à 195 et est all-in.
+psychoman59 : passe. 
+Tomodrogas : suit. 155
+*** FLOP *** [Qd Ah 9s]
+*** TOURNANT *** [Qd Ah 9s] [Jd]
+*** RIVIÈRE *** [Qd Ah 9s Jd] [Jh]
+*** ABATTAGE ***
+Tomodrogas : montre [Qh Qs] (un full, full aux Dames par les Valets)
+saulcanana : montre [Kh Jc] (un brelan de Valets)
+Tomodrogas a remporté 410  lors du pot .
+saulcanana a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 410 | Commission 0 
+Tableau [Qd Ah 9s Jd Jh]
+Siège 1 : Tomodrogas (grosse blind) a montré [Qh Qs] et a gagné (410) avec un full, full aux Dames par les Valets
+Siège 2 : saulcanana (bouton) a montré [Kh Jc] et a perdu avec un brelan de Valets
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244944021547 : Tournoi #3620121524, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 21/07/2023 23:00:19 CET [21/07/2023 17:00:19 ET]
+Table '3620121524 1' 3-max Siège #1 est au bouton.
+Place 1: Tomodrogas (570 en jetons) 
+Place 3: psychoman59 (330 en jetons) 
+Tomodrogas : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Ah]
+Tomodrogas : relance. 510 à 570 et est all-in.
+psychoman59 : suit. 270 et est all-in.
+Personne n'a suivi. (240) sont retournés à Tomodrogas.
+*** FLOP *** [9h 3c Ad]
+*** TOURNANT *** [9h 3c Ad] [Td]
+*** RIVIÈRE *** [9h 3c Ad Td] [Ts]
+*** ABATTAGE ***
+psychoman59 : montre [4d Ah] (double paire, As et Dix)
+Tomodrogas : montre [7c As] (double paire, As et Dix)
+psychoman59 a remporté 330  lors du pot .
+Tomodrogas a remporté 330  lors du pot .
+*** SYNTHÈSE ***
+Pot total 660 | Commission 0 
+Tableau [9h 3c Ad Td Ts]
+Siège 1 : Tomodrogas (bouton) (petite blind) a montré [7c As] et a gagné (330) avec double paire, As et Dix
+Siège 3 : psychoman59 (grosse blind) a montré [4d Ah] et a gagné (330) avec double paire, As et Dix
+
+
+
+Main PokerStars n°244944026637 : Tournoi #3620121524, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 21/07/2023 23:00:38 CET [21/07/2023 17:00:38 ET]
+Table '3620121524 1' 3-max Siège #3 est au bouton.
+Place 1: Tomodrogas (570 en jetons) 
+Place 3: psychoman59 (330 en jetons) 
+psychoman59 : met la petite blind. 30
+Tomodrogas : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 7c]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Tomodrogas.
+Tomodrogas a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Tomodrogas (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244944028335 : Tournoi #3620121524, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 21/07/2023 23:00:44 CET [21/07/2023 17:00:44 ET]
+Table '3620121524 1' 3-max Siège #1 est au bouton.
+Place 1: Tomodrogas (600 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+Tomodrogas : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Jc]
+Tomodrogas : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Tomodrogas (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°244944029646 : Tournoi #3620121524, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 21/07/2023 23:00:48 CET [21/07/2023 17:00:48 ET]
+Table '3620121524 1' 3-max Siège #3 est au bouton.
+Place 1: Tomodrogas (570 en jetons) 
+Place 3: psychoman59 (330 en jetons) 
+psychoman59 : met la petite blind. 30
+Tomodrogas : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Ad]
+psychoman59 : relance. 270 à 330 et est all-in.
+Tomodrogas : suit. 270
+*** FLOP *** [6d Th 4c]
+*** TOURNANT *** [6d Th 4c] [Jd]
+*** RIVIÈRE *** [6d Th 4c Jd] [6s]
+*** ABATTAGE ***
+Tomodrogas : montre [Ah Qd] (une paire de Six)
+psychoman59 : montre [9h Ad] (une paire de Six - plus basse kicker)
+Tomodrogas a remporté 660  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+Tomodrogas remporte le tournoi et reçoit 8.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 660 | Commission 0 
+Tableau [6d Th 4c Jd 6s]
+Siège 1 : Tomodrogas (grosse blind) a montré [Ah Qd] et a gagné (660) avec une paire de Six
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [9h Ad] et a perdu avec une paire de Six
+
+
+

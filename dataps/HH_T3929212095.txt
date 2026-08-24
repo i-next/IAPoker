@@ -1,0 +1,99 @@
+﻿Main PokerStars n°257790128581 : Tournoi #3929212095, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 18/09/2025 13:29:18 CET [18/09/2025 7:29:18 ET]
+Table '3929212095 1' 3-max Siège #1 est au bouton.
+Place 1: ferreira24 (500 en jetons) 
+Place 2: fxll (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+fxll : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 6d]
+ferreira24 : relance. 20 à 40
+fxll : suit. 30
+psychoman59 : suit. 20
+*** FLOP *** [7s Kh Qd]
+fxll : parole 
+psychoman59 : parole 
+ferreira24 : mise. 40
+fxll : suit. 40
+psychoman59 : passe. 
+*** TOURNANT *** [7s Kh Qd] [Th]
+fxll : parole 
+ferreira24 : parole 
+*** RIVIÈRE *** [7s Kh Qd Th] [5s]
+fxll : mise. 100
+ferreira24 : passe. 
+Personne n'a suivi. (100) sont retournés à fxll.
+fxll a remporté 200  lors du pot .
+fxll : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [7s Kh Qd Th 5s]
+Siège 1 : ferreira24 (bouton) s'est couché. sur le Rivière
+Siège 2 : fxll (petite blind) a remporté (200)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°257790131423 : Tournoi #3929212095, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 18/09/2025 13:29:44 CET [18/09/2025 7:29:44 ET]
+Table '3929212095 1' 3-max Siège #2 est au bouton.
+Place 1: ferreira24 (420 en jetons) 
+Place 2: fxll (620 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+psychoman59 : met la petite blind. 10
+ferreira24 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Ad]
+fxll : suit. 20
+psychoman59 : relance. 440 à 460 et est all-in.
+ferreira24 : suit. 400 et est all-in.
+fxll : suit. 440
+*** FLOP *** [2d 9d 2h]
+*** TOURNANT *** [2d 9d 2h] [8h]
+*** RIVIÈRE *** [2d 9d 2h 8h] [6s]
+*** ABATTAGE ***
+psychoman59 : montre [Td Ad] (une paire de Deux)
+fxll : montre [7d Ac] (une paire de Deux - plus basse kicker)
+psychoman59 a remporté 80  parallèle lors du pot .
+ferreira24 : montre [Qh Qc] (double paire, Dames et Deux)
+ferreira24 a remporté 1260  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 1340 Principal pot 1260. Parallèle pot 80. | Commission 0 
+Tableau [2d 9d 2h 8h 6s]
+Siège 1 : ferreira24 (grosse blind) a montré [Qh Qc] et a gagné (1260) avec double paire, Dames et Deux
+Siège 2 : fxll (bouton) a montré [7d Ac] et a perdu avec une paire de Deux
+Siège 3 : psychoman59 (petite blind) a montré [Td Ad] et a gagné (80) avec une paire de Deux
+
+
+
+Main PokerStars n°257790133156 : Tournoi #3929212095, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 18/09/2025 13:30:01 CET [18/09/2025 7:30:01 ET]
+Table '3929212095 1' 3-max Siège #3 est au bouton.
+Place 1: ferreira24 (1260 en jetons) 
+Place 2: fxll (160 en jetons) 
+Place 3: psychoman59 (80 en jetons) 
+ferreira24 : met la petite blind. 10
+fxll : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Ad]
+psychoman59 : relance. 60 à 80 et est all-in.
+ferreira24 : suit. 70
+fxll : suit. 60
+*** FLOP *** [9h Td 6c]
+ferreira24 : mise. 240
+fxll : passe. 
+Personne n'a suivi. (240) sont retournés à ferreira24.
+*** TOURNANT *** [9h Td 6c] [4h]
+*** RIVIÈRE *** [9h Td 6c 4h] [8d]
+*** ABATTAGE ***
+ferreira24 : montre [4c 4d] (un brelan de Quatre)
+psychoman59 : montre [3c Ad] (Hauteur As)
+ferreira24 a remporté 240  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [9h Td 6c 4h 8d]
+Siège 1 : ferreira24 (petite blind) a montré [4c 4d] et a gagné (240) avec un brelan de Quatre
+Siège 2 : fxll (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) a montré [3c Ad] et a perdu avec Hauteur As
+
+
+

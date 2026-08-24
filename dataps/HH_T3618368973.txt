@@ -1,0 +1,125 @@
+﻿Main PokerStars n°244872800053 : Tournoi #3618368973, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 17/07/2023 22:46:37 CET [17/07/2023 16:46:37 ET]
+Table '3618368973 1' 3-max Siège #1 est au bouton.
+Place 1: Alpaps369 (300 en jetons) 
+Place 2: nunoadriano31 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+nunoadriano31 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 3h]
+Alpaps369 : passe. 
+nunoadriano31 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [2d Kh 7c]
+nunoadriano31 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à nunoadriano31.
+nunoadriano31 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [2d Kh 7c]
+Siège 1 : Alpaps369 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : nunoadriano31 (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°244872808612 : Tournoi #3618368973, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 17/07/2023 22:47:00 CET [17/07/2023 16:47:00 ET]
+Table '3618368973 1' 3-max Siège #2 est au bouton.
+Place 1: Alpaps369 (300 en jetons) 
+Place 2: nunoadriano31 (320 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+Alpaps369 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 4s]
+nunoadriano31 : suit. 20
+psychoman59 : passe. 
+Alpaps369 : relance. 40 à 60
+nunoadriano31 : suit. 40
+*** FLOP *** [9s 4d Ts]
+Alpaps369 : parole 
+nunoadriano31 : parole 
+*** TOURNANT *** [9s 4d Ts] [2c]
+Alpaps369 : parole 
+nunoadriano31 : parole 
+*** RIVIÈRE *** [9s 4d Ts 2c] [Td]
+Alpaps369 : parole 
+nunoadriano31 : parole 
+*** ABATTAGE ***
+Alpaps369 : montre [Ah 7h] (une paire de Dix)
+nunoadriano31 : cache la main perdante. 
+Alpaps369 a remporté 130  lors du pot .
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Tableau [9s 4d Ts 2c Td]
+Siège 1 : Alpaps369 (grosse blind) a montré [Ah 7h] et a gagné (130) avec une paire de Dix
+Siège 2 : nunoadriano31 (bouton) a caché la main perdante. [Qs 8c]
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244872820288 : Tournoi #3618368973, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 17/07/2023 22:47:32 CET [17/07/2023 16:47:32 ET]
+Table '3618368973 1' 3-max Siège #3 est au bouton.
+Place 1: Alpaps369 (370 en jetons) 
+Place 2: nunoadriano31 (260 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+Alpaps369 : met la petite blind. 10
+nunoadriano31 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 6c]
+psychoman59 : relance. 250 à 270 et est all-in.
+Alpaps369 : relance. 100 à 370 et est all-in.
+nunoadriano31 : passe. 
+Personne n'a suivi. (100) sont retournés à Alpaps369.
+*** FLOP *** [2s 4d Qh]
+*** TOURNANT *** [2s 4d Qh] [Jh]
+*** RIVIÈRE *** [2s 4d Qh Jh] [Ah]
+*** ABATTAGE ***
+Alpaps369 : montre [6s 6h] (une paire de Six)
+psychoman59 : montre [6d 6c] (une paire de Six)
+Alpaps369 a remporté 280  lors du pot .
+psychoman59 a remporté 280  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [2s 4d Qh Jh Ah]
+Siège 1 : Alpaps369 (petite blind) a montré [6s 6h] et a gagné (280) avec une paire de Six
+Siège 2 : nunoadriano31 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a montré [6d 6c] et a gagné (280) avec une paire de Six
+
+
+
+Main PokerStars n°244872827609 : Tournoi #3618368973, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 17/07/2023 22:47:51 CET [17/07/2023 16:47:51 ET]
+Table '3618368973 1' 3-max Siège #1 est au bouton.
+Place 1: Alpaps369 (380 en jetons) 
+Place 2: nunoadriano31 (240 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+nunoadriano31 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Ah]
+Alpaps369 : relance. 350 à 380 et est all-in.
+nunoadriano31 : suit. 225 et est all-in.
+psychoman59 : suit. 250 et est all-in.
+Personne n'a suivi. (100) sont retournés à Alpaps369.
+*** FLOP *** [Qc Kc 6s]
+*** TOURNANT *** [Qc Kc 6s] [9c]
+*** RIVIÈRE *** [Qc Kc 6s 9c] [6c]
+*** ABATTAGE ***
+psychoman59 : montre [Qs Ah] (double paire, Dames et Six)
+Alpaps369 : montre [As Kh] (double paire, Rois et Six)
+Alpaps369 a remporté 80  parallèle lors du pot .
+nunoadriano31 : montre [Ks 2s] (double paire, Rois et Six - plus basse kicker)
+Alpaps369 a remporté 720  principal lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+nunoadriano31 a fini le tournoi en 3e position.
+Alpaps369 remporte le tournoi et reçoit 4.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 800 Principal pot 720. Parallèle pot 80. | Commission 0 
+Tableau [Qc Kc 6s 9c 6c]
+Siège 1 : Alpaps369 (bouton) a montré [As Kh] et a gagné (800) avec double paire, Rois et Six
+Siège 2 : nunoadriano31 (petite blind) a montré [Ks 2s] et a perdu avec double paire, Rois et Six
+Siège 3 : psychoman59 (grosse blind) a montré [Qs Ah] et a perdu avec double paire, Dames et Six
+
+
+

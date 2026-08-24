@@ -1,0 +1,530 @@
+﻿Main PokerStars n°261589665227 : Tournoi #4019890692, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 30/07/2026 11:36:32 CET [30/07/2026 5:36:32 ET]
+Table '4019890692 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: gorenower (500 en jetons) 
+Place 3: bufalo7777 (500 en jetons) 
+gorenower : met la petite blind. 10
+bufalo7777 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 5d]
+psychoman59 : passe. 
+gorenower : suit. 10
+bufalo7777 : parole 
+*** FLOP *** [6c 3h 3s]
+gorenower : parole 
+bufalo7777 : parole 
+*** TOURNANT *** [6c 3h 3s] [Qs]
+gorenower : parole 
+bufalo7777 : parole 
+*** RIVIÈRE *** [6c 3h 3s Qs] [9s]
+gorenower : parole 
+bufalo7777 : parole 
+*** ABATTAGE ***
+gorenower : montre [5h As] (une paire de Trois)
+bufalo7777 : cache la main perdante. 
+gorenower a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [6c 3h 3s Qs 9s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : gorenower (petite blind) a montré [5h As] et a gagné (40) avec une paire de Trois
+Siège 3 : bufalo7777 (grosse blind) a caché la main perdante. [8h 2s]
+
+
+
+Main PokerStars n°261589666838 : Tournoi #4019890692, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 30/07/2026 11:36:54 CET [30/07/2026 5:36:54 ET]
+Table '4019890692 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: gorenower (520 en jetons) 
+Place 3: bufalo7777 (480 en jetons) 
+bufalo7777 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 6c]
+gorenower : suit. 20
+bufalo7777 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [6s 7s 9h]
+bufalo7777 : mise. 20
+psychoman59 : passe. 
+gorenower : suit. 20
+*** TOURNANT *** [6s 7s 9h] [5s]
+bufalo7777 : mise. 20
+gorenower : suit. 20
+*** RIVIÈRE *** [6s 7s 9h 5s] [2s]
+bufalo7777 : mise. 20
+gorenower : passe. 
+Personne n'a suivi. (20) sont retournés à bufalo7777.
+bufalo7777 a remporté 140  lors du pot .
+bufalo7777 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [6s 7s 9h 5s 2s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : gorenower (bouton) s'est couché. sur le Rivière
+Siège 3 : bufalo7777 (petite blind) a remporté (140)
+
+
+
+Main PokerStars n°261589668598 : Tournoi #4019890692, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 30/07/2026 11:37:17 CET [30/07/2026 5:37:17 ET]
+Table '4019890692 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (480 en jetons) 
+Place 2: gorenower (460 en jetons) 
+Place 3: bufalo7777 (560 en jetons) 
+psychoman59 : met la petite blind. 10
+gorenower : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 5d]
+bufalo7777 : suit. 20
+psychoman59 : passe. 
+gorenower : parole 
+*** FLOP *** [Ah As Qc]
+gorenower : parole 
+bufalo7777 : parole 
+*** TOURNANT *** [Ah As Qc] [4d]
+gorenower : parole 
+bufalo7777 : mise. 20
+gorenower : passe. 
+Personne n'a suivi. (20) sont retournés à bufalo7777.
+bufalo7777 a remporté 50  lors du pot .
+bufalo7777 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [Ah As Qc 4d]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : gorenower (grosse blind) s'est couché. sur le Tournant
+Siège 3 : bufalo7777 (bouton) a remporté (50)
+
+
+
+Main PokerStars n°261589669965 : Tournoi #4019890692, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 30/07/2026 11:37:35 CET [30/07/2026 5:37:35 ET]
+Table '4019890692 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (470 en jetons) 
+Place 2: gorenower (440 en jetons) 
+Place 3: bufalo7777 (590 en jetons) 
+gorenower : met la petite blind. 10
+bufalo7777 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 6d]
+psychoman59 : passe. 
+gorenower : suit. 10
+bufalo7777 : parole 
+*** FLOP *** [5s Ts 8h]
+gorenower : parole 
+bufalo7777 : parole 
+*** TOURNANT *** [5s Ts 8h] [3s]
+gorenower : parole 
+bufalo7777 : parole 
+*** RIVIÈRE *** [5s Ts 8h 3s] [8s]
+gorenower : parole 
+bufalo7777 : parole 
+*** ABATTAGE ***
+gorenower : montre [2s Ac] (une couleur, hauteur Dix)
+bufalo7777 : cache la main perdante. 
+gorenower a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [5s Ts 8h 3s 8s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : gorenower (petite blind) a montré [2s Ac] et a gagné (40) avec une couleur, hauteur Dix
+Siège 3 : bufalo7777 (grosse blind) a caché la main perdante. [4d 3h]
+
+
+
+Main PokerStars n°261589671404 : Tournoi #4019890692, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 30/07/2026 11:37:55 CET [30/07/2026 5:37:55 ET]
+Table '4019890692 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (470 en jetons) 
+Place 2: gorenower (460 en jetons) 
+Place 3: bufalo7777 (570 en jetons) 
+bufalo7777 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Ad]
+gorenower : suit. 20
+bufalo7777 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [5d 2s 6c]
+bufalo7777 : parole 
+psychoman59 : parole 
+gorenower : mise. 40
+bufalo7777 : suit. 40
+psychoman59 : passe. 
+*** TOURNANT *** [5d 2s 6c] [Kd]
+bufalo7777 : parole 
+gorenower : parole 
+*** RIVIÈRE *** [5d 2s 6c Kd] [Ac]
+bufalo7777 : mise. 20
+gorenower : suit. 20
+*** ABATTAGE ***
+bufalo7777 : montre [6s Qs] (une paire de Six)
+gorenower : montre [8s 8h] (une paire de Huit)
+gorenower a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [5d 2s 6c Kd Ac]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : gorenower (bouton) a montré [8s 8h] et a gagné (180) avec une paire de Huit
+Siège 3 : bufalo7777 (petite blind) a montré [6s Qs] et a perdu avec une paire de Six
+
+
+
+Main PokerStars n°261589673662 : Tournoi #4019890692, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 30/07/2026 11:38:25 CET [30/07/2026 5:38:25 ET]
+Table '4019890692 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (450 en jetons) 
+Place 2: gorenower (560 en jetons) 
+Place 3: bufalo7777 (490 en jetons) 
+psychoman59 : met la petite blind. 10
+gorenower : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Ts]
+bufalo7777 : passe. 
+psychoman59 : suit. 10
+gorenower : parole 
+*** FLOP *** [3h 5h Tc]
+psychoman59 : parole 
+gorenower : parole 
+*** TOURNANT *** [3h 5h Tc] [4s]
+psychoman59 : mise. 40
+gorenower : suit. 40
+*** RIVIÈRE *** [3h 5h Tc 4s] [9h]
+psychoman59 : mise. 60
+gorenower : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [3h 5h Tc 4s 9h]
+Siège 1 : psychoman59 (petite blind) a remporté (120)
+Siège 2 : gorenower (grosse blind) s'est couché. sur le Rivière
+Siège 3 : bufalo7777 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261589675529 : Tournoi #4019890692, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 30/07/2026 11:38:50 CET [30/07/2026 5:38:50 ET]
+Table '4019890692 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (510 en jetons) 
+Place 2: gorenower (500 en jetons) 
+Place 3: bufalo7777 (490 en jetons) 
+gorenower : met la petite blind. 15
+bufalo7777 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 3c]
+psychoman59 : passe. 
+gorenower : suit. 15
+bufalo7777 : parole 
+*** FLOP *** [Qh 2c 7h]
+gorenower : parole 
+bufalo7777 : mise. 30
+gorenower : passe. 
+Personne n'a suivi. (30) sont retournés à bufalo7777.
+bufalo7777 a remporté 60  lors du pot .
+bufalo7777 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Qh 2c 7h]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : gorenower (petite blind) s'est couché. sur le Flop
+Siège 3 : bufalo7777 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°261589676435 : Tournoi #4019890692, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 30/07/2026 11:39:02 CET [30/07/2026 5:39:02 ET]
+Table '4019890692 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (510 en jetons) 
+Place 2: gorenower (470 en jetons) 
+Place 3: bufalo7777 (520 en jetons) 
+bufalo7777 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 9d]
+gorenower : passe. 
+bufalo7777 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Jd 3h Ts]
+bufalo7777 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Jd 3h Ts] [Ad]
+bufalo7777 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Jd 3h Ts Ad] [Qd]
+bufalo7777 : parole 
+psychoman59 : mise. 60
+bufalo7777 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Jd 3h Ts Ad Qd]
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 2 : gorenower (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : bufalo7777 (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°261589678411 : Tournoi #4019890692, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 30/07/2026 11:39:29 CET [30/07/2026 5:39:29 ET]
+Table '4019890692 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (540 en jetons) 
+Place 2: gorenower (470 en jetons) 
+Place 3: bufalo7777 (490 en jetons) 
+psychoman59 : met la petite blind. 15
+gorenower : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 2h]
+bufalo7777 : relance. 30 à 60
+psychoman59 : passe. 
+gorenower : suit. 30
+*** FLOP *** [9s Kh 7d]
+gorenower : parole 
+bufalo7777 : mise. 60
+gorenower : suit. 60
+*** TOURNANT *** [9s Kh 7d] [Qc]
+gorenower : parole 
+bufalo7777 : mise. 90
+gorenower : suit. 90
+*** RIVIÈRE *** [9s Kh 7d Qc] [Td]
+gorenower : parole 
+bufalo7777 : mise. 280 et est all-in.
+gorenower : passe. 
+Personne n'a suivi. (280) sont retournés à bufalo7777.
+bufalo7777 a remporté 435  lors du pot .
+bufalo7777 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 435 | Commission 0 
+Tableau [9s Kh 7d Qc Td]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : gorenower (grosse blind) s'est couché. sur le Rivière
+Siège 3 : bufalo7777 (bouton) a remporté (435)
+
+
+
+Main PokerStars n°261589680648 : Tournoi #4019890692, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 30/07/2026 11:39:58 CET [30/07/2026 5:39:58 ET]
+Table '4019890692 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (525 en jetons) 
+Place 2: gorenower (260 en jetons) 
+Place 3: bufalo7777 (715 en jetons) 
+gorenower : met la petite blind. 15
+bufalo7777 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Th]
+psychoman59 : suit. 30
+gorenower : relance. 230 à 260 et est all-in.
+bufalo7777 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (230) sont retournés à gorenower.
+gorenower a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 2 : gorenower (petite blind) a remporté (90)
+Siège 3 : bufalo7777 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261589681463 : Tournoi #4019890692, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 30/07/2026 11:40:09 CET [30/07/2026 5:40:09 ET]
+Table '4019890692 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (495 en jetons) 
+Place 2: gorenower (320 en jetons) 
+Place 3: bufalo7777 (685 en jetons) 
+bufalo7777 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d As]
+gorenower : passe. 
+bufalo7777 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [9h 8d Ad]
+bufalo7777 : parole 
+psychoman59 : mise. 30
+bufalo7777 : suit. 30
+*** TOURNANT *** [9h 8d Ad] [Kd]
+bufalo7777 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [9h 8d Ad Kd] [Ks]
+bufalo7777 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+bufalo7777 : montre [5c 7d] (une paire de Rois)
+psychoman59 : montre [2d As] (double paire, As et Rois)
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [9h 8d Ad Kd Ks]
+Siège 1 : psychoman59 (grosse blind) a montré [2d As] et a gagné (120) avec double paire, As et Rois
+Siège 2 : gorenower (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : bufalo7777 (petite blind) a montré [5c 7d] et a perdu avec une paire de Rois
+
+
+
+Main PokerStars n°261589683623 : Tournoi #4019890692, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 30/07/2026 11:40:37 CET [30/07/2026 5:40:37 ET]
+Table '4019890692 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (555 en jetons) 
+Place 2: gorenower (320 en jetons) 
+Place 3: bufalo7777 (625 en jetons) 
+psychoman59 : met la petite blind. 20
+gorenower : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Ts]
+bufalo7777 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à gorenower.
+gorenower a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : gorenower (grosse blind) a remporté (40)
+Siège 3 : bufalo7777 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261589684128 : Tournoi #4019890692, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 30/07/2026 11:40:44 CET [30/07/2026 5:40:44 ET]
+Table '4019890692 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (535 en jetons) 
+Place 2: gorenower (340 en jetons) 
+Place 3: bufalo7777 (625 en jetons) 
+gorenower : met la petite blind. 20
+bufalo7777 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 9h]
+psychoman59 : suit. 40
+gorenower : relance. 40 à 80
+bufalo7777 : passe. 
+psychoman59 : suit. 40
+*** FLOP *** [2c 7c 9s]
+gorenower : parole 
+psychoman59 : mise. 260
+gorenower : passe. 
+Personne n'a suivi. (260) sont retournés à psychoman59.
+psychoman59 a remporté 200  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [2c 7c 9s]
+Siège 1 : psychoman59 (bouton) a remporté (200)
+Siège 2 : gorenower (petite blind) s'est couché. sur le Flop
+Siège 3 : bufalo7777 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261589685722 : Tournoi #4019890692, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 30/07/2026 11:41:05 CET [30/07/2026 5:41:05 ET]
+Table '4019890692 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (655 en jetons) 
+Place 2: gorenower (260 en jetons) 
+Place 3: bufalo7777 (585 en jetons) 
+bufalo7777 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 6h]
+gorenower : passe. 
+bufalo7777 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Jd 7c Ad]
+bufalo7777 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à bufalo7777.
+bufalo7777 a remporté 80  lors du pot .
+bufalo7777 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Jd 7c Ad]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : gorenower (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : bufalo7777 (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°261589686787 : Tournoi #4019890692, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 30/07/2026 11:41:19 CET [30/07/2026 5:41:19 ET]
+Table '4019890692 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (615 en jetons) 
+Place 2: gorenower (260 en jetons) 
+Place 3: bufalo7777 (625 en jetons) 
+psychoman59 : met la petite blind. 20
+gorenower : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Ts]
+bufalo7777 : passe. 
+psychoman59 : relance. 575 à 615 et est all-in.
+gorenower : suit. 220 et est all-in.
+Personne n'a suivi. (355) sont retournés à psychoman59.
+*** FLOP *** [2d Th Qd]
+*** TOURNANT *** [2d Th Qd] [5h]
+*** RIVIÈRE *** [2d Th Qd 5h] [6s]
+*** ABATTAGE ***
+psychoman59 : montre [Ad Ts] (une paire de Dix)
+gorenower : montre [4s Qh] (une paire de Dames)
+gorenower a remporté 520  lors du pot .
+*** SYNTHÈSE ***
+Pot total 520 | Commission 0 
+Tableau [2d Th Qd 5h 6s]
+Siège 1 : psychoman59 (petite blind) a montré [Ad Ts] et a perdu avec une paire de Dix
+Siège 2 : gorenower (grosse blind) a montré [4s Qh] et a gagné (520) avec une paire de Dames
+Siège 3 : bufalo7777 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261589688082 : Tournoi #4019890692, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 30/07/2026 11:41:36 CET [30/07/2026 5:41:36 ET]
+Table '4019890692 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (355 en jetons) 
+Place 2: gorenower (520 en jetons) 
+Place 3: bufalo7777 (625 en jetons) 
+gorenower : met la petite blind. 20
+bufalo7777 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Ts]
+psychoman59 : suit. 40
+gorenower : suit. 20
+bufalo7777 : parole 
+*** FLOP *** [As Qc Ad]
+gorenower : parole 
+bufalo7777 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [As Qc Ad] [Ah]
+gorenower : parole 
+bufalo7777 : parole 
+psychoman59 : mise. 60
+gorenower : passe. 
+bufalo7777 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [As Qc Ad Ah]
+Siège 1 : psychoman59 (bouton) a remporté (120)
+Siège 2 : gorenower (petite blind) s'est couché. sur le Tournant
+Siège 3 : bufalo7777 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°261589689974 : Tournoi #4019890692, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 30/07/2026 11:42:01 CET [30/07/2026 5:42:01 ET]
+Table '4019890692 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (435 en jetons) 
+Place 2: gorenower (480 en jetons) 
+Place 3: bufalo7777 (585 en jetons) 
+bufalo7777 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 7d]
+gorenower : suit. 40
+bufalo7777 : suit. 20
+psychoman59 : relance. 395 à 435 et est all-in.
+gorenower : suit. 395
+bufalo7777 : passe. 
+*** FLOP *** [9d Qc Jc]
+*** TOURNANT *** [9d Qc Jc] [9h]
+*** RIVIÈRE *** [9d Qc Jc 9h] [3c]
+*** ABATTAGE ***
+psychoman59 : montre [7c 7d] (double paire, Neuf et Sept)
+gorenower : montre [Td Qd] (double paire, Dames et Neuf)
+gorenower a remporté 910  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 910 | Commission 0 
+Tableau [9d Qc Jc 9h 3c]
+Siège 1 : psychoman59 (grosse blind) a montré [7c 7d] et a perdu avec double paire, Neuf et Sept
+Siège 2 : gorenower (bouton) a montré [Td Qd] et a gagné (910) avec double paire, Dames et Neuf
+Siège 3 : bufalo7777 (petite blind) s'est couché. avant Flop
+
+
+

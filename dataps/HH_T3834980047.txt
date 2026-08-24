@@ -1,0 +1,122 @@
+﻿Main PokerStars n°253894478239 : Tournoi #3834980047, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 17/12/2024 10:40:13 CET [17/12/2024 4:40:13 ET]
+Table '3834980047 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: Jorge Lorenzo P (500 en jetons) 
+Place 3: plomo969 (500 en jetons) 
+Jorge Lorenzo P : met la petite blind. 10
+plomo969 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 9s]
+psychoman59 : suit. 20
+Jorge Lorenzo P : suit. 10
+plomo969 : parole 
+*** FLOP *** [4c Ac 2c]
+Jorge Lorenzo P : mise. 20
+plomo969 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Jorge Lorenzo P.
+Jorge Lorenzo P a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [4c Ac 2c]
+Siège 1 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 2 : Jorge Lorenzo P (petite blind) a remporté (60)
+Siège 3 : plomo969 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°253894479184 : Tournoi #3834980047, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 17/12/2024 10:40:24 CET [17/12/2024 4:40:24 ET]
+Table '3834980047 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (480 en jetons) 
+Place 2: Jorge Lorenzo P (540 en jetons) 
+Place 3: plomo969 (480 en jetons) 
+plomo969 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 3c]
+Jorge Lorenzo P : suit. 20
+plomo969 : passe. 
+psychoman59 : parole 
+*** FLOP *** [7d 4d 7s]
+psychoman59 : parole 
+Jorge Lorenzo P : parole 
+*** TOURNANT *** [7d 4d 7s] [5h]
+psychoman59 : parole 
+Jorge Lorenzo P : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à Jorge Lorenzo P.
+Jorge Lorenzo P a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [7d 4d 7s 5h]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : Jorge Lorenzo P (bouton) a remporté (50)
+Siège 3 : plomo969 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°253894480707 : Tournoi #3834980047, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 17/12/2024 10:40:43 CET [17/12/2024 4:40:43 ET]
+Table '3834980047 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (460 en jetons) 
+Place 2: Jorge Lorenzo P (570 en jetons) 
+Place 3: plomo969 (470 en jetons) 
+psychoman59 : met la petite blind. 10
+Jorge Lorenzo P : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Jd]
+plomo969 : suit. 20
+psychoman59 : passe. 
+Jorge Lorenzo P : parole 
+*** FLOP *** [9d 9h 4h]
+Jorge Lorenzo P : parole 
+plomo969 : parole 
+*** TOURNANT *** [9d 9h 4h] [7d]
+Jorge Lorenzo P : parole 
+plomo969 : parole 
+*** RIVIÈRE *** [9d 9h 4h 7d] [9s]
+Jorge Lorenzo P : parole 
+plomo969 : parole 
+*** ABATTAGE ***
+Jorge Lorenzo P : montre [8d Qc] (un brelan de Neuf)
+plomo969 : montre [Ah Kc] (un brelan de Neuf - As kicker)
+plomo969 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [9d 9h 4h 7d 9s]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Jorge Lorenzo P (grosse blind) a montré [8d Qc] et a perdu avec un brelan de Neuf
+Siège 3 : plomo969 (bouton) a montré [Ah Kc] et a gagné (50) avec un brelan de Neuf
+
+
+
+Main PokerStars n°253894481921 : Tournoi #3834980047, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 17/12/2024 10:40:57 CET [17/12/2024 4:40:57 ET]
+Table '3834980047 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (450 en jetons) 
+Place 2: Jorge Lorenzo P (550 en jetons) 
+Place 3: plomo969 (500 en jetons) 
+Jorge Lorenzo P : met la petite blind. 10
+plomo969 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Ts]
+psychoman59 : relance. 20 à 40
+Jorge Lorenzo P : relance. 510 à 550 et est all-in.
+plomo969 : passe. 
+psychoman59 : suit. 410 et est all-in.
+Personne n'a suivi. (100) sont retournés à Jorge Lorenzo P.
+*** FLOP *** [5d Ah 5h]
+*** TOURNANT *** [5d Ah 5h] [9h]
+*** RIVIÈRE *** [5d Ah 5h 9h] [Qh]
+*** ABATTAGE ***
+Jorge Lorenzo P : montre [9c 9s] (un full, full aux Neuf par les Cinq)
+psychoman59 : montre [Ad Ts] (double paire, As et Cinq)
+Jorge Lorenzo P a remporté 920  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 920 | Commission 0 
+Tableau [5d Ah 5h 9h Qh]
+Siège 1 : psychoman59 (bouton) a montré [Ad Ts] et a perdu avec double paire, As et Cinq
+Siège 2 : Jorge Lorenzo P (petite blind) a montré [9c 9s] et a gagné (920) avec un full, full aux Neuf par les Cinq
+Siège 3 : plomo969 (grosse blind) s'est couché. avant Flop
+
+
+

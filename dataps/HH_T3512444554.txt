@@ -1,0 +1,451 @@
+﻿Main PokerStars n°240334505757 : Tournoi #3512444554, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/12/2022 15:13:59 CET [08/12/2022 9:13:59 ET]
+Table '3512444554 1' 3-max Siège #1 est au bouton.
+Place 1: douy51200 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: enzomilt (300 en jetons) 
+psychoman59 : met la petite blind. 10
+enzomilt : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 3s]
+douy51200 : suit. 20
+psychoman59 : passe. 
+enzomilt : parole 
+*** FLOP *** [8h Qs 4s]
+enzomilt : parole 
+douy51200 : mise. 20
+enzomilt : suit. 20
+*** TOURNANT *** [8h Qs 4s] [7h]
+enzomilt : parole 
+douy51200 : parole 
+*** RIVIÈRE *** [8h Qs 4s 7h] [2h]
+enzomilt : parole 
+douy51200 : mise. 45
+enzomilt : suit. 45
+*** ABATTAGE ***
+douy51200 : montre [Kd 6h] (Hauteur Roi)
+enzomilt : montre [8d 3h] (une paire de Huit)
+enzomilt a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [8h Qs 4s 7h 2h]
+Siège 1 : douy51200 (bouton) a montré [Kd 6h] et a perdu avec Hauteur Roi
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : enzomilt (grosse blind) a montré [8d 3h] et a gagné (180) avec une paire de Huit
+
+
+
+Main PokerStars n°240334510865 : Tournoi #3512444554, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/12/2022 15:14:21 CET [08/12/2022 9:14:21 ET]
+Table '3512444554 1' 3-max Siège #2 est au bouton.
+Place 1: douy51200 (215 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: enzomilt (395 en jetons) 
+enzomilt : met la petite blind. 10
+douy51200 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 4c]
+psychoman59 : passe. 
+enzomilt : suit. 10
+douy51200 : parole 
+*** FLOP *** [5c 6d Ac]
+enzomilt : parole 
+douy51200 : parole 
+*** TOURNANT *** [5c 6d Ac] [Ks]
+enzomilt : mise. 40
+douy51200 : suit. 40
+*** RIVIÈRE *** [5c 6d Ac Ks] [3c]
+enzomilt : parole 
+douy51200 : mise. 60
+enzomilt : suit. 60
+*** ABATTAGE ***
+douy51200 : montre [5h 5d] (un brelan de Cinq)
+enzomilt : cache la main perdante. 
+douy51200 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [5c 6d Ac Ks 3c]
+Siège 1 : douy51200 (grosse blind) a montré [5h 5d] et a gagné (240) avec un brelan de Cinq
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : enzomilt (petite blind) a caché la main perdante. [7h Kh]
+
+
+
+Main PokerStars n°240334515745 : Tournoi #3512444554, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/12/2022 15:14:43 CET [08/12/2022 9:14:43 ET]
+Table '3512444554 1' 3-max Siège #3 est au bouton.
+Place 1: douy51200 (335 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: enzomilt (275 en jetons) 
+douy51200 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 8s]
+enzomilt : passe. 
+douy51200 : suit. 10
+psychoman59 : relance. 270 à 290 et est all-in.
+douy51200 : passe. 
+Personne n'a suivi. (270) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : douy51200 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : enzomilt (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°240334520651 : Tournoi #3512444554, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/12/2022 15:15:04 CET [08/12/2022 9:15:04 ET]
+Table '3512444554 1' 3-max Siège #1 est au bouton.
+Place 1: douy51200 (315 en jetons) 
+Place 2: psychoman59 (310 en jetons) 
+Place 3: enzomilt (275 en jetons) 
+psychoman59 : met la petite blind. 15
+enzomilt : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Js]
+douy51200 : suit. 30
+psychoman59 : passe. 
+enzomilt : relance. 245 à 275 et est all-in.
+douy51200 : passe. 
+Personne n'a suivi. (245) sont retournés à enzomilt.
+enzomilt a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : douy51200 (bouton) s'est couché. avant Flop
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : enzomilt (grosse blind) a remporté (75)
+
+
+
+Main PokerStars n°240334523192 : Tournoi #3512444554, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/12/2022 15:15:15 CET [08/12/2022 9:15:15 ET]
+Table '3512444554 1' 3-max Siège #2 est au bouton.
+Place 1: douy51200 (285 en jetons) 
+Place 2: psychoman59 (295 en jetons) 
+Place 3: enzomilt (320 en jetons) 
+enzomilt : met la petite blind. 15
+douy51200 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Qs]
+psychoman59 : passe. 
+enzomilt : suit. 15
+douy51200 : parole 
+*** FLOP *** [Ts 2d 7c]
+enzomilt : mise. 60
+douy51200 : passe. 
+Personne n'a suivi. (60) sont retournés à enzomilt.
+enzomilt a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ts 2d 7c]
+Siège 1 : douy51200 (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : enzomilt (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°240334527521 : Tournoi #3512444554, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/12/2022 15:15:34 CET [08/12/2022 9:15:34 ET]
+Table '3512444554 1' 3-max Siège #3 est au bouton.
+Place 1: douy51200 (255 en jetons) 
+Place 2: psychoman59 (295 en jetons) 
+Place 3: enzomilt (350 en jetons) 
+douy51200 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 7c]
+enzomilt : suit. 30
+douy51200 : passe. 
+psychoman59 : parole 
+*** FLOP *** [Qc 9c 2c]
+psychoman59 : parole 
+enzomilt : parole 
+*** TOURNANT *** [Qc 9c 2c] [7d]
+psychoman59 : mise. 75
+enzomilt : suit. 75
+*** RIVIÈRE *** [Qc 9c 2c 7d] [8s]
+psychoman59 : mise. 190 et est all-in.
+enzomilt : passe. 
+Personne n'a suivi. (190) sont retournés à psychoman59.
+psychoman59 a remporté 225  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 225 | Commission 0 
+Tableau [Qc 9c 2c 7d 8s]
+Siège 1 : douy51200 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (225)
+Siège 3 : enzomilt (bouton) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°240334533637 : Tournoi #3512444554, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/12/2022 15:16:00 CET [08/12/2022 9:16:00 ET]
+Table '3512444554 1' 3-max Siège #1 est au bouton.
+Place 1: douy51200 (240 en jetons) 
+Place 2: psychoman59 (415 en jetons) 
+Place 3: enzomilt (245 en jetons) 
+psychoman59 : met la petite blind. 15
+enzomilt : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 5d]
+douy51200 : suit. 30
+psychoman59 : suit. 15
+enzomilt : relance. 215 à 245 et est all-in.
+douy51200 : suit. 210 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (5) sont retournés à enzomilt.
+*** FLOP *** [Ts 6c 2s]
+*** TOURNANT *** [Ts 6c 2s] [As]
+*** RIVIÈRE *** [Ts 6c 2s As] [4s]
+*** ABATTAGE ***
+enzomilt : montre [Th 7d] (une paire de Dix)
+douy51200 : montre [Ac 3h] (une paire de As)
+douy51200 a remporté 510  lors du pot .
+*** SYNTHÈSE ***
+Pot total 510 | Commission 0 
+Tableau [Ts 6c 2s As 4s]
+Siège 1 : douy51200 (bouton) a montré [Ac 3h] et a gagné (510) avec une paire de As
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : enzomilt (grosse blind) a montré [Th 7d] et a perdu avec une paire de Dix
+
+
+
+Main PokerStars n°240334538385 : Tournoi #3512444554, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 08/12/2022 15:16:20 CET [08/12/2022 9:16:20 ET]
+Table '3512444554 1' 3-max Siège #2 est au bouton.
+Place 1: douy51200 (510 en jetons) 
+Place 2: psychoman59 (385 en jetons) 
+Place 3: enzomilt (5 en jetons) 
+enzomilt : met la petite blind. 5 et est all-in.
+douy51200 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 9s]
+psychoman59 : passe. 
+Personne n'a suivi. (35) sont retournés à douy51200.
+*** FLOP *** [2d As 3c]
+*** TOURNANT *** [2d As 3c] [8h]
+*** RIVIÈRE *** [2d As 3c 8h] [2s]
+*** ABATTAGE ***
+enzomilt : montre [6d 2h] (un brelan de Deux)
+douy51200 : montre [5d 6c] (une paire de Deux)
+enzomilt a remporté 10  lors du pot .
+*** SYNTHÈSE ***
+Pot total 10 | Commission 0 
+Tableau [2d As 3c 8h 2s]
+Siège 1 : douy51200 (grosse blind) a montré [5d 6c] et a perdu avec une paire de Deux
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : enzomilt (petite blind) a montré [6d 2h] et a gagné (10) avec un brelan de Deux
+
+
+
+Main PokerStars n°240334540867 : Tournoi #3512444554, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 08/12/2022 15:16:31 CET [08/12/2022 9:16:31 ET]
+Table '3512444554 1' 3-max Siège #3 est au bouton.
+Place 1: douy51200 (505 en jetons) 
+Place 2: psychoman59 (385 en jetons) 
+Place 3: enzomilt (10 en jetons) 
+douy51200 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 5c]
+enzomilt : suit. 10 et est all-in.
+douy51200 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [4h Th 4c]
+douy51200 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [4h Th 4c] [8h]
+douy51200 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [4h Th 4c 8h] [2h]
+douy51200 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à douy51200.
+*** ABATTAGE ***
+douy51200 : montre [5d 6d] (une paire de Quatre)
+douy51200 a remporté 60  parallèle lors du pot .
+enzomilt : montre [2d Qh] (une couleur, hauteur Dame)
+enzomilt a remporté 30  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 Principal pot 30. Parallèle pot 60. | Commission 0 
+Tableau [4h Th 4c 8h 2h]
+Siège 1 : douy51200 (petite blind) a montré [5d 6d] et a gagné (60) avec une paire de Quatre
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : enzomilt (bouton) a montré [2d Qh] et a gagné (30) avec une couleur, hauteur Dame
+
+
+
+Main PokerStars n°240334547171 : Tournoi #3512444554, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 08/12/2022 15:16:58 CET [08/12/2022 9:16:58 ET]
+Table '3512444554 1' 3-max Siège #1 est au bouton.
+Place 1: douy51200 (525 en jetons) 
+Place 2: psychoman59 (345 en jetons) 
+Place 3: enzomilt (30 en jetons) 
+psychoman59 : met la petite blind. 20
+enzomilt : met la grosse blind. 30 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 6d]
+douy51200 : suit. 40
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à douy51200.
+*** FLOP *** [9d 7s 7c]
+*** TOURNANT *** [9d 7s 7c] [8c]
+*** RIVIÈRE *** [9d 7s 7c 8c] [Jh]
+*** ABATTAGE ***
+enzomilt : montre [2h 5h] (une paire de Sept)
+douy51200 : montre [7h 9s] (un full, full aux Sept par les Neuf)
+douy51200 a remporté 80  lors du pot .
+enzomilt a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [9d 7s 7c 8c Jh]
+Siège 1 : douy51200 (bouton) a montré [7h 9s] et a gagné (80) avec un full, full aux Sept par les Neuf
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : enzomilt (grosse blind) a montré [2h 5h] et a perdu avec une paire de Sept
+
+
+
+Main PokerStars n°240334550765 : Tournoi #3512444554, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 08/12/2022 15:17:14 CET [08/12/2022 9:17:14 ET]
+Table '3512444554 1' 3-max Siège #2 est au bouton.
+Place 1: douy51200 (575 en jetons) 
+Place 2: psychoman59 (325 en jetons) 
+psychoman59 : met la petite blind. 30
+douy51200 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 5s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à douy51200.
+douy51200 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : douy51200 (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240334552259 : Tournoi #3512444554, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 08/12/2022 15:17:20 CET [08/12/2022 9:17:20 ET]
+Table '3512444554 1' 3-max Siège #1 est au bouton.
+Place 1: douy51200 (605 en jetons) 
+Place 2: psychoman59 (295 en jetons) 
+douy51200 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 7c]
+douy51200 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Jc Td 4s]
+psychoman59 : parole 
+douy51200 : parole 
+*** TOURNANT *** [Jc Td 4s] [Jd]
+psychoman59 : parole 
+douy51200 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à douy51200.
+douy51200 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Jc Td 4s Jd]
+Siège 1 : douy51200 (bouton) (petite blind) a remporté (120)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°240334557224 : Tournoi #3512444554, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 08/12/2022 15:17:41 CET [08/12/2022 9:17:41 ET]
+Table '3512444554 1' 3-max Siège #2 est au bouton.
+Place 1: douy51200 (665 en jetons) 
+Place 2: psychoman59 (235 en jetons) 
+psychoman59 : met la petite blind. 30
+douy51200 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 7h]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à douy51200.
+douy51200 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : douy51200 (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240334558204 : Tournoi #3512444554, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 08/12/2022 15:17:46 CET [08/12/2022 9:17:46 ET]
+Table '3512444554 1' 3-max Siège #1 est au bouton.
+Place 1: douy51200 (695 en jetons) 
+Place 2: psychoman59 (205 en jetons) 
+douy51200 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 3s]
+douy51200 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [8h 6h Td]
+psychoman59 : mise. 145 et est all-in.
+douy51200 : passe. 
+Personne n'a suivi. (145) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [8h 6h Td]
+Siège 1 : douy51200 (bouton) (petite blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°240334561199 : Tournoi #3512444554, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 08/12/2022 15:17:59 CET [08/12/2022 9:17:59 ET]
+Table '3512444554 1' 3-max Siège #2 est au bouton.
+Place 1: douy51200 (635 en jetons) 
+Place 2: psychoman59 (265 en jetons) 
+psychoman59 : met la petite blind. 30
+douy51200 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 6d]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à douy51200.
+douy51200 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : douy51200 (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240334562855 : Tournoi #3512444554, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 08/12/2022 15:18:06 CET [08/12/2022 9:18:06 ET]
+Table '3512444554 1' 3-max Siège #1 est au bouton.
+Place 1: douy51200 (665 en jetons) 
+Place 2: psychoman59 (235 en jetons) 
+douy51200 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 3c]
+douy51200 : relance. 80 à 160
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à douy51200.
+douy51200 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : douy51200 (bouton) (petite blind) a remporté (160)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240334564456 : Tournoi #3512444554, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 08/12/2022 15:18:13 CET [08/12/2022 9:18:13 ET]
+Table '3512444554 1' 3-max Siège #2 est au bouton.
+Place 1: douy51200 (745 en jetons) 
+Place 2: psychoman59 (155 en jetons) 
+psychoman59 : met la petite blind. 40
+douy51200 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 9d]
+psychoman59 : relance. 75 à 155 et est all-in.
+douy51200 : suit. 75
+*** FLOP *** [9s 3c 6c]
+*** TOURNANT *** [9s 3c 6c] [As]
+*** RIVIÈRE *** [9s 3c 6c As] [Ah]
+*** ABATTAGE ***
+douy51200 : montre [9h Kh] (double paire, As et Neuf)
+psychoman59 : montre [Js 9d] (double paire, As et Neuf - plus basse kicker)
+douy51200 a remporté 310  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+douy51200 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Tableau [9s 3c 6c As Ah]
+Siège 1 : douy51200 (grosse blind) a montré [9h Kh] et a gagné (310) avec double paire, As et Neuf
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Js 9d] et a perdu avec double paire, As et Neuf
+
+
+

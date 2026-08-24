@@ -1,0 +1,266 @@
+﻿Main PokerStars n°244184608777 : Tournoi #3602448006, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 09/06/2023 23:32:04 CET [09/06/2023 17:32:04 ET]
+Table '3602448006 1' 3-max Siège #1 est au bouton.
+Place 1: 33520 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: FilblAAK (300 en jetons) 
+psychoman59 : met la petite blind. 10
+FilblAAK : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Tc]
+33520 : passe. 
+psychoman59 : relance. 80 à 100
+FilblAAK : suit. 80
+*** FLOP *** [Kh Qd 4c]
+psychoman59 : parole 
+FilblAAK : parole 
+*** TOURNANT *** [Kh Qd 4c] [4d]
+psychoman59 : parole 
+FilblAAK : parole 
+*** RIVIÈRE *** [Kh Qd 4c 4d] [3d]
+psychoman59 : parole 
+FilblAAK : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Ts Tc] (double paire, Dix et Quatre)
+FilblAAK : cache la main perdante. 
+psychoman59 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [Kh Qd 4c 4d 3d]
+Siège 1 : 33520 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [Ts Tc] et a gagné (200) avec double paire, Dix et Quatre
+Siège 3 : FilblAAK (grosse blind) a caché la main perdante. [7s 6c]
+
+
+
+Main PokerStars n°244184618455 : Tournoi #3602448006, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 09/06/2023 23:32:33 CET [09/06/2023 17:32:33 ET]
+Table '3602448006 1' 3-max Siège #2 est au bouton.
+Place 1: 33520 (300 en jetons) 
+Place 2: psychoman59 (400 en jetons) 
+Place 3: FilblAAK (200 en jetons) 
+FilblAAK : met la petite blind. 10
+33520 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Ks]
+psychoman59 : relance. 20 à 40
+FilblAAK : suit. 30
+33520 : passe. 
+*** FLOP *** [2d Jd 8d]
+FilblAAK : parole 
+psychoman59 : parole 
+*** TOURNANT *** [2d Jd 8d] [7h]
+FilblAAK : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [2d Jd 8d 7h] [9s]
+FilblAAK : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+FilblAAK : montre [4s 9c] (une paire de Neuf)
+psychoman59 : montre [Kd Ks] (une paire de Rois)
+psychoman59 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [2d Jd 8d 7h 9s]
+Siège 1 : 33520 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a montré [Kd Ks] et a gagné (100) avec une paire de Rois
+Siège 3 : FilblAAK (petite blind) a montré [4s 9c] et a perdu avec une paire de Neuf
+
+
+
+Main PokerStars n°244184626714 : Tournoi #3602448006, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 09/06/2023 23:32:57 CET [09/06/2023 17:32:57 ET]
+Table '3602448006 1' 3-max Siège #3 est au bouton.
+Place 1: 33520 (280 en jetons) 
+Place 2: psychoman59 (460 en jetons) 
+Place 3: FilblAAK (160 en jetons) 
+33520 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Ac]
+FilblAAK : passe. 
+33520 : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : 33520 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (20)
+Siège 3 : FilblAAK (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°244184628990 : Tournoi #3602448006, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 09/06/2023 23:33:04 CET [09/06/2023 17:33:04 ET]
+Table '3602448006 1' 3-max Siège #1 est au bouton.
+Place 1: 33520 (270 en jetons) 
+Place 2: psychoman59 (470 en jetons) 
+Place 3: FilblAAK (160 en jetons) 
+psychoman59 : met la petite blind. 10
+FilblAAK : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 6h]
+33520 : relance. 20 à 40
+psychoman59 : passe. 
+FilblAAK : suit. 20
+*** FLOP *** [Ac Kh Ks]
+FilblAAK : parole 
+33520 : mise. 20
+FilblAAK : passe. 
+Personne n'a suivi. (20) sont retournés à 33520.
+33520 a remporté 90  lors du pot .
+33520 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [Ac Kh Ks]
+Siège 1 : 33520 (bouton) a remporté (90)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : FilblAAK (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°244184634005 : Tournoi #3602448006, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 09/06/2023 23:33:19 CET [09/06/2023 17:33:19 ET]
+Table '3602448006 1' 3-max Siège #2 est au bouton.
+Place 1: 33520 (320 en jetons) 
+Place 2: psychoman59 (460 en jetons) 
+Place 3: FilblAAK (120 en jetons) 
+FilblAAK : met la petite blind. 15
+33520 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Kh]
+psychoman59 : suit. 30
+FilblAAK : relance. 90 à 120 et est all-in.
+33520 : passe. 
+psychoman59 : suit. 90
+*** FLOP *** [Jd 2d Td]
+*** TOURNANT *** [Jd 2d Td] [5s]
+*** RIVIÈRE *** [Jd 2d Td 5s] [Qs]
+*** ABATTAGE ***
+FilblAAK : montre [4s As] (Hauteur As)
+psychoman59 : montre [5d Kh] (une paire de Cinq)
+psychoman59 a remporté 270  lors du pot .
+FilblAAK a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Tableau [Jd 2d Td 5s Qs]
+Siège 1 : 33520 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a montré [5d Kh] et a gagné (270) avec une paire de Cinq
+Siège 3 : FilblAAK (petite blind) a montré [4s As] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°244184641130 : Tournoi #3602448006, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 09/06/2023 23:33:40 CET [09/06/2023 17:33:40 ET]
+Table '3602448006 1' 3-max Siège #1 est au bouton.
+Place 1: 33520 (290 en jetons) 
+Place 2: psychoman59 (610 en jetons) 
+33520 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 5h]
+33520 : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à 33520.
+33520 a remporté 60  lors du pot .
+33520 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : 33520 (bouton) (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244184645421 : Tournoi #3602448006, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 09/06/2023 23:33:53 CET [09/06/2023 17:33:53 ET]
+Table '3602448006 1' 3-max Siège #2 est au bouton.
+Place 1: 33520 (320 en jetons) 
+Place 2: psychoman59 (580 en jetons) 
+psychoman59 : met la petite blind. 15
+33520 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 3d]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à 33520.
+33520 a remporté 30  lors du pot .
+33520 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : 33520 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244184647068 : Tournoi #3602448006, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 09/06/2023 23:33:58 CET [09/06/2023 17:33:58 ET]
+Table '3602448006 1' 3-max Siège #1 est au bouton.
+Place 1: 33520 (335 en jetons) 
+Place 2: psychoman59 (565 en jetons) 
+33520 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Js]
+33520 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : 33520 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°244184649179 : Tournoi #3602448006, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 09/06/2023 23:34:04 CET [09/06/2023 17:34:04 ET]
+Table '3602448006 1' 3-max Siège #2 est au bouton.
+Place 1: 33520 (320 en jetons) 
+Place 2: psychoman59 (580 en jetons) 
+psychoman59 : met la petite blind. 15
+33520 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Qd]
+psychoman59 : suit. 15
+33520 : parole 
+*** FLOP *** [Jc 2h 5c]
+33520 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Jc 2h 5c] [3d]
+33520 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Jc 2h 5c 3d] [7c]
+33520 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+33520 : montre [2c Qs] (une paire de Deux)
+psychoman59 : cache la main perdante. 
+33520 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Jc 2h 5c 3d 7c]
+Siège 1 : 33520 (grosse blind) a montré [2c Qs] et a gagné (60) avec une paire de Deux
+Siège 2 : psychoman59 (bouton) (petite blind) a caché la main perdante. [6h Qd]
+
+
+
+Main PokerStars n°244184656548 : Tournoi #3602448006, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 09/06/2023 23:34:26 CET [09/06/2023 17:34:26 ET]
+Table '3602448006 1' 3-max Siège #1 est au bouton.
+Place 1: 33520 (350 en jetons) 
+Place 2: psychoman59 (550 en jetons) 
+33520 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Td]
+33520 : relance. 40 à 80
+psychoman59 : relance. 470 à 550 et est all-in.
+33520 : suit. 270 et est all-in.
+Personne n'a suivi. (200) sont retournés à psychoman59.
+*** FLOP *** [9h 4s Qc]
+*** TOURNANT *** [9h 4s Qc] [Ks]
+*** RIVIÈRE *** [9h 4s Qc Ks] [Qh]
+*** ABATTAGE ***
+psychoman59 : montre [Kc Td] (double paire, Rois et Dames)
+33520 : montre [Kh 9c] (double paire, Rois et Dames - plus basse kicker)
+psychoman59 a remporté 700  lors du pot .
+33520 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 700 | Commission 0 
+Tableau [9h 4s Qc Ks Qh]
+Siège 1 : 33520 (bouton) (petite blind) a montré [Kh 9c] et a perdu avec double paire, Rois et Dames
+Siège 2 : psychoman59 (grosse blind) a montré [Kc Td] et a gagné (700) avec double paire, Rois et Dames
+
+
+

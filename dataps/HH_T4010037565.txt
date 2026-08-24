@@ -1,0 +1,1553 @@
+﻿Main PokerStars n°261197058218 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/06/2026 15:25:01 CET [20/06/2026 9:25:01 ET]
+Table '4010037565 1' 3-max Siège #1 est au bouton.
+Place 1: tobarcelos (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: bino mota (500 en jetons) 
+psychoman59 : met la petite blind. 10
+bino mota : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Qc]
+tobarcelos : suit. 20
+psychoman59 : suit. 10
+bino mota : parole 
+*** FLOP *** [9h 3s 4h]
+psychoman59 : parole 
+bino mota : mise. 20
+tobarcelos : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à bino mota.
+bino mota a remporté 60  lors du pot .
+bino mota : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [9h 3s 4h]
+Siège 1 : tobarcelos (bouton) s'est couché. sur le Flop
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 3 : bino mota (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°261197060184 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/06/2026 15:25:17 CET [20/06/2026 9:25:17 ET]
+Table '4010037565 1' 3-max Siège #2 est au bouton.
+Place 1: tobarcelos (480 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+Place 3: bino mota (540 en jetons) 
+bino mota : met la petite blind. 10
+tobarcelos : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 6s]
+psychoman59 : suit. 20
+bino mota : suit. 10
+tobarcelos : parole 
+*** FLOP *** [8h 3d 5c]
+bino mota : mise. 20
+tobarcelos : suit. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [8h 3d 5c] [Ah]
+bino mota : parole 
+tobarcelos : parole 
+psychoman59 : mise. 60
+bino mota : passe. 
+tobarcelos : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [8h 3d 5c Ah]
+Siège 1 : tobarcelos (grosse blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (bouton) a remporté (120)
+Siège 3 : bino mota (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°261197063043 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/06/2026 15:25:40 CET [20/06/2026 9:25:40 ET]
+Table '4010037565 1' 3-max Siège #3 est au bouton.
+Place 1: tobarcelos (440 en jetons) 
+Place 2: psychoman59 (560 en jetons) 
+Place 3: bino mota (500 en jetons) 
+tobarcelos : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 9c]
+bino mota : suit. 20
+tobarcelos : passe. 
+psychoman59 : parole 
+*** FLOP *** [7d 2c 5d]
+psychoman59 : parole 
+bino mota : parole 
+*** TOURNANT *** [7d 2c 5d] [6c]
+psychoman59 : parole 
+bino mota : parole 
+*** RIVIÈRE *** [7d 2c 5d 6c] [6h]
+psychoman59 : parole 
+bino mota : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Qc 9c] (une paire de Six)
+bino mota : cache la main perdante. 
+psychoman59 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [7d 2c 5d 6c 6h]
+Siège 1 : tobarcelos (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a montré [Qc 9c] et a gagné (50) avec une paire de Six
+Siège 3 : bino mota (bouton) a caché la main perdante. [8s Qh]
+
+
+
+Main PokerStars n°261197065902 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/06/2026 15:26:02 CET [20/06/2026 9:26:02 ET]
+Table '4010037565 1' 3-max Siège #1 est au bouton.
+Place 1: tobarcelos (430 en jetons) 
+Place 2: psychoman59 (590 en jetons) 
+Place 3: bino mota (480 en jetons) 
+psychoman59 : met la petite blind. 10
+bino mota : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 4h]
+tobarcelos : suit. 20
+psychoman59 : passe. 
+bino mota : parole 
+*** FLOP *** [6s 7d Qs]
+bino mota : parole 
+tobarcelos : parole 
+*** TOURNANT *** [6s 7d Qs] [8d]
+bino mota : mise. 40
+tobarcelos : suit. 40
+*** RIVIÈRE *** [6s 7d Qs 8d] [Jd]
+bino mota : mise. 40
+tobarcelos : suit. 40
+*** ABATTAGE ***
+bino mota : montre [9h Ts] (une suite, Huit à Dame)
+tobarcelos : cache la main perdante. 
+bino mota a remporté 210  lors du pot .
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Tableau [6s 7d Qs 8d Jd]
+Siège 1 : tobarcelos (bouton) a caché la main perdante. [8c 6c]
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : bino mota (grosse blind) a montré [9h Ts] et a gagné (210) avec une suite, Huit à Dame
+
+
+
+Main PokerStars n°261197068933 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/06/2026 15:26:26 CET [20/06/2026 9:26:26 ET]
+Table '4010037565 1' 3-max Siège #2 est au bouton.
+Place 1: tobarcelos (330 en jetons) 
+Place 2: psychoman59 (580 en jetons) 
+Place 3: bino mota (590 en jetons) 
+bino mota : met la petite blind. 10
+tobarcelos : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 2s]
+psychoman59 : passe. 
+bino mota : suit. 10
+tobarcelos : parole 
+*** FLOP *** [9s 9d Kc]
+bino mota : parole 
+tobarcelos : mise. 20
+bino mota : passe. 
+Personne n'a suivi. (20) sont retournés à tobarcelos.
+tobarcelos a remporté 40  lors du pot .
+tobarcelos : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [9s 9d Kc]
+Siège 1 : tobarcelos (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : bino mota (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261197070854 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/06/2026 15:26:41 CET [20/06/2026 9:26:41 ET]
+Table '4010037565 1' 3-max Siège #3 est au bouton.
+Place 1: tobarcelos (350 en jetons) 
+Place 2: psychoman59 (580 en jetons) 
+Place 3: bino mota (570 en jetons) 
+tobarcelos : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Qh]
+bino mota : suit. 20
+tobarcelos : suit. 10
+psychoman59 : parole 
+*** FLOP *** [2h Jh 7c]
+tobarcelos : parole 
+psychoman59 : parole 
+bino mota : mise. 20
+tobarcelos : suit. 20
+psychoman59 : passe. 
+*** TOURNANT *** [2h Jh 7c] [As]
+tobarcelos : parole 
+bino mota : mise. 100
+tobarcelos : passe. 
+Personne n'a suivi. (100) sont retournés à bino mota.
+bino mota a remporté 100  lors du pot .
+bino mota : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [2h Jh 7c As]
+Siège 1 : tobarcelos (petite blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : bino mota (bouton) a remporté (100)
+
+
+
+Main PokerStars n°261197074097 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 20/06/2026 15:27:07 CET [20/06/2026 9:27:07 ET]
+Table '4010037565 1' 3-max Siège #1 est au bouton.
+Place 1: tobarcelos (310 en jetons) 
+Place 2: psychoman59 (560 en jetons) 
+Place 3: bino mota (630 en jetons) 
+psychoman59 : met la petite blind. 15
+bino mota : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Js]
+tobarcelos : suit. 30
+psychoman59 : passe. 
+bino mota : parole 
+*** FLOP *** [9h 6s Kc]
+bino mota : mise. 30
+tobarcelos : passe. 
+Personne n'a suivi. (30) sont retournés à bino mota.
+bino mota a remporté 75  lors du pot .
+bino mota : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Tableau [9h 6s Kc]
+Siège 1 : tobarcelos (bouton) s'est couché. sur le Flop
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : bino mota (grosse blind) a remporté (75)
+
+
+
+Main PokerStars n°261197075434 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 20/06/2026 15:27:17 CET [20/06/2026 9:27:17 ET]
+Table '4010037565 1' 3-max Siège #2 est au bouton.
+Place 1: tobarcelos (280 en jetons) 
+Place 2: psychoman59 (545 en jetons) 
+Place 3: bino mota (675 en jetons) 
+bino mota : met la petite blind. 15
+tobarcelos : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 8d]
+psychoman59 : suit. 30
+bino mota : passe. 
+tobarcelos : parole 
+*** FLOP *** [Qd Js Kd]
+tobarcelos : parole 
+psychoman59 : mise. 45
+tobarcelos : suit. 45
+*** TOURNANT *** [Qd Js Kd] [Qh]
+tobarcelos : parole 
+psychoman59 : mise. 83
+tobarcelos : passe. 
+Personne n'a suivi. (83) sont retournés à psychoman59.
+psychoman59 a remporté 165  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 165 | Commission 0 
+Tableau [Qd Js Kd Qh]
+Siège 1 : tobarcelos (grosse blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (bouton) a remporté (165)
+Siège 3 : bino mota (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261197078889 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 20/06/2026 15:27:45 CET [20/06/2026 9:27:45 ET]
+Table '4010037565 1' 3-max Siège #3 est au bouton.
+Place 1: tobarcelos (205 en jetons) 
+Place 2: psychoman59 (635 en jetons) 
+Place 3: bino mota (660 en jetons) 
+tobarcelos : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Ts]
+bino mota : suit. 30
+tobarcelos : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Qh 9c 2h]
+tobarcelos : parole 
+psychoman59 : parole 
+bino mota : parole 
+*** TOURNANT *** [Qh 9c 2h] [Qd]
+tobarcelos : parole 
+psychoman59 : parole 
+bino mota : parole 
+*** RIVIÈRE *** [Qh 9c 2h Qd] [4c]
+tobarcelos : parole 
+psychoman59 : parole 
+bino mota : parole 
+*** ABATTAGE ***
+tobarcelos : montre [6c Kh] (une paire de Dames)
+psychoman59 : cache la main perdante. 
+bino mota : montre [6s Ad] (une paire de Dames - As kicker)
+bino mota a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [Qh 9c 2h Qd 4c]
+Siège 1 : tobarcelos (petite blind) a montré [6c Kh] et a perdu avec une paire de Dames
+Siège 2 : psychoman59 (grosse blind) a caché la main perdante. [5s Ts]
+Siège 3 : bino mota (bouton) a montré [6s Ad] et a gagné (90) avec une paire de Dames
+
+
+
+Main PokerStars n°261197083159 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 20/06/2026 15:28:19 CET [20/06/2026 9:28:19 ET]
+Table '4010037565 1' 3-max Siège #1 est au bouton.
+Place 1: tobarcelos (175 en jetons) 
+Place 2: psychoman59 (605 en jetons) 
+Place 3: bino mota (720 en jetons) 
+psychoman59 : met la petite blind. 15
+bino mota : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 9h]
+tobarcelos : suit. 30
+psychoman59 : suit. 15
+bino mota : parole 
+*** FLOP *** [9s 9c 9d]
+psychoman59 : parole 
+bino mota : parole 
+tobarcelos : parole 
+*** TOURNANT *** [9s 9c 9d] [Qc]
+psychoman59 : parole 
+bino mota : parole 
+tobarcelos : parole 
+*** RIVIÈRE *** [9s 9c 9d Qc] [7c]
+psychoman59 : mise. 45
+bino mota : passe. 
+tobarcelos : passe. 
+Personne n'a suivi. (45) sont retournés à psychoman59.
+psychoman59 a remporté 90  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [9s 9c 9d Qc 7c]
+Siège 1 : tobarcelos (bouton) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (petite blind) a remporté (90)
+Siège 3 : bino mota (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°261197087271 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 20/06/2026 15:28:52 CET [20/06/2026 9:28:52 ET]
+Table '4010037565 1' 3-max Siège #2 est au bouton.
+Place 1: tobarcelos (145 en jetons) 
+Place 2: psychoman59 (665 en jetons) 
+Place 3: bino mota (690 en jetons) 
+bino mota : met la petite blind. 15
+tobarcelos : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Ah]
+psychoman59 : relance. 60 à 90
+bino mota : passe. 
+tobarcelos : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 75  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : tobarcelos (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a remporté (75)
+Siège 3 : bino mota (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261197089259 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 20/06/2026 15:29:09 CET [20/06/2026 9:29:09 ET]
+Table '4010037565 1' 3-max Siège #3 est au bouton.
+Place 1: tobarcelos (115 en jetons) 
+Place 2: psychoman59 (710 en jetons) 
+Place 3: bino mota (675 en jetons) 
+tobarcelos : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 7d]
+bino mota : passe. 
+tobarcelos : suit. 20
+psychoman59 : parole 
+*** FLOP *** [4d 9s Ah]
+tobarcelos : parole 
+psychoman59 : parole 
+*** TOURNANT *** [4d 9s Ah] [9d]
+tobarcelos : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [4d 9s Ah 9d] [5s]
+tobarcelos : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+tobarcelos : montre [2c Kd] (une paire de Neuf)
+psychoman59 : montre [5h 7d] (double paire, Neuf et Cinq)
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [4d 9s Ah 9d 5s]
+Siège 1 : tobarcelos (petite blind) a montré [2c Kd] et a perdu avec une paire de Neuf
+Siège 2 : psychoman59 (grosse blind) a montré [5h 7d] et a gagné (80) avec double paire, Neuf et Cinq
+Siège 3 : bino mota (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261197092576 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 20/06/2026 15:29:35 CET [20/06/2026 9:29:35 ET]
+Table '4010037565 1' 3-max Siège #1 est au bouton.
+Place 1: tobarcelos (75 en jetons) 
+Place 2: psychoman59 (750 en jetons) 
+Place 3: bino mota (675 en jetons) 
+psychoman59 : met la petite blind. 20
+bino mota : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Tc]
+tobarcelos : relance. 35 à 75 et est all-in.
+psychoman59 : passe. 
+bino mota : passe. 
+Personne n'a suivi. (35) sont retournés à tobarcelos.
+tobarcelos a remporté 100  lors du pot .
+tobarcelos : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : tobarcelos (bouton) a remporté (100)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : bino mota (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261197094023 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 20/06/2026 15:29:46 CET [20/06/2026 9:29:46 ET]
+Table '4010037565 1' 3-max Siège #2 est au bouton.
+Place 1: tobarcelos (135 en jetons) 
+Place 2: psychoman59 (730 en jetons) 
+Place 3: bino mota (635 en jetons) 
+bino mota : met la petite blind. 20
+tobarcelos : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 9h]
+psychoman59 : passe. 
+bino mota : suit. 20
+tobarcelos : parole 
+*** FLOP *** [8h Ks Ad]
+bino mota : mise. 40
+tobarcelos : passe. 
+Personne n'a suivi. (40) sont retournés à bino mota.
+bino mota a remporté 80  lors du pot .
+bino mota : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [8h Ks Ad]
+Siège 1 : tobarcelos (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : bino mota (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°261197095602 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 20/06/2026 15:29:59 CET [20/06/2026 9:29:59 ET]
+Table '4010037565 1' 3-max Siège #3 est au bouton.
+Place 1: tobarcelos (95 en jetons) 
+Place 2: psychoman59 (730 en jetons) 
+Place 3: bino mota (675 en jetons) 
+tobarcelos : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 9h]
+bino mota : passe. 
+tobarcelos : suit. 20
+psychoman59 : parole 
+*** FLOP *** [3h As 3c]
+tobarcelos : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3h As 3c] [9d]
+tobarcelos : parole 
+psychoman59 : mise. 80
+tobarcelos : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [3h As 3c 9d]
+Siège 1 : tobarcelos (petite blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : bino mota (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261197097941 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 20/06/2026 15:30:16 CET [20/06/2026 9:30:16 ET]
+Table '4010037565 1' 3-max Siège #1 est au bouton.
+Place 1: tobarcelos (55 en jetons) 
+Place 2: psychoman59 (770 en jetons) 
+Place 3: bino mota (675 en jetons) 
+psychoman59 : met la petite blind. 20
+bino mota : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 9d]
+tobarcelos : passe. 
+psychoman59 : suit. 20
+bino mota : parole 
+*** FLOP *** [Jd 8s 4c]
+psychoman59 : mise. 80
+bino mota : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Jd 8s 4c]
+Siège 1 : tobarcelos (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (80)
+Siège 3 : bino mota (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261197099906 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 20/06/2026 15:30:32 CET [20/06/2026 9:30:32 ET]
+Table '4010037565 1' 3-max Siège #2 est au bouton.
+Place 1: tobarcelos (55 en jetons) 
+Place 2: psychoman59 (810 en jetons) 
+Place 3: bino mota (635 en jetons) 
+bino mota : met la petite blind. 20
+tobarcelos : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 6h]
+psychoman59 : suit. 40
+bino mota : passe. 
+tobarcelos : relance. 15 à 55 et est all-in.
+psychoman59 : suit. 15
+*** FLOP *** [Tc 3h Jc]
+*** TOURNANT *** [Tc 3h Jc] [9s]
+*** RIVIÈRE *** [Tc 3h Jc 9s] [Kh]
+*** ABATTAGE ***
+tobarcelos : montre [4s 8h] (Hauteur Roi)
+psychoman59 : montre [As 6h] (Hauteur As)
+psychoman59 a remporté 130  lors du pot .
+tobarcelos a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Tableau [Tc 3h Jc 9s Kh]
+Siège 1 : tobarcelos (grosse blind) a montré [4s 8h] et a perdu avec Hauteur Roi
+Siège 2 : psychoman59 (bouton) a montré [As 6h] et a gagné (130) avec Hauteur As
+Siège 3 : bino mota (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261197102554 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 20/06/2026 15:30:52 CET [20/06/2026 9:30:52 ET]
+Table '4010037565 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (885 en jetons) 
+Place 3: bino mota (615 en jetons) 
+bino mota : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 2h]
+bino mota : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : bino mota (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261197103144 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 20/06/2026 15:30:57 CET [20/06/2026 9:30:57 ET]
+Table '4010037565 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (905 en jetons) 
+Place 3: bino mota (595 en jetons) 
+psychoman59 : met la petite blind. 20
+bino mota : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Jd]
+psychoman59 : suit. 20
+bino mota : parole 
+*** FLOP *** [8s 9d Ts]
+bino mota : mise. 80
+psychoman59 : suit. 80
+*** TOURNANT *** [8s 9d Ts] [Js]
+bino mota : mise. 80
+psychoman59 : suit. 80
+*** RIVIÈRE *** [8s 9d Ts Js] [7d]
+bino mota : mise. 80
+psychoman59 : suit. 80
+*** ABATTAGE ***
+bino mota : montre [Qd Jc] (une suite, Huit à Dame)
+psychoman59 : cache la main perdante. 
+bino mota a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [8s 9d Ts Js 7d]
+Siège 2 : psychoman59 (bouton) (petite blind) a caché la main perdante. [Kc Jd]
+Siège 3 : bino mota (grosse blind) a montré [Qd Jc] et a gagné (560) avec une suite, Huit à Dame
+
+
+
+Main PokerStars n°261197106547 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 20/06/2026 15:31:23 CET [20/06/2026 9:31:23 ET]
+Table '4010037565 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (625 en jetons) 
+Place 3: bino mota (875 en jetons) 
+bino mota : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 9h]
+bino mota : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : bino mota (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261197107122 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 20/06/2026 15:31:28 CET [20/06/2026 9:31:28 ET]
+Table '4010037565 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (655 en jetons) 
+Place 3: bino mota (845 en jetons) 
+psychoman59 : met la petite blind. 30
+bino mota : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 2h]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à bino mota.
+bino mota a remporté 60  lors du pot .
+bino mota : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : bino mota (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°261197107935 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 20/06/2026 15:31:34 CET [20/06/2026 9:31:34 ET]
+Table '4010037565 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (625 en jetons) 
+Place 3: bino mota (875 en jetons) 
+bino mota : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 3d]
+bino mota : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Jd 4c Tc]
+psychoman59 : parole 
+bino mota : parole 
+*** TOURNANT *** [Jd 4c Tc] [7s]
+psychoman59 : parole 
+bino mota : parole 
+*** RIVIÈRE *** [Jd 4c Tc 7s] [Ks]
+psychoman59 : parole 
+bino mota : parole 
+*** ABATTAGE ***
+psychoman59 : montre [8c 3d] (Hauteur Roi)
+bino mota : montre [5d Qs] (Hauteur Roi - Dame kicker)
+bino mota a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Jd 4c Tc 7s Ks]
+Siège 2 : psychoman59 (grosse blind) a montré [8c 3d] et a perdu avec Hauteur Roi
+Siège 3 : bino mota (bouton) (petite blind) a montré [5d Qs] et a gagné (120) avec Hauteur Roi
+
+
+
+Main PokerStars n°261197110788 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 20/06/2026 15:31:56 CET [20/06/2026 9:31:56 ET]
+Table '4010037565 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (565 en jetons) 
+Place 3: bino mota (935 en jetons) 
+psychoman59 : met la petite blind. 30
+bino mota : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Jh]
+psychoman59 : suit. 30
+bino mota : parole 
+*** FLOP *** [7s Kd Kc]
+bino mota : parole 
+psychoman59 : mise. 60
+bino mota : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [7s Kd Kc]
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 3 : bino mota (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261197112869 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 20/06/2026 15:32:12 CET [20/06/2026 9:32:12 ET]
+Table '4010037565 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (625 en jetons) 
+Place 3: bino mota (875 en jetons) 
+bino mota : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 8d]
+bino mota : suit. 30
+psychoman59 : parole 
+*** FLOP *** [7d Kd 2h]
+psychoman59 : parole 
+bino mota : mise. 60
+psychoman59 : suit. 60
+*** TOURNANT *** [7d Kd 2h] [9d]
+psychoman59 : parole 
+bino mota : mise. 60
+psychoman59 : suit. 60
+*** RIVIÈRE *** [7d Kd 2h 9d] [Qh]
+psychoman59 : parole 
+bino mota : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Jd 8d] (une couleur, hauteur Roi)
+bino mota : cache la main perdante. 
+psychoman59 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [7d Kd 2h 9d Qh]
+Siège 2 : psychoman59 (grosse blind) a montré [Jd 8d] et a gagné (360) avec une couleur, hauteur Roi
+Siège 3 : bino mota (bouton) (petite blind) a caché la main perdante. [5c Ks]
+
+
+
+Main PokerStars n°261197115906 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 20/06/2026 15:32:35 CET [20/06/2026 9:32:35 ET]
+Table '4010037565 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (805 en jetons) 
+Place 3: bino mota (695 en jetons) 
+psychoman59 : met la petite blind. 30
+bino mota : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Ac]
+psychoman59 : suit. 30
+bino mota : parole 
+*** FLOP *** [Th 6h 6d]
+bino mota : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Th 6h 6d] [Jh]
+bino mota : parole 
+psychoman59 : mise. 60
+bino mota : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Th 6h 6d Jh]
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 3 : bino mota (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°261197118346 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 20/06/2026 15:32:53 CET [20/06/2026 9:32:53 ET]
+Table '4010037565 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (865 en jetons) 
+Place 3: bino mota (635 en jetons) 
+bino mota : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Ks]
+bino mota : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : bino mota (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261197119034 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 20/06/2026 15:32:58 CET [20/06/2026 9:32:58 ET]
+Table '4010037565 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (895 en jetons) 
+Place 3: bino mota (605 en jetons) 
+psychoman59 : met la petite blind. 30
+bino mota : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 3s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à bino mota.
+bino mota a remporté 60  lors du pot .
+bino mota : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : bino mota (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°261197120291 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 20/06/2026 15:33:08 CET [20/06/2026 9:33:08 ET]
+Table '4010037565 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (865 en jetons) 
+Place 3: bino mota (635 en jetons) 
+bino mota : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Ks]
+bino mota : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : bino mota (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261197120967 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 20/06/2026 15:33:13 CET [20/06/2026 9:33:13 ET]
+Table '4010037565 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (905 en jetons) 
+Place 3: bino mota (595 en jetons) 
+psychoman59 : met la petite blind. 40
+bino mota : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Td]
+psychoman59 : suit. 40
+bino mota : parole 
+*** FLOP *** [Kd 9c 2s]
+bino mota : parole 
+psychoman59 : mise. 80
+bino mota : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Kd 9c 2s]
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (160)
+Siège 3 : bino mota (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261197122831 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 20/06/2026 15:33:27 CET [20/06/2026 9:33:27 ET]
+Table '4010037565 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (985 en jetons) 
+Place 3: bino mota (515 en jetons) 
+bino mota : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c As]
+bino mota : suit. 40
+psychoman59 : parole 
+*** FLOP *** [Ts 2d Jh]
+psychoman59 : parole 
+bino mota : parole 
+*** TOURNANT *** [Ts 2d Jh] [6h]
+psychoman59 : parole 
+bino mota : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à bino mota.
+bino mota a remporté 160  lors du pot .
+bino mota : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Ts 2d Jh 6h]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : bino mota (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°261197124930 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 20/06/2026 15:33:43 CET [20/06/2026 9:33:43 ET]
+Table '4010037565 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (905 en jetons) 
+Place 3: bino mota (595 en jetons) 
+psychoman59 : met la petite blind. 40
+bino mota : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 7c]
+psychoman59 : relance. 825 à 905 et est all-in.
+bino mota : passe. 
+Personne n'a suivi. (825) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (160)
+Siège 3 : bino mota (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261197126125 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 20/06/2026 15:33:52 CET [20/06/2026 9:33:52 ET]
+Table '4010037565 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (985 en jetons) 
+Place 3: bino mota (515 en jetons) 
+bino mota : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 4h]
+bino mota : suit. 40
+psychoman59 : parole 
+*** FLOP *** [4d 8c Qc]
+psychoman59 : parole 
+bino mota : parole 
+*** TOURNANT *** [4d 8c Qc] [8h]
+psychoman59 : mise. 80
+bino mota : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [4d 8c Qc 8h]
+Siège 2 : psychoman59 (grosse blind) a remporté (160)
+Siège 3 : bino mota (bouton) (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°261197128165 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 20/06/2026 15:34:08 CET [20/06/2026 9:34:08 ET]
+Table '4010037565 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1065 en jetons) 
+Place 3: bino mota (435 en jetons) 
+psychoman59 : met la petite blind. 40
+bino mota : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Kd]
+psychoman59 : suit. 40
+bino mota : relance. 355 à 435 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (355) sont retournés à bino mota.
+bino mota a remporté 160  lors du pot .
+bino mota : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : bino mota (grosse blind) a remporté (160)
+
+
+
+Main PokerStars n°261197129539 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 20/06/2026 15:34:19 CET [20/06/2026 9:34:19 ET]
+Table '4010037565 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (985 en jetons) 
+Place 3: bino mota (515 en jetons) 
+bino mota : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 8c]
+bino mota : relance. 160 à 240
+psychoman59 : passe. 
+Personne n'a suivi. (160) sont retournés à bino mota.
+bino mota a remporté 160  lors du pot .
+bino mota : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : bino mota (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°261197130496 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 20/06/2026 15:34:26 CET [20/06/2026 9:34:26 ET]
+Table '4010037565 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (905 en jetons) 
+Place 3: bino mota (595 en jetons) 
+psychoman59 : met la petite blind. 40
+bino mota : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 6c]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à bino mota.
+bino mota a remporté 80  lors du pot .
+bino mota : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : bino mota (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°261197131280 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 20/06/2026 15:34:32 CET [20/06/2026 9:34:32 ET]
+Table '4010037565 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (865 en jetons) 
+Place 3: bino mota (635 en jetons) 
+bino mota : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 3c]
+bino mota : suit. 40
+psychoman59 : parole 
+*** FLOP *** [3h 9s Tc]
+psychoman59 : parole 
+bino mota : parole 
+*** TOURNANT *** [3h 9s Tc] [9c]
+psychoman59 : mise. 80
+bino mota : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [3h 9s Tc 9c]
+Siège 2 : psychoman59 (grosse blind) a remporté (160)
+Siège 3 : bino mota (bouton) (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°261197133330 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 20/06/2026 15:34:48 CET [20/06/2026 9:34:48 ET]
+Table '4010037565 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (945 en jetons) 
+Place 3: bino mota (555 en jetons) 
+psychoman59 : met la petite blind. 40
+bino mota : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 3s]
+psychoman59 : suit. 40
+bino mota : parole 
+*** FLOP *** [Th 9h 3c]
+bino mota : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Th 9h 3c] [8c]
+bino mota : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Th 9h 3c 8c] [8h]
+bino mota : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+bino mota : montre [Kc 6c] (une paire de Huit)
+psychoman59 : montre [Ad 3s] (double paire, Huit et Trois)
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Th 9h 3c 8c 8h]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Ad 3s] et a gagné (160) avec double paire, Huit et Trois
+Siège 3 : bino mota (grosse blind) a montré [Kc 6c] et a perdu avec une paire de Huit
+
+
+
+Main PokerStars n°261197136497 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 20/06/2026 15:35:11 CET [20/06/2026 9:35:11 ET]
+Table '4010037565 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1025 en jetons) 
+Place 3: bino mota (475 en jetons) 
+bino mota : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 7d]
+bino mota : suit. 50
+psychoman59 : parole 
+*** FLOP *** [8c Qd 9c]
+psychoman59 : parole 
+bino mota : parole 
+*** TOURNANT *** [8c Qd 9c] [Ts]
+psychoman59 : parole 
+bino mota : parole 
+*** RIVIÈRE *** [8c Qd 9c Ts] [Js]
+psychoman59 : parole 
+bino mota : parole 
+*** ABATTAGE ***
+psychoman59 : montre [5s 7d] (une suite, Huit à Dame)
+bino mota : montre [4c Ah] (une suite, Huit à Dame)
+psychoman59 a remporté 100  lors du pot .
+bino mota a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [8c Qd 9c Ts Js]
+Siège 2 : psychoman59 (grosse blind) a montré [5s 7d] et a gagné (100) avec une suite, Huit à Dame
+Siège 3 : bino mota (bouton) (petite blind) a montré [4c Ah] et a gagné (100) avec une suite, Huit à Dame
+
+
+
+Main PokerStars n°261197139393 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 20/06/2026 15:35:33 CET [20/06/2026 9:35:33 ET]
+Table '4010037565 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1025 en jetons) 
+Place 3: bino mota (475 en jetons) 
+psychoman59 : met la petite blind. 50
+bino mota : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 7s]
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à bino mota.
+bino mota a remporté 100  lors du pot .
+bino mota : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : bino mota (grosse blind) a remporté (100)
+
+
+
+Main PokerStars n°261197140503 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 20/06/2026 15:35:41 CET [20/06/2026 9:35:41 ET]
+Table '4010037565 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (975 en jetons) 
+Place 3: bino mota (525 en jetons) 
+bino mota : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 7c]
+bino mota : suit. 50
+psychoman59 : parole 
+*** FLOP *** [2s 2c 8d]
+psychoman59 : parole 
+bino mota : parole 
+*** TOURNANT *** [2s 2c 8d] [Qc]
+psychoman59 : parole 
+bino mota : parole 
+*** RIVIÈRE *** [2s 2c 8d Qc] [Kd]
+psychoman59 : parole 
+bino mota : parole 
+*** ABATTAGE ***
+psychoman59 : montre [4h 7c] (une paire de Deux)
+bino mota : montre [6c 5c] (une paire de Deux)
+psychoman59 a remporté 100  lors du pot .
+bino mota a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [2s 2c 8d Qc Kd]
+Siège 2 : psychoman59 (grosse blind) a montré [4h 7c] et a gagné (100) avec une paire de Deux
+Siège 3 : bino mota (bouton) (petite blind) a montré [6c 5c] et a gagné (100) avec une paire de Deux
+
+
+
+Main PokerStars n°261197144208 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 20/06/2026 15:36:09 CET [20/06/2026 9:36:09 ET]
+Table '4010037565 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (975 en jetons) 
+Place 3: bino mota (525 en jetons) 
+psychoman59 : met la petite blind. 50
+bino mota : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 5h]
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à bino mota.
+bino mota a remporté 100  lors du pot .
+bino mota : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : bino mota (grosse blind) a remporté (100)
+
+
+
+Main PokerStars n°261197145284 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 20/06/2026 15:36:17 CET [20/06/2026 9:36:17 ET]
+Table '4010037565 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (925 en jetons) 
+Place 3: bino mota (575 en jetons) 
+bino mota : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Jd]
+bino mota : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (100)
+Siège 3 : bino mota (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261197145934 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 20/06/2026 15:36:22 CET [20/06/2026 9:36:22 ET]
+Table '4010037565 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (975 en jetons) 
+Place 3: bino mota (525 en jetons) 
+psychoman59 : met la petite blind. 50
+bino mota : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 3h]
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à bino mota.
+bino mota a remporté 100  lors du pot .
+bino mota : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : bino mota (grosse blind) a remporté (100)
+
+
+
+Main PokerStars n°261197146789 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 20/06/2026 15:36:28 CET [20/06/2026 9:36:28 ET]
+Table '4010037565 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (925 en jetons) 
+Place 3: bino mota (575 en jetons) 
+bino mota : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Ks]
+bino mota : suit. 50
+psychoman59 : relance. 825 à 925 et est all-in.
+bino mota : passe. 
+Personne n'a suivi. (825) sont retournés à psychoman59.
+psychoman59 a remporté 200  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (200)
+Siège 3 : bino mota (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261197147896 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 20/06/2026 15:36:36 CET [20/06/2026 9:36:36 ET]
+Table '4010037565 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1025 en jetons) 
+Place 3: bino mota (475 en jetons) 
+psychoman59 : met la petite blind. 50
+bino mota : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Qs]
+psychoman59 : suit. 50
+bino mota : parole 
+*** FLOP *** [9c 4d 5h]
+bino mota : parole 
+psychoman59 : parole 
+*** TOURNANT *** [9c 4d 5h] [3s]
+bino mota : mise. 100
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à bino mota.
+bino mota a remporté 200  lors du pot .
+bino mota : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [9c 4d 5h 3s]
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Tournant
+Siège 3 : bino mota (grosse blind) a remporté (200)
+
+
+
+Main PokerStars n°261197150269 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 20/06/2026 15:36:54 CET [20/06/2026 9:36:54 ET]
+Table '4010037565 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (925 en jetons) 
+Place 3: bino mota (575 en jetons) 
+bino mota : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 9s]
+bino mota : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (100)
+Siège 3 : bino mota (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261197150892 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 20/06/2026 15:36:59 CET [20/06/2026 9:36:59 ET]
+Table '4010037565 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (975 en jetons) 
+Place 3: bino mota (525 en jetons) 
+psychoman59 : met la petite blind. 50
+bino mota : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Qs]
+psychoman59 : relance. 875 à 975 et est all-in.
+bino mota : passe. 
+Personne n'a suivi. (875) sont retournés à psychoman59.
+psychoman59 a remporté 200  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (200)
+Siège 3 : bino mota (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261197152754 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 20/06/2026 15:37:13 CET [20/06/2026 9:37:13 ET]
+Table '4010037565 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1075 en jetons) 
+Place 3: bino mota (425 en jetons) 
+bino mota : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 2d]
+bino mota : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (120)
+Siège 3 : bino mota (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261197153408 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 20/06/2026 15:37:18 CET [20/06/2026 9:37:18 ET]
+Table '4010037565 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1135 en jetons) 
+Place 3: bino mota (365 en jetons) 
+psychoman59 : met la petite blind. 60
+bino mota : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js As]
+psychoman59 : suit. 60
+bino mota : parole 
+*** FLOP *** [9s Ad 2d]
+bino mota : mise. 120
+psychoman59 : relance. 180 à 300
+bino mota : suit. 125 et est all-in.
+Personne n'a suivi. (55) sont retournés à psychoman59.
+*** TOURNANT *** [9s Ad 2d] [8d]
+*** RIVIÈRE *** [9s Ad 2d 8d] [Td]
+*** ABATTAGE ***
+bino mota : montre [Qd 3d] (une couleur, hauteur As)
+psychoman59 : montre [Js As] (une paire de As)
+bino mota a remporté 730  lors du pot .
+*** SYNTHÈSE ***
+Pot total 730 | Commission 0 
+Tableau [9s Ad 2d 8d Td]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Js As] et a perdu avec une paire de As
+Siège 3 : bino mota (grosse blind) a montré [Qd 3d] et a gagné (730) avec une couleur, hauteur As
+
+
+
+Main PokerStars n°261197156138 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 20/06/2026 15:37:39 CET [20/06/2026 9:37:39 ET]
+Table '4010037565 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (770 en jetons) 
+Place 3: bino mota (730 en jetons) 
+bino mota : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 5c]
+bino mota : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (120)
+Siège 3 : bino mota (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261197157002 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 20/06/2026 15:37:45 CET [20/06/2026 9:37:45 ET]
+Table '4010037565 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (830 en jetons) 
+Place 3: bino mota (670 en jetons) 
+psychoman59 : met la petite blind. 60
+bino mota : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Kh]
+psychoman59 : suit. 60
+bino mota : parole 
+*** FLOP *** [Jd Th Jh]
+bino mota : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Jd Th Jh] [Ks]
+bino mota : parole 
+psychoman59 : mise. 240
+bino mota : passe. 
+Personne n'a suivi. (240) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Jd Th Jh Ks]
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (240)
+Siège 3 : bino mota (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°261197159427 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 20/06/2026 15:38:04 CET [20/06/2026 9:38:04 ET]
+Table '4010037565 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (950 en jetons) 
+Place 3: bino mota (550 en jetons) 
+bino mota : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 7s]
+bino mota : suit. 60
+psychoman59 : parole 
+*** FLOP *** [9d 9c 4c]
+psychoman59 : mise. 830 et est all-in.
+bino mota : passe. 
+Personne n'a suivi. (830) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [9d 9c 4c]
+Siège 2 : psychoman59 (grosse blind) a remporté (240)
+Siège 3 : bino mota (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261197160916 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 20/06/2026 15:38:15 CET [20/06/2026 9:38:15 ET]
+Table '4010037565 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1070 en jetons) 
+Place 3: bino mota (430 en jetons) 
+psychoman59 : met la petite blind. 60
+bino mota : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 7h]
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à bino mota.
+bino mota a remporté 120  lors du pot .
+bino mota : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : bino mota (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°261197161788 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 20/06/2026 15:38:22 CET [20/06/2026 9:38:22 ET]
+Table '4010037565 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1010 en jetons) 
+Place 3: bino mota (490 en jetons) 
+bino mota : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 9h]
+bino mota : suit. 60
+psychoman59 : parole 
+*** FLOP *** [7h Kc Tc]
+psychoman59 : parole 
+bino mota : mise. 120
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à bino mota.
+bino mota a remporté 240  lors du pot .
+bino mota : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [7h Kc Tc]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : bino mota (bouton) (petite blind) a remporté (240)
+
+
+
+Main PokerStars n°261197163458 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 20/06/2026 15:38:34 CET [20/06/2026 9:38:34 ET]
+Table '4010037565 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (890 en jetons) 
+Place 3: bino mota (610 en jetons) 
+psychoman59 : met la petite blind. 60
+bino mota : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 2s]
+psychoman59 : suit. 60
+bino mota : relance. 490 à 610 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (490) sont retournés à bino mota.
+bino mota a remporté 240  lors du pot .
+bino mota : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : bino mota (grosse blind) a remporté (240)
+
+
+
+Main PokerStars n°261197164989 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 20/06/2026 15:38:46 CET [20/06/2026 9:38:46 ET]
+Table '4010037565 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (770 en jetons) 
+Place 3: bino mota (730 en jetons) 
+bino mota : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 5h]
+bino mota : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (120)
+Siège 3 : bino mota (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261197165609 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 20/06/2026 15:38:51 CET [20/06/2026 9:38:51 ET]
+Table '4010037565 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (830 en jetons) 
+Place 3: bino mota (670 en jetons) 
+psychoman59 : met la petite blind. 60
+bino mota : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Kc]
+psychoman59 : relance. 120 à 240
+bino mota : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (240)
+Siège 3 : bino mota (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261197167009 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VII (60/120) - 20/06/2026 15:39:01 CET [20/06/2026 9:39:01 ET]
+Table '4010037565 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (950 en jetons) 
+Place 3: bino mota (550 en jetons) 
+bino mota : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Kd]
+bino mota : suit. 60
+psychoman59 : relance. 120 à 240
+bino mota : suit. 120
+*** FLOP *** [Ts Tc 4d]
+psychoman59 : mise. 480
+bino mota : passe. 
+Personne n'a suivi. (480) sont retournés à psychoman59.
+psychoman59 a remporté 480  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [Ts Tc 4d]
+Siège 2 : psychoman59 (grosse blind) a remporté (480)
+Siège 3 : bino mota (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261197169197 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VIII (75/150) - 20/06/2026 15:39:18 CET [20/06/2026 9:39:18 ET]
+Table '4010037565 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1190 en jetons) 
+Place 3: bino mota (310 en jetons) 
+psychoman59 : met la petite blind. 75
+bino mota : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Td]
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à bino mota.
+bino mota a remporté 150  lors du pot .
+bino mota : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : bino mota (grosse blind) a remporté (150)
+
+
+
+Main PokerStars n°261197169992 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VIII (75/150) - 20/06/2026 15:39:24 CET [20/06/2026 9:39:24 ET]
+Table '4010037565 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1115 en jetons) 
+Place 3: bino mota (385 en jetons) 
+bino mota : met la petite blind. 75
+psychoman59 : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 5h]
+bino mota : suit. 75
+psychoman59 : parole 
+*** FLOP *** [8d 8s 2s]
+psychoman59 : parole 
+bino mota : parole 
+*** TOURNANT *** [8d 8s 2s] [7h]
+psychoman59 : parole 
+bino mota : parole 
+*** RIVIÈRE *** [8d 8s 2s 7h] [3h]
+psychoman59 : mise. 965 et est all-in.
+bino mota : passe. 
+Personne n'a suivi. (965) sont retournés à psychoman59.
+psychoman59 a remporté 300  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [8d 8s 2s 7h 3h]
+Siège 2 : psychoman59 (grosse blind) a remporté (300)
+Siège 3 : bino mota (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°261197173164 : Tournoi #4010037565, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VIII (75/150) - 20/06/2026 15:39:48 CET [20/06/2026 9:39:48 ET]
+Table '4010037565 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1265 en jetons) 
+Place 3: bino mota (235 en jetons) 
+psychoman59 : met la petite blind. 75
+bino mota : met la grosse blind. 150
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Ac]
+psychoman59 : relance. 150 à 300
+bino mota : suit. 85 et est all-in.
+Personne n'a suivi. (65) sont retournés à psychoman59.
+*** FLOP *** [Th 6s 5c]
+*** TOURNANT *** [Th 6s 5c] [Tc]
+*** RIVIÈRE *** [Th 6s 5c Tc] [8d]
+*** ABATTAGE ***
+bino mota : montre [Ah 2s] (une paire de Dix)
+psychoman59 : montre [Js Ac] (une paire de Dix - As+Valet kicker)
+psychoman59 a remporté 470  lors du pot .
+bino mota a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 470 | Commission 0 
+Tableau [Th 6s 5c Tc 8d]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Js Ac] et a gagné (470) avec une paire de Dix
+Siège 3 : bino mota (grosse blind) a montré [Ah 2s] et a perdu avec une paire de Dix
+
+
+

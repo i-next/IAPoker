@@ -1,0 +1,102 @@
+﻿Main PokerStars n°254415088848 : Tournoi #3848452036, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 17/01/2025 16:41:41 CET [17/01/2025 10:41:41 ET]
+Table '3848452036 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: AttasseaTv (500 en jetons) 
+Place 3: bobdebercy (500 en jetons) 
+AttasseaTv : met la petite blind. 10
+bobdebercy : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Ac]
+psychoman59 : relance. 20 à 40
+AttasseaTv : suit. 30
+bobdebercy : suit. 20
+*** FLOP *** [Ts 9c 8h]
+AttasseaTv : parole 
+bobdebercy : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Ts 9c 8h] [3c]
+AttasseaTv : mise. 72
+bobdebercy : passe. 
+psychoman59 : suit. 72
+*** RIVIÈRE *** [Ts 9c 8h 3c] [5s]
+AttasseaTv : mise. 158
+psychoman59 : suit. 158
+*** ABATTAGE ***
+AttasseaTv : montre [7h 6h] (une suite, Six à Dix)
+psychoman59 : cache la main perdante. 
+AttasseaTv a remporté 580  lors du pot .
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [Ts 9c 8h 3c 5s]
+Siège 1 : psychoman59 (bouton) a caché la main perdante. [5c Ac]
+Siège 2 : AttasseaTv (petite blind) a montré [7h 6h] et a gagné (580) avec une suite, Six à Dix
+Siège 3 : bobdebercy (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°254415093764 : Tournoi #3848452036, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 17/01/2025 16:42:04 CET [17/01/2025 10:42:04 ET]
+Table '3848452036 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (230 en jetons) 
+Place 2: AttasseaTv (810 en jetons) 
+Place 3: bobdebercy (460 en jetons) 
+bobdebercy : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 3c]
+AttasseaTv : relance. 20 à 40
+bobdebercy : suit. 30
+psychoman59 : passe. 
+*** FLOP *** [6h 2c Jh]
+bobdebercy : parole 
+AttasseaTv : mise. 60
+bobdebercy : suit. 60
+*** TOURNANT *** [6h 2c Jh] [9h]
+bobdebercy : parole 
+AttasseaTv : mise. 132
+bobdebercy : suit. 132
+*** RIVIÈRE *** [6h 2c Jh 9h] [8d]
+bobdebercy : parole 
+AttasseaTv : mise. 290
+bobdebercy : suit. 228 et est all-in.
+Personne n'a suivi. (62) sont retournés à AttasseaTv.
+*** ABATTAGE ***
+AttasseaTv : montre [Kc Kh] (une paire de Rois)
+bobdebercy : montre [Jd Qd] (une paire de Valets)
+AttasseaTv a remporté 940  lors du pot .
+bobdebercy a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 940 | Commission 0 
+Tableau [6h 2c Jh 9h 8d]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : AttasseaTv (bouton) a montré [Kc Kh] et a gagné (940) avec une paire de Rois
+Siège 3 : bobdebercy (petite blind) a montré [Jd Qd] et a perdu avec une paire de Valets
+
+
+
+Main PokerStars n°254415099099 : Tournoi #3848452036, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 17/01/2025 16:42:28 CET [17/01/2025 10:42:28 ET]
+Table '3848452036 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (210 en jetons) 
+Place 2: AttasseaTv (1290 en jetons) 
+psychoman59 : met la petite blind. 10
+AttasseaTv : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 3s]
+psychoman59 : relance. 190 à 210 et est all-in.
+AttasseaTv : suit. 190
+*** FLOP *** [7c 5s 9h]
+*** TOURNANT *** [7c 5s 9h] [Ks]
+*** RIVIÈRE *** [7c 5s 9h Ks] [As]
+*** ABATTAGE ***
+AttasseaTv : montre [9s 9c] (un brelan de Neuf)
+psychoman59 : montre [3d 3s] (une paire de Trois)
+AttasseaTv a remporté 420  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+AttasseaTv remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [7c 5s 9h Ks As]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [3d 3s] et a perdu avec une paire de Trois
+Siège 2 : AttasseaTv (grosse blind) a montré [9s 9c] et a gagné (420) avec un brelan de Neuf
+
+
+

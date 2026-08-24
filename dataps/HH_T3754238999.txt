@@ -1,0 +1,80 @@
+﻿Main PokerStars n°250490451036 : Tournoi #3754238999, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 14/05/2024 8:29:09 CET [14/05/2024 2:29:09 ET]
+Table '3754238999 1' 3-max Siège #1 est au bouton.
+Place 1: jorge17verdu (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: Lottins.Sk (500 en jetons) 
+psychoman59 : met la petite blind. 10
+Lottins.Sk : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Js]
+jorge17verdu : suit. 20
+psychoman59 : suit. 10
+Lottins.Sk : parole 
+*** FLOP *** [5d 7d 3c]
+psychoman59 : parole 
+Lottins.Sk : parole 
+jorge17verdu : mise. 40
+psychoman59 : passe. 
+Lottins.Sk : passe. 
+Personne n'a suivi. (40) sont retournés à jorge17verdu.
+jorge17verdu a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [5d 7d 3c]
+Siège 1 : jorge17verdu (bouton) a remporté (60)
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 3 : Lottins.Sk (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°250490452496 : Tournoi #3754238999, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 14/05/2024 8:29:27 CET [14/05/2024 2:29:27 ET]
+Table '3754238999 1' 3-max Siège #2 est au bouton.
+Place 1: jorge17verdu (540 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+Place 3: Lottins.Sk (480 en jetons) 
+Lottins.Sk : met la petite blind. 10
+jorge17verdu : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 4s]
+psychoman59 : passe. 
+Lottins.Sk : passe. 
+Personne n'a suivi. (10) sont retournés à jorge17verdu.
+jorge17verdu a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : jorge17verdu (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Lottins.Sk (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°250490452984 : Tournoi #3754238999, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 14/05/2024 8:29:33 CET [14/05/2024 2:29:33 ET]
+Table '3754238999 1' 3-max Siège #3 est au bouton.
+Place 1: jorge17verdu (550 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+Place 3: Lottins.Sk (470 en jetons) 
+jorge17verdu : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Ks]
+Lottins.Sk : passe. 
+jorge17verdu : relance. 530 à 550 et est all-in.
+psychoman59 : suit. 460 et est all-in.
+Personne n'a suivi. (70) sont retournés à jorge17verdu.
+*** FLOP *** [4h 2d 8c]
+*** TOURNANT *** [4h 2d 8c] [3c]
+*** RIVIÈRE *** [4h 2d 8c 3c] [8d]
+*** ABATTAGE ***
+jorge17verdu : montre [Ah 2s] (double paire, Huit et Deux)
+psychoman59 : montre [Th Ks] (une paire de Huit)
+jorge17verdu a remporté 960  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 960 | Commission 0 
+Tableau [4h 2d 8c 3c 8d]
+Siège 1 : jorge17verdu (petite blind) a montré [Ah 2s] et a gagné (960) avec double paire, Huit et Deux
+Siège 2 : psychoman59 (grosse blind) a montré [Th Ks] et a perdu avec une paire de Huit
+Siège 3 : Lottins.Sk (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+

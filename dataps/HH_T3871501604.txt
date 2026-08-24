@@ -1,0 +1,66 @@
+﻿Main PokerStars n°255397758804 : Tournoi #3871501604, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/03/2025 11:58:27 CET [22/03/2025 6:58:27 ET]
+Table '3871501604 1' 3-max Siège #1 est au bouton.
+Place 1: danielmarinpa (500 en jetons) 
+Place 2: joaquin_896 (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+joaquin_896 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 5c]
+danielmarinpa : passe. 
+joaquin_896 : relance. 20 à 40
+psychoman59 : suit. 20
+*** FLOP *** [Ks 5d 9c]
+joaquin_896 : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [Ks 5d 9c] [3h]
+joaquin_896 : mise. 80
+psychoman59 : suit. 80
+*** RIVIÈRE *** [Ks 5d 9c 3h] [Qd]
+joaquin_896 : mise. 160
+psychoman59 : relance. 180 à 340 et est all-in.
+joaquin_896 : suit. 180 et est all-in.
+*** ABATTAGE ***
+psychoman59 : montre [Kc 5c] (double paire, Rois et Cinq)
+joaquin_896 : montre [8d Qh] (une paire de Dames)
+psychoman59 a remporté 1000  lors du pot .
+joaquin_896 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 1000 | Commission 0 
+Tableau [Ks 5d 9c 3h Qd]
+Siège 1 : danielmarinpa (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : joaquin_896 (petite blind) a montré [8d Qh] et a perdu avec une paire de Dames
+Siège 3 : psychoman59 (grosse blind) a montré [Kc 5c] et a gagné (1000) avec double paire, Rois et Cinq
+
+
+
+Main PokerStars n°255397763965 : Tournoi #3871501604, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/03/2025 11:59:18 CET [22/03/2025 6:59:18 ET]
+Table '3871501604 1' 3-max Siège #3 est au bouton.
+Place 1: danielmarinpa (500 en jetons) 
+Place 3: psychoman59 (1000 en jetons) 
+psychoman59 : met la petite blind. 10
+danielmarinpa : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Ad]
+psychoman59 : suit. 10
+danielmarinpa : relance. 20 à 40
+psychoman59 : relance. 960 à 1000 et est all-in.
+danielmarinpa : suit. 460 et est all-in.
+Personne n'a suivi. (500) sont retournés à psychoman59.
+*** FLOP *** [3s Qd Ah]
+*** TOURNANT *** [3s Qd Ah] [6c]
+*** RIVIÈRE *** [3s Qd Ah 6c] [3d]
+*** ABATTAGE ***
+danielmarinpa : montre [Jc 7c] (une paire de Trois)
+psychoman59 : montre [8h Ad] (double paire, As et Trois)
+psychoman59 a remporté 1000  lors du pot .
+danielmarinpa a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 1000 | Commission 0 
+Tableau [3s Qd Ah 6c 3d]
+Siège 1 : danielmarinpa (grosse blind) a montré [Jc 7c] et a perdu avec une paire de Trois
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [8h Ad] et a gagné (1000) avec double paire, As et Trois
+
+
+

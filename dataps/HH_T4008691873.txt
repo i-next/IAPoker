@@ -1,0 +1,732 @@
+﻿Main PokerStars n°261145390377 : Tournoi #4008691873, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/06/2026 9:36:58 CET [15/06/2026 3:36:58 ET]
+Table '4008691873 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: miquele464 (500 en jetons) 
+Place 3: stouf04 (500 en jetons) 
+miquele464 : met la petite blind. 10
+stouf04 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 8d]
+psychoman59 : passe. 
+miquele464 : passe. 
+Personne n'a suivi. (10) sont retournés à stouf04.
+stouf04 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : miquele464 (petite blind) s'est couché. avant Flop
+Siège 3 : stouf04 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°261145390895 : Tournoi #4008691873, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/06/2026 9:37:08 CET [15/06/2026 3:37:08 ET]
+Table '4008691873 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: miquele464 (490 en jetons) 
+Place 3: stouf04 (510 en jetons) 
+stouf04 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Tc]
+miquele464 : passe. 
+stouf04 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [As 6c 2c]
+stouf04 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [As 6c 2c] [4h]
+stouf04 : parole 
+psychoman59 : mise. 20
+stouf04 : suit. 20
+*** RIVIÈRE *** [As 6c 2c 4h] [6s]
+stouf04 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+stouf04 : montre [Kd 9c] (une paire de Six)
+psychoman59 : montre [Kh Tc] (une paire de Six - As+Roi+Dix kicker)
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [As 6c 2c 4h 6s]
+Siège 1 : psychoman59 (grosse blind) a montré [Kh Tc] et a gagné (80) avec une paire de Six
+Siège 2 : miquele464 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : stouf04 (petite blind) a montré [Kd 9c] et a perdu avec une paire de Six
+
+
+
+Main PokerStars n°261145392288 : Tournoi #4008691873, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/06/2026 9:37:35 CET [15/06/2026 3:37:35 ET]
+Table '4008691873 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (540 en jetons) 
+Place 2: miquele464 (490 en jetons) 
+Place 3: stouf04 (470 en jetons) 
+psychoman59 : met la petite blind. 10
+miquele464 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 7h]
+stouf04 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à miquele464.
+miquele464 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : miquele464 (grosse blind) a remporté (20)
+Siège 3 : stouf04 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261145392705 : Tournoi #4008691873, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/06/2026 9:37:43 CET [15/06/2026 3:37:43 ET]
+Table '4008691873 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (530 en jetons) 
+Place 2: miquele464 (500 en jetons) 
+Place 3: stouf04 (470 en jetons) 
+miquele464 : met la petite blind. 10
+stouf04 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Th]
+psychoman59 : passe. 
+miquele464 : suit. 10
+stouf04 : parole 
+*** FLOP *** [As 7d 7s]
+miquele464 : parole 
+stouf04 : parole 
+*** TOURNANT *** [As 7d 7s] [7c]
+miquele464 : parole 
+stouf04 : parole 
+*** RIVIÈRE *** [As 7d 7s 7c] [Kd]
+miquele464 : parole 
+stouf04 : parole 
+*** ABATTAGE ***
+miquele464 : montre [4s Ts] (un brelan de Sept)
+stouf04 : montre [4c 2d] (un brelan de Sept)
+miquele464 a remporté 20  lors du pot .
+stouf04 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [As 7d 7s 7c Kd]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : miquele464 (petite blind) a montré [4s Ts] et a gagné (20) avec un brelan de Sept
+Siège 3 : stouf04 (grosse blind) a montré [4c 2d] et a gagné (20) avec un brelan de Sept
+
+
+
+Main PokerStars n°261145393915 : Tournoi #4008691873, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/06/2026 9:38:06 CET [15/06/2026 3:38:06 ET]
+Table '4008691873 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (530 en jetons) 
+Place 2: miquele464 (500 en jetons) 
+Place 3: stouf04 (470 en jetons) 
+stouf04 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 3d]
+miquele464 : passe. 
+stouf04 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [6h 3h 3s]
+stouf04 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6h 3h 3s] [Qd]
+stouf04 : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [6h 3h 3s Qd] [4d]
+stouf04 : mise. 20
+psychoman59 : relance. 60 à 80
+stouf04 : suit. 60
+*** ABATTAGE ***
+psychoman59 : montre [Js 3d] (un brelan de Trois)
+stouf04 : cache la main perdante. 
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [6h 3h 3s Qd 4d]
+Siège 1 : psychoman59 (grosse blind) a montré [Js 3d] et a gagné (240) avec un brelan de Trois
+Siège 2 : miquele464 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : stouf04 (petite blind) a caché la main perdante. [Qh Tc]
+
+
+
+Main PokerStars n°261145395382 : Tournoi #4008691873, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/06/2026 9:38:34 CET [15/06/2026 3:38:34 ET]
+Table '4008691873 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (650 en jetons) 
+Place 2: miquele464 (500 en jetons) 
+Place 3: stouf04 (350 en jetons) 
+psychoman59 : met la petite blind. 10
+miquele464 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Jh]
+stouf04 : relance. 50 à 70
+psychoman59 : passe. 
+miquele464 : relance. 50 à 120
+stouf04 : relance. 230 à 350 et est all-in.
+miquele464 : suit. 230
+*** FLOP *** [6d As 4d]
+*** TOURNANT *** [6d As 4d] [Qs]
+*** RIVIÈRE *** [6d As 4d Qs] [5s]
+*** ABATTAGE ***
+miquele464 : montre [Ks Kd] (une paire de Rois)
+stouf04 : montre [5c 5h] (un brelan de Cinq)
+stouf04 a remporté 710  lors du pot .
+*** SYNTHÈSE ***
+Pot total 710 | Commission 0 
+Tableau [6d As 4d Qs 5s]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : miquele464 (grosse blind) a montré [Ks Kd] et a perdu avec une paire de Rois
+Siège 3 : stouf04 (bouton) a montré [5c 5h] et a gagné (710) avec un brelan de Cinq
+
+
+
+Main PokerStars n°261145396604 : Tournoi #4008691873, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/06/2026 9:38:57 CET [15/06/2026 3:38:57 ET]
+Table '4008691873 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (640 en jetons) 
+Place 2: miquele464 (150 en jetons) 
+Place 3: stouf04 (710 en jetons) 
+miquele464 : met la petite blind. 10
+stouf04 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Qd]
+psychoman59 : suit. 20
+miquele464 : relance. 130 à 150 et est all-in.
+stouf04 : passe. 
+psychoman59 : suit. 130
+*** FLOP *** [Td Jc Th]
+*** TOURNANT *** [Td Jc Th] [2s]
+*** RIVIÈRE *** [Td Jc Th 2s] [Jd]
+*** ABATTAGE ***
+miquele464 : montre [Jh Ah] (un full, full aux Valets par les Dix)
+psychoman59 : montre [Tc Qd] (un full, full aux Dix par les Valets)
+miquele464 a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [Td Jc Th 2s Jd]
+Siège 1 : psychoman59 (bouton) a montré [Tc Qd] et a perdu avec un full, full aux Dix par les Valets
+Siège 2 : miquele464 (petite blind) a montré [Jh Ah] et a gagné (320) avec un full, full aux Valets par les Dix
+Siège 3 : stouf04 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261145397858 : Tournoi #4008691873, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2026 9:39:21 CET [15/06/2026 3:39:21 ET]
+Table '4008691873 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (490 en jetons) 
+Place 2: miquele464 (320 en jetons) 
+Place 3: stouf04 (690 en jetons) 
+stouf04 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Ts]
+miquele464 : relance. 290 à 320 et est all-in.
+stouf04 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (290) sont retournés à miquele464.
+miquele464 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : miquele464 (bouton) a remporté (75)
+Siège 3 : stouf04 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261145398308 : Tournoi #4008691873, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2026 9:39:30 CET [15/06/2026 3:39:30 ET]
+Table '4008691873 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (460 en jetons) 
+Place 2: miquele464 (365 en jetons) 
+Place 3: stouf04 (675 en jetons) 
+psychoman59 : met la petite blind. 15
+miquele464 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 6c]
+stouf04 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à miquele464.
+miquele464 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : miquele464 (grosse blind) a remporté (30)
+Siège 3 : stouf04 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261145398678 : Tournoi #4008691873, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2026 9:39:36 CET [15/06/2026 3:39:36 ET]
+Table '4008691873 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (445 en jetons) 
+Place 2: miquele464 (380 en jetons) 
+Place 3: stouf04 (675 en jetons) 
+miquele464 : met la petite blind. 15
+stouf04 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 2c]
+psychoman59 : passe. 
+miquele464 : suit. 15
+stouf04 : parole 
+*** FLOP *** [Qh Tc 9h]
+miquele464 : parole 
+stouf04 : mise. 30
+miquele464 : suit. 30
+*** TOURNANT *** [Qh Tc 9h] [8c]
+miquele464 : parole 
+stouf04 : mise. 30
+miquele464 : suit. 30
+*** RIVIÈRE *** [Qh Tc 9h 8c] [7d]
+miquele464 : parole 
+stouf04 : mise. 180
+miquele464 : suit. 180
+*** ABATTAGE ***
+stouf04 : montre [Jd Th] (une suite, Huit à Dame)
+miquele464 : cache la main perdante. 
+stouf04 a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [Qh Tc 9h 8c 7d]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : miquele464 (petite blind) a caché la main perdante. [6h 8h]
+Siège 3 : stouf04 (grosse blind) a montré [Jd Th] et a gagné (540) avec une suite, Huit à Dame
+
+
+
+Main PokerStars n°261145400235 : Tournoi #4008691873, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2026 9:40:06 CET [15/06/2026 3:40:06 ET]
+Table '4008691873 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (445 en jetons) 
+Place 2: miquele464 (110 en jetons) 
+Place 3: stouf04 (945 en jetons) 
+stouf04 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 4s]
+miquele464 : relance. 80 à 110 et est all-in.
+stouf04 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à miquele464.
+miquele464 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : miquele464 (bouton) a remporté (75)
+Siège 3 : stouf04 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261145400794 : Tournoi #4008691873, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2026 9:40:17 CET [15/06/2026 3:40:17 ET]
+Table '4008691873 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (415 en jetons) 
+Place 2: miquele464 (155 en jetons) 
+Place 3: stouf04 (930 en jetons) 
+psychoman59 : met la petite blind. 15
+miquele464 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 3h]
+stouf04 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à miquele464.
+miquele464 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : miquele464 (grosse blind) a remporté (30)
+Siège 3 : stouf04 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261145401160 : Tournoi #4008691873, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2026 9:40:24 CET [15/06/2026 3:40:24 ET]
+Table '4008691873 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (400 en jetons) 
+Place 2: miquele464 (170 en jetons) 
+Place 3: stouf04 (930 en jetons) 
+miquele464 : met la petite blind. 15
+stouf04 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 6c]
+psychoman59 : passe. 
+miquele464 : suit. 15
+stouf04 : parole 
+*** FLOP *** [Qh 4d 7c]
+miquele464 : mise. 30
+stouf04 : passe. 
+Personne n'a suivi. (30) sont retournés à miquele464.
+miquele464 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Qh 4d 7c]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : miquele464 (petite blind) a remporté (60)
+Siège 3 : stouf04 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261145401871 : Tournoi #4008691873, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2026 9:40:37 CET [15/06/2026 3:40:37 ET]
+Table '4008691873 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (400 en jetons) 
+Place 2: miquele464 (200 en jetons) 
+Place 3: stouf04 (900 en jetons) 
+stouf04 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 7h]
+miquele464 : suit. 30
+stouf04 : relance. 90 à 120
+psychoman59 : passe. 
+miquele464 : suit. 90
+*** FLOP *** [4h 8h 5c]
+stouf04 : mise. 270
+miquele464 : suit. 80 et est all-in.
+Personne n'a suivi. (190) sont retournés à stouf04.
+*** TOURNANT *** [4h 8h 5c] [Qd]
+*** RIVIÈRE *** [4h 8h 5c Qd] [Qs]
+*** ABATTAGE ***
+stouf04 : montre [Ad Qc] (un brelan de Dames)
+miquele464 : montre [Qh Jd] (un brelan de Dames - plus basse kicker)
+stouf04 a remporté 430  lors du pot .
+miquele464 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 430 | Commission 0 
+Tableau [4h 8h 5c Qd Qs]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : miquele464 (bouton) a montré [Qh Jd] et a perdu avec un brelan de Dames
+Siège 3 : stouf04 (petite blind) a montré [Ad Qc] et a gagné (430) avec un brelan de Dames
+
+
+
+Main PokerStars n°261145402988 : Tournoi #4008691873, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2026 9:40:58 CET [15/06/2026 3:40:58 ET]
+Table '4008691873 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (370 en jetons) 
+Place 3: stouf04 (1130 en jetons) 
+psychoman59 : met la petite blind. 15
+stouf04 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 4c]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à stouf04.
+stouf04 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : stouf04 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°261145403448 : Tournoi #4008691873, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2026 9:41:07 CET [15/06/2026 3:41:07 ET]
+Table '4008691873 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (355 en jetons) 
+Place 3: stouf04 (1145 en jetons) 
+stouf04 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 9c]
+stouf04 : relance. 80 à 120
+psychoman59 : relance. 235 à 355 et est all-in.
+stouf04 : suit. 235
+*** FLOP *** [5d 7h Jc]
+*** TOURNANT *** [5d 7h Jc] [8d]
+*** RIVIÈRE *** [5d 7h Jc 8d] [6s]
+*** ABATTAGE ***
+psychoman59 : montre [Kc 9c] (une suite, Cinq à Neuf)
+stouf04 : montre [Js Qs] (une paire de Valets)
+psychoman59 a remporté 710  lors du pot .
+*** SYNTHÈSE ***
+Pot total 710 | Commission 0 
+Tableau [5d 7h Jc 8d 6s]
+Siège 1 : psychoman59 (grosse blind) a montré [Kc 9c] et a gagné (710) avec une suite, Cinq à Neuf
+Siège 3 : stouf04 (bouton) (petite blind) a montré [Js Qs] et a perdu avec une paire de Valets
+
+
+
+Main PokerStars n°261145404319 : Tournoi #4008691873, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2026 9:41:23 CET [15/06/2026 3:41:23 ET]
+Table '4008691873 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (710 en jetons) 
+Place 3: stouf04 (790 en jetons) 
+psychoman59 : met la petite blind. 20
+stouf04 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Jh]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à stouf04.
+stouf04 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : stouf04 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°261145404691 : Tournoi #4008691873, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2026 9:41:30 CET [15/06/2026 3:41:30 ET]
+Table '4008691873 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (690 en jetons) 
+Place 3: stouf04 (810 en jetons) 
+stouf04 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Kh]
+stouf04 : relance. 80 à 120
+psychoman59 : suit. 80
+*** FLOP *** [5h Ac 7s]
+psychoman59 : parole 
+stouf04 : mise. 240
+psychoman59 : passe. 
+Personne n'a suivi. (240) sont retournés à stouf04.
+stouf04 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [5h Ac 7s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : stouf04 (bouton) (petite blind) a remporté (240)
+
+
+
+Main PokerStars n°261145405672 : Tournoi #4008691873, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2026 9:41:48 CET [15/06/2026 3:41:48 ET]
+Table '4008691873 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (570 en jetons) 
+Place 3: stouf04 (930 en jetons) 
+psychoman59 : met la petite blind. 20
+stouf04 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Kc]
+psychoman59 : relance. 530 à 570 et est all-in.
+stouf04 : suit. 530
+*** FLOP *** [Td Ks 3c]
+*** TOURNANT *** [Td Ks 3c] [As]
+*** RIVIÈRE *** [Td Ks 3c As] [Ah]
+*** ABATTAGE ***
+stouf04 : montre [9c 9s] (double paire, As et Neuf)
+psychoman59 : montre [4c Kc] (double paire, As et Rois)
+psychoman59 a remporté 1140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1140 | Commission 0 
+Tableau [Td Ks 3c As Ah]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [4c Kc] et a gagné (1140) avec double paire, As et Rois
+Siège 3 : stouf04 (grosse blind) a montré [9c 9s] et a perdu avec double paire, As et Neuf
+
+
+
+Main PokerStars n°261145406450 : Tournoi #4008691873, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2026 9:42:02 CET [15/06/2026 3:42:02 ET]
+Table '4008691873 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (1140 en jetons) 
+Place 3: stouf04 (360 en jetons) 
+stouf04 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 4c]
+stouf04 : relance. 320 à 360 et est all-in.
+psychoman59 : suit. 320
+*** FLOP *** [Qc Ad 3h]
+*** TOURNANT *** [Qc Ad 3h] [Qd]
+*** RIVIÈRE *** [Qc Ad 3h Qd] [3d]
+*** ABATTAGE ***
+psychoman59 : montre [Kc 4c] (double paire, Dames et Trois)
+stouf04 : montre [9c 6s] (double paire, Dames et Trois)
+psychoman59 a remporté 360  lors du pot .
+stouf04 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 720 | Commission 0 
+Tableau [Qc Ad 3h Qd 3d]
+Siège 1 : psychoman59 (grosse blind) a montré [Kc 4c] et a gagné (360) avec double paire, Dames et Trois
+Siège 3 : stouf04 (bouton) (petite blind) a montré [9c 6s] et a gagné (360) avec double paire, Dames et Trois
+
+
+
+Main PokerStars n°261145407265 : Tournoi #4008691873, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2026 9:42:18 CET [15/06/2026 3:42:18 ET]
+Table '4008691873 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1140 en jetons) 
+Place 3: stouf04 (360 en jetons) 
+psychoman59 : met la petite blind. 20
+stouf04 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 6s]
+psychoman59 : relance. 1100 à 1140 et est all-in.
+stouf04 : suit. 320 et est all-in.
+Personne n'a suivi. (780) sont retournés à psychoman59.
+*** FLOP *** [Td Th 5h]
+*** TOURNANT *** [Td Th 5h] [Jc]
+*** RIVIÈRE *** [Td Th 5h Jc] [Qh]
+*** ABATTAGE ***
+stouf04 : montre [Ac 4s] (une paire de Dix)
+psychoman59 : montre [Kh 6s] (une paire de Dix - plus basse kicker)
+stouf04 a remporté 720  lors du pot .
+*** SYNTHÈSE ***
+Pot total 720 | Commission 0 
+Tableau [Td Th 5h Jc Qh]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Kh 6s] et a perdu avec une paire de Dix
+Siège 3 : stouf04 (grosse blind) a montré [Ac 4s] et a gagné (720) avec une paire de Dix
+
+
+
+Main PokerStars n°261145408172 : Tournoi #4008691873, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2026 9:42:34 CET [15/06/2026 3:42:34 ET]
+Table '4008691873 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (780 en jetons) 
+Place 3: stouf04 (720 en jetons) 
+stouf04 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Ts]
+stouf04 : relance. 680 à 720 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (680) sont retournés à stouf04.
+stouf04 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : stouf04 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°261145408748 : Tournoi #4008691873, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2026 9:42:43 CET [15/06/2026 3:42:43 ET]
+Table '4008691873 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (740 en jetons) 
+Place 3: stouf04 (760 en jetons) 
+psychoman59 : met la petite blind. 20
+stouf04 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 9d]
+psychoman59 : suit. 20
+stouf04 : parole 
+*** FLOP *** [3h 4s 2c]
+stouf04 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à stouf04.
+stouf04 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [3h 4s 2c]
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+Siège 3 : stouf04 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°261145409334 : Tournoi #4008691873, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2026 9:42:54 CET [15/06/2026 3:42:54 ET]
+Table '4008691873 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (700 en jetons) 
+Place 3: stouf04 (800 en jetons) 
+stouf04 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 6c]
+stouf04 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : stouf04 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261145409599 : Tournoi #4008691873, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2026 9:42:59 CET [15/06/2026 3:42:59 ET]
+Table '4008691873 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (720 en jetons) 
+Place 3: stouf04 (780 en jetons) 
+psychoman59 : met la petite blind. 20
+stouf04 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 5s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à stouf04.
+stouf04 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : stouf04 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°261145410076 : Tournoi #4008691873, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/06/2026 9:43:07 CET [15/06/2026 3:43:07 ET]
+Table '4008691873 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (700 en jetons) 
+Place 3: stouf04 (800 en jetons) 
+stouf04 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Kc]
+stouf04 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [4s Jd 3h]
+psychoman59 : parole 
+stouf04 : mise. 60
+psychoman59 : relance. 580 à 640 et est all-in.
+stouf04 : suit. 580
+*** TOURNANT *** [4s Jd 3h] [6s]
+*** RIVIÈRE *** [4s Jd 3h 6s] [7d]
+*** ABATTAGE ***
+psychoman59 : montre [4d Kc] (une paire de Quatre)
+stouf04 : montre [Td 3d] (une paire de Trois)
+psychoman59 a remporté 1400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1400 | Commission 0 
+Tableau [4s Jd 3h 6s 7d]
+Siège 1 : psychoman59 (grosse blind) a montré [4d Kc] et a gagné (1400) avec une paire de Quatre
+Siège 3 : stouf04 (bouton) (petite blind) a montré [Td 3d] et a perdu avec une paire de Trois
+
+
+
+Main PokerStars n°261145411094 : Tournoi #4008691873, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/06/2026 9:43:27 CET [15/06/2026 3:43:27 ET]
+Table '4008691873 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1400 en jetons) 
+Place 3: stouf04 (100 en jetons) 
+psychoman59 : met la petite blind. 30
+stouf04 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 8h]
+psychoman59 : relance. 60 à 120
+stouf04 : suit. 40 et est all-in.
+Personne n'a suivi. (20) sont retournés à psychoman59.
+*** FLOP *** [Th 6s 9h]
+*** TOURNANT *** [Th 6s 9h] [Td]
+*** RIVIÈRE *** [Th 6s 9h Td] [Ts]
+*** ABATTAGE ***
+stouf04 : montre [5s 9s] (un full, full aux Dix par les Neuf)
+psychoman59 : montre [Jc 8h] (un brelan de Dix)
+stouf04 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [Th 6s 9h Td Ts]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Jc 8h] et a perdu avec un brelan de Dix
+Siège 3 : stouf04 (grosse blind) a montré [5s 9s] et a gagné (200) avec un full, full aux Dix par les Neuf
+
+
+
+Main PokerStars n°261145411976 : Tournoi #4008691873, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/06/2026 9:43:43 CET [15/06/2026 3:43:43 ET]
+Table '4008691873 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (1300 en jetons) 
+Place 3: stouf04 (200 en jetons) 
+stouf04 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Th]
+stouf04 : relance. 140 à 200 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (140) sont retournés à stouf04.
+stouf04 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : stouf04 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°261145412424 : Tournoi #4008691873, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/06/2026 9:43:51 CET [15/06/2026 3:43:51 ET]
+Table '4008691873 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1240 en jetons) 
+Place 3: stouf04 (260 en jetons) 
+psychoman59 : met la petite blind. 30
+stouf04 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Ac]
+psychoman59 : suit. 30
+stouf04 : relance. 200 à 260 et est all-in.
+psychoman59 : suit. 200
+*** FLOP *** [2s Qc 7s]
+*** TOURNANT *** [2s Qc 7s] [5d]
+*** RIVIÈRE *** [2s Qc 7s 5d] [4d]
+*** ABATTAGE ***
+stouf04 : montre [6h Th] (Hauteur Dame)
+psychoman59 : montre [Js Ac] (Hauteur As)
+psychoman59 a remporté 520  lors du pot .
+stouf04 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 520 | Commission 0 
+Tableau [2s Qc 7s 5d 4d]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Js Ac] et a gagné (520) avec Hauteur As
+Siège 3 : stouf04 (grosse blind) a montré [6h Th] et a perdu avec Hauteur Dame
+
+
+

@@ -1,0 +1,635 @@
+﻿Main PokerStars n°254525800970 : Tournoi #3850949891, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 24/01/2025 6:58:00 CET [24/01/2025 0:58:00 ET]
+Table '3850949891 1' 3-max Siège #1 est au bouton.
+Place 1: laglobulepapou (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: OliveiraLDP (500 en jetons) 
+psychoman59 : met la petite blind. 10
+OliveiraLDP : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Ts]
+laglobulepapou : passe. 
+psychoman59 : suit. 10
+OliveiraLDP : parole 
+*** FLOP *** [Qd 2s 4h]
+psychoman59 : parole 
+OliveiraLDP : parole 
+*** TOURNANT *** [Qd 2s 4h] [8c]
+psychoman59 : parole 
+OliveiraLDP : parole 
+*** RIVIÈRE *** [Qd 2s 4h 8c] [Kd]
+psychoman59 : mise. 40
+OliveiraLDP : suit. 40
+*** ABATTAGE ***
+psychoman59 : montre [7s Ts] (Hauteur Roi)
+OliveiraLDP : montre [8s 5c] (une paire de Huit)
+OliveiraLDP a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Qd 2s 4h 8c Kd]
+Siège 1 : laglobulepapou (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [7s Ts] et a perdu avec Hauteur Roi
+Siège 3 : OliveiraLDP (grosse blind) a montré [8s 5c] et a gagné (120) avec une paire de Huit
+
+
+
+Main PokerStars n°254525802690 : Tournoi #3850949891, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 24/01/2025 6:58:24 CET [24/01/2025 0:58:24 ET]
+Table '3850949891 1' 3-max Siège #2 est au bouton.
+Place 1: laglobulepapou (500 en jetons) 
+Place 2: psychoman59 (440 en jetons) 
+Place 3: OliveiraLDP (560 en jetons) 
+OliveiraLDP : met la petite blind. 10
+laglobulepapou : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 9c]
+psychoman59 : passe. 
+OliveiraLDP : suit. 10
+laglobulepapou : parole 
+*** FLOP *** [5d Td 8s]
+OliveiraLDP : mise. 40
+laglobulepapou : passe. 
+Personne n'a suivi. (40) sont retournés à OliveiraLDP.
+OliveiraLDP a remporté 40  lors du pot .
+OliveiraLDP : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [5d Td 8s]
+Siège 1 : laglobulepapou (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : OliveiraLDP (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°254525804040 : Tournoi #3850949891, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 24/01/2025 6:58:44 CET [24/01/2025 0:58:44 ET]
+Table '3850949891 1' 3-max Siège #3 est au bouton.
+Place 1: laglobulepapou (480 en jetons) 
+Place 2: psychoman59 (440 en jetons) 
+Place 3: OliveiraLDP (580 en jetons) 
+laglobulepapou : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 7d]
+OliveiraLDP : relance. 560 à 580 et est all-in.
+laglobulepapou : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (560) sont retournés à OliveiraLDP.
+OliveiraLDP a remporté 50  lors du pot .
+OliveiraLDP : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : laglobulepapou (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : OliveiraLDP (bouton) a remporté (50)
+
+
+
+Main PokerStars n°254525804650 : Tournoi #3850949891, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 24/01/2025 6:58:53 CET [24/01/2025 0:58:53 ET]
+Table '3850949891 1' 3-max Siège #1 est au bouton.
+Place 1: laglobulepapou (470 en jetons) 
+Place 2: psychoman59 (420 en jetons) 
+Place 3: OliveiraLDP (610 en jetons) 
+psychoman59 : met la petite blind. 10
+OliveiraLDP : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 4c]
+laglobulepapou : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à OliveiraLDP.
+OliveiraLDP a remporté 20  lors du pot .
+OliveiraLDP : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : laglobulepapou (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : OliveiraLDP (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°254525805060 : Tournoi #3850949891, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 24/01/2025 6:58:59 CET [24/01/2025 0:58:59 ET]
+Table '3850949891 1' 3-max Siège #2 est au bouton.
+Place 1: laglobulepapou (470 en jetons) 
+Place 2: psychoman59 (410 en jetons) 
+Place 3: OliveiraLDP (620 en jetons) 
+OliveiraLDP : met la petite blind. 10
+laglobulepapou : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Kc]
+psychoman59 : suit. 20
+OliveiraLDP : suit. 10
+laglobulepapou : parole 
+*** FLOP *** [5d 6s 4h]
+OliveiraLDP : mise. 60
+laglobulepapou : relance. 180 à 240
+psychoman59 : passe. 
+OliveiraLDP : relance. 360 à 600 et est all-in.
+laglobulepapou : suit. 210 et est all-in.
+Personne n'a suivi. (150) sont retournés à OliveiraLDP.
+*** TOURNANT *** [5d 6s 4h] [Js]
+*** RIVIÈRE *** [5d 6s 4h Js] [2s]
+*** ABATTAGE ***
+OliveiraLDP : montre [7c 8d] (une suite, Quatre à Huit)
+laglobulepapou : montre [Qc 4c] (une paire de Quatre)
+OliveiraLDP a remporté 960  lors du pot .
+laglobulepapou a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 960 | Commission 0 
+Tableau [5d 6s 4h Js 2s]
+Siège 1 : laglobulepapou (grosse blind) a montré [Qc 4c] et a perdu avec une paire de Quatre
+Siège 2 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 3 : OliveiraLDP (petite blind) a montré [7c 8d] et a gagné (960) avec une suite, Quatre à Huit
+
+
+
+Main PokerStars n°254525807260 : Tournoi #3850949891, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 24/01/2025 6:59:30 CET [24/01/2025 0:59:30 ET]
+Table '3850949891 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (390 en jetons) 
+Place 3: OliveiraLDP (1110 en jetons) 
+OliveiraLDP : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 8s]
+OliveiraLDP : suit. 10
+psychoman59 : parole 
+*** FLOP *** [6c 5c 5d]
+psychoman59 : parole 
+OliveiraLDP : parole 
+*** TOURNANT *** [6c 5c 5d] [Tc]
+psychoman59 : parole 
+OliveiraLDP : parole 
+*** RIVIÈRE *** [6c 5c 5d Tc] [4c]
+psychoman59 : parole 
+OliveiraLDP : parole 
+*** ABATTAGE ***
+psychoman59 : montre [4h 8s] (double paire, Cinq et Quatre)
+OliveiraLDP : montre [Jd 4d] (double paire, Cinq et Quatre - Valet kicker)
+OliveiraLDP a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [6c 5c 5d Tc 4c]
+Siège 2 : psychoman59 (grosse blind) a montré [4h 8s] et a perdu avec double paire, Cinq et Quatre
+Siège 3 : OliveiraLDP (bouton) (petite blind) a montré [Jd 4d] et a gagné (40) avec double paire, Cinq et Quatre
+
+
+
+Main PokerStars n°254525808702 : Tournoi #3850949891, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 24/01/2025 6:59:50 CET [24/01/2025 0:59:50 ET]
+Table '3850949891 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (370 en jetons) 
+Place 3: OliveiraLDP (1130 en jetons) 
+psychoman59 : met la petite blind. 10
+OliveiraLDP : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 5d]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à OliveiraLDP.
+OliveiraLDP a remporté 20  lors du pot .
+OliveiraLDP : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : OliveiraLDP (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°254525809108 : Tournoi #3850949891, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 24/01/2025 6:59:56 CET [24/01/2025 0:59:56 ET]
+Table '3850949891 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (360 en jetons) 
+Place 3: OliveiraLDP (1140 en jetons) 
+OliveiraLDP : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Kd]
+OliveiraLDP : suit. 10
+psychoman59 : relance. 340 à 360 et est all-in.
+OliveiraLDP : passe. 
+Personne n'a suivi. (340) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : OliveiraLDP (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254525809865 : Tournoi #3850949891, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 24/01/2025 7:00:07 CET [24/01/2025 1:00:07 ET]
+Table '3850949891 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (380 en jetons) 
+Place 3: OliveiraLDP (1120 en jetons) 
+psychoman59 : met la petite blind. 15
+OliveiraLDP : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 8c]
+psychoman59 : relance. 350 à 380 et est all-in.
+OliveiraLDP : passe. 
+Personne n'a suivi. (350) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 3 : OliveiraLDP (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254525810309 : Tournoi #3850949891, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 24/01/2025 7:00:14 CET [24/01/2025 1:00:14 ET]
+Table '3850949891 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (410 en jetons) 
+Place 3: OliveiraLDP (1090 en jetons) 
+OliveiraLDP : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Jh]
+OliveiraLDP : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+Siège 3 : OliveiraLDP (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254525810601 : Tournoi #3850949891, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 24/01/2025 7:00:18 CET [24/01/2025 1:00:18 ET]
+Table '3850949891 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (425 en jetons) 
+Place 3: OliveiraLDP (1075 en jetons) 
+psychoman59 : met la petite blind. 15
+OliveiraLDP : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 4h]
+psychoman59 : suit. 15
+OliveiraLDP : parole 
+*** FLOP *** [9d 5c Kc]
+OliveiraLDP : parole 
+psychoman59 : mise. 60
+OliveiraLDP : relance. 985 à 1045 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (985) sont retournés à OliveiraLDP.
+OliveiraLDP a remporté 180  lors du pot .
+OliveiraLDP : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [9d 5c Kc]
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+Siège 3 : OliveiraLDP (grosse blind) a remporté (180)
+
+
+
+Main PokerStars n°254525811700 : Tournoi #3850949891, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 24/01/2025 7:00:32 CET [24/01/2025 1:00:32 ET]
+Table '3850949891 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (335 en jetons) 
+Place 3: OliveiraLDP (1165 en jetons) 
+OliveiraLDP : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 6d]
+OliveiraLDP : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+Siège 3 : OliveiraLDP (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254525812117 : Tournoi #3850949891, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 24/01/2025 7:00:38 CET [24/01/2025 1:00:38 ET]
+Table '3850949891 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (350 en jetons) 
+Place 3: OliveiraLDP (1150 en jetons) 
+psychoman59 : met la petite blind. 15
+OliveiraLDP : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 3h]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à OliveiraLDP.
+OliveiraLDP a remporté 30  lors du pot .
+OliveiraLDP : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : OliveiraLDP (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°254525812441 : Tournoi #3850949891, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 24/01/2025 7:00:43 CET [24/01/2025 1:00:43 ET]
+Table '3850949891 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (335 en jetons) 
+Place 3: OliveiraLDP (1165 en jetons) 
+OliveiraLDP : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 2d]
+OliveiraLDP : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+Siège 3 : OliveiraLDP (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254525812836 : Tournoi #3850949891, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 24/01/2025 7:00:48 CET [24/01/2025 1:00:48 ET]
+Table '3850949891 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (350 en jetons) 
+Place 3: OliveiraLDP (1150 en jetons) 
+psychoman59 : met la petite blind. 15
+OliveiraLDP : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 7d]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à OliveiraLDP.
+OliveiraLDP a remporté 30  lors du pot .
+OliveiraLDP : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : OliveiraLDP (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°254525813233 : Tournoi #3850949891, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 24/01/2025 7:00:53 CET [24/01/2025 1:00:53 ET]
+Table '3850949891 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (335 en jetons) 
+Place 3: OliveiraLDP (1165 en jetons) 
+OliveiraLDP : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 7h]
+OliveiraLDP : relance. 1135 à 1165 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (1135) sont retournés à OliveiraLDP.
+OliveiraLDP a remporté 60  lors du pot .
+OliveiraLDP : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : OliveiraLDP (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°254525813803 : Tournoi #3850949891, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 24/01/2025 7:01:00 CET [24/01/2025 1:01:00 ET]
+Table '3850949891 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (305 en jetons) 
+Place 3: OliveiraLDP (1195 en jetons) 
+psychoman59 : met la petite blind. 15
+OliveiraLDP : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 2s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à OliveiraLDP.
+OliveiraLDP a remporté 30  lors du pot .
+OliveiraLDP : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : OliveiraLDP (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°254525814156 : Tournoi #3850949891, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 24/01/2025 7:01:04 CET [24/01/2025 1:01:04 ET]
+Table '3850949891 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (290 en jetons) 
+Place 3: OliveiraLDP (1210 en jetons) 
+OliveiraLDP : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js As]
+OliveiraLDP : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+Siège 3 : OliveiraLDP (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254525814532 : Tournoi #3850949891, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 24/01/2025 7:01:09 CET [24/01/2025 1:01:09 ET]
+Table '3850949891 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (305 en jetons) 
+Place 3: OliveiraLDP (1195 en jetons) 
+psychoman59 : met la petite blind. 15
+OliveiraLDP : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 7h]
+psychoman59 : suit. 15
+OliveiraLDP : parole 
+*** FLOP *** [Kc Qd 8d]
+OliveiraLDP : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Kc Qd 8d] [9d]
+OliveiraLDP : mise. 30
+psychoman59 : suit. 30
+*** RIVIÈRE *** [Kc Qd 8d 9d] [4h]
+OliveiraLDP : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+OliveiraLDP : montre [9c 7c] (une paire de Neuf)
+psychoman59 : cache la main perdante. 
+OliveiraLDP a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Kc Qd 8d 9d 4h]
+Siège 2 : psychoman59 (bouton) (petite blind) a caché la main perdante. [Th 7h]
+Siège 3 : OliveiraLDP (grosse blind) a montré [9c 7c] et a gagné (120) avec une paire de Neuf
+
+
+
+Main PokerStars n°254525815877 : Tournoi #3850949891, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 24/01/2025 7:01:27 CET [24/01/2025 1:01:27 ET]
+Table '3850949891 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (245 en jetons) 
+Place 3: OliveiraLDP (1255 en jetons) 
+OliveiraLDP : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 9d]
+OliveiraLDP : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+Siège 3 : OliveiraLDP (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254525816438 : Tournoi #3850949891, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 24/01/2025 7:01:33 CET [24/01/2025 1:01:33 ET]
+Table '3850949891 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (260 en jetons) 
+Place 3: OliveiraLDP (1240 en jetons) 
+psychoman59 : met la petite blind. 15
+OliveiraLDP : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 5h]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à OliveiraLDP.
+OliveiraLDP a remporté 30  lors du pot .
+OliveiraLDP : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : OliveiraLDP (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°254525816805 : Tournoi #3850949891, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 24/01/2025 7:01:38 CET [24/01/2025 1:01:38 ET]
+Table '3850949891 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (245 en jetons) 
+Place 3: OliveiraLDP (1255 en jetons) 
+OliveiraLDP : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Qs]
+OliveiraLDP : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+Siège 3 : OliveiraLDP (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254525817137 : Tournoi #3850949891, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 24/01/2025 7:01:43 CET [24/01/2025 1:01:43 ET]
+Table '3850949891 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (260 en jetons) 
+Place 3: OliveiraLDP (1240 en jetons) 
+psychoman59 : met la petite blind. 15
+OliveiraLDP : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Ah]
+psychoman59 : relance. 230 à 260 et est all-in.
+OliveiraLDP : passe. 
+Personne n'a suivi. (230) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 3 : OliveiraLDP (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254525817722 : Tournoi #3850949891, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 24/01/2025 7:01:51 CET [24/01/2025 1:01:51 ET]
+Table '3850949891 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (290 en jetons) 
+Place 3: OliveiraLDP (1210 en jetons) 
+OliveiraLDP : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Ah]
+OliveiraLDP : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+Siège 3 : OliveiraLDP (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254525818101 : Tournoi #3850949891, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 24/01/2025 7:01:55 CET [24/01/2025 1:01:55 ET]
+Table '3850949891 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (305 en jetons) 
+Place 3: OliveiraLDP (1195 en jetons) 
+psychoman59 : met la petite blind. 15
+OliveiraLDP : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 8s]
+psychoman59 : relance. 275 à 305 et est all-in.
+OliveiraLDP : passe. 
+Personne n'a suivi. (275) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 3 : OliveiraLDP (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254525818844 : Tournoi #3850949891, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 24/01/2025 7:02:04 CET [24/01/2025 1:02:04 ET]
+Table '3850949891 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (335 en jetons) 
+Place 3: OliveiraLDP (1165 en jetons) 
+OliveiraLDP : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 6c]
+OliveiraLDP : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Qs 5s Ks]
+psychoman59 : parole 
+OliveiraLDP : parole 
+*** TOURNANT *** [Qs 5s Ks] [Ts]
+psychoman59 : parole 
+OliveiraLDP : parole 
+*** RIVIÈRE *** [Qs 5s Ks Ts] [3d]
+psychoman59 : mise. 80
+OliveiraLDP : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Qs 5s Ks Ts 3d]
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : OliveiraLDP (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°254525820342 : Tournoi #3850949891, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 24/01/2025 7:02:24 CET [24/01/2025 1:02:24 ET]
+Table '3850949891 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (375 en jetons) 
+Place 3: OliveiraLDP (1125 en jetons) 
+psychoman59 : met la petite blind. 20
+OliveiraLDP : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 7h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à OliveiraLDP.
+OliveiraLDP a remporté 40  lors du pot .
+OliveiraLDP : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : OliveiraLDP (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°254525820715 : Tournoi #3850949891, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 24/01/2025 7:02:29 CET [24/01/2025 1:02:29 ET]
+Table '3850949891 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (355 en jetons) 
+Place 3: OliveiraLDP (1145 en jetons) 
+OliveiraLDP : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Qs]
+OliveiraLDP : relance. 80 à 120
+psychoman59 : relance. 235 à 355 et est all-in.
+OliveiraLDP : suit. 235
+*** FLOP *** [Jc Qc Kd]
+*** TOURNANT *** [Jc Qc Kd] [Tc]
+*** RIVIÈRE *** [Jc Qc Kd Tc] [Ks]
+*** ABATTAGE ***
+psychoman59 : montre [Jh Qs] (double paire, Rois et Dames)
+OliveiraLDP : montre [Js Jd] (un full, full aux Valets par les Rois)
+OliveiraLDP a remporté 710  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+OliveiraLDP remporte le tournoi et reçoit 0.50 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 710 | Commission 0 
+Tableau [Jc Qc Kd Tc Ks]
+Siège 2 : psychoman59 (grosse blind) a montré [Jh Qs] et a perdu avec double paire, Rois et Dames
+Siège 3 : OliveiraLDP (bouton) (petite blind) a montré [Js Jd] et a gagné (710) avec un full, full aux Valets par les Rois
+
+
+

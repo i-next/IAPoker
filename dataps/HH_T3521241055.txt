@@ -1,0 +1,419 @@
+﻿Main PokerStars n°240698373221 : Tournoi #3521241055, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/12/2022 11:09:25 CET [26/12/2022 5:09:25 ET]
+Table '3521241055 1' 3-max Siège #1 est au bouton.
+Place 1: IDFCNF (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: joolyyy (300 en jetons) 
+psychoman59 : met la petite blind. 10
+joolyyy : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 9c]
+IDFCNF : relance. 40 à 60
+psychoman59 : passe. 
+joolyyy : suit. 40
+*** FLOP *** [Qc 9d 8d]
+joolyyy : parole 
+IDFCNF : mise. 40
+joolyyy : suit. 40
+*** TOURNANT *** [Qc 9d 8d] [2d]
+joolyyy : parole 
+IDFCNF : parole 
+*** RIVIÈRE *** [Qc 9d 8d 2d] [8h]
+joolyyy : parole 
+IDFCNF : parole 
+*** ABATTAGE ***
+joolyyy : montre [Kd 5c] (une paire de Huit)
+IDFCNF : montre [4h 4s] (double paire, Huit et Quatre)
+IDFCNF a remporté 210  lors du pot .
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Tableau [Qc 9d 8d 2d 8h]
+Siège 1 : IDFCNF (bouton) a montré [4h 4s] et a gagné (210) avec double paire, Huit et Quatre
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : joolyyy (grosse blind) a montré [Kd 5c] et a perdu avec une paire de Huit
+
+
+
+Main PokerStars n°240698376761 : Tournoi #3521241055, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/12/2022 11:09:46 CET [26/12/2022 5:09:46 ET]
+Table '3521241055 1' 3-max Siège #2 est au bouton.
+Place 1: IDFCNF (410 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: joolyyy (200 en jetons) 
+joolyyy : met la petite blind. 10
+IDFCNF : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Jd]
+psychoman59 : passe. 
+joolyyy : suit. 10
+IDFCNF : parole 
+*** FLOP *** [Ac Ks Ah]
+joolyyy : mise. 20
+IDFCNF : suit. 20
+*** TOURNANT *** [Ac Ks Ah] [8c]
+joolyyy : parole 
+IDFCNF : mise. 20
+joolyyy : passe. 
+Personne n'a suivi. (20) sont retournés à IDFCNF.
+IDFCNF a remporté 80  lors du pot .
+IDFCNF : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Ac Ks Ah 8c]
+Siège 1 : IDFCNF (grosse blind) a remporté (80)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : joolyyy (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°240698379723 : Tournoi #3521241055, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/12/2022 11:10:05 CET [26/12/2022 5:10:05 ET]
+Table '3521241055 1' 3-max Siège #3 est au bouton.
+Place 1: IDFCNF (450 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: joolyyy (160 en jetons) 
+IDFCNF : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Qs]
+joolyyy : relance. 140 à 160 et est all-in.
+IDFCNF : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (140) sont retournés à joolyyy.
+joolyyy a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : IDFCNF (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : joolyyy (bouton) a remporté (50)
+
+
+
+Main PokerStars n°240698382187 : Tournoi #3521241055, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/12/2022 11:10:19 CET [26/12/2022 5:10:19 ET]
+Table '3521241055 1' 3-max Siège #1 est au bouton.
+Place 1: IDFCNF (440 en jetons) 
+Place 2: psychoman59 (270 en jetons) 
+Place 3: joolyyy (190 en jetons) 
+psychoman59 : met la petite blind. 10
+joolyyy : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 2c]
+IDFCNF : suit. 20
+psychoman59 : passe. 
+joolyyy : relance. 170 à 190 et est all-in.
+IDFCNF : suit. 170
+*** FLOP *** [9s 4d Kh]
+*** TOURNANT *** [9s 4d Kh] [6c]
+*** RIVIÈRE *** [9s 4d Kh 6c] [5c]
+*** ABATTAGE ***
+joolyyy : montre [4c 4s] (un brelan de Quatre)
+IDFCNF : montre [Kd Tc] (une paire de Rois)
+joolyyy a remporté 390  lors du pot .
+*** SYNTHÈSE ***
+Pot total 390 | Commission 0 
+Tableau [9s 4d Kh 6c 5c]
+Siège 1 : IDFCNF (bouton) a montré [Kd Tc] et a perdu avec une paire de Rois
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : joolyyy (grosse blind) a montré [4c 4s] et a gagné (390) avec un brelan de Quatre
+
+
+
+Main PokerStars n°240698385600 : Tournoi #3521241055, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 26/12/2022 11:10:40 CET [26/12/2022 5:10:40 ET]
+Table '3521241055 1' 3-max Siège #2 est au bouton.
+Place 1: IDFCNF (250 en jetons) 
+Place 2: psychoman59 (260 en jetons) 
+Place 3: joolyyy (390 en jetons) 
+joolyyy : met la petite blind. 15
+IDFCNF : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 4h]
+psychoman59 : passe. 
+joolyyy : suit. 15
+IDFCNF : relance. 220 à 250 et est all-in.
+joolyyy : passe. 
+Personne n'a suivi. (220) sont retournés à IDFCNF.
+IDFCNF a remporté 60  lors du pot .
+IDFCNF : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : IDFCNF (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : joolyyy (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240698388313 : Tournoi #3521241055, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 26/12/2022 11:10:56 CET [26/12/2022 5:10:56 ET]
+Table '3521241055 1' 3-max Siège #3 est au bouton.
+Place 1: IDFCNF (280 en jetons) 
+Place 2: psychoman59 (260 en jetons) 
+Place 3: joolyyy (360 en jetons) 
+IDFCNF : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Ah]
+joolyyy : passe. 
+IDFCNF : suit. 15
+psychoman59 : relance. 230 à 260 et est all-in.
+IDFCNF : passe. 
+Personne n'a suivi. (230) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : IDFCNF (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : joolyyy (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°240698389668 : Tournoi #3521241055, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 26/12/2022 11:11:05 CET [26/12/2022 5:11:05 ET]
+Table '3521241055 1' 3-max Siège #1 est au bouton.
+Place 1: IDFCNF (250 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: joolyyy (360 en jetons) 
+psychoman59 : met la petite blind. 15
+joolyyy : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 6h]
+IDFCNF : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à joolyyy.
+joolyyy a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : IDFCNF (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : joolyyy (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°240698390602 : Tournoi #3521241055, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 26/12/2022 11:11:10 CET [26/12/2022 5:11:10 ET]
+Table '3521241055 1' 3-max Siège #2 est au bouton.
+Place 1: IDFCNF (250 en jetons) 
+Place 2: psychoman59 (275 en jetons) 
+Place 3: joolyyy (375 en jetons) 
+joolyyy : met la petite blind. 15
+IDFCNF : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 5s]
+psychoman59 : passe. 
+joolyyy : suit. 15
+IDFCNF : parole 
+*** FLOP *** [Tc 4h Qc]
+joolyyy : parole 
+IDFCNF : parole 
+*** TOURNANT *** [Tc 4h Qc] [3s]
+joolyyy : parole 
+IDFCNF : parole 
+*** RIVIÈRE *** [Tc 4h Qc 3s] [Ad]
+joolyyy : parole 
+IDFCNF : parole 
+*** ABATTAGE ***
+joolyyy : montre [8c 6d] (Hauteur As)
+IDFCNF : montre [Ks 4d] (une paire de Quatre)
+IDFCNF a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Tc 4h Qc 3s Ad]
+Siège 1 : IDFCNF (grosse blind) a montré [Ks 4d] et a gagné (60) avec une paire de Quatre
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : joolyyy (petite blind) a montré [8c 6d] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°240698393051 : Tournoi #3521241055, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 26/12/2022 11:11:25 CET [26/12/2022 5:11:25 ET]
+Table '3521241055 1' 3-max Siège #3 est au bouton.
+Place 1: IDFCNF (280 en jetons) 
+Place 2: psychoman59 (275 en jetons) 
+Place 3: joolyyy (345 en jetons) 
+IDFCNF : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 5c]
+joolyyy : passe. 
+IDFCNF : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Qs 3d 5s]
+IDFCNF : parole 
+psychoman59 : mise. 60
+IDFCNF : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Qs 3d 5s]
+Siège 1 : IDFCNF (petite blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : joolyyy (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°240698395650 : Tournoi #3521241055, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 26/12/2022 11:11:41 CET [26/12/2022 5:11:41 ET]
+Table '3521241055 1' 3-max Siège #1 est au bouton.
+Place 1: IDFCNF (250 en jetons) 
+Place 2: psychoman59 (305 en jetons) 
+Place 3: joolyyy (345 en jetons) 
+psychoman59 : met la petite blind. 20
+joolyyy : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 4h]
+IDFCNF : suit. 40
+psychoman59 : passe. 
+joolyyy : parole 
+*** FLOP *** [Ac 8d 3s]
+joolyyy : parole 
+IDFCNF : parole 
+*** TOURNANT *** [Ac 8d 3s] [Td]
+joolyyy : parole 
+IDFCNF : parole 
+*** RIVIÈRE *** [Ac 8d 3s Td] [7d]
+joolyyy : parole 
+IDFCNF : parole 
+*** ABATTAGE ***
+joolyyy : montre [2c Qh] (Hauteur As)
+IDFCNF : cache la main perdante. 
+joolyyy a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [Ac 8d 3s Td 7d]
+Siège 1 : IDFCNF (bouton) a caché la main perdante. [2h Jh]
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : joolyyy (grosse blind) a montré [2c Qh] et a gagné (100) avec Hauteur As
+
+
+
+Main PokerStars n°240698398081 : Tournoi #3521241055, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 26/12/2022 11:11:55 CET [26/12/2022 5:11:55 ET]
+Table '3521241055 1' 3-max Siège #2 est au bouton.
+Place 1: IDFCNF (210 en jetons) 
+Place 2: psychoman59 (285 en jetons) 
+Place 3: joolyyy (405 en jetons) 
+joolyyy : met la petite blind. 20
+IDFCNF : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Js]
+psychoman59 : passe. 
+joolyyy : suit. 20
+IDFCNF : relance. 80 à 120
+joolyyy : passe. 
+Personne n'a suivi. (80) sont retournés à IDFCNF.
+IDFCNF a remporté 80  lors du pot .
+IDFCNF : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : IDFCNF (grosse blind) a remporté (80)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : joolyyy (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240698399720 : Tournoi #3521241055, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 26/12/2022 11:12:06 CET [26/12/2022 5:12:06 ET]
+Table '3521241055 1' 3-max Siège #3 est au bouton.
+Place 1: IDFCNF (250 en jetons) 
+Place 2: psychoman59 (285 en jetons) 
+Place 3: joolyyy (365 en jetons) 
+IDFCNF : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Js]
+joolyyy : relance. 325 à 365 et est all-in.
+IDFCNF : suit. 230 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (115) sont retournés à joolyyy.
+*** FLOP *** [Jd As 6c]
+*** TOURNANT *** [Jd As 6c] [Jh]
+*** RIVIÈRE *** [Jd As 6c Jh] [4h]
+*** ABATTAGE ***
+IDFCNF : montre [9s Qs] (une paire de Valets)
+joolyyy : montre [Qc Qd] (double paire, Dames et Valets)
+joolyyy a remporté 540  lors du pot .
+IDFCNF a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [Jd As 6c Jh 4h]
+Siège 1 : IDFCNF (petite blind) a montré [9s Qs] et a perdu avec une paire de Valets
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : joolyyy (bouton) a montré [Qc Qd] et a gagné (540) avec double paire, Dames et Valets
+
+
+
+Main PokerStars n°240698403601 : Tournoi #3521241055, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 26/12/2022 11:12:29 CET [26/12/2022 5:12:29 ET]
+Table '3521241055 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (245 en jetons) 
+Place 3: joolyyy (655 en jetons) 
+psychoman59 : met la petite blind. 30
+joolyyy : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 8s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à joolyyy.
+joolyyy a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : joolyyy (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°240698404592 : Tournoi #3521241055, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 26/12/2022 11:12:35 CET [26/12/2022 5:12:35 ET]
+Table '3521241055 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (215 en jetons) 
+Place 3: joolyyy (685 en jetons) 
+joolyyy : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Jd]
+joolyyy : relance. 120 à 180
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à joolyyy.
+joolyyy a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : joolyyy (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°240698406192 : Tournoi #3521241055, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 26/12/2022 11:12:44 CET [26/12/2022 5:12:44 ET]
+Table '3521241055 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (155 en jetons) 
+Place 3: joolyyy (745 en jetons) 
+psychoman59 : met la petite blind. 30
+joolyyy : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 7h]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à joolyyy.
+joolyyy a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : joolyyy (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°240698407524 : Tournoi #3521241055, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 26/12/2022 11:12:52 CET [26/12/2022 5:12:52 ET]
+Table '3521241055 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (125 en jetons) 
+Place 3: joolyyy (775 en jetons) 
+joolyyy : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 3c]
+joolyyy : relance. 120 à 180
+psychoman59 : suit. 65 et est all-in.
+Personne n'a suivi. (55) sont retournés à joolyyy.
+*** FLOP *** [8d 7d Kd]
+*** TOURNANT *** [8d 7d Kd] [Tc]
+*** RIVIÈRE *** [8d 7d Kd Tc] [Jc]
+*** ABATTAGE ***
+psychoman59 : montre [6c 3c] (Hauteur Roi)
+joolyyy : montre [Qd Jd] (une couleur, hauteur Roi)
+joolyyy a remporté 250  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+joolyyy remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 250 | Commission 0 
+Tableau [8d 7d Kd Tc Jc]
+Siège 2 : psychoman59 (grosse blind) a montré [6c 3c] et a perdu avec Hauteur Roi
+Siège 3 : joolyyy (bouton) (petite blind) a montré [Qd Jd] et a gagné (250) avec une couleur, hauteur Roi
+
+
+

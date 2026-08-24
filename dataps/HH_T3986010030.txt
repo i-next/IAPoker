@@ -1,0 +1,1282 @@
+﻿Main PokerStars n°260205571808 : Tournoi #3986010030, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 24/03/2026 7:49:11 CET [24/03/2026 2:49:11 ET]
+Table '3986010030 1' 3-max Siège #1 est au bouton.
+Place 1: tottibb (500 en jetons) 
+Place 2: elvisman74 (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+elvisman74 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 3d]
+tottibb : passe. 
+elvisman74 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Ks 3h 6d]
+elvisman74 : parole 
+psychoman59 : mise. 40
+elvisman74 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Ks 3h 6d]
+Siège 1 : tottibb (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : elvisman74 (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°260205572485 : Tournoi #3986010030, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 24/03/2026 7:49:25 CET [24/03/2026 2:49:25 ET]
+Table '3986010030 1' 3-max Siège #2 est au bouton.
+Place 1: tottibb (500 en jetons) 
+Place 2: elvisman74 (480 en jetons) 
+Place 3: psychoman59 (520 en jetons) 
+psychoman59 : met la petite blind. 10
+tottibb : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 7d]
+elvisman74 : suit. 20
+psychoman59 : suit. 10
+tottibb : parole 
+*** FLOP *** [8d Jd Td]
+psychoman59 : parole 
+tottibb : parole 
+elvisman74 : parole 
+*** TOURNANT *** [8d Jd Td] [Ac]
+psychoman59 : parole 
+tottibb : parole 
+elvisman74 : parole 
+*** RIVIÈRE *** [8d Jd Td Ac] [8h]
+psychoman59 : parole 
+tottibb : parole 
+elvisman74 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Kc 7d] (une paire de Huit)
+tottibb : cache la main perdante. 
+elvisman74 : montre [Jh 6h] (double paire, Valets et Huit)
+elvisman74 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [8d Jd Td Ac 8h]
+Siège 1 : tottibb (grosse blind) a caché la main perdante. [9s 6s]
+Siège 2 : elvisman74 (bouton) a montré [Jh 6h] et a gagné (60) avec double paire, Valets et Huit
+Siège 3 : psychoman59 (petite blind) a montré [Kc 7d] et a perdu avec une paire de Huit
+
+
+
+Main PokerStars n°260205574187 : Tournoi #3986010030, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 24/03/2026 7:49:59 CET [24/03/2026 2:49:59 ET]
+Table '3986010030 1' 3-max Siège #3 est au bouton.
+Place 1: tottibb (480 en jetons) 
+Place 2: elvisman74 (520 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+tottibb : met la petite blind. 10
+elvisman74 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Kc]
+psychoman59 : passe. 
+tottibb : relance. 20 à 40
+elvisman74 : suit. 20
+*** FLOP *** [Jh 6h Jc]
+tottibb : mise. 40
+elvisman74 : suit. 40
+*** TOURNANT *** [Jh 6h Jc] [8d]
+tottibb : parole 
+elvisman74 : mise. 160
+tottibb : passe. 
+Personne n'a suivi. (160) sont retournés à elvisman74.
+elvisman74 a remporté 160  lors du pot .
+elvisman74 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Jh 6h Jc 8d]
+Siège 1 : tottibb (petite blind) s'est couché. sur le Tournant
+Siège 2 : elvisman74 (grosse blind) a remporté (160)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260205575495 : Tournoi #3986010030, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 24/03/2026 7:50:26 CET [24/03/2026 2:50:26 ET]
+Table '3986010030 1' 3-max Siège #1 est au bouton.
+Place 1: tottibb (400 en jetons) 
+Place 2: elvisman74 (600 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+elvisman74 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Kc]
+tottibb : relance. 20 à 40
+elvisman74 : suit. 30
+psychoman59 : suit. 20
+*** FLOP *** [6h 5h 5s]
+elvisman74 : parole 
+psychoman59 : parole 
+tottibb : parole 
+*** TOURNANT *** [6h 5h 5s] [3s]
+elvisman74 : mise. 20
+psychoman59 : passe. 
+tottibb : passe. 
+Personne n'a suivi. (20) sont retournés à elvisman74.
+elvisman74 a remporté 120  lors du pot .
+elvisman74 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [6h 5h 5s 3s]
+Siège 1 : tottibb (bouton) s'est couché. sur le Tournant
+Siège 2 : elvisman74 (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°260205576749 : Tournoi #3986010030, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 24/03/2026 7:50:50 CET [24/03/2026 2:50:50 ET]
+Table '3986010030 1' 3-max Siège #2 est au bouton.
+Place 1: tottibb (360 en jetons) 
+Place 2: elvisman74 (680 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+psychoman59 : met la petite blind. 10
+tottibb : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 3s]
+elvisman74 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à tottibb.
+tottibb a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : tottibb (grosse blind) a remporté (20)
+Siège 2 : elvisman74 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260205577073 : Tournoi #3986010030, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 24/03/2026 7:50:57 CET [24/03/2026 2:50:57 ET]
+Table '3986010030 1' 3-max Siège #3 est au bouton.
+Place 1: tottibb (370 en jetons) 
+Place 2: elvisman74 (680 en jetons) 
+Place 3: psychoman59 (450 en jetons) 
+tottibb : met la petite blind. 10
+elvisman74 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 9h]
+psychoman59 : passe. 
+tottibb : suit. 10
+elvisman74 : parole 
+*** FLOP *** [7h Th 7s]
+tottibb : parole 
+elvisman74 : parole 
+*** TOURNANT *** [7h Th 7s] [5s]
+tottibb : mise. 20
+elvisman74 : passe. 
+Personne n'a suivi. (20) sont retournés à tottibb.
+tottibb a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [7h Th 7s 5s]
+Siège 1 : tottibb (petite blind) a remporté (40)
+Siège 2 : elvisman74 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260205577866 : Tournoi #3986010030, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 24/03/2026 7:51:13 CET [24/03/2026 2:51:13 ET]
+Table '3986010030 1' 3-max Siège #1 est au bouton.
+Place 1: tottibb (390 en jetons) 
+Place 2: elvisman74 (660 en jetons) 
+Place 3: psychoman59 (450 en jetons) 
+elvisman74 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Jc]
+tottibb : passe. 
+elvisman74 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [3d 9s Qd]
+elvisman74 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3d 9s Qd] [4h]
+elvisman74 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [3d 9s Qd 4h] [Js]
+elvisman74 : parole 
+psychoman59 : mise. 20
+elvisman74 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [3d 9s Qd 4h Js]
+Siège 1 : tottibb (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : elvisman74 (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°260205579251 : Tournoi #3986010030, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 24/03/2026 7:51:40 CET [24/03/2026 2:51:40 ET]
+Table '3986010030 1' 3-max Siège #2 est au bouton.
+Place 1: tottibb (390 en jetons) 
+Place 2: elvisman74 (640 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+psychoman59 : met la petite blind. 10
+tottibb : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Ac]
+elvisman74 : passe. 
+psychoman59 : suit. 10
+tottibb : parole 
+*** FLOP *** [Kh Td 5c]
+psychoman59 : parole 
+tottibb : parole 
+*** TOURNANT *** [Kh Td 5c] [4d]
+psychoman59 : parole 
+tottibb : parole 
+*** RIVIÈRE *** [Kh Td 5c 4d] [3d]
+psychoman59 : parole 
+tottibb : parole 
+*** ABATTAGE ***
+psychoman59 : montre [6d Ac] (Hauteur As)
+tottibb : montre [4c 7h] (une paire de Quatre)
+tottibb a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Kh Td 5c 4d 3d]
+Siège 1 : tottibb (grosse blind) a montré [4c 7h] et a gagné (40) avec une paire de Quatre
+Siège 2 : elvisman74 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [6d Ac] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°260205580601 : Tournoi #3986010030, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 24/03/2026 7:52:07 CET [24/03/2026 2:52:07 ET]
+Table '3986010030 1' 3-max Siège #3 est au bouton.
+Place 1: tottibb (410 en jetons) 
+Place 2: elvisman74 (640 en jetons) 
+Place 3: psychoman59 (450 en jetons) 
+tottibb : met la petite blind. 10
+elvisman74 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 2d]
+psychoman59 : passe. 
+tottibb : passe. 
+Personne n'a suivi. (10) sont retournés à elvisman74.
+elvisman74 a remporté 20  lors du pot .
+elvisman74 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : tottibb (petite blind) s'est couché. avant Flop
+Siège 2 : elvisman74 (grosse blind) a remporté (20)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260205581134 : Tournoi #3986010030, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 24/03/2026 7:52:18 CET [24/03/2026 2:52:18 ET]
+Table '3986010030 1' 3-max Siège #1 est au bouton.
+Place 1: tottibb (400 en jetons) 
+Place 2: elvisman74 (650 en jetons) 
+Place 3: psychoman59 (450 en jetons) 
+elvisman74 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Ks]
+tottibb : passe. 
+elvisman74 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Ah 5d Ad]
+elvisman74 : parole 
+psychoman59 : mise. 30
+elvisman74 : suit. 30
+*** TOURNANT *** [Ah 5d Ad] [6d]
+elvisman74 : parole 
+psychoman59 : mise. 30
+elvisman74 : suit. 30
+*** RIVIÈRE *** [Ah 5d Ad 6d] [2s]
+elvisman74 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+elvisman74 : montre [3s Qh] (une paire de As)
+psychoman59 : montre [5h Ks] (double paire, As et Cinq)
+psychoman59 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Ah 5d Ad 6d 2s]
+Siège 1 : tottibb (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : elvisman74 (petite blind) a montré [3s Qh] et a perdu avec une paire de As
+Siège 3 : psychoman59 (grosse blind) a montré [5h Ks] et a gagné (180) avec double paire, As et Cinq
+
+
+
+Main PokerStars n°260205582314 : Tournoi #3986010030, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 24/03/2026 7:52:42 CET [24/03/2026 2:52:42 ET]
+Table '3986010030 1' 3-max Siège #2 est au bouton.
+Place 1: tottibb (400 en jetons) 
+Place 2: elvisman74 (560 en jetons) 
+Place 3: psychoman59 (540 en jetons) 
+psychoman59 : met la petite blind. 15
+tottibb : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 7h]
+elvisman74 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à tottibb.
+tottibb a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : tottibb (grosse blind) a remporté (30)
+Siège 2 : elvisman74 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260205582789 : Tournoi #3986010030, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 24/03/2026 7:52:51 CET [24/03/2026 2:52:51 ET]
+Table '3986010030 1' 3-max Siège #3 est au bouton.
+Place 1: tottibb (415 en jetons) 
+Place 2: elvisman74 (560 en jetons) 
+Place 3: psychoman59 (525 en jetons) 
+tottibb : met la petite blind. 15
+elvisman74 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 7d]
+psychoman59 : suit. 30
+tottibb : passe. 
+elvisman74 : parole 
+*** FLOP *** [Ah 5c 4s]
+elvisman74 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Ah 5c 4s] [7h]
+elvisman74 : parole 
+psychoman59 : mise. 30
+elvisman74 : suit. 30
+*** RIVIÈRE *** [Ah 5c 4s 7h] [9d]
+elvisman74 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+elvisman74 : montre [6d 5s] (une paire de Cinq)
+psychoman59 : montre [Kd 7d] (une paire de Sept)
+psychoman59 a remporté 135  lors du pot .
+*** SYNTHÈSE ***
+Pot total 135 | Commission 0 
+Tableau [Ah 5c 4s 7h 9d]
+Siège 1 : tottibb (petite blind) s'est couché. avant Flop
+Siège 2 : elvisman74 (grosse blind) a montré [6d 5s] et a perdu avec une paire de Cinq
+Siège 3 : psychoman59 (bouton) a montré [Kd 7d] et a gagné (135) avec une paire de Sept
+
+
+
+Main PokerStars n°260205583749 : Tournoi #3986010030, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 24/03/2026 7:53:10 CET [24/03/2026 2:53:10 ET]
+Table '3986010030 1' 3-max Siège #1 est au bouton.
+Place 1: tottibb (400 en jetons) 
+Place 2: elvisman74 (500 en jetons) 
+Place 3: psychoman59 (600 en jetons) 
+elvisman74 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Jc]
+tottibb : passe. 
+elvisman74 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : tottibb (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : elvisman74 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°260205584135 : Tournoi #3986010030, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 24/03/2026 7:53:18 CET [24/03/2026 2:53:18 ET]
+Table '3986010030 1' 3-max Siège #2 est au bouton.
+Place 1: tottibb (400 en jetons) 
+Place 2: elvisman74 (485 en jetons) 
+Place 3: psychoman59 (615 en jetons) 
+psychoman59 : met la petite blind. 15
+tottibb : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Jh]
+elvisman74 : suit. 30
+psychoman59 : passe. 
+tottibb : parole 
+*** FLOP *** [9s Kd 5h]
+tottibb : mise. 30
+elvisman74 : suit. 30
+*** TOURNANT *** [9s Kd 5h] [7s]
+tottibb : parole 
+elvisman74 : parole 
+*** RIVIÈRE *** [9s Kd 5h 7s] [8d]
+tottibb : parole 
+elvisman74 : parole 
+*** ABATTAGE ***
+tottibb : montre [7h 3s] (une paire de Sept)
+elvisman74 : cache la main perdante. 
+tottibb a remporté 135  lors du pot .
+*** SYNTHÈSE ***
+Pot total 135 | Commission 0 
+Tableau [9s Kd 5h 7s 8d]
+Siège 1 : tottibb (grosse blind) a montré [7h 3s] et a gagné (135) avec une paire de Sept
+Siège 2 : elvisman74 (bouton) a caché la main perdante. [2s 2c]
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260205585801 : Tournoi #3986010030, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 24/03/2026 7:53:53 CET [24/03/2026 2:53:53 ET]
+Table '3986010030 1' 3-max Siège #3 est au bouton.
+Place 1: tottibb (475 en jetons) 
+Place 2: elvisman74 (425 en jetons) 
+Place 3: psychoman59 (600 en jetons) 
+tottibb : met la petite blind. 15
+elvisman74 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Qs]
+psychoman59 : passe. 
+tottibb : suit. 15
+elvisman74 : parole 
+*** FLOP *** [2h 4h 9s]
+tottibb : parole 
+elvisman74 : parole 
+*** TOURNANT *** [2h 4h 9s] [Kd]
+tottibb : parole 
+elvisman74 : parole 
+*** RIVIÈRE *** [2h 4h 9s Kd] [Ts]
+tottibb : parole 
+elvisman74 : parole 
+*** ABATTAGE ***
+tottibb : montre [7c Qd] (Hauteur Roi)
+elvisman74 : montre [Ac 6h] (Hauteur As)
+elvisman74 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [2h 4h 9s Kd Ts]
+Siège 1 : tottibb (petite blind) a montré [7c Qd] et a perdu avec Hauteur Roi
+Siège 2 : elvisman74 (grosse blind) a montré [Ac 6h] et a gagné (60) avec Hauteur As
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260205586637 : Tournoi #3986010030, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 24/03/2026 7:54:10 CET [24/03/2026 2:54:10 ET]
+Table '3986010030 1' 3-max Siège #1 est au bouton.
+Place 1: tottibb (445 en jetons) 
+Place 2: elvisman74 (455 en jetons) 
+Place 3: psychoman59 (600 en jetons) 
+elvisman74 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Ks]
+tottibb : passe. 
+elvisman74 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Ac 7h Jd]
+elvisman74 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Ac 7h Jd] [6c]
+elvisman74 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Ac 7h Jd 6c] [6s]
+elvisman74 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+elvisman74 : montre [Ts Qc] (une paire de Six)
+psychoman59 : montre [Qs Ks] (une paire de Six - As+Roi kicker)
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ac 7h Jd 6c 6s]
+Siège 1 : tottibb (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : elvisman74 (petite blind) a montré [Ts Qc] et a perdu avec une paire de Six
+Siège 3 : psychoman59 (grosse blind) a montré [Qs Ks] et a gagné (60) avec une paire de Six
+
+
+
+Main PokerStars n°260205587649 : Tournoi #3986010030, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 24/03/2026 7:54:30 CET [24/03/2026 2:54:30 ET]
+Table '3986010030 1' 3-max Siège #2 est au bouton.
+Place 1: tottibb (445 en jetons) 
+Place 2: elvisman74 (425 en jetons) 
+Place 3: psychoman59 (630 en jetons) 
+psychoman59 : met la petite blind. 15
+tottibb : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 7h]
+elvisman74 : suit. 30
+psychoman59 : passe. 
+tottibb : parole 
+*** FLOP *** [2s 7c Tc]
+tottibb : parole 
+elvisman74 : parole 
+*** TOURNANT *** [2s 7c Tc] [Js]
+tottibb : parole 
+elvisman74 : parole 
+*** RIVIÈRE *** [2s 7c Tc Js] [3h]
+tottibb : parole 
+elvisman74 : parole 
+*** ABATTAGE ***
+tottibb : montre [4h 2h] (une paire de Deux)
+elvisman74 : montre [9c 3c] (une paire de Trois)
+elvisman74 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Tableau [2s 7c Tc Js 3h]
+Siège 1 : tottibb (grosse blind) a montré [4h 2h] et a perdu avec une paire de Deux
+Siège 2 : elvisman74 (bouton) a montré [9c 3c] et a gagné (75) avec une paire de Trois
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260205588636 : Tournoi #3986010030, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 24/03/2026 7:54:52 CET [24/03/2026 2:54:52 ET]
+Table '3986010030 1' 3-max Siège #3 est au bouton.
+Place 1: tottibb (415 en jetons) 
+Place 2: elvisman74 (470 en jetons) 
+Place 3: psychoman59 (615 en jetons) 
+tottibb : met la petite blind. 15
+elvisman74 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Jd]
+psychoman59 : suit. 30
+tottibb : suit. 15
+elvisman74 : parole 
+*** FLOP *** [5h 3c 7d]
+tottibb : mise. 45
+elvisman74 : suit. 45
+psychoman59 : passe. 
+*** TOURNANT *** [5h 3c 7d] [8c]
+tottibb : parole 
+elvisman74 : parole 
+*** RIVIÈRE *** [5h 3c 7d 8c] [6c]
+tottibb : parole 
+elvisman74 : mise. 395 et est all-in.
+tottibb : passe. 
+Personne n'a suivi. (395) sont retournés à elvisman74.
+elvisman74 a remporté 180  lors du pot .
+elvisman74 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [5h 3c 7d 8c 6c]
+Siège 1 : tottibb (petite blind) s'est couché. sur le Rivière
+Siège 2 : elvisman74 (grosse blind) a remporté (180)
+Siège 3 : psychoman59 (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°260205590467 : Tournoi #3986010030, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 24/03/2026 7:55:32 CET [24/03/2026 2:55:32 ET]
+Table '3986010030 1' 3-max Siège #1 est au bouton.
+Place 1: tottibb (340 en jetons) 
+Place 2: elvisman74 (575 en jetons) 
+Place 3: psychoman59 (585 en jetons) 
+elvisman74 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 9h]
+tottibb : passe. 
+elvisman74 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [6s 3d Ah]
+elvisman74 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6s 3d Ah] [Js]
+elvisman74 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [6s 3d Ah Js] [8h]
+elvisman74 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+elvisman74 : montre [4c 5h] (Hauteur As)
+psychoman59 : montre [Kd 9h] (Hauteur As - Roi kicker)
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [6s 3d Ah Js 8h]
+Siège 1 : tottibb (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : elvisman74 (petite blind) a montré [4c 5h] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (grosse blind) a montré [Kd 9h] et a gagné (80) avec Hauteur As
+
+
+
+Main PokerStars n°260205591423 : Tournoi #3986010030, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 24/03/2026 7:55:54 CET [24/03/2026 2:55:54 ET]
+Table '3986010030 1' 3-max Siège #2 est au bouton.
+Place 1: tottibb (340 en jetons) 
+Place 2: elvisman74 (535 en jetons) 
+Place 3: psychoman59 (625 en jetons) 
+psychoman59 : met la petite blind. 20
+tottibb : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Jc]
+elvisman74 : passe. 
+psychoman59 : relance. 80 à 120
+tottibb : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : tottibb (grosse blind) s'est couché. avant Flop
+Siège 2 : elvisman74 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°260205591812 : Tournoi #3986010030, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 24/03/2026 7:56:03 CET [24/03/2026 2:56:03 ET]
+Table '3986010030 1' 3-max Siège #3 est au bouton.
+Place 1: tottibb (300 en jetons) 
+Place 2: elvisman74 (535 en jetons) 
+Place 3: psychoman59 (665 en jetons) 
+tottibb : met la petite blind. 20
+elvisman74 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Ac]
+psychoman59 : relance. 80 à 120
+tottibb : passe. 
+elvisman74 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : tottibb (petite blind) s'est couché. avant Flop
+Siège 2 : elvisman74 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a remporté (100)
+
+
+
+Main PokerStars n°260205592238 : Tournoi #3986010030, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 24/03/2026 7:56:13 CET [24/03/2026 2:56:13 ET]
+Table '3986010030 1' 3-max Siège #1 est au bouton.
+Place 1: tottibb (280 en jetons) 
+Place 2: elvisman74 (495 en jetons) 
+Place 3: psychoman59 (725 en jetons) 
+elvisman74 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 8s]
+tottibb : passe. 
+elvisman74 : suit. 20
+psychoman59 : relance. 685 à 725 et est all-in.
+elvisman74 : passe. 
+Personne n'a suivi. (685) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : tottibb (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : elvisman74 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°260205592701 : Tournoi #3986010030, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 24/03/2026 7:56:24 CET [24/03/2026 2:56:24 ET]
+Table '3986010030 1' 3-max Siège #2 est au bouton.
+Place 1: tottibb (280 en jetons) 
+Place 2: elvisman74 (455 en jetons) 
+Place 3: psychoman59 (765 en jetons) 
+psychoman59 : met la petite blind. 20
+tottibb : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Td]
+elvisman74 : suit. 40
+psychoman59 : passe. 
+tottibb : parole 
+*** FLOP *** [2d 5d 6d]
+tottibb : mise. 40
+elvisman74 : suit. 40
+*** TOURNANT *** [2d 5d 6d] [8h]
+tottibb : parole 
+elvisman74 : parole 
+*** RIVIÈRE *** [2d 5d 6d 8h] [8c]
+tottibb : mise. 180
+elvisman74 : passe. 
+Personne n'a suivi. (180) sont retournés à tottibb.
+tottibb a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [2d 5d 6d 8h 8c]
+Siège 1 : tottibb (grosse blind) a remporté (180)
+Siège 2 : elvisman74 (bouton) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260205593466 : Tournoi #3986010030, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 24/03/2026 7:56:43 CET [24/03/2026 2:56:43 ET]
+Table '3986010030 1' 3-max Siège #3 est au bouton.
+Place 1: tottibb (380 en jetons) 
+Place 2: elvisman74 (375 en jetons) 
+Place 3: psychoman59 (745 en jetons) 
+tottibb : met la petite blind. 20
+elvisman74 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Ah]
+psychoman59 : suit. 40
+tottibb : passe. 
+elvisman74 : parole 
+*** FLOP *** [9d 5s 5c]
+elvisman74 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [9d 5s 5c] [8h]
+elvisman74 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [9d 5s 5c 8h] [3d]
+elvisman74 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+elvisman74 : montre [6d Jd] (une paire de Cinq)
+psychoman59 : montre [3s Ah] (double paire, Cinq et Trois)
+psychoman59 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [9d 5s 5c 8h 3d]
+Siège 1 : tottibb (petite blind) s'est couché. avant Flop
+Siège 2 : elvisman74 (grosse blind) a montré [6d Jd] et a perdu avec une paire de Cinq
+Siège 3 : psychoman59 (bouton) a montré [3s Ah] et a gagné (100) avec double paire, Cinq et Trois
+
+
+
+Main PokerStars n°260205594491 : Tournoi #3986010030, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 24/03/2026 7:57:07 CET [24/03/2026 2:57:07 ET]
+Table '3986010030 1' 3-max Siège #1 est au bouton.
+Place 1: tottibb (360 en jetons) 
+Place 2: elvisman74 (335 en jetons) 
+Place 3: psychoman59 (805 en jetons) 
+elvisman74 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 5h]
+tottibb : relance. 320 à 360 et est all-in.
+elvisman74 : suit. 315 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (25) sont retournés à tottibb.
+*** FLOP *** [Qc Th 3h]
+*** TOURNANT *** [Qc Th 3h] [9s]
+*** RIVIÈRE *** [Qc Th 3h 9s] [Kh]
+*** ABATTAGE ***
+elvisman74 : montre [Td 2h] (une paire de Dix)
+tottibb : montre [As 7c] (Hauteur As)
+elvisman74 a remporté 710  lors du pot .
+*** SYNTHÈSE ***
+Pot total 710 | Commission 0 
+Tableau [Qc Th 3h 9s Kh]
+Siège 1 : tottibb (bouton) a montré [As 7c] et a perdu avec Hauteur As
+Siège 2 : elvisman74 (petite blind) a montré [Td 2h] et a gagné (710) avec une paire de Dix
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260205595214 : Tournoi #3986010030, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 24/03/2026 7:57:24 CET [24/03/2026 2:57:24 ET]
+Table '3986010030 1' 3-max Siège #2 est au bouton.
+Place 1: tottibb (25 en jetons) 
+Place 2: elvisman74 (710 en jetons) 
+Place 3: psychoman59 (765 en jetons) 
+psychoman59 : met la petite blind. 20
+tottibb : met la grosse blind. 25 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 7h]
+elvisman74 : suit. 40
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à elvisman74.
+*** FLOP *** [6c 2h 5d]
+*** TOURNANT *** [6c 2h 5d] [9h]
+*** RIVIÈRE *** [6c 2h 5d 9h] [Qh]
+*** ABATTAGE ***
+tottibb : montre [3h Qs] (une paire de Dames)
+elvisman74 : montre [4s 5h] (une paire de Cinq)
+tottibb a remporté 70  lors du pot .
+*** SYNTHÈSE ***
+Pot total 70 | Commission 0 
+Tableau [6c 2h 5d 9h Qh]
+Siège 1 : tottibb (grosse blind) a montré [3h Qs] et a gagné (70) avec une paire de Dames
+Siège 2 : elvisman74 (bouton) a montré [4s 5h] et a perdu avec une paire de Cinq
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260205595839 : Tournoi #3986010030, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 24/03/2026 7:57:39 CET [24/03/2026 2:57:39 ET]
+Table '3986010030 1' 3-max Siège #3 est au bouton.
+Place 1: tottibb (70 en jetons) 
+Place 2: elvisman74 (685 en jetons) 
+Place 3: psychoman59 (745 en jetons) 
+tottibb : met la petite blind. 20
+elvisman74 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 4d]
+psychoman59 : suit. 40
+tottibb : relance. 30 à 70 et est all-in.
+elvisman74 : suit. 30
+psychoman59 : suit. 30
+*** FLOP *** [8s 9h 4s]
+elvisman74 : mise. 615 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (615) sont retournés à elvisman74.
+*** TOURNANT *** [8s 9h 4s] [Td]
+*** RIVIÈRE *** [8s 9h 4s Td] [Ac]
+*** ABATTAGE ***
+tottibb : montre [4h 6s] (une paire de Quatre)
+elvisman74 : montre [Ts Ks] (une paire de Dix)
+elvisman74 a remporté 210  lors du pot .
+tottibb a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Tableau [8s 9h 4s Td Ac]
+Siège 1 : tottibb (petite blind) a montré [4h 6s] et a perdu avec une paire de Quatre
+Siège 2 : elvisman74 (grosse blind) a montré [Ts Ks] et a gagné (210) avec une paire de Dix
+Siège 3 : psychoman59 (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°260205596959 : Tournoi #3986010030, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 24/03/2026 7:58:06 CET [24/03/2026 2:58:06 ET]
+Table '3986010030 1' 3-max Siège #2 est au bouton.
+Place 2: elvisman74 (825 en jetons) 
+Place 3: psychoman59 (675 en jetons) 
+elvisman74 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Js]
+elvisman74 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Ks Th 3d]
+psychoman59 : parole 
+elvisman74 : parole 
+*** TOURNANT *** [Ks Th 3d] [5h]
+psychoman59 : parole 
+elvisman74 : parole 
+*** RIVIÈRE *** [Ks Th 3d 5h] [Kd]
+psychoman59 : parole 
+elvisman74 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [8h Js] (une paire de Rois)
+elvisman74 : cache la main perdante. 
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Ks Th 3d 5h Kd]
+Siège 2 : elvisman74 (bouton) (petite blind) a caché la main perdante. [4c 2c]
+Siège 3 : psychoman59 (grosse blind) a montré [8h Js] et a gagné (80) avec une paire de Rois
+
+
+
+Main PokerStars n°260205597784 : Tournoi #3986010030, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/03/2026 7:58:26 CET [24/03/2026 2:58:26 ET]
+Table '3986010030 1' 3-max Siège #3 est au bouton.
+Place 2: elvisman74 (785 en jetons) 
+Place 3: psychoman59 (715 en jetons) 
+psychoman59 : met la petite blind. 30
+elvisman74 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 3s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à elvisman74.
+elvisman74 a remporté 60  lors du pot .
+elvisman74 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : elvisman74 (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260205597986 : Tournoi #3986010030, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/03/2026 7:58:31 CET [24/03/2026 2:58:31 ET]
+Table '3986010030 1' 3-max Siège #2 est au bouton.
+Place 2: elvisman74 (815 en jetons) 
+Place 3: psychoman59 (685 en jetons) 
+elvisman74 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 9s]
+elvisman74 : suit. 30
+psychoman59 : relance. 625 à 685 et est all-in.
+elvisman74 : passe. 
+Personne n'a suivi. (625) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : elvisman74 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°260205598362 : Tournoi #3986010030, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/03/2026 7:58:39 CET [24/03/2026 2:58:39 ET]
+Table '3986010030 1' 3-max Siège #3 est au bouton.
+Place 2: elvisman74 (755 en jetons) 
+Place 3: psychoman59 (745 en jetons) 
+psychoman59 : met la petite blind. 30
+elvisman74 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 3h]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à elvisman74.
+elvisman74 a remporté 60  lors du pot .
+elvisman74 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : elvisman74 (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260205598554 : Tournoi #3986010030, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/03/2026 7:58:44 CET [24/03/2026 2:58:44 ET]
+Table '3986010030 1' 3-max Siège #2 est au bouton.
+Place 2: elvisman74 (785 en jetons) 
+Place 3: psychoman59 (715 en jetons) 
+elvisman74 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 5c]
+elvisman74 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [3h Kd 7d]
+psychoman59 : parole 
+elvisman74 : parole 
+*** TOURNANT *** [3h Kd 7d] [Ks]
+psychoman59 : parole 
+elvisman74 : parole 
+*** RIVIÈRE *** [3h Kd 7d Ks] [3c]
+psychoman59 : parole 
+elvisman74 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Th 5c] (double paire, Rois et Trois)
+elvisman74 : montre [7h 8h] (double paire, Rois et Sept)
+elvisman74 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [3h Kd 7d Ks 3c]
+Siège 2 : elvisman74 (bouton) (petite blind) a montré [7h 8h] et a gagné (120) avec double paire, Rois et Sept
+Siège 3 : psychoman59 (grosse blind) a montré [Th 5c] et a perdu avec double paire, Rois et Trois
+
+
+
+Main PokerStars n°260205599365 : Tournoi #3986010030, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/03/2026 7:59:03 CET [24/03/2026 2:59:03 ET]
+Table '3986010030 1' 3-max Siège #3 est au bouton.
+Place 2: elvisman74 (845 en jetons) 
+Place 3: psychoman59 (655 en jetons) 
+psychoman59 : met la petite blind. 30
+elvisman74 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 7s]
+psychoman59 : suit. 30
+elvisman74 : parole 
+*** FLOP *** [4s Tc 2h]
+elvisman74 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [4s Tc 2h] [8d]
+elvisman74 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [4s Tc 2h 8d] [Ah]
+elvisman74 : parole 
+psychoman59 : mise. 120
+elvisman74 : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [4s Tc 2h 8d Ah]
+Siège 2 : elvisman74 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°260205600232 : Tournoi #3986010030, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/03/2026 7:59:23 CET [24/03/2026 2:59:23 ET]
+Table '3986010030 1' 3-max Siège #2 est au bouton.
+Place 2: elvisman74 (785 en jetons) 
+Place 3: psychoman59 (715 en jetons) 
+elvisman74 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 9d]
+elvisman74 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [2d Ad Ks]
+psychoman59 : parole 
+elvisman74 : parole 
+*** TOURNANT *** [2d Ad Ks] [Js]
+psychoman59 : parole 
+elvisman74 : parole 
+*** RIVIÈRE *** [2d Ad Ks Js] [7h]
+psychoman59 : parole 
+elvisman74 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [5h 9d] (Hauteur As)
+elvisman74 : montre [2h 4d] (une paire de Deux)
+elvisman74 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [2d Ad Ks Js 7h]
+Siège 2 : elvisman74 (bouton) (petite blind) a montré [2h 4d] et a gagné (120) avec une paire de Deux
+Siège 3 : psychoman59 (grosse blind) a montré [5h 9d] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°260205601009 : Tournoi #3986010030, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/03/2026 7:59:40 CET [24/03/2026 2:59:40 ET]
+Table '3986010030 1' 3-max Siège #3 est au bouton.
+Place 2: elvisman74 (845 en jetons) 
+Place 3: psychoman59 (655 en jetons) 
+psychoman59 : met la petite blind. 30
+elvisman74 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Kc]
+psychoman59 : suit. 30
+elvisman74 : parole 
+*** FLOP *** [3c 4h Js]
+elvisman74 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3c 4h Js] [Tc]
+elvisman74 : parole 
+psychoman59 : mise. 60
+elvisman74 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [3c 4h Js Tc]
+Siège 2 : elvisman74 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°260205601643 : Tournoi #3986010030, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/03/2026 7:59:56 CET [24/03/2026 2:59:56 ET]
+Table '3986010030 1' 3-max Siège #2 est au bouton.
+Place 2: elvisman74 (785 en jetons) 
+Place 3: psychoman59 (715 en jetons) 
+elvisman74 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 7c]
+elvisman74 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Ad 3h 2d]
+psychoman59 : parole 
+elvisman74 : parole 
+*** TOURNANT *** [Ad 3h 2d] [Qd]
+psychoman59 : parole 
+elvisman74 : parole 
+*** RIVIÈRE *** [Ad 3h 2d Qd] [8s]
+psychoman59 : parole 
+elvisman74 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [5s 7c] (Hauteur As)
+elvisman74 : montre [Ks Qh] (une paire de Dames)
+elvisman74 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Ad 3h 2d Qd 8s]
+Siège 2 : elvisman74 (bouton) (petite blind) a montré [Ks Qh] et a gagné (120) avec une paire de Dames
+Siège 3 : psychoman59 (grosse blind) a montré [5s 7c] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°260205602365 : Tournoi #3986010030, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/03/2026 8:00:12 CET [24/03/2026 3:00:12 ET]
+Table '3986010030 1' 3-max Siège #3 est au bouton.
+Place 2: elvisman74 (845 en jetons) 
+Place 3: psychoman59 (655 en jetons) 
+psychoman59 : met la petite blind. 30
+elvisman74 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Qd]
+psychoman59 : relance. 60 à 120
+elvisman74 : suit. 60
+*** FLOP *** [8h 4d 2s]
+elvisman74 : parole 
+psychoman59 : mise. 120
+elvisman74 : suit. 120
+*** TOURNANT *** [8h 4d 2s] [9s]
+elvisman74 : parole 
+psychoman59 : mise. 240
+elvisman74 : suit. 240
+*** RIVIÈRE *** [8h 4d 2s 9s] [3h]
+elvisman74 : parole 
+psychoman59 : mise. 175 et est all-in.
+elvisman74 : suit. 175
+*** ABATTAGE ***
+psychoman59 : montre [Qc Qd] (une paire de Dames)
+elvisman74 : montre [Kc 2h] (une paire de Deux)
+psychoman59 a remporté 1310  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1310 | Commission 0 
+Tableau [8h 4d 2s 9s 3h]
+Siège 2 : elvisman74 (grosse blind) a montré [Kc 2h] et a perdu avec une paire de Deux
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Qc Qd] et a gagné (1310) avec une paire de Dames
+
+
+
+Main PokerStars n°260205603526 : Tournoi #3986010030, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/03/2026 8:00:37 CET [24/03/2026 3:00:37 ET]
+Table '3986010030 1' 3-max Siège #2 est au bouton.
+Place 2: elvisman74 (190 en jetons) 
+Place 3: psychoman59 (1310 en jetons) 
+elvisman74 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Tc]
+elvisman74 : relance. 130 à 190 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (130) sont retournés à elvisman74.
+elvisman74 a remporté 120  lors du pot .
+elvisman74 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : elvisman74 (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260205604005 : Tournoi #3986010030, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/03/2026 8:00:46 CET [24/03/2026 3:00:46 ET]
+Table '3986010030 1' 3-max Siège #3 est au bouton.
+Place 2: elvisman74 (250 en jetons) 
+Place 3: psychoman59 (1250 en jetons) 
+psychoman59 : met la petite blind. 30
+elvisman74 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Jh]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à elvisman74.
+elvisman74 a remporté 60  lors du pot .
+elvisman74 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : elvisman74 (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260205604230 : Tournoi #3986010030, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/03/2026 8:00:51 CET [24/03/2026 3:00:51 ET]
+Table '3986010030 1' 3-max Siège #2 est au bouton.
+Place 2: elvisman74 (280 en jetons) 
+Place 3: psychoman59 (1220 en jetons) 
+elvisman74 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 7h]
+elvisman74 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [5s 2d Qc]
+psychoman59 : parole 
+elvisman74 : parole 
+*** TOURNANT *** [5s 2d Qc] [5h]
+psychoman59 : parole 
+elvisman74 : mise. 220 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (220) sont retournés à elvisman74.
+elvisman74 a remporté 120  lors du pot .
+elvisman74 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [5s 2d Qc 5h]
+Siège 2 : elvisman74 (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°260205605116 : Tournoi #3986010030, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/03/2026 8:01:09 CET [24/03/2026 3:01:09 ET]
+Table '3986010030 1' 3-max Siège #3 est au bouton.
+Place 2: elvisman74 (340 en jetons) 
+Place 3: psychoman59 (1160 en jetons) 
+psychoman59 : met la petite blind. 30
+elvisman74 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Jc]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à elvisman74.
+elvisman74 a remporté 60  lors du pot .
+elvisman74 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : elvisman74 (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260205605498 : Tournoi #3986010030, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 24/03/2026 8:01:17 CET [24/03/2026 3:01:17 ET]
+Table '3986010030 1' 3-max Siège #2 est au bouton.
+Place 2: elvisman74 (370 en jetons) 
+Place 3: psychoman59 (1130 en jetons) 
+elvisman74 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Qd]
+elvisman74 : suit. 40
+psychoman59 : parole 
+*** FLOP *** [2d 3d 6c]
+psychoman59 : parole 
+elvisman74 : parole 
+*** TOURNANT *** [2d 3d 6c] [5h]
+psychoman59 : parole 
+elvisman74 : mise. 160
+psychoman59 : passe. 
+Personne n'a suivi. (160) sont retournés à elvisman74.
+elvisman74 a remporté 160  lors du pot .
+elvisman74 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [2d 3d 6c 5h]
+Siège 2 : elvisman74 (bouton) (petite blind) a remporté (160)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°260205606316 : Tournoi #3986010030, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 24/03/2026 8:01:34 CET [24/03/2026 3:01:34 ET]
+Table '3986010030 1' 3-max Siège #3 est au bouton.
+Place 2: elvisman74 (450 en jetons) 
+Place 3: psychoman59 (1050 en jetons) 
+psychoman59 : met la petite blind. 40
+elvisman74 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 2s]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à elvisman74.
+elvisman74 a remporté 80  lors du pot .
+elvisman74 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : elvisman74 (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260205606594 : Tournoi #3986010030, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 24/03/2026 8:01:40 CET [24/03/2026 3:01:40 ET]
+Table '3986010030 1' 3-max Siège #2 est au bouton.
+Place 2: elvisman74 (490 en jetons) 
+Place 3: psychoman59 (1010 en jetons) 
+elvisman74 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 6d]
+elvisman74 : suit. 40
+psychoman59 : parole 
+*** FLOP *** [Jd 4d Kd]
+psychoman59 : parole 
+elvisman74 : parole 
+*** TOURNANT *** [Jd 4d Kd] [Ad]
+psychoman59 : parole 
+elvisman74 : parole 
+*** RIVIÈRE *** [Jd 4d Kd Ad] [Ts]
+psychoman59 : mise. 160
+elvisman74 : suit. 160
+*** ABATTAGE ***
+psychoman59 : montre [9d 6d] (une couleur, hauteur As)
+elvisman74 : cache la main perdante. 
+psychoman59 a remporté 480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [Jd 4d Kd Ad Ts]
+Siège 2 : elvisman74 (bouton) (petite blind) a caché la main perdante. [Qs 2d]
+Siège 3 : psychoman59 (grosse blind) a montré [9d 6d] et a gagné (480) avec une couleur, hauteur As
+
+
+
+Main PokerStars n°260205607387 : Tournoi #3986010030, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 24/03/2026 8:01:57 CET [24/03/2026 3:01:57 ET]
+Table '3986010030 1' 3-max Siège #3 est au bouton.
+Place 2: elvisman74 (250 en jetons) 
+Place 3: psychoman59 (1250 en jetons) 
+psychoman59 : met la petite blind. 40
+elvisman74 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 4h]
+psychoman59 : suit. 40
+elvisman74 : relance. 170 à 250 et est all-in.
+psychoman59 : suit. 170
+*** FLOP *** [Jd Ad 5h]
+*** TOURNANT *** [Jd Ad 5h] [Ks]
+*** RIVIÈRE *** [Jd Ad 5h Ks] [7d]
+*** ABATTAGE ***
+elvisman74 : montre [8c 7c] (une paire de Sept)
+psychoman59 : montre [Kd 4h] (une paire de Rois)
+psychoman59 a remporté 500  lors du pot .
+elvisman74 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 1.50 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Tableau [Jd Ad 5h Ks 7d]
+Siège 2 : elvisman74 (grosse blind) a montré [8c 7c] et a perdu avec une paire de Sept
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Kd 4h] et a gagné (500) avec une paire de Rois
+
+
+

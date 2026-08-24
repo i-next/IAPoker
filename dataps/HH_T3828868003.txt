@@ -1,0 +1,829 @@
+﻿Main PokerStars n°253634917176 : Tournoi #3828868003, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 30/11/2024 8:28:01 CET [30/11/2024 2:28:01 ET]
+Table '3828868003 1' 3-max Siège #1 est au bouton.
+Place 1: BadBet0gain (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: Marccc658 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+Marccc658 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 9c]
+BadBet0gain : relance. 20 à 40
+psychoman59 : passe. 
+Marccc658 : suit. 20
+*** FLOP *** [Ad Th Jc]
+Marccc658 : parole 
+BadBet0gain : mise. 45
+Marccc658 : passe. 
+Personne n'a suivi. (45) sont retournés à BadBet0gain.
+BadBet0gain a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [Ad Th Jc]
+Siège 1 : BadBet0gain (bouton) a remporté (90)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Marccc658 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°253634918525 : Tournoi #3828868003, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 30/11/2024 8:28:17 CET [30/11/2024 2:28:17 ET]
+Table '3828868003 1' 3-max Siège #2 est au bouton.
+Place 1: BadBet0gain (550 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: Marccc658 (460 en jetons) 
+Marccc658 : met la petite blind. 10
+BadBet0gain : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 3h]
+psychoman59 : passe. 
+Marccc658 : suit. 10
+BadBet0gain : parole 
+*** FLOP *** [8h 9d Th]
+Marccc658 : parole 
+BadBet0gain : parole 
+*** TOURNANT *** [8h 9d Th] [7d]
+Marccc658 : parole 
+BadBet0gain : parole 
+*** RIVIÈRE *** [8h 9d Th 7d] [8d]
+Marccc658 : mise. 20
+BadBet0gain : suit. 20
+*** ABATTAGE ***
+Marccc658 : montre [Qc 9s] (double paire, Neuf et Huit)
+BadBet0gain : cache la main perdante. 
+Marccc658 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [8h 9d Th 7d 8d]
+Siège 1 : BadBet0gain (grosse blind) a caché la main perdante. [Ah 5c]
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Marccc658 (petite blind) a montré [Qc 9s] et a gagné (80) avec double paire, Neuf et Huit
+
+
+
+Main PokerStars n°253634920034 : Tournoi #3828868003, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 30/11/2024 8:28:35 CET [30/11/2024 2:28:35 ET]
+Table '3828868003 1' 3-max Siège #3 est au bouton.
+Place 1: BadBet0gain (510 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: Marccc658 (500 en jetons) 
+BadBet0gain : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Ad]
+Marccc658 : suit. 20
+BadBet0gain : suit. 10
+psychoman59 : relance. 470 à 490 et est all-in.
+Marccc658 : passe. 
+BadBet0gain : passe. 
+Personne n'a suivi. (470) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : BadBet0gain (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : Marccc658 (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°253634921271 : Tournoi #3828868003, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 30/11/2024 8:28:51 CET [30/11/2024 2:28:51 ET]
+Table '3828868003 1' 3-max Siège #1 est au bouton.
+Place 1: BadBet0gain (490 en jetons) 
+Place 2: psychoman59 (530 en jetons) 
+Place 3: Marccc658 (480 en jetons) 
+psychoman59 : met la petite blind. 10
+Marccc658 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Qs]
+BadBet0gain : passe. 
+psychoman59 : suit. 10
+Marccc658 : parole 
+*** FLOP *** [7h 9h 2c]
+psychoman59 : parole 
+Marccc658 : parole 
+*** TOURNANT *** [7h 9h 2c] [7s]
+psychoman59 : parole 
+Marccc658 : parole 
+*** RIVIÈRE *** [7h 9h 2c 7s] [8s]
+psychoman59 : mise. 40
+Marccc658 : relance. 40 à 80
+psychoman59 : suit. 40
+*** ABATTAGE ***
+Marccc658 : montre [8c Ac] (double paire, Huit et Sept)
+psychoman59 : montre [7d Qs] (un brelan de Sept)
+psychoman59 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [7h 9h 2c 7s 8s]
+Siège 1 : BadBet0gain (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [7d Qs] et a gagné (200) avec un brelan de Sept
+Siège 3 : Marccc658 (grosse blind) a montré [8c Ac] et a perdu avec double paire, Huit et Sept
+
+
+
+Main PokerStars n°253634922710 : Tournoi #3828868003, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 30/11/2024 8:29:08 CET [30/11/2024 2:29:08 ET]
+Table '3828868003 1' 3-max Siège #2 est au bouton.
+Place 1: BadBet0gain (490 en jetons) 
+Place 2: psychoman59 (630 en jetons) 
+Place 3: Marccc658 (380 en jetons) 
+Marccc658 : met la petite blind. 10
+BadBet0gain : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 4d]
+psychoman59 : passe. 
+Marccc658 : suit. 10
+BadBet0gain : parole 
+*** FLOP *** [3c 5s Qh]
+Marccc658 : parole 
+BadBet0gain : mise. 20
+Marccc658 : passe. 
+Personne n'a suivi. (20) sont retournés à BadBet0gain.
+BadBet0gain a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [3c 5s Qh]
+Siège 1 : BadBet0gain (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Marccc658 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°253634924114 : Tournoi #3828868003, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 30/11/2024 8:29:25 CET [30/11/2024 2:29:25 ET]
+Table '3828868003 1' 3-max Siège #3 est au bouton.
+Place 1: BadBet0gain (510 en jetons) 
+Place 2: psychoman59 (630 en jetons) 
+Place 3: Marccc658 (360 en jetons) 
+BadBet0gain : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c As]
+Marccc658 : passe. 
+BadBet0gain : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : BadBet0gain (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (20)
+Siège 3 : Marccc658 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°253634924703 : Tournoi #3828868003, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 30/11/2024 8:29:32 CET [30/11/2024 2:29:32 ET]
+Table '3828868003 1' 3-max Siège #1 est au bouton.
+Place 1: BadBet0gain (500 en jetons) 
+Place 2: psychoman59 (640 en jetons) 
+Place 3: Marccc658 (360 en jetons) 
+psychoman59 : met la petite blind. 10
+Marccc658 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 8c]
+BadBet0gain : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à Marccc658.
+Marccc658 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : BadBet0gain (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Marccc658 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°253634925213 : Tournoi #3828868003, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 30/11/2024 8:29:38 CET [30/11/2024 2:29:38 ET]
+Table '3828868003 1' 3-max Siège #2 est au bouton.
+Place 1: BadBet0gain (500 en jetons) 
+Place 2: psychoman59 (630 en jetons) 
+Place 3: Marccc658 (370 en jetons) 
+Marccc658 : met la petite blind. 10
+BadBet0gain : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Qs]
+psychoman59 : suit. 20
+Marccc658 : passe. 
+BadBet0gain : parole 
+*** FLOP *** [3s 5s Qd]
+BadBet0gain : parole 
+psychoman59 : mise. 50
+BadBet0gain : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [3s 5s Qd]
+Siège 1 : BadBet0gain (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) a remporté (50)
+Siège 3 : Marccc658 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°253634926321 : Tournoi #3828868003, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 30/11/2024 8:29:51 CET [30/11/2024 2:29:51 ET]
+Table '3828868003 1' 3-max Siège #3 est au bouton.
+Place 1: BadBet0gain (480 en jetons) 
+Place 2: psychoman59 (660 en jetons) 
+Place 3: Marccc658 (360 en jetons) 
+BadBet0gain : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 3d]
+Marccc658 : suit. 20
+BadBet0gain : passe. 
+psychoman59 : parole 
+*** FLOP *** [2c 5s 9s]
+psychoman59 : parole 
+Marccc658 : parole 
+*** TOURNANT *** [2c 5s 9s] [Kd]
+psychoman59 : parole 
+Marccc658 : parole 
+*** RIVIÈRE *** [2c 5s 9s Kd] [5c]
+psychoman59 : parole 
+Marccc658 : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Marccc658.
+Marccc658 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [2c 5s 9s Kd 5c]
+Siège 1 : BadBet0gain (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : Marccc658 (bouton) a remporté (50)
+
+
+
+Main PokerStars n°253634928093 : Tournoi #3828868003, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 30/11/2024 8:30:13 CET [30/11/2024 2:30:13 ET]
+Table '3828868003 1' 3-max Siège #1 est au bouton.
+Place 1: BadBet0gain (470 en jetons) 
+Place 2: psychoman59 (640 en jetons) 
+Place 3: Marccc658 (390 en jetons) 
+psychoman59 : met la petite blind. 15
+Marccc658 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Tc]
+BadBet0gain : suit. 30
+psychoman59 : passe. 
+Marccc658 : parole 
+*** FLOP *** [4c 7s 3h]
+Marccc658 : parole 
+BadBet0gain : parole 
+*** TOURNANT *** [4c 7s 3h] [7h]
+Marccc658 : parole 
+BadBet0gain : mise. 30
+Marccc658 : suit. 30
+*** RIVIÈRE *** [4c 7s 3h 7h] [6d]
+Marccc658 : parole 
+BadBet0gain : parole 
+*** ABATTAGE ***
+Marccc658 : montre [8h Ah] (une paire de Sept)
+BadBet0gain : cache la main perdante. 
+Marccc658 a remporté 135  lors du pot .
+*** SYNTHÈSE ***
+Pot total 135 | Commission 0 
+Tableau [4c 7s 3h 7h 6d]
+Siège 1 : BadBet0gain (bouton) a caché la main perdante. [Kc Ts]
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Marccc658 (grosse blind) a montré [8h Ah] et a gagné (135) avec une paire de Sept
+
+
+
+Main PokerStars n°253634930398 : Tournoi #3828868003, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 30/11/2024 8:30:41 CET [30/11/2024 2:30:41 ET]
+Table '3828868003 1' 3-max Siège #2 est au bouton.
+Place 1: BadBet0gain (410 en jetons) 
+Place 2: psychoman59 (625 en jetons) 
+Place 3: Marccc658 (465 en jetons) 
+Marccc658 : met la petite blind. 15
+BadBet0gain : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 2c]
+psychoman59 : passe. 
+Marccc658 : suit. 15
+BadBet0gain : parole 
+*** FLOP *** [Qc 3d 8d]
+Marccc658 : parole 
+BadBet0gain : parole 
+*** TOURNANT *** [Qc 3d 8d] [Kd]
+Marccc658 : parole 
+BadBet0gain : parole 
+*** RIVIÈRE *** [Qc 3d 8d Kd] [Ad]
+Marccc658 : mise. 30
+BadBet0gain : passe. 
+Personne n'a suivi. (30) sont retournés à Marccc658.
+Marccc658 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Qc 3d 8d Kd Ad]
+Siège 1 : BadBet0gain (grosse blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Marccc658 (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°253634931955 : Tournoi #3828868003, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 30/11/2024 8:30:59 CET [30/11/2024 2:30:59 ET]
+Table '3828868003 1' 3-max Siège #3 est au bouton.
+Place 1: BadBet0gain (380 en jetons) 
+Place 2: psychoman59 (625 en jetons) 
+Place 3: Marccc658 (495 en jetons) 
+BadBet0gain : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Th]
+Marccc658 : suit. 30
+BadBet0gain : suit. 15
+psychoman59 : parole 
+*** FLOP *** [5s Ad Js]
+BadBet0gain : parole 
+psychoman59 : parole 
+Marccc658 : parole 
+*** TOURNANT *** [5s Ad Js] [5c]
+BadBet0gain : parole 
+psychoman59 : parole 
+Marccc658 : parole 
+*** RIVIÈRE *** [5s Ad Js 5c] [2c]
+BadBet0gain : parole 
+psychoman59 : parole 
+Marccc658 : mise. 30
+BadBet0gain : passe. 
+psychoman59 : suit. 30
+*** ABATTAGE ***
+Marccc658 : montre [Kc 3h] (une paire de Cinq)
+psychoman59 : cache la main perdante. 
+Marccc658 a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Tableau [5s Ad Js 5c 2c]
+Siège 1 : BadBet0gain (petite blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (grosse blind) a caché la main perdante. [Qh Th]
+Siège 3 : Marccc658 (bouton) a montré [Kc 3h] et a gagné (150) avec une paire de Cinq
+
+
+
+Main PokerStars n°253634934145 : Tournoi #3828868003, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 30/11/2024 8:31:26 CET [30/11/2024 2:31:26 ET]
+Table '3828868003 1' 3-max Siège #1 est au bouton.
+Place 1: BadBet0gain (350 en jetons) 
+Place 2: psychoman59 (565 en jetons) 
+Place 3: Marccc658 (585 en jetons) 
+psychoman59 : met la petite blind. 15
+Marccc658 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 4s]
+BadBet0gain : suit. 30
+psychoman59 : suit. 15
+Marccc658 : parole 
+*** FLOP *** [Qh 3h 7s]
+psychoman59 : parole 
+Marccc658 : parole 
+BadBet0gain : parole 
+*** TOURNANT *** [Qh 3h 7s] [7h]
+psychoman59 : parole 
+Marccc658 : parole 
+BadBet0gain : parole 
+*** RIVIÈRE *** [Qh 3h 7s 7h] [3c]
+psychoman59 : parole 
+Marccc658 : parole 
+BadBet0gain : mise. 320 et est all-in.
+psychoman59 : passe. 
+Marccc658 : passe. 
+Personne n'a suivi. (320) sont retournés à BadBet0gain.
+BadBet0gain a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [Qh 3h 7s 7h 3c]
+Siège 1 : BadBet0gain (bouton) a remporté (90)
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Rivière
+Siège 3 : Marccc658 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°253634936354 : Tournoi #3828868003, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 30/11/2024 8:31:52 CET [30/11/2024 2:31:52 ET]
+Table '3828868003 1' 3-max Siège #2 est au bouton.
+Place 1: BadBet0gain (410 en jetons) 
+Place 2: psychoman59 (535 en jetons) 
+Place 3: Marccc658 (555 en jetons) 
+Marccc658 : met la petite blind. 15
+BadBet0gain : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 5s]
+psychoman59 : passe. 
+Marccc658 : passe. 
+Personne n'a suivi. (15) sont retournés à BadBet0gain.
+BadBet0gain a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : BadBet0gain (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Marccc658 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°253634936928 : Tournoi #3828868003, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 30/11/2024 8:32:00 CET [30/11/2024 2:32:00 ET]
+Table '3828868003 1' 3-max Siège #3 est au bouton.
+Place 1: BadBet0gain (425 en jetons) 
+Place 2: psychoman59 (535 en jetons) 
+Place 3: Marccc658 (540 en jetons) 
+BadBet0gain : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 7s]
+Marccc658 : suit. 30
+BadBet0gain : suit. 15
+psychoman59 : parole 
+*** FLOP *** [As 6h 5h]
+BadBet0gain : mise. 30
+psychoman59 : passe. 
+Marccc658 : suit. 30
+*** TOURNANT *** [As 6h 5h] [9s]
+BadBet0gain : mise. 30
+Marccc658 : suit. 30
+*** RIVIÈRE *** [As 6h 5h 9s] [6s]
+BadBet0gain : mise. 30
+Marccc658 : suit. 30
+*** ABATTAGE ***
+BadBet0gain : montre [5s Ad] (double paire, As et Six)
+Marccc658 : cache la main perdante. 
+BadBet0gain a remporté 270  lors du pot .
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Tableau [As 6h 5h 9s 6s]
+Siège 1 : BadBet0gain (petite blind) a montré [5s Ad] et a gagné (270) avec double paire, As et Six
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : Marccc658 (bouton) a caché la main perdante. [4h 9h]
+
+
+
+Main PokerStars n°253634939408 : Tournoi #3828868003, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 30/11/2024 8:32:30 CET [30/11/2024 2:32:30 ET]
+Table '3828868003 1' 3-max Siège #1 est au bouton.
+Place 1: BadBet0gain (575 en jetons) 
+Place 2: psychoman59 (505 en jetons) 
+Place 3: Marccc658 (420 en jetons) 
+psychoman59 : met la petite blind. 20
+Marccc658 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 7s]
+BadBet0gain : suit. 40
+psychoman59 : passe. 
+Marccc658 : parole 
+*** FLOP *** [4d Qd 2d]
+Marccc658 : parole 
+BadBet0gain : parole 
+*** TOURNANT *** [4d Qd 2d] [3h]
+Marccc658 : parole 
+BadBet0gain : parole 
+*** RIVIÈRE *** [4d Qd 2d 3h] [Kh]
+Marccc658 : parole 
+BadBet0gain : parole 
+*** ABATTAGE ***
+Marccc658 : montre [Jc 6h] (Hauteur Roi)
+BadBet0gain : cache la main perdante. 
+Marccc658 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [4d Qd 2d 3h Kh]
+Siège 1 : BadBet0gain (bouton) a caché la main perdante. [8h Tc]
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Marccc658 (grosse blind) a montré [Jc 6h] et a gagné (100) avec Hauteur Roi
+
+
+
+Main PokerStars n°253634940765 : Tournoi #3828868003, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 30/11/2024 8:32:46 CET [30/11/2024 2:32:46 ET]
+Table '3828868003 1' 3-max Siège #2 est au bouton.
+Place 1: BadBet0gain (535 en jetons) 
+Place 2: psychoman59 (485 en jetons) 
+Place 3: Marccc658 (480 en jetons) 
+Marccc658 : met la petite blind. 20
+BadBet0gain : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Tc]
+psychoman59 : passe. 
+Marccc658 : passe. 
+Personne n'a suivi. (20) sont retournés à BadBet0gain.
+BadBet0gain a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : BadBet0gain (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Marccc658 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°253634941391 : Tournoi #3828868003, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 30/11/2024 8:32:54 CET [30/11/2024 2:32:54 ET]
+Table '3828868003 1' 3-max Siège #3 est au bouton.
+Place 1: BadBet0gain (555 en jetons) 
+Place 2: psychoman59 (485 en jetons) 
+Place 3: Marccc658 (460 en jetons) 
+BadBet0gain : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Kd]
+Marccc658 : passe. 
+BadBet0gain : suit. 20
+psychoman59 : relance. 445 à 485 et est all-in.
+BadBet0gain : suit. 445
+*** FLOP *** [Jd 5c 3s]
+*** TOURNANT *** [Jd 5c 3s] [9s]
+*** RIVIÈRE *** [Jd 5c 3s 9s] [8s]
+*** ABATTAGE ***
+BadBet0gain : montre [Ah Kh] (Hauteur As)
+psychoman59 : montre [As Kd] (Hauteur As)
+BadBet0gain a remporté 485  lors du pot .
+psychoman59 a remporté 485  lors du pot .
+*** SYNTHÈSE ***
+Pot total 970 | Commission 0 
+Tableau [Jd 5c 3s 9s 8s]
+Siège 1 : BadBet0gain (petite blind) a montré [Ah Kh] et a gagné (485) avec Hauteur As
+Siège 2 : psychoman59 (grosse blind) a montré [As Kd] et a gagné (485) avec Hauteur As
+Siège 3 : Marccc658 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°253634942929 : Tournoi #3828868003, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 30/11/2024 8:33:13 CET [30/11/2024 2:33:13 ET]
+Table '3828868003 1' 3-max Siège #1 est au bouton.
+Place 1: BadBet0gain (555 en jetons) 
+Place 2: psychoman59 (485 en jetons) 
+Place 3: Marccc658 (460 en jetons) 
+psychoman59 : met la petite blind. 20
+Marccc658 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 9c]
+BadBet0gain : relance. 40 à 80
+psychoman59 : passe. 
+Marccc658 : passe. 
+Personne n'a suivi. (40) sont retournés à BadBet0gain.
+BadBet0gain a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : BadBet0gain (bouton) a remporté (100)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Marccc658 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°253634943945 : Tournoi #3828868003, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 30/11/2024 8:33:25 CET [30/11/2024 2:33:25 ET]
+Table '3828868003 1' 3-max Siège #2 est au bouton.
+Place 1: BadBet0gain (615 en jetons) 
+Place 2: psychoman59 (465 en jetons) 
+Place 3: Marccc658 (420 en jetons) 
+Marccc658 : met la petite blind. 20
+BadBet0gain : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 2h]
+psychoman59 : passe. 
+Marccc658 : passe. 
+Personne n'a suivi. (20) sont retournés à BadBet0gain.
+BadBet0gain a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : BadBet0gain (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Marccc658 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°253634944396 : Tournoi #3828868003, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 30/11/2024 8:33:31 CET [30/11/2024 2:33:31 ET]
+Table '3828868003 1' 3-max Siège #3 est au bouton.
+Place 1: BadBet0gain (635 en jetons) 
+Place 2: psychoman59 (465 en jetons) 
+Place 3: Marccc658 (400 en jetons) 
+BadBet0gain : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 3c]
+Marccc658 : suit. 40
+BadBet0gain : relance. 40 à 80
+psychoman59 : passe. 
+Marccc658 : suit. 40
+*** FLOP *** [6c Tc 4s]
+BadBet0gain : parole 
+Marccc658 : parole 
+*** TOURNANT *** [6c Tc 4s] [2h]
+BadBet0gain : parole 
+Marccc658 : parole 
+*** RIVIÈRE *** [6c Tc 4s 2h] [Td]
+BadBet0gain : parole 
+Marccc658 : parole 
+*** ABATTAGE ***
+BadBet0gain : montre [Qc 8d] (une paire de Dix)
+Marccc658 : cache la main perdante. 
+BadBet0gain a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [6c Tc 4s 2h Td]
+Siège 1 : BadBet0gain (petite blind) a montré [Qc 8d] et a gagné (200) avec une paire de Dix
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : Marccc658 (bouton) a caché la main perdante. [9c Jc]
+
+
+
+Main PokerStars n°253634946142 : Tournoi #3828868003, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 30/11/2024 8:33:53 CET [30/11/2024 2:33:53 ET]
+Table '3828868003 1' 3-max Siège #1 est au bouton.
+Place 1: BadBet0gain (755 en jetons) 
+Place 2: psychoman59 (425 en jetons) 
+Place 3: Marccc658 (320 en jetons) 
+psychoman59 : met la petite blind. 20
+Marccc658 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 5c]
+BadBet0gain : relance. 40 à 80
+psychoman59 : passe. 
+Marccc658 : suit. 40
+*** FLOP *** [2h 2s 7s]
+Marccc658 : mise. 40
+BadBet0gain : relance. 40 à 80
+Marccc658 : relance. 40 à 120
+BadBet0gain : suit. 40
+*** TOURNANT *** [2h 2s 7s] [5d]
+Marccc658 : parole 
+BadBet0gain : parole 
+*** RIVIÈRE *** [2h 2s 7s 5d] [Kc]
+Marccc658 : mise. 40
+BadBet0gain : suit. 40
+*** ABATTAGE ***
+Marccc658 : montre [Ks Qh] (double paire, Rois et Deux)
+BadBet0gain : cache la main perdante. 
+Marccc658 a remporté 500  lors du pot .
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Tableau [2h 2s 7s 5d Kc]
+Siège 1 : BadBet0gain (bouton) a caché la main perdante. [Ac Tc]
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Marccc658 (grosse blind) a montré [Ks Qh] et a gagné (500) avec double paire, Rois et Deux
+
+
+
+Main PokerStars n°253634948492 : Tournoi #3828868003, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 30/11/2024 8:34:21 CET [30/11/2024 2:34:21 ET]
+Table '3828868003 1' 3-max Siège #2 est au bouton.
+Place 1: BadBet0gain (515 en jetons) 
+Place 2: psychoman59 (405 en jetons) 
+Place 3: Marccc658 (580 en jetons) 
+Marccc658 : met la petite blind. 30
+BadBet0gain : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 9c]
+psychoman59 : suit. 60
+Marccc658 : suit. 30
+BadBet0gain : relance. 60 à 120
+psychoman59 : suit. 60
+Marccc658 : suit. 60
+*** FLOP *** [5d 6c Ah]
+Marccc658 : parole 
+BadBet0gain : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5d 6c Ah] [9h]
+Marccc658 : parole 
+BadBet0gain : parole 
+psychoman59 : mise. 180
+Marccc658 : suit. 180
+BadBet0gain : passe. 
+*** RIVIÈRE *** [5d 6c Ah 9h] [Qd]
+Marccc658 : parole 
+psychoman59 : mise. 105 et est all-in.
+Marccc658 : passe. 
+Personne n'a suivi. (105) sont retournés à psychoman59.
+psychoman59 a remporté 720  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 720 | Commission 0 
+Tableau [5d 6c Ah 9h Qd]
+Siège 1 : BadBet0gain (grosse blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (bouton) a remporté (720)
+Siège 3 : Marccc658 (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°253634950915 : Tournoi #3828868003, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 30/11/2024 8:34:52 CET [30/11/2024 2:34:52 ET]
+Table '3828868003 1' 3-max Siège #3 est au bouton.
+Place 1: BadBet0gain (395 en jetons) 
+Place 2: psychoman59 (825 en jetons) 
+Place 3: Marccc658 (280 en jetons) 
+BadBet0gain : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Kc]
+Marccc658 : relance. 60 à 120
+BadBet0gain : passe. 
+psychoman59 : suit. 60
+*** FLOP *** [2h 5d Qc]
+psychoman59 : parole 
+Marccc658 : parole 
+*** TOURNANT *** [2h 5d Qc] [3h]
+psychoman59 : parole 
+Marccc658 : parole 
+*** RIVIÈRE *** [2h 5d Qc 3h] [Kh]
+psychoman59 : parole 
+Marccc658 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [7c Kc] (une paire de Rois)
+Marccc658 : cache la main perdante. 
+psychoman59 a remporté 270  lors du pot .
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Tableau [2h 5d Qc 3h Kh]
+Siège 1 : BadBet0gain (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a montré [7c Kc] et a gagné (270) avec une paire de Rois
+Siège 3 : Marccc658 (bouton) a caché la main perdante. [As 9h]
+
+
+
+Main PokerStars n°253634952481 : Tournoi #3828868003, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 30/11/2024 8:35:11 CET [30/11/2024 2:35:11 ET]
+Table '3828868003 1' 3-max Siège #1 est au bouton.
+Place 1: BadBet0gain (365 en jetons) 
+Place 2: psychoman59 (975 en jetons) 
+Place 3: Marccc658 (160 en jetons) 
+psychoman59 : met la petite blind. 30
+Marccc658 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 2d]
+BadBet0gain : suit. 60
+psychoman59 : passe. 
+Marccc658 : relance. 100 à 160 et est all-in.
+BadBet0gain : suit. 100
+*** FLOP *** [8c 5d Ac]
+*** TOURNANT *** [8c 5d Ac] [Qs]
+*** RIVIÈRE *** [8c 5d Ac Qs] [8d]
+*** ABATTAGE ***
+Marccc658 : montre [9s 6d] (une paire de Huit)
+BadBet0gain : montre [Ad 3h] (double paire, As et Huit)
+BadBet0gain a remporté 350  lors du pot .
+Marccc658 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 350 | Commission 0 
+Tableau [8c 5d Ac Qs 8d]
+Siège 1 : BadBet0gain (bouton) a montré [Ad 3h] et a gagné (350) avec double paire, As et Huit
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Marccc658 (grosse blind) a montré [9s 6d] et a perdu avec une paire de Huit
+
+
+
+Main PokerStars n°253634954030 : Tournoi #3828868003, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 30/11/2024 8:35:30 CET [30/11/2024 2:35:30 ET]
+Table '3828868003 1' 3-max Siège #2 est au bouton.
+Place 1: BadBet0gain (555 en jetons) 
+Place 2: psychoman59 (945 en jetons) 
+psychoman59 : met la petite blind. 30
+BadBet0gain : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 8d]
+psychoman59 : suit. 30
+BadBet0gain : relance. 60 à 120
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à BadBet0gain.
+BadBet0gain a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : BadBet0gain (grosse blind) a remporté (120)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°253634954648 : Tournoi #3828868003, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 30/11/2024 8:35:37 CET [30/11/2024 2:35:37 ET]
+Table '3828868003 1' 3-max Siège #1 est au bouton.
+Place 1: BadBet0gain (615 en jetons) 
+Place 2: psychoman59 (885 en jetons) 
+BadBet0gain : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 7c]
+BadBet0gain : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : BadBet0gain (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°253634955050 : Tournoi #3828868003, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 30/11/2024 8:35:42 CET [30/11/2024 2:35:42 ET]
+Table '3828868003 1' 3-max Siège #2 est au bouton.
+Place 1: BadBet0gain (585 en jetons) 
+Place 2: psychoman59 (915 en jetons) 
+psychoman59 : met la petite blind. 30
+BadBet0gain : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Kd]
+psychoman59 : suit. 30
+BadBet0gain : parole 
+*** FLOP *** [6c Ah 3d]
+BadBet0gain : parole 
+psychoman59 : mise. 120
+BadBet0gain : relance. 120 à 240
+psychoman59 : suit. 120
+*** TOURNANT *** [6c Ah 3d] [4d]
+BadBet0gain : mise. 60
+psychoman59 : relance. 555 à 615 et est all-in.
+BadBet0gain : suit. 225 et est all-in.
+Personne n'a suivi. (330) sont retournés à psychoman59.
+*** RIVIÈRE *** [6c Ah 3d 4d] [7d]
+*** ABATTAGE ***
+BadBet0gain : montre [Ac 5h] (une suite, Trois à Sept)
+psychoman59 : montre [Qd Kd] (une couleur, hauteur Roi)
+psychoman59 a remporté 1170  lors du pot .
+BadBet0gain a fini le tournoi en 2e position.
+psychoman59 gagne le tournoi - félicitations !
+psychoman59 gagne un ticket " €1.50 Step 2 SnG Power Path ticket "
+*** SYNTHÈSE ***
+Pot total 1170 | Commission 0 
+Tableau [6c Ah 3d 4d 7d]
+Siège 1 : BadBet0gain (grosse blind) a montré [Ac 5h] et a perdu avec une suite, Trois à Sept
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Qd Kd] et a gagné (1170) avec une couleur, hauteur Roi
+
+
+

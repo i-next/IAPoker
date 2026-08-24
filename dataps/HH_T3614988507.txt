@@ -1,0 +1,287 @@
+﻿Main PokerStars n°244729215051 : Tournoi #3614988507, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 10/07/2023 6:59:12 CET [10/07/2023 0:59:12 ET]
+Table '3614988507 1' 3-max Siège #1 est au bouton.
+Place 1: jess94510 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: RCGameiro1985 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+RCGameiro1985 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 5s]
+jess94510 : relance. 20 à 40
+psychoman59 : passe. 
+RCGameiro1985 : suit. 20
+*** FLOP *** [5h 2c 6s]
+RCGameiro1985 : parole 
+jess94510 : parole 
+*** TOURNANT *** [5h 2c 6s] [Ts]
+RCGameiro1985 : mise. 40
+jess94510 : passe. 
+Personne n'a suivi. (40) sont retournés à RCGameiro1985.
+RCGameiro1985 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [5h 2c 6s Ts]
+Siège 1 : jess94510 (bouton) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : RCGameiro1985 (grosse blind) a remporté (90)
+
+
+
+Main PokerStars n°244729217064 : Tournoi #3614988507, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 10/07/2023 6:59:36 CET [10/07/2023 0:59:36 ET]
+Table '3614988507 1' 3-max Siège #2 est au bouton.
+Place 1: jess94510 (260 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: RCGameiro1985 (350 en jetons) 
+RCGameiro1985 : met la petite blind. 10
+jess94510 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 8h]
+psychoman59 : passe. 
+RCGameiro1985 : suit. 10
+jess94510 : parole 
+*** FLOP *** [Kd Jd Js]
+RCGameiro1985 : parole 
+jess94510 : parole 
+*** TOURNANT *** [Kd Jd Js] [Ts]
+RCGameiro1985 : mise. 20
+jess94510 : suit. 20
+*** RIVIÈRE *** [Kd Jd Js Ts] [5h]
+RCGameiro1985 : parole 
+jess94510 : parole 
+*** ABATTAGE ***
+RCGameiro1985 : montre [6d 2d] (une paire de Valets)
+jess94510 : montre [9d 7d] (une paire de Valets - Roi+Dix+Neuf kicker)
+jess94510 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Kd Jd Js Ts 5h]
+Siège 1 : jess94510 (grosse blind) a montré [9d 7d] et a gagné (80) avec une paire de Valets
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : RCGameiro1985 (petite blind) a montré [6d 2d] et a perdu avec une paire de Valets
+
+
+
+Main PokerStars n°244729219519 : Tournoi #3614988507, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 10/07/2023 7:00:06 CET [10/07/2023 1:00:06 ET]
+Table '3614988507 1' 3-max Siège #3 est au bouton.
+Place 1: jess94510 (300 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: RCGameiro1985 (310 en jetons) 
+jess94510 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Qs]
+RCGameiro1985 : relance. 20 à 40
+jess94510 : passe. 
+psychoman59 : suit. 20
+*** FLOP *** [Ac 4c Ks]
+psychoman59 : parole 
+RCGameiro1985 : parole 
+*** TOURNANT *** [Ac 4c Ks] [5s]
+psychoman59 : parole 
+RCGameiro1985 : parole 
+*** RIVIÈRE *** [Ac 4c Ks 5s] [5d]
+psychoman59 : parole 
+RCGameiro1985 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [9d Qs] (une paire de Cinq)
+RCGameiro1985 : cache la main perdante. 
+psychoman59 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [Ac 4c Ks 5s 5d]
+Siège 1 : jess94510 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a montré [9d Qs] et a gagné (90) avec une paire de Cinq
+Siège 3 : RCGameiro1985 (bouton) a caché la main perdante. [Jd 2d]
+
+
+
+Main PokerStars n°244729223035 : Tournoi #3614988507, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 10/07/2023 7:00:46 CET [10/07/2023 1:00:46 ET]
+Table '3614988507 1' 3-max Siège #1 est au bouton.
+Place 1: jess94510 (290 en jetons) 
+Place 2: psychoman59 (340 en jetons) 
+Place 3: RCGameiro1985 (270 en jetons) 
+psychoman59 : met la petite blind. 15
+RCGameiro1985 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Th]
+jess94510 : suit. 30
+psychoman59 : suit. 15
+RCGameiro1985 : parole 
+*** FLOP *** [3c 6s 5h]
+psychoman59 : parole 
+RCGameiro1985 : mise. 30
+jess94510 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à RCGameiro1985.
+RCGameiro1985 a remporté 90  lors du pot .
+RCGameiro1985 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [3c 6s 5h]
+Siège 1 : jess94510 (bouton) s'est couché. sur le Flop
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 3 : RCGameiro1985 (grosse blind) a remporté (90)
+
+
+
+Main PokerStars n°244729224758 : Tournoi #3614988507, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 10/07/2023 7:01:05 CET [10/07/2023 1:01:05 ET]
+Table '3614988507 1' 3-max Siège #2 est au bouton.
+Place 1: jess94510 (260 en jetons) 
+Place 2: psychoman59 (310 en jetons) 
+Place 3: RCGameiro1985 (330 en jetons) 
+RCGameiro1985 : met la petite blind. 15
+jess94510 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Jc]
+psychoman59 : passe. 
+RCGameiro1985 : passe. 
+Personne n'a suivi. (15) sont retournés à jess94510.
+jess94510 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : jess94510 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : RCGameiro1985 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244729225447 : Tournoi #3614988507, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 10/07/2023 7:01:12 CET [10/07/2023 1:01:12 ET]
+Table '3614988507 1' 3-max Siège #3 est au bouton.
+Place 1: jess94510 (275 en jetons) 
+Place 2: psychoman59 (310 en jetons) 
+Place 3: RCGameiro1985 (315 en jetons) 
+jess94510 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Ac]
+RCGameiro1985 : relance. 30 à 60
+jess94510 : passe. 
+psychoman59 : relance. 250 à 310 et est all-in.
+RCGameiro1985 : suit. 250
+*** FLOP *** [Tc 2d Ad]
+*** TOURNANT *** [Tc 2d Ad] [As]
+*** RIVIÈRE *** [Tc 2d Ad As] [6h]
+*** ABATTAGE ***
+psychoman59 : montre [9h Ac] (un brelan de As)
+RCGameiro1985 : montre [Ts Kc] (double paire, As et Dix)
+psychoman59 a remporté 635  lors du pot .
+*** SYNTHÈSE ***
+Pot total 635 | Commission 0 
+Tableau [Tc 2d Ad As 6h]
+Siège 1 : jess94510 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a montré [9h Ac] et a gagné (635) avec un brelan de As
+Siège 3 : RCGameiro1985 (bouton) a montré [Ts Kc] et a perdu avec double paire, As et Dix
+
+
+
+Main PokerStars n°244729227920 : Tournoi #3614988507, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 10/07/2023 7:01:38 CET [10/07/2023 1:01:38 ET]
+Table '3614988507 1' 3-max Siège #1 est au bouton.
+Place 1: jess94510 (260 en jetons) 
+Place 2: psychoman59 (635 en jetons) 
+Place 3: RCGameiro1985 (5 en jetons) 
+psychoman59 : met la petite blind. 20
+RCGameiro1985 : met la grosse blind. 5 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 8h]
+jess94510 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+*** FLOP *** [Ac Qc Jh]
+*** TOURNANT *** [Ac Qc Jh] [3c]
+*** RIVIÈRE *** [Ac Qc Jh 3c] [7h]
+*** ABATTAGE ***
+psychoman59 : montre [4s 8h] (Hauteur As)
+RCGameiro1985 : montre [Ts 9c] (Hauteur As - Dame+Valet+Dix kicker)
+RCGameiro1985 a remporté 10  lors du pot .
+*** SYNTHÈSE ***
+Pot total 10 | Commission 0 
+Tableau [Ac Qc Jh 3c 7h]
+Siège 1 : jess94510 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [4s 8h] et a perdu avec Hauteur As
+Siège 3 : RCGameiro1985 (grosse blind) a montré [Ts 9c] et a gagné (10) avec Hauteur As
+
+
+
+Main PokerStars n°244729229161 : Tournoi #3614988507, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 10/07/2023 7:01:52 CET [10/07/2023 1:01:52 ET]
+Table '3614988507 1' 3-max Siège #2 est au bouton.
+Place 1: jess94510 (260 en jetons) 
+Place 2: psychoman59 (630 en jetons) 
+Place 3: RCGameiro1985 (10 en jetons) 
+RCGameiro1985 : met la petite blind. 10 et est all-in.
+jess94510 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 6s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à jess94510.
+*** FLOP *** [8s 4d 8d]
+*** TOURNANT *** [8s 4d 8d] [Jc]
+*** RIVIÈRE *** [8s 4d 8d Jc] [4s]
+*** ABATTAGE ***
+RCGameiro1985 : montre [2h Qc] (double paire, Huit et Quatre)
+jess94510 : montre [5h 2s] (double paire, Huit et Quatre - plus basse kicker)
+RCGameiro1985 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Tableau [8s 4d 8d Jc 4s]
+Siège 1 : jess94510 (grosse blind) a montré [5h 2s] et a perdu avec double paire, Huit et Quatre
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : RCGameiro1985 (petite blind) a montré [2h Qc] et a gagné (20) avec double paire, Huit et Quatre
+
+
+
+Main PokerStars n°244729230270 : Tournoi #3614988507, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 10/07/2023 7:02:04 CET [10/07/2023 1:02:04 ET]
+Table '3614988507 1' 3-max Siège #3 est au bouton.
+Place 1: jess94510 (250 en jetons) 
+Place 2: psychoman59 (630 en jetons) 
+Place 3: RCGameiro1985 (20 en jetons) 
+jess94510 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 3d]
+RCGameiro1985 : suit. 20 et est all-in.
+jess94510 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+*** FLOP *** [Qc 2c Tc]
+*** TOURNANT *** [Qc 2c Tc] [4s]
+*** RIVIÈRE *** [Qc 2c Tc 4s] [Ad]
+*** ABATTAGE ***
+psychoman59 : montre [3s 3d] (une paire de Trois)
+RCGameiro1985 : montre [9h 5c] (Hauteur As)
+psychoman59 a remporté 60  lors du pot .
+RCGameiro1985 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Qc 2c Tc 4s Ad]
+Siège 1 : jess94510 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a montré [3s 3d] et a gagné (60) avec une paire de Trois
+Siège 3 : RCGameiro1985 (bouton) a montré [9h 5c] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°244729232434 : Tournoi #3614988507, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 10/07/2023 7:02:26 CET [10/07/2023 1:02:26 ET]
+Table '3614988507 1' 3-max Siège #2 est au bouton.
+Place 1: jess94510 (230 en jetons) 
+Place 2: psychoman59 (670 en jetons) 
+psychoman59 : met la petite blind. 30
+jess94510 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 6h]
+psychoman59 : relance. 610 à 670 et est all-in.
+jess94510 : suit. 170 et est all-in.
+Personne n'a suivi. (440) sont retournés à psychoman59.
+*** FLOP *** [6s Jh Jd]
+*** TOURNANT *** [6s Jh Jd] [2h]
+*** RIVIÈRE *** [6s Jh Jd 2h] [2s]
+*** ABATTAGE ***
+jess94510 : montre [7c Tc] (double paire, Valets et Deux)
+psychoman59 : montre [6c 6h] (un full, full aux Six par les Valets)
+psychoman59 a remporté 460  lors du pot .
+jess94510 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 4.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 460 | Commission 0 
+Tableau [6s Jh Jd 2h 2s]
+Siège 1 : jess94510 (grosse blind) a montré [7c Tc] et a perdu avec double paire, Valets et Deux
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [6c 6h] et a gagné (460) avec un full, full aux Six par les Valets
+
+
+

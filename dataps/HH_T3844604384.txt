@@ -1,0 +1,824 @@
+﻿Main PokerStars n°254274245484 : Tournoi #3844604384, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 09/01/2025 6:11:54 CET [09/01/2025 0:11:54 ET]
+Table '3844604384 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: jp40625 (500 en jetons) 
+Place 3: GuEsSwHaT211 (500 en jetons) 
+jp40625 : met la petite blind. 10
+GuEsSwHaT211 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 9d]
+psychoman59 : passe. 
+jp40625 : suit. 10
+GuEsSwHaT211 : parole 
+*** FLOP *** [Ts 9s Qd]
+jp40625 : parole 
+GuEsSwHaT211 : mise. 80
+jp40625 : passe. 
+Personne n'a suivi. (80) sont retournés à GuEsSwHaT211.
+GuEsSwHaT211 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Ts 9s Qd]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : jp40625 (petite blind) s'est couché. sur le Flop
+Siège 3 : GuEsSwHaT211 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°254274248610 : Tournoi #3844604384, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 09/01/2025 6:12:30 CET [09/01/2025 0:12:30 ET]
+Table '3844604384 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: jp40625 (480 en jetons) 
+Place 3: GuEsSwHaT211 (520 en jetons) 
+GuEsSwHaT211 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Jh]
+jp40625 : suit. 20
+GuEsSwHaT211 : suit. 10
+psychoman59 : relance. 480 à 500 et est all-in.
+jp40625 : passe. 
+GuEsSwHaT211 : passe. 
+Personne n'a suivi. (480) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 2 : jp40625 (bouton) s'est couché. avant Flop
+Siège 3 : GuEsSwHaT211 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254274250857 : Tournoi #3844604384, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 09/01/2025 6:12:56 CET [09/01/2025 0:12:56 ET]
+Table '3844604384 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (540 en jetons) 
+Place 2: jp40625 (460 en jetons) 
+Place 3: GuEsSwHaT211 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+jp40625 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Qd]
+GuEsSwHaT211 : passe. 
+psychoman59 : suit. 10
+jp40625 : parole 
+*** FLOP *** [8c 2h Kh]
+psychoman59 : parole 
+jp40625 : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à jp40625.
+jp40625 a remporté 40  lors du pot .
+jp40625 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [8c 2h Kh]
+Siège 1 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 2 : jp40625 (grosse blind) a remporté (40)
+Siège 3 : GuEsSwHaT211 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°254274253330 : Tournoi #3844604384, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 09/01/2025 6:13:24 CET [09/01/2025 0:13:24 ET]
+Table '3844604384 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (520 en jetons) 
+Place 2: jp40625 (480 en jetons) 
+Place 3: GuEsSwHaT211 (500 en jetons) 
+jp40625 : met la petite blind. 10
+GuEsSwHaT211 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 8d]
+psychoman59 : passe. 
+jp40625 : suit. 10
+GuEsSwHaT211 : parole 
+*** FLOP *** [Qc Tc Jd]
+jp40625 : parole 
+GuEsSwHaT211 : parole 
+*** TOURNANT *** [Qc Tc Jd] [4d]
+jp40625 : parole 
+GuEsSwHaT211 : mise. 60
+jp40625 : suit. 60
+*** RIVIÈRE *** [Qc Tc Jd 4d] [Kh]
+jp40625 : parole 
+GuEsSwHaT211 : parole 
+*** ABATTAGE ***
+jp40625 : montre [7c 2c] (Hauteur Roi)
+GuEsSwHaT211 : montre [Jc 2d] (une paire de Valets)
+GuEsSwHaT211 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Qc Tc Jd 4d Kh]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : jp40625 (petite blind) a montré [7c 2c] et a perdu avec Hauteur Roi
+Siège 3 : GuEsSwHaT211 (grosse blind) a montré [Jc 2d] et a gagné (160) avec une paire de Valets
+
+
+
+Main PokerStars n°254274258028 : Tournoi #3844604384, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 09/01/2025 6:14:17 CET [09/01/2025 0:14:17 ET]
+Table '3844604384 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (520 en jetons) 
+Place 2: jp40625 (400 en jetons) 
+Place 3: GuEsSwHaT211 (580 en jetons) 
+GuEsSwHaT211 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 4h]
+jp40625 : passe. 
+GuEsSwHaT211 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [2s Qh 3d]
+GuEsSwHaT211 : parole 
+psychoman59 : mise. 40
+GuEsSwHaT211 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [2s Qh 3d]
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 2 : jp40625 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : GuEsSwHaT211 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°254274260205 : Tournoi #3844604384, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 09/01/2025 6:14:42 CET [09/01/2025 0:14:42 ET]
+Table '3844604384 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (540 en jetons) 
+Place 2: jp40625 (400 en jetons) 
+Place 3: GuEsSwHaT211 (560 en jetons) 
+psychoman59 : met la petite blind. 10
+jp40625 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Js]
+GuEsSwHaT211 : passe. 
+psychoman59 : relance. 40 à 60
+jp40625 : relance. 340 à 400 et est all-in.
+psychoman59 : suit. 340
+*** FLOP *** [Tc 2h Kc]
+*** TOURNANT *** [Tc 2h Kc] [5s]
+*** RIVIÈRE *** [Tc 2h Kc 5s] [7h]
+*** ABATTAGE ***
+psychoman59 : montre [Ks Js] (une paire de Rois)
+jp40625 : montre [Jh 8s] (Hauteur Roi)
+psychoman59 a remporté 800  lors du pot .
+jp40625 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 800 | Commission 0 
+Tableau [Tc 2h Kc 5s 7h]
+Siège 1 : psychoman59 (petite blind) a montré [Ks Js] et a gagné (800) avec une paire de Rois
+Siège 2 : jp40625 (grosse blind) a montré [Jh 8s] et a perdu avec Hauteur Roi
+Siège 3 : GuEsSwHaT211 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°254274262709 : Tournoi #3844604384, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 09/01/2025 6:15:10 CET [09/01/2025 0:15:10 ET]
+Table '3844604384 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (940 en jetons) 
+Place 3: GuEsSwHaT211 (560 en jetons) 
+psychoman59 : met la petite blind. 15
+GuEsSwHaT211 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 5h]
+psychoman59 : suit. 15
+GuEsSwHaT211 : parole 
+*** FLOP *** [2c 7s Ts]
+GuEsSwHaT211 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [2c 7s Ts] [8d]
+GuEsSwHaT211 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à GuEsSwHaT211.
+GuEsSwHaT211 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [2c 7s Ts 8d]
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. sur le Tournant
+Siège 3 : GuEsSwHaT211 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°254274264617 : Tournoi #3844604384, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 09/01/2025 6:15:33 CET [09/01/2025 0:15:33 ET]
+Table '3844604384 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (910 en jetons) 
+Place 3: GuEsSwHaT211 (590 en jetons) 
+GuEsSwHaT211 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Ks]
+GuEsSwHaT211 : relance. 30 à 60
+psychoman59 : suit. 30
+*** FLOP *** [4d Tc 7s]
+psychoman59 : parole 
+GuEsSwHaT211 : parole 
+*** TOURNANT *** [4d Tc 7s] [Jd]
+psychoman59 : parole 
+GuEsSwHaT211 : parole 
+*** RIVIÈRE *** [4d Tc 7s Jd] [2c]
+psychoman59 : parole 
+GuEsSwHaT211 : mise. 30
+psychoman59 : suit. 30
+*** ABATTAGE ***
+GuEsSwHaT211 : montre [Th Qs] (une paire de Dix)
+psychoman59 : cache la main perdante. 
+GuEsSwHaT211 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [4d Tc 7s Jd 2c]
+Siège 1 : psychoman59 (grosse blind) a caché la main perdante. [8h Ks]
+Siège 3 : GuEsSwHaT211 (bouton) (petite blind) a montré [Th Qs] et a gagné (180) avec une paire de Dix
+
+
+
+Main PokerStars n°254274267144 : Tournoi #3844604384, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 09/01/2025 6:16:02 CET [09/01/2025 0:16:02 ET]
+Table '3844604384 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (820 en jetons) 
+Place 3: GuEsSwHaT211 (680 en jetons) 
+psychoman59 : met la petite blind. 15
+GuEsSwHaT211 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 3d]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à GuEsSwHaT211.
+GuEsSwHaT211 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : GuEsSwHaT211 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°254274267670 : Tournoi #3844604384, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 09/01/2025 6:16:08 CET [09/01/2025 0:16:08 ET]
+Table '3844604384 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (805 en jetons) 
+Place 3: GuEsSwHaT211 (695 en jetons) 
+GuEsSwHaT211 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Td]
+GuEsSwHaT211 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Kc Js 6d]
+psychoman59 : parole 
+GuEsSwHaT211 : parole 
+*** TOURNANT *** [Kc Js 6d] [4d]
+psychoman59 : mise. 60
+GuEsSwHaT211 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Kc Js 6d 4d]
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : GuEsSwHaT211 (bouton) (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°254274270450 : Tournoi #3844604384, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 09/01/2025 6:16:39 CET [09/01/2025 0:16:39 ET]
+Table '3844604384 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (835 en jetons) 
+Place 3: GuEsSwHaT211 (665 en jetons) 
+psychoman59 : met la petite blind. 15
+GuEsSwHaT211 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 3c]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à GuEsSwHaT211.
+GuEsSwHaT211 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : GuEsSwHaT211 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°254274270855 : Tournoi #3844604384, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 09/01/2025 6:16:44 CET [09/01/2025 0:16:44 ET]
+Table '3844604384 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (820 en jetons) 
+Place 3: GuEsSwHaT211 (680 en jetons) 
+GuEsSwHaT211 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Ks]
+GuEsSwHaT211 : suit. 15
+psychoman59 : relance. 790 à 820 et est all-in.
+GuEsSwHaT211 : passe. 
+Personne n'a suivi. (790) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : GuEsSwHaT211 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254274272115 : Tournoi #3844604384, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 09/01/2025 6:16:58 CET [09/01/2025 0:16:58 ET]
+Table '3844604384 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (850 en jetons) 
+Place 3: GuEsSwHaT211 (650 en jetons) 
+psychoman59 : met la petite blind. 15
+GuEsSwHaT211 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 6s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à GuEsSwHaT211.
+GuEsSwHaT211 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : GuEsSwHaT211 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°254274272573 : Tournoi #3844604384, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 09/01/2025 6:17:03 CET [09/01/2025 0:17:03 ET]
+Table '3844604384 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (835 en jetons) 
+Place 3: GuEsSwHaT211 (665 en jetons) 
+GuEsSwHaT211 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Kd]
+GuEsSwHaT211 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Th 3c 6h]
+psychoman59 : parole 
+GuEsSwHaT211 : parole 
+*** TOURNANT *** [Th 3c 6h] [5h]
+psychoman59 : parole 
+GuEsSwHaT211 : parole 
+*** RIVIÈRE *** [Th 3c 6h 5h] [5s]
+psychoman59 : parole 
+GuEsSwHaT211 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [2c Kd] (une paire de Cinq)
+GuEsSwHaT211 : cache la main perdante. 
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Th 3c 6h 5h 5s]
+Siège 1 : psychoman59 (grosse blind) a montré [2c Kd] et a gagné (60) avec une paire de Cinq
+Siège 3 : GuEsSwHaT211 (bouton) (petite blind) a caché la main perdante. [7d Qs]
+
+
+
+Main PokerStars n°254274275239 : Tournoi #3844604384, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 09/01/2025 6:17:35 CET [09/01/2025 0:17:35 ET]
+Table '3844604384 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (865 en jetons) 
+Place 3: GuEsSwHaT211 (635 en jetons) 
+psychoman59 : met la petite blind. 15
+GuEsSwHaT211 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 3s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à GuEsSwHaT211.
+GuEsSwHaT211 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : GuEsSwHaT211 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°254274275798 : Tournoi #3844604384, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 09/01/2025 6:17:41 CET [09/01/2025 0:17:41 ET]
+Table '3844604384 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (850 en jetons) 
+Place 3: GuEsSwHaT211 (650 en jetons) 
+GuEsSwHaT211 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 9s]
+GuEsSwHaT211 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (30)
+Siège 3 : GuEsSwHaT211 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254274276526 : Tournoi #3844604384, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 09/01/2025 6:17:49 CET [09/01/2025 0:17:49 ET]
+Table '3844604384 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (865 en jetons) 
+Place 3: GuEsSwHaT211 (635 en jetons) 
+psychoman59 : met la petite blind. 15
+GuEsSwHaT211 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 4h]
+psychoman59 : suit. 15
+GuEsSwHaT211 : parole 
+*** FLOP *** [3c Kd 8c]
+GuEsSwHaT211 : parole 
+psychoman59 : mise. 60
+GuEsSwHaT211 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [3c Kd 8c]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 3 : GuEsSwHaT211 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°254274278158 : Tournoi #3844604384, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 09/01/2025 6:18:08 CET [09/01/2025 0:18:08 ET]
+Table '3844604384 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (895 en jetons) 
+Place 3: GuEsSwHaT211 (605 en jetons) 
+GuEsSwHaT211 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Th]
+GuEsSwHaT211 : suit. 20
+psychoman59 : relance. 855 à 895 et est all-in.
+GuEsSwHaT211 : passe. 
+Personne n'a suivi. (855) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : GuEsSwHaT211 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254274279897 : Tournoi #3844604384, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 09/01/2025 6:18:28 CET [09/01/2025 0:18:28 ET]
+Table '3844604384 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (935 en jetons) 
+Place 3: GuEsSwHaT211 (565 en jetons) 
+psychoman59 : met la petite blind. 20
+GuEsSwHaT211 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 5c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à GuEsSwHaT211.
+GuEsSwHaT211 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : GuEsSwHaT211 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°254274280287 : Tournoi #3844604384, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 09/01/2025 6:18:32 CET [09/01/2025 0:18:32 ET]
+Table '3844604384 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (915 en jetons) 
+Place 3: GuEsSwHaT211 (585 en jetons) 
+GuEsSwHaT211 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Ks]
+GuEsSwHaT211 : relance. 40 à 80
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à GuEsSwHaT211.
+GuEsSwHaT211 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : GuEsSwHaT211 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°254274280911 : Tournoi #3844604384, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 09/01/2025 6:18:39 CET [09/01/2025 0:18:39 ET]
+Table '3844604384 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (875 en jetons) 
+Place 3: GuEsSwHaT211 (625 en jetons) 
+psychoman59 : met la petite blind. 20
+GuEsSwHaT211 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 2h]
+psychoman59 : relance. 835 à 875 et est all-in.
+GuEsSwHaT211 : suit. 585 et est all-in.
+Personne n'a suivi. (250) sont retournés à psychoman59.
+*** FLOP *** [Qc Kc 6s]
+*** TOURNANT *** [Qc Kc 6s] [6c]
+*** RIVIÈRE *** [Qc Kc 6s 6c] [4c]
+*** ABATTAGE ***
+GuEsSwHaT211 : montre [Ac 4s] (une couleur, hauteur As)
+psychoman59 : montre [2d 2h] (double paire, Six et Deux)
+GuEsSwHaT211 a remporté 1250  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1250 | Commission 0 
+Tableau [Qc Kc 6s 6c 4c]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [2d 2h] et a perdu avec double paire, Six et Deux
+Siège 3 : GuEsSwHaT211 (grosse blind) a montré [Ac 4s] et a gagné (1250) avec une couleur, hauteur As
+
+
+
+Main PokerStars n°254274282086 : Tournoi #3844604384, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 09/01/2025 6:18:53 CET [09/01/2025 0:18:53 ET]
+Table '3844604384 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (250 en jetons) 
+Place 3: GuEsSwHaT211 (1250 en jetons) 
+GuEsSwHaT211 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Tc]
+GuEsSwHaT211 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : GuEsSwHaT211 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254274282904 : Tournoi #3844604384, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 09/01/2025 6:19:01 CET [09/01/2025 0:19:01 ET]
+Table '3844604384 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 3: GuEsSwHaT211 (1230 en jetons) 
+psychoman59 : met la petite blind. 20
+GuEsSwHaT211 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Ks]
+psychoman59 : relance. 230 à 270 et est all-in.
+GuEsSwHaT211 : suit. 230
+*** FLOP *** [Kh 7h 6h]
+*** TOURNANT *** [Kh 7h 6h] [Td]
+*** RIVIÈRE *** [Kh 7h 6h Td] [4d]
+*** ABATTAGE ***
+GuEsSwHaT211 : montre [7s Js] (une paire de Sept)
+psychoman59 : montre [2s Ks] (une paire de Rois)
+psychoman59 a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [Kh 7h 6h Td 4d]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [2s Ks] et a gagné (540) avec une paire de Rois
+Siège 3 : GuEsSwHaT211 (grosse blind) a montré [7s Js] et a perdu avec une paire de Sept
+
+
+
+Main PokerStars n°254274284250 : Tournoi #3844604384, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 09/01/2025 6:19:17 CET [09/01/2025 0:19:17 ET]
+Table '3844604384 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (540 en jetons) 
+Place 3: GuEsSwHaT211 (960 en jetons) 
+GuEsSwHaT211 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 6c]
+GuEsSwHaT211 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [8d 3d 7d]
+psychoman59 : parole 
+GuEsSwHaT211 : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [8d 3d 7d] [6d]
+psychoman59 : parole 
+GuEsSwHaT211 : mise. 120
+psychoman59 : relance. 340 à 460 et est all-in.
+GuEsSwHaT211 : suit. 340
+*** RIVIÈRE *** [8d 3d 7d 6d] [3h]
+*** ABATTAGE ***
+psychoman59 : montre [4d 6c] (une couleur, hauteur Huit)
+GuEsSwHaT211 : montre [Ts 9h] (une suite, Six à Dix)
+psychoman59 a remporté 1080  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1080 | Commission 0 
+Tableau [8d 3d 7d 6d 3h]
+Siège 1 : psychoman59 (grosse blind) a montré [4d 6c] et a gagné (1080) avec une couleur, hauteur Huit
+Siège 3 : GuEsSwHaT211 (bouton) (petite blind) a montré [Ts 9h] et a perdu avec une suite, Six à Dix
+
+
+
+Main PokerStars n°254274286608 : Tournoi #3844604384, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 09/01/2025 6:19:44 CET [09/01/2025 0:19:44 ET]
+Table '3844604384 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1080 en jetons) 
+Place 3: GuEsSwHaT211 (420 en jetons) 
+psychoman59 : met la petite blind. 20
+GuEsSwHaT211 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 4d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à GuEsSwHaT211.
+GuEsSwHaT211 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : GuEsSwHaT211 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°254274287161 : Tournoi #3844604384, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 09/01/2025 6:19:50 CET [09/01/2025 0:19:50 ET]
+Table '3844604384 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (1060 en jetons) 
+Place 3: GuEsSwHaT211 (440 en jetons) 
+GuEsSwHaT211 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 9d]
+GuEsSwHaT211 : relance. 120 à 160
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à GuEsSwHaT211.
+GuEsSwHaT211 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : GuEsSwHaT211 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°254274287809 : Tournoi #3844604384, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 09/01/2025 6:19:58 CET [09/01/2025 0:19:58 ET]
+Table '3844604384 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1020 en jetons) 
+Place 3: GuEsSwHaT211 (480 en jetons) 
+psychoman59 : met la petite blind. 20
+GuEsSwHaT211 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 7d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à GuEsSwHaT211.
+GuEsSwHaT211 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : GuEsSwHaT211 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°254274288137 : Tournoi #3844604384, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 09/01/2025 6:20:03 CET [09/01/2025 0:20:03 ET]
+Table '3844604384 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (1000 en jetons) 
+Place 3: GuEsSwHaT211 (500 en jetons) 
+GuEsSwHaT211 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Qh]
+GuEsSwHaT211 : suit. 20
+psychoman59 : relance. 960 à 1000 et est all-in.
+GuEsSwHaT211 : passe. 
+Personne n'a suivi. (960) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : GuEsSwHaT211 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254274289011 : Tournoi #3844604384, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 09/01/2025 6:20:12 CET [09/01/2025 0:20:12 ET]
+Table '3844604384 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1040 en jetons) 
+Place 3: GuEsSwHaT211 (460 en jetons) 
+psychoman59 : met la petite blind. 20
+GuEsSwHaT211 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 9s]
+psychoman59 : relance. 1000 à 1040 et est all-in.
+GuEsSwHaT211 : passe. 
+Personne n'a suivi. (1000) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 3 : GuEsSwHaT211 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254274290011 : Tournoi #3844604384, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 09/01/2025 6:20:24 CET [09/01/2025 0:20:24 ET]
+Table '3844604384 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (1080 en jetons) 
+Place 3: GuEsSwHaT211 (420 en jetons) 
+GuEsSwHaT211 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Jh]
+GuEsSwHaT211 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [4s 4h 2d]
+psychoman59 : mise. 1040 et est all-in.
+GuEsSwHaT211 : passe. 
+Personne n'a suivi. (1040) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [4s 4h 2d]
+Siège 1 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : GuEsSwHaT211 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°254274291284 : Tournoi #3844604384, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 09/01/2025 6:20:38 CET [09/01/2025 0:20:38 ET]
+Table '3844604384 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1120 en jetons) 
+Place 3: GuEsSwHaT211 (380 en jetons) 
+psychoman59 : met la petite blind. 20
+GuEsSwHaT211 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 3s]
+psychoman59 : relance. 1080 à 1120 et est all-in.
+GuEsSwHaT211 : passe. 
+Personne n'a suivi. (1080) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 3 : GuEsSwHaT211 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254274291851 : Tournoi #3844604384, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 09/01/2025 6:20:45 CET [09/01/2025 0:20:45 ET]
+Table '3844604384 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (1160 en jetons) 
+Place 3: GuEsSwHaT211 (340 en jetons) 
+GuEsSwHaT211 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 9c]
+GuEsSwHaT211 : relance. 300 à 340 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à GuEsSwHaT211.
+GuEsSwHaT211 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : GuEsSwHaT211 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°254274292518 : Tournoi #3844604384, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 09/01/2025 6:20:53 CET [09/01/2025 0:20:53 ET]
+Table '3844604384 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1120 en jetons) 
+Place 3: GuEsSwHaT211 (380 en jetons) 
+psychoman59 : met la petite blind. 20
+GuEsSwHaT211 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 7s]
+psychoman59 : relance. 1080 à 1120 et est all-in.
+GuEsSwHaT211 : passe. 
+Personne n'a suivi. (1080) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 3 : GuEsSwHaT211 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254274293562 : Tournoi #3844604384, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 09/01/2025 6:21:05 CET [09/01/2025 0:21:05 ET]
+Table '3844604384 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (1160 en jetons) 
+Place 3: GuEsSwHaT211 (340 en jetons) 
+GuEsSwHaT211 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Jh]
+GuEsSwHaT211 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [As 6h 3s]
+psychoman59 : parole 
+GuEsSwHaT211 : parole 
+*** TOURNANT *** [As 6h 3s] [Td]
+psychoman59 : parole 
+GuEsSwHaT211 : parole 
+*** RIVIÈRE *** [As 6h 3s Td] [Tc]
+psychoman59 : parole 
+GuEsSwHaT211 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [4s Jh] (une paire de Dix)
+GuEsSwHaT211 : montre [Qs 8d] (une paire de Dix - As+Dame kicker)
+GuEsSwHaT211 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [As 6h 3s Td Tc]
+Siège 1 : psychoman59 (grosse blind) a montré [4s Jh] et a perdu avec une paire de Dix
+Siège 3 : GuEsSwHaT211 (bouton) (petite blind) a montré [Qs 8d] et a gagné (120) avec une paire de Dix
+
+
+
+Main PokerStars n°254274295999 : Tournoi #3844604384, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 09/01/2025 6:21:32 CET [09/01/2025 0:21:32 ET]
+Table '3844604384 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1100 en jetons) 
+Place 3: GuEsSwHaT211 (400 en jetons) 
+psychoman59 : met la petite blind. 30
+GuEsSwHaT211 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 2s]
+psychoman59 : relance. 1040 à 1100 et est all-in.
+GuEsSwHaT211 : suit. 340 et est all-in.
+Personne n'a suivi. (700) sont retournés à psychoman59.
+*** FLOP *** [Qh 9c Jd]
+*** TOURNANT *** [Qh 9c Jd] [8s]
+*** RIVIÈRE *** [Qh 9c Jd 8s] [6s]
+*** ABATTAGE ***
+GuEsSwHaT211 : montre [5h As] (Hauteur As)
+psychoman59 : montre [2c 2s] (une paire de Deux)
+psychoman59 a remporté 800  lors du pot .
+GuEsSwHaT211 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 1.25 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 800 | Commission 0 
+Tableau [Qh 9c Jd 8s 6s]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [2c 2s] et a gagné (800) avec une paire de Deux
+Siège 3 : GuEsSwHaT211 (grosse blind) a montré [5h As] et a perdu avec Hauteur As
+
+
+

@@ -1,0 +1,57 @@
+﻿Main PokerStars n°245399477287 : Tournoi #3631550310, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/08/2023 8:00:47 CET [15/08/2023 2:00:47 ET]
+Table '3631550310 1' 3-max Siège #1 est au bouton.
+Place 1: sebast1213 (300 en jetons) 
+Place 2: GenBonBeur (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+GenBonBeur : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 6d]
+sebast1213 : suit. 20
+GenBonBeur : suit. 10
+psychoman59 : parole 
+*** FLOP *** [5d Tc 4h]
+GenBonBeur : mise. 30
+psychoman59 : passe. 
+sebast1213 : passe. 
+Personne n'a suivi. (30) sont retournés à GenBonBeur.
+GenBonBeur a remporté 60  lors du pot .
+GenBonBeur : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [5d Tc 4h]
+Siège 1 : sebast1213 (bouton) s'est couché. sur le Flop
+Siège 2 : GenBonBeur (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°245399479393 : Tournoi #3631550310, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/08/2023 8:01:09 CET [15/08/2023 2:01:09 ET]
+Table '3631550310 1' 3-max Siège #2 est au bouton.
+Place 1: sebast1213 (280 en jetons) 
+Place 2: GenBonBeur (340 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+sebast1213 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h As]
+GenBonBeur : passe. 
+psychoman59 : relance. 260 à 280 et est all-in.
+sebast1213 : suit. 260 et est all-in.
+*** FLOP *** [Qc 8c Ah]
+*** TOURNANT *** [Qc 8c Ah] [5c]
+*** RIVIÈRE *** [Qc 8c Ah 5c] [Ks]
+*** ABATTAGE ***
+psychoman59 : montre [4h As] (une paire de As)
+sebast1213 : montre [Ac 9d] (une paire de As - Roi+Dame+Neuf kicker)
+sebast1213 a remporté 560  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [Qc 8c Ah 5c Ks]
+Siège 1 : sebast1213 (grosse blind) a montré [Ac 9d] et a gagné (560) avec une paire de As
+Siège 2 : GenBonBeur (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [4h As] et a perdu avec une paire de As
+
+
+

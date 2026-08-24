@@ -1,0 +1,469 @@
+﻿Main PokerStars n°260540415417 : Tournoi #3993971091, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 21/04/2026 7:33:51 CET [21/04/2026 1:33:51 ET]
+Table '3993971091 1' 3-max Siège #1 est au bouton.
+Place 1: EPITIE (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: muelliman1 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+muelliman1 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 4h]
+EPITIE : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à muelliman1.
+muelliman1 a remporté 20  lors du pot .
+muelliman1 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : EPITIE (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : muelliman1 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°260540415826 : Tournoi #3993971091, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 21/04/2026 7:33:58 CET [21/04/2026 1:33:58 ET]
+Table '3993971091 1' 3-max Siège #2 est au bouton.
+Place 1: EPITIE (500 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: muelliman1 (510 en jetons) 
+muelliman1 : met la petite blind. 10
+EPITIE : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Ks]
+psychoman59 : passe. 
+muelliman1 : passe. 
+Personne n'a suivi. (10) sont retournés à EPITIE.
+EPITIE a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : EPITIE (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : muelliman1 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260540416385 : Tournoi #3993971091, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 21/04/2026 7:34:08 CET [21/04/2026 1:34:08 ET]
+Table '3993971091 1' 3-max Siège #3 est au bouton.
+Place 1: EPITIE (510 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: muelliman1 (500 en jetons) 
+EPITIE : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 9s]
+muelliman1 : passe. 
+EPITIE : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Jd Jh 2s]
+EPITIE : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Jd Jh 2s] [Kc]
+EPITIE : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Jd Jh 2s Kc] [3d]
+EPITIE : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+EPITIE : montre [6h 8h] (une paire de Valets)
+psychoman59 : montre [Qc 9s] (une paire de Valets - Roi+Dame kicker)
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Jd Jh 2s Kc 3d]
+Siège 1 : EPITIE (petite blind) a montré [6h 8h] et a perdu avec une paire de Valets
+Siège 2 : psychoman59 (grosse blind) a montré [Qc 9s] et a gagné (40) avec une paire de Valets
+Siège 3 : muelliman1 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260540417361 : Tournoi #3993971091, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 21/04/2026 7:34:27 CET [21/04/2026 1:34:27 ET]
+Table '3993971091 1' 3-max Siège #1 est au bouton.
+Place 1: EPITIE (490 en jetons) 
+Place 2: psychoman59 (510 en jetons) 
+Place 3: muelliman1 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+muelliman1 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 3d]
+EPITIE : suit. 20
+psychoman59 : passe. 
+muelliman1 : parole 
+*** FLOP *** [3s 2d 4h]
+muelliman1 : parole 
+EPITIE : parole 
+*** TOURNANT *** [3s 2d 4h] [6h]
+muelliman1 : parole 
+EPITIE : parole 
+*** RIVIÈRE *** [3s 2d 4h 6h] [Qc]
+muelliman1 : parole 
+EPITIE : parole 
+*** ABATTAGE ***
+muelliman1 : montre [4c Tc] (une paire de Quatre)
+EPITIE : cache la main perdante. 
+muelliman1 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [3s 2d 4h 6h Qc]
+Siège 1 : EPITIE (bouton) a caché la main perdante. [Kc 7d]
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : muelliman1 (grosse blind) a montré [4c Tc] et a gagné (50) avec une paire de Quatre
+
+
+
+Main PokerStars n°260540418481 : Tournoi #3993971091, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 21/04/2026 7:34:47 CET [21/04/2026 1:34:47 ET]
+Table '3993971091 1' 3-max Siège #2 est au bouton.
+Place 1: EPITIE (470 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: muelliman1 (530 en jetons) 
+muelliman1 : met la petite blind. 10
+EPITIE : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 3d]
+psychoman59 : passe. 
+muelliman1 : suit. 10
+EPITIE : relance. 20 à 40
+muelliman1 : suit. 20
+*** FLOP *** [Ah Jd 9h]
+muelliman1 : parole 
+EPITIE : mise. 40
+muelliman1 : suit. 40
+*** TOURNANT *** [Ah Jd 9h] [7c]
+muelliman1 : parole 
+EPITIE : mise. 40
+muelliman1 : suit. 40
+*** RIVIÈRE *** [Ah Jd 9h 7c] [Jc]
+muelliman1 : parole 
+EPITIE : parole 
+*** ABATTAGE ***
+muelliman1 : montre [Ad 8d] (double paire, As et Valets)
+EPITIE : cache la main perdante. 
+muelliman1 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Ah Jd 9h 7c Jc]
+Siège 1 : EPITIE (grosse blind) a caché la main perdante. [Td Qh]
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : muelliman1 (petite blind) a montré [Ad 8d] et a gagné (240) avec double paire, As et Valets
+
+
+
+Main PokerStars n°260540419724 : Tournoi #3993971091, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 21/04/2026 7:35:10 CET [21/04/2026 1:35:10 ET]
+Table '3993971091 1' 3-max Siège #3 est au bouton.
+Place 1: EPITIE (350 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: muelliman1 (650 en jetons) 
+EPITIE : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Td]
+muelliman1 : passe. 
+EPITIE : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Kh 4d 4h]
+EPITIE : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à EPITIE.
+EPITIE a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Kh 4d 4h]
+Siège 1 : EPITIE (petite blind) a remporté (40)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : muelliman1 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260540420583 : Tournoi #3993971091, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 21/04/2026 7:35:26 CET [21/04/2026 1:35:26 ET]
+Table '3993971091 1' 3-max Siège #1 est au bouton.
+Place 1: EPITIE (370 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+Place 3: muelliman1 (650 en jetons) 
+psychoman59 : met la petite blind. 10
+muelliman1 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 5c]
+EPITIE : suit. 20
+psychoman59 : suit. 10
+muelliman1 : parole 
+*** FLOP *** [7d Js Kc]
+psychoman59 : parole 
+muelliman1 : parole 
+EPITIE : parole 
+*** TOURNANT *** [7d Js Kc] [Qs]
+psychoman59 : parole 
+muelliman1 : parole 
+EPITIE : parole 
+*** RIVIÈRE *** [7d Js Kc Qs] [6s]
+psychoman59 : parole 
+muelliman1 : parole 
+EPITIE : parole 
+*** ABATTAGE ***
+psychoman59 : montre [6d 5c] (une paire de Six)
+muelliman1 : cache la main perdante. 
+EPITIE : cache la main perdante. 
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [7d Js Kc Qs 6s]
+Siège 1 : EPITIE (bouton) a caché la main perdante. [8s Td]
+Siège 2 : psychoman59 (petite blind) a montré [6d 5c] et a gagné (60) avec une paire de Six
+Siège 3 : muelliman1 (grosse blind) a caché la main perdante. [2d 5h]
+
+
+
+Main PokerStars n°260540421774 : Tournoi #3993971091, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 21/04/2026 7:35:48 CET [21/04/2026 1:35:48 ET]
+Table '3993971091 1' 3-max Siège #2 est au bouton.
+Place 1: EPITIE (350 en jetons) 
+Place 2: psychoman59 (520 en jetons) 
+Place 3: muelliman1 (630 en jetons) 
+muelliman1 : met la petite blind. 10
+EPITIE : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 4d]
+psychoman59 : passe. 
+muelliman1 : suit. 10
+EPITIE : relance. 20 à 40
+muelliman1 : suit. 20
+*** FLOP *** [3c 6h 4s]
+muelliman1 : parole 
+EPITIE : parole 
+*** TOURNANT *** [3c 6h 4s] [5s]
+muelliman1 : parole 
+EPITIE : parole 
+*** RIVIÈRE *** [3c 6h 4s 5s] [Ks]
+muelliman1 : parole 
+EPITIE : mise. 20
+muelliman1 : suit. 20
+*** ABATTAGE ***
+EPITIE : montre [Kh Qh] (une paire de Rois)
+muelliman1 : cache la main perdante. 
+EPITIE a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [3c 6h 4s 5s Ks]
+Siège 1 : EPITIE (grosse blind) a montré [Kh Qh] et a gagné (120) avec une paire de Rois
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : muelliman1 (petite blind) a caché la main perdante. [Kd 8h]
+
+
+
+Main PokerStars n°260540423064 : Tournoi #3993971091, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 21/04/2026 7:36:11 CET [21/04/2026 1:36:11 ET]
+Table '3993971091 1' 3-max Siège #3 est au bouton.
+Place 1: EPITIE (410 en jetons) 
+Place 2: psychoman59 (520 en jetons) 
+Place 3: muelliman1 (570 en jetons) 
+EPITIE : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Kc]
+muelliman1 : relance. 30 à 60
+EPITIE : suit. 45
+psychoman59 : suit. 30
+*** FLOP *** [3d 6s Ah]
+EPITIE : parole 
+psychoman59 : parole 
+muelliman1 : mise. 30
+EPITIE : suit. 30
+psychoman59 : passe. 
+*** TOURNANT *** [3d 6s Ah] [Qc]
+EPITIE : parole 
+muelliman1 : mise. 60
+EPITIE : suit. 60
+*** RIVIÈRE *** [3d 6s Ah Qc] [5c]
+EPITIE : parole 
+muelliman1 : mise. 60
+EPITIE : passe. 
+Personne n'a suivi. (60) sont retournés à muelliman1.
+muelliman1 a remporté 360  lors du pot .
+muelliman1 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [3d 6s Ah Qc 5c]
+Siège 1 : EPITIE (petite blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : muelliman1 (bouton) a remporté (360)
+
+
+
+Main PokerStars n°260540424451 : Tournoi #3993971091, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 21/04/2026 7:36:36 CET [21/04/2026 1:36:36 ET]
+Table '3993971091 1' 3-max Siège #1 est au bouton.
+Place 1: EPITIE (260 en jetons) 
+Place 2: psychoman59 (460 en jetons) 
+Place 3: muelliman1 (780 en jetons) 
+psychoman59 : met la petite blind. 15
+muelliman1 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 4c]
+EPITIE : relance. 30 à 60
+psychoman59 : passe. 
+muelliman1 : suit. 30
+*** FLOP *** [6d 4s 2s]
+muelliman1 : parole 
+EPITIE : parole 
+*** TOURNANT *** [6d 4s 2s] [6c]
+muelliman1 : parole 
+EPITIE : parole 
+*** RIVIÈRE *** [6d 4s 2s 6c] [9s]
+muelliman1 : parole 
+EPITIE : parole 
+*** ABATTAGE ***
+muelliman1 : montre [8s 9d] (double paire, Neuf et Six)
+EPITIE : cache la main perdante. 
+muelliman1 a remporté 135  lors du pot .
+*** SYNTHÈSE ***
+Pot total 135 | Commission 0 
+Tableau [6d 4s 2s 6c 9s]
+Siège 1 : EPITIE (bouton) a caché la main perdante. [Kh Qc]
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : muelliman1 (grosse blind) a montré [8s 9d] et a gagné (135) avec double paire, Neuf et Six
+
+
+
+Main PokerStars n°260540425326 : Tournoi #3993971091, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 21/04/2026 7:36:51 CET [21/04/2026 1:36:51 ET]
+Table '3993971091 1' 3-max Siège #2 est au bouton.
+Place 1: EPITIE (200 en jetons) 
+Place 2: psychoman59 (445 en jetons) 
+Place 3: muelliman1 (855 en jetons) 
+muelliman1 : met la petite blind. 15
+EPITIE : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Ah]
+psychoman59 : suit. 30
+muelliman1 : suit. 15
+EPITIE : parole 
+*** FLOP *** [6s 9d 7h]
+muelliman1 : mise. 90
+EPITIE : passe. 
+psychoman59 : suit. 90
+*** TOURNANT *** [6s 9d 7h] [2h]
+muelliman1 : mise. 270
+psychoman59 : passe. 
+Personne n'a suivi. (270) sont retournés à muelliman1.
+muelliman1 a remporté 270  lors du pot .
+muelliman1 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Tableau [6s 9d 7h 2h]
+Siège 1 : EPITIE (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) s'est couché. sur le Tournant
+Siège 3 : muelliman1 (petite blind) a remporté (270)
+
+
+
+Main PokerStars n°260540426480 : Tournoi #3993971091, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 21/04/2026 7:37:13 CET [21/04/2026 1:37:13 ET]
+Table '3993971091 1' 3-max Siège #3 est au bouton.
+Place 1: EPITIE (170 en jetons) 
+Place 2: psychoman59 (325 en jetons) 
+Place 3: muelliman1 (1005 en jetons) 
+EPITIE : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 5s]
+muelliman1 : passe. 
+EPITIE : suit. 15
+psychoman59 : relance. 295 à 325 et est all-in.
+EPITIE : suit. 140 et est all-in.
+Personne n'a suivi. (155) sont retournés à psychoman59.
+*** FLOP *** [3s 9h 7h]
+*** TOURNANT *** [3s 9h 7h] [8h]
+*** RIVIÈRE *** [3s 9h 7h 8h] [Ks]
+*** ABATTAGE ***
+EPITIE : montre [Kh 2s] (une paire de Rois)
+psychoman59 : montre [Ah 5s] (Hauteur As)
+EPITIE a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [3s 9h 7h 8h Ks]
+Siège 1 : EPITIE (petite blind) a montré [Kh 2s] et a gagné (340) avec une paire de Rois
+Siège 2 : psychoman59 (grosse blind) a montré [Ah 5s] et a perdu avec Hauteur As
+Siège 3 : muelliman1 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260540427329 : Tournoi #3993971091, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 21/04/2026 7:37:28 CET [21/04/2026 1:37:28 ET]
+Table '3993971091 1' 3-max Siège #1 est au bouton.
+Place 1: EPITIE (340 en jetons) 
+Place 2: psychoman59 (155 en jetons) 
+Place 3: muelliman1 (1005 en jetons) 
+psychoman59 : met la petite blind. 15
+muelliman1 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Qh]
+EPITIE : relance. 30 à 60
+psychoman59 : passe. 
+muelliman1 : suit. 30
+*** FLOP *** [7h 9h 8s]
+muelliman1 : parole 
+EPITIE : parole 
+*** TOURNANT *** [7h 9h 8s] [8h]
+muelliman1 : parole 
+EPITIE : parole 
+*** RIVIÈRE *** [7h 9h 8s 8h] [Ks]
+muelliman1 : parole 
+EPITIE : parole 
+*** ABATTAGE ***
+muelliman1 : montre [5c 7c] (double paire, Huit et Sept)
+EPITIE : cache la main perdante. 
+muelliman1 a remporté 135  lors du pot .
+*** SYNTHÈSE ***
+Pot total 135 | Commission 0 
+Tableau [7h 9h 8s 8h Ks]
+Siège 1 : EPITIE (bouton) a caché la main perdante. [Qd Ah]
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : muelliman1 (grosse blind) a montré [5c 7c] et a gagné (135) avec double paire, Huit et Sept
+
+
+
+Main PokerStars n°260540428362 : Tournoi #3993971091, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 21/04/2026 7:37:47 CET [21/04/2026 1:37:47 ET]
+Table '3993971091 1' 3-max Siège #2 est au bouton.
+Place 1: EPITIE (280 en jetons) 
+Place 2: psychoman59 (140 en jetons) 
+Place 3: muelliman1 (1080 en jetons) 
+muelliman1 : met la petite blind. 15
+EPITIE : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Js]
+psychoman59 : relance. 110 à 140 et est all-in.
+muelliman1 : passe. 
+EPITIE : passe. 
+Personne n'a suivi. (110) sont retournés à psychoman59.
+psychoman59 a remporté 75  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : EPITIE (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a remporté (75)
+Siège 3 : muelliman1 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260540428954 : Tournoi #3993971091, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 21/04/2026 7:37:58 CET [21/04/2026 1:37:58 ET]
+Table '3993971091 1' 3-max Siège #3 est au bouton.
+Place 1: EPITIE (250 en jetons) 
+Place 2: psychoman59 (185 en jetons) 
+Place 3: muelliman1 (1065 en jetons) 
+EPITIE : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 6d]
+muelliman1 : suit. 40
+EPITIE : suit. 20
+psychoman59 : relance. 145 à 185 et est all-in.
+muelliman1 : suit. 145
+EPITIE : passe. 
+*** FLOP *** [8h 8s Ad]
+*** TOURNANT *** [8h 8s Ad] [Qs]
+*** RIVIÈRE *** [8h 8s Ad Qs] [Th]
+*** ABATTAGE ***
+psychoman59 : montre [6s 6d] (double paire, Huit et Six)
+muelliman1 : montre [Ah 4c] (double paire, As et Huit)
+muelliman1 a remporté 410  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 410 | Commission 0 
+Tableau [8h 8s Ad Qs Th]
+Siège 1 : EPITIE (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a montré [6s 6d] et a perdu avec double paire, Huit et Six
+Siège 3 : muelliman1 (bouton) a montré [Ah 4c] et a gagné (410) avec double paire, As et Huit
+
+
+

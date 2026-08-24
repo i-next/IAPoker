@@ -1,0 +1,615 @@
+﻿Main PokerStars n°260811890300 : Tournoi #4000545287, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 15/05/2026 7:30:23 CET [15/05/2026 1:30:23 ET]
+Table '4000545287 1' 3-max Siège #1 est au bouton.
+Place 1: AAMMIINN513 (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: ferrer81 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+ferrer81 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 6d]
+AAMMIINN513 : suit. 20
+psychoman59 : suit. 10
+ferrer81 : parole 
+*** FLOP *** [Qs Jc Kd]
+psychoman59 : parole 
+ferrer81 : parole 
+AAMMIINN513 : parole 
+*** TOURNANT *** [Qs Jc Kd] [Qc]
+psychoman59 : parole 
+ferrer81 : parole 
+AAMMIINN513 : parole 
+*** RIVIÈRE *** [Qs Jc Kd Qc] [2h]
+psychoman59 : parole 
+ferrer81 : parole 
+AAMMIINN513 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Ad 6d] (une paire de Dames)
+ferrer81 : cache la main perdante. 
+AAMMIINN513 : cache la main perdante. 
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Qs Jc Kd Qc 2h]
+Siège 1 : AAMMIINN513 (bouton) a caché la main perdante. [3s 6h]
+Siège 2 : psychoman59 (petite blind) a montré [Ad 6d] et a gagné (60) avec une paire de Dames
+Siège 3 : ferrer81 (grosse blind) a caché la main perdante. [6s 4h]
+
+
+
+Main PokerStars n°260811891847 : Tournoi #4000545287, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 15/05/2026 7:30:51 CET [15/05/2026 1:30:51 ET]
+Table '4000545287 1' 3-max Siège #2 est au bouton.
+Place 1: AAMMIINN513 (480 en jetons) 
+Place 2: psychoman59 (540 en jetons) 
+Place 3: ferrer81 (480 en jetons) 
+ferrer81 : met la petite blind. 10
+AAMMIINN513 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Jd]
+psychoman59 : suit. 20
+ferrer81 : relance. 460 à 480 et est all-in.
+AAMMIINN513 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (460) sont retournés à ferrer81.
+ferrer81 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : AAMMIINN513 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 3 : ferrer81 (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°260811892474 : Tournoi #4000545287, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 15/05/2026 7:31:02 CET [15/05/2026 1:31:02 ET]
+Table '4000545287 1' 3-max Siège #3 est au bouton.
+Place 1: AAMMIINN513 (460 en jetons) 
+Place 2: psychoman59 (520 en jetons) 
+Place 3: ferrer81 (520 en jetons) 
+AAMMIINN513 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Tc]
+ferrer81 : relance. 500 à 520 et est all-in.
+AAMMIINN513 : passe. 
+psychoman59 : suit. 500 et est all-in.
+*** FLOP *** [Kh 3h Ts]
+*** TOURNANT *** [Kh 3h Ts] [Kd]
+*** RIVIÈRE *** [Kh 3h Ts Kd] [7d]
+*** ABATTAGE ***
+psychoman59 : montre [Th Tc] (un full, full aux Dix par les Rois)
+ferrer81 : montre [Ah Qs] (une paire de Rois)
+psychoman59 a remporté 1050  lors du pot .
+ferrer81 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 1050 | Commission 0 
+Tableau [Kh 3h Ts Kd 7d]
+Siège 1 : AAMMIINN513 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a montré [Th Tc] et a gagné (1050) avec un full, full aux Dix par les Rois
+Siège 3 : ferrer81 (bouton) a montré [Ah Qs] et a perdu avec une paire de Rois
+
+
+
+Main PokerStars n°260811893408 : Tournoi #4000545287, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 15/05/2026 7:31:19 CET [15/05/2026 1:31:19 ET]
+Table '4000545287 1' 3-max Siège #2 est au bouton.
+Place 1: AAMMIINN513 (450 en jetons) 
+Place 2: psychoman59 (1050 en jetons) 
+psychoman59 : met la petite blind. 10
+AAMMIINN513 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Ah]
+psychoman59 : suit. 10
+AAMMIINN513 : parole 
+*** FLOP *** [2c 6s 4s]
+AAMMIINN513 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [2c 6s 4s] [9d]
+AAMMIINN513 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [2c 6s 4s 9d] [7d]
+AAMMIINN513 : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à AAMMIINN513.
+AAMMIINN513 a remporté 40  lors du pot .
+AAMMIINN513 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [2c 6s 4s 9d 7d]
+Siège 1 : AAMMIINN513 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°260811894832 : Tournoi #4000545287, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 15/05/2026 7:31:42 CET [15/05/2026 1:31:42 ET]
+Table '4000545287 1' 3-max Siège #1 est au bouton.
+Place 1: AAMMIINN513 (470 en jetons) 
+Place 2: psychoman59 (1030 en jetons) 
+AAMMIINN513 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Ac]
+AAMMIINN513 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Td 6s Kh]
+psychoman59 : parole 
+AAMMIINN513 : parole 
+*** TOURNANT *** [Td 6s Kh] [6h]
+psychoman59 : parole 
+AAMMIINN513 : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [Td 6s Kh 6h] [Ad]
+psychoman59 : parole 
+AAMMIINN513 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [5c Ac] (double paire, As et Six)
+AAMMIINN513 : cache la main perdante. 
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Td 6s Kh 6h Ad]
+Siège 1 : AAMMIINN513 (bouton) (petite blind) a caché la main perdante. [Qc 9c]
+Siège 2 : psychoman59 (grosse blind) a montré [5c Ac] et a gagné (80) avec double paire, As et Six
+
+
+
+Main PokerStars n°260811895964 : Tournoi #4000545287, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 15/05/2026 7:32:02 CET [15/05/2026 1:32:02 ET]
+Table '4000545287 1' 3-max Siège #2 est au bouton.
+Place 1: AAMMIINN513 (430 en jetons) 
+Place 2: psychoman59 (1070 en jetons) 
+psychoman59 : met la petite blind. 10
+AAMMIINN513 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 9s]
+psychoman59 : suit. 10
+AAMMIINN513 : parole 
+*** FLOP *** [7h Ks 8d]
+AAMMIINN513 : parole 
+psychoman59 : mise. 20
+AAMMIINN513 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [7h Ks 8d]
+Siège 1 : AAMMIINN513 (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°260811896762 : Tournoi #4000545287, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 15/05/2026 7:32:16 CET [15/05/2026 1:32:16 ET]
+Table '4000545287 1' 3-max Siège #1 est au bouton.
+Place 1: AAMMIINN513 (410 en jetons) 
+Place 2: psychoman59 (1090 en jetons) 
+AAMMIINN513 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 8s]
+AAMMIINN513 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [3d Kd Ts]
+psychoman59 : parole 
+AAMMIINN513 : parole 
+*** TOURNANT *** [3d Kd Ts] [As]
+psychoman59 : parole 
+AAMMIINN513 : parole 
+*** RIVIÈRE *** [3d Kd Ts As] [2c]
+psychoman59 : parole 
+AAMMIINN513 : mise. 20
+psychoman59 : suit. 20
+*** ABATTAGE ***
+AAMMIINN513 : montre [4s Ad] (une paire de As)
+psychoman59 : cache la main perdante. 
+AAMMIINN513 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [3d Kd Ts As 2c]
+Siège 1 : AAMMIINN513 (bouton) (petite blind) a montré [4s Ad] et a gagné (80) avec une paire de As
+Siège 2 : psychoman59 (grosse blind) a caché la main perdante. [3c 8s]
+
+
+
+Main PokerStars n°260811898497 : Tournoi #4000545287, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 15/05/2026 7:32:47 CET [15/05/2026 1:32:47 ET]
+Table '4000545287 1' 3-max Siège #2 est au bouton.
+Place 1: AAMMIINN513 (450 en jetons) 
+Place 2: psychoman59 (1050 en jetons) 
+psychoman59 : met la petite blind. 15
+AAMMIINN513 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Ah]
+psychoman59 : suit. 15
+AAMMIINN513 : parole 
+*** FLOP *** [Tc 3d 2c]
+AAMMIINN513 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Tc 3d 2c] [Ts]
+AAMMIINN513 : mise. 420 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (420) sont retournés à AAMMIINN513.
+AAMMIINN513 a remporté 60  lors du pot .
+AAMMIINN513 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Tc 3d 2c Ts]
+Siège 1 : AAMMIINN513 (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°260811899344 : Tournoi #4000545287, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 15/05/2026 7:33:02 CET [15/05/2026 1:33:02 ET]
+Table '4000545287 1' 3-max Siège #1 est au bouton.
+Place 1: AAMMIINN513 (480 en jetons) 
+Place 2: psychoman59 (1020 en jetons) 
+AAMMIINN513 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 3h]
+AAMMIINN513 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [4h 2h 2c]
+psychoman59 : parole 
+AAMMIINN513 : mise. 450 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (450) sont retournés à AAMMIINN513.
+AAMMIINN513 a remporté 60  lors du pot .
+AAMMIINN513 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [4h 2h 2c]
+Siège 1 : AAMMIINN513 (bouton) (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°260811900108 : Tournoi #4000545287, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 15/05/2026 7:33:16 CET [15/05/2026 1:33:16 ET]
+Table '4000545287 1' 3-max Siège #2 est au bouton.
+Place 1: AAMMIINN513 (510 en jetons) 
+Place 2: psychoman59 (990 en jetons) 
+psychoman59 : met la petite blind. 15
+AAMMIINN513 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 2h]
+psychoman59 : suit. 15
+AAMMIINN513 : parole 
+*** FLOP *** [9c 4h 6c]
+AAMMIINN513 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [9c 4h 6c] [Ah]
+AAMMIINN513 : parole 
+psychoman59 : mise. 60
+AAMMIINN513 : suit. 60
+*** RIVIÈRE *** [9c 4h 6c Ah] [8d]
+AAMMIINN513 : mise. 420 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (420) sont retournés à AAMMIINN513.
+AAMMIINN513 a remporté 180  lors du pot .
+AAMMIINN513 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [9c 4h 6c Ah 8d]
+Siège 1 : AAMMIINN513 (grosse blind) a remporté (180)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°260811901793 : Tournoi #4000545287, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 15/05/2026 7:33:45 CET [15/05/2026 1:33:45 ET]
+Table '4000545287 1' 3-max Siège #1 est au bouton.
+Place 1: AAMMIINN513 (600 en jetons) 
+Place 2: psychoman59 (900 en jetons) 
+AAMMIINN513 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Qd]
+AAMMIINN513 : suit. 15
+psychoman59 : relance. 870 à 900 et est all-in.
+AAMMIINN513 : passe. 
+Personne n'a suivi. (870) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : AAMMIINN513 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°260811902341 : Tournoi #4000545287, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 15/05/2026 7:33:55 CET [15/05/2026 1:33:55 ET]
+Table '4000545287 1' 3-max Siège #2 est au bouton.
+Place 1: AAMMIINN513 (570 en jetons) 
+Place 2: psychoman59 (930 en jetons) 
+psychoman59 : met la petite blind. 15
+AAMMIINN513 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 5s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à AAMMIINN513.
+AAMMIINN513 a remporté 30  lors du pot .
+AAMMIINN513 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : AAMMIINN513 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260811902610 : Tournoi #4000545287, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 15/05/2026 7:34:00 CET [15/05/2026 1:34:00 ET]
+Table '4000545287 1' 3-max Siège #1 est au bouton.
+Place 1: AAMMIINN513 (585 en jetons) 
+Place 2: psychoman59 (915 en jetons) 
+AAMMIINN513 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 5d]
+AAMMIINN513 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [2s 2c 6h]
+psychoman59 : parole 
+AAMMIINN513 : parole 
+*** TOURNANT *** [2s 2c 6h] [5s]
+psychoman59 : parole 
+AAMMIINN513 : parole 
+*** RIVIÈRE *** [2s 2c 6h 5s] [3d]
+psychoman59 : parole 
+AAMMIINN513 : mise. 30
+psychoman59 : suit. 30
+*** ABATTAGE ***
+AAMMIINN513 : montre [4d Qh] (une suite, Deux à Six)
+psychoman59 : cache la main perdante. 
+AAMMIINN513 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [2s 2c 6h 5s 3d]
+Siège 1 : AAMMIINN513 (bouton) (petite blind) a montré [4d Qh] et a gagné (120) avec une suite, Deux à Six
+Siège 2 : psychoman59 (grosse blind) a caché la main perdante. [8d 5d]
+
+
+
+Main PokerStars n°260811904748 : Tournoi #4000545287, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 15/05/2026 7:34:37 CET [15/05/2026 1:34:37 ET]
+Table '4000545287 1' 3-max Siège #2 est au bouton.
+Place 1: AAMMIINN513 (645 en jetons) 
+Place 2: psychoman59 (855 en jetons) 
+psychoman59 : met la petite blind. 20
+AAMMIINN513 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 8c]
+psychoman59 : relance. 815 à 855 et est all-in.
+AAMMIINN513 : passe. 
+Personne n'a suivi. (815) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : AAMMIINN513 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°260811905174 : Tournoi #4000545287, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 15/05/2026 7:34:45 CET [15/05/2026 1:34:45 ET]
+Table '4000545287 1' 3-max Siège #1 est au bouton.
+Place 1: AAMMIINN513 (605 en jetons) 
+Place 2: psychoman59 (895 en jetons) 
+AAMMIINN513 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 9d]
+AAMMIINN513 : suit. 20
+psychoman59 : relance. 855 à 895 et est all-in.
+AAMMIINN513 : passe. 
+Personne n'a suivi. (855) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : AAMMIINN513 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°260811905659 : Tournoi #4000545287, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 15/05/2026 7:34:53 CET [15/05/2026 1:34:53 ET]
+Table '4000545287 1' 3-max Siège #2 est au bouton.
+Place 1: AAMMIINN513 (565 en jetons) 
+Place 2: psychoman59 (935 en jetons) 
+psychoman59 : met la petite blind. 20
+AAMMIINN513 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 4d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à AAMMIINN513.
+AAMMIINN513 a remporté 40  lors du pot .
+AAMMIINN513 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : AAMMIINN513 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260811905992 : Tournoi #4000545287, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 15/05/2026 7:34:58 CET [15/05/2026 1:34:58 ET]
+Table '4000545287 1' 3-max Siège #1 est au bouton.
+Place 1: AAMMIINN513 (585 en jetons) 
+Place 2: psychoman59 (915 en jetons) 
+AAMMIINN513 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Jh]
+AAMMIINN513 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [5s Kd Qc]
+psychoman59 : parole 
+AAMMIINN513 : parole 
+*** TOURNANT *** [5s Kd Qc] [3s]
+psychoman59 : parole 
+AAMMIINN513 : parole 
+*** RIVIÈRE *** [5s Kd Qc 3s] [7d]
+psychoman59 : parole 
+AAMMIINN513 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Ts Jh] (Hauteur Roi)
+AAMMIINN513 : montre [As 6c] (Hauteur As)
+AAMMIINN513 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [5s Kd Qc 3s 7d]
+Siège 1 : AAMMIINN513 (bouton) (petite blind) a montré [As 6c] et a gagné (80) avec Hauteur As
+Siège 2 : psychoman59 (grosse blind) a montré [Ts Jh] et a perdu avec Hauteur Roi
+
+
+
+Main PokerStars n°260811907032 : Tournoi #4000545287, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 15/05/2026 7:35:16 CET [15/05/2026 1:35:16 ET]
+Table '4000545287 1' 3-max Siège #2 est au bouton.
+Place 1: AAMMIINN513 (625 en jetons) 
+Place 2: psychoman59 (875 en jetons) 
+psychoman59 : met la petite blind. 20
+AAMMIINN513 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 2d]
+psychoman59 : relance. 835 à 875 et est all-in.
+AAMMIINN513 : passe. 
+Personne n'a suivi. (835) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : AAMMIINN513 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°260811907546 : Tournoi #4000545287, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 15/05/2026 7:35:25 CET [15/05/2026 1:35:25 ET]
+Table '4000545287 1' 3-max Siège #1 est au bouton.
+Place 1: AAMMIINN513 (585 en jetons) 
+Place 2: psychoman59 (915 en jetons) 
+AAMMIINN513 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Td]
+AAMMIINN513 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [8h 3d 8c]
+psychoman59 : parole 
+AAMMIINN513 : parole 
+*** TOURNANT *** [8h 3d 8c] [Ts]
+psychoman59 : parole 
+AAMMIINN513 : parole 
+*** RIVIÈRE *** [8h 3d 8c Ts] [3c]
+psychoman59 : parole 
+AAMMIINN513 : mise. 40
+psychoman59 : suit. 40
+*** ABATTAGE ***
+AAMMIINN513 : montre [Qs 5c] (double paire, Huit et Trois)
+psychoman59 : montre [6s Td] (double paire, Dix et Huit)
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [8h 3d 8c Ts 3c]
+Siège 1 : AAMMIINN513 (bouton) (petite blind) a montré [Qs 5c] et a perdu avec double paire, Huit et Trois
+Siège 2 : psychoman59 (grosse blind) a montré [6s Td] et a gagné (160) avec double paire, Dix et Huit
+
+
+
+Main PokerStars n°260811908695 : Tournoi #4000545287, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 15/05/2026 7:35:45 CET [15/05/2026 1:35:45 ET]
+Table '4000545287 1' 3-max Siège #2 est au bouton.
+Place 1: AAMMIINN513 (505 en jetons) 
+Place 2: psychoman59 (995 en jetons) 
+psychoman59 : met la petite blind. 20
+AAMMIINN513 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 3c]
+psychoman59 : suit. 20
+AAMMIINN513 : parole 
+*** FLOP *** [9c 8c Kh]
+AAMMIINN513 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [9c 8c Kh] [5h]
+AAMMIINN513 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [9c 8c Kh 5h] [Js]
+AAMMIINN513 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à AAMMIINN513.
+AAMMIINN513 a remporté 80  lors du pot .
+AAMMIINN513 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [9c 8c Kh 5h Js]
+Siège 1 : AAMMIINN513 (grosse blind) a remporté (80)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°260811909857 : Tournoi #4000545287, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 15/05/2026 7:36:05 CET [15/05/2026 1:36:05 ET]
+Table '4000545287 1' 3-max Siège #1 est au bouton.
+Place 1: AAMMIINN513 (545 en jetons) 
+Place 2: psychoman59 (955 en jetons) 
+AAMMIINN513 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 2h]
+AAMMIINN513 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : AAMMIINN513 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°260811910137 : Tournoi #4000545287, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 15/05/2026 7:36:10 CET [15/05/2026 1:36:10 ET]
+Table '4000545287 1' 3-max Siège #2 est au bouton.
+Place 1: AAMMIINN513 (525 en jetons) 
+Place 2: psychoman59 (975 en jetons) 
+psychoman59 : met la petite blind. 20
+AAMMIINN513 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Qh]
+psychoman59 : suit. 20
+AAMMIINN513 : parole 
+*** FLOP *** [6c 7d Jh]
+AAMMIINN513 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6c 7d Jh] [9d]
+AAMMIINN513 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [6c 7d Jh 9d] [Kh]
+AAMMIINN513 : parole 
+psychoman59 : mise. 80
+AAMMIINN513 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [6c 7d Jh 9d Kh]
+Siège 1 : AAMMIINN513 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°260811911626 : Tournoi #4000545287, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/05/2026 7:36:35 CET [15/05/2026 1:36:35 ET]
+Table '4000545287 1' 3-max Siège #1 est au bouton.
+Place 1: AAMMIINN513 (485 en jetons) 
+Place 2: psychoman59 (1015 en jetons) 
+AAMMIINN513 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Ad]
+AAMMIINN513 : relance. 425 à 485 et est all-in.
+psychoman59 : suit. 425
+*** FLOP *** [8c Ks 4h]
+*** TOURNANT *** [8c Ks 4h] [Qh]
+*** RIVIÈRE *** [8c Ks 4h Qh] [6h]
+*** ABATTAGE ***
+psychoman59 : montre [9s Ad] (Hauteur As)
+AAMMIINN513 : montre [Jc 9c] (Hauteur Roi)
+psychoman59 a remporté 970  lors du pot .
+AAMMIINN513 a fini le tournoi en 2e position.
+psychoman59 gagne le tournoi - félicitations !
+psychoman59 gagne un ticket " €1 Step 2 MTT Power Path ticket "
+*** SYNTHÈSE ***
+Pot total 970 | Commission 0 
+Tableau [8c Ks 4h Qh 6h]
+Siège 1 : AAMMIINN513 (bouton) (petite blind) a montré [Jc 9c] et a perdu avec Hauteur Roi
+Siège 2 : psychoman59 (grosse blind) a montré [9s Ad] et a gagné (970) avec Hauteur As
+
+
+

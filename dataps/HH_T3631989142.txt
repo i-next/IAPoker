@@ -1,0 +1,452 @@
+﻿Main PokerStars n°245417940496 : Tournoi #3631989142, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/08/2023 8:17:54 CET [16/08/2023 2:17:54 ET]
+Table '3631989142 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: cdr 91zer (300 en jetons) 
+Place 3: koutchi88 (300 en jetons) 
+cdr 91zer : met la petite blind. 10
+koutchi88 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 5c]
+psychoman59 : relance. 20 à 40
+cdr 91zer : suit. 30
+koutchi88 : passe. 
+*** FLOP *** [Td 3s 8c]
+cdr 91zer : mise. 100
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à cdr 91zer.
+cdr 91zer a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [Td 3s 8c]
+Siège 1 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 2 : cdr 91zer (petite blind) a remporté (100)
+Siège 3 : koutchi88 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°245417942564 : Tournoi #3631989142, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/08/2023 8:18:16 CET [16/08/2023 2:18:16 ET]
+Table '3631989142 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (260 en jetons) 
+Place 2: cdr 91zer (360 en jetons) 
+Place 3: koutchi88 (280 en jetons) 
+koutchi88 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 9d]
+cdr 91zer : relance. 20 à 40
+koutchi88 : passe. 
+psychoman59 : suit. 20
+*** FLOP *** [Kh 2h 5d]
+psychoman59 : parole 
+cdr 91zer : parole 
+*** TOURNANT *** [Kh 2h 5d] [8c]
+psychoman59 : parole 
+cdr 91zer : parole 
+*** RIVIÈRE *** [Kh 2h 5d 8c] [Qc]
+psychoman59 : parole 
+cdr 91zer : parole 
+*** ABATTAGE ***
+psychoman59 : montre [3d 9d] (Hauteur Roi)
+cdr 91zer : montre [As 9h] (Hauteur As)
+cdr 91zer a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [Kh 2h 5d 8c Qc]
+Siège 1 : psychoman59 (grosse blind) a montré [3d 9d] et a perdu avec Hauteur Roi
+Siège 2 : cdr 91zer (bouton) a montré [As 9h] et a gagné (90) avec Hauteur As
+Siège 3 : koutchi88 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°245417944845 : Tournoi #3631989142, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/08/2023 8:18:40 CET [16/08/2023 2:18:40 ET]
+Table '3631989142 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (220 en jetons) 
+Place 2: cdr 91zer (410 en jetons) 
+Place 3: koutchi88 (270 en jetons) 
+psychoman59 : met la petite blind. 10
+cdr 91zer : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 9c]
+koutchi88 : relance. 20 à 40
+psychoman59 : passe. 
+cdr 91zer : suit. 20
+*** FLOP *** [Ks As Qd]
+cdr 91zer : parole 
+koutchi88 : parole 
+*** TOURNANT *** [Ks As Qd] [3d]
+cdr 91zer : mise. 20
+koutchi88 : suit. 20
+*** RIVIÈRE *** [Ks As Qd 3d] [Kc]
+cdr 91zer : mise. 20
+koutchi88 : suit. 20
+*** ABATTAGE ***
+cdr 91zer : montre [Ah 5s] (double paire, As et Rois)
+koutchi88 : cache la main perdante. 
+cdr 91zer a remporté 170  lors du pot .
+*** SYNTHÈSE ***
+Pot total 170 | Commission 0 
+Tableau [Ks As Qd 3d Kc]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : cdr 91zer (grosse blind) a montré [Ah 5s] et a gagné (170) avec double paire, As et Rois
+Siège 3 : koutchi88 (bouton) a caché la main perdante. [Qs Tc]
+
+
+
+Main PokerStars n°245417947691 : Tournoi #3631989142, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/08/2023 8:19:10 CET [16/08/2023 2:19:10 ET]
+Table '3631989142 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (210 en jetons) 
+Place 2: cdr 91zer (500 en jetons) 
+Place 3: koutchi88 (190 en jetons) 
+cdr 91zer : met la petite blind. 15
+koutchi88 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Jc]
+psychoman59 : relance. 180 à 210 et est all-in.
+cdr 91zer : passe. 
+koutchi88 : suit. 160 et est all-in.
+Personne n'a suivi. (20) sont retournés à psychoman59.
+*** FLOP *** [Th 7h Qc]
+*** TOURNANT *** [Th 7h Qc] [2c]
+*** RIVIÈRE *** [Th 7h Qc 2c] [4c]
+*** ABATTAGE ***
+koutchi88 : montre [Js Jd] (une paire de Valets)
+psychoman59 : montre [Jh Jc] (une paire de Valets)
+koutchi88 a remporté 198  lors du pot .
+psychoman59 a remporté 197  lors du pot .
+*** SYNTHÈSE ***
+Pot total 395 | Commission 0 
+Tableau [Th 7h Qc 2c 4c]
+Siège 1 : psychoman59 (bouton) a montré [Jh Jc] et a gagné (197) avec une paire de Valets
+Siège 2 : cdr 91zer (petite blind) s'est couché. avant Flop
+Siège 3 : koutchi88 (grosse blind) a montré [Js Jd] et a gagné (198) avec une paire de Valets
+
+
+
+Main PokerStars n°245417950034 : Tournoi #3631989142, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/08/2023 8:19:35 CET [16/08/2023 2:19:35 ET]
+Table '3631989142 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (217 en jetons) 
+Place 2: cdr 91zer (485 en jetons) 
+Place 3: koutchi88 (198 en jetons) 
+koutchi88 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 4d]
+cdr 91zer : relance. 30 à 60
+koutchi88 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à cdr 91zer.
+cdr 91zer a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : cdr 91zer (bouton) a remporté (75)
+Siège 3 : koutchi88 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°245417951105 : Tournoi #3631989142, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/08/2023 8:19:46 CET [16/08/2023 2:19:46 ET]
+Table '3631989142 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (187 en jetons) 
+Place 2: cdr 91zer (530 en jetons) 
+Place 3: koutchi88 (183 en jetons) 
+psychoman59 : met la petite blind. 15
+cdr 91zer : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 3c]
+koutchi88 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à cdr 91zer.
+cdr 91zer a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : cdr 91zer (grosse blind) a remporté (30)
+Siège 3 : koutchi88 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°245417951942 : Tournoi #3631989142, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/08/2023 8:19:55 CET [16/08/2023 2:19:55 ET]
+Table '3631989142 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (172 en jetons) 
+Place 2: cdr 91zer (545 en jetons) 
+Place 3: koutchi88 (183 en jetons) 
+cdr 91zer : met la petite blind. 15
+koutchi88 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 8s]
+psychoman59 : passe. 
+cdr 91zer : suit. 15
+koutchi88 : parole 
+*** FLOP *** [6d Ah 3d]
+cdr 91zer : parole 
+koutchi88 : parole 
+*** TOURNANT *** [6d Ah 3d] [Kh]
+cdr 91zer : parole 
+koutchi88 : parole 
+*** RIVIÈRE *** [6d Ah 3d Kh] [2s]
+cdr 91zer : parole 
+koutchi88 : mise. 30
+cdr 91zer : suit. 30
+*** ABATTAGE ***
+koutchi88 : montre [Ts 6c] (une paire de Six)
+cdr 91zer : cache la main perdante. 
+koutchi88 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [6d Ah 3d Kh 2s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : cdr 91zer (petite blind) a caché la main perdante. [2c Td]
+Siège 3 : koutchi88 (grosse blind) a montré [Ts 6c] et a gagné (120) avec une paire de Six
+
+
+
+Main PokerStars n°245417954592 : Tournoi #3631989142, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 16/08/2023 8:20:23 CET [16/08/2023 2:20:23 ET]
+Table '3631989142 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (172 en jetons) 
+Place 2: cdr 91zer (485 en jetons) 
+Place 3: koutchi88 (243 en jetons) 
+koutchi88 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 4h]
+cdr 91zer : passe. 
+koutchi88 : relance. 203 à 243 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (203) sont retournés à koutchi88.
+koutchi88 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : cdr 91zer (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : koutchi88 (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°245417955699 : Tournoi #3631989142, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 16/08/2023 8:20:34 CET [16/08/2023 2:20:34 ET]
+Table '3631989142 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (132 en jetons) 
+Place 2: cdr 91zer (485 en jetons) 
+Place 3: koutchi88 (283 en jetons) 
+psychoman59 : met la petite blind. 20
+cdr 91zer : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Ad]
+koutchi88 : passe. 
+psychoman59 : relance. 92 à 132 et est all-in.
+cdr 91zer : passe. 
+Personne n'a suivi. (92) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (petite blind) a remporté (80)
+Siège 2 : cdr 91zer (grosse blind) s'est couché. avant Flop
+Siège 3 : koutchi88 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°245417956757 : Tournoi #3631989142, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 16/08/2023 8:20:45 CET [16/08/2023 2:20:45 ET]
+Table '3631989142 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (172 en jetons) 
+Place 2: cdr 91zer (445 en jetons) 
+Place 3: koutchi88 (283 en jetons) 
+cdr 91zer : met la petite blind. 20
+koutchi88 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Th]
+psychoman59 : passe. 
+cdr 91zer : suit. 20
+koutchi88 : parole 
+*** FLOP *** [Jh Ks 2d]
+cdr 91zer : parole 
+koutchi88 : parole 
+*** TOURNANT *** [Jh Ks 2d] [4s]
+cdr 91zer : mise. 40
+koutchi88 : passe. 
+Personne n'a suivi. (40) sont retournés à cdr 91zer.
+cdr 91zer a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Jh Ks 2d 4s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : cdr 91zer (petite blind) a remporté (80)
+Siège 3 : koutchi88 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°245417959827 : Tournoi #3631989142, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/08/2023 8:21:18 CET [16/08/2023 2:21:18 ET]
+Table '3631989142 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (172 en jetons) 
+Place 2: cdr 91zer (485 en jetons) 
+Place 3: koutchi88 (243 en jetons) 
+koutchi88 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Jc]
+cdr 91zer : suit. 60
+koutchi88 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [8c Jd Td]
+koutchi88 : parole 
+psychoman59 : mise. 112 et est all-in.
+cdr 91zer : suit. 112
+koutchi88 : passe. 
+*** TOURNANT *** [8c Jd Td] [Tc]
+*** RIVIÈRE *** [8c Jd Td Tc] [5d]
+*** ABATTAGE ***
+psychoman59 : montre [4c Jc] (double paire, Valets et Dix)
+cdr 91zer : montre [Qs 7h] (une paire de Dix)
+psychoman59 a remporté 404  lors du pot .
+*** SYNTHÈSE ***
+Pot total 404 | Commission 0 
+Tableau [8c Jd Td Tc 5d]
+Siège 1 : psychoman59 (grosse blind) a montré [4c Jc] et a gagné (404) avec double paire, Valets et Dix
+Siège 2 : cdr 91zer (bouton) a montré [Qs 7h] et a perdu avec une paire de Dix
+Siège 3 : koutchi88 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°245417962742 : Tournoi #3631989142, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/08/2023 8:21:49 CET [16/08/2023 2:21:49 ET]
+Table '3631989142 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (404 en jetons) 
+Place 2: cdr 91zer (313 en jetons) 
+Place 3: koutchi88 (183 en jetons) 
+psychoman59 : met la petite blind. 30
+cdr 91zer : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 3s]
+koutchi88 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à cdr 91zer.
+cdr 91zer a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : cdr 91zer (grosse blind) a remporté (60)
+Siège 3 : koutchi88 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°245417963622 : Tournoi #3631989142, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 16/08/2023 8:21:58 CET [16/08/2023 2:21:58 ET]
+Table '3631989142 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (374 en jetons) 
+Place 2: cdr 91zer (343 en jetons) 
+Place 3: koutchi88 (183 en jetons) 
+cdr 91zer : met la petite blind. 40
+koutchi88 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Td]
+psychoman59 : passe. 
+cdr 91zer : suit. 40
+koutchi88 : parole 
+*** FLOP *** [5s 4c 9c]
+cdr 91zer : mise. 263 et est all-in.
+koutchi88 : suit. 103 et est all-in.
+Personne n'a suivi. (160) sont retournés à cdr 91zer.
+*** TOURNANT *** [5s 4c 9c] [2s]
+*** RIVIÈRE *** [5s 4c 9c 2s] [7c]
+*** ABATTAGE ***
+cdr 91zer : montre [9s 8c] (une paire de Neuf)
+koutchi88 : montre [6c 5h] (une paire de Cinq)
+cdr 91zer a remporté 366  lors du pot .
+koutchi88 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 366 | Commission 0 
+Tableau [5s 4c 9c 2s 7c]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : cdr 91zer (petite blind) a montré [9s 8c] et a gagné (366) avec une paire de Neuf
+Siège 3 : koutchi88 (grosse blind) a montré [6c 5h] et a perdu avec une paire de Cinq
+
+
+
+Main PokerStars n°245417966807 : Tournoi #3631989142, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 16/08/2023 8:22:32 CET [16/08/2023 2:22:32 ET]
+Table '3631989142 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (374 en jetons) 
+Place 2: cdr 91zer (526 en jetons) 
+cdr 91zer : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 7h]
+cdr 91zer : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (80)
+Siège 2 : cdr 91zer (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°245417967433 : Tournoi #3631989142, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 16/08/2023 8:22:39 CET [16/08/2023 2:22:39 ET]
+Table '3631989142 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (414 en jetons) 
+Place 2: cdr 91zer (486 en jetons) 
+psychoman59 : met la petite blind. 40
+cdr 91zer : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 9d]
+psychoman59 : relance. 334 à 414 et est all-in.
+cdr 91zer : passe. 
+Personne n'a suivi. (334) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (160)
+Siège 2 : cdr 91zer (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°245417968752 : Tournoi #3631989142, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 16/08/2023 8:22:53 CET [16/08/2023 2:22:53 ET]
+Table '3631989142 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (494 en jetons) 
+Place 2: cdr 91zer (406 en jetons) 
+cdr 91zer : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Qs]
+cdr 91zer : suit. 40
+psychoman59 : parole 
+*** FLOP *** [Kc Js Kh]
+psychoman59 : mise. 414 et est all-in.
+cdr 91zer : passe. 
+Personne n'a suivi. (414) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Kc Js Kh]
+Siège 1 : psychoman59 (grosse blind) a remporté (160)
+Siège 2 : cdr 91zer (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°245417970593 : Tournoi #3631989142, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 16/08/2023 8:23:13 CET [16/08/2023 2:23:13 ET]
+Table '3631989142 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (574 en jetons) 
+Place 2: cdr 91zer (326 en jetons) 
+psychoman59 : met la petite blind. 50
+cdr 91zer : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 4c]
+psychoman59 : relance. 200 à 300
+cdr 91zer : relance. 26 à 326 et est all-in.
+psychoman59 : suit. 26
+*** FLOP *** [8d 4s Jh]
+*** TOURNANT *** [8d 4s Jh] [Qd]
+*** RIVIÈRE *** [8d 4s Jh Qd] [Kd]
+*** ABATTAGE ***
+cdr 91zer : montre [Qh 4h] (double paire, Dames et Quatre)
+psychoman59 : montre [Ks 4c] (double paire, Rois et Quatre)
+psychoman59 a remporté 652  lors du pot .
+cdr 91zer a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 652 | Commission 0 
+Tableau [8d 4s Jh Qd Kd]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Ks 4c] et a gagné (652) avec double paire, Rois et Quatre
+Siège 2 : cdr 91zer (grosse blind) a montré [Qh 4h] et a perdu avec double paire, Dames et Quatre
+
+
+

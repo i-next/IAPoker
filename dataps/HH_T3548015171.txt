@@ -1,0 +1,176 @@
+﻿Main PokerStars n°241839635312 : Tournoi #3548015171, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 14/02/2023 23:04:43 CET [14/02/2023 17:04:43 ET]
+Table '3548015171 1' 3-max Siège #1 est au bouton.
+Place 1: bisbispo (300 en jetons) ne joue pas.
+Place 2: psychoman59 (300 en jetons) 
+Place 3: gismou319 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+gismou319 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 8c]
+bisbispo : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à gismou319.
+gismou319 a remporté 20  lors du pot .
+gismou319 : ne montre pas sa main. 
+bisbispo est revenu.
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : bisbispo (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : gismou319 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°241839637583 : Tournoi #3548015171, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 14/02/2023 23:04:49 CET [14/02/2023 17:04:49 ET]
+Table '3548015171 1' 3-max Siège #2 est au bouton.
+Place 1: bisbispo (300 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: gismou319 (310 en jetons) 
+gismou319 : met la petite blind. 10
+bisbispo : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 5s]
+psychoman59 : passe. 
+gismou319 : relance. 40 à 60
+bisbispo : suit. 40
+*** FLOP *** [Ks 6s 3h]
+gismou319 : mise. 60
+bisbispo : passe. 
+Personne n'a suivi. (60) sont retournés à gismou319.
+gismou319 a remporté 120  lors du pot .
+gismou319 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Ks 6s 3h]
+Siège 1 : bisbispo (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : gismou319 (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°241839643701 : Tournoi #3548015171, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 14/02/2023 23:05:06 CET [14/02/2023 17:05:06 ET]
+Table '3548015171 1' 3-max Siège #3 est au bouton.
+Place 1: bisbispo (240 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: gismou319 (370 en jetons) 
+bisbispo : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 6d]
+gismou319 : relance. 50 à 70
+bisbispo : passe. 
+psychoman59 : relance. 220 à 290 et est all-in.
+gismou319 : suit. 220
+*** FLOP *** [3d Ks 4d]
+*** TOURNANT *** [3d Ks 4d] [Js]
+*** RIVIÈRE *** [3d Ks 4d Js] [2h]
+*** ABATTAGE ***
+psychoman59 : montre [6s 6d] (une paire de Six)
+gismou319 : montre [As 7s] (Hauteur As)
+psychoman59 a remporté 590  lors du pot .
+*** SYNTHÈSE ***
+Pot total 590 | Commission 0 
+Tableau [3d Ks 4d Js 2h]
+Siège 1 : bisbispo (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a montré [6s 6d] et a gagné (590) avec une paire de Six
+Siège 3 : gismou319 (bouton) a montré [As 7s] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°241839650075 : Tournoi #3548015171, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 14/02/2023 23:05:24 CET [14/02/2023 17:05:24 ET]
+Table '3548015171 1' 3-max Siège #1 est au bouton.
+Place 1: bisbispo (230 en jetons) 
+Place 2: psychoman59 (590 en jetons) 
+Place 3: gismou319 (80 en jetons) 
+psychoman59 : met la petite blind. 10
+gismou319 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 8h]
+bisbispo : relance. 210 à 230 et est all-in.
+psychoman59 : passe. 
+gismou319 : suit. 60 et est all-in.
+Personne n'a suivi. (150) sont retournés à bisbispo.
+*** FLOP *** [4s Kd Kh]
+*** TOURNANT *** [4s Kd Kh] [Qd]
+*** RIVIÈRE *** [4s Kd Kh Qd] [2h]
+*** ABATTAGE ***
+gismou319 : montre [5h Jc] (une paire de Rois)
+bisbispo : montre [As Tc] (une paire de Rois - As kicker)
+bisbispo a remporté 170  lors du pot .
+gismou319 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 170 | Commission 0 
+Tableau [4s Kd Kh Qd 2h]
+Siège 1 : bisbispo (bouton) a montré [As Tc] et a gagné (170) avec une paire de Rois
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : gismou319 (grosse blind) a montré [5h Jc] et a perdu avec une paire de Rois
+
+
+
+Main PokerStars n°241839656899 : Tournoi #3548015171, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 14/02/2023 23:05:42 CET [14/02/2023 17:05:42 ET]
+Table '3548015171 1' 3-max Siège #2 est au bouton.
+Place 1: bisbispo (320 en jetons) 
+Place 2: psychoman59 (580 en jetons) 
+psychoman59 : met la petite blind. 10
+bisbispo : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 7h]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à bisbispo.
+bisbispo a remporté 20  lors du pot .
+bisbispo : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : bisbispo (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241839659848 : Tournoi #3548015171, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 14/02/2023 23:05:50 CET [14/02/2023 17:05:50 ET]
+Table '3548015171 1' 3-max Siège #1 est au bouton.
+Place 1: bisbispo (330 en jetons) 
+Place 2: psychoman59 (570 en jetons) 
+bisbispo : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 6s]
+bisbispo : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : bisbispo (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°241839661843 : Tournoi #3548015171, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 14/02/2023 23:05:56 CET [14/02/2023 17:05:56 ET]
+Table '3548015171 1' 3-max Siège #2 est au bouton.
+Place 1: bisbispo (315 en jetons) 
+Place 2: psychoman59 (585 en jetons) 
+psychoman59 : met la petite blind. 15
+bisbispo : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 4h]
+psychoman59 : suit. 15
+bisbispo : parole 
+*** FLOP *** [Qd 3h 5c]
+bisbispo : parole 
+psychoman59 : mise. 60
+bisbispo : suit. 60
+*** TOURNANT *** [Qd 3h 5c] [7h]
+bisbispo : parole 
+psychoman59 : mise. 90
+bisbispo : passe. 
+Personne n'a suivi. (90) sont retournés à psychoman59.
+psychoman59 a remporté 180  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Qd 3h 5c 7h]
+Siège 1 : bisbispo (grosse blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (180)
+
+
+

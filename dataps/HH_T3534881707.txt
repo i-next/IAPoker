@@ -1,0 +1,331 @@
+﻿Main PokerStars n°241268734989 : Tournoi #3534881707, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/01/2023 11:18:55 CET [20/01/2023 5:18:55 ET]
+Table '3534881707 1' 3-max Siège #1 est au bouton.
+Place 1: JustinPari (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: annabg19 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+annabg19 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Th]
+JustinPari : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à annabg19.
+annabg19 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : JustinPari (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : annabg19 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°241268736669 : Tournoi #3534881707, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/01/2023 11:19:06 CET [20/01/2023 5:19:06 ET]
+Table '3534881707 1' 3-max Siège #2 est au bouton.
+Place 1: JustinPari (300 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: annabg19 (310 en jetons) 
+annabg19 : met la petite blind. 10
+JustinPari : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 5h]
+psychoman59 : passe. 
+annabg19 : suit. 10
+JustinPari : parole 
+*** FLOP *** [Qh As 2d]
+annabg19 : parole 
+JustinPari : mise. 20
+annabg19 : suit. 20
+*** TOURNANT *** [Qh As 2d] [9s]
+annabg19 : parole 
+JustinPari : mise. 20
+annabg19 : suit. 20
+*** RIVIÈRE *** [Qh As 2d 9s] [6c]
+annabg19 : parole 
+JustinPari : mise. 20
+annabg19 : passe. 
+Personne n'a suivi. (20) sont retournés à JustinPari.
+JustinPari a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Qh As 2d 9s 6c]
+Siège 1 : JustinPari (grosse blind) a remporté (120)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : annabg19 (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°241268740660 : Tournoi #3534881707, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/01/2023 11:19:30 CET [20/01/2023 5:19:30 ET]
+Table '3534881707 1' 3-max Siège #3 est au bouton.
+Place 1: JustinPari (360 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: annabg19 (250 en jetons) 
+JustinPari : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 8d]
+annabg19 : relance. 20 à 40
+JustinPari : suit. 30
+psychoman59 : suit. 20
+*** FLOP *** [Kd Ts 8s]
+JustinPari : parole 
+psychoman59 : parole 
+annabg19 : parole 
+*** TOURNANT *** [Kd Ts 8s] [5d]
+JustinPari : parole 
+psychoman59 : parole 
+annabg19 : mise. 20
+JustinPari : suit. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [Kd Ts 8s 5d] [2c]
+JustinPari : mise. 20
+psychoman59 : suit. 20
+annabg19 : relance. 20 à 40
+JustinPari : passe. 
+psychoman59 : suit. 20
+*** ABATTAGE ***
+annabg19 : montre [5c 5h] (un brelan de Cinq)
+psychoman59 : cache la main perdante. 
+annabg19 a remporté 280  lors du pot .
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Tableau [Kd Ts 8s 5d 2c]
+Siège 1 : JustinPari (petite blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (grosse blind) a caché la main perdante. [Ad 8d]
+Siège 3 : annabg19 (bouton) a montré [5c 5h] et a gagné (280) avec un brelan de Cinq
+
+
+
+Main PokerStars n°241268748117 : Tournoi #3534881707, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 20/01/2023 11:20:17 CET [20/01/2023 5:20:17 ET]
+Table '3534881707 1' 3-max Siège #1 est au bouton.
+Place 1: JustinPari (280 en jetons) 
+Place 2: psychoman59 (190 en jetons) 
+Place 3: annabg19 (430 en jetons) 
+psychoman59 : met la petite blind. 15
+annabg19 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Jd]
+JustinPari : passe. 
+psychoman59 : suit. 15
+annabg19 : relance. 30 à 60
+psychoman59 : suit. 30
+*** FLOP *** [2s 7d Kh]
+psychoman59 : parole 
+annabg19 : parole 
+*** TOURNANT *** [2s 7d Kh] [4d]
+psychoman59 : parole 
+annabg19 : parole 
+*** RIVIÈRE *** [2s 7d Kh 4d] [Ks]
+psychoman59 : parole 
+annabg19 : mise. 30
+psychoman59 : suit. 30
+*** ABATTAGE ***
+annabg19 : montre [Ad Qs] (une paire de Rois)
+psychoman59 : cache la main perdante. 
+annabg19 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [2s 7d Kh 4d Ks]
+Siège 1 : JustinPari (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a caché la main perdante. [Th Jd]
+Siège 3 : annabg19 (grosse blind) a montré [Ad Qs] et a gagné (180) avec une paire de Rois
+
+
+
+Main PokerStars n°241268752512 : Tournoi #3534881707, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 20/01/2023 11:20:44 CET [20/01/2023 5:20:44 ET]
+Table '3534881707 1' 3-max Siège #2 est au bouton.
+Place 1: JustinPari (280 en jetons) 
+Place 2: psychoman59 (100 en jetons) 
+Place 3: annabg19 (520 en jetons) 
+annabg19 : met la petite blind. 15
+JustinPari : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 8c]
+psychoman59 : relance. 70 à 100 et est all-in.
+annabg19 : suit. 85
+JustinPari : relance. 180 à 280 et est all-in.
+annabg19 : passe. 
+Personne n'a suivi. (180) sont retournés à JustinPari.
+*** FLOP *** [Ad Qd 9d]
+*** TOURNANT *** [Ad Qd 9d] [Th]
+*** RIVIÈRE *** [Ad Qd 9d Th] [Jh]
+*** ABATTAGE ***
+JustinPari : montre [Ts As] (double paire, As et Dix)
+psychoman59 : montre [8s 8c] (une suite, Huit à Dame)
+psychoman59 a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [Ad Qd 9d Th Jh]
+Siège 1 : JustinPari (grosse blind) a montré [Ts As] et a perdu avec double paire, As et Dix
+Siège 2 : psychoman59 (bouton) a montré [8s 8c] et a gagné (300) avec une suite, Huit à Dame
+Siège 3 : annabg19 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241268756285 : Tournoi #3534881707, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 20/01/2023 11:21:07 CET [20/01/2023 5:21:07 ET]
+Table '3534881707 1' 3-max Siège #3 est au bouton.
+Place 1: JustinPari (180 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: annabg19 (420 en jetons) 
+JustinPari : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 6d]
+annabg19 : suit. 40
+JustinPari : suit. 20
+psychoman59 : relance. 260 à 300 et est all-in.
+annabg19 : passe. 
+JustinPari : passe. 
+Personne n'a suivi. (260) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : JustinPari (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (120)
+Siège 3 : annabg19 (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241268758445 : Tournoi #3534881707, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 20/01/2023 11:21:21 CET [20/01/2023 5:21:21 ET]
+Table '3534881707 1' 3-max Siège #1 est au bouton.
+Place 1: JustinPari (140 en jetons) 
+Place 2: psychoman59 (380 en jetons) 
+Place 3: annabg19 (380 en jetons) 
+psychoman59 : met la petite blind. 20
+annabg19 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Ks]
+JustinPari : passe. 
+psychoman59 : suit. 20
+annabg19 : relance. 40 à 80
+psychoman59 : relance. 300 à 380 et est all-in.
+annabg19 : suit. 300 et est all-in.
+*** FLOP *** [8d 7s 4d]
+*** TOURNANT *** [8d 7s 4d] [7h]
+*** RIVIÈRE *** [8d 7s 4d 7h] [5d]
+*** ABATTAGE ***
+psychoman59 : montre [6s Ks] (une suite, Quatre à Huit)
+annabg19 : montre [Kd Qs] (une paire de Sept)
+psychoman59 a remporté 760  lors du pot .
+annabg19 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 760 | Commission 0 
+Tableau [8d 7s 4d 7h 5d]
+Siège 1 : JustinPari (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [6s Ks] et a gagné (760) avec une suite, Quatre à Huit
+Siège 3 : annabg19 (grosse blind) a montré [Kd Qs] et a perdu avec une paire de Sept
+
+
+
+Main PokerStars n°241268762020 : Tournoi #3534881707, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 20/01/2023 11:21:43 CET [20/01/2023 5:21:43 ET]
+Table '3534881707 1' 3-max Siège #2 est au bouton.
+Place 1: JustinPari (140 en jetons) 
+Place 2: psychoman59 (760 en jetons) 
+psychoman59 : met la petite blind. 20
+JustinPari : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 4c]
+psychoman59 : relance. 720 à 760 et est all-in.
+JustinPari : suit. 100 et est all-in.
+Personne n'a suivi. (620) sont retournés à psychoman59.
+*** FLOP *** [6s Td 8d]
+*** TOURNANT *** [6s Td 8d] [Th]
+*** RIVIÈRE *** [6s Td 8d Th] [Ah]
+*** ABATTAGE ***
+JustinPari : montre [Ad Ts] (un full, full aux Dix par les As)
+psychoman59 : montre [Kc 4c] (une paire de Dix)
+JustinPari a remporté 280  lors du pot .
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Tableau [6s Td 8d Th Ah]
+Siège 1 : JustinPari (grosse blind) a montré [Ad Ts] et a gagné (280) avec un full, full aux Dix par les As
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Kc 4c] et a perdu avec une paire de Dix
+
+
+
+Main PokerStars n°241268764693 : Tournoi #3534881707, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 20/01/2023 11:22:00 CET [20/01/2023 5:22:00 ET]
+Table '3534881707 1' 3-max Siège #1 est au bouton.
+Place 1: JustinPari (280 en jetons) 
+Place 2: psychoman59 (620 en jetons) 
+JustinPari : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Jc]
+JustinPari : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : JustinPari (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°241268765349 : Tournoi #3534881707, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 20/01/2023 11:22:04 CET [20/01/2023 5:22:04 ET]
+Table '3534881707 1' 3-max Siège #2 est au bouton.
+Place 1: JustinPari (250 en jetons) 
+Place 2: psychoman59 (650 en jetons) 
+psychoman59 : met la petite blind. 30
+JustinPari : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Th]
+psychoman59 : relance. 590 à 650 et est all-in.
+JustinPari : passe. 
+Personne n'a suivi. (590) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : JustinPari (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°241268766401 : Tournoi #3534881707, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 20/01/2023 11:22:10 CET [20/01/2023 5:22:10 ET]
+Table '3534881707 1' 3-max Siège #1 est au bouton.
+Place 1: JustinPari (190 en jetons) 
+Place 2: psychoman59 (710 en jetons) 
+JustinPari : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 6d]
+JustinPari : relance. 120 à 180
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à JustinPari.
+JustinPari a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : JustinPari (bouton) (petite blind) a remporté (120)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241268767372 : Tournoi #3534881707, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 20/01/2023 11:22:16 CET [20/01/2023 5:22:16 ET]
+Table '3534881707 1' 3-max Siège #2 est au bouton.
+Place 1: JustinPari (250 en jetons) 
+Place 2: psychoman59 (650 en jetons) 
+psychoman59 : met la petite blind. 30
+JustinPari : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 8s]
+psychoman59 : relance. 590 à 650 et est all-in.
+JustinPari : suit. 190 et est all-in.
+Personne n'a suivi. (400) sont retournés à psychoman59.
+*** FLOP *** [3s 4s 8h]
+*** TOURNANT *** [3s 4s 8h] [6h]
+*** RIVIÈRE *** [3s 4s 8h 6h] [Ac]
+*** ABATTAGE ***
+JustinPari : montre [Th 2d] (Hauteur As)
+psychoman59 : montre [Ah 8s] (double paire, As et Huit)
+psychoman59 a remporté 500  lors du pot .
+JustinPari a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Tableau [3s 4s 8h 6h Ac]
+Siège 1 : JustinPari (grosse blind) a montré [Th 2d] et a perdu avec Hauteur As
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Ah 8s] et a gagné (500) avec double paire, As et Huit
+
+
+

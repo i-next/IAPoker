@@ -1,0 +1,115 @@
+﻿Main PokerStars n°258546692180 : Tournoi #3947907950, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 17/11/2025 7:37:34 CET [17/11/2025 1:37:34 ET]
+Table '3947907950 1' 3-max Siège #1 est au bouton.
+Place 1: durupt (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: najas88 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+najas88 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Qh]
+durupt : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à najas88.
+najas88 a remporté 20  lors du pot .
+najas88 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : durupt (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : najas88 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°258546692480 : Tournoi #3947907950, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 17/11/2025 7:37:40 CET [17/11/2025 1:37:40 ET]
+Table '3947907950 1' 3-max Siège #2 est au bouton.
+Place 1: durupt (500 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: najas88 (510 en jetons) 
+najas88 : met la petite blind. 10
+durupt : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 2s]
+psychoman59 : suit. 20
+najas88 : suit. 10
+durupt : parole 
+*** FLOP *** [8h Kd Td]
+najas88 : parole 
+durupt : parole 
+psychoman59 : mise. 30
+najas88 : suit. 30
+durupt : suit. 30
+*** TOURNANT *** [8h Kd Td] [6s]
+najas88 : parole 
+durupt : parole 
+psychoman59 : mise. 75
+najas88 : suit. 75
+durupt : passe. 
+*** RIVIÈRE *** [8h Kd Td 6s] [Qd]
+najas88 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+najas88 : montre [9h 8s] (une paire de Huit)
+psychoman59 : cache la main perdante. 
+najas88 a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [8h Kd Td 6s Qd]
+Siège 1 : durupt (grosse blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (bouton) a caché la main perdante. [As 2s]
+Siège 3 : najas88 (petite blind) a montré [9h 8s] et a gagné (300) avec une paire de Huit
+
+
+
+Main PokerStars n°258546695386 : Tournoi #3947907950, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 17/11/2025 7:38:39 CET [17/11/2025 1:38:39 ET]
+Table '3947907950 1' 3-max Siège #3 est au bouton.
+Place 1: durupt (450 en jetons) 
+Place 2: psychoman59 (365 en jetons) 
+Place 3: najas88 (685 en jetons) 
+durupt : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 6h]
+najas88 : relance. 665 à 685 et est all-in.
+durupt : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (665) sont retournés à najas88.
+najas88 a remporté 50  lors du pot .
+najas88 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : durupt (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : najas88 (bouton) a remporté (50)
+
+
+
+Main PokerStars n°258546695812 : Tournoi #3947907950, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 17/11/2025 7:38:48 CET [17/11/2025 1:38:48 ET]
+Table '3947907950 1' 3-max Siège #1 est au bouton.
+Place 1: durupt (440 en jetons) 
+Place 2: psychoman59 (345 en jetons) 
+Place 3: najas88 (715 en jetons) 
+psychoman59 : met la petite blind. 10
+najas88 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Ac]
+durupt : relance. 20 à 40
+psychoman59 : relance. 305 à 345 et est all-in.
+najas88 : passe. 
+durupt : suit. 305
+*** FLOP *** [Ts 7s 6c]
+*** TOURNANT *** [Ts 7s 6c] [Tc]
+*** RIVIÈRE *** [Ts 7s 6c Tc] [Js]
+*** ABATTAGE ***
+psychoman59 : montre [9d Ac] (une paire de Dix)
+durupt : montre [As 9s] (une couleur, hauteur As)
+durupt a remporté 710  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 710 | Commission 0 
+Tableau [Ts 7s 6c Tc Js]
+Siège 1 : durupt (bouton) a montré [As 9s] et a gagné (710) avec une couleur, hauteur As
+Siège 2 : psychoman59 (petite blind) a montré [9d Ac] et a perdu avec une paire de Dix
+Siège 3 : najas88 (grosse blind) s'est couché. avant Flop
+
+
+

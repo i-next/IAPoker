@@ -1,0 +1,95 @@
+﻿Main PokerStars n°243000183940 : Tournoi #3575382692, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/04/2023 8:38:05 CET [10/04/2023 2:38:05 ET]
+Table '3575382692 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: rivermancries (300 en jetons) 
+Place 3: zazous26 (300 en jetons) 
+rivermancries : met la petite blind. 10
+zazous26 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Jh]
+psychoman59 : suit. 20
+rivermancries : suit. 10
+zazous26 : parole 
+*** FLOP *** [Qh 6c Tc]
+rivermancries : parole 
+zazous26 : parole 
+psychoman59 : mise. 60
+rivermancries : passe. 
+zazous26 : suit. 60
+*** TOURNANT *** [Qh 6c Tc] [3d]
+zazous26 : parole 
+psychoman59 : mise. 90
+zazous26 : passe. 
+Personne n'a suivi. (90) sont retournés à psychoman59.
+psychoman59 a remporté 180  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Qh 6c Tc 3d]
+Siège 1 : psychoman59 (bouton) a remporté (180)
+Siège 2 : rivermancries (petite blind) s'est couché. sur le Flop
+Siège 3 : zazous26 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°243000186364 : Tournoi #3575382692, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/04/2023 8:38:29 CET [10/04/2023 2:38:29 ET]
+Table '3575382692 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (400 en jetons) 
+Place 2: rivermancries (280 en jetons) 
+Place 3: zazous26 (220 en jetons) 
+zazous26 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Jd]
+rivermancries : suit. 20
+zazous26 : suit. 10
+psychoman59 : relance. 380 à 400 et est all-in.
+rivermancries : suit. 260 et est all-in.
+zazous26 : suit. 200 et est all-in.
+Personne n'a suivi. (120) sont retournés à psychoman59.
+*** FLOP *** [5c 4s Ah]
+*** TOURNANT *** [5c 4s Ah] [Qh]
+*** RIVIÈRE *** [5c 4s Ah Qh] [7s]
+*** ABATTAGE ***
+psychoman59 : montre [Js Jd] (une paire de Valets)
+rivermancries : montre [Qd Qs] (un brelan de Dames)
+rivermancries a remporté 120  parallèle lors du pot .
+zazous26 : montre [7h Kc] (une paire de Sept)
+rivermancries a remporté 660  principal lors du pot .
+zazous26 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 780 Principal pot 660. Parallèle pot 120. | Commission 0 
+Tableau [5c 4s Ah Qh 7s]
+Siège 1 : psychoman59 (grosse blind) a montré [Js Jd] et a perdu avec une paire de Valets
+Siège 2 : rivermancries (bouton) a montré [Qd Qs] et a gagné (780) avec un brelan de Dames
+Siège 3 : zazous26 (petite blind) a montré [7h Kc] et a perdu avec une paire de Sept
+
+
+
+Main PokerStars n°243000188573 : Tournoi #3575382692, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/04/2023 8:38:50 CET [10/04/2023 2:38:50 ET]
+Table '3575382692 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (120 en jetons) 
+Place 2: rivermancries (780 en jetons) 
+psychoman59 : met la petite blind. 10
+rivermancries : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Ah]
+psychoman59 : relance. 100 à 120 et est all-in.
+rivermancries : suit. 100
+*** FLOP *** [Td 4s 8h]
+*** TOURNANT *** [Td 4s 8h] [4c]
+*** RIVIÈRE *** [Td 4s 8h 4c] [2s]
+*** ABATTAGE ***
+rivermancries : montre [Qc As] (une paire de Quatre)
+psychoman59 : montre [3h Ah] (une paire de Quatre - plus basse kicker)
+rivermancries a remporté 240  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+rivermancries remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Td 4s 8h 4c 2s]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [3h Ah] et a perdu avec une paire de Quatre
+Siège 2 : rivermancries (grosse blind) a montré [Qc As] et a gagné (240) avec une paire de Quatre
+
+
+

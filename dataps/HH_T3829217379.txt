@@ -1,0 +1,276 @@
+﻿Main PokerStars n°253650237360 : Tournoi #3829217379, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 01/12/2024 8:43:24 CET [01/12/2024 2:43:24 ET]
+Table '3829217379 1' 3-max Siège #1 est au bouton.
+Place 1: Cnicienta (500 en jetons) 
+Place 2: Sisi94120 (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+Sisi94120 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 9c]
+Cnicienta : passe. 
+Sisi94120 : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : Cnicienta (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Sisi94120 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°253650237793 : Tournoi #3829217379, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 01/12/2024 8:43:29 CET [01/12/2024 2:43:29 ET]
+Table '3829217379 1' 3-max Siège #2 est au bouton.
+Place 1: Cnicienta (500 en jetons) 
+Place 2: Sisi94120 (490 en jetons) 
+Place 3: psychoman59 (510 en jetons) 
+psychoman59 : met la petite blind. 10
+Cnicienta : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 3h]
+Sisi94120 : relance. 470 à 490 et est all-in.
+psychoman59 : passe. 
+Cnicienta : passe. 
+Personne n'a suivi. (470) sont retournés à Sisi94120.
+Sisi94120 a remporté 50  lors du pot .
+Sisi94120 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : Cnicienta (grosse blind) s'est couché. avant Flop
+Siège 2 : Sisi94120 (bouton) a remporté (50)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°253650238454 : Tournoi #3829217379, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 01/12/2024 8:43:38 CET [01/12/2024 2:43:38 ET]
+Table '3829217379 1' 3-max Siège #3 est au bouton.
+Place 1: Cnicienta (480 en jetons) 
+Place 2: Sisi94120 (520 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+Cnicienta : met la petite blind. 10
+Sisi94120 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Ts]
+psychoman59 : suit. 20
+Cnicienta : suit. 10
+Sisi94120 : parole 
+*** FLOP *** [Qc 9h 7d]
+Cnicienta : parole 
+Sisi94120 : parole 
+psychoman59 : mise. 30
+Cnicienta : suit. 30
+Sisi94120 : passe. 
+*** TOURNANT *** [Qc 9h 7d] [2c]
+Cnicienta : parole 
+psychoman59 : mise. 60
+Cnicienta : suit. 60
+*** RIVIÈRE *** [Qc 9h 7d 2c] [4s]
+Cnicienta : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Cnicienta : montre [Kc 3c] (Hauteur Roi)
+psychoman59 : montre [9c Ts] (une paire de Neuf)
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Qc 9h 7d 2c 4s]
+Siège 1 : Cnicienta (petite blind) a montré [Kc 3c] et a perdu avec Hauteur Roi
+Siège 2 : Sisi94120 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) a montré [9c Ts] et a gagné (240) avec une paire de Neuf
+
+
+
+Main PokerStars n°253650240665 : Tournoi #3829217379, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 01/12/2024 8:44:05 CET [01/12/2024 2:44:05 ET]
+Table '3829217379 1' 3-max Siège #1 est au bouton.
+Place 1: Cnicienta (370 en jetons) 
+Place 2: Sisi94120 (500 en jetons) 
+Place 3: psychoman59 (630 en jetons) 
+Sisi94120 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 4s]
+Cnicienta : relance. 350 à 370 et est all-in.
+Sisi94120 : relance. 130 à 500 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (130) sont retournés à Sisi94120.
+*** FLOP *** [9h 4c 6s]
+*** TOURNANT *** [9h 4c 6s] [Qd]
+*** RIVIÈRE *** [9h 4c 6s Qd] [4h]
+*** ABATTAGE ***
+Sisi94120 : montre [7c Ad] (une paire de Quatre)
+Cnicienta : montre [8c 8h] (double paire, Huit et Quatre)
+Cnicienta a remporté 760  lors du pot .
+*** SYNTHÈSE ***
+Pot total 760 | Commission 0 
+Tableau [9h 4c 6s Qd 4h]
+Siège 1 : Cnicienta (bouton) a montré [8c 8h] et a gagné (760) avec double paire, Huit et Quatre
+Siège 2 : Sisi94120 (petite blind) a montré [7c Ad] et a perdu avec une paire de Quatre
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°253650241938 : Tournoi #3829217379, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 01/12/2024 8:44:22 CET [01/12/2024 2:44:22 ET]
+Table '3829217379 1' 3-max Siège #2 est au bouton.
+Place 1: Cnicienta (760 en jetons) 
+Place 2: Sisi94120 (130 en jetons) 
+Place 3: psychoman59 (610 en jetons) 
+psychoman59 : met la petite blind. 10
+Cnicienta : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 3c]
+Sisi94120 : relance. 110 à 130 et est all-in.
+psychoman59 : suit. 120
+Cnicienta : passe. 
+*** FLOP *** [9c 9h Qs]
+*** TOURNANT *** [9c 9h Qs] [As]
+*** RIVIÈRE *** [9c 9h Qs As] [7s]
+*** ABATTAGE ***
+psychoman59 : montre [Ah 3c] (double paire, As et Neuf)
+Sisi94120 : montre [7c Ac] (double paire, As et Neuf)
+psychoman59 a remporté 140  lors du pot .
+Sisi94120 a remporté 140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Tableau [9c 9h Qs As 7s]
+Siège 1 : Cnicienta (grosse blind) s'est couché. avant Flop
+Siège 2 : Sisi94120 (bouton) a montré [7c Ac] et a gagné (140) avec double paire, As et Neuf
+Siège 3 : psychoman59 (petite blind) a montré [Ah 3c] et a gagné (140) avec double paire, As et Neuf
+
+
+
+Main PokerStars n°253650243492 : Tournoi #3829217379, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 01/12/2024 8:44:41 CET [01/12/2024 2:44:41 ET]
+Table '3829217379 1' 3-max Siège #3 est au bouton.
+Place 1: Cnicienta (740 en jetons) 
+Place 2: Sisi94120 (140 en jetons) 
+Place 3: psychoman59 (620 en jetons) 
+Cnicienta : met la petite blind. 10
+Sisi94120 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 7c]
+psychoman59 : passe. 
+Cnicienta : relance. 720 à 740 et est all-in.
+Sisi94120 : suit. 120 et est all-in.
+Personne n'a suivi. (600) sont retournés à Cnicienta.
+*** FLOP *** [Ks Ts Kc]
+*** TOURNANT *** [Ks Ts Kc] [4s]
+*** RIVIÈRE *** [Ks Ts Kc 4s] [4h]
+*** ABATTAGE ***
+Cnicienta : montre [6c 6d] (double paire, Rois et Six)
+Sisi94120 : montre [8h 8d] (double paire, Rois et Huit)
+Sisi94120 a remporté 280  lors du pot .
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Tableau [Ks Ts Kc 4s 4h]
+Siège 1 : Cnicienta (petite blind) a montré [6c 6d] et a perdu avec double paire, Rois et Six
+Siège 2 : Sisi94120 (grosse blind) a montré [8h 8d] et a gagné (280) avec double paire, Rois et Huit
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°253650244764 : Tournoi #3829217379, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 01/12/2024 8:44:58 CET [01/12/2024 2:44:58 ET]
+Table '3829217379 1' 3-max Siège #1 est au bouton.
+Place 1: Cnicienta (600 en jetons) 
+Place 2: Sisi94120 (280 en jetons) 
+Place 3: psychoman59 (620 en jetons) 
+Sisi94120 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 5c]
+Cnicienta : relance. 580 à 600 et est all-in.
+Sisi94120 : suit. 270 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (320) sont retournés à Cnicienta.
+*** FLOP *** [Qs Ts 3s]
+*** TOURNANT *** [Qs Ts 3s] [Qd]
+*** RIVIÈRE *** [Qs Ts 3s Qd] [6c]
+*** ABATTAGE ***
+Sisi94120 : montre [Qc 2c] (un brelan de Dames)
+Cnicienta : montre [As 9d] (une paire de Dames)
+Sisi94120 a remporté 580  lors du pot .
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [Qs Ts 3s Qd 6c]
+Siège 1 : Cnicienta (bouton) a montré [As 9d] et a perdu avec une paire de Dames
+Siège 2 : Sisi94120 (petite blind) a montré [Qc 2c] et a gagné (580) avec un brelan de Dames
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°253650245946 : Tournoi #3829217379, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 01/12/2024 8:45:13 CET [01/12/2024 2:45:13 ET]
+Table '3829217379 1' 3-max Siège #2 est au bouton.
+Place 1: Cnicienta (320 en jetons) 
+Place 2: Sisi94120 (580 en jetons) 
+Place 3: psychoman59 (600 en jetons) 
+psychoman59 : met la petite blind. 10
+Cnicienta : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 9c]
+Sisi94120 : passe. 
+psychoman59 : suit. 10
+Cnicienta : relance. 300 à 320 et est all-in.
+psychoman59 : suit. 300
+*** FLOP *** [Kc 6c 9s]
+*** TOURNANT *** [Kc 6c 9s] [As]
+*** RIVIÈRE *** [Kc 6c 9s As] [Ts]
+*** ABATTAGE ***
+psychoman59 : montre [Kh 9c] (double paire, Rois et Neuf)
+Cnicienta : montre [Jd Ad] (une paire de As)
+psychoman59 a remporté 640  lors du pot .
+Cnicienta a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [Kc 6c 9s As Ts]
+Siège 1 : Cnicienta (grosse blind) a montré [Jd Ad] et a perdu avec une paire de As
+Siège 2 : Sisi94120 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [Kh 9c] et a gagné (640) avec double paire, Rois et Neuf
+
+
+
+Main PokerStars n°253650247533 : Tournoi #3829217379, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 01/12/2024 8:45:33 CET [01/12/2024 2:45:33 ET]
+Table '3829217379 1' 3-max Siège #3 est au bouton.
+Place 2: Sisi94120 (580 en jetons) 
+Place 3: psychoman59 (920 en jetons) 
+psychoman59 : met la petite blind. 15
+Sisi94120 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td As]
+psychoman59 : relance. 60 à 90
+Sisi94120 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : Sisi94120 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°253650248051 : Tournoi #3829217379, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 01/12/2024 8:45:39 CET [01/12/2024 2:45:39 ET]
+Table '3829217379 1' 3-max Siège #2 est au bouton.
+Place 2: Sisi94120 (550 en jetons) 
+Place 3: psychoman59 (950 en jetons) 
+Sisi94120 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 8s]
+Sisi94120 : relance. 520 à 550 et est all-in.
+psychoman59 : suit. 520
+*** FLOP *** [9d Qd Td]
+*** TOURNANT *** [9d Qd Td] [7h]
+*** RIVIÈRE *** [9d Qd Td 7h] [6c]
+*** ABATTAGE ***
+psychoman59 : montre [8h 8s] (une suite, Six à Dix)
+Sisi94120 : montre [4s Ah] (Hauteur As)
+psychoman59 a remporté 1100  lors du pot .
+Sisi94120 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 0.50 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 1100 | Commission 0 
+Tableau [9d Qd Td 7h 6c]
+Siège 2 : Sisi94120 (bouton) (petite blind) a montré [4s Ah] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (grosse blind) a montré [8h 8s] et a gagné (1100) avec une suite, Six à Dix
+
+
+

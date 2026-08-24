@@ -1,0 +1,493 @@
+﻿Main PokerStars n°258045256313 : Tournoi #3935110815, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/10/2025 14:41:22 CET [08/10/2025 8:41:22 ET]
+Table '3935110815 1' 3-max Siège #1 est au bouton.
+Place 1: poker_orihue (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: JOHN63200 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+JOHN63200 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Kh]
+poker_orihue : suit. 20
+psychoman59 : suit. 10
+JOHN63200 : parole 
+*** FLOP *** [Js Td 8c]
+psychoman59 : parole 
+JOHN63200 : parole 
+poker_orihue : parole 
+*** TOURNANT *** [Js Td 8c] [4s]
+psychoman59 : parole 
+JOHN63200 : parole 
+poker_orihue : parole 
+*** RIVIÈRE *** [Js Td 8c 4s] [Th]
+psychoman59 : parole 
+JOHN63200 : parole 
+poker_orihue : parole 
+*** ABATTAGE ***
+psychoman59 : montre [7d Kh] (une paire de Dix)
+JOHN63200 : montre [8s 3c] (double paire, Dix et Huit)
+poker_orihue : cache la main perdante. 
+JOHN63200 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Js Td 8c 4s Th]
+Siège 1 : poker_orihue (bouton) a caché la main perdante. [As 6d]
+Siège 2 : psychoman59 (petite blind) a montré [7d Kh] et a perdu avec une paire de Dix
+Siège 3 : JOHN63200 (grosse blind) a montré [8s 3c] et a gagné (60) avec double paire, Dix et Huit
+
+
+
+Main PokerStars n°258045260553 : Tournoi #3935110815, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/10/2025 14:41:55 CET [08/10/2025 8:41:55 ET]
+Table '3935110815 1' 3-max Siège #2 est au bouton.
+Place 1: poker_orihue (480 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+Place 3: JOHN63200 (540 en jetons) 
+JOHN63200 : met la petite blind. 10
+poker_orihue : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 7d]
+psychoman59 : passe. 
+JOHN63200 : suit. 10
+poker_orihue : parole 
+*** FLOP *** [As Th 4c]
+JOHN63200 : parole 
+poker_orihue : parole 
+*** TOURNANT *** [As Th 4c] [8h]
+JOHN63200 : parole 
+poker_orihue : parole 
+*** RIVIÈRE *** [As Th 4c 8h] [3c]
+JOHN63200 : parole 
+poker_orihue : parole 
+*** ABATTAGE ***
+JOHN63200 : montre [7c 8s] (une paire de Huit)
+poker_orihue : cache la main perdante. 
+JOHN63200 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [As Th 4c 8h 3c]
+Siège 1 : poker_orihue (grosse blind) a caché la main perdante. [3s Jc]
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : JOHN63200 (petite blind) a montré [7c 8s] et a gagné (40) avec une paire de Huit
+
+
+
+Main PokerStars n°258045263679 : Tournoi #3935110815, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/10/2025 14:42:19 CET [08/10/2025 8:42:19 ET]
+Table '3935110815 1' 3-max Siège #3 est au bouton.
+Place 1: poker_orihue (460 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+Place 3: JOHN63200 (560 en jetons) 
+poker_orihue : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 8d]
+JOHN63200 : suit. 20
+poker_orihue : passe. 
+psychoman59 : parole 
+*** FLOP *** [Kh 4d 6d]
+psychoman59 : parole 
+JOHN63200 : parole 
+*** TOURNANT *** [Kh 4d 6d] [8s]
+psychoman59 : mise. 50
+JOHN63200 : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [Kh 4d 6d 8s]
+Siège 1 : poker_orihue (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (50)
+Siège 3 : JOHN63200 (bouton) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°258045266990 : Tournoi #3935110815, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/10/2025 14:42:44 CET [08/10/2025 8:42:44 ET]
+Table '3935110815 1' 3-max Siège #1 est au bouton.
+Place 1: poker_orihue (450 en jetons) 
+Place 2: psychoman59 (510 en jetons) 
+Place 3: JOHN63200 (540 en jetons) 
+psychoman59 : met la petite blind. 10
+JOHN63200 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 7h]
+poker_orihue : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à JOHN63200.
+JOHN63200 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : poker_orihue (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : JOHN63200 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°258045267969 : Tournoi #3935110815, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/10/2025 14:42:52 CET [08/10/2025 8:42:52 ET]
+Table '3935110815 1' 3-max Siège #2 est au bouton.
+Place 1: poker_orihue (450 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: JOHN63200 (550 en jetons) 
+JOHN63200 : met la petite blind. 10
+poker_orihue : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 5h]
+psychoman59 : passe. 
+JOHN63200 : suit. 10
+poker_orihue : parole 
+*** FLOP *** [5c 2c Js]
+JOHN63200 : parole 
+poker_orihue : mise. 40
+JOHN63200 : passe. 
+Personne n'a suivi. (40) sont retournés à poker_orihue.
+poker_orihue a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [5c 2c Js]
+Siège 1 : poker_orihue (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : JOHN63200 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°258045271054 : Tournoi #3935110815, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/10/2025 14:43:15 CET [08/10/2025 8:43:15 ET]
+Table '3935110815 1' 3-max Siège #3 est au bouton.
+Place 1: poker_orihue (470 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: JOHN63200 (530 en jetons) 
+poker_orihue : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 8h]
+JOHN63200 : relance. 20 à 40
+poker_orihue : suit. 30
+psychoman59 : passe. 
+*** FLOP *** [8d 5d Qh]
+poker_orihue : parole 
+JOHN63200 : parole 
+*** TOURNANT *** [8d 5d Qh] [6h]
+poker_orihue : parole 
+JOHN63200 : mise. 50
+poker_orihue : suit. 50
+*** RIVIÈRE *** [8d 5d Qh 6h] [Ah]
+poker_orihue : parole 
+JOHN63200 : mise. 100
+poker_orihue : passe. 
+Personne n'a suivi. (100) sont retournés à JOHN63200.
+JOHN63200 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [8d 5d Qh 6h Ah]
+Siège 1 : poker_orihue (petite blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : JOHN63200 (bouton) a remporté (200)
+
+
+
+Main PokerStars n°258045273821 : Tournoi #3935110815, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/10/2025 14:43:36 CET [08/10/2025 8:43:36 ET]
+Table '3935110815 1' 3-max Siège #1 est au bouton.
+Place 1: poker_orihue (380 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+Place 3: JOHN63200 (640 en jetons) 
+psychoman59 : met la petite blind. 10
+JOHN63200 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 8c]
+poker_orihue : passe. 
+psychoman59 : suit. 10
+JOHN63200 : parole 
+*** FLOP *** [8d Ts 6s]
+psychoman59 : parole 
+JOHN63200 : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [8d Ts 6s] [Kc]
+psychoman59 : parole 
+JOHN63200 : mise. 40
+psychoman59 : suit. 40
+*** RIVIÈRE *** [8d Ts 6s Kc] [Js]
+psychoman59 : parole 
+JOHN63200 : mise. 80
+psychoman59 : suit. 80
+*** ABATTAGE ***
+JOHN63200 : montre [Ks 3s] (une couleur, hauteur Roi)
+psychoman59 : cache la main perdante. 
+JOHN63200 a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [8d Ts 6s Kc Js]
+Siège 1 : poker_orihue (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a caché la main perdante. [9c 8c]
+Siège 3 : JOHN63200 (grosse blind) a montré [Ks 3s] et a gagné (320) avec une couleur, hauteur Roi
+
+
+
+Main PokerStars n°258045278671 : Tournoi #3935110815, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/10/2025 14:44:14 CET [08/10/2025 8:44:14 ET]
+Table '3935110815 1' 3-max Siège #2 est au bouton.
+Place 1: poker_orihue (380 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: JOHN63200 (800 en jetons) 
+JOHN63200 : met la petite blind. 10
+poker_orihue : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 2c]
+psychoman59 : passe. 
+JOHN63200 : suit. 10
+poker_orihue : parole 
+*** FLOP *** [Th 3s 6s]
+JOHN63200 : parole 
+poker_orihue : parole 
+*** TOURNANT *** [Th 3s 6s] [Kh]
+JOHN63200 : parole 
+poker_orihue : parole 
+*** RIVIÈRE *** [Th 3s 6s Kh] [6c]
+JOHN63200 : mise. 20
+poker_orihue : suit. 20
+*** ABATTAGE ***
+JOHN63200 : montre [Jd Ah] (une paire de Six)
+poker_orihue : montre [5d Tc] (double paire, Dix et Six)
+poker_orihue a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Th 3s 6s Kh 6c]
+Siège 1 : poker_orihue (grosse blind) a montré [5d Tc] et a gagné (80) avec double paire, Dix et Six
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : JOHN63200 (petite blind) a montré [Jd Ah] et a perdu avec une paire de Six
+
+
+
+Main PokerStars n°258045281810 : Tournoi #3935110815, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/10/2025 14:44:37 CET [08/10/2025 8:44:37 ET]
+Table '3935110815 1' 3-max Siège #3 est au bouton.
+Place 1: poker_orihue (420 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: JOHN63200 (760 en jetons) 
+poker_orihue : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 4c]
+JOHN63200 : suit. 30
+poker_orihue : passe. 
+psychoman59 : parole 
+*** FLOP *** [Jh As 4h]
+psychoman59 : parole 
+JOHN63200 : parole 
+*** TOURNANT *** [Jh As 4h] [8c]
+psychoman59 : parole 
+JOHN63200 : parole 
+*** RIVIÈRE *** [Jh As 4h 8c] [8h]
+psychoman59 : parole 
+JOHN63200 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Qd 4c] (double paire, Huit et Quatre)
+JOHN63200 : montre [3d 4d] (double paire, Huit et Quatre)
+psychoman59 a remporté 38  lors du pot .
+JOHN63200 a remporté 37  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Tableau [Jh As 4h 8c 8h]
+Siège 1 : poker_orihue (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a montré [Qd 4c] et a gagné (38) avec double paire, Huit et Quatre
+Siège 3 : JOHN63200 (bouton) a montré [3d 4d] et a gagné (37) avec double paire, Huit et Quatre
+
+
+
+Main PokerStars n°258045285086 : Tournoi #3935110815, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/10/2025 14:45:03 CET [08/10/2025 8:45:03 ET]
+Table '3935110815 1' 3-max Siège #1 est au bouton.
+Place 1: poker_orihue (405 en jetons) 
+Place 2: psychoman59 (328 en jetons) 
+Place 3: JOHN63200 (767 en jetons) 
+psychoman59 : met la petite blind. 15
+JOHN63200 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Td]
+poker_orihue : suit. 30
+psychoman59 : passe. 
+JOHN63200 : parole 
+*** FLOP *** [5c 6c 2c]
+JOHN63200 : parole 
+poker_orihue : parole 
+*** TOURNANT *** [5c 6c 2c] [4s]
+JOHN63200 : parole 
+poker_orihue : parole 
+*** RIVIÈRE *** [5c 6c 2c 4s] [6s]
+JOHN63200 : parole 
+poker_orihue : parole 
+*** ABATTAGE ***
+JOHN63200 : montre [Jh 7d] (une paire de Six)
+poker_orihue : montre [Qs 5s] (double paire, Six et Cinq)
+poker_orihue a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Tableau [5c 6c 2c 4s 6s]
+Siège 1 : poker_orihue (bouton) a montré [Qs 5s] et a gagné (75) avec double paire, Six et Cinq
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : JOHN63200 (grosse blind) a montré [Jh 7d] et a perdu avec une paire de Six
+
+
+
+Main PokerStars n°258045288823 : Tournoi #3935110815, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/10/2025 14:45:31 CET [08/10/2025 8:45:31 ET]
+Table '3935110815 1' 3-max Siège #2 est au bouton.
+Place 1: poker_orihue (450 en jetons) 
+Place 2: psychoman59 (313 en jetons) 
+Place 3: JOHN63200 (737 en jetons) 
+JOHN63200 : met la petite blind. 15
+poker_orihue : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 9s]
+psychoman59 : suit. 30
+JOHN63200 : suit. 15
+poker_orihue : relance. 210 à 240
+psychoman59 : passe. 
+JOHN63200 : suit. 210
+*** FLOP *** [Kh 2s 7c]
+JOHN63200 : mise. 255
+poker_orihue : passe. 
+Personne n'a suivi. (255) sont retournés à JOHN63200.
+JOHN63200 a remporté 510  lors du pot .
+*** SYNTHÈSE ***
+Pot total 510 | Commission 0 
+Tableau [Kh 2s 7c]
+Siège 1 : poker_orihue (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 3 : JOHN63200 (petite blind) a remporté (510)
+
+
+
+Main PokerStars n°258045292222 : Tournoi #3935110815, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/10/2025 14:45:57 CET [08/10/2025 8:45:57 ET]
+Table '3935110815 1' 3-max Siège #3 est au bouton.
+Place 1: poker_orihue (210 en jetons) 
+Place 2: psychoman59 (283 en jetons) 
+Place 3: JOHN63200 (1007 en jetons) 
+poker_orihue : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Qc]
+JOHN63200 : suit. 30
+poker_orihue : passe. 
+psychoman59 : parole 
+*** FLOP *** [7d Ks Tc]
+psychoman59 : parole 
+JOHN63200 : parole 
+*** TOURNANT *** [7d Ks Tc] [As]
+psychoman59 : parole 
+JOHN63200 : mise. 38
+psychoman59 : suit. 38
+*** RIVIÈRE *** [7d Ks Tc As] [5c]
+psychoman59 : parole 
+JOHN63200 : mise. 76
+psychoman59 : passe. 
+Personne n'a suivi. (76) sont retournés à JOHN63200.
+JOHN63200 a remporté 151  lors du pot .
+*** SYNTHÈSE ***
+Pot total 151 | Commission 0 
+Tableau [7d Ks Tc As 5c]
+Siège 1 : poker_orihue (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : JOHN63200 (bouton) a remporté (151)
+
+
+
+Main PokerStars n°258045295630 : Tournoi #3935110815, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/10/2025 14:46:23 CET [08/10/2025 8:46:23 ET]
+Table '3935110815 1' 3-max Siège #1 est au bouton.
+Place 1: poker_orihue (195 en jetons) 
+Place 2: psychoman59 (215 en jetons) 
+Place 3: JOHN63200 (1090 en jetons) 
+psychoman59 : met la petite blind. 15
+JOHN63200 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 3d]
+poker_orihue : suit. 30
+psychoman59 : passe. 
+JOHN63200 : parole 
+*** FLOP *** [6c Jh Ah]
+JOHN63200 : mise. 75
+poker_orihue : passe. 
+Personne n'a suivi. (75) sont retournés à JOHN63200.
+JOHN63200 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Tableau [6c Jh Ah]
+Siège 1 : poker_orihue (bouton) s'est couché. sur le Flop
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : JOHN63200 (grosse blind) a remporté (75)
+
+
+
+Main PokerStars n°258045297188 : Tournoi #3935110815, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/10/2025 14:46:35 CET [08/10/2025 8:46:35 ET]
+Table '3935110815 1' 3-max Siège #2 est au bouton.
+Place 1: poker_orihue (165 en jetons) 
+Place 2: psychoman59 (200 en jetons) 
+Place 3: JOHN63200 (1135 en jetons) 
+JOHN63200 : met la petite blind. 15
+poker_orihue : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Kh]
+psychoman59 : passe. 
+JOHN63200 : suit. 15
+poker_orihue : relance. 135 à 165 et est all-in.
+JOHN63200 : passe. 
+Personne n'a suivi. (135) sont retournés à poker_orihue.
+poker_orihue a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : poker_orihue (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : JOHN63200 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258045298977 : Tournoi #3935110815, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/10/2025 14:46:49 CET [08/10/2025 8:46:49 ET]
+Table '3935110815 1' 3-max Siège #3 est au bouton.
+Place 1: poker_orihue (195 en jetons) 
+Place 2: psychoman59 (200 en jetons) 
+Place 3: JOHN63200 (1105 en jetons) 
+poker_orihue : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Qc]
+JOHN63200 : passe. 
+poker_orihue : relance. 165 à 195 et est all-in.
+psychoman59 : suit. 165
+*** FLOP *** [Tc 3d 8c]
+*** TOURNANT *** [Tc 3d 8c] [2c]
+*** RIVIÈRE *** [Tc 3d 8c 2c] [9s]
+JOHN63200 est déconnecté 
+*** ABATTAGE ***
+poker_orihue : montre [Th 8h] (double paire, Dix et Huit)
+psychoman59 : montre [Qs Qc] (une paire de Dames)
+poker_orihue a remporté 390  lors du pot .
+*** SYNTHÈSE ***
+Pot total 390 | Commission 0 
+Tableau [Tc 3d 8c 2c 9s]
+Siège 1 : poker_orihue (petite blind) a montré [Th 8h] et a gagné (390) avec double paire, Dix et Huit
+Siège 2 : psychoman59 (grosse blind) a montré [Qs Qc] et a perdu avec une paire de Dames
+Siège 3 : JOHN63200 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°258045301739 : Tournoi #3935110815, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/10/2025 14:47:11 CET [08/10/2025 8:47:11 ET]
+Table '3935110815 1' 3-max Siège #1 est au bouton.
+Place 1: poker_orihue (390 en jetons) 
+Place 2: psychoman59 (5 en jetons) 
+Place 3: JOHN63200 (1105 en jetons) 
+psychoman59 : met la petite blind. 5 et est all-in.
+JOHN63200 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 8c]
+JOHN63200 est déconnecté 
+poker_orihue : passe. 
+Personne n'a suivi. (25) sont retournés à JOHN63200.
+*** FLOP *** [Ts 2d Jd]
+*** TOURNANT *** [Ts 2d Jd] [5c]
+*** RIVIÈRE *** [Ts 2d Jd 5c] [9d]
+*** ABATTAGE ***
+psychoman59 : montre [4d 8c] (Hauteur Valet)
+JOHN63200 : montre [5h Td] (double paire, Dix et Cinq)
+JOHN63200 a remporté 10  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 10 | Commission 0 
+Tableau [Ts 2d Jd 5c 9d]
+Siège 1 : poker_orihue (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [4d 8c] et a perdu avec Hauteur Valet
+Siège 3 : JOHN63200 (grosse blind) a montré [5h Td] et a gagné (10) avec double paire, Dix et Cinq
+
+
+

@@ -1,0 +1,250 @@
+﻿Main PokerStars n°259612657706 : Tournoi #3972536995, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 06/02/2026 8:14:21 CET [06/02/2026 2:14:21 ET]
+Table '3972536995 1' 3-max Siège #1 est au bouton.
+Place 1: Pcastelo767 (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: tonyshark888 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+tonyshark888 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 2c]
+Pcastelo767 : relance. 480 à 500 et est all-in.
+psychoman59 : passe. 
+tonyshark888 : passe. 
+Personne n'a suivi. (480) sont retournés à Pcastelo767.
+Pcastelo767 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : Pcastelo767 (bouton) a remporté (50)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : tonyshark888 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°259612658386 : Tournoi #3972536995, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 06/02/2026 8:14:32 CET [06/02/2026 2:14:32 ET]
+Table '3972536995 1' 3-max Siège #2 est au bouton.
+Place 1: Pcastelo767 (530 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: tonyshark888 (480 en jetons) 
+tonyshark888 : met la petite blind. 10
+Pcastelo767 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Qd]
+psychoman59 : passe. 
+tonyshark888 : suit. 10
+Pcastelo767 : relance. 510 à 530 et est all-in.
+tonyshark888 : passe. 
+Personne n'a suivi. (510) sont retournés à Pcastelo767.
+Pcastelo767 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Pcastelo767 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : tonyshark888 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°259612659252 : Tournoi #3972536995, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 06/02/2026 8:14:46 CET [06/02/2026 2:14:46 ET]
+Table '3972536995 1' 3-max Siège #3 est au bouton.
+Place 1: Pcastelo767 (550 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: tonyshark888 (460 en jetons) 
+Pcastelo767 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 4s]
+tonyshark888 : suit. 20
+Pcastelo767 : relance. 530 à 550 et est all-in.
+psychoman59 : passe. 
+tonyshark888 : suit. 440 et est all-in.
+Personne n'a suivi. (90) sont retournés à Pcastelo767.
+*** FLOP *** [6s 8h Jc]
+*** TOURNANT *** [6s 8h Jc] [2c]
+*** RIVIÈRE *** [6s 8h Jc 2c] [3h]
+*** ABATTAGE ***
+Pcastelo767 : montre [Ad Ts] (Hauteur As)
+tonyshark888 : montre [Kd 2d] (une paire de Deux)
+tonyshark888 a remporté 940  lors du pot .
+*** SYNTHÈSE ***
+Pot total 940 | Commission 0 
+Tableau [6s 8h Jc 2c 3h]
+Siège 1 : Pcastelo767 (petite blind) a montré [Ad Ts] et a perdu avec Hauteur As
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : tonyshark888 (bouton) a montré [Kd 2d] et a gagné (940) avec une paire de Deux
+
+
+
+Main PokerStars n°259612660371 : Tournoi #3972536995, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 06/02/2026 8:15:04 CET [06/02/2026 2:15:04 ET]
+Table '3972536995 1' 3-max Siège #1 est au bouton.
+Place 1: Pcastelo767 (90 en jetons) 
+Place 2: psychoman59 (470 en jetons) 
+Place 3: tonyshark888 (940 en jetons) 
+psychoman59 : met la petite blind. 10
+tonyshark888 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 2d]
+Pcastelo767 : relance. 70 à 90 et est all-in.
+psychoman59 : passe. 
+tonyshark888 : suit. 70
+*** FLOP *** [5d Ad 4c]
+*** TOURNANT *** [5d Ad 4c] [8c]
+*** RIVIÈRE *** [5d Ad 4c 8c] [8s]
+*** ABATTAGE ***
+tonyshark888 : montre [Ac 5h] (double paire, As et Huit)
+Pcastelo767 : montre [Ah 2s] (double paire, As et Huit)
+tonyshark888 a remporté 95  lors du pot .
+Pcastelo767 a remporté 95  lors du pot .
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Tableau [5d Ad 4c 8c 8s]
+Siège 1 : Pcastelo767 (bouton) a montré [Ah 2s] et a gagné (95) avec double paire, As et Huit
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : tonyshark888 (grosse blind) a montré [Ac 5h] et a gagné (95) avec double paire, As et Huit
+
+
+
+Main PokerStars n°259612661280 : Tournoi #3972536995, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 06/02/2026 8:15:19 CET [06/02/2026 2:15:19 ET]
+Table '3972536995 1' 3-max Siège #2 est au bouton.
+Place 1: Pcastelo767 (95 en jetons) 
+Place 2: psychoman59 (460 en jetons) 
+Place 3: tonyshark888 (945 en jetons) 
+tonyshark888 : met la petite blind. 10
+Pcastelo767 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Ah]
+psychoman59 : suit. 20
+tonyshark888 : suit. 10
+Pcastelo767 : relance. 75 à 95 et est all-in.
+psychoman59 : suit. 75
+tonyshark888 : suit. 75
+*** FLOP *** [Js Th 8c]
+tonyshark888 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Js Th 8c] [7d]
+tonyshark888 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Js Th 8c 7d] [8h]
+tonyshark888 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+tonyshark888 : montre [3c 4s] (une paire de Huit)
+Pcastelo767 : montre [Ks Jh] (double paire, Valets et Huit)
+psychoman59 : cache la main perdante. 
+Pcastelo767 a remporté 285  lors du pot .
+*** SYNTHÈSE ***
+Pot total 285 | Commission 0 
+Tableau [Js Th 8c 7d 8h]
+Siège 1 : Pcastelo767 (grosse blind) a montré [Ks Jh] et a gagné (285) avec double paire, Valets et Huit
+Siège 2 : psychoman59 (bouton) a caché la main perdante. [4c Ah]
+Siège 3 : tonyshark888 (petite blind) a montré [3c 4s] et a perdu avec une paire de Huit
+
+
+
+Main PokerStars n°259612662869 : Tournoi #3972536995, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 06/02/2026 8:15:44 CET [06/02/2026 2:15:44 ET]
+Table '3972536995 1' 3-max Siège #3 est au bouton.
+Place 1: Pcastelo767 (285 en jetons) 
+Place 2: psychoman59 (365 en jetons) 
+Place 3: tonyshark888 (850 en jetons) 
+Pcastelo767 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 3h]
+tonyshark888 : passe. 
+Pcastelo767 : relance. 265 à 285 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (265) sont retournés à Pcastelo767.
+Pcastelo767 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Pcastelo767 (petite blind) a remporté (40)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : tonyshark888 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°259612663903 : Tournoi #3972536995, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 06/02/2026 8:16:01 CET [06/02/2026 2:16:01 ET]
+Table '3972536995 1' 3-max Siège #1 est au bouton.
+Place 1: Pcastelo767 (305 en jetons) 
+Place 2: psychoman59 (345 en jetons) 
+Place 3: tonyshark888 (850 en jetons) 
+psychoman59 : met la petite blind. 10
+tonyshark888 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Jc]
+Pcastelo767 : relance. 285 à 305 et est all-in.
+psychoman59 : relance. 40 à 345 et est all-in.
+tonyshark888 : suit. 325
+*** FLOP *** [6c Td 7h]
+*** TOURNANT *** [6c Td 7h] [6h]
+*** RIVIÈRE *** [6c Td 7h 6h] [Qc]
+*** ABATTAGE ***
+psychoman59 : montre [Tc Jc] (double paire, Dix et Six)
+tonyshark888 : montre [Ks Ah] (une paire de Six)
+psychoman59 a remporté 80  parallèle lors du pot .
+Pcastelo767 : montre [Js Qd] (double paire, Dames et Six)
+Pcastelo767 a remporté 915  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 995 Principal pot 915. Parallèle pot 80. | Commission 0 
+Tableau [6c Td 7h 6h Qc]
+Siège 1 : Pcastelo767 (bouton) a montré [Js Qd] et a gagné (915) avec double paire, Dames et Six
+Siège 2 : psychoman59 (petite blind) a montré [Tc Jc] et a gagné (80) avec double paire, Dix et Six
+Siège 3 : tonyshark888 (grosse blind) a montré [Ks Ah] et a perdu avec une paire de Six
+
+
+
+Main PokerStars n°259612665272 : Tournoi #3972536995, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 06/02/2026 8:16:23 CET [06/02/2026 2:16:23 ET]
+Table '3972536995 1' 3-max Siège #2 est au bouton.
+Place 1: Pcastelo767 (915 en jetons) 
+Place 2: psychoman59 (80 en jetons) 
+Place 3: tonyshark888 (505 en jetons) 
+tonyshark888 : met la petite blind. 10
+Pcastelo767 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 6s]
+psychoman59 : passe. 
+tonyshark888 : passe. 
+Personne n'a suivi. (10) sont retournés à Pcastelo767.
+Pcastelo767 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : Pcastelo767 (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : tonyshark888 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°259612666141 : Tournoi #3972536995, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 06/02/2026 8:16:36 CET [06/02/2026 2:16:36 ET]
+Table '3972536995 1' 3-max Siège #3 est au bouton.
+Place 1: Pcastelo767 (925 en jetons) 
+Place 2: psychoman59 (80 en jetons) 
+Place 3: tonyshark888 (495 en jetons) 
+Pcastelo767 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Qs]
+tonyshark888 : relance. 60 à 90
+Pcastelo767 : relance. 835 à 925 et est all-in.
+psychoman59 : suit. 50 et est all-in.
+tonyshark888 : suit. 405 et est all-in.
+Personne n'a suivi. (430) sont retournés à Pcastelo767.
+*** FLOP *** [8h 2d Kc]
+*** TOURNANT *** [8h 2d Kc] [Th]
+*** RIVIÈRE *** [8h 2d Kc Th] [Ts]
+*** ABATTAGE ***
+Pcastelo767 : montre [Ks 9s] (double paire, Rois et Dix)
+tonyshark888 : montre [9h Jd] (une paire de Dix)
+Pcastelo767 a remporté 830  parallèle lors du pot .
+psychoman59 : montre [Ad Qs] (une paire de Dix)
+Pcastelo767 a remporté 240  principal lors du pot .
+tonyshark888 a fini le tournoi en 2e position.
+psychoman59 a fini le tournoi en 3e position.
+Pcastelo767 gagne le tournoi - félicitations !
+Pcastelo767 gagne un ticket " €1.50 Step 2 SnG Power Path ticket "
+*** SYNTHÈSE ***
+Pot total 1070 Principal pot 240. Parallèle pot 830. | Commission 0 
+Tableau [8h 2d Kc Th Ts]
+Siège 1 : Pcastelo767 (petite blind) a montré [Ks 9s] et a gagné (1070) avec double paire, Rois et Dix
+Siège 2 : psychoman59 (grosse blind) a montré [Ad Qs] et a perdu avec une paire de Dix
+Siège 3 : tonyshark888 (bouton) a montré [9h Jd] et a perdu avec une paire de Dix
+
+
+

@@ -1,0 +1,457 @@
+﻿Main PokerStars n°258217895079 : Tournoi #3939699261, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 22/10/2025 8:13:18 CET [22/10/2025 2:13:18 ET]
+Table '3939699261 1' 3-max Siège #1 est au bouton.
+Place 1: dt8vb12 (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: Frederic873 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+Frederic873 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 8d]
+dt8vb12 : passe. 
+psychoman59 : suit. 10
+Frederic873 : parole 
+*** FLOP *** [9s 8s Tc]
+psychoman59 : parole 
+Frederic873 : parole 
+*** TOURNANT *** [9s 8s Tc] [5c]
+psychoman59 : mise. 40
+Frederic873 : suit. 40
+*** RIVIÈRE *** [9s 8s Tc 5c] [Jh]
+psychoman59 : mise. 60
+Frederic873 : suit. 60
+*** ABATTAGE ***
+psychoman59 : montre [7d 8d] (une suite, Sept à Valet)
+Frederic873 : montre [7c 4d] (une suite, Sept à Valet)
+psychoman59 a remporté 120  lors du pot .
+Frederic873 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [9s 8s Tc 5c Jh]
+Siège 1 : dt8vb12 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [7d 8d] et a gagné (120) avec une suite, Sept à Valet
+Siège 3 : Frederic873 (grosse blind) a montré [7c 4d] et a gagné (120) avec une suite, Sept à Valet
+
+
+
+Main PokerStars n°258217896373 : Tournoi #3939699261, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 22/10/2025 8:13:42 CET [22/10/2025 2:13:42 ET]
+Table '3939699261 1' 3-max Siège #2 est au bouton.
+Place 1: dt8vb12 (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: Frederic873 (500 en jetons) 
+Frederic873 : met la petite blind. 10
+dt8vb12 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Jc]
+psychoman59 : relance. 480 à 500 et est all-in.
+Frederic873 : passe. 
+dt8vb12 : passe. 
+Personne n'a suivi. (480) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : dt8vb12 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a remporté (50)
+Siège 3 : Frederic873 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258217897088 : Tournoi #3939699261, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 22/10/2025 8:13:56 CET [22/10/2025 2:13:56 ET]
+Table '3939699261 1' 3-max Siège #3 est au bouton.
+Place 1: dt8vb12 (480 en jetons) 
+Place 2: psychoman59 (530 en jetons) 
+Place 3: Frederic873 (490 en jetons) 
+dt8vb12 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 7h]
+Frederic873 : passe. 
+dt8vb12 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Ah Js 2h]
+dt8vb12 : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à dt8vb12.
+dt8vb12 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Ah Js 2h]
+Siège 1 : dt8vb12 (petite blind) a remporté (40)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : Frederic873 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°258217898026 : Tournoi #3939699261, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 22/10/2025 8:14:13 CET [22/10/2025 2:14:13 ET]
+Table '3939699261 1' 3-max Siège #1 est au bouton.
+Place 1: dt8vb12 (500 en jetons) 
+Place 2: psychoman59 (510 en jetons) 
+Place 3: Frederic873 (490 en jetons) 
+psychoman59 : met la petite blind. 10
+Frederic873 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Ts]
+dt8vb12 : passe. 
+psychoman59 : suit. 10
+Frederic873 : parole 
+*** FLOP *** [9s Ks Ad]
+psychoman59 : mise. 40
+Frederic873 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [9s Ks Ad]
+Siège 1 : dt8vb12 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (40)
+Siège 3 : Frederic873 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°258217898892 : Tournoi #3939699261, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 22/10/2025 8:14:30 CET [22/10/2025 2:14:30 ET]
+Table '3939699261 1' 3-max Siège #2 est au bouton.
+Place 1: dt8vb12 (500 en jetons) 
+Place 2: psychoman59 (530 en jetons) 
+Place 3: Frederic873 (470 en jetons) 
+Frederic873 : met la petite blind. 10
+dt8vb12 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 6c]
+psychoman59 : passe. 
+Frederic873 : suit. 10
+dt8vb12 : parole 
+*** FLOP *** [7c 4c 8c]
+Frederic873 : mise. 20
+dt8vb12 : relance. 40 à 60
+Frederic873 : suit. 40
+*** TOURNANT *** [7c 4c 8c] [6s]
+Frederic873 : mise. 20
+dt8vb12 : relance. 100 à 120
+Frederic873 : suit. 100
+*** RIVIÈRE *** [7c 4c 8c 6s] [2d]
+Frederic873 : parole 
+dt8vb12 : parole 
+*** ABATTAGE ***
+Frederic873 : montre [Ac Kc] (une couleur, hauteur As)
+dt8vb12 : cache la main perdante. 
+Frederic873 a remporté 400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [7c 4c 8c 6s 2d]
+Siège 1 : dt8vb12 (grosse blind) a caché la main perdante. [Qc 7s]
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Frederic873 (petite blind) a montré [Ac Kc] et a gagné (400) avec une couleur, hauteur As
+
+
+
+Main PokerStars n°258217901005 : Tournoi #3939699261, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 22/10/2025 8:15:08 CET [22/10/2025 2:15:08 ET]
+Table '3939699261 1' 3-max Siège #3 est au bouton.
+Place 1: dt8vb12 (300 en jetons) 
+Place 2: psychoman59 (530 en jetons) 
+Place 3: Frederic873 (670 en jetons) 
+dt8vb12 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 6s]
+Frederic873 : relance. 20 à 40
+dt8vb12 : passe. 
+psychoman59 : suit. 20
+*** FLOP *** [Qd Jc Kc]
+psychoman59 : parole 
+Frederic873 : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [Qd Jc Kc] [Ts]
+psychoman59 : parole 
+Frederic873 : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [Qd Jc Kc Ts] [4d]
+psychoman59 : parole 
+Frederic873 : mise. 170
+psychoman59 : passe. 
+Personne n'a suivi. (170) sont retournés à Frederic873.
+Frederic873 a remporté 170  lors du pot .
+Frederic873 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 170 | Commission 0 
+Tableau [Qd Jc Kc Ts 4d]
+Siège 1 : dt8vb12 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : Frederic873 (bouton) a remporté (170)
+
+
+
+Main PokerStars n°258217902787 : Tournoi #3939699261, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 22/10/2025 8:15:40 CET [22/10/2025 2:15:40 ET]
+Table '3939699261 1' 3-max Siège #1 est au bouton.
+Place 1: dt8vb12 (290 en jetons) 
+Place 2: psychoman59 (450 en jetons) 
+Place 3: Frederic873 (760 en jetons) 
+psychoman59 : met la petite blind. 10
+Frederic873 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 8d]
+dt8vb12 : passe. 
+psychoman59 : relance. 430 à 450 et est all-in.
+Frederic873 : passe. 
+Personne n'a suivi. (430) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : dt8vb12 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (40)
+Siège 3 : Frederic873 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258217903260 : Tournoi #3939699261, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 22/10/2025 8:15:49 CET [22/10/2025 2:15:49 ET]
+Table '3939699261 1' 3-max Siège #2 est au bouton.
+Place 1: dt8vb12 (290 en jetons) 
+Place 2: psychoman59 (470 en jetons) 
+Place 3: Frederic873 (740 en jetons) 
+Frederic873 : met la petite blind. 10
+dt8vb12 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Qd]
+psychoman59 : relance. 450 à 470 et est all-in.
+Frederic873 : passe. 
+dt8vb12 : passe. 
+Personne n'a suivi. (450) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : dt8vb12 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a remporté (50)
+Siège 3 : Frederic873 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258217903827 : Tournoi #3939699261, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 22/10/2025 8:15:59 CET [22/10/2025 2:15:59 ET]
+Table '3939699261 1' 3-max Siège #3 est au bouton.
+Place 1: dt8vb12 (270 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: Frederic873 (730 en jetons) 
+dt8vb12 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 9c]
+Frederic873 : suit. 20
+dt8vb12 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [6s 3c Jc]
+dt8vb12 : parole 
+psychoman59 : parole 
+Frederic873 : parole 
+*** TOURNANT *** [6s 3c Jc] [Jd]
+dt8vb12 : parole 
+psychoman59 : parole 
+Frederic873 : parole 
+*** RIVIÈRE *** [6s 3c Jc Jd] [Ah]
+dt8vb12 : parole 
+psychoman59 : parole 
+Frederic873 : mise. 20
+dt8vb12 : passe. 
+psychoman59 : suit. 20
+*** ABATTAGE ***
+Frederic873 : montre [7d Ac] (double paire, As et Valets)
+psychoman59 : cache la main perdante. 
+Frederic873 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [6s 3c Jc Jd Ah]
+Siège 1 : dt8vb12 (petite blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (grosse blind) a caché la main perdante. [Kh 9c]
+Siège 3 : Frederic873 (bouton) a montré [7d Ac] et a gagné (100) avec double paire, As et Valets
+
+
+
+Main PokerStars n°258217905921 : Tournoi #3939699261, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 22/10/2025 8:16:36 CET [22/10/2025 2:16:36 ET]
+Table '3939699261 1' 3-max Siège #1 est au bouton.
+Place 1: dt8vb12 (250 en jetons) 
+Place 2: psychoman59 (460 en jetons) 
+Place 3: Frederic873 (790 en jetons) 
+psychoman59 : met la petite blind. 15
+Frederic873 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 2d]
+dt8vb12 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à Frederic873.
+Frederic873 a remporté 30  lors du pot .
+Frederic873 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : dt8vb12 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Frederic873 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°258217906148 : Tournoi #3939699261, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 22/10/2025 8:16:40 CET [22/10/2025 2:16:40 ET]
+Table '3939699261 1' 3-max Siège #2 est au bouton.
+Place 1: dt8vb12 (250 en jetons) 
+Place 2: psychoman59 (445 en jetons) 
+Place 3: Frederic873 (805 en jetons) 
+Frederic873 : met la petite blind. 15
+dt8vb12 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 8c]
+psychoman59 : suit. 30
+Frederic873 : passe. 
+dt8vb12 : relance. 90 à 120
+psychoman59 : passe. 
+Personne n'a suivi. (90) sont retournés à dt8vb12.
+dt8vb12 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : dt8vb12 (grosse blind) a remporté (75)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 3 : Frederic873 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258217906803 : Tournoi #3939699261, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 22/10/2025 8:16:51 CET [22/10/2025 2:16:51 ET]
+Table '3939699261 1' 3-max Siège #3 est au bouton.
+Place 1: dt8vb12 (295 en jetons) 
+Place 2: psychoman59 (415 en jetons) 
+Place 3: Frederic873 (790 en jetons) 
+dt8vb12 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 8s]
+Frederic873 : relance. 30 à 60
+dt8vb12 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Frederic873.
+Frederic873 a remporté 75  lors du pot .
+Frederic873 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : dt8vb12 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : Frederic873 (bouton) a remporté (75)
+
+
+
+Main PokerStars n°258217907273 : Tournoi #3939699261, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 22/10/2025 8:16:59 CET [22/10/2025 2:16:59 ET]
+Table '3939699261 1' 3-max Siège #1 est au bouton.
+Place 1: dt8vb12 (280 en jetons) 
+Place 2: psychoman59 (385 en jetons) 
+Place 3: Frederic873 (835 en jetons) 
+psychoman59 : met la petite blind. 15
+Frederic873 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 2c]
+dt8vb12 : relance. 250 à 280 et est all-in.
+psychoman59 : suit. 265
+Frederic873 : passe. 
+*** FLOP *** [8c Ac 2s]
+*** TOURNANT *** [8c Ac 2s] [Td]
+*** RIVIÈRE *** [8c Ac 2s Td] [4d]
+*** ABATTAGE ***
+psychoman59 : montre [2d 2c] (un brelan de Deux)
+dt8vb12 : montre [9d Ah] (une paire de As)
+psychoman59 a remporté 590  lors du pot .
+dt8vb12 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 590 | Commission 0 
+Tableau [8c Ac 2s Td 4d]
+Siège 1 : dt8vb12 (bouton) a montré [9d Ah] et a perdu avec une paire de As
+Siège 2 : psychoman59 (petite blind) a montré [2d 2c] et a gagné (590) avec un brelan de Deux
+Siège 3 : Frederic873 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258217908457 : Tournoi #3939699261, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 22/10/2025 8:17:19 CET [22/10/2025 2:17:19 ET]
+Table '3939699261 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (695 en jetons) 
+Place 3: Frederic873 (805 en jetons) 
+Frederic873 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Kd]
+Frederic873 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+Siège 3 : Frederic873 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258217908691 : Tournoi #3939699261, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 22/10/2025 8:17:23 CET [22/10/2025 2:17:23 ET]
+Table '3939699261 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (710 en jetons) 
+Place 3: Frederic873 (790 en jetons) 
+psychoman59 : met la petite blind. 15
+Frederic873 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 7h]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à Frederic873.
+Frederic873 a remporté 30  lors du pot .
+Frederic873 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Frederic873 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°258217909092 : Tournoi #3939699261, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 22/10/2025 8:17:30 CET [22/10/2025 2:17:30 ET]
+Table '3939699261 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (695 en jetons) 
+Place 3: Frederic873 (805 en jetons) 
+Frederic873 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 7d]
+Frederic873 : suit. 15
+psychoman59 : relance. 665 à 695 et est all-in.
+Frederic873 : suit. 665
+*** FLOP *** [6c 5d Ac]
+*** TOURNANT *** [6c 5d Ac] [5s]
+*** RIVIÈRE *** [6c 5d Ac 5s] [2h]
+*** ABATTAGE ***
+psychoman59 : montre [As 7d] (double paire, As et Cinq)
+Frederic873 : montre [4d 4c] (double paire, Cinq et Quatre)
+psychoman59 a remporté 1390  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1390 | Commission 0 
+Tableau [6c 5d Ac 5s 2h]
+Siège 2 : psychoman59 (grosse blind) a montré [As 7d] et a gagné (1390) avec double paire, As et Cinq
+Siège 3 : Frederic873 (bouton) (petite blind) a montré [4d 4c] et a perdu avec double paire, Cinq et Quatre
+
+
+
+Main PokerStars n°258217910087 : Tournoi #3939699261, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 22/10/2025 8:17:47 CET [22/10/2025 2:17:47 ET]
+Table '3939699261 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1390 en jetons) 
+Place 3: Frederic873 (110 en jetons) 
+psychoman59 : met la petite blind. 15
+Frederic873 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Ts]
+psychoman59 : relance. 90 à 120
+Frederic873 : suit. 80 et est all-in.
+Personne n'a suivi. (10) sont retournés à psychoman59.
+*** FLOP *** [2c Th Jd]
+*** TOURNANT *** [2c Th Jd] [Kc]
+*** RIVIÈRE *** [2c Th Jd Kc] [6s]
+*** ABATTAGE ***
+Frederic873 : montre [5h Ks] (une paire de Rois)
+psychoman59 : montre [Kh Ts] (double paire, Rois et Dix)
+psychoman59 a remporté 220  lors du pot .
+Frederic873 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 0.75 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 220 | Commission 0 
+Tableau [2c Th Jd Kc 6s]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Kh Ts] et a gagné (220) avec double paire, Rois et Dix
+Siège 3 : Frederic873 (grosse blind) a montré [5h Ks] et a perdu avec une paire de Rois
+
+
+

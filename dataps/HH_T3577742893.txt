@@ -1,0 +1,141 @@
+﻿Main PokerStars n°243100849150 : Tournoi #3577742893, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/04/2023 8:05:14 CET [15/04/2023 2:05:14 ET]
+Table '3577742893 1' 3-max Siège #1 est au bouton.
+Place 1: vippypok (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: chirloupette (300 en jetons) 
+psychoman59 : met la petite blind. 10
+chirloupette : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 6h]
+vippypok : passe. 
+psychoman59 : suit. 10
+chirloupette : parole 
+*** FLOP *** [7s 8c 8h]
+psychoman59 : parole 
+chirloupette : parole 
+*** TOURNANT *** [7s 8c 8h] [Ks]
+psychoman59 : mise. 20
+chirloupette : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [7s 8c 8h Ks]
+Siège 1 : vippypok (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (40)
+Siège 3 : chirloupette (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°243100851356 : Tournoi #3577742893, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/04/2023 8:05:31 CET [15/04/2023 2:05:31 ET]
+Table '3577742893 1' 3-max Siège #2 est au bouton.
+Place 1: vippypok (300 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: chirloupette (280 en jetons) 
+chirloupette : met la petite blind. 10
+vippypok : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Ad]
+psychoman59 : relance. 300 à 320 et est all-in.
+chirloupette : suit. 270 et est all-in.
+vippypok : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+*** FLOP *** [6c 5s 8d]
+*** TOURNANT *** [6c 5s 8d] [3d]
+*** RIVIÈRE *** [6c 5s 8d 3d] [2d]
+*** ABATTAGE ***
+chirloupette : montre [Js Kc] (Hauteur Roi)
+psychoman59 : montre [Jd Ad] (une couleur, hauteur As)
+psychoman59 a remporté 580  lors du pot .
+chirloupette a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [6c 5s 8d 3d 2d]
+Siège 1 : vippypok (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a montré [Jd Ad] et a gagné (580) avec une couleur, hauteur As
+Siège 3 : chirloupette (petite blind) a montré [Js Kc] et a perdu avec Hauteur Roi
+
+
+
+Main PokerStars n°243100853627 : Tournoi #3577742893, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/04/2023 8:05:50 CET [15/04/2023 2:05:50 ET]
+Table '3577742893 1' 3-max Siège #1 est au bouton.
+Place 1: vippypok (280 en jetons) 
+Place 2: psychoman59 (620 en jetons) 
+vippypok : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Js]
+vippypok : suit. 10
+psychoman59 : parole 
+*** FLOP *** [6c Kd 9d]
+psychoman59 : parole 
+vippypok : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [6c Kd 9d] [4d]
+psychoman59 : parole 
+vippypok : mise. 30
+psychoman59 : suit. 30
+*** RIVIÈRE *** [6c Kd 9d 4d] [Ts]
+psychoman59 : parole 
+vippypok : mise. 70
+psychoman59 : suit. 70
+*** ABATTAGE ***
+vippypok : montre [Jc 2c] (Hauteur Roi)
+psychoman59 : montre [Tc Js] (une paire de Dix)
+psychoman59 a remporté 280  lors du pot .
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Tableau [6c Kd 9d 4d Ts]
+Siège 1 : vippypok (bouton) (petite blind) a montré [Jc 2c] et a perdu avec Hauteur Roi
+Siège 2 : psychoman59 (grosse blind) a montré [Tc Js] et a gagné (280) avec une paire de Dix
+
+
+
+Main PokerStars n°243100857487 : Tournoi #3577742893, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/04/2023 8:06:21 CET [15/04/2023 2:06:21 ET]
+Table '3577742893 1' 3-max Siège #2 est au bouton.
+Place 1: vippypok (140 en jetons) 
+Place 2: psychoman59 (760 en jetons) 
+psychoman59 : met la petite blind. 15
+vippypok : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 5c]
+psychoman59 : relance. 60 à 90
+vippypok : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : vippypok (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°243100858427 : Tournoi #3577742893, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/04/2023 8:06:29 CET [15/04/2023 2:06:29 ET]
+Table '3577742893 1' 3-max Siège #1 est au bouton.
+Place 1: vippypok (110 en jetons) 
+Place 2: psychoman59 (790 en jetons) 
+vippypok : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Qs]
+vippypok : relance. 80 à 110 et est all-in.
+psychoman59 : suit. 80
+*** FLOP *** [5s Ah 7h]
+*** TOURNANT *** [5s Ah 7h] [Tc]
+*** RIVIÈRE *** [5s Ah 7h Tc] [7s]
+*** ABATTAGE ***
+psychoman59 : montre [Ac Qs] (double paire, As et Sept)
+vippypok : montre [8s Ad] (double paire, As et Sept - plus basse kicker)
+psychoman59 a remporté 220  lors du pot .
+vippypok a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 220 | Commission 0 
+Tableau [5s Ah 7h Tc 7s]
+Siège 1 : vippypok (bouton) (petite blind) a montré [8s Ad] et a perdu avec double paire, As et Sept
+Siège 2 : psychoman59 (grosse blind) a montré [Ac Qs] et a gagné (220) avec double paire, As et Sept
+
+
+

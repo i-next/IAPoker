@@ -1,0 +1,725 @@
+﻿Main PokerStars n°254606017782 : Tournoi #3852834258, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 29/01/2025 14:38:30 CET [29/01/2025 8:38:30 ET]
+Table '3852834258 1' 3-max Siège #1 est au bouton.
+Place 1: mbruschy89 (500 en jetons) 
+Place 2: MadaBercea (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+MadaBercea : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 9s]
+mbruschy89 : passe. 
+MadaBercea : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Qs 3h 4c]
+MadaBercea : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Qs 3h 4c] [Jd]
+MadaBercea : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [Qs 3h 4c Jd] [Ts]
+MadaBercea : mise. 60
+psychoman59 : suit. 60
+*** ABATTAGE ***
+MadaBercea : montre [3c Kc] (une paire de Trois)
+psychoman59 : montre [Tc 9s] (une paire de Dix)
+psychoman59 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [Qs 3h 4c Jd Ts]
+Siège 1 : mbruschy89 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : MadaBercea (petite blind) a montré [3c Kc] et a perdu avec une paire de Trois
+Siège 3 : psychoman59 (grosse blind) a montré [Tc 9s] et a gagné (200) avec une paire de Dix
+
+
+
+Main PokerStars n°254606022578 : Tournoi #3852834258, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 29/01/2025 14:38:58 CET [29/01/2025 8:38:58 ET]
+Table '3852834258 1' 3-max Siège #2 est au bouton.
+Place 1: mbruschy89 (500 en jetons) 
+Place 2: MadaBercea (400 en jetons) 
+Place 3: psychoman59 (600 en jetons) 
+psychoman59 : met la petite blind. 10
+mbruschy89 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Qd]
+MadaBercea : passe. 
+psychoman59 : suit. 10
+mbruschy89 : parole 
+*** FLOP *** [Qs Jh Ac]
+psychoman59 : parole 
+mbruschy89 : parole 
+*** TOURNANT *** [Qs Jh Ac] [Th]
+psychoman59 : parole 
+mbruschy89 : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [Qs Jh Ac Th] [As]
+psychoman59 : parole 
+mbruschy89 : mise. 40
+psychoman59 : suit. 40
+*** ABATTAGE ***
+mbruschy89 : montre [8d 9h] (une suite, Huit à Dame)
+psychoman59 : cache la main perdante. 
+mbruschy89 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Qs Jh Ac Th As]
+Siège 1 : mbruschy89 (grosse blind) a montré [8d 9h] et a gagné (160) avec une suite, Huit à Dame
+Siège 2 : MadaBercea (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a caché la main perdante. [7h Qd]
+
+
+
+Main PokerStars n°254606027569 : Tournoi #3852834258, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 29/01/2025 14:39:27 CET [29/01/2025 8:39:27 ET]
+Table '3852834258 1' 3-max Siège #3 est au bouton.
+Place 1: mbruschy89 (580 en jetons) 
+Place 2: MadaBercea (400 en jetons) 
+Place 3: psychoman59 (520 en jetons) 
+mbruschy89 : met la petite blind. 10
+MadaBercea : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 7s]
+psychoman59 : passe. 
+mbruschy89 : passe. 
+Personne n'a suivi. (10) sont retournés à MadaBercea.
+MadaBercea a remporté 20  lors du pot .
+MadaBercea : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : mbruschy89 (petite blind) s'est couché. avant Flop
+Siège 2 : MadaBercea (grosse blind) a remporté (20)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°254606028762 : Tournoi #3852834258, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 29/01/2025 14:39:34 CET [29/01/2025 8:39:34 ET]
+Table '3852834258 1' 3-max Siège #1 est au bouton.
+Place 1: mbruschy89 (570 en jetons) 
+Place 2: MadaBercea (410 en jetons) 
+Place 3: psychoman59 (520 en jetons) 
+MadaBercea : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 8s]
+mbruschy89 : suit. 20
+MadaBercea : suit. 10
+psychoman59 : parole 
+*** FLOP *** [3h Ad 8h]
+MadaBercea : parole 
+psychoman59 : parole 
+mbruschy89 : parole 
+*** TOURNANT *** [3h Ad 8h] [5d]
+MadaBercea : mise. 40
+psychoman59 : passe. 
+mbruschy89 : suit. 40
+*** RIVIÈRE *** [3h Ad 8h 5d] [Jd]
+MadaBercea : mise. 70
+mbruschy89 : suit. 70
+*** ABATTAGE ***
+MadaBercea : montre [Qh Th] (Hauteur As)
+mbruschy89 : montre [9d Td] (une couleur, hauteur As)
+mbruschy89 a remporté 280  lors du pot .
+*** SYNTHÈSE ***
+Pot total 280 | Commission 0 
+Tableau [3h Ad 8h 5d Jd]
+Siège 1 : mbruschy89 (bouton) a montré [9d Td] et a gagné (280) avec une couleur, hauteur As
+Siège 2 : MadaBercea (petite blind) a montré [Qh Th] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°254606034965 : Tournoi #3852834258, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 29/01/2025 14:40:09 CET [29/01/2025 8:40:09 ET]
+Table '3852834258 1' 3-max Siège #2 est au bouton.
+Place 1: mbruschy89 (720 en jetons) 
+Place 2: MadaBercea (280 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+mbruschy89 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 9d]
+MadaBercea : passe. 
+psychoman59 : suit. 10
+mbruschy89 : parole 
+*** FLOP *** [Kd 2d Qd]
+psychoman59 : parole 
+mbruschy89 : parole 
+*** TOURNANT *** [Kd 2d Qd] [Qc]
+psychoman59 : parole 
+mbruschy89 : parole 
+*** RIVIÈRE *** [Kd 2d Qd Qc] [6s]
+psychoman59 : parole 
+mbruschy89 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à mbruschy89.
+mbruschy89 a remporté 40  lors du pot .
+mbruschy89 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Kd 2d Qd Qc 6s]
+Siège 1 : mbruschy89 (grosse blind) a remporté (40)
+Siège 2 : MadaBercea (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°254606040311 : Tournoi #3852834258, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 29/01/2025 14:40:40 CET [29/01/2025 8:40:40 ET]
+Table '3852834258 1' 3-max Siège #3 est au bouton.
+Place 1: mbruschy89 (740 en jetons) 
+Place 2: MadaBercea (280 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+mbruschy89 : met la petite blind. 15
+MadaBercea : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 3c]
+psychoman59 : passe. 
+mbruschy89 : suit. 15
+MadaBercea : relance. 250 à 280 et est all-in.
+mbruschy89 : suit. 250
+*** FLOP *** [7h Kd Ks]
+*** TOURNANT *** [7h Kd Ks] [5s]
+*** RIVIÈRE *** [7h Kd Ks 5s] [2d]
+*** ABATTAGE ***
+mbruschy89 : montre [Ah 2c] (double paire, Rois et Deux)
+MadaBercea : montre [8s Ac] (une paire de Rois)
+mbruschy89 a remporté 560  lors du pot .
+MadaBercea a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [7h Kd Ks 5s 2d]
+Siège 1 : mbruschy89 (petite blind) a montré [Ah 2c] et a gagné (560) avec double paire, Rois et Deux
+Siège 2 : MadaBercea (grosse blind) a montré [8s Ac] et a perdu avec une paire de Rois
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°254606044148 : Tournoi #3852834258, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 29/01/2025 14:41:02 CET [29/01/2025 8:41:02 ET]
+Table '3852834258 1' 3-max Siège #1 est au bouton.
+Place 1: mbruschy89 (1020 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+mbruschy89 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Td]
+mbruschy89 : relance. 60 à 90
+psychoman59 : suit. 60
+*** FLOP *** [Kd 3d Jc]
+psychoman59 : mise. 390 et est all-in.
+mbruschy89 : passe. 
+Personne n'a suivi. (390) sont retournés à psychoman59.
+psychoman59 a remporté 180  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Kd 3d Jc]
+Siège 1 : mbruschy89 (bouton) (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (180)
+
+
+
+Main PokerStars n°254606046310 : Tournoi #3852834258, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 29/01/2025 14:41:15 CET [29/01/2025 8:41:15 ET]
+Table '3852834258 1' 3-max Siège #3 est au bouton.
+Place 1: mbruschy89 (930 en jetons) 
+Place 3: psychoman59 (570 en jetons) 
+psychoman59 : met la petite blind. 15
+mbruschy89 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 6s]
+psychoman59 : suit. 15
+mbruschy89 : parole 
+*** FLOP *** [4d 5d Kh]
+mbruschy89 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [4d 5d Kh] [9d]
+mbruschy89 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à mbruschy89.
+mbruschy89 a remporté 60  lors du pot .
+mbruschy89 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [4d 5d Kh 9d]
+Siège 1 : mbruschy89 (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°254606049108 : Tournoi #3852834258, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 29/01/2025 14:41:31 CET [29/01/2025 8:41:31 ET]
+Table '3852834258 1' 3-max Siège #1 est au bouton.
+Place 1: mbruschy89 (960 en jetons) 
+Place 3: psychoman59 (540 en jetons) 
+mbruschy89 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Js]
+mbruschy89 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [4c Kh 9h]
+psychoman59 : parole 
+mbruschy89 : parole 
+*** TOURNANT *** [4c Kh 9h] [9d]
+psychoman59 : parole 
+mbruschy89 : parole 
+*** RIVIÈRE *** [4c Kh 9h 9d] [Kc]
+psychoman59 : parole 
+mbruschy89 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [8h Js] (double paire, Rois et Neuf)
+mbruschy89 : montre [7c Jh] (double paire, Rois et Neuf)
+psychoman59 a remporté 30  lors du pot .
+mbruschy89 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [4c Kh 9h 9d Kc]
+Siège 1 : mbruschy89 (bouton) (petite blind) a montré [7c Jh] et a gagné (30) avec double paire, Rois et Neuf
+Siège 3 : psychoman59 (grosse blind) a montré [8h Js] et a gagné (30) avec double paire, Rois et Neuf
+
+
+
+Main PokerStars n°254606053679 : Tournoi #3852834258, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 29/01/2025 14:41:58 CET [29/01/2025 8:41:58 ET]
+Table '3852834258 1' 3-max Siège #3 est au bouton.
+Place 1: mbruschy89 (960 en jetons) 
+Place 3: psychoman59 (540 en jetons) 
+psychoman59 : met la petite blind. 15
+mbruschy89 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Jd]
+psychoman59 : suit. 15
+mbruschy89 : parole 
+*** FLOP *** [Td Qc Kc]
+mbruschy89 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Td Qc Kc] [3h]
+mbruschy89 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Td Qc Kc 3h] [6h]
+mbruschy89 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+mbruschy89 : montre [3d 4h] (une paire de Trois)
+psychoman59 : cache la main perdante. 
+mbruschy89 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Td Qc Kc 3h 6h]
+Siège 1 : mbruschy89 (grosse blind) a montré [3d 4h] et a gagné (60) avec une paire de Trois
+Siège 3 : psychoman59 (bouton) (petite blind) a caché la main perdante. [8h Jd]
+
+
+
+Main PokerStars n°254606059411 : Tournoi #3852834258, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 29/01/2025 14:42:31 CET [29/01/2025 8:42:31 ET]
+Table '3852834258 1' 3-max Siège #1 est au bouton.
+Place 1: mbruschy89 (990 en jetons) 
+Place 3: psychoman59 (510 en jetons) 
+mbruschy89 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 9c]
+mbruschy89 : relance. 60 à 90
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à mbruschy89.
+mbruschy89 a remporté 60  lors du pot .
+mbruschy89 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : mbruschy89 (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254606062212 : Tournoi #3852834258, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 29/01/2025 14:42:47 CET [29/01/2025 8:42:47 ET]
+Table '3852834258 1' 3-max Siège #3 est au bouton.
+Place 1: mbruschy89 (1020 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 20
+mbruschy89 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 3s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à mbruschy89.
+mbruschy89 a remporté 40  lors du pot .
+mbruschy89 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : mbruschy89 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254606062994 : Tournoi #3852834258, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 29/01/2025 14:42:52 CET [29/01/2025 8:42:52 ET]
+Table '3852834258 1' 3-max Siège #1 est au bouton.
+Place 1: mbruschy89 (1040 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+mbruschy89 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 5d]
+mbruschy89 : relance. 80 à 120
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à mbruschy89.
+mbruschy89 a remporté 80  lors du pot .
+mbruschy89 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : mbruschy89 (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254606064415 : Tournoi #3852834258, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 29/01/2025 14:43:00 CET [29/01/2025 8:43:00 ET]
+Table '3852834258 1' 3-max Siège #3 est au bouton.
+Place 1: mbruschy89 (1080 en jetons) 
+Place 3: psychoman59 (420 en jetons) 
+psychoman59 : met la petite blind. 20
+mbruschy89 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Jh]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à mbruschy89.
+mbruschy89 a remporté 40  lors du pot .
+mbruschy89 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : mbruschy89 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254606065200 : Tournoi #3852834258, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 29/01/2025 14:43:05 CET [29/01/2025 8:43:05 ET]
+Table '3852834258 1' 3-max Siège #1 est au bouton.
+Place 1: mbruschy89 (1100 en jetons) 
+Place 3: psychoman59 (400 en jetons) 
+mbruschy89 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 6s]
+mbruschy89 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [As Jd 2c]
+psychoman59 : parole 
+mbruschy89 : parole 
+*** TOURNANT *** [As Jd 2c] [3h]
+psychoman59 : parole 
+mbruschy89 : parole 
+*** RIVIÈRE *** [As Jd 2c 3h] [5s]
+psychoman59 : mise. 80
+mbruschy89 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [As Jd 2c 3h 5s]
+Siège 1 : mbruschy89 (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°254606069919 : Tournoi #3852834258, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 29/01/2025 14:43:32 CET [29/01/2025 8:43:32 ET]
+Table '3852834258 1' 3-max Siège #3 est au bouton.
+Place 1: mbruschy89 (1060 en jetons) 
+Place 3: psychoman59 (440 en jetons) 
+psychoman59 : met la petite blind. 20
+mbruschy89 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Ks]
+psychoman59 : relance. 40 à 80
+mbruschy89 : suit. 40
+*** FLOP *** [Th Tc Ad]
+mbruschy89 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Th Tc Ad] [3c]
+mbruschy89 : parole 
+psychoman59 : mise. 80
+mbruschy89 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Th Tc Ad 3c]
+Siège 1 : mbruschy89 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°254606072738 : Tournoi #3852834258, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 29/01/2025 14:43:49 CET [29/01/2025 8:43:49 ET]
+Table '3852834258 1' 3-max Siège #1 est au bouton.
+Place 1: mbruschy89 (980 en jetons) 
+Place 3: psychoman59 (520 en jetons) 
+mbruschy89 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Jh]
+mbruschy89 : relance. 80 à 120
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à mbruschy89.
+mbruschy89 a remporté 80  lors du pot .
+mbruschy89 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : mbruschy89 (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254606073965 : Tournoi #3852834258, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 29/01/2025 14:43:56 CET [29/01/2025 8:43:56 ET]
+Table '3852834258 1' 3-max Siège #3 est au bouton.
+Place 1: mbruschy89 (1020 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 20
+mbruschy89 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 7d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à mbruschy89.
+mbruschy89 a remporté 40  lors du pot .
+mbruschy89 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : mbruschy89 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254606074725 : Tournoi #3852834258, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 29/01/2025 14:44:00 CET [29/01/2025 8:44:00 ET]
+Table '3852834258 1' 3-max Siège #1 est au bouton.
+Place 1: mbruschy89 (1040 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+mbruschy89 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 9c]
+mbruschy89 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : mbruschy89 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°254606075638 : Tournoi #3852834258, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 29/01/2025 14:44:06 CET [29/01/2025 8:44:06 ET]
+Table '3852834258 1' 3-max Siège #3 est au bouton.
+Place 1: mbruschy89 (1020 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 20
+mbruschy89 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Qh]
+psychoman59 : relance. 40 à 80
+mbruschy89 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : mbruschy89 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°254606077612 : Tournoi #3852834258, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 29/01/2025 14:44:17 CET [29/01/2025 8:44:17 ET]
+Table '3852834258 1' 3-max Siège #1 est au bouton.
+Place 1: mbruschy89 (980 en jetons) 
+Place 3: psychoman59 (520 en jetons) 
+mbruschy89 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 2c]
+mbruschy89 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Ah 6d Jd]
+psychoman59 : parole 
+mbruschy89 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à mbruschy89.
+mbruschy89 a remporté 80  lors du pot .
+mbruschy89 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Ah 6d Jd]
+Siège 1 : mbruschy89 (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°254606080031 : Tournoi #3852834258, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 29/01/2025 14:44:31 CET [29/01/2025 8:44:31 ET]
+Table '3852834258 1' 3-max Siège #3 est au bouton.
+Place 1: mbruschy89 (1020 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 20
+mbruschy89 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Js]
+psychoman59 : relance. 440 à 480 et est all-in.
+mbruschy89 : passe. 
+Personne n'a suivi. (440) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : mbruschy89 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°254606081757 : Tournoi #3852834258, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 29/01/2025 14:44:41 CET [29/01/2025 8:44:41 ET]
+Table '3852834258 1' 3-max Siège #1 est au bouton.
+Place 1: mbruschy89 (980 en jetons) 
+Place 3: psychoman59 (520 en jetons) 
+mbruschy89 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 2s]
+mbruschy89 : relance. 120 à 180
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à mbruschy89.
+mbruschy89 a remporté 120  lors du pot .
+mbruschy89 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : mbruschy89 (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254606083643 : Tournoi #3852834258, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 29/01/2025 14:44:52 CET [29/01/2025 8:44:52 ET]
+Table '3852834258 1' 3-max Siège #3 est au bouton.
+Place 1: mbruschy89 (1040 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+psychoman59 : met la petite blind. 30
+mbruschy89 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Ts]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à mbruschy89.
+mbruschy89 a remporté 60  lors du pot .
+mbruschy89 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : mbruschy89 (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254606084391 : Tournoi #3852834258, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 29/01/2025 14:44:57 CET [29/01/2025 8:44:57 ET]
+Table '3852834258 1' 3-max Siège #1 est au bouton.
+Place 1: mbruschy89 (1070 en jetons) 
+Place 3: psychoman59 (430 en jetons) 
+mbruschy89 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 8c]
+mbruschy89 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : mbruschy89 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°254606085182 : Tournoi #3852834258, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 29/01/2025 14:45:01 CET [29/01/2025 8:45:01 ET]
+Table '3852834258 1' 3-max Siège #3 est au bouton.
+Place 1: mbruschy89 (1040 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+psychoman59 : met la petite blind. 30
+mbruschy89 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 5c]
+psychoman59 : suit. 30
+mbruschy89 : parole 
+*** FLOP *** [8s Ac 3s]
+mbruschy89 : parole 
+psychoman59 : mise. 400 et est all-in.
+mbruschy89 : passe. 
+Personne n'a suivi. (400) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [8s Ac 3s]
+Siège 1 : mbruschy89 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°254606087811 : Tournoi #3852834258, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 29/01/2025 14:45:16 CET [29/01/2025 8:45:16 ET]
+Table '3852834258 1' 3-max Siège #1 est au bouton.
+Place 1: mbruschy89 (980 en jetons) 
+Place 3: psychoman59 (520 en jetons) 
+mbruschy89 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Th]
+mbruschy89 : relance. 60 à 120
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à mbruschy89.
+mbruschy89 a remporté 120  lors du pot .
+mbruschy89 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : mbruschy89 (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254606089865 : Tournoi #3852834258, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 29/01/2025 14:45:28 CET [29/01/2025 8:45:28 ET]
+Table '3852834258 1' 3-max Siège #3 est au bouton.
+Place 1: mbruschy89 (1040 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+psychoman59 : met la petite blind. 30
+mbruschy89 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Ah]
+psychoman59 : relance. 400 à 460 et est all-in.
+mbruschy89 : suit. 400
+*** FLOP *** [As 4c 4d]
+*** TOURNANT *** [As 4c 4d] [Kh]
+*** RIVIÈRE *** [As 4c 4d Kh] [7c]
+*** ABATTAGE ***
+mbruschy89 : montre [Jc Jh] (double paire, Valets et Quatre)
+psychoman59 : montre [2c Ah] (double paire, As et Quatre)
+psychoman59 a remporté 920  lors du pot .
+*** SYNTHÈSE ***
+Pot total 920 | Commission 0 
+Tableau [As 4c 4d Kh 7c]
+Siège 1 : mbruschy89 (grosse blind) a montré [Jc Jh] et a perdu avec double paire, Valets et Quatre
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [2c Ah] et a gagné (920) avec double paire, As et Quatre
+
+
+
+Main PokerStars n°254606092495 : Tournoi #3852834258, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 29/01/2025 14:45:44 CET [29/01/2025 8:45:44 ET]
+Table '3852834258 1' 3-max Siège #1 est au bouton.
+Place 1: mbruschy89 (580 en jetons) 
+Place 3: psychoman59 (920 en jetons) 
+mbruschy89 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Qh]
+mbruschy89 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Qs 9c 5s]
+psychoman59 : parole 
+mbruschy89 : mise. 60
+psychoman59 : relance. 800 à 860 et est all-in.
+mbruschy89 : suit. 460 et est all-in.
+Personne n'a suivi. (340) sont retournés à psychoman59.
+*** TOURNANT *** [Qs 9c 5s] [6h]
+*** RIVIÈRE *** [Qs 9c 5s 6h] [9s]
+*** ABATTAGE ***
+psychoman59 : montre [8c Qh] (double paire, Dames et Neuf)
+mbruschy89 : montre [Qd 7h] (double paire, Dames et Neuf - plus basse kicker)
+psychoman59 a remporté 1160  lors du pot .
+mbruschy89 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 1160 | Commission 0 
+Tableau [Qs 9c 5s 6h 9s]
+Siège 1 : mbruschy89 (bouton) (petite blind) a montré [Qd 7h] et a perdu avec double paire, Dames et Neuf
+Siège 3 : psychoman59 (grosse blind) a montré [8c Qh] et a gagné (1160) avec double paire, Dames et Neuf
+
+
+

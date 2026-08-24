@@ -1,0 +1,448 @@
+﻿Main PokerStars n°261244971822 : Tournoi #4011226788, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/06/2026 11:33:59 CET [25/06/2026 5:33:59 ET]
+Table '4011226788 1' 3-max Siège #1 est au bouton.
+Place 1: abelpazo89 (500 en jetons) 
+Place 2: chemajm3 (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+chemajm3 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 4s]
+abelpazo89 : suit. 20
+chemajm3 : passe. 
+psychoman59 : parole 
+*** FLOP *** [Qh 7c 7h]
+psychoman59 : parole 
+abelpazo89 : parole 
+*** TOURNANT *** [Qh 7c 7h] [Jh]
+psychoman59 : parole 
+abelpazo89 : parole 
+*** RIVIÈRE *** [Qh 7c 7h Jh] [7s]
+psychoman59 : mise. 50
+abelpazo89 : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [Qh 7c 7h Jh 7s]
+Siège 1 : abelpazo89 (bouton) s'est couché. sur le Rivière
+Siège 2 : chemajm3 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (50)
+
+
+
+Main PokerStars n°261244974075 : Tournoi #4011226788, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/06/2026 11:34:31 CET [25/06/2026 5:34:31 ET]
+Table '4011226788 1' 3-max Siège #2 est au bouton.
+Place 1: abelpazo89 (480 en jetons) 
+Place 2: chemajm3 (490 en jetons) 
+Place 3: psychoman59 (530 en jetons) 
+psychoman59 : met la petite blind. 10
+abelpazo89 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 8h]
+chemajm3 : suit. 20
+psychoman59 : passe. 
+abelpazo89 : parole 
+*** FLOP *** [Ts 6s Jc]
+abelpazo89 : parole 
+chemajm3 : mise. 20
+abelpazo89 : passe. 
+Personne n'a suivi. (20) sont retournés à chemajm3.
+chemajm3 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [Ts 6s Jc]
+Siège 1 : abelpazo89 (grosse blind) s'est couché. sur le Flop
+Siège 2 : chemajm3 (bouton) a remporté (50)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261244975935 : Tournoi #4011226788, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/06/2026 11:34:58 CET [25/06/2026 5:34:58 ET]
+Table '4011226788 1' 3-max Siège #3 est au bouton.
+Place 1: abelpazo89 (460 en jetons) 
+Place 2: chemajm3 (520 en jetons) 
+Place 3: psychoman59 (520 en jetons) 
+abelpazo89 : met la petite blind. 10
+chemajm3 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 7d]
+psychoman59 : passe. 
+abelpazo89 : suit. 10
+chemajm3 : parole 
+*** FLOP *** [Jh 8d 3c]
+abelpazo89 : parole 
+chemajm3 : parole 
+*** TOURNANT *** [Jh 8d 3c] [2h]
+abelpazo89 : parole 
+chemajm3 : parole 
+*** RIVIÈRE *** [Jh 8d 3c 2h] [5d]
+abelpazo89 : mise. 40
+chemajm3 : suit. 40
+*** ABATTAGE ***
+abelpazo89 : montre [Ad 5s] (une paire de Cinq)
+chemajm3 : cache la main perdante. 
+abelpazo89 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Jh 8d 3c 2h 5d]
+Siège 1 : abelpazo89 (petite blind) a montré [Ad 5s] et a gagné (120) avec une paire de Cinq
+Siège 2 : chemajm3 (grosse blind) a caché la main perdante. [2s 6h]
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261244977613 : Tournoi #4011226788, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/06/2026 11:35:22 CET [25/06/2026 5:35:22 ET]
+Table '4011226788 1' 3-max Siège #1 est au bouton.
+Place 1: abelpazo89 (520 en jetons) 
+Place 2: chemajm3 (460 en jetons) 
+Place 3: psychoman59 (520 en jetons) 
+chemajm3 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 8c]
+abelpazo89 : relance. 500 à 520 et est all-in.
+chemajm3 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (500) sont retournés à abelpazo89.
+abelpazo89 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : abelpazo89 (bouton) a remporté (50)
+Siège 2 : chemajm3 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261244978626 : Tournoi #4011226788, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/06/2026 11:35:37 CET [25/06/2026 5:35:37 ET]
+Table '4011226788 1' 3-max Siège #2 est au bouton.
+Place 1: abelpazo89 (550 en jetons) 
+Place 2: chemajm3 (450 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+abelpazo89 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 3c]
+chemajm3 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à abelpazo89.
+abelpazo89 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : abelpazo89 (grosse blind) a remporté (20)
+Siège 2 : chemajm3 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261244979080 : Tournoi #4011226788, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/06/2026 11:35:43 CET [25/06/2026 5:35:43 ET]
+Table '4011226788 1' 3-max Siège #3 est au bouton.
+Place 1: abelpazo89 (560 en jetons) 
+Place 2: chemajm3 (450 en jetons) 
+Place 3: psychoman59 (490 en jetons) 
+abelpazo89 : met la petite blind. 10
+chemajm3 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 5c]
+psychoman59 : suit. 20
+abelpazo89 : suit. 10
+chemajm3 : parole 
+*** FLOP *** [3c 2c 6c]
+abelpazo89 : parole 
+chemajm3 : mise. 20
+psychoman59 : suit. 20
+abelpazo89 : suit. 20
+*** TOURNANT *** [3c 2c 6c] [Js]
+abelpazo89 : parole 
+chemajm3 : mise. 60
+psychoman59 : suit. 60
+abelpazo89 : suit. 60
+*** RIVIÈRE *** [3c 2c 6c Js] [8c]
+abelpazo89 : parole 
+chemajm3 : mise. 180
+psychoman59 : suit. 180
+abelpazo89 : passe. 
+*** ABATTAGE ***
+chemajm3 : montre [4c Jh] (une couleur, hauteur Huit)
+psychoman59 : montre [Kc 5c] (une couleur, hauteur Roi)
+psychoman59 a remporté 660  lors du pot .
+*** SYNTHÈSE ***
+Pot total 660 | Commission 0 
+Tableau [3c 2c 6c Js 8c]
+Siège 1 : abelpazo89 (petite blind) s'est couché. sur le Rivière
+Siège 2 : chemajm3 (grosse blind) a montré [4c Jh] et a perdu avec une couleur, hauteur Huit
+Siège 3 : psychoman59 (bouton) a montré [Kc 5c] et a gagné (660) avec une couleur, hauteur Roi
+
+
+
+Main PokerStars n°261244981850 : Tournoi #4011226788, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/06/2026 11:36:21 CET [25/06/2026 5:36:21 ET]
+Table '4011226788 1' 3-max Siège #1 est au bouton.
+Place 1: abelpazo89 (460 en jetons) 
+Place 2: chemajm3 (170 en jetons) 
+Place 3: psychoman59 (870 en jetons) 
+chemajm3 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 9c]
+abelpazo89 : suit. 20
+chemajm3 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [4h Qs 4d]
+chemajm3 : mise. 150 et est all-in.
+psychoman59 : passe. 
+abelpazo89 : suit. 150
+*** TOURNANT *** [4h Qs 4d] [7d]
+*** RIVIÈRE *** [4h Qs 4d 7d] [Qd]
+*** ABATTAGE ***
+chemajm3 : montre [Qc 8h] (un full, full aux Dames par les Quatre)
+abelpazo89 : montre [Kd Kh] (double paire, Rois et Dames)
+chemajm3 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [4h Qs 4d 7d Qd]
+Siège 1 : abelpazo89 (bouton) a montré [Kd Kh] et a perdu avec double paire, Rois et Dames
+Siège 2 : chemajm3 (petite blind) a montré [Qc 8h] et a gagné (360) avec un full, full aux Dames par les Quatre
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261244983419 : Tournoi #4011226788, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/06/2026 11:36:43 CET [25/06/2026 5:36:43 ET]
+Table '4011226788 1' 3-max Siège #2 est au bouton.
+Place 1: abelpazo89 (290 en jetons) 
+Place 2: chemajm3 (360 en jetons) 
+Place 3: psychoman59 (850 en jetons) 
+psychoman59 : met la petite blind. 10
+abelpazo89 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 4d]
+chemajm3 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à abelpazo89.
+abelpazo89 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : abelpazo89 (grosse blind) a remporté (20)
+Siège 2 : chemajm3 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261244984077 : Tournoi #4011226788, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/06/2026 11:36:52 CET [25/06/2026 5:36:52 ET]
+Table '4011226788 1' 3-max Siège #3 est au bouton.
+Place 1: abelpazo89 (300 en jetons) 
+Place 2: chemajm3 (360 en jetons) 
+Place 3: psychoman59 (840 en jetons) 
+abelpazo89 : met la petite blind. 10
+chemajm3 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 8c]
+psychoman59 : passe. 
+abelpazo89 : suit. 10
+chemajm3 : parole 
+*** FLOP *** [Th 7c 2h]
+abelpazo89 : parole 
+chemajm3 : mise. 40
+abelpazo89 : suit. 40
+*** TOURNANT *** [Th 7c 2h] [2s]
+abelpazo89 : mise. 120
+chemajm3 : passe. 
+Personne n'a suivi. (120) sont retournés à abelpazo89.
+abelpazo89 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Th 7c 2h 2s]
+Siège 1 : abelpazo89 (petite blind) a remporté (120)
+Siège 2 : chemajm3 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261244985643 : Tournoi #4011226788, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 25/06/2026 11:37:14 CET [25/06/2026 5:37:14 ET]
+Table '4011226788 1' 3-max Siège #1 est au bouton.
+Place 1: abelpazo89 (360 en jetons) 
+Place 2: chemajm3 (300 en jetons) 
+Place 3: psychoman59 (840 en jetons) 
+chemajm3 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Js]
+abelpazo89 : suit. 30
+chemajm3 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Kc 9s 8d]
+chemajm3 : parole 
+psychoman59 : parole 
+abelpazo89 : mise. 30
+chemajm3 : passe. 
+psychoman59 : suit. 30
+*** TOURNANT *** [Kc 9s 8d] [Jd]
+psychoman59 : parole 
+abelpazo89 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à abelpazo89.
+abelpazo89 a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Tableau [Kc 9s 8d Jd]
+Siège 1 : abelpazo89 (bouton) a remporté (150)
+Siège 2 : chemajm3 (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°261244987768 : Tournoi #4011226788, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 25/06/2026 11:37:44 CET [25/06/2026 5:37:44 ET]
+Table '4011226788 1' 3-max Siège #2 est au bouton.
+Place 1: abelpazo89 (450 en jetons) 
+Place 2: chemajm3 (270 en jetons) 
+Place 3: psychoman59 (780 en jetons) 
+psychoman59 : met la petite blind. 15
+abelpazo89 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 2s]
+chemajm3 : relance. 240 à 270 et est all-in.
+psychoman59 : passe. 
+abelpazo89 : passe. 
+Personne n'a suivi. (240) sont retournés à chemajm3.
+chemajm3 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : abelpazo89 (grosse blind) s'est couché. avant Flop
+Siège 2 : chemajm3 (bouton) a remporté (75)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261244988330 : Tournoi #4011226788, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 25/06/2026 11:37:51 CET [25/06/2026 5:37:51 ET]
+Table '4011226788 1' 3-max Siège #3 est au bouton.
+Place 1: abelpazo89 (420 en jetons) 
+Place 2: chemajm3 (315 en jetons) 
+Place 3: psychoman59 (765 en jetons) 
+abelpazo89 : met la petite blind. 15
+chemajm3 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Kh]
+psychoman59 : suit. 30
+abelpazo89 : suit. 15
+chemajm3 : parole 
+*** FLOP *** [7s 4c 9s]
+abelpazo89 : mise. 390 et est all-in.
+chemajm3 : suit. 285 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (105) sont retournés à abelpazo89.
+*** TOURNANT *** [7s 4c 9s] [5d]
+*** RIVIÈRE *** [7s 4c 9s 5d] [5c]
+*** ABATTAGE ***
+abelpazo89 : montre [8s 7d] (double paire, Sept et Cinq)
+chemajm3 : montre [9c Js] (double paire, Neuf et Cinq)
+chemajm3 a remporté 660  lors du pot .
+*** SYNTHÈSE ***
+Pot total 660 | Commission 0 
+Tableau [7s 4c 9s 5d 5c]
+Siège 1 : abelpazo89 (petite blind) a montré [8s 7d] et a perdu avec double paire, Sept et Cinq
+Siège 2 : chemajm3 (grosse blind) a montré [9c Js] et a gagné (660) avec double paire, Neuf et Cinq
+Siège 3 : psychoman59 (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261244989883 : Tournoi #4011226788, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 25/06/2026 11:38:12 CET [25/06/2026 5:38:12 ET]
+Table '4011226788 1' 3-max Siège #1 est au bouton.
+Place 1: abelpazo89 (105 en jetons) 
+Place 2: chemajm3 (660 en jetons) 
+Place 3: psychoman59 (735 en jetons) 
+chemajm3 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 3s]
+abelpazo89 : suit. 30
+chemajm3 : passe. 
+psychoman59 : parole 
+*** FLOP *** [8s As Jd]
+psychoman59 : parole 
+abelpazo89 : parole 
+*** TOURNANT *** [8s As Jd] [2d]
+psychoman59 : parole 
+abelpazo89 : parole 
+*** RIVIÈRE *** [8s As Jd 2d] [7s]
+psychoman59 : mise. 75
+abelpazo89 : passe. 
+Personne n'a suivi. (75) sont retournés à psychoman59.
+psychoman59 a remporté 75  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Tableau [8s As Jd 2d 7s]
+Siège 1 : abelpazo89 (bouton) s'est couché. sur le Rivière
+Siège 2 : chemajm3 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (75)
+
+
+
+Main PokerStars n°261244992421 : Tournoi #4011226788, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 25/06/2026 11:38:47 CET [25/06/2026 5:38:47 ET]
+Table '4011226788 1' 3-max Siège #2 est au bouton.
+Place 1: abelpazo89 (75 en jetons) 
+Place 2: chemajm3 (645 en jetons) 
+Place 3: psychoman59 (780 en jetons) 
+psychoman59 : met la petite blind. 15
+abelpazo89 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 7h]
+chemajm3 : passe. 
+psychoman59 : suit. 15
+abelpazo89 : parole 
+*** FLOP *** [Ac 5s Jh]
+psychoman59 : parole 
+abelpazo89 : parole 
+*** TOURNANT *** [Ac 5s Jh] [8c]
+psychoman59 : parole 
+abelpazo89 : parole 
+*** RIVIÈRE *** [Ac 5s Jh 8c] [7s]
+psychoman59 : mise. 45
+abelpazo89 : suit. 45 et est all-in.
+*** ABATTAGE ***
+psychoman59 : montre [6h 7h] (une paire de Sept)
+abelpazo89 : montre [6d 7c] (une paire de Sept)
+psychoman59 a remporté 75  lors du pot .
+abelpazo89 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Tableau [Ac 5s Jh 8c 7s]
+Siège 1 : abelpazo89 (grosse blind) a montré [6d 7c] et a gagné (75) avec une paire de Sept
+Siège 2 : chemajm3 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [6h 7h] et a gagné (75) avec une paire de Sept
+
+
+
+Main PokerStars n°261244994251 : Tournoi #4011226788, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 25/06/2026 11:39:12 CET [25/06/2026 5:39:12 ET]
+Table '4011226788 1' 3-max Siège #3 est au bouton.
+Place 1: abelpazo89 (75 en jetons) 
+Place 2: chemajm3 (645 en jetons) 
+Place 3: psychoman59 (780 en jetons) 
+abelpazo89 : met la petite blind. 15
+chemajm3 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Ts]
+psychoman59 : relance. 750 à 780 et est all-in.
+abelpazo89 : suit. 60 et est all-in.
+chemajm3 : suit. 615 et est all-in.
+Personne n'a suivi. (135) sont retournés à psychoman59.
+*** FLOP *** [8c 4s Tc]
+*** TOURNANT *** [8c 4s Tc] [5s]
+*** RIVIÈRE *** [8c 4s Tc 5s] [3h]
+*** ABATTAGE ***
+chemajm3 : montre [Qs Kd] (Hauteur Roi)
+psychoman59 : montre [Td Ts] (un brelan de Dix)
+psychoman59 a remporté 1140  parallèle lors du pot .
+abelpazo89 : montre [Js 3s] (une paire de Trois)
+psychoman59 a remporté 225  principal lors du pot .
+chemajm3 a fini le tournoi en 2e position.
+abelpazo89 a fini le tournoi en 3e position.
+psychoman59 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 1365 Principal pot 225. Parallèle pot 1140. | Commission 0 
+Tableau [8c 4s Tc 5s 3h]
+Siège 1 : abelpazo89 (petite blind) a montré [Js 3s] et a perdu avec une paire de Trois
+Siège 2 : chemajm3 (grosse blind) a montré [Qs Kd] et a perdu avec Hauteur Roi
+Siège 3 : psychoman59 (bouton) a montré [Td Ts] et a gagné (1365) avec un brelan de Dix
+
+
+

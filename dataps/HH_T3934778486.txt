@@ -1,0 +1,788 @@
+﻿Main PokerStars n°258031525698 : Tournoi #3934778486, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/10/2025 11:28:36 CET [07/10/2025 5:28:36 ET]
+Table '3934778486 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: Jorge Lorenzo P (500 en jetons) 
+Place 3: xhelu (500 en jetons) 
+Jorge Lorenzo P : met la petite blind. 10
+xhelu : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 8c]
+psychoman59 : passe. 
+Jorge Lorenzo P : suit. 10
+xhelu : parole 
+*** FLOP *** [4h 8d Ts]
+Jorge Lorenzo P : mise. 20
+xhelu : suit. 20
+*** TOURNANT *** [4h 8d Ts] [Kh]
+Jorge Lorenzo P : parole 
+xhelu : mise. 30
+Jorge Lorenzo P : passe. 
+Personne n'a suivi. (30) sont retournés à xhelu.
+xhelu a remporté 80  lors du pot .
+xhelu : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [4h 8d Ts Kh]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Jorge Lorenzo P (petite blind) s'est couché. sur le Tournant
+Siège 3 : xhelu (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°258031528545 : Tournoi #3934778486, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/10/2025 11:29:09 CET [07/10/2025 5:29:09 ET]
+Table '3934778486 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: Jorge Lorenzo P (460 en jetons) 
+Place 3: xhelu (540 en jetons) 
+xhelu : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Qc]
+Jorge Lorenzo P : suit. 20
+xhelu : passe. 
+psychoman59 : parole 
+*** FLOP *** [8h 9h Jd]
+psychoman59 : parole 
+Jorge Lorenzo P : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [8h 9h Jd] [Qd]
+psychoman59 : parole 
+Jorge Lorenzo P : mise. 100
+psychoman59 : suit. 100
+*** RIVIÈRE *** [8h 9h Jd Qd] [7s]
+psychoman59 : parole 
+Jorge Lorenzo P : mise. 120
+psychoman59 : suit. 120
+*** ABATTAGE ***
+Jorge Lorenzo P : montre [9d Th] (une suite, Huit à Dame)
+psychoman59 : montre [Td Qc] (une suite, Huit à Dame)
+psychoman59 a remporté 265  lors du pot .
+Jorge Lorenzo P a remporté 265  lors du pot .
+*** SYNTHÈSE ***
+Pot total 530 | Commission 0 
+Tableau [8h 9h Jd Qd 7s]
+Siège 1 : psychoman59 (grosse blind) a montré [Td Qc] et a gagné (265) avec une suite, Huit à Dame
+Siège 2 : Jorge Lorenzo P (bouton) a montré [9d Th] et a gagné (265) avec une suite, Huit à Dame
+Siège 3 : xhelu (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258031531107 : Tournoi #3934778486, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/10/2025 11:29:39 CET [07/10/2025 5:29:39 ET]
+Table '3934778486 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (505 en jetons) 
+Place 2: Jorge Lorenzo P (465 en jetons) 
+Place 3: xhelu (530 en jetons) 
+psychoman59 : met la petite blind. 10
+Jorge Lorenzo P : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 6d]
+xhelu : passe. 
+psychoman59 : relance. 485 à 505 et est all-in.
+Jorge Lorenzo P : suit. 445 et est all-in.
+Personne n'a suivi. (40) sont retournés à psychoman59.
+*** FLOP *** [Kc Ts Kd]
+*** TOURNANT *** [Kc Ts Kd] [9d]
+*** RIVIÈRE *** [Kc Ts Kd 9d] [Jh]
+*** ABATTAGE ***
+psychoman59 : montre [6h 6d] (double paire, Rois et Six)
+Jorge Lorenzo P : montre [Qh Qd] (une suite, Neuf à Roi)
+Jorge Lorenzo P a remporté 930  lors du pot .
+*** SYNTHÈSE ***
+Pot total 930 | Commission 0 
+Tableau [Kc Ts Kd 9d Jh]
+Siège 1 : psychoman59 (petite blind) a montré [6h 6d] et a perdu avec double paire, Rois et Six
+Siège 2 : Jorge Lorenzo P (grosse blind) a montré [Qh Qd] et a gagné (930) avec une suite, Neuf à Roi
+Siège 3 : xhelu (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°258031532530 : Tournoi #3934778486, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/10/2025 11:29:55 CET [07/10/2025 5:29:55 ET]
+Table '3934778486 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (40 en jetons) 
+Place 2: Jorge Lorenzo P (930 en jetons) 
+Place 3: xhelu (530 en jetons) 
+Jorge Lorenzo P : met la petite blind. 10
+xhelu : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 4d]
+psychoman59 : passe. 
+Jorge Lorenzo P : relance. 20 à 40
+xhelu : suit. 20
+*** FLOP *** [Kd 3d 8s]
+Jorge Lorenzo P : parole 
+xhelu : parole 
+*** TOURNANT *** [Kd 3d 8s] [Ad]
+Jorge Lorenzo P : parole 
+xhelu : mise. 30
+Jorge Lorenzo P : suit. 30
+*** RIVIÈRE *** [Kd 3d 8s Ad] [Ks]
+Jorge Lorenzo P : parole 
+xhelu : mise. 40
+Jorge Lorenzo P : suit. 40
+*** ABATTAGE ***
+xhelu : montre [As 6d] (double paire, As et Rois)
+Jorge Lorenzo P : montre [Ah 7d] (double paire, As et Rois)
+Jorge Lorenzo P a remporté 110  lors du pot .
+xhelu a remporté 110  lors du pot .
+*** SYNTHÈSE ***
+Pot total 220 | Commission 0 
+Tableau [Kd 3d 8s Ad Ks]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Jorge Lorenzo P (petite blind) a montré [Ah 7d] et a gagné (110) avec double paire, As et Rois
+Siège 3 : xhelu (grosse blind) a montré [As 6d] et a gagné (110) avec double paire, As et Rois
+
+
+
+Main PokerStars n°258031536958 : Tournoi #3934778486, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/10/2025 11:30:46 CET [07/10/2025 5:30:46 ET]
+Table '3934778486 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (40 en jetons) 
+Place 2: Jorge Lorenzo P (930 en jetons) 
+Place 3: xhelu (530 en jetons) 
+xhelu : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 3c]
+Jorge Lorenzo P : relance. 20 à 40
+xhelu : suit. 30
+psychoman59 : suit. 20 et est all-in.
+*** FLOP *** [8c 6c 7d]
+xhelu : parole 
+Jorge Lorenzo P : mise. 40
+xhelu : passe. 
+Personne n'a suivi. (40) sont retournés à Jorge Lorenzo P.
+*** TOURNANT *** [8c 6c 7d] [2d]
+*** RIVIÈRE *** [8c 6c 7d 2d] [7s]
+*** ABATTAGE ***
+psychoman59 : montre [3h 3c] (double paire, Sept et Trois)
+Jorge Lorenzo P : montre [4c Ac] (une paire de Sept)
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [8c 6c 7d 2d 7s]
+Siège 1 : psychoman59 (grosse blind) a montré [3h 3c] et a gagné (120) avec double paire, Sept et Trois
+Siège 2 : Jorge Lorenzo P (bouton) a montré [4c Ac] et a perdu avec une paire de Sept
+Siège 3 : xhelu (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°258031539071 : Tournoi #3934778486, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/10/2025 11:31:10 CET [07/10/2025 5:31:10 ET]
+Table '3934778486 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (120 en jetons) 
+Place 2: Jorge Lorenzo P (890 en jetons) 
+Place 3: xhelu (490 en jetons) 
+psychoman59 : met la petite blind. 10
+Jorge Lorenzo P : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d As]
+xhelu : relance. 20 à 40
+psychoman59 : relance. 80 à 120 et est all-in.
+Jorge Lorenzo P : passe. 
+xhelu : suit. 80
+*** FLOP *** [Tc Ad 2c]
+*** TOURNANT *** [Tc Ad 2c] [4h]
+*** RIVIÈRE *** [Tc Ad 2c 4h] [6d]
+*** ABATTAGE ***
+psychoman59 : montre [8d As] (une paire de As)
+xhelu : montre [Kd 9d] (Hauteur As)
+psychoman59 a remporté 260  lors du pot .
+*** SYNTHÈSE ***
+Pot total 260 | Commission 0 
+Tableau [Tc Ad 2c 4h 6d]
+Siège 1 : psychoman59 (petite blind) a montré [8d As] et a gagné (260) avec une paire de As
+Siège 2 : Jorge Lorenzo P (grosse blind) s'est couché. avant Flop
+Siège 3 : xhelu (bouton) a montré [Kd 9d] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°258031540540 : Tournoi #3934778486, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/10/2025 11:31:27 CET [07/10/2025 5:31:27 ET]
+Table '3934778486 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (260 en jetons) 
+Place 2: Jorge Lorenzo P (870 en jetons) 
+Place 3: xhelu (370 en jetons) 
+Jorge Lorenzo P : met la petite blind. 10
+xhelu : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 2h]
+psychoman59 : passe. 
+Jorge Lorenzo P : suit. 10
+xhelu : parole 
+*** FLOP *** [8s Kc 3c]
+Jorge Lorenzo P : mise. 20
+xhelu : suit. 20
+*** TOURNANT *** [8s Kc 3c] [Jc]
+Jorge Lorenzo P : parole 
+xhelu : mise. 30
+Jorge Lorenzo P : passe. 
+Personne n'a suivi. (30) sont retournés à xhelu.
+xhelu a remporté 80  lors du pot .
+xhelu : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [8s Kc 3c Jc]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Jorge Lorenzo P (petite blind) s'est couché. sur le Tournant
+Siège 3 : xhelu (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°258031542342 : Tournoi #3934778486, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 07/10/2025 11:31:47 CET [07/10/2025 5:31:47 ET]
+Table '3934778486 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (260 en jetons) 
+Place 2: Jorge Lorenzo P (830 en jetons) 
+Place 3: xhelu (410 en jetons) 
+xhelu : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Tc]
+Jorge Lorenzo P : passe. 
+xhelu : relance. 380 à 410 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (380) sont retournés à xhelu.
+xhelu a remporté 60  lors du pot .
+xhelu : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Jorge Lorenzo P (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : xhelu (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°258031543038 : Tournoi #3934778486, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 07/10/2025 11:31:55 CET [07/10/2025 5:31:55 ET]
+Table '3934778486 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (230 en jetons) 
+Place 2: Jorge Lorenzo P (830 en jetons) 
+Place 3: xhelu (440 en jetons) 
+psychoman59 : met la petite blind. 15
+Jorge Lorenzo P : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Td]
+xhelu : relance. 410 à 440 et est all-in.
+psychoman59 : suit. 215 et est all-in.
+Jorge Lorenzo P : passe. 
+Personne n'a suivi. (210) sont retournés à xhelu.
+*** FLOP *** [Ac 2d 8s]
+*** TOURNANT *** [Ac 2d 8s] [8c]
+*** RIVIÈRE *** [Ac 2d 8s 8c] [Ts]
+*** ABATTAGE ***
+psychoman59 : montre [Qs Td] (double paire, Dix et Huit)
+xhelu : montre [5d 5c] (double paire, Huit et Cinq)
+psychoman59 a remporté 490  lors du pot .
+*** SYNTHÈSE ***
+Pot total 490 | Commission 0 
+Tableau [Ac 2d 8s 8c Ts]
+Siège 1 : psychoman59 (petite blind) a montré [Qs Td] et a gagné (490) avec double paire, Dix et Huit
+Siège 2 : Jorge Lorenzo P (grosse blind) s'est couché. avant Flop
+Siège 3 : xhelu (bouton) a montré [5d 5c] et a perdu avec double paire, Huit et Cinq
+
+
+
+Main PokerStars n°258031544351 : Tournoi #3934778486, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 07/10/2025 11:32:09 CET [07/10/2025 5:32:09 ET]
+Table '3934778486 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (490 en jetons) 
+Place 2: Jorge Lorenzo P (800 en jetons) 
+Place 3: xhelu (210 en jetons) 
+Jorge Lorenzo P : met la petite blind. 15
+xhelu : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 5h]
+psychoman59 : passe. 
+Jorge Lorenzo P : passe. 
+Personne n'a suivi. (15) sont retournés à xhelu.
+xhelu a remporté 30  lors du pot .
+xhelu : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Jorge Lorenzo P (petite blind) s'est couché. avant Flop
+Siège 3 : xhelu (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°258031544955 : Tournoi #3934778486, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 07/10/2025 11:32:16 CET [07/10/2025 5:32:16 ET]
+Table '3934778486 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (490 en jetons) 
+Place 2: Jorge Lorenzo P (785 en jetons) 
+Place 3: xhelu (225 en jetons) 
+xhelu : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Qd]
+Jorge Lorenzo P : relance. 30 à 60
+xhelu : relance. 165 à 225 et est all-in.
+psychoman59 : passe. 
+Jorge Lorenzo P : suit. 165
+*** FLOP *** [8h 2s Jh]
+*** TOURNANT *** [8h 2s Jh] [Qc]
+*** RIVIÈRE *** [8h 2s Jh Qc] [4h]
+*** ABATTAGE ***
+xhelu : montre [Qh As] (une paire de Dames)
+Jorge Lorenzo P : montre [3s Kh] (Hauteur Roi)
+xhelu a remporté 480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [8h 2s Jh Qc 4h]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Jorge Lorenzo P (bouton) a montré [3s Kh] et a perdu avec Hauteur Roi
+Siège 3 : xhelu (petite blind) a montré [Qh As] et a gagné (480) avec une paire de Dames
+
+
+
+Main PokerStars n°258031546352 : Tournoi #3934778486, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 07/10/2025 11:32:32 CET [07/10/2025 5:32:32 ET]
+Table '3934778486 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (460 en jetons) 
+Place 2: Jorge Lorenzo P (560 en jetons) 
+Place 3: xhelu (480 en jetons) 
+psychoman59 : met la petite blind. 15
+Jorge Lorenzo P : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 3h]
+xhelu : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à Jorge Lorenzo P.
+Jorge Lorenzo P a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Jorge Lorenzo P (grosse blind) a remporté (30)
+Siège 3 : xhelu (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°258031547040 : Tournoi #3934778486, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 07/10/2025 11:32:40 CET [07/10/2025 5:32:40 ET]
+Table '3934778486 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (445 en jetons) 
+Place 2: Jorge Lorenzo P (575 en jetons) 
+Place 3: xhelu (480 en jetons) 
+Jorge Lorenzo P : met la petite blind. 15
+xhelu : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 8h]
+psychoman59 : relance. 415 à 445 et est all-in.
+Jorge Lorenzo P : passe. 
+xhelu : passe. 
+Personne n'a suivi. (415) sont retournés à psychoman59.
+psychoman59 a remporté 75  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : psychoman59 (bouton) a remporté (75)
+Siège 2 : Jorge Lorenzo P (petite blind) s'est couché. avant Flop
+Siège 3 : xhelu (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258031547730 : Tournoi #3934778486, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 07/10/2025 11:32:48 CET [07/10/2025 5:32:48 ET]
+Table '3934778486 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (490 en jetons) 
+Place 2: Jorge Lorenzo P (560 en jetons) 
+Place 3: xhelu (450 en jetons) 
+xhelu : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 5h]
+Jorge Lorenzo P : passe. 
+xhelu : suit. 15
+psychoman59 : parole 
+*** FLOP *** [7h 4c Ad]
+xhelu : parole 
+psychoman59 : parole 
+*** TOURNANT *** [7h 4c Ad] [6c]
+xhelu : parole 
+psychoman59 : mise. 60
+xhelu : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [7h 4c Ad 6c]
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 2 : Jorge Lorenzo P (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : xhelu (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°258031549314 : Tournoi #3934778486, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 07/10/2025 11:33:06 CET [07/10/2025 5:33:06 ET]
+Table '3934778486 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (520 en jetons) 
+Place 2: Jorge Lorenzo P (560 en jetons) 
+Place 3: xhelu (420 en jetons) 
+psychoman59 : met la petite blind. 15
+Jorge Lorenzo P : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 4s]
+xhelu : relance. 30 à 60
+psychoman59 : passe. 
+Jorge Lorenzo P : suit. 30
+*** FLOP *** [Td 3h 4c]
+Jorge Lorenzo P : parole 
+xhelu : mise. 60
+Jorge Lorenzo P : suit. 60
+*** TOURNANT *** [Td 3h 4c] [5h]
+Jorge Lorenzo P : parole 
+xhelu : mise. 105
+Jorge Lorenzo P : suit. 105
+*** RIVIÈRE *** [Td 3h 4c 5h] [Ad]
+Jorge Lorenzo P : parole 
+xhelu : mise. 195 et est all-in.
+Jorge Lorenzo P : passe. 
+Personne n'a suivi. (195) sont retournés à xhelu.
+xhelu a remporté 465  lors du pot .
+xhelu : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 465 | Commission 0 
+Tableau [Td 3h 4c 5h Ad]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Jorge Lorenzo P (grosse blind) s'est couché. sur le Rivière
+Siège 3 : xhelu (bouton) a remporté (465)
+
+
+
+Main PokerStars n°258031551503 : Tournoi #3934778486, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 07/10/2025 11:33:33 CET [07/10/2025 5:33:33 ET]
+Table '3934778486 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (505 en jetons) 
+Place 2: Jorge Lorenzo P (335 en jetons) 
+Place 3: xhelu (660 en jetons) 
+Jorge Lorenzo P : met la petite blind. 15
+xhelu : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Kc]
+psychoman59 : relance. 475 à 505 et est all-in.
+Jorge Lorenzo P : passe. 
+xhelu : passe. 
+Personne n'a suivi. (475) sont retournés à psychoman59.
+psychoman59 a remporté 75  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : psychoman59 (bouton) a remporté (75)
+Siège 2 : Jorge Lorenzo P (petite blind) s'est couché. avant Flop
+Siège 3 : xhelu (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258031552172 : Tournoi #3934778486, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 07/10/2025 11:33:40 CET [07/10/2025 5:33:40 ET]
+Table '3934778486 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (550 en jetons) 
+Place 2: Jorge Lorenzo P (320 en jetons) 
+Place 3: xhelu (630 en jetons) 
+xhelu : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 3h]
+Jorge Lorenzo P : relance. 30 à 60
+xhelu : relance. 570 à 630 et est all-in.
+psychoman59 : passe. 
+Jorge Lorenzo P : passe. 
+Personne n'a suivi. (570) sont retournés à xhelu.
+xhelu a remporté 150  lors du pot .
+xhelu : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Jorge Lorenzo P (bouton) s'est couché. avant Flop
+Siège 3 : xhelu (petite blind) a remporté (150)
+
+
+
+Main PokerStars n°258031552770 : Tournoi #3934778486, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 07/10/2025 11:33:47 CET [07/10/2025 5:33:47 ET]
+Table '3934778486 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (520 en jetons) 
+Place 2: Jorge Lorenzo P (260 en jetons) 
+Place 3: xhelu (720 en jetons) 
+psychoman59 : met la petite blind. 15
+Jorge Lorenzo P : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 6d]
+xhelu : relance. 30 à 60
+psychoman59 : passe. 
+Jorge Lorenzo P : relance. 200 à 260 et est all-in.
+xhelu : passe. 
+Personne n'a suivi. (200) sont retournés à Jorge Lorenzo P.
+Jorge Lorenzo P a remporté 135  lors du pot .
+*** SYNTHÈSE ***
+Pot total 135 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Jorge Lorenzo P (grosse blind) a remporté (135)
+Siège 3 : xhelu (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258031553719 : Tournoi #3934778486, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 07/10/2025 11:33:58 CET [07/10/2025 5:33:58 ET]
+Table '3934778486 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (505 en jetons) 
+Place 2: Jorge Lorenzo P (335 en jetons) 
+Place 3: xhelu (660 en jetons) 
+Jorge Lorenzo P : met la petite blind. 15
+xhelu : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 7d]
+psychoman59 : passe. 
+Jorge Lorenzo P : suit. 15
+xhelu : parole 
+*** FLOP *** [3s 7c 2s]
+Jorge Lorenzo P : mise. 60
+xhelu : passe. 
+Personne n'a suivi. (60) sont retournés à Jorge Lorenzo P.
+Jorge Lorenzo P a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [3s 7c 2s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Jorge Lorenzo P (petite blind) a remporté (60)
+Siège 3 : xhelu (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°258031554652 : Tournoi #3934778486, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 07/10/2025 11:34:09 CET [07/10/2025 5:34:09 ET]
+Table '3934778486 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (505 en jetons) 
+Place 2: Jorge Lorenzo P (365 en jetons) 
+Place 3: xhelu (630 en jetons) 
+xhelu : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 4d]
+Jorge Lorenzo P : suit. 30
+xhelu : suit. 15
+psychoman59 : parole 
+*** FLOP *** [5c 6c 7c]
+xhelu : mise. 90
+psychoman59 : passe. 
+Jorge Lorenzo P : passe. 
+Personne n'a suivi. (90) sont retournés à xhelu.
+xhelu a remporté 90  lors du pot .
+xhelu : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [5c 6c 7c]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : Jorge Lorenzo P (bouton) s'est couché. sur le Flop
+Siège 3 : xhelu (petite blind) a remporté (90)
+
+
+
+Main PokerStars n°258031555934 : Tournoi #3934778486, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 07/10/2025 11:34:24 CET [07/10/2025 5:34:24 ET]
+Table '3934778486 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (475 en jetons) 
+Place 2: Jorge Lorenzo P (335 en jetons) 
+Place 3: xhelu (690 en jetons) 
+psychoman59 : met la petite blind. 15
+Jorge Lorenzo P : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Js]
+xhelu : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à Jorge Lorenzo P.
+Jorge Lorenzo P a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Jorge Lorenzo P (grosse blind) a remporté (30)
+Siège 3 : xhelu (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°258031556468 : Tournoi #3934778486, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 07/10/2025 11:34:30 CET [07/10/2025 5:34:30 ET]
+Table '3934778486 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (460 en jetons) 
+Place 2: Jorge Lorenzo P (350 en jetons) 
+Place 3: xhelu (690 en jetons) 
+Jorge Lorenzo P : met la petite blind. 15
+xhelu : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 8c]
+psychoman59 : passe. 
+Jorge Lorenzo P : relance. 30 à 60
+xhelu : suit. 30
+*** FLOP *** [4s 9h 4h]
+Jorge Lorenzo P : mise. 60
+xhelu : suit. 60
+*** TOURNANT *** [4s 9h 4h] [Td]
+Jorge Lorenzo P : mise. 180
+xhelu : passe. 
+Personne n'a suivi. (180) sont retournés à Jorge Lorenzo P.
+Jorge Lorenzo P a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [4s 9h 4h Td]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Jorge Lorenzo P (petite blind) a remporté (240)
+Siège 3 : xhelu (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°258031559168 : Tournoi #3934778486, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 07/10/2025 11:35:01 CET [07/10/2025 5:35:01 ET]
+Table '3934778486 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (460 en jetons) 
+Place 2: Jorge Lorenzo P (470 en jetons) 
+Place 3: xhelu (570 en jetons) 
+xhelu : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 5d]
+Jorge Lorenzo P : relance. 40 à 80
+xhelu : relance. 490 à 570 et est all-in.
+psychoman59 : passe. 
+Jorge Lorenzo P : suit. 390 et est all-in.
+Personne n'a suivi. (100) sont retournés à xhelu.
+*** FLOP *** [6s 8h 3h]
+*** TOURNANT *** [6s 8h 3h] [3c]
+*** RIVIÈRE *** [6s 8h 3h 3c] [Tc]
+*** ABATTAGE ***
+xhelu : montre [Ah 5s] (une paire de Trois)
+Jorge Lorenzo P : montre [2h Th] (double paire, Dix et Trois)
+Jorge Lorenzo P a remporté 980  lors du pot .
+*** SYNTHÈSE ***
+Pot total 980 | Commission 0 
+Tableau [6s 8h 3h 3c Tc]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Jorge Lorenzo P (bouton) a montré [2h Th] et a gagné (980) avec double paire, Dix et Trois
+Siège 3 : xhelu (petite blind) a montré [Ah 5s] et a perdu avec une paire de Trois
+
+
+
+Main PokerStars n°258031560446 : Tournoi #3934778486, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 07/10/2025 11:35:15 CET [07/10/2025 5:35:15 ET]
+Table '3934778486 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (420 en jetons) 
+Place 2: Jorge Lorenzo P (980 en jetons) 
+Place 3: xhelu (100 en jetons) 
+psychoman59 : met la petite blind. 20
+Jorge Lorenzo P : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 9c]
+xhelu : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Jorge Lorenzo P.
+Jorge Lorenzo P a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Jorge Lorenzo P (grosse blind) a remporté (40)
+Siège 3 : xhelu (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°258031561070 : Tournoi #3934778486, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 07/10/2025 11:35:23 CET [07/10/2025 5:35:23 ET]
+Table '3934778486 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (400 en jetons) 
+Place 2: Jorge Lorenzo P (1000 en jetons) 
+Place 3: xhelu (100 en jetons) 
+Jorge Lorenzo P : met la petite blind. 20
+xhelu : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Jd]
+psychoman59 : suit. 40
+Jorge Lorenzo P : suit. 20
+xhelu : relance. 60 à 100 et est all-in.
+psychoman59 : suit. 60
+Jorge Lorenzo P : passe. 
+*** FLOP *** [5c Ts 9d]
+*** TOURNANT *** [5c Ts 9d] [8s]
+*** RIVIÈRE *** [5c Ts 9d 8s] [As]
+*** ABATTAGE ***
+xhelu : montre [Ks 7h] (Hauteur As)
+psychoman59 : montre [Qs Jd] (une suite, Huit à Dame)
+psychoman59 a remporté 240  lors du pot .
+xhelu ne joue pas.
+xhelu a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [5c Ts 9d 8s As]
+Siège 1 : psychoman59 (bouton) a montré [Qs Jd] et a gagné (240) avec une suite, Huit à Dame
+Siège 2 : Jorge Lorenzo P (petite blind) s'est couché. avant Flop
+Siège 3 : xhelu (grosse blind) a montré [Ks 7h] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°258031562790 : Tournoi #3934778486, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 07/10/2025 11:35:42 CET [07/10/2025 5:35:42 ET]
+Table '3934778486 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (540 en jetons) 
+Place 2: Jorge Lorenzo P (960 en jetons) 
+Jorge Lorenzo P : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 8d]
+Jorge Lorenzo P : suit. 20
+psychoman59 : relance. 500 à 540 et est all-in.
+Jorge Lorenzo P : passe. 
+Personne n'a suivi. (500) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (80)
+Siège 2 : Jorge Lorenzo P (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258031563317 : Tournoi #3934778486, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 07/10/2025 11:35:48 CET [07/10/2025 5:35:48 ET]
+Table '3934778486 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (580 en jetons) 
+Place 2: Jorge Lorenzo P (920 en jetons) 
+psychoman59 : met la petite blind. 20
+Jorge Lorenzo P : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 9c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Jorge Lorenzo P.
+Jorge Lorenzo P a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : Jorge Lorenzo P (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°258031563748 : Tournoi #3934778486, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 07/10/2025 11:35:53 CET [07/10/2025 5:35:53 ET]
+Table '3934778486 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (560 en jetons) 
+Place 2: Jorge Lorenzo P (940 en jetons) 
+Jorge Lorenzo P : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 7c]
+Jorge Lorenzo P : suit. 20
+psychoman59 : parole 
+*** FLOP *** [8c 2d 8d]
+psychoman59 : mise. 520 et est all-in.
+Jorge Lorenzo P : passe. 
+Personne n'a suivi. (520) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [8c 2d 8d]
+Siège 1 : psychoman59 (grosse blind) a remporté (80)
+Siège 2 : Jorge Lorenzo P (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°258031564573 : Tournoi #3934778486, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 07/10/2025 11:36:02 CET [07/10/2025 5:36:02 ET]
+Table '3934778486 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (600 en jetons) 
+Place 2: Jorge Lorenzo P (900 en jetons) 
+psychoman59 : met la petite blind. 20
+Jorge Lorenzo P : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Kh]
+psychoman59 : relance. 560 à 600 et est all-in.
+Jorge Lorenzo P : suit. 560
+*** FLOP *** [9h 5h Tc]
+*** TOURNANT *** [9h 5h Tc] [6s]
+*** RIVIÈRE *** [9h 5h Tc 6s] [2h]
+*** ABATTAGE ***
+Jorge Lorenzo P : montre [6c 2c] (double paire, Six et Deux)
+psychoman59 : montre [Qs Kh] (Hauteur Roi)
+Jorge Lorenzo P a remporté 1200  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+Jorge Lorenzo P remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 1200 | Commission 0 
+Tableau [9h 5h Tc 6s 2h]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Qs Kh] et a perdu avec Hauteur Roi
+Siège 2 : Jorge Lorenzo P (grosse blind) a montré [6c 2c] et a gagné (1200) avec double paire, Six et Deux
+
+
+

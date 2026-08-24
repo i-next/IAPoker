@@ -1,0 +1,55 @@
+﻿Main PokerStars n°260767320430 : Tournoi #3999450820, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 11/05/2026 7:37:30 CET [11/05/2026 1:37:30 ET]
+Table '3999450820 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: stephen5680 (500 en jetons) 
+Place 3: henryfleury (500 en jetons) 
+stephen5680 : met la petite blind. 10
+henryfleury : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 7s]
+psychoman59 : passe. 
+stephen5680 : suit. 10
+henryfleury : relance. 40 à 60
+stephen5680 : passe. 
+Personne n'a suivi. (40) sont retournés à henryfleury.
+henryfleury a remporté 40  lors du pot .
+henryfleury : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : stephen5680 (petite blind) s'est couché. avant Flop
+Siège 3 : henryfleury (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°260767322069 : Tournoi #3999450820, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 11/05/2026 7:38:04 CET [11/05/2026 1:38:04 ET]
+Table '3999450820 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: stephen5680 (480 en jetons) 
+Place 3: henryfleury (520 en jetons) 
+henryfleury : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 8d]
+stephen5680 : suit. 20
+henryfleury : relance. 40 à 60
+psychoman59 : relance. 440 à 500 et est all-in.
+stephen5680 : passe. 
+henryfleury : suit. 440
+*** FLOP *** [7h 5d 2h]
+*** TOURNANT *** [7h 5d 2h] [9h]
+*** RIVIÈRE *** [7h 5d 2h 9h] [4h]
+*** ABATTAGE ***
+henryfleury : montre [Qd Ah] (une couleur, hauteur As)
+psychoman59 : montre [8c 8d] (une paire de Huit)
+henryfleury a remporté 1020  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 1020 | Commission 0 
+Tableau [7h 5d 2h 9h 4h]
+Siège 1 : psychoman59 (grosse blind) a montré [8c 8d] et a perdu avec une paire de Huit
+Siège 2 : stephen5680 (bouton) s'est couché. avant Flop
+Siège 3 : henryfleury (petite blind) a montré [Qd Ah] et a gagné (1020) avec une couleur, hauteur As
+
+
+

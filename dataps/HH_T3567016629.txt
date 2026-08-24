@@ -1,0 +1,183 @@
+﻿Main PokerStars n°242657954575 : Tournoi #3567016629, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/03/2023 23:48:33 CET [24/03/2023 18:48:33 ET]
+Table '3567016629 1' 3-max Siège #1 est au bouton.
+Place 1: sydharta (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: giulio71210 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+giulio71210 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 2s]
+sydharta : relance. 20 à 40
+psychoman59 : passe. 
+giulio71210 : suit. 20
+*** FLOP *** [Kd 4d 6h]
+giulio71210 : parole 
+sydharta : mise. 20
+giulio71210 : suit. 20
+*** TOURNANT *** [Kd 4d 6h] [Ac]
+giulio71210 : parole 
+sydharta : mise. 20
+giulio71210 : passe. 
+Personne n'a suivi. (20) sont retournés à sydharta.
+sydharta a remporté 130  lors du pot .
+sydharta : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Tableau [Kd 4d 6h Ac]
+Siège 1 : sydharta (bouton) a remporté (130)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : giulio71210 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°242657961193 : Tournoi #3567016629, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/03/2023 23:48:50 CET [24/03/2023 18:48:50 ET]
+Table '3567016629 1' 3-max Siège #2 est au bouton.
+Place 1: sydharta (370 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: giulio71210 (240 en jetons) 
+giulio71210 : met la petite blind. 10
+sydharta : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 4c]
+psychoman59 : suit. 20
+giulio71210 : suit. 10
+sydharta : parole 
+*** FLOP *** [9h 4h 2d]
+giulio71210 : mise. 20
+sydharta : suit. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [9h 4h 2d] [Qh]
+giulio71210 : parole 
+sydharta : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [9h 4h 2d Qh] [Kc]
+giulio71210 : parole 
+sydharta : mise. 20
+psychoman59 : suit. 20
+giulio71210 : passe. 
+*** ABATTAGE ***
+sydharta : montre [Qc 4s] (double paire, Dames et Quatre)
+psychoman59 : cache la main perdante. 
+sydharta a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [9h 4h 2d Qh Kc]
+Siège 1 : sydharta (grosse blind) a montré [Qc 4s] et a gagné (160) avec double paire, Dames et Quatre
+Siège 2 : psychoman59 (bouton) a caché la main perdante. [Ac 4c]
+Siège 3 : giulio71210 (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°242657970265 : Tournoi #3567016629, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/03/2023 23:49:14 CET [24/03/2023 18:49:14 ET]
+Table '3567016629 1' 3-max Siège #3 est au bouton.
+Place 1: sydharta (470 en jetons) 
+Place 2: psychoman59 (230 en jetons) 
+Place 3: giulio71210 (200 en jetons) 
+sydharta : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 8s]
+giulio71210 : relance. 20 à 40
+sydharta : suit. 30
+psychoman59 : passe. 
+*** FLOP *** [7c Ad Kh]
+sydharta : parole 
+giulio71210 : parole 
+*** TOURNANT *** [7c Ad Kh] [6c]
+sydharta : mise. 20
+giulio71210 : suit. 20
+*** RIVIÈRE *** [7c Ad Kh 6c] [5h]
+sydharta : parole 
+giulio71210 : parole 
+*** ABATTAGE ***
+sydharta : montre [Ac 3s] (une paire de As)
+giulio71210 : cache la main perdante. 
+sydharta a remporté 140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [7c Ad Kh 6c 5h]
+Siège 1 : sydharta (petite blind) a montré [Ac 3s] et a gagné (140) avec une paire de As
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : giulio71210 (bouton) a caché la main perdante. [3d Jh]
+
+
+
+Main PokerStars n°242657983012 : Tournoi #3567016629, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 24/03/2023 23:49:47 CET [24/03/2023 18:49:47 ET]
+Table '3567016629 1' 3-max Siège #1 est au bouton.
+Place 1: sydharta (550 en jetons) 
+Place 2: psychoman59 (210 en jetons) 
+Place 3: giulio71210 (140 en jetons) 
+psychoman59 : met la petite blind. 15
+giulio71210 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 2c]
+sydharta : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à giulio71210.
+giulio71210 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : sydharta (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : giulio71210 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°242657986073 : Tournoi #3567016629, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 24/03/2023 23:49:55 CET [24/03/2023 18:49:55 ET]
+Table '3567016629 1' 3-max Siège #2 est au bouton.
+Place 1: sydharta (550 en jetons) 
+Place 2: psychoman59 (195 en jetons) 
+Place 3: giulio71210 (155 en jetons) 
+giulio71210 : met la petite blind. 15
+sydharta : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 9s]
+psychoman59 : relance. 165 à 195 et est all-in.
+giulio71210 a dépassé le temps imparti.
+giulio71210 : passe. 
+giulio71210 ne joue pas.
+sydharta : passe. 
+Personne n'a suivi. (165) sont retournés à psychoman59.
+psychoman59 a remporté 75  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : sydharta (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a remporté (75)
+Siège 3 : giulio71210 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242657997946 : Tournoi #3567016629, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 24/03/2023 23:50:26 CET [24/03/2023 18:50:26 ET]
+Table '3567016629 1' 3-max Siège #3 est au bouton.
+Place 1: sydharta (520 en jetons) 
+Place 2: psychoman59 (240 en jetons) 
+Place 3: giulio71210 (140 en jetons) ne joue pas.
+sydharta : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Jc]
+giulio71210 : passe. 
+sydharta : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Qd Js 3d]
+giulio71210 est revenu.
+sydharta : mise. 30
+psychoman59 : relance. 180 à 210 et est all-in.
+sydharta : suit. 180
+*** TOURNANT *** [Qd Js 3d] [8d]
+*** RIVIÈRE *** [Qd Js 3d 8d] [3c]
+*** ABATTAGE ***
+sydharta : montre [Qh 7s] (double paire, Dames et Trois)
+psychoman59 : montre [9d Jc] (double paire, Valets et Trois)
+sydharta a remporté 480  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [Qd Js 3d 8d 3c]
+Siège 1 : sydharta (petite blind) a montré [Qh 7s] et a gagné (480) avec double paire, Dames et Trois
+Siège 2 : psychoman59 (grosse blind) a montré [9d Jc] et a perdu avec double paire, Valets et Trois
+Siège 3 : giulio71210 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+

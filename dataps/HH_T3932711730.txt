@@ -1,0 +1,244 @@
+﻿Main PokerStars n°257943653392 : Tournoi #3932711730, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 30/09/2025 10:44:54 CET [30/09/2025 4:44:54 ET]
+Table '3932711730 1' 3-max Siège #1 est au bouton.
+Place 1: rufus1509196 (500 en jetons) 
+Place 2: vakilla1986 (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+vakilla1986 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Tc]
+rufus1509196 : suit. 20
+vakilla1986 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [6s 5d 3h]
+vakilla1986 : parole 
+psychoman59 : parole 
+rufus1509196 : parole 
+*** TOURNANT *** [6s 5d 3h] [Qh]
+vakilla1986 : mise. 60
+psychoman59 : passe. 
+rufus1509196 : passe. 
+Personne n'a suivi. (60) sont retournés à vakilla1986.
+vakilla1986 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [6s 5d 3h Qh]
+Siège 1 : rufus1509196 (bouton) s'est couché. sur le Tournant
+Siège 2 : vakilla1986 (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°257943655351 : Tournoi #3932711730, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 30/09/2025 10:45:20 CET [30/09/2025 4:45:20 ET]
+Table '3932711730 1' 3-max Siège #2 est au bouton.
+Place 1: rufus1509196 (480 en jetons) 
+Place 2: vakilla1986 (540 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 10
+rufus1509196 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 8s]
+vakilla1986 : suit. 20
+psychoman59 : suit. 10
+rufus1509196 : parole 
+*** FLOP *** [Kh 8c 8h]
+psychoman59 : parole 
+rufus1509196 : parole 
+vakilla1986 : parole 
+*** TOURNANT *** [Kh 8c 8h] [4h]
+psychoman59 : parole 
+rufus1509196 : parole 
+vakilla1986 : mise. 40
+psychoman59 : suit. 40
+rufus1509196 : passe. 
+*** RIVIÈRE *** [Kh 8c 8h 4h] [5c]
+psychoman59 : parole 
+vakilla1986 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [5s 8s] (un full, full aux Huit par les Cinq)
+vakilla1986 : cache la main perdante. 
+psychoman59 a remporté 140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [Kh 8c 8h 4h 5c]
+Siège 1 : rufus1509196 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : vakilla1986 (bouton) a caché la main perdante. [As 4c]
+Siège 3 : psychoman59 (petite blind) a montré [5s 8s] et a gagné (140) avec un full, full aux Huit par les Cinq
+
+
+
+Main PokerStars n°257943657830 : Tournoi #3932711730, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 30/09/2025 10:45:53 CET [30/09/2025 4:45:53 ET]
+Table '3932711730 1' 3-max Siège #3 est au bouton.
+Place 1: rufus1509196 (460 en jetons) 
+Place 2: vakilla1986 (480 en jetons) 
+Place 3: psychoman59 (560 en jetons) 
+rufus1509196 : met la petite blind. 10
+vakilla1986 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Kh]
+psychoman59 : relance. 540 à 560 et est all-in.
+rufus1509196 : passe. 
+vakilla1986 : passe. 
+Personne n'a suivi. (540) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : rufus1509196 (petite blind) s'est couché. avant Flop
+Siège 2 : vakilla1986 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a remporté (50)
+
+
+
+Main PokerStars n°257943658508 : Tournoi #3932711730, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 30/09/2025 10:46:02 CET [30/09/2025 4:46:02 ET]
+Table '3932711730 1' 3-max Siège #1 est au bouton.
+Place 1: rufus1509196 (450 en jetons) 
+Place 2: vakilla1986 (460 en jetons) 
+Place 3: psychoman59 (590 en jetons) 
+vakilla1986 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Qc]
+rufus1509196 : relance. 430 à 450 et est all-in.
+vakilla1986 : passe. 
+psychoman59 : suit. 430
+*** FLOP *** [3c Jh 8d]
+*** TOURNANT *** [3c Jh 8d] [7s]
+*** RIVIÈRE *** [3c Jh 8d 7s] [2h]
+*** ABATTAGE ***
+psychoman59 : montre [Kh Qc] (Hauteur Roi)
+rufus1509196 : montre [6s Ah] (Hauteur As)
+rufus1509196 a remporté 910  lors du pot .
+*** SYNTHÈSE ***
+Pot total 910 | Commission 0 
+Tableau [3c Jh 8d 7s 2h]
+Siège 1 : rufus1509196 (bouton) a montré [6s Ah] et a gagné (910) avec Hauteur As
+Siège 2 : vakilla1986 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [Kh Qc] et a perdu avec Hauteur Roi
+
+
+
+Main PokerStars n°257943660244 : Tournoi #3932711730, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 30/09/2025 10:46:24 CET [30/09/2025 4:46:24 ET]
+Table '3932711730 1' 3-max Siège #2 est au bouton.
+Place 1: rufus1509196 (910 en jetons) 
+Place 2: vakilla1986 (450 en jetons) 
+Place 3: psychoman59 (140 en jetons) 
+psychoman59 : met la petite blind. 10
+rufus1509196 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 8c]
+vakilla1986 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à rufus1509196.
+rufus1509196 a remporté 20  lors du pot .
+rufus1509196 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : rufus1509196 (grosse blind) a remporté (20)
+Siège 2 : vakilla1986 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257943661094 : Tournoi #3932711730, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 30/09/2025 10:46:35 CET [30/09/2025 4:46:35 ET]
+Table '3932711730 1' 3-max Siège #3 est au bouton.
+Place 1: rufus1509196 (920 en jetons) 
+Place 2: vakilla1986 (450 en jetons) 
+Place 3: psychoman59 (130 en jetons) 
+rufus1509196 : met la petite blind. 10
+vakilla1986 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Qd]
+psychoman59 : suit. 20
+rufus1509196 : suit. 10
+vakilla1986 : parole 
+*** FLOP *** [3c Th 3d]
+rufus1509196 : parole 
+vakilla1986 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3c Th 3d] [As]
+rufus1509196 : parole 
+vakilla1986 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [3c Th 3d As] [Ts]
+rufus1509196 : parole 
+vakilla1986 : mise. 30
+psychoman59 : suit. 30
+rufus1509196 : passe. 
+*** ABATTAGE ***
+vakilla1986 : montre [3h 6s] (un full, full aux Trois par les Dix)
+psychoman59 : cache la main perdante. 
+vakilla1986 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [3c Th 3d As Ts]
+Siège 1 : rufus1509196 (petite blind) s'est couché. sur le Rivière
+Siège 2 : vakilla1986 (grosse blind) a montré [3h 6s] et a gagné (120) avec un full, full aux Trois par les Dix
+Siège 3 : psychoman59 (bouton) a caché la main perdante. [4d Qd]
+
+
+
+Main PokerStars n°257943663743 : Tournoi #3932711730, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 30/09/2025 10:47:10 CET [30/09/2025 4:47:10 ET]
+Table '3932711730 1' 3-max Siège #1 est au bouton.
+Place 1: rufus1509196 (900 en jetons) 
+Place 2: vakilla1986 (520 en jetons) 
+Place 3: psychoman59 (80 en jetons) 
+vakilla1986 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 3d]
+rufus1509196 : suit. 30
+vakilla1986 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [6c Qc 8h]
+vakilla1986 : parole 
+psychoman59 : parole 
+rufus1509196 : mise. 60
+vakilla1986 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à rufus1509196.
+rufus1509196 a remporté 90  lors du pot .
+rufus1509196 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [6c Qc 8h]
+Siège 1 : rufus1509196 (bouton) a remporté (90)
+Siège 2 : vakilla1986 (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°257943664973 : Tournoi #3932711730, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 30/09/2025 10:47:25 CET [30/09/2025 4:47:25 ET]
+Table '3932711730 1' 3-max Siège #2 est au bouton.
+Place 1: rufus1509196 (960 en jetons) 
+Place 2: vakilla1986 (490 en jetons) 
+Place 3: psychoman59 (50 en jetons) 
+psychoman59 : met la petite blind. 15
+rufus1509196 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Qc]
+vakilla1986 : relance. 30 à 60
+psychoman59 : suit. 35 et est all-in.
+rufus1509196 : suit. 30
+*** FLOP *** [2h Kd 5c]
+rufus1509196 : parole 
+vakilla1986 : mise. 90
+rufus1509196 : passe. 
+Personne n'a suivi. (90) sont retournés à vakilla1986.
+*** TOURNANT *** [2h Kd 5c] [Td]
+*** RIVIÈRE *** [2h Kd 5c Td] [4s]
+*** ABATTAGE ***
+vakilla1986 : montre [6c 6s] (une paire de Six)
+vakilla1986 a remporté 20  parallèle lors du pot .
+psychoman59 : montre [5h Qc] (une paire de Cinq)
+vakilla1986 a remporté 150  principal lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 170 Principal pot 150. Parallèle pot 20. | Commission 0 
+Tableau [2h Kd 5c Td 4s]
+Siège 1 : rufus1509196 (grosse blind) s'est couché. sur le Flop
+Siège 2 : vakilla1986 (bouton) a montré [6c 6s] et a gagné (170) avec une paire de Six
+Siège 3 : psychoman59 (petite blind) a montré [5h Qc] et a perdu avec une paire de Cinq
+
+
+

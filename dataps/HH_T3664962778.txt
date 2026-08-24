@@ -1,0 +1,104 @@
+﻿Main PokerStars n°246785558329 : Tournoi #3664962778, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/10/2023 10:11:51 CET [28/10/2023 4:11:51 ET]
+Table '3664962778 1' 3-max Siège #1 est au bouton.
+Place 1: tutulefourbe (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: Florentin442 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+Florentin442 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 7d]
+tutulefourbe : suit. 20
+psychoman59 : suit. 10
+Florentin442 : parole 
+*** FLOP *** [7s Ah 4h]
+psychoman59 : parole 
+Florentin442 : mise. 20
+tutulefourbe : suit. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [7s Ah 4h] [3h]
+psychoman59 : parole 
+Florentin442 : mise. 20
+tutulefourbe : suit. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [7s Ah 4h 3h] [4d]
+psychoman59 : parole 
+Florentin442 : mise. 40
+tutulefourbe : passe. 
+psychoman59 : suit. 40
+*** ABATTAGE ***
+Florentin442 : montre [Qd 4c] (un brelan de Quatre)
+psychoman59 : cache la main perdante. 
+Florentin442 a remporté 260  lors du pot .
+*** SYNTHÈSE ***
+Pot total 260 | Commission 0 
+Tableau [7s Ah 4h 3h 4d]
+Siège 1 : tutulefourbe (bouton) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (petite blind) a caché la main perdante. [8d 7d]
+Siège 3 : Florentin442 (grosse blind) a montré [Qd 4c] et a gagné (260) avec un brelan de Quatre
+
+
+
+Main PokerStars n°246785562783 : Tournoi #3664962778, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/10/2023 10:12:29 CET [28/10/2023 4:12:29 ET]
+Table '3664962778 1' 3-max Siège #2 est au bouton.
+Place 1: tutulefourbe (240 en jetons) 
+Place 2: psychoman59 (200 en jetons) 
+Place 3: Florentin442 (460 en jetons) 
+Florentin442 : met la petite blind. 10
+tutulefourbe : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 9s]
+psychoman59 : passe. 
+Florentin442 : suit. 10
+tutulefourbe : parole 
+*** FLOP *** [Qh 8h 9d]
+Florentin442 : mise. 20
+tutulefourbe : suit. 20
+*** TOURNANT *** [Qh 8h 9d] [4d]
+Florentin442 : mise. 20
+tutulefourbe : suit. 20
+*** RIVIÈRE *** [Qh 8h 9d 4d] [7d]
+Florentin442 : parole 
+tutulefourbe : parole 
+*** ABATTAGE ***
+Florentin442 : montre [Ac 4h] (une paire de Quatre)
+tutulefourbe : cache la main perdante. 
+Florentin442 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Qh 8h 9d 4d 7d]
+Siège 1 : tutulefourbe (grosse blind) a caché la main perdante. [Td 3c]
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Florentin442 (petite blind) a montré [Ac 4h] et a gagné (120) avec une paire de Quatre
+
+
+
+Main PokerStars n°246785566764 : Tournoi #3664962778, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 28/10/2023 10:13:02 CET [28/10/2023 4:13:02 ET]
+Table '3664962778 1' 3-max Siège #3 est au bouton.
+Place 1: tutulefourbe (180 en jetons) 
+Place 2: psychoman59 (200 en jetons) 
+Place 3: Florentin442 (520 en jetons) 
+tutulefourbe : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Ac]
+Florentin442 : relance. 60 à 90
+tutulefourbe : passe. 
+psychoman59 : relance. 110 à 200 et est all-in.
+Florentin442 : suit. 110
+*** FLOP *** [8d 6h Jc]
+*** TOURNANT *** [8d 6h Jc] [9s]
+*** RIVIÈRE *** [8d 6h Jc 9s] [Th]
+*** ABATTAGE ***
+psychoman59 : montre [Jh Ac] (une paire de Valets)
+Florentin442 : montre [Js Qd] (une suite, Huit à Dame)
+Florentin442 a remporté 415  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 415 | Commission 0 
+Tableau [8d 6h Jc 9s Th]
+Siège 1 : tutulefourbe (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a montré [Jh Ac] et a perdu avec une paire de Valets
+Siège 3 : Florentin442 (bouton) a montré [Js Qd] et a gagné (415) avec une suite, Huit à Dame
+
+
+

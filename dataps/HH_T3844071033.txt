@@ -1,0 +1,788 @@
+﻿Main PokerStars n°254251883740 : Tournoi #3844071033, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/01/2025 22:27:17 CET [07/01/2025 16:27:17 ET]
+Table '3844071033 1' 3-max Siège #1 est au bouton.
+Place 1: H0ldenCallfield (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: karamou73 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+karamou73 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 8h]
+H0ldenCallfield : passe. 
+psychoman59 : relance. 20 à 40
+karamou73 : suit. 20
+*** FLOP *** [Ad 5d 8c]
+psychoman59 : parole 
+karamou73 : parole 
+*** TOURNANT *** [Ad 5d 8c] [4d]
+psychoman59 : mise. 40
+karamou73 : suit. 40
+*** RIVIÈRE *** [Ad 5d 8c 4d] [4c]
+psychoman59 : mise. 80
+karamou73 : suit. 80
+*** ABATTAGE ***
+psychoman59 : montre [Ac 8h] (double paire, As et Huit)
+karamou73 : cache la main perdante. 
+psychoman59 a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [Ad 5d 8c 4d 4c]
+Siège 1 : H0ldenCallfield (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [Ac 8h] et a gagné (320) avec double paire, As et Huit
+Siège 3 : karamou73 (grosse blind) a caché la main perdante. [Kc Qd]
+
+
+
+Main PokerStars n°254251893959 : Tournoi #3844071033, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/01/2025 22:27:48 CET [07/01/2025 16:27:48 ET]
+Table '3844071033 1' 3-max Siège #2 est au bouton.
+Place 1: H0ldenCallfield (500 en jetons) 
+Place 2: psychoman59 (660 en jetons) 
+Place 3: karamou73 (340 en jetons) 
+karamou73 : met la petite blind. 10
+H0ldenCallfield : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 8d]
+psychoman59 : suit. 20
+karamou73 : suit. 10
+H0ldenCallfield : parole 
+*** FLOP *** [5c Qd 6c]
+karamou73 : parole 
+H0ldenCallfield : mise. 40
+psychoman59 : passe. 
+karamou73 : passe. 
+Personne n'a suivi. (40) sont retournés à H0ldenCallfield.
+H0ldenCallfield a remporté 60  lors du pot .
+H0ldenCallfield : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [5c Qd 6c]
+Siège 1 : H0ldenCallfield (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 3 : karamou73 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°254251906752 : Tournoi #3844071033, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/01/2025 22:28:26 CET [07/01/2025 16:28:26 ET]
+Table '3844071033 1' 3-max Siège #3 est au bouton.
+Place 1: H0ldenCallfield (540 en jetons) 
+Place 2: psychoman59 (640 en jetons) 
+Place 3: karamou73 (320 en jetons) 
+H0ldenCallfield : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Tc]
+karamou73 : relance. 300 à 320 et est all-in.
+H0ldenCallfield : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à karamou73.
+karamou73 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : H0ldenCallfield (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : karamou73 (bouton) a remporté (50)
+
+
+
+Main PokerStars n°254251912159 : Tournoi #3844071033, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/01/2025 22:28:42 CET [07/01/2025 16:28:42 ET]
+Table '3844071033 1' 3-max Siège #1 est au bouton.
+Place 1: H0ldenCallfield (530 en jetons) 
+Place 2: psychoman59 (620 en jetons) 
+Place 3: karamou73 (350 en jetons) 
+psychoman59 : met la petite blind. 10
+karamou73 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 6c]
+H0ldenCallfield : relance. 20 à 40
+psychoman59 : passe. 
+karamou73 a dépassé le temps imparti.
+karamou73 : passe. 
+karamou73 ne joue pas.
+Personne n'a suivi. (20) sont retournés à H0ldenCallfield.
+H0ldenCallfield a remporté 50  lors du pot .
+H0ldenCallfield : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : H0ldenCallfield (bouton) a remporté (50)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : karamou73 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254251922415 : Tournoi #3844071033, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/01/2025 22:29:13 CET [07/01/2025 16:29:13 ET]
+Table '3844071033 1' 3-max Siège #2 est au bouton.
+Place 1: H0ldenCallfield (560 en jetons) 
+Place 2: psychoman59 (610 en jetons) 
+Place 3: karamou73 (330 en jetons) ne joue pas.
+karamou73 : met la petite blind. 10
+H0ldenCallfield : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 9c]
+karamou73 est revenu.
+psychoman59 : passe. 
+karamou73 : suit. 10
+H0ldenCallfield : relance. 40 à 60
+karamou73 : passe. 
+Personne n'a suivi. (40) sont retournés à H0ldenCallfield.
+H0ldenCallfield a remporté 40  lors du pot .
+H0ldenCallfield : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : H0ldenCallfield (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : karamou73 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254251929253 : Tournoi #3844071033, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 07/01/2025 22:29:34 CET [07/01/2025 16:29:34 ET]
+Table '3844071033 1' 3-max Siège #3 est au bouton.
+Place 1: H0ldenCallfield (580 en jetons) 
+Place 2: psychoman59 (610 en jetons) 
+Place 3: karamou73 (310 en jetons) 
+H0ldenCallfield : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 7s]
+karamou73 : passe. 
+H0ldenCallfield : relance. 550 à 580 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (550) sont retournés à H0ldenCallfield.
+H0ldenCallfield a remporté 60  lors du pot .
+H0ldenCallfield : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : H0ldenCallfield (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : karamou73 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°254251932047 : Tournoi #3844071033, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 07/01/2025 22:29:42 CET [07/01/2025 16:29:42 ET]
+Table '3844071033 1' 3-max Siège #1 est au bouton.
+Place 1: H0ldenCallfield (610 en jetons) 
+Place 2: psychoman59 (580 en jetons) 
+Place 3: karamou73 (310 en jetons) 
+psychoman59 : met la petite blind. 15
+karamou73 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 7c]
+H0ldenCallfield : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à karamou73.
+karamou73 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : H0ldenCallfield (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : karamou73 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°254251934394 : Tournoi #3844071033, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 07/01/2025 22:29:49 CET [07/01/2025 16:29:49 ET]
+Table '3844071033 1' 3-max Siège #2 est au bouton.
+Place 1: H0ldenCallfield (610 en jetons) 
+Place 2: psychoman59 (565 en jetons) 
+Place 3: karamou73 (325 en jetons) 
+karamou73 : met la petite blind. 15
+H0ldenCallfield : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Tc]
+psychoman59 : passe. 
+karamou73 a dépassé le temps imparti.
+karamou73 : passe. 
+karamou73 ne joue pas.
+Personne n'a suivi. (15) sont retournés à H0ldenCallfield.
+H0ldenCallfield a remporté 30  lors du pot .
+H0ldenCallfield : ne montre pas sa main. 
+karamou73 est revenu.
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : H0ldenCallfield (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : karamou73 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254251940741 : Tournoi #3844071033, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 07/01/2025 22:30:08 CET [07/01/2025 16:30:08 ET]
+Table '3844071033 1' 3-max Siège #3 est au bouton.
+Place 1: H0ldenCallfield (625 en jetons) 
+Place 2: psychoman59 (565 en jetons) 
+Place 3: karamou73 (310 en jetons) 
+H0ldenCallfield : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 6h]
+karamou73 : passe. 
+H0ldenCallfield : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : H0ldenCallfield (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+Siège 3 : karamou73 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°254251945258 : Tournoi #3844071033, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 07/01/2025 22:30:21 CET [07/01/2025 16:30:21 ET]
+Table '3844071033 1' 3-max Siège #1 est au bouton.
+Place 1: H0ldenCallfield (610 en jetons) 
+Place 2: psychoman59 (580 en jetons) 
+Place 3: karamou73 (310 en jetons) 
+psychoman59 : met la petite blind. 15
+karamou73 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Qs]
+H0ldenCallfield : passe. 
+psychoman59 : relance. 60 à 90
+karamou73 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : H0ldenCallfield (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (60)
+Siège 3 : karamou73 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254251952193 : Tournoi #3844071033, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 07/01/2025 22:30:42 CET [07/01/2025 16:30:42 ET]
+Table '3844071033 1' 3-max Siège #2 est au bouton.
+Place 1: H0ldenCallfield (610 en jetons) 
+Place 2: psychoman59 (610 en jetons) 
+Place 3: karamou73 (280 en jetons) 
+karamou73 : met la petite blind. 15
+H0ldenCallfield : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Kh]
+psychoman59 : suit. 30
+karamou73 : relance. 250 à 280 et est all-in.
+H0ldenCallfield a dépassé le temps imparti.
+H0ldenCallfield : passe. 
+H0ldenCallfield ne joue pas.
+psychoman59 : passe. 
+Personne n'a suivi. (250) sont retournés à karamou73.
+karamou73 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Siège 1 : H0ldenCallfield (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 3 : karamou73 (petite blind) a remporté (90)
+
+
+
+Main PokerStars n°254251964267 : Tournoi #3844071033, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 07/01/2025 22:31:17 CET [07/01/2025 16:31:17 ET]
+Table '3844071033 1' 3-max Siège #3 est au bouton.
+Place 1: H0ldenCallfield (580 en jetons) ne joue pas.
+Place 2: psychoman59 (580 en jetons) 
+Place 3: karamou73 (340 en jetons) 
+H0ldenCallfield : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 5s]
+H0ldenCallfield est revenu.
+karamou73 : suit. 30
+H0ldenCallfield : passe. 
+psychoman59 : relance. 550 à 580 et est all-in.
+karamou73 : suit. 310 et est all-in.
+Personne n'a suivi. (240) sont retournés à psychoman59.
+*** FLOP *** [6d 4d 3h]
+*** TOURNANT *** [6d 4d 3h] [Qs]
+*** RIVIÈRE *** [6d 4d 3h Qs] [7h]
+*** ABATTAGE ***
+psychoman59 : montre [5d 5s] (une suite, Trois à Sept)
+karamou73 : montre [Tc 9c] (Hauteur Dame)
+psychoman59 a remporté 695  lors du pot .
+karamou73 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 695 | Commission 0 
+Tableau [6d 4d 3h Qs 7h]
+Siège 1 : H0ldenCallfield (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a montré [5d 5s] et a gagné (695) avec une suite, Trois à Sept
+Siège 3 : karamou73 (bouton) a montré [Tc 9c] et a perdu avec Hauteur Dame
+
+
+
+Main PokerStars n°254251970982 : Tournoi #3844071033, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 07/01/2025 22:31:38 CET [07/01/2025 16:31:38 ET]
+Table '3844071033 1' 3-max Siège #2 est au bouton.
+Place 1: H0ldenCallfield (565 en jetons) 
+Place 2: psychoman59 (935 en jetons) 
+psychoman59 : met la petite blind. 20
+H0ldenCallfield : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Js]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à H0ldenCallfield.
+H0ldenCallfield a remporté 40  lors du pot .
+H0ldenCallfield : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : H0ldenCallfield (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254251972725 : Tournoi #3844071033, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 07/01/2025 22:31:43 CET [07/01/2025 16:31:43 ET]
+Table '3844071033 1' 3-max Siège #1 est au bouton.
+Place 1: H0ldenCallfield (585 en jetons) 
+Place 2: psychoman59 (915 en jetons) 
+H0ldenCallfield : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 7h]
+H0ldenCallfield : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : H0ldenCallfield (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°254251974548 : Tournoi #3844071033, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 07/01/2025 22:31:48 CET [07/01/2025 16:31:48 ET]
+Table '3844071033 1' 3-max Siège #2 est au bouton.
+Place 1: H0ldenCallfield (565 en jetons) 
+Place 2: psychoman59 (935 en jetons) 
+psychoman59 : met la petite blind. 20
+H0ldenCallfield : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Th]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à H0ldenCallfield.
+H0ldenCallfield a remporté 40  lors du pot .
+H0ldenCallfield : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : H0ldenCallfield (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254251976336 : Tournoi #3844071033, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 07/01/2025 22:31:53 CET [07/01/2025 16:31:53 ET]
+Table '3844071033 1' 3-max Siège #1 est au bouton.
+Place 1: H0ldenCallfield (585 en jetons) 
+Place 2: psychoman59 (915 en jetons) 
+H0ldenCallfield : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 2c]
+H0ldenCallfield : suit. 20
+psychoman59 : parole 
+*** FLOP *** [4h 4c 5s]
+psychoman59 : parole 
+H0ldenCallfield : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à H0ldenCallfield.
+H0ldenCallfield a remporté 80  lors du pot .
+H0ldenCallfield : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [4h 4c 5s]
+Siège 1 : H0ldenCallfield (bouton) (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°254251983281 : Tournoi #3844071033, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 07/01/2025 22:32:14 CET [07/01/2025 16:32:14 ET]
+Table '3844071033 1' 3-max Siège #2 est au bouton.
+Place 1: H0ldenCallfield (625 en jetons) 
+Place 2: psychoman59 (875 en jetons) 
+psychoman59 : met la petite blind. 20
+H0ldenCallfield : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 3h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à H0ldenCallfield.
+H0ldenCallfield a remporté 40  lors du pot .
+H0ldenCallfield : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : H0ldenCallfield (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254251984986 : Tournoi #3844071033, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 07/01/2025 22:32:19 CET [07/01/2025 16:32:19 ET]
+Table '3844071033 1' 3-max Siège #1 est au bouton.
+Place 1: H0ldenCallfield (645 en jetons) 
+Place 2: psychoman59 (855 en jetons) 
+H0ldenCallfield : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 6c]
+H0ldenCallfield : suit. 20
+psychoman59 : parole 
+*** FLOP *** [2d Jd 6s]
+psychoman59 : parole 
+H0ldenCallfield : parole 
+*** TOURNANT *** [2d Jd 6s] [7h]
+psychoman59 : parole 
+H0ldenCallfield : mise. 40
+psychoman59 : suit. 40
+*** RIVIÈRE *** [2d Jd 6s 7h] [9d]
+psychoman59 : parole 
+H0ldenCallfield : parole 
+*** ABATTAGE ***
+psychoman59 : montre [4c 6c] (une paire de Six)
+H0ldenCallfield : cache la main perdante. 
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [2d Jd 6s 7h 9d]
+Siège 1 : H0ldenCallfield (bouton) (petite blind) a caché la main perdante. [Qc Th]
+Siège 2 : psychoman59 (grosse blind) a montré [4c 6c] et a gagné (160) avec une paire de Six
+
+
+
+Main PokerStars n°254251995127 : Tournoi #3844071033, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 07/01/2025 22:32:49 CET [07/01/2025 16:32:49 ET]
+Table '3844071033 1' 3-max Siège #2 est au bouton.
+Place 1: H0ldenCallfield (565 en jetons) 
+Place 2: psychoman59 (935 en jetons) 
+psychoman59 : met la petite blind. 20
+H0ldenCallfield : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 5c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à H0ldenCallfield.
+H0ldenCallfield a remporté 40  lors du pot .
+H0ldenCallfield : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : H0ldenCallfield (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254251997415 : Tournoi #3844071033, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 07/01/2025 22:32:56 CET [07/01/2025 16:32:56 ET]
+Table '3844071033 1' 3-max Siège #1 est au bouton.
+Place 1: H0ldenCallfield (585 en jetons) 
+Place 2: psychoman59 (915 en jetons) 
+H0ldenCallfield : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 9d]
+H0ldenCallfield : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Qd 5h 5c]
+psychoman59 : parole 
+H0ldenCallfield : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à H0ldenCallfield.
+H0ldenCallfield a remporté 80  lors du pot .
+H0ldenCallfield : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Qd 5h 5c]
+Siège 1 : H0ldenCallfield (bouton) (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°254252003608 : Tournoi #3844071033, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 07/01/2025 22:33:15 CET [07/01/2025 16:33:15 ET]
+Table '3844071033 1' 3-max Siège #2 est au bouton.
+Place 1: H0ldenCallfield (625 en jetons) 
+Place 2: psychoman59 (875 en jetons) 
+psychoman59 : met la petite blind. 20
+H0ldenCallfield : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Qh]
+psychoman59 : relance. 40 à 80
+H0ldenCallfield : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : H0ldenCallfield (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°254252008541 : Tournoi #3844071033, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 07/01/2025 22:33:29 CET [07/01/2025 16:33:29 ET]
+Table '3844071033 1' 3-max Siège #1 est au bouton.
+Place 1: H0ldenCallfield (585 en jetons) 
+Place 2: psychoman59 (915 en jetons) 
+H0ldenCallfield : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 9c]
+H0ldenCallfield : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : H0ldenCallfield (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°254252010823 : Tournoi #3844071033, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 07/01/2025 22:33:36 CET [07/01/2025 16:33:36 ET]
+Table '3844071033 1' 3-max Siège #2 est au bouton.
+Place 1: H0ldenCallfield (555 en jetons) 
+Place 2: psychoman59 (945 en jetons) 
+psychoman59 : met la petite blind. 30
+H0ldenCallfield : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 2d]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à H0ldenCallfield.
+H0ldenCallfield a remporté 60  lors du pot .
+H0ldenCallfield : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : H0ldenCallfield (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254252012573 : Tournoi #3844071033, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 07/01/2025 22:33:41 CET [07/01/2025 16:33:41 ET]
+Table '3844071033 1' 3-max Siège #1 est au bouton.
+Place 1: H0ldenCallfield (585 en jetons) 
+Place 2: psychoman59 (915 en jetons) 
+H0ldenCallfield : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 9c]
+H0ldenCallfield : relance. 525 à 585 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (525) sont retournés à H0ldenCallfield.
+H0ldenCallfield a remporté 120  lors du pot .
+H0ldenCallfield : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : H0ldenCallfield (bouton) (petite blind) a remporté (120)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254252015991 : Tournoi #3844071033, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 07/01/2025 22:33:52 CET [07/01/2025 16:33:52 ET]
+Table '3844071033 1' 3-max Siège #2 est au bouton.
+Place 1: H0ldenCallfield (645 en jetons) 
+Place 2: psychoman59 (855 en jetons) 
+psychoman59 : met la petite blind. 30
+H0ldenCallfield : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 2s]
+psychoman59 : relance. 60 à 120
+H0ldenCallfield : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : H0ldenCallfield (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°254252019546 : Tournoi #3844071033, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 07/01/2025 22:34:02 CET [07/01/2025 16:34:02 ET]
+Table '3844071033 1' 3-max Siège #1 est au bouton.
+Place 1: H0ldenCallfield (585 en jetons) 
+Place 2: psychoman59 (915 en jetons) 
+H0ldenCallfield : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 6s]
+H0ldenCallfield a dépassé le temps imparti.
+H0ldenCallfield : passe. 
+H0ldenCallfield ne joue pas.
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+H0ldenCallfield est revenu.
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : H0ldenCallfield (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°254252024583 : Tournoi #3844071033, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 07/01/2025 22:34:17 CET [07/01/2025 16:34:17 ET]
+Table '3844071033 1' 3-max Siège #2 est au bouton.
+Place 1: H0ldenCallfield (555 en jetons) 
+Place 2: psychoman59 (945 en jetons) 
+psychoman59 : met la petite blind. 30
+H0ldenCallfield : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 6s]
+psychoman59 : relance. 885 à 945 et est all-in.
+H0ldenCallfield : passe. 
+Personne n'a suivi. (885) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : H0ldenCallfield (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°254252027646 : Tournoi #3844071033, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 07/01/2025 22:34:26 CET [07/01/2025 16:34:26 ET]
+Table '3844071033 1' 3-max Siège #1 est au bouton.
+Place 1: H0ldenCallfield (495 en jetons) 
+Place 2: psychoman59 (1005 en jetons) 
+H0ldenCallfield : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 7h]
+H0ldenCallfield : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : H0ldenCallfield (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°254252030509 : Tournoi #3844071033, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 07/01/2025 22:34:35 CET [07/01/2025 16:34:35 ET]
+Table '3844071033 1' 3-max Siège #2 est au bouton.
+Place 1: H0ldenCallfield (465 en jetons) 
+Place 2: psychoman59 (1035 en jetons) 
+psychoman59 : met la petite blind. 30
+H0ldenCallfield : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 9h]
+psychoman59 : suit. 30
+H0ldenCallfield : parole 
+*** FLOP *** [6d 6s 5d]
+H0ldenCallfield : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6d 6s 5d] [Qd]
+H0ldenCallfield : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à H0ldenCallfield.
+H0ldenCallfield a remporté 120  lors du pot .
+H0ldenCallfield : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [6d 6s 5d Qd]
+Siège 1 : H0ldenCallfield (grosse blind) a remporté (120)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°254252038575 : Tournoi #3844071033, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 07/01/2025 22:34:58 CET [07/01/2025 16:34:58 ET]
+Table '3844071033 1' 3-max Siège #1 est au bouton.
+Place 1: H0ldenCallfield (525 en jetons) 
+Place 2: psychoman59 (975 en jetons) 
+H0ldenCallfield : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 8d]
+H0ldenCallfield : relance. 465 à 525 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (465) sont retournés à H0ldenCallfield.
+H0ldenCallfield a remporté 120  lors du pot .
+H0ldenCallfield : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : H0ldenCallfield (bouton) (petite blind) a remporté (120)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254252041962 : Tournoi #3844071033, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 07/01/2025 22:35:09 CET [07/01/2025 16:35:09 ET]
+Table '3844071033 1' 3-max Siège #2 est au bouton.
+Place 1: H0ldenCallfield (585 en jetons) 
+Place 2: psychoman59 (915 en jetons) 
+psychoman59 : met la petite blind. 30
+H0ldenCallfield : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Qh]
+psychoman59 : relance. 855 à 915 et est all-in.
+H0ldenCallfield : suit. 525 et est all-in.
+Personne n'a suivi. (330) sont retournés à psychoman59.
+*** FLOP *** [Kc Kh 3h]
+*** TOURNANT *** [Kc Kh 3h] [6c]
+*** RIVIÈRE *** [Kc Kh 3h 6c] [8c]
+*** ABATTAGE ***
+H0ldenCallfield : montre [Jh Ks] (un brelan de Rois)
+psychoman59 : montre [Ad Qh] (une paire de Rois)
+H0ldenCallfield a remporté 1170  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1170 | Commission 0 
+Tableau [Kc Kh 3h 6c 8c]
+Siège 1 : H0ldenCallfield (grosse blind) a montré [Jh Ks] et a gagné (1170) avec un brelan de Rois
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Ad Qh] et a perdu avec une paire de Rois
+
+
+
+Main PokerStars n°254252048242 : Tournoi #3844071033, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 07/01/2025 22:35:27 CET [07/01/2025 16:35:27 ET]
+Table '3844071033 1' 3-max Siège #1 est au bouton.
+Place 1: H0ldenCallfield (1170 en jetons) 
+Place 2: psychoman59 (330 en jetons) 
+H0ldenCallfield : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 8d]
+H0ldenCallfield : relance. 1090 à 1170 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (1090) sont retournés à H0ldenCallfield.
+H0ldenCallfield a remporté 160  lors du pot .
+H0ldenCallfield : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : H0ldenCallfield (bouton) (petite blind) a remporté (160)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254252050670 : Tournoi #3844071033, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 07/01/2025 22:35:34 CET [07/01/2025 16:35:34 ET]
+Table '3844071033 1' 3-max Siège #2 est au bouton.
+Place 1: H0ldenCallfield (1250 en jetons) 
+Place 2: psychoman59 (250 en jetons) 
+psychoman59 : met la petite blind. 40
+H0ldenCallfield : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Ks]
+psychoman59 : relance. 170 à 250 et est all-in.
+H0ldenCallfield : suit. 170
+*** FLOP *** [9h 2h 7h]
+*** TOURNANT *** [9h 2h 7h] [8c]
+*** RIVIÈRE *** [9h 2h 7h 8c] [3s]
+*** ABATTAGE ***
+H0ldenCallfield : montre [4c Tc] (Hauteur Dix)
+psychoman59 : montre [2s Ks] (une paire de Deux)
+psychoman59 a remporté 500  lors du pot .
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Tableau [9h 2h 7h 8c 3s]
+Siège 1 : H0ldenCallfield (grosse blind) a montré [4c Tc] et a perdu avec Hauteur Dix
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [2s Ks] et a gagné (500) avec une paire de Deux
+
+
+
+Main PokerStars n°254252055606 : Tournoi #3844071033, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 07/01/2025 22:35:49 CET [07/01/2025 16:35:49 ET]
+Table '3844071033 1' 3-max Siège #1 est au bouton.
+Place 1: H0ldenCallfield (1000 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+H0ldenCallfield : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 3d]
+H0ldenCallfield : suit. 40
+psychoman59 : relance. 420 à 500 et est all-in.
+H0ldenCallfield : suit. 420
+*** FLOP *** [Ts Jd Jc]
+*** TOURNANT *** [Ts Jd Jc] [6h]
+*** RIVIÈRE *** [Ts Jd Jc 6h] [8s]
+*** ABATTAGE ***
+psychoman59 : montre [Ad 3d] (une paire de Valets)
+H0ldenCallfield : montre [Kd Ks] (double paire, Rois et Valets)
+H0ldenCallfield a remporté 1000  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+H0ldenCallfield remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 1000 | Commission 0 
+Tableau [Ts Jd Jc 6h 8s]
+Siège 1 : H0ldenCallfield (bouton) (petite blind) a montré [Kd Ks] et a gagné (1000) avec double paire, Rois et Valets
+Siège 2 : psychoman59 (grosse blind) a montré [Ad 3d] et a perdu avec une paire de Valets
+
+
+

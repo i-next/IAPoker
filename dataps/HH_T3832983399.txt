@@ -1,0 +1,64 @@
+﻿Main PokerStars n°253810971231 : Tournoi #3832983399, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/12/2024 22:41:33 CET [11/12/2024 16:41:33 ET]
+Table '3832983399 1' 3-max Siège #1 est au bouton.
+Place 1: Stfduj (500 en jetons) 
+Place 2: Roseblt (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+Roseblt : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Ts]
+Stfduj : suit. 20
+Roseblt a dépassé le temps imparti.
+Roseblt : passe. 
+Roseblt ne joue pas.
+psychoman59 : parole 
+*** FLOP *** [7c Ad 6d]
+Roseblt est revenu.
+psychoman59 : mise. 25
+Stfduj : relance. 100 à 125
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à Stfduj.
+Stfduj a remporté 100  lors du pot .
+Stfduj : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [7c Ad 6d]
+Siège 1 : Stfduj (bouton) a remporté (100)
+Siège 2 : Roseblt (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°253810982413 : Tournoi #3832983399, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/12/2024 22:42:13 CET [11/12/2024 16:42:13 ET]
+Table '3832983399 1' 3-max Siège #2 est au bouton.
+Place 1: Stfduj (555 en jetons) 
+Place 2: Roseblt (490 en jetons) 
+Place 3: psychoman59 (455 en jetons) 
+psychoman59 : met la petite blind. 10
+Stfduj : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Qs]
+Roseblt : passe. 
+psychoman59 : suit. 10
+Stfduj : parole 
+*** FLOP *** [7s 2d 7d]
+psychoman59 : parole 
+Stfduj : mise. 40
+psychoman59 : relance. 395 à 435 et est all-in.
+Stfduj : suit. 395
+*** TOURNANT *** [7s 2d 7d] [9d]
+*** RIVIÈRE *** [7s 2d 7d 9d] [Td]
+*** ABATTAGE ***
+psychoman59 : montre [2c Qs] (double paire, Sept et Deux)
+Stfduj : montre [Qd 8d] (une couleur, hauteur Dame)
+Stfduj a remporté 910  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 910 | Commission 0 
+Tableau [7s 2d 7d 9d Td]
+Siège 1 : Stfduj (grosse blind) a montré [Qd 8d] et a gagné (910) avec une couleur, hauteur Dame
+Siège 2 : Roseblt (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [2c Qs] et a perdu avec double paire, Sept et Deux
+
+
+

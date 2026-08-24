@@ -1,0 +1,665 @@
+﻿Main PokerStars n°260651919986 : Tournoi #3996665591, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 01/05/2026 7:35:47 CET [01/05/2026 1:35:47 ET]
+Table '3996665591 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: Classicool (500 en jetons) 
+Place 3: tottibb (500 en jetons) 
+Classicool : met la petite blind. 10
+tottibb : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 6c]
+psychoman59 : passe. 
+Classicool : suit. 10
+tottibb : parole 
+*** FLOP *** [Ac 8h Jh]
+Classicool : parole 
+tottibb : parole 
+*** TOURNANT *** [Ac 8h Jh] [7s]
+Classicool : parole 
+tottibb : parole 
+*** RIVIÈRE *** [Ac 8h Jh 7s] [3h]
+Classicool : parole 
+tottibb : parole 
+*** ABATTAGE ***
+Classicool : montre [4s Jc] (une paire de Valets)
+tottibb : cache la main perdante. 
+Classicool a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Ac 8h Jh 7s 3h]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Classicool (petite blind) a montré [4s Jc] et a gagné (40) avec une paire de Valets
+Siège 3 : tottibb (grosse blind) a caché la main perdante. [5d 9d]
+
+
+
+Main PokerStars n°260651921676 : Tournoi #3996665591, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 01/05/2026 7:36:12 CET [01/05/2026 1:36:12 ET]
+Table '3996665591 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: Classicool (520 en jetons) 
+Place 3: tottibb (480 en jetons) 
+tottibb : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 2d]
+Classicool : passe. 
+tottibb : suit. 10
+psychoman59 : parole 
+*** FLOP *** [4c Kc 4h]
+tottibb : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à tottibb.
+tottibb a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [4c Kc 4h]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : Classicool (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : tottibb (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°260651922581 : Tournoi #3996665591, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 01/05/2026 7:36:26 CET [01/05/2026 1:36:26 ET]
+Table '3996665591 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (480 en jetons) 
+Place 2: Classicool (520 en jetons) 
+Place 3: tottibb (500 en jetons) 
+psychoman59 : met la petite blind. 10
+Classicool : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Qd]
+tottibb : passe. 
+psychoman59 : suit. 10
+Classicool : parole 
+*** FLOP *** [Jh Jd 6h]
+psychoman59 : parole 
+Classicool : parole 
+*** TOURNANT *** [Jh Jd 6h] [Tc]
+psychoman59 : mise. 40
+Classicool : suit. 40
+*** RIVIÈRE *** [Jh Jd 6h Tc] [5d]
+psychoman59 : mise. 60
+Classicool : suit. 60
+*** ABATTAGE ***
+psychoman59 : montre [Th Qd] (double paire, Valets et Dix)
+Classicool : cache la main perdante. 
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Jh Jd 6h Tc 5d]
+Siège 1 : psychoman59 (petite blind) a montré [Th Qd] et a gagné (240) avec double paire, Valets et Dix
+Siège 2 : Classicool (grosse blind) a caché la main perdante. [Ts 3s]
+Siège 3 : tottibb (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260651924487 : Tournoi #3996665591, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 01/05/2026 7:36:55 CET [01/05/2026 1:36:55 ET]
+Table '3996665591 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (600 en jetons) 
+Place 2: Classicool (400 en jetons) 
+Place 3: tottibb (500 en jetons) 
+Classicool : met la petite blind. 10
+tottibb : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 8h]
+psychoman59 : relance. 580 à 600 et est all-in.
+Classicool : passe. 
+tottibb : passe. 
+Personne n'a suivi. (580) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : psychoman59 (bouton) a remporté (50)
+Siège 2 : Classicool (petite blind) s'est couché. avant Flop
+Siège 3 : tottibb (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260651925302 : Tournoi #3996665591, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 01/05/2026 7:37:07 CET [01/05/2026 1:37:07 ET]
+Table '3996665591 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (630 en jetons) 
+Place 2: Classicool (390 en jetons) 
+Place 3: tottibb (480 en jetons) 
+tottibb : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Kd]
+Classicool : suit. 20
+tottibb : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Kc Js 4c]
+tottibb : parole 
+psychoman59 : parole 
+Classicool : parole 
+*** TOURNANT *** [Kc Js 4c] [Tc]
+tottibb : parole 
+psychoman59 : parole 
+Classicool : parole 
+*** RIVIÈRE *** [Kc Js 4c Tc] [Qc]
+tottibb : parole 
+psychoman59 : parole 
+Classicool : parole 
+*** ABATTAGE ***
+tottibb : montre [6d 9h] (une suite, Neuf à Roi)
+psychoman59 : cache la main perdante. 
+Classicool : montre [Td 9d] (une suite, Neuf à Roi)
+tottibb a remporté 30  lors du pot .
+Classicool a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Kc Js 4c Tc Qc]
+Siège 1 : psychoman59 (grosse blind) a caché la main perdante. [3d Kd]
+Siège 2 : Classicool (bouton) a montré [Td 9d] et a gagné (30) avec une suite, Neuf à Roi
+Siège 3 : tottibb (petite blind) a montré [6d 9h] et a gagné (30) avec une suite, Neuf à Roi
+
+
+
+Main PokerStars n°260651927673 : Tournoi #3996665591, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 01/05/2026 7:37:43 CET [01/05/2026 1:37:43 ET]
+Table '3996665591 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (610 en jetons) 
+Place 2: Classicool (400 en jetons) 
+Place 3: tottibb (490 en jetons) 
+psychoman59 : met la petite blind. 10
+Classicool : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 2d]
+tottibb : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à Classicool.
+Classicool a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Classicool (grosse blind) a remporté (20)
+Siège 3 : tottibb (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260651928660 : Tournoi #3996665591, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 01/05/2026 7:37:57 CET [01/05/2026 1:37:57 ET]
+Table '3996665591 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (600 en jetons) 
+Place 2: Classicool (410 en jetons) 
+Place 3: tottibb (490 en jetons) 
+Classicool : met la petite blind. 15
+tottibb : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Jh]
+psychoman59 : suit. 30
+Classicool : suit. 15
+tottibb : parole 
+*** FLOP *** [Ad 6d 5h]
+Classicool : parole 
+tottibb : parole 
+psychoman59 : mise. 90
+Classicool : passe. 
+tottibb : passe. 
+Personne n'a suivi. (90) sont retournés à psychoman59.
+psychoman59 a remporté 90  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [Ad 6d 5h]
+Siège 1 : psychoman59 (bouton) a remporté (90)
+Siège 2 : Classicool (petite blind) s'est couché. sur le Flop
+Siège 3 : tottibb (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°260651930064 : Tournoi #3996665591, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 01/05/2026 7:38:19 CET [01/05/2026 1:38:19 ET]
+Table '3996665591 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (660 en jetons) 
+Place 2: Classicool (380 en jetons) 
+Place 3: tottibb (460 en jetons) 
+tottibb : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 4c]
+Classicool : suit. 30
+tottibb : suit. 15
+psychoman59 : parole 
+*** FLOP *** [5c 8s Qh]
+tottibb : mise. 30
+psychoman59 : passe. 
+Classicool : suit. 30
+*** TOURNANT *** [5c 8s Qh] [Kd]
+tottibb : parole 
+Classicool : parole 
+*** RIVIÈRE *** [5c 8s Qh Kd] [Td]
+tottibb : parole 
+Classicool : parole 
+*** ABATTAGE ***
+tottibb : montre [6d 8c] (une paire de Huit)
+Classicool : montre [7h Tc] (une paire de Dix)
+Classicool a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Tableau [5c 8s Qh Kd Td]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : Classicool (bouton) a montré [7h Tc] et a gagné (150) avec une paire de Dix
+Siège 3 : tottibb (petite blind) a montré [6d 8c] et a perdu avec une paire de Huit
+
+
+
+Main PokerStars n°260651932133 : Tournoi #3996665591, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 01/05/2026 7:38:49 CET [01/05/2026 1:38:49 ET]
+Table '3996665591 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (630 en jetons) 
+Place 2: Classicool (470 en jetons) 
+Place 3: tottibb (400 en jetons) 
+psychoman59 : met la petite blind. 15
+Classicool : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Ac]
+tottibb : passe. 
+psychoman59 : suit. 15
+Classicool : parole 
+*** FLOP *** [6h Kh 5h]
+psychoman59 : parole 
+Classicool : parole 
+*** TOURNANT *** [6h Kh 5h] [8s]
+psychoman59 : parole 
+Classicool : parole 
+*** RIVIÈRE *** [6h Kh 5h 8s] [9d]
+psychoman59 : parole 
+Classicool : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Classicool.
+Classicool a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [6h Kh 5h 8s 9d]
+Siège 1 : psychoman59 (petite blind) s'est couché. sur le Rivière
+Siège 2 : Classicool (grosse blind) a remporté (60)
+Siège 3 : tottibb (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260651934147 : Tournoi #3996665591, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 01/05/2026 7:39:20 CET [01/05/2026 1:39:20 ET]
+Table '3996665591 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (600 en jetons) 
+Place 2: Classicool (500 en jetons) 
+Place 3: tottibb (400 en jetons) 
+Classicool : met la petite blind. 15
+tottibb : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Jc]
+psychoman59 : passe. 
+Classicool : suit. 15
+tottibb : parole 
+*** FLOP *** [Tc 8c 5s]
+Classicool : parole 
+tottibb : parole 
+*** TOURNANT *** [Tc 8c 5s] [7d]
+Classicool : parole 
+tottibb : parole 
+*** RIVIÈRE *** [Tc 8c 5s 7d] [6s]
+Classicool : parole 
+tottibb : parole 
+*** ABATTAGE ***
+Classicool : montre [3s 2c] (Hauteur Dix)
+tottibb : montre [6d 3h] (une paire de Six)
+tottibb a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Tc 8c 5s 7d 6s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Classicool (petite blind) a montré [3s 2c] et a perdu avec Hauteur Dix
+Siège 3 : tottibb (grosse blind) a montré [6d 3h] et a gagné (60) avec une paire de Six
+
+
+
+Main PokerStars n°260651935941 : Tournoi #3996665591, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 01/05/2026 7:39:46 CET [01/05/2026 1:39:46 ET]
+Table '3996665591 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (600 en jetons) 
+Place 2: Classicool (470 en jetons) 
+Place 3: tottibb (430 en jetons) 
+tottibb : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 5d]
+Classicool : suit. 30
+tottibb : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Ad Ks 6c]
+tottibb : mise. 30
+psychoman59 : suit. 30
+Classicool : suit. 30
+*** TOURNANT *** [Ad Ks 6c] [7h]
+tottibb : parole 
+psychoman59 : parole 
+Classicool : parole 
+*** RIVIÈRE *** [Ad Ks 6c 7h] [8s]
+tottibb : parole 
+psychoman59 : mise. 90
+Classicool : suit. 90
+tottibb : passe. 
+*** ABATTAGE ***
+psychoman59 : montre [Ah 5d] (une paire de As)
+Classicool : montre [Ac Jd] (une paire de As - Roi+Valet kicker)
+Classicool a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [Ad Ks 6c 7h 8s]
+Siège 1 : psychoman59 (grosse blind) a montré [Ah 5d] et a perdu avec une paire de As
+Siège 2 : Classicool (bouton) a montré [Ac Jd] et a gagné (360) avec une paire de As
+Siège 3 : tottibb (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°260651939071 : Tournoi #3996665591, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 01/05/2026 7:40:32 CET [01/05/2026 1:40:32 ET]
+Table '3996665591 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (450 en jetons) 
+Place 2: Classicool (680 en jetons) 
+Place 3: tottibb (370 en jetons) 
+psychoman59 : met la petite blind. 20
+Classicool : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Qh]
+tottibb : passe. 
+psychoman59 : suit. 20
+Classicool : parole 
+*** FLOP *** [5h Td Jd]
+psychoman59 : parole 
+Classicool : parole 
+*** TOURNANT *** [5h Td Jd] [8d]
+psychoman59 : parole 
+Classicool : mise. 40
+psychoman59 : suit. 40
+*** RIVIÈRE *** [5h Td Jd 8d] [Js]
+psychoman59 : parole 
+Classicool : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Kc Qh] (une paire de Valets)
+Classicool : montre [7d 3d] (une couleur, hauteur Valet)
+Classicool a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [5h Td Jd 8d Js]
+Siège 1 : psychoman59 (petite blind) a montré [Kc Qh] et a perdu avec une paire de Valets
+Siège 2 : Classicool (grosse blind) a montré [7d 3d] et a gagné (160) avec une couleur, hauteur Valet
+Siège 3 : tottibb (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260651940615 : Tournoi #3996665591, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 01/05/2026 7:40:54 CET [01/05/2026 1:40:54 ET]
+Table '3996665591 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (370 en jetons) 
+Place 2: Classicool (760 en jetons) 
+Place 3: tottibb (370 en jetons) 
+Classicool : met la petite blind. 20
+tottibb : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Tc]
+psychoman59 : suit. 40
+Classicool : suit. 20
+tottibb : parole 
+*** FLOP *** [5c Ac 6d]
+Classicool : parole 
+tottibb : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5c Ac 6d] [7d]
+Classicool : parole 
+tottibb : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [5c Ac 6d 7d] [3h]
+Classicool : mise. 40
+tottibb : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Classicool.
+Classicool a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [5c Ac 6d 7d 3h]
+Siège 1 : psychoman59 (bouton) s'est couché. sur le Rivière
+Siège 2 : Classicool (petite blind) a remporté (120)
+Siège 3 : tottibb (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°260651942882 : Tournoi #3996665591, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 01/05/2026 7:41:29 CET [01/05/2026 1:41:29 ET]
+Table '3996665591 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (330 en jetons) 
+Place 2: Classicool (840 en jetons) 
+Place 3: tottibb (330 en jetons) 
+tottibb : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Ks]
+Classicool : suit. 40
+tottibb : passe. 
+psychoman59 : parole 
+*** FLOP *** [7d 7s Th]
+psychoman59 : parole 
+Classicool : parole 
+*** TOURNANT *** [7d 7s Th] [8h]
+psychoman59 : parole 
+Classicool : parole 
+*** RIVIÈRE *** [7d 7s Th 8h] [3d]
+psychoman59 : mise. 50
+Classicool : suit. 50
+*** ABATTAGE ***
+psychoman59 : montre [Jc Ks] (une paire de Sept)
+Classicool : montre [3c Ah] (double paire, Sept et Trois)
+Classicool a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [7d 7s Th 8h 3d]
+Siège 1 : psychoman59 (grosse blind) a montré [Jc Ks] et a perdu avec une paire de Sept
+Siège 2 : Classicool (bouton) a montré [3c Ah] et a gagné (200) avec double paire, Sept et Trois
+Siège 3 : tottibb (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260651944602 : Tournoi #3996665591, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 01/05/2026 7:41:54 CET [01/05/2026 1:41:54 ET]
+Table '3996665591 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (240 en jetons) 
+Place 2: Classicool (950 en jetons) 
+Place 3: tottibb (310 en jetons) 
+psychoman59 : met la petite blind. 30
+Classicool : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Ad]
+tottibb : passe. 
+psychoman59 : relance. 180 à 240 et est all-in.
+Classicool : passe. 
+Personne n'a suivi. (180) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (petite blind) a remporté (120)
+Siège 2 : Classicool (grosse blind) s'est couché. avant Flop
+Siège 3 : tottibb (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260651945107 : Tournoi #3996665591, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 01/05/2026 7:42:01 CET [01/05/2026 1:42:01 ET]
+Table '3996665591 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Classicool (890 en jetons) 
+Place 3: tottibb (310 en jetons) 
+Classicool : met la petite blind. 30
+tottibb : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 3h]
+psychoman59 : passe. 
+Classicool : suit. 30
+tottibb : parole 
+*** FLOP *** [2s 9s 4s]
+Classicool : parole 
+tottibb : mise. 60
+Classicool : passe. 
+Personne n'a suivi. (60) sont retournés à tottibb.
+tottibb a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [2s 9s 4s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Classicool (petite blind) s'est couché. sur le Flop
+Siège 3 : tottibb (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°260651945879 : Tournoi #3996665591, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 01/05/2026 7:42:13 CET [01/05/2026 1:42:13 ET]
+Table '3996665591 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Classicool (830 en jetons) 
+Place 3: tottibb (370 en jetons) 
+tottibb : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 3c]
+Classicool : suit. 60
+tottibb : relance. 310 à 370 et est all-in.
+psychoman59 : passe. 
+Classicool : passe. 
+Personne n'a suivi. (310) sont retournés à tottibb.
+tottibb a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Classicool (bouton) s'est couché. avant Flop
+Siège 3 : tottibb (petite blind) a remporté (180)
+
+
+
+Main PokerStars n°260651946416 : Tournoi #3996665591, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 01/05/2026 7:42:22 CET [01/05/2026 1:42:22 ET]
+Table '3996665591 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (240 en jetons) 
+Place 2: Classicool (770 en jetons) 
+Place 3: tottibb (490 en jetons) 
+psychoman59 : met la petite blind. 30
+Classicool : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 2d]
+tottibb : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Classicool.
+Classicool a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Classicool (grosse blind) a remporté (60)
+Siège 3 : tottibb (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260651946995 : Tournoi #3996665591, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 01/05/2026 7:42:31 CET [01/05/2026 1:42:31 ET]
+Table '3996665591 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (210 en jetons) 
+Place 2: Classicool (800 en jetons) 
+Place 3: tottibb (490 en jetons) 
+Classicool : met la petite blind. 30
+tottibb : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 3c]
+psychoman59 : passe. 
+Classicool : suit. 30
+tottibb : parole 
+*** FLOP *** [Ks 4c As]
+Classicool : parole 
+tottibb : parole 
+*** TOURNANT *** [Ks 4c As] [4s]
+Classicool : parole 
+tottibb : parole 
+*** RIVIÈRE *** [Ks 4c As 4s] [7d]
+Classicool : parole 
+tottibb : parole 
+*** ABATTAGE ***
+Classicool : montre [8s Td] (une paire de Quatre)
+tottibb : cache la main perdante. 
+Classicool a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Ks 4c As 4s 7d]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Classicool (petite blind) a montré [8s Td] et a gagné (120) avec une paire de Quatre
+Siège 3 : tottibb (grosse blind) a caché la main perdante. [9c 5h]
+
+
+
+Main PokerStars n°260651948486 : Tournoi #3996665591, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 01/05/2026 7:42:53 CET [01/05/2026 1:42:53 ET]
+Table '3996665591 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (210 en jetons) 
+Place 2: Classicool (860 en jetons) 
+Place 3: tottibb (430 en jetons) 
+tottibb : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 5d]
+Classicool : passe. 
+tottibb : suit. 30
+psychoman59 : parole 
+*** FLOP *** [5s 2d Ts]
+tottibb : parole 
+psychoman59 : mise. 150 et est all-in.
+tottibb : passe. 
+Personne n'a suivi. (150) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [5s 2d Ts]
+Siège 1 : psychoman59 (grosse blind) a remporté (120)
+Siège 2 : Classicool (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : tottibb (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°260651949737 : Tournoi #3996665591, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 01/05/2026 7:43:11 CET [01/05/2026 1:43:11 ET]
+Table '3996665591 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 2: Classicool (860 en jetons) 
+Place 3: tottibb (370 en jetons) 
+psychoman59 : met la petite blind. 30
+Classicool : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Jd]
+tottibb : suit. 60
+psychoman59 : relance. 210 à 270 et est all-in.
+Classicool : passe. 
+tottibb : passe. 
+Personne n'a suivi. (210) sont retournés à psychoman59.
+psychoman59 a remporté 180  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Siège 1 : psychoman59 (petite blind) a remporté (180)
+Siège 2 : Classicool (grosse blind) s'est couché. avant Flop
+Siège 3 : tottibb (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260651950462 : Tournoi #3996665591, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 01/05/2026 7:43:23 CET [01/05/2026 1:43:23 ET]
+Table '3996665591 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (390 en jetons) 
+Place 2: Classicool (800 en jetons) 
+Place 3: tottibb (310 en jetons) 
+Classicool : met la petite blind. 30
+tottibb : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 8h]
+psychoman59 : suit. 60
+Classicool : suit. 30
+tottibb : parole 
+*** FLOP *** [Kd Qs Td]
+Classicool : parole 
+tottibb : parole 
+psychoman59 : mise. 330 et est all-in.
+Classicool : suit. 330
+tottibb : passe. 
+*** TOURNANT *** [Kd Qs Td] [Ac]
+*** RIVIÈRE *** [Kd Qs Td Ac] [Ks]
+*** ABATTAGE ***
+Classicool : montre [5d Jd] (une suite, Dix à As)
+psychoman59 : montre [Kc 8h] (un brelan de Rois)
+Classicool a remporté 840  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Tableau [Kd Qs Td Ac Ks]
+Siège 1 : psychoman59 (bouton) a montré [Kc 8h] et a perdu avec un brelan de Rois
+Siège 2 : Classicool (petite blind) a montré [5d Jd] et a gagné (840) avec une suite, Dix à As
+Siège 3 : tottibb (grosse blind) s'est couché. sur le Flop
+
+
+

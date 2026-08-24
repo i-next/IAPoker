@@ -1,0 +1,315 @@
+﻿Main PokerStars n°248540845569 : Tournoi #3707855856, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 28/01/2024 9:59:21 CET [28/01/2024 3:59:21 ET]
+Table '3707855856 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: doudko (500 en jetons) 
+Place 3: pantat22 (500 en jetons) 
+doudko : met la petite blind. 10
+pantat22 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Tc]
+psychoman59 : passe. 
+doudko : suit. 10
+pantat22 : relance. 40 à 60
+doudko : suit. 40
+*** FLOP *** [Qh 8s 5s]
+doudko : parole 
+pantat22 : mise. 60
+doudko : passe. 
+Personne n'a suivi. (60) sont retournés à pantat22.
+pantat22 a remporté 120  lors du pot .
+pantat22 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Qh 8s 5s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : doudko (petite blind) s'est couché. sur le Flop
+Siège 3 : pantat22 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°248540847303 : Tournoi #3707855856, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 28/01/2024 9:59:38 CET [28/01/2024 3:59:38 ET]
+Table '3707855856 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: doudko (440 en jetons) 
+Place 3: pantat22 (560 en jetons) 
+pantat22 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Jh]
+doudko : suit. 20
+pantat22 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [2d Jc Ts]
+pantat22 : parole 
+psychoman59 : parole 
+doudko : parole 
+*** TOURNANT *** [2d Jc Ts] [4s]
+pantat22 : mise. 60
+psychoman59 : suit. 60
+doudko : suit. 60
+*** RIVIÈRE *** [2d Jc Ts 4s] [9s]
+pantat22 : mise. 120
+psychoman59 : suit. 120
+doudko : passe. 
+*** ABATTAGE ***
+pantat22 : montre [2s Js] (une couleur, hauteur Valet)
+psychoman59 : cache la main perdante. 
+pantat22 a remporté 480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [2d Jc Ts 4s 9s]
+Siège 1 : psychoman59 (grosse blind) a caché la main perdante. [9c Jh]
+Siège 2 : doudko (bouton) s'est couché. sur le Rivière
+Siège 3 : pantat22 (petite blind) a montré [2s Js] et a gagné (480) avec une couleur, hauteur Valet
+
+
+
+Main PokerStars n°248540849735 : Tournoi #3707855856, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 28/01/2024 10:00:01 CET [28/01/2024 4:00:01 ET]
+Table '3707855856 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: doudko (360 en jetons) 
+Place 3: pantat22 (840 en jetons) 
+psychoman59 : met la petite blind. 10
+doudko : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 8d]
+pantat22 : relance. 20 à 40
+psychoman59 : suit. 30
+doudko : relance. 320 à 360 et est all-in.
+pantat22 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (320) sont retournés à doudko.
+doudko a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : doudko (grosse blind) a remporté (120)
+Siège 3 : pantat22 (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°248540851324 : Tournoi #3707855856, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 28/01/2024 10:00:16 CET [28/01/2024 4:00:16 ET]
+Table '3707855856 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (260 en jetons) 
+Place 2: doudko (440 en jetons) 
+Place 3: pantat22 (800 en jetons) 
+doudko : met la petite blind. 10
+pantat22 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 2d]
+psychoman59 : passe. 
+doudko : relance. 420 à 440 et est all-in.
+pantat22 : suit. 420
+*** FLOP *** [8s 2s 3c]
+*** TOURNANT *** [8s 2s 3c] [Td]
+*** RIVIÈRE *** [8s 2s 3c Td] [9h]
+*** ABATTAGE ***
+doudko : montre [Ad Jh] (Hauteur As)
+pantat22 : montre [Ah 6h] (Hauteur As - plus basse kicker)
+doudko a remporté 880  lors du pot .
+*** SYNTHÈSE ***
+Pot total 880 | Commission 0 
+Tableau [8s 2s 3c Td 9h]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : doudko (petite blind) a montré [Ad Jh] et a gagné (880) avec Hauteur As
+Siège 3 : pantat22 (grosse blind) a montré [Ah 6h] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°248540852840 : Tournoi #3707855856, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 28/01/2024 10:00:31 CET [28/01/2024 4:00:31 ET]
+Table '3707855856 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (260 en jetons) 
+Place 2: doudko (880 en jetons) 
+Place 3: pantat22 (360 en jetons) 
+pantat22 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Jc]
+doudko : passe. 
+pantat22 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [4c 5h 5d]
+pantat22 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [4c 5h 5d] [Ks]
+pantat22 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [4c 5h 5d Ks] [3h]
+pantat22 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+pantat22 : montre [Qd 7d] (une paire de Cinq)
+psychoman59 : cache la main perdante. 
+pantat22 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [4c 5h 5d Ks 3h]
+Siège 1 : psychoman59 (grosse blind) a caché la main perdante. [Ts Jc]
+Siège 2 : doudko (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : pantat22 (petite blind) a montré [Qd 7d] et a gagné (40) avec une paire de Cinq
+
+
+
+Main PokerStars n°248540854754 : Tournoi #3707855856, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 28/01/2024 10:00:48 CET [28/01/2024 4:00:48 ET]
+Table '3707855856 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (240 en jetons) 
+Place 2: doudko (880 en jetons) 
+Place 3: pantat22 (380 en jetons) 
+psychoman59 : met la petite blind. 10
+doudko : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Jd]
+pantat22 : suit. 20
+psychoman59 : passe. 
+doudko : parole 
+*** FLOP *** [4c 3h Td]
+doudko : parole 
+pantat22 : parole 
+*** TOURNANT *** [4c 3h Td] [Ts]
+doudko : parole 
+pantat22 : parole 
+*** RIVIÈRE *** [4c 3h Td Ts] [2d]
+doudko : parole 
+pantat22 : parole 
+*** ABATTAGE ***
+doudko : montre [Qs 3d] (double paire, Dix et Trois)
+pantat22 : cache la main perdante. 
+doudko a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [4c 3h Td Ts 2d]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : doudko (grosse blind) a montré [Qs 3d] et a gagné (50) avec double paire, Dix et Trois
+Siège 3 : pantat22 (bouton) a caché la main perdante. [Qd 8c]
+
+
+
+Main PokerStars n°248540856632 : Tournoi #3707855856, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 28/01/2024 10:01:04 CET [28/01/2024 4:01:04 ET]
+Table '3707855856 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (230 en jetons) 
+Place 2: doudko (910 en jetons) 
+Place 3: pantat22 (360 en jetons) 
+doudko : met la petite blind. 10
+pantat22 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 7d]
+psychoman59 : passe. 
+doudko : suit. 10
+pantat22 : parole 
+*** FLOP *** [3h 5h 2s]
+doudko : parole 
+pantat22 : parole 
+*** TOURNANT *** [3h 5h 2s] [2h]
+doudko : parole 
+pantat22 : parole 
+*** RIVIÈRE *** [3h 5h 2s 2h] [7c]
+doudko : parole 
+pantat22 : parole 
+*** ABATTAGE ***
+doudko : montre [7s 8h] (double paire, Sept et Deux)
+pantat22 : cache la main perdante. 
+doudko a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [3h 5h 2s 2h 7c]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : doudko (petite blind) a montré [7s 8h] et a gagné (40) avec double paire, Sept et Deux
+Siège 3 : pantat22 (grosse blind) a caché la main perdante. [Tc 9d]
+
+
+
+Main PokerStars n°248540859342 : Tournoi #3707855856, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 28/01/2024 10:01:27 CET [28/01/2024 4:01:27 ET]
+Table '3707855856 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (230 en jetons) 
+Place 2: doudko (930 en jetons) 
+Place 3: pantat22 (340 en jetons) 
+pantat22 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Kc]
+doudko : suit. 30
+pantat22 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [8c As 5h]
+pantat22 : parole 
+psychoman59 : parole 
+doudko : parole 
+*** TOURNANT *** [8c As 5h] [2c]
+pantat22 : parole 
+psychoman59 : parole 
+doudko : mise. 90
+pantat22 : passe. 
+psychoman59 : suit. 90
+*** RIVIÈRE *** [8c As 5h 2c] [3h]
+psychoman59 : parole 
+doudko : parole 
+*** ABATTAGE ***
+psychoman59 : montre [3c Kc] (une paire de Trois)
+doudko : montre [Ac Tc] (une paire de As)
+doudko a remporté 270  lors du pot .
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Tableau [8c As 5h 2c 3h]
+Siège 1 : psychoman59 (grosse blind) a montré [3c Kc] et a perdu avec une paire de Trois
+Siège 2 : doudko (bouton) a montré [Ac Tc] et a gagné (270) avec une paire de As
+Siège 3 : pantat22 (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°248540862571 : Tournoi #3707855856, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 28/01/2024 10:01:54 CET [28/01/2024 4:01:54 ET]
+Table '3707855856 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (110 en jetons) 
+Place 2: doudko (1080 en jetons) 
+Place 3: pantat22 (310 en jetons) 
+psychoman59 : met la petite blind. 15
+doudko : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 7c]
+pantat22 : relance. 280 à 310 et est all-in.
+psychoman59 : passe. 
+doudko : suit. 280
+*** FLOP *** [Ts Ks Js]
+*** TOURNANT *** [Ts Ks Js] [4c]
+*** RIVIÈRE *** [Ts Ks Js 4c] [Jc]
+*** ABATTAGE ***
+doudko : montre [Qc 8c] (une paire de Valets)
+pantat22 : montre [5c 5d] (double paire, Valets et Cinq)
+pantat22 a remporté 635  lors du pot .
+*** SYNTHÈSE ***
+Pot total 635 | Commission 0 
+Tableau [Ts Ks Js 4c Jc]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : doudko (grosse blind) a montré [Qc 8c] et a perdu avec une paire de Valets
+Siège 3 : pantat22 (bouton) a montré [5c 5d] et a gagné (635) avec double paire, Valets et Cinq
+
+
+
+Main PokerStars n°248540864139 : Tournoi #3707855856, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 28/01/2024 10:02:07 CET [28/01/2024 4:02:07 ET]
+Table '3707855856 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (95 en jetons) 
+Place 2: doudko (770 en jetons) 
+Place 3: pantat22 (635 en jetons) 
+doudko : met la petite blind. 15
+pantat22 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Tc]
+psychoman59 : relance. 65 à 95 et est all-in.
+doudko : passe. 
+pantat22 : suit. 65
+*** FLOP *** [3d 6c 2c]
+*** TOURNANT *** [3d 6c 2c] [9s]
+*** RIVIÈRE *** [3d 6c 2c 9s] [Js]
+*** ABATTAGE ***
+pantat22 : montre [Ac 7c] (Hauteur As)
+psychoman59 : montre [Qd Tc] (Hauteur Dame)
+pantat22 a remporté 205  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 205 | Commission 0 
+Tableau [3d 6c 2c 9s Js]
+Siège 1 : psychoman59 (bouton) a montré [Qd Tc] et a perdu avec Hauteur Dame
+Siège 2 : doudko (petite blind) s'est couché. avant Flop
+Siège 3 : pantat22 (grosse blind) a montré [Ac 7c] et a gagné (205) avec Hauteur As
+
+
+

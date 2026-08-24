@@ -1,0 +1,507 @@
+﻿Main PokerStars n°255325471498 : Tournoi #3869760440, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 17/03/2025 7:05:27 CET [17/03/2025 2:05:27 ET]
+Table '3869760440 1' 3-max Siège #1 est au bouton.
+Place 1: artífice_x (500 en jetons) 
+Place 2: Le-cuistau (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+Le-cuistau : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 7c]
+artífice_x : relance. 20 à 40
+Le-cuistau : suit. 30
+psychoman59 : suit. 20
+*** FLOP *** [9c Kh Kc]
+Le-cuistau : parole 
+psychoman59 : parole 
+artífice_x : parole 
+*** TOURNANT *** [9c Kh Kc] [2d]
+Le-cuistau : parole 
+psychoman59 : parole 
+artífice_x : parole 
+*** RIVIÈRE *** [9c Kh Kc 2d] [Ad]
+Le-cuistau : parole 
+psychoman59 : parole 
+artífice_x : parole 
+*** ABATTAGE ***
+Le-cuistau : montre [Qh 2h] (double paire, Rois et Deux)
+psychoman59 : cache la main perdante. 
+artífice_x : cache la main perdante. 
+Le-cuistau a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [9c Kh Kc 2d Ad]
+Siège 1 : artífice_x (bouton) a caché la main perdante. [Th Jh]
+Siège 2 : Le-cuistau (petite blind) a montré [Qh 2h] et a gagné (120) avec double paire, Rois et Deux
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [8d 7c]
+
+
+
+Main PokerStars n°255325473078 : Tournoi #3869760440, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 17/03/2025 7:05:55 CET [17/03/2025 2:05:55 ET]
+Table '3869760440 1' 3-max Siège #2 est au bouton.
+Place 1: artífice_x (460 en jetons) 
+Place 2: Le-cuistau (580 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+psychoman59 : met la petite blind. 10
+artífice_x : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 3c]
+Le-cuistau : suit. 20
+psychoman59 : passe. 
+artífice_x : relance. 20 à 40
+Le-cuistau : suit. 20
+*** FLOP *** [4h 9h Jd]
+artífice_x : parole 
+Le-cuistau : parole 
+*** TOURNANT *** [4h 9h Jd] [8d]
+artífice_x : parole 
+Le-cuistau : parole 
+*** RIVIÈRE *** [4h 9h Jd 8d] [Qs]
+artífice_x : parole 
+Le-cuistau : parole 
+*** ABATTAGE ***
+artífice_x : montre [7s 5s] (Hauteur Dame)
+Le-cuistau : montre [5d Ks] (Hauteur Roi)
+Le-cuistau a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [4h 9h Jd 8d Qs]
+Siège 1 : artífice_x (grosse blind) a montré [7s 5s] et a perdu avec Hauteur Dame
+Siège 2 : Le-cuistau (bouton) a montré [5d Ks] et a gagné (90) avec Hauteur Roi
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°255325474116 : Tournoi #3869760440, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 17/03/2025 7:06:13 CET [17/03/2025 2:06:13 ET]
+Table '3869760440 1' 3-max Siège #3 est au bouton.
+Place 1: artífice_x (420 en jetons) 
+Place 2: Le-cuistau (630 en jetons) 
+Place 3: psychoman59 (450 en jetons) 
+artífice_x : met la petite blind. 10
+Le-cuistau : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 8s]
+psychoman59 : suit. 20
+artífice_x : passe. 
+Le-cuistau : parole 
+*** FLOP *** [Ah Kd Tc]
+Le-cuistau : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Ah Kd Tc] [Jd]
+Le-cuistau : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Ah Kd Tc Jd] [Qh]
+Le-cuistau : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Le-cuistau : montre [3c 6d] (une suite, Dix à As)
+psychoman59 : montre [Qs 8s] (une suite, Dix à As)
+Le-cuistau a remporté 25  lors du pot .
+psychoman59 a remporté 25  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [Ah Kd Tc Jd Qh]
+Siège 1 : artífice_x (petite blind) s'est couché. avant Flop
+Siège 2 : Le-cuistau (grosse blind) a montré [3c 6d] et a gagné (25) avec une suite, Dix à As
+Siège 3 : psychoman59 (bouton) a montré [Qs 8s] et a gagné (25) avec une suite, Dix à As
+
+
+
+Main PokerStars n°255325475073 : Tournoi #3869760440, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 17/03/2025 7:06:30 CET [17/03/2025 2:06:30 ET]
+Table '3869760440 1' 3-max Siège #1 est au bouton.
+Place 1: artífice_x (410 en jetons) 
+Place 2: Le-cuistau (635 en jetons) 
+Place 3: psychoman59 (455 en jetons) 
+Le-cuistau : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 4h]
+artífice_x : relance. 30 à 50
+Le-cuistau : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à artífice_x.
+artífice_x a remporté 50  lors du pot .
+artífice_x : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : artífice_x (bouton) a remporté (50)
+Siège 2 : Le-cuistau (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°255325475893 : Tournoi #3869760440, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 17/03/2025 7:06:44 CET [17/03/2025 2:06:44 ET]
+Table '3869760440 1' 3-max Siège #2 est au bouton.
+Place 1: artífice_x (440 en jetons) 
+Place 2: Le-cuistau (625 en jetons) 
+Place 3: psychoman59 (435 en jetons) 
+psychoman59 : met la petite blind. 10
+artífice_x : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Qd]
+Le-cuistau : suit. 20
+psychoman59 : suit. 10
+artífice_x : parole 
+*** FLOP *** [Ad 8c 6s]
+psychoman59 : parole 
+artífice_x : parole 
+Le-cuistau : parole 
+*** TOURNANT *** [Ad 8c 6s] [3h]
+psychoman59 : mise. 60
+artífice_x : passe. 
+Le-cuistau : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ad 8c 6s 3h]
+Siège 1 : artífice_x (grosse blind) s'est couché. sur le Tournant
+Siège 2 : Le-cuistau (bouton) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°255325477018 : Tournoi #3869760440, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 17/03/2025 7:07:04 CET [17/03/2025 2:07:04 ET]
+Table '3869760440 1' 3-max Siège #3 est au bouton.
+Place 1: artífice_x (420 en jetons) 
+Place 2: Le-cuistau (605 en jetons) 
+Place 3: psychoman59 (475 en jetons) 
+artífice_x : met la petite blind. 10
+Le-cuistau : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Th]
+psychoman59 : passe. 
+artífice_x : suit. 10
+Le-cuistau : parole 
+*** FLOP *** [Jc 3c 5c]
+artífice_x : mise. 20
+Le-cuistau : passe. 
+Personne n'a suivi. (20) sont retournés à artífice_x.
+artífice_x a remporté 40  lors du pot .
+artífice_x : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Jc 3c 5c]
+Siège 1 : artífice_x (petite blind) a remporté (40)
+Siège 2 : Le-cuistau (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°255325477720 : Tournoi #3869760440, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 17/03/2025 7:07:16 CET [17/03/2025 2:07:16 ET]
+Table '3869760440 1' 3-max Siège #1 est au bouton.
+Place 1: artífice_x (440 en jetons) 
+Place 2: Le-cuistau (585 en jetons) 
+Place 3: psychoman59 (475 en jetons) 
+Le-cuistau : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 7h]
+artífice_x : passe. 
+Le-cuistau : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : artífice_x (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Le-cuistau (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°255325478047 : Tournoi #3869760440, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 17/03/2025 7:07:22 CET [17/03/2025 2:07:22 ET]
+Table '3869760440 1' 3-max Siège #2 est au bouton.
+Place 1: artífice_x (440 en jetons) 
+Place 2: Le-cuistau (575 en jetons) 
+Place 3: psychoman59 (485 en jetons) 
+psychoman59 : met la petite blind. 10
+artífice_x : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 6c]
+Le-cuistau : suit. 20
+psychoman59 : relance. 465 à 485 et est all-in.
+artífice_x : passe. 
+Le-cuistau : passe. 
+Personne n'a suivi. (465) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : artífice_x (grosse blind) s'est couché. avant Flop
+Siège 2 : Le-cuistau (bouton) s'est couché. avant Flop
+Siège 3 : psychoman59 (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°255325478604 : Tournoi #3869760440, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 17/03/2025 7:07:31 CET [17/03/2025 2:07:31 ET]
+Table '3869760440 1' 3-max Siège #3 est au bouton.
+Place 1: artífice_x (420 en jetons) 
+Place 2: Le-cuistau (555 en jetons) 
+Place 3: psychoman59 (525 en jetons) 
+artífice_x : met la petite blind. 10
+Le-cuistau : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 8c]
+psychoman59 : passe. 
+artífice_x : passe. 
+Personne n'a suivi. (10) sont retournés à Le-cuistau.
+Le-cuistau a remporté 20  lors du pot .
+Le-cuistau : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : artífice_x (petite blind) s'est couché. avant Flop
+Siège 2 : Le-cuistau (grosse blind) a remporté (20)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°255325478937 : Tournoi #3869760440, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 17/03/2025 7:07:37 CET [17/03/2025 2:07:37 ET]
+Table '3869760440 1' 3-max Siège #1 est au bouton.
+Place 1: artífice_x (410 en jetons) 
+Place 2: Le-cuistau (565 en jetons) 
+Place 3: psychoman59 (525 en jetons) 
+Le-cuistau : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 2h]
+artífice_x : passe. 
+Le-cuistau : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Qd 9c 7d]
+Le-cuistau : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Qd 9c 7d] [5s]
+Le-cuistau : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Qd 9c 7d 5s] [9s]
+Le-cuistau : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Le-cuistau : montre [8c 8d] (double paire, Neuf et Huit)
+psychoman59 : cache la main perdante. 
+Le-cuistau a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Qd 9c 7d 5s 9s]
+Siège 1 : artífice_x (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Le-cuistau (petite blind) a montré [8c 8d] et a gagné (40) avec double paire, Neuf et Huit
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [4s 2h]
+
+
+
+Main PokerStars n°255325479960 : Tournoi #3869760440, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 17/03/2025 7:07:54 CET [17/03/2025 2:07:54 ET]
+Table '3869760440 1' 3-max Siège #2 est au bouton.
+Place 1: artífice_x (410 en jetons) 
+Place 2: Le-cuistau (585 en jetons) 
+Place 3: psychoman59 (505 en jetons) 
+psychoman59 : met la petite blind. 10
+artífice_x : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 4c]
+Le-cuistau : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à artífice_x.
+artífice_x a remporté 20  lors du pot .
+artífice_x : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : artífice_x (grosse blind) a remporté (20)
+Siège 2 : Le-cuistau (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°255325480439 : Tournoi #3869760440, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 17/03/2025 7:08:02 CET [17/03/2025 2:08:02 ET]
+Table '3869760440 1' 3-max Siège #3 est au bouton.
+Place 1: artífice_x (420 en jetons) 
+Place 2: Le-cuistau (585 en jetons) 
+Place 3: psychoman59 (495 en jetons) 
+artífice_x : met la petite blind. 10
+Le-cuistau : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 2s]
+psychoman59 : suit. 20
+artífice_x : passe. 
+Le-cuistau : parole 
+*** FLOP *** [Qs Qc Kc]
+Le-cuistau : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Qs Qc Kc] [2c]
+Le-cuistau : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Qs Qc Kc 2c] [Jh]
+Le-cuistau : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Le-cuistau : montre [3h Tc] (une paire de Dames)
+psychoman59 : montre [As 2s] (double paire, Dames et Deux)
+psychoman59 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [Qs Qc Kc 2c Jh]
+Siège 1 : artífice_x (petite blind) s'est couché. avant Flop
+Siège 2 : Le-cuistau (grosse blind) a montré [3h Tc] et a perdu avec une paire de Dames
+Siège 3 : psychoman59 (bouton) a montré [As 2s] et a gagné (50) avec double paire, Dames et Deux
+
+
+
+Main PokerStars n°255325481574 : Tournoi #3869760440, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 17/03/2025 7:08:21 CET [17/03/2025 2:08:21 ET]
+Table '3869760440 1' 3-max Siège #1 est au bouton.
+Place 1: artífice_x (410 en jetons) 
+Place 2: Le-cuistau (565 en jetons) 
+Place 3: psychoman59 (525 en jetons) 
+Le-cuistau : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 7c]
+artífice_x : relance. 20 à 40
+Le-cuistau : passe. 
+psychoman59 : suit. 20
+*** FLOP *** [5c Qc 9c]
+psychoman59 : parole 
+artífice_x : mise. 60
+psychoman59 : suit. 60
+*** TOURNANT *** [5c Qc 9c] [Qh]
+psychoman59 : parole 
+artífice_x : parole 
+*** RIVIÈRE *** [5c Qc 9c Qh] [Qs]
+psychoman59 : parole 
+artífice_x : mise. 40
+psychoman59 : suit. 40
+*** ABATTAGE ***
+artífice_x : montre [5d 9d] (un full, full aux Dames par les Neuf)
+psychoman59 : cache la main perdante. 
+artífice_x a remporté 290  lors du pot .
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Tableau [5c Qc 9c Qh Qs]
+Siège 1 : artífice_x (bouton) a montré [5d 9d] et a gagné (290) avec un full, full aux Dames par les Neuf
+Siège 2 : Le-cuistau (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [Kc 7c]
+
+
+
+Main PokerStars n°255325483367 : Tournoi #3869760440, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 17/03/2025 7:08:52 CET [17/03/2025 2:08:52 ET]
+Table '3869760440 1' 3-max Siège #2 est au bouton.
+Place 1: artífice_x (560 en jetons) 
+Place 2: Le-cuistau (555 en jetons) 
+Place 3: psychoman59 (385 en jetons) 
+psychoman59 : met la petite blind. 15
+artífice_x : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 4h]
+Le-cuistau : passe. 
+psychoman59 : suit. 15
+artífice_x : relance. 30 à 60
+psychoman59 : suit. 30
+*** FLOP *** [Qs Kc Qh]
+psychoman59 : parole 
+artífice_x : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à artífice_x.
+artífice_x a remporté 120  lors du pot .
+artífice_x : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Qs Kc Qh]
+Siège 1 : artífice_x (grosse blind) a remporté (120)
+Siège 2 : Le-cuistau (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°255325484249 : Tournoi #3869760440, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 17/03/2025 7:09:08 CET [17/03/2025 2:09:08 ET]
+Table '3869760440 1' 3-max Siège #3 est au bouton.
+Place 1: artífice_x (620 en jetons) 
+Place 2: Le-cuistau (555 en jetons) 
+Place 3: psychoman59 (325 en jetons) 
+artífice_x : met la petite blind. 15
+Le-cuistau : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 6d]
+psychoman59 : suit. 30
+artífice_x : suit. 15
+Le-cuistau : parole 
+*** FLOP *** [Qc 4s 2s]
+artífice_x : parole 
+Le-cuistau : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Qc 4s 2s] [5d]
+artífice_x : parole 
+Le-cuistau : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Qc 4s 2s 5d] [7h]
+artífice_x : mise. 30
+Le-cuistau : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à artífice_x.
+artífice_x a remporté 90  lors du pot .
+artífice_x : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [Qc 4s 2s 5d 7h]
+Siège 1 : artífice_x (petite blind) a remporté (90)
+Siège 2 : Le-cuistau (grosse blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (bouton) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°255325485499 : Tournoi #3869760440, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 17/03/2025 7:09:30 CET [17/03/2025 2:09:30 ET]
+Table '3869760440 1' 3-max Siège #1 est au bouton.
+Place 1: artífice_x (680 en jetons) 
+Place 2: Le-cuistau (525 en jetons) 
+Place 3: psychoman59 (295 en jetons) 
+Le-cuistau : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 5s]
+artífice_x : passe. 
+Le-cuistau : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Ah 6d 5h]
+Le-cuistau : parole 
+psychoman59 : mise. 60
+Le-cuistau : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ah 6d 5h]
+Siège 1 : artífice_x (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Le-cuistau (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°255325486250 : Tournoi #3869760440, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 17/03/2025 7:09:43 CET [17/03/2025 2:09:43 ET]
+Table '3869760440 1' 3-max Siège #2 est au bouton.
+Place 1: artífice_x (680 en jetons) 
+Place 2: Le-cuistau (495 en jetons) 
+Place 3: psychoman59 (325 en jetons) 
+psychoman59 : met la petite blind. 15
+artífice_x : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 7d]
+Le-cuistau : relance. 30 à 60
+psychoman59 : relance. 265 à 325 et est all-in.
+artífice_x : suit. 295
+Le-cuistau : passe. 
+*** FLOP *** [5d As 2s]
+*** TOURNANT *** [5d As 2s] [4d]
+*** RIVIÈRE *** [5d As 2s 4d] [6s]
+*** ABATTAGE ***
+psychoman59 : montre [7c 7d] (une paire de Sept)
+artífice_x : montre [Tc Th] (une paire de Dix)
+artífice_x a remporté 710  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 710 | Commission 0 
+Tableau [5d As 2s 4d 6s]
+Siège 1 : artífice_x (grosse blind) a montré [Tc Th] et a gagné (710) avec une paire de Dix
+Siège 2 : Le-cuistau (bouton) s'est couché. avant Flop
+Siège 3 : psychoman59 (petite blind) a montré [7c 7d] et a perdu avec une paire de Sept
+
+
+

@@ -1,0 +1,60 @@
+﻿Main PokerStars n°261322306050 : Tournoi #4013157333, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 03/07/2026 7:51:47 CET [03/07/2026 1:51:47 ET]
+Table '4013157333 1' 3-max Siège #1 est au bouton.
+Place 1: Bruno_xoane (500 en jetons) 
+Place 2: jarira (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+jarira : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 6h]
+Bruno_xoane est connecté 
+Bruno_xoane est déconnecté 
+Bruno_xoane est connecté 
+Bruno_xoane a dépassé le temps imparti.
+Bruno_xoane : passe. 
+Bruno_xoane ne joue pas.
+Bruno_xoane est revenu.
+jarira : relance. 100 à 120
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à jarira.
+jarira a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Bruno_xoane (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : jarira (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261322308135 : Tournoi #4013157333, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 03/07/2026 7:52:24 CET [03/07/2026 1:52:24 ET]
+Table '4013157333 1' 3-max Siège #2 est au bouton.
+Place 1: Bruno_xoane (500 en jetons) 
+Place 2: jarira (520 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 10
+Bruno_xoane : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Kh]
+jarira : suit. 20
+psychoman59 : suit. 10
+Bruno_xoane : relance. 480 à 500 et est all-in.
+jarira : passe. 
+psychoman59 : suit. 460 et est all-in.
+Personne n'a suivi. (20) sont retournés à Bruno_xoane.
+*** FLOP *** [9h 3d 2s]
+*** TOURNANT *** [9h 3d 2s] [Ah]
+*** RIVIÈRE *** [9h 3d 2s Ah] [Qc]
+*** ABATTAGE ***
+psychoman59 : montre [Jd Kh] (Hauteur As)
+Bruno_xoane : montre [4c 5c] (une suite, As à Cinq)
+Bruno_xoane a remporté 980  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 980 | Commission 0 
+Tableau [9h 3d 2s Ah Qc]
+Siège 1 : Bruno_xoane (grosse blind) a montré [4c 5c] et a gagné (980) avec une suite, As à Cinq
+Siège 2 : jarira (bouton) s'est couché. avant Flop
+Siège 3 : psychoman59 (petite blind) a montré [Jd Kh] et a perdu avec Hauteur As
+
+
+

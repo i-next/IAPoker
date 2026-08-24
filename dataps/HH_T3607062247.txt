@@ -1,0 +1,89 @@
+﻿Main PokerStars n°244384035706 : Tournoi #3607062247, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 21/06/2023 7:01:22 CET [21/06/2023 1:01:22 ET]
+Table '3607062247 1' 3-max Siège #1 est au bouton.
+Place 1: purple2377 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: Drizzit73 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+Drizzit73 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Qd]
+purple2377 : suit. 20
+psychoman59 : suit. 10
+Drizzit73 : relance. 70 à 90
+purple2377 : suit. 70
+psychoman59 : passe. 
+*** FLOP *** [8c 6c 6s]
+Drizzit73 : mise. 40
+purple2377 : passe. 
+Personne n'a suivi. (40) sont retournés à Drizzit73.
+Drizzit73 a remporté 200  lors du pot .
+Drizzit73 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [8c 6c 6s]
+Siège 1 : purple2377 (bouton) s'est couché. sur le Flop
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Drizzit73 (grosse blind) a remporté (200)
+
+
+
+Main PokerStars n°244384038330 : Tournoi #3607062247, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 21/06/2023 7:01:50 CET [21/06/2023 1:01:50 ET]
+Table '3607062247 1' 3-max Siège #2 est au bouton.
+Place 1: purple2377 (210 en jetons) 
+Place 2: psychoman59 (280 en jetons) 
+Place 3: Drizzit73 (410 en jetons) 
+Drizzit73 : met la petite blind. 10
+purple2377 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 9c]
+psychoman59 : suit. 20
+Drizzit73 : passe. 
+purple2377 : parole 
+*** FLOP *** [Ts 2s Jd]
+purple2377 : mise. 190 et est all-in.
+psychoman59 : suit. 190
+*** TOURNANT *** [Ts 2s Jd] [Ac]
+*** RIVIÈRE *** [Ts 2s Jd Ac] [3h]
+*** ABATTAGE ***
+purple2377 : montre [9h Tc] (une paire de Dix)
+psychoman59 : montre [Qd 9c] (Hauteur As)
+purple2377 a remporté 430  lors du pot .
+*** SYNTHÈSE ***
+Pot total 430 | Commission 0 
+Tableau [Ts 2s Jd Ac 3h]
+Siège 1 : purple2377 (grosse blind) a montré [9h Tc] et a gagné (430) avec une paire de Dix
+Siège 2 : psychoman59 (bouton) a montré [Qd 9c] et a perdu avec Hauteur As
+Siège 3 : Drizzit73 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244384040660 : Tournoi #3607062247, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 21/06/2023 7:02:14 CET [21/06/2023 1:02:14 ET]
+Table '3607062247 1' 3-max Siège #3 est au bouton.
+Place 1: purple2377 (430 en jetons) 
+Place 2: psychoman59 (70 en jetons) 
+Place 3: Drizzit73 (400 en jetons) 
+purple2377 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Js]
+Drizzit73 : passe. 
+purple2377 : suit. 10
+psychoman59 : relance. 50 à 70 et est all-in.
+purple2377 : suit. 50
+*** FLOP *** [5d Jd Qh]
+*** TOURNANT *** [5d Jd Qh] [2d]
+*** RIVIÈRE *** [5d Jd Qh 2d] [2s]
+*** ABATTAGE ***
+purple2377 : montre [Qd 5c] (double paire, Dames et Cinq)
+psychoman59 : montre [Ah Js] (double paire, Valets et Deux)
+purple2377 a remporté 140  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [5d Jd Qh 2d 2s]
+Siège 1 : purple2377 (petite blind) a montré [Qd 5c] et a gagné (140) avec double paire, Dames et Cinq
+Siège 2 : psychoman59 (grosse blind) a montré [Ah Js] et a perdu avec double paire, Valets et Deux
+Siège 3 : Drizzit73 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+

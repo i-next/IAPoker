@@ -1,0 +1,663 @@
+﻿Main PokerStars n°242218993168 : Tournoi #3556859324, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/03/2023 7:57:05 CET [04/03/2023 1:57:05 ET]
+Table '3556859324 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Ditoloco89 (300 en jetons) 
+Place 3: oups27 (300 en jetons) 
+Ditoloco89 : met la petite blind. 10
+oups27 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 9c]
+psychoman59 : passe. 
+Ditoloco89 : relance. 20 à 40
+oups27 : passe. 
+Personne n'a suivi. (20) sont retournés à Ditoloco89.
+Ditoloco89 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Ditoloco89 (petite blind) a remporté (40)
+Siège 3 : oups27 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242218994061 : Tournoi #3556859324, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/03/2023 7:57:13 CET [04/03/2023 1:57:13 ET]
+Table '3556859324 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Ditoloco89 (320 en jetons) 
+Place 3: oups27 (280 en jetons) 
+oups27 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 9s]
+Ditoloco89 : suit. 20
+oups27 : relance. 40 à 60
+psychoman59 : relance. 240 à 300 et est all-in.
+Ditoloco89 : passe. 
+oups27 : suit. 220 et est all-in.
+Personne n'a suivi. (20) sont retournés à psychoman59.
+*** FLOP *** [Qs Ac 4c]
+*** TOURNANT *** [Qs Ac 4c] [5c]
+*** RIVIÈRE *** [Qs Ac 4c 5c] [5s]
+*** ABATTAGE ***
+oups27 : montre [Kd Kh] (double paire, Rois et Cinq)
+psychoman59 : montre [9d 9s] (double paire, Neuf et Cinq)
+oups27 a remporté 580  lors du pot .
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [Qs Ac 4c 5c 5s]
+Siège 1 : psychoman59 (grosse blind) a montré [9d 9s] et a perdu avec double paire, Neuf et Cinq
+Siège 2 : Ditoloco89 (bouton) s'est couché. avant Flop
+Siège 3 : oups27 (petite blind) a montré [Kd Kh] et a gagné (580) avec double paire, Rois et Cinq
+
+
+
+Main PokerStars n°242218995955 : Tournoi #3556859324, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/03/2023 7:57:31 CET [04/03/2023 1:57:31 ET]
+Table '3556859324 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (20 en jetons) 
+Place 2: Ditoloco89 (300 en jetons) 
+Place 3: oups27 (580 en jetons) 
+psychoman59 : met la petite blind. 10
+Ditoloco89 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 4d]
+oups27 : passe. 
+psychoman59 : suit. 10 et est all-in.
+*** FLOP *** [9h 2h Th]
+*** TOURNANT *** [9h 2h Th] [Qc]
+*** RIVIÈRE *** [9h 2h Th Qc] [3s]
+*** ABATTAGE ***
+psychoman59 : montre [Kh 4d] (Hauteur Roi)
+Ditoloco89 : montre [5s 7h] (Hauteur Dame)
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [9h 2h Th Qc 3s]
+Siège 1 : psychoman59 (petite blind) a montré [Kh 4d] et a gagné (40) avec Hauteur Roi
+Siège 2 : Ditoloco89 (grosse blind) a montré [5s 7h] et a perdu avec Hauteur Dame
+Siège 3 : oups27 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°242218997299 : Tournoi #3556859324, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/03/2023 7:57:44 CET [04/03/2023 1:57:44 ET]
+Table '3556859324 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (40 en jetons) 
+Place 2: Ditoloco89 (280 en jetons) 
+Place 3: oups27 (580 en jetons) 
+Ditoloco89 : met la petite blind. 10
+oups27 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Th]
+psychoman59 : relance. 20 à 40 et est all-in.
+Ditoloco89 : suit. 30
+oups27 : passe. 
+*** FLOP *** [Ts Qc Kd]
+*** TOURNANT *** [Ts Qc Kd] [8s]
+*** RIVIÈRE *** [Ts Qc Kd 8s] [9h]
+*** ABATTAGE ***
+Ditoloco89 : montre [6d 9d] (une paire de Neuf)
+psychoman59 : montre [Jh Th] (une suite, Neuf à Roi)
+psychoman59 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [Ts Qc Kd 8s 9h]
+Siège 1 : psychoman59 (bouton) a montré [Jh Th] et a gagné (100) avec une suite, Neuf à Roi
+Siège 2 : Ditoloco89 (petite blind) a montré [6d 9d] et a perdu avec une paire de Neuf
+Siège 3 : oups27 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242218998678 : Tournoi #3556859324, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/03/2023 7:57:57 CET [04/03/2023 1:57:57 ET]
+Table '3556859324 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (100 en jetons) 
+Place 2: Ditoloco89 (240 en jetons) 
+Place 3: oups27 (560 en jetons) 
+oups27 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 5s]
+Ditoloco89 : suit. 20
+oups27 : passe. 
+psychoman59 : parole 
+*** FLOP *** [Ah Qd 8s]
+psychoman59 : parole 
+Ditoloco89 : parole 
+*** TOURNANT *** [Ah Qd 8s] [Jc]
+psychoman59 : parole 
+Ditoloco89 : parole 
+*** RIVIÈRE *** [Ah Qd 8s Jc] [7d]
+psychoman59 : parole 
+Ditoloco89 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [2s 5s] (Hauteur As)
+Ditoloco89 : montre [Qc 4c] (une paire de Dames)
+Ditoloco89 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [Ah Qd 8s Jc 7d]
+Siège 1 : psychoman59 (grosse blind) a montré [2s 5s] et a perdu avec Hauteur As
+Siège 2 : Ditoloco89 (bouton) a montré [Qc 4c] et a gagné (50) avec une paire de Dames
+Siège 3 : oups27 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242219001717 : Tournoi #3556859324, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 04/03/2023 7:58:25 CET [04/03/2023 1:58:25 ET]
+Table '3556859324 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (80 en jetons) 
+Place 2: Ditoloco89 (270 en jetons) 
+Place 3: oups27 (550 en jetons) 
+psychoman59 : met la petite blind. 15
+Ditoloco89 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 4h]
+oups27 : relance. 30 à 60
+psychoman59 : passe. 
+Ditoloco89 : suit. 30
+*** FLOP *** [9s 8h Kh]
+Ditoloco89 : mise. 30
+oups27 : suit. 30
+*** TOURNANT *** [9s 8h Kh] [6s]
+Ditoloco89 : mise. 30
+oups27 : suit. 30
+*** RIVIÈRE *** [9s 8h Kh 6s] [2h]
+Ditoloco89 : parole 
+oups27 : mise. 90
+Ditoloco89 : suit. 90
+*** ABATTAGE ***
+oups27 : montre [Ah Jc] (Hauteur As)
+Ditoloco89 : montre [8s Jh] (une paire de Huit)
+Ditoloco89 a remporté 435  lors du pot .
+*** SYNTHÈSE ***
+Pot total 435 | Commission 0 
+Tableau [9s 8h Kh 6s 2h]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Ditoloco89 (grosse blind) a montré [8s Jh] et a gagné (435) avec une paire de Huit
+Siège 3 : oups27 (bouton) a montré [Ah Jc] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°242219003788 : Tournoi #3556859324, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 04/03/2023 7:58:45 CET [04/03/2023 1:58:45 ET]
+Table '3556859324 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (65 en jetons) 
+Place 2: Ditoloco89 (495 en jetons) 
+Place 3: oups27 (340 en jetons) 
+Ditoloco89 : met la petite blind. 15
+oups27 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 9d]
+psychoman59 : relance. 35 à 65 et est all-in.
+Ditoloco89 : suit. 50
+oups27 : passe. 
+*** FLOP *** [9h Jc 6s]
+*** TOURNANT *** [9h Jc 6s] [Td]
+*** RIVIÈRE *** [9h Jc 6s Td] [3h]
+*** ABATTAGE ***
+Ditoloco89 : montre [4c Ts] (une paire de Dix)
+psychoman59 : montre [6d 9d] (double paire, Neuf et Six)
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [9h Jc 6s Td 3h]
+Siège 1 : psychoman59 (bouton) a montré [6d 9d] et a gagné (160) avec double paire, Neuf et Six
+Siège 2 : Ditoloco89 (petite blind) a montré [4c Ts] et a perdu avec une paire de Dix
+Siège 3 : oups27 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242219005345 : Tournoi #3556859324, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 04/03/2023 7:58:59 CET [04/03/2023 1:58:59 ET]
+Table '3556859324 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (160 en jetons) 
+Place 2: Ditoloco89 (430 en jetons) 
+Place 3: oups27 (310 en jetons) 
+oups27 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 6h]
+Ditoloco89 : relance. 75 à 105
+oups27 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (75) sont retournés à Ditoloco89.
+Ditoloco89 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Ditoloco89 (bouton) a remporté (75)
+Siège 3 : oups27 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242219006545 : Tournoi #3556859324, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 04/03/2023 7:59:10 CET [04/03/2023 1:59:10 ET]
+Table '3556859324 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (130 en jetons) 
+Place 2: Ditoloco89 (475 en jetons) 
+Place 3: oups27 (295 en jetons) 
+psychoman59 : met la petite blind. 20
+Ditoloco89 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d As]
+oups27 : passe. 
+psychoman59 : relance. 90 à 130 et est all-in.
+Ditoloco89 : suit. 90
+*** FLOP *** [Ac Tc Js]
+*** TOURNANT *** [Ac Tc Js] [Qh]
+*** RIVIÈRE *** [Ac Tc Js Qh] [2s]
+*** ABATTAGE ***
+psychoman59 : montre [5d As] (une paire de As)
+Ditoloco89 : montre [4s 8c] (Hauteur As)
+psychoman59 a remporté 260  lors du pot .
+*** SYNTHÈSE ***
+Pot total 260 | Commission 0 
+Tableau [Ac Tc Js Qh 2s]
+Siège 1 : psychoman59 (petite blind) a montré [5d As] et a gagné (260) avec une paire de As
+Siège 2 : Ditoloco89 (grosse blind) a montré [4s 8c] et a perdu avec Hauteur As
+Siège 3 : oups27 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°242219008337 : Tournoi #3556859324, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 04/03/2023 7:59:28 CET [04/03/2023 1:59:28 ET]
+Table '3556859324 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (260 en jetons) 
+Place 2: Ditoloco89 (345 en jetons) 
+Place 3: oups27 (295 en jetons) 
+Ditoloco89 : met la petite blind. 20
+oups27 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 2s]
+psychoman59 : passe. 
+Ditoloco89 : relance. 80 à 120
+oups27 : suit. 80
+*** FLOP *** [Qs 6d Qc]
+Ditoloco89 : mise. 40
+oups27 : relance. 135 à 175 et est all-in.
+Ditoloco89 : suit. 135
+*** TOURNANT *** [Qs 6d Qc] [Jc]
+*** RIVIÈRE *** [Qs 6d Qc Jc] [7h]
+*** ABATTAGE ***
+Ditoloco89 : montre [As Qh] (un brelan de Dames)
+oups27 : montre [3h 3d] (double paire, Dames et Trois)
+Ditoloco89 a remporté 590  lors du pot .
+oups27 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 590 | Commission 0 
+Tableau [Qs 6d Qc Jc 7h]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Ditoloco89 (petite blind) a montré [As Qh] et a gagné (590) avec un brelan de Dames
+Siège 3 : oups27 (grosse blind) a montré [3h 3d] et a perdu avec double paire, Dames et Trois
+
+
+
+Main PokerStars n°242219010964 : Tournoi #3556859324, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 04/03/2023 7:59:53 CET [04/03/2023 1:59:53 ET]
+Table '3556859324 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (260 en jetons) 
+Place 2: Ditoloco89 (640 en jetons) 
+Ditoloco89 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 3h]
+Ditoloco89 : relance. 80 à 120
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à Ditoloco89.
+Ditoloco89 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Ditoloco89 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°242219011939 : Tournoi #3556859324, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 04/03/2023 8:00:02 CET [04/03/2023 2:00:02 ET]
+Table '3556859324 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (220 en jetons) 
+Place 2: Ditoloco89 (680 en jetons) 
+psychoman59 : met la petite blind. 20
+Ditoloco89 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 8c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Ditoloco89.
+Ditoloco89 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : Ditoloco89 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°242219012778 : Tournoi #3556859324, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 04/03/2023 8:00:10 CET [04/03/2023 2:00:10 ET]
+Table '3556859324 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (200 en jetons) 
+Place 2: Ditoloco89 (700 en jetons) 
+Ditoloco89 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 5d]
+Ditoloco89 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [9s 5h 8c]
+psychoman59 : mise. 140 et est all-in.
+Ditoloco89 : suit. 140
+*** TOURNANT *** [9s 5h 8c] [9d]
+*** RIVIÈRE *** [9s 5h 8c 9d] [Tc]
+*** ABATTAGE ***
+psychoman59 : montre [3d 5d] (double paire, Neuf et Cinq)
+Ditoloco89 : montre [Jh 6s] (une paire de Neuf)
+psychoman59 a remporté 400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [9s 5h 8c 9d Tc]
+Siège 1 : psychoman59 (grosse blind) a montré [3d 5d] et a gagné (400) avec double paire, Neuf et Cinq
+Siège 2 : Ditoloco89 (bouton) (petite blind) a montré [Jh 6s] et a perdu avec une paire de Neuf
+
+
+
+Main PokerStars n°242219015034 : Tournoi #3556859324, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 04/03/2023 8:00:30 CET [04/03/2023 2:00:30 ET]
+Table '3556859324 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (400 en jetons) 
+Place 2: Ditoloco89 (500 en jetons) 
+psychoman59 : met la petite blind. 30
+Ditoloco89 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Th]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Ditoloco89.
+Ditoloco89 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : Ditoloco89 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°242219015583 : Tournoi #3556859324, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 04/03/2023 8:00:35 CET [04/03/2023 2:00:35 ET]
+Table '3556859324 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (370 en jetons) 
+Place 2: Ditoloco89 (530 en jetons) 
+Ditoloco89 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Ts]
+Ditoloco89 : relance. 120 à 180
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à Ditoloco89.
+Ditoloco89 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Ditoloco89 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°242219016555 : Tournoi #3556859324, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 04/03/2023 8:00:43 CET [04/03/2023 2:00:43 ET]
+Table '3556859324 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (310 en jetons) 
+Place 2: Ditoloco89 (590 en jetons) 
+psychoman59 : met la petite blind. 30
+Ditoloco89 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Th]
+psychoman59 : relance. 250 à 310 et est all-in.
+Ditoloco89 : suit. 250
+*** FLOP *** [3h 8s Ks]
+*** TOURNANT *** [3h 8s Ks] [8c]
+*** RIVIÈRE *** [3h 8s Ks 8c] [Qd]
+*** ABATTAGE ***
+Ditoloco89 : montre [Ac 5c] (une paire de Huit)
+psychoman59 : montre [Qc Th] (double paire, Dames et Huit)
+psychoman59 a remporté 620  lors du pot .
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [3h 8s Ks 8c Qd]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Qc Th] et a gagné (620) avec double paire, Dames et Huit
+Siège 2 : Ditoloco89 (grosse blind) a montré [Ac 5c] et a perdu avec une paire de Huit
+
+
+
+Main PokerStars n°242219018131 : Tournoi #3556859324, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 04/03/2023 8:00:57 CET [04/03/2023 2:00:57 ET]
+Table '3556859324 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (620 en jetons) 
+Place 2: Ditoloco89 (280 en jetons) 
+Ditoloco89 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 6d]
+Ditoloco89 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Ks 6h 2c]
+psychoman59 : mise. 560 et est all-in.
+Ditoloco89 : passe. 
+Personne n'a suivi. (560) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Ks 6h 2c]
+Siège 1 : psychoman59 (grosse blind) a remporté (120)
+Siège 2 : Ditoloco89 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°242219020713 : Tournoi #3556859324, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 04/03/2023 8:01:18 CET [04/03/2023 2:01:18 ET]
+Table '3556859324 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (680 en jetons) 
+Place 2: Ditoloco89 (220 en jetons) 
+psychoman59 : met la petite blind. 40
+Ditoloco89 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 6d]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Ditoloco89.
+Ditoloco89 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : Ditoloco89 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°242219021300 : Tournoi #3556859324, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 04/03/2023 8:01:23 CET [04/03/2023 2:01:23 ET]
+Table '3556859324 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (640 en jetons) 
+Place 2: Ditoloco89 (260 en jetons) 
+Ditoloco89 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Kh]
+Ditoloco89 : suit. 40
+psychoman59 : relance. 560 à 640 et est all-in.
+Ditoloco89 : suit. 180 et est all-in.
+Personne n'a suivi. (380) sont retournés à psychoman59.
+*** FLOP *** [9d Qs 7d]
+*** TOURNANT *** [9d Qs 7d] [5c]
+*** RIVIÈRE *** [9d Qs 7d 5c] [6d]
+*** ABATTAGE ***
+psychoman59 : montre [7s Kh] (une paire de Sept)
+Ditoloco89 : montre [6c Qd] (double paire, Dames et Six)
+Ditoloco89 a remporté 520  lors du pot .
+*** SYNTHÈSE ***
+Pot total 520 | Commission 0 
+Tableau [9d Qs 7d 5c 6d]
+Siège 1 : psychoman59 (grosse blind) a montré [7s Kh] et a perdu avec une paire de Sept
+Siège 2 : Ditoloco89 (bouton) (petite blind) a montré [6c Qd] et a gagné (520) avec double paire, Dames et Six
+
+
+
+Main PokerStars n°242219023167 : Tournoi #3556859324, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 04/03/2023 8:01:39 CET [04/03/2023 2:01:39 ET]
+Table '3556859324 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (380 en jetons) 
+Place 2: Ditoloco89 (520 en jetons) 
+psychoman59 : met la petite blind. 40
+Ditoloco89 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 8d]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Ditoloco89.
+Ditoloco89 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : Ditoloco89 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°242219023829 : Tournoi #3556859324, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 04/03/2023 8:01:44 CET [04/03/2023 2:01:44 ET]
+Table '3556859324 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (340 en jetons) 
+Place 2: Ditoloco89 (560 en jetons) 
+Ditoloco89 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 3d]
+Ditoloco89 : relance. 160 à 240
+psychoman59 : passe. 
+Personne n'a suivi. (160) sont retournés à Ditoloco89.
+Ditoloco89 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Ditoloco89 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°242219024612 : Tournoi #3556859324, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 04/03/2023 8:01:51 CET [04/03/2023 2:01:51 ET]
+Table '3556859324 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (260 en jetons) 
+Place 2: Ditoloco89 (640 en jetons) 
+psychoman59 : met la petite blind. 40
+Ditoloco89 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Kh]
+psychoman59 : relance. 180 à 260 et est all-in.
+Ditoloco89 : suit. 180
+*** FLOP *** [4c Ah 9c]
+*** TOURNANT *** [4c Ah 9c] [Js]
+*** RIVIÈRE *** [4c Ah 9c Js] [Ad]
+*** ABATTAGE ***
+Ditoloco89 : montre [5d 6s] (une paire de As)
+psychoman59 : montre [Jc Kh] (double paire, As et Valets)
+psychoman59 a remporté 520  lors du pot .
+*** SYNTHÈSE ***
+Pot total 520 | Commission 0 
+Tableau [4c Ah 9c Js Ad]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Jc Kh] et a gagné (520) avec double paire, As et Valets
+Siège 2 : Ditoloco89 (grosse blind) a montré [5d 6s] et a perdu avec une paire de As
+
+
+
+Main PokerStars n°242219026321 : Tournoi #3556859324, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 04/03/2023 8:02:05 CET [04/03/2023 2:02:05 ET]
+Table '3556859324 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (520 en jetons) 
+Place 2: Ditoloco89 (380 en jetons) 
+Ditoloco89 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 9c]
+Ditoloco89 : relance. 300 à 380 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (300) sont retournés à Ditoloco89.
+Ditoloco89 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Ditoloco89 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°242219027737 : Tournoi #3556859324, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 04/03/2023 8:02:16 CET [04/03/2023 2:02:16 ET]
+Table '3556859324 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (440 en jetons) 
+Place 2: Ditoloco89 (460 en jetons) 
+psychoman59 : met la petite blind. 50
+Ditoloco89 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 3s]
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à Ditoloco89.
+Ditoloco89 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : Ditoloco89 (grosse blind) a remporté (100)
+
+
+
+Main PokerStars n°242219028298 : Tournoi #3556859324, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 04/03/2023 8:02:21 CET [04/03/2023 2:02:21 ET]
+Table '3556859324 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (390 en jetons) 
+Place 2: Ditoloco89 (510 en jetons) 
+Ditoloco89 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Qd]
+Ditoloco89 : suit. 50
+psychoman59 : relance. 290 à 390 et est all-in.
+Ditoloco89 : suit. 290
+*** FLOP *** [Kd 2d Jc]
+*** TOURNANT *** [Kd 2d Jc] [5c]
+*** RIVIÈRE *** [Kd 2d Jc 5c] [3c]
+*** ABATTAGE ***
+psychoman59 : montre [As Qd] (Hauteur As)
+Ditoloco89 : montre [8h 6s] (Hauteur Roi)
+psychoman59 a remporté 780  lors du pot .
+*** SYNTHÈSE ***
+Pot total 780 | Commission 0 
+Tableau [Kd 2d Jc 5c 3c]
+Siège 1 : psychoman59 (grosse blind) a montré [As Qd] et a gagné (780) avec Hauteur As
+Siège 2 : Ditoloco89 (bouton) (petite blind) a montré [8h 6s] et a perdu avec Hauteur Roi
+
+
+
+Main PokerStars n°242219030521 : Tournoi #3556859324, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 04/03/2023 8:02:40 CET [04/03/2023 2:02:40 ET]
+Table '3556859324 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (780 en jetons) 
+Place 2: Ditoloco89 (120 en jetons) 
+psychoman59 : met la petite blind. 50
+Ditoloco89 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Tc]
+psychoman59 : relance. 100 à 200
+Ditoloco89 : suit. 20 et est all-in.
+Personne n'a suivi. (80) sont retournés à psychoman59.
+*** FLOP *** [6s Qs 5c]
+*** TOURNANT *** [6s Qs 5c] [Ks]
+*** RIVIÈRE *** [6s Qs 5c Ks] [As]
+*** ABATTAGE ***
+Ditoloco89 : montre [9s Jh] (une couleur, hauteur As)
+psychoman59 : montre [Qc Tc] (une paire de Dames)
+Ditoloco89 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [6s Qs 5c Ks As]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Qc Tc] et a perdu avec une paire de Dames
+Siège 2 : Ditoloco89 (grosse blind) a montré [9s Jh] et a gagné (240) avec une couleur, hauteur As
+
+
+
+Main PokerStars n°242219032288 : Tournoi #3556859324, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 04/03/2023 8:02:55 CET [04/03/2023 2:02:55 ET]
+Table '3556859324 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (660 en jetons) 
+Place 2: Ditoloco89 (240 en jetons) 
+Ditoloco89 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 7h]
+Ditoloco89 : suit. 50
+psychoman59 : parole 
+*** FLOP *** [7c 9s Qc]
+psychoman59 : mise. 200
+Ditoloco89 : suit. 140 et est all-in.
+Personne n'a suivi. (60) sont retournés à psychoman59.
+*** TOURNANT *** [7c 9s Qc] [Kh]
+*** RIVIÈRE *** [7c 9s Qc Kh] [8s]
+*** ABATTAGE ***
+psychoman59 : montre [5c 7h] (une paire de Sept)
+Ditoloco89 : montre [Ah 6d] (Hauteur As)
+psychoman59 a remporté 480  lors du pot .
+Ditoloco89 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [7c 9s Qc Kh 8s]
+Siège 1 : psychoman59 (grosse blind) a montré [5c 7h] et a gagné (480) avec une paire de Sept
+Siège 2 : Ditoloco89 (bouton) (petite blind) a montré [Ah 6d] et a perdu avec Hauteur As
+
+
+

@@ -1,0 +1,370 @@
+﻿Main PokerStars n°261037855470 : Tournoi #4005997640, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/06/2026 8:55:51 CET [05/06/2026 2:55:51 ET]
+Table '4005997640 1' 3-max Siège #1 est au bouton.
+Place 1: d.moya83 (500 en jetons) 
+Place 2: delfina197608 (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+delfina197608 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 7d]
+d.moya83 : suit. 20
+delfina197608 a dépassé le temps imparti.
+delfina197608 : passe. 
+delfina197608 ne joue pas.
+psychoman59 : parole 
+*** FLOP *** [4d 6h 4c]
+psychoman59 : parole 
+d.moya83 : parole 
+*** TOURNANT *** [4d 6h 4c] [7c]
+psychoman59 : mise. 50
+delfina197608 est revenu.
+d.moya83 : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [4d 6h 4c 7c]
+Siège 1 : d.moya83 (bouton) s'est couché. sur le Tournant
+Siège 2 : delfina197608 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (50)
+
+
+
+Main PokerStars n°261037857342 : Tournoi #4005997640, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/06/2026 8:56:29 CET [05/06/2026 2:56:29 ET]
+Table '4005997640 1' 3-max Siège #2 est au bouton.
+Place 1: d.moya83 (480 en jetons) 
+Place 2: delfina197608 (490 en jetons) 
+Place 3: psychoman59 (530 en jetons) 
+psychoman59 : met la petite blind. 10
+d.moya83 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 4c]
+delfina197608 : suit. 20
+psychoman59 : suit. 10
+d.moya83 : parole 
+*** FLOP *** [Ad Td 3c]
+psychoman59 : parole 
+d.moya83 : parole 
+delfina197608 : parole 
+*** TOURNANT *** [Ad Td 3c] [5d]
+psychoman59 : parole 
+d.moya83 : mise. 20
+delfina197608 : suit. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [Ad Td 3c 5d] [8c]
+psychoman59 : parole 
+d.moya83 : parole 
+delfina197608 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [6c 4c] (Hauteur As)
+d.moya83 : montre [Qd 5s] (une paire de Cinq)
+delfina197608 : cache la main perdante. 
+d.moya83 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Ad Td 3c 5d 8c]
+Siège 1 : d.moya83 (grosse blind) a montré [Qd 5s] et a gagné (120) avec une paire de Cinq
+Siège 2 : delfina197608 (bouton) a caché la main perdante. [Qh 7c]
+Siège 3 : psychoman59 (petite blind) a montré [6c 4c] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°261037858736 : Tournoi #4005997640, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/06/2026 8:56:57 CET [05/06/2026 2:56:57 ET]
+Table '4005997640 1' 3-max Siège #3 est au bouton.
+Place 1: d.moya83 (560 en jetons) 
+Place 2: delfina197608 (450 en jetons) 
+Place 3: psychoman59 (490 en jetons) 
+d.moya83 : met la petite blind. 10
+delfina197608 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 5h]
+psychoman59 : passe. 
+d.moya83 : suit. 10
+delfina197608 : relance. 20 à 40
+d.moya83 : suit. 20
+*** FLOP *** [Kc Ks Th]
+d.moya83 : parole 
+delfina197608 : parole 
+*** TOURNANT *** [Kc Ks Th] [2h]
+d.moya83 : mise. 20
+delfina197608 : suit. 20
+*** RIVIÈRE *** [Kc Ks Th 2h] [9c]
+d.moya83 : mise. 20
+delfina197608 : relance. 20 à 40
+d.moya83 : relance. 460 à 500 et est all-in.
+delfina197608 : suit. 350 et est all-in.
+Personne n'a suivi. (110) sont retournés à d.moya83.
+*** ABATTAGE ***
+d.moya83 : montre [2c Kd] (un full, full aux Rois par les Deux)
+delfina197608 : montre [Qc Js] (une suite, Neuf à Roi)
+d.moya83 a remporté 900  lors du pot .
+delfina197608 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Tableau [Kc Ks Th 2h 9c]
+Siège 1 : d.moya83 (petite blind) a montré [2c Kd] et a gagné (900) avec un full, full aux Rois par les Deux
+Siège 2 : delfina197608 (grosse blind) a montré [Qc Js] et a perdu avec une suite, Neuf à Roi
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261037860022 : Tournoi #4005997640, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/06/2026 8:57:23 CET [05/06/2026 2:57:23 ET]
+Table '4005997640 1' 3-max Siège #1 est au bouton.
+Place 1: d.moya83 (1010 en jetons) 
+Place 3: psychoman59 (490 en jetons) 
+d.moya83 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 3c]
+d.moya83 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [9d Qc Ah]
+psychoman59 : parole 
+d.moya83 : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à d.moya83.
+d.moya83 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [9d Qc Ah]
+Siège 1 : d.moya83 (bouton) (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261037860670 : Tournoi #4005997640, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/06/2026 8:57:36 CET [05/06/2026 2:57:36 ET]
+Table '4005997640 1' 3-max Siège #3 est au bouton.
+Place 1: d.moya83 (1030 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+psychoman59 : met la petite blind. 10
+d.moya83 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Js]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à d.moya83.
+d.moya83 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : d.moya83 (grosse blind) a remporté (20)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261037860935 : Tournoi #4005997640, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/06/2026 8:57:41 CET [05/06/2026 2:57:41 ET]
+Table '4005997640 1' 3-max Siège #1 est au bouton.
+Place 1: d.moya83 (1040 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+d.moya83 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 8d]
+d.moya83 : relance. 20 à 40
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à d.moya83.
+d.moya83 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : d.moya83 (bouton) (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261037861268 : Tournoi #4005997640, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/06/2026 8:57:48 CET [05/06/2026 2:57:48 ET]
+Table '4005997640 1' 3-max Siège #3 est au bouton.
+Place 1: d.moya83 (1060 en jetons) 
+Place 3: psychoman59 (440 en jetons) 
+psychoman59 : met la petite blind. 10
+d.moya83 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 6s]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à d.moya83.
+d.moya83 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : d.moya83 (grosse blind) a remporté (20)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261037861527 : Tournoi #4005997640, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/06/2026 8:57:53 CET [05/06/2026 2:57:53 ET]
+Table '4005997640 1' 3-max Siège #1 est au bouton.
+Place 1: d.moya83 (1070 en jetons) 
+Place 3: psychoman59 (430 en jetons) 
+d.moya83 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Kh]
+d.moya83 : relance. 20 à 40
+psychoman59 : suit. 20
+*** FLOP *** [Ks 9h 8d]
+psychoman59 : parole 
+d.moya83 : mise. 1030 et est all-in.
+psychoman59 : suit. 390 et est all-in.
+Personne n'a suivi. (640) sont retournés à d.moya83.
+*** TOURNANT *** [Ks 9h 8d] [2d]
+*** RIVIÈRE *** [Ks 9h 8d 2d] [Js]
+*** ABATTAGE ***
+psychoman59 : montre [Ts Kh] (une paire de Rois)
+d.moya83 : montre [Kd 3h] (une paire de Rois - plus basse kicker)
+psychoman59 a remporté 860  lors du pot .
+*** SYNTHÈSE ***
+Pot total 860 | Commission 0 
+Tableau [Ks 9h 8d 2d Js]
+Siège 1 : d.moya83 (bouton) (petite blind) a montré [Kd 3h] et a perdu avec une paire de Rois
+Siège 3 : psychoman59 (grosse blind) a montré [Ts Kh] et a gagné (860) avec une paire de Rois
+
+
+
+Main PokerStars n°261037862407 : Tournoi #4005997640, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/06/2026 8:58:11 CET [05/06/2026 2:58:11 ET]
+Table '4005997640 1' 3-max Siège #3 est au bouton.
+Place 1: d.moya83 (640 en jetons) 
+Place 3: psychoman59 (860 en jetons) 
+psychoman59 : met la petite blind. 10
+d.moya83 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Ts]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à d.moya83.
+d.moya83 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : d.moya83 (grosse blind) a remporté (20)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261037862773 : Tournoi #4005997640, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/06/2026 8:58:18 CET [05/06/2026 2:58:18 ET]
+Table '4005997640 1' 3-max Siège #1 est au bouton.
+Place 1: d.moya83 (650 en jetons) 
+Place 3: psychoman59 (850 en jetons) 
+d.moya83 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 9s]
+d.moya83 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [7c 8s 8h]
+psychoman59 : parole 
+d.moya83 : mise. 630 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (630) sont retournés à d.moya83.
+d.moya83 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [7c 8s 8h]
+Siège 1 : d.moya83 (bouton) (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261037863494 : Tournoi #4005997640, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/06/2026 8:58:33 CET [05/06/2026 2:58:33 ET]
+Table '4005997640 1' 3-max Siège #3 est au bouton.
+Place 1: d.moya83 (670 en jetons) 
+Place 3: psychoman59 (830 en jetons) 
+psychoman59 : met la petite blind. 10
+d.moya83 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Js]
+psychoman59 : suit. 10
+d.moya83 : parole 
+*** FLOP *** [3c Qh 7d]
+d.moya83 : parole 
+psychoman59 : mise. 810 et est all-in.
+d.moya83 : passe. 
+Personne n'a suivi. (810) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [3c Qh 7d]
+Siège 1 : d.moya83 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°261037864148 : Tournoi #4005997640, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/06/2026 8:58:47 CET [05/06/2026 2:58:47 ET]
+Table '4005997640 1' 3-max Siège #1 est au bouton.
+Place 1: d.moya83 (650 en jetons) 
+Place 3: psychoman59 (850 en jetons) 
+d.moya83 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 2d]
+d.moya83 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [6h 4s As]
+psychoman59 : parole 
+d.moya83 : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à d.moya83.
+d.moya83 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [6h 4s As]
+Siège 1 : d.moya83 (bouton) (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261037864932 : Tournoi #4005997640, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 05/06/2026 8:59:02 CET [05/06/2026 2:59:02 ET]
+Table '4005997640 1' 3-max Siège #3 est au bouton.
+Place 1: d.moya83 (670 en jetons) 
+Place 3: psychoman59 (830 en jetons) 
+psychoman59 : met la petite blind. 15
+d.moya83 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Kd]
+psychoman59 : suit. 15
+d.moya83 : parole 
+*** FLOP *** [8s 7d 5d]
+d.moya83 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [8s 7d 5d] [Jd]
+d.moya83 : mise. 30
+psychoman59 : suit. 30
+*** RIVIÈRE *** [8s 7d 5d Jd] [2d]
+d.moya83 : mise. 30
+psychoman59 : relance. 90 à 120
+d.moya83 : passe. 
+Personne n'a suivi. (90) sont retournés à psychoman59.
+psychoman59 a remporté 180  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [8s 7d 5d Jd 2d]
+Siège 1 : d.moya83 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (180)
+
+
+
+Main PokerStars n°261037866549 : Tournoi #4005997640, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 05/06/2026 8:59:35 CET [05/06/2026 2:59:35 ET]
+Table '4005997640 1' 3-max Siège #1 est au bouton.
+Place 1: d.moya83 (580 en jetons) 
+Place 3: psychoman59 (920 en jetons) 
+d.moya83 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 4h]
+d.moya83 : relance. 30 à 60
+psychoman59 : relance. 860 à 920 et est all-in.
+d.moya83 : suit. 520 et est all-in.
+Personne n'a suivi. (340) sont retournés à psychoman59.
+*** FLOP *** [6h 3d 2s]
+*** TOURNANT *** [6h 3d 2s] [4s]
+*** RIVIÈRE *** [6h 3d 2s 4s] [Qh]
+*** ABATTAGE ***
+psychoman59 : montre [4c 4h] (un brelan de Quatre)
+d.moya83 : montre [Kd Td] (Hauteur Roi)
+psychoman59 a remporté 1160  lors du pot .
+d.moya83 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 1160 | Commission 0 
+Tableau [6h 3d 2s 4s Qh]
+Siège 1 : d.moya83 (bouton) (petite blind) a montré [Kd Td] et a perdu avec Hauteur Roi
+Siège 3 : psychoman59 (grosse blind) a montré [4c 4h] et a gagné (1160) avec un brelan de Quatre
+
+
+

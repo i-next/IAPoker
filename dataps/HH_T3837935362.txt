@@ -1,0 +1,684 @@
+﻿Main PokerStars n°254014370776 : Tournoi #3837935362, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 25/12/2024 6:04:27 CET [25/12/2024 0:04:27 ET]
+Table '3837935362 1' 3-max Siège #1 est au bouton.
+Place 1: manuperruco (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: vm0414 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+vm0414 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Jh]
+manuperruco : suit. 20
+psychoman59 : suit. 10
+vm0414 : parole 
+*** FLOP *** [Qh 2s Td]
+psychoman59 : parole 
+vm0414 : parole 
+manuperruco : parole 
+*** TOURNANT *** [Qh 2s Td] [7s]
+psychoman59 : parole 
+vm0414 : mise. 20
+manuperruco : passe. 
+psychoman59 : suit. 20
+*** RIVIÈRE *** [Qh 2s Td 7s] [6c]
+psychoman59 : parole 
+vm0414 : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à vm0414.
+vm0414 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [Qh 2s Td 7s 6c]
+Siège 1 : manuperruco (bouton) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Rivière
+Siège 3 : vm0414 (grosse blind) a remporté (100)
+
+
+
+Main PokerStars n°254014373310 : Tournoi #3837935362, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 25/12/2024 6:04:56 CET [25/12/2024 0:04:56 ET]
+Table '3837935362 1' 3-max Siège #2 est au bouton.
+Place 1: manuperruco (480 en jetons) 
+Place 2: psychoman59 (460 en jetons) 
+Place 3: vm0414 (560 en jetons) 
+vm0414 : met la petite blind. 10
+manuperruco : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Kh]
+psychoman59 : suit. 20
+vm0414 : suit. 10
+manuperruco : parole 
+*** FLOP *** [Qh Ad 3d]
+vm0414 : mise. 20
+manuperruco : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à vm0414.
+vm0414 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Qh Ad 3d]
+Siège 1 : manuperruco (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 3 : vm0414 (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°254014374510 : Tournoi #3837935362, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 25/12/2024 6:05:09 CET [25/12/2024 0:05:09 ET]
+Table '3837935362 1' 3-max Siège #3 est au bouton.
+Place 1: manuperruco (460 en jetons) 
+Place 2: psychoman59 (440 en jetons) 
+Place 3: vm0414 (600 en jetons) 
+manuperruco : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Js]
+vm0414 : suit. 20
+manuperruco : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Ah 7h 3h]
+manuperruco : parole 
+psychoman59 : parole 
+vm0414 : parole 
+*** TOURNANT *** [Ah 7h 3h] [Jc]
+manuperruco : parole 
+psychoman59 : mise. 30
+vm0414 : passe. 
+manuperruco : suit. 30
+*** RIVIÈRE *** [Ah 7h 3h Jc] [5c]
+manuperruco : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+manuperruco : montre [2s 2c] (une paire de Deux)
+psychoman59 : montre [Th Js] (une paire de Valets)
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Ah 7h 3h Jc 5c]
+Siège 1 : manuperruco (petite blind) a montré [2s 2c] et a perdu avec une paire de Deux
+Siège 2 : psychoman59 (grosse blind) a montré [Th Js] et a gagné (120) avec une paire de Valets
+Siège 3 : vm0414 (bouton) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°254014377756 : Tournoi #3837935362, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 25/12/2024 6:05:45 CET [25/12/2024 0:05:45 ET]
+Table '3837935362 1' 3-max Siège #1 est au bouton.
+Place 1: manuperruco (410 en jetons) 
+Place 2: psychoman59 (510 en jetons) 
+Place 3: vm0414 (580 en jetons) 
+psychoman59 : met la petite blind. 10
+vm0414 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Kc]
+manuperruco : relance. 50 à 70
+psychoman59 : passe. 
+vm0414 : suit. 50
+*** FLOP *** [Ah 3c Ts]
+vm0414 : parole 
+manuperruco : mise. 150
+vm0414 : suit. 150
+*** TOURNANT *** [Ah 3c Ts] [9s]
+vm0414 : parole 
+manuperruco : mise. 190 et est all-in.
+vm0414 : suit. 190
+*** RIVIÈRE *** [Ah 3c Ts 9s] [9d]
+*** ABATTAGE ***
+vm0414 : montre [Tc 5c] (double paire, Dix et Neuf)
+manuperruco : montre [5d Td] (double paire, Dix et Neuf)
+vm0414 a remporté 415  lors du pot .
+manuperruco a remporté 415  lors du pot .
+*** SYNTHÈSE ***
+Pot total 830 | Commission 0 
+Tableau [Ah 3c Ts 9s 9d]
+Siège 1 : manuperruco (bouton) a montré [5d Td] et a gagné (415) avec double paire, Dix et Neuf
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : vm0414 (grosse blind) a montré [Tc 5c] et a gagné (415) avec double paire, Dix et Neuf
+
+
+
+Main PokerStars n°254014380115 : Tournoi #3837935362, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 25/12/2024 6:06:11 CET [25/12/2024 0:06:11 ET]
+Table '3837935362 1' 3-max Siège #2 est au bouton.
+Place 1: manuperruco (415 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: vm0414 (585 en jetons) 
+vm0414 : met la petite blind. 10
+manuperruco : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 6s]
+psychoman59 : passe. 
+vm0414 : passe. 
+Personne n'a suivi. (10) sont retournés à manuperruco.
+manuperruco a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : manuperruco (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : vm0414 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254014380803 : Tournoi #3837935362, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 25/12/2024 6:06:19 CET [25/12/2024 0:06:19 ET]
+Table '3837935362 1' 3-max Siège #3 est au bouton.
+Place 1: manuperruco (425 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: vm0414 (575 en jetons) 
+manuperruco : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Kc]
+vm0414 : suit. 20
+manuperruco : suit. 10
+psychoman59 : relance. 60 à 80
+vm0414 : suit. 60
+manuperruco : suit. 60
+*** FLOP *** [8c Qc Qh]
+manuperruco : parole 
+psychoman59 : mise. 120
+vm0414 : relance. 120 à 240
+manuperruco : relance. 105 à 345 et est all-in.
+psychoman59 : passe. 
+vm0414 : suit. 105
+*** TOURNANT *** [8c Qc Qh] [8h]
+*** RIVIÈRE *** [8c Qc Qh 8h] [Ah]
+*** ABATTAGE ***
+manuperruco : montre [Qd 2h] (un full, full aux Dames par les Huit)
+vm0414 : montre [4s 4h] (double paire, Dames et Huit)
+manuperruco a remporté 1050  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1050 | Commission 0 
+Tableau [8c Qc Qh 8h Ah]
+Siège 1 : manuperruco (petite blind) a montré [Qd 2h] et a gagné (1050) avec un full, full aux Dames par les Huit
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : vm0414 (bouton) a montré [4s 4h] et a perdu avec double paire, Dames et Huit
+
+
+
+Main PokerStars n°254014384287 : Tournoi #3837935362, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 25/12/2024 6:06:58 CET [25/12/2024 0:06:58 ET]
+Table '3837935362 1' 3-max Siège #1 est au bouton.
+Place 1: manuperruco (1050 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: vm0414 (150 en jetons) 
+psychoman59 : met la petite blind. 15
+vm0414 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Kd]
+manuperruco : suit. 30
+psychoman59 : suit. 15
+vm0414 : relance. 120 à 150 et est all-in.
+manuperruco : suit. 120
+psychoman59 : suit. 120
+*** FLOP *** [As Ts 7h]
+psychoman59 : parole 
+manuperruco : parole 
+*** TOURNANT *** [As Ts 7h] [Tc]
+psychoman59 : parole 
+manuperruco : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à manuperruco.
+*** RIVIÈRE *** [As Ts 7h Tc] [2s]
+*** ABATTAGE ***
+vm0414 : montre [Ac 5d] (double paire, As et Dix)
+manuperruco : montre [Kc 7c] (double paire, Dix et Sept)
+vm0414 a remporté 450  lors du pot .
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Tableau [As Ts 7h Tc 2s]
+Siège 1 : manuperruco (bouton) a montré [Kc 7c] et a perdu avec double paire, Dix et Sept
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Tournant
+Siège 3 : vm0414 (grosse blind) a montré [Ac 5d] et a gagné (450) avec double paire, As et Dix
+
+
+
+Main PokerStars n°254014386985 : Tournoi #3837935362, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 25/12/2024 6:07:29 CET [25/12/2024 0:07:29 ET]
+Table '3837935362 1' 3-max Siège #2 est au bouton.
+Place 1: manuperruco (900 en jetons) 
+Place 2: psychoman59 (150 en jetons) 
+Place 3: vm0414 (450 en jetons) 
+vm0414 : met la petite blind. 15
+manuperruco : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 8s]
+psychoman59 : relance. 120 à 150 et est all-in.
+vm0414 : passe. 
+manuperruco : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 75  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : manuperruco (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a remporté (75)
+Siège 3 : vm0414 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254014388156 : Tournoi #3837935362, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 25/12/2024 6:07:42 CET [25/12/2024 0:07:42 ET]
+Table '3837935362 1' 3-max Siège #3 est au bouton.
+Place 1: manuperruco (870 en jetons) 
+Place 2: psychoman59 (195 en jetons) 
+Place 3: vm0414 (435 en jetons) 
+manuperruco : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Td]
+vm0414 : passe. 
+manuperruco : suit. 15
+psychoman59 : parole 
+*** FLOP *** [2h Qc 4d]
+manuperruco : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à manuperruco.
+manuperruco a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [2h Qc 4d]
+Siège 1 : manuperruco (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : vm0414 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°254014389313 : Tournoi #3837935362, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 25/12/2024 6:07:56 CET [25/12/2024 0:07:56 ET]
+Table '3837935362 1' 3-max Siège #1 est au bouton.
+Place 1: manuperruco (900 en jetons) 
+Place 2: psychoman59 (165 en jetons) 
+Place 3: vm0414 (435 en jetons) 
+psychoman59 : met la petite blind. 15
+vm0414 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 5h]
+manuperruco : passe. 
+psychoman59 : relance. 135 à 165 et est all-in.
+vm0414 : suit. 135
+*** FLOP *** [7c Qh 5s]
+*** TOURNANT *** [7c Qh 5s] [7s]
+*** RIVIÈRE *** [7c Qh 5s 7s] [Td]
+*** ABATTAGE ***
+psychoman59 : montre [Ks 5h] (double paire, Sept et Cinq)
+vm0414 : montre [9h Kh] (une paire de Sept)
+psychoman59 a remporté 330  lors du pot .
+*** SYNTHÈSE ***
+Pot total 330 | Commission 0 
+Tableau [7c Qh 5s 7s Td]
+Siège 1 : manuperruco (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [Ks 5h] et a gagné (330) avec double paire, Sept et Cinq
+Siège 3 : vm0414 (grosse blind) a montré [9h Kh] et a perdu avec une paire de Sept
+
+
+
+Main PokerStars n°254014390795 : Tournoi #3837935362, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 25/12/2024 6:08:12 CET [25/12/2024 0:08:12 ET]
+Table '3837935362 1' 3-max Siège #2 est au bouton.
+Place 1: manuperruco (900 en jetons) 
+Place 2: psychoman59 (330 en jetons) 
+Place 3: vm0414 (270 en jetons) 
+vm0414 : met la petite blind. 15
+manuperruco : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 6s]
+psychoman59 : passe. 
+vm0414 : relance. 240 à 270 et est all-in.
+manuperruco : passe. 
+Personne n'a suivi. (240) sont retournés à vm0414.
+vm0414 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : manuperruco (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : vm0414 (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°254014391841 : Tournoi #3837935362, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 25/12/2024 6:08:24 CET [25/12/2024 0:08:24 ET]
+Table '3837935362 1' 3-max Siège #3 est au bouton.
+Place 1: manuperruco (870 en jetons) 
+Place 2: psychoman59 (330 en jetons) 
+Place 3: vm0414 (300 en jetons) 
+manuperruco : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Jh]
+vm0414 : relance. 270 à 300 et est all-in.
+manuperruco : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (270) sont retournés à vm0414.
+vm0414 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : manuperruco (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : vm0414 (bouton) a remporté (75)
+
+
+
+Main PokerStars n°254014392917 : Tournoi #3837935362, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 25/12/2024 6:08:36 CET [25/12/2024 0:08:36 ET]
+Table '3837935362 1' 3-max Siège #1 est au bouton.
+Place 1: manuperruco (855 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: vm0414 (345 en jetons) 
+psychoman59 : met la petite blind. 20
+vm0414 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 9h]
+manuperruco : passe. 
+psychoman59 : relance. 260 à 300 et est all-in.
+vm0414 : suit. 260
+*** FLOP *** [4s 6h Jc]
+*** TOURNANT *** [4s 6h Jc] [Ad]
+*** RIVIÈRE *** [4s 6h Jc Ad] [Th]
+*** ABATTAGE ***
+psychoman59 : montre [Jd 9h] (une paire de Valets)
+vm0414 : montre [3d 2c] (Hauteur As)
+psychoman59 a remporté 600  lors du pot .
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [4s 6h Jc Ad Th]
+Siège 1 : manuperruco (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [Jd 9h] et a gagné (600) avec une paire de Valets
+Siège 3 : vm0414 (grosse blind) a montré [3d 2c] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°254014394112 : Tournoi #3837935362, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 25/12/2024 6:08:49 CET [25/12/2024 0:08:49 ET]
+Table '3837935362 1' 3-max Siège #2 est au bouton.
+Place 1: manuperruco (855 en jetons) 
+Place 2: psychoman59 (600 en jetons) 
+Place 3: vm0414 (45 en jetons) 
+vm0414 : met la petite blind. 20
+manuperruco : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 8h]
+psychoman59 : suit. 40
+vm0414 : relance. 5 à 45 et est all-in.
+manuperruco : suit. 5
+psychoman59 : suit. 5
+*** FLOP *** [5d 7c Qd]
+manuperruco : parole 
+psychoman59 : mise. 135
+manuperruco : passe. 
+Personne n'a suivi. (135) sont retournés à psychoman59.
+*** TOURNANT *** [5d 7c Qd] [5s]
+*** RIVIÈRE *** [5d 7c Qd 5s] [5h]
+*** ABATTAGE ***
+vm0414 : montre [2h Td] (un brelan de Cinq)
+psychoman59 : montre [Qs 8h] (un full, full aux Cinq par les Dames)
+psychoman59 a remporté 135  lors du pot .
+vm0414 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 135 | Commission 0 
+Tableau [5d 7c Qd 5s 5h]
+Siège 1 : manuperruco (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) a montré [Qs 8h] et a gagné (135) avec un full, full aux Cinq par les Dames
+Siège 3 : vm0414 (petite blind) a montré [2h Td] et a perdu avec un brelan de Cinq
+
+
+
+Main PokerStars n°254014396722 : Tournoi #3837935362, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 25/12/2024 6:09:19 CET [25/12/2024 0:09:19 ET]
+Table '3837935362 1' 3-max Siège #1 est au bouton.
+Place 1: manuperruco (810 en jetons) 
+Place 2: psychoman59 (690 en jetons) 
+manuperruco : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 9d]
+manuperruco : relance. 40 à 80
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à manuperruco.
+manuperruco a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : manuperruco (bouton) (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254014397232 : Tournoi #3837935362, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 25/12/2024 6:09:24 CET [25/12/2024 0:09:24 ET]
+Table '3837935362 1' 3-max Siège #2 est au bouton.
+Place 1: manuperruco (850 en jetons) 
+Place 2: psychoman59 (650 en jetons) 
+psychoman59 : met la petite blind. 20
+manuperruco : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 8c]
+psychoman59 : suit. 20
+manuperruco : relance. 80 à 120
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à manuperruco.
+manuperruco a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : manuperruco (grosse blind) a remporté (80)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254014398067 : Tournoi #3837935362, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 25/12/2024 6:09:34 CET [25/12/2024 0:09:34 ET]
+Table '3837935362 1' 3-max Siège #1 est au bouton.
+Place 1: manuperruco (890 en jetons) 
+Place 2: psychoman59 (610 en jetons) 
+manuperruco : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 5d]
+manuperruco : relance. 80 à 120
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à manuperruco.
+manuperruco a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : manuperruco (bouton) (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254014398874 : Tournoi #3837935362, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 25/12/2024 6:09:43 CET [25/12/2024 0:09:43 ET]
+Table '3837935362 1' 3-max Siège #2 est au bouton.
+Place 1: manuperruco (930 en jetons) 
+Place 2: psychoman59 (570 en jetons) 
+psychoman59 : met la petite blind. 20
+manuperruco : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 7s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à manuperruco.
+manuperruco a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : manuperruco (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254014399289 : Tournoi #3837935362, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 25/12/2024 6:09:47 CET [25/12/2024 0:09:47 ET]
+Table '3837935362 1' 3-max Siège #1 est au bouton.
+Place 1: manuperruco (950 en jetons) 
+Place 2: psychoman59 (550 en jetons) 
+manuperruco : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Ad]
+manuperruco : relance. 80 à 120
+psychoman59 : relance. 430 à 550 et est all-in.
+manuperruco : suit. 430
+*** FLOP *** [Qc Ac 3s]
+*** TOURNANT *** [Qc Ac 3s] [Jc]
+*** RIVIÈRE *** [Qc Ac 3s Jc] [Jd]
+*** ABATTAGE ***
+psychoman59 : montre [7s Ad] (double paire, As et Valets)
+manuperruco : montre [2s 2d] (double paire, Valets et Deux)
+psychoman59 a remporté 1100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1100 | Commission 0 
+Tableau [Qc Ac 3s Jc Jd]
+Siège 1 : manuperruco (bouton) (petite blind) a montré [2s 2d] et a perdu avec double paire, Valets et Deux
+Siège 2 : psychoman59 (grosse blind) a montré [7s Ad] et a gagné (1100) avec double paire, As et Valets
+
+
+
+Main PokerStars n°254014400657 : Tournoi #3837935362, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 25/12/2024 6:10:02 CET [25/12/2024 0:10:02 ET]
+Table '3837935362 1' 3-max Siège #2 est au bouton.
+Place 1: manuperruco (400 en jetons) 
+Place 2: psychoman59 (1100 en jetons) 
+psychoman59 : met la petite blind. 20
+manuperruco : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Ts]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à manuperruco.
+manuperruco a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : manuperruco (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254014401257 : Tournoi #3837935362, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 25/12/2024 6:10:09 CET [25/12/2024 0:10:09 ET]
+Table '3837935362 1' 3-max Siège #1 est au bouton.
+Place 1: manuperruco (420 en jetons) 
+Place 2: psychoman59 (1080 en jetons) 
+manuperruco : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 3c]
+manuperruco : relance. 380 à 420 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (380) sont retournés à manuperruco.
+manuperruco a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : manuperruco (bouton) (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254014401863 : Tournoi #3837935362, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 25/12/2024 6:10:16 CET [25/12/2024 0:10:16 ET]
+Table '3837935362 1' 3-max Siège #2 est au bouton.
+Place 1: manuperruco (460 en jetons) 
+Place 2: psychoman59 (1040 en jetons) 
+psychoman59 : met la petite blind. 20
+manuperruco : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 2d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à manuperruco.
+manuperruco a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : manuperruco (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254014402249 : Tournoi #3837935362, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 25/12/2024 6:10:21 CET [25/12/2024 0:10:21 ET]
+Table '3837935362 1' 3-max Siège #1 est au bouton.
+Place 1: manuperruco (480 en jetons) 
+Place 2: psychoman59 (1020 en jetons) 
+manuperruco : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Tc]
+manuperruco : suit. 20
+psychoman59 : parole 
+*** FLOP *** [6s Kh 2h]
+psychoman59 : parole 
+manuperruco : parole 
+*** TOURNANT *** [6s Kh 2h] [3h]
+psychoman59 : parole 
+manuperruco : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à manuperruco.
+manuperruco a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [6s Kh 2h 3h]
+Siège 1 : manuperruco (bouton) (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°254014404790 : Tournoi #3837935362, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 25/12/2024 6:10:48 CET [25/12/2024 0:10:48 ET]
+Table '3837935362 1' 3-max Siège #2 est au bouton.
+Place 1: manuperruco (520 en jetons) 
+Place 2: psychoman59 (980 en jetons) 
+psychoman59 : met la petite blind. 30
+manuperruco : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 6c]
+psychoman59 : suit. 30
+manuperruco : parole 
+*** FLOP *** [Ah 9d Jd]
+manuperruco : parole 
+psychoman59 : mise. 120
+manuperruco : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Ah 9d Jd]
+Siège 1 : manuperruco (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°254014406054 : Tournoi #3837935362, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 25/12/2024 6:11:03 CET [25/12/2024 0:11:03 ET]
+Table '3837935362 1' 3-max Siège #1 est au bouton.
+Place 1: manuperruco (460 en jetons) 
+Place 2: psychoman59 (1040 en jetons) 
+manuperruco : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 4s]
+manuperruco : relance. 120 à 180
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à manuperruco.
+manuperruco a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : manuperruco (bouton) (petite blind) a remporté (120)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254014406575 : Tournoi #3837935362, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 25/12/2024 6:11:09 CET [25/12/2024 0:11:09 ET]
+Table '3837935362 1' 3-max Siège #2 est au bouton.
+Place 1: manuperruco (520 en jetons) 
+Place 2: psychoman59 (980 en jetons) 
+psychoman59 : met la petite blind. 30
+manuperruco : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 9d]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à manuperruco.
+manuperruco a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : manuperruco (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254014406973 : Tournoi #3837935362, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 25/12/2024 6:11:13 CET [25/12/2024 0:11:13 ET]
+Table '3837935362 1' 3-max Siège #1 est au bouton.
+Place 1: manuperruco (550 en jetons) 
+Place 2: psychoman59 (950 en jetons) 
+manuperruco : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 9h]
+manuperruco : relance. 490 à 550 et est all-in.
+psychoman59 : suit. 490
+*** FLOP *** [9s Qc Kd]
+*** TOURNANT *** [9s Qc Kd] [5h]
+*** RIVIÈRE *** [9s Qc Kd 5h] [2d]
+*** ABATTAGE ***
+psychoman59 : montre [Ad 9h] (une paire de Neuf)
+manuperruco : montre [4c Ah] (Hauteur As)
+psychoman59 a remporté 1100  lors du pot .
+manuperruco a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 0.50 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 1100 | Commission 0 
+Tableau [9s Qc Kd 5h 2d]
+Siège 1 : manuperruco (bouton) (petite blind) a montré [4c Ah] et a perdu avec Hauteur As
+Siège 2 : psychoman59 (grosse blind) a montré [Ad 9h] et a gagné (1100) avec une paire de Neuf
+
+
+

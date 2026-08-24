@@ -1,0 +1,847 @@
+﻿Main PokerStars n°260410449220 : Tournoi #3990849079, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/04/2026 10:57:49 CET [10/04/2026 4:57:49 ET]
+Table '3990849079 1' 3-max Siège #1 est au bouton.
+Place 1: lilyH6 (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: inacam (500 en jetons) 
+psychoman59 : met la petite blind. 10
+inacam : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 3c]
+lilyH6 : suit. 20
+psychoman59 : suit. 10
+inacam : parole 
+*** FLOP *** [Ts 9s 9d]
+psychoman59 : parole 
+inacam : parole 
+lilyH6 : mise. 20
+psychoman59 : passe. 
+inacam : passe. 
+Personne n'a suivi. (20) sont retournés à lilyH6.
+lilyH6 a remporté 60  lors du pot .
+lilyH6 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ts 9s 9d]
+Siège 1 : lilyH6 (bouton) a remporté (60)
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 3 : inacam (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°260410450449 : Tournoi #3990849079, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/04/2026 10:58:08 CET [10/04/2026 4:58:08 ET]
+Table '3990849079 1' 3-max Siège #2 est au bouton.
+Place 1: lilyH6 (540 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+Place 3: inacam (480 en jetons) 
+inacam : met la petite blind. 10
+lilyH6 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Jh]
+psychoman59 : passe. 
+inacam : suit. 10
+lilyH6 : parole 
+*** FLOP *** [Ts Qd Ad]
+inacam : parole 
+lilyH6 : mise. 20
+inacam : suit. 20
+*** TOURNANT *** [Ts Qd Ad] [5h]
+inacam : parole 
+lilyH6 : mise. 20
+inacam : suit. 20
+*** RIVIÈRE *** [Ts Qd Ad 5h] [2s]
+inacam : parole 
+lilyH6 : parole 
+*** ABATTAGE ***
+inacam : montre [9s Jd] (Hauteur As)
+lilyH6 : montre [Ac 3d] (une paire de As)
+lilyH6 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Ts Qd Ad 5h 2s]
+Siège 1 : lilyH6 (grosse blind) a montré [Ac 3d] et a gagné (120) avec une paire de As
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : inacam (petite blind) a montré [9s Jd] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°260410451594 : Tournoi #3990849079, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/04/2026 10:58:27 CET [10/04/2026 4:58:27 ET]
+Table '3990849079 1' 3-max Siège #3 est au bouton.
+Place 1: lilyH6 (600 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+Place 3: inacam (420 en jetons) 
+lilyH6 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 9d]
+inacam : relance. 20 à 40
+lilyH6 : suit. 30
+psychoman59 : suit. 20
+*** FLOP *** [7c 5d Jc]
+lilyH6 : parole 
+psychoman59 : parole 
+inacam : parole 
+*** TOURNANT *** [7c 5d Jc] [Ah]
+lilyH6 : parole 
+psychoman59 : parole 
+inacam : mise. 120
+lilyH6 : suit. 120
+psychoman59 : passe. 
+*** RIVIÈRE *** [7c 5d Jc Ah] [4s]
+lilyH6 : parole 
+inacam : mise. 260 et est all-in.
+lilyH6 : passe. 
+Personne n'a suivi. (260) sont retournés à inacam.
+inacam a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [7c 5d Jc Ah 4s]
+Siège 1 : lilyH6 (petite blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : inacam (bouton) a remporté (360)
+
+
+
+Main PokerStars n°260410453332 : Tournoi #3990849079, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/04/2026 10:58:54 CET [10/04/2026 4:58:54 ET]
+Table '3990849079 1' 3-max Siège #1 est au bouton.
+Place 1: lilyH6 (440 en jetons) 
+Place 2: psychoman59 (440 en jetons) 
+Place 3: inacam (620 en jetons) 
+psychoman59 : met la petite blind. 10
+inacam : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 8s]
+lilyH6 : suit. 20
+psychoman59 : suit. 10
+inacam : parole 
+*** FLOP *** [9h 7d 5h]
+psychoman59 : parole 
+inacam : mise. 60
+lilyH6 : suit. 60
+psychoman59 : passe. 
+*** TOURNANT *** [9h 7d 5h] [As]
+inacam : mise. 90
+lilyH6 : suit. 90
+*** RIVIÈRE *** [9h 7d 5h As] [Ks]
+inacam : parole 
+lilyH6 : parole 
+*** ABATTAGE ***
+inacam : montre [9d 6c] (une paire de Neuf)
+lilyH6 : cache la main perdante. 
+inacam a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [9h 7d 5h As Ks]
+Siège 1 : lilyH6 (bouton) a caché la main perdante. [3h Jh]
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 3 : inacam (grosse blind) a montré [9d 6c] et a gagné (360) avec une paire de Neuf
+
+
+
+Main PokerStars n°260410454603 : Tournoi #3990849079, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/04/2026 10:59:13 CET [10/04/2026 4:59:13 ET]
+Table '3990849079 1' 3-max Siège #2 est au bouton.
+Place 1: lilyH6 (270 en jetons) 
+Place 2: psychoman59 (420 en jetons) 
+Place 3: inacam (810 en jetons) 
+inacam : met la petite blind. 10
+lilyH6 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 5c]
+psychoman59 : passe. 
+inacam : suit. 10
+lilyH6 : parole 
+*** FLOP *** [2s 2h 6h]
+inacam : parole 
+lilyH6 : parole 
+*** TOURNANT *** [2s 2h 6h] [Kd]
+inacam : parole 
+lilyH6 : parole 
+*** RIVIÈRE *** [2s 2h 6h Kd] [6d]
+inacam : parole 
+lilyH6 : parole 
+*** ABATTAGE ***
+inacam : montre [9c Qd] (double paire, Six et Deux)
+lilyH6 : montre [8d Jh] (double paire, Six et Deux)
+inacam a remporté 20  lors du pot .
+lilyH6 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [2s 2h 6h Kd 6d]
+Siège 1 : lilyH6 (grosse blind) a montré [8d Jh] et a gagné (20) avec double paire, Six et Deux
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : inacam (petite blind) a montré [9c Qd] et a gagné (20) avec double paire, Six et Deux
+
+
+
+Main PokerStars n°260410455461 : Tournoi #3990849079, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/04/2026 10:59:27 CET [10/04/2026 4:59:27 ET]
+Table '3990849079 1' 3-max Siège #3 est au bouton.
+Place 1: lilyH6 (270 en jetons) 
+Place 2: psychoman59 (420 en jetons) 
+Place 3: inacam (810 en jetons) 
+lilyH6 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 4s]
+inacam : suit. 20
+lilyH6 : passe. 
+psychoman59 : parole 
+*** FLOP *** [5s Th 2d]
+psychoman59 : parole 
+inacam : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [5s Th 2d] [4h]
+psychoman59 : parole 
+inacam : parole 
+*** RIVIÈRE *** [5s Th 2d 4h] [2s]
+psychoman59 : mise. 90
+inacam : passe. 
+Personne n'a suivi. (90) sont retournés à psychoman59.
+psychoman59 a remporté 90  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [5s Th 2d 4h 2s]
+Siège 1 : lilyH6 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (90)
+Siège 3 : inacam (bouton) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°260410456790 : Tournoi #3990849079, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/04/2026 10:59:47 CET [10/04/2026 4:59:47 ET]
+Table '3990849079 1' 3-max Siège #1 est au bouton.
+Place 1: lilyH6 (260 en jetons) 
+Place 2: psychoman59 (470 en jetons) 
+Place 3: inacam (770 en jetons) 
+psychoman59 : met la petite blind. 10
+inacam : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 2d]
+lilyH6 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à inacam.
+inacam a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : lilyH6 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : inacam (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°260410457404 : Tournoi #3990849079, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/04/2026 10:59:57 CET [10/04/2026 4:59:57 ET]
+Table '3990849079 1' 3-max Siège #2 est au bouton.
+Place 1: lilyH6 (260 en jetons) 
+Place 2: psychoman59 (460 en jetons) 
+Place 3: inacam (780 en jetons) 
+inacam : met la petite blind. 15
+lilyH6 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 6c]
+psychoman59 : passe. 
+inacam : suit. 15
+lilyH6 : parole 
+*** FLOP *** [Th 9s 6s]
+inacam : parole 
+lilyH6 : parole 
+*** TOURNANT *** [Th 9s 6s] [4d]
+inacam : parole 
+lilyH6 : parole 
+*** RIVIÈRE *** [Th 9s 6s 4d] [Ts]
+inacam : parole 
+lilyH6 : parole 
+*** ABATTAGE ***
+inacam : montre [2c 8c] (une paire de Dix)
+lilyH6 : montre [6d 5h] (double paire, Dix et Six)
+lilyH6 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Th 9s 6s 4d Ts]
+Siège 1 : lilyH6 (grosse blind) a montré [6d 5h] et a gagné (60) avec double paire, Dix et Six
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : inacam (petite blind) a montré [2c 8c] et a perdu avec une paire de Dix
+
+
+
+Main PokerStars n°260410458167 : Tournoi #3990849079, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/04/2026 11:00:08 CET [10/04/2026 5:00:08 ET]
+Table '3990849079 1' 3-max Siège #3 est au bouton.
+Place 1: lilyH6 (290 en jetons) 
+Place 2: psychoman59 (460 en jetons) 
+Place 3: inacam (750 en jetons) 
+lilyH6 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 7c]
+inacam : relance. 30 à 60
+lilyH6 : suit. 45
+psychoman59 : passe. 
+*** FLOP *** [Qh 7s 3c]
+lilyH6 : parole 
+inacam : parole 
+*** TOURNANT *** [Qh 7s 3c] [6c]
+lilyH6 : parole 
+inacam : parole 
+*** RIVIÈRE *** [Qh 7s 3c 6c] [Ad]
+lilyH6 : parole 
+inacam : mise. 30
+lilyH6 : suit. 30
+*** ABATTAGE ***
+inacam : montre [As 2c] (une paire de As)
+lilyH6 : cache la main perdante. 
+inacam a remporté 210  lors du pot .
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Tableau [Qh 7s 3c 6c Ad]
+Siège 1 : lilyH6 (petite blind) a caché la main perdante. [Kd 9h]
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : inacam (bouton) a montré [As 2c] et a gagné (210) avec une paire de As
+
+
+
+Main PokerStars n°260410459199 : Tournoi #3990849079, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/04/2026 11:00:24 CET [10/04/2026 5:00:24 ET]
+Table '3990849079 1' 3-max Siège #1 est au bouton.
+Place 1: lilyH6 (200 en jetons) 
+Place 2: psychoman59 (430 en jetons) 
+Place 3: inacam (870 en jetons) 
+psychoman59 : met la petite blind. 15
+inacam : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 9c]
+lilyH6 : passe. 
+psychoman59 : relance. 60 à 90
+inacam : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : lilyH6 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (60)
+Siège 3 : inacam (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260410459951 : Tournoi #3990849079, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/04/2026 11:00:34 CET [10/04/2026 5:00:34 ET]
+Table '3990849079 1' 3-max Siège #2 est au bouton.
+Place 1: lilyH6 (200 en jetons) 
+Place 2: psychoman59 (460 en jetons) 
+Place 3: inacam (840 en jetons) 
+inacam : met la petite blind. 15
+lilyH6 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 8s]
+psychoman59 : passe. 
+inacam : relance. 30 à 60
+lilyH6 : passe. 
+Personne n'a suivi. (30) sont retournés à inacam.
+inacam a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : lilyH6 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : inacam (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°260410460535 : Tournoi #3990849079, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/04/2026 11:00:43 CET [10/04/2026 5:00:43 ET]
+Table '3990849079 1' 3-max Siège #3 est au bouton.
+Place 1: lilyH6 (170 en jetons) 
+Place 2: psychoman59 (460 en jetons) 
+Place 3: inacam (870 en jetons) 
+lilyH6 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 8c]
+inacam : passe. 
+lilyH6 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : lilyH6 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+Siège 3 : inacam (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260410460888 : Tournoi #3990849079, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/04/2026 11:00:48 CET [10/04/2026 5:00:48 ET]
+Table '3990849079 1' 3-max Siège #1 est au bouton.
+Place 1: lilyH6 (155 en jetons) 
+Place 2: psychoman59 (475 en jetons) 
+Place 3: inacam (870 en jetons) 
+psychoman59 : met la petite blind. 15
+inacam : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 9s]
+lilyH6 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à inacam.
+inacam a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : lilyH6 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : inacam (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°260410461374 : Tournoi #3990849079, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/04/2026 11:00:53 CET [10/04/2026 5:00:53 ET]
+Table '3990849079 1' 3-max Siège #2 est au bouton.
+Place 1: lilyH6 (155 en jetons) 
+Place 2: psychoman59 (460 en jetons) 
+Place 3: inacam (885 en jetons) 
+inacam : met la petite blind. 15
+lilyH6 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 2h]
+psychoman59 : passe. 
+inacam : suit. 15
+lilyH6 : parole 
+*** FLOP *** [Qc 9d 4c]
+inacam : parole 
+lilyH6 : parole 
+*** TOURNANT *** [Qc 9d 4c] [3h]
+inacam : mise. 30
+lilyH6 : passe. 
+Personne n'a suivi. (30) sont retournés à inacam.
+inacam a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Qc 9d 4c 3h]
+Siège 1 : lilyH6 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : inacam (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°260410462219 : Tournoi #3990849079, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/04/2026 11:01:05 CET [10/04/2026 5:01:05 ET]
+Table '3990849079 1' 3-max Siège #3 est au bouton.
+Place 1: lilyH6 (125 en jetons) 
+Place 2: psychoman59 (460 en jetons) 
+Place 3: inacam (915 en jetons) 
+lilyH6 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Ts]
+inacam : relance. 30 à 60
+lilyH6 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à inacam.
+inacam a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : lilyH6 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : inacam (bouton) a remporté (75)
+
+
+
+Main PokerStars n°260410462719 : Tournoi #3990849079, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/04/2026 11:01:12 CET [10/04/2026 5:01:12 ET]
+Table '3990849079 1' 3-max Siège #1 est au bouton.
+Place 1: lilyH6 (110 en jetons) 
+Place 2: psychoman59 (430 en jetons) 
+Place 3: inacam (960 en jetons) 
+psychoman59 : met la petite blind. 15
+inacam : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 8c]
+lilyH6 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à inacam.
+inacam a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : lilyH6 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : inacam (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°260410463233 : Tournoi #3990849079, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/04/2026 11:01:18 CET [10/04/2026 5:01:18 ET]
+Table '3990849079 1' 3-max Siège #2 est au bouton.
+Place 1: lilyH6 (110 en jetons) 
+Place 2: psychoman59 (415 en jetons) 
+Place 3: inacam (975 en jetons) 
+inacam : met la petite blind. 15
+lilyH6 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 4s]
+psychoman59 : passe. 
+inacam : suit. 15
+lilyH6 : parole 
+*** FLOP *** [Jh Ts 7s]
+inacam : parole 
+lilyH6 : parole 
+*** TOURNANT *** [Jh Ts 7s] [3c]
+inacam : parole 
+lilyH6 : mise. 30
+inacam : suit. 30
+*** RIVIÈRE *** [Jh Ts 7s 3c] [Ah]
+inacam : parole 
+lilyH6 : parole 
+*** ABATTAGE ***
+inacam : montre [Qh 5s] (Hauteur As)
+lilyH6 : montre [4h 3h] (une paire de Trois)
+lilyH6 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Jh Ts 7s 3c Ah]
+Siège 1 : lilyH6 (grosse blind) a montré [4h 3h] et a gagné (120) avec une paire de Trois
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : inacam (petite blind) a montré [Qh 5s] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°260410464435 : Tournoi #3990849079, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/04/2026 11:01:34 CET [10/04/2026 5:01:34 ET]
+Table '3990849079 1' 3-max Siège #3 est au bouton.
+Place 1: lilyH6 (170 en jetons) 
+Place 2: psychoman59 (415 en jetons) 
+Place 3: inacam (915 en jetons) 
+lilyH6 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 5s]
+inacam : relance. 30 à 60
+lilyH6 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à inacam.
+inacam a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : lilyH6 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : inacam (bouton) a remporté (75)
+
+
+
+Main PokerStars n°260410465034 : Tournoi #3990849079, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/04/2026 11:01:43 CET [10/04/2026 5:01:43 ET]
+Table '3990849079 1' 3-max Siège #1 est au bouton.
+Place 1: lilyH6 (155 en jetons) 
+Place 2: psychoman59 (385 en jetons) 
+Place 3: inacam (960 en jetons) 
+psychoman59 : met la petite blind. 15
+inacam : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Jh]
+lilyH6 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à inacam.
+inacam a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : lilyH6 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : inacam (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°260410465531 : Tournoi #3990849079, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/04/2026 11:01:49 CET [10/04/2026 5:01:49 ET]
+Table '3990849079 1' 3-max Siège #2 est au bouton.
+Place 1: lilyH6 (155 en jetons) 
+Place 2: psychoman59 (370 en jetons) 
+Place 3: inacam (975 en jetons) 
+inacam : met la petite blind. 15
+lilyH6 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 3c]
+psychoman59 : passe. 
+inacam : suit. 15
+lilyH6 : parole 
+*** FLOP *** [8h Ks 3d]
+inacam : parole 
+lilyH6 : parole 
+*** TOURNANT *** [8h Ks 3d] [5s]
+inacam : parole 
+lilyH6 : parole 
+*** RIVIÈRE *** [8h Ks 3d 5s] [9d]
+inacam : parole 
+lilyH6 : parole 
+*** ABATTAGE ***
+inacam : montre [Qs 7c] (Hauteur Roi)
+lilyH6 : cache la main perdante. 
+inacam a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [8h Ks 3d 5s 9d]
+Siège 1 : lilyH6 (grosse blind) a caché la main perdante. [2h 6s]
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : inacam (petite blind) a montré [Qs 7c] et a gagné (60) avec Hauteur Roi
+
+
+
+Main PokerStars n°260410466750 : Tournoi #3990849079, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/04/2026 11:02:05 CET [10/04/2026 5:02:05 ET]
+Table '3990849079 1' 3-max Siège #3 est au bouton.
+Place 1: lilyH6 (125 en jetons) 
+Place 2: psychoman59 (370 en jetons) 
+Place 3: inacam (1005 en jetons) 
+lilyH6 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 3c]
+inacam : relance. 965 à 1005 et est all-in.
+lilyH6 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (965) sont retournés à inacam.
+inacam a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : lilyH6 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : inacam (bouton) a remporté (100)
+
+
+
+Main PokerStars n°260410467226 : Tournoi #3990849079, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/04/2026 11:02:11 CET [10/04/2026 5:02:11 ET]
+Table '3990849079 1' 3-max Siège #1 est au bouton.
+Place 1: lilyH6 (105 en jetons) 
+Place 2: psychoman59 (330 en jetons) 
+Place 3: inacam (1065 en jetons) 
+psychoman59 : met la petite blind. 20
+inacam : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Th]
+lilyH6 : relance. 65 à 105 et est all-in.
+psychoman59 : passe. 
+inacam : passe. 
+Personne n'a suivi. (65) sont retournés à lilyH6.
+lilyH6 a remporté 100  lors du pot .
+lilyH6 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : lilyH6 (bouton) a remporté (100)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : inacam (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260410467968 : Tournoi #3990849079, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/04/2026 11:02:21 CET [10/04/2026 5:02:21 ET]
+Table '3990849079 1' 3-max Siège #2 est au bouton.
+Place 1: lilyH6 (165 en jetons) 
+Place 2: psychoman59 (310 en jetons) 
+Place 3: inacam (1025 en jetons) 
+inacam : met la petite blind. 20
+lilyH6 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 4s]
+psychoman59 : passe. 
+inacam : relance. 40 à 80
+lilyH6 : passe. 
+Personne n'a suivi. (40) sont retournés à inacam.
+inacam a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : lilyH6 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : inacam (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°260410468652 : Tournoi #3990849079, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/04/2026 11:02:30 CET [10/04/2026 5:02:30 ET]
+Table '3990849079 1' 3-max Siège #3 est au bouton.
+Place 1: lilyH6 (125 en jetons) 
+Place 2: psychoman59 (310 en jetons) 
+Place 3: inacam (1065 en jetons) 
+lilyH6 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Kc]
+inacam : relance. 40 à 80
+lilyH6 : passe. 
+psychoman59 : suit. 40
+*** FLOP *** [2s 4s 6s]
+psychoman59 : parole 
+inacam : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à inacam.
+inacam a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [2s 4s 6s]
+Siège 1 : lilyH6 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : inacam (bouton) a remporté (180)
+
+
+
+Main PokerStars n°260410469729 : Tournoi #3990849079, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/04/2026 11:02:44 CET [10/04/2026 5:02:44 ET]
+Table '3990849079 1' 3-max Siège #1 est au bouton.
+Place 1: lilyH6 (105 en jetons) 
+Place 2: psychoman59 (230 en jetons) 
+Place 3: inacam (1165 en jetons) 
+psychoman59 : met la petite blind. 20
+inacam : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 5h]
+lilyH6 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à inacam.
+inacam a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : lilyH6 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : inacam (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°260410470118 : Tournoi #3990849079, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/04/2026 11:02:49 CET [10/04/2026 5:02:49 ET]
+Table '3990849079 1' 3-max Siège #2 est au bouton.
+Place 1: lilyH6 (105 en jetons) 
+Place 2: psychoman59 (210 en jetons) 
+Place 3: inacam (1185 en jetons) 
+inacam : met la petite blind. 20
+lilyH6 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Ad]
+psychoman59 : relance. 170 à 210 et est all-in.
+inacam : passe. 
+lilyH6 : passe. 
+Personne n'a suivi. (170) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : lilyH6 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a remporté (100)
+Siège 3 : inacam (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260410470643 : Tournoi #3990849079, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/04/2026 11:02:56 CET [10/04/2026 5:02:56 ET]
+Table '3990849079 1' 3-max Siège #3 est au bouton.
+Place 1: lilyH6 (65 en jetons) 
+Place 2: psychoman59 (270 en jetons) 
+Place 3: inacam (1165 en jetons) 
+lilyH6 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 6c]
+inacam : relance. 1125 à 1165 et est all-in.
+lilyH6 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (1125) sont retournés à inacam.
+inacam a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : lilyH6 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : inacam (bouton) a remporté (100)
+
+
+
+Main PokerStars n°260410471220 : Tournoi #3990849079, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/04/2026 11:03:03 CET [10/04/2026 5:03:03 ET]
+Table '3990849079 1' 3-max Siège #1 est au bouton.
+Place 1: lilyH6 (45 en jetons) 
+Place 2: psychoman59 (230 en jetons) 
+Place 3: inacam (1225 en jetons) 
+psychoman59 : met la petite blind. 20
+inacam : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Qc]
+lilyH6 : relance. 5 à 45 et est all-in.
+psychoman59 : passe. 
+inacam : suit. 5
+*** FLOP *** [Qh Kh 6c]
+*** TOURNANT *** [Qh Kh 6c] [9d]
+*** RIVIÈRE *** [Qh Kh 6c 9d] [9c]
+*** ABATTAGE ***
+inacam : montre [Ad 5c] (une paire de Neuf)
+lilyH6 : montre [7s As] (une paire de Neuf)
+inacam a remporté 55  lors du pot .
+lilyH6 a remporté 55  lors du pot .
+*** SYNTHÈSE ***
+Pot total 110 | Commission 0 
+Tableau [Qh Kh 6c 9d 9c]
+Siège 1 : lilyH6 (bouton) a montré [7s As] et a gagné (55) avec une paire de Neuf
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : inacam (grosse blind) a montré [Ad 5c] et a gagné (55) avec une paire de Neuf
+
+
+
+Main PokerStars n°260410472194 : Tournoi #3990849079, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/04/2026 11:03:16 CET [10/04/2026 5:03:16 ET]
+Table '3990849079 1' 3-max Siège #2 est au bouton.
+Place 1: lilyH6 (55 en jetons) 
+Place 2: psychoman59 (210 en jetons) 
+Place 3: inacam (1235 en jetons) 
+inacam : met la petite blind. 20
+lilyH6 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 7h]
+psychoman59 : passe. 
+inacam : relance. 40 à 80
+lilyH6 : suit. 15 et est all-in.
+Personne n'a suivi. (25) sont retournés à inacam.
+*** FLOP *** [6h 9h 4h]
+*** TOURNANT *** [6h 9h 4h] [Ks]
+*** RIVIÈRE *** [6h 9h 4h Ks] [3c]
+*** ABATTAGE ***
+inacam : montre [7c 3s] (une paire de Trois)
+lilyH6 : montre [2c 8c] (Hauteur Roi)
+inacam a remporté 110  lors du pot .
+lilyH6 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 110 | Commission 0 
+Tableau [6h 9h 4h Ks 3c]
+Siège 1 : lilyH6 (grosse blind) a montré [2c 8c] et a perdu avec Hauteur Roi
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : inacam (petite blind) a montré [7c 3s] et a gagné (110) avec une paire de Trois
+
+
+
+Main PokerStars n°260410473639 : Tournoi #3990849079, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/04/2026 11:03:35 CET [10/04/2026 5:03:35 ET]
+Table '3990849079 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (210 en jetons) 
+Place 3: inacam (1290 en jetons) 
+inacam : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Qs]
+inacam : relance. 1250 à 1290 et est all-in.
+psychoman59 : suit. 170 et est all-in.
+Personne n'a suivi. (1080) sont retournés à inacam.
+*** FLOP *** [3h 5c 9h]
+*** TOURNANT *** [3h 5c 9h] [8s]
+*** RIVIÈRE *** [3h 5c 9h 8s] [4h]
+*** ABATTAGE ***
+psychoman59 : montre [Qh Qs] (une paire de Dames)
+inacam : montre [Js 3c] (une paire de Trois)
+psychoman59 a remporté 420  lors du pot .
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [3h 5c 9h 8s 4h]
+Siège 2 : psychoman59 (grosse blind) a montré [Qh Qs] et a gagné (420) avec une paire de Dames
+Siège 3 : inacam (bouton) (petite blind) a montré [Js 3c] et a perdu avec une paire de Trois
+
+
+
+Main PokerStars n°260410474550 : Tournoi #3990849079, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/04/2026 11:03:47 CET [10/04/2026 5:03:47 ET]
+Table '3990849079 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (420 en jetons) 
+Place 3: inacam (1080 en jetons) 
+psychoman59 : met la petite blind. 20
+inacam : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h As]
+psychoman59 : suit. 20
+inacam : parole 
+*** FLOP *** [4d 2h 4c]
+inacam : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [4d 2h 4c] [3c]
+inacam : mise. 40
+psychoman59 : relance. 300 à 340 et est all-in.
+inacam : suit. 300
+*** RIVIÈRE *** [4d 2h 4c 3c] [5h]
+*** ABATTAGE ***
+inacam : montre [2c 4h] (un full, full aux Quatre par les Deux)
+psychoman59 : montre [9h As] (une suite, As à Cinq)
+inacam a remporté 840  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+inacam remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Tableau [4d 2h 4c 3c 5h]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [9h As] et a perdu avec une suite, As à Cinq
+Siège 3 : inacam (grosse blind) a montré [2c 4h] et a gagné (840) avec un full, full aux Quatre par les Deux
+
+
+

@@ -1,0 +1,479 @@
+﻿Main PokerStars n°242543072077 : Tournoi #3564353179, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/03/2023 10:38:34 CET [19/03/2023 5:38:34 ET]
+Table '3564353179 1' 3-max Siège #1 est au bouton.
+Place 1: MisterPNB (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: Agassi17 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+Agassi17 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 2s]
+MisterPNB : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à Agassi17.
+Agassi17 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : MisterPNB (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Agassi17 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°242543073411 : Tournoi #3564353179, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/03/2023 10:38:42 CET [19/03/2023 5:38:42 ET]
+Table '3564353179 1' 3-max Siège #2 est au bouton.
+Place 1: MisterPNB (300 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: Agassi17 (310 en jetons) 
+Agassi17 : met la petite blind. 10
+MisterPNB : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 5s]
+psychoman59 : relance. 270 à 290 et est all-in.
+Agassi17 : passe. 
+MisterPNB : passe. 
+Personne n'a suivi. (270) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : MisterPNB (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a remporté (50)
+Siège 3 : Agassi17 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242543074852 : Tournoi #3564353179, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/03/2023 10:38:52 CET [19/03/2023 5:38:52 ET]
+Table '3564353179 1' 3-max Siège #3 est au bouton.
+Place 1: MisterPNB (280 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: Agassi17 (300 en jetons) 
+MisterPNB : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Ts]
+Agassi17 : suit. 20
+MisterPNB : suit. 10
+psychoman59 : parole 
+*** FLOP *** [8c 6c 4d]
+MisterPNB : parole 
+psychoman59 : mise. 60
+Agassi17 : suit. 60
+MisterPNB : passe. 
+*** TOURNANT *** [8c 6c 4d] [8s]
+psychoman59 : mise. 90
+Agassi17 : suit. 90
+*** RIVIÈRE *** [8c 6c 4d 8s] [Js]
+psychoman59 : mise. 150 et est all-in.
+Agassi17 : passe. 
+Personne n'a suivi. (150) sont retournés à psychoman59.
+psychoman59 a remporté 360  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [8c 6c 4d 8s Js]
+Siège 1 : MisterPNB (petite blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (360)
+Siège 3 : Agassi17 (bouton) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°242543079990 : Tournoi #3564353179, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/03/2023 10:39:25 CET [19/03/2023 5:39:25 ET]
+Table '3564353179 1' 3-max Siège #1 est au bouton.
+Place 1: MisterPNB (260 en jetons) 
+Place 2: psychoman59 (510 en jetons) 
+Place 3: Agassi17 (130 en jetons) 
+psychoman59 : met la petite blind. 10
+Agassi17 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 6c]
+MisterPNB : passe. 
+psychoman59 : suit. 10
+Agassi17 : relance. 110 à 130 et est all-in.
+psychoman59 : suit. 110
+*** FLOP *** [8c Qh 5d]
+*** TOURNANT *** [8c Qh 5d] [4s]
+*** RIVIÈRE *** [8c Qh 5d 4s] [Kd]
+*** ABATTAGE ***
+psychoman59 : montre [Ks 6c] (une paire de Rois)
+Agassi17 : montre [2s Qs] (une paire de Dames)
+psychoman59 a remporté 260  lors du pot .
+Agassi17 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 260 | Commission 0 
+Tableau [8c Qh 5d 4s Kd]
+Siège 1 : MisterPNB (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [Ks 6c] et a gagné (260) avec une paire de Rois
+Siège 3 : Agassi17 (grosse blind) a montré [2s Qs] et a perdu avec une paire de Dames
+
+
+
+Main PokerStars n°242543083510 : Tournoi #3564353179, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/03/2023 10:39:48 CET [19/03/2023 5:39:48 ET]
+Table '3564353179 1' 3-max Siège #2 est au bouton.
+Place 1: MisterPNB (260 en jetons) 
+Place 2: psychoman59 (640 en jetons) 
+psychoman59 : met la petite blind. 15
+MisterPNB : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Qh]
+psychoman59 : suit. 15
+MisterPNB : parole 
+*** FLOP *** [6s 6d 4c]
+MisterPNB : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6s 6d 4c] [2c]
+MisterPNB : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [6s 6d 4c 2c] [Kh]
+MisterPNB : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+MisterPNB : montre [Ts Jd] (une paire de Six)
+psychoman59 : montre [8h Qh] (une paire de Six - Roi+Dame kicker)
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [6s 6d 4c 2c Kh]
+Siège 1 : MisterPNB (grosse blind) a montré [Ts Jd] et a perdu avec une paire de Six
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [8h Qh] et a gagné (60) avec une paire de Six
+
+
+
+Main PokerStars n°242543085869 : Tournoi #3564353179, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/03/2023 10:40:03 CET [19/03/2023 5:40:03 ET]
+Table '3564353179 1' 3-max Siège #1 est au bouton.
+Place 1: MisterPNB (230 en jetons) 
+Place 2: psychoman59 (670 en jetons) 
+MisterPNB : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 3c]
+MisterPNB : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Ad 8h 4c]
+psychoman59 : parole 
+MisterPNB : parole 
+*** TOURNANT *** [Ad 8h 4c] [6c]
+psychoman59 : parole 
+MisterPNB : parole 
+*** RIVIÈRE *** [Ad 8h 4c 6c] [4s]
+psychoman59 : mise. 60
+MisterPNB : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ad 8h 4c 6c 4s]
+Siège 1 : MisterPNB (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°242543088445 : Tournoi #3564353179, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/03/2023 10:40:20 CET [19/03/2023 5:40:20 ET]
+Table '3564353179 1' 3-max Siège #2 est au bouton.
+Place 1: MisterPNB (200 en jetons) 
+Place 2: psychoman59 (700 en jetons) 
+psychoman59 : met la petite blind. 15
+MisterPNB : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 3c]
+psychoman59 : suit. 15
+MisterPNB : parole 
+*** FLOP *** [Qs 6s 6d]
+MisterPNB : parole 
+psychoman59 : mise. 60
+MisterPNB : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Qs 6s 6d]
+Siège 1 : MisterPNB (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°242543090286 : Tournoi #3564353179, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/03/2023 10:40:33 CET [19/03/2023 5:40:33 ET]
+Table '3564353179 1' 3-max Siège #1 est au bouton.
+Place 1: MisterPNB (170 en jetons) 
+Place 2: psychoman59 (730 en jetons) 
+MisterPNB : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 2d]
+MisterPNB : suit. 15
+psychoman59 : parole 
+*** FLOP *** [9d 5c As]
+psychoman59 : parole 
+MisterPNB : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à MisterPNB.
+MisterPNB a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [9d 5c As]
+Siège 1 : MisterPNB (bouton) (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°242543092815 : Tournoi #3564353179, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/03/2023 10:40:49 CET [19/03/2023 5:40:49 ET]
+Table '3564353179 1' 3-max Siège #2 est au bouton.
+Place 1: MisterPNB (200 en jetons) 
+Place 2: psychoman59 (700 en jetons) 
+psychoman59 : met la petite blind. 20
+MisterPNB : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Qc]
+psychoman59 : suit. 20
+MisterPNB : parole 
+*** FLOP *** [Td 2c 9h]
+MisterPNB : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à MisterPNB.
+MisterPNB a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Td 2c 9h]
+Siège 1 : MisterPNB (grosse blind) a remporté (80)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°242543094435 : Tournoi #3564353179, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/03/2023 10:40:59 CET [19/03/2023 5:40:59 ET]
+Table '3564353179 1' 3-max Siège #1 est au bouton.
+Place 1: MisterPNB (240 en jetons) 
+Place 2: psychoman59 (660 en jetons) 
+MisterPNB : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 5s]
+MisterPNB : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Qs 5c Qd]
+psychoman59 : parole 
+MisterPNB : parole 
+*** TOURNANT *** [Qs 5c Qd] [Qh]
+psychoman59 : mise. 80
+MisterPNB : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Qs 5c Qd Qh]
+Siège 1 : MisterPNB (bouton) (petite blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°242543096606 : Tournoi #3564353179, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/03/2023 10:41:14 CET [19/03/2023 5:41:14 ET]
+Table '3564353179 1' 3-max Siège #2 est au bouton.
+Place 1: MisterPNB (200 en jetons) 
+Place 2: psychoman59 (700 en jetons) 
+psychoman59 : met la petite blind. 20
+MisterPNB : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 8h]
+psychoman59 : suit. 20
+MisterPNB : parole 
+*** FLOP *** [Jc 3s 9c]
+MisterPNB : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Jc 3s 9c] [7c]
+MisterPNB : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Jc 3s 9c 7c] [Jh]
+MisterPNB : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+MisterPNB : montre [2h 6h] (une paire de Valets)
+psychoman59 : montre [Qc 8h] (une paire de Valets - Dame kicker)
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Jc 3s 9c 7c Jh]
+Siège 1 : MisterPNB (grosse blind) a montré [2h 6h] et a perdu avec une paire de Valets
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Qc 8h] et a gagné (80) avec une paire de Valets
+
+
+
+Main PokerStars n°242543098847 : Tournoi #3564353179, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/03/2023 10:41:29 CET [19/03/2023 5:41:29 ET]
+Table '3564353179 1' 3-max Siège #1 est au bouton.
+Place 1: MisterPNB (160 en jetons) 
+Place 2: psychoman59 (740 en jetons) 
+MisterPNB : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Qd]
+MisterPNB : suit. 20
+psychoman59 : relance. 120 à 160
+MisterPNB : suit. 120 et est all-in.
+*** FLOP *** [8h 7d Ks]
+*** TOURNANT *** [8h 7d Ks] [2h]
+*** RIVIÈRE *** [8h 7d Ks 2h] [Jc]
+*** ABATTAGE ***
+psychoman59 : montre [As Qd] (Hauteur As)
+MisterPNB : montre [Ad 7c] (une paire de Sept)
+MisterPNB a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [8h 7d Ks 2h Jc]
+Siège 1 : MisterPNB (bouton) (petite blind) a montré [Ad 7c] et a gagné (320) avec une paire de Sept
+Siège 2 : psychoman59 (grosse blind) a montré [As Qd] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°242543101777 : Tournoi #3564353179, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 19/03/2023 10:41:48 CET [19/03/2023 5:41:48 ET]
+Table '3564353179 1' 3-max Siège #2 est au bouton.
+Place 1: MisterPNB (320 en jetons) 
+Place 2: psychoman59 (580 en jetons) 
+psychoman59 : met la petite blind. 30
+MisterPNB : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 4h]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à MisterPNB.
+MisterPNB a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : MisterPNB (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242543102585 : Tournoi #3564353179, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 19/03/2023 10:41:54 CET [19/03/2023 5:41:54 ET]
+Table '3564353179 1' 3-max Siège #1 est au bouton.
+Place 1: MisterPNB (350 en jetons) 
+Place 2: psychoman59 (550 en jetons) 
+MisterPNB : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 3d]
+MisterPNB : suit. 30
+psychoman59 : parole 
+*** FLOP *** [2s Tc Td]
+psychoman59 : parole 
+MisterPNB : parole 
+*** TOURNANT *** [2s Tc Td] [Qc]
+psychoman59 : parole 
+MisterPNB : parole 
+*** RIVIÈRE *** [2s Tc Td Qc] [Kc]
+psychoman59 : parole 
+MisterPNB : parole 
+*** ABATTAGE ***
+psychoman59 : montre [9d 3d] (une paire de Dix)
+MisterPNB : montre [7c Jh] (une paire de Dix - Roi+Dame+Valet kicker)
+MisterPNB a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [2s Tc Td Qc Kc]
+Siège 1 : MisterPNB (bouton) (petite blind) a montré [7c Jh] et a gagné (120) avec une paire de Dix
+Siège 2 : psychoman59 (grosse blind) a montré [9d 3d] et a perdu avec une paire de Dix
+
+
+
+Main PokerStars n°242543105193 : Tournoi #3564353179, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 19/03/2023 10:42:11 CET [19/03/2023 5:42:11 ET]
+Table '3564353179 1' 3-max Siège #2 est au bouton.
+Place 1: MisterPNB (410 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+psychoman59 : met la petite blind. 30
+MisterPNB : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 6h]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à MisterPNB.
+MisterPNB a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : MisterPNB (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242543105875 : Tournoi #3564353179, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 19/03/2023 10:42:15 CET [19/03/2023 5:42:15 ET]
+Table '3564353179 1' 3-max Siège #1 est au bouton.
+Place 1: MisterPNB (440 en jetons) 
+Place 2: psychoman59 (460 en jetons) 
+MisterPNB : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Kd]
+MisterPNB : relance. 60 à 120
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à MisterPNB.
+MisterPNB a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : MisterPNB (bouton) (petite blind) a remporté (120)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242543106896 : Tournoi #3564353179, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 19/03/2023 10:42:22 CET [19/03/2023 5:42:22 ET]
+Table '3564353179 1' 3-max Siège #2 est au bouton.
+Place 1: MisterPNB (500 en jetons) 
+Place 2: psychoman59 (400 en jetons) 
+psychoman59 : met la petite blind. 30
+MisterPNB : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Th]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à MisterPNB.
+MisterPNB a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : MisterPNB (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242543107655 : Tournoi #3564353179, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 19/03/2023 10:42:27 CET [19/03/2023 5:42:27 ET]
+Table '3564353179 1' 3-max Siège #1 est au bouton.
+Place 1: MisterPNB (530 en jetons) 
+Place 2: psychoman59 (370 en jetons) 
+MisterPNB : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 3s]
+MisterPNB : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : MisterPNB (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°242543108314 : Tournoi #3564353179, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 19/03/2023 10:42:31 CET [19/03/2023 5:42:31 ET]
+Table '3564353179 1' 3-max Siège #2 est au bouton.
+Place 1: MisterPNB (500 en jetons) 
+Place 2: psychoman59 (400 en jetons) 
+psychoman59 : met la petite blind. 30
+MisterPNB : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 6c]
+psychoman59 : suit. 30
+MisterPNB : parole 
+*** FLOP *** [6d 8d 7s]
+MisterPNB : mise. 60
+psychoman59 : relance. 280 à 340 et est all-in.
+MisterPNB : suit. 280
+*** TOURNANT *** [6d 8d 7s] [8s]
+*** RIVIÈRE *** [6d 8d 7s 8s] [5d]
+*** ABATTAGE ***
+MisterPNB : montre [3d 7c] (double paire, Huit et Sept)
+psychoman59 : montre [5c 6c] (double paire, Huit et Six)
+MisterPNB a remporté 800  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+MisterPNB remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 800 | Commission 0 
+Tableau [6d 8d 7s 8s 5d]
+Siège 1 : MisterPNB (grosse blind) a montré [3d 7c] et a gagné (800) avec double paire, Huit et Sept
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [5c 6c] et a perdu avec double paire, Huit et Six
+
+
+

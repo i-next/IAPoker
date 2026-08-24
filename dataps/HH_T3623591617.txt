@@ -1,0 +1,115 @@
+﻿Main PokerStars n°245069021617 : Tournoi #3623591617, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau I (10/20) - 28/07/2023 19:16:21 CET [28/07/2023 13:16:21 ET]
+Table '3623591617 1' 3-max Siège #1 est au bouton.
+Place 1: AllFold 17 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: BikTornado (300 en jetons) 
+psychoman59 : met la petite blind. 10
+BikTornado : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 4d]
+AllFold 17 : relance. 20 à 40
+psychoman59 : passe. 
+BikTornado : suit. 20
+*** FLOP *** [3s Kd Qh]
+BikTornado : parole 
+AllFold 17 : mise. 30
+BikTornado : passe. 
+Personne n'a suivi. (30) sont retournés à AllFold 17.
+AllFold 17 a remporté 90  lors du pot .
+AllFold 17 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [3s Kd Qh]
+Siège 1 : AllFold 17 (bouton) a remporté (90)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : BikTornado (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°245069029324 : Tournoi #3623591617, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau I (10/20) - 28/07/2023 19:16:49 CET [28/07/2023 13:16:49 ET]
+Table '3623591617 1' 3-max Siège #2 est au bouton.
+Place 1: AllFold 17 (350 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: BikTornado (260 en jetons) 
+BikTornado : met la petite blind. 10
+AllFold 17 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 5s]
+psychoman59 : relance. 270 à 290 et est all-in.
+BikTornado : suit. 250 et est all-in.
+AllFold 17 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+*** FLOP *** [Th Ac 3d]
+*** TOURNANT *** [Th Ac 3d] [7c]
+*** RIVIÈRE *** [Th Ac 3d 7c] [6h]
+*** ABATTAGE ***
+BikTornado : montre [As 7d] (double paire, As et Sept)
+psychoman59 : montre [5h 5s] (une paire de Cinq)
+BikTornado a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [Th Ac 3d 7c 6h]
+Siège 1 : AllFold 17 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a montré [5h 5s] et a perdu avec une paire de Cinq
+Siège 3 : BikTornado (petite blind) a montré [As 7d] et a gagné (540) avec double paire, As et Sept
+
+
+
+Main PokerStars n°245069036304 : Tournoi #3623591617, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau I (10/20) - 28/07/2023 19:17:14 CET [28/07/2023 13:17:14 ET]
+Table '3623591617 1' 3-max Siège #3 est au bouton.
+Place 1: AllFold 17 (330 en jetons) 
+Place 2: psychoman59 (30 en jetons) 
+Place 3: BikTornado (540 en jetons) 
+AllFold 17 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 7h]
+BikTornado : relance. 20 à 40
+AllFold 17 : passe. 
+psychoman59 : suit. 10 et est all-in.
+Personne n'a suivi. (10) sont retournés à BikTornado.
+*** FLOP *** [Jc 7c 2d]
+*** TOURNANT *** [Jc 7c 2d] [5s]
+*** RIVIÈRE *** [Jc 7c 2d 5s] [9s]
+*** ABATTAGE ***
+psychoman59 : montre [9c 7h] (double paire, Neuf et Sept)
+BikTornado : montre [Qh As] (Hauteur As)
+psychoman59 a remporté 70  lors du pot .
+*** SYNTHÈSE ***
+Pot total 70 | Commission 0 
+Tableau [Jc 7c 2d 5s 9s]
+Siège 1 : AllFold 17 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a montré [9c 7h] et a gagné (70) avec double paire, Neuf et Sept
+Siège 3 : BikTornado (bouton) a montré [Qh As] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°245069041441 : Tournoi #3623591617, 4.65 €+0.35 € EUR Hold'em No Limit - Niveau II (15/30) - 28/07/2023 19:17:32 CET [28/07/2023 13:17:32 ET]
+Table '3623591617 1' 3-max Siège #1 est au bouton.
+Place 1: AllFold 17 (320 en jetons) 
+Place 2: psychoman59 (70 en jetons) 
+Place 3: BikTornado (510 en jetons) 
+psychoman59 : met la petite blind. 15
+BikTornado : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 4c]
+AllFold 17 : passe. 
+psychoman59 : relance. 40 à 70 et est all-in.
+BikTornado : suit. 40
+*** FLOP *** [3h Ks Td]
+*** TOURNANT *** [3h Ks Td] [Jc]
+*** RIVIÈRE *** [3h Ks Td Jc] [Qh]
+*** ABATTAGE ***
+psychoman59 : montre [Kh 4c] (une paire de Rois)
+BikTornado : montre [6c As] (une suite, Dix à As)
+BikTornado a remporté 140  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [3h Ks Td Jc Qh]
+Siège 1 : AllFold 17 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [Kh 4c] et a perdu avec une paire de Rois
+Siège 3 : BikTornado (grosse blind) a montré [6c As] et a gagné (140) avec une suite, Dix à As
+
+
+

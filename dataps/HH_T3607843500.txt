@@ -1,0 +1,112 @@
+﻿Main PokerStars n°244418401405 : Tournoi #3607843500, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 23/06/2023 7:07:09 CET [23/06/2023 1:07:09 ET]
+Table '3607843500 1' 3-max Siège #1 est au bouton.
+Place 1: edulis2010 (300 en jetons) 
+Place 2: pintupax (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+pintupax : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 9h]
+edulis2010 : passe. 
+pintupax : relance. 20 à 40
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à pintupax.
+pintupax a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : edulis2010 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : pintupax (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244418402316 : Tournoi #3607843500, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 23/06/2023 7:07:18 CET [23/06/2023 1:07:18 ET]
+Table '3607843500 1' 3-max Siège #2 est au bouton.
+Place 1: edulis2010 (300 en jetons) 
+Place 2: pintupax (320 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+edulis2010 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Js]
+pintupax : passe. 
+psychoman59 : relance. 260 à 280 et est all-in.
+edulis2010 : suit. 260
+*** FLOP *** [9h Qd 9d]
+*** TOURNANT *** [9h Qd 9d] [4c]
+*** RIVIÈRE *** [9h Qd 9d 4c] [7s]
+*** ABATTAGE ***
+psychoman59 : montre [Jh Js] (double paire, Valets et Neuf)
+edulis2010 : montre [8c Ad] (une paire de Neuf)
+psychoman59 a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [9h Qd 9d 4c 7s]
+Siège 1 : edulis2010 (grosse blind) a montré [8c Ad] et a perdu avec une paire de Neuf
+Siège 2 : pintupax (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [Jh Js] et a gagné (560) avec double paire, Valets et Neuf
+
+
+
+Main PokerStars n°244418404031 : Tournoi #3607843500, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 23/06/2023 7:07:35 CET [23/06/2023 1:07:35 ET]
+Table '3607843500 1' 3-max Siège #3 est au bouton.
+Place 1: edulis2010 (20 en jetons) 
+Place 2: pintupax (320 en jetons) 
+Place 3: psychoman59 (560 en jetons) 
+edulis2010 : met la petite blind. 10
+pintupax : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Th]
+psychoman59 : relance. 540 à 560 et est all-in.
+edulis2010 : suit. 10 et est all-in.
+pintupax : passe. 
+Personne n'a suivi. (540) sont retournés à psychoman59.
+*** FLOP *** [5c 9c 6c]
+*** TOURNANT *** [5c 9c 6c] [Qd]
+*** RIVIÈRE *** [5c 9c 6c Qd] [4d]
+*** ABATTAGE ***
+edulis2010 : montre [Qh 6s] (double paire, Dames et Six)
+psychoman59 : montre [Tc Th] (une paire de Dix)
+edulis2010 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [5c 9c 6c Qd 4d]
+Siège 1 : edulis2010 (petite blind) a montré [Qh 6s] et a gagné (60) avec double paire, Dames et Six
+Siège 2 : pintupax (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a montré [Tc Th] et a perdu avec une paire de Dix
+
+
+
+Main PokerStars n°244418405722 : Tournoi #3607843500, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 23/06/2023 7:07:52 CET [23/06/2023 1:07:52 ET]
+Table '3607843500 1' 3-max Siège #1 est au bouton.
+Place 1: edulis2010 (60 en jetons) 
+Place 2: pintupax (300 en jetons) 
+Place 3: psychoman59 (540 en jetons) 
+pintupax : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Ks]
+edulis2010 : relance. 40 à 60 et est all-in.
+pintupax : relance. 240 à 300 et est all-in.
+psychoman59 : suit. 280
+*** FLOP *** [5h 2s 9s]
+*** TOURNANT *** [5h 2s 9s] [7d]
+*** RIVIÈRE *** [5h 2s 9s 7d] [Kd]
+*** ABATTAGE ***
+pintupax : montre [3d Ac] (Hauteur As)
+psychoman59 : montre [Tc Ks] (une paire de Rois)
+psychoman59 a remporté 480  parallèle lors du pot .
+edulis2010 : montre [Td 2d] (une paire de Deux)
+psychoman59 a remporté 180  principal lors du pot .
+pintupax a fini le tournoi en 2e position.
+edulis2010 a fini le tournoi en 3e position.
+psychoman59 remporte le tournoi et reçoit 6.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 660 Principal pot 180. Parallèle pot 480. | Commission 0 
+Tableau [5h 2s 9s 7d Kd]
+Siège 1 : edulis2010 (bouton) a montré [Td 2d] et a perdu avec une paire de Deux
+Siège 2 : pintupax (petite blind) a montré [3d Ac] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (grosse blind) a montré [Tc Ks] et a gagné (660) avec une paire de Rois
+
+
+

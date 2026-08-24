@@ -1,0 +1,616 @@
+﻿Main PokerStars n°245436118263 : Tournoi #3632422548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 17/08/2023 8:29:24 CET [17/08/2023 2:29:24 ET]
+Table '3632422548 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: turquin22 (300 en jetons) 
+Place 3: arnaud1437 (300 en jetons) 
+turquin22 : met la petite blind. 10
+arnaud1437 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 2h]
+psychoman59 : passe. 
+turquin22 : suit. 10
+arnaud1437 est déconnecté 
+arnaud1437 est connecté 
+arnaud1437 est connecté 
+arnaud1437 : parole 
+*** FLOP *** [Td 5d Th]
+turquin22 : parole 
+arnaud1437 : parole 
+*** TOURNANT *** [Td 5d Th] [9c]
+turquin22 : parole 
+arnaud1437 : mise. 20
+turquin22 : passe. 
+Personne n'a suivi. (20) sont retournés à arnaud1437.
+arnaud1437 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Td 5d Th 9c]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : turquin22 (petite blind) s'est couché. sur le Tournant
+Siège 3 : arnaud1437 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°245436121368 : Tournoi #3632422548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 17/08/2023 8:29:56 CET [17/08/2023 2:29:56 ET]
+Table '3632422548 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: turquin22 (280 en jetons) 
+Place 3: arnaud1437 (320 en jetons) 
+arnaud1437 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 8h]
+turquin22 : suit. 20
+arnaud1437 : suit. 10
+psychoman59 : relance. 280 à 300 et est all-in.
+turquin22 : passe. 
+arnaud1437 : suit. 280
+*** FLOP *** [9h 6d 5s]
+*** TOURNANT *** [9h 6d 5s] [Td]
+*** RIVIÈRE *** [9h 6d 5s Td] [5d]
+*** ABATTAGE ***
+arnaud1437 : montre [3h 2h] (une paire de Cinq)
+psychoman59 : montre [As 8h] (une paire de Cinq - As kicker)
+psychoman59 a remporté 620  lors du pot .
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [9h 6d 5s Td 5d]
+Siège 1 : psychoman59 (grosse blind) a montré [As 8h] et a gagné (620) avec une paire de Cinq
+Siège 2 : turquin22 (bouton) s'est couché. avant Flop
+Siège 3 : arnaud1437 (petite blind) a montré [3h 2h] et a perdu avec une paire de Cinq
+
+
+
+Main PokerStars n°245436123314 : Tournoi #3632422548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 17/08/2023 8:30:16 CET [17/08/2023 2:30:16 ET]
+Table '3632422548 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (620 en jetons) 
+Place 2: turquin22 (260 en jetons) 
+Place 3: arnaud1437 (20 en jetons) 
+psychoman59 : met la petite blind. 10
+turquin22 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 9h]
+arnaud1437 : suit. 20 et est all-in.
+psychoman59 : suit. 10
+turquin22 : parole 
+*** FLOP *** [Ah 8s Th]
+psychoman59 : parole 
+turquin22 : parole 
+*** TOURNANT *** [Ah 8s Th] [6d]
+psychoman59 : parole 
+turquin22 : parole 
+*** RIVIÈRE *** [Ah 8s Th 6d] [Qd]
+psychoman59 : parole 
+turquin22 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [6c 9h] (une paire de Six)
+turquin22 : cache la main perdante. 
+arnaud1437 : cache la main perdante. 
+psychoman59 a remporté 60  lors du pot .
+arnaud1437 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ah 8s Th 6d Qd]
+Siège 1 : psychoman59 (petite blind) a montré [6c 9h] et a gagné (60) avec une paire de Six
+Siège 2 : turquin22 (grosse blind) a caché la main perdante. [5c 4s]
+Siège 3 : arnaud1437 (bouton) a caché la main perdante. [Jh 7s]
+
+
+
+Main PokerStars n°245436125661 : Tournoi #3632422548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 17/08/2023 8:30:39 CET [17/08/2023 2:30:39 ET]
+Table '3632422548 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (660 en jetons) 
+Place 2: turquin22 (240 en jetons) 
+turquin22 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Qs]
+turquin22 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [7s Td Qd]
+psychoman59 : parole 
+turquin22 : parole 
+*** TOURNANT *** [7s Td Qd] [3d]
+psychoman59 : mise. 30
+turquin22 : suit. 30
+*** RIVIÈRE *** [7s Td Qd 3d] [6c]
+psychoman59 : mise. 30
+turquin22 : suit. 30
+*** ABATTAGE ***
+psychoman59 : montre [5c Qs] (une paire de Dames)
+turquin22 : montre [7c 6h] (double paire, Sept et Six)
+turquin22 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [7s Td Qd 3d 6c]
+Siège 1 : psychoman59 (grosse blind) a montré [5c Qs] et a perdu avec une paire de Dames
+Siège 2 : turquin22 (bouton) (petite blind) a montré [7c 6h] et a gagné (180) avec double paire, Sept et Six
+
+
+
+Main PokerStars n°245436127514 : Tournoi #3632422548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 17/08/2023 8:30:58 CET [17/08/2023 2:30:58 ET]
+Table '3632422548 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (570 en jetons) 
+Place 2: turquin22 (330 en jetons) 
+psychoman59 : met la petite blind. 15
+turquin22 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 9c]
+psychoman59 : suit. 15
+turquin22 : parole 
+*** FLOP *** [8c Js As]
+turquin22 : mise. 30
+psychoman59 : suit. 30
+*** TOURNANT *** [8c Js As] [Ts]
+turquin22 : mise. 30
+psychoman59 : suit. 30
+*** RIVIÈRE *** [8c Js As Ts] [9s]
+turquin22 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+turquin22 : montre [Ac 4d] (une paire de As)
+psychoman59 : montre [Qd 9c] (une suite, Huit à Dame)
+psychoman59 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [8c Js As Ts 9s]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Qd 9c] et a gagné (180) avec une suite, Huit à Dame
+Siège 2 : turquin22 (grosse blind) a montré [Ac 4d] et a perdu avec une paire de As
+
+
+
+Main PokerStars n°245436129151 : Tournoi #3632422548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 17/08/2023 8:31:15 CET [17/08/2023 2:31:15 ET]
+Table '3632422548 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (660 en jetons) 
+Place 2: turquin22 (240 en jetons) 
+turquin22 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Th]
+turquin22 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (30)
+Siège 2 : turquin22 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°245436129669 : Tournoi #3632422548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 17/08/2023 8:31:20 CET [17/08/2023 2:31:20 ET]
+Table '3632422548 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (675 en jetons) 
+Place 2: turquin22 (225 en jetons) 
+psychoman59 : met la petite blind. 15
+turquin22 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Jh]
+psychoman59 : suit. 15
+turquin22 : parole 
+*** FLOP *** [Qs Kc 8d]
+turquin22 : parole 
+psychoman59 : mise. 60
+turquin22 : suit. 60
+*** TOURNANT *** [Qs Kc 8d] [3s]
+turquin22 : parole 
+psychoman59 : mise. 90
+turquin22 : passe. 
+Personne n'a suivi. (90) sont retournés à psychoman59.
+psychoman59 a remporté 180  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Qs Kc 8d 3s]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (180)
+Siège 2 : turquin22 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°245436131745 : Tournoi #3632422548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 17/08/2023 8:31:42 CET [17/08/2023 2:31:42 ET]
+Table '3632422548 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (765 en jetons) 
+Place 2: turquin22 (135 en jetons) 
+turquin22 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 4c]
+turquin22 : relance. 95 à 135 et est all-in.
+psychoman59 : suit. 95
+*** FLOP *** [5d Td Th]
+*** TOURNANT *** [5d Td Th] [7c]
+*** RIVIÈRE *** [5d Td Th 7c] [Kh]
+*** ABATTAGE ***
+psychoman59 : montre [Ac 4c] (une paire de Dix)
+turquin22 : montre [8c Tc] (un brelan de Dix)
+turquin22 a remporté 270  lors du pot .
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Tableau [5d Td Th 7c Kh]
+Siège 1 : psychoman59 (grosse blind) a montré [Ac 4c] et a perdu avec une paire de Dix
+Siège 2 : turquin22 (bouton) (petite blind) a montré [8c Tc] et a gagné (270) avec un brelan de Dix
+
+
+
+Main PokerStars n°245436133068 : Tournoi #3632422548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 17/08/2023 8:31:56 CET [17/08/2023 2:31:56 ET]
+Table '3632422548 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (630 en jetons) 
+Place 2: turquin22 (270 en jetons) 
+psychoman59 : met la petite blind. 20
+turquin22 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Qd]
+psychoman59 : suit. 20
+turquin22 : parole 
+*** FLOP *** [Qs 4s Jh]
+turquin22 : parole 
+psychoman59 : mise. 40
+turquin22 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Qs 4s Jh]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 2 : turquin22 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°245436134214 : Tournoi #3632422548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 17/08/2023 8:32:08 CET [17/08/2023 2:32:08 ET]
+Table '3632422548 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (670 en jetons) 
+Place 2: turquin22 (230 en jetons) 
+turquin22 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 9h]
+turquin22 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 2 : turquin22 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°245436134668 : Tournoi #3632422548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 17/08/2023 8:32:12 CET [17/08/2023 2:32:12 ET]
+Table '3632422548 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (690 en jetons) 
+Place 2: turquin22 (210 en jetons) 
+psychoman59 : met la petite blind. 20
+turquin22 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Jh]
+psychoman59 : suit. 20
+turquin22 : parole 
+*** FLOP *** [2s 5d 5c]
+turquin22 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [2s 5d 5c] [Jc]
+turquin22 : mise. 40
+psychoman59 : suit. 40
+*** RIVIÈRE *** [2s 5d 5c Jc] [6c]
+turquin22 : mise. 80
+psychoman59 : suit. 80
+*** ABATTAGE ***
+turquin22 : montre [9c Js] (double paire, Valets et Cinq)
+psychoman59 : cache la main perdante. 
+turquin22 a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [2s 5d 5c Jc 6c]
+Siège 1 : psychoman59 (bouton) (petite blind) a caché la main perdante. [8d Jh]
+Siège 2 : turquin22 (grosse blind) a montré [9c Js] et a gagné (320) avec double paire, Valets et Cinq
+
+
+
+Main PokerStars n°245436136534 : Tournoi #3632422548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 17/08/2023 8:32:32 CET [17/08/2023 2:32:32 ET]
+Table '3632422548 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (530 en jetons) 
+Place 2: turquin22 (370 en jetons) 
+turquin22 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Jh]
+turquin22 : suit. 30
+psychoman59 : relance. 470 à 530 et est all-in.
+turquin22 : passe. 
+Personne n'a suivi. (470) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (120)
+Siège 2 : turquin22 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°245436137304 : Tournoi #3632422548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 17/08/2023 8:32:39 CET [17/08/2023 2:32:39 ET]
+Table '3632422548 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (590 en jetons) 
+Place 2: turquin22 (310 en jetons) 
+psychoman59 : met la petite blind. 30
+turquin22 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 8h]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à turquin22.
+turquin22 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : turquin22 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°245436137768 : Tournoi #3632422548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 17/08/2023 8:32:44 CET [17/08/2023 2:32:44 ET]
+Table '3632422548 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (560 en jetons) 
+Place 2: turquin22 (340 en jetons) 
+turquin22 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 4h]
+turquin22 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Ah 6c Kh]
+psychoman59 : parole 
+turquin22 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à turquin22.
+turquin22 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Ah 6c Kh]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : turquin22 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°245436138957 : Tournoi #3632422548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 17/08/2023 8:32:56 CET [17/08/2023 2:32:56 ET]
+Table '3632422548 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: turquin22 (400 en jetons) 
+psychoman59 : met la petite blind. 30
+turquin22 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 5c]
+psychoman59 : suit. 30
+turquin22 : parole 
+*** FLOP *** [5s Ks 8c]
+turquin22 : mise. 60
+psychoman59 : suit. 60
+*** TOURNANT *** [5s Ks 8c] [7d]
+turquin22 : mise. 60
+psychoman59 : suit. 60
+*** RIVIÈRE *** [5s Ks 8c 7d] [4s]
+turquin22 : mise. 60
+psychoman59 : suit. 60
+*** ABATTAGE ***
+turquin22 : montre [Kd 2h] (une paire de Rois)
+psychoman59 : cache la main perdante. 
+turquin22 a remporté 480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [5s Ks 8c 7d 4s]
+Siège 1 : psychoman59 (bouton) (petite blind) a caché la main perdante. [3c 5c]
+Siège 2 : turquin22 (grosse blind) a montré [Kd 2h] et a gagné (480) avec une paire de Rois
+
+
+
+Main PokerStars n°245436140757 : Tournoi #3632422548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 17/08/2023 8:33:14 CET [17/08/2023 2:33:14 ET]
+Table '3632422548 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (260 en jetons) 
+Place 2: turquin22 (640 en jetons) 
+turquin22 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 9h]
+turquin22 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [9d 2s 8h]
+psychoman59 : parole 
+turquin22 : parole 
+*** TOURNANT *** [9d 2s 8h] [6c]
+psychoman59 : mise. 60
+turquin22 : suit. 60
+*** RIVIÈRE *** [9d 2s 8h 6c] [9s]
+psychoman59 : mise. 120
+turquin22 : suit. 120
+*** ABATTAGE ***
+psychoman59 : montre [7s 9h] (un brelan de Neuf)
+turquin22 : cache la main perdante. 
+psychoman59 a remporté 480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [9d 2s 8h 6c 9s]
+Siège 1 : psychoman59 (grosse blind) a montré [7s 9h] et a gagné (480) avec un brelan de Neuf
+Siège 2 : turquin22 (bouton) (petite blind) a caché la main perdante. [Kd 6s]
+
+
+
+Main PokerStars n°245436142847 : Tournoi #3632422548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 17/08/2023 8:33:37 CET [17/08/2023 2:33:37 ET]
+Table '3632422548 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: turquin22 (400 en jetons) 
+psychoman59 : met la petite blind. 40
+turquin22 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Jc]
+psychoman59 : suit. 40
+turquin22 : parole 
+*** FLOP *** [2d 3d 4c]
+turquin22 : mise. 320 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (320) sont retournés à turquin22.
+turquin22 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [2d 3d 4c]
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+Siège 2 : turquin22 (grosse blind) a remporté (160)
+
+
+
+Main PokerStars n°245436144006 : Tournoi #3632422548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 17/08/2023 8:33:48 CET [17/08/2023 2:33:48 ET]
+Table '3632422548 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (420 en jetons) 
+Place 2: turquin22 (480 en jetons) 
+turquin22 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 5c]
+turquin22 : suit. 40
+psychoman59 : parole 
+*** FLOP *** [Ac 3c Th]
+psychoman59 : parole 
+turquin22 : parole 
+*** TOURNANT *** [Ac 3c Th] [7d]
+psychoman59 : parole 
+turquin22 : parole 
+*** RIVIÈRE *** [Ac 3c Th 7d] [5d]
+psychoman59 : parole 
+turquin22 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [4c 5c] (une paire de Cinq)
+turquin22 : montre [7h 8h] (une paire de Sept)
+turquin22 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Ac 3c Th 7d 5d]
+Siège 1 : psychoman59 (grosse blind) a montré [4c 5c] et a perdu avec une paire de Cinq
+Siège 2 : turquin22 (bouton) (petite blind) a montré [7h 8h] et a gagné (160) avec une paire de Sept
+
+
+
+Main PokerStars n°245436145536 : Tournoi #3632422548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 17/08/2023 8:34:04 CET [17/08/2023 2:34:04 ET]
+Table '3632422548 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (340 en jetons) 
+Place 2: turquin22 (560 en jetons) 
+psychoman59 : met la petite blind. 40
+turquin22 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Js]
+psychoman59 : relance. 260 à 340 et est all-in.
+turquin22 : passe. 
+Personne n'a suivi. (260) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (160)
+Siège 2 : turquin22 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°245436146346 : Tournoi #3632422548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 17/08/2023 8:34:12 CET [17/08/2023 2:34:12 ET]
+Table '3632422548 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (420 en jetons) 
+Place 2: turquin22 (480 en jetons) 
+turquin22 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 3h]
+turquin22 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (80)
+Siège 2 : turquin22 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°245436146803 : Tournoi #3632422548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 17/08/2023 8:34:18 CET [17/08/2023 2:34:18 ET]
+Table '3632422548 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (460 en jetons) 
+Place 2: turquin22 (440 en jetons) 
+psychoman59 : met la petite blind. 40
+turquin22 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 6d]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à turquin22.
+turquin22 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : turquin22 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°245436147276 : Tournoi #3632422548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 17/08/2023 8:34:23 CET [17/08/2023 2:34:23 ET]
+Table '3632422548 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (420 en jetons) 
+Place 2: turquin22 (480 en jetons) 
+turquin22 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Ah]
+turquin22 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (80)
+Siège 2 : turquin22 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°245436148077 : Tournoi #3632422548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 17/08/2023 8:34:30 CET [17/08/2023 2:34:30 ET]
+Table '3632422548 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (460 en jetons) 
+Place 2: turquin22 (440 en jetons) 
+psychoman59 : met la petite blind. 50
+turquin22 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Qc]
+psychoman59 : relance. 200 à 300
+turquin22 : passe. 
+Personne n'a suivi. (200) sont retournés à psychoman59.
+psychoman59 a remporté 200  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (200)
+Siège 2 : turquin22 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°245436148825 : Tournoi #3632422548, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 17/08/2023 8:34:39 CET [17/08/2023 2:34:39 ET]
+Table '3632422548 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (560 en jetons) 
+Place 2: turquin22 (340 en jetons) 
+turquin22 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Td]
+turquin22 : suit. 50
+psychoman59 : parole 
+*** FLOP *** [5d Jd Ts]
+psychoman59 : mise. 200
+turquin22 : suit. 200
+*** TOURNANT *** [5d Jd Ts] [Qh]
+psychoman59 : mise. 100
+turquin22 : suit. 40 et est all-in.
+Personne n'a suivi. (60) sont retournés à psychoman59.
+*** RIVIÈRE *** [5d Jd Ts Qh] [2d]
+*** ABATTAGE ***
+psychoman59 : montre [7c Td] (une paire de Dix)
+turquin22 : montre [7h 9s] (Hauteur Dame)
+psychoman59 a remporté 680  lors du pot .
+turquin22 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 5.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Tableau [5d Jd Ts Qh 2d]
+Siège 1 : psychoman59 (grosse blind) a montré [7c Td] et a gagné (680) avec une paire de Dix
+Siège 2 : turquin22 (bouton) (petite blind) a montré [7h 9s] et a perdu avec Hauteur Dame
+
+
+

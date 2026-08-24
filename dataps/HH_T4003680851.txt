@@ -1,0 +1,604 @@
+﻿Main PokerStars n°260942814339 : Tournoi #4003680851, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 27/05/2026 7:04:40 CET [27/05/2026 1:04:40 ET]
+Table '4003680851 1' 3-max Siège #1 est au bouton.
+Place 1: Doglamers (500 en jetons) 
+Place 2: alralr20 (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+alralr20 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Td]
+Doglamers : suit. 20
+alralr20 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Qs Th 2c]
+alralr20 : parole 
+psychoman59 : parole 
+Doglamers : parole 
+*** TOURNANT *** [Qs Th 2c] [5d]
+alralr20 : mise. 20
+psychoman59 : suit. 20
+Doglamers : passe. 
+*** RIVIÈRE *** [Qs Th 2c 5d] [3h]
+alralr20 : mise. 40
+psychoman59 : suit. 40
+*** ABATTAGE ***
+alralr20 : montre [6c Qc] (une paire de Dames)
+psychoman59 : montre [5s Td] (double paire, Dix et Cinq)
+psychoman59 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Qs Th 2c 5d 3h]
+Siège 1 : Doglamers (bouton) s'est couché. sur le Tournant
+Siège 2 : alralr20 (petite blind) a montré [6c Qc] et a perdu avec une paire de Dames
+Siège 3 : psychoman59 (grosse blind) a montré [5s Td] et a gagné (180) avec double paire, Dix et Cinq
+
+
+
+Main PokerStars n°260942816898 : Tournoi #4003680851, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 27/05/2026 7:05:26 CET [27/05/2026 1:05:26 ET]
+Table '4003680851 1' 3-max Siège #2 est au bouton.
+Place 1: Doglamers (480 en jetons) 
+Place 2: alralr20 (420 en jetons) 
+Place 3: psychoman59 (600 en jetons) 
+psychoman59 : met la petite blind. 10
+Doglamers : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 6h]
+alralr20 : passe. 
+psychoman59 : suit. 10
+Doglamers : relance. 60 à 80
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à Doglamers.
+Doglamers a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Doglamers (grosse blind) a remporté (40)
+Siège 2 : alralr20 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260942817959 : Tournoi #4003680851, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 27/05/2026 7:05:46 CET [27/05/2026 1:05:46 ET]
+Table '4003680851 1' 3-max Siège #3 est au bouton.
+Place 1: Doglamers (500 en jetons) 
+Place 2: alralr20 (420 en jetons) 
+Place 3: psychoman59 (580 en jetons) 
+Doglamers : met la petite blind. 10
+alralr20 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Ts]
+psychoman59 : passe. 
+Doglamers : passe. 
+Personne n'a suivi. (10) sont retournés à alralr20.
+alralr20 a remporté 20  lors du pot .
+alralr20 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : Doglamers (petite blind) s'est couché. avant Flop
+Siège 2 : alralr20 (grosse blind) a remporté (20)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260942818478 : Tournoi #4003680851, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 27/05/2026 7:05:55 CET [27/05/2026 1:05:55 ET]
+Table '4003680851 1' 3-max Siège #1 est au bouton.
+Place 1: Doglamers (490 en jetons) 
+Place 2: alralr20 (430 en jetons) 
+Place 3: psychoman59 (580 en jetons) 
+alralr20 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Qc]
+Doglamers : suit. 20
+alralr20 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Jc 3h Tc]
+alralr20 : parole 
+psychoman59 : parole 
+Doglamers : parole 
+*** TOURNANT *** [Jc 3h Tc] [Js]
+alralr20 : parole 
+psychoman59 : parole 
+Doglamers : parole 
+*** RIVIÈRE *** [Jc 3h Tc Js] [Qs]
+alralr20 : parole 
+psychoman59 : mise. 30
+Doglamers : suit. 30
+alralr20 : passe. 
+*** ABATTAGE ***
+psychoman59 : montre [7d Qc] (double paire, Dames et Valets)
+Doglamers : montre [9h 8c] (une suite, Huit à Dame)
+Doglamers a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Jc 3h Tc Js Qs]
+Siège 1 : Doglamers (bouton) a montré [9h 8c] et a gagné (120) avec une suite, Huit à Dame
+Siège 2 : alralr20 (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) a montré [7d Qc] et a perdu avec double paire, Dames et Valets
+
+
+
+Main PokerStars n°260942821460 : Tournoi #4003680851, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 27/05/2026 7:06:48 CET [27/05/2026 1:06:48 ET]
+Table '4003680851 1' 3-max Siège #2 est au bouton.
+Place 1: Doglamers (560 en jetons) 
+Place 2: alralr20 (410 en jetons) 
+Place 3: psychoman59 (530 en jetons) 
+psychoman59 : met la petite blind. 15
+Doglamers : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 8h]
+alralr20 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à Doglamers.
+Doglamers a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : Doglamers (grosse blind) a remporté (30)
+Siège 2 : alralr20 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260942821925 : Tournoi #4003680851, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 27/05/2026 7:06:56 CET [27/05/2026 1:06:56 ET]
+Table '4003680851 1' 3-max Siège #3 est au bouton.
+Place 1: Doglamers (575 en jetons) 
+Place 2: alralr20 (410 en jetons) 
+Place 3: psychoman59 (515 en jetons) 
+Doglamers : met la petite blind. 15
+alralr20 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 8h]
+psychoman59 : passe. 
+Doglamers : passe. 
+Personne n'a suivi. (15) sont retournés à alralr20.
+alralr20 a remporté 30  lors du pot .
+alralr20 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : Doglamers (petite blind) s'est couché. avant Flop
+Siège 2 : alralr20 (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260942822388 : Tournoi #4003680851, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 27/05/2026 7:07:05 CET [27/05/2026 1:07:05 ET]
+Table '4003680851 1' 3-max Siège #1 est au bouton.
+Place 1: Doglamers (560 en jetons) 
+Place 2: alralr20 (425 en jetons) 
+Place 3: psychoman59 (515 en jetons) 
+alralr20 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 4s]
+Doglamers : suit. 30
+alralr20 : relance. 395 à 425 et est all-in.
+psychoman59 : passe. 
+Doglamers : suit. 395
+*** FLOP *** [6d 9c 5c]
+*** TOURNANT *** [6d 9c 5c] [6s]
+*** RIVIÈRE *** [6d 9c 5c 6s] [8s]
+*** ABATTAGE ***
+alralr20 : montre [2s 2c] (double paire, Six et Deux)
+Doglamers : montre [Ah Qc] (une paire de Six)
+alralr20 a remporté 880  lors du pot .
+*** SYNTHÈSE ***
+Pot total 880 | Commission 0 
+Tableau [6d 9c 5c 6s 8s]
+Siège 1 : Doglamers (bouton) a montré [Ah Qc] et a perdu avec une paire de Six
+Siège 2 : alralr20 (petite blind) a montré [2s 2c] et a gagné (880) avec double paire, Six et Deux
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260942824119 : Tournoi #4003680851, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 27/05/2026 7:07:36 CET [27/05/2026 1:07:36 ET]
+Table '4003680851 1' 3-max Siège #2 est au bouton.
+Place 1: Doglamers (135 en jetons) 
+Place 2: alralr20 (880 en jetons) 
+Place 3: psychoman59 (485 en jetons) 
+psychoman59 : met la petite blind. 15
+Doglamers : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 7h]
+alralr20 : passe. 
+psychoman59 : suit. 15
+Doglamers : parole 
+*** FLOP *** [4s 5h 8c]
+psychoman59 : parole 
+Doglamers : parole 
+*** TOURNANT *** [4s 5h 8c] [Th]
+psychoman59 : parole 
+Doglamers : parole 
+*** RIVIÈRE *** [4s 5h 8c Th] [Jh]
+psychoman59 : mise. 30
+Doglamers : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [4s 5h 8c Th Jh]
+Siège 1 : Doglamers (grosse blind) s'est couché. sur le Rivière
+Siège 2 : alralr20 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°260942825409 : Tournoi #4003680851, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 27/05/2026 7:07:58 CET [27/05/2026 1:07:58 ET]
+Table '4003680851 1' 3-max Siège #3 est au bouton.
+Place 1: Doglamers (105 en jetons) 
+Place 2: alralr20 (880 en jetons) 
+Place 3: psychoman59 (515 en jetons) 
+Doglamers : met la petite blind. 15
+alralr20 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Qs]
+psychoman59 : passe. 
+Doglamers : passe. 
+Personne n'a suivi. (15) sont retournés à alralr20.
+alralr20 a remporté 30  lors du pot .
+alralr20 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : Doglamers (petite blind) s'est couché. avant Flop
+Siège 2 : alralr20 (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260942825966 : Tournoi #4003680851, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 27/05/2026 7:08:08 CET [27/05/2026 1:08:08 ET]
+Table '4003680851 1' 3-max Siège #1 est au bouton.
+Place 1: Doglamers (90 en jetons) 
+Place 2: alralr20 (895 en jetons) 
+Place 3: psychoman59 (515 en jetons) 
+alralr20 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 7s]
+Doglamers : relance. 60 à 90 et est all-in.
+alralr20 : passe. 
+psychoman59 : suit. 60
+*** FLOP *** [Js Tc 4d]
+*** TOURNANT *** [Js Tc 4d] [4c]
+*** RIVIÈRE *** [Js Tc 4d 4c] [8c]
+*** ABATTAGE ***
+psychoman59 : montre [7h 7s] (double paire, Sept et Quatre)
+Doglamers : montre [Jh Ks] (double paire, Valets et Quatre)
+Doglamers a remporté 195  lors du pot .
+*** SYNTHÈSE ***
+Pot total 195 | Commission 0 
+Tableau [Js Tc 4d 4c 8c]
+Siège 1 : Doglamers (bouton) a montré [Jh Ks] et a gagné (195) avec double paire, Valets et Quatre
+Siège 2 : alralr20 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [7h 7s] et a perdu avec double paire, Sept et Quatre
+
+
+
+Main PokerStars n°260942827032 : Tournoi #4003680851, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 27/05/2026 7:08:28 CET [27/05/2026 1:08:28 ET]
+Table '4003680851 1' 3-max Siège #2 est au bouton.
+Place 1: Doglamers (195 en jetons) 
+Place 2: alralr20 (880 en jetons) 
+Place 3: psychoman59 (425 en jetons) 
+psychoman59 : met la petite blind. 15
+Doglamers : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Kd]
+alralr20 : passe. 
+psychoman59 : relance. 30 à 60
+Doglamers : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Doglamers (grosse blind) s'est couché. avant Flop
+Siège 2 : alralr20 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°260942827531 : Tournoi #4003680851, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 27/05/2026 7:08:36 CET [27/05/2026 1:08:36 ET]
+Table '4003680851 1' 3-max Siège #3 est au bouton.
+Place 1: Doglamers (165 en jetons) 
+Place 2: alralr20 (880 en jetons) 
+Place 3: psychoman59 (455 en jetons) 
+Doglamers : met la petite blind. 15
+alralr20 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Ac]
+psychoman59 : suit. 30
+Doglamers : passe. 
+alralr20 : parole 
+*** FLOP *** [3c 3h Ts]
+alralr20 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3c 3h Ts] [9c]
+alralr20 : mise. 38
+psychoman59 : passe. 
+Personne n'a suivi. (38) sont retournés à alralr20.
+alralr20 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Tableau [3c 3h Ts 9c]
+Siège 1 : Doglamers (petite blind) s'est couché. avant Flop
+Siège 2 : alralr20 (grosse blind) a remporté (75)
+Siège 3 : psychoman59 (bouton) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°260942829571 : Tournoi #4003680851, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 27/05/2026 7:09:12 CET [27/05/2026 1:09:12 ET]
+Table '4003680851 1' 3-max Siège #1 est au bouton.
+Place 1: Doglamers (150 en jetons) 
+Place 2: alralr20 (925 en jetons) 
+Place 3: psychoman59 (425 en jetons) 
+alralr20 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Jd]
+Doglamers : suit. 40
+alralr20 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [5c 4h 5s]
+alralr20 : parole 
+psychoman59 : parole 
+Doglamers : parole 
+*** TOURNANT *** [5c 4h 5s] [Qh]
+alralr20 : mise. 60
+psychoman59 : passe. 
+Doglamers : passe. 
+Personne n'a suivi. (60) sont retournés à alralr20.
+alralr20 a remporté 120  lors du pot .
+alralr20 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [5c 4h 5s Qh]
+Siège 1 : Doglamers (bouton) s'est couché. sur le Tournant
+Siège 2 : alralr20 (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°260942831713 : Tournoi #4003680851, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 27/05/2026 7:09:50 CET [27/05/2026 1:09:50 ET]
+Table '4003680851 1' 3-max Siège #2 est au bouton.
+Place 1: Doglamers (110 en jetons) 
+Place 2: alralr20 (1005 en jetons) 
+Place 3: psychoman59 (385 en jetons) 
+psychoman59 : met la petite blind. 20
+Doglamers : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Td]
+alralr20 : relance. 345 à 385
+psychoman59 : passe. 
+Doglamers : passe. 
+Personne n'a suivi. (345) sont retournés à alralr20.
+alralr20 a remporté 100  lors du pot .
+alralr20 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : Doglamers (grosse blind) s'est couché. avant Flop
+Siège 2 : alralr20 (bouton) a remporté (100)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260942832288 : Tournoi #4003680851, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 27/05/2026 7:10:00 CET [27/05/2026 1:10:00 ET]
+Table '4003680851 1' 3-max Siège #3 est au bouton.
+Place 1: Doglamers (70 en jetons) 
+Place 2: alralr20 (1065 en jetons) 
+Place 3: psychoman59 (365 en jetons) 
+Doglamers : met la petite blind. 20
+alralr20 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Td]
+psychoman59 : suit. 40
+Doglamers : suit. 20
+alralr20 : parole 
+*** FLOP *** [9s 2c 3c]
+Doglamers : mise. 30 et est all-in.
+alralr20 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Doglamers.
+Doglamers a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [9s 2c 3c]
+Siège 1 : Doglamers (petite blind) a remporté (120)
+Siège 2 : alralr20 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°260942833866 : Tournoi #4003680851, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 27/05/2026 7:10:26 CET [27/05/2026 1:10:26 ET]
+Table '4003680851 1' 3-max Siège #1 est au bouton.
+Place 1: Doglamers (150 en jetons) 
+Place 2: alralr20 (1025 en jetons) 
+Place 3: psychoman59 (325 en jetons) 
+alralr20 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Ts]
+Doglamers : passe. 
+alralr20 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Doglamers (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : alralr20 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°260942834557 : Tournoi #4003680851, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 27/05/2026 7:10:39 CET [27/05/2026 1:10:39 ET]
+Table '4003680851 1' 3-max Siège #2 est au bouton.
+Place 1: Doglamers (150 en jetons) 
+Place 2: alralr20 (1005 en jetons) 
+Place 3: psychoman59 (345 en jetons) 
+psychoman59 : met la petite blind. 20
+Doglamers : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 2h]
+alralr20 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Doglamers.
+Doglamers a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Doglamers (grosse blind) a remporté (40)
+Siège 2 : alralr20 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260942835073 : Tournoi #4003680851, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 27/05/2026 7:10:48 CET [27/05/2026 1:10:48 ET]
+Table '4003680851 1' 3-max Siège #3 est au bouton.
+Place 1: Doglamers (170 en jetons) 
+Place 2: alralr20 (1005 en jetons) 
+Place 3: psychoman59 (325 en jetons) 
+Doglamers : met la petite blind. 30
+alralr20 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 2h]
+psychoman59 : passe. 
+Doglamers : relance. 110 à 170 et est all-in.
+alralr20 : passe. 
+Personne n'a suivi. (110) sont retournés à Doglamers.
+Doglamers a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : Doglamers (petite blind) a remporté (120)
+Siège 2 : alralr20 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260942835741 : Tournoi #4003680851, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 27/05/2026 7:11:00 CET [27/05/2026 1:11:00 ET]
+Table '4003680851 1' 3-max Siège #1 est au bouton.
+Place 1: Doglamers (230 en jetons) 
+Place 2: alralr20 (945 en jetons) 
+Place 3: psychoman59 (325 en jetons) 
+alralr20 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 4s]
+Doglamers : passe. 
+alralr20 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [9d 3s 7s]
+alralr20 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [9d 3s 7s] [6c]
+alralr20 : mise. 60
+psychoman59 : suit. 60
+*** RIVIÈRE *** [9d 3s 7s 6c] [9h]
+alralr20 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+alralr20 : montre [6d Qh] (double paire, Neuf et Six)
+psychoman59 : cache la main perdante. 
+alralr20 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [9d 3s 7s 6c 9h]
+Siège 1 : Doglamers (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : alralr20 (petite blind) a montré [6d Qh] et a gagné (240) avec double paire, Neuf et Six
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [8c 4s]
+
+
+
+Main PokerStars n°260942837575 : Tournoi #4003680851, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 27/05/2026 7:11:33 CET [27/05/2026 1:11:33 ET]
+Table '4003680851 1' 3-max Siège #2 est au bouton.
+Place 1: Doglamers (230 en jetons) 
+Place 2: alralr20 (1065 en jetons) 
+Place 3: psychoman59 (205 en jetons) 
+psychoman59 : met la petite blind. 30
+Doglamers : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 7d]
+alralr20 : relance. 60 à 120
+psychoman59 : relance. 85 à 205 et est all-in.
+Doglamers : passe. 
+alralr20 : suit. 85
+*** FLOP *** [3c 9c Qc]
+*** TOURNANT *** [3c 9c Qc] [7c]
+*** RIVIÈRE *** [3c 9c Qc 7c] [Kc]
+*** ABATTAGE ***
+psychoman59 : montre [7s 7d] (une couleur, hauteur Roi)
+alralr20 : montre [3d Ad] (une couleur, hauteur Roi)
+psychoman59 a remporté 235  lors du pot .
+alralr20 a remporté 235  lors du pot .
+*** SYNTHÈSE ***
+Pot total 470 | Commission 0 
+Tableau [3c 9c Qc 7c Kc]
+Siège 1 : Doglamers (grosse blind) s'est couché. avant Flop
+Siège 2 : alralr20 (bouton) a montré [3d Ad] et a gagné (235) avec une couleur, hauteur Roi
+Siège 3 : psychoman59 (petite blind) a montré [7s 7d] et a gagné (235) avec une couleur, hauteur Roi
+
+
+
+Main PokerStars n°260942838717 : Tournoi #4003680851, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 27/05/2026 7:11:54 CET [27/05/2026 1:11:54 ET]
+Table '4003680851 1' 3-max Siège #3 est au bouton.
+Place 1: Doglamers (170 en jetons) 
+Place 2: alralr20 (1095 en jetons) 
+Place 3: psychoman59 (235 en jetons) 
+Doglamers : met la petite blind. 30
+alralr20 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Js]
+psychoman59 : relance. 175 à 235 et est all-in.
+Doglamers : suit. 140 et est all-in.
+alralr20 : passe. 
+Personne n'a suivi. (65) sont retournés à psychoman59.
+*** FLOP *** [Kh 6d Qh]
+*** TOURNANT *** [Kh 6d Qh] [9d]
+*** RIVIÈRE *** [Kh 6d Qh 9d] [7d]
+*** ABATTAGE ***
+Doglamers : montre [8h Kd] (une paire de Rois)
+psychoman59 : montre [Qc Js] (une paire de Dames)
+Doglamers a remporté 400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [Kh 6d Qh 9d 7d]
+Siège 1 : Doglamers (petite blind) a montré [8h Kd] et a gagné (400) avec une paire de Rois
+Siège 2 : alralr20 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a montré [Qc Js] et a perdu avec une paire de Dames
+
+
+
+Main PokerStars n°260942839733 : Tournoi #4003680851, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 27/05/2026 7:12:12 CET [27/05/2026 1:12:12 ET]
+Table '4003680851 1' 3-max Siège #1 est au bouton.
+Place 1: Doglamers (400 en jetons) 
+Place 2: alralr20 (1035 en jetons) 
+Place 3: psychoman59 (65 en jetons) 
+alralr20 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Tc]
+Doglamers : suit. 60
+alralr20 : suit. 30
+psychoman59 : relance. 5 à 65 et est all-in.
+Doglamers : suit. 5
+alralr20 : suit. 5
+*** FLOP *** [2d 8h 7h]
+alralr20 : parole 
+Doglamers : parole 
+*** TOURNANT *** [2d 8h 7h] [3d]
+alralr20 : parole 
+Doglamers : parole 
+*** RIVIÈRE *** [2d 8h 7h 3d] [9h]
+alralr20 : parole 
+Doglamers : parole 
+*** ABATTAGE ***
+alralr20 : montre [Js Kh] (Hauteur Roi)
+psychoman59 : cache la main perdante. 
+Doglamers : montre [As 6c] (Hauteur As)
+Doglamers a remporté 195  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 195 | Commission 0 
+Tableau [2d 8h 7h 3d 9h]
+Siège 1 : Doglamers (bouton) a montré [As 6c] et a gagné (195) avec Hauteur As
+Siège 2 : alralr20 (petite blind) a montré [Js Kh] et a perdu avec Hauteur Roi
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [Qc Tc]
+
+
+

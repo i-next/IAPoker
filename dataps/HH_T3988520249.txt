@@ -1,0 +1,87 @@
+﻿Main PokerStars n°260313952657 : Tournoi #3988520249, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 02/04/2026 7:59:16 CET [02/04/2026 1:59:16 ET]
+Table '3988520249 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: cuxarro (500 en jetons) 
+Place 3: foxy699 (500 en jetons) 
+cuxarro : met la petite blind. 10
+foxy699 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Th]
+psychoman59 : passe. 
+cuxarro : relance. 480 à 500 et est all-in.
+foxy699 : passe. 
+Personne n'a suivi. (480) sont retournés à cuxarro.
+cuxarro a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : cuxarro (petite blind) a remporté (40)
+Siège 3 : foxy699 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260313953027 : Tournoi #3988520249, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 02/04/2026 7:59:24 CET [02/04/2026 1:59:24 ET]
+Table '3988520249 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: cuxarro (520 en jetons) 
+Place 3: foxy699 (480 en jetons) 
+foxy699 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 2c]
+cuxarro : passe. 
+foxy699 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Kh 9h 4h]
+foxy699 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Kh 9h 4h] [2s]
+foxy699 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à foxy699.
+foxy699 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Kh 9h 4h 2s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : cuxarro (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : foxy699 (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°260313953799 : Tournoi #3988520249, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 02/04/2026 7:59:39 CET [02/04/2026 1:59:39 ET]
+Table '3988520249 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (480 en jetons) 
+Place 2: cuxarro (520 en jetons) 
+Place 3: foxy699 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+cuxarro : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Ah]
+foxy699 : suit. 20
+psychoman59 : relance. 40 à 60
+cuxarro : passe. 
+foxy699 : suit. 40
+*** FLOP *** [7d 6c 5s]
+psychoman59 : mise. 70
+foxy699 : suit. 70
+*** TOURNANT *** [7d 6c 5s] [2h]
+psychoman59 : mise. 140
+foxy699 : suit. 140
+*** RIVIÈRE *** [7d 6c 5s 2h] [2d]
+psychoman59 : mise. 210 et est all-in.
+foxy699 : suit. 210
+*** ABATTAGE ***
+psychoman59 : montre [Jh Ah] (une paire de Deux)
+foxy699 : montre [5h Kc] (double paire, Cinq et Deux)
+foxy699 a remporté 980  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 980 | Commission 0 
+Tableau [7d 6c 5s 2h 2d]
+Siège 1 : psychoman59 (petite blind) a montré [Jh Ah] et a perdu avec une paire de Deux
+Siège 2 : cuxarro (grosse blind) s'est couché. avant Flop
+Siège 3 : foxy699 (bouton) a montré [5h Kc] et a gagné (980) avec double paire, Cinq et Deux
+
+
+

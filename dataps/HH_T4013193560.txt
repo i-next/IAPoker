@@ -1,0 +1,265 @@
+﻿Main PokerStars n°261323164466 : Tournoi #4013193560, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 03/07/2026 11:53:11 CET [03/07/2026 5:53:11 ET]
+Table '4013193560 1' 3-max Siège #1 est au bouton.
+Place 1: TheFenicio (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: Quesa1313 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+Quesa1313 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Kh]
+TheFenicio : suit. 20
+psychoman59 : suit. 10
+Quesa1313 : relance. 20 à 40
+TheFenicio : suit. 20
+psychoman59 : suit. 20
+*** FLOP *** [4d 9s 6s]
+psychoman59 : parole 
+Quesa1313 : parole 
+TheFenicio : mise. 120
+psychoman59 : passe. 
+Quesa1313 : passe. 
+Personne n'a suivi. (120) sont retournés à TheFenicio.
+TheFenicio a remporté 120  lors du pot .
+TheFenicio : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [4d 9s 6s]
+Siège 1 : TheFenicio (bouton) a remporté (120)
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 3 : Quesa1313 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261323165822 : Tournoi #4013193560, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 03/07/2026 11:53:29 CET [03/07/2026 5:53:29 ET]
+Table '4013193560 1' 3-max Siège #2 est au bouton.
+Place 1: TheFenicio (580 en jetons) 
+Place 2: psychoman59 (460 en jetons) 
+Place 3: Quesa1313 (460 en jetons) 
+Quesa1313 : met la petite blind. 10
+TheFenicio : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Kc]
+psychoman59 : suit. 20
+Quesa1313 : relance. 40 à 60
+TheFenicio : suit. 40
+psychoman59 : passe. 
+*** FLOP *** [2c 3c 2s]
+Quesa1313 : parole 
+TheFenicio : parole 
+*** TOURNANT *** [2c 3c 2s] [3s]
+Quesa1313 : parole 
+TheFenicio : mise. 20
+Quesa1313 : suit. 20
+*** RIVIÈRE *** [2c 3c 2s 3s] [Qh]
+Quesa1313 : mise. 380 et est all-in.
+TheFenicio : passe. 
+Personne n'a suivi. (380) sont retournés à Quesa1313.
+Quesa1313 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [2c 3c 2s 3s Qh]
+Siège 1 : TheFenicio (grosse blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 3 : Quesa1313 (petite blind) a remporté (180)
+
+
+
+Main PokerStars n°261323168013 : Tournoi #4013193560, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 03/07/2026 11:53:58 CET [03/07/2026 5:53:58 ET]
+Table '4013193560 1' 3-max Siège #3 est au bouton.
+Place 1: TheFenicio (500 en jetons) 
+Place 2: psychoman59 (440 en jetons) 
+Place 3: Quesa1313 (560 en jetons) 
+TheFenicio : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 5d]
+Quesa1313 : relance. 540 à 560 et est all-in.
+TheFenicio : passe. 
+psychoman59 : suit. 420 et est all-in.
+Personne n'a suivi. (120) sont retournés à Quesa1313.
+*** FLOP *** [7c 8d As]
+*** TOURNANT *** [7c 8d As] [4s]
+*** RIVIÈRE *** [7c 8d As 4s] [Jc]
+*** ABATTAGE ***
+psychoman59 : montre [5h 5d] (une paire de Cinq)
+Quesa1313 : montre [2c 2h] (une paire de Deux)
+psychoman59 a remporté 890  lors du pot .
+*** SYNTHÈSE ***
+Pot total 890 | Commission 0 
+Tableau [7c 8d As 4s Jc]
+Siège 1 : TheFenicio (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a montré [5h 5d] et a gagné (890) avec une paire de Cinq
+Siège 3 : Quesa1313 (bouton) a montré [2c 2h] et a perdu avec une paire de Deux
+
+
+
+Main PokerStars n°261323169104 : Tournoi #4013193560, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 03/07/2026 11:54:13 CET [03/07/2026 5:54:13 ET]
+Table '4013193560 1' 3-max Siège #1 est au bouton.
+Place 1: TheFenicio (490 en jetons) 
+Place 2: psychoman59 (890 en jetons) 
+Place 3: Quesa1313 (120 en jetons) 
+psychoman59 : met la petite blind. 10
+Quesa1313 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Ah]
+TheFenicio : suit. 20
+psychoman59 : suit. 10
+Quesa1313 : relance. 100 à 120 et est all-in.
+TheFenicio : relance. 100 à 220
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à TheFenicio.
+*** FLOP *** [As Jd 2c]
+*** TOURNANT *** [As Jd 2c] [3d]
+*** RIVIÈRE *** [As Jd 2c 3d] [9d]
+*** ABATTAGE ***
+Quesa1313 : montre [3c 5d] (une paire de Trois)
+TheFenicio : montre [7h 8d] (Hauteur As)
+Quesa1313 a remporté 260  lors du pot .
+*** SYNTHÈSE ***
+Pot total 260 | Commission 0 
+Tableau [As Jd 2c 3d 9d]
+Siège 1 : TheFenicio (bouton) a montré [7h 8d] et a perdu avec Hauteur As
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Quesa1313 (grosse blind) a montré [3c 5d] et a gagné (260) avec une paire de Trois
+
+
+
+Main PokerStars n°261323170480 : Tournoi #4013193560, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 03/07/2026 11:54:31 CET [03/07/2026 5:54:31 ET]
+Table '4013193560 1' 3-max Siège #2 est au bouton.
+Place 1: TheFenicio (370 en jetons) 
+Place 2: psychoman59 (870 en jetons) 
+Place 3: Quesa1313 (260 en jetons) 
+Quesa1313 : met la petite blind. 10
+TheFenicio : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Jh]
+psychoman59 : suit. 20
+Quesa1313 : suit. 10
+TheFenicio : parole 
+*** FLOP *** [8c Ac 7d]
+Quesa1313 : parole 
+TheFenicio : parole 
+psychoman59 : mise. 30
+Quesa1313 : passe. 
+TheFenicio : suit. 30
+*** TOURNANT *** [8c Ac 7d] [Jc]
+TheFenicio : parole 
+psychoman59 : mise. 60
+TheFenicio : suit. 60
+*** RIVIÈRE *** [8c Ac 7d Jc] [7c]
+TheFenicio : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+TheFenicio : montre [Kc 9s] (une couleur, hauteur As)
+psychoman59 : cache la main perdante. 
+TheFenicio a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [8c Ac 7d Jc 7c]
+Siège 1 : TheFenicio (grosse blind) a montré [Kc 9s] et a gagné (240) avec une couleur, hauteur As
+Siège 2 : psychoman59 (bouton) a caché la main perdante. [Qd Jh]
+Siège 3 : Quesa1313 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261323172554 : Tournoi #4013193560, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 03/07/2026 11:54:59 CET [03/07/2026 5:54:59 ET]
+Table '4013193560 1' 3-max Siège #3 est au bouton.
+Place 1: TheFenicio (500 en jetons) 
+Place 2: psychoman59 (760 en jetons) 
+Place 3: Quesa1313 (240 en jetons) 
+TheFenicio : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 6s]
+Quesa1313 : relance. 220 à 240 et est all-in.
+TheFenicio : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (220) sont retournés à Quesa1313.
+Quesa1313 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : TheFenicio (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : Quesa1313 (bouton) a remporté (50)
+
+
+
+Main PokerStars n°261323173272 : Tournoi #4013193560, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 03/07/2026 11:55:09 CET [03/07/2026 5:55:09 ET]
+Table '4013193560 1' 3-max Siège #1 est au bouton.
+Place 1: TheFenicio (490 en jetons) 
+Place 2: psychoman59 (740 en jetons) 
+Place 3: Quesa1313 (270 en jetons) 
+psychoman59 : met la petite blind. 10
+Quesa1313 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 5h]
+TheFenicio : suit. 20
+psychoman59 : relance. 720 à 740 et est all-in.
+Quesa1313 : passe. 
+TheFenicio : suit. 470 et est all-in.
+Personne n'a suivi. (250) sont retournés à psychoman59.
+*** FLOP *** [6h Ks 8d]
+*** TOURNANT *** [6h Ks 8d] [4s]
+*** RIVIÈRE *** [6h Ks 8d 4s] [7c]
+*** ABATTAGE ***
+psychoman59 : montre [5c 5h] (une suite, Quatre à Huit)
+TheFenicio : montre [4c 4h] (un brelan de Quatre)
+psychoman59 a remporté 1000  lors du pot .
+TheFenicio a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 1000 | Commission 0 
+Tableau [6h Ks 8d 4s 7c]
+Siège 1 : TheFenicio (bouton) a montré [4c 4h] et a perdu avec un brelan de Quatre
+Siège 2 : psychoman59 (petite blind) a montré [5c 5h] et a gagné (1000) avec une suite, Quatre à Huit
+Siège 3 : Quesa1313 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261323174823 : Tournoi #4013193560, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 03/07/2026 11:55:33 CET [03/07/2026 5:55:33 ET]
+Table '4013193560 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1250 en jetons) 
+Place 3: Quesa1313 (250 en jetons) 
+Quesa1313 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Th]
+Quesa1313 : relance. 230 à 250 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (230) sont retournés à Quesa1313.
+Quesa1313 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : Quesa1313 (bouton) (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°261323175236 : Tournoi #4013193560, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 03/07/2026 11:55:40 CET [03/07/2026 5:55:40 ET]
+Table '4013193560 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1230 en jetons) 
+Place 3: Quesa1313 (270 en jetons) 
+psychoman59 : met la petite blind. 10
+Quesa1313 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Kc]
+psychoman59 : suit. 10
+Quesa1313 : parole 
+*** FLOP *** [7h 7c Ts]
+Quesa1313 : mise. 250 et est all-in.
+psychoman59 : suit. 250
+*** TOURNANT *** [7h 7c Ts] [Ad]
+*** RIVIÈRE *** [7h 7c Ts Ad] [7s]
+*** ABATTAGE ***
+Quesa1313 : montre [9h 8s] (un brelan de Sept)
+psychoman59 : montre [7d Kc] (un carré de Sept)
+psychoman59 a remporté 540  lors du pot .
+Quesa1313 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [7h 7c Ts Ad 7s]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [7d Kc] et a gagné (540) avec un carré de Sept
+Siège 3 : Quesa1313 (grosse blind) a montré [9h 8s] et a perdu avec un brelan de Sept
+
+
+

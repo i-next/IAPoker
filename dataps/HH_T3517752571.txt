@@ -1,0 +1,435 @@
+﻿Main PokerStars n°240554476939 : Tournoi #3517752571, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/12/2022 11:46:19 CET [19/12/2022 5:46:19 ET]
+Table '3517752571 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Porkoipa (300 en jetons) 
+Place 3: Barbushove (300 en jetons) 
+Porkoipa : met la petite blind. 10
+Barbushove : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 2s]
+psychoman59 : passe. 
+Porkoipa : suit. 10
+Barbushove : parole 
+*** FLOP *** [6s 8c 2h]
+Porkoipa : mise. 280 et est all-in.
+Barbushove : suit. 280 et est all-in.
+*** TOURNANT *** [6s 8c 2h] [Th]
+*** RIVIÈRE *** [6s 8c 2h Th] [9h]
+*** ABATTAGE ***
+Porkoipa : montre [5s 8h] (une paire de Huit)
+Barbushove : montre [6c 2d] (double paire, Six et Deux)
+Barbushove a remporté 600  lors du pot .
+Porkoipa a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [6s 8c 2h Th 9h]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Porkoipa (petite blind) a montré [5s 8h] et a perdu avec une paire de Huit
+Siège 3 : Barbushove (grosse blind) a montré [6c 2d] et a gagné (600) avec double paire, Six et Deux
+
+
+
+Main PokerStars n°240554483542 : Tournoi #3517752571, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/12/2022 11:47:04 CET [19/12/2022 5:47:04 ET]
+Table '3517752571 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 3: Barbushove (600 en jetons) 
+Barbushove : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Qd]
+Barbushove : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (20)
+Siège 3 : Barbushove (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240554484228 : Tournoi #3517752571, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/12/2022 11:47:09 CET [19/12/2022 5:47:09 ET]
+Table '3517752571 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (310 en jetons) 
+Place 3: Barbushove (590 en jetons) 
+psychoman59 : met la petite blind. 10
+Barbushove : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Qd]
+psychoman59 : suit. 10
+Barbushove : parole 
+*** FLOP *** [5c 4s 5s]
+Barbushove : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5c 4s 5s] [Ad]
+Barbushove : parole 
+psychoman59 : mise. 40
+Barbushove : suit. 40
+*** RIVIÈRE *** [5c 4s 5s Ad] [4h]
+Barbushove : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Barbushove : montre [3s 4d] (un full, full aux Quatre par les Cinq)
+psychoman59 : cache la main perdante. 
+Barbushove a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [5c 4s 5s Ad 4h]
+Siège 1 : psychoman59 (bouton) (petite blind) a caché la main perdante. [9s Qd]
+Siège 3 : Barbushove (grosse blind) a montré [3s 4d] et a gagné (120) avec un full, full aux Quatre par les Cinq
+
+
+
+Main PokerStars n°240554487913 : Tournoi #3517752571, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/12/2022 11:47:34 CET [19/12/2022 5:47:34 ET]
+Table '3517752571 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (250 en jetons) 
+Place 3: Barbushove (650 en jetons) 
+Barbushove : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Qh]
+Barbushove : relance. 620 à 650 et est all-in.
+psychoman59 : suit. 220 et est all-in.
+Personne n'a suivi. (400) sont retournés à Barbushove.
+*** FLOP *** [2h 2d Ks]
+*** TOURNANT *** [2h 2d Ks] [9s]
+*** RIVIÈRE *** [2h 2d Ks 9s] [8c]
+*** ABATTAGE ***
+psychoman59 : montre [Kh Qh] (double paire, Rois et Deux)
+Barbushove : montre [As 6d] (une paire de Deux)
+psychoman59 a remporté 500  lors du pot .
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Tableau [2h 2d Ks 9s 8c]
+Siège 1 : psychoman59 (grosse blind) a montré [Kh Qh] et a gagné (500) avec double paire, Rois et Deux
+Siège 3 : Barbushove (bouton) (petite blind) a montré [As 6d] et a perdu avec une paire de Deux
+
+
+
+Main PokerStars n°240554490392 : Tournoi #3517752571, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/12/2022 11:47:50 CET [19/12/2022 5:47:50 ET]
+Table '3517752571 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 3: Barbushove (400 en jetons) 
+psychoman59 : met la petite blind. 15
+Barbushove : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Th]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à Barbushove.
+Barbushove a remporté 30  lors du pot .
+Barbushove : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Barbushove (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°240554491080 : Tournoi #3517752571, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/12/2022 11:47:55 CET [19/12/2022 5:47:55 ET]
+Table '3517752571 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (485 en jetons) 
+Place 3: Barbushove (415 en jetons) 
+Barbushove : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 3c]
+Barbushove : relance. 385 à 415 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (385) sont retournés à Barbushove.
+Barbushove a remporté 60  lors du pot .
+Barbushove : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : Barbushove (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°240554492231 : Tournoi #3517752571, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/12/2022 11:48:03 CET [19/12/2022 5:48:03 ET]
+Table '3517752571 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (455 en jetons) 
+Place 3: Barbushove (445 en jetons) 
+psychoman59 : met la petite blind. 15
+Barbushove : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Js]
+psychoman59 : relance. 425 à 455 et est all-in.
+Barbushove : passe. 
+Personne n'a suivi. (425) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 3 : Barbushove (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240554493263 : Tournoi #3517752571, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/12/2022 11:48:10 CET [19/12/2022 5:48:10 ET]
+Table '3517752571 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (485 en jetons) 
+Place 3: Barbushove (415 en jetons) 
+Barbushove : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 5d]
+Barbushove : relance. 385 à 415 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (385) sont retournés à Barbushove.
+Barbushove a remporté 60  lors du pot .
+Barbushove : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : Barbushove (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°240554495361 : Tournoi #3517752571, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/12/2022 11:48:24 CET [19/12/2022 5:48:24 ET]
+Table '3517752571 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (455 en jetons) 
+Place 3: Barbushove (445 en jetons) 
+psychoman59 : met la petite blind. 20
+Barbushove : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Ah]
+psychoman59 : relance. 415 à 455 et est all-in.
+Barbushove : passe. 
+Personne n'a suivi. (415) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 3 : Barbushove (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240554496512 : Tournoi #3517752571, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/12/2022 11:48:32 CET [19/12/2022 5:48:32 ET]
+Table '3517752571 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (495 en jetons) 
+Place 3: Barbushove (405 en jetons) 
+Barbushove : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Ad]
+Barbushove : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : Barbushove (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240554497276 : Tournoi #3517752571, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/12/2022 11:48:37 CET [19/12/2022 5:48:37 ET]
+Table '3517752571 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (515 en jetons) 
+Place 3: Barbushove (385 en jetons) 
+psychoman59 : met la petite blind. 20
+Barbushove : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Ad]
+psychoman59 : relance. 475 à 515 et est all-in.
+Barbushove : passe. 
+Personne n'a suivi. (475) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 3 : Barbushove (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240554498254 : Tournoi #3517752571, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/12/2022 11:48:43 CET [19/12/2022 5:48:43 ET]
+Table '3517752571 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (555 en jetons) 
+Place 3: Barbushove (345 en jetons) 
+Barbushove : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 7c]
+Barbushove : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : Barbushove (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240554499116 : Tournoi #3517752571, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/12/2022 11:48:49 CET [19/12/2022 5:48:49 ET]
+Table '3517752571 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (575 en jetons) 
+Place 3: Barbushove (325 en jetons) 
+psychoman59 : met la petite blind. 20
+Barbushove : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 6d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Barbushove.
+Barbushove a remporté 40  lors du pot .
+Barbushove : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Barbushove (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°240554499766 : Tournoi #3517752571, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/12/2022 11:48:53 CET [19/12/2022 5:48:53 ET]
+Table '3517752571 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (555 en jetons) 
+Place 3: Barbushove (345 en jetons) 
+Barbushove : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 5h]
+Barbushove : relance. 305 à 345 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (305) sont retournés à Barbushove.
+Barbushove a remporté 80  lors du pot .
+Barbushove : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : Barbushove (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°240554500909 : Tournoi #3517752571, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/12/2022 11:49:01 CET [19/12/2022 5:49:01 ET]
+Table '3517752571 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (515 en jetons) 
+Place 3: Barbushove (385 en jetons) 
+psychoman59 : met la petite blind. 20
+Barbushove : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Tc]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Barbushove.
+Barbushove a remporté 40  lors du pot .
+Barbushove : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Barbushove (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°240554501637 : Tournoi #3517752571, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/12/2022 11:49:06 CET [19/12/2022 5:49:06 ET]
+Table '3517752571 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (495 en jetons) 
+Place 3: Barbushove (405 en jetons) 
+Barbushove : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Qs]
+Barbushove : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : Barbushove (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240554502289 : Tournoi #3517752571, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/12/2022 11:49:10 CET [19/12/2022 5:49:10 ET]
+Table '3517752571 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (515 en jetons) 
+Place 3: Barbushove (385 en jetons) 
+psychoman59 : met la petite blind. 20
+Barbushove : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 9c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Barbushove.
+Barbushove a remporté 40  lors du pot .
+Barbushove : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Barbushove (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°240554503047 : Tournoi #3517752571, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/12/2022 11:49:15 CET [19/12/2022 5:49:15 ET]
+Table '3517752571 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (495 en jetons) 
+Place 3: Barbushove (405 en jetons) 
+Barbushove : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 2h]
+Barbushove : relance. 365 à 405 et est all-in.
+psychoman59 : suit. 365
+*** FLOP *** [Jd 7h Td]
+*** TOURNANT *** [Jd 7h Td] [Qc]
+*** RIVIÈRE *** [Jd 7h Td Qc] [5s]
+*** ABATTAGE ***
+psychoman59 : montre [2c 2h] (une paire de Deux)
+Barbushove : montre [5c As] (une paire de Cinq)
+Barbushove a remporté 810  lors du pot .
+*** SYNTHÈSE ***
+Pot total 810 | Commission 0 
+Tableau [Jd 7h Td Qc 5s]
+Siège 1 : psychoman59 (grosse blind) a montré [2c 2h] et a perdu avec une paire de Deux
+Siège 3 : Barbushove (bouton) (petite blind) a montré [5c As] et a gagné (810) avec une paire de Cinq
+
+
+
+Main PokerStars n°240554505911 : Tournoi #3517752571, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 19/12/2022 11:49:34 CET [19/12/2022 5:49:34 ET]
+Table '3517752571 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (90 en jetons) 
+Place 3: Barbushove (810 en jetons) 
+psychoman59 : met la petite blind. 30
+Barbushove : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 6s]
+psychoman59 : relance. 30 à 90 et est all-in.
+Barbushove : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 3 : Barbushove (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240554506847 : Tournoi #3517752571, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 19/12/2022 11:49:40 CET [19/12/2022 5:49:40 ET]
+Table '3517752571 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (150 en jetons) 
+Place 3: Barbushove (750 en jetons) 
+Barbushove : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 9s]
+Barbushove : suit. 30
+psychoman59 : parole 
+*** FLOP *** [7s 9h Th]
+psychoman59 : mise. 90 et est all-in.
+Barbushove : suit. 90
+*** TOURNANT *** [7s 9h Th] [Qc]
+*** RIVIÈRE *** [7s 9h Th Qc] [4s]
+*** ABATTAGE ***
+psychoman59 : montre [5d 9s] (une paire de Neuf)
+Barbushove : montre [Qd Qh] (un brelan de Dames)
+Barbushove a remporté 300  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+Barbushove remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [7s 9h Th Qc 4s]
+Siège 1 : psychoman59 (grosse blind) a montré [5d 9s] et a perdu avec une paire de Neuf
+Siège 3 : Barbushove (bouton) (petite blind) a montré [Qd Qh] et a gagné (300) avec un brelan de Dames
+
+
+

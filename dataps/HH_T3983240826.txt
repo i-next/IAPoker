@@ -1,0 +1,653 @@
+﻿Main PokerStars n°260081802729 : Tournoi #3983240826, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 14/03/2026 7:57:43 CET [14/03/2026 2:57:43 ET]
+Table '3983240826 1' 3-max Siège #1 est au bouton.
+Place 1: Rebecavc91 (500 en jetons) 
+Place 2: Manbrow (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+Manbrow : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 3s]
+Rebecavc91 : suit. 20
+Manbrow : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Ks 3c Tc]
+Manbrow : parole 
+psychoman59 : parole 
+Rebecavc91 : parole 
+*** TOURNANT *** [Ks 3c Tc] [6c]
+Manbrow : parole 
+psychoman59 : parole 
+Rebecavc91 : mise. 20
+Manbrow : suit. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [Ks 3c Tc 6c] [2h]
+Manbrow : parole 
+psychoman59 : mise. 60
+Rebecavc91 : suit. 60
+Manbrow : suit. 60
+*** ABATTAGE ***
+psychoman59 : montre [6h 3s] (double paire, Six et Trois)
+Rebecavc91 : cache la main perdante. 
+Manbrow : montre [Kh Td] (double paire, Rois et Dix)
+Manbrow a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [Ks 3c Tc 6c 2h]
+Siège 1 : Rebecavc91 (bouton) a caché la main perdante. [6s 5c]
+Siège 2 : Manbrow (petite blind) a montré [Kh Td] et a gagné (300) avec double paire, Rois et Dix
+Siège 3 : psychoman59 (grosse blind) a montré [6h 3s] et a perdu avec double paire, Six et Trois
+
+
+
+Main PokerStars n°260081804514 : Tournoi #3983240826, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 14/03/2026 7:58:17 CET [14/03/2026 2:58:17 ET]
+Table '3983240826 1' 3-max Siège #2 est au bouton.
+Place 1: Rebecavc91 (400 en jetons) 
+Place 2: Manbrow (700 en jetons) 
+Place 3: psychoman59 (400 en jetons) 
+psychoman59 : met la petite blind. 10
+Rebecavc91 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Th]
+Manbrow : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à Rebecavc91.
+Rebecavc91 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : Rebecavc91 (grosse blind) a remporté (20)
+Siège 2 : Manbrow (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260081805075 : Tournoi #3983240826, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 14/03/2026 7:58:27 CET [14/03/2026 2:58:27 ET]
+Table '3983240826 1' 3-max Siège #3 est au bouton.
+Place 1: Rebecavc91 (410 en jetons) 
+Place 2: Manbrow (700 en jetons) 
+Place 3: psychoman59 (390 en jetons) 
+Rebecavc91 : met la petite blind. 10
+Manbrow : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d As]
+psychoman59 : suit. 20
+Rebecavc91 : suit. 10
+Manbrow : parole 
+*** FLOP *** [8d Jd Qs]
+Rebecavc91 : mise. 20
+Manbrow : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Rebecavc91.
+Rebecavc91 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [8d Jd Qs]
+Siège 1 : Rebecavc91 (petite blind) a remporté (60)
+Siège 2 : Manbrow (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°260081805783 : Tournoi #3983240826, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 14/03/2026 7:58:40 CET [14/03/2026 2:58:40 ET]
+Table '3983240826 1' 3-max Siège #1 est au bouton.
+Place 1: Rebecavc91 (450 en jetons) 
+Place 2: Manbrow (680 en jetons) 
+Place 3: psychoman59 (370 en jetons) 
+Manbrow : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 4s]
+Rebecavc91 : suit. 20
+Manbrow : suit. 10
+psychoman59 : parole 
+*** FLOP *** [4d Qc 8c]
+Manbrow : parole 
+psychoman59 : parole 
+Rebecavc91 : parole 
+*** TOURNANT *** [4d Qc 8c] [Ac]
+Manbrow : parole 
+psychoman59 : parole 
+Rebecavc91 : parole 
+*** RIVIÈRE *** [4d Qc 8c Ac] [Qd]
+Manbrow : parole 
+psychoman59 : parole 
+Rebecavc91 : parole 
+*** ABATTAGE ***
+Manbrow : montre [Jd 9s] (une paire de Dames)
+psychoman59 : montre [9h 4s] (double paire, Dames et Quatre)
+Rebecavc91 : cache la main perdante. 
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [4d Qc 8c Ac Qd]
+Siège 1 : Rebecavc91 (bouton) a caché la main perdante. [Jh 2s]
+Siège 2 : Manbrow (petite blind) a montré [Jd 9s] et a perdu avec une paire de Dames
+Siège 3 : psychoman59 (grosse blind) a montré [9h 4s] et a gagné (60) avec double paire, Dames et Quatre
+
+
+
+Main PokerStars n°260081807234 : Tournoi #3983240826, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 14/03/2026 7:59:07 CET [14/03/2026 2:59:07 ET]
+Table '3983240826 1' 3-max Siège #2 est au bouton.
+Place 1: Rebecavc91 (430 en jetons) 
+Place 2: Manbrow (660 en jetons) 
+Place 3: psychoman59 (410 en jetons) 
+psychoman59 : met la petite blind. 10
+Rebecavc91 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 3s]
+Manbrow : suit. 20
+psychoman59 : passe. 
+Rebecavc91 : parole 
+*** FLOP *** [Jh Jc Ks]
+Rebecavc91 : parole 
+Manbrow : parole 
+*** TOURNANT *** [Jh Jc Ks] [9h]
+Rebecavc91 : parole 
+Manbrow : parole 
+*** RIVIÈRE *** [Jh Jc Ks 9h] [6h]
+Rebecavc91 : mise. 100
+Manbrow : passe. 
+Personne n'a suivi. (100) sont retournés à Rebecavc91.
+Rebecavc91 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [Jh Jc Ks 9h 6h]
+Siège 1 : Rebecavc91 (grosse blind) a remporté (50)
+Siège 2 : Manbrow (bouton) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260081808650 : Tournoi #3983240826, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 14/03/2026 7:59:32 CET [14/03/2026 2:59:32 ET]
+Table '3983240826 1' 3-max Siège #3 est au bouton.
+Place 1: Rebecavc91 (460 en jetons) 
+Place 2: Manbrow (640 en jetons) 
+Place 3: psychoman59 (400 en jetons) 
+Rebecavc91 : met la petite blind. 10
+Manbrow : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Kh]
+psychoman59 : suit. 20
+Rebecavc91 : suit. 10
+Manbrow : parole 
+*** FLOP *** [4h Ks 9s]
+Rebecavc91 : mise. 20
+Manbrow : suit. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [4h Ks 9s] [7c]
+Rebecavc91 : mise. 40
+Manbrow : suit. 40
+psychoman59 : suit. 40
+*** RIVIÈRE *** [4h Ks 9s 7c] [Th]
+Rebecavc91 : parole 
+Manbrow : mise. 40
+psychoman59 : suit. 40
+Rebecavc91 : suit. 40
+*** ABATTAGE ***
+Manbrow : montre [Jd Js] (une paire de Valets)
+psychoman59 : montre [Qd Kh] (une paire de Rois)
+Rebecavc91 : montre [Kd Ah] (une paire de Rois - As kicker)
+Rebecavc91 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [4h Ks 9s 7c Th]
+Siège 1 : Rebecavc91 (petite blind) a montré [Kd Ah] et a gagné (360) avec une paire de Rois
+Siège 2 : Manbrow (grosse blind) a montré [Jd Js] et a perdu avec une paire de Valets
+Siège 3 : psychoman59 (bouton) a montré [Qd Kh] et a perdu avec une paire de Rois
+
+
+
+Main PokerStars n°260081810411 : Tournoi #3983240826, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 14/03/2026 8:00:06 CET [14/03/2026 3:00:06 ET]
+Table '3983240826 1' 3-max Siège #1 est au bouton.
+Place 1: Rebecavc91 (700 en jetons) 
+Place 2: Manbrow (520 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+Manbrow : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 8c]
+Rebecavc91 : suit. 30
+Manbrow : suit. 15
+psychoman59 : parole 
+*** FLOP *** [6d Qc 6c]
+Manbrow : parole 
+psychoman59 : parole 
+Rebecavc91 : mise. 30
+Manbrow : passe. 
+psychoman59 : suit. 30
+*** TOURNANT *** [6d Qc 6c] [8s]
+psychoman59 : parole 
+Rebecavc91 : mise. 30
+psychoman59 : suit. 30
+*** RIVIÈRE *** [6d Qc 6c 8s] [Ad]
+psychoman59 : parole 
+Rebecavc91 : mise. 90
+psychoman59 : passe. 
+Personne n'a suivi. (90) sont retournés à Rebecavc91.
+Rebecavc91 a remporté 210  lors du pot .
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Tableau [6d Qc 6c 8s Ad]
+Siège 1 : Rebecavc91 (bouton) a remporté (210)
+Siège 2 : Manbrow (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°260081812015 : Tournoi #3983240826, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 14/03/2026 8:00:35 CET [14/03/2026 3:00:35 ET]
+Table '3983240826 1' 3-max Siège #2 est au bouton.
+Place 1: Rebecavc91 (820 en jetons) 
+Place 2: Manbrow (490 en jetons) 
+Place 3: psychoman59 (190 en jetons) 
+psychoman59 : met la petite blind. 15
+Rebecavc91 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Td]
+Manbrow : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à Rebecavc91.
+Rebecavc91 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : Rebecavc91 (grosse blind) a remporté (30)
+Siège 2 : Manbrow (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260081812470 : Tournoi #3983240826, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 14/03/2026 8:00:43 CET [14/03/2026 3:00:43 ET]
+Table '3983240826 1' 3-max Siège #3 est au bouton.
+Place 1: Rebecavc91 (835 en jetons) 
+Place 2: Manbrow (490 en jetons) 
+Place 3: psychoman59 (175 en jetons) 
+Rebecavc91 : met la petite blind. 15
+Manbrow : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 5c]
+psychoman59 : relance. 145 à 175 et est all-in.
+Rebecavc91 : passe. 
+Manbrow : passe. 
+Personne n'a suivi. (145) sont retournés à psychoman59.
+psychoman59 a remporté 75  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : Rebecavc91 (petite blind) s'est couché. avant Flop
+Siège 2 : Manbrow (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a remporté (75)
+
+
+
+Main PokerStars n°260081813100 : Tournoi #3983240826, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 14/03/2026 8:00:53 CET [14/03/2026 3:00:53 ET]
+Table '3983240826 1' 3-max Siège #1 est au bouton.
+Place 1: Rebecavc91 (820 en jetons) 
+Place 2: Manbrow (460 en jetons) 
+Place 3: psychoman59 (220 en jetons) 
+Manbrow : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 4s]
+Rebecavc91 : suit. 30
+Manbrow : suit. 15
+psychoman59 : parole 
+*** FLOP *** [9s 2d 2s]
+Manbrow : parole 
+psychoman59 : parole 
+Rebecavc91 : parole 
+*** TOURNANT *** [9s 2d 2s] [5c]
+Manbrow : mise. 30
+psychoman59 : suit. 30
+Rebecavc91 : suit. 30
+*** RIVIÈRE *** [9s 2d 2s 5c] [9h]
+Manbrow : mise. 30
+psychoman59 : passe. 
+Rebecavc91 : suit. 30
+*** ABATTAGE ***
+Manbrow : montre [8c Qd] (double paire, Neuf et Deux)
+Rebecavc91 : montre [7h 7d] (double paire, Neuf et Sept)
+Rebecavc91 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [9s 2d 2s 5c 9h]
+Siège 1 : Rebecavc91 (bouton) a montré [7h 7d] et a gagné (240) avec double paire, Neuf et Sept
+Siège 2 : Manbrow (petite blind) a montré [8c Qd] et a perdu avec double paire, Neuf et Deux
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°260081814750 : Tournoi #3983240826, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 14/03/2026 8:01:19 CET [14/03/2026 3:01:19 ET]
+Table '3983240826 1' 3-max Siège #2 est au bouton.
+Place 1: Rebecavc91 (970 en jetons) 
+Place 2: Manbrow (370 en jetons) 
+Place 3: psychoman59 (160 en jetons) 
+psychoman59 : met la petite blind. 15
+Rebecavc91 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 8c]
+Manbrow : suit. 30
+psychoman59 : relance. 130 à 160 et est all-in.
+Rebecavc91 : passe. 
+Manbrow : passe. 
+Personne n'a suivi. (130) sont retournés à psychoman59.
+psychoman59 a remporté 90  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Siège 1 : Rebecavc91 (grosse blind) s'est couché. avant Flop
+Siège 2 : Manbrow (bouton) s'est couché. avant Flop
+Siège 3 : psychoman59 (petite blind) a remporté (90)
+
+
+
+Main PokerStars n°260081815804 : Tournoi #3983240826, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 14/03/2026 8:01:35 CET [14/03/2026 3:01:35 ET]
+Table '3983240826 1' 3-max Siège #3 est au bouton.
+Place 1: Rebecavc91 (940 en jetons) 
+Place 2: Manbrow (340 en jetons) 
+Place 3: psychoman59 (220 en jetons) 
+Rebecavc91 : met la petite blind. 15
+Manbrow : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Jd]
+psychoman59 : passe. 
+Rebecavc91 : suit. 15
+Manbrow : relance. 310 à 340 et est all-in.
+Rebecavc91 : passe. 
+Personne n'a suivi. (310) sont retournés à Manbrow.
+Manbrow a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Rebecavc91 (petite blind) s'est couché. avant Flop
+Siège 2 : Manbrow (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260081816628 : Tournoi #3983240826, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 14/03/2026 8:01:48 CET [14/03/2026 3:01:48 ET]
+Table '3983240826 1' 3-max Siège #1 est au bouton.
+Place 1: Rebecavc91 (910 en jetons) 
+Place 2: Manbrow (370 en jetons) 
+Place 3: psychoman59 (220 en jetons) 
+Manbrow : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Ad]
+Rebecavc91 : suit. 40
+Manbrow : passe. 
+psychoman59 : relance. 180 à 220 et est all-in.
+Rebecavc91 : suit. 180
+*** FLOP *** [4s 8s Js]
+*** TOURNANT *** [4s 8s Js] [Jd]
+*** RIVIÈRE *** [4s 8s Js Jd] [7c]
+*** ABATTAGE ***
+psychoman59 : montre [8h Ad] (double paire, Valets et Huit)
+Rebecavc91 : montre [Ah Qs] (une paire de Valets)
+psychoman59 a remporté 460  lors du pot .
+*** SYNTHÈSE ***
+Pot total 460 | Commission 0 
+Tableau [4s 8s Js Jd 7c]
+Siège 1 : Rebecavc91 (bouton) a montré [Ah Qs] et a perdu avec une paire de Valets
+Siège 2 : Manbrow (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [8h Ad] et a gagné (460) avec double paire, Valets et Huit
+
+
+
+Main PokerStars n°260081817662 : Tournoi #3983240826, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 14/03/2026 8:02:04 CET [14/03/2026 3:02:04 ET]
+Table '3983240826 1' 3-max Siège #2 est au bouton.
+Place 1: Rebecavc91 (690 en jetons) 
+Place 2: Manbrow (350 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+psychoman59 : met la petite blind. 20
+Rebecavc91 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh As]
+Manbrow : suit. 40
+psychoman59 : relance. 420 à 460 et est all-in.
+Rebecavc91 : passe. 
+Manbrow : passe. 
+Personne n'a suivi. (420) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : Rebecavc91 (grosse blind) s'est couché. avant Flop
+Siège 2 : Manbrow (bouton) s'est couché. avant Flop
+Siège 3 : psychoman59 (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°260081818371 : Tournoi #3983240826, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 14/03/2026 8:02:16 CET [14/03/2026 3:02:16 ET]
+Table '3983240826 1' 3-max Siège #3 est au bouton.
+Place 1: Rebecavc91 (650 en jetons) 
+Place 2: Manbrow (310 en jetons) 
+Place 3: psychoman59 (540 en jetons) 
+Rebecavc91 : met la petite blind. 20
+Manbrow : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 4d]
+psychoman59 : passe. 
+Rebecavc91 : suit. 20
+Manbrow : parole 
+*** FLOP *** [2c 7c Kd]
+Rebecavc91 : mise. 40
+Manbrow : passe. 
+Personne n'a suivi. (40) sont retournés à Rebecavc91.
+Rebecavc91 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [2c 7c Kd]
+Siège 1 : Rebecavc91 (petite blind) a remporté (80)
+Siège 2 : Manbrow (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260081819281 : Tournoi #3983240826, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 14/03/2026 8:02:29 CET [14/03/2026 3:02:29 ET]
+Table '3983240826 1' 3-max Siège #1 est au bouton.
+Place 1: Rebecavc91 (690 en jetons) 
+Place 2: Manbrow (270 en jetons) 
+Place 3: psychoman59 (540 en jetons) 
+Manbrow : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 9s]
+Rebecavc91 : suit. 40
+Manbrow : suit. 20
+psychoman59 : parole 
+*** FLOP *** [5h Ts 8h]
+Manbrow : parole 
+psychoman59 : parole 
+Rebecavc91 : parole 
+*** TOURNANT *** [5h Ts 8h] [Qc]
+Manbrow : parole 
+psychoman59 : parole 
+Rebecavc91 : parole 
+*** RIVIÈRE *** [5h Ts 8h Qc] [6d]
+Manbrow : parole 
+psychoman59 : parole 
+Rebecavc91 : mise. 40
+Manbrow : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Rebecavc91.
+Rebecavc91 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [5h Ts 8h Qc 6d]
+Siège 1 : Rebecavc91 (bouton) a remporté (120)
+Siège 2 : Manbrow (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°260081821193 : Tournoi #3983240826, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 14/03/2026 8:02:59 CET [14/03/2026 3:02:59 ET]
+Table '3983240826 1' 3-max Siège #2 est au bouton.
+Place 1: Rebecavc91 (770 en jetons) 
+Place 2: Manbrow (230 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+psychoman59 : met la petite blind. 20
+Rebecavc91 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 6s]
+Manbrow : suit. 40
+psychoman59 : passe. 
+Rebecavc91 : parole 
+*** FLOP *** [2s 2h Ah]
+Rebecavc91 : mise. 40
+Manbrow : suit. 40
+*** TOURNANT *** [2s 2h Ah] [6d]
+Rebecavc91 : parole 
+Manbrow : mise. 40
+Rebecavc91 : suit. 40
+*** RIVIÈRE *** [2s 2h Ah 6d] [7s]
+Rebecavc91 : parole 
+Manbrow : mise. 110 et est all-in.
+Rebecavc91 : suit. 110
+*** ABATTAGE ***
+Manbrow : montre [9s Ts] (une paire de Deux)
+Rebecavc91 : montre [4s 4c] (double paire, Quatre et Deux)
+Rebecavc91 a remporté 480  lors du pot .
+Manbrow a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [2s 2h Ah 6d 7s]
+Siège 1 : Rebecavc91 (grosse blind) a montré [4s 4c] et a gagné (480) avec double paire, Quatre et Deux
+Siège 2 : Manbrow (bouton) a montré [9s Ts] et a perdu avec une paire de Deux
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260081823028 : Tournoi #3983240826, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 14/03/2026 8:03:27 CET [14/03/2026 3:03:27 ET]
+Table '3983240826 1' 3-max Siège #1 est au bouton.
+Place 1: Rebecavc91 (1020 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+Rebecavc91 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 2h]
+Rebecavc91 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [9h Qh 5s]
+psychoman59 : parole 
+Rebecavc91 : parole 
+*** TOURNANT *** [9h Qh 5s] [7d]
+psychoman59 : parole 
+Rebecavc91 : parole 
+*** RIVIÈRE *** [9h Qh 5s 7d] [Ah]
+psychoman59 : parole 
+Rebecavc91 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [6d 2h] (Hauteur As)
+Rebecavc91 : montre [6s 4h] (Hauteur As)
+psychoman59 a remporté 40  lors du pot .
+Rebecavc91 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [9h Qh 5s 7d Ah]
+Siège 1 : Rebecavc91 (bouton) (petite blind) a montré [6s 4h] et a gagné (40) avec Hauteur As
+Siège 3 : psychoman59 (grosse blind) a montré [6d 2h] et a gagné (40) avec Hauteur As
+
+
+
+Main PokerStars n°260081824082 : Tournoi #3983240826, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 14/03/2026 8:03:43 CET [14/03/2026 3:03:43 ET]
+Table '3983240826 1' 3-max Siège #3 est au bouton.
+Place 1: Rebecavc91 (1020 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 20
+Rebecavc91 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Ac]
+psychoman59 : relance. 440 à 480 et est all-in.
+Rebecavc91 : passe. 
+Personne n'a suivi. (440) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : Rebecavc91 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°260081824913 : Tournoi #3983240826, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 14/03/2026 8:03:56 CET [14/03/2026 3:03:56 ET]
+Table '3983240826 1' 3-max Siège #1 est au bouton.
+Place 1: Rebecavc91 (980 en jetons) 
+Place 3: psychoman59 (520 en jetons) 
+Rebecavc91 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 4s]
+Rebecavc91 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [4d 4h 5h]
+psychoman59 : parole 
+Rebecavc91 : parole 
+*** TOURNANT *** [4d 4h 5h] [Kd]
+psychoman59 : parole 
+Rebecavc91 : parole 
+*** RIVIÈRE *** [4d 4h 5h Kd] [9c]
+psychoman59 : mise. 60
+Rebecavc91 : suit. 60
+*** ABATTAGE ***
+psychoman59 : montre [6s 4s] (un brelan de Quatre)
+Rebecavc91 : cache la main perdante. 
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [4d 4h 5h Kd 9c]
+Siège 1 : Rebecavc91 (bouton) (petite blind) a caché la main perdante. [Td Qd]
+Siège 3 : psychoman59 (grosse blind) a montré [6s 4s] et a gagné (240) avec un brelan de Quatre
+
+
+
+Main PokerStars n°260081825978 : Tournoi #3983240826, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 14/03/2026 8:04:12 CET [14/03/2026 3:04:12 ET]
+Table '3983240826 1' 3-max Siège #3 est au bouton.
+Place 1: Rebecavc91 (860 en jetons) 
+Place 3: psychoman59 (640 en jetons) 
+psychoman59 : met la petite blind. 30
+Rebecavc91 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 5s]
+psychoman59 : suit. 30
+Rebecavc91 : parole 
+*** FLOP *** [6d 4d 5h]
+Rebecavc91 : mise. 60
+psychoman59 : suit. 60
+*** TOURNANT *** [6d 4d 5h] [2c]
+Rebecavc91 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à Rebecavc91.
+Rebecavc91 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [6d 4d 5h 2c]
+Siège 1 : Rebecavc91 (grosse blind) a remporté (240)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°260081827024 : Tournoi #3983240826, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 14/03/2026 8:04:28 CET [14/03/2026 3:04:28 ET]
+Table '3983240826 1' 3-max Siège #1 est au bouton.
+Place 1: Rebecavc91 (980 en jetons) 
+Place 3: psychoman59 (520 en jetons) 
+Rebecavc91 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Kh]
+Rebecavc91 : suit. 30
+psychoman59 : relance. 460 à 520 et est all-in.
+Rebecavc91 : suit. 460
+*** FLOP *** [8h 6s 4d]
+*** TOURNANT *** [8h 6s 4d] [7d]
+*** RIVIÈRE *** [8h 6s 4d 7d] [Td]
+*** ABATTAGE ***
+psychoman59 : montre [Ac Kh] (Hauteur As)
+Rebecavc91 : montre [2d 2s] (une paire de Deux)
+Rebecavc91 a remporté 1040  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+Rebecavc91 remporte le tournoi et reçoit 1.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 1040 | Commission 0 
+Tableau [8h 6s 4d 7d Td]
+Siège 1 : Rebecavc91 (bouton) (petite blind) a montré [2d 2s] et a gagné (1040) avec une paire de Deux
+Siège 3 : psychoman59 (grosse blind) a montré [Ac Kh] et a perdu avec Hauteur As
+
+
+

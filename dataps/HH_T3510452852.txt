@@ -1,0 +1,613 @@
+﻿Main PokerStars n°240251362627 : Tournoi #3510452852, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/12/2022 10:06:28 CET [04/12/2022 4:06:28 ET]
+Table '3510452852 1' 3-max Siège #1 est au bouton.
+Place 1: samali35 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: cocopas (300 en jetons) 
+psychoman59 : met la petite blind. 10
+cocopas : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Ac]
+samali35 : passe. 
+psychoman59 : relance. 280 à 300 et est all-in.
+cocopas : suit. 280 et est all-in.
+*** FLOP *** [Tc Ts 2d]
+*** TOURNANT *** [Tc Ts 2d] [7c]
+*** RIVIÈRE *** [Tc Ts 2d 7c] [Ks]
+*** ABATTAGE ***
+psychoman59 : montre [9c Ac] (une paire de Dix)
+cocopas : montre [9h As] (une paire de Dix)
+psychoman59 a remporté 300  lors du pot .
+cocopas a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [Tc Ts 2d 7c Ks]
+Siège 1 : samali35 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [9c Ac] et a gagné (300) avec une paire de Dix
+Siège 3 : cocopas (grosse blind) a montré [9h As] et a gagné (300) avec une paire de Dix
+
+
+
+Main PokerStars n°240251364758 : Tournoi #3510452852, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/12/2022 10:06:43 CET [04/12/2022 4:06:43 ET]
+Table '3510452852 1' 3-max Siège #2 est au bouton.
+Place 1: samali35 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: cocopas (300 en jetons) 
+cocopas : met la petite blind. 10
+samali35 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Kd]
+psychoman59 : relance. 20 à 40
+cocopas : suit. 30
+samali35 : suit. 20
+*** FLOP *** [Ac Ks 8c]
+cocopas : mise. 20
+samali35 : passe. 
+psychoman59 : suit. 20
+*** TOURNANT *** [Ac Ks 8c] [Jh]
+cocopas : parole 
+psychoman59 : mise. 80
+cocopas : suit. 80
+*** RIVIÈRE *** [Ac Ks 8c Jh] [Qh]
+cocopas : mise. 20
+psychoman59 : suit. 20
+*** ABATTAGE ***
+cocopas : montre [Tc 2c] (une suite, Dix à As)
+psychoman59 : cache la main perdante. 
+cocopas a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [Ac Ks 8c Jh Qh]
+Siège 1 : samali35 (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) a caché la main perdante. [Qd Kd]
+Siège 3 : cocopas (petite blind) a montré [Tc 2c] et a gagné (360) avec une suite, Dix à As
+
+
+
+Main PokerStars n°240251368763 : Tournoi #3510452852, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/12/2022 10:07:12 CET [04/12/2022 4:07:12 ET]
+Table '3510452852 1' 3-max Siège #3 est au bouton.
+Place 1: samali35 (260 en jetons) 
+Place 2: psychoman59 (140 en jetons) 
+Place 3: cocopas (500 en jetons) 
+samali35 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 7c]
+cocopas : suit. 20
+samali35 : relance. 240 à 260 et est all-in.
+psychoman59 : passe. 
+cocopas : suit. 240
+*** FLOP *** [Jh Qs 6c]
+*** TOURNANT *** [Jh Qs 6c] [4s]
+*** RIVIÈRE *** [Jh Qs 6c 4s] [3s]
+*** ABATTAGE ***
+samali35 : montre [5h 8d] (Hauteur Dame)
+cocopas : montre [8s Qd] (une paire de Dames)
+cocopas a remporté 540  lors du pot .
+samali35 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [Jh Qs 6c 4s 3s]
+Siège 1 : samali35 (petite blind) a montré [5h 8d] et a perdu avec Hauteur Dame
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : cocopas (bouton) a montré [8s Qd] et a gagné (540) avec une paire de Dames
+
+
+
+Main PokerStars n°240251371692 : Tournoi #3510452852, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 04/12/2022 10:07:33 CET [04/12/2022 4:07:33 ET]
+Table '3510452852 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (120 en jetons) 
+Place 3: cocopas (780 en jetons) 
+psychoman59 : met la petite blind. 15
+cocopas : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 3s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à cocopas.
+cocopas a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : cocopas (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°240251372439 : Tournoi #3510452852, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 04/12/2022 10:07:39 CET [04/12/2022 4:07:39 ET]
+Table '3510452852 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (105 en jetons) 
+Place 3: cocopas (795 en jetons) 
+cocopas : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 5c]
+cocopas : suit. 15
+psychoman59 : parole 
+*** FLOP *** [4s 4c 9d]
+psychoman59 : mise. 75 et est all-in.
+cocopas : passe. 
+Personne n'a suivi. (75) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [4s 4c 9d]
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : cocopas (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°240251375883 : Tournoi #3510452852, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 04/12/2022 10:08:04 CET [04/12/2022 4:08:04 ET]
+Table '3510452852 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (135 en jetons) 
+Place 3: cocopas (765 en jetons) 
+psychoman59 : met la petite blind. 15
+cocopas : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 5h]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à cocopas.
+cocopas a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : cocopas (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°240251376782 : Tournoi #3510452852, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 04/12/2022 10:08:10 CET [04/12/2022 4:08:10 ET]
+Table '3510452852 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (120 en jetons) 
+Place 3: cocopas (780 en jetons) 
+cocopas : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 7h]
+cocopas : suit. 15
+psychoman59 : relance. 90 à 120 et est all-in.
+cocopas : passe. 
+Personne n'a suivi. (90) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : cocopas (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240251378475 : Tournoi #3510452852, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 04/12/2022 10:08:22 CET [04/12/2022 4:08:22 ET]
+Table '3510452852 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (150 en jetons) 
+Place 3: cocopas (750 en jetons) 
+psychoman59 : met la petite blind. 15
+cocopas : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Qs]
+psychoman59 : relance. 120 à 150 et est all-in.
+cocopas : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 3 : cocopas (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240251380241 : Tournoi #3510452852, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 04/12/2022 10:08:35 CET [04/12/2022 4:08:35 ET]
+Table '3510452852 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (180 en jetons) 
+Place 3: cocopas (720 en jetons) 
+cocopas : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 3s]
+cocopas : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : cocopas (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240251381510 : Tournoi #3510452852, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 04/12/2022 10:08:44 CET [04/12/2022 4:08:44 ET]
+Table '3510452852 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (200 en jetons) 
+Place 3: cocopas (700 en jetons) 
+psychoman59 : met la petite blind. 20
+cocopas : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Tc]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à cocopas.
+cocopas a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : cocopas (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°240251382171 : Tournoi #3510452852, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 04/12/2022 10:08:49 CET [04/12/2022 4:08:49 ET]
+Table '3510452852 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (180 en jetons) 
+Place 3: cocopas (720 en jetons) 
+cocopas : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 8s]
+cocopas : relance. 680 à 720 et est all-in.
+psychoman59 : suit. 140 et est all-in.
+Personne n'a suivi. (540) sont retournés à cocopas.
+*** FLOP *** [4s 2d Td]
+*** TOURNANT *** [4s 2d Td] [Tc]
+*** RIVIÈRE *** [4s 2d Td Tc] [2h]
+*** ABATTAGE ***
+psychoman59 : montre [8d 8s] (double paire, Dix et Huit)
+cocopas : montre [Qs Kd] (double paire, Dix et Deux)
+psychoman59 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [4s 2d Td Tc 2h]
+Siège 2 : psychoman59 (grosse blind) a montré [8d 8s] et a gagné (360) avec double paire, Dix et Huit
+Siège 3 : cocopas (bouton) (petite blind) a montré [Qs Kd] et a perdu avec double paire, Dix et Deux
+
+
+
+Main PokerStars n°240251384203 : Tournoi #3510452852, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 04/12/2022 10:09:03 CET [04/12/2022 4:09:03 ET]
+Table '3510452852 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (360 en jetons) 
+Place 3: cocopas (540 en jetons) 
+psychoman59 : met la petite blind. 20
+cocopas : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 8s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à cocopas.
+cocopas a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : cocopas (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°240251385029 : Tournoi #3510452852, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 04/12/2022 10:09:09 CET [04/12/2022 4:09:09 ET]
+Table '3510452852 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (340 en jetons) 
+Place 3: cocopas (560 en jetons) 
+cocopas : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Jh]
+cocopas : suit. 20
+psychoman59 : parole 
+*** FLOP *** [6h Qc Ks]
+psychoman59 : parole 
+cocopas : parole 
+*** TOURNANT *** [6h Qc Ks] [9s]
+psychoman59 : parole 
+cocopas : parole 
+*** RIVIÈRE *** [6h Qc Ks 9s] [5c]
+psychoman59 : parole 
+cocopas : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à cocopas.
+cocopas a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [6h Qc Ks 9s 5c]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : cocopas (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°240251389738 : Tournoi #3510452852, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 04/12/2022 10:09:43 CET [04/12/2022 4:09:43 ET]
+Table '3510452852 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (300 en jetons) 
+Place 3: cocopas (600 en jetons) 
+psychoman59 : met la petite blind. 30
+cocopas : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 7c]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à cocopas.
+cocopas a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : cocopas (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°240251390412 : Tournoi #3510452852, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 04/12/2022 10:09:48 CET [04/12/2022 4:09:48 ET]
+Table '3510452852 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (270 en jetons) 
+Place 3: cocopas (630 en jetons) 
+cocopas : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Kh]
+cocopas : suit. 30
+psychoman59 : relance. 210 à 270 et est all-in.
+cocopas : passe. 
+Personne n'a suivi. (210) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (120)
+Siège 3 : cocopas (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240251392017 : Tournoi #3510452852, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 04/12/2022 10:10:00 CET [04/12/2022 4:10:00 ET]
+Table '3510452852 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (330 en jetons) 
+Place 3: cocopas (570 en jetons) 
+psychoman59 : met la petite blind. 30
+cocopas : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 5h]
+psychoman59 : relance. 270 à 330 et est all-in.
+cocopas : passe. 
+Personne n'a suivi. (270) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 3 : cocopas (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240251392963 : Tournoi #3510452852, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 04/12/2022 10:10:07 CET [04/12/2022 4:10:07 ET]
+Table '3510452852 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (390 en jetons) 
+Place 3: cocopas (510 en jetons) 
+cocopas : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Ah]
+cocopas : suit. 30
+psychoman59 : relance. 330 à 390 et est all-in.
+cocopas : suit. 330
+*** FLOP *** [2s Kd Kc]
+*** TOURNANT *** [2s Kd Kc] [8c]
+*** RIVIÈRE *** [2s Kd Kc 8c] [9c]
+*** ABATTAGE ***
+psychoman59 : montre [Js Ah] (une paire de Rois)
+cocopas : montre [7d Qh] (une paire de Rois - plus basse kicker)
+psychoman59 a remporté 780  lors du pot .
+*** SYNTHÈSE ***
+Pot total 780 | Commission 0 
+Tableau [2s Kd Kc 8c 9c]
+Siège 2 : psychoman59 (grosse blind) a montré [Js Ah] et a gagné (780) avec une paire de Rois
+Siège 3 : cocopas (bouton) (petite blind) a montré [7d Qh] et a perdu avec une paire de Rois
+
+
+
+Main PokerStars n°240251395081 : Tournoi #3510452852, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 04/12/2022 10:10:22 CET [04/12/2022 4:10:22 ET]
+Table '3510452852 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (780 en jetons) 
+Place 3: cocopas (120 en jetons) 
+psychoman59 : met la petite blind. 30
+cocopas : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 9s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à cocopas.
+cocopas a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : cocopas (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°240251395724 : Tournoi #3510452852, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 04/12/2022 10:10:27 CET [04/12/2022 4:10:27 ET]
+Table '3510452852 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (750 en jetons) 
+Place 3: cocopas (150 en jetons) 
+cocopas : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Ah]
+cocopas : relance. 90 à 150 et est all-in.
+psychoman59 : suit. 90
+*** FLOP *** [5s 8d 6h]
+*** TOURNANT *** [5s 8d 6h] [Qs]
+*** RIVIÈRE *** [5s 8d 6h Qs] [6d]
+*** ABATTAGE ***
+psychoman59 : montre [7s Ah] (une paire de Six)
+cocopas : montre [3d As] (une paire de Six)
+psychoman59 a remporté 150  lors du pot .
+cocopas a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [5s 8d 6h Qs 6d]
+Siège 2 : psychoman59 (grosse blind) a montré [7s Ah] et a gagné (150) avec une paire de Six
+Siège 3 : cocopas (bouton) (petite blind) a montré [3d As] et a gagné (150) avec une paire de Six
+
+
+
+Main PokerStars n°240251397961 : Tournoi #3510452852, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 04/12/2022 10:10:43 CET [04/12/2022 4:10:43 ET]
+Table '3510452852 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (750 en jetons) 
+Place 3: cocopas (150 en jetons) 
+psychoman59 : met la petite blind. 40
+cocopas : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 3c]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à cocopas.
+cocopas a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : cocopas (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°240251398603 : Tournoi #3510452852, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 04/12/2022 10:10:47 CET [04/12/2022 4:10:47 ET]
+Table '3510452852 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (710 en jetons) 
+Place 3: cocopas (190 en jetons) 
+cocopas : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 7s]
+cocopas : suit. 40
+psychoman59 : parole 
+*** FLOP *** [4s 6h 8h]
+psychoman59 : parole 
+cocopas : mise. 110 et est all-in.
+psychoman59 : suit. 110
+*** TOURNANT *** [4s 6h 8h] [Qh]
+*** RIVIÈRE *** [4s 6h 8h Qh] [Ah]
+*** ABATTAGE ***
+psychoman59 : montre [5s 7s] (une suite, Quatre à Huit)
+cocopas : montre [Kh 4d] (une couleur, hauteur As)
+cocopas a remporté 380  lors du pot .
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Tableau [4s 6h 8h Qh Ah]
+Siège 2 : psychoman59 (grosse blind) a montré [5s 7s] et a perdu avec une suite, Quatre à Huit
+Siège 3 : cocopas (bouton) (petite blind) a montré [Kh 4d] et a gagné (380) avec une couleur, hauteur As
+
+
+
+Main PokerStars n°240251401445 : Tournoi #3510452852, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 04/12/2022 10:11:08 CET [04/12/2022 4:11:08 ET]
+Table '3510452852 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (520 en jetons) 
+Place 3: cocopas (380 en jetons) 
+psychoman59 : met la petite blind. 40
+cocopas : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 5c]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à cocopas.
+cocopas a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : cocopas (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°240251402150 : Tournoi #3510452852, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 04/12/2022 10:11:13 CET [04/12/2022 4:11:13 ET]
+Table '3510452852 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (480 en jetons) 
+Place 3: cocopas (420 en jetons) 
+cocopas : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 9s]
+cocopas : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : cocopas (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240251403190 : Tournoi #3510452852, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 04/12/2022 10:11:20 CET [04/12/2022 4:11:20 ET]
+Table '3510452852 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (520 en jetons) 
+Place 3: cocopas (380 en jetons) 
+psychoman59 : met la petite blind. 40
+cocopas : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Ac]
+psychoman59 : relance. 80 à 160
+cocopas : suit. 80
+*** FLOP *** [6h Qc 3s]
+cocopas : mise. 220 et est all-in.
+psychoman59 : suit. 220
+*** TOURNANT *** [6h Qc 3s] [9s]
+*** RIVIÈRE *** [6h Qc 3s 9s] [Jd]
+*** ABATTAGE ***
+cocopas : montre [Jh 3h] (double paire, Valets et Trois)
+psychoman59 : montre [Ad Ac] (une paire de As)
+cocopas a remporté 760  lors du pot .
+*** SYNTHÈSE ***
+Pot total 760 | Commission 0 
+Tableau [6h Qc 3s 9s Jd]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Ad Ac] et a perdu avec une paire de As
+Siège 3 : cocopas (grosse blind) a montré [Jh 3h] et a gagné (760) avec double paire, Valets et Trois
+
+
+
+Main PokerStars n°240251406094 : Tournoi #3510452852, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 04/12/2022 10:11:41 CET [04/12/2022 4:11:41 ET]
+Table '3510452852 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (140 en jetons) 
+Place 3: cocopas (760 en jetons) 
+cocopas : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 7c]
+cocopas : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (100)
+Siège 3 : cocopas (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240251406987 : Tournoi #3510452852, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 04/12/2022 10:11:47 CET [04/12/2022 4:11:47 ET]
+Table '3510452852 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (190 en jetons) 
+Place 3: cocopas (710 en jetons) 
+psychoman59 : met la petite blind. 50
+cocopas : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 2d]
+psychoman59 : relance. 90 à 190 et est all-in.
+cocopas : passe. 
+Personne n'a suivi. (90) sont retournés à psychoman59.
+psychoman59 a remporté 200  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (200)
+Siège 3 : cocopas (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240251407914 : Tournoi #3510452852, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 04/12/2022 10:11:54 CET [04/12/2022 4:11:54 ET]
+Table '3510452852 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (290 en jetons) 
+Place 3: cocopas (610 en jetons) 
+cocopas : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Ts]
+cocopas : relance. 510 à 610 et est all-in.
+psychoman59 : suit. 190 et est all-in.
+Personne n'a suivi. (320) sont retournés à cocopas.
+*** FLOP *** [Jc 9h Qd]
+*** TOURNANT *** [Jc 9h Qd] [5s]
+*** RIVIÈRE *** [Jc 9h Qd 5s] [Jh]
+*** ABATTAGE ***
+psychoman59 : montre [4h Ts] (une paire de Valets)
+cocopas : montre [8c Qs] (double paire, Dames et Valets)
+cocopas a remporté 580  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+cocopas remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [Jc 9h Qd 5s Jh]
+Siège 2 : psychoman59 (grosse blind) a montré [4h Ts] et a perdu avec une paire de Valets
+Siège 3 : cocopas (bouton) (petite blind) a montré [8c Qs] et a gagné (580) avec double paire, Dames et Valets
+
+
+

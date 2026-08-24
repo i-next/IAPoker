@@ -1,0 +1,188 @@
+﻿Main PokerStars n°243817163069 : Tournoi #3594141293, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/05/2023 10:55:17 CET [21/05/2023 4:55:17 ET]
+Table '3594141293 1' 3-max Siège #1 est au bouton.
+Place 1: RedObiwan (300 en jetons) 
+Place 2: leroid4as (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+leroid4as : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Ad]
+RedObiwan : relance. 50 à 70
+leroid4as : suit. 60
+psychoman59 : suit. 50
+*** FLOP *** [2c 7h 3c]
+leroid4as : parole 
+psychoman59 : parole 
+RedObiwan : parole 
+*** TOURNANT *** [2c 7h 3c] [Ah]
+leroid4as : parole 
+psychoman59 : mise. 230 et est all-in.
+RedObiwan : passe. 
+leroid4as : passe. 
+Personne n'a suivi. (230) sont retournés à psychoman59.
+psychoman59 a remporté 210  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Tableau [2c 7h 3c Ah]
+Siège 1 : RedObiwan (bouton) s'est couché. sur le Tournant
+Siège 2 : leroid4as (petite blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (grosse blind) a remporté (210)
+
+
+
+Main PokerStars n°243817166657 : Tournoi #3594141293, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/05/2023 10:55:49 CET [21/05/2023 4:55:49 ET]
+Table '3594141293 1' 3-max Siège #2 est au bouton.
+Place 1: RedObiwan (230 en jetons) 
+Place 2: leroid4as (230 en jetons) 
+Place 3: psychoman59 (440 en jetons) 
+psychoman59 : met la petite blind. 10
+RedObiwan : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Qh]
+leroid4as : passe. 
+psychoman59 : suit. 10
+RedObiwan : parole 
+*** FLOP *** [Kc Ks 5d]
+psychoman59 : mise. 420 et est all-in.
+RedObiwan : passe. 
+Personne n'a suivi. (420) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Kc Ks 5d]
+Siège 1 : RedObiwan (grosse blind) s'est couché. sur le Flop
+Siège 2 : leroid4as (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°243817168987 : Tournoi #3594141293, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/05/2023 10:56:10 CET [21/05/2023 4:56:10 ET]
+Table '3594141293 1' 3-max Siège #3 est au bouton.
+Place 1: RedObiwan (210 en jetons) 
+Place 2: leroid4as (230 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+RedObiwan : met la petite blind. 10
+leroid4as : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Qc]
+psychoman59 : relance. 20 à 40
+RedObiwan : relance. 170 à 210 et est all-in.
+leroid4as : relance. 20 à 230 et est all-in.
+psychoman59 : suit. 190
+*** FLOP *** [8c 3h 2d]
+*** TOURNANT *** [8c 3h 2d] [2h]
+*** RIVIÈRE *** [8c 3h 2d 2h] [Ac]
+*** ABATTAGE ***
+leroid4as : montre [As 9s] (double paire, As et Deux)
+psychoman59 : montre [Tc Qc] (une paire de Deux)
+leroid4as a remporté 40  parallèle lors du pot .
+RedObiwan : montre [6h Ad] (double paire, As et Deux - plus basse kicker)
+leroid4as a remporté 630  principal lors du pot .
+RedObiwan a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 670 Principal pot 630. Parallèle pot 40. | Commission 0 
+Tableau [8c 3h 2d 2h Ac]
+Siège 1 : RedObiwan (petite blind) a montré [6h Ad] et a perdu avec double paire, As et Deux
+Siège 2 : leroid4as (grosse blind) a montré [As 9s] et a gagné (670) avec double paire, As et Deux
+Siège 3 : psychoman59 (bouton) a montré [Tc Qc] et a perdu avec une paire de Deux
+
+
+
+Main PokerStars n°243817171441 : Tournoi #3594141293, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 21/05/2023 10:56:31 CET [21/05/2023 4:56:31 ET]
+Table '3594141293 1' 3-max Siège #2 est au bouton.
+Place 2: leroid4as (670 en jetons) 
+Place 3: psychoman59 (230 en jetons) 
+leroid4as : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 2d]
+leroid4as : relance. 640 à 670 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (640) sont retournés à leroid4as.
+leroid4as a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : leroid4as (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243817172511 : Tournoi #3594141293, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 21/05/2023 10:56:41 CET [21/05/2023 4:56:41 ET]
+Table '3594141293 1' 3-max Siège #3 est au bouton.
+Place 2: leroid4as (700 en jetons) 
+Place 3: psychoman59 (200 en jetons) 
+psychoman59 : met la petite blind. 15
+leroid4as : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Qh]
+psychoman59 : relance. 170 à 200 et est all-in.
+leroid4as : passe. 
+Personne n'a suivi. (170) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : leroid4as (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°243817173752 : Tournoi #3594141293, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 21/05/2023 10:56:51 CET [21/05/2023 4:56:51 ET]
+Table '3594141293 1' 3-max Siège #2 est au bouton.
+Place 2: leroid4as (670 en jetons) 
+Place 3: psychoman59 (230 en jetons) 
+leroid4as : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 5h]
+leroid4as : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Js Ad Ks]
+psychoman59 : parole 
+leroid4as : parole 
+*** TOURNANT *** [Js Ad Ks] [9h]
+psychoman59 : parole 
+leroid4as : parole 
+*** RIVIÈRE *** [Js Ad Ks 9h] [4d]
+psychoman59 : parole 
+leroid4as : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à leroid4as.
+leroid4as a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Js Ad Ks 9h 4d]
+Siège 2 : leroid4as (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°243817176108 : Tournoi #3594141293, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 21/05/2023 10:57:13 CET [21/05/2023 4:57:13 ET]
+Table '3594141293 1' 3-max Siège #3 est au bouton.
+Place 2: leroid4as (700 en jetons) 
+Place 3: psychoman59 (200 en jetons) 
+psychoman59 : met la petite blind. 15
+leroid4as : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Jh]
+psychoman59 : relance. 170 à 200 et est all-in.
+leroid4as : suit. 170
+*** FLOP *** [2d Ah 8d]
+*** TOURNANT *** [2d Ah 8d] [8s]
+*** RIVIÈRE *** [2d Ah 8d 8s] [7h]
+*** ABATTAGE ***
+leroid4as : montre [Js 8h] (un brelan de Huit)
+psychoman59 : montre [6c Jh] (une paire de Huit)
+leroid4as a remporté 400  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+leroid4as remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [2d Ah 8d 8s 7h]
+Siège 2 : leroid4as (grosse blind) a montré [Js 8h] et a gagné (400) avec un brelan de Huit
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [6c Jh] et a perdu avec une paire de Huit
+
+
+

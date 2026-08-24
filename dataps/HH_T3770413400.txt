@@ -1,0 +1,1091 @@
+﻿Main PokerStars n°251168211494 : Tournoi #3770413400, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 24/06/2024 7:53:56 CET [24/06/2024 1:53:56 ET]
+Table '3770413400 1' 3-max Siège #1 est au bouton.
+Place 1: denisabb76 (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: oshebast (500 en jetons) 
+psychoman59 : met la petite blind. 10
+oshebast : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 9c]
+denisabb76 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à oshebast.
+oshebast a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : denisabb76 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : oshebast (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°251168212823 : Tournoi #3770413400, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 24/06/2024 7:54:14 CET [24/06/2024 1:54:14 ET]
+Table '3770413400 1' 3-max Siège #2 est au bouton.
+Place 1: denisabb76 (500 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: oshebast (510 en jetons) 
+oshebast : met la petite blind. 10
+denisabb76 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 7s]
+psychoman59 : passe. 
+oshebast : suit. 10
+denisabb76 : parole 
+*** FLOP *** [As 2c Jd]
+oshebast : parole 
+denisabb76 : parole 
+*** TOURNANT *** [As 2c Jd] [4c]
+oshebast : parole 
+denisabb76 : parole 
+*** RIVIÈRE *** [As 2c Jd 4c] [Ts]
+oshebast : parole 
+denisabb76 : mise. 20
+oshebast : passe. 
+Personne n'a suivi. (20) sont retournés à denisabb76.
+denisabb76 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [As 2c Jd 4c Ts]
+Siège 1 : denisabb76 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : oshebast (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°251168215778 : Tournoi #3770413400, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 24/06/2024 7:54:53 CET [24/06/2024 1:54:53 ET]
+Table '3770413400 1' 3-max Siège #3 est au bouton.
+Place 1: denisabb76 (520 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: oshebast (490 en jetons) 
+denisabb76 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 2h]
+oshebast : passe. 
+denisabb76 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [As 6c Ts]
+denisabb76 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [As 6c Ts] [3c]
+denisabb76 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [As 6c Ts 3c] [3h]
+denisabb76 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+denisabb76 : montre [7h 5d] (une paire de Trois)
+psychoman59 : montre [Kh 2h] (une paire de Trois - As+Roi kicker)
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [As 6c Ts 3c 3h]
+Siège 1 : denisabb76 (petite blind) a montré [7h 5d] et a perdu avec une paire de Trois
+Siège 2 : psychoman59 (grosse blind) a montré [Kh 2h] et a gagné (40) avec une paire de Trois
+Siège 3 : oshebast (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°251168218161 : Tournoi #3770413400, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 24/06/2024 7:55:29 CET [24/06/2024 1:55:29 ET]
+Table '3770413400 1' 3-max Siège #1 est au bouton.
+Place 1: denisabb76 (500 en jetons) 
+Place 2: psychoman59 (510 en jetons) 
+Place 3: oshebast (490 en jetons) 
+psychoman59 : met la petite blind. 10
+oshebast : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 3s]
+denisabb76 : suit. 20
+psychoman59 : passe. 
+oshebast : parole 
+*** FLOP *** [6h 8c 6s]
+oshebast : parole 
+denisabb76 : parole 
+*** TOURNANT *** [6h 8c 6s] [6d]
+oshebast : parole 
+denisabb76 : parole 
+*** RIVIÈRE *** [6h 8c 6s 6d] [4c]
+oshebast : parole 
+denisabb76 : parole 
+*** ABATTAGE ***
+oshebast : montre [7s 2h] (un brelan de Six)
+denisabb76 : montre [5c 5h] (un full, full aux Six par les Cinq)
+denisabb76 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [6h 8c 6s 6d 4c]
+Siège 1 : denisabb76 (bouton) a montré [5c 5h] et a gagné (50) avec un full, full aux Six par les Cinq
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : oshebast (grosse blind) a montré [7s 2h] et a perdu avec un brelan de Six
+
+
+
+Main PokerStars n°251168219516 : Tournoi #3770413400, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 24/06/2024 7:55:49 CET [24/06/2024 1:55:49 ET]
+Table '3770413400 1' 3-max Siège #2 est au bouton.
+Place 1: denisabb76 (530 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: oshebast (470 en jetons) 
+oshebast : met la petite blind. 10
+denisabb76 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Qs]
+psychoman59 : suit. 20
+oshebast : suit. 10
+denisabb76 : parole 
+*** FLOP *** [6s 9h Ks]
+oshebast : parole 
+denisabb76 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6s 9h Ks] [3c]
+oshebast : parole 
+denisabb76 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [6s 9h Ks 3c] [9c]
+oshebast : parole 
+denisabb76 : mise. 20
+psychoman59 : passe. 
+oshebast : passe. 
+Personne n'a suivi. (20) sont retournés à denisabb76.
+denisabb76 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [6s 9h Ks 3c 9c]
+Siège 1 : denisabb76 (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) s'est couché. sur le Rivière
+Siège 3 : oshebast (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°251168222563 : Tournoi #3770413400, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 24/06/2024 7:56:36 CET [24/06/2024 1:56:36 ET]
+Table '3770413400 1' 3-max Siège #3 est au bouton.
+Place 1: denisabb76 (570 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+Place 3: oshebast (450 en jetons) 
+denisabb76 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 8c]
+oshebast : passe. 
+denisabb76 : suit. 15
+psychoman59 : relance. 450 à 480 et est all-in.
+denisabb76 : passe. 
+Personne n'a suivi. (450) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : denisabb76 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : oshebast (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°251168223478 : Tournoi #3770413400, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 24/06/2024 7:56:49 CET [24/06/2024 1:56:49 ET]
+Table '3770413400 1' 3-max Siège #1 est au bouton.
+Place 1: denisabb76 (540 en jetons) 
+Place 2: psychoman59 (510 en jetons) 
+Place 3: oshebast (450 en jetons) 
+psychoman59 : met la petite blind. 15
+oshebast : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Qh]
+denisabb76 : suit. 30
+psychoman59 : suit. 15
+oshebast : parole 
+*** FLOP *** [9s Kc 7h]
+psychoman59 : parole 
+oshebast : parole 
+denisabb76 : parole 
+*** TOURNANT *** [9s Kc 7h] [Th]
+psychoman59 : parole 
+oshebast : parole 
+denisabb76 : parole 
+*** RIVIÈRE *** [9s Kc 7h Th] [8c]
+psychoman59 : parole 
+oshebast : parole 
+denisabb76 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [4h Qh] (Hauteur Roi)
+oshebast : cache la main perdante. 
+denisabb76 : montre [Qc 6h] (une suite, Six à Dix)
+denisabb76 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [9s Kc 7h Th 8c]
+Siège 1 : denisabb76 (bouton) a montré [Qc 6h] et a gagné (90) avec une suite, Six à Dix
+Siège 2 : psychoman59 (petite blind) a montré [4h Qh] et a perdu avec Hauteur Roi
+Siège 3 : oshebast (grosse blind) a caché la main perdante. [5d 2h]
+
+
+
+Main PokerStars n°251168225338 : Tournoi #3770413400, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 24/06/2024 7:57:18 CET [24/06/2024 1:57:18 ET]
+Table '3770413400 1' 3-max Siège #2 est au bouton.
+Place 1: denisabb76 (600 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+Place 3: oshebast (420 en jetons) 
+oshebast : met la petite blind. 15
+denisabb76 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 5d]
+psychoman59 : passe. 
+oshebast : suit. 15
+denisabb76 : relance. 30 à 60
+oshebast : suit. 30
+*** FLOP *** [Kd Js Ah]
+oshebast : parole 
+denisabb76 : mise. 30
+oshebast : suit. 30
+*** TOURNANT *** [Kd Js Ah] [9s]
+oshebast : parole 
+denisabb76 : mise. 30
+oshebast : suit. 30
+*** RIVIÈRE *** [Kd Js Ah 9s] [Qc]
+oshebast : parole 
+denisabb76 : mise. 30
+oshebast : suit. 30
+*** ABATTAGE ***
+denisabb76 : montre [Jd Jc] (un brelan de Valets)
+oshebast : cache la main perdante. 
+denisabb76 a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [Kd Js Ah 9s Qc]
+Siège 1 : denisabb76 (grosse blind) a montré [Jd Jc] et a gagné (300) avec un brelan de Valets
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : oshebast (petite blind) a caché la main perdante. [Ac 6d]
+
+
+
+Main PokerStars n°251168228478 : Tournoi #3770413400, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 24/06/2024 7:58:05 CET [24/06/2024 1:58:05 ET]
+Table '3770413400 1' 3-max Siège #3 est au bouton.
+Place 1: denisabb76 (750 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+Place 3: oshebast (270 en jetons) 
+denisabb76 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 6c]
+oshebast : passe. 
+denisabb76 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Th 6s 4c]
+denisabb76 : parole 
+psychoman59 : mise. 80
+denisabb76 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Th 6s 4c]
+Siège 1 : denisabb76 (petite blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : oshebast (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°251168229978 : Tournoi #3770413400, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 24/06/2024 7:58:27 CET [24/06/2024 1:58:27 ET]
+Table '3770413400 1' 3-max Siège #1 est au bouton.
+Place 1: denisabb76 (710 en jetons) 
+Place 2: psychoman59 (520 en jetons) 
+Place 3: oshebast (270 en jetons) 
+psychoman59 : met la petite blind. 20
+oshebast : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Kd]
+denisabb76 : suit. 40
+psychoman59 : suit. 20
+oshebast : parole 
+*** FLOP *** [6d 9d 3h]
+psychoman59 : parole 
+oshebast : parole 
+denisabb76 : parole 
+*** TOURNANT *** [6d 9d 3h] [Th]
+psychoman59 : parole 
+oshebast : parole 
+denisabb76 : parole 
+*** RIVIÈRE *** [6d 9d 3h Th] [Tc]
+psychoman59 : parole 
+oshebast : mise. 40
+denisabb76 : suit. 40
+psychoman59 : suit. 40
+*** ABATTAGE ***
+oshebast : montre [5h 6s] (double paire, Dix et Six)
+denisabb76 : cache la main perdante. 
+psychoman59 : cache la main perdante. 
+oshebast a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [6d 9d 3h Th Tc]
+Siège 1 : denisabb76 (bouton) a caché la main perdante. [Qd As]
+Siège 2 : psychoman59 (petite blind) a caché la main perdante. [3c Kd]
+Siège 3 : oshebast (grosse blind) a montré [5h 6s] et a gagné (240) avec double paire, Dix et Six
+
+
+
+Main PokerStars n°251168232305 : Tournoi #3770413400, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 24/06/2024 7:59:02 CET [24/06/2024 1:59:02 ET]
+Table '3770413400 1' 3-max Siège #2 est au bouton.
+Place 1: denisabb76 (630 en jetons) 
+Place 2: psychoman59 (440 en jetons) 
+Place 3: oshebast (430 en jetons) 
+oshebast : met la petite blind. 20
+denisabb76 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 5d]
+psychoman59 : passe. 
+oshebast : suit. 20
+denisabb76 : parole 
+*** FLOP *** [Js 8s Jc]
+oshebast : parole 
+denisabb76 : parole 
+*** TOURNANT *** [Js 8s Jc] [2s]
+oshebast : parole 
+denisabb76 : parole 
+*** RIVIÈRE *** [Js 8s Jc 2s] [5h]
+oshebast : mise. 80
+denisabb76 : passe. 
+Personne n'a suivi. (80) sont retournés à oshebast.
+oshebast a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Js 8s Jc 2s 5h]
+Siège 1 : denisabb76 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : oshebast (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°251168233733 : Tournoi #3770413400, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 24/06/2024 7:59:23 CET [24/06/2024 1:59:23 ET]
+Table '3770413400 1' 3-max Siège #3 est au bouton.
+Place 1: denisabb76 (590 en jetons) 
+Place 2: psychoman59 (440 en jetons) 
+Place 3: oshebast (470 en jetons) 
+denisabb76 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Qd]
+oshebast : suit. 40
+denisabb76 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [6s 7s 9s]
+denisabb76 : parole 
+psychoman59 : parole 
+oshebast : mise. 40
+denisabb76 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à oshebast.
+oshebast a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [6s 7s 9s]
+Siège 1 : denisabb76 (petite blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : oshebast (bouton) a remporté (120)
+
+
+
+Main PokerStars n°251168235184 : Tournoi #3770413400, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 24/06/2024 7:59:44 CET [24/06/2024 1:59:44 ET]
+Table '3770413400 1' 3-max Siège #1 est au bouton.
+Place 1: denisabb76 (550 en jetons) 
+Place 2: psychoman59 (400 en jetons) 
+Place 3: oshebast (550 en jetons) 
+psychoman59 : met la petite blind. 20
+oshebast : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Ad]
+denisabb76 : passe. 
+psychoman59 : relance. 360 à 400 et est all-in.
+oshebast : passe. 
+Personne n'a suivi. (360) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : denisabb76 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (80)
+Siège 3 : oshebast (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°251168235730 : Tournoi #3770413400, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 24/06/2024 7:59:52 CET [24/06/2024 1:59:52 ET]
+Table '3770413400 1' 3-max Siège #2 est au bouton.
+Place 1: denisabb76 (550 en jetons) 
+Place 2: psychoman59 (440 en jetons) 
+Place 3: oshebast (510 en jetons) 
+oshebast : met la petite blind. 20
+denisabb76 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Ts]
+psychoman59 : relance. 40 à 80
+oshebast : suit. 60
+denisabb76 : suit. 40
+*** FLOP *** [Qc Kd 8h]
+oshebast : parole 
+denisabb76 : mise. 40
+psychoman59 : suit. 40
+oshebast : suit. 40
+*** TOURNANT *** [Qc Kd 8h] [9d]
+oshebast : parole 
+denisabb76 : mise. 40
+psychoman59 : suit. 40
+oshebast : suit. 40
+*** RIVIÈRE *** [Qc Kd 8h 9d] [Jh]
+oshebast : parole 
+denisabb76 : mise. 40
+psychoman59 : relance. 40 à 80
+oshebast : passe. 
+denisabb76 : suit. 40
+*** ABATTAGE ***
+psychoman59 : montre [Ac Ts] (une suite, Dix à As)
+denisabb76 : cache la main perdante. 
+psychoman59 a remporté 640  lors du pot .
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [Qc Kd 8h 9d Jh]
+Siège 1 : denisabb76 (grosse blind) a caché la main perdante. [9s Qs]
+Siège 2 : psychoman59 (bouton) a montré [Ac Ts] et a gagné (640) avec une suite, Dix à As
+Siège 3 : oshebast (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°251168238409 : Tournoi #3770413400, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/06/2024 8:00:32 CET [24/06/2024 2:00:32 ET]
+Table '3770413400 1' 3-max Siège #3 est au bouton.
+Place 1: denisabb76 (310 en jetons) 
+Place 2: psychoman59 (840 en jetons) 
+Place 3: oshebast (350 en jetons) 
+denisabb76 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 4c]
+oshebast : passe. 
+denisabb76 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Ts Jd Td]
+denisabb76 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Ts Jd Td] [9h]
+denisabb76 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à denisabb76.
+denisabb76 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Ts Jd Td 9h]
+Siège 1 : denisabb76 (petite blind) a remporté (120)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : oshebast (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°251168240002 : Tournoi #3770413400, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/06/2024 8:00:53 CET [24/06/2024 2:00:53 ET]
+Table '3770413400 1' 3-max Siège #1 est au bouton.
+Place 1: denisabb76 (370 en jetons) 
+Place 2: psychoman59 (780 en jetons) 
+Place 3: oshebast (350 en jetons) 
+psychoman59 : met la petite blind. 30
+oshebast : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 5c]
+denisabb76 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à oshebast.
+oshebast a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : denisabb76 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : oshebast (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°251168240484 : Tournoi #3770413400, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/06/2024 8:01:00 CET [24/06/2024 2:01:00 ET]
+Table '3770413400 1' 3-max Siège #2 est au bouton.
+Place 1: denisabb76 (370 en jetons) 
+Place 2: psychoman59 (750 en jetons) 
+Place 3: oshebast (380 en jetons) 
+oshebast : met la petite blind. 30
+denisabb76 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Ts]
+psychoman59 : relance. 60 à 120
+oshebast : passe. 
+denisabb76 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 150  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Siège 1 : denisabb76 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a remporté (150)
+Siège 3 : oshebast (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°251168241122 : Tournoi #3770413400, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/06/2024 8:01:09 CET [24/06/2024 2:01:09 ET]
+Table '3770413400 1' 3-max Siège #3 est au bouton.
+Place 1: denisabb76 (310 en jetons) 
+Place 2: psychoman59 (840 en jetons) 
+Place 3: oshebast (350 en jetons) 
+denisabb76 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 2c]
+oshebast : passe. 
+denisabb76 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [9s 3c 5d]
+denisabb76 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [9s 3c 5d] [8h]
+denisabb76 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [9s 3c 5d 8h] [Ts]
+denisabb76 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+denisabb76 : montre [Jc 4d] (Hauteur Valet)
+psychoman59 : montre [Js 2c] (Hauteur Valet)
+denisabb76 a remporté 60  lors du pot .
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [9s 3c 5d 8h Ts]
+Siège 1 : denisabb76 (petite blind) a montré [Jc 4d] et a gagné (60) avec Hauteur Valet
+Siège 2 : psychoman59 (grosse blind) a montré [Js 2c] et a gagné (60) avec Hauteur Valet
+Siège 3 : oshebast (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°251168243058 : Tournoi #3770413400, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/06/2024 8:01:35 CET [24/06/2024 2:01:35 ET]
+Table '3770413400 1' 3-max Siège #1 est au bouton.
+Place 1: denisabb76 (310 en jetons) 
+Place 2: psychoman59 (840 en jetons) 
+Place 3: oshebast (350 en jetons) 
+psychoman59 : met la petite blind. 30
+oshebast : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 9h]
+denisabb76 : passe. 
+psychoman59 : suit. 30
+oshebast : parole 
+*** FLOP *** [Qd 6c 4h]
+psychoman59 : parole 
+oshebast : parole 
+*** TOURNANT *** [Qd 6c 4h] [3s]
+psychoman59 : parole 
+oshebast : parole 
+*** RIVIÈRE *** [Qd 6c 4h 3s] [9s]
+psychoman59 : mise. 60
+oshebast : suit. 60
+*** ABATTAGE ***
+psychoman59 : montre [Ks 9h] (une paire de Neuf)
+oshebast : montre [9c Ah] (une paire de Neuf - As kicker)
+oshebast a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Qd 6c 4h 3s 9s]
+Siège 1 : denisabb76 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [Ks 9h] et a perdu avec une paire de Neuf
+Siège 3 : oshebast (grosse blind) a montré [9c Ah] et a gagné (240) avec une paire de Neuf
+
+
+
+Main PokerStars n°251168245309 : Tournoi #3770413400, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau V (40/80) - 24/06/2024 8:02:05 CET [24/06/2024 2:02:05 ET]
+Table '3770413400 1' 3-max Siège #2 est au bouton.
+Place 1: denisabb76 (310 en jetons) 
+Place 2: psychoman59 (720 en jetons) 
+Place 3: oshebast (470 en jetons) 
+oshebast : met la petite blind. 40
+denisabb76 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Tc]
+psychoman59 : passe. 
+oshebast : suit. 40
+denisabb76 : parole 
+*** FLOP *** [4h 3c 3s]
+oshebast : parole 
+denisabb76 : parole 
+*** TOURNANT *** [4h 3c 3s] [7s]
+oshebast : parole 
+denisabb76 : parole 
+*** RIVIÈRE *** [4h 3c 3s 7s] [4d]
+oshebast : parole 
+denisabb76 : parole 
+*** ABATTAGE ***
+oshebast : montre [Qd 8c] (double paire, Quatre et Trois)
+denisabb76 : cache la main perdante. 
+oshebast a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [4h 3c 3s 7s 4d]
+Siège 1 : denisabb76 (grosse blind) a caché la main perdante. [Ts Jh]
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : oshebast (petite blind) a montré [Qd 8c] et a gagné (160) avec double paire, Quatre et Trois
+
+
+
+Main PokerStars n°251168249254 : Tournoi #3770413400, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau V (40/80) - 24/06/2024 8:02:58 CET [24/06/2024 2:02:58 ET]
+Table '3770413400 1' 3-max Siège #3 est au bouton.
+Place 1: denisabb76 (230 en jetons) 
+Place 2: psychoman59 (720 en jetons) 
+Place 3: oshebast (550 en jetons) 
+denisabb76 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 3d]
+oshebast : passe. 
+denisabb76 : suit. 40
+psychoman59 : parole 
+*** FLOP *** [Kc 8d Ks]
+denisabb76 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Kc 8d Ks] [9d]
+denisabb76 : mise. 80
+psychoman59 : suit. 80
+*** RIVIÈRE *** [Kc 8d Ks 9d] [2s]
+denisabb76 : mise. 70 et est all-in.
+psychoman59 : suit. 70
+*** ABATTAGE ***
+denisabb76 : montre [Kh 5h] (un brelan de Rois)
+psychoman59 : montre [Kd 3d] (un brelan de Rois)
+denisabb76 a remporté 230  lors du pot .
+psychoman59 a remporté 230  lors du pot .
+*** SYNTHÈSE ***
+Pot total 460 | Commission 0 
+Tableau [Kc 8d Ks 9d 2s]
+Siège 1 : denisabb76 (petite blind) a montré [Kh 5h] et a gagné (230) avec un brelan de Rois
+Siège 2 : psychoman59 (grosse blind) a montré [Kd 3d] et a gagné (230) avec un brelan de Rois
+Siège 3 : oshebast (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°251168251118 : Tournoi #3770413400, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau V (40/80) - 24/06/2024 8:03:24 CET [24/06/2024 2:03:24 ET]
+Table '3770413400 1' 3-max Siège #1 est au bouton.
+Place 1: denisabb76 (230 en jetons) 
+Place 2: psychoman59 (720 en jetons) 
+Place 3: oshebast (550 en jetons) 
+psychoman59 : met la petite blind. 40
+oshebast : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Qs]
+denisabb76 : suit. 80
+psychoman59 : relance. 640 à 720 et est all-in.
+oshebast : passe. 
+denisabb76 : passe. 
+Personne n'a suivi. (640) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Siège 1 : denisabb76 (bouton) s'est couché. avant Flop
+Siège 2 : psychoman59 (petite blind) a remporté (240)
+Siège 3 : oshebast (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°251168253063 : Tournoi #3770413400, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau V (40/80) - 24/06/2024 8:03:50 CET [24/06/2024 2:03:50 ET]
+Table '3770413400 1' 3-max Siège #2 est au bouton.
+Place 1: denisabb76 (150 en jetons) 
+Place 2: psychoman59 (880 en jetons) 
+Place 3: oshebast (470 en jetons) 
+oshebast : met la petite blind. 40
+denisabb76 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 5s]
+psychoman59 : passe. 
+oshebast : suit. 40
+denisabb76 : parole 
+*** FLOP *** [4c Jc Tc]
+oshebast : parole 
+denisabb76 : mise. 70 et est all-in.
+oshebast : suit. 70
+*** TOURNANT *** [4c Jc Tc] [7c]
+*** RIVIÈRE *** [4c Jc Tc 7c] [Jh]
+*** ABATTAGE ***
+oshebast : montre [8h 4h] (double paire, Valets et Quatre)
+denisabb76 : montre [9h 6d] (une paire de Valets)
+oshebast a remporté 300  lors du pot .
+denisabb76 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [4c Jc Tc 7c Jh]
+Siège 1 : denisabb76 (grosse blind) a montré [9h 6d] et a perdu avec une paire de Valets
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : oshebast (petite blind) a montré [8h 4h] et a gagné (300) avec double paire, Valets et Quatre
+
+
+
+Main PokerStars n°251168256803 : Tournoi #3770413400, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau VI (50/100) - 24/06/2024 8:04:42 CET [24/06/2024 2:04:42 ET]
+Table '3770413400 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (880 en jetons) 
+Place 3: oshebast (620 en jetons) 
+oshebast : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Ks]
+oshebast : suit. 50
+psychoman59 : parole 
+*** FLOP *** [7d 6h 8s]
+psychoman59 : parole 
+oshebast : mise. 100
+psychoman59 : suit. 100
+*** TOURNANT *** [7d 6h 8s] [Jc]
+psychoman59 : parole 
+oshebast : parole 
+*** RIVIÈRE *** [7d 6h 8s Jc] [4c]
+psychoman59 : parole 
+oshebast : parole 
+*** ABATTAGE ***
+psychoman59 : montre [9s Ks] (Hauteur Roi)
+oshebast : montre [7s 9d] (une paire de Sept)
+oshebast a remporté 400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [7d 6h 8s Jc 4c]
+Siège 2 : psychoman59 (grosse blind) a montré [9s Ks] et a perdu avec Hauteur Roi
+Siège 3 : oshebast (bouton) (petite blind) a montré [7s 9d] et a gagné (400) avec une paire de Sept
+
+
+
+Main PokerStars n°251168258358 : Tournoi #3770413400, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau VI (50/100) - 24/06/2024 8:05:03 CET [24/06/2024 2:05:03 ET]
+Table '3770413400 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (680 en jetons) 
+Place 3: oshebast (820 en jetons) 
+psychoman59 : met la petite blind. 50
+oshebast : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Qd]
+psychoman59 : suit. 50
+oshebast : parole 
+*** FLOP *** [2d 4s 2s]
+oshebast : parole 
+psychoman59 : parole 
+*** TOURNANT *** [2d 4s 2s] [Ks]
+oshebast : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [2d 4s 2s Ks] [Qs]
+oshebast : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+oshebast : montre [7s 3s] (une couleur, hauteur Roi)
+psychoman59 : cache la main perdante. 
+oshebast a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [2d 4s 2s Ks Qs]
+Siège 2 : psychoman59 (bouton) (petite blind) a caché la main perdante. [6h Qd]
+Siège 3 : oshebast (grosse blind) a montré [7s 3s] et a gagné (200) avec une couleur, hauteur Roi
+
+
+
+Main PokerStars n°251168259358 : Tournoi #3770413400, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau VI (50/100) - 24/06/2024 8:05:17 CET [24/06/2024 2:05:17 ET]
+Table '3770413400 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (580 en jetons) 
+Place 3: oshebast (920 en jetons) 
+oshebast : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 4h]
+oshebast : suit. 50
+psychoman59 : parole 
+*** FLOP *** [Ts 3d Qd]
+psychoman59 : parole 
+oshebast : mise. 100
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à oshebast.
+oshebast a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [Ts 3d Qd]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : oshebast (bouton) (petite blind) a remporté (200)
+
+
+
+Main PokerStars n°251168260174 : Tournoi #3770413400, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau VI (50/100) - 24/06/2024 8:05:28 CET [24/06/2024 2:05:28 ET]
+Table '3770413400 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (480 en jetons) 
+Place 3: oshebast (1020 en jetons) 
+psychoman59 : met la petite blind. 50
+oshebast : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Jh]
+psychoman59 : suit. 50
+oshebast : parole 
+*** FLOP *** [Qc 7h Kh]
+oshebast : mise. 100
+psychoman59 : relance. 280 à 380 et est all-in.
+oshebast : suit. 280
+*** TOURNANT *** [Qc 7h Kh] [Qh]
+*** RIVIÈRE *** [Qc 7h Kh Qh] [6c]
+*** ABATTAGE ***
+oshebast : montre [3c Ks] (double paire, Rois et Dames)
+psychoman59 : montre [9h Jh] (une couleur, hauteur Roi)
+psychoman59 a remporté 960  lors du pot .
+*** SYNTHÈSE ***
+Pot total 960 | Commission 0 
+Tableau [Qc 7h Kh Qh 6c]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [9h Jh] et a gagné (960) avec une couleur, hauteur Roi
+Siège 3 : oshebast (grosse blind) a montré [3c Ks] et a perdu avec double paire, Rois et Dames
+
+
+
+Main PokerStars n°251168261323 : Tournoi #3770413400, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau VI (50/100) - 24/06/2024 8:05:43 CET [24/06/2024 2:05:43 ET]
+Table '3770413400 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (960 en jetons) 
+Place 3: oshebast (540 en jetons) 
+oshebast : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 5c]
+oshebast : suit. 50
+psychoman59 : parole 
+*** FLOP *** [Qc 5d Ac]
+psychoman59 : parole 
+oshebast : parole 
+*** TOURNANT *** [Qc 5d Ac] [Tc]
+psychoman59 : parole 
+oshebast : mise. 100
+psychoman59 : suit. 100
+*** RIVIÈRE *** [Qc 5d Ac Tc] [3h]
+psychoman59 : parole 
+oshebast : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Ts 5c] (double paire, Dix et Cinq)
+oshebast : cache la main perdante. 
+psychoman59 a remporté 400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [Qc 5d Ac Tc 3h]
+Siège 2 : psychoman59 (grosse blind) a montré [Ts 5c] et a gagné (400) avec double paire, Dix et Cinq
+Siège 3 : oshebast (bouton) (petite blind) a caché la main perdante. [9d Td]
+
+
+
+Main PokerStars n°251168262738 : Tournoi #3770413400, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau VII (60/120) - 24/06/2024 8:06:03 CET [24/06/2024 2:06:03 ET]
+Table '3770413400 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1160 en jetons) 
+Place 3: oshebast (340 en jetons) 
+psychoman59 : met la petite blind. 60
+oshebast : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 2d]
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à oshebast.
+oshebast a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : oshebast (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°251168263089 : Tournoi #3770413400, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau VII (60/120) - 24/06/2024 8:06:07 CET [24/06/2024 2:06:07 ET]
+Table '3770413400 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1100 en jetons) 
+Place 3: oshebast (400 en jetons) 
+oshebast : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Jd]
+oshebast : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (120)
+Siège 3 : oshebast (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°251168263565 : Tournoi #3770413400, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau VII (60/120) - 24/06/2024 8:06:14 CET [24/06/2024 2:06:14 ET]
+Table '3770413400 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1160 en jetons) 
+Place 3: oshebast (340 en jetons) 
+psychoman59 : met la petite blind. 60
+oshebast : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Qd]
+psychoman59 : suit. 60
+oshebast : parole 
+*** FLOP *** [5d 8d 8c]
+oshebast : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5d 8d 8c] [5c]
+oshebast : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [5d 8d 8c 5c] [3d]
+oshebast : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+oshebast : montre [Tc 7s] (double paire, Huit et Cinq)
+psychoman59 : montre [7c Qd] (double paire, Huit et Cinq - Dame kicker)
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [5d 8d 8c 5c 3d]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [7c Qd] et a gagné (240) avec double paire, Huit et Cinq
+Siège 3 : oshebast (grosse blind) a montré [Tc 7s] et a perdu avec double paire, Huit et Cinq
+
+
+
+Main PokerStars n°251168265594 : Tournoi #3770413400, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau VII (60/120) - 24/06/2024 8:06:40 CET [24/06/2024 2:06:40 ET]
+Table '3770413400 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1280 en jetons) 
+Place 3: oshebast (220 en jetons) 
+oshebast : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 5h]
+oshebast : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (120)
+Siège 3 : oshebast (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°251168265972 : Tournoi #3770413400, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau VII (60/120) - 24/06/2024 8:06:45 CET [24/06/2024 2:06:45 ET]
+Table '3770413400 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1340 en jetons) 
+Place 3: oshebast (160 en jetons) 
+psychoman59 : met la petite blind. 60
+oshebast : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 6d]
+psychoman59 : relance. 120 à 240
+oshebast : suit. 40 et est all-in.
+Personne n'a suivi. (80) sont retournés à psychoman59.
+*** FLOP *** [9c 8c Ts]
+*** TOURNANT *** [9c 8c Ts] [5s]
+*** RIVIÈRE *** [9c 8c Ts 5s] [3h]
+*** ABATTAGE ***
+oshebast : montre [8d Jc] (une paire de Huit)
+psychoman59 : montre [3d 6d] (une paire de Trois)
+oshebast a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [9c 8c Ts 5s 3h]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [3d 6d] et a perdu avec une paire de Trois
+Siège 3 : oshebast (grosse blind) a montré [8d Jc] et a gagné (320) avec une paire de Huit
+
+
+
+Main PokerStars n°251168266903 : Tournoi #3770413400, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau VII (60/120) - 24/06/2024 8:06:57 CET [24/06/2024 2:06:57 ET]
+Table '3770413400 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1180 en jetons) 
+Place 3: oshebast (320 en jetons) 
+oshebast : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Qd]
+oshebast : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (120)
+Siège 3 : oshebast (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°251168267230 : Tournoi #3770413400, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau VII (60/120) - 24/06/2024 8:07:02 CET [24/06/2024 2:07:02 ET]
+Table '3770413400 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1240 en jetons) 
+Place 3: oshebast (260 en jetons) 
+psychoman59 : met la petite blind. 60
+oshebast : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Qs]
+psychoman59 : suit. 60
+oshebast : parole 
+*** FLOP *** [6s Ah Jh]
+oshebast : parole 
+psychoman59 : mise. 120
+oshebast : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [6s Ah Jh]
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (240)
+Siège 3 : oshebast (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°251168268155 : Tournoi #3770413400, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau VII (60/120) - 24/06/2024 8:07:14 CET [24/06/2024 2:07:14 ET]
+Table '3770413400 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1360 en jetons) 
+Place 3: oshebast (140 en jetons) 
+oshebast : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Tc]
+oshebast : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (120)
+Siège 3 : oshebast (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°251168268466 : Tournoi #3770413400, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau VII (60/120) - 24/06/2024 8:07:18 CET [24/06/2024 2:07:18 ET]
+Table '3770413400 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1420 en jetons) 
+Place 3: oshebast (80 en jetons) 
+psychoman59 : met la petite blind. 60
+oshebast : met la grosse blind. 80 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 3c]
+psychoman59 : suit. 20
+*** FLOP *** [8c 4c 2c]
+*** TOURNANT *** [8c 4c 2c] [8s]
+*** RIVIÈRE *** [8c 4c 2c 8s] [Jd]
+*** ABATTAGE ***
+oshebast : montre [Th Td] (double paire, Dix et Huit)
+psychoman59 : montre [7d 3c] (une paire de Huit)
+oshebast a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [8c 4c 2c 8s Jd]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [7d 3c] et a perdu avec une paire de Huit
+Siège 3 : oshebast (grosse blind) a montré [Th Td] et a gagné (160) avec double paire, Dix et Huit
+
+
+
+Main PokerStars n°251168269278 : Tournoi #3770413400, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau VII (60/120) - 24/06/2024 8:07:29 CET [24/06/2024 2:07:29 ET]
+Table '3770413400 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1340 en jetons) 
+Place 3: oshebast (160 en jetons) 
+oshebast : met la petite blind. 60
+psychoman59 : met la grosse blind. 120
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Qd]
+oshebast : relance. 40 à 160 et est all-in.
+psychoman59 : suit. 40
+*** FLOP *** [6c Jh Ts]
+*** TOURNANT *** [6c Jh Ts] [4s]
+*** RIVIÈRE *** [6c Jh Ts 4s] [2s]
+*** ABATTAGE ***
+psychoman59 : montre [4h Qd] (une paire de Quatre)
+oshebast : montre [Ah 8s] (Hauteur As)
+psychoman59 a remporté 320  lors du pot .
+oshebast a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 0.50 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [6c Jh Ts 4s 2s]
+Siège 2 : psychoman59 (grosse blind) a montré [4h Qd] et a gagné (320) avec une paire de Quatre
+Siège 3 : oshebast (bouton) (petite blind) a montré [Ah 8s] et a perdu avec Hauteur As
+
+
+

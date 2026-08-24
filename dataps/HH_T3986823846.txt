@@ -1,0 +1,200 @@
+﻿Main PokerStars n°260241004406 : Tournoi #3986823846, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 27/03/2026 7:30:32 CET [27/03/2026 2:30:32 ET]
+Table '3986823846 1' 3-max Siège #1 est au bouton.
+Place 1: estoya30 (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: alexdre007 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+alexdre007 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 6d]
+estoya30 : passe. 
+psychoman59 : suit. 10
+alexdre007 : parole 
+*** FLOP *** [Kd 2c 6s]
+psychoman59 : parole 
+alexdre007 : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [Kd 2c 6s] [5s]
+psychoman59 : parole 
+alexdre007 : mise. 440 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (440) sont retournés à alexdre007.
+alexdre007 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Kd 2c 6s 5s]
+Siège 1 : estoya30 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Tournant
+Siège 3 : alexdre007 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°260241005539 : Tournoi #3986823846, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 27/03/2026 7:30:54 CET [27/03/2026 2:30:54 ET]
+Table '3986823846 1' 3-max Siège #2 est au bouton.
+Place 1: estoya30 (500 en jetons) 
+Place 2: psychoman59 (440 en jetons) 
+Place 3: alexdre007 (560 en jetons) 
+alexdre007 : met la petite blind. 10
+estoya30 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 2c]
+psychoman59 : passe. 
+alexdre007 : relance. 20 à 40
+estoya30 : relance. 460 à 500 et est all-in.
+alexdre007 : suit. 460
+*** FLOP *** [7c 3d Qh]
+*** TOURNANT *** [7c 3d Qh] [Ad]
+*** RIVIÈRE *** [7c 3d Qh Ad] [Kh]
+*** ABATTAGE ***
+alexdre007 : montre [Js 6s] (Hauteur As)
+estoya30 : montre [As Kc] (double paire, As et Rois)
+estoya30 a remporté 1000  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1000 | Commission 0 
+Tableau [7c 3d Qh Ad Kh]
+Siège 1 : estoya30 (grosse blind) a montré [As Kc] et a gagné (1000) avec double paire, As et Rois
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : alexdre007 (petite blind) a montré [Js 6s] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°260241006351 : Tournoi #3986823846, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 27/03/2026 7:31:09 CET [27/03/2026 2:31:09 ET]
+Table '3986823846 1' 3-max Siège #3 est au bouton.
+Place 1: estoya30 (1000 en jetons) 
+Place 2: psychoman59 (440 en jetons) 
+Place 3: alexdre007 (60 en jetons) 
+estoya30 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 5h]
+alexdre007 : relance. 40 à 60 et est all-in.
+estoya30 : relance. 40 à 100
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à estoya30.
+*** FLOP *** [3d Js 5d]
+*** TOURNANT *** [3d Js 5d] [Ks]
+*** RIVIÈRE *** [3d Js 5d Ks] [7s]
+*** ABATTAGE ***
+estoya30 : montre [Qs Tc] (Hauteur Roi)
+alexdre007 : montre [2s 4h] (Hauteur Roi - plus basse kicker)
+estoya30 a remporté 140  lors du pot .
+alexdre007 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [3d Js 5d Ks 7s]
+Siège 1 : estoya30 (petite blind) a montré [Qs Tc] et a gagné (140) avec Hauteur Roi
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : alexdre007 (bouton) a montré [2s 4h] et a perdu avec Hauteur Roi
+
+
+
+Main PokerStars n°260241007392 : Tournoi #3986823846, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 27/03/2026 7:31:30 CET [27/03/2026 2:31:30 ET]
+Table '3986823846 1' 3-max Siège #2 est au bouton.
+Place 1: estoya30 (1080 en jetons) 
+Place 2: psychoman59 (420 en jetons) 
+psychoman59 : met la petite blind. 10
+estoya30 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 2s]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à estoya30.
+estoya30 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : estoya30 (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260241007657 : Tournoi #3986823846, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 27/03/2026 7:31:35 CET [27/03/2026 2:31:35 ET]
+Table '3986823846 1' 3-max Siège #1 est au bouton.
+Place 1: estoya30 (1090 en jetons) 
+Place 2: psychoman59 (410 en jetons) 
+estoya30 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Qh]
+estoya30 : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : estoya30 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°260241007955 : Tournoi #3986823846, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 27/03/2026 7:31:41 CET [27/03/2026 2:31:41 ET]
+Table '3986823846 1' 3-max Siège #2 est au bouton.
+Place 1: estoya30 (1080 en jetons) 
+Place 2: psychoman59 (420 en jetons) 
+psychoman59 : met la petite blind. 10
+estoya30 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 2c]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à estoya30.
+estoya30 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : estoya30 (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260241008198 : Tournoi #3986823846, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 27/03/2026 7:31:46 CET [27/03/2026 2:31:46 ET]
+Table '3986823846 1' 3-max Siège #1 est au bouton.
+Place 1: estoya30 (1090 en jetons) 
+Place 2: psychoman59 (410 en jetons) 
+estoya30 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Kd]
+estoya30 : relance. 20 à 40
+psychoman59 : relance. 370 à 410 et est all-in.
+estoya30 : suit. 370
+*** FLOP *** [7c 2d 8s]
+*** TOURNANT *** [7c 2d 8s] [Qs]
+*** RIVIÈRE *** [7c 2d 8s Qs] [5c]
+*** ABATTAGE ***
+psychoman59 : montre [Ks Kd] (une paire de Rois)
+estoya30 : montre [Qc Jh] (une paire de Dames)
+psychoman59 a remporté 820  lors du pot .
+*** SYNTHÈSE ***
+Pot total 820 | Commission 0 
+Tableau [7c 2d 8s Qs 5c]
+Siège 1 : estoya30 (bouton) (petite blind) a montré [Qc Jh] et a perdu avec une paire de Dames
+Siège 2 : psychoman59 (grosse blind) a montré [Ks Kd] et a gagné (820) avec une paire de Rois
+
+
+
+Main PokerStars n°260241009079 : Tournoi #3986823846, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 27/03/2026 7:32:03 CET [27/03/2026 2:32:03 ET]
+Table '3986823846 1' 3-max Siège #2 est au bouton.
+Place 1: estoya30 (680 en jetons) 
+Place 2: psychoman59 (820 en jetons) 
+psychoman59 : met la petite blind. 10
+estoya30 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 7s]
+psychoman59 : suit. 10
+estoya30 : relance. 660 à 680 et est all-in.
+psychoman59 : suit. 660
+*** FLOP *** [4c 8c 5c]
+*** TOURNANT *** [4c 8c 5c] [8s]
+*** RIVIÈRE *** [4c 8c 5c 8s] [Td]
+*** ABATTAGE ***
+estoya30 : montre [3h Kh] (une paire de Huit)
+psychoman59 : montre [Ad 7s] (une paire de Huit - As kicker)
+psychoman59 a remporté 1360  lors du pot .
+estoya30 a fini le tournoi en 2e position.
+psychoman59 gagne le tournoi - félicitations !
+psychoman59 gagne un ticket " €1 Step 2 MTT Power Path ticket "
+*** SYNTHÈSE ***
+Pot total 1360 | Commission 0 
+Tableau [4c 8c 5c 8s Td]
+Siège 1 : estoya30 (grosse blind) a montré [3h Kh] et a perdu avec une paire de Huit
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Ad 7s] et a gagné (1360) avec une paire de Huit
+
+
+

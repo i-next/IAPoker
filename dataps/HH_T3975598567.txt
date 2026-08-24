@@ -1,0 +1,509 @@
+﻿Main PokerStars n°259746690841 : Tournoi #3975598567, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 16/02/2026 8:50:03 CET [16/02/2026 2:50:03 ET]
+Table '3975598567 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: tony_vigo (500 en jetons) 
+Place 3: jcvampiro (500 en jetons) 
+tony_vigo : met la petite blind. 10
+jcvampiro : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 7s]
+psychoman59 : passe. 
+tony_vigo : suit. 10
+jcvampiro : parole 
+*** FLOP *** [4s 9s 5s]
+tony_vigo : parole 
+jcvampiro : parole 
+*** TOURNANT *** [4s 9s 5s] [3d]
+tony_vigo : mise. 20
+jcvampiro : suit. 20
+*** RIVIÈRE *** [4s 9s 5s 3d] [6d]
+tony_vigo : mise. 40
+jcvampiro : relance. 420 à 460 et est all-in.
+tony_vigo : passe. 
+Personne n'a suivi. (420) sont retournés à jcvampiro.
+jcvampiro a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [4s 9s 5s 3d 6d]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : tony_vigo (petite blind) s'est couché. sur le Rivière
+Siège 3 : jcvampiro (grosse blind) a remporté (160)
+
+
+
+Main PokerStars n°259746692206 : Tournoi #3975598567, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 16/02/2026 8:50:26 CET [16/02/2026 2:50:26 ET]
+Table '3975598567 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: tony_vigo (420 en jetons) 
+Place 3: jcvampiro (580 en jetons) 
+jcvampiro : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Kc]
+tony_vigo : suit. 20
+jcvampiro : suit. 10
+psychoman59 : parole 
+*** FLOP *** [4h 6s 5h]
+jcvampiro : parole 
+psychoman59 : parole 
+tony_vigo : parole 
+*** TOURNANT *** [4h 6s 5h] [Qc]
+jcvampiro : mise. 60
+psychoman59 : passe. 
+tony_vigo : passe. 
+Personne n'a suivi. (60) sont retournés à jcvampiro.
+jcvampiro a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [4h 6s 5h Qc]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : tony_vigo (bouton) s'est couché. sur le Tournant
+Siège 3 : jcvampiro (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°259746693298 : Tournoi #3975598567, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 16/02/2026 8:50:45 CET [16/02/2026 2:50:45 ET]
+Table '3975598567 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (480 en jetons) 
+Place 2: tony_vigo (400 en jetons) 
+Place 3: jcvampiro (620 en jetons) 
+psychoman59 : met la petite blind. 10
+tony_vigo : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 6d]
+jcvampiro : suit. 20
+psychoman59 : suit. 10
+tony_vigo : parole 
+*** FLOP *** [4c 6c 2d]
+psychoman59 : mise. 60
+tony_vigo : passe. 
+jcvampiro : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [4c 6c 2d]
+Siège 1 : psychoman59 (petite blind) a remporté (60)
+Siège 2 : tony_vigo (grosse blind) s'est couché. sur le Flop
+Siège 3 : jcvampiro (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°259746694116 : Tournoi #3975598567, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 16/02/2026 8:50:59 CET [16/02/2026 2:50:59 ET]
+Table '3975598567 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (520 en jetons) 
+Place 2: tony_vigo (380 en jetons) 
+Place 3: jcvampiro (600 en jetons) 
+tony_vigo : met la petite blind. 10
+jcvampiro : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 6c]
+psychoman59 : passe. 
+tony_vigo : suit. 10
+jcvampiro : parole 
+*** FLOP *** [9d Jc Kh]
+tony_vigo : parole 
+jcvampiro : mise. 40
+tony_vigo : passe. 
+Personne n'a suivi. (40) sont retournés à jcvampiro.
+jcvampiro a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [9d Jc Kh]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : tony_vigo (petite blind) s'est couché. sur le Flop
+Siège 3 : jcvampiro (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°259746694998 : Tournoi #3975598567, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 16/02/2026 8:51:15 CET [16/02/2026 2:51:15 ET]
+Table '3975598567 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (520 en jetons) 
+Place 2: tony_vigo (360 en jetons) 
+Place 3: jcvampiro (620 en jetons) 
+jcvampiro : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 6c]
+tony_vigo : suit. 20
+jcvampiro : relance. 600 à 620 et est all-in.
+psychoman59 : passe. 
+tony_vigo : suit. 340 et est all-in.
+Personne n'a suivi. (260) sont retournés à jcvampiro.
+*** FLOP *** [3c 8s 9c]
+*** TOURNANT *** [3c 8s 9c] [Jh]
+*** RIVIÈRE *** [3c 8s 9c Jh] [8d]
+*** ABATTAGE ***
+jcvampiro : montre [Ks Kh] (double paire, Rois et Huit)
+tony_vigo : montre [Qh Kd] (une paire de Huit)
+jcvampiro a remporté 740  lors du pot .
+tony_vigo a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Tableau [3c 8s 9c Jh 8d]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : tony_vigo (bouton) a montré [Qh Kd] et a perdu avec une paire de Huit
+Siège 3 : jcvampiro (petite blind) a montré [Ks Kh] et a gagné (740) avec double paire, Rois et Huit
+
+
+
+Main PokerStars n°259746696108 : Tournoi #3975598567, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 16/02/2026 8:51:35 CET [16/02/2026 2:51:35 ET]
+Table '3975598567 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 3: jcvampiro (1000 en jetons) 
+psychoman59 : met la petite blind. 10
+jcvampiro : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 2h]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à jcvampiro.
+jcvampiro a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : jcvampiro (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°259746696365 : Tournoi #3975598567, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 16/02/2026 8:51:40 CET [16/02/2026 2:51:40 ET]
+Table '3975598567 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (490 en jetons) 
+Place 3: jcvampiro (1010 en jetons) 
+jcvampiro : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 6h]
+jcvampiro : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Th 9c 6s]
+psychoman59 : parole 
+jcvampiro : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à jcvampiro.
+jcvampiro a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Th 9c 6s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : jcvampiro (bouton) (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°259746697096 : Tournoi #3975598567, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 16/02/2026 8:51:53 CET [16/02/2026 2:51:53 ET]
+Table '3975598567 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (470 en jetons) 
+Place 3: jcvampiro (1030 en jetons) 
+psychoman59 : met la petite blind. 10
+jcvampiro : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Ks]
+psychoman59 : suit. 10
+jcvampiro : parole 
+*** FLOP *** [2d 5h Qd]
+jcvampiro : parole 
+psychoman59 : parole 
+*** TOURNANT *** [2d 5h Qd] [As]
+jcvampiro : parole 
+psychoman59 : mise. 40
+jcvampiro : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [2d 5h Qd As]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (40)
+Siège 3 : jcvampiro (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°259746698106 : Tournoi #3975598567, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 16/02/2026 8:52:11 CET [16/02/2026 2:52:11 ET]
+Table '3975598567 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (490 en jetons) 
+Place 3: jcvampiro (1010 en jetons) 
+jcvampiro : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 4h]
+jcvampiro : suit. 15
+psychoman59 : relance. 460 à 490 et est all-in.
+jcvampiro : passe. 
+Personne n'a suivi. (460) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : jcvampiro (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°259746698623 : Tournoi #3975598567, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 16/02/2026 8:52:20 CET [16/02/2026 2:52:20 ET]
+Table '3975598567 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (520 en jetons) 
+Place 3: jcvampiro (980 en jetons) 
+psychoman59 : met la petite blind. 15
+jcvampiro : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Ac]
+psychoman59 : suit. 15
+jcvampiro : parole 
+*** FLOP *** [Qc 9s Js]
+jcvampiro : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Qc 9s Js] [4c]
+jcvampiro : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Qc 9s Js 4c] [Tc]
+jcvampiro : parole 
+psychoman59 : mise. 60
+jcvampiro : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Qc 9s Js 4c Tc]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 3 : jcvampiro (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°259746700005 : Tournoi #3975598567, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 16/02/2026 8:52:44 CET [16/02/2026 2:52:44 ET]
+Table '3975598567 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (550 en jetons) 
+Place 3: jcvampiro (950 en jetons) 
+jcvampiro : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Ts]
+jcvampiro : suit. 15
+psychoman59 : relance. 520 à 550 et est all-in.
+jcvampiro : passe. 
+Personne n'a suivi. (520) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : jcvampiro (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°259746700556 : Tournoi #3975598567, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 16/02/2026 8:52:54 CET [16/02/2026 2:52:54 ET]
+Table '3975598567 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (580 en jetons) 
+Place 3: jcvampiro (920 en jetons) 
+psychoman59 : met la petite blind. 15
+jcvampiro : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 7c]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à jcvampiro.
+jcvampiro a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : jcvampiro (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°259746700807 : Tournoi #3975598567, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 16/02/2026 8:52:59 CET [16/02/2026 2:52:59 ET]
+Table '3975598567 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (565 en jetons) 
+Place 3: jcvampiro (935 en jetons) 
+jcvampiro : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Qs]
+jcvampiro : suit. 15
+psychoman59 : parole 
+*** FLOP *** [4d 7d 8d]
+psychoman59 : parole 
+jcvampiro : parole 
+*** TOURNANT *** [4d 7d 8d] [Th]
+psychoman59 : parole 
+jcvampiro : parole 
+*** RIVIÈRE *** [4d 7d 8d Th] [Ad]
+psychoman59 : parole 
+jcvampiro : parole 
+*** ABATTAGE ***
+psychoman59 : montre [4h Qs] (une paire de Quatre)
+jcvampiro : cache la main perdante. 
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [4d 7d 8d Th Ad]
+Siège 1 : psychoman59 (grosse blind) a montré [4h Qs] et a gagné (60) avec une paire de Quatre
+Siège 3 : jcvampiro (bouton) (petite blind) a caché la main perdante. [2c 3h]
+
+
+
+Main PokerStars n°259746702555 : Tournoi #3975598567, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 16/02/2026 8:53:30 CET [16/02/2026 2:53:30 ET]
+Table '3975598567 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (595 en jetons) 
+Place 3: jcvampiro (905 en jetons) 
+psychoman59 : met la petite blind. 15
+jcvampiro : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 6d]
+psychoman59 : suit. 15
+jcvampiro : parole 
+*** FLOP *** [8d Tc 7h]
+jcvampiro : parole 
+psychoman59 : parole 
+*** TOURNANT *** [8d Tc 7h] [5c]
+jcvampiro : parole 
+psychoman59 : mise. 60
+jcvampiro : suit. 60
+*** RIVIÈRE *** [8d Tc 7h 5c] [5h]
+jcvampiro : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+jcvampiro : montre [4h Kh] (une paire de Cinq)
+psychoman59 : montre [5d 6d] (un brelan de Cinq)
+psychoman59 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [8d Tc 7h 5c 5h]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [5d 6d] et a gagné (180) avec un brelan de Cinq
+Siège 3 : jcvampiro (grosse blind) a montré [4h Kh] et a perdu avec une paire de Cinq
+
+
+
+Main PokerStars n°259746704121 : Tournoi #3975598567, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 16/02/2026 8:53:59 CET [16/02/2026 2:53:59 ET]
+Table '3975598567 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (685 en jetons) 
+Place 3: jcvampiro (815 en jetons) 
+jcvampiro : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 4h]
+jcvampiro : suit. 15
+psychoman59 : parole 
+*** FLOP *** [8d Kc 6h]
+psychoman59 : parole 
+jcvampiro : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à jcvampiro.
+jcvampiro a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [8d Kc 6h]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : jcvampiro (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°259746705209 : Tournoi #3975598567, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 16/02/2026 8:54:19 CET [16/02/2026 2:54:19 ET]
+Table '3975598567 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (655 en jetons) 
+Place 3: jcvampiro (845 en jetons) 
+psychoman59 : met la petite blind. 20
+jcvampiro : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 5h]
+psychoman59 : suit. 20
+jcvampiro : parole 
+*** FLOP *** [9s 9h 8c]
+jcvampiro : parole 
+psychoman59 : parole 
+*** TOURNANT *** [9s 9h 8c] [3c]
+jcvampiro : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à jcvampiro.
+jcvampiro a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [9s 9h 8c 3c]
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. sur le Tournant
+Siège 3 : jcvampiro (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°259746705993 : Tournoi #3975598567, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 16/02/2026 8:54:33 CET [16/02/2026 2:54:33 ET]
+Table '3975598567 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (615 en jetons) 
+Place 3: jcvampiro (885 en jetons) 
+jcvampiro : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Jh]
+jcvampiro : suit. 20
+psychoman59 : parole 
+*** FLOP *** [7s 2s Js]
+psychoman59 : parole 
+jcvampiro : parole 
+*** TOURNANT *** [7s 2s Js] [4s]
+psychoman59 : parole 
+jcvampiro : parole 
+*** RIVIÈRE *** [7s 2s Js 4s] [Ac]
+psychoman59 : parole 
+jcvampiro : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à jcvampiro.
+jcvampiro a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [7s 2s Js 4s Ac]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : jcvampiro (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°259746707327 : Tournoi #3975598567, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 16/02/2026 8:54:56 CET [16/02/2026 2:54:56 ET]
+Table '3975598567 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (575 en jetons) 
+Place 3: jcvampiro (925 en jetons) 
+psychoman59 : met la petite blind. 20
+jcvampiro : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Ts]
+psychoman59 : relance. 40 à 80
+jcvampiro : suit. 40
+*** FLOP *** [Ac 8s Qh]
+jcvampiro : mise. 845 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (845) sont retournés à jcvampiro.
+jcvampiro a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Ac 8s Qh]
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+Siège 3 : jcvampiro (grosse blind) a remporté (160)
+
+
+
+Main PokerStars n°259746708015 : Tournoi #3975598567, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 16/02/2026 8:55:09 CET [16/02/2026 2:55:09 ET]
+Table '3975598567 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (495 en jetons) 
+Place 3: jcvampiro (1005 en jetons) 
+jcvampiro : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Kd]
+jcvampiro : suit. 20
+psychoman59 : parole 
+*** FLOP *** [4d Ts 3h]
+psychoman59 : parole 
+jcvampiro : mise. 965 et est all-in.
+psychoman59 : suit. 455 et est all-in.
+Personne n'a suivi. (510) sont retournés à jcvampiro.
+*** TOURNANT *** [4d Ts 3h] [5d]
+*** RIVIÈRE *** [4d Ts 3h 5d] [Ac]
+*** ABATTAGE ***
+psychoman59 : montre [4s Kd] (une paire de Quatre)
+jcvampiro : montre [2d 8d] (une suite, As à Cinq)
+jcvampiro a remporté 990  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+jcvampiro gagne le tournoi - félicitations !
+jcvampiro gagne un ticket " €1 Step 2 MTT Power Path ticket "
+*** SYNTHÈSE ***
+Pot total 990 | Commission 0 
+Tableau [4d Ts 3h 5d Ac]
+Siège 1 : psychoman59 (grosse blind) a montré [4s Kd] et a perdu avec une paire de Quatre
+Siège 3 : jcvampiro (bouton) (petite blind) a montré [2d 8d] et a gagné (990) avec une suite, As à Cinq
+
+
+

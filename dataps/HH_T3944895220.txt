@@ -1,0 +1,261 @@
+﻿Main PokerStars n°258417243669 : Tournoi #3944895220, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 07/11/2025 10:27:56 CET [07/11/2025 4:27:56 ET]
+Table '3944895220 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: juanr88 (500 en jetons) 
+Place 3: cedric06816 (500 en jetons) 
+juanr88 : met la petite blind. 10
+cedric06816 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 7c]
+psychoman59 : suit. 20
+juanr88 : passe. 
+cedric06816 : parole 
+*** FLOP *** [Ac Qc 7s]
+cedric06816 : parole 
+psychoman59 : mise. 50
+cedric06816 : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [Ac Qc 7s]
+Siège 1 : psychoman59 (bouton) a remporté (50)
+Siège 2 : juanr88 (petite blind) s'est couché. avant Flop
+Siège 3 : cedric06816 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°258417245122 : Tournoi #3944895220, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 07/11/2025 10:28:15 CET [07/11/2025 4:28:15 ET]
+Table '3944895220 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (530 en jetons) 
+Place 2: juanr88 (490 en jetons) 
+Place 3: cedric06816 (480 en jetons) 
+cedric06816 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 2s]
+juanr88 : passe. 
+cedric06816 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [9s Qs 5c]
+cedric06816 : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [9s Qs 5c] [6d]
+cedric06816 : mise. 40
+psychoman59 : suit. 40
+*** RIVIÈRE *** [9s Qs 5c 6d] [3s]
+cedric06816 : mise. 100
+psychoman59 : suit. 100
+*** ABATTAGE ***
+cedric06816 : montre [3d Qc] (double paire, Dames et Trois)
+psychoman59 : montre [4s 2s] (une couleur, hauteur Dame)
+psychoman59 a remporté 400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [9s Qs 5c 6d 3s]
+Siège 1 : psychoman59 (grosse blind) a montré [4s 2s] et a gagné (400) avec une couleur, hauteur Dame
+Siège 2 : juanr88 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : cedric06816 (petite blind) a montré [3d Qc] et a perdu avec double paire, Dames et Trois
+
+
+
+Main PokerStars n°258417246761 : Tournoi #3944895220, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 07/11/2025 10:28:36 CET [07/11/2025 4:28:36 ET]
+Table '3944895220 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (730 en jetons) 
+Place 2: juanr88 (490 en jetons) 
+Place 3: cedric06816 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+juanr88 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Qs]
+cedric06816 : suit. 20
+psychoman59 : suit. 10
+juanr88 : parole 
+*** FLOP *** [8h 7s 5s]
+psychoman59 : parole 
+juanr88 : parole 
+cedric06816 : mise. 40
+psychoman59 : passe. 
+juanr88 : suit. 40
+*** TOURNANT *** [8h 7s 5s] [Kc]
+juanr88 : parole 
+cedric06816 : mise. 40
+juanr88 : suit. 40
+*** RIVIÈRE *** [8h 7s 5s Kc] [4d]
+juanr88 : mise. 165
+cedric06816 : suit. 165
+*** ABATTAGE ***
+juanr88 : montre [6s Tc] (une suite, Quatre à Huit)
+cedric06816 : cache la main perdante. 
+juanr88 a remporté 550  lors du pot .
+*** SYNTHÈSE ***
+Pot total 550 | Commission 0 
+Tableau [8h 7s 5s Kc 4d]
+Siège 1 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 2 : juanr88 (grosse blind) a montré [6s Tc] et a gagné (550) avec une suite, Quatre à Huit
+Siège 3 : cedric06816 (bouton) a caché la main perdante. [7d Ks]
+
+
+
+Main PokerStars n°258417250707 : Tournoi #3944895220, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 07/11/2025 10:29:28 CET [07/11/2025 4:29:28 ET]
+Table '3944895220 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (710 en jetons) 
+Place 2: juanr88 (775 en jetons) 
+Place 3: cedric06816 (15 en jetons) 
+juanr88 : met la petite blind. 10
+cedric06816 : met la grosse blind. 15 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 6d]
+psychoman59 : passe. 
+juanr88 : suit. 5
+*** FLOP *** [Ts 7s 6s]
+*** TOURNANT *** [Ts 7s 6s] [7c]
+*** RIVIÈRE *** [Ts 7s 6s 7c] [4d]
+*** ABATTAGE ***
+juanr88 : montre [Jc Kd] (une paire de Sept)
+cedric06816 : montre [9s 4c] (double paire, Sept et Quatre)
+cedric06816 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Tableau [Ts 7s 6s 7c 4d]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : juanr88 (petite blind) a montré [Jc Kd] et a perdu avec une paire de Sept
+Siège 3 : cedric06816 (grosse blind) a montré [9s 4c] et a gagné (30) avec double paire, Sept et Quatre
+
+
+
+Main PokerStars n°258417252086 : Tournoi #3944895220, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 07/11/2025 10:29:45 CET [07/11/2025 4:29:45 ET]
+Table '3944895220 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (710 en jetons) 
+Place 2: juanr88 (760 en jetons) 
+Place 3: cedric06816 (30 en jetons) 
+cedric06816 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 9c]
+juanr88 : relance. 20 à 40
+cedric06816 : suit. 20 et est all-in.
+psychoman59 : suit. 20
+*** FLOP *** [Ts 6d Tc]
+psychoman59 : parole 
+juanr88 : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à juanr88.
+*** TOURNANT *** [Ts 6d Tc] [3s]
+*** RIVIÈRE *** [Ts 6d Tc 3s] [4s]
+*** ABATTAGE ***
+juanr88 : montre [Qh Jc] (une paire de Dix)
+juanr88 a remporté 20  parallèle lors du pot .
+cedric06816 : montre [8d 3d] (double paire, Dix et Trois)
+cedric06816 a remporté 90  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 110 Principal pot 90. Parallèle pot 20. | Commission 0 
+Tableau [Ts 6d Tc 3s 4s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : juanr88 (bouton) a montré [Qh Jc] et a gagné (20) avec une paire de Dix
+Siège 3 : cedric06816 (petite blind) a montré [8d 3d] et a gagné (90) avec double paire, Dix et Trois
+
+
+
+Main PokerStars n°258417254700 : Tournoi #3944895220, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 07/11/2025 10:30:18 CET [07/11/2025 4:30:18 ET]
+Table '3944895220 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (670 en jetons) 
+Place 2: juanr88 (740 en jetons) 
+Place 3: cedric06816 (90 en jetons) 
+psychoman59 : met la petite blind. 15
+juanr88 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 9h]
+cedric06816 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à juanr88.
+juanr88 a remporté 30  lors du pot .
+juanr88 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : juanr88 (grosse blind) a remporté (30)
+Siège 3 : cedric06816 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°258417255389 : Tournoi #3944895220, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 07/11/2025 10:30:27 CET [07/11/2025 4:30:27 ET]
+Table '3944895220 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (655 en jetons) 
+Place 2: juanr88 (755 en jetons) 
+Place 3: cedric06816 (90 en jetons) 
+juanr88 : met la petite blind. 15
+cedric06816 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 9s]
+psychoman59 : suit. 30
+juanr88 : relance. 725 à 755 et est all-in.
+cedric06816 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (725) sont retournés à juanr88.
+juanr88 a remporté 90  lors du pot .
+juanr88 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 2 : juanr88 (petite blind) a remporté (90)
+Siège 3 : cedric06816 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258417256492 : Tournoi #3944895220, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 07/11/2025 10:30:41 CET [07/11/2025 4:30:41 ET]
+Table '3944895220 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (625 en jetons) 
+Place 2: juanr88 (815 en jetons) 
+Place 3: cedric06816 (60 en jetons) 
+cedric06816 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Jd]
+juanr88 : relance. 30 à 60
+cedric06816 : passe. 
+psychoman59 : relance. 565 à 625 et est all-in.
+juanr88 : passe. 
+Personne n'a suivi. (565) sont retournés à psychoman59.
+psychoman59 a remporté 135  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 135 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (135)
+Siège 2 : juanr88 (bouton) s'est couché. avant Flop
+Siège 3 : cedric06816 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258417257525 : Tournoi #3944895220, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 07/11/2025 10:30:54 CET [07/11/2025 4:30:54 ET]
+Table '3944895220 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (700 en jetons) 
+Place 2: juanr88 (755 en jetons) 
+Place 3: cedric06816 (45 en jetons) 
+psychoman59 : met la petite blind. 15
+juanr88 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Js]
+cedric06816 : relance. 15 à 45 et est all-in.
+psychoman59 : relance. 655 à 700 et est all-in.
+juanr88 : suit. 670
+*** FLOP *** [Ad Kh 7s]
+*** TOURNANT *** [Ad Kh 7s] [Td]
+*** RIVIÈRE *** [Ad Kh 7s Td] [Ts]
+*** ABATTAGE ***
+psychoman59 : montre [Ks Js] (double paire, Rois et Dix)
+juanr88 : montre [7h 7c] (un full, full aux Sept par les Dix)
+juanr88 a remporté 1310  parallèle lors du pot .
+cedric06816 : montre [Ah Tc] (un full, full aux Dix par les As)
+cedric06816 a remporté 135  principal lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 1445 Principal pot 135. Parallèle pot 1310. | Commission 0 
+Tableau [Ad Kh 7s Td Ts]
+Siège 1 : psychoman59 (petite blind) a montré [Ks Js] et a perdu avec double paire, Rois et Dix
+Siège 2 : juanr88 (grosse blind) a montré [7h 7c] et a gagné (1310) avec un full, full aux Sept par les Dix
+Siège 3 : cedric06816 (bouton) a montré [Ah Tc] et a gagné (135) avec un full, full aux Dix par les As
+
+
+

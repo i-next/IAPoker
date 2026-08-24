@@ -1,0 +1,416 @@
+﻿Main PokerStars n°254185774786 : Tournoi #3842546620, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 04/01/2025 8:52:00 CET [04/01/2025 2:52:00 ET]
+Table '3842546620 1' 3-max Siège #1 est au bouton.
+Place 1: nalameo (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: luisxXx7 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+luisxXx7 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 9d]
+nalameo : passe. 
+psychoman59 : relance. 480 à 500 et est all-in.
+luisxXx7 : passe. 
+Personne n'a suivi. (480) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : nalameo (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (40)
+Siège 3 : luisxXx7 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254185775676 : Tournoi #3842546620, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 04/01/2025 8:52:11 CET [04/01/2025 2:52:11 ET]
+Table '3842546620 1' 3-max Siège #2 est au bouton.
+Place 1: nalameo (500 en jetons) 
+Place 2: psychoman59 (520 en jetons) 
+Place 3: luisxXx7 (480 en jetons) 
+luisxXx7 : met la petite blind. 10
+nalameo : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h As]
+psychoman59 : suit. 20
+luisxXx7 : suit. 10
+nalameo : parole 
+*** FLOP *** [Kh Js Jc]
+luisxXx7 : mise. 20
+nalameo : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à luisxXx7.
+luisxXx7 a remporté 60  lors du pot .
+luisxXx7 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Kh Js Jc]
+Siège 1 : nalameo (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 3 : luisxXx7 (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°254185777245 : Tournoi #3842546620, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 04/01/2025 8:52:29 CET [04/01/2025 2:52:29 ET]
+Table '3842546620 1' 3-max Siège #3 est au bouton.
+Place 1: nalameo (480 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: luisxXx7 (520 en jetons) 
+nalameo : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 7h]
+luisxXx7 : suit. 20
+nalameo : suit. 10
+psychoman59 : parole 
+*** FLOP *** [5s 4h 9s]
+nalameo : parole 
+psychoman59 : mise. 30
+luisxXx7 : suit. 30
+nalameo : suit. 30
+*** TOURNANT *** [5s 4h 9s] [Qs]
+nalameo : parole 
+psychoman59 : mise. 75
+luisxXx7 : suit. 75
+nalameo : passe. 
+*** RIVIÈRE *** [5s 4h 9s Qs] [8d]
+psychoman59 : parole 
+luisxXx7 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [As 7h] (Hauteur As)
+luisxXx7 : montre [3c 4s] (une paire de Quatre)
+luisxXx7 a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [5s 4h 9s Qs 8d]
+Siège 1 : nalameo (petite blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (grosse blind) a montré [As 7h] et a perdu avec Hauteur As
+Siège 3 : luisxXx7 (bouton) a montré [3c 4s] et a gagné (300) avec une paire de Quatre
+
+
+
+Main PokerStars n°254185781005 : Tournoi #3842546620, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 04/01/2025 8:53:16 CET [04/01/2025 2:53:16 ET]
+Table '3842546620 1' 3-max Siège #1 est au bouton.
+Place 1: nalameo (430 en jetons) 
+Place 2: psychoman59 (375 en jetons) 
+Place 3: luisxXx7 (695 en jetons) 
+psychoman59 : met la petite blind. 10
+luisxXx7 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 9c]
+nalameo : passe. 
+psychoman59 : suit. 10
+luisxXx7 : parole 
+*** FLOP *** [3c 6s 2h]
+psychoman59 : parole 
+luisxXx7 : parole 
+*** TOURNANT *** [3c 6s 2h] [3s]
+psychoman59 : parole 
+luisxXx7 : parole 
+*** RIVIÈRE *** [3c 6s 2h 3s] [5d]
+psychoman59 : parole 
+luisxXx7 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à luisxXx7.
+luisxXx7 a remporté 40  lors du pot .
+luisxXx7 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [3c 6s 2h 3s 5d]
+Siège 1 : nalameo (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Rivière
+Siège 3 : luisxXx7 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°254185783495 : Tournoi #3842546620, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 04/01/2025 8:53:46 CET [04/01/2025 2:53:46 ET]
+Table '3842546620 1' 3-max Siège #2 est au bouton.
+Place 1: nalameo (430 en jetons) 
+Place 2: psychoman59 (355 en jetons) 
+Place 3: luisxXx7 (715 en jetons) 
+luisxXx7 : met la petite blind. 10
+nalameo : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Jh]
+psychoman59 : passe. 
+luisxXx7 : passe. 
+Personne n'a suivi. (10) sont retournés à nalameo.
+nalameo a remporté 20  lors du pot .
+nalameo : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : nalameo (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : luisxXx7 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254185783990 : Tournoi #3842546620, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 04/01/2025 8:53:52 CET [04/01/2025 2:53:52 ET]
+Table '3842546620 1' 3-max Siège #3 est au bouton.
+Place 1: nalameo (440 en jetons) 
+Place 2: psychoman59 (355 en jetons) 
+Place 3: luisxXx7 (705 en jetons) 
+nalameo : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s As]
+luisxXx7 : suit. 20
+nalameo : suit. 10
+psychoman59 : relance. 335 à 355 et est all-in.
+luisxXx7 : passe. 
+nalameo : passe. 
+Personne n'a suivi. (335) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : nalameo (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : luisxXx7 (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254185785425 : Tournoi #3842546620, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 04/01/2025 8:54:10 CET [04/01/2025 2:54:10 ET]
+Table '3842546620 1' 3-max Siège #1 est au bouton.
+Place 1: nalameo (420 en jetons) 
+Place 2: psychoman59 (395 en jetons) 
+Place 3: luisxXx7 (685 en jetons) 
+psychoman59 : met la petite blind. 10
+luisxXx7 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 2s]
+nalameo : passe. 
+psychoman59 : suit. 10
+luisxXx7 : parole 
+*** FLOP *** [2h Th Jh]
+psychoman59 : parole 
+luisxXx7 : parole 
+*** TOURNANT *** [2h Th Jh] [Ts]
+psychoman59 : parole 
+luisxXx7 : parole 
+*** RIVIÈRE *** [2h Th Jh Ts] [4h]
+psychoman59 : parole 
+luisxXx7 : mise. 40
+psychoman59 : suit. 40
+*** ABATTAGE ***
+luisxXx7 : montre [6c 5s] (une paire de Dix)
+psychoman59 : montre [Ad 2s] (double paire, Dix et Deux)
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [2h Th Jh Ts 4h]
+Siège 1 : nalameo (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [Ad 2s] et a gagné (120) avec double paire, Dix et Deux
+Siège 3 : luisxXx7 (grosse blind) a montré [6c 5s] et a perdu avec une paire de Dix
+
+
+
+Main PokerStars n°254185787421 : Tournoi #3842546620, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 04/01/2025 8:54:35 CET [04/01/2025 2:54:35 ET]
+Table '3842546620 1' 3-max Siège #2 est au bouton.
+Place 1: nalameo (420 en jetons) 
+Place 2: psychoman59 (455 en jetons) 
+Place 3: luisxXx7 (625 en jetons) 
+luisxXx7 : met la petite blind. 10
+nalameo : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Kd]
+psychoman59 : relance. 20 à 40
+luisxXx7 : suit. 30
+nalameo : passe. 
+*** FLOP *** [4d 2d Qs]
+luisxXx7 : parole 
+psychoman59 : mise. 40
+luisxXx7 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [4d 2d Qs]
+Siège 1 : nalameo (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a remporté (100)
+Siège 3 : luisxXx7 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°254185788870 : Tournoi #3842546620, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 04/01/2025 8:54:52 CET [04/01/2025 2:54:52 ET]
+Table '3842546620 1' 3-max Siège #3 est au bouton.
+Place 1: nalameo (400 en jetons) 
+Place 2: psychoman59 (515 en jetons) 
+Place 3: luisxXx7 (585 en jetons) 
+nalameo : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 2d]
+luisxXx7 : relance. 20 à 40
+nalameo : suit. 30
+psychoman59 : passe. 
+*** FLOP *** [3c 9d Qs]
+nalameo : parole 
+luisxXx7 : mise. 20
+nalameo : suit. 20
+*** TOURNANT *** [3c 9d Qs] [5h]
+nalameo : parole 
+luisxXx7 : mise. 20
+nalameo : suit. 20
+*** RIVIÈRE *** [3c 9d Qs 5h] [8h]
+nalameo : parole 
+luisxXx7 : parole 
+*** ABATTAGE ***
+nalameo : montre [Jc Kd] (Hauteur Roi)
+luisxXx7 : montre [8c As] (une paire de Huit)
+luisxXx7 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [3c 9d Qs 5h 8h]
+Siège 1 : nalameo (petite blind) a montré [Jc Kd] et a perdu avec Hauteur Roi
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : luisxXx7 (bouton) a montré [8c As] et a gagné (180) avec une paire de Huit
+
+
+
+Main PokerStars n°254185791308 : Tournoi #3842546620, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 04/01/2025 8:55:23 CET [04/01/2025 2:55:23 ET]
+Table '3842546620 1' 3-max Siège #1 est au bouton.
+Place 1: nalameo (320 en jetons) 
+Place 2: psychoman59 (495 en jetons) 
+Place 3: luisxXx7 (685 en jetons) 
+psychoman59 : met la petite blind. 15
+luisxXx7 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 5c]
+nalameo : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à luisxXx7.
+luisxXx7 a remporté 30  lors du pot .
+luisxXx7 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : nalameo (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : luisxXx7 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°254185792638 : Tournoi #3842546620, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 04/01/2025 8:55:42 CET [04/01/2025 2:55:42 ET]
+Table '3842546620 1' 3-max Siège #2 est au bouton.
+Place 1: nalameo (320 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+Place 3: luisxXx7 (700 en jetons) 
+luisxXx7 : met la petite blind. 15
+nalameo : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Ts]
+psychoman59 : passe. 
+luisxXx7 : suit. 15
+nalameo : relance. 290 à 320 et est all-in.
+luisxXx7 : passe. 
+Personne n'a suivi. (290) sont retournés à nalameo.
+nalameo a remporté 60  lors du pot .
+nalameo : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : nalameo (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : luisxXx7 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254185793628 : Tournoi #3842546620, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 04/01/2025 8:55:55 CET [04/01/2025 2:55:55 ET]
+Table '3842546620 1' 3-max Siège #3 est au bouton.
+Place 1: nalameo (350 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+Place 3: luisxXx7 (670 en jetons) 
+nalameo : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 2d]
+luisxXx7 : relance. 30 à 60
+nalameo : relance. 290 à 350 et est all-in.
+psychoman59 : passe. 
+luisxXx7 : suit. 290
+*** FLOP *** [2s 7d 9d]
+*** TOURNANT *** [2s 7d 9d] [8c]
+*** RIVIÈRE *** [2s 7d 9d 8c] [Jc]
+*** ABATTAGE ***
+nalameo : montre [3h 3s] (une paire de Trois)
+luisxXx7 : montre [8s Ac] (une paire de Huit)
+luisxXx7 a remporté 730  lors du pot .
+nalameo a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 730 | Commission 0 
+Tableau [2s 7d 9d 8c Jc]
+Siège 1 : nalameo (petite blind) a montré [3h 3s] et a perdu avec une paire de Trois
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : luisxXx7 (bouton) a montré [8s Ac] et a gagné (730) avec une paire de Huit
+
+
+
+Main PokerStars n°254185795202 : Tournoi #3842546620, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 04/01/2025 8:56:18 CET [04/01/2025 2:56:18 ET]
+Table '3842546620 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (450 en jetons) 
+Place 3: luisxXx7 (1050 en jetons) 
+psychoman59 : met la petite blind. 15
+luisxXx7 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 3c]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à luisxXx7.
+luisxXx7 a remporté 30  lors du pot .
+luisxXx7 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : luisxXx7 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°254185795604 : Tournoi #3842546620, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 04/01/2025 8:56:23 CET [04/01/2025 2:56:23 ET]
+Table '3842546620 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (435 en jetons) 
+Place 3: luisxXx7 (1065 en jetons) 
+luisxXx7 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 3c]
+luisxXx7 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [2h 7c Ac]
+psychoman59 : parole 
+luisxXx7 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à luisxXx7.
+luisxXx7 a remporté 60  lors du pot .
+luisxXx7 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [2h 7c Ac]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : luisxXx7 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°254185796681 : Tournoi #3842546620, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 04/01/2025 8:56:38 CET [04/01/2025 2:56:38 ET]
+Table '3842546620 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (405 en jetons) 
+Place 3: luisxXx7 (1095 en jetons) 
+psychoman59 : met la petite blind. 15
+luisxXx7 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 4h]
+psychoman59 : relance. 375 à 405 et est all-in.
+luisxXx7 : suit. 375
+*** FLOP *** [Kc 5d 2d]
+*** TOURNANT *** [Kc 5d 2d] [Js]
+*** RIVIÈRE *** [Kc 5d 2d Js] [Tc]
+*** ABATTAGE ***
+luisxXx7 : montre [Kh As] (une paire de Rois)
+psychoman59 : montre [4d 4h] (une paire de Quatre)
+luisxXx7 a remporté 810  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+luisxXx7 remporte le tournoi et reçoit 0.75 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 810 | Commission 0 
+Tableau [Kc 5d 2d Js Tc]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [4d 4h] et a perdu avec une paire de Quatre
+Siège 3 : luisxXx7 (grosse blind) a montré [Kh As] et a gagné (810) avec une paire de Rois
+
+
+

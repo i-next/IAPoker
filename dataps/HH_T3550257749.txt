@@ -1,0 +1,361 @@
+﻿Main PokerStars n°241934046560 : Tournoi #3550257749, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/02/2023 10:47:27 CET [19/02/2023 4:47:27 ET]
+Table '3550257749 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Specimen 47 (300 en jetons) 
+Place 3: feur51 (300 en jetons) 
+Specimen 47 : met la petite blind. 10
+feur51 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 9h]
+psychoman59 : passe. 
+Specimen 47 : relance. 20 à 40
+feur51 : suit. 20
+*** FLOP *** [Qs 5h 3s]
+Specimen 47 : mise. 20
+feur51 : suit. 20
+*** TOURNANT *** [Qs 5h 3s] [Js]
+Specimen 47 : mise. 20
+feur51 : suit. 20
+*** RIVIÈRE *** [Qs 5h 3s Js] [7c]
+Specimen 47 : mise. 40
+feur51 : passe. 
+Personne n'a suivi. (40) sont retournés à Specimen 47.
+Specimen 47 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Qs 5h 3s Js 7c]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Specimen 47 (petite blind) a remporté (160)
+Siège 3 : feur51 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°241934050070 : Tournoi #3550257749, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/02/2023 10:47:48 CET [19/02/2023 4:47:48 ET]
+Table '3550257749 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Specimen 47 (380 en jetons) 
+Place 3: feur51 (220 en jetons) 
+feur51 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 5s]
+Specimen 47 : passe. 
+feur51 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [6s 2s 7c]
+feur51 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6s 2s 7c] [6h]
+feur51 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [6s 2s 7c 6h] [Qh]
+feur51 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+feur51 : montre [3c 3s] (double paire, Six et Trois)
+psychoman59 : cache la main perdante. 
+feur51 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [6s 2s 7c 6h Qh]
+Siège 1 : psychoman59 (grosse blind) a caché la main perdante. [Ks 5s]
+Siège 2 : Specimen 47 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : feur51 (petite blind) a montré [3c 3s] et a gagné (40) avec double paire, Six et Trois
+
+
+
+Main PokerStars n°241934053176 : Tournoi #3550257749, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 19/02/2023 10:48:07 CET [19/02/2023 4:48:07 ET]
+Table '3550257749 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: Specimen 47 (380 en jetons) 
+Place 3: feur51 (240 en jetons) 
+psychoman59 : met la petite blind. 10
+Specimen 47 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Kh]
+feur51 : suit. 20
+psychoman59 : suit. 10
+Specimen 47 : parole 
+*** FLOP *** [Js Jh 3d]
+psychoman59 : parole 
+Specimen 47 : parole 
+feur51 : parole 
+*** TOURNANT *** [Js Jh 3d] [7s]
+psychoman59 : parole 
+Specimen 47 : parole 
+feur51 : parole 
+*** RIVIÈRE *** [Js Jh 3d 7s] [9c]
+psychoman59 : parole 
+Specimen 47 : parole 
+feur51 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [9s Kh] (double paire, Valets et Neuf)
+Specimen 47 : cache la main perdante. 
+feur51 : cache la main perdante. 
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Js Jh 3d 7s 9c]
+Siège 1 : psychoman59 (petite blind) a montré [9s Kh] et a gagné (60) avec double paire, Valets et Neuf
+Siège 2 : Specimen 47 (grosse blind) a caché la main perdante. [6d Td]
+Siège 3 : feur51 (bouton) a caché la main perdante. [4s 8h]
+
+
+
+Main PokerStars n°241934058470 : Tournoi #3550257749, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/02/2023 10:48:39 CET [19/02/2023 4:48:39 ET]
+Table '3550257749 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (320 en jetons) 
+Place 2: Specimen 47 (360 en jetons) 
+Place 3: feur51 (220 en jetons) 
+Specimen 47 : met la petite blind. 15
+feur51 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Tc]
+psychoman59 : relance. 290 à 320 et est all-in.
+Specimen 47 : passe. 
+feur51 : passe. 
+Personne n'a suivi. (290) sont retournés à psychoman59.
+psychoman59 a remporté 75  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : psychoman59 (bouton) a remporté (75)
+Siège 2 : Specimen 47 (petite blind) s'est couché. avant Flop
+Siège 3 : feur51 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241934060627 : Tournoi #3550257749, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/02/2023 10:48:52 CET [19/02/2023 4:48:52 ET]
+Table '3550257749 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (365 en jetons) 
+Place 2: Specimen 47 (345 en jetons) 
+Place 3: feur51 (190 en jetons) 
+feur51 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Qc]
+Specimen 47 : passe. 
+feur51 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Td Kh Jc]
+feur51 : parole 
+psychoman59 : mise. 30
+feur51 : suit. 30
+*** TOURNANT *** [Td Kh Jc] [Ac]
+feur51 : parole 
+psychoman59 : mise. 30
+feur51 : suit. 30
+*** RIVIÈRE *** [Td Kh Jc Ac] [4c]
+feur51 : parole 
+psychoman59 : mise. 90
+feur51 : suit. 90
+*** ABATTAGE ***
+psychoman59 : montre [Jd Qc] (une suite, Dix à As)
+feur51 : cache la main perdante. 
+psychoman59 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [Td Kh Jc Ac 4c]
+Siège 1 : psychoman59 (grosse blind) a montré [Jd Qc] et a gagné (360) avec une suite, Dix à As
+Siège 2 : Specimen 47 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : feur51 (petite blind) a caché la main perdante. [As 5h]
+
+
+
+Main PokerStars n°241934065371 : Tournoi #3550257749, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 19/02/2023 10:49:20 CET [19/02/2023 4:49:20 ET]
+Table '3550257749 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (545 en jetons) 
+Place 2: Specimen 47 (345 en jetons) 
+Place 3: feur51 (10 en jetons) 
+psychoman59 : met la petite blind. 15
+Specimen 47 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 4d]
+feur51 : suit. 10 et est all-in.
+psychoman59 : suit. 15
+Specimen 47 : parole 
+*** FLOP *** [4s Ac 8d]
+psychoman59 : parole 
+Specimen 47 : parole 
+*** TOURNANT *** [4s Ac 8d] [Ks]
+psychoman59 : parole 
+Specimen 47 : parole 
+*** RIVIÈRE *** [4s Ac 8d Ks] [7d]
+psychoman59 : parole 
+Specimen 47 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [6s 4d] (une paire de Quatre)
+Specimen 47 : cache la main perdante. 
+psychoman59 a remporté 40  parallèle lors du pot .
+feur51 : cache la main perdante. 
+psychoman59 a remporté 30  principal lors du pot .
+feur51 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 70 Principal pot 30. Parallèle pot 40. | Commission 0 
+Tableau [4s Ac 8d Ks 7d]
+Siège 1 : psychoman59 (petite blind) a montré [6s 4d] et a gagné (70) avec une paire de Quatre
+Siège 2 : Specimen 47 (grosse blind) a caché la main perdante. [Ts 3h]
+Siège 3 : feur51 (bouton) a caché la main perdante. [3s 3c]
+
+
+
+Main PokerStars n°241934069103 : Tournoi #3550257749, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/02/2023 10:49:42 CET [19/02/2023 4:49:42 ET]
+Table '3550257749 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (585 en jetons) 
+Place 2: Specimen 47 (315 en jetons) 
+Specimen 47 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 6s]
+Specimen 47 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [4s 3h Tc]
+psychoman59 : parole 
+Specimen 47 : parole 
+*** TOURNANT *** [4s 3h Tc] [Js]
+psychoman59 : parole 
+Specimen 47 : parole 
+*** RIVIÈRE *** [4s 3h Tc Js] [6h]
+psychoman59 : parole 
+Specimen 47 : mise. 40
+psychoman59 : suit. 40
+*** ABATTAGE ***
+Specimen 47 : montre [6c 8c] (une paire de Six)
+psychoman59 : cache la main perdante. 
+Specimen 47 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [4s 3h Tc Js 6h]
+Siège 1 : psychoman59 (grosse blind) a caché la main perdante. [2s 6s]
+Siège 2 : Specimen 47 (bouton) (petite blind) a montré [6c 8c] et a gagné (160) avec une paire de Six
+
+
+
+Main PokerStars n°241934072122 : Tournoi #3550257749, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/02/2023 10:50:01 CET [19/02/2023 4:50:01 ET]
+Table '3550257749 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (505 en jetons) 
+Place 2: Specimen 47 (395 en jetons) 
+psychoman59 : met la petite blind. 20
+Specimen 47 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Kc]
+psychoman59 : relance. 80 à 120
+Specimen 47 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 2 : Specimen 47 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241934073305 : Tournoi #3550257749, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/02/2023 10:50:08 CET [19/02/2023 4:50:08 ET]
+Table '3550257749 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (545 en jetons) 
+Place 2: Specimen 47 (355 en jetons) 
+Specimen 47 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Qd]
+Specimen 47 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Ac Jd 4h]
+psychoman59 : parole 
+Specimen 47 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Specimen 47.
+Specimen 47 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Ac Jd 4h]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : Specimen 47 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°241934075266 : Tournoi #3550257749, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/02/2023 10:50:19 CET [19/02/2023 4:50:19 ET]
+Table '3550257749 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (505 en jetons) 
+Place 2: Specimen 47 (395 en jetons) 
+psychoman59 : met la petite blind. 20
+Specimen 47 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 4s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Specimen 47.
+Specimen 47 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : Specimen 47 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°241934076096 : Tournoi #3550257749, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 19/02/2023 10:50:24 CET [19/02/2023 4:50:24 ET]
+Table '3550257749 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (485 en jetons) 
+Place 2: Specimen 47 (415 en jetons) 
+Specimen 47 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 2d]
+Specimen 47 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 2 : Specimen 47 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241934077249 : Tournoi #3550257749, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 19/02/2023 10:50:32 CET [19/02/2023 4:50:32 ET]
+Table '3550257749 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (505 en jetons) 
+Place 2: Specimen 47 (395 en jetons) 
+psychoman59 : met la petite blind. 30
+Specimen 47 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 5s]
+psychoman59 : relance. 445 à 505 et est all-in.
+Specimen 47 : passe. 
+Personne n'a suivi. (445) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 2 : Specimen 47 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241934078327 : Tournoi #3550257749, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 19/02/2023 10:50:38 CET [19/02/2023 4:50:38 ET]
+Table '3550257749 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (565 en jetons) 
+Place 2: Specimen 47 (335 en jetons) 
+Specimen 47 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Ad]
+Specimen 47 : relance. 275 à 335 et est all-in.
+psychoman59 : suit. 275
+*** FLOP *** [7s 8s Qd]
+*** TOURNANT *** [7s 8s Qd] [Ts]
+*** RIVIÈRE *** [7s 8s Qd Ts] [As]
+*** ABATTAGE ***
+psychoman59 : montre [Tc Ad] (double paire, As et Dix)
+Specimen 47 : montre [7d Jd] (une paire de Sept)
+psychoman59 a remporté 670  lors du pot .
+Specimen 47 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 670 | Commission 0 
+Tableau [7s 8s Qd Ts As]
+Siège 1 : psychoman59 (grosse blind) a montré [Tc Ad] et a gagné (670) avec double paire, As et Dix
+Siège 2 : Specimen 47 (bouton) (petite blind) a montré [7d Jd] et a perdu avec une paire de Sept
+
+
+

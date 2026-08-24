@@ -1,0 +1,85 @@
+﻿Main PokerStars n°261479299596 : Tournoi #4017152332, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2026 7:49:30 CET [19/07/2026 1:49:30 ET]
+Table '4017152332 1' 3-max Siège #1 est au bouton.
+Place 1: Jano622 (500 en jetons) 
+Place 2: scagica (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+scagica : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 7d]
+Jano622 : passe. 
+scagica a dépassé le temps imparti.
+scagica : passe. 
+scagica ne joue pas.
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : Jano622 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : scagica (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°261479301609 : Tournoi #4017152332, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2026 7:50:05 CET [19/07/2026 1:50:05 ET]
+Table '4017152332 1' 3-max Siège #2 est au bouton.
+Place 1: Jano622 (500 en jetons) 
+Place 2: scagica (490 en jetons) ne joue pas.
+Place 3: psychoman59 (510 en jetons) 
+psychoman59 : met la petite blind. 10
+Jano622 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Kc]
+scagica : passe. 
+psychoman59 : suit. 10
+Jano622 : parole 
+*** FLOP *** [5c Jh 4d]
+psychoman59 : parole 
+Jano622 : parole 
+*** TOURNANT *** [5c Jh 4d] [2d]
+psychoman59 : parole 
+Jano622 : mise. 480 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (480) sont retournés à Jano622.
+Jano622 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [5c Jh 4d 2d]
+Siège 1 : Jano622 (grosse blind) a remporté (40)
+Siège 2 : scagica (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°261479304024 : Tournoi #4017152332, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 19/07/2026 7:50:46 CET [19/07/2026 1:50:46 ET]
+Table '4017152332 1' 3-max Siège #3 est au bouton.
+Place 1: Jano622 (520 en jetons) 
+Place 2: scagica (490 en jetons) ne joue pas.
+Place 3: psychoman59 (490 en jetons) 
+Jano622 : met la petite blind. 10
+scagica : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Ah]
+psychoman59 : suit. 20
+Jano622 : relance. 500 à 520 et est all-in.
+scagica : passe. 
+psychoman59 : suit. 470 et est all-in.
+Personne n'a suivi. (30) sont retournés à Jano622.
+*** FLOP *** [7s 3h Ts]
+*** TOURNANT *** [7s 3h Ts] [Qs]
+*** RIVIÈRE *** [7s 3h Ts Qs] [Qh]
+*** ABATTAGE ***
+Jano622 : montre [Tc Ac] (double paire, Dames et Dix)
+psychoman59 : montre [9d Ah] (une paire de Dames)
+Jano622 a remporté 1000  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 1000 | Commission 0 
+Tableau [7s 3h Ts Qs Qh]
+Siège 1 : Jano622 (petite blind) a montré [Tc Ac] et a gagné (1000) avec double paire, Dames et Dix
+Siège 2 : scagica (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a montré [9d Ah] et a perdu avec une paire de Dames
+
+
+

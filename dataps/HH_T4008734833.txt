@@ -1,0 +1,1147 @@
+﻿Main PokerStars n°261146879590 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/06/2026 14:52:58 CET [15/06/2026 8:52:58 ET]
+Table '4008734833 1' 3-max Siège #1 est au bouton.
+Place 1: ryuji75 (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: gusglin (500 en jetons) 
+psychoman59 : met la petite blind. 10
+gusglin : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 8c]
+ryuji75 : relance. 20 à 40
+psychoman59 : passe. 
+gusglin : suit. 20
+*** FLOP *** [3s 6c Ts]
+gusglin : parole 
+ryuji75 : mise. 45
+gusglin : passe. 
+Personne n'a suivi. (45) sont retournés à ryuji75.
+ryuji75 a remporté 90  lors du pot .
+ryuji75 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [3s 6c Ts]
+Siège 1 : ryuji75 (bouton) a remporté (90)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : gusglin (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261146881722 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/06/2026 14:53:18 CET [15/06/2026 8:53:18 ET]
+Table '4008734833 1' 3-max Siège #2 est au bouton.
+Place 1: ryuji75 (550 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: gusglin (460 en jetons) 
+gusglin : met la petite blind. 10
+ryuji75 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Qd]
+psychoman59 : relance. 20 à 40
+gusglin : suit. 30
+ryuji75 : suit. 20
+*** FLOP *** [9s 4c 3c]
+gusglin : parole 
+ryuji75 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [9s 4c 3c] [8d]
+gusglin : mise. 40
+ryuji75 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à gusglin.
+gusglin a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [9s 4c 3c 8d]
+Siège 1 : ryuji75 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (bouton) s'est couché. sur le Tournant
+Siège 3 : gusglin (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°261146884733 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/06/2026 14:53:47 CET [15/06/2026 8:53:47 ET]
+Table '4008734833 1' 3-max Siège #3 est au bouton.
+Place 1: ryuji75 (510 en jetons) 
+Place 2: psychoman59 (450 en jetons) 
+Place 3: gusglin (540 en jetons) 
+ryuji75 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 3d]
+gusglin : relance. 40 à 60
+ryuji75 : suit. 50
+psychoman59 : passe. 
+*** FLOP *** [7s 9d 4s]
+ryuji75 : parole 
+gusglin : parole 
+*** TOURNANT *** [7s 9d 4s] [Kh]
+ryuji75 : mise. 70
+gusglin : relance. 410 à 480 et est all-in.
+ryuji75 : suit. 380 et est all-in.
+Personne n'a suivi. (30) sont retournés à gusglin.
+*** RIVIÈRE *** [7s 9d 4s Kh] [8s]
+*** ABATTAGE ***
+ryuji75 : montre [Ts 9s] (une couleur, hauteur Dix)
+gusglin : montre [Kc As] (une paire de Rois)
+ryuji75 a remporté 1040  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1040 | Commission 0 
+Tableau [7s 9d 4s Kh 8s]
+Siège 1 : ryuji75 (petite blind) a montré [Ts 9s] et a gagné (1040) avec une couleur, hauteur Dix
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : gusglin (bouton) a montré [Kc As] et a perdu avec une paire de Rois
+
+
+
+Main PokerStars n°261146887407 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/06/2026 14:54:12 CET [15/06/2026 8:54:12 ET]
+Table '4008734833 1' 3-max Siège #1 est au bouton.
+Place 1: ryuji75 (1040 en jetons) 
+Place 2: psychoman59 (430 en jetons) 
+Place 3: gusglin (30 en jetons) 
+psychoman59 : met la petite blind. 10
+gusglin : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 6s]
+ryuji75 : passe. 
+psychoman59 : suit. 10
+gusglin : relance. 10 à 30 et est all-in.
+psychoman59 : suit. 10
+*** FLOP *** [As Jd Ah]
+*** TOURNANT *** [As Jd Ah] [Ts]
+*** RIVIÈRE *** [As Jd Ah Ts] [Jh]
+*** ABATTAGE ***
+psychoman59 : montre [Kc 6s] (double paire, As et Valets)
+gusglin : montre [7d 4c] (double paire, As et Valets - plus basse kicker)
+psychoman59 a remporté 60  lors du pot .
+gusglin a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [As Jd Ah Ts Jh]
+Siège 1 : ryuji75 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [Kc 6s] et a gagné (60) avec double paire, As et Valets
+Siège 3 : gusglin (grosse blind) a montré [7d 4c] et a perdu avec double paire, As et Valets
+
+
+
+Main PokerStars n°261146890123 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/06/2026 14:54:38 CET [15/06/2026 8:54:38 ET]
+Table '4008734833 1' 3-max Siège #2 est au bouton.
+Place 1: ryuji75 (1040 en jetons) 
+Place 2: psychoman59 (460 en jetons) 
+psychoman59 : met la petite blind. 10
+ryuji75 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d As]
+psychoman59 : suit. 10
+ryuji75 : parole 
+*** FLOP *** [4h Ts 7s]
+ryuji75 : parole 
+psychoman59 : mise. 40
+ryuji75 : suit. 40
+*** TOURNANT *** [4h Ts 7s] [Jd]
+ryuji75 : parole 
+psychoman59 : mise. 60
+ryuji75 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [4h Ts 7s Jd]
+Siège 1 : ryuji75 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°261146892588 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/06/2026 14:55:00 CET [15/06/2026 8:55:00 ET]
+Table '4008734833 1' 3-max Siège #1 est au bouton.
+Place 1: ryuji75 (980 en jetons) 
+Place 2: psychoman59 (520 en jetons) 
+ryuji75 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Qc]
+ryuji75 : relance. 20 à 40
+psychoman59 : suit. 20
+*** FLOP *** [9c Tc 6d]
+psychoman59 : parole 
+ryuji75 : parole 
+*** TOURNANT *** [9c Tc 6d] [8c]
+psychoman59 : parole 
+ryuji75 : mise. 60
+psychoman59 : suit. 60
+*** RIVIÈRE *** [9c Tc 6d 8c] [5c]
+psychoman59 : parole 
+ryuji75 : mise. 150
+psychoman59 : suit. 150
+*** ABATTAGE ***
+ryuji75 : montre [Jh Kc] (une couleur, hauteur Roi)
+psychoman59 : cache la main perdante. 
+ryuji75 a remporté 500  lors du pot .
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Tableau [9c Tc 6d 8c 5c]
+Siège 1 : ryuji75 (bouton) (petite blind) a montré [Jh Kc] et a gagné (500) avec une couleur, hauteur Roi
+Siège 2 : psychoman59 (grosse blind) a caché la main perdante. [Jd Qc]
+
+
+
+Main PokerStars n°261146895484 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/06/2026 14:55:35 CET [15/06/2026 8:55:35 ET]
+Table '4008734833 1' 3-max Siège #2 est au bouton.
+Place 1: ryuji75 (1230 en jetons) 
+Place 2: psychoman59 (270 en jetons) 
+psychoman59 : met la petite blind. 10
+ryuji75 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Jc]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à ryuji75.
+ryuji75 a remporté 20  lors du pot .
+ryuji75 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : ryuji75 (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261146896177 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/06/2026 14:55:43 CET [15/06/2026 8:55:43 ET]
+Table '4008734833 1' 3-max Siège #1 est au bouton.
+Place 1: ryuji75 (1240 en jetons) 
+Place 2: psychoman59 (260 en jetons) 
+ryuji75 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 7h]
+ryuji75 : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : ryuji75 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°261146896488 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/06/2026 14:55:47 CET [15/06/2026 8:55:47 ET]
+Table '4008734833 1' 3-max Siège #2 est au bouton.
+Place 1: ryuji75 (1230 en jetons) 
+Place 2: psychoman59 (270 en jetons) 
+psychoman59 : met la petite blind. 10
+ryuji75 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 4s]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à ryuji75.
+ryuji75 a remporté 20  lors du pot .
+ryuji75 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : ryuji75 (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261146896951 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/06/2026 14:55:52 CET [15/06/2026 8:55:52 ET]
+Table '4008734833 1' 3-max Siège #1 est au bouton.
+Place 1: ryuji75 (1240 en jetons) 
+Place 2: psychoman59 (260 en jetons) 
+ryuji75 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Ah]
+ryuji75 : relance. 20 à 40
+psychoman59 : relance. 220 à 260 et est all-in.
+ryuji75 est déconnecté 
+ryuji75 est connecté 
+ryuji75 est connecté 
+ryuji75 : suit. 220
+*** FLOP *** [2s 8d Ad]
+*** TOURNANT *** [2s 8d Ad] [3d]
+*** RIVIÈRE *** [2s 8d Ad 3d] [8s]
+*** ABATTAGE ***
+psychoman59 : montre [6d Ah] (double paire, As et Huit)
+ryuji75 : montre [7s 9c] (une paire de Huit)
+psychoman59 a remporté 520  lors du pot .
+*** SYNTHÈSE ***
+Pot total 520 | Commission 0 
+Tableau [2s 8d Ad 3d 8s]
+Siège 1 : ryuji75 (bouton) (petite blind) a montré [7s 9c] et a perdu avec une paire de Huit
+Siège 2 : psychoman59 (grosse blind) a montré [6d Ah] et a gagné (520) avec double paire, As et Huit
+
+
+
+Main PokerStars n°261146900104 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2026 14:56:33 CET [15/06/2026 8:56:33 ET]
+Table '4008734833 1' 3-max Siège #2 est au bouton.
+Place 1: ryuji75 (980 en jetons) 
+Place 2: psychoman59 (520 en jetons) 
+psychoman59 : met la petite blind. 15
+ryuji75 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 6s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à ryuji75.
+ryuji75 a remporté 30  lors du pot .
+ryuji75 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : ryuji75 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261146901054 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2026 14:56:44 CET [15/06/2026 8:56:44 ET]
+Table '4008734833 1' 3-max Siège #1 est au bouton.
+Place 1: ryuji75 (995 en jetons) 
+Place 2: psychoman59 (505 en jetons) 
+ryuji75 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 2s]
+ryuji75 : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à ryuji75.
+ryuji75 a remporté 60  lors du pot .
+ryuji75 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : ryuji75 (bouton) (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261146901577 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2026 14:56:50 CET [15/06/2026 8:56:50 ET]
+Table '4008734833 1' 3-max Siège #2 est au bouton.
+Place 1: ryuji75 (1025 en jetons) 
+Place 2: psychoman59 (475 en jetons) 
+psychoman59 : met la petite blind. 15
+ryuji75 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks As]
+psychoman59 : relance. 445 à 475 et est all-in.
+ryuji75 : passe. 
+Personne n'a suivi. (445) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : ryuji75 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°261146902431 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2026 14:57:00 CET [15/06/2026 8:57:00 ET]
+Table '4008734833 1' 3-max Siège #1 est au bouton.
+Place 1: ryuji75 (995 en jetons) 
+Place 2: psychoman59 (505 en jetons) 
+ryuji75 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 5d]
+ryuji75 : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à ryuji75.
+ryuji75 a remporté 60  lors du pot .
+ryuji75 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : ryuji75 (bouton) (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261146903064 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2026 14:57:07 CET [15/06/2026 8:57:07 ET]
+Table '4008734833 1' 3-max Siège #2 est au bouton.
+Place 1: ryuji75 (1025 en jetons) 
+Place 2: psychoman59 (475 en jetons) 
+psychoman59 : met la petite blind. 15
+ryuji75 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 6d]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à ryuji75.
+ryuji75 a remporté 30  lors du pot .
+ryuji75 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : ryuji75 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261146903633 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2026 14:57:14 CET [15/06/2026 8:57:14 ET]
+Table '4008734833 1' 3-max Siège #1 est au bouton.
+Place 1: ryuji75 (1040 en jetons) 
+Place 2: psychoman59 (460 en jetons) 
+ryuji75 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Ts]
+ryuji75 : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à ryuji75.
+ryuji75 a remporté 60  lors du pot .
+ryuji75 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : ryuji75 (bouton) (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261146904254 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2026 14:57:22 CET [15/06/2026 8:57:22 ET]
+Table '4008734833 1' 3-max Siège #2 est au bouton.
+Place 1: ryuji75 (1070 en jetons) 
+Place 2: psychoman59 (430 en jetons) 
+psychoman59 : met la petite blind. 15
+ryuji75 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 5c]
+psychoman59 : relance. 400 à 430 et est all-in.
+ryuji75 : passe. 
+Personne n'a suivi. (400) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : ryuji75 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°261146904937 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2026 14:57:29 CET [15/06/2026 8:57:29 ET]
+Table '4008734833 1' 3-max Siège #1 est au bouton.
+Place 1: ryuji75 (1040 en jetons) 
+Place 2: psychoman59 (460 en jetons) 
+ryuji75 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 4d]
+ryuji75 : relance. 30 à 60
+psychoman59 : relance. 400 à 460 et est all-in.
+ryuji75 : passe. 
+Personne n'a suivi. (400) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : ryuji75 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°261146905707 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2026 14:57:38 CET [15/06/2026 8:57:38 ET]
+Table '4008734833 1' 3-max Siège #2 est au bouton.
+Place 1: ryuji75 (980 en jetons) 
+Place 2: psychoman59 (520 en jetons) 
+psychoman59 : met la petite blind. 15
+ryuji75 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 9h]
+psychoman59 : relance. 490 à 520 et est all-in.
+ryuji75 : passe. 
+Personne n'a suivi. (490) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : ryuji75 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°261146906434 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2026 14:57:46 CET [15/06/2026 8:57:46 ET]
+Table '4008734833 1' 3-max Siège #1 est au bouton.
+Place 1: ryuji75 (950 en jetons) 
+Place 2: psychoman59 (550 en jetons) 
+ryuji75 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Tc]
+ryuji75 : relance. 30 à 60
+psychoman59 : suit. 30
+*** FLOP *** [9d 5d 5c]
+psychoman59 : parole 
+ryuji75 : mise. 90
+psychoman59 : passe. 
+Personne n'a suivi. (90) sont retournés à ryuji75.
+ryuji75 a remporté 120  lors du pot .
+ryuji75 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [9d 5d 5c]
+Siège 1 : ryuji75 (bouton) (petite blind) a remporté (120)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261146907984 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2026 14:58:04 CET [15/06/2026 8:58:04 ET]
+Table '4008734833 1' 3-max Siège #2 est au bouton.
+Place 1: ryuji75 (1010 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+psychoman59 : met la petite blind. 15
+ryuji75 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 3h]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à ryuji75.
+ryuji75 a remporté 30  lors du pot .
+ryuji75 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : ryuji75 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261146908487 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2026 14:58:10 CET [15/06/2026 8:58:10 ET]
+Table '4008734833 1' 3-max Siège #1 est au bouton.
+Place 1: ryuji75 (1025 en jetons) 
+Place 2: psychoman59 (475 en jetons) 
+ryuji75 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 7h]
+ryuji75 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : ryuji75 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°261146909102 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2026 14:58:17 CET [15/06/2026 8:58:17 ET]
+Table '4008734833 1' 3-max Siège #2 est au bouton.
+Place 1: ryuji75 (1010 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+psychoman59 : met la petite blind. 15
+ryuji75 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 9s]
+psychoman59 : relance. 460 à 490 et est all-in.
+ryuji75 : passe. 
+Personne n'a suivi. (460) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : ryuji75 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°261146909883 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2026 14:58:26 CET [15/06/2026 8:58:26 ET]
+Table '4008734833 1' 3-max Siège #1 est au bouton.
+Place 1: ryuji75 (980 en jetons) 
+Place 2: psychoman59 (520 en jetons) 
+ryuji75 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 2s]
+ryuji75 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : ryuji75 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°261146910383 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2026 14:58:31 CET [15/06/2026 8:58:31 ET]
+Table '4008734833 1' 3-max Siège #2 est au bouton.
+Place 1: ryuji75 (965 en jetons) 
+Place 2: psychoman59 (535 en jetons) 
+psychoman59 : met la petite blind. 15
+ryuji75 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Qd]
+psychoman59 : relance. 505 à 535 et est all-in.
+ryuji75 : passe. 
+Personne n'a suivi. (505) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : ryuji75 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°261146911070 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2026 14:58:39 CET [15/06/2026 8:58:39 ET]
+Table '4008734833 1' 3-max Siège #1 est au bouton.
+Place 1: ryuji75 (935 en jetons) 
+Place 2: psychoman59 (565 en jetons) 
+ryuji75 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Qc]
+ryuji75 : relance. 30 à 60
+psychoman59 : relance. 505 à 565 et est all-in.
+ryuji75 : passe. 
+Personne n'a suivi. (505) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : ryuji75 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°261146911858 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2026 14:58:48 CET [15/06/2026 8:58:48 ET]
+Table '4008734833 1' 3-max Siège #2 est au bouton.
+Place 1: ryuji75 (875 en jetons) 
+Place 2: psychoman59 (625 en jetons) 
+psychoman59 : met la petite blind. 15
+ryuji75 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Qc]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à ryuji75.
+ryuji75 a remporté 30  lors du pot .
+ryuji75 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : ryuji75 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261146912356 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/06/2026 14:58:54 CET [15/06/2026 8:58:54 ET]
+Table '4008734833 1' 3-max Siège #1 est au bouton.
+Place 1: ryuji75 (890 en jetons) 
+Place 2: psychoman59 (610 en jetons) 
+ryuji75 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Ac]
+ryuji75 : relance. 30 à 60
+psychoman59 : relance. 550 à 610 et est all-in.
+ryuji75 : passe. 
+Personne n'a suivi. (550) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : ryuji75 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°261146913337 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2026 14:59:06 CET [15/06/2026 8:59:06 ET]
+Table '4008734833 1' 3-max Siège #2 est au bouton.
+Place 1: ryuji75 (830 en jetons) 
+Place 2: psychoman59 (670 en jetons) 
+psychoman59 : met la petite blind. 20
+ryuji75 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 7c]
+psychoman59 : suit. 20
+ryuji75 : parole 
+*** FLOP *** [As 2s Ts]
+ryuji75 : mise. 40
+psychoman59 : relance. 590 à 630 et est all-in.
+ryuji75 : passe. 
+Personne n'a suivi. (590) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [As 2s Ts]
+Siège 1 : ryuji75 (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°261146914992 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2026 14:59:25 CET [15/06/2026 8:59:25 ET]
+Table '4008734833 1' 3-max Siège #1 est au bouton.
+Place 1: ryuji75 (750 en jetons) 
+Place 2: psychoman59 (750 en jetons) 
+ryuji75 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 9d]
+ryuji75 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : ryuji75 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°261146915549 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2026 14:59:31 CET [15/06/2026 8:59:31 ET]
+Table '4008734833 1' 3-max Siège #2 est au bouton.
+Place 1: ryuji75 (730 en jetons) 
+Place 2: psychoman59 (770 en jetons) 
+psychoman59 : met la petite blind. 20
+ryuji75 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 6d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à ryuji75.
+ryuji75 a remporté 40  lors du pot .
+ryuji75 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : ryuji75 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261146916070 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2026 14:59:37 CET [15/06/2026 8:59:37 ET]
+Table '4008734833 1' 3-max Siège #1 est au bouton.
+Place 1: ryuji75 (750 en jetons) 
+Place 2: psychoman59 (750 en jetons) 
+ryuji75 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 8h]
+ryuji75 : relance. 40 à 80
+psychoman59 : relance. 670 à 750 et est all-in.
+ryuji75 : passe. 
+Personne n'a suivi. (670) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : ryuji75 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (160)
+
+
+
+Main PokerStars n°261146916959 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2026 14:59:47 CET [15/06/2026 8:59:47 ET]
+Table '4008734833 1' 3-max Siège #2 est au bouton.
+Place 1: ryuji75 (670 en jetons) 
+Place 2: psychoman59 (830 en jetons) 
+psychoman59 : met la petite blind. 20
+ryuji75 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 7h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à ryuji75.
+ryuji75 a remporté 40  lors du pot .
+ryuji75 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : ryuji75 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261146917490 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2026 14:59:54 CET [15/06/2026 8:59:54 ET]
+Table '4008734833 1' 3-max Siège #1 est au bouton.
+Place 1: ryuji75 (690 en jetons) 
+Place 2: psychoman59 (810 en jetons) 
+ryuji75 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 4d]
+ryuji75 : relance. 40 à 80
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à ryuji75.
+ryuji75 a remporté 80  lors du pot .
+ryuji75 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : ryuji75 (bouton) (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261146918243 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2026 15:00:02 CET [15/06/2026 9:00:02 ET]
+Table '4008734833 1' 3-max Siège #2 est au bouton.
+Place 1: ryuji75 (730 en jetons) 
+Place 2: psychoman59 (770 en jetons) 
+psychoman59 : met la petite blind. 20
+ryuji75 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Tc]
+psychoman59 : relance. 730 à 770 et est all-in.
+ryuji75 : passe. 
+Personne n'a suivi. (730) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : ryuji75 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°261146919025 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2026 15:00:11 CET [15/06/2026 9:00:11 ET]
+Table '4008734833 1' 3-max Siège #1 est au bouton.
+Place 1: ryuji75 (690 en jetons) 
+Place 2: psychoman59 (810 en jetons) 
+ryuji75 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 3h]
+ryuji75 : relance. 40 à 80
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à ryuji75.
+ryuji75 a remporté 80  lors du pot .
+ryuji75 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : ryuji75 (bouton) (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261146919693 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2026 15:00:19 CET [15/06/2026 9:00:19 ET]
+Table '4008734833 1' 3-max Siège #2 est au bouton.
+Place 1: ryuji75 (730 en jetons) 
+Place 2: psychoman59 (770 en jetons) 
+psychoman59 : met la petite blind. 20
+ryuji75 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 9s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à ryuji75.
+ryuji75 a remporté 40  lors du pot .
+ryuji75 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : ryuji75 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261146920189 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2026 15:00:24 CET [15/06/2026 9:00:24 ET]
+Table '4008734833 1' 3-max Siège #1 est au bouton.
+Place 1: ryuji75 (750 en jetons) 
+Place 2: psychoman59 (750 en jetons) 
+ryuji75 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 3s]
+ryuji75 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : ryuji75 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°261146920770 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2026 15:00:31 CET [15/06/2026 9:00:31 ET]
+Table '4008734833 1' 3-max Siège #2 est au bouton.
+Place 1: ryuji75 (730 en jetons) 
+Place 2: psychoman59 (770 en jetons) 
+psychoman59 : met la petite blind. 20
+ryuji75 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 5h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à ryuji75.
+ryuji75 a remporté 40  lors du pot .
+ryuji75 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : ryuji75 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261146921351 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2026 15:00:37 CET [15/06/2026 9:00:37 ET]
+Table '4008734833 1' 3-max Siège #1 est au bouton.
+Place 1: ryuji75 (750 en jetons) 
+Place 2: psychoman59 (750 en jetons) 
+ryuji75 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 3c]
+ryuji75 : relance. 40 à 80
+psychoman59 : suit. 40
+*** FLOP *** [8s Ac Jd]
+psychoman59 : parole 
+ryuji75 : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à ryuji75.
+ryuji75 a remporté 160  lors du pot .
+ryuji75 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [8s Ac Jd]
+Siège 1 : ryuji75 (bouton) (petite blind) a remporté (160)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261146923409 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2026 15:00:57 CET [15/06/2026 9:00:57 ET]
+Table '4008734833 1' 3-max Siège #2 est au bouton.
+Place 1: ryuji75 (830 en jetons) 
+Place 2: psychoman59 (670 en jetons) 
+psychoman59 : met la petite blind. 20
+ryuji75 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Jd]
+psychoman59 : suit. 20
+ryuji75 : parole 
+*** FLOP *** [6h Tc 7d]
+ryuji75 : parole 
+psychoman59 : mise. 80
+ryuji75 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [6h Tc 7d]
+Siège 1 : ryuji75 (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°261146925172 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2026 15:01:14 CET [15/06/2026 9:01:14 ET]
+Table '4008734833 1' 3-max Siège #1 est au bouton.
+Place 1: ryuji75 (790 en jetons) 
+Place 2: psychoman59 (710 en jetons) 
+ryuji75 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 4s]
+ryuji75 : relance. 40 à 80
+psychoman59 : relance. 630 à 710 et est all-in.
+ryuji75 : passe. 
+Personne n'a suivi. (630) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : ryuji75 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (160)
+
+
+
+Main PokerStars n°261146926581 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2026 15:01:26 CET [15/06/2026 9:01:26 ET]
+Table '4008734833 1' 3-max Siège #2 est au bouton.
+Place 1: ryuji75 (710 en jetons) 
+Place 2: psychoman59 (790 en jetons) 
+psychoman59 : met la petite blind. 20
+ryuji75 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 6s]
+psychoman59 : suit. 20
+ryuji75 : parole 
+*** FLOP *** [Qh 6d 7h]
+ryuji75 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à ryuji75.
+ryuji75 a remporté 80  lors du pot .
+ryuji75 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Qh 6d 7h]
+Siège 1 : ryuji75 (grosse blind) a remporté (80)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261146928064 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2026 15:01:40 CET [15/06/2026 9:01:40 ET]
+Table '4008734833 1' 3-max Siège #1 est au bouton.
+Place 1: ryuji75 (750 en jetons) 
+Place 2: psychoman59 (750 en jetons) 
+ryuji75 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Jh]
+ryuji75 : relance. 40 à 80
+psychoman59 : suit. 40
+*** FLOP *** [8h 2d Ks]
+psychoman59 : parole 
+ryuji75 : mise. 120
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à ryuji75.
+ryuji75 a remporté 160  lors du pot .
+ryuji75 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [8h 2d Ks]
+Siège 1 : ryuji75 (bouton) (petite blind) a remporté (160)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261146930025 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/06/2026 15:01:59 CET [15/06/2026 9:01:59 ET]
+Table '4008734833 1' 3-max Siège #2 est au bouton.
+Place 1: ryuji75 (830 en jetons) 
+Place 2: psychoman59 (670 en jetons) 
+psychoman59 : met la petite blind. 20
+ryuji75 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Ac]
+psychoman59 : relance. 630 à 670 et est all-in.
+ryuji75 : passe. 
+Personne n'a suivi. (630) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : ryuji75 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°261146931154 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/06/2026 15:02:09 CET [15/06/2026 9:02:09 ET]
+Table '4008734833 1' 3-max Siège #1 est au bouton.
+Place 1: ryuji75 (790 en jetons) 
+Place 2: psychoman59 (710 en jetons) 
+ryuji75 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 2d]
+ryuji75 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [5d 6s Ts]
+psychoman59 : parole 
+ryuji75 : mise. 90
+psychoman59 : passe. 
+Personne n'a suivi. (90) sont retournés à ryuji75.
+ryuji75 a remporté 120  lors du pot .
+ryuji75 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [5d 6s Ts]
+Siège 1 : ryuji75 (bouton) (petite blind) a remporté (120)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261146932879 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/06/2026 15:02:26 CET [15/06/2026 9:02:26 ET]
+Table '4008734833 1' 3-max Siège #2 est au bouton.
+Place 1: ryuji75 (850 en jetons) 
+Place 2: psychoman59 (650 en jetons) 
+psychoman59 : met la petite blind. 30
+ryuji75 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 5h]
+psychoman59 : relance. 60 à 120
+ryuji75 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : ryuji75 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°261146933717 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/06/2026 15:02:34 CET [15/06/2026 9:02:34 ET]
+Table '4008734833 1' 3-max Siège #1 est au bouton.
+Place 1: ryuji75 (790 en jetons) 
+Place 2: psychoman59 (710 en jetons) 
+ryuji75 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 7c]
+ryuji75 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Ac 7s 6h]
+psychoman59 : parole 
+ryuji75 : mise. 90
+psychoman59 : suit. 90
+*** TOURNANT *** [Ac 7s 6h] [Qh]
+psychoman59 : parole 
+ryuji75 : parole 
+*** RIVIÈRE *** [Ac 7s 6h Qh] [3s]
+psychoman59 : mise. 150
+ryuji75 : passe. 
+Personne n'a suivi. (150) sont retournés à psychoman59.
+psychoman59 a remporté 300  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [Ac 7s 6h Qh 3s]
+Siège 1 : ryuji75 (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (grosse blind) a remporté (300)
+
+
+
+Main PokerStars n°261146936337 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/06/2026 15:02:58 CET [15/06/2026 9:02:58 ET]
+Table '4008734833 1' 3-max Siège #2 est au bouton.
+Place 1: ryuji75 (640 en jetons) 
+Place 2: psychoman59 (860 en jetons) 
+psychoman59 : met la petite blind. 30
+ryuji75 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 9d]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à ryuji75.
+ryuji75 a remporté 60  lors du pot .
+ryuji75 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : ryuji75 (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261146937102 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/06/2026 15:03:05 CET [15/06/2026 9:03:05 ET]
+Table '4008734833 1' 3-max Siège #1 est au bouton.
+Place 1: ryuji75 (670 en jetons) 
+Place 2: psychoman59 (830 en jetons) 
+ryuji75 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Qc]
+ryuji75 : relance. 60 à 120
+psychoman59 : suit. 60
+*** FLOP *** [8s 7d 9s]
+psychoman59 : parole 
+ryuji75 : mise. 84
+psychoman59 : suit. 84
+*** TOURNANT *** [8s 7d 9s] [6h]
+psychoman59 : parole 
+ryuji75 : parole 
+*** RIVIÈRE *** [8s 7d 9s 6h] [Jh]
+psychoman59 : mise. 204
+ryuji75 : passe. 
+Personne n'a suivi. (204) sont retournés à psychoman59.
+psychoman59 a remporté 408  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 408 | Commission 0 
+Tableau [8s 7d 9s 6h Jh]
+Siège 1 : ryuji75 (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (grosse blind) a remporté (408)
+
+
+
+Main PokerStars n°261146940135 : Tournoi #4008734833, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/06/2026 15:03:33 CET [15/06/2026 9:03:33 ET]
+Table '4008734833 1' 3-max Siège #2 est au bouton.
+Place 1: ryuji75 (466 en jetons) 
+Place 2: psychoman59 (1034 en jetons) 
+psychoman59 : met la petite blind. 30
+ryuji75 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 3c]
+psychoman59 : relance. 974 à 1034 et est all-in.
+ryuji75 : suit. 406 et est all-in.
+Personne n'a suivi. (568) sont retournés à psychoman59.
+*** FLOP *** [9h 2h 7h]
+*** TOURNANT *** [9h 2h 7h] [Qs]
+*** RIVIÈRE *** [9h 2h 7h Qs] [3s]
+*** ABATTAGE ***
+ryuji75 : montre [8c As] (Hauteur As)
+psychoman59 : montre [3d 3c] (un brelan de Trois)
+psychoman59 a remporté 932  lors du pot .
+ryuji75 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 932 | Commission 0 
+Tableau [9h 2h 7h Qs 3s]
+Siège 1 : ryuji75 (grosse blind) a montré [8c As] et a perdu avec Hauteur As
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [3d 3c] et a gagné (932) avec un brelan de Trois
+
+
+

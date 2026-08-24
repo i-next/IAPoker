@@ -1,0 +1,484 @@
+﻿Main PokerStars n°244210160881 : Tournoi #3603061843, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 11/06/2023 11:08:38 CET [11/06/2023 5:08:38 ET]
+Table '3603061843 1' 3-max Siège #1 est au bouton.
+Place 1: roberyoo (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: rubensarai (300 en jetons) 
+psychoman59 : met la petite blind. 10
+rubensarai : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 8s]
+roberyoo : relance. 20 à 40
+psychoman59 : passe. 
+rubensarai : suit. 20
+*** FLOP *** [Tc 5d 2s]
+rubensarai : mise. 20
+roberyoo : relance. 65 à 85
+rubensarai : suit. 65
+*** TOURNANT *** [Tc 5d 2s] [Th]
+rubensarai : parole 
+roberyoo : mise. 175 et est all-in.
+rubensarai : suit. 175 et est all-in.
+*** RIVIÈRE *** [Tc 5d 2s Th] [3h]
+*** ABATTAGE ***
+rubensarai : montre [Kd 5h] (double paire, Dix et Cinq)
+roberyoo : montre [Qc Qh] (double paire, Dames et Dix)
+roberyoo a remporté 610  lors du pot .
+rubensarai a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 610 | Commission 0 
+Tableau [Tc 5d 2s Th 3h]
+Siège 1 : roberyoo (bouton) a montré [Qc Qh] et a gagné (610) avec double paire, Dames et Dix
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : rubensarai (grosse blind) a montré [Kd 5h] et a perdu avec double paire, Dix et Cinq
+
+
+
+Main PokerStars n°244210164914 : Tournoi #3603061843, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 11/06/2023 11:09:08 CET [11/06/2023 5:09:08 ET]
+Table '3603061843 1' 3-max Siège #2 est au bouton.
+Place 1: roberyoo (610 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+psychoman59 : met la petite blind. 10
+roberyoo : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Ac]
+psychoman59 : relance. 20 à 40
+roberyoo : suit. 20
+*** FLOP *** [5s Js 6h]
+roberyoo : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5s Js 6h] [7d]
+roberyoo : parole 
+psychoman59 : mise. 40
+roberyoo : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [5s Js 6h 7d]
+Siège 1 : roberyoo (grosse blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°244210167817 : Tournoi #3603061843, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 11/06/2023 11:09:30 CET [11/06/2023 5:09:30 ET]
+Table '3603061843 1' 3-max Siège #1 est au bouton.
+Place 1: roberyoo (570 en jetons) 
+Place 2: psychoman59 (330 en jetons) 
+roberyoo : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Jd]
+roberyoo : relance. 20 à 40
+psychoman59 : suit. 20
+*** FLOP *** [8h 6h Qs]
+psychoman59 : parole 
+roberyoo : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [8h 6h Qs] [6c]
+psychoman59 : parole 
+roberyoo : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [8h 6h Qs 6c] [Tc]
+psychoman59 : parole 
+roberyoo : mise. 20
+psychoman59 : suit. 20
+*** ABATTAGE ***
+roberyoo : montre [Ts 8s] (double paire, Dix et Huit)
+psychoman59 : cache la main perdante. 
+roberyoo a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [8h 6h Qs 6c Tc]
+Siège 1 : roberyoo (bouton) (petite blind) a montré [Ts 8s] et a gagné (200) avec double paire, Dix et Huit
+Siège 2 : psychoman59 (grosse blind) a caché la main perdante. [Td Jd]
+
+
+
+Main PokerStars n°244210171550 : Tournoi #3603061843, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 11/06/2023 11:09:58 CET [11/06/2023 5:09:58 ET]
+Table '3603061843 1' 3-max Siège #2 est au bouton.
+Place 1: roberyoo (670 en jetons) 
+Place 2: psychoman59 (230 en jetons) 
+psychoman59 : met la petite blind. 15
+roberyoo : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 8d]
+psychoman59 : relance. 200 à 230 et est all-in.
+roberyoo : passe. 
+Personne n'a suivi. (200) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : roberyoo (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°244210172502 : Tournoi #3603061843, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 11/06/2023 11:10:06 CET [11/06/2023 5:10:06 ET]
+Table '3603061843 1' 3-max Siège #1 est au bouton.
+Place 1: roberyoo (640 en jetons) 
+Place 2: psychoman59 (260 en jetons) 
+roberyoo : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 3h]
+roberyoo : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Ah 2h 8d]
+psychoman59 : parole 
+roberyoo : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à roberyoo.
+roberyoo a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ah 2h 8d]
+Siège 1 : roberyoo (bouton) (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°244210174313 : Tournoi #3603061843, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 11/06/2023 11:10:20 CET [11/06/2023 5:10:20 ET]
+Table '3603061843 1' 3-max Siège #2 est au bouton.
+Place 1: roberyoo (670 en jetons) 
+Place 2: psychoman59 (230 en jetons) 
+psychoman59 : met la petite blind. 15
+roberyoo : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 4c]
+psychoman59 : relance. 200 à 230 et est all-in.
+roberyoo : suit. 200
+*** FLOP *** [6c 6s Td]
+*** TOURNANT *** [6c 6s Td] [9d]
+*** RIVIÈRE *** [6c 6s Td 9d] [5s]
+*** ABATTAGE ***
+roberyoo : montre [7s Kc] (une paire de Six)
+psychoman59 : montre [Ac 4c] (une paire de Six - As kicker)
+psychoman59 a remporté 460  lors du pot .
+*** SYNTHÈSE ***
+Pot total 460 | Commission 0 
+Tableau [6c 6s Td 9d 5s]
+Siège 1 : roberyoo (grosse blind) a montré [7s Kc] et a perdu avec une paire de Six
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Ac 4c] et a gagné (460) avec une paire de Six
+
+
+
+Main PokerStars n°244210176376 : Tournoi #3603061843, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 11/06/2023 11:10:35 CET [11/06/2023 5:10:35 ET]
+Table '3603061843 1' 3-max Siège #1 est au bouton.
+Place 1: roberyoo (440 en jetons) 
+Place 2: psychoman59 (460 en jetons) 
+roberyoo : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Qd]
+roberyoo : suit. 15
+psychoman59 : parole 
+*** FLOP *** [9d Qh Ac]
+psychoman59 : parole 
+roberyoo : parole 
+*** TOURNANT *** [9d Qh Ac] [Ks]
+psychoman59 : parole 
+roberyoo : mise. 30
+psychoman59 : suit. 30
+*** RIVIÈRE *** [9d Qh Ac Ks] [6d]
+psychoman59 : parole 
+roberyoo : parole 
+*** ABATTAGE ***
+psychoman59 : montre [5s Qd] (une paire de Dames)
+roberyoo : cache la main perdante. 
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [9d Qh Ac Ks 6d]
+Siège 1 : roberyoo (bouton) (petite blind) a caché la main perdante. [Td 5h]
+Siège 2 : psychoman59 (grosse blind) a montré [5s Qd] et a gagné (120) avec une paire de Dames
+
+
+
+Main PokerStars n°244210179685 : Tournoi #3603061843, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 11/06/2023 11:11:00 CET [11/06/2023 5:11:00 ET]
+Table '3603061843 1' 3-max Siège #2 est au bouton.
+Place 1: roberyoo (380 en jetons) 
+Place 2: psychoman59 (520 en jetons) 
+psychoman59 : met la petite blind. 20
+roberyoo : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Ad]
+psychoman59 : relance. 80 à 120
+roberyoo : relance. 260 à 380 et est all-in.
+psychoman59 : suit. 260
+*** FLOP *** [5d 8h 9d]
+*** TOURNANT *** [5d 8h 9d] [5s]
+*** RIVIÈRE *** [5d 8h 9d 5s] [Tc]
+*** ABATTAGE ***
+roberyoo : montre [Js Jc] (double paire, Valets et Cinq)
+psychoman59 : montre [Kd Ad] (une paire de Cinq)
+roberyoo a remporté 760  lors du pot .
+*** SYNTHÈSE ***
+Pot total 760 | Commission 0 
+Tableau [5d 8h 9d 5s Tc]
+Siège 1 : roberyoo (grosse blind) a montré [Js Jc] et a gagné (760) avec double paire, Valets et Cinq
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Kd Ad] et a perdu avec une paire de Cinq
+
+
+
+Main PokerStars n°244210182008 : Tournoi #3603061843, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 11/06/2023 11:11:17 CET [11/06/2023 5:11:17 ET]
+Table '3603061843 1' 3-max Siège #1 est au bouton.
+Place 1: roberyoo (760 en jetons) 
+Place 2: psychoman59 (140 en jetons) 
+roberyoo : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Qd]
+roberyoo : suit. 20
+psychoman59 : parole 
+*** FLOP *** [6s 3d Kh]
+psychoman59 : parole 
+roberyoo : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à roberyoo.
+roberyoo a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [6s 3d Kh]
+Siège 1 : roberyoo (bouton) (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°244210183725 : Tournoi #3603061843, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 11/06/2023 11:11:30 CET [11/06/2023 5:11:30 ET]
+Table '3603061843 1' 3-max Siège #2 est au bouton.
+Place 1: roberyoo (800 en jetons) 
+Place 2: psychoman59 (100 en jetons) 
+psychoman59 : met la petite blind. 20
+roberyoo : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 3c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à roberyoo.
+roberyoo a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : roberyoo (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244210184323 : Tournoi #3603061843, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 11/06/2023 11:11:35 CET [11/06/2023 5:11:35 ET]
+Table '3603061843 1' 3-max Siège #1 est au bouton.
+Place 1: roberyoo (820 en jetons) 
+Place 2: psychoman59 (80 en jetons) 
+roberyoo : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Jc]
+roberyoo : relance. 40 à 80
+psychoman59 : suit. 40 et est all-in.
+*** FLOP *** [Ac Qd 7c]
+*** TOURNANT *** [Ac Qd 7c] [Kh]
+*** RIVIÈRE *** [Ac Qd 7c Kh] [Ks]
+*** ABATTAGE ***
+psychoman59 : montre [Tc Jc] (une suite, Dix à As)
+roberyoo : montre [As 9s] (double paire, As et Rois)
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Ac Qd 7c Kh Ks]
+Siège 1 : roberyoo (bouton) (petite blind) a montré [As 9s] et a perdu avec double paire, As et Rois
+Siège 2 : psychoman59 (grosse blind) a montré [Tc Jc] et a gagné (160) avec une suite, Dix à As
+
+
+
+Main PokerStars n°244210186403 : Tournoi #3603061843, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/06/2023 11:11:50 CET [11/06/2023 5:11:50 ET]
+Table '3603061843 1' 3-max Siège #2 est au bouton.
+Place 1: roberyoo (740 en jetons) 
+Place 2: psychoman59 (160 en jetons) 
+psychoman59 : met la petite blind. 30
+roberyoo : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Kh]
+psychoman59 : relance. 100 à 160 et est all-in.
+roberyoo : suit. 100
+*** FLOP *** [Ks 9c Js]
+*** TOURNANT *** [Ks 9c Js] [Ac]
+*** RIVIÈRE *** [Ks 9c Js Ac] [Kc]
+*** ABATTAGE ***
+roberyoo : montre [9s 5s] (double paire, Rois et Neuf)
+psychoman59 : montre [6d Kh] (un brelan de Rois)
+psychoman59 a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [Ks 9c Js Ac Kc]
+Siège 1 : roberyoo (grosse blind) a montré [9s 5s] et a perdu avec double paire, Rois et Neuf
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [6d Kh] et a gagné (320) avec un brelan de Rois
+
+
+
+Main PokerStars n°244210188234 : Tournoi #3603061843, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/06/2023 11:12:04 CET [11/06/2023 5:12:04 ET]
+Table '3603061843 1' 3-max Siège #1 est au bouton.
+Place 1: roberyoo (580 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+roberyoo : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 6h]
+roberyoo : suit. 30
+psychoman59 : parole 
+*** FLOP *** [2s 9s 4c]
+psychoman59 : parole 
+roberyoo : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à roberyoo.
+roberyoo a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [2s 9s 4c]
+Siège 1 : roberyoo (bouton) (petite blind) a remporté (120)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°244210190010 : Tournoi #3603061843, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/06/2023 11:12:18 CET [11/06/2023 5:12:18 ET]
+Table '3603061843 1' 3-max Siège #2 est au bouton.
+Place 1: roberyoo (640 en jetons) 
+Place 2: psychoman59 (260 en jetons) 
+psychoman59 : met la petite blind. 30
+roberyoo : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 2c]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à roberyoo.
+roberyoo a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : roberyoo (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244210190627 : Tournoi #3603061843, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/06/2023 11:12:22 CET [11/06/2023 5:12:22 ET]
+Table '3603061843 1' 3-max Siège #1 est au bouton.
+Place 1: roberyoo (670 en jetons) 
+Place 2: psychoman59 (230 en jetons) 
+roberyoo : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 5d]
+roberyoo : suit. 30
+psychoman59 : relance. 170 à 230 et est all-in.
+roberyoo : suit. 170
+*** FLOP *** [Jc 5h 6d]
+*** TOURNANT *** [Jc 5h 6d] [Ts]
+*** RIVIÈRE *** [Jc 5h 6d Ts] [7d]
+*** ABATTAGE ***
+psychoman59 : montre [4d 5d] (une paire de Cinq)
+roberyoo : montre [2d 2c] (une paire de Deux)
+psychoman59 a remporté 460  lors du pot .
+*** SYNTHÈSE ***
+Pot total 460 | Commission 0 
+Tableau [Jc 5h 6d Ts 7d]
+Siège 1 : roberyoo (bouton) (petite blind) a montré [2d 2c] et a perdu avec une paire de Deux
+Siège 2 : psychoman59 (grosse blind) a montré [4d 5d] et a gagné (460) avec une paire de Cinq
+
+
+
+Main PokerStars n°244210192710 : Tournoi #3603061843, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/06/2023 11:12:38 CET [11/06/2023 5:12:38 ET]
+Table '3603061843 1' 3-max Siège #2 est au bouton.
+Place 1: roberyoo (440 en jetons) 
+Place 2: psychoman59 (460 en jetons) 
+psychoman59 : met la petite blind. 30
+roberyoo : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 8s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à roberyoo.
+roberyoo a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : roberyoo (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244210193756 : Tournoi #3603061843, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 11/06/2023 11:12:46 CET [11/06/2023 5:12:46 ET]
+Table '3603061843 1' 3-max Siège #1 est au bouton.
+Place 1: roberyoo (470 en jetons) 
+Place 2: psychoman59 (430 en jetons) 
+roberyoo : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 6h]
+roberyoo : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : roberyoo (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°244210194311 : Tournoi #3603061843, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 11/06/2023 11:12:50 CET [11/06/2023 5:12:50 ET]
+Table '3603061843 1' 3-max Siège #2 est au bouton.
+Place 1: roberyoo (430 en jetons) 
+Place 2: psychoman59 (470 en jetons) 
+psychoman59 : met la petite blind. 40
+roberyoo : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 3s]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à roberyoo.
+roberyoo a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : roberyoo (grosse blind) a remporté (80)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244210194959 : Tournoi #3603061843, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 11/06/2023 11:12:55 CET [11/06/2023 5:12:55 ET]
+Table '3603061843 1' 3-max Siège #1 est au bouton.
+Place 1: roberyoo (470 en jetons) 
+Place 2: psychoman59 (430 en jetons) 
+roberyoo : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 3s]
+roberyoo : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : roberyoo (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°244210195505 : Tournoi #3603061843, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau V (40/80) - 11/06/2023 11:12:59 CET [11/06/2023 5:12:59 ET]
+Table '3603061843 1' 3-max Siège #2 est au bouton.
+Place 1: roberyoo (430 en jetons) 
+Place 2: psychoman59 (470 en jetons) 
+psychoman59 : met la petite blind. 40
+roberyoo : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Ah]
+psychoman59 : relance. 390 à 470 et est all-in.
+roberyoo : suit. 350 et est all-in.
+Personne n'a suivi. (40) sont retournés à psychoman59.
+*** FLOP *** [6h 3h Qc]
+*** TOURNANT *** [6h 3h Qc] [6d]
+*** RIVIÈRE *** [6h 3h Qc 6d] [Ks]
+*** ABATTAGE ***
+roberyoo : montre [8s 6c] (un brelan de Six)
+psychoman59 : montre [9s Ah] (une paire de Six)
+roberyoo a remporté 860  lors du pot .
+*** SYNTHÈSE ***
+Pot total 860 | Commission 0 
+Tableau [6h 3h Qc 6d Ks]
+Siège 1 : roberyoo (grosse blind) a montré [8s 6c] et a gagné (860) avec un brelan de Six
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [9s Ah] et a perdu avec une paire de Six
+
+
+

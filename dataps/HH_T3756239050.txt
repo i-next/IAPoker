@@ -1,0 +1,116 @@
+﻿Main PokerStars n°250577739369 : Tournoi #3756239050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 19/05/2024 8:00:00 CET [19/05/2024 2:00:00 ET]
+Table '3756239050 1' 3-max Siège #1 est au bouton.
+Place 1: douny35 (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: santoluxe23 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+santoluxe23 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 4h]
+douny35 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à santoluxe23.
+santoluxe23 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : douny35 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : santoluxe23 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°250577740002 : Tournoi #3756239050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 19/05/2024 8:00:08 CET [19/05/2024 2:00:08 ET]
+Table '3756239050 1' 3-max Siège #2 est au bouton.
+Place 1: douny35 (500 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: santoluxe23 (510 en jetons) 
+santoluxe23 : met la petite blind. 10
+douny35 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 6s]
+psychoman59 : passe. 
+santoluxe23 : suit. 10
+douny35 : parole 
+*** FLOP *** [9d Ks Qd]
+santoluxe23 : mise. 60
+douny35 : suit. 60
+*** TOURNANT *** [9d Ks Qd] [Js]
+santoluxe23 : parole 
+douny35 : parole 
+*** RIVIÈRE *** [9d Ks Qd Js] [7c]
+santoluxe23 : parole 
+douny35 : mise. 160
+santoluxe23 : passe. 
+Personne n'a suivi. (160) sont retournés à douny35.
+douny35 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [9d Ks Qd Js 7c]
+Siège 1 : douny35 (grosse blind) a remporté (160)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : santoluxe23 (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°250577743180 : Tournoi #3756239050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 19/05/2024 8:00:44 CET [19/05/2024 2:00:44 ET]
+Table '3756239050 1' 3-max Siège #3 est au bouton.
+Place 1: douny35 (580 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: santoluxe23 (430 en jetons) 
+douny35 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Ad]
+santoluxe23 : suit. 20
+douny35 : passe. 
+psychoman59 : relance. 470 à 490 et est all-in.
+santoluxe23 : suit. 410 et est all-in.
+Personne n'a suivi. (60) sont retournés à psychoman59.
+*** FLOP *** [Jd Ks Td]
+*** TOURNANT *** [Jd Ks Td] [2d]
+*** RIVIÈRE *** [Jd Ks Td 2d] [Jc]
+*** ABATTAGE ***
+psychoman59 : montre [7s Ad] (une paire de Valets)
+santoluxe23 : montre [9d Th] (double paire, Valets et Dix)
+santoluxe23 a remporté 870  lors du pot .
+*** SYNTHÈSE ***
+Pot total 870 | Commission 0 
+Tableau [Jd Ks Td 2d Jc]
+Siège 1 : douny35 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a montré [7s Ad] et a perdu avec une paire de Valets
+Siège 3 : santoluxe23 (bouton) a montré [9d Th] et a gagné (870) avec double paire, Valets et Dix
+
+
+
+Main PokerStars n°250577745274 : Tournoi #3756239050, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 19/05/2024 8:01:07 CET [19/05/2024 2:01:07 ET]
+Table '3756239050 1' 3-max Siège #1 est au bouton.
+Place 1: douny35 (570 en jetons) 
+Place 2: psychoman59 (60 en jetons) 
+Place 3: santoluxe23 (870 en jetons) 
+psychoman59 : met la petite blind. 10
+santoluxe23 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Ad]
+douny35 : suit. 20
+psychoman59 : suit. 10
+santoluxe23 : relance. 20 à 40
+douny35 : passe. 
+psychoman59 : relance. 20 à 60 et est all-in.
+santoluxe23 : suit. 20
+*** FLOP *** [Kh Ts 7h]
+*** TOURNANT *** [Kh Ts 7h] [Kd]
+*** RIVIÈRE *** [Kh Ts 7h Kd] [6d]
+*** ABATTAGE ***
+psychoman59 : montre [3c Ad] (une paire de Rois)
+santoluxe23 : montre [5d Tc] (double paire, Rois et Dix)
+santoluxe23 a remporté 140  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [Kh Ts 7h Kd 6d]
+Siège 1 : douny35 (bouton) s'est couché. avant Flop
+Siège 2 : psychoman59 (petite blind) a montré [3c Ad] et a perdu avec une paire de Rois
+Siège 3 : santoluxe23 (grosse blind) a montré [5d Tc] et a gagné (140) avec double paire, Rois et Dix
+
+
+

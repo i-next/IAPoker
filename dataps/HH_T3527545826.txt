@@ -1,0 +1,107 @@
+﻿Main PokerStars n°240970094957 : Tournoi #3527545826, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/01/2023 9:32:39 CET [07/01/2023 3:32:39 ET]
+Table '3527545826 1' 3-max Siège #1 est au bouton.
+Place 1: alex2LGB (300 en jetons) 
+Place 2: HIT0706 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+HIT0706 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 5h]
+alex2LGB : relance. 20 à 40
+HIT0706 : passe. 
+psychoman59 : suit. 20
+*** FLOP *** [3s Tc As]
+psychoman59 : parole 
+alex2LGB : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à alex2LGB.
+alex2LGB a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [3s Tc As]
+Siège 1 : alex2LGB (bouton) a remporté (90)
+Siège 2 : HIT0706 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°240970098006 : Tournoi #3527545826, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/01/2023 9:33:03 CET [07/01/2023 3:33:03 ET]
+Table '3527545826 1' 3-max Siège #2 est au bouton.
+Place 1: alex2LGB (350 en jetons) 
+Place 2: HIT0706 (290 en jetons) 
+Place 3: psychoman59 (260 en jetons) 
+psychoman59 : met la petite blind. 10
+alex2LGB : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 3d]
+HIT0706 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à alex2LGB.
+alex2LGB a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : alex2LGB (grosse blind) a remporté (20)
+Siège 2 : HIT0706 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240970098698 : Tournoi #3527545826, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/01/2023 9:33:08 CET [07/01/2023 3:33:08 ET]
+Table '3527545826 1' 3-max Siège #3 est au bouton.
+Place 1: alex2LGB (360 en jetons) 
+Place 2: HIT0706 (290 en jetons) 
+Place 3: psychoman59 (250 en jetons) 
+alex2LGB : met la petite blind. 10
+HIT0706 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 2d]
+psychoman59 : passe. 
+alex2LGB : suit. 10
+HIT0706 : relance. 40 à 60
+alex2LGB : passe. 
+Personne n'a suivi. (40) sont retournés à HIT0706.
+HIT0706 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : alex2LGB (petite blind) s'est couché. avant Flop
+Siège 2 : HIT0706 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°240970100404 : Tournoi #3527545826, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/01/2023 9:33:21 CET [07/01/2023 3:33:21 ET]
+Table '3527545826 1' 3-max Siège #1 est au bouton.
+Place 1: alex2LGB (340 en jetons) 
+Place 2: HIT0706 (310 en jetons) 
+Place 3: psychoman59 (250 en jetons) 
+HIT0706 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Kh]
+alex2LGB : passe. 
+HIT0706 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [9d Kc 4h]
+HIT0706 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [9d Kc 4h] [8c]
+HIT0706 : mise. 20
+psychoman59 : relance. 40 à 60
+HIT0706 : relance. 230 à 290 et est all-in.
+psychoman59 : suit. 170 et est all-in.
+Personne n'a suivi. (60) sont retournés à HIT0706.
+*** RIVIÈRE *** [9d Kc 4h 8c] [3c]
+*** ABATTAGE ***
+HIT0706 : montre [4d 9h] (double paire, Neuf et Quatre)
+psychoman59 : montre [6c Kh] (une paire de Rois)
+HIT0706 a remporté 500  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Tableau [9d Kc 4h 8c 3c]
+Siège 1 : alex2LGB (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : HIT0706 (petite blind) a montré [4d 9h] et a gagné (500) avec double paire, Neuf et Quatre
+Siège 3 : psychoman59 (grosse blind) a montré [6c Kh] et a perdu avec une paire de Rois
+
+
+

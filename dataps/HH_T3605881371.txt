@@ -1,0 +1,342 @@
+﻿Main PokerStars n°244331610348 : Tournoi #3605881371, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 18/06/2023 7:51:02 CET [18/06/2023 1:51:02 ET]
+Table '3605881371 1' 3-max Siège #1 est au bouton.
+Place 1: pandorud (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: FallOfHumanity (300 en jetons) 
+psychoman59 : met la petite blind. 10
+FallOfHumanity : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 2c]
+pandorud : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à FallOfHumanity.
+FallOfHumanity a remporté 20  lors du pot .
+FallOfHumanity : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : pandorud (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : FallOfHumanity (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°244331611176 : Tournoi #3605881371, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 18/06/2023 7:51:10 CET [18/06/2023 1:51:10 ET]
+Table '3605881371 1' 3-max Siège #2 est au bouton.
+Place 1: pandorud (300 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: FallOfHumanity (310 en jetons) 
+FallOfHumanity : met la petite blind. 10
+pandorud : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Js]
+psychoman59 : passe. 
+FallOfHumanity : suit. 10
+pandorud : parole 
+*** FLOP *** [3s Kh 5d]
+FallOfHumanity : parole 
+pandorud : parole 
+*** TOURNANT *** [3s Kh 5d] [4d]
+FallOfHumanity : parole 
+pandorud : parole 
+*** RIVIÈRE *** [3s Kh 5d 4d] [Qd]
+FallOfHumanity : parole 
+pandorud : parole 
+*** ABATTAGE ***
+FallOfHumanity : montre [Jd Ts] (Hauteur Roi)
+pandorud : montre [4c Tc] (une paire de Quatre)
+pandorud a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [3s Kh 5d 4d Qd]
+Siège 1 : pandorud (grosse blind) a montré [4c Tc] et a gagné (40) avec une paire de Quatre
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : FallOfHumanity (petite blind) a montré [Jd Ts] et a perdu avec Hauteur Roi
+
+
+
+Main PokerStars n°244331613483 : Tournoi #3605881371, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 18/06/2023 7:51:32 CET [18/06/2023 1:51:32 ET]
+Table '3605881371 1' 3-max Siège #3 est au bouton.
+Place 1: pandorud (320 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: FallOfHumanity (290 en jetons) 
+pandorud : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 7d]
+FallOfHumanity : relance. 270 à 290 et est all-in.
+pandorud : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (270) sont retournés à FallOfHumanity.
+FallOfHumanity a remporté 50  lors du pot .
+FallOfHumanity : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : pandorud (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : FallOfHumanity (bouton) a remporté (50)
+
+
+
+Main PokerStars n°244331614133 : Tournoi #3605881371, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 18/06/2023 7:51:39 CET [18/06/2023 1:51:39 ET]
+Table '3605881371 1' 3-max Siège #1 est au bouton.
+Place 1: pandorud (310 en jetons) 
+Place 2: psychoman59 (270 en jetons) 
+Place 3: FallOfHumanity (320 en jetons) 
+psychoman59 : met la petite blind. 10
+FallOfHumanity : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 6c]
+pandorud : suit. 20
+psychoman59 : passe. 
+FallOfHumanity : parole 
+*** FLOP *** [8s 7h 9d]
+FallOfHumanity : parole 
+pandorud : parole 
+*** TOURNANT *** [8s 7h 9d] [7s]
+FallOfHumanity : mise. 20
+pandorud : relance. 20 à 40
+FallOfHumanity : suit. 20
+*** RIVIÈRE *** [8s 7h 9d 7s] [As]
+FallOfHumanity : parole 
+pandorud : mise. 250 et est all-in.
+FallOfHumanity : passe. 
+Personne n'a suivi. (250) sont retournés à pandorud.
+pandorud a remporté 130  lors du pot .
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Tableau [8s 7h 9d 7s As]
+Siège 1 : pandorud (bouton) a remporté (130)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : FallOfHumanity (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°244331616486 : Tournoi #3605881371, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 18/06/2023 7:52:02 CET [18/06/2023 1:52:02 ET]
+Table '3605881371 1' 3-max Siège #2 est au bouton.
+Place 1: pandorud (380 en jetons) 
+Place 2: psychoman59 (260 en jetons) 
+Place 3: FallOfHumanity (260 en jetons) 
+FallOfHumanity : met la petite blind. 10
+pandorud : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 7c]
+psychoman59 : passe. 
+FallOfHumanity : relance. 240 à 260 et est all-in.
+pandorud : suit. 240
+*** FLOP *** [Jc 4d 7d]
+*** TOURNANT *** [Jc 4d 7d] [Qs]
+*** RIVIÈRE *** [Jc 4d 7d Qs] [Jh]
+*** ABATTAGE ***
+FallOfHumanity : montre [Ks 9s] (une paire de Valets)
+pandorud : montre [9d Kc] (une paire de Valets)
+FallOfHumanity a remporté 260  lors du pot .
+pandorud a remporté 260  lors du pot .
+*** SYNTHÈSE ***
+Pot total 520 | Commission 0 
+Tableau [Jc 4d 7d Qs Jh]
+Siège 1 : pandorud (grosse blind) a montré [9d Kc] et a gagné (260) avec une paire de Valets
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : FallOfHumanity (petite blind) a montré [Ks 9s] et a gagné (260) avec une paire de Valets
+
+
+
+Main PokerStars n°244331618912 : Tournoi #3605881371, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 18/06/2023 7:52:25 CET [18/06/2023 1:52:25 ET]
+Table '3605881371 1' 3-max Siège #3 est au bouton.
+Place 1: pandorud (380 en jetons) 
+Place 2: psychoman59 (260 en jetons) 
+Place 3: FallOfHumanity (260 en jetons) 
+pandorud : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah As]
+FallOfHumanity : passe. 
+pandorud : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : pandorud (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+Siège 3 : FallOfHumanity (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°244331619393 : Tournoi #3605881371, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 18/06/2023 7:52:29 CET [18/06/2023 1:52:29 ET]
+Table '3605881371 1' 3-max Siège #1 est au bouton.
+Place 1: pandorud (365 en jetons) 
+Place 2: psychoman59 (275 en jetons) 
+Place 3: FallOfHumanity (260 en jetons) 
+psychoman59 : met la petite blind. 15
+FallOfHumanity : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 8c]
+pandorud : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à FallOfHumanity.
+FallOfHumanity a remporté 30  lors du pot .
+FallOfHumanity : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : pandorud (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : FallOfHumanity (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°244331620354 : Tournoi #3605881371, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 18/06/2023 7:52:39 CET [18/06/2023 1:52:39 ET]
+Table '3605881371 1' 3-max Siège #2 est au bouton.
+Place 1: pandorud (365 en jetons) 
+Place 2: psychoman59 (260 en jetons) 
+Place 3: FallOfHumanity (275 en jetons) 
+FallOfHumanity : met la petite blind. 15
+pandorud : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Jh]
+psychoman59 : relance. 30 à 60
+FallOfHumanity : passe. 
+pandorud : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 75  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : pandorud (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a remporté (75)
+Siège 3 : FallOfHumanity (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244331621607 : Tournoi #3605881371, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 18/06/2023 7:52:50 CET [18/06/2023 1:52:50 ET]
+Table '3605881371 1' 3-max Siège #3 est au bouton.
+Place 1: pandorud (335 en jetons) 
+Place 2: psychoman59 (305 en jetons) 
+Place 3: FallOfHumanity (260 en jetons) 
+pandorud : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Qh]
+FallOfHumanity : passe. 
+pandorud a dépassé le temps imparti.
+pandorud : passe. 
+pandorud ne joue pas.
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+pandorud est revenu.
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : pandorud (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+Siège 3 : FallOfHumanity (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°244331624554 : Tournoi #3605881371, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 18/06/2023 7:53:19 CET [18/06/2023 1:53:19 ET]
+Table '3605881371 1' 3-max Siège #1 est au bouton.
+Place 1: pandorud (320 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: FallOfHumanity (260 en jetons) 
+psychoman59 : met la petite blind. 20
+FallOfHumanity : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 2h]
+pandorud : relance. 40 à 80
+psychoman59 : passe. 
+FallOfHumanity : suit. 40
+*** FLOP *** [6c 4c Kd]
+FallOfHumanity : parole 
+pandorud : parole 
+*** TOURNANT *** [6c 4c Kd] [9d]
+FallOfHumanity : parole 
+pandorud : parole 
+*** RIVIÈRE *** [6c 4c Kd 9d] [7h]
+FallOfHumanity : parole 
+pandorud : parole 
+*** ABATTAGE ***
+FallOfHumanity : montre [8d Tc] (une suite, Six à Dix)
+pandorud : cache la main perdante. 
+FallOfHumanity a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [6c 4c Kd 9d 7h]
+Siège 1 : pandorud (bouton) a caché la main perdante. [6h As]
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : FallOfHumanity (grosse blind) a montré [8d Tc] et a gagné (180) avec une suite, Six à Dix
+
+
+
+Main PokerStars n°244331626880 : Tournoi #3605881371, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 18/06/2023 7:53:42 CET [18/06/2023 1:53:42 ET]
+Table '3605881371 1' 3-max Siège #2 est au bouton.
+Place 1: pandorud (240 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: FallOfHumanity (360 en jetons) 
+FallOfHumanity : met la petite blind. 20
+pandorud : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 9s]
+psychoman59 : passe. 
+FallOfHumanity : passe. 
+Personne n'a suivi. (20) sont retournés à pandorud.
+pandorud a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : pandorud (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : FallOfHumanity (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244331627404 : Tournoi #3605881371, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 18/06/2023 7:53:47 CET [18/06/2023 1:53:47 ET]
+Table '3605881371 1' 3-max Siège #3 est au bouton.
+Place 1: pandorud (260 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: FallOfHumanity (340 en jetons) 
+pandorud : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 8c]
+FallOfHumanity : passe. 
+pandorud : relance. 220 à 260 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (220) sont retournés à pandorud.
+pandorud a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : pandorud (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : FallOfHumanity (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°244331628486 : Tournoi #3605881371, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 18/06/2023 7:53:58 CET [18/06/2023 1:53:58 ET]
+Table '3605881371 1' 3-max Siège #1 est au bouton.
+Place 1: pandorud (300 en jetons) 
+Place 2: psychoman59 (260 en jetons) 
+Place 3: FallOfHumanity (340 en jetons) 
+psychoman59 : met la petite blind. 20
+FallOfHumanity : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Jd]
+pandorud : passe. 
+psychoman59 : relance. 40 à 80
+FallOfHumanity : relance. 260 à 340 et est all-in.
+psychoman59 : suit. 180 et est all-in.
+Personne n'a suivi. (80) sont retournés à FallOfHumanity.
+*** FLOP *** [8s Ts Js]
+*** TOURNANT *** [8s Ts Js] [6d]
+*** RIVIÈRE *** [8s Ts Js 6d] [8c]
+*** ABATTAGE ***
+psychoman59 : montre [Qc Jd] (double paire, Valets et Huit)
+FallOfHumanity : montre [Ac Jh] (double paire, Valets et Huit - As kicker)
+FallOfHumanity a remporté 520  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 520 | Commission 0 
+Tableau [8s Ts Js 6d 8c]
+Siège 1 : pandorud (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [Qc Jd] et a perdu avec double paire, Valets et Huit
+Siège 3 : FallOfHumanity (grosse blind) a montré [Ac Jh] et a gagné (520) avec double paire, Valets et Huit
+
+
+

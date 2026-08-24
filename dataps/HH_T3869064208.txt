@@ -1,0 +1,691 @@
+﻿Main PokerStars n°255294656495 : Tournoi #3869064208, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 15/03/2025 7:36:07 CET [15/03/2025 2:36:07 ET]
+Table '3869064208 1' 3-max Siège #1 est au bouton.
+Place 1: pobret@hur (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: laranetalaway (500 en jetons) 
+psychoman59 : met la petite blind. 10
+laranetalaway : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 8d]
+pobret@hur : relance. 50 à 70
+psychoman59 : passe. 
+laranetalaway : passe. 
+Personne n'a suivi. (50) sont retournés à pobret@hur.
+pobret@hur a remporté 50  lors du pot .
+pobret@hur : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : pobret@hur (bouton) a remporté (50)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : laranetalaway (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°255294657289 : Tournoi #3869064208, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 15/03/2025 7:36:17 CET [15/03/2025 2:36:17 ET]
+Table '3869064208 1' 3-max Siège #2 est au bouton.
+Place 1: pobret@hur (530 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: laranetalaway (480 en jetons) 
+laranetalaway : met la petite blind. 10
+pobret@hur : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 8c]
+psychoman59 : passe. 
+laranetalaway : suit. 10
+pobret@hur : parole 
+*** FLOP *** [8s Kd Jc]
+laranetalaway : parole 
+pobret@hur : parole 
+*** TOURNANT *** [8s Kd Jc] [Ts]
+laranetalaway : parole 
+pobret@hur : parole 
+*** RIVIÈRE *** [8s Kd Jc Ts] [As]
+laranetalaway : parole 
+pobret@hur : parole 
+*** ABATTAGE ***
+laranetalaway : montre [2s 2c] (une paire de Deux)
+pobret@hur : montre [Js 7c] (une paire de Valets)
+pobret@hur a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [8s Kd Jc Ts As]
+Siège 1 : pobret@hur (grosse blind) a montré [Js 7c] et a gagné (40) avec une paire de Valets
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : laranetalaway (petite blind) a montré [2s 2c] et a perdu avec une paire de Deux
+
+
+
+Main PokerStars n°255294659112 : Tournoi #3869064208, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 15/03/2025 7:36:41 CET [15/03/2025 2:36:41 ET]
+Table '3869064208 1' 3-max Siège #3 est au bouton.
+Place 1: pobret@hur (550 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: laranetalaway (460 en jetons) 
+pobret@hur : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 6c]
+laranetalaway : suit. 20
+pobret@hur : relance. 20 à 40
+psychoman59 : suit. 20
+laranetalaway : suit. 20
+*** FLOP *** [5h Ac 4s]
+pobret@hur : mise. 120
+psychoman59 : passe. 
+laranetalaway : relance. 300 à 420 et est all-in.
+pobret@hur : suit. 300
+*** TOURNANT *** [5h Ac 4s] [2s]
+*** RIVIÈRE *** [5h Ac 4s 2s] [9c]
+*** ABATTAGE ***
+pobret@hur : montre [Kc Th] (Hauteur As)
+laranetalaway : montre [Ad 4h] (double paire, As et Quatre)
+laranetalaway a remporté 960  lors du pot .
+*** SYNTHÈSE ***
+Pot total 960 | Commission 0 
+Tableau [5h Ac 4s 2s 9c]
+Siège 1 : pobret@hur (petite blind) a montré [Kc Th] et a perdu avec Hauteur As
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : laranetalaway (bouton) a montré [Ad 4h] et a gagné (960) avec double paire, As et Quatre
+
+
+
+Main PokerStars n°255294660915 : Tournoi #3869064208, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 15/03/2025 7:37:06 CET [15/03/2025 2:37:06 ET]
+Table '3869064208 1' 3-max Siège #1 est au bouton.
+Place 1: pobret@hur (90 en jetons) 
+Place 2: psychoman59 (450 en jetons) 
+Place 3: laranetalaway (960 en jetons) 
+psychoman59 : met la petite blind. 10
+laranetalaway : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 2s]
+pobret@hur : relance. 70 à 90 et est all-in.
+psychoman59 : passe. 
+laranetalaway : suit. 70
+*** FLOP *** [Ts 7h 8d]
+*** TOURNANT *** [Ts 7h 8d] [8s]
+*** RIVIÈRE *** [Ts 7h 8d 8s] [7d]
+*** ABATTAGE ***
+laranetalaway : montre [2h Th] (double paire, Dix et Huit)
+pobret@hur : montre [6s Ks] (double paire, Huit et Sept)
+laranetalaway a remporté 190  lors du pot .
+pobret@hur a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Tableau [Ts 7h 8d 8s 7d]
+Siège 1 : pobret@hur (bouton) a montré [6s Ks] et a perdu avec double paire, Huit et Sept
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : laranetalaway (grosse blind) a montré [2h Th] et a gagné (190) avec double paire, Dix et Huit
+
+
+
+Main PokerStars n°255294662776 : Tournoi #3869064208, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 15/03/2025 7:37:30 CET [15/03/2025 2:37:30 ET]
+Table '3869064208 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (440 en jetons) 
+Place 3: laranetalaway (1060 en jetons) 
+laranetalaway : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 5s]
+laranetalaway : suit. 10
+psychoman59 : relance. 420 à 440 et est all-in.
+laranetalaway : passe. 
+Personne n'a suivi. (420) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : laranetalaway (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°255294663381 : Tournoi #3869064208, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 15/03/2025 7:37:38 CET [15/03/2025 2:37:38 ET]
+Table '3869064208 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (460 en jetons) 
+Place 3: laranetalaway (1040 en jetons) 
+psychoman59 : met la petite blind. 10
+laranetalaway : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 9c]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à laranetalaway.
+laranetalaway a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : laranetalaway (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°255294663701 : Tournoi #3869064208, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 15/03/2025 7:37:43 CET [15/03/2025 2:37:43 ET]
+Table '3869064208 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (450 en jetons) 
+Place 3: laranetalaway (1050 en jetons) 
+laranetalaway : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 9s]
+laranetalaway : suit. 10
+psychoman59 : relance. 430 à 450 et est all-in.
+laranetalaway : passe. 
+Personne n'a suivi. (430) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : laranetalaway (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°255294664219 : Tournoi #3869064208, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 15/03/2025 7:37:49 CET [15/03/2025 2:37:49 ET]
+Table '3869064208 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (470 en jetons) 
+Place 3: laranetalaway (1030 en jetons) 
+psychoman59 : met la petite blind. 10
+laranetalaway : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Ad]
+psychoman59 : relance. 40 à 60
+laranetalaway : suit. 40
+*** FLOP *** [Th 3s 4s]
+laranetalaway : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Th 3s 4s] [9h]
+laranetalaway : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Th 3s 4s 9h] [Jc]
+laranetalaway : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+laranetalaway : montre [Ks 4c] (une paire de Quatre)
+psychoman59 : cache la main perdante. 
+laranetalaway a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Th 3s 4s 9h Jc]
+Siège 2 : psychoman59 (bouton) (petite blind) a caché la main perdante. [Kd Ad]
+Siège 3 : laranetalaway (grosse blind) a montré [Ks 4c] et a gagné (120) avec une paire de Quatre
+
+
+
+Main PokerStars n°255294665439 : Tournoi #3869064208, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 15/03/2025 7:38:06 CET [15/03/2025 2:38:06 ET]
+Table '3869064208 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (410 en jetons) 
+Place 3: laranetalaway (1090 en jetons) 
+laranetalaway : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Tc]
+laranetalaway : suit. 10
+psychoman59 : parole 
+*** FLOP *** [3c 4c 7s]
+psychoman59 : parole 
+laranetalaway : parole 
+*** TOURNANT *** [3c 4c 7s] [8d]
+psychoman59 : parole 
+laranetalaway : parole 
+*** RIVIÈRE *** [3c 4c 7s 8d] [Th]
+psychoman59 : mise. 40
+laranetalaway : suit. 40
+*** ABATTAGE ***
+psychoman59 : montre [6c Tc] (une paire de Dix)
+laranetalaway : montre [Jc Ts] (une paire de Dix - Valet kicker)
+laranetalaway a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [3c 4c 7s 8d Th]
+Siège 2 : psychoman59 (grosse blind) a montré [6c Tc] et a perdu avec une paire de Dix
+Siège 3 : laranetalaway (bouton) (petite blind) a montré [Jc Ts] et a gagné (120) avec une paire de Dix
+
+
+
+Main PokerStars n°255294666858 : Tournoi #3869064208, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 15/03/2025 7:38:25 CET [15/03/2025 2:38:25 ET]
+Table '3869064208 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (350 en jetons) 
+Place 3: laranetalaway (1150 en jetons) 
+psychoman59 : met la petite blind. 10
+laranetalaway : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Ac]
+psychoman59 : relance. 330 à 350 et est all-in.
+laranetalaway : passe. 
+Personne n'a suivi. (330) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (40)
+Siège 3 : laranetalaway (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°255294667466 : Tournoi #3869064208, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 15/03/2025 7:38:33 CET [15/03/2025 2:38:33 ET]
+Table '3869064208 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (370 en jetons) 
+Place 3: laranetalaway (1130 en jetons) 
+laranetalaway : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td As]
+laranetalaway : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (20)
+Siège 3 : laranetalaway (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°255294667820 : Tournoi #3869064208, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 15/03/2025 7:38:38 CET [15/03/2025 2:38:38 ET]
+Table '3869064208 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (380 en jetons) 
+Place 3: laranetalaway (1120 en jetons) 
+psychoman59 : met la petite blind. 10
+laranetalaway : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 8c]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à laranetalaway.
+laranetalaway a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : laranetalaway (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°255294668168 : Tournoi #3869064208, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 15/03/2025 7:38:42 CET [15/03/2025 2:38:42 ET]
+Table '3869064208 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (370 en jetons) 
+Place 3: laranetalaway (1130 en jetons) 
+laranetalaway : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Qd]
+laranetalaway : relance. 40 à 60
+psychoman59 : suit. 40
+*** FLOP *** [3c Kh Qh]
+psychoman59 : mise. 310 et est all-in.
+laranetalaway : passe. 
+Personne n'a suivi. (310) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [3c Kh Qh]
+Siège 2 : psychoman59 (grosse blind) a remporté (120)
+Siège 3 : laranetalaway (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°255294669118 : Tournoi #3869064208, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 15/03/2025 7:38:55 CET [15/03/2025 2:38:55 ET]
+Table '3869064208 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (430 en jetons) 
+Place 3: laranetalaway (1070 en jetons) 
+psychoman59 : met la petite blind. 10
+laranetalaway : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 4h]
+psychoman59 : suit. 10
+laranetalaway : relance. 1050 à 1070 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (1050) sont retournés à laranetalaway.
+laranetalaway a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : laranetalaway (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°255294669675 : Tournoi #3869064208, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 15/03/2025 7:39:02 CET [15/03/2025 2:39:02 ET]
+Table '3869064208 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (410 en jetons) 
+Place 3: laranetalaway (1090 en jetons) 
+laranetalaway : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 9c]
+laranetalaway : suit. 10
+psychoman59 : parole 
+*** FLOP *** [9s 7h 4c]
+psychoman59 : mise. 390 et est all-in.
+laranetalaway : passe. 
+Personne n'a suivi. (390) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [9s 7h 4c]
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : laranetalaway (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°255294670898 : Tournoi #3869064208, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 15/03/2025 7:39:19 CET [15/03/2025 2:39:19 ET]
+Table '3869064208 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (430 en jetons) 
+Place 3: laranetalaway (1070 en jetons) 
+psychoman59 : met la petite blind. 15
+laranetalaway : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 7s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à laranetalaway.
+laranetalaway a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : laranetalaway (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°255294671234 : Tournoi #3869064208, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 15/03/2025 7:39:23 CET [15/03/2025 2:39:23 ET]
+Table '3869064208 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (415 en jetons) 
+Place 3: laranetalaway (1085 en jetons) 
+laranetalaway : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 4s]
+laranetalaway : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Ac 3s 4c]
+psychoman59 : parole 
+laranetalaway : mise. 60
+psychoman59 : relance. 325 à 385 et est all-in.
+laranetalaway : passe. 
+Personne n'a suivi. (325) sont retournés à psychoman59.
+psychoman59 a remporté 180  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Ac 3s 4c]
+Siège 2 : psychoman59 (grosse blind) a remporté (180)
+Siège 3 : laranetalaway (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°255294672277 : Tournoi #3869064208, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 15/03/2025 7:39:37 CET [15/03/2025 2:39:37 ET]
+Table '3869064208 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (505 en jetons) 
+Place 3: laranetalaway (995 en jetons) 
+psychoman59 : met la petite blind. 15
+laranetalaway : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Jc]
+psychoman59 : relance. 60 à 90
+laranetalaway : suit. 60
+*** FLOP *** [8h Th Ah]
+laranetalaway : parole 
+psychoman59 : mise. 415 et est all-in.
+laranetalaway : suit. 415
+*** TOURNANT *** [8h Th Ah] [7h]
+*** RIVIÈRE *** [8h Th Ah 7h] [Jh]
+*** ABATTAGE ***
+laranetalaway : montre [Ts 4s] (une couleur, hauteur As)
+psychoman59 : montre [Ac Jc] (une couleur, hauteur As)
+laranetalaway a remporté 505  lors du pot .
+psychoman59 a remporté 505  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1010 | Commission 0 
+Tableau [8h Th Ah 7h Jh]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Ac Jc] et a gagné (505) avec une couleur, hauteur As
+Siège 3 : laranetalaway (grosse blind) a montré [Ts 4s] et a gagné (505) avec une couleur, hauteur As
+
+
+
+Main PokerStars n°255294673754 : Tournoi #3869064208, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 15/03/2025 7:39:57 CET [15/03/2025 2:39:57 ET]
+Table '3869064208 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (505 en jetons) 
+Place 3: laranetalaway (995 en jetons) 
+laranetalaway : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 9h]
+laranetalaway : suit. 15
+psychoman59 : parole 
+*** FLOP *** [9d 8d 7h]
+psychoman59 : parole 
+laranetalaway : parole 
+*** TOURNANT *** [9d 8d 7h] [6s]
+psychoman59 : mise. 60
+laranetalaway : suit. 60
+*** RIVIÈRE *** [9d 8d 7h 6s] [8h]
+psychoman59 : mise. 180
+laranetalaway : suit. 180
+*** ABATTAGE ***
+psychoman59 : montre [Td 9h] (une suite, Six à Dix)
+laranetalaway : cache la main perdante. 
+psychoman59 a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [9d 8d 7h 6s 8h]
+Siège 2 : psychoman59 (grosse blind) a montré [Td 9h] et a gagné (540) avec une suite, Six à Dix
+Siège 3 : laranetalaway (bouton) (petite blind) a caché la main perdante. [Ad 5c]
+
+
+
+Main PokerStars n°255294675440 : Tournoi #3869064208, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 15/03/2025 7:40:19 CET [15/03/2025 2:40:19 ET]
+Table '3869064208 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (775 en jetons) 
+Place 3: laranetalaway (725 en jetons) 
+psychoman59 : met la petite blind. 15
+laranetalaway : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Qd]
+psychoman59 : suit. 15
+laranetalaway : relance. 695 à 725 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (695) sont retournés à laranetalaway.
+laranetalaway a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : laranetalaway (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°255294676123 : Tournoi #3869064208, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 15/03/2025 7:40:29 CET [15/03/2025 2:40:29 ET]
+Table '3869064208 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (745 en jetons) 
+Place 3: laranetalaway (755 en jetons) 
+laranetalaway : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Kc]
+laranetalaway : suit. 15
+psychoman59 : parole 
+*** FLOP *** [2d As 5c]
+psychoman59 : parole 
+laranetalaway : mise. 725 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (725) sont retournés à laranetalaway.
+laranetalaway a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [2d As 5c]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : laranetalaway (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°255294677014 : Tournoi #3869064208, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 15/03/2025 7:40:41 CET [15/03/2025 2:40:41 ET]
+Table '3869064208 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (715 en jetons) 
+Place 3: laranetalaway (785 en jetons) 
+psychoman59 : met la petite blind. 15
+laranetalaway : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Qc]
+psychoman59 : suit. 15
+laranetalaway : relance. 755 à 785 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (755) sont retournés à laranetalaway.
+laranetalaway a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : laranetalaway (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°255294677592 : Tournoi #3869064208, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 15/03/2025 7:40:48 CET [15/03/2025 2:40:48 ET]
+Table '3869064208 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (685 en jetons) 
+Place 3: laranetalaway (815 en jetons) 
+laranetalaway : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 9c]
+laranetalaway : suit. 15
+psychoman59 : parole 
+*** FLOP *** [5d 4c Tc]
+psychoman59 : parole 
+laranetalaway : parole 
+*** TOURNANT *** [5d 4c Tc] [Ac]
+psychoman59 : parole 
+laranetalaway : parole 
+*** RIVIÈRE *** [5d 4c Tc Ac] [2d]
+psychoman59 : parole 
+laranetalaway : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à laranetalaway.
+laranetalaway a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [5d 4c Tc Ac 2d]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : laranetalaway (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°255294679220 : Tournoi #3869064208, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 15/03/2025 7:41:10 CET [15/03/2025 2:41:10 ET]
+Table '3869064208 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (655 en jetons) 
+Place 3: laranetalaway (845 en jetons) 
+psychoman59 : met la petite blind. 15
+laranetalaway : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Ac]
+psychoman59 : relance. 625 à 655 et est all-in.
+laranetalaway : passe. 
+Personne n'a suivi. (625) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 3 : laranetalaway (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°255294679752 : Tournoi #3869064208, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 15/03/2025 7:41:17 CET [15/03/2025 2:41:17 ET]
+Table '3869064208 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (685 en jetons) 
+Place 3: laranetalaway (815 en jetons) 
+laranetalaway : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 9s]
+laranetalaway : relance. 785 à 815 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (785) sont retournés à laranetalaway.
+laranetalaway a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : laranetalaway (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°255294680202 : Tournoi #3869064208, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 15/03/2025 7:41:23 CET [15/03/2025 2:41:23 ET]
+Table '3869064208 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (655 en jetons) 
+Place 3: laranetalaway (845 en jetons) 
+psychoman59 : met la petite blind. 15
+laranetalaway : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 4d]
+psychoman59 : relance. 625 à 655 et est all-in.
+laranetalaway : passe. 
+Personne n'a suivi. (625) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 3 : laranetalaway (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°255294680639 : Tournoi #3869064208, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 15/03/2025 7:41:29 CET [15/03/2025 2:41:29 ET]
+Table '3869064208 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (685 en jetons) 
+Place 3: laranetalaway (815 en jetons) 
+laranetalaway : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Qd]
+laranetalaway : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+Siège 3 : laranetalaway (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°255294680960 : Tournoi #3869064208, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 15/03/2025 7:41:34 CET [15/03/2025 2:41:34 ET]
+Table '3869064208 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (700 en jetons) 
+Place 3: laranetalaway (800 en jetons) 
+psychoman59 : met la petite blind. 15
+laranetalaway : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Jc]
+psychoman59 : relance. 670 à 700 et est all-in.
+laranetalaway : passe. 
+Personne n'a suivi. (670) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 3 : laranetalaway (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°255294681459 : Tournoi #3869064208, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 15/03/2025 7:41:40 CET [15/03/2025 2:41:40 ET]
+Table '3869064208 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (730 en jetons) 
+Place 3: laranetalaway (770 en jetons) 
+laranetalaway : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 4d]
+laranetalaway : suit. 15
+psychoman59 : parole 
+*** FLOP *** [6d 9d 7d]
+psychoman59 : mise. 700 et est all-in.
+laranetalaway : suit. 700
+*** TOURNANT *** [6d 9d 7d] [Kd]
+*** RIVIÈRE *** [6d 9d 7d Kd] [3s]
+*** ABATTAGE ***
+psychoman59 : montre [7s 4d] (une couleur, hauteur Roi)
+laranetalaway : montre [3d 8d] (une couleur, hauteur Roi - Huit plus haute)
+laranetalaway a remporté 1460  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+laranetalaway remporte le tournoi et reçoit 0.75 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 1460 | Commission 0 
+Tableau [6d 9d 7d Kd 3s]
+Siège 2 : psychoman59 (grosse blind) a montré [7s 4d] et a perdu avec une couleur, hauteur Roi
+Siège 3 : laranetalaway (bouton) (petite blind) a montré [3d 8d] et a gagné (1460) avec une couleur, hauteur Roi
+
+
+

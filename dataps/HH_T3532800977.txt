@@ -1,0 +1,353 @@
+﻿Main PokerStars n°241178902744 : Tournoi #3532800977, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/01/2023 8:23:45 CET [16/01/2023 2:23:45 ET]
+Table '3532800977 1' 3-max Siège #1 est au bouton.
+Place 1: boujouille (300 en jetons) 
+Place 2: checkbaby81 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+checkbaby81 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 2s]
+boujouille : suit. 20
+checkbaby81 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [3d 6c 2c]
+checkbaby81 : parole 
+psychoman59 : parole 
+boujouille : mise. 60
+checkbaby81 : passe. 
+psychoman59 : relance. 220 à 280 et est all-in.
+boujouille : passe. 
+Personne n'a suivi. (220) sont retournés à psychoman59.
+psychoman59 a remporté 180  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [3d 6c 2c]
+Siège 1 : boujouille (bouton) s'est couché. sur le Flop
+Siège 2 : checkbaby81 (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (180)
+
+
+
+Main PokerStars n°241178905117 : Tournoi #3532800977, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/01/2023 8:24:10 CET [16/01/2023 2:24:10 ET]
+Table '3532800977 1' 3-max Siège #2 est au bouton.
+Place 1: boujouille (220 en jetons) 
+Place 2: checkbaby81 (280 en jetons) 
+Place 3: psychoman59 (400 en jetons) 
+psychoman59 : met la petite blind. 10
+boujouille : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 3d]
+checkbaby81 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à boujouille.
+boujouille a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : boujouille (grosse blind) a remporté (20)
+Siège 2 : checkbaby81 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241178905912 : Tournoi #3532800977, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/01/2023 8:24:19 CET [16/01/2023 2:24:19 ET]
+Table '3532800977 1' 3-max Siège #3 est au bouton.
+Place 1: boujouille (230 en jetons) 
+Place 2: checkbaby81 (280 en jetons) 
+Place 3: psychoman59 (390 en jetons) 
+boujouille : met la petite blind. 10
+checkbaby81 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s As]
+psychoman59 : suit. 20
+boujouille : passe. 
+checkbaby81 : parole 
+*** FLOP *** [Ks Ah 3d]
+checkbaby81 : parole 
+psychoman59 : mise. 50
+checkbaby81 : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [Ks Ah 3d]
+Siège 1 : boujouille (petite blind) s'est couché. avant Flop
+Siège 2 : checkbaby81 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) a remporté (50)
+
+
+
+Main PokerStars n°241178907977 : Tournoi #3532800977, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/01/2023 8:24:40 CET [16/01/2023 2:24:40 ET]
+Table '3532800977 1' 3-max Siège #1 est au bouton.
+Place 1: boujouille (220 en jetons) 
+Place 2: checkbaby81 (260 en jetons) 
+Place 3: psychoman59 (420 en jetons) 
+checkbaby81 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 9s]
+boujouille : passe. 
+checkbaby81 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [4h Jh 5h]
+checkbaby81 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [4h Jh 5h] [Jc]
+checkbaby81 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [4h Jh 5h Jc] [3d]
+checkbaby81 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+checkbaby81 : montre [Kd 9c] (une paire de Valets)
+psychoman59 : cache la main perdante. 
+checkbaby81 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [4h Jh 5h Jc 3d]
+Siège 1 : boujouille (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : checkbaby81 (petite blind) a montré [Kd 9c] et a gagné (40) avec une paire de Valets
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [7d 9s]
+
+
+
+Main PokerStars n°241178910537 : Tournoi #3532800977, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/01/2023 8:25:06 CET [16/01/2023 2:25:06 ET]
+Table '3532800977 1' 3-max Siège #2 est au bouton.
+Place 1: boujouille (220 en jetons) 
+Place 2: checkbaby81 (280 en jetons) 
+Place 3: psychoman59 (400 en jetons) 
+psychoman59 : met la petite blind. 15
+boujouille : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 9s]
+checkbaby81 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à boujouille.
+boujouille a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : boujouille (grosse blind) a remporté (30)
+Siège 2 : checkbaby81 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241178911129 : Tournoi #3532800977, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/01/2023 8:25:12 CET [16/01/2023 2:25:12 ET]
+Table '3532800977 1' 3-max Siège #3 est au bouton.
+Place 1: boujouille (235 en jetons) 
+Place 2: checkbaby81 (280 en jetons) 
+Place 3: psychoman59 (385 en jetons) 
+boujouille : met la petite blind. 15
+checkbaby81 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Kc]
+psychoman59 : passe. 
+boujouille : suit. 15
+checkbaby81 : relance. 30 à 60
+boujouille : suit. 30
+*** FLOP *** [7c 5c Qh]
+boujouille : parole 
+checkbaby81 : parole 
+*** TOURNANT *** [7c 5c Qh] [7d]
+boujouille : mise. 30
+checkbaby81 : suit. 30
+*** RIVIÈRE *** [7c 5c Qh 7d] [9d]
+boujouille : mise. 145 et est all-in.
+checkbaby81 : passe. 
+Personne n'a suivi. (145) sont retournés à boujouille.
+boujouille a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [7c 5c Qh 7d 9d]
+Siège 1 : boujouille (petite blind) a remporté (180)
+Siège 2 : checkbaby81 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°241178913916 : Tournoi #3532800977, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 16/01/2023 8:25:41 CET [16/01/2023 2:25:41 ET]
+Table '3532800977 1' 3-max Siège #1 est au bouton.
+Place 1: boujouille (325 en jetons) 
+Place 2: checkbaby81 (190 en jetons) 
+Place 3: psychoman59 (385 en jetons) 
+checkbaby81 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 8h]
+boujouille : passe. 
+checkbaby81 : relance. 160 à 190 et est all-in.
+psychoman59 : suit. 160
+*** FLOP *** [9h Kh Qd]
+*** TOURNANT *** [9h Kh Qd] [9s]
+*** RIVIÈRE *** [9h Kh Qd 9s] [Jd]
+*** ABATTAGE ***
+checkbaby81 : montre [Kd Td] (une suite, Neuf à Roi)
+psychoman59 : montre [Ac 8h] (une paire de Neuf)
+checkbaby81 a remporté 380  lors du pot .
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Tableau [9h Kh Qd 9s Jd]
+Siège 1 : boujouille (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : checkbaby81 (petite blind) a montré [Kd Td] et a gagné (380) avec une suite, Neuf à Roi
+Siège 3 : psychoman59 (grosse blind) a montré [Ac 8h] et a perdu avec une paire de Neuf
+
+
+
+Main PokerStars n°241178915968 : Tournoi #3532800977, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 16/01/2023 8:26:03 CET [16/01/2023 2:26:03 ET]
+Table '3532800977 1' 3-max Siège #2 est au bouton.
+Place 1: boujouille (325 en jetons) 
+Place 2: checkbaby81 (380 en jetons) 
+Place 3: psychoman59 (195 en jetons) 
+psychoman59 : met la petite blind. 20
+boujouille : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Ts]
+checkbaby81 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à boujouille.
+boujouille a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : boujouille (grosse blind) a remporté (40)
+Siège 2 : checkbaby81 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241178916698 : Tournoi #3532800977, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 16/01/2023 8:26:10 CET [16/01/2023 2:26:10 ET]
+Table '3532800977 1' 3-max Siège #3 est au bouton.
+Place 1: boujouille (345 en jetons) 
+Place 2: checkbaby81 (380 en jetons) 
+Place 3: psychoman59 (175 en jetons) 
+boujouille : met la petite blind. 20
+checkbaby81 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 8h]
+psychoman59 : passe. 
+boujouille : suit. 20
+checkbaby81 : parole 
+*** FLOP *** [2c 9h Qd]
+boujouille : parole 
+checkbaby81 : parole 
+*** TOURNANT *** [2c 9h Qd] [4d]
+boujouille : parole 
+checkbaby81 : parole 
+*** RIVIÈRE *** [2c 9h Qd 4d] [As]
+boujouille : mise. 40
+checkbaby81 : passe. 
+Personne n'a suivi. (40) sont retournés à boujouille.
+boujouille a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [2c 9h Qd 4d As]
+Siège 1 : boujouille (petite blind) a remporté (80)
+Siège 2 : checkbaby81 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°241178920760 : Tournoi #3532800977, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/01/2023 8:26:52 CET [16/01/2023 2:26:52 ET]
+Table '3532800977 1' 3-max Siège #1 est au bouton.
+Place 1: boujouille (385 en jetons) 
+Place 2: checkbaby81 (340 en jetons) 
+Place 3: psychoman59 (175 en jetons) 
+checkbaby81 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Ks]
+boujouille : passe. 
+checkbaby81 : suit. 30
+psychoman59 : relance. 115 à 175 et est all-in.
+checkbaby81 : suit. 115
+*** FLOP *** [6h 5d 9s]
+*** TOURNANT *** [6h 5d 9s] [3s]
+*** RIVIÈRE *** [6h 5d 9s 3s] [Ah]
+*** ABATTAGE ***
+checkbaby81 : montre [4s Kh] (Hauteur As)
+psychoman59 : montre [Kd Ks] (une paire de Rois)
+psychoman59 a remporté 350  lors du pot .
+*** SYNTHÈSE ***
+Pot total 350 | Commission 0 
+Tableau [6h 5d 9s 3s Ah]
+Siège 1 : boujouille (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : checkbaby81 (petite blind) a montré [4s Kh] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (grosse blind) a montré [Kd Ks] et a gagné (350) avec une paire de Rois
+
+
+
+Main PokerStars n°241178922543 : Tournoi #3532800977, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/01/2023 8:27:11 CET [16/01/2023 2:27:11 ET]
+Table '3532800977 1' 3-max Siège #2 est au bouton.
+Place 1: boujouille (385 en jetons) 
+Place 2: checkbaby81 (165 en jetons) 
+Place 3: psychoman59 (350 en jetons) 
+psychoman59 : met la petite blind. 30
+boujouille : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 5d]
+checkbaby81 : relance. 105 à 165 et est all-in.
+psychoman59 : passe. 
+boujouille : suit. 105
+*** FLOP *** [7s Qc 7d]
+*** TOURNANT *** [7s Qc 7d] [Ac]
+*** RIVIÈRE *** [7s Qc 7d Ac] [8h]
+*** ABATTAGE ***
+boujouille : montre [4h 4s] (double paire, Sept et Quatre)
+checkbaby81 : montre [Jc Kh] (une paire de Sept)
+boujouille a remporté 360  lors du pot .
+checkbaby81 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [7s Qc 7d Ac 8h]
+Siège 1 : boujouille (grosse blind) a montré [4h 4s] et a gagné (360) avec double paire, Sept et Quatre
+Siège 2 : checkbaby81 (bouton) a montré [Jc Kh] et a perdu avec une paire de Sept
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241178924218 : Tournoi #3532800977, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/01/2023 8:27:29 CET [16/01/2023 2:27:29 ET]
+Table '3532800977 1' 3-max Siège #1 est au bouton.
+Place 1: boujouille (580 en jetons) 
+Place 3: psychoman59 (320 en jetons) 
+boujouille : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 8c]
+boujouille : relance. 60 à 120
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à boujouille.
+boujouille a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : boujouille (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241178924950 : Tournoi #3532800977, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/01/2023 8:27:36 CET [16/01/2023 2:27:36 ET]
+Table '3532800977 1' 3-max Siège #3 est au bouton.
+Place 1: boujouille (640 en jetons) 
+Place 3: psychoman59 (260 en jetons) 
+psychoman59 : met la petite blind. 30
+boujouille : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Ts]
+psychoman59 : relance. 200 à 260 et est all-in.
+boujouille : suit. 200
+*** FLOP *** [3h 7h 4h]
+*** TOURNANT *** [3h 7h 4h] [Qd]
+*** RIVIÈRE *** [3h 7h 4h Qd] [5c]
+*** ABATTAGE ***
+boujouille : montre [3c Kh] (une paire de Trois)
+psychoman59 : montre [Ah Ts] (Hauteur As)
+boujouille a remporté 520  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+boujouille remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 520 | Commission 0 
+Tableau [3h 7h 4h Qd 5c]
+Siège 1 : boujouille (grosse blind) a montré [3c Kh] et a gagné (520) avec une paire de Trois
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Ah Ts] et a perdu avec Hauteur As
+
+
+

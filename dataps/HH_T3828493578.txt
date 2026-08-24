@@ -1,0 +1,139 @@
+﻿Main PokerStars n°253619993924 : Tournoi #3828493578, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 29/11/2024 7:27:53 CET [29/11/2024 1:27:53 ET]
+Table '3828493578 1' 3-max Siège #1 est au bouton.
+Place 1: velaz45 (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: ChrisTaft (500 en jetons) 
+psychoman59 : met la petite blind. 10
+ChrisTaft : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 5c]
+velaz45 : relance. 20 à 40
+psychoman59 : passe. 
+ChrisTaft : passe. 
+Personne n'a suivi. (20) sont retournés à velaz45.
+velaz45 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : velaz45 (bouton) a remporté (50)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : ChrisTaft (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°253619994510 : Tournoi #3828493578, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 29/11/2024 7:28:02 CET [29/11/2024 1:28:02 ET]
+Table '3828493578 1' 3-max Siège #2 est au bouton.
+Place 1: velaz45 (530 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: ChrisTaft (480 en jetons) 
+ChrisTaft : met la petite blind. 10
+velaz45 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Ks]
+psychoman59 : suit. 20
+ChrisTaft : relance. 460 à 480 et est all-in.
+velaz45 : suit. 460
+psychoman59 : passe. 
+*** FLOP *** [4h Js Qc]
+*** TOURNANT *** [4h Js Qc] [Td]
+*** RIVIÈRE *** [4h Js Qc Td] [Kc]
+*** ABATTAGE ***
+ChrisTaft : montre [Ad 5d] (une suite, Dix à As)
+velaz45 : montre [Kh 9h] (une suite, Neuf à Roi)
+ChrisTaft a remporté 980  lors du pot .
+*** SYNTHÈSE ***
+Pot total 980 | Commission 0 
+Tableau [4h Js Qc Td Kc]
+Siège 1 : velaz45 (grosse blind) a montré [Kh 9h] et a perdu avec une suite, Neuf à Roi
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 3 : ChrisTaft (petite blind) a montré [Ad 5d] et a gagné (980) avec une suite, Dix à As
+
+
+
+Main PokerStars n°253619995592 : Tournoi #3828493578, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 29/11/2024 7:28:17 CET [29/11/2024 1:28:17 ET]
+Table '3828493578 1' 3-max Siège #3 est au bouton.
+Place 1: velaz45 (50 en jetons) 
+Place 2: psychoman59 (470 en jetons) 
+Place 3: ChrisTaft (980 en jetons) 
+velaz45 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js As]
+ChrisTaft : relance. 20 à 40
+velaz45 : relance. 10 à 50 et est all-in.
+psychoman59 : relance. 420 à 470 et est all-in.
+ChrisTaft : suit. 430
+*** FLOP *** [Ac Jh 6c]
+*** TOURNANT *** [Ac Jh 6c] [3d]
+*** RIVIÈRE *** [Ac Jh 6c 3d] [9d]
+*** ABATTAGE ***
+psychoman59 : montre [Js As] (double paire, As et Valets)
+ChrisTaft : montre [Ts Kd] (Hauteur As)
+psychoman59 a remporté 840  parallèle lors du pot .
+velaz45 : montre [2h 2c] (une paire de Deux)
+psychoman59 a remporté 150  principal lors du pot .
+velaz45 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 990 Principal pot 150. Parallèle pot 840. | Commission 0 
+Tableau [Ac Jh 6c 3d 9d]
+Siège 1 : velaz45 (petite blind) a montré [2h 2c] et a perdu avec une paire de Deux
+Siège 2 : psychoman59 (grosse blind) a montré [Js As] et a gagné (990) avec double paire, As et Valets
+Siège 3 : ChrisTaft (bouton) a montré [Ts Kd] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°253619997351 : Tournoi #3828493578, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 29/11/2024 7:28:42 CET [29/11/2024 1:28:42 ET]
+Table '3828493578 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (990 en jetons) 
+Place 3: ChrisTaft (510 en jetons) 
+psychoman59 : met la petite blind. 10
+ChrisTaft : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Qc]
+psychoman59 : suit. 10
+ChrisTaft : relance. 490 à 510 et est all-in.
+psychoman59 : suit. 490
+*** FLOP *** [5h 4s 2c]
+*** TOURNANT *** [5h 4s 2c] [Ts]
+*** RIVIÈRE *** [5h 4s 2c Ts] [3c]
+*** ABATTAGE ***
+ChrisTaft : montre [4h As] (une suite, As à Cinq)
+psychoman59 : montre [Ac Qc] (une suite, As à Cinq)
+ChrisTaft a remporté 510  lors du pot .
+psychoman59 a remporté 510  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1020 | Commission 0 
+Tableau [5h 4s 2c Ts 3c]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Ac Qc] et a gagné (510) avec une suite, As à Cinq
+Siège 3 : ChrisTaft (grosse blind) a montré [4h As] et a gagné (510) avec une suite, As à Cinq
+
+
+
+Main PokerStars n°253619998408 : Tournoi #3828493578, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 29/11/2024 7:28:57 CET [29/11/2024 1:28:57 ET]
+Table '3828493578 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (990 en jetons) 
+Place 3: ChrisTaft (510 en jetons) 
+ChrisTaft : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Kd]
+ChrisTaft : relance. 20 à 40
+psychoman59 : relance. 950 à 990 et est all-in.
+ChrisTaft : suit. 470 et est all-in.
+Personne n'a suivi. (480) sont retournés à psychoman59.
+*** FLOP *** [6h Js Qc]
+*** TOURNANT *** [6h Js Qc] [Ah]
+*** RIVIÈRE *** [6h Js Qc Ah] [3c]
+*** ABATTAGE ***
+psychoman59 : montre [Kh Kd] (une paire de Rois)
+ChrisTaft : montre [Kc Jc] (une paire de Valets)
+psychoman59 a remporté 1020  lors du pot .
+ChrisTaft a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 0.50 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 1020 | Commission 0 
+Tableau [6h Js Qc Ah 3c]
+Siège 2 : psychoman59 (grosse blind) a montré [Kh Kd] et a gagné (1020) avec une paire de Rois
+Siège 3 : ChrisTaft (bouton) (petite blind) a montré [Kc Jc] et a perdu avec une paire de Valets
+
+
+

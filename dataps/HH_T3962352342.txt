@@ -1,0 +1,857 @@
+﻿Main PokerStars n°259166490321 : Tournoi #3962352342, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 04/01/2026 7:54:41 CET [04/01/2026 1:54:41 ET]
+Table '3962352342 1' 3-max Siège #1 est au bouton.
+Place 1: pokertotas (500 en jetons) 
+Place 2: Atsun (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+Atsun : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 5s]
+pokertotas : suit. 20
+Atsun : suit. 10
+psychoman59 : parole 
+*** FLOP *** [As 2d 3h]
+Atsun : parole 
+psychoman59 : parole 
+pokertotas : parole 
+*** TOURNANT *** [As 2d 3h] [Ah]
+Atsun : parole 
+psychoman59 : mise. 30
+pokertotas : suit. 30
+Atsun : passe. 
+*** RIVIÈRE *** [As 2d 3h Ah] [6d]
+psychoman59 : mise. 60
+pokertotas : suit. 60
+*** ABATTAGE ***
+psychoman59 : montre [Ac 5s] (un brelan de As)
+pokertotas : cache la main perdante. 
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [As 2d 3h Ah 6d]
+Siège 1 : pokertotas (bouton) a caché la main perdante. [6c 4c]
+Siège 2 : Atsun (petite blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (grosse blind) a montré [Ac 5s] et a gagné (240) avec un brelan de As
+
+
+
+Main PokerStars n°259166492457 : Tournoi #3962352342, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 04/01/2026 7:55:14 CET [04/01/2026 1:55:14 ET]
+Table '3962352342 1' 3-max Siège #2 est au bouton.
+Place 1: pokertotas (390 en jetons) 
+Place 2: Atsun (480 en jetons) 
+Place 3: psychoman59 (630 en jetons) 
+psychoman59 : met la petite blind. 10
+pokertotas : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 5s]
+Atsun : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à pokertotas.
+pokertotas a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : pokertotas (grosse blind) a remporté (20)
+Siège 2 : Atsun (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°259166492935 : Tournoi #3962352342, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 04/01/2026 7:55:23 CET [04/01/2026 1:55:23 ET]
+Table '3962352342 1' 3-max Siège #3 est au bouton.
+Place 1: pokertotas (400 en jetons) 
+Place 2: Atsun (480 en jetons) 
+Place 3: psychoman59 (620 en jetons) 
+pokertotas : met la petite blind. 10
+Atsun : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 6s]
+psychoman59 : passe. 
+pokertotas : suit. 10
+Atsun : parole 
+*** FLOP *** [5h 5d Ts]
+pokertotas : parole 
+Atsun : parole 
+*** TOURNANT *** [5h 5d Ts] [Qs]
+pokertotas : mise. 20
+Atsun : suit. 20
+*** RIVIÈRE *** [5h 5d Ts Qs] [8c]
+pokertotas : mise. 20
+Atsun : relance. 120 à 140
+pokertotas : suit. 120
+*** ABATTAGE ***
+Atsun : montre [Js 5s] (un brelan de Cinq)
+pokertotas : cache la main perdante. 
+Atsun a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [5h 5d Ts Qs 8c]
+Siège 1 : pokertotas (petite blind) a caché la main perdante. [Qc 2h]
+Siège 2 : Atsun (grosse blind) a montré [Js 5s] et a gagné (360) avec un brelan de Cinq
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°259166494492 : Tournoi #3962352342, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 04/01/2026 7:55:51 CET [04/01/2026 1:55:51 ET]
+Table '3962352342 1' 3-max Siège #1 est au bouton.
+Place 1: pokertotas (220 en jetons) 
+Place 2: Atsun (660 en jetons) 
+Place 3: psychoman59 (620 en jetons) 
+Atsun : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 5d]
+pokertotas : relance. 60 à 80
+Atsun : relance. 60 à 140
+psychoman59 : passe. 
+pokertotas : relance. 80 à 220 et est all-in.
+Atsun : suit. 80
+*** FLOP *** [8c 4c Th]
+*** TOURNANT *** [8c 4c Th] [Ac]
+*** RIVIÈRE *** [8c 4c Th Ac] [7d]
+*** ABATTAGE ***
+Atsun : montre [9c Qc] (une couleur, hauteur As)
+pokertotas : montre [Ad 2h] (une paire de As)
+Atsun a remporté 460  lors du pot .
+pokertotas a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 460 | Commission 0 
+Tableau [8c 4c Th Ac 7d]
+Siège 1 : pokertotas (bouton) a montré [Ad 2h] et a perdu avec une paire de As
+Siège 2 : Atsun (petite blind) a montré [9c Qc] et a gagné (460) avec une couleur, hauteur As
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°259166495984 : Tournoi #3962352342, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 04/01/2026 7:56:17 CET [04/01/2026 1:56:17 ET]
+Table '3962352342 1' 3-max Siège #3 est au bouton.
+Place 2: Atsun (900 en jetons) 
+Place 3: psychoman59 (600 en jetons) 
+psychoman59 : met la petite blind. 10
+Atsun : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 7h]
+psychoman59 : suit. 10
+Atsun : relance. 20 à 40
+psychoman59 : suit. 20
+*** FLOP *** [5d Ac Qs]
+Atsun : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5d Ac Qs] [As]
+Atsun : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Atsun.
+Atsun a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [5d Ac Qs As]
+Siège 2 : Atsun (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°259166497092 : Tournoi #3962352342, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 04/01/2026 7:56:36 CET [04/01/2026 1:56:36 ET]
+Table '3962352342 1' 3-max Siège #2 est au bouton.
+Place 2: Atsun (940 en jetons) 
+Place 3: psychoman59 (560 en jetons) 
+Atsun : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Qd]
+Atsun : suit. 10
+psychoman59 : parole 
+*** FLOP *** [3d 4h 9s]
+psychoman59 : parole 
+Atsun : parole 
+*** TOURNANT *** [3d 4h 9s] [Tc]
+psychoman59 : parole 
+Atsun : parole 
+*** RIVIÈRE *** [3d 4h 9s Tc] [Kd]
+psychoman59 : parole 
+Atsun : parole 
+*** ABATTAGE ***
+psychoman59 : montre [8h Qd] (Hauteur Roi)
+Atsun : montre [8d Qh] (Hauteur Roi)
+psychoman59 a remporté 20  lors du pot .
+Atsun a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [3d 4h 9s Tc Kd]
+Siège 2 : Atsun (bouton) (petite blind) a montré [8d Qh] et a gagné (20) avec Hauteur Roi
+Siège 3 : psychoman59 (grosse blind) a montré [8h Qd] et a gagné (20) avec Hauteur Roi
+
+
+
+Main PokerStars n°259166498470 : Tournoi #3962352342, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 04/01/2026 7:57:00 CET [04/01/2026 1:57:00 ET]
+Table '3962352342 1' 3-max Siège #3 est au bouton.
+Place 2: Atsun (940 en jetons) 
+Place 3: psychoman59 (560 en jetons) 
+psychoman59 : met la petite blind. 15
+Atsun : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 3h]
+psychoman59 : relance. 530 à 560 et est all-in.
+Atsun : passe. 
+Personne n'a suivi. (530) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : Atsun (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°259166498915 : Tournoi #3962352342, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 04/01/2026 7:57:08 CET [04/01/2026 1:57:08 ET]
+Table '3962352342 1' 3-max Siège #2 est au bouton.
+Place 2: Atsun (910 en jetons) 
+Place 3: psychoman59 (590 en jetons) 
+Atsun : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 4s]
+Atsun : suit. 15
+psychoman59 : parole 
+*** FLOP *** [5h Jd Td]
+psychoman59 : parole 
+Atsun : parole 
+*** TOURNANT *** [5h Jd Td] [2h]
+psychoman59 : mise. 30
+Atsun : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [5h Jd Td 2h]
+Siège 2 : Atsun (bouton) (petite blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°259166499858 : Tournoi #3962352342, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 04/01/2026 7:57:25 CET [04/01/2026 1:57:25 ET]
+Table '3962352342 1' 3-max Siège #3 est au bouton.
+Place 2: Atsun (880 en jetons) 
+Place 3: psychoman59 (620 en jetons) 
+psychoman59 : met la petite blind. 15
+Atsun : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Th]
+psychoman59 : suit. 15
+Atsun : parole 
+*** FLOP *** [2s 9d Ts]
+Atsun : parole 
+psychoman59 : mise. 30
+Atsun : suit. 30
+*** TOURNANT *** [2s 9d Ts] [8s]
+Atsun : parole 
+psychoman59 : mise. 60
+Atsun : suit. 60
+*** RIVIÈRE *** [2s 9d Ts 8s] [4d]
+Atsun : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Atsun : montre [Kd Js] (Hauteur Roi)
+psychoman59 : montre [9s Th] (double paire, Dix et Neuf)
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [2s 9d Ts 8s 4d]
+Siège 2 : Atsun (grosse blind) a montré [Kd Js] et a perdu avec Hauteur Roi
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [9s Th] et a gagné (240) avec double paire, Dix et Neuf
+
+
+
+Main PokerStars n°259166501369 : Tournoi #3962352342, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 04/01/2026 7:57:51 CET [04/01/2026 1:57:51 ET]
+Table '3962352342 1' 3-max Siège #2 est au bouton.
+Place 2: Atsun (760 en jetons) 
+Place 3: psychoman59 (740 en jetons) 
+Atsun : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Td]
+Atsun : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : Atsun (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°259166501752 : Tournoi #3962352342, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 04/01/2026 7:57:58 CET [04/01/2026 1:57:58 ET]
+Table '3962352342 1' 3-max Siège #3 est au bouton.
+Place 2: Atsun (745 en jetons) 
+Place 3: psychoman59 (755 en jetons) 
+psychoman59 : met la petite blind. 15
+Atsun : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 3s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à Atsun.
+Atsun a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : Atsun (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°259166502024 : Tournoi #3962352342, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 04/01/2026 7:58:03 CET [04/01/2026 1:58:03 ET]
+Table '3962352342 1' 3-max Siège #2 est au bouton.
+Place 2: Atsun (760 en jetons) 
+Place 3: psychoman59 (740 en jetons) 
+Atsun : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 9h]
+Atsun : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : Atsun (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°259166502406 : Tournoi #3962352342, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 04/01/2026 7:58:09 CET [04/01/2026 1:58:09 ET]
+Table '3962352342 1' 3-max Siège #3 est au bouton.
+Place 2: Atsun (745 en jetons) 
+Place 3: psychoman59 (755 en jetons) 
+psychoman59 : met la petite blind. 15
+Atsun : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Qc]
+psychoman59 : suit. 15
+Atsun : relance. 30 à 60
+psychoman59 : suit. 30
+*** FLOP *** [3s 6h Ac]
+Atsun : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3s 6h Ac] [Jd]
+Atsun : parole 
+psychoman59 : mise. 60
+Atsun : suit. 60
+*** RIVIÈRE *** [3s 6h Ac Jd] [Td]
+Atsun : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Atsun : montre [3h 3d] (un brelan de Trois)
+psychoman59 : cache la main perdante. 
+Atsun a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [3s 6h Ac Jd Td]
+Siège 2 : Atsun (grosse blind) a montré [3h 3d] et a gagné (240) avec un brelan de Trois
+Siège 3 : psychoman59 (bouton) (petite blind) a caché la main perdante. [2c Qc]
+
+
+
+Main PokerStars n°259166503968 : Tournoi #3962352342, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 04/01/2026 7:58:37 CET [04/01/2026 1:58:37 ET]
+Table '3962352342 1' 3-max Siège #2 est au bouton.
+Place 2: Atsun (865 en jetons) 
+Place 3: psychoman59 (635 en jetons) 
+Atsun : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 3s]
+Atsun : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Atsun.
+Atsun a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : Atsun (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°259166504698 : Tournoi #3962352342, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 04/01/2026 7:58:49 CET [04/01/2026 1:58:49 ET]
+Table '3962352342 1' 3-max Siège #3 est au bouton.
+Place 2: Atsun (895 en jetons) 
+Place 3: psychoman59 (605 en jetons) 
+psychoman59 : met la petite blind. 20
+Atsun : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 2c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Atsun.
+Atsun a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : Atsun (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°259166504950 : Tournoi #3962352342, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 04/01/2026 7:58:53 CET [04/01/2026 1:58:53 ET]
+Table '3962352342 1' 3-max Siège #2 est au bouton.
+Place 2: Atsun (915 en jetons) 
+Place 3: psychoman59 (585 en jetons) 
+Atsun : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 6d]
+Atsun : relance. 40 à 80
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Atsun.
+Atsun a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : Atsun (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°259166505315 : Tournoi #3962352342, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 04/01/2026 7:59:00 CET [04/01/2026 1:59:00 ET]
+Table '3962352342 1' 3-max Siège #3 est au bouton.
+Place 2: Atsun (955 en jetons) 
+Place 3: psychoman59 (545 en jetons) 
+psychoman59 : met la petite blind. 20
+Atsun : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 4c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Atsun.
+Atsun a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : Atsun (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°259166505591 : Tournoi #3962352342, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 04/01/2026 7:59:05 CET [04/01/2026 1:59:05 ET]
+Table '3962352342 1' 3-max Siège #2 est au bouton.
+Place 2: Atsun (975 en jetons) 
+Place 3: psychoman59 (525 en jetons) 
+Atsun : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 9d]
+Atsun : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : Atsun (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°259166505882 : Tournoi #3962352342, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 04/01/2026 7:59:10 CET [04/01/2026 1:59:10 ET]
+Table '3962352342 1' 3-max Siège #3 est au bouton.
+Place 2: Atsun (955 en jetons) 
+Place 3: psychoman59 (545 en jetons) 
+psychoman59 : met la petite blind. 20
+Atsun : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 3s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Atsun.
+Atsun a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : Atsun (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°259166506174 : Tournoi #3962352342, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 04/01/2026 7:59:14 CET [04/01/2026 1:59:14 ET]
+Table '3962352342 1' 3-max Siège #2 est au bouton.
+Place 2: Atsun (975 en jetons) 
+Place 3: psychoman59 (525 en jetons) 
+Atsun : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 6s]
+Atsun : relance. 40 à 80
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Atsun.
+Atsun a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : Atsun (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°259166506570 : Tournoi #3962352342, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 04/01/2026 7:59:21 CET [04/01/2026 1:59:21 ET]
+Table '3962352342 1' 3-max Siège #3 est au bouton.
+Place 2: Atsun (1015 en jetons) 
+Place 3: psychoman59 (485 en jetons) 
+psychoman59 : met la petite blind. 20
+Atsun : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Kc]
+psychoman59 : suit. 20
+Atsun : parole 
+*** FLOP *** [Ad 9d 3s]
+Atsun : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Atsun.
+Atsun a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Ad 9d 3s]
+Siège 2 : Atsun (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°259166507297 : Tournoi #3962352342, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 04/01/2026 7:59:34 CET [04/01/2026 1:59:34 ET]
+Table '3962352342 1' 3-max Siège #2 est au bouton.
+Place 2: Atsun (1055 en jetons) 
+Place 3: psychoman59 (445 en jetons) 
+Atsun : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 4h]
+Atsun : relance. 40 à 80
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Atsun.
+Atsun a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : Atsun (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°259166507690 : Tournoi #3962352342, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 04/01/2026 7:59:41 CET [04/01/2026 1:59:41 ET]
+Table '3962352342 1' 3-max Siège #3 est au bouton.
+Place 2: Atsun (1095 en jetons) 
+Place 3: psychoman59 (405 en jetons) 
+psychoman59 : met la petite blind. 20
+Atsun : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Ks]
+psychoman59 : relance. 40 à 80
+Atsun : suit. 40
+*** FLOP *** [2s Qd 5s]
+Atsun : parole 
+psychoman59 : mise. 160
+Atsun : passe. 
+Personne n'a suivi. (160) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [2s Qd 5s]
+Siège 2 : Atsun (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°259166508496 : Tournoi #3962352342, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 04/01/2026 7:59:55 CET [04/01/2026 1:59:55 ET]
+Table '3962352342 1' 3-max Siège #2 est au bouton.
+Place 2: Atsun (1015 en jetons) 
+Place 3: psychoman59 (485 en jetons) 
+Atsun : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 7h]
+Atsun : suit. 20
+psychoman59 : parole 
+*** FLOP *** [4s 5s Jh]
+psychoman59 : parole 
+Atsun : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [4s 5s Jh] [8h]
+psychoman59 : parole 
+Atsun : mise. 80
+psychoman59 : suit. 80
+*** RIVIÈRE *** [4s 5s Jh 8h] [2c]
+psychoman59 : parole 
+Atsun : parole 
+*** ABATTAGE ***
+psychoman59 : montre [4d 7h] (une paire de Quatre)
+Atsun : montre [5c 6c] (une paire de Cinq)
+Atsun a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [4s 5s Jh 8h 2c]
+Siège 2 : Atsun (bouton) (petite blind) a montré [5c 6c] et a gagné (320) avec une paire de Cinq
+Siège 3 : psychoman59 (grosse blind) a montré [4d 7h] et a perdu avec une paire de Quatre
+
+
+
+Main PokerStars n°259166509959 : Tournoi #3962352342, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 04/01/2026 8:00:21 CET [04/01/2026 2:00:21 ET]
+Table '3962352342 1' 3-max Siège #3 est au bouton.
+Place 2: Atsun (1175 en jetons) 
+Place 3: psychoman59 (325 en jetons) 
+psychoman59 : met la petite blind. 20
+Atsun : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 7c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Atsun.
+Atsun a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : Atsun (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°259166510325 : Tournoi #3962352342, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 04/01/2026 8:00:27 CET [04/01/2026 2:00:27 ET]
+Table '3962352342 1' 3-max Siège #2 est au bouton.
+Place 2: Atsun (1195 en jetons) 
+Place 3: psychoman59 (305 en jetons) 
+Atsun : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 7c]
+Atsun : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Kc Ad 5d]
+psychoman59 : parole 
+Atsun : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Atsun.
+Atsun a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Kc Ad 5d]
+Siège 2 : Atsun (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°259166511238 : Tournoi #3962352342, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 04/01/2026 8:00:41 CET [04/01/2026 2:00:41 ET]
+Table '3962352342 1' 3-max Siège #3 est au bouton.
+Place 2: Atsun (1235 en jetons) 
+Place 3: psychoman59 (265 en jetons) 
+psychoman59 : met la petite blind. 20
+Atsun : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 4d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Atsun.
+Atsun a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : Atsun (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°259166511697 : Tournoi #3962352342, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 04/01/2026 8:00:49 CET [04/01/2026 2:00:49 ET]
+Table '3962352342 1' 3-max Siège #2 est au bouton.
+Place 2: Atsun (1255 en jetons) 
+Place 3: psychoman59 (245 en jetons) 
+Atsun : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 2h]
+Atsun : relance. 60 à 120
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à Atsun.
+Atsun a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : Atsun (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°259166512112 : Tournoi #3962352342, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 04/01/2026 8:00:55 CET [04/01/2026 2:00:55 ET]
+Table '3962352342 1' 3-max Siège #3 est au bouton.
+Place 2: Atsun (1315 en jetons) 
+Place 3: psychoman59 (185 en jetons) 
+psychoman59 : met la petite blind. 30
+Atsun : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 2d]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Atsun.
+Atsun a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : Atsun (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°259166512409 : Tournoi #3962352342, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 04/01/2026 8:00:59 CET [04/01/2026 2:00:59 ET]
+Table '3962352342 1' 3-max Siège #2 est au bouton.
+Place 2: Atsun (1345 en jetons) 
+Place 3: psychoman59 (155 en jetons) 
+Atsun : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Kd]
+Atsun : relance. 60 à 120
+psychoman59 : relance. 35 à 155 et est all-in.
+Atsun : suit. 35
+*** FLOP *** [6c Ks 7d]
+*** TOURNANT *** [6c Ks 7d] [3h]
+*** RIVIÈRE *** [6c Ks 7d 3h] [7s]
+*** ABATTAGE ***
+psychoman59 : montre [5c Kd] (double paire, Rois et Sept)
+Atsun : montre [Qc Th] (une paire de Sept)
+psychoman59 a remporté 310  lors du pot .
+*** SYNTHÈSE ***
+Pot total 310 | Commission 0 
+Tableau [6c Ks 7d 3h 7s]
+Siège 2 : Atsun (bouton) (petite blind) a montré [Qc Th] et a perdu avec une paire de Sept
+Siège 3 : psychoman59 (grosse blind) a montré [5c Kd] et a gagné (310) avec double paire, Rois et Sept
+
+
+
+Main PokerStars n°259166513306 : Tournoi #3962352342, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 04/01/2026 8:01:13 CET [04/01/2026 2:01:13 ET]
+Table '3962352342 1' 3-max Siège #3 est au bouton.
+Place 2: Atsun (1190 en jetons) 
+Place 3: psychoman59 (310 en jetons) 
+psychoman59 : met la petite blind. 30
+Atsun : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 7s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Atsun.
+Atsun a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : Atsun (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°259166513701 : Tournoi #3962352342, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 04/01/2026 8:01:20 CET [04/01/2026 2:01:20 ET]
+Table '3962352342 1' 3-max Siège #2 est au bouton.
+Place 2: Atsun (1220 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+Atsun : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Tc]
+Atsun : relance. 60 à 120
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à Atsun.
+Atsun a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : Atsun (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°259166514170 : Tournoi #3962352342, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 04/01/2026 8:01:27 CET [04/01/2026 2:01:27 ET]
+Table '3962352342 1' 3-max Siège #3 est au bouton.
+Place 2: Atsun (1280 en jetons) 
+Place 3: psychoman59 (220 en jetons) 
+psychoman59 : met la petite blind. 30
+Atsun : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 8d]
+psychoman59 : relance. 160 à 220 et est all-in.
+Atsun : passe. 
+Personne n'a suivi. (160) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : Atsun (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°259166514524 : Tournoi #3962352342, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 04/01/2026 8:01:32 CET [04/01/2026 2:01:32 ET]
+Table '3962352342 1' 3-max Siège #2 est au bouton.
+Place 2: Atsun (1220 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+Atsun : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Qh]
+Atsun : relance. 60 à 120
+psychoman59 : relance. 160 à 280 et est all-in.
+Atsun : suit. 160
+*** FLOP *** [9d 4c Qc]
+*** TOURNANT *** [9d 4c Qc] [Kh]
+*** RIVIÈRE *** [9d 4c Qc Kh] [4s]
+*** ABATTAGE ***
+psychoman59 : montre [5h Qh] (double paire, Dames et Quatre)
+Atsun : montre [9s 8s] (double paire, Neuf et Quatre)
+psychoman59 a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [9d 4c Qc Kh 4s]
+Siège 2 : Atsun (bouton) (petite blind) a montré [9s 8s] et a perdu avec double paire, Neuf et Quatre
+Siège 3 : psychoman59 (grosse blind) a montré [5h Qh] et a gagné (560) avec double paire, Dames et Quatre
+
+
+
+Main PokerStars n°259166515452 : Tournoi #3962352342, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 04/01/2026 8:01:46 CET [04/01/2026 2:01:46 ET]
+Table '3962352342 1' 3-max Siège #3 est au bouton.
+Place 2: Atsun (940 en jetons) 
+Place 3: psychoman59 (560 en jetons) 
+psychoman59 : met la petite blind. 30
+Atsun : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Kh]
+psychoman59 : suit. 30
+Atsun : parole 
+*** FLOP *** [4c 5s 9d]
+Atsun : mise. 120
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à Atsun.
+Atsun a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [4c 5s 9d]
+Siège 2 : Atsun (grosse blind) a remporté (120)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°259166516631 : Tournoi #3962352342, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 04/01/2026 8:02:05 CET [04/01/2026 2:02:05 ET]
+Table '3962352342 1' 3-max Siège #2 est au bouton.
+Place 2: Atsun (1000 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+Atsun : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 6d]
+Atsun : relance. 60 à 120
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à Atsun.
+Atsun a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : Atsun (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°259166517434 : Tournoi #3962352342, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 04/01/2026 8:02:17 CET [04/01/2026 2:02:17 ET]
+Table '3962352342 1' 3-max Siège #3 est au bouton.
+Place 2: Atsun (1060 en jetons) 
+Place 3: psychoman59 (440 en jetons) 
+psychoman59 : met la petite blind. 30
+Atsun : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Qh]
+psychoman59 : relance. 380 à 440 et est all-in.
+Atsun : suit. 380
+*** FLOP *** [9s 9h 9d]
+*** TOURNANT *** [9s 9h 9d] [3s]
+*** RIVIÈRE *** [9s 9h 9d 3s] [Ac]
+*** ABATTAGE ***
+Atsun : montre [2c 2d] (un full, full aux Neuf par les Deux)
+psychoman59 : montre [5h Qh] (un brelan de Neuf)
+Atsun a remporté 880  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+Atsun remporte le tournoi et reçoit 1.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 880 | Commission 0 
+Tableau [9s 9h 9d 3s Ac]
+Siège 2 : Atsun (grosse blind) a montré [2c 2d] et a gagné (880) avec un full, full aux Neuf par les Deux
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [5h Qh] et a perdu avec un brelan de Neuf
+
+
+

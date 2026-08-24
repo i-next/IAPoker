@@ -1,0 +1,81 @@
+﻿Main PokerStars n°257752604672 : Tournoi #3928340252, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/09/2025 14:50:30 CET [15/09/2025 8:50:30 ET]
+Table '3928340252 1' 3-max Siège #2 est au bouton.
+Place 1: densdb (500 en jetons) 
+Place 2: __PGvisonario (490 en jetons) 
+Place 3: psychoman59 (510 en jetons) ne joue pas.
+psychoman59 : met la petite blind. 10
+densdb : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 4h]
+psychoman59 est déconnecté 
+psychoman59 est revenu.
+__PGvisonario : relance. 20 à 40
+psychoman59 : passe. 
+densdb : passe. 
+Personne n'a suivi. (20) sont retournés à __PGvisonario.
+__PGvisonario a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : densdb (grosse blind) s'est couché. avant Flop
+Siège 2 : __PGvisonario (bouton) a remporté (50)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257752605748 : Tournoi #3928340252, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/09/2025 14:50:38 CET [15/09/2025 8:50:38 ET]
+Table '3928340252 1' 3-max Siège #3 est au bouton.
+Place 1: densdb (480 en jetons) 
+Place 2: __PGvisonario (520 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+densdb : met la petite blind. 10
+__PGvisonario : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 7s]
+psychoman59 : relance. 20 à 40
+densdb : passe. 
+__PGvisonario : suit. 20
+*** FLOP *** [2s Td 2c]
+__PGvisonario : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à __PGvisonario.
+__PGvisonario a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [2s Td 2c]
+Siège 1 : densdb (petite blind) s'est couché. avant Flop
+Siège 2 : __PGvisonario (grosse blind) a remporté (90)
+Siège 3 : psychoman59 (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°257752607471 : Tournoi #3928340252, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/09/2025 14:50:51 CET [15/09/2025 8:50:51 ET]
+Table '3928340252 1' 3-max Siège #1 est au bouton.
+Place 1: densdb (470 en jetons) 
+Place 2: __PGvisonario (570 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+__PGvisonario : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Qd]
+densdb : suit. 20
+__PGvisonario : relance. 20 à 40
+psychoman59 : relance. 420 à 460 et est all-in.
+densdb : passe. 
+__PGvisonario : suit. 420
+*** FLOP *** [6d 7d 3c]
+*** TOURNANT *** [6d 7d 3c] [Ah]
+*** RIVIÈRE *** [6d 7d 3c Ah] [8s]
+*** ABATTAGE ***
+__PGvisonario : montre [Th Ac] (une paire de As)
+psychoman59 : montre [Qc Qd] (une paire de Dames)
+__PGvisonario a remporté 940  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 940 | Commission 0 
+Tableau [6d 7d 3c Ah 8s]
+Siège 1 : densdb (bouton) s'est couché. avant Flop
+Siège 2 : __PGvisonario (petite blind) a montré [Th Ac] et a gagné (940) avec une paire de As
+Siège 3 : psychoman59 (grosse blind) a montré [Qc Qd] et a perdu avec une paire de Dames
+
+
+

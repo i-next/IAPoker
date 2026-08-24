@@ -1,0 +1,34 @@
+﻿Main PokerStars n°254242509256 : Tournoi #3843850105, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/01/2025 11:09:00 CET [07/01/2025 5:09:00 ET]
+Table '3843850105 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: benben03700 (500 en jetons) 
+Place 3: thieu09000 (500 en jetons) 
+benben03700 : met la petite blind. 10
+thieu09000 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 5d]
+psychoman59 : relance. 40 à 60
+benben03700 : suit. 50
+thieu09000 : passe. 
+*** FLOP *** [Kc 2s 4d]
+benben03700 : parole 
+psychoman59 : mise. 140
+benben03700 : relance. 140 à 280
+psychoman59 : relance. 160 à 440 et est all-in.
+benben03700 : suit. 160 et est all-in.
+*** TOURNANT *** [Kc 2s 4d] [2h]
+*** RIVIÈRE *** [Kc 2s 4d 2h] [3d]
+*** ABATTAGE ***
+benben03700 : montre [3c Ks] (double paire, Rois et Trois)
+psychoman59 : montre [5h 5d] (double paire, Cinq et Deux)
+benben03700 a remporté 1020  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 1020 | Commission 0 
+Tableau [Kc 2s 4d 2h 3d]
+Siège 1 : psychoman59 (bouton) a montré [5h 5d] et a perdu avec double paire, Cinq et Deux
+Siège 2 : benben03700 (petite blind) a montré [3c Ks] et a gagné (1020) avec double paire, Rois et Trois
+Siège 3 : thieu09000 (grosse blind) s'est couché. avant Flop
+
+
+

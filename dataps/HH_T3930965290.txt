@@ -1,0 +1,1238 @@
+﻿Main PokerStars n°257867407637 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/09/2025 10:52:11 CET [24/09/2025 4:52:11 ET]
+Table '3930965290 1' 3-max Siège #1 est au bouton.
+Place 1: mmprocha (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: picasian (500 en jetons) 
+psychoman59 : met la petite blind. 10
+picasian : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Td]
+mmprocha : relance. 40 à 60
+psychoman59 : passe. 
+picasian : suit. 40
+*** FLOP *** [Ks 4c 3h]
+picasian : mise. 65
+mmprocha : suit. 65
+*** TOURNANT *** [Ks 4c 3h] [7s]
+picasian : mise. 130
+mmprocha : passe. 
+Personne n'a suivi. (130) sont retournés à picasian.
+picasian a remporté 260  lors du pot .
+picasian : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 260 | Commission 0 
+Tableau [Ks 4c 3h 7s]
+Siège 1 : mmprocha (bouton) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : picasian (grosse blind) a remporté (260)
+
+
+
+Main PokerStars n°257867409105 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/09/2025 10:52:30 CET [24/09/2025 4:52:30 ET]
+Table '3930965290 1' 3-max Siège #2 est au bouton.
+Place 1: mmprocha (375 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: picasian (635 en jetons) 
+picasian : met la petite blind. 10
+mmprocha : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 3c]
+psychoman59 : suit. 20
+picasian : suit. 10
+mmprocha : relance. 20 à 40
+psychoman59 : suit. 20
+picasian : suit. 20
+*** FLOP *** [7c 5c Qs]
+picasian : parole 
+mmprocha : parole 
+psychoman59 : parole 
+*** TOURNANT *** [7c 5c Qs] [Ah]
+picasian : parole 
+mmprocha : mise. 60
+psychoman59 : suit. 60
+picasian : passe. 
+*** RIVIÈRE *** [7c 5c Qs Ah] [Jc]
+mmprocha : mise. 120
+psychoman59 : relance. 160 à 280
+mmprocha : passe. 
+Personne n'a suivi. (160) sont retournés à psychoman59.
+psychoman59 a remporté 480  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [7c 5c Qs Ah Jc]
+Siège 1 : mmprocha (grosse blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (bouton) a remporté (480)
+Siège 3 : picasian (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°257867412024 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/09/2025 10:53:08 CET [24/09/2025 4:53:08 ET]
+Table '3930965290 1' 3-max Siège #3 est au bouton.
+Place 1: mmprocha (155 en jetons) 
+Place 2: psychoman59 (750 en jetons) 
+Place 3: picasian (595 en jetons) 
+mmprocha : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 8h]
+picasian : relance. 20 à 40
+mmprocha : relance. 100 à 140
+psychoman59 : passe. 
+picasian : suit. 100
+*** FLOP *** [Kh 7c 8d]
+mmprocha : parole 
+picasian : mise. 20
+mmprocha : suit. 15 et est all-in.
+Personne n'a suivi. (5) sont retournés à picasian.
+*** TOURNANT *** [Kh 7c 8d] [9c]
+*** RIVIÈRE *** [Kh 7c 8d 9c] [5h]
+*** ABATTAGE ***
+mmprocha : montre [4d 3c] (Hauteur Roi)
+picasian : montre [Ah Kc] (une paire de Rois)
+picasian a remporté 330  lors du pot .
+mmprocha a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 330 | Commission 0 
+Tableau [Kh 7c 8d 9c 5h]
+Siège 1 : mmprocha (petite blind) a montré [4d 3c] et a perdu avec Hauteur Roi
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : picasian (bouton) a montré [Ah Kc] et a gagné (330) avec une paire de Rois
+
+
+
+Main PokerStars n°257867413909 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/09/2025 10:53:31 CET [24/09/2025 4:53:31 ET]
+Table '3930965290 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (730 en jetons) 
+Place 3: picasian (770 en jetons) 
+psychoman59 : met la petite blind. 10
+picasian : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Qd]
+psychoman59 : suit. 10
+picasian : parole 
+*** FLOP *** [9s Jd 4s]
+picasian : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [9s Jd 4s] [3c]
+picasian : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à picasian.
+picasian a remporté 80  lors du pot .
+picasian : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [9s Jd 4s 3c]
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Tournant
+Siège 3 : picasian (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°257867414990 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/09/2025 10:53:45 CET [24/09/2025 4:53:45 ET]
+Table '3930965290 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (690 en jetons) 
+Place 3: picasian (810 en jetons) 
+picasian : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Td]
+picasian : relance. 20 à 40
+psychoman59 : suit. 20
+*** FLOP *** [9s 3c Jc]
+psychoman59 : parole 
+picasian : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [9s 3c Jc] [6d]
+psychoman59 : parole 
+picasian : mise. 80
+psychoman59 : suit. 80
+*** RIVIÈRE *** [9s 3c Jc 6d] [Jh]
+psychoman59 : parole 
+picasian : mise. 160
+psychoman59 : passe. 
+Personne n'a suivi. (160) sont retournés à picasian.
+picasian a remporté 320  lors du pot .
+picasian : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [9s 3c Jc 6d Jh]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : picasian (bouton) (petite blind) a remporté (320)
+
+
+
+Main PokerStars n°257867416922 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/09/2025 10:54:11 CET [24/09/2025 4:54:11 ET]
+Table '3930965290 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (530 en jetons) 
+Place 3: picasian (970 en jetons) 
+psychoman59 : met la petite blind. 10
+picasian : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 6c]
+psychoman59 : suit. 10
+picasian : parole 
+*** FLOP *** [4c Qd 5c]
+picasian : parole 
+psychoman59 : mise. 40
+picasian : suit. 40
+*** TOURNANT *** [4c Qd 5c] [Jc]
+picasian : parole 
+psychoman59 : mise. 120
+picasian : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [4c Qd 5c Jc]
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 3 : picasian (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°257867418081 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/09/2025 10:54:26 CET [24/09/2025 4:54:26 ET]
+Table '3930965290 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (590 en jetons) 
+Place 3: picasian (910 en jetons) 
+picasian : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Ts]
+picasian : suit. 10
+psychoman59 : parole 
+*** FLOP *** [8s 5c 3c]
+psychoman59 : parole 
+picasian : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à picasian.
+picasian a remporté 40  lors du pot .
+picasian : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [8s 5c 3c]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : picasian (bouton) (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°257867419110 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/09/2025 10:54:39 CET [24/09/2025 4:54:39 ET]
+Table '3930965290 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (570 en jetons) 
+Place 3: picasian (930 en jetons) 
+psychoman59 : met la petite blind. 10
+picasian : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 5c]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à picasian.
+picasian a remporté 20  lors du pot .
+picasian : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : picasian (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°257867419489 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/09/2025 10:54:44 CET [24/09/2025 4:54:44 ET]
+Table '3930965290 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (560 en jetons) 
+Place 3: picasian (940 en jetons) 
+picasian : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 7d]
+picasian : relance. 20 à 40
+psychoman59 : suit. 20
+*** FLOP *** [8c 3s Td]
+psychoman59 : mise. 520 et est all-in.
+picasian : passe. 
+Personne n'a suivi. (520) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [8c 3s Td]
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : picasian (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°257867420477 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/09/2025 10:54:56 CET [24/09/2025 4:54:56 ET]
+Table '3930965290 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (600 en jetons) 
+Place 3: picasian (900 en jetons) 
+psychoman59 : met la petite blind. 10
+picasian : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Jh]
+psychoman59 : suit. 10
+picasian : parole 
+*** FLOP *** [5c 6s 3h]
+picasian : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à picasian.
+picasian a remporté 40  lors du pot .
+picasian : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [5c 6s 3h]
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+Siège 3 : picasian (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°257867421295 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/09/2025 10:55:07 CET [24/09/2025 4:55:07 ET]
+Table '3930965290 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (580 en jetons) 
+Place 3: picasian (920 en jetons) 
+picasian : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 2c]
+picasian : relance. 20 à 40
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à picasian.
+picasian a remporté 40  lors du pot .
+picasian : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : picasian (bouton) (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°257867421988 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 24/09/2025 10:55:17 CET [24/09/2025 4:55:17 ET]
+Table '3930965290 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (560 en jetons) 
+Place 3: picasian (940 en jetons) 
+psychoman59 : met la petite blind. 15
+picasian : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 5s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à picasian.
+picasian a remporté 30  lors du pot .
+picasian : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : picasian (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°257867422370 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 24/09/2025 10:55:23 CET [24/09/2025 4:55:23 ET]
+Table '3930965290 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (545 en jetons) 
+Place 3: picasian (955 en jetons) 
+picasian : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 7s]
+picasian : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à picasian.
+picasian a remporté 60  lors du pot .
+picasian : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : picasian (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°257867422714 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 24/09/2025 10:55:28 CET [24/09/2025 4:55:28 ET]
+Table '3930965290 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (515 en jetons) 
+Place 3: picasian (985 en jetons) 
+psychoman59 : met la petite blind. 15
+picasian : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 5h]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à picasian.
+picasian a remporté 30  lors du pot .
+picasian : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : picasian (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°257867423000 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 24/09/2025 10:55:33 CET [24/09/2025 4:55:33 ET]
+Table '3930965290 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (500 en jetons) 
+Place 3: picasian (1000 en jetons) 
+picasian : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Ac]
+picasian : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+Siège 3 : picasian (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257867423411 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 24/09/2025 10:55:39 CET [24/09/2025 4:55:39 ET]
+Table '3930965290 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (515 en jetons) 
+Place 3: picasian (985 en jetons) 
+psychoman59 : met la petite blind. 15
+picasian : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Td]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à picasian.
+picasian a remporté 30  lors du pot .
+picasian : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : picasian (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°257867423734 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 24/09/2025 10:55:43 CET [24/09/2025 4:55:43 ET]
+Table '3930965290 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (500 en jetons) 
+Place 3: picasian (1000 en jetons) 
+picasian : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 8s]
+picasian : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à picasian.
+picasian a remporté 60  lors du pot .
+picasian : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : picasian (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°257867424083 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 24/09/2025 10:55:49 CET [24/09/2025 4:55:49 ET]
+Table '3930965290 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (470 en jetons) 
+Place 3: picasian (1030 en jetons) 
+psychoman59 : met la petite blind. 15
+picasian : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 5s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à picasian.
+picasian a remporté 30  lors du pot .
+picasian : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : picasian (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°257867424356 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 24/09/2025 10:55:54 CET [24/09/2025 4:55:54 ET]
+Table '3930965290 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (455 en jetons) 
+Place 3: picasian (1045 en jetons) 
+picasian : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 9c]
+picasian : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à picasian.
+picasian a remporté 60  lors du pot .
+picasian : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : picasian (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°257867424736 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 24/09/2025 10:55:59 CET [24/09/2025 4:55:59 ET]
+Table '3930965290 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (425 en jetons) 
+Place 3: picasian (1075 en jetons) 
+psychoman59 : met la petite blind. 15
+picasian : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 5s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à picasian.
+picasian a remporté 30  lors du pot .
+picasian : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : picasian (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°257867424995 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 24/09/2025 10:56:04 CET [24/09/2025 4:56:04 ET]
+Table '3930965290 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (410 en jetons) 
+Place 3: picasian (1090 en jetons) 
+picasian : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Td]
+picasian : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+Siège 3 : picasian (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257867425320 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 24/09/2025 10:56:08 CET [24/09/2025 4:56:08 ET]
+Table '3930965290 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (425 en jetons) 
+Place 3: picasian (1075 en jetons) 
+psychoman59 : met la petite blind. 15
+picasian : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Ks]
+psychoman59 : suit. 15
+picasian : parole 
+*** FLOP *** [9d Ad Qd]
+picasian : parole 
+psychoman59 : mise. 60
+picasian : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [9d Ad Qd]
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 3 : picasian (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°257867426002 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 24/09/2025 10:56:19 CET [24/09/2025 4:56:19 ET]
+Table '3930965290 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (455 en jetons) 
+Place 3: picasian (1045 en jetons) 
+picasian : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 9s]
+picasian : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à picasian.
+picasian a remporté 60  lors du pot .
+picasian : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : picasian (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°257867426413 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 24/09/2025 10:56:25 CET [24/09/2025 4:56:25 ET]
+Table '3930965290 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (425 en jetons) 
+Place 3: picasian (1075 en jetons) 
+psychoman59 : met la petite blind. 15
+picasian : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Qs]
+psychoman59 : relance. 395 à 425 et est all-in.
+picasian : passe. 
+Personne n'a suivi. (395) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 3 : picasian (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257867426995 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 24/09/2025 10:56:34 CET [24/09/2025 4:56:34 ET]
+Table '3930965290 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (455 en jetons) 
+Place 3: picasian (1045 en jetons) 
+picasian : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 8s]
+picasian : relance. 30 à 60
+psychoman59 : suit. 30
+*** FLOP *** [2s 2d 5c]
+psychoman59 : parole 
+picasian : parole 
+*** TOURNANT *** [2s 2d 5c] [3c]
+psychoman59 : parole 
+picasian : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à picasian.
+picasian a remporté 120  lors du pot .
+picasian : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [2s 2d 5c 3c]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : picasian (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°257867428004 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 24/09/2025 10:56:49 CET [24/09/2025 4:56:49 ET]
+Table '3930965290 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (395 en jetons) 
+Place 3: picasian (1105 en jetons) 
+psychoman59 : met la petite blind. 15
+picasian : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 9d]
+psychoman59 : suit. 15
+picasian : parole 
+*** FLOP *** [Th Ts Tc]
+picasian : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Th Ts Tc] [Kh]
+picasian : parole 
+psychoman59 : mise. 60
+picasian : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Th Ts Tc Kh]
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 3 : picasian (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°257867428924 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 24/09/2025 10:57:02 CET [24/09/2025 4:57:02 ET]
+Table '3930965290 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (425 en jetons) 
+Place 3: picasian (1075 en jetons) 
+picasian : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 9d]
+picasian : relance. 30 à 60
+psychoman59 : relance. 365 à 425 et est all-in.
+picasian : passe. 
+Personne n'a suivi. (365) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (120)
+Siège 3 : picasian (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257867429385 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 24/09/2025 10:57:10 CET [24/09/2025 4:57:10 ET]
+Table '3930965290 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (485 en jetons) 
+Place 3: picasian (1015 en jetons) 
+psychoman59 : met la petite blind. 15
+picasian : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 2d]
+psychoman59 : suit. 15
+picasian : parole 
+*** FLOP *** [2h As 3c]
+picasian : parole 
+psychoman59 : parole 
+*** TOURNANT *** [2h As 3c] [3s]
+picasian : parole 
+psychoman59 : mise. 60
+picasian : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [2h As 3c 3s]
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 3 : picasian (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°257867430366 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 24/09/2025 10:57:25 CET [24/09/2025 4:57:25 ET]
+Table '3930965290 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (515 en jetons) 
+Place 3: picasian (985 en jetons) 
+picasian : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Qs]
+picasian : relance. 30 à 60
+psychoman59 : suit. 30
+*** FLOP *** [8d Ac 6h]
+psychoman59 : parole 
+picasian : parole 
+*** TOURNANT *** [8d Ac 6h] [Ad]
+psychoman59 : parole 
+picasian : parole 
+*** RIVIÈRE *** [8d Ac 6h Ad] [9h]
+psychoman59 : parole 
+picasian : parole 
+*** ABATTAGE ***
+psychoman59 : montre [3c Qs] (une paire de As)
+picasian : cache la main perdante. 
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [8d Ac 6h Ad 9h]
+Siège 2 : psychoman59 (grosse blind) a montré [3c Qs] et a gagné (120) avec une paire de As
+Siège 3 : picasian (bouton) (petite blind) a caché la main perdante. [4c 5h]
+
+
+
+Main PokerStars n°257867431608 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 24/09/2025 10:57:43 CET [24/09/2025 4:57:43 ET]
+Table '3930965290 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (575 en jetons) 
+Place 3: picasian (925 en jetons) 
+psychoman59 : met la petite blind. 15
+picasian : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Th]
+psychoman59 : suit. 15
+picasian : parole 
+*** FLOP *** [4c 3d 5s]
+picasian : parole 
+psychoman59 : parole 
+*** TOURNANT *** [4c 3d 5s] [2h]
+picasian : parole 
+psychoman59 : mise. 30
+picasian : suit. 30
+*** RIVIÈRE *** [4c 3d 5s 2h] [5c]
+picasian : parole 
+psychoman59 : mise. 120
+picasian : suit. 120
+*** ABATTAGE ***
+psychoman59 : montre [6h Th] (une suite, Deux à Six)
+picasian : cache la main perdante. 
+psychoman59 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [4c 3d 5s 2h 5c]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [6h Th] et a gagné (360) avec une suite, Deux à Six
+Siège 3 : picasian (grosse blind) a caché la main perdante. [4d As]
+
+
+
+Main PokerStars n°257867433120 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 24/09/2025 10:58:06 CET [24/09/2025 4:58:06 ET]
+Table '3930965290 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (755 en jetons) 
+Place 3: picasian (745 en jetons) 
+picasian : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 5h]
+picasian : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à picasian.
+picasian a remporté 60  lors du pot .
+picasian : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : picasian (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°257867433795 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/09/2025 10:58:16 CET [24/09/2025 4:58:16 ET]
+Table '3930965290 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (725 en jetons) 
+Place 3: picasian (775 en jetons) 
+psychoman59 : met la petite blind. 20
+picasian : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Jh]
+psychoman59 : suit. 20
+picasian : parole 
+*** FLOP *** [4c Qh 8c]
+picasian : parole 
+psychoman59 : parole 
+*** TOURNANT *** [4c Qh 8c] [Qd]
+picasian : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [4c Qh 8c Qd] [Qs]
+picasian : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+picasian : montre [6h Jd] (un brelan de Dames)
+psychoman59 : montre [5h Jh] (un brelan de Dames)
+picasian a remporté 40  lors du pot .
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [4c Qh 8c Qd Qs]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [5h Jh] et a gagné (40) avec un brelan de Dames
+Siège 3 : picasian (grosse blind) a montré [6h Jd] et a gagné (40) avec un brelan de Dames
+
+
+
+Main PokerStars n°257867434986 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/09/2025 10:58:34 CET [24/09/2025 4:58:34 ET]
+Table '3930965290 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (725 en jetons) 
+Place 3: picasian (775 en jetons) 
+picasian : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Jc]
+picasian : relance. 40 à 80
+psychoman59 : relance. 645 à 725 et est all-in.
+picasian : suit. 645
+*** FLOP *** [2c Qd Qs]
+*** TOURNANT *** [2c Qd Qs] [Th]
+*** RIVIÈRE *** [2c Qd Qs Th] [Qh]
+*** ABATTAGE ***
+psychoman59 : montre [Js Jc] (un full, full aux Dames par les Valets)
+picasian : montre [9s As] (un brelan de Dames)
+psychoman59 a remporté 1450  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1450 | Commission 0 
+Tableau [2c Qd Qs Th Qh]
+Siège 2 : psychoman59 (grosse blind) a montré [Js Jc] et a gagné (1450) avec un full, full aux Dames par les Valets
+Siège 3 : picasian (bouton) (petite blind) a montré [9s As] et a perdu avec un brelan de Dames
+
+
+
+Main PokerStars n°257867436014 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/09/2025 10:58:50 CET [24/09/2025 4:58:50 ET]
+Table '3930965290 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1450 en jetons) 
+Place 3: picasian (50 en jetons) 
+psychoman59 : met la petite blind. 20
+picasian : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 5s]
+psychoman59 : relance. 40 à 80
+picasian : suit. 10 et est all-in.
+Personne n'a suivi. (30) sont retournés à psychoman59.
+*** FLOP *** [9c Kc Ts]
+*** TOURNANT *** [9c Kc Ts] [7s]
+*** RIVIÈRE *** [9c Kc Ts 7s] [Qs]
+*** ABATTAGE ***
+picasian : montre [8d Kd] (une paire de Rois)
+psychoman59 : montre [Kh 5s] (une paire de Rois)
+picasian a remporté 50  lors du pot .
+psychoman59 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [9c Kc Ts 7s Qs]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Kh 5s] et a gagné (50) avec une paire de Rois
+Siège 3 : picasian (grosse blind) a montré [8d Kd] et a gagné (50) avec une paire de Rois
+
+
+
+Main PokerStars n°257867436986 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/09/2025 10:59:04 CET [24/09/2025 4:59:04 ET]
+Table '3930965290 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1450 en jetons) 
+Place 3: picasian (50 en jetons) 
+picasian : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 8d]
+picasian : relance. 10 à 50 et est all-in.
+psychoman59 : suit. 10
+*** FLOP *** [3c 5d 2c]
+*** TOURNANT *** [3c 5d 2c] [Qc]
+*** RIVIÈRE *** [3c 5d 2c Qc] [9c]
+*** ABATTAGE ***
+psychoman59 : montre [Jd 8d] (Hauteur Dame)
+picasian : montre [Ah Qh] (une paire de Dames)
+picasian a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [3c 5d 2c Qc 9c]
+Siège 2 : psychoman59 (grosse blind) a montré [Jd 8d] et a perdu avec Hauteur Dame
+Siège 3 : picasian (bouton) (petite blind) a montré [Ah Qh] et a gagné (100) avec une paire de Dames
+
+
+
+Main PokerStars n°257867437899 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/09/2025 10:59:18 CET [24/09/2025 4:59:18 ET]
+Table '3930965290 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1400 en jetons) 
+Place 3: picasian (100 en jetons) 
+psychoman59 : met la petite blind. 20
+picasian : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Qd]
+psychoman59 : relance. 80 à 120
+picasian : suit. 60 et est all-in.
+Personne n'a suivi. (20) sont retournés à psychoman59.
+*** FLOP *** [Jc 2d 6h]
+*** TOURNANT *** [Jc 2d 6h] [8d]
+*** RIVIÈRE *** [Jc 2d 6h 8d] [6c]
+*** ABATTAGE ***
+picasian : montre [Kh 2h] (double paire, Six et Deux)
+psychoman59 : montre [Ad Qd] (une paire de Six)
+picasian a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [Jc 2d 6h 8d 6c]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Ad Qd] et a perdu avec une paire de Six
+Siège 3 : picasian (grosse blind) a montré [Kh 2h] et a gagné (200) avec double paire, Six et Deux
+
+
+
+Main PokerStars n°257867439006 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/09/2025 10:59:34 CET [24/09/2025 4:59:34 ET]
+Table '3930965290 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1300 en jetons) 
+Place 3: picasian (200 en jetons) 
+picasian : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 6c]
+picasian : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : picasian (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257867439450 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/09/2025 10:59:41 CET [24/09/2025 4:59:41 ET]
+Table '3930965290 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1320 en jetons) 
+Place 3: picasian (180 en jetons) 
+psychoman59 : met la petite blind. 20
+picasian : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 8d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à picasian.
+picasian a remporté 40  lors du pot .
+picasian : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : picasian (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°257867439753 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/09/2025 10:59:45 CET [24/09/2025 4:59:45 ET]
+Table '3930965290 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1300 en jetons) 
+Place 3: picasian (200 en jetons) 
+picasian : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Ah]
+picasian : relance. 160 à 200 et est all-in.
+psychoman59 : suit. 160
+*** FLOP *** [Kh 5h Jc]
+*** TOURNANT *** [Kh 5h Jc] [6s]
+*** RIVIÈRE *** [Kh 5h Jc 6s] [9c]
+*** ABATTAGE ***
+psychoman59 : montre [3c Ah] (Hauteur As)
+picasian : montre [Kc 4d] (une paire de Rois)
+picasian a remporté 400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [Kh 5h Jc 6s 9c]
+Siège 2 : psychoman59 (grosse blind) a montré [3c Ah] et a perdu avec Hauteur As
+Siège 3 : picasian (bouton) (petite blind) a montré [Kc 4d] et a gagné (400) avec une paire de Rois
+
+
+
+Main PokerStars n°257867440604 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/09/2025 10:59:58 CET [24/09/2025 4:59:58 ET]
+Table '3930965290 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (1100 en jetons) 
+Place 3: picasian (400 en jetons) 
+psychoman59 : met la petite blind. 20
+picasian : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Th]
+psychoman59 : relance. 1060 à 1100 et est all-in.
+picasian : passe. 
+Personne n'a suivi. (1060) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 3 : picasian (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257867441060 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/09/2025 11:00:05 CET [24/09/2025 5:00:05 ET]
+Table '3930965290 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (1140 en jetons) 
+Place 3: picasian (360 en jetons) 
+picasian : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 6c]
+picasian : relance. 40 à 80
+psychoman59 : relance. 1060 à 1140 et est all-in.
+picasian : suit. 280 et est all-in.
+Personne n'a suivi. (780) sont retournés à psychoman59.
+*** FLOP *** [Kh Tc Kc]
+*** TOURNANT *** [Kh Tc Kc] [Qh]
+*** RIVIÈRE *** [Kh Tc Kc Qh] [2h]
+*** ABATTAGE ***
+psychoman59 : montre [6s 6c] (double paire, Rois et Six)
+picasian : montre [7h 9h] (une couleur, hauteur Roi)
+picasian a remporté 720  lors du pot .
+*** SYNTHÈSE ***
+Pot total 720 | Commission 0 
+Tableau [Kh Tc Kc Qh 2h]
+Siège 2 : psychoman59 (grosse blind) a montré [6s 6c] et a perdu avec double paire, Rois et Six
+Siège 3 : picasian (bouton) (petite blind) a montré [7h 9h] et a gagné (720) avec une couleur, hauteur Roi
+
+
+
+Main PokerStars n°257867441995 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/09/2025 11:00:19 CET [24/09/2025 5:00:19 ET]
+Table '3930965290 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (780 en jetons) 
+Place 3: picasian (720 en jetons) 
+psychoman59 : met la petite blind. 20
+picasian : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Kd]
+psychoman59 : suit. 20
+picasian : parole 
+*** FLOP *** [Ah Ts Ac]
+picasian : parole 
+psychoman59 : mise. 80
+picasian : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Ah Ts Ac]
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 3 : picasian (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°257867442961 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/09/2025 11:00:32 CET [24/09/2025 5:00:32 ET]
+Table '3930965290 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (820 en jetons) 
+Place 3: picasian (680 en jetons) 
+picasian : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Ts]
+picasian : relance. 40 à 80
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à picasian.
+picasian a remporté 80  lors du pot .
+picasian : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : picasian (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°257867443397 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/09/2025 11:00:38 CET [24/09/2025 5:00:38 ET]
+Table '3930965290 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (780 en jetons) 
+Place 3: picasian (720 en jetons) 
+psychoman59 : met la petite blind. 20
+picasian : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Jh]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à picasian.
+picasian a remporté 40  lors du pot .
+picasian : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : picasian (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°257867443733 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/09/2025 11:00:43 CET [24/09/2025 5:00:43 ET]
+Table '3930965290 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (760 en jetons) 
+Place 3: picasian (740 en jetons) 
+picasian : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 5h]
+picasian : relance. 40 à 80
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à picasian.
+picasian a remporté 80  lors du pot .
+picasian : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : picasian (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°257867444163 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/09/2025 11:00:49 CET [24/09/2025 5:00:49 ET]
+Table '3930965290 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (720 en jetons) 
+Place 3: picasian (780 en jetons) 
+psychoman59 : met la petite blind. 20
+picasian : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Td]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à picasian.
+picasian a remporté 40  lors du pot .
+picasian : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : picasian (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°257867444505 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/09/2025 11:00:54 CET [24/09/2025 5:00:54 ET]
+Table '3930965290 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (700 en jetons) 
+Place 3: picasian (800 en jetons) 
+picasian : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Tc]
+picasian : relance. 40 à 80
+psychoman59 : relance. 620 à 700 et est all-in.
+picasian : passe. 
+Personne n'a suivi. (620) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (160)
+Siège 3 : picasian (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257867445103 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/09/2025 11:01:01 CET [24/09/2025 5:01:01 ET]
+Table '3930965290 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (780 en jetons) 
+Place 3: picasian (720 en jetons) 
+psychoman59 : met la petite blind. 20
+picasian : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 8h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à picasian.
+picasian a remporté 40  lors du pot .
+picasian : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : picasian (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°257867445463 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 24/09/2025 11:01:06 CET [24/09/2025 5:01:06 ET]
+Table '3930965290 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (760 en jetons) 
+Place 3: picasian (740 en jetons) 
+picasian : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 6s]
+picasian : suit. 20
+psychoman59 : parole 
+*** FLOP *** [8s 3s 5c]
+psychoman59 : parole 
+picasian : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à picasian.
+picasian a remporté 80  lors du pot .
+picasian : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [8s 3s 5c]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : picasian (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°257867446636 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/09/2025 11:01:21 CET [24/09/2025 5:01:21 ET]
+Table '3930965290 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (720 en jetons) 
+Place 3: picasian (780 en jetons) 
+psychoman59 : met la petite blind. 30
+picasian : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th As]
+psychoman59 : relance. 660 à 720 et est all-in.
+picasian : passe. 
+Personne n'a suivi. (660) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 3 : picasian (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°257867447260 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/09/2025 11:01:30 CET [24/09/2025 5:01:30 ET]
+Table '3930965290 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (780 en jetons) 
+Place 3: picasian (720 en jetons) 
+picasian : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Kh]
+picasian : relance. 60 à 120
+psychoman59 : relance. 660 à 780 et est all-in.
+picasian : suit. 600 et est all-in.
+Personne n'a suivi. (60) sont retournés à psychoman59.
+*** FLOP *** [8c Jc 5c]
+*** TOURNANT *** [8c Jc 5c] [Ah]
+*** RIVIÈRE *** [8c Jc 5c Ah] [3c]
+*** ABATTAGE ***
+psychoman59 : montre [Jh Kh] (une paire de Valets)
+picasian : montre [As Qc] (une couleur, hauteur Dame)
+picasian a remporté 1440  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1440 | Commission 0 
+Tableau [8c Jc 5c Ah 3c]
+Siège 2 : psychoman59 (grosse blind) a montré [Jh Kh] et a perdu avec une paire de Valets
+Siège 3 : picasian (bouton) (petite blind) a montré [As Qc] et a gagné (1440) avec une couleur, hauteur Dame
+
+
+
+Main PokerStars n°257867448266 : Tournoi #3930965290, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 24/09/2025 11:01:44 CET [24/09/2025 5:01:44 ET]
+Table '3930965290 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (60 en jetons) 
+Place 3: picasian (1440 en jetons) 
+psychoman59 : met la petite blind. 30
+picasian : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 2d]
+psychoman59 : suit. 30 et est all-in.
+*** FLOP *** [Ac Kh 5h]
+*** TOURNANT *** [Ac Kh 5h] [6d]
+*** RIVIÈRE *** [Ac Kh 5h 6d] [3h]
+*** ABATTAGE ***
+picasian : montre [Th Td] (une paire de Dix)
+psychoman59 : montre [3s 2d] (une paire de Trois)
+picasian a remporté 120  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+picasian remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Ac Kh 5h 6d 3h]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [3s 2d] et a perdu avec une paire de Trois
+Siège 3 : picasian (grosse blind) a montré [Th Td] et a gagné (120) avec une paire de Dix
+
+
+

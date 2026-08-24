@@ -1,0 +1,414 @@
+﻿Main PokerStars n°242264901119 : Tournoi #3557863857, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 06/03/2023 7:13:47 CET [06/03/2023 1:13:47 ET]
+Table '3557863857 1' 3-max Siège #1 est au bouton.
+Place 1: alberto3444 (300 en jetons) 
+Place 2: player13004 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+player13004 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Jh]
+alberto3444 : relance. 20 à 40
+player13004 : relance. 20 à 60
+psychoman59 : passe. 
+alberto3444 : suit. 20
+*** FLOP *** [9h 2d 4s]
+player13004 : mise. 20
+alberto3444 : suit. 20
+*** TOURNANT *** [9h 2d 4s] [Jc]
+player13004 : mise. 20
+alberto3444 : suit. 20
+*** RIVIÈRE *** [9h 2d 4s Jc] [7c]
+player13004 : mise. 110
+alberto3444 : passe. 
+Personne n'a suivi. (110) sont retournés à player13004.
+player13004 a remporté 220  lors du pot .
+*** SYNTHÈSE ***
+Pot total 220 | Commission 0 
+Tableau [9h 2d 4s Jc 7c]
+Siège 1 : alberto3444 (bouton) s'est couché. sur le Rivière
+Siège 2 : player13004 (petite blind) a remporté (220)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242264905138 : Tournoi #3557863857, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 06/03/2023 7:14:30 CET [06/03/2023 1:14:30 ET]
+Table '3557863857 1' 3-max Siège #2 est au bouton.
+Place 1: alberto3444 (200 en jetons) 
+Place 2: player13004 (420 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+alberto3444 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Kc]
+player13004 : suit. 20
+psychoman59 : suit. 10
+alberto3444 : parole 
+*** FLOP *** [5d 3c Js]
+psychoman59 : parole 
+alberto3444 : parole 
+player13004 : mise. 60
+psychoman59 : passe. 
+alberto3444 : passe. 
+Personne n'a suivi. (60) sont retournés à player13004.
+player13004 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [5d 3c Js]
+Siège 1 : alberto3444 (grosse blind) s'est couché. sur le Flop
+Siège 2 : player13004 (bouton) a remporté (60)
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°242264907690 : Tournoi #3557863857, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 06/03/2023 7:14:56 CET [06/03/2023 1:14:56 ET]
+Table '3557863857 1' 3-max Siège #3 est au bouton.
+Place 1: alberto3444 (180 en jetons) 
+Place 2: player13004 (460 en jetons) 
+Place 3: psychoman59 (260 en jetons) 
+alberto3444 : met la petite blind. 15
+player13004 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 9d]
+psychoman59 : suit. 30
+alberto3444 : suit. 15
+player13004 : parole 
+*** FLOP *** [7s 3c Kc]
+alberto3444 : parole 
+player13004 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [7s 3c Kc] [Td]
+alberto3444 : parole 
+player13004 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [7s 3c Kc Td] [7c]
+alberto3444 : parole 
+player13004 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+alberto3444 : montre [6h 9h] (une paire de Sept)
+player13004 : montre [2h 2c] (double paire, Sept et Deux)
+psychoman59 : cache la main perdante. 
+player13004 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [7s 3c Kc Td 7c]
+Siège 1 : alberto3444 (petite blind) a montré [6h 9h] et a perdu avec une paire de Sept
+Siège 2 : player13004 (grosse blind) a montré [2h 2c] et a gagné (90) avec double paire, Sept et Deux
+Siège 3 : psychoman59 (bouton) a caché la main perdante. [8d 9d]
+
+
+
+Main PokerStars n°242264910467 : Tournoi #3557863857, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 06/03/2023 7:15:26 CET [06/03/2023 1:15:26 ET]
+Table '3557863857 1' 3-max Siège #1 est au bouton.
+Place 1: alberto3444 (150 en jetons) 
+Place 2: player13004 (520 en jetons) 
+Place 3: psychoman59 (230 en jetons) 
+player13004 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Jd]
+alberto3444 : suit. 30
+player13004 : passe. 
+psychoman59 : parole 
+*** FLOP *** [Qd 5h 7c]
+psychoman59 : parole 
+alberto3444 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à alberto3444.
+alberto3444 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Tableau [Qd 5h 7c]
+Siège 1 : alberto3444 (bouton) a remporté (75)
+Siège 2 : player13004 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°242264911994 : Tournoi #3557863857, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 06/03/2023 7:15:42 CET [06/03/2023 1:15:42 ET]
+Table '3557863857 1' 3-max Siège #2 est au bouton.
+Place 1: alberto3444 (195 en jetons) 
+Place 2: player13004 (505 en jetons) 
+Place 3: psychoman59 (200 en jetons) 
+psychoman59 : met la petite blind. 15
+alberto3444 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 8h]
+player13004 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à alberto3444.
+alberto3444 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : alberto3444 (grosse blind) a remporté (30)
+Siège 2 : player13004 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242264913414 : Tournoi #3557863857, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 06/03/2023 7:15:57 CET [06/03/2023 1:15:57 ET]
+Table '3557863857 1' 3-max Siège #3 est au bouton.
+Place 1: alberto3444 (210 en jetons) 
+Place 2: player13004 (505 en jetons) 
+Place 3: psychoman59 (185 en jetons) 
+alberto3444 : met la petite blind. 20
+player13004 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Td]
+psychoman59 : passe. 
+alberto3444 : relance. 170 à 210 et est all-in.
+player13004 : passe. 
+Personne n'a suivi. (170) sont retournés à alberto3444.
+alberto3444 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : alberto3444 (petite blind) a remporté (80)
+Siège 2 : player13004 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°242264914582 : Tournoi #3557863857, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 06/03/2023 7:16:10 CET [06/03/2023 1:16:10 ET]
+Table '3557863857 1' 3-max Siège #1 est au bouton.
+Place 1: alberto3444 (250 en jetons) 
+Place 2: player13004 (465 en jetons) 
+Place 3: psychoman59 (185 en jetons) 
+player13004 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 8c]
+alberto3444 : passe. 
+player13004 : relance. 40 à 80
+psychoman59 : relance. 105 à 185 et est all-in.
+player13004 : suit. 105
+*** FLOP *** [6c 2s 5s]
+*** TOURNANT *** [6c 2s 5s] [3h]
+*** RIVIÈRE *** [6c 2s 5s 3h] [9h]
+*** ABATTAGE ***
+player13004 : montre [Jh Kd] (Hauteur Roi)
+psychoman59 : montre [7c 8c] (une suite, Cinq à Neuf)
+psychoman59 a remporté 370  lors du pot .
+*** SYNTHÈSE ***
+Pot total 370 | Commission 0 
+Tableau [6c 2s 5s 3h 9h]
+Siège 1 : alberto3444 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : player13004 (petite blind) a montré [Jh Kd] et a perdu avec Hauteur Roi
+Siège 3 : psychoman59 (grosse blind) a montré [7c 8c] et a gagné (370) avec une suite, Cinq à Neuf
+
+
+
+Main PokerStars n°242264916604 : Tournoi #3557863857, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 06/03/2023 7:16:32 CET [06/03/2023 1:16:32 ET]
+Table '3557863857 1' 3-max Siège #2 est au bouton.
+Place 1: alberto3444 (250 en jetons) 
+Place 2: player13004 (280 en jetons) 
+Place 3: psychoman59 (370 en jetons) 
+psychoman59 : met la petite blind. 20
+alberto3444 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Kh]
+player13004 : passe. 
+psychoman59 : relance. 40 à 80
+alberto3444 : suit. 40
+*** FLOP *** [Ts 3c 7d]
+psychoman59 : parole 
+alberto3444 : parole 
+*** TOURNANT *** [Ts 3c 7d] [Js]
+psychoman59 : parole 
+alberto3444 : parole 
+*** RIVIÈRE *** [Ts 3c 7d Js] [6c]
+psychoman59 : parole 
+alberto3444 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [8s Kh] (Hauteur Roi)
+alberto3444 : montre [8c 3s] (une paire de Trois)
+alberto3444 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Ts 3c 7d Js 6c]
+Siège 1 : alberto3444 (grosse blind) a montré [8c 3s] et a gagné (160) avec une paire de Trois
+Siège 2 : player13004 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [8s Kh] et a perdu avec Hauteur Roi
+
+
+
+Main PokerStars n°242264921147 : Tournoi #3557863857, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 06/03/2023 7:17:21 CET [06/03/2023 1:17:21 ET]
+Table '3557863857 1' 3-max Siège #3 est au bouton.
+Place 1: alberto3444 (330 en jetons) 
+Place 2: player13004 (280 en jetons) 
+Place 3: psychoman59 (290 en jetons) 
+alberto3444 : met la petite blind. 30
+player13004 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Kh]
+psychoman59 : relance. 230 à 290 et est all-in.
+alberto3444 : suit. 260
+player13004 : passe. 
+*** FLOP *** [5c 2s 2d]
+*** TOURNANT *** [5c 2s 2d] [5h]
+*** RIVIÈRE *** [5c 2s 2d 5h] [3c]
+*** ABATTAGE ***
+alberto3444 : montre [Kd Jd] (double paire, Cinq et Deux)
+psychoman59 : montre [8c Kh] (double paire, Cinq et Deux)
+alberto3444 a remporté 320  lors du pot .
+psychoman59 a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [5c 2s 2d 5h 3c]
+Siège 1 : alberto3444 (petite blind) a montré [Kd Jd] et a gagné (320) avec double paire, Cinq et Deux
+Siège 2 : player13004 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a montré [8c Kh] et a gagné (320) avec double paire, Cinq et Deux
+
+
+
+Main PokerStars n°242264923314 : Tournoi #3557863857, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 06/03/2023 7:17:45 CET [06/03/2023 1:17:45 ET]
+Table '3557863857 1' 3-max Siège #1 est au bouton.
+Place 1: alberto3444 (360 en jetons) 
+Place 2: player13004 (220 en jetons) 
+Place 3: psychoman59 (320 en jetons) 
+player13004 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 6d]
+alberto3444 : suit. 60
+player13004 : passe. 
+psychoman59 : parole 
+*** FLOP *** [Kd Ac 6c]
+psychoman59 : parole 
+alberto3444 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à alberto3444.
+alberto3444 a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Tableau [Kd Ac 6c]
+Siège 1 : alberto3444 (bouton) a remporté (150)
+Siège 2 : player13004 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°242264925754 : Tournoi #3557863857, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 06/03/2023 7:18:10 CET [06/03/2023 1:18:10 ET]
+Table '3557863857 1' 3-max Siège #2 est au bouton.
+Place 1: alberto3444 (450 en jetons) 
+Place 2: player13004 (190 en jetons) 
+Place 3: psychoman59 (260 en jetons) 
+psychoman59 : met la petite blind. 40
+alberto3444 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 9h]
+player13004 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à alberto3444.
+alberto3444 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : alberto3444 (grosse blind) a remporté (80)
+Siège 2 : player13004 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242264926939 : Tournoi #3557863857, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 06/03/2023 7:18:24 CET [06/03/2023 1:18:24 ET]
+Table '3557863857 1' 3-max Siège #3 est au bouton.
+Place 1: alberto3444 (490 en jetons) 
+Place 2: player13004 (190 en jetons) 
+Place 3: psychoman59 (220 en jetons) 
+alberto3444 : met la petite blind. 40
+player13004 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Ks]
+psychoman59 : passe. 
+alberto3444 : passe. 
+Personne n'a suivi. (40) sont retournés à player13004.
+player13004 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : alberto3444 (petite blind) s'est couché. avant Flop
+Siège 2 : player13004 (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°242264927831 : Tournoi #3557863857, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 06/03/2023 7:18:34 CET [06/03/2023 1:18:34 ET]
+Table '3557863857 1' 3-max Siège #1 est au bouton.
+Place 1: alberto3444 (450 en jetons) 
+Place 2: player13004 (230 en jetons) 
+Place 3: psychoman59 (220 en jetons) 
+player13004 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 2d]
+alberto3444 : suit. 80
+player13004 : passe. 
+psychoman59 : parole 
+*** FLOP *** [Tc 8d 9h]
+psychoman59 : parole 
+alberto3444 : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à alberto3444.
+alberto3444 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [Tc 8d 9h]
+Siège 1 : alberto3444 (bouton) a remporté (200)
+Siège 2 : player13004 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°242264929658 : Tournoi #3557863857, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 06/03/2023 7:18:54 CET [06/03/2023 1:18:54 ET]
+Table '3557863857 1' 3-max Siège #2 est au bouton.
+Place 1: alberto3444 (570 en jetons) 
+Place 2: player13004 (190 en jetons) 
+Place 3: psychoman59 (140 en jetons) 
+psychoman59 : met la petite blind. 50
+alberto3444 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 6h]
+player13004 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à alberto3444.
+alberto3444 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : alberto3444 (grosse blind) a remporté (100)
+Siège 2 : player13004 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242264930374 : Tournoi #3557863857, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 06/03/2023 7:19:02 CET [06/03/2023 1:19:02 ET]
+Table '3557863857 1' 3-max Siège #3 est au bouton.
+Place 1: alberto3444 (620 en jetons) 
+Place 2: player13004 (190 en jetons) 
+Place 3: psychoman59 (90 en jetons) 
+alberto3444 : met la petite blind. 50
+player13004 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 8c]
+psychoman59 : suit. 90 et est all-in.
+alberto3444 : suit. 50
+player13004 : parole 
+*** FLOP *** [Qd 7h Tc]
+alberto3444 : parole 
+player13004 : parole 
+*** TOURNANT *** [Qd 7h Tc] [2s]
+alberto3444 : mise. 100
+player13004 : passe. 
+Personne n'a suivi. (100) sont retournés à alberto3444.
+*** RIVIÈRE *** [Qd 7h Tc 2s] [9h]
+*** ABATTAGE ***
+alberto3444 : montre [9d 7s] (double paire, Neuf et Sept)
+alberto3444 a remporté 20  parallèle lors du pot .
+psychoman59 : montre [Qs 8c] (une paire de Dames)
+alberto3444 a remporté 270  principal lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 290 Principal pot 270. Parallèle pot 20. | Commission 0 
+Tableau [Qd 7h Tc 2s 9h]
+Siège 1 : alberto3444 (petite blind) a montré [9d 7s] et a gagné (290) avec double paire, Neuf et Sept
+Siège 2 : player13004 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) a montré [Qs 8c] et a perdu avec une paire de Dames
+
+
+

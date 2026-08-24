@@ -1,0 +1,460 @@
+﻿Main PokerStars n°252997937265 : Tournoi #3813604203, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 19/10/2024 7:46:09 CET [19/10/2024 1:46:09 ET]
+Table '3813604203 1' 3-max Siège #1 est au bouton.
+Place 1: troton2 (500 en jetons) 
+Place 2: maximilanoo (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+maximilanoo : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Kh]
+troton2 : suit. 20
+maximilanoo : suit. 10
+psychoman59 : parole 
+*** FLOP *** [4s Ks 8h]
+maximilanoo : parole 
+psychoman59 : parole 
+troton2 : parole 
+*** TOURNANT *** [4s Ks 8h] [2s]
+maximilanoo : mise. 30
+psychoman59 : suit. 30
+troton2 : passe. 
+*** RIVIÈRE *** [4s Ks 8h 2s] [9c]
+maximilanoo : mise. 60
+psychoman59 : suit. 60
+*** ABATTAGE ***
+maximilanoo : montre [9h Kd] (double paire, Rois et Neuf)
+psychoman59 : cache la main perdante. 
+maximilanoo a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [4s Ks 8h 2s 9c]
+Siège 1 : troton2 (bouton) s'est couché. sur le Tournant
+Siège 2 : maximilanoo (petite blind) a montré [9h Kd] et a gagné (240) avec double paire, Rois et Neuf
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [7h Kh]
+
+
+
+Main PokerStars n°252997940415 : Tournoi #3813604203, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 19/10/2024 7:46:44 CET [19/10/2024 1:46:44 ET]
+Table '3813604203 1' 3-max Siège #2 est au bouton.
+Place 1: troton2 (480 en jetons) 
+Place 2: maximilanoo (630 en jetons) 
+Place 3: psychoman59 (390 en jetons) 
+psychoman59 : met la petite blind. 10
+troton2 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Qd]
+maximilanoo : suit. 20
+psychoman59 : passe. 
+troton2 : parole 
+*** FLOP *** [5s 2d Ad]
+troton2 : parole 
+maximilanoo : parole 
+*** TOURNANT *** [5s 2d Ad] [6c]
+troton2 : mise. 40
+maximilanoo : suit. 40
+*** RIVIÈRE *** [5s 2d Ad 6c] [Kc]
+troton2 : parole 
+maximilanoo : parole 
+*** ABATTAGE ***
+troton2 : montre [Ac 7h] (une paire de As)
+maximilanoo : cache la main perdante. 
+troton2 a remporté 130  lors du pot .
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Tableau [5s 2d Ad 6c Kc]
+Siège 1 : troton2 (grosse blind) a montré [Ac 7h] et a gagné (130) avec une paire de As
+Siège 2 : maximilanoo (bouton) a caché la main perdante. [4d Qs]
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°252997943077 : Tournoi #3813604203, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 19/10/2024 7:47:14 CET [19/10/2024 1:47:14 ET]
+Table '3813604203 1' 3-max Siège #3 est au bouton.
+Place 1: troton2 (550 en jetons) 
+Place 2: maximilanoo (570 en jetons) 
+Place 3: psychoman59 (380 en jetons) 
+troton2 : met la petite blind. 10
+maximilanoo : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Tc]
+psychoman59 : passe. 
+troton2 : suit. 10
+maximilanoo : relance. 40 à 60
+troton2 : suit. 40
+*** FLOP *** [5s 8d 4c]
+troton2 : parole 
+maximilanoo : mise. 20
+troton2 : suit. 20
+*** TOURNANT *** [5s 8d 4c] [Qd]
+troton2 : parole 
+maximilanoo : parole 
+*** RIVIÈRE *** [5s 8d 4c Qd] [4d]
+troton2 : mise. 60
+maximilanoo : passe. 
+Personne n'a suivi. (60) sont retournés à troton2.
+troton2 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [5s 8d 4c Qd 4d]
+Siège 1 : troton2 (petite blind) a remporté (160)
+Siège 2 : maximilanoo (grosse blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°252997945710 : Tournoi #3813604203, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 19/10/2024 7:47:43 CET [19/10/2024 1:47:43 ET]
+Table '3813604203 1' 3-max Siège #1 est au bouton.
+Place 1: troton2 (630 en jetons) 
+Place 2: maximilanoo (490 en jetons) 
+Place 3: psychoman59 (380 en jetons) 
+maximilanoo : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h As]
+troton2 : passe. 
+maximilanoo : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : troton2 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : maximilanoo (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°252997946377 : Tournoi #3813604203, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 19/10/2024 7:47:50 CET [19/10/2024 1:47:50 ET]
+Table '3813604203 1' 3-max Siège #2 est au bouton.
+Place 1: troton2 (630 en jetons) 
+Place 2: maximilanoo (480 en jetons) 
+Place 3: psychoman59 (390 en jetons) 
+psychoman59 : met la petite blind. 10
+troton2 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 6h]
+maximilanoo : passe. 
+psychoman59 : suit. 10
+troton2 : parole 
+*** FLOP *** [8c 7d Ah]
+psychoman59 : parole 
+troton2 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à troton2.
+troton2 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [8c 7d Ah]
+Siège 1 : troton2 (grosse blind) a remporté (40)
+Siège 2 : maximilanoo (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°252997947633 : Tournoi #3813604203, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 19/10/2024 7:48:04 CET [19/10/2024 1:48:04 ET]
+Table '3813604203 1' 3-max Siège #3 est au bouton.
+Place 1: troton2 (650 en jetons) 
+Place 2: maximilanoo (480 en jetons) 
+Place 3: psychoman59 (370 en jetons) 
+troton2 : met la petite blind. 10
+maximilanoo : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 8d]
+psychoman59 : passe. 
+troton2 : suit. 10
+maximilanoo : parole 
+*** FLOP *** [As 8c Kc]
+troton2 : parole 
+maximilanoo : parole 
+*** TOURNANT *** [As 8c Kc] [2s]
+troton2 : parole 
+maximilanoo : parole 
+*** RIVIÈRE *** [As 8c Kc 2s] [Ts]
+troton2 : parole 
+maximilanoo : parole 
+*** ABATTAGE ***
+troton2 : montre [Td 6s] (une paire de Dix)
+maximilanoo : cache la main perdante. 
+troton2 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [As 8c Kc 2s Ts]
+Siège 1 : troton2 (petite blind) a montré [Td 6s] et a gagné (40) avec une paire de Dix
+Siège 2 : maximilanoo (grosse blind) a caché la main perdante. [9s 7d]
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°252997949334 : Tournoi #3813604203, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 19/10/2024 7:48:23 CET [19/10/2024 1:48:23 ET]
+Table '3813604203 1' 3-max Siège #1 est au bouton.
+Place 1: troton2 (670 en jetons) 
+Place 2: maximilanoo (460 en jetons) 
+Place 3: psychoman59 (370 en jetons) 
+maximilanoo : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 3s]
+troton2 : relance. 20 à 40
+maximilanoo : suit. 30
+psychoman59 : passe. 
+*** FLOP *** [Qd 9d 8s]
+maximilanoo : mise. 50
+troton2 : suit. 50
+*** TOURNANT *** [Qd 9d 8s] [Ac]
+maximilanoo : parole 
+troton2 : parole 
+*** RIVIÈRE *** [Qd 9d 8s Ac] [3h]
+maximilanoo : parole 
+troton2 : parole 
+*** ABATTAGE ***
+maximilanoo : montre [9h 2h] (une paire de Neuf)
+troton2 : montre [Ks Kc] (une paire de Rois)
+troton2 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [Qd 9d 8s Ac 3h]
+Siège 1 : troton2 (bouton) a montré [Ks Kc] et a gagné (200) avec une paire de Rois
+Siège 2 : maximilanoo (petite blind) a montré [9h 2h] et a perdu avec une paire de Neuf
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°252997951327 : Tournoi #3813604203, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 19/10/2024 7:48:45 CET [19/10/2024 1:48:45 ET]
+Table '3813604203 1' 3-max Siège #2 est au bouton.
+Place 1: troton2 (780 en jetons) 
+Place 2: maximilanoo (370 en jetons) 
+Place 3: psychoman59 (350 en jetons) 
+psychoman59 : met la petite blind. 10
+troton2 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Ts]
+maximilanoo : suit. 20
+psychoman59 : passe. 
+troton2 : parole 
+*** FLOP *** [3c Ah Jh]
+troton2 : parole 
+maximilanoo : mise. 25
+troton2 : passe. 
+Personne n'a suivi. (25) sont retournés à maximilanoo.
+maximilanoo a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [3c Ah Jh]
+Siège 1 : troton2 (grosse blind) s'est couché. sur le Flop
+Siège 2 : maximilanoo (bouton) a remporté (50)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°252997952591 : Tournoi #3813604203, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 19/10/2024 7:49:00 CET [19/10/2024 1:49:00 ET]
+Table '3813604203 1' 3-max Siège #3 est au bouton.
+Place 1: troton2 (760 en jetons) 
+Place 2: maximilanoo (400 en jetons) 
+Place 3: psychoman59 (340 en jetons) 
+troton2 : met la petite blind. 10
+maximilanoo : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 2s]
+psychoman59 : passe. 
+troton2 : suit. 10
+maximilanoo : parole 
+*** FLOP *** [Qs Jd 4d]
+troton2 : parole 
+maximilanoo : parole 
+*** TOURNANT *** [Qs Jd 4d] [3h]
+troton2 : parole 
+maximilanoo : mise. 40
+troton2 : passe. 
+Personne n'a suivi. (40) sont retournés à maximilanoo.
+maximilanoo a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Qs Jd 4d 3h]
+Siège 1 : troton2 (petite blind) s'est couché. sur le Tournant
+Siège 2 : maximilanoo (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°252997955398 : Tournoi #3813604203, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 19/10/2024 7:49:31 CET [19/10/2024 1:49:31 ET]
+Table '3813604203 1' 3-max Siège #1 est au bouton.
+Place 1: troton2 (740 en jetons) 
+Place 2: maximilanoo (420 en jetons) 
+Place 3: psychoman59 (340 en jetons) 
+maximilanoo : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Ks]
+troton2 : suit. 30
+maximilanoo : suit. 15
+psychoman59 : parole 
+*** FLOP *** [5c 3h Ac]
+maximilanoo : mise. 30
+psychoman59 : suit. 30
+troton2 : suit. 30
+*** TOURNANT *** [5c 3h Ac] [Ad]
+maximilanoo : parole 
+psychoman59 : parole 
+troton2 : parole 
+*** RIVIÈRE *** [5c 3h Ac Ad] [Ts]
+maximilanoo : mise. 30
+psychoman59 : passe. 
+troton2 : passe. 
+Personne n'a suivi. (30) sont retournés à maximilanoo.
+maximilanoo a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [5c 3h Ac Ad Ts]
+Siège 1 : troton2 (bouton) s'est couché. sur le Rivière
+Siège 2 : maximilanoo (petite blind) a remporté (180)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°252997957351 : Tournoi #3813604203, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 19/10/2024 7:49:52 CET [19/10/2024 1:49:52 ET]
+Table '3813604203 1' 3-max Siège #2 est au bouton.
+Place 1: troton2 (680 en jetons) 
+Place 2: maximilanoo (540 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 15
+troton2 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Js]
+maximilanoo : suit. 30
+psychoman59 : passe. 
+troton2 : parole 
+*** FLOP *** [As 8c 6s]
+troton2 : parole 
+maximilanoo : parole 
+*** TOURNANT *** [As 8c 6s] [3s]
+troton2 : parole 
+maximilanoo : mise. 75
+troton2 : suit. 75
+*** RIVIÈRE *** [As 8c 6s 3s] [9h]
+troton2 : parole 
+maximilanoo : parole 
+*** ABATTAGE ***
+troton2 : montre [2d 5h] (Hauteur As)
+maximilanoo : montre [7h 9c] (une paire de Neuf)
+maximilanoo a remporté 225  lors du pot .
+*** SYNTHÈSE ***
+Pot total 225 | Commission 0 
+Tableau [As 8c 6s 3s 9h]
+Siège 1 : troton2 (grosse blind) a montré [2d 5h] et a perdu avec Hauteur As
+Siège 2 : maximilanoo (bouton) a montré [7h 9c] et a gagné (225) avec une paire de Neuf
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°252997960712 : Tournoi #3813604203, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 19/10/2024 7:50:29 CET [19/10/2024 1:50:29 ET]
+Table '3813604203 1' 3-max Siège #3 est au bouton.
+Place 1: troton2 (575 en jetons) 
+Place 2: maximilanoo (660 en jetons) 
+Place 3: psychoman59 (265 en jetons) 
+troton2 : met la petite blind. 15
+maximilanoo : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Ts]
+psychoman59 : passe. 
+troton2 : suit. 15
+maximilanoo : relance. 60 à 90
+troton2 : passe. 
+Personne n'a suivi. (60) sont retournés à maximilanoo.
+maximilanoo a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : troton2 (petite blind) s'est couché. avant Flop
+Siège 2 : maximilanoo (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°252997961680 : Tournoi #3813604203, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 19/10/2024 7:50:40 CET [19/10/2024 1:50:40 ET]
+Table '3813604203 1' 3-max Siège #1 est au bouton.
+Place 1: troton2 (545 en jetons) 
+Place 2: maximilanoo (690 en jetons) 
+Place 3: psychoman59 (265 en jetons) 
+maximilanoo : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 2d]
+troton2 : suit. 30
+maximilanoo : suit. 15
+psychoman59 : parole 
+*** FLOP *** [3c Ah 7h]
+maximilanoo : parole 
+psychoman59 : parole 
+troton2 : parole 
+*** TOURNANT *** [3c Ah 7h] [Jd]
+maximilanoo : parole 
+psychoman59 : parole 
+troton2 : parole 
+*** RIVIÈRE *** [3c Ah 7h Jd] [Qs]
+maximilanoo : parole 
+psychoman59 : parole 
+troton2 : parole 
+*** ABATTAGE ***
+maximilanoo : montre [5c Th] (Hauteur As)
+psychoman59 : cache la main perdante. 
+troton2 : montre [Js Ts] (une paire de Valets)
+troton2 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [3c Ah 7h Jd Qs]
+Siège 1 : troton2 (bouton) a montré [Js Ts] et a gagné (90) avec une paire de Valets
+Siège 2 : maximilanoo (petite blind) a montré [5c Th] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [4s 2d]
+
+
+
+Main PokerStars n°252997963661 : Tournoi #3813604203, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 19/10/2024 7:51:02 CET [19/10/2024 1:51:02 ET]
+Table '3813604203 1' 3-max Siège #2 est au bouton.
+Place 1: troton2 (605 en jetons) 
+Place 2: maximilanoo (660 en jetons) 
+Place 3: psychoman59 (235 en jetons) 
+psychoman59 : met la petite blind. 15
+troton2 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 9s]
+maximilanoo : relance. 30 à 60
+psychoman59 : passe. 
+troton2 : passe. 
+Personne n'a suivi. (30) sont retournés à maximilanoo.
+maximilanoo a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : troton2 (grosse blind) s'est couché. avant Flop
+Siège 2 : maximilanoo (bouton) a remporté (75)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°252997964687 : Tournoi #3813604203, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 19/10/2024 7:51:14 CET [19/10/2024 1:51:14 ET]
+Table '3813604203 1' 3-max Siège #3 est au bouton.
+Place 1: troton2 (575 en jetons) 
+Place 2: maximilanoo (705 en jetons) 
+Place 3: psychoman59 (220 en jetons) 
+troton2 : met la petite blind. 15
+maximilanoo : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 6c]
+psychoman59 : relance. 190 à 220 et est all-in.
+troton2 : passe. 
+maximilanoo : suit. 190
+*** FLOP *** [2c 4h Ts]
+*** TOURNANT *** [2c 4h Ts] [4d]
+*** RIVIÈRE *** [2c 4h Ts 4d] [2d]
+*** ABATTAGE ***
+maximilanoo : montre [5d 5s] (double paire, Cinq et Quatre)
+psychoman59 : montre [8c 6c] (double paire, Quatre et Deux)
+maximilanoo a remporté 455  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 455 | Commission 0 
+Tableau [2c 4h Ts 4d 2d]
+Siège 1 : troton2 (petite blind) s'est couché. avant Flop
+Siège 2 : maximilanoo (grosse blind) a montré [5d 5s] et a gagné (455) avec double paire, Cinq et Quatre
+Siège 3 : psychoman59 (bouton) a montré [8c 6c] et a perdu avec double paire, Quatre et Deux
+
+
+

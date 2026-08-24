@@ -1,0 +1,66 @@
+﻿Main PokerStars n°243000298554 : Tournoi #3575386084, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/04/2023 8:56:13 CET [10/04/2023 2:56:13 ET]
+Table '3575386084 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: GMGEdGP30 (300 en jetons) 
+Place 3: latysmeydu34 (300 en jetons) 
+GMGEdGP30 : met la petite blind. 10
+latysmeydu34 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Qs]
+psychoman59 : suit. 20
+GMGEdGP30 : suit. 10
+latysmeydu34 : parole 
+*** FLOP *** [6h 2h Ts]
+GMGEdGP30 : mise. 20
+latysmeydu34 : relance. 20 à 40
+psychoman59 : passe. 
+GMGEdGP30 : suit. 20
+*** TOURNANT *** [6h 2h Ts] [5h]
+GMGEdGP30 : parole 
+latysmeydu34 : mise. 140
+GMGEdGP30 : passe. 
+Personne n'a suivi. (140) sont retournés à latysmeydu34.
+latysmeydu34 a remporté 140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [6h 2h Ts 5h]
+Siège 1 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 2 : GMGEdGP30 (petite blind) s'est couché. sur le Tournant
+Siège 3 : latysmeydu34 (grosse blind) a remporté (140)
+
+
+
+Main PokerStars n°243000301393 : Tournoi #3575386084, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/04/2023 8:56:43 CET [10/04/2023 2:56:43 ET]
+Table '3575386084 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: GMGEdGP30 (240 en jetons) 
+Place 3: latysmeydu34 (380 en jetons) 
+latysmeydu34 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 4c]
+GMGEdGP30 : suit. 20
+latysmeydu34 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [6c 8s 3c]
+latysmeydu34 a dépassé le temps imparti.
+latysmeydu34 : parole 
+psychoman59 : mise. 260 et est all-in.
+GMGEdGP30 : suit. 220 et est all-in.
+latysmeydu34 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+*** TOURNANT *** [6c 8s 3c] [Ks]
+*** RIVIÈRE *** [6c 8s 3c Ks] [Js]
+*** ABATTAGE ***
+psychoman59 : montre [8h 4c] (une paire de Huit)
+GMGEdGP30 : montre [Td 8d] (une paire de Huit - Roi+Valet+Dix kicker)
+GMGEdGP30 a remporté 500  lors du pot .
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Tableau [6c 8s 3c Ks Js]
+Siège 1 : psychoman59 (grosse blind) a montré [8h 4c] et a perdu avec une paire de Huit
+Siège 2 : GMGEdGP30 (bouton) a montré [Td 8d] et a gagné (500) avec une paire de Huit
+Siège 3 : latysmeydu34 (petite blind) s'est couché. sur le Flop
+
+
+

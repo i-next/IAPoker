@@ -1,0 +1,217 @@
+﻿Main PokerStars n°241507813604 : Tournoi #3540348592, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 30/01/2023 23:55:40 CET [30/01/2023 17:55:40 ET]
+Table '3540348592 1' 3-max Siège #1 est au bouton.
+Place 1: petitponey33230 (300 en jetons) 
+Place 2: aywiix (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+aywiix : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Qd]
+petitponey33230 : suit. 20
+aywiix : suit. 10
+psychoman59 : parole 
+*** FLOP *** [5h 3c 9s]
+aywiix : parole 
+psychoman59 : parole 
+petitponey33230 : parole 
+*** TOURNANT *** [5h 3c 9s] [7c]
+aywiix : parole 
+psychoman59 : parole 
+petitponey33230 : parole 
+*** RIVIÈRE *** [5h 3c 9s 7c] [9d]
+aywiix : parole 
+psychoman59 : parole 
+petitponey33230 : parole 
+*** ABATTAGE ***
+aywiix : montre [2s Ah] (une paire de Neuf)
+psychoman59 : cache la main perdante. 
+petitponey33230 : montre [Td As] (une paire de Neuf - As+Dix kicker)
+petitponey33230 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [5h 3c 9s 7c 9d]
+Siège 1 : petitponey33230 (bouton) a montré [Td As] et a gagné (60) avec une paire de Neuf
+Siège 2 : aywiix (petite blind) a montré [2s Ah] et a perdu avec une paire de Neuf
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [Jd Qd]
+
+
+
+Main PokerStars n°241507822672 : Tournoi #3540348592, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 30/01/2023 23:56:11 CET [30/01/2023 17:56:11 ET]
+Table '3540348592 1' 3-max Siège #2 est au bouton.
+Place 1: petitponey33230 (340 en jetons) 
+Place 2: aywiix (280 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+petitponey33230 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 6c]
+aywiix : passe. 
+psychoman59 : relance. 260 à 280 et est all-in.
+petitponey33230 : suit. 260
+*** FLOP *** [7c Ah 2s]
+*** TOURNANT *** [7c Ah 2s] [Ks]
+*** RIVIÈRE *** [7c Ah 2s Ks] [3h]
+*** ABATTAGE ***
+psychoman59 : montre [6h 6c] (une paire de Six)
+petitponey33230 : montre [5d 5s] (une paire de Cinq)
+psychoman59 a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [7c Ah 2s Ks 3h]
+Siège 1 : petitponey33230 (grosse blind) a montré [5d 5s] et a perdu avec une paire de Cinq
+Siège 2 : aywiix (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [6h 6c] et a gagné (560) avec une paire de Six
+
+
+
+Main PokerStars n°241507826900 : Tournoi #3540348592, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 30/01/2023 23:56:27 CET [30/01/2023 17:56:27 ET]
+Table '3540348592 1' 3-max Siège #3 est au bouton.
+Place 1: petitponey33230 (60 en jetons) 
+Place 2: aywiix (280 en jetons) 
+Place 3: psychoman59 (560 en jetons) 
+petitponey33230 : met la petite blind. 10
+aywiix : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 8c]
+psychoman59 : relance. 20 à 40
+petitponey33230 : relance. 20 à 60 et est all-in.
+aywiix : relance. 220 à 280 et est all-in.
+psychoman59 : suit. 240
+*** FLOP *** [9c Ts Qd]
+*** TOURNANT *** [9c Ts Qd] [Kc]
+*** RIVIÈRE *** [9c Ts Qd Kc] [Ks]
+*** ABATTAGE ***
+aywiix : montre [As Tc] (double paire, Rois et Dix)
+psychoman59 : montre [8h 8c] (double paire, Rois et Huit)
+aywiix a remporté 440  parallèle lors du pot .
+petitponey33230 : montre [3d 6c] (une paire de Rois)
+aywiix a remporté 180  principal lors du pot .
+petitponey33230 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 620 Principal pot 180. Parallèle pot 440. | Commission 0 
+Tableau [9c Ts Qd Kc Ks]
+Siège 1 : petitponey33230 (petite blind) a montré [3d 6c] et a perdu avec une paire de Rois
+Siège 2 : aywiix (grosse blind) a montré [As Tc] et a gagné (620) avec double paire, Rois et Dix
+Siège 3 : psychoman59 (bouton) a montré [8h 8c] et a perdu avec double paire, Rois et Huit
+
+
+
+Main PokerStars n°241507833184 : Tournoi #3540348592, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 30/01/2023 23:56:49 CET [30/01/2023 17:56:49 ET]
+Table '3540348592 1' 3-max Siège #2 est au bouton.
+Place 2: aywiix (620 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+aywiix : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 5h]
+aywiix : relance. 590 à 620 et est all-in.
+psychoman59 : suit. 250 et est all-in.
+Personne n'a suivi. (340) sont retournés à aywiix.
+*** FLOP *** [Qs 6s 7s]
+*** TOURNANT *** [Qs 6s 7s] [As]
+*** RIVIÈRE *** [Qs 6s 7s As] [9s]
+*** ABATTAGE ***
+psychoman59 : montre [Kh 5h] (une couleur, hauteur As)
+aywiix : montre [Kc Td] (une couleur, hauteur As)
+psychoman59 a remporté 280  lors du pot .
+aywiix a remporté 280  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [Qs 6s 7s As 9s]
+Siège 2 : aywiix (bouton) (petite blind) a montré [Kc Td] et a gagné (280) avec une couleur, hauteur As
+Siège 3 : psychoman59 (grosse blind) a montré [Kh 5h] et a gagné (280) avec une couleur, hauteur As
+
+
+
+Main PokerStars n°241507837257 : Tournoi #3540348592, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 30/01/2023 23:57:03 CET [30/01/2023 17:57:03 ET]
+Table '3540348592 1' 3-max Siège #3 est au bouton.
+Place 2: aywiix (620 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 15
+aywiix : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 3s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à aywiix.
+aywiix a remporté 30  lors du pot .
+aywiix : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : aywiix (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241507838886 : Tournoi #3540348592, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 30/01/2023 23:57:09 CET [30/01/2023 17:57:09 ET]
+Table '3540348592 1' 3-max Siège #2 est au bouton.
+Place 2: aywiix (635 en jetons) 
+Place 3: psychoman59 (265 en jetons) 
+aywiix : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Td]
+aywiix : relance. 605 à 635 et est all-in.
+psychoman59 : suit. 235 et est all-in.
+Personne n'a suivi. (370) sont retournés à aywiix.
+*** FLOP *** [8s Ts Th]
+*** TOURNANT *** [8s Ts Th] [Kc]
+*** RIVIÈRE *** [8s Ts Th Kc] [9c]
+*** ABATTAGE ***
+psychoman59 : montre [5d Td] (un brelan de Dix)
+aywiix : montre [7c Kd] (double paire, Rois et Dix)
+psychoman59 a remporté 530  lors du pot .
+*** SYNTHÈSE ***
+Pot total 530 | Commission 0 
+Tableau [8s Ts Th Kc 9c]
+Siège 2 : aywiix (bouton) (petite blind) a montré [7c Kd] et a perdu avec double paire, Rois et Dix
+Siège 3 : psychoman59 (grosse blind) a montré [5d Td] et a gagné (530) avec un brelan de Dix
+
+
+
+Main PokerStars n°241507843164 : Tournoi #3540348592, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 30/01/2023 23:57:24 CET [30/01/2023 17:57:24 ET]
+Table '3540348592 1' 3-max Siège #3 est au bouton.
+Place 2: aywiix (370 en jetons) 
+Place 3: psychoman59 (530 en jetons) 
+psychoman59 : met la petite blind. 15
+aywiix : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Ad]
+psychoman59 : relance. 500 à 530 et est all-in.
+aywiix : passe. 
+Personne n'a suivi. (500) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : aywiix (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°241507845411 : Tournoi #3540348592, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 30/01/2023 23:57:32 CET [30/01/2023 17:57:32 ET]
+Table '3540348592 1' 3-max Siège #2 est au bouton.
+Place 2: aywiix (340 en jetons) 
+Place 3: psychoman59 (560 en jetons) 
+aywiix : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 6d]
+aywiix : relance. 310 à 340 et est all-in.
+psychoman59 : suit. 310
+*** FLOP *** [Kh 7d 2h]
+*** TOURNANT *** [Kh 7d 2h] [Kc]
+*** RIVIÈRE *** [Kh 7d 2h Kc] [Qs]
+*** ABATTAGE ***
+psychoman59 : montre [Kd 6d] (un brelan de Rois)
+aywiix : montre [Ac 9d] (une paire de Rois)
+psychoman59 a remporté 680  lors du pot .
+aywiix a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 680 | Commission 0 
+Tableau [Kh 7d 2h Kc Qs]
+Siège 2 : aywiix (bouton) (petite blind) a montré [Ac 9d] et a perdu avec une paire de Rois
+Siège 3 : psychoman59 (grosse blind) a montré [Kd 6d] et a gagné (680) avec un brelan de Rois
+
+
+

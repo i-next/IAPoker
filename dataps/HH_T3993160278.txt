@@ -1,0 +1,715 @@
+﻿Main PokerStars n°260505119541 : Tournoi #3993160278, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 18/04/2026 8:03:36 CET [18/04/2026 2:03:36 ET]
+Table '3993160278 1' 3-max Siège #1 est au bouton.
+Place 1: yanniche36 (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: omarco97 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+omarco97 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 7c]
+yanniche36 : passe. 
+psychoman59 : suit. 10
+omarco97 : parole 
+*** FLOP *** [6d Kd Jh]
+psychoman59 : parole 
+omarco97 : parole 
+*** TOURNANT *** [6d Kd Jh] [As]
+psychoman59 : mise. 40
+omarco97 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [6d Kd Jh As]
+Siège 1 : yanniche36 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (40)
+Siège 3 : omarco97 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°260505121778 : Tournoi #3993160278, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 18/04/2026 8:04:08 CET [18/04/2026 2:04:08 ET]
+Table '3993160278 1' 3-max Siège #2 est au bouton.
+Place 1: yanniche36 (500 en jetons) 
+Place 2: psychoman59 (520 en jetons) 
+Place 3: omarco97 (480 en jetons) 
+omarco97 : met la petite blind. 10
+yanniche36 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Ad]
+psychoman59 : suit. 20
+omarco97 : relance. 460 à 480 et est all-in.
+yanniche36 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (460) sont retournés à omarco97.
+omarco97 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : yanniche36 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 3 : omarco97 (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°260505123296 : Tournoi #3993160278, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 18/04/2026 8:04:31 CET [18/04/2026 2:04:31 ET]
+Table '3993160278 1' 3-max Siège #3 est au bouton.
+Place 1: yanniche36 (480 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: omarco97 (520 en jetons) 
+yanniche36 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 8h]
+omarco97 : suit. 20
+yanniche36 : relance. 40 à 60
+psychoman59 : passe. 
+omarco97 : relance. 460 à 520 et est all-in.
+yanniche36 : suit. 420 et est all-in.
+Personne n'a suivi. (40) sont retournés à omarco97.
+*** FLOP *** [6s 9s Qh]
+*** TOURNANT *** [6s 9s Qh] [Jh]
+*** RIVIÈRE *** [6s 9s Qh Jh] [Js]
+*** ABATTAGE ***
+yanniche36 : montre [Ks Kc] (double paire, Rois et Valets)
+omarco97 : montre [Ac 9h] (double paire, Valets et Neuf)
+yanniche36 a remporté 980  lors du pot .
+*** SYNTHÈSE ***
+Pot total 980 | Commission 0 
+Tableau [6s 9s Qh Jh Js]
+Siège 1 : yanniche36 (petite blind) a montré [Ks Kc] et a gagné (980) avec double paire, Rois et Valets
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : omarco97 (bouton) a montré [Ac 9h] et a perdu avec double paire, Valets et Neuf
+
+
+
+Main PokerStars n°260505125264 : Tournoi #3993160278, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 18/04/2026 8:04:59 CET [18/04/2026 2:04:59 ET]
+Table '3993160278 1' 3-max Siège #1 est au bouton.
+Place 1: yanniche36 (980 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+Place 3: omarco97 (40 en jetons) 
+psychoman59 : met la petite blind. 10
+omarco97 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 6d]
+yanniche36 : relance. 40 à 60
+psychoman59 : passe. 
+omarco97 : suit. 20 et est all-in.
+Personne n'a suivi. (20) sont retournés à yanniche36.
+*** FLOP *** [2s Td 8d]
+*** TOURNANT *** [2s Td 8d] [6s]
+*** RIVIÈRE *** [2s Td 8d 6s] [8c]
+*** ABATTAGE ***
+omarco97 : montre [Ac 8s] (un brelan de Huit)
+yanniche36 : montre [2c 2h] (un full, full aux Deux par les Huit)
+yanniche36 a remporté 90  lors du pot .
+omarco97 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [2s Td 8d 6s 8c]
+Siège 1 : yanniche36 (bouton) a montré [2c 2h] et a gagné (90) avec un full, full aux Deux par les Huit
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : omarco97 (grosse blind) a montré [Ac 8s] et a perdu avec un brelan de Huit
+
+
+
+Main PokerStars n°260505126614 : Tournoi #3993160278, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 18/04/2026 8:05:19 CET [18/04/2026 2:05:19 ET]
+Table '3993160278 1' 3-max Siège #2 est au bouton.
+Place 1: yanniche36 (1030 en jetons) 
+Place 2: psychoman59 (470 en jetons) 
+psychoman59 : met la petite blind. 10
+yanniche36 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Qd]
+psychoman59 : suit. 10
+yanniche36 : parole 
+*** FLOP *** [Qh 9h Ah]
+yanniche36 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Qh 9h Ah] [Jc]
+yanniche36 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Qh 9h Ah Jc] [4h]
+yanniche36 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+yanniche36 : montre [Ts 6h] (une couleur, hauteur As)
+psychoman59 : cache la main perdante. 
+yanniche36 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Qh 9h Ah Jc 4h]
+Siège 1 : yanniche36 (grosse blind) a montré [Ts 6h] et a gagné (40) avec une couleur, hauteur As
+Siège 2 : psychoman59 (bouton) (petite blind) a caché la main perdante. [9c Qd]
+
+
+
+Main PokerStars n°260505127611 : Tournoi #3993160278, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 18/04/2026 8:05:34 CET [18/04/2026 2:05:34 ET]
+Table '3993160278 1' 3-max Siège #1 est au bouton.
+Place 1: yanniche36 (1050 en jetons) 
+Place 2: psychoman59 (450 en jetons) 
+yanniche36 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 2d]
+yanniche36 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Qc 2h 4s]
+psychoman59 : parole 
+yanniche36 : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à yanniche36.
+yanniche36 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Qc 2h 4s]
+Siège 1 : yanniche36 (bouton) (petite blind) a remporté (40)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°260505128718 : Tournoi #3993160278, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 18/04/2026 8:05:49 CET [18/04/2026 2:05:49 ET]
+Table '3993160278 1' 3-max Siège #2 est au bouton.
+Place 1: yanniche36 (1070 en jetons) 
+Place 2: psychoman59 (430 en jetons) 
+psychoman59 : met la petite blind. 15
+yanniche36 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 9h]
+psychoman59 : suit. 15
+yanniche36 : relance. 30 à 60
+psychoman59 : suit. 30
+*** FLOP *** [Ah 4s Kc]
+yanniche36 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à yanniche36.
+yanniche36 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Ah 4s Kc]
+Siège 1 : yanniche36 (grosse blind) a remporté (120)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°260505130033 : Tournoi #3993160278, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 18/04/2026 8:06:08 CET [18/04/2026 2:06:08 ET]
+Table '3993160278 1' 3-max Siège #1 est au bouton.
+Place 1: yanniche36 (1130 en jetons) 
+Place 2: psychoman59 (370 en jetons) 
+yanniche36 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 9c]
+yanniche36 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [4h 2s Ad]
+psychoman59 : parole 
+yanniche36 : parole 
+*** TOURNANT *** [4h 2s Ad] [Jh]
+psychoman59 : parole 
+yanniche36 : parole 
+*** RIVIÈRE *** [4h 2s Ad Jh] [7s]
+psychoman59 : parole 
+yanniche36 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à yanniche36.
+yanniche36 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [4h 2s Ad Jh 7s]
+Siège 1 : yanniche36 (bouton) (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°260505131311 : Tournoi #3993160278, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 18/04/2026 8:06:27 CET [18/04/2026 2:06:27 ET]
+Table '3993160278 1' 3-max Siège #2 est au bouton.
+Place 1: yanniche36 (1160 en jetons) 
+Place 2: psychoman59 (340 en jetons) 
+psychoman59 : met la petite blind. 15
+yanniche36 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 6s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à yanniche36.
+yanniche36 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : yanniche36 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260505131632 : Tournoi #3993160278, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 18/04/2026 8:06:32 CET [18/04/2026 2:06:32 ET]
+Table '3993160278 1' 3-max Siège #1 est au bouton.
+Place 1: yanniche36 (1175 en jetons) 
+Place 2: psychoman59 (325 en jetons) 
+yanniche36 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 4h]
+yanniche36 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Ac 9s 3s]
+psychoman59 : parole 
+yanniche36 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à yanniche36.
+yanniche36 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ac 9s 3s]
+Siège 1 : yanniche36 (bouton) (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°260505132405 : Tournoi #3993160278, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 18/04/2026 8:06:43 CET [18/04/2026 2:06:43 ET]
+Table '3993160278 1' 3-max Siège #2 est au bouton.
+Place 1: yanniche36 (1205 en jetons) 
+Place 2: psychoman59 (295 en jetons) 
+psychoman59 : met la petite blind. 15
+yanniche36 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 5d]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à yanniche36.
+yanniche36 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : yanniche36 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260505132726 : Tournoi #3993160278, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 18/04/2026 8:06:48 CET [18/04/2026 2:06:48 ET]
+Table '3993160278 1' 3-max Siège #1 est au bouton.
+Place 1: yanniche36 (1220 en jetons) 
+Place 2: psychoman59 (280 en jetons) 
+yanniche36 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 6s]
+yanniche36 : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à yanniche36.
+yanniche36 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : yanniche36 (bouton) (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260505133106 : Tournoi #3993160278, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 18/04/2026 8:06:54 CET [18/04/2026 2:06:54 ET]
+Table '3993160278 1' 3-max Siège #2 est au bouton.
+Place 1: yanniche36 (1250 en jetons) 
+Place 2: psychoman59 (250 en jetons) 
+psychoman59 : met la petite blind. 15
+yanniche36 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 2h]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à yanniche36.
+yanniche36 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : yanniche36 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260505133457 : Tournoi #3993160278, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 18/04/2026 8:06:58 CET [18/04/2026 2:06:58 ET]
+Table '3993160278 1' 3-max Siège #1 est au bouton.
+Place 1: yanniche36 (1265 en jetons) 
+Place 2: psychoman59 (235 en jetons) 
+yanniche36 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 7s]
+yanniche36 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Qh Jd Ks]
+psychoman59 : parole 
+yanniche36 : parole 
+*** TOURNANT *** [Qh Jd Ks] [9c]
+psychoman59 : parole 
+yanniche36 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à yanniche36.
+yanniche36 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Qh Jd Ks 9c]
+Siège 1 : yanniche36 (bouton) (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°260505134440 : Tournoi #3993160278, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 18/04/2026 8:07:13 CET [18/04/2026 2:07:13 ET]
+Table '3993160278 1' 3-max Siège #2 est au bouton.
+Place 1: yanniche36 (1295 en jetons) 
+Place 2: psychoman59 (205 en jetons) 
+psychoman59 : met la petite blind. 15
+yanniche36 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Td]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à yanniche36.
+yanniche36 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : yanniche36 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260505134733 : Tournoi #3993160278, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 18/04/2026 8:07:18 CET [18/04/2026 2:07:18 ET]
+Table '3993160278 1' 3-max Siège #1 est au bouton.
+Place 1: yanniche36 (1310 en jetons) 
+Place 2: psychoman59 (190 en jetons) 
+yanniche36 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 7d]
+yanniche36 : relance. 60 à 90
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à yanniche36.
+yanniche36 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : yanniche36 (bouton) (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260505135213 : Tournoi #3993160278, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 18/04/2026 8:07:25 CET [18/04/2026 2:07:25 ET]
+Table '3993160278 1' 3-max Siège #2 est au bouton.
+Place 1: yanniche36 (1340 en jetons) 
+Place 2: psychoman59 (160 en jetons) 
+psychoman59 : met la petite blind. 15
+yanniche36 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Tc]
+psychoman59 : relance. 130 à 160 et est all-in.
+yanniche36 : passe. 
+Personne n'a suivi. (130) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : yanniche36 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°260505135609 : Tournoi #3993160278, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 18/04/2026 8:07:31 CET [18/04/2026 2:07:31 ET]
+Table '3993160278 1' 3-max Siège #1 est au bouton.
+Place 1: yanniche36 (1310 en jetons) 
+Place 2: psychoman59 (190 en jetons) 
+yanniche36 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 9d]
+yanniche36 : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à yanniche36.
+yanniche36 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : yanniche36 (bouton) (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260505136056 : Tournoi #3993160278, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 18/04/2026 8:07:37 CET [18/04/2026 2:07:37 ET]
+Table '3993160278 1' 3-max Siège #2 est au bouton.
+Place 1: yanniche36 (1340 en jetons) 
+Place 2: psychoman59 (160 en jetons) 
+psychoman59 : met la petite blind. 15
+yanniche36 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Kc]
+psychoman59 : relance. 130 à 160 et est all-in.
+yanniche36 : passe. 
+Personne n'a suivi. (130) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : yanniche36 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°260505136812 : Tournoi #3993160278, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 18/04/2026 8:07:48 CET [18/04/2026 2:07:48 ET]
+Table '3993160278 1' 3-max Siège #1 est au bouton.
+Place 1: yanniche36 (1310 en jetons) 
+Place 2: psychoman59 (190 en jetons) 
+yanniche36 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 9s]
+yanniche36 : relance. 80 à 120
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à yanniche36.
+yanniche36 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : yanniche36 (bouton) (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260505137376 : Tournoi #3993160278, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 18/04/2026 8:07:56 CET [18/04/2026 2:07:56 ET]
+Table '3993160278 1' 3-max Siège #2 est au bouton.
+Place 1: yanniche36 (1350 en jetons) 
+Place 2: psychoman59 (150 en jetons) 
+psychoman59 : met la petite blind. 20
+yanniche36 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 5s]
+psychoman59 : relance. 110 à 150 et est all-in.
+yanniche36 : passe. 
+Personne n'a suivi. (110) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : yanniche36 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°260505137920 : Tournoi #3993160278, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 18/04/2026 8:08:04 CET [18/04/2026 2:08:04 ET]
+Table '3993160278 1' 3-max Siège #1 est au bouton.
+Place 1: yanniche36 (1310 en jetons) 
+Place 2: psychoman59 (190 en jetons) 
+yanniche36 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Jc]
+yanniche36 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : yanniche36 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°260505138309 : Tournoi #3993160278, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 18/04/2026 8:08:09 CET [18/04/2026 2:08:09 ET]
+Table '3993160278 1' 3-max Siège #2 est au bouton.
+Place 1: yanniche36 (1290 en jetons) 
+Place 2: psychoman59 (210 en jetons) 
+psychoman59 : met la petite blind. 20
+yanniche36 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 8s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à yanniche36.
+yanniche36 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : yanniche36 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260505138648 : Tournoi #3993160278, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 18/04/2026 8:08:14 CET [18/04/2026 2:08:14 ET]
+Table '3993160278 1' 3-max Siège #1 est au bouton.
+Place 1: yanniche36 (1310 en jetons) 
+Place 2: psychoman59 (190 en jetons) 
+yanniche36 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 3c]
+yanniche36 : relance. 40 à 80
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à yanniche36.
+yanniche36 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : yanniche36 (bouton) (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260505139082 : Tournoi #3993160278, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 18/04/2026 8:08:20 CET [18/04/2026 2:08:20 ET]
+Table '3993160278 1' 3-max Siège #2 est au bouton.
+Place 1: yanniche36 (1350 en jetons) 
+Place 2: psychoman59 (150 en jetons) 
+psychoman59 : met la petite blind. 20
+yanniche36 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Qs]
+psychoman59 : relance. 110 à 150 et est all-in.
+yanniche36 : passe. 
+Personne n'a suivi. (110) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : yanniche36 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°260505139539 : Tournoi #3993160278, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 18/04/2026 8:08:27 CET [18/04/2026 2:08:27 ET]
+Table '3993160278 1' 3-max Siège #1 est au bouton.
+Place 1: yanniche36 (1310 en jetons) 
+Place 2: psychoman59 (190 en jetons) 
+yanniche36 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 9c]
+yanniche36 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : yanniche36 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°260505139861 : Tournoi #3993160278, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 18/04/2026 8:08:31 CET [18/04/2026 2:08:31 ET]
+Table '3993160278 1' 3-max Siège #2 est au bouton.
+Place 1: yanniche36 (1290 en jetons) 
+Place 2: psychoman59 (210 en jetons) 
+psychoman59 : met la petite blind. 20
+yanniche36 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 6s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à yanniche36.
+yanniche36 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : yanniche36 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260505140190 : Tournoi #3993160278, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 18/04/2026 8:08:36 CET [18/04/2026 2:08:36 ET]
+Table '3993160278 1' 3-max Siège #1 est au bouton.
+Place 1: yanniche36 (1310 en jetons) 
+Place 2: psychoman59 (190 en jetons) 
+yanniche36 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Td]
+yanniche36 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [3h 2c 8h]
+psychoman59 : parole 
+yanniche36 : parole 
+*** TOURNANT *** [3h 2c 8h] [4s]
+psychoman59 : parole 
+yanniche36 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à yanniche36.
+yanniche36 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [3h 2c 8h 4s]
+Siège 1 : yanniche36 (bouton) (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°260505141293 : Tournoi #3993160278, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 18/04/2026 8:08:52 CET [18/04/2026 2:08:52 ET]
+Table '3993160278 1' 3-max Siège #2 est au bouton.
+Place 1: yanniche36 (1350 en jetons) 
+Place 2: psychoman59 (150 en jetons) 
+psychoman59 : met la petite blind. 20
+yanniche36 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 6d]
+psychoman59 : relance. 110 à 150 et est all-in.
+yanniche36 : passe. 
+Personne n'a suivi. (110) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : yanniche36 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°260505141785 : Tournoi #3993160278, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 18/04/2026 8:08:59 CET [18/04/2026 2:08:59 ET]
+Table '3993160278 1' 3-max Siège #1 est au bouton.
+Place 1: yanniche36 (1310 en jetons) 
+Place 2: psychoman59 (190 en jetons) 
+yanniche36 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Qs]
+yanniche36 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : yanniche36 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°260505142101 : Tournoi #3993160278, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 18/04/2026 8:09:04 CET [18/04/2026 2:09:04 ET]
+Table '3993160278 1' 3-max Siège #2 est au bouton.
+Place 1: yanniche36 (1290 en jetons) 
+Place 2: psychoman59 (210 en jetons) 
+psychoman59 : met la petite blind. 20
+yanniche36 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 8c]
+psychoman59 : relance. 170 à 210 et est all-in.
+yanniche36 : suit. 170
+*** FLOP *** [Kh 9c 6d]
+*** TOURNANT *** [Kh 9c 6d] [3h]
+*** RIVIÈRE *** [Kh 9c 6d 3h] [Td]
+*** ABATTAGE ***
+yanniche36 : montre [8d Qd] (Hauteur Roi)
+psychoman59 : montre [7c 8c] (une suite, Six à Dix)
+psychoman59 a remporté 420  lors du pot .
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [Kh 9c 6d 3h Td]
+Siège 1 : yanniche36 (grosse blind) a montré [8d Qd] et a perdu avec Hauteur Roi
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [7c 8c] et a gagné (420) avec une suite, Six à Dix
+
+
+
+Main PokerStars n°260505143221 : Tournoi #3993160278, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 18/04/2026 8:09:20 CET [18/04/2026 2:09:20 ET]
+Table '3993160278 1' 3-max Siège #1 est au bouton.
+Place 1: yanniche36 (1080 en jetons) 
+Place 2: psychoman59 (420 en jetons) 
+yanniche36 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h As]
+yanniche36 : relance. 80 à 120
+psychoman59 : relance. 300 à 420 et est all-in.
+yanniche36 : suit. 300
+*** FLOP *** [Td 4s Th]
+*** TOURNANT *** [Td 4s Th] [4h]
+*** RIVIÈRE *** [Td 4s Th 4h] [5h]
+*** ABATTAGE ***
+psychoman59 : montre [9h As] (double paire, Dix et Quatre)
+yanniche36 : montre [6s 6h] (double paire, Dix et Six)
+yanniche36 a remporté 840  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+yanniche36 gagne le tournoi - félicitations !
+yanniche36 gagne un ticket " €1 Step 2 MTT Power Path ticket "
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Tableau [Td 4s Th 4h 5h]
+Siège 1 : yanniche36 (bouton) (petite blind) a montré [6s 6h] et a gagné (840) avec double paire, Dix et Six
+Siège 2 : psychoman59 (grosse blind) a montré [9h As] et a perdu avec double paire, Dix et Quatre
+
+
+

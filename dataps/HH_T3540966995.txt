@@ -1,0 +1,83 @@
+﻿Main PokerStars n°241535154928 : Tournoi #3540966995, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 01/02/2023 7:20:53 CET [01/02/2023 1:20:53 ET]
+Table '3540966995 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: pierrepirate (300 en jetons) 
+Place 3: TingTing1130 (300 en jetons) 
+pierrepirate : met la petite blind. 10
+TingTing1130 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 8h]
+psychoman59 : passe. 
+pierrepirate : suit. 10
+TingTing1130 : parole 
+*** FLOP *** [Qd 6c Jh]
+pierrepirate : parole 
+TingTing1130 : mise. 20
+pierrepirate : passe. 
+Personne n'a suivi. (20) sont retournés à TingTing1130.
+TingTing1130 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Qd 6c Jh]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : pierrepirate (petite blind) s'est couché. sur le Flop
+Siège 3 : TingTing1130 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°241535156655 : Tournoi #3540966995, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 01/02/2023 7:21:10 CET [01/02/2023 1:21:10 ET]
+Table '3540966995 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: pierrepirate (280 en jetons) 
+Place 3: TingTing1130 (320 en jetons) 
+TingTing1130 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Ks]
+pierrepirate : relance. 260 à 280 et est all-in.
+TingTing1130 : passe. 
+psychoman59 : suit. 260
+*** FLOP *** [8s 4d 4c]
+*** TOURNANT *** [8s 4d 4c] [8c]
+*** RIVIÈRE *** [8s 4d 4c 8c] [3c]
+*** ABATTAGE ***
+psychoman59 : montre [Jh Ks] (double paire, Huit et Quatre)
+pierrepirate : montre [2d Ah] (double paire, Huit et Quatre - As kicker)
+pierrepirate a remporté 570  lors du pot .
+*** SYNTHÈSE ***
+Pot total 570 | Commission 0 
+Tableau [8s 4d 4c 8c 3c]
+Siège 1 : psychoman59 (grosse blind) a montré [Jh Ks] et a perdu avec double paire, Huit et Quatre
+Siège 2 : pierrepirate (bouton) a montré [2d Ah] et a gagné (570) avec double paire, Huit et Quatre
+Siège 3 : TingTing1130 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241535158417 : Tournoi #3540966995, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 01/02/2023 7:21:28 CET [01/02/2023 1:21:28 ET]
+Table '3540966995 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (20 en jetons) 
+Place 2: pierrepirate (570 en jetons) 
+Place 3: TingTing1130 (310 en jetons) 
+psychoman59 : met la petite blind. 10
+pierrepirate : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 3d]
+TingTing1130 : passe. 
+psychoman59 : suit. 10 et est all-in.
+*** FLOP *** [Qh 4h 7s]
+*** TOURNANT *** [Qh 4h 7s] [Ah]
+*** RIVIÈRE *** [Qh 4h 7s Ah] [5d]
+*** ABATTAGE ***
+psychoman59 : montre [8s 3d] (Hauteur As)
+pierrepirate : montre [Td Qc] (une paire de Dames)
+pierrepirate a remporté 40  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Qh 4h 7s Ah 5d]
+Siège 1 : psychoman59 (petite blind) a montré [8s 3d] et a perdu avec Hauteur As
+Siège 2 : pierrepirate (grosse blind) a montré [Td Qc] et a gagné (40) avec une paire de Dames
+Siège 3 : TingTing1130 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+

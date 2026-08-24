@@ -1,0 +1,565 @@
+﻿Main PokerStars n°260618620281 : Tournoi #3995856174, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/04/2026 10:45:03 CET [28/04/2026 4:45:03 ET]
+Table '3995856174 1' 3-max Siège #1 est au bouton.
+Place 1: Cloverdash (500 en jetons) 
+Place 2: jcrfish4 (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+jcrfish4 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 9h]
+Cloverdash : relance. 20 à 40
+jcrfish4 : relance. 20 à 60
+psychoman59 : passe. 
+Cloverdash : suit. 20
+*** FLOP *** [3d Qd Qc]
+jcrfish4 : mise. 20
+Cloverdash : suit. 20
+*** TOURNANT *** [3d Qd Qc] [Ah]
+jcrfish4 : mise. 20
+Cloverdash : suit. 20
+*** RIVIÈRE *** [3d Qd Qc Ah] [6d]
+jcrfish4 : mise. 220
+Cloverdash : suit. 220
+*** ABATTAGE ***
+jcrfish4 : montre [9d As] (double paire, As et Dames)
+Cloverdash : cache la main perdante. 
+jcrfish4 a remporté 660  lors du pot .
+*** SYNTHÈSE ***
+Pot total 660 | Commission 0 
+Tableau [3d Qd Qc Ah 6d]
+Siège 1 : Cloverdash (bouton) a caché la main perdante. [3s Ac]
+Siège 2 : jcrfish4 (petite blind) a montré [9d As] et a gagné (660) avec double paire, As et Dames
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260618624314 : Tournoi #3995856174, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/04/2026 10:45:57 CET [28/04/2026 4:45:57 ET]
+Table '3995856174 1' 3-max Siège #2 est au bouton.
+Place 1: Cloverdash (180 en jetons) 
+Place 2: jcrfish4 (840 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 10
+Cloverdash : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 2d]
+jcrfish4 : relance. 20 à 40
+psychoman59 : suit. 30
+Cloverdash : relance. 140 à 180 et est all-in.
+jcrfish4 : suit. 140
+psychoman59 : suit. 140
+*** FLOP *** [Js 3h 5s]
+psychoman59 : parole 
+jcrfish4 : mise. 540
+psychoman59 : passe. 
+Personne n'a suivi. (540) sont retournés à jcrfish4.
+*** TOURNANT *** [Js 3h 5s] [8h]
+*** RIVIÈRE *** [Js 3h 5s 8h] [Kd]
+*** ABATTAGE ***
+Cloverdash : montre [Ac 6d] (Hauteur As)
+jcrfish4 : montre [9s 9c] (une paire de Neuf)
+jcrfish4 a remporté 540  lors du pot .
+Cloverdash a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [Js 3h 5s 8h Kd]
+Siège 1 : Cloverdash (grosse blind) a montré [Ac 6d] et a perdu avec Hauteur As
+Siège 2 : jcrfish4 (bouton) a montré [9s 9c] et a gagné (540) avec une paire de Neuf
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°260618627798 : Tournoi #3995856174, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/04/2026 10:46:44 CET [28/04/2026 4:46:44 ET]
+Table '3995856174 1' 3-max Siège #3 est au bouton.
+Place 2: jcrfish4 (1200 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+jcrfish4 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 3c]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à jcrfish4.
+jcrfish4 a remporté 20  lors du pot .
+jcrfish4 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 2 : jcrfish4 (grosse blind) a remporté (20)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260618628092 : Tournoi #3995856174, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/04/2026 10:46:48 CET [28/04/2026 4:46:48 ET]
+Table '3995856174 1' 3-max Siège #2 est au bouton.
+Place 2: jcrfish4 (1210 en jetons) 
+Place 3: psychoman59 (290 en jetons) 
+jcrfish4 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 9c]
+jcrfish4 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [5s Ac 7d]
+psychoman59 : parole 
+jcrfish4 : parole 
+*** TOURNANT *** [5s Ac 7d] [6d]
+psychoman59 : parole 
+jcrfish4 : parole 
+*** RIVIÈRE *** [5s Ac 7d 6d] [2d]
+psychoman59 : parole 
+jcrfish4 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à jcrfish4.
+jcrfish4 a remporté 40  lors du pot .
+jcrfish4 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [5s Ac 7d 6d 2d]
+Siège 2 : jcrfish4 (bouton) (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°260618630937 : Tournoi #3995856174, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/04/2026 10:47:25 CET [28/04/2026 4:47:25 ET]
+Table '3995856174 1' 3-max Siège #3 est au bouton.
+Place 2: jcrfish4 (1230 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+psychoman59 : met la petite blind. 10
+jcrfish4 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Qc]
+psychoman59 : suit. 10
+jcrfish4 : parole 
+*** FLOP *** [Jc 8d 6d]
+jcrfish4 : parole 
+psychoman59 : mise. 40
+jcrfish4 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Jc 8d 6d]
+Siège 2 : jcrfish4 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°260618632539 : Tournoi #3995856174, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/04/2026 10:47:46 CET [28/04/2026 4:47:46 ET]
+Table '3995856174 1' 3-max Siège #2 est au bouton.
+Place 2: jcrfish4 (1210 en jetons) 
+Place 3: psychoman59 (290 en jetons) 
+jcrfish4 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Qd]
+jcrfish4 : relance. 20 à 40
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à jcrfish4.
+jcrfish4 a remporté 40  lors du pot .
+jcrfish4 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : jcrfish4 (bouton) (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260618633301 : Tournoi #3995856174, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/04/2026 10:47:56 CET [28/04/2026 4:47:56 ET]
+Table '3995856174 1' 3-max Siège #3 est au bouton.
+Place 2: jcrfish4 (1230 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+psychoman59 : met la petite blind. 10
+jcrfish4 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 4c]
+psychoman59 : relance. 250 à 270 et est all-in.
+jcrfish4 : suit. 250
+*** FLOP *** [4d Qh 5c]
+*** TOURNANT *** [4d Qh 5c] [5d]
+*** RIVIÈRE *** [4d Qh 5c 5d] [8d]
+*** ABATTAGE ***
+jcrfish4 : montre [Ah Jh] (une paire de Cinq)
+psychoman59 : montre [4h 4c] (un full, full aux Quatre par les Cinq)
+psychoman59 a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [4d Qh 5c 5d 8d]
+Siège 2 : jcrfish4 (grosse blind) a montré [Ah Jh] et a perdu avec une paire de Cinq
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [4h 4c] et a gagné (540) avec un full, full aux Quatre par les Cinq
+
+
+
+Main PokerStars n°260618634526 : Tournoi #3995856174, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 28/04/2026 10:48:13 CET [28/04/2026 4:48:13 ET]
+Table '3995856174 1' 3-max Siège #2 est au bouton.
+Place 2: jcrfish4 (960 en jetons) 
+Place 3: psychoman59 (540 en jetons) 
+jcrfish4 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 8d]
+jcrfish4 : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à jcrfish4.
+jcrfish4 a remporté 60  lors du pot .
+jcrfish4 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : jcrfish4 (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260618635246 : Tournoi #3995856174, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 28/04/2026 10:48:22 CET [28/04/2026 4:48:22 ET]
+Table '3995856174 1' 3-max Siège #3 est au bouton.
+Place 2: jcrfish4 (990 en jetons) 
+Place 3: psychoman59 (510 en jetons) 
+psychoman59 : met la petite blind. 15
+jcrfish4 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Ac]
+psychoman59 : suit. 15
+jcrfish4 : parole 
+*** FLOP *** [5s 8c Qh]
+jcrfish4 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5s 8c Qh] [Jd]
+jcrfish4 : parole 
+psychoman59 : mise. 60
+jcrfish4 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [5s 8c Qh Jd]
+Siège 2 : jcrfish4 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°260618636866 : Tournoi #3995856174, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 28/04/2026 10:48:44 CET [28/04/2026 4:48:44 ET]
+Table '3995856174 1' 3-max Siège #2 est au bouton.
+Place 2: jcrfish4 (960 en jetons) 
+Place 3: psychoman59 (540 en jetons) 
+jcrfish4 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Td]
+jcrfish4 : relance. 90 à 120
+psychoman59 : passe. 
+Personne n'a suivi. (90) sont retournés à jcrfish4.
+jcrfish4 a remporté 60  lors du pot .
+jcrfish4 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : jcrfish4 (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260618637697 : Tournoi #3995856174, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 28/04/2026 10:48:55 CET [28/04/2026 4:48:55 ET]
+Table '3995856174 1' 3-max Siège #3 est au bouton.
+Place 2: jcrfish4 (990 en jetons) 
+Place 3: psychoman59 (510 en jetons) 
+psychoman59 : met la petite blind. 15
+jcrfish4 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 4c]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à jcrfish4.
+jcrfish4 a remporté 30  lors du pot .
+jcrfish4 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : jcrfish4 (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260618638063 : Tournoi #3995856174, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 28/04/2026 10:49:00 CET [28/04/2026 4:49:00 ET]
+Table '3995856174 1' 3-max Siège #2 est au bouton.
+Place 2: jcrfish4 (1005 en jetons) 
+Place 3: psychoman59 (495 en jetons) 
+jcrfish4 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 3d]
+jcrfish4 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [2s Ah 9c]
+psychoman59 : parole 
+jcrfish4 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à jcrfish4.
+jcrfish4 a remporté 60  lors du pot .
+jcrfish4 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [2s Ah 9c]
+Siège 2 : jcrfish4 (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°260618640408 : Tournoi #3995856174, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 28/04/2026 10:49:31 CET [28/04/2026 4:49:31 ET]
+Table '3995856174 1' 3-max Siège #3 est au bouton.
+Place 2: jcrfish4 (1035 en jetons) 
+Place 3: psychoman59 (465 en jetons) 
+psychoman59 : met la petite blind. 15
+jcrfish4 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 4h]
+psychoman59 : suit. 15
+jcrfish4 : relance. 150 à 180
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à jcrfish4.
+jcrfish4 a remporté 60  lors du pot .
+jcrfish4 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : jcrfish4 (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260618641371 : Tournoi #3995856174, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 28/04/2026 10:49:45 CET [28/04/2026 4:49:45 ET]
+Table '3995856174 1' 3-max Siège #2 est au bouton.
+Place 2: jcrfish4 (1065 en jetons) 
+Place 3: psychoman59 (435 en jetons) 
+jcrfish4 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Jc]
+jcrfish4 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Qs 8s 5s]
+psychoman59 : parole 
+jcrfish4 : mise. 30
+psychoman59 : suit. 30
+*** TOURNANT *** [Qs 8s 5s] [Jh]
+psychoman59 : parole 
+jcrfish4 : parole 
+*** RIVIÈRE *** [Qs 8s 5s Jh] [9d]
+psychoman59 : mise. 60
+jcrfish4 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Qs 8s 5s Jh 9d]
+Siège 2 : jcrfish4 (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°260618643622 : Tournoi #3995856174, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 28/04/2026 10:50:17 CET [28/04/2026 4:50:17 ET]
+Table '3995856174 1' 3-max Siège #3 est au bouton.
+Place 2: jcrfish4 (1005 en jetons) 
+Place 3: psychoman59 (495 en jetons) 
+psychoman59 : met la petite blind. 15
+jcrfish4 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Qd]
+psychoman59 : suit. 15
+jcrfish4 : parole 
+*** FLOP *** [Ts 9c Qs]
+jcrfish4 : parole 
+psychoman59 : mise. 60
+jcrfish4 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ts 9c Qs]
+Siège 2 : jcrfish4 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°260618645019 : Tournoi #3995856174, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 28/04/2026 10:50:36 CET [28/04/2026 4:50:36 ET]
+Table '3995856174 1' 3-max Siège #2 est au bouton.
+Place 2: jcrfish4 (975 en jetons) 
+Place 3: psychoman59 (525 en jetons) 
+jcrfish4 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Qh]
+jcrfish4 : relance. 30 à 60
+psychoman59 : suit. 30
+*** FLOP *** [7s Tc 9s]
+psychoman59 : mise. 465 et est all-in.
+jcrfish4 : passe. 
+Personne n'a suivi. (465) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [7s Tc 9s]
+Siège 2 : jcrfish4 (bouton) (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°260618647028 : Tournoi #3995856174, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 28/04/2026 10:51:03 CET [28/04/2026 4:51:03 ET]
+Table '3995856174 1' 3-max Siège #3 est au bouton.
+Place 2: jcrfish4 (915 en jetons) 
+Place 3: psychoman59 (585 en jetons) 
+psychoman59 : met la petite blind. 15
+jcrfish4 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Ah]
+psychoman59 : suit. 15
+jcrfish4 : parole 
+*** FLOP *** [As 5d 5s]
+jcrfish4 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [As 5d 5s] [Jh]
+jcrfish4 : parole 
+psychoman59 : mise. 60
+jcrfish4 : suit. 60
+*** RIVIÈRE *** [As 5d 5s Jh] [2d]
+jcrfish4 : mise. 180
+psychoman59 : suit. 180
+*** ABATTAGE ***
+jcrfish4 : montre [4c 3c] (une suite, As à Cinq)
+psychoman59 : cache la main perdante. 
+jcrfish4 a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [As 5d 5s Jh 2d]
+Siège 2 : jcrfish4 (grosse blind) a montré [4c 3c] et a gagné (540) avec une suite, As à Cinq
+Siège 3 : psychoman59 (bouton) (petite blind) a caché la main perdante. [Js Ah]
+
+
+
+Main PokerStars n°260618649590 : Tournoi #3995856174, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 28/04/2026 10:51:38 CET [28/04/2026 4:51:38 ET]
+Table '3995856174 1' 3-max Siège #2 est au bouton.
+Place 2: jcrfish4 (1185 en jetons) 
+Place 3: psychoman59 (315 en jetons) 
+jcrfish4 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Kd]
+jcrfish4 : relance. 40 à 80
+psychoman59 : relance. 235 à 315 et est all-in.
+jcrfish4 : suit. 235
+*** FLOP *** [Ad 4s 9s]
+*** TOURNANT *** [Ad 4s 9s] [8c]
+*** RIVIÈRE *** [Ad 4s 9s 8c] [3d]
+*** ABATTAGE ***
+psychoman59 : montre [Qh Kd] (Hauteur As)
+jcrfish4 : montre [6c 7s] (Hauteur As - plus basse kicker)
+psychoman59 a remporté 630  lors du pot .
+*** SYNTHÈSE ***
+Pot total 630 | Commission 0 
+Tableau [Ad 4s 9s 8c 3d]
+Siège 2 : jcrfish4 (bouton) (petite blind) a montré [6c 7s] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (grosse blind) a montré [Qh Kd] et a gagné (630) avec Hauteur As
+
+
+
+Main PokerStars n°260618650903 : Tournoi #3995856174, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 28/04/2026 10:51:56 CET [28/04/2026 4:51:56 ET]
+Table '3995856174 1' 3-max Siège #3 est au bouton.
+Place 2: jcrfish4 (870 en jetons) 
+Place 3: psychoman59 (630 en jetons) 
+psychoman59 : met la petite blind. 20
+jcrfish4 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Qc]
+psychoman59 : suit. 20
+jcrfish4 : relance. 40 à 80
+psychoman59 : suit. 40
+*** FLOP *** [2c 7c Ts]
+jcrfish4 : parole 
+psychoman59 : mise. 160
+jcrfish4 : suit. 160
+*** TOURNANT *** [2c 7c Ts] [Qh]
+jcrfish4 : parole 
+psychoman59 : mise. 390 et est all-in.
+jcrfish4 : passe. 
+Personne n'a suivi. (390) sont retournés à psychoman59.
+psychoman59 a remporté 480  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [2c 7c Ts Qh]
+Siège 2 : jcrfish4 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (480)
+
+
+
+Main PokerStars n°260618653248 : Tournoi #3995856174, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 28/04/2026 10:52:27 CET [28/04/2026 4:52:27 ET]
+Table '3995856174 1' 3-max Siège #2 est au bouton.
+Place 2: jcrfish4 (630 en jetons) 
+Place 3: psychoman59 (870 en jetons) 
+jcrfish4 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 9s]
+jcrfish4 : relance. 40 à 80
+psychoman59 : suit. 40
+*** FLOP *** [7h 4c Ah]
+psychoman59 : parole 
+jcrfish4 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à jcrfish4.
+jcrfish4 a remporté 160  lors du pot .
+jcrfish4 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [7h 4c Ah]
+Siège 2 : jcrfish4 (bouton) (petite blind) a remporté (160)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°260618654761 : Tournoi #3995856174, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 28/04/2026 10:52:47 CET [28/04/2026 4:52:47 ET]
+Table '3995856174 1' 3-max Siège #3 est au bouton.
+Place 2: jcrfish4 (710 en jetons) 
+Place 3: psychoman59 (790 en jetons) 
+psychoman59 : met la petite blind. 20
+jcrfish4 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 2d]
+psychoman59 : relance. 750 à 790 et est all-in.
+jcrfish4 : passe. 
+Personne n'a suivi. (750) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : jcrfish4 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°260618655466 : Tournoi #3995856174, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 28/04/2026 10:52:56 CET [28/04/2026 4:52:56 ET]
+Table '3995856174 1' 3-max Siège #2 est au bouton.
+Place 2: jcrfish4 (670 en jetons) 
+Place 3: psychoman59 (830 en jetons) 
+jcrfish4 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Kd]
+jcrfish4 : relance. 120 à 160
+psychoman59 : relance. 670 à 830 et est all-in.
+jcrfish4 : suit. 510 et est all-in.
+Personne n'a suivi. (160) sont retournés à psychoman59.
+*** FLOP *** [9d 2s 4s]
+*** TOURNANT *** [9d 2s 4s] [6s]
+*** RIVIÈRE *** [9d 2s 4s 6s] [9h]
+*** ABATTAGE ***
+psychoman59 : montre [Kc Kd] (double paire, Rois et Neuf)
+jcrfish4 : montre [Ac 5d] (une paire de Neuf)
+psychoman59 a remporté 1340  lors du pot .
+jcrfish4 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 4.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 1340 | Commission 0 
+Tableau [9d 2s 4s 6s 9h]
+Siège 2 : jcrfish4 (bouton) (petite blind) a montré [Ac 5d] et a perdu avec une paire de Neuf
+Siège 3 : psychoman59 (grosse blind) a montré [Kc Kd] et a gagné (1340) avec double paire, Rois et Neuf
+
+
+

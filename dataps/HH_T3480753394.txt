@@ -1,0 +1,406 @@
+﻿Main PokerStars n°239017165662 : Tournoi #3480753394, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 03/10/2022 22:52:09 CET [03/10/2022 16:52:09 ET]
+Table '3480753394 1' 3-max Siège #1 est au bouton.
+Place 1: KERIOLET (300 en jetons) 
+Place 2: Tune FCB (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+Tune FCB : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 5s]
+KERIOLET : suit. 20
+Tune FCB : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Js Th Kc]
+Tune FCB : parole 
+psychoman59 : parole 
+KERIOLET : parole 
+*** TOURNANT *** [Js Th Kc] [Tc]
+Tune FCB : parole 
+psychoman59 : parole 
+KERIOLET : parole 
+*** RIVIÈRE *** [Js Th Kc Tc] [8c]
+Tune FCB : parole 
+psychoman59 : parole 
+KERIOLET : parole 
+*** ABATTAGE ***
+Tune FCB : montre [Qd 6c] (une paire de Dix)
+psychoman59 : cache la main perdante. 
+KERIOLET : cache la main perdante. 
+Tune FCB a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Js Th Kc Tc 8c]
+Siège 1 : KERIOLET (bouton) a caché la main perdante. [5d 7h]
+Siège 2 : Tune FCB (petite blind) a montré [Qd 6c] et a gagné (60) avec une paire de Dix
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [3s 5s]
+
+
+
+Main PokerStars n°239017178449 : Tournoi #3480753394, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 03/10/2022 22:52:45 CET [03/10/2022 16:52:45 ET]
+Table '3480753394 1' 3-max Siège #2 est au bouton.
+Place 1: KERIOLET (280 en jetons) 
+Place 2: Tune FCB (340 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+KERIOLET : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 4s]
+Tune FCB : suit. 20
+psychoman59 : passe. 
+KERIOLET : parole 
+*** FLOP *** [Ts 4h 4d]
+KERIOLET : mise. 50
+Tune FCB : passe. 
+Personne n'a suivi. (50) sont retournés à KERIOLET.
+KERIOLET a remporté 50  lors du pot .
+KERIOLET : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [Ts 4h 4d]
+Siège 1 : KERIOLET (grosse blind) a remporté (50)
+Siège 2 : Tune FCB (bouton) s'est couché. sur le Flop
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239017183043 : Tournoi #3480753394, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 03/10/2022 22:52:58 CET [03/10/2022 16:52:58 ET]
+Table '3480753394 1' 3-max Siège #3 est au bouton.
+Place 1: KERIOLET (310 en jetons) 
+Place 2: Tune FCB (320 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+KERIOLET : met la petite blind. 10
+Tune FCB : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 9h]
+psychoman59 : suit. 20
+KERIOLET : relance. 60 à 80
+Tune FCB : suit. 60
+psychoman59 : passe. 
+*** FLOP *** [3d 6c Qh]
+KERIOLET : parole 
+Tune FCB : parole 
+*** TOURNANT *** [3d 6c Qh] [Jd]
+KERIOLET : parole 
+Tune FCB : parole 
+*** RIVIÈRE *** [3d 6c Qh Jd] [6h]
+KERIOLET : parole 
+Tune FCB : mise. 20
+KERIOLET : passe. 
+Personne n'a suivi. (20) sont retournés à Tune FCB.
+Tune FCB a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [3d 6c Qh Jd 6h]
+Siège 1 : KERIOLET (petite blind) s'est couché. sur le Rivière
+Siège 2 : Tune FCB (grosse blind) a remporté (180)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239017194350 : Tournoi #3480753394, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 03/10/2022 22:53:30 CET [03/10/2022 16:53:30 ET]
+Table '3480753394 1' 3-max Siège #1 est au bouton.
+Place 1: KERIOLET (230 en jetons) 
+Place 2: Tune FCB (420 en jetons) 
+Place 3: psychoman59 (250 en jetons) 
+Tune FCB : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Ad]
+KERIOLET : passe. 
+Tune FCB : suit. 15
+psychoman59 : relance. 220 à 250 et est all-in.
+Tune FCB : suit. 220
+*** FLOP *** [4d 5c 7s]
+*** TOURNANT *** [4d 5c 7s] [As]
+*** RIVIÈRE *** [4d 5c 7s As] [3h]
+*** ABATTAGE ***
+Tune FCB : montre [6c Qc] (une suite, Trois à Sept)
+psychoman59 : montre [6s Ad] (une suite, Trois à Sept)
+Tune FCB a remporté 250  lors du pot .
+psychoman59 a remporté 250  lors du pot .
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Tableau [4d 5c 7s As 3h]
+Siège 1 : KERIOLET (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Tune FCB (petite blind) a montré [6c Qc] et a gagné (250) avec une suite, Trois à Sept
+Siège 3 : psychoman59 (grosse blind) a montré [6s Ad] et a gagné (250) avec une suite, Trois à Sept
+
+
+
+Main PokerStars n°239017201665 : Tournoi #3480753394, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 03/10/2022 22:53:51 CET [03/10/2022 16:53:51 ET]
+Table '3480753394 1' 3-max Siège #2 est au bouton.
+Place 1: KERIOLET (230 en jetons) 
+Place 2: Tune FCB (420 en jetons) 
+Place 3: psychoman59 (250 en jetons) 
+psychoman59 : met la petite blind. 15
+KERIOLET : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 2d]
+Tune FCB : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à KERIOLET.
+KERIOLET a remporté 30  lors du pot .
+KERIOLET : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : KERIOLET (grosse blind) a remporté (30)
+Siège 2 : Tune FCB (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239017203791 : Tournoi #3480753394, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 03/10/2022 22:53:57 CET [03/10/2022 16:53:57 ET]
+Table '3480753394 1' 3-max Siège #3 est au bouton.
+Place 1: KERIOLET (245 en jetons) 
+Place 2: Tune FCB (420 en jetons) 
+Place 3: psychoman59 (235 en jetons) 
+KERIOLET : met la petite blind. 15
+Tune FCB : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 4d]
+psychoman59 : passe. 
+KERIOLET : suit. 15
+Tune FCB : parole 
+*** FLOP *** [Jh Kd 6c]
+KERIOLET : parole 
+Tune FCB : parole 
+*** TOURNANT *** [Jh Kd 6c] [3h]
+KERIOLET : parole 
+Tune FCB : parole 
+*** RIVIÈRE *** [Jh Kd 6c 3h] [8h]
+KERIOLET : mise. 30
+Tune FCB : passe. 
+Personne n'a suivi. (30) sont retournés à KERIOLET.
+KERIOLET a remporté 60  lors du pot .
+KERIOLET : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Jh Kd 6c 3h 8h]
+Siège 1 : KERIOLET (petite blind) a remporté (60)
+Siège 2 : Tune FCB (grosse blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°239017212485 : Tournoi #3480753394, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 03/10/2022 22:54:22 CET [03/10/2022 16:54:22 ET]
+Table '3480753394 1' 3-max Siège #1 est au bouton.
+Place 1: KERIOLET (275 en jetons) 
+Place 2: Tune FCB (390 en jetons) 
+Place 3: psychoman59 (235 en jetons) 
+Tune FCB : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Jd]
+KERIOLET : suit. 40
+Tune FCB : suit. 20
+psychoman59 : relance. 195 à 235 et est all-in.
+KERIOLET : passe. 
+Tune FCB : passe. 
+Personne n'a suivi. (195) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : KERIOLET (bouton) s'est couché. avant Flop
+Siège 2 : Tune FCB (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°239017217219 : Tournoi #3480753394, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 03/10/2022 22:54:36 CET [03/10/2022 16:54:36 ET]
+Table '3480753394 1' 3-max Siège #2 est au bouton.
+Place 1: KERIOLET (235 en jetons) 
+Place 2: Tune FCB (350 en jetons) 
+Place 3: psychoman59 (315 en jetons) 
+psychoman59 : met la petite blind. 20
+KERIOLET : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 8d]
+Tune FCB : suit. 40
+psychoman59 : passe. 
+KERIOLET : relance. 100 à 140
+Tune FCB : suit. 100
+*** FLOP *** [8h 5c 2d]
+KERIOLET : mise. 95 et est all-in.
+Tune FCB : suit. 95
+*** TOURNANT *** [8h 5c 2d] [Jc]
+*** RIVIÈRE *** [8h 5c 2d Jc] [Th]
+*** ABATTAGE ***
+KERIOLET : montre [Ts Ks] (une paire de Dix)
+Tune FCB : montre [9d Kh] (Hauteur Roi)
+KERIOLET a remporté 490  lors du pot .
+*** SYNTHÈSE ***
+Pot total 490 | Commission 0 
+Tableau [8h 5c 2d Jc Th]
+Siège 1 : KERIOLET (grosse blind) a montré [Ts Ks] et a gagné (490) avec une paire de Dix
+Siège 2 : Tune FCB (bouton) a montré [9d Kh] et a perdu avec Hauteur Roi
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239017224149 : Tournoi #3480753394, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 03/10/2022 22:54:56 CET [03/10/2022 16:54:56 ET]
+Table '3480753394 1' 3-max Siège #3 est au bouton.
+Place 1: KERIOLET (490 en jetons) 
+Place 2: Tune FCB (115 en jetons) 
+Place 3: psychoman59 (295 en jetons) 
+KERIOLET : met la petite blind. 20
+Tune FCB : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 7d]
+psychoman59 : passe. 
+KERIOLET : passe. 
+Personne n'a suivi. (20) sont retournés à Tune FCB.
+Tune FCB a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : KERIOLET (petite blind) s'est couché. avant Flop
+Siège 2 : Tune FCB (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°239017227050 : Tournoi #3480753394, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 03/10/2022 22:55:04 CET [03/10/2022 16:55:04 ET]
+Table '3480753394 1' 3-max Siège #1 est au bouton.
+Place 1: KERIOLET (470 en jetons) 
+Place 2: Tune FCB (135 en jetons) 
+Place 3: psychoman59 (295 en jetons) 
+Tune FCB : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 5s]
+KERIOLET : suit. 40
+Tune FCB : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Kh 3d 8c]
+Tune FCB : parole 
+psychoman59 : parole 
+KERIOLET : mise. 120
+Tune FCB : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à KERIOLET.
+KERIOLET a remporté 120  lors du pot .
+KERIOLET : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Kh 3d 8c]
+Siège 1 : KERIOLET (bouton) a remporté (120)
+Siège 2 : Tune FCB (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°239017234522 : Tournoi #3480753394, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 03/10/2022 22:55:30 CET [03/10/2022 16:55:30 ET]
+Table '3480753394 1' 3-max Siège #2 est au bouton.
+Place 1: KERIOLET (550 en jetons) 
+Place 2: Tune FCB (95 en jetons) 
+Place 3: psychoman59 (255 en jetons) 
+psychoman59 : met la petite blind. 30
+KERIOLET : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Td]
+Tune FCB : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à KERIOLET.
+KERIOLET a remporté 60  lors du pot .
+KERIOLET : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : KERIOLET (grosse blind) a remporté (60)
+Siège 2 : Tune FCB (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239017235901 : Tournoi #3480753394, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 03/10/2022 22:55:36 CET [03/10/2022 16:55:36 ET]
+Table '3480753394 1' 3-max Siège #3 est au bouton.
+Place 1: KERIOLET (580 en jetons) 
+Place 2: Tune FCB (95 en jetons) 
+Place 3: psychoman59 (225 en jetons) 
+KERIOLET : met la petite blind. 30
+Tune FCB : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 7c]
+psychoman59 : passe. 
+KERIOLET : suit. 30
+Tune FCB : parole 
+*** FLOP *** [Td 3s 3c]
+KERIOLET : parole 
+Tune FCB : parole 
+*** TOURNANT *** [Td 3s 3c] [5d]
+KERIOLET : mise. 60
+Tune FCB : suit. 35 et est all-in.
+Personne n'a suivi. (25) sont retournés à KERIOLET.
+*** RIVIÈRE *** [Td 3s 3c 5d] [Ts]
+*** ABATTAGE ***
+KERIOLET : montre [7d 4c] (double paire, Dix et Trois)
+Tune FCB : montre [3d 2h] (un full, full aux Trois par les Dix)
+Tune FCB a remporté 190  lors du pot .
+*** SYNTHÈSE ***
+Pot total 190 | Commission 0 
+Tableau [Td 3s 3c 5d Ts]
+Siège 1 : KERIOLET (petite blind) a montré [7d 4c] et a perdu avec double paire, Dix et Trois
+Siège 2 : Tune FCB (grosse blind) a montré [3d 2h] et a gagné (190) avec un full, full aux Trois par les Dix
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°239017241544 : Tournoi #3480753394, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau IV (30/60) - 03/10/2022 22:55:57 CET [03/10/2022 16:55:57 ET]
+Table '3480753394 1' 3-max Siège #1 est au bouton.
+Place 1: KERIOLET (485 en jetons) 
+Place 2: Tune FCB (190 en jetons) 
+Place 3: psychoman59 (225 en jetons) 
+Tune FCB : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Ah]
+KERIOLET : passe. 
+Tune FCB : suit. 30
+psychoman59 : relance. 165 à 225 et est all-in.
+Tune FCB : suit. 130 et est all-in.
+Personne n'a suivi. (35) sont retournés à psychoman59.
+*** FLOP *** [2d 5h 6h]
+*** TOURNANT *** [2d 5h 6h] [2h]
+*** RIVIÈRE *** [2d 5h 6h 2h] [4d]
+*** ABATTAGE ***
+Tune FCB : montre [9d Qd] (une paire de Deux)
+psychoman59 : montre [3h Ah] (une couleur, hauteur As)
+psychoman59 a remporté 380  lors du pot .
+Tune FCB a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 380 | Commission 0 
+Tableau [2d 5h 6h 2h 4d]
+Siège 1 : KERIOLET (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Tune FCB (petite blind) a montré [9d Qd] et a perdu avec une paire de Deux
+Siège 3 : psychoman59 (grosse blind) a montré [3h Ah] et a gagné (380) avec une couleur, hauteur As
+
+
+
+Main PokerStars n°239017247138 : Tournoi #3480753394, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau V (40/80) - 03/10/2022 22:56:17 CET [03/10/2022 16:56:17 ET]
+Table '3480753394 1' 3-max Siège #3 est au bouton.
+Place 1: KERIOLET (485 en jetons) 
+Place 3: psychoman59 (415 en jetons) 
+psychoman59 : met la petite blind. 40
+KERIOLET : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 9s]
+psychoman59 : relance. 80 à 160
+KERIOLET : relance. 325 à 485 et est all-in.
+psychoman59 : suit. 255 et est all-in.
+Personne n'a suivi. (70) sont retournés à KERIOLET.
+*** FLOP *** [Kc Qh 3h]
+*** TOURNANT *** [Kc Qh 3h] [8c]
+*** RIVIÈRE *** [Kc Qh 3h 8c] [Jd]
+*** ABATTAGE ***
+KERIOLET : montre [Js Jh] (un brelan de Valets)
+psychoman59 : montre [Qs 9s] (une paire de Dames)
+KERIOLET a remporté 830  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+KERIOLET remporte le tournoi et reçoit 0.50 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 830 | Commission 0 
+Tableau [Kc Qh 3h 8c Jd]
+Siège 1 : KERIOLET (grosse blind) a montré [Js Jh] et a gagné (830) avec un brelan de Valets
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Qs 9s] et a perdu avec une paire de Dames
+
+
+

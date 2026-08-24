@@ -1,0 +1,308 @@
+﻿Main PokerStars n°260541106525 : Tournoi #3993990873, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/04/2026 10:49:30 CET [21/04/2026 4:49:30 ET]
+Table '3993990873 1' 3-max Siège #1 est au bouton.
+Place 1: Joao gil san (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: pulpi67 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+pulpi67 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 7s]
+Joao gil san : suit. 20
+psychoman59 : suit. 10
+pulpi67 : parole 
+*** FLOP *** [Kd 3s Js]
+psychoman59 : parole 
+pulpi67 : parole 
+Joao gil san : parole 
+*** TOURNANT *** [Kd 3s Js] [Th]
+psychoman59 : parole 
+pulpi67 : parole 
+Joao gil san : parole 
+*** RIVIÈRE *** [Kd 3s Js Th] [Qc]
+psychoman59 : mise. 30
+pulpi67 : suit. 30
+Joao gil san : passe. 
+*** ABATTAGE ***
+psychoman59 : montre [As 7s] (une suite, Dix à As)
+pulpi67 : cache la main perdante. 
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Kd 3s Js Th Qc]
+Siège 1 : Joao gil san (bouton) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (petite blind) a montré [As 7s] et a gagné (120) avec une suite, Dix à As
+Siège 3 : pulpi67 (grosse blind) a caché la main perdante. [3h 9s]
+
+
+
+Main PokerStars n°260541108563 : Tournoi #3993990873, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/04/2026 10:49:59 CET [21/04/2026 4:49:59 ET]
+Table '3993990873 1' 3-max Siège #2 est au bouton.
+Place 1: Joao gil san (480 en jetons) 
+Place 2: psychoman59 (570 en jetons) 
+Place 3: pulpi67 (450 en jetons) 
+pulpi67 : met la petite blind. 10
+Joao gil san : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Ac]
+psychoman59 : suit. 20
+pulpi67 : passe. 
+Joao gil san : parole 
+*** FLOP *** [Jc 6h 9c]
+Joao gil san : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Jc 6h 9c] [7h]
+Joao gil san : parole 
+psychoman59 : mise. 20
+Joao gil san : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [Jc 6h 9c 7h]
+Siège 1 : Joao gil san (grosse blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (bouton) a remporté (50)
+Siège 3 : pulpi67 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260541110235 : Tournoi #3993990873, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/04/2026 10:50:23 CET [21/04/2026 4:50:23 ET]
+Table '3993990873 1' 3-max Siège #3 est au bouton.
+Place 1: Joao gil san (460 en jetons) 
+Place 2: psychoman59 (600 en jetons) 
+Place 3: pulpi67 (440 en jetons) 
+Joao gil san : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Kd]
+pulpi67 : passe. 
+Joao gil san : suit. 10
+psychoman59 : parole 
+*** FLOP *** [As 2c Ah]
+Joao gil san : parole 
+psychoman59 : parole 
+*** TOURNANT *** [As 2c Ah] [Td]
+Joao gil san : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [As 2c Ah Td] [7s]
+Joao gil san : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Joao gil san : montre [6d 5c] (une paire de As)
+psychoman59 : montre [5d Kd] (une paire de As - Roi kicker)
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [As 2c Ah Td 7s]
+Siège 1 : Joao gil san (petite blind) a montré [6d 5c] et a perdu avec une paire de As
+Siège 2 : psychoman59 (grosse blind) a montré [5d Kd] et a gagné (40) avec une paire de As
+Siège 3 : pulpi67 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260541112024 : Tournoi #3993990873, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/04/2026 10:50:50 CET [21/04/2026 4:50:50 ET]
+Table '3993990873 1' 3-max Siège #1 est au bouton.
+Place 1: Joao gil san (440 en jetons) 
+Place 2: psychoman59 (620 en jetons) 
+Place 3: pulpi67 (440 en jetons) 
+psychoman59 : met la petite blind. 10
+pulpi67 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Kc]
+Joao gil san : passe. 
+psychoman59 : suit. 10
+pulpi67 : parole 
+*** FLOP *** [As 8c Qh]
+psychoman59 : parole 
+pulpi67 : parole 
+*** TOURNANT *** [As 8c Qh] [Qd]
+psychoman59 : parole 
+pulpi67 : parole 
+*** RIVIÈRE *** [As 8c Qh Qd] [Ah]
+psychoman59 : parole 
+pulpi67 : mise. 20
+psychoman59 : suit. 20
+*** ABATTAGE ***
+pulpi67 : montre [Ks 9s] (double paire, As et Dames)
+psychoman59 : montre [Jc Kc] (double paire, As et Dames)
+psychoman59 a remporté 40  lors du pot .
+pulpi67 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [As 8c Qh Qd Ah]
+Siège 1 : Joao gil san (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [Jc Kc] et a gagné (40) avec double paire, As et Dames
+Siège 3 : pulpi67 (grosse blind) a montré [Ks 9s] et a gagné (40) avec double paire, As et Dames
+
+
+
+Main PokerStars n°260541113912 : Tournoi #3993990873, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/04/2026 10:51:17 CET [21/04/2026 4:51:17 ET]
+Table '3993990873 1' 3-max Siège #2 est au bouton.
+Place 1: Joao gil san (440 en jetons) 
+Place 2: psychoman59 (620 en jetons) 
+Place 3: pulpi67 (440 en jetons) 
+pulpi67 : met la petite blind. 10
+Joao gil san : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Ks]
+psychoman59 : suit. 20
+pulpi67 : suit. 10
+Joao gil san : parole 
+*** FLOP *** [Ad Ts Tc]
+pulpi67 : parole 
+Joao gil san : parole 
+psychoman59 : mise. 20
+pulpi67 : passe. 
+Joao gil san : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ad Ts Tc]
+Siège 1 : Joao gil san (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) a remporté (60)
+Siège 3 : pulpi67 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°260541115906 : Tournoi #3993990873, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 21/04/2026 10:51:45 CET [21/04/2026 4:51:45 ET]
+Table '3993990873 1' 3-max Siège #3 est au bouton.
+Place 1: Joao gil san (420 en jetons) 
+Place 2: psychoman59 (660 en jetons) 
+Place 3: pulpi67 (420 en jetons) 
+Joao gil san : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 5h]
+pulpi67 : passe. 
+Joao gil san : suit. 15
+psychoman59 : parole 
+*** FLOP *** [9d Ac 7d]
+Joao gil san : parole 
+psychoman59 : parole 
+*** TOURNANT *** [9d Ac 7d] [Th]
+Joao gil san : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à Joao gil san.
+Joao gil san a remporté 60  lors du pot .
+Joao gil san : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [9d Ac 7d Th]
+Siège 1 : Joao gil san (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : pulpi67 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260541118045 : Tournoi #3993990873, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 21/04/2026 10:52:16 CET [21/04/2026 4:52:16 ET]
+Table '3993990873 1' 3-max Siège #1 est au bouton.
+Place 1: Joao gil san (450 en jetons) 
+Place 2: psychoman59 (630 en jetons) 
+Place 3: pulpi67 (420 en jetons) 
+psychoman59 : met la petite blind. 15
+pulpi67 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Ah]
+Joao gil san : passe. 
+psychoman59 : relance. 60 à 90
+pulpi67 : relance. 330 à 420 et est all-in.
+psychoman59 : suit. 330
+*** FLOP *** [Jd 3c 7c]
+*** TOURNANT *** [Jd 3c 7c] [6h]
+*** RIVIÈRE *** [Jd 3c 7c 6h] [4c]
+*** ABATTAGE ***
+psychoman59 : montre [Js Ah] (une paire de Valets)
+pulpi67 : montre [7d Ad] (une paire de Sept)
+psychoman59 a remporté 840  lors du pot .
+pulpi67 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Tableau [Jd 3c 7c 6h 4c]
+Siège 1 : Joao gil san (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [Js Ah] et a gagné (840) avec une paire de Valets
+Siège 3 : pulpi67 (grosse blind) a montré [7d Ad] et a perdu avec une paire de Sept
+
+
+
+Main PokerStars n°260541119574 : Tournoi #3993990873, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 21/04/2026 10:52:38 CET [21/04/2026 4:52:38 ET]
+Table '3993990873 1' 3-max Siège #2 est au bouton.
+Place 1: Joao gil san (450 en jetons) 
+Place 2: psychoman59 (1050 en jetons) 
+psychoman59 : met la petite blind. 15
+Joao gil san : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 2s]
+psychoman59 : suit. 15
+Joao gil san : parole 
+*** FLOP *** [3d 7s Ts]
+Joao gil san : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3d 7s Ts] [Kh]
+Joao gil san : parole 
+psychoman59 : mise. 30
+Joao gil san : suit. 30
+*** RIVIÈRE *** [3d 7s Ts Kh] [As]
+Joao gil san : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Joao gil san : montre [Qs 3h] (une paire de Trois)
+psychoman59 : montre [Kd 2s] (une paire de Rois)
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [3d 7s Ts Kh As]
+Siège 1 : Joao gil san (grosse blind) a montré [Qs 3h] et a perdu avec une paire de Trois
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Kd 2s] et a gagné (120) avec une paire de Rois
+
+
+
+Main PokerStars n°260541121461 : Tournoi #3993990873, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 21/04/2026 10:53:05 CET [21/04/2026 4:53:05 ET]
+Table '3993990873 1' 3-max Siège #1 est au bouton.
+Place 1: Joao gil san (390 en jetons) 
+Place 2: psychoman59 (1110 en jetons) 
+Joao gil san : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 8h]
+Joao gil san : relance. 60 à 90
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à Joao gil san.
+Joao gil san a remporté 60  lors du pot .
+Joao gil san : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Joao gil san (bouton) (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260541122559 : Tournoi #3993990873, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 21/04/2026 10:53:21 CET [21/04/2026 4:53:21 ET]
+Table '3993990873 1' 3-max Siège #2 est au bouton.
+Place 1: Joao gil san (420 en jetons) 
+Place 2: psychoman59 (1080 en jetons) 
+psychoman59 : met la petite blind. 15
+Joao gil san : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Td]
+psychoman59 : suit. 15
+Joao gil san : relance. 390 à 420 et est all-in.
+psychoman59 : suit. 390
+*** FLOP *** [7h Ac 5h]
+*** TOURNANT *** [7h Ac 5h] [8d]
+*** RIVIÈRE *** [7h Ac 5h 8d] [Kd]
+*** ABATTAGE ***
+Joao gil san : montre [Qc 6d] (Hauteur As)
+psychoman59 : montre [Qs Td] (Hauteur As - Roi+Dame+Dix kicker)
+psychoman59 a remporté 840  lors du pot .
+Joao gil san a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Tableau [7h Ac 5h 8d Kd]
+Siège 1 : Joao gil san (grosse blind) a montré [Qc 6d] et a perdu avec Hauteur As
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Qs Td] et a gagné (840) avec Hauteur As
+
+
+

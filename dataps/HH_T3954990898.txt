@@ -1,0 +1,56 @@
+﻿Main PokerStars n°258852335822 : Tournoi #3954990898, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 11/12/2025 7:24:50 CET [11/12/2025 1:24:50 ET]
+Table '3954990898 1' 3-max Siège #1 est au bouton.
+Place 1: açor sempre (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: JAYDUMMY (500 en jetons) 
+psychoman59 : met la petite blind. 10
+JAYDUMMY : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Qc]
+açor sempre : suit. 20
+psychoman59 : suit. 10
+JAYDUMMY : relance. 480 à 500 et est all-in.
+açor sempre : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (480) sont retournés à JAYDUMMY.
+JAYDUMMY a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : açor sempre (bouton) s'est couché. avant Flop
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : JAYDUMMY (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°258852336549 : Tournoi #3954990898, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 11/12/2025 7:25:03 CET [11/12/2025 1:25:03 ET]
+Table '3954990898 1' 3-max Siège #2 est au bouton.
+Place 1: açor sempre (480 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+Place 3: JAYDUMMY (540 en jetons) 
+JAYDUMMY : met la petite blind. 10
+açor sempre : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Th]
+psychoman59 : suit. 20
+JAYDUMMY : relance. 520 à 540 et est all-in.
+açor sempre : suit. 460 et est all-in.
+psychoman59 : suit. 460 et est all-in.
+Personne n'a suivi. (60) sont retournés à JAYDUMMY.
+*** FLOP *** [7d 7s Kd]
+*** TOURNANT *** [7d 7s Kd] [6d]
+*** RIVIÈRE *** [7d 7s Kd 6d] [8d]
+*** ABATTAGE ***
+JAYDUMMY : montre [7h 9h] (un brelan de Sept)
+açor sempre : montre [5h Ad] (une couleur, hauteur As)
+psychoman59 : montre [Kc Th] (double paire, Rois et Sept)
+açor sempre a remporté 1440  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 1440 | Commission 0 
+Tableau [7d 7s Kd 6d 8d]
+Siège 1 : açor sempre (grosse blind) a montré [5h Ad] et a gagné (1440) avec une couleur, hauteur As
+Siège 2 : psychoman59 (bouton) a montré [Kc Th] et a perdu avec double paire, Rois et Sept
+Siège 3 : JAYDUMMY (petite blind) a montré [7h 9h] et a perdu avec un brelan de Sept
+
+
+

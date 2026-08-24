@@ -1,0 +1,500 @@
+﻿Main PokerStars n°239972227605 : Tournoi #3503254856, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/11/2022 11:49:31 CET [20/11/2022 5:49:31 ET]
+Table '3503254856 1' 3-max Siège #1 est au bouton.
+Place 1: claudque (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: GAMBLERCOOL (300 en jetons) 
+psychoman59 : met la petite blind. 10
+GAMBLERCOOL : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Ac]
+claudque a dépassé le temps imparti.
+claudque : passe. 
+claudque ne joue pas.
+psychoman59 : relance. 40 à 60
+GAMBLERCOOL : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+claudque est revenu.
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : claudque (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (40)
+Siège 3 : GAMBLERCOOL (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239972231698 : Tournoi #3503254856, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/11/2022 11:49:54 CET [20/11/2022 5:49:54 ET]
+Table '3503254856 1' 3-max Siège #2 est au bouton.
+Place 1: claudque (300 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: GAMBLERCOOL (280 en jetons) 
+GAMBLERCOOL : met la petite blind. 10
+claudque : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 5s]
+psychoman59 : passe. 
+GAMBLERCOOL : suit. 10
+claudque : parole 
+*** FLOP *** [Kh 6s Td]
+GAMBLERCOOL : parole 
+claudque : parole 
+*** TOURNANT *** [Kh 6s Td] [9c]
+GAMBLERCOOL : parole 
+claudque : mise. 20
+GAMBLERCOOL : suit. 20
+*** RIVIÈRE *** [Kh 6s Td 9c] [Ac]
+GAMBLERCOOL : parole 
+claudque : mise. 20
+GAMBLERCOOL : passe. 
+Personne n'a suivi. (20) sont retournés à claudque.
+claudque a remporté 80  lors du pot .
+claudque : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Kh 6s Td 9c Ac]
+Siège 1 : claudque (grosse blind) a remporté (80)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : GAMBLERCOOL (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°239972235741 : Tournoi #3503254856, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 20/11/2022 11:50:17 CET [20/11/2022 5:50:17 ET]
+Table '3503254856 1' 3-max Siège #3 est au bouton.
+Place 1: claudque (340 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: GAMBLERCOOL (240 en jetons) 
+claudque : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Ts]
+GAMBLERCOOL : suit. 20
+claudque : suit. 10
+psychoman59 : parole 
+*** FLOP *** [8h 2s Jd]
+claudque : parole 
+psychoman59 : parole 
+GAMBLERCOOL : parole 
+*** TOURNANT *** [8h 2s Jd] [Qc]
+claudque : parole 
+psychoman59 : parole 
+GAMBLERCOOL : mise. 30
+claudque : passe. 
+psychoman59 : suit. 30
+*** RIVIÈRE *** [8h 2s Jd Qc] [2c]
+psychoman59 : parole 
+GAMBLERCOOL : parole 
+*** ABATTAGE ***
+psychoman59 : montre [6h Ts] (une paire de Deux)
+GAMBLERCOOL : montre [Qs 6s] (double paire, Dames et Deux)
+GAMBLERCOOL a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [8h 2s Jd Qc 2c]
+Siège 1 : claudque (petite blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (grosse blind) a montré [6h Ts] et a perdu avec une paire de Deux
+Siège 3 : GAMBLERCOOL (bouton) a montré [Qs 6s] et a gagné (120) avec double paire, Dames et Deux
+
+
+
+Main PokerStars n°239972240736 : Tournoi #3503254856, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 20/11/2022 11:50:45 CET [20/11/2022 5:50:45 ET]
+Table '3503254856 1' 3-max Siège #1 est au bouton.
+Place 1: claudque (320 en jetons) 
+Place 2: psychoman59 (270 en jetons) 
+Place 3: GAMBLERCOOL (310 en jetons) 
+psychoman59 : met la petite blind. 15
+GAMBLERCOOL : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 2s]
+claudque : suit. 30
+psychoman59 : passe. 
+GAMBLERCOOL : parole 
+*** FLOP *** [Jd 6c Ad]
+GAMBLERCOOL : parole 
+claudque : parole 
+*** TOURNANT *** [Jd 6c Ad] [5h]
+GAMBLERCOOL : parole 
+claudque : parole 
+*** RIVIÈRE *** [Jd 6c Ad 5h] [Qd]
+GAMBLERCOOL : parole 
+claudque : mise. 30
+GAMBLERCOOL : suit. 30
+*** ABATTAGE ***
+claudque : montre [8h Qc] (une paire de Dames)
+GAMBLERCOOL : cache la main perdante. 
+claudque a remporté 135  lors du pot .
+*** SYNTHÈSE ***
+Pot total 135 | Commission 0 
+Tableau [Jd 6c Ad 5h Qd]
+Siège 1 : claudque (bouton) a montré [8h Qc] et a gagné (135) avec une paire de Dames
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : GAMBLERCOOL (grosse blind) a caché la main perdante. [2h Qh]
+
+
+
+Main PokerStars n°239972244246 : Tournoi #3503254856, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 20/11/2022 11:51:05 CET [20/11/2022 5:51:05 ET]
+Table '3503254856 1' 3-max Siège #2 est au bouton.
+Place 1: claudque (395 en jetons) 
+Place 2: psychoman59 (255 en jetons) 
+Place 3: GAMBLERCOOL (250 en jetons) 
+GAMBLERCOOL : met la petite blind. 15
+claudque : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 7d]
+psychoman59 : passe. 
+GAMBLERCOOL : suit. 15
+claudque : parole 
+*** FLOP *** [Kh As 9d]
+GAMBLERCOOL : mise. 30
+claudque : passe. 
+Personne n'a suivi. (30) sont retournés à GAMBLERCOOL.
+GAMBLERCOOL a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Kh As 9d]
+Siège 1 : claudque (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : GAMBLERCOOL (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°239972246359 : Tournoi #3503254856, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 20/11/2022 11:51:17 CET [20/11/2022 5:51:17 ET]
+Table '3503254856 1' 3-max Siège #3 est au bouton.
+Place 1: claudque (365 en jetons) 
+Place 2: psychoman59 (255 en jetons) 
+Place 3: GAMBLERCOOL (280 en jetons) 
+claudque : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 4s]
+GAMBLERCOOL : suit. 30
+claudque : passe. 
+psychoman59 : parole 
+*** FLOP *** [Jh Ts Ks]
+psychoman59 : parole 
+GAMBLERCOOL : parole 
+*** TOURNANT *** [Jh Ts Ks] [8d]
+psychoman59 : parole 
+GAMBLERCOOL : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à GAMBLERCOOL.
+GAMBLERCOOL a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Tableau [Jh Ts Ks 8d]
+Siège 1 : claudque (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : GAMBLERCOOL (bouton) a remporté (75)
+
+
+
+Main PokerStars n°239972248930 : Tournoi #3503254856, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 20/11/2022 11:51:32 CET [20/11/2022 5:51:32 ET]
+Table '3503254856 1' 3-max Siège #1 est au bouton.
+Place 1: claudque (350 en jetons) 
+Place 2: psychoman59 (225 en jetons) 
+Place 3: GAMBLERCOOL (325 en jetons) 
+psychoman59 : met la petite blind. 15
+GAMBLERCOOL : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 7c]
+claudque : suit. 30
+psychoman59 : relance. 195 à 225 et est all-in.
+GAMBLERCOOL : passe. 
+claudque : suit. 195
+*** FLOP *** [8d Jc Js]
+*** TOURNANT *** [8d Jc Js] [Kh]
+*** RIVIÈRE *** [8d Jc Js Kh] [8h]
+*** ABATTAGE ***
+psychoman59 : montre [As 7c] (double paire, Valets et Huit)
+claudque : montre [Tc Qd] (double paire, Valets et Huit - plus basse kicker)
+psychoman59 a remporté 480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [8d Jc Js Kh 8h]
+Siège 1 : claudque (bouton) a montré [Tc Qd] et a perdu avec double paire, Valets et Huit
+Siège 2 : psychoman59 (petite blind) a montré [As 7c] et a gagné (480) avec double paire, Valets et Huit
+Siège 3 : GAMBLERCOOL (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239972252230 : Tournoi #3503254856, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 20/11/2022 11:51:51 CET [20/11/2022 5:51:51 ET]
+Table '3503254856 1' 3-max Siège #2 est au bouton.
+Place 1: claudque (125 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+Place 3: GAMBLERCOOL (295 en jetons) 
+GAMBLERCOOL : met la petite blind. 20
+claudque : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 4c]
+psychoman59 : passe. 
+GAMBLERCOOL : suit. 20
+claudque : relance. 85 à 125 et est all-in.
+GAMBLERCOOL : suit. 85
+*** FLOP *** [8s 4s 2s]
+*** TOURNANT *** [8s 4s 2s] [3h]
+*** RIVIÈRE *** [8s 4s 2s 3h] [3d]
+*** ABATTAGE ***
+GAMBLERCOOL : montre [Qh 4h] (double paire, Quatre et Trois)
+claudque : montre [Qc Td] (une paire de Trois)
+GAMBLERCOOL a remporté 250  lors du pot .
+claudque a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 250 | Commission 0 
+Tableau [8s 4s 2s 3h 3d]
+Siège 1 : claudque (grosse blind) a montré [Qc Td] et a perdu avec une paire de Trois
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : GAMBLERCOOL (petite blind) a montré [Qh 4h] et a gagné (250) avec double paire, Quatre et Trois
+
+
+
+Main PokerStars n°239972255929 : Tournoi #3503254856, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 20/11/2022 11:52:12 CET [20/11/2022 5:52:12 ET]
+Table '3503254856 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (480 en jetons) 
+Place 3: GAMBLERCOOL (420 en jetons) 
+GAMBLERCOOL : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 3c]
+GAMBLERCOOL : suit. 20
+psychoman59 : parole 
+*** FLOP *** [3h 9h 2d]
+psychoman59 : mise. 80
+GAMBLERCOOL : suit. 80
+*** TOURNANT *** [3h 9h 2d] [3s]
+psychoman59 : mise. 80
+GAMBLERCOOL : suit. 80
+*** RIVIÈRE *** [3h 9h 2d 3s] [Jc]
+psychoman59 : mise. 160
+GAMBLERCOOL : passe. 
+Personne n'a suivi. (160) sont retournés à psychoman59.
+psychoman59 a remporté 400  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [3h 9h 2d 3s Jc]
+Siège 2 : psychoman59 (grosse blind) a remporté (400)
+Siège 3 : GAMBLERCOOL (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°239972262593 : Tournoi #3503254856, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 20/11/2022 11:52:49 CET [20/11/2022 5:52:49 ET]
+Table '3503254856 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (680 en jetons) 
+Place 3: GAMBLERCOOL (220 en jetons) 
+psychoman59 : met la petite blind. 30
+GAMBLERCOOL : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 6d]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à GAMBLERCOOL.
+GAMBLERCOOL a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : GAMBLERCOOL (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°239972263548 : Tournoi #3503254856, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 20/11/2022 11:52:54 CET [20/11/2022 5:52:54 ET]
+Table '3503254856 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (650 en jetons) 
+Place 3: GAMBLERCOOL (250 en jetons) 
+GAMBLERCOOL : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 9d]
+GAMBLERCOOL : relance. 190 à 250 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (190) sont retournés à GAMBLERCOOL.
+GAMBLERCOOL a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : GAMBLERCOOL (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°239972264762 : Tournoi #3503254856, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 20/11/2022 11:53:01 CET [20/11/2022 5:53:01 ET]
+Table '3503254856 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (590 en jetons) 
+Place 3: GAMBLERCOOL (310 en jetons) 
+psychoman59 : met la petite blind. 30
+GAMBLERCOOL : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 7s]
+psychoman59 : relance. 120 à 180
+GAMBLERCOOL : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 3 : GAMBLERCOOL (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239972266325 : Tournoi #3503254856, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 20/11/2022 11:53:10 CET [20/11/2022 5:53:10 ET]
+Table '3503254856 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (650 en jetons) 
+Place 3: GAMBLERCOOL (250 en jetons) 
+GAMBLERCOOL : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Jh]
+GAMBLERCOOL : relance. 190 à 250 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (190) sont retournés à GAMBLERCOOL.
+GAMBLERCOOL a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : GAMBLERCOOL (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°239972267490 : Tournoi #3503254856, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 20/11/2022 11:53:17 CET [20/11/2022 5:53:17 ET]
+Table '3503254856 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (590 en jetons) 
+Place 3: GAMBLERCOOL (310 en jetons) 
+psychoman59 : met la petite blind. 30
+GAMBLERCOOL : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 2d]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à GAMBLERCOOL.
+GAMBLERCOOL a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : GAMBLERCOOL (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°239972268365 : Tournoi #3503254856, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 20/11/2022 11:53:22 CET [20/11/2022 5:53:22 ET]
+Table '3503254856 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (560 en jetons) 
+Place 3: GAMBLERCOOL (340 en jetons) 
+GAMBLERCOOL : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 4s]
+GAMBLERCOOL : relance. 280 à 340 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (280) sont retournés à GAMBLERCOOL.
+GAMBLERCOOL a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : GAMBLERCOOL (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°239972269443 : Tournoi #3503254856, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 20/11/2022 11:53:28 CET [20/11/2022 5:53:28 ET]
+Table '3503254856 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (500 en jetons) 
+Place 3: GAMBLERCOOL (400 en jetons) 
+psychoman59 : met la petite blind. 30
+GAMBLERCOOL : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 6s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à GAMBLERCOOL.
+GAMBLERCOOL a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : GAMBLERCOOL (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°239972270318 : Tournoi #3503254856, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 20/11/2022 11:53:33 CET [20/11/2022 5:53:33 ET]
+Table '3503254856 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (470 en jetons) 
+Place 3: GAMBLERCOOL (430 en jetons) 
+GAMBLERCOOL : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Td]
+GAMBLERCOOL : relance. 370 à 430 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (370) sont retournés à GAMBLERCOOL.
+GAMBLERCOOL a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : GAMBLERCOOL (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°239972271967 : Tournoi #3503254856, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 20/11/2022 11:53:42 CET [20/11/2022 5:53:42 ET]
+Table '3503254856 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (410 en jetons) 
+Place 3: GAMBLERCOOL (490 en jetons) 
+psychoman59 : met la petite blind. 40
+GAMBLERCOOL : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 9h]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à GAMBLERCOOL.
+GAMBLERCOOL a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : GAMBLERCOOL (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°239972272822 : Tournoi #3503254856, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 20/11/2022 11:53:46 CET [20/11/2022 5:53:46 ET]
+Table '3503254856 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (370 en jetons) 
+Place 3: GAMBLERCOOL (530 en jetons) 
+GAMBLERCOOL : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 4s]
+GAMBLERCOOL : suit. 40
+psychoman59 : relance. 290 à 370 et est all-in.
+GAMBLERCOOL : suit. 290
+*** FLOP *** [Qh Kh 8h]
+*** TOURNANT *** [Qh Kh 8h] [Ah]
+*** RIVIÈRE *** [Qh Kh 8h Ah] [4c]
+*** ABATTAGE ***
+psychoman59 : montre [Ks 4s] (double paire, Rois et Quatre)
+GAMBLERCOOL : montre [8c Tc] (une paire de Huit)
+psychoman59 a remporté 740  lors du pot .
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Tableau [Qh Kh 8h Ah 4c]
+Siège 2 : psychoman59 (grosse blind) a montré [Ks 4s] et a gagné (740) avec double paire, Rois et Quatre
+Siège 3 : GAMBLERCOOL (bouton) (petite blind) a montré [8c Tc] et a perdu avec une paire de Huit
+
+
+
+Main PokerStars n°239972275676 : Tournoi #3503254856, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 20/11/2022 11:54:02 CET [20/11/2022 5:54:02 ET]
+Table '3503254856 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (740 en jetons) 
+Place 3: GAMBLERCOOL (160 en jetons) 
+psychoman59 : met la petite blind. 40
+GAMBLERCOOL : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Ts]
+psychoman59 : relance. 80 à 160
+GAMBLERCOOL : suit. 80 et est all-in.
+*** FLOP *** [Qc 3h Kd]
+*** TOURNANT *** [Qc 3h Kd] [4c]
+*** RIVIÈRE *** [Qc 3h Kd 4c] [9s]
+*** ABATTAGE ***
+GAMBLERCOOL : montre [5c Tc] (Hauteur Roi)
+psychoman59 : montre [Kh Ts] (une paire de Rois)
+psychoman59 a remporté 320  lors du pot .
+GAMBLERCOOL a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [Qc 3h Kd 4c 9s]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Kh Ts] et a gagné (320) avec une paire de Rois
+Siège 3 : GAMBLERCOOL (grosse blind) a montré [5c Tc] et a perdu avec Hauteur Roi
+
+
+

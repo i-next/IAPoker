@@ -1,0 +1,56 @@
+﻿Main PokerStars n°239179923091 : Tournoi #3484601150, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 12/10/2022 10:16:19 CET [12/10/2022 4:16:19 ET]
+Table '3484601150 1' 3-max Siège #1 est au bouton.
+Place 1: 2JB2863 (300 en jetons) 
+Place 2: sempregz (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+sempregz : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 3s]
+2JB2863 : passe. 
+sempregz : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Jc 7h 2d]
+sempregz : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à sempregz.
+sempregz a remporté 40  lors du pot .
+sempregz : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Jc 7h 2d]
+Siège 1 : 2JB2863 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : sempregz (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°239179924976 : Tournoi #3484601150, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 12/10/2022 10:16:35 CET [12/10/2022 4:16:35 ET]
+Table '3484601150 1' 3-max Siège #2 est au bouton.
+Place 1: 2JB2863 (300 en jetons) 
+Place 2: sempregz (320 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+2JB2863 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Ah]
+sempregz : passe. 
+psychoman59 : relance. 260 à 280 et est all-in.
+2JB2863 : suit. 260
+*** FLOP *** [8s 6h 6c]
+*** TOURNANT *** [8s 6h 6c] [As]
+*** RIVIÈRE *** [8s 6h 6c As] [4h]
+*** ABATTAGE ***
+psychoman59 : montre [5d Ah] (double paire, As et Six)
+2JB2863 : montre [Ac Qs] (double paire, As et Six - Dame kicker)
+2JB2863 a remporté 560  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [8s 6h 6c As 4h]
+Siège 1 : 2JB2863 (grosse blind) a montré [Ac Qs] et a gagné (560) avec double paire, As et Six
+Siège 2 : sempregz (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [5d Ah] et a perdu avec double paire, As et Six
+
+
+

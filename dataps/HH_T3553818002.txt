@@ -1,0 +1,83 @@
+﻿Main PokerStars n°242088520196 : Tournoi #3553818002, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/02/2023 11:16:52 CET [26/02/2023 5:16:52 ET]
+Table '3553818002 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: elisaadh9 (300 en jetons) 
+Place 3: contrappel (300 en jetons) 
+elisaadh9 : met la petite blind. 10
+contrappel : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 8d]
+psychoman59 : passe. 
+elisaadh9 : relance. 20 à 40
+contrappel : suit. 20
+*** FLOP *** [Js 7d 7c]
+elisaadh9 : mise. 80
+contrappel : passe. 
+Personne n'a suivi. (80) sont retournés à elisaadh9.
+elisaadh9 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Js 7d 7c]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : elisaadh9 (petite blind) a remporté (80)
+Siège 3 : contrappel (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°242088524787 : Tournoi #3553818002, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/02/2023 11:17:18 CET [26/02/2023 5:17:18 ET]
+Table '3553818002 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: elisaadh9 (340 en jetons) 
+Place 3: contrappel (260 en jetons) 
+contrappel : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 8h]
+elisaadh9 : passe. 
+contrappel : suit. 10
+psychoman59 : parole 
+*** FLOP *** [7d 3d Qc]
+contrappel : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à contrappel.
+contrappel a remporté 40  lors du pot .
+contrappel : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [7d 3d Qc]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : elisaadh9 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : contrappel (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°242088526888 : Tournoi #3553818002, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/02/2023 11:17:30 CET [26/02/2023 5:17:30 ET]
+Table '3553818002 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: elisaadh9 (340 en jetons) 
+Place 3: contrappel (280 en jetons) 
+psychoman59 : met la petite blind. 10
+elisaadh9 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 6c]
+contrappel : relance. 40 à 60
+psychoman59 : relance. 220 à 280 et est all-in.
+elisaadh9 : passe. 
+contrappel : suit. 220 et est all-in.
+*** FLOP *** [2h Qc 7d]
+*** TOURNANT *** [2h Qc 7d] [2s]
+*** RIVIÈRE *** [2h Qc 7d 2s] [6h]
+*** ABATTAGE ***
+psychoman59 : montre [Ac 6c] (double paire, Six et Deux)
+contrappel : montre [Qs Kd] (double paire, Dames et Deux)
+contrappel a remporté 580  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [2h Qc 7d 2s 6h]
+Siège 1 : psychoman59 (petite blind) a montré [Ac 6c] et a perdu avec double paire, Six et Deux
+Siège 2 : elisaadh9 (grosse blind) s'est couché. avant Flop
+Siège 3 : contrappel (bouton) a montré [Qs Kd] et a gagné (580) avec double paire, Dames et Deux
+
+
+

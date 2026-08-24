@@ -1,0 +1,58 @@
+﻿Main PokerStars n°261244638841 : Tournoi #4011217335, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/06/2026 10:04:31 CET [25/06/2026 4:04:31 ET]
+Table '4011217335 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: defenitiv (500 en jetons) 
+Place 3: maximussus77 (500 en jetons) 
+defenitiv : met la petite blind. 10
+maximussus77 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 6s]
+psychoman59 : suit. 20
+defenitiv : relance. 480 à 500 et est all-in.
+maximussus77 : suit. 480 et est all-in.
+psychoman59 : passe. 
+*** FLOP *** [8s Tc 8h]
+*** TOURNANT *** [8s Tc 8h] [Jh]
+*** RIVIÈRE *** [8s Tc 8h Jh] [3h]
+*** ABATTAGE ***
+defenitiv : montre [6c 8c] (un brelan de Huit)
+maximussus77 : montre [Kd As] (une paire de Huit)
+defenitiv a remporté 1020  lors du pot .
+maximussus77 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 1020 | Commission 0 
+Tableau [8s Tc 8h Jh 3h]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 2 : defenitiv (petite blind) a montré [6c 8c] et a gagné (1020) avec un brelan de Huit
+Siège 3 : maximussus77 (grosse blind) a montré [Kd As] et a perdu avec une paire de Huit
+
+
+
+Main PokerStars n°261244640006 : Tournoi #4011217335, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/06/2026 10:04:53 CET [25/06/2026 4:04:53 ET]
+Table '4011217335 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (480 en jetons) 
+Place 2: defenitiv (1020 en jetons) 
+defenitiv : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Tc]
+defenitiv : relance. 1000 à 1020 et est all-in.
+psychoman59 : suit. 460 et est all-in.
+Personne n'a suivi. (540) sont retournés à defenitiv.
+*** FLOP *** [7c Td 8s]
+*** TOURNANT *** [7c Td 8s] [Jd]
+*** RIVIÈRE *** [7c Td 8s Jd] [Kd]
+*** ABATTAGE ***
+psychoman59 : montre [Th Tc] (un brelan de Dix)
+defenitiv : montre [9s Jc] (une suite, Sept à Valet)
+defenitiv a remporté 960  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+defenitiv remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 960 | Commission 0 
+Tableau [7c Td 8s Jd Kd]
+Siège 1 : psychoman59 (grosse blind) a montré [Th Tc] et a perdu avec un brelan de Dix
+Siège 2 : defenitiv (bouton) (petite blind) a montré [9s Jc] et a gagné (960) avec une suite, Sept à Valet
+
+
+

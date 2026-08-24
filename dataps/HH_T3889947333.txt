@@ -1,0 +1,872 @@
+﻿Main PokerStars n°256149911197 : Tournoi #3889947333, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/05/2025 10:57:03 CET [15/05/2025 4:57:03 ET]
+Table '3889947333 1' 3-max Siège #1 est au bouton.
+Place 1: Joach1S30 (500 en jetons) 
+Place 2: efeson (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+efeson : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Kc]
+Joach1S30 : suit. 20
+efeson : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Kd 9h 2d]
+efeson : parole 
+psychoman59 : parole 
+Joach1S30 : parole 
+*** TOURNANT *** [Kd 9h 2d] [Tc]
+efeson : mise. 20
+psychoman59 : suit. 20
+Joach1S30 : relance. 40 à 60
+efeson : suit. 40
+psychoman59 : suit. 40
+*** RIVIÈRE *** [Kd 9h 2d Tc] [2c]
+efeson : mise. 20
+psychoman59 : suit. 20
+Joach1S30 : relance. 150 à 170
+efeson : suit. 150
+psychoman59 : passe. 
+*** ABATTAGE ***
+Joach1S30 : montre [Jd Qs] (une suite, Neuf à Roi)
+efeson : cache la main perdante. 
+Joach1S30 a remporté 600  lors du pot .
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [Kd 9h 2d Tc 2c]
+Siège 1 : Joach1S30 (bouton) a montré [Jd Qs] et a gagné (600) avec une suite, Neuf à Roi
+Siège 2 : efeson (petite blind) a caché la main perdante. [Td 9s]
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°256149915535 : Tournoi #3889947333, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/05/2025 10:58:04 CET [15/05/2025 4:58:04 ET]
+Table '3889947333 1' 3-max Siège #2 est au bouton.
+Place 1: Joach1S30 (850 en jetons) 
+Place 2: efeson (250 en jetons) 
+Place 3: psychoman59 (400 en jetons) 
+psychoman59 : met la petite blind. 10
+Joach1S30 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td As]
+efeson : passe. 
+psychoman59 : relance. 380 à 400 et est all-in.
+Joach1S30 : passe. 
+Personne n'a suivi. (380) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Joach1S30 (grosse blind) s'est couché. avant Flop
+Siège 2 : efeson (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°256149916422 : Tournoi #3889947333, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/05/2025 10:58:17 CET [15/05/2025 4:58:17 ET]
+Table '3889947333 1' 3-max Siège #3 est au bouton.
+Place 1: Joach1S30 (830 en jetons) 
+Place 2: efeson (250 en jetons) 
+Place 3: psychoman59 (420 en jetons) 
+Joach1S30 : met la petite blind. 10
+efeson : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Qs]
+psychoman59 : passe. 
+Joach1S30 : suit. 10
+efeson : parole 
+*** FLOP *** [Qd As Kc]
+Joach1S30 : parole 
+efeson : parole 
+*** TOURNANT *** [Qd As Kc] [Ks]
+Joach1S30 : parole 
+efeson : parole 
+*** RIVIÈRE *** [Qd As Kc Ks] [Th]
+Joach1S30 : parole 
+efeson : mise. 100
+Joach1S30 : passe. 
+Personne n'a suivi. (100) sont retournés à efeson.
+efeson a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Qd As Kc Ks Th]
+Siège 1 : Joach1S30 (petite blind) s'est couché. sur le Rivière
+Siège 2 : efeson (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°256149917972 : Tournoi #3889947333, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/05/2025 10:58:39 CET [15/05/2025 4:58:39 ET]
+Table '3889947333 1' 3-max Siège #1 est au bouton.
+Place 1: Joach1S30 (810 en jetons) 
+Place 2: efeson (270 en jetons) 
+Place 3: psychoman59 (420 en jetons) 
+efeson : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 4c]
+Joach1S30 : suit. 20
+efeson : passe. 
+psychoman59 : parole 
+*** FLOP *** [Qh Qd 2d]
+psychoman59 : parole 
+Joach1S30 : parole 
+*** TOURNANT *** [Qh Qd 2d] [4s]
+psychoman59 : mise. 25
+Joach1S30 : suit. 25
+*** RIVIÈRE *** [Qh Qd 2d 4s] [Ac]
+psychoman59 : mise. 50
+Joach1S30 : relance. 50 à 100
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à Joach1S30.
+Joach1S30 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [Qh Qd 2d 4s Ac]
+Siège 1 : Joach1S30 (bouton) a remporté (200)
+Siège 2 : efeson (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°256149922452 : Tournoi #3889947333, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/05/2025 10:59:41 CET [15/05/2025 4:59:41 ET]
+Table '3889947333 1' 3-max Siège #2 est au bouton.
+Place 1: Joach1S30 (915 en jetons) 
+Place 2: efeson (260 en jetons) 
+Place 3: psychoman59 (325 en jetons) 
+psychoman59 : met la petite blind. 10
+Joach1S30 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 5s]
+efeson : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à Joach1S30.
+Joach1S30 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : Joach1S30 (grosse blind) a remporté (20)
+Siège 2 : efeson (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°256149922841 : Tournoi #3889947333, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/05/2025 10:59:46 CET [15/05/2025 4:59:46 ET]
+Table '3889947333 1' 3-max Siège #3 est au bouton.
+Place 1: Joach1S30 (925 en jetons) 
+Place 2: efeson (260 en jetons) 
+Place 3: psychoman59 (315 en jetons) 
+Joach1S30 : met la petite blind. 10
+efeson : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 8h]
+psychoman59 : suit. 20
+Joach1S30 : suit. 10
+efeson : parole 
+*** FLOP *** [3d 7h As]
+Joach1S30 : parole 
+efeson : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3d 7h As] [Qs]
+Joach1S30 : parole 
+efeson : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [3d 7h As Qs] [Js]
+Joach1S30 : parole 
+efeson : parole 
+psychoman59 : mise. 60
+Joach1S30 : passe. 
+efeson : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [3d 7h As Qs Js]
+Siège 1 : Joach1S30 (petite blind) s'est couché. sur le Rivière
+Siège 2 : efeson (grosse blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (bouton) a remporté (60)
+
+
+
+Main PokerStars n°256149926784 : Tournoi #3889947333, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/05/2025 11:00:39 CET [15/05/2025 5:00:39 ET]
+Table '3889947333 1' 3-max Siège #1 est au bouton.
+Place 1: Joach1S30 (905 en jetons) 
+Place 2: efeson (240 en jetons) 
+Place 3: psychoman59 (355 en jetons) 
+efeson : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 4h]
+Joach1S30 : suit. 30
+efeson : passe. 
+psychoman59 : parole 
+*** FLOP *** [As 5s 6h]
+psychoman59 : parole 
+Joach1S30 : parole 
+*** TOURNANT *** [As 5s 6h] [Tc]
+psychoman59 : parole 
+Joach1S30 : parole 
+*** RIVIÈRE *** [As 5s 6h Tc] [4s]
+psychoman59 : parole 
+Joach1S30 : mise. 38
+psychoman59 : suit. 38
+*** ABATTAGE ***
+Joach1S30 : montre [Qd 8c] (Hauteur As)
+psychoman59 : montre [Jd 4h] (une paire de Quatre)
+psychoman59 a remporté 151  lors du pot .
+*** SYNTHÈSE ***
+Pot total 151 | Commission 0 
+Tableau [As 5s 6h Tc 4s]
+Siège 1 : Joach1S30 (bouton) a montré [Qd 8c] et a perdu avec Hauteur As
+Siège 2 : efeson (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [Jd 4h] et a gagné (151) avec une paire de Quatre
+
+
+
+Main PokerStars n°256149928753 : Tournoi #3889947333, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/05/2025 11:01:03 CET [15/05/2025 5:01:03 ET]
+Table '3889947333 1' 3-max Siège #2 est au bouton.
+Place 1: Joach1S30 (837 en jetons) 
+Place 2: efeson (225 en jetons) 
+Place 3: psychoman59 (438 en jetons) 
+psychoman59 : met la petite blind. 15
+Joach1S30 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 7h]
+efeson : suit. 30
+psychoman59 : relance. 408 à 438 et est all-in.
+Joach1S30 : passe. 
+efeson : suit. 195 et est all-in.
+Personne n'a suivi. (213) sont retournés à psychoman59.
+*** FLOP *** [6c 2d 7d]
+*** TOURNANT *** [6c 2d 7d] [Qc]
+*** RIVIÈRE *** [6c 2d 7d Qc] [2h]
+*** ABATTAGE ***
+psychoman59 : montre [7s 7h] (un full, full aux Sept par les Deux)
+efeson : montre [Ks Ah] (une paire de Deux)
+psychoman59 a remporté 480  lors du pot .
+efeson a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [6c 2d 7d Qc 2h]
+Siège 1 : Joach1S30 (grosse blind) s'est couché. avant Flop
+Siège 2 : efeson (bouton) a montré [Ks Ah] et a perdu avec une paire de Deux
+Siège 3 : psychoman59 (petite blind) a montré [7s 7h] et a gagné (480) avec un full, full aux Sept par les Deux
+
+
+
+Main PokerStars n°256149931135 : Tournoi #3889947333, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/05/2025 11:01:32 CET [15/05/2025 5:01:32 ET]
+Table '3889947333 1' 3-max Siège #1 est au bouton.
+Place 1: Joach1S30 (807 en jetons) 
+Place 3: psychoman59 (693 en jetons) 
+Joach1S30 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Ah]
+Joach1S30 : suit. 15
+psychoman59 : relance. 663 à 693 et est all-in.
+Joach1S30 : passe. 
+Personne n'a suivi. (663) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Joach1S30 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°256149932452 : Tournoi #3889947333, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/05/2025 11:01:49 CET [15/05/2025 5:01:49 ET]
+Table '3889947333 1' 3-max Siège #3 est au bouton.
+Place 1: Joach1S30 (777 en jetons) 
+Place 3: psychoman59 (723 en jetons) 
+psychoman59 : met la petite blind. 15
+Joach1S30 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Qh]
+psychoman59 : suit. 15
+Joach1S30 : parole 
+*** FLOP *** [6c 3h 6d]
+Joach1S30 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6c 3h 6d] [Td]
+Joach1S30 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Joach1S30.
+Joach1S30 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [6c 3h 6d Td]
+Siège 1 : Joach1S30 (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°256149933568 : Tournoi #3889947333, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/05/2025 11:02:02 CET [15/05/2025 5:02:02 ET]
+Table '3889947333 1' 3-max Siège #1 est au bouton.
+Place 1: Joach1S30 (807 en jetons) 
+Place 3: psychoman59 (693 en jetons) 
+Joach1S30 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 3s]
+Joach1S30 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Qc Js Ad]
+psychoman59 : parole 
+Joach1S30 : parole 
+*** TOURNANT *** [Qc Js Ad] [2h]
+psychoman59 : parole 
+Joach1S30 : parole 
+*** RIVIÈRE *** [Qc Js Ad 2h] [Jd]
+psychoman59 : parole 
+Joach1S30 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à Joach1S30.
+Joach1S30 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Qc Js Ad 2h Jd]
+Siège 1 : Joach1S30 (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°256149935785 : Tournoi #3889947333, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/05/2025 11:02:28 CET [15/05/2025 5:02:28 ET]
+Table '3889947333 1' 3-max Siège #3 est au bouton.
+Place 1: Joach1S30 (837 en jetons) 
+Place 3: psychoman59 (663 en jetons) 
+psychoman59 : met la petite blind. 15
+Joach1S30 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Kc]
+psychoman59 : suit. 15
+Joach1S30 : parole 
+*** FLOP *** [Ac As 7c]
+Joach1S30 : parole 
+psychoman59 : mise. 60
+Joach1S30 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ac As 7c]
+Siège 1 : Joach1S30 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°256149937137 : Tournoi #3889947333, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/05/2025 11:02:44 CET [15/05/2025 5:02:44 ET]
+Table '3889947333 1' 3-max Siège #1 est au bouton.
+Place 1: Joach1S30 (807 en jetons) 
+Place 3: psychoman59 (693 en jetons) 
+Joach1S30 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Td]
+Joach1S30 : suit. 15
+psychoman59 : relance. 663 à 693 et est all-in.
+Joach1S30 : passe. [Ts As]
+Personne n'a suivi. (663) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Joach1S30 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°256149939252 : Tournoi #3889947333, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/05/2025 11:03:10 CET [15/05/2025 5:03:10 ET]
+Table '3889947333 1' 3-max Siège #3 est au bouton.
+Place 1: Joach1S30 (777 en jetons) 
+Place 3: psychoman59 (723 en jetons) 
+psychoman59 : met la petite blind. 20
+Joach1S30 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Ah]
+psychoman59 : relance. 683 à 723 et est all-in.
+Joach1S30 : passe. 
+Personne n'a suivi. (683) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : Joach1S30 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°256149940014 : Tournoi #3889947333, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/05/2025 11:03:19 CET [15/05/2025 5:03:19 ET]
+Table '3889947333 1' 3-max Siège #1 est au bouton.
+Place 1: Joach1S30 (737 en jetons) 
+Place 3: psychoman59 (763 en jetons) 
+Joach1S30 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 3h]
+Joach1S30 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Joach1S30 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°256149940357 : Tournoi #3889947333, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/05/2025 11:03:23 CET [15/05/2025 5:03:23 ET]
+Table '3889947333 1' 3-max Siège #3 est au bouton.
+Place 1: Joach1S30 (717 en jetons) 
+Place 3: psychoman59 (783 en jetons) 
+psychoman59 : met la petite blind. 20
+Joach1S30 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 9d]
+psychoman59 : suit. 20
+Joach1S30 : parole 
+*** FLOP *** [6d 9s Js]
+Joach1S30 : parole 
+psychoman59 : mise. 80
+Joach1S30 : suit. 80
+*** TOURNANT *** [6d 9s Js] [Qh]
+Joach1S30 : parole 
+psychoman59 : mise. 663 et est all-in.
+Joach1S30 : passe. 
+Personne n'a suivi. (663) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [6d 9s Js Qh]
+Siège 1 : Joach1S30 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (240)
+
+
+
+Main PokerStars n°256149942322 : Tournoi #3889947333, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/05/2025 11:03:46 CET [15/05/2025 5:03:46 ET]
+Table '3889947333 1' 3-max Siège #1 est au bouton.
+Place 1: Joach1S30 (597 en jetons) 
+Place 3: psychoman59 (903 en jetons) 
+Joach1S30 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 5d]
+Joach1S30 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [9s 8h Js]
+psychoman59 : parole 
+Joach1S30 : parole 
+*** TOURNANT *** [9s 8h Js] [Qd]
+psychoman59 : parole 
+Joach1S30 : parole 
+*** RIVIÈRE *** [9s 8h Js Qd] [3d]
+psychoman59 : parole 
+Joach1S30 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [9h 5d] (une paire de Neuf)
+Joach1S30 : montre [Qc 6s] (une paire de Dames)
+Joach1S30 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [9s 8h Js Qd 3d]
+Siège 1 : Joach1S30 (bouton) (petite blind) a montré [Qc 6s] et a gagné (80) avec une paire de Dames
+Siège 3 : psychoman59 (grosse blind) a montré [9h 5d] et a perdu avec une paire de Neuf
+
+
+
+Main PokerStars n°256149943761 : Tournoi #3889947333, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/05/2025 11:04:04 CET [15/05/2025 5:04:04 ET]
+Table '3889947333 1' 3-max Siège #3 est au bouton.
+Place 1: Joach1S30 (637 en jetons) 
+Place 3: psychoman59 (863 en jetons) 
+psychoman59 : met la petite blind. 20
+Joach1S30 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 2h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Joach1S30.
+Joach1S30 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Joach1S30 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°256149944297 : Tournoi #3889947333, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/05/2025 11:04:11 CET [15/05/2025 5:04:11 ET]
+Table '3889947333 1' 3-max Siège #1 est au bouton.
+Place 1: Joach1S30 (657 en jetons) 
+Place 3: psychoman59 (843 en jetons) 
+Joach1S30 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 4c]
+Joach1S30 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [2h 2s Kh]
+psychoman59 : parole 
+Joach1S30 : parole 
+*** TOURNANT *** [2h 2s Kh] [Qc]
+psychoman59 : parole 
+Joach1S30 : parole 
+*** RIVIÈRE *** [2h 2s Kh Qc] [Kc]
+psychoman59 : parole 
+Joach1S30 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Ah 4c] (double paire, Rois et Deux)
+Joach1S30 : cache la main perdante. 
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [2h 2s Kh Qc Kc]
+Siège 1 : Joach1S30 (bouton) (petite blind) a caché la main perdante. [Jh 3h]
+Siège 3 : psychoman59 (grosse blind) a montré [Ah 4c] et a gagné (80) avec double paire, Rois et Deux
+
+
+
+Main PokerStars n°256149946451 : Tournoi #3889947333, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/05/2025 11:04:37 CET [15/05/2025 5:04:37 ET]
+Table '3889947333 1' 3-max Siège #3 est au bouton.
+Place 1: Joach1S30 (617 en jetons) 
+Place 3: psychoman59 (883 en jetons) 
+psychoman59 : met la petite blind. 20
+Joach1S30 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Ad]
+psychoman59 : relance. 843 à 883 et est all-in.
+Joach1S30 : passe. [Jc Kd]
+Personne n'a suivi. (843) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : Joach1S30 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°256149948100 : Tournoi #3889947333, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/05/2025 11:04:57 CET [15/05/2025 5:04:57 ET]
+Table '3889947333 1' 3-max Siège #1 est au bouton.
+Place 1: Joach1S30 (577 en jetons) 
+Place 3: psychoman59 (923 en jetons) 
+Joach1S30 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 8c]
+Joach1S30 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Qc 2h 6c]
+psychoman59 : parole 
+Joach1S30 : parole 
+*** TOURNANT *** [Qc 2h 6c] [3h]
+psychoman59 : parole 
+Joach1S30 : parole 
+*** RIVIÈRE *** [Qc 2h 6c 3h] [Qs]
+psychoman59 : parole 
+Joach1S30 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Jc 8c] (une paire de Dames)
+Joach1S30 : cache la main perdante. 
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Qc 2h 6c 3h Qs]
+Siège 1 : Joach1S30 (bouton) (petite blind) a caché la main perdante. [7c Js]
+Siège 3 : psychoman59 (grosse blind) a montré [Jc 8c] et a gagné (80) avec une paire de Dames
+
+
+
+Main PokerStars n°256149950050 : Tournoi #3889947333, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/05/2025 11:05:20 CET [15/05/2025 5:05:20 ET]
+Table '3889947333 1' 3-max Siège #3 est au bouton.
+Place 1: Joach1S30 (537 en jetons) 
+Place 3: psychoman59 (963 en jetons) 
+psychoman59 : met la petite blind. 20
+Joach1S30 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 9h]
+psychoman59 : suit. 20
+Joach1S30 : parole 
+*** FLOP *** [Jd 2h 7c]
+Joach1S30 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Jd 2h 7c] [8c]
+Joach1S30 : mise. 40
+psychoman59 : suit. 40
+*** RIVIÈRE *** [Jd 2h 7c 8c] [7h]
+Joach1S30 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Joach1S30.
+Joach1S30 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Jd 2h 7c 8c 7h]
+Siège 1 : Joach1S30 (grosse blind) a remporté (160)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°256149951863 : Tournoi #3889947333, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/05/2025 11:05:41 CET [15/05/2025 5:05:41 ET]
+Table '3889947333 1' 3-max Siège #1 est au bouton.
+Place 1: Joach1S30 (617 en jetons) 
+Place 3: psychoman59 (883 en jetons) 
+Joach1S30 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 5s]
+Joach1S30 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Qh 3c 2h]
+psychoman59 : parole 
+Joach1S30 : parole 
+*** TOURNANT *** [Qh 3c 2h] [Tc]
+psychoman59 : parole 
+Joach1S30 : parole 
+*** RIVIÈRE *** [Qh 3c 2h Tc] [Ts]
+psychoman59 : mise. 80
+Joach1S30 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Qh 3c 2h Tc Ts]
+Siège 1 : Joach1S30 (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°256149953256 : Tournoi #3889947333, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/05/2025 11:05:58 CET [15/05/2025 5:05:58 ET]
+Table '3889947333 1' 3-max Siège #3 est au bouton.
+Place 1: Joach1S30 (577 en jetons) 
+Place 3: psychoman59 (923 en jetons) 
+psychoman59 : met la petite blind. 20
+Joach1S30 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 5h]
+psychoman59 : suit. 20
+Joach1S30 : parole 
+*** FLOP *** [5c 9s Qc]
+Joach1S30 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5c 9s Qc] [4c]
+Joach1S30 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [5c 9s Qc 4c] [4d]
+Joach1S30 : mise. 80
+psychoman59 : suit. 80
+*** ABATTAGE ***
+Joach1S30 : montre [Jc 9c] (une couleur, hauteur Dame)
+psychoman59 : cache la main perdante. 
+Joach1S30 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [5c 9s Qc 4c 4d]
+Siège 1 : Joach1S30 (grosse blind) a montré [Jc 9c] et a gagné (240) avec une couleur, hauteur Dame
+Siège 3 : psychoman59 (bouton) (petite blind) a caché la main perdante. [Kd 5h]
+
+
+
+Main PokerStars n°256149955091 : Tournoi #3889947333, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/05/2025 11:06:20 CET [15/05/2025 5:06:20 ET]
+Table '3889947333 1' 3-max Siège #1 est au bouton.
+Place 1: Joach1S30 (697 en jetons) 
+Place 3: psychoman59 (803 en jetons) 
+Joach1S30 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 9c]
+Joach1S30 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Jh 4h 7h]
+psychoman59 : parole 
+Joach1S30 : parole 
+*** TOURNANT *** [Jh 4h 7h] [8h]
+psychoman59 : parole 
+Joach1S30 : parole 
+*** RIVIÈRE *** [Jh 4h 7h 8h] [3h]
+psychoman59 : parole 
+Joach1S30 : mise. 60
+psychoman59 : suit. 60
+*** ABATTAGE ***
+Joach1S30 : montre [Kd 2d] (une couleur, hauteur Valet)
+psychoman59 : montre [8c 9c] (une couleur, hauteur Valet)
+psychoman59 a remporté 120  lors du pot .
+Joach1S30 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Jh 4h 7h 8h 3h]
+Siège 1 : Joach1S30 (bouton) (petite blind) a montré [Kd 2d] et a gagné (120) avec une couleur, hauteur Valet
+Siège 3 : psychoman59 (grosse blind) a montré [8c 9c] et a gagné (120) avec une couleur, hauteur Valet
+
+
+
+Main PokerStars n°256149956898 : Tournoi #3889947333, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/05/2025 11:06:41 CET [15/05/2025 5:06:41 ET]
+Table '3889947333 1' 3-max Siège #3 est au bouton.
+Place 1: Joach1S30 (697 en jetons) 
+Place 3: psychoman59 (803 en jetons) 
+psychoman59 : met la petite blind. 30
+Joach1S30 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 2h]
+psychoman59 : suit. 30
+Joach1S30 : parole 
+*** FLOP *** [9d 3c 6c]
+Joach1S30 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [9d 3c 6c] [7s]
+Joach1S30 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [9d 3c 6c 7s] [Qs]
+Joach1S30 : parole 
+psychoman59 : mise. 120
+Joach1S30 : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [9d 3c 6c 7s Qs]
+Siège 1 : Joach1S30 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°256149959094 : Tournoi #3889947333, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/05/2025 11:07:06 CET [15/05/2025 5:07:06 ET]
+Table '3889947333 1' 3-max Siège #1 est au bouton.
+Place 1: Joach1S30 (637 en jetons) 
+Place 3: psychoman59 (863 en jetons) 
+Joach1S30 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 2d]
+Joach1S30 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Joach1S30 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°256149959867 : Tournoi #3889947333, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/05/2025 11:07:15 CET [15/05/2025 5:07:15 ET]
+Table '3889947333 1' 3-max Siège #3 est au bouton.
+Place 1: Joach1S30 (607 en jetons) 
+Place 3: psychoman59 (893 en jetons) 
+psychoman59 : met la petite blind. 30
+Joach1S30 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 5h]
+psychoman59 : relance. 833 à 893 et est all-in.
+Joach1S30 a dépassé le temps imparti.
+Joach1S30 : passe. 
+Joach1S30 ne joue pas.
+Personne n'a suivi. (833) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : Joach1S30 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°256149961806 : Tournoi #3889947333, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/05/2025 11:07:38 CET [15/05/2025 5:07:38 ET]
+Table '3889947333 1' 3-max Siège #1 est au bouton.
+Place 1: Joach1S30 (547 en jetons) ne joue pas.
+Place 3: psychoman59 (953 en jetons) 
+Joach1S30 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Qh]
+Joach1S30 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+Joach1S30 est revenu.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Joach1S30 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°256149961970 : Tournoi #3889947333, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/05/2025 11:07:40 CET [15/05/2025 5:07:40 ET]
+Table '3889947333 1' 3-max Siège #3 est au bouton.
+Place 1: Joach1S30 (517 en jetons) 
+Place 3: psychoman59 (983 en jetons) 
+psychoman59 : met la petite blind. 30
+Joach1S30 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 9s]
+psychoman59 : relance. 923 à 983 et est all-in.
+Joach1S30 : passe. 
+Personne n'a suivi. (923) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : Joach1S30 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°256149962645 : Tournoi #3889947333, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/05/2025 11:07:48 CET [15/05/2025 5:07:48 ET]
+Table '3889947333 1' 3-max Siège #1 est au bouton.
+Place 1: Joach1S30 (457 en jetons) 
+Place 3: psychoman59 (1043 en jetons) 
+Joach1S30 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 3c]
+Joach1S30 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Qd 8c 5c]
+psychoman59 : parole 
+Joach1S30 : parole 
+*** TOURNANT *** [Qd 8c 5c] [Kh]
+psychoman59 : parole 
+Joach1S30 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à Joach1S30.
+Joach1S30 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Qd 8c 5c Kh]
+Siège 1 : Joach1S30 (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°256149963806 : Tournoi #3889947333, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 15/05/2025 11:08:02 CET [15/05/2025 5:08:02 ET]
+Table '3889947333 1' 3-max Siège #3 est au bouton.
+Place 1: Joach1S30 (517 en jetons) 
+Place 3: psychoman59 (983 en jetons) 
+psychoman59 : met la petite blind. 30
+Joach1S30 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 9d]
+psychoman59 : suit. 30
+Joach1S30 : parole 
+*** FLOP *** [9c 4s 8c]
+Joach1S30 : parole 
+psychoman59 : mise. 60
+Joach1S30 : relance. 60 à 120
+psychoman59 : relance. 803 à 923 et est all-in.
+Joach1S30 : suit. 337 et est all-in.
+Personne n'a suivi. (466) sont retournés à psychoman59.
+*** TOURNANT *** [9c 4s 8c] [3c]
+*** RIVIÈRE *** [9c 4s 8c 3c] [9s]
+*** ABATTAGE ***
+Joach1S30 : montre [8d 4c] (double paire, Neuf et Huit)
+psychoman59 : montre [8s 9d] (un full, full aux Neuf par les Huit)
+psychoman59 a remporté 1034  lors du pot .
+Joach1S30 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 1034 | Commission 0 
+Tableau [9c 4s 8c 3c 9s]
+Siège 1 : Joach1S30 (grosse blind) a montré [8d 4c] et a perdu avec double paire, Neuf et Huit
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [8s 9d] et a gagné (1034) avec un full, full aux Neuf par les Huit
+
+
+

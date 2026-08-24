@@ -1,0 +1,109 @@
+﻿Main PokerStars n°240491479074 : Tournoi #3516263947, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/12/2022 9:50:52 CET [16/12/2022 3:50:52 ET]
+Table '3516263947 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: bouz21121 (300 en jetons) 
+Place 3: mass192000 (300 en jetons) 
+bouz21121 : met la petite blind. 10
+mass192000 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 4d]
+psychoman59 : passe. 
+bouz21121 : relance. 40 à 60
+mass192000 : relance. 240 à 300 et est all-in.
+bouz21121 : suit. 240 et est all-in.
+*** FLOP *** [5d Tc 7c]
+*** TOURNANT *** [5d Tc 7c] [Kd]
+*** RIVIÈRE *** [5d Tc 7c Kd] [Ts]
+*** ABATTAGE ***
+bouz21121 : montre [Jc Jd] (double paire, Valets et Dix)
+mass192000 : montre [7d Ac] (double paire, Dix et Sept)
+bouz21121 a remporté 600  lors du pot .
+mass192000 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [5d Tc 7c Kd Ts]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : bouz21121 (petite blind) a montré [Jc Jd] et a gagné (600) avec double paire, Valets et Dix
+Siège 3 : mass192000 (grosse blind) a montré [7d Ac] et a perdu avec double paire, Dix et Sept
+
+
+
+Main PokerStars n°240491482519 : Tournoi #3516263947, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/12/2022 9:51:21 CET [16/12/2022 3:51:21 ET]
+Table '3516263947 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: bouz21121 (600 en jetons) 
+bouz21121 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 9s]
+bouz21121 : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (20)
+Siège 2 : bouz21121 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240491482989 : Tournoi #3516263947, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/12/2022 9:51:25 CET [16/12/2022 3:51:25 ET]
+Table '3516263947 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (310 en jetons) 
+Place 2: bouz21121 (590 en jetons) 
+psychoman59 : met la petite blind. 10
+bouz21121 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Js]
+psychoman59 : suit. 10
+bouz21121 : relance. 20 à 40
+psychoman59 : suit. 20
+*** FLOP *** [8c Ac 7h]
+bouz21121 : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [8c Ac 7h] [Td]
+bouz21121 : mise. 80
+psychoman59 : suit. 80
+*** RIVIÈRE *** [8c Ac 7h Td] [9d]
+bouz21121 : mise. 450 et est all-in.
+psychoman59 : suit. 170 et est all-in.
+Personne n'a suivi. (280) sont retournés à bouz21121.
+*** ABATTAGE ***
+bouz21121 : montre [3s As] (une paire de As)
+psychoman59 : montre [Tc Js] (une suite, Sept à Valet)
+psychoman59 a remporté 620  lors du pot .
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [8c Ac 7h Td 9d]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Tc Js] et a gagné (620) avec une suite, Sept à Valet
+Siège 2 : bouz21121 (grosse blind) a montré [3s As] et a perdu avec une paire de As
+
+
+
+Main PokerStars n°240491485908 : Tournoi #3516263947, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 16/12/2022 9:51:50 CET [16/12/2022 3:51:50 ET]
+Table '3516263947 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (620 en jetons) 
+Place 2: bouz21121 (280 en jetons) 
+bouz21121 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh As]
+bouz21121 : relance. 260 à 280 et est all-in.
+psychoman59 : suit. 260
+*** FLOP *** [3d 5h Qh]
+*** TOURNANT *** [3d 5h Qh] [7s]
+*** RIVIÈRE *** [3d 5h Qh 7s] [5s]
+*** ABATTAGE ***
+psychoman59 : montre [Jh As] (une paire de Cinq)
+bouz21121 : montre [Jc 9d] (une paire de Cinq - plus basse kicker)
+psychoman59 a remporté 560  lors du pot .
+bouz21121 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [3d 5h Qh 7s 5s]
+Siège 1 : psychoman59 (grosse blind) a montré [Jh As] et a gagné (560) avec une paire de Cinq
+Siège 2 : bouz21121 (bouton) (petite blind) a montré [Jc 9d] et a perdu avec une paire de Cinq
+
+
+

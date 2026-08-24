@@ -1,0 +1,785 @@
+﻿Main PokerStars n°260350776986 : Tournoi #3989415747, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 05/04/2026 8:23:36 CET [05/04/2026 2:23:36 ET]
+Table '3989415747 1' 3-max Siège #1 est au bouton.
+Place 1: FumaPoker83 (500 en jetons) 
+Place 2: desman66 (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+desman66 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 3d]
+FumaPoker83 : relance. 480 à 500 et est all-in.
+desman66 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (480) sont retournés à FumaPoker83.
+FumaPoker83 a remporté 50  lors du pot .
+FumaPoker83 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : FumaPoker83 (bouton) a remporté (50)
+Siège 2 : desman66 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260350777605 : Tournoi #3989415747, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 05/04/2026 8:23:45 CET [05/04/2026 2:23:45 ET]
+Table '3989415747 1' 3-max Siège #2 est au bouton.
+Place 1: FumaPoker83 (530 en jetons) 
+Place 2: desman66 (490 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 10
+FumaPoker83 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 6c]
+desman66 : suit. 20
+psychoman59 : passe. 
+FumaPoker83 : parole 
+*** FLOP *** [7d Qh 7c]
+FumaPoker83 : parole 
+desman66 : parole 
+*** TOURNANT *** [7d Qh 7c] [6s]
+FumaPoker83 : parole 
+desman66 : parole 
+*** RIVIÈRE *** [7d Qh 7c 6s] [7h]
+FumaPoker83 : mise. 20
+desman66 : suit. 20
+*** ABATTAGE ***
+FumaPoker83 : montre [6h Tc] (un full, full aux Sept par les Six)
+desman66 : cache la main perdante. 
+FumaPoker83 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [7d Qh 7c 6s 7h]
+Siège 1 : FumaPoker83 (grosse blind) a montré [6h Tc] et a gagné (90) avec un full, full aux Sept par les Six
+Siège 2 : desman66 (bouton) a caché la main perdante. [8c Ah]
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260350778660 : Tournoi #3989415747, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 05/04/2026 8:24:02 CET [05/04/2026 2:24:02 ET]
+Table '3989415747 1' 3-max Siège #3 est au bouton.
+Place 1: FumaPoker83 (580 en jetons) 
+Place 2: desman66 (450 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+FumaPoker83 : met la petite blind. 10
+desman66 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 3c]
+psychoman59 : passe. 
+FumaPoker83 : passe. 
+Personne n'a suivi. (10) sont retournés à desman66.
+desman66 a remporté 20  lors du pot .
+desman66 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : FumaPoker83 (petite blind) s'est couché. avant Flop
+Siège 2 : desman66 (grosse blind) a remporté (20)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260350779130 : Tournoi #3989415747, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 05/04/2026 8:24:09 CET [05/04/2026 2:24:09 ET]
+Table '3989415747 1' 3-max Siège #1 est au bouton.
+Place 1: FumaPoker83 (570 en jetons) 
+Place 2: desman66 (460 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+desman66 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 9h]
+FumaPoker83 : suit. 20
+desman66 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [3s Jh 2h]
+desman66 : parole 
+psychoman59 : parole 
+FumaPoker83 : parole 
+*** TOURNANT *** [3s Jh 2h] [6d]
+desman66 : parole 
+psychoman59 : parole 
+FumaPoker83 : parole 
+*** RIVIÈRE *** [3s Jh 2h 6d] [6c]
+desman66 : mise. 20
+psychoman59 : passe. 
+FumaPoker83 : suit. 20
+*** ABATTAGE ***
+desman66 : montre [6h Qh] (un brelan de Six)
+FumaPoker83 : cache la main perdante. 
+desman66 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [3s Jh 2h 6d 6c]
+Siège 1 : FumaPoker83 (bouton) a caché la main perdante. [3d 4d]
+Siège 2 : desman66 (petite blind) a montré [6h Qh] et a gagné (100) avec un brelan de Six
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°260350780868 : Tournoi #3989415747, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 05/04/2026 8:24:36 CET [05/04/2026 2:24:36 ET]
+Table '3989415747 1' 3-max Siège #2 est au bouton.
+Place 1: FumaPoker83 (530 en jetons) 
+Place 2: desman66 (520 en jetons) 
+Place 3: psychoman59 (450 en jetons) 
+psychoman59 : met la petite blind. 10
+FumaPoker83 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Ks]
+desman66 : passe. 
+psychoman59 : suit. 10
+FumaPoker83 : parole 
+*** FLOP *** [Kd 8c 2d]
+psychoman59 : parole 
+FumaPoker83 : parole 
+*** TOURNANT *** [Kd 8c 2d] [Jh]
+psychoman59 : parole 
+FumaPoker83 : parole 
+*** RIVIÈRE *** [Kd 8c 2d Jh] [8s]
+psychoman59 : mise. 20
+FumaPoker83 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Kd 8c 2d Jh 8s]
+Siège 1 : FumaPoker83 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : desman66 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°260350782209 : Tournoi #3989415747, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 05/04/2026 8:24:57 CET [05/04/2026 2:24:57 ET]
+Table '3989415747 1' 3-max Siège #3 est au bouton.
+Place 1: FumaPoker83 (510 en jetons) 
+Place 2: desman66 (520 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+FumaPoker83 : met la petite blind. 10
+desman66 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 4h]
+psychoman59 : passe. 
+FumaPoker83 : suit. 10
+desman66 : parole 
+*** FLOP *** [9d 7d Qc]
+FumaPoker83 : parole 
+desman66 : parole 
+*** TOURNANT *** [9d 7d Qc] [Ah]
+FumaPoker83 : parole 
+desman66 : parole 
+*** RIVIÈRE *** [9d 7d Qc Ah] [2h]
+FumaPoker83 : parole 
+desman66 : mise. 20
+FumaPoker83 : passe. 
+Personne n'a suivi. (20) sont retournés à desman66.
+desman66 a remporté 40  lors du pot .
+desman66 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [9d 7d Qc Ah 2h]
+Siège 1 : FumaPoker83 (petite blind) s'est couché. sur le Rivière
+Siège 2 : desman66 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260350783948 : Tournoi #3989415747, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 05/04/2026 8:25:24 CET [05/04/2026 2:25:24 ET]
+Table '3989415747 1' 3-max Siège #1 est au bouton.
+Place 1: FumaPoker83 (490 en jetons) 
+Place 2: desman66 (540 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+desman66 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Th]
+FumaPoker83 : relance. 20 à 40
+desman66 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à FumaPoker83.
+FumaPoker83 a remporté 50  lors du pot .
+FumaPoker83 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : FumaPoker83 (bouton) a remporté (50)
+Siège 2 : desman66 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260350784734 : Tournoi #3989415747, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 05/04/2026 8:25:36 CET [05/04/2026 2:25:36 ET]
+Table '3989415747 1' 3-max Siège #2 est au bouton.
+Place 1: FumaPoker83 (520 en jetons) 
+Place 2: desman66 (530 en jetons) 
+Place 3: psychoman59 (450 en jetons) 
+psychoman59 : met la petite blind. 10
+FumaPoker83 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 8d]
+desman66 : suit. 20
+psychoman59 : passe. 
+FumaPoker83 : parole 
+*** FLOP *** [3h 4c 2h]
+FumaPoker83 : parole 
+desman66 : parole 
+*** TOURNANT *** [3h 4c 2h] [8s]
+FumaPoker83 : parole 
+desman66 : parole 
+*** RIVIÈRE *** [3h 4c 2h 8s] [6h]
+FumaPoker83 : parole 
+desman66 : parole 
+*** ABATTAGE ***
+FumaPoker83 : montre [7h Kd] (Hauteur Roi)
+desman66 : montre [9s Ad] (Hauteur As)
+desman66 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [3h 4c 2h 8s 6h]
+Siège 1 : FumaPoker83 (grosse blind) a montré [7h Kd] et a perdu avec Hauteur Roi
+Siège 2 : desman66 (bouton) a montré [9s Ad] et a gagné (50) avec Hauteur As
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260350786672 : Tournoi #3989415747, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 05/04/2026 8:26:06 CET [05/04/2026 2:26:06 ET]
+Table '3989415747 1' 3-max Siège #3 est au bouton.
+Place 1: FumaPoker83 (500 en jetons) 
+Place 2: desman66 (560 en jetons) 
+Place 3: psychoman59 (440 en jetons) 
+FumaPoker83 : met la petite blind. 15
+desman66 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 4s]
+psychoman59 : relance. 60 à 90
+FumaPoker83 : passe. 
+desman66 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 75  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : FumaPoker83 (petite blind) s'est couché. avant Flop
+Siège 2 : desman66 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a remporté (75)
+
+
+
+Main PokerStars n°260350787189 : Tournoi #3989415747, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 05/04/2026 8:26:15 CET [05/04/2026 2:26:15 ET]
+Table '3989415747 1' 3-max Siège #1 est au bouton.
+Place 1: FumaPoker83 (485 en jetons) 
+Place 2: desman66 (530 en jetons) 
+Place 3: psychoman59 (485 en jetons) 
+desman66 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Qc]
+FumaPoker83 : passe. 
+desman66 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [7d 8s Kh]
+desman66 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [7d 8s Kh] [9h]
+desman66 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [7d 8s Kh 9h] [3c]
+desman66 : mise. 30
+psychoman59 : suit. 30
+*** ABATTAGE ***
+desman66 : montre [Ts Jd] (une suite, Sept à Valet)
+psychoman59 : cache la main perdante. 
+desman66 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [7d 8s Kh 9h 3c]
+Siège 1 : FumaPoker83 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : desman66 (petite blind) a montré [Ts Jd] et a gagné (120) avec une suite, Sept à Valet
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [9c Qc]
+
+
+
+Main PokerStars n°260350788706 : Tournoi #3989415747, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 05/04/2026 8:26:38 CET [05/04/2026 2:26:38 ET]
+Table '3989415747 1' 3-max Siège #2 est au bouton.
+Place 1: FumaPoker83 (485 en jetons) 
+Place 2: desman66 (590 en jetons) 
+Place 3: psychoman59 (425 en jetons) 
+psychoman59 : met la petite blind. 15
+FumaPoker83 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 3h]
+desman66 : relance. 90 à 120
+psychoman59 : passe. 
+FumaPoker83 : passe. 
+Personne n'a suivi. (90) sont retournés à desman66.
+desman66 a remporté 75  lors du pot .
+desman66 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : FumaPoker83 (grosse blind) s'est couché. avant Flop
+Siège 2 : desman66 (bouton) a remporté (75)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260350789346 : Tournoi #3989415747, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 05/04/2026 8:26:47 CET [05/04/2026 2:26:47 ET]
+Table '3989415747 1' 3-max Siège #3 est au bouton.
+Place 1: FumaPoker83 (455 en jetons) 
+Place 2: desman66 (635 en jetons) 
+Place 3: psychoman59 (410 en jetons) 
+FumaPoker83 : met la petite blind. 15
+desman66 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Jd]
+psychoman59 : passe. 
+FumaPoker83 : passe. 
+Personne n'a suivi. (15) sont retournés à desman66.
+desman66 a remporté 30  lors du pot .
+desman66 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : FumaPoker83 (petite blind) s'est couché. avant Flop
+Siège 2 : desman66 (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260350789765 : Tournoi #3989415747, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 05/04/2026 8:26:54 CET [05/04/2026 2:26:54 ET]
+Table '3989415747 1' 3-max Siège #1 est au bouton.
+Place 1: FumaPoker83 (440 en jetons) 
+Place 2: desman66 (650 en jetons) 
+Place 3: psychoman59 (410 en jetons) 
+desman66 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Jh]
+FumaPoker83 : passe. 
+desman66 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : FumaPoker83 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : desman66 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°260350790210 : Tournoi #3989415747, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 05/04/2026 8:27:00 CET [05/04/2026 2:27:00 ET]
+Table '3989415747 1' 3-max Siège #2 est au bouton.
+Place 1: FumaPoker83 (440 en jetons) 
+Place 2: desman66 (635 en jetons) 
+Place 3: psychoman59 (425 en jetons) 
+psychoman59 : met la petite blind. 15
+FumaPoker83 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 5h]
+desman66 : passe. 
+psychoman59 : relance. 395 à 425 et est all-in.
+FumaPoker83 : passe. 
+Personne n'a suivi. (395) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : FumaPoker83 (grosse blind) s'est couché. avant Flop
+Siège 2 : desman66 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°260350790902 : Tournoi #3989415747, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 05/04/2026 8:27:10 CET [05/04/2026 2:27:10 ET]
+Table '3989415747 1' 3-max Siège #3 est au bouton.
+Place 1: FumaPoker83 (410 en jetons) 
+Place 2: desman66 (635 en jetons) 
+Place 3: psychoman59 (455 en jetons) 
+FumaPoker83 : met la petite blind. 15
+desman66 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 3c]
+psychoman59 : passe. 
+FumaPoker83 : relance. 380 à 410 et est all-in.
+desman66 : passe. 
+Personne n'a suivi. (380) sont retournés à FumaPoker83.
+FumaPoker83 a remporté 60  lors du pot .
+FumaPoker83 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : FumaPoker83 (petite blind) a remporté (60)
+Siège 2 : desman66 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260350791428 : Tournoi #3989415747, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 05/04/2026 8:27:18 CET [05/04/2026 2:27:18 ET]
+Table '3989415747 1' 3-max Siège #1 est au bouton.
+Place 1: FumaPoker83 (440 en jetons) 
+Place 2: desman66 (605 en jetons) 
+Place 3: psychoman59 (455 en jetons) 
+desman66 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Tc]
+FumaPoker83 : relance. 45 à 75
+desman66 : passe. 
+psychoman59 : suit. 45
+*** FLOP *** [8d Td Jc]
+psychoman59 : mise. 380 et est all-in.
+FumaPoker83 : suit. 365 et est all-in.
+Personne n'a suivi. (15) sont retournés à psychoman59.
+*** TOURNANT *** [8d Td Jc] [Th]
+*** RIVIÈRE *** [8d Td Jc Th] [8h]
+*** ABATTAGE ***
+psychoman59 : montre [Ah Tc] (un full, full aux Dix par les Huit)
+FumaPoker83 : montre [9s As] (double paire, Dix et Huit)
+psychoman59 a remporté 895  lors du pot .
+FumaPoker83 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 895 | Commission 0 
+Tableau [8d Td Jc Th 8h]
+Siège 1 : FumaPoker83 (bouton) a montré [9s As] et a perdu avec double paire, Dix et Huit
+Siège 2 : desman66 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [Ah Tc] et a gagné (895) avec un full, full aux Dix par les Huit
+
+
+
+Main PokerStars n°260350793094 : Tournoi #3989415747, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 05/04/2026 8:27:45 CET [05/04/2026 2:27:45 ET]
+Table '3989415747 1' 3-max Siège #3 est au bouton.
+Place 2: desman66 (590 en jetons) 
+Place 3: psychoman59 (910 en jetons) 
+psychoman59 : met la petite blind. 20
+desman66 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 9h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à desman66.
+desman66 a remporté 40  lors du pot .
+desman66 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : desman66 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260350793381 : Tournoi #3989415747, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 05/04/2026 8:27:49 CET [05/04/2026 2:27:49 ET]
+Table '3989415747 1' 3-max Siège #2 est au bouton.
+Place 2: desman66 (610 en jetons) 
+Place 3: psychoman59 (890 en jetons) 
+desman66 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Tc]
+desman66 : suit. 20
+psychoman59 : relance. 850 à 890 et est all-in.
+desman66 : passe. 
+Personne n'a suivi. (850) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : desman66 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°260350793893 : Tournoi #3989415747, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 05/04/2026 8:27:57 CET [05/04/2026 2:27:57 ET]
+Table '3989415747 1' 3-max Siège #3 est au bouton.
+Place 2: desman66 (570 en jetons) 
+Place 3: psychoman59 (930 en jetons) 
+psychoman59 : met la petite blind. 20
+desman66 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Kh]
+psychoman59 : suit. 20
+desman66 : parole 
+*** FLOP *** [5c 7h Ac]
+desman66 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5c 7h Ac] [Ks]
+desman66 : parole 
+psychoman59 : mise. 40
+desman66 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [5c 7h Ac Ks]
+Siège 2 : desman66 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°260350794839 : Tournoi #3989415747, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 05/04/2026 8:28:12 CET [05/04/2026 2:28:12 ET]
+Table '3989415747 1' 3-max Siège #2 est au bouton.
+Place 2: desman66 (530 en jetons) 
+Place 3: psychoman59 (970 en jetons) 
+desman66 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Ac]
+desman66 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : desman66 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°260350795112 : Tournoi #3989415747, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 05/04/2026 8:28:16 CET [05/04/2026 2:28:16 ET]
+Table '3989415747 1' 3-max Siège #3 est au bouton.
+Place 2: desman66 (510 en jetons) 
+Place 3: psychoman59 (990 en jetons) 
+psychoman59 : met la petite blind. 20
+desman66 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 9d]
+psychoman59 : suit. 20
+desman66 : parole 
+*** FLOP *** [4c 6d Ah]
+desman66 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [4c 6d Ah] [Ks]
+desman66 : parole 
+psychoman59 : mise. 40
+desman66 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [4c 6d Ah Ks]
+Siège 2 : desman66 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°260350796082 : Tournoi #3989415747, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 05/04/2026 8:28:31 CET [05/04/2026 2:28:31 ET]
+Table '3989415747 1' 3-max Siège #2 est au bouton.
+Place 2: desman66 (470 en jetons) 
+Place 3: psychoman59 (1030 en jetons) 
+desman66 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Kh]
+desman66 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : desman66 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°260350796379 : Tournoi #3989415747, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 05/04/2026 8:28:36 CET [05/04/2026 2:28:36 ET]
+Table '3989415747 1' 3-max Siège #3 est au bouton.
+Place 2: desman66 (450 en jetons) 
+Place 3: psychoman59 (1050 en jetons) 
+psychoman59 : met la petite blind. 20
+desman66 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 5h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à desman66.
+desman66 a remporté 40  lors du pot .
+desman66 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : desman66 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260350796665 : Tournoi #3989415747, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 05/04/2026 8:28:40 CET [05/04/2026 2:28:40 ET]
+Table '3989415747 1' 3-max Siège #2 est au bouton.
+Place 2: desman66 (470 en jetons) 
+Place 3: psychoman59 (1030 en jetons) 
+desman66 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Ks]
+desman66 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : desman66 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°260350797189 : Tournoi #3989415747, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 05/04/2026 8:28:48 CET [05/04/2026 2:28:48 ET]
+Table '3989415747 1' 3-max Siège #3 est au bouton.
+Place 2: desman66 (450 en jetons) 
+Place 3: psychoman59 (1050 en jetons) 
+psychoman59 : met la petite blind. 20
+desman66 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Js]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à desman66.
+desman66 a remporté 40  lors du pot .
+desman66 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : desman66 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260350797475 : Tournoi #3989415747, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 05/04/2026 8:28:53 CET [05/04/2026 2:28:53 ET]
+Table '3989415747 1' 3-max Siège #2 est au bouton.
+Place 2: desman66 (470 en jetons) 
+Place 3: psychoman59 (1030 en jetons) 
+desman66 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 6s]
+desman66 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : desman66 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°260350797809 : Tournoi #3989415747, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 05/04/2026 8:28:58 CET [05/04/2026 2:28:58 ET]
+Table '3989415747 1' 3-max Siège #3 est au bouton.
+Place 2: desman66 (450 en jetons) 
+Place 3: psychoman59 (1050 en jetons) 
+psychoman59 : met la petite blind. 20
+desman66 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Qh]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à desman66.
+desman66 a remporté 40  lors du pot .
+desman66 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : desman66 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260350798114 : Tournoi #3989415747, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 05/04/2026 8:29:03 CET [05/04/2026 2:29:03 ET]
+Table '3989415747 1' 3-max Siège #2 est au bouton.
+Place 2: desman66 (470 en jetons) 
+Place 3: psychoman59 (1030 en jetons) 
+desman66 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 5c]
+desman66 : relance. 120 à 160
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à desman66.
+desman66 a remporté 80  lors du pot .
+desman66 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : desman66 (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260350798581 : Tournoi #3989415747, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 05/04/2026 8:29:10 CET [05/04/2026 2:29:10 ET]
+Table '3989415747 1' 3-max Siège #3 est au bouton.
+Place 2: desman66 (510 en jetons) 
+Place 3: psychoman59 (990 en jetons) 
+psychoman59 : met la petite blind. 20
+desman66 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Ah]
+psychoman59 : relance. 950 à 990 et est all-in.
+desman66 : suit. 470 et est all-in.
+Personne n'a suivi. (480) sont retournés à psychoman59.
+*** FLOP *** [4d Td Ts]
+*** TOURNANT *** [4d Td Ts] [Kh]
+*** RIVIÈRE *** [4d Td Ts Kh] [2d]
+*** ABATTAGE ***
+desman66 : montre [9s 9h] (double paire, Dix et Neuf)
+psychoman59 : montre [2c Ah] (double paire, Dix et Deux)
+desman66 a remporté 1020  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1020 | Commission 0 
+Tableau [4d Td Ts Kh 2d]
+Siège 2 : desman66 (grosse blind) a montré [9s 9h] et a gagné (1020) avec double paire, Dix et Neuf
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [2c Ah] et a perdu avec double paire, Dix et Deux
+
+
+
+Main PokerStars n°260350799441 : Tournoi #3989415747, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 05/04/2026 8:29:23 CET [05/04/2026 2:29:23 ET]
+Table '3989415747 1' 3-max Siège #2 est au bouton.
+Place 2: desman66 (1020 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+desman66 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 5h]
+desman66 : relance. 980 à 1020 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (980) sont retournés à desman66.
+desman66 a remporté 80  lors du pot .
+desman66 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : desman66 (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260350799999 : Tournoi #3989415747, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 05/04/2026 8:29:32 CET [05/04/2026 2:29:32 ET]
+Table '3989415747 1' 3-max Siège #3 est au bouton.
+Place 2: desman66 (1060 en jetons) 
+Place 3: psychoman59 (440 en jetons) 
+psychoman59 : met la petite blind. 20
+desman66 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 5h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à desman66.
+desman66 a remporté 40  lors du pot .
+desman66 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : desman66 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260350800260 : Tournoi #3989415747, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 05/04/2026 8:29:36 CET [05/04/2026 2:29:36 ET]
+Table '3989415747 1' 3-max Siège #2 est au bouton.
+Place 2: desman66 (1080 en jetons) 
+Place 3: psychoman59 (420 en jetons) 
+desman66 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Th]
+desman66 : relance. 1040 à 1080 et est all-in.
+psychoman59 : suit. 380 et est all-in.
+Personne n'a suivi. (660) sont retournés à desman66.
+*** FLOP *** [4c 3h 3c]
+*** TOURNANT *** [4c 3h 3c] [Qs]
+*** RIVIÈRE *** [4c 3h 3c Qs] [Kh]
+*** ABATTAGE ***
+psychoman59 : montre [Js Th] (une paire de Trois)
+desman66 : montre [Ad 8c] (une paire de Trois - As kicker)
+desman66 a remporté 840  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+desman66 gagne le tournoi - félicitations !
+desman66 gagne un ticket " €1.50 Step 2 SnG Power Path ticket "
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Tableau [4c 3h 3c Qs Kh]
+Siège 2 : desman66 (bouton) (petite blind) a montré [Ad 8c] et a gagné (840) avec une paire de Trois
+Siège 3 : psychoman59 (grosse blind) a montré [Js Th] et a perdu avec une paire de Trois
+
+
+

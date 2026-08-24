@@ -1,0 +1,395 @@
+﻿Main PokerStars n°255970748512 : Tournoi #3885269093, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 02/05/2025 7:45:09 CET [02/05/2025 1:45:09 ET]
+Table '3885269093 1' 3-max Siège #1 est au bouton.
+Place 1: dadouf (500 en jetons) 
+Place 2: jair varela 11 (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+jair varela 11 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 7d]
+dadouf : suit. 20
+jair varela 11 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [6h 7c Th]
+jair varela 11 : parole 
+psychoman59 : parole 
+dadouf : parole 
+*** TOURNANT *** [6h 7c Th] [9c]
+jair varela 11 : parole 
+psychoman59 : parole 
+dadouf : mise. 60
+jair varela 11 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à dadouf.
+dadouf a remporté 60  lors du pot .
+dadouf : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [6h 7c Th 9c]
+Siège 1 : dadouf (bouton) a remporté (60)
+Siège 2 : jair varela 11 (petite blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°255970750080 : Tournoi #3885269093, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 02/05/2025 7:45:33 CET [02/05/2025 1:45:33 ET]
+Table '3885269093 1' 3-max Siège #2 est au bouton.
+Place 1: dadouf (540 en jetons) 
+Place 2: jair varela 11 (480 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 10
+dadouf : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Kc]
+jair varela 11 : suit. 20
+psychoman59 : suit. 10
+dadouf : relance. 520 à 540 et est all-in.
+jair varela 11 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (520) sont retournés à dadouf.
+dadouf a remporté 60  lors du pot .
+dadouf : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : dadouf (grosse blind) a remporté (60)
+Siège 2 : jair varela 11 (bouton) s'est couché. avant Flop
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°255970750850 : Tournoi #3885269093, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 02/05/2025 7:45:43 CET [02/05/2025 1:45:43 ET]
+Table '3885269093 1' 3-max Siège #3 est au bouton.
+Place 1: dadouf (580 en jetons) 
+Place 2: jair varela 11 (460 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+dadouf : met la petite blind. 10
+jair varela 11 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Ac]
+psychoman59 : suit. 20
+dadouf : suit. 10
+jair varela 11 : parole 
+*** FLOP *** [7d 6c Th]
+dadouf : parole 
+jair varela 11 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [7d 6c Th] [6h]
+dadouf : parole 
+jair varela 11 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [7d 6c Th 6h] [8c]
+dadouf : parole 
+jair varela 11 : parole 
+psychoman59 : mise. 60
+dadouf : passe. 
+jair varela 11 : relance. 380 à 440 et est all-in.
+psychoman59 : suit. 380 et est all-in.
+*** ABATTAGE ***
+jair varela 11 : montre [9h 6s] (une suite, Six à Dix)
+psychoman59 : montre [9d Ac] (une suite, Six à Dix)
+jair varela 11 a remporté 470  lors du pot .
+psychoman59 a remporté 470  lors du pot .
+*** SYNTHÈSE ***
+Pot total 940 | Commission 0 
+Tableau [7d 6c Th 6h 8c]
+Siège 1 : dadouf (petite blind) s'est couché. sur le Rivière
+Siège 2 : jair varela 11 (grosse blind) a montré [9h 6s] et a gagné (470) avec une suite, Six à Dix
+Siège 3 : psychoman59 (bouton) a montré [9d Ac] et a gagné (470) avec une suite, Six à Dix
+
+
+
+Main PokerStars n°255970752875 : Tournoi #3885269093, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 02/05/2025 7:46:12 CET [02/05/2025 1:46:12 ET]
+Table '3885269093 1' 3-max Siège #1 est au bouton.
+Place 1: dadouf (560 en jetons) 
+Place 2: jair varela 11 (470 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+jair varela 11 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 2s]
+dadouf : suit. 20
+jair varela 11 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Ah Jc 4d]
+jair varela 11 : mise. 20
+psychoman59 : passe. 
+dadouf : passe. 
+Personne n'a suivi. (20) sont retournés à jair varela 11.
+jair varela 11 a remporté 60  lors du pot .
+jair varela 11 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ah Jc 4d]
+Siège 1 : dadouf (bouton) s'est couché. sur le Flop
+Siège 2 : jair varela 11 (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°255970753999 : Tournoi #3885269093, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 02/05/2025 7:46:29 CET [02/05/2025 1:46:29 ET]
+Table '3885269093 1' 3-max Siège #2 est au bouton.
+Place 1: dadouf (540 en jetons) 
+Place 2: jair varela 11 (510 en jetons) 
+Place 3: psychoman59 (450 en jetons) 
+psychoman59 : met la petite blind. 10
+dadouf : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 9s]
+jair varela 11 : relance. 50 à 70
+psychoman59 : passe. 
+dadouf : relance. 470 à 540 et est all-in.
+jair varela 11 : suit. 440 et est all-in.
+Personne n'a suivi. (30) sont retournés à dadouf.
+*** FLOP *** [5c Qs Jd]
+*** TOURNANT *** [5c Qs Jd] [As]
+*** RIVIÈRE *** [5c Qs Jd As] [2c]
+*** ABATTAGE ***
+dadouf : montre [Ah Qd] (double paire, As et Dames)
+jair varela 11 : montre [6s 6d] (une paire de Six)
+dadouf a remporté 1030  lors du pot .
+jair varela 11 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 1030 | Commission 0 
+Tableau [5c Qs Jd As 2c]
+Siège 1 : dadouf (grosse blind) a montré [Ah Qd] et a gagné (1030) avec double paire, As et Dames
+Siège 2 : jair varela 11 (bouton) a montré [6s 6d] et a perdu avec une paire de Six
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°255970755340 : Tournoi #3885269093, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 02/05/2025 7:46:49 CET [02/05/2025 1:46:49 ET]
+Table '3885269093 1' 3-max Siège #1 est au bouton.
+Place 1: dadouf (1060 en jetons) 
+Place 3: psychoman59 (440 en jetons) 
+dadouf : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 9s]
+dadouf : suit. 10
+psychoman59 : parole 
+*** FLOP *** [9h Kh 3c]
+psychoman59 : parole 
+dadouf : parole 
+*** TOURNANT *** [9h Kh 3c] [3s]
+psychoman59 : parole 
+dadouf : parole 
+*** RIVIÈRE *** [9h Kh 3c 3s] [7c]
+psychoman59 : mise. 40
+dadouf : relance. 120 à 160
+psychoman59 : suit. 120
+*** ABATTAGE ***
+dadouf : montre [6d 3h] (un brelan de Trois)
+psychoman59 : cache la main perdante. 
+dadouf a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [9h Kh 3c 3s 7c]
+Siège 1 : dadouf (bouton) (petite blind) a montré [6d 3h] et a gagné (360) avec un brelan de Trois
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [Kd 9s]
+
+
+
+Main PokerStars n°255970756567 : Tournoi #3885269093, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 02/05/2025 7:47:06 CET [02/05/2025 1:47:06 ET]
+Table '3885269093 1' 3-max Siège #3 est au bouton.
+Place 1: dadouf (1240 en jetons) 
+Place 3: psychoman59 (260 en jetons) 
+psychoman59 : met la petite blind. 10
+dadouf : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Jd]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à dadouf.
+dadouf a remporté 20  lors du pot .
+dadouf : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : dadouf (grosse blind) a remporté (20)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°255970757210 : Tournoi #3885269093, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 02/05/2025 7:47:16 CET [02/05/2025 1:47:16 ET]
+Table '3885269093 1' 3-max Siège #1 est au bouton.
+Place 1: dadouf (1250 en jetons) 
+Place 3: psychoman59 (250 en jetons) 
+dadouf : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Kh]
+dadouf : suit. 15
+psychoman59 : parole 
+*** FLOP *** [4h Qd Tc]
+psychoman59 : parole 
+dadouf : parole 
+*** TOURNANT *** [4h Qd Tc] [Qs]
+psychoman59 : parole 
+dadouf : parole 
+*** RIVIÈRE *** [4h Qd Tc Qs] [Ts]
+psychoman59 : parole 
+dadouf : parole 
+*** ABATTAGE ***
+psychoman59 : montre [3d Kh] (double paire, Dames et Dix)
+dadouf : cache la main perdante. 
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [4h Qd Tc Qs Ts]
+Siège 1 : dadouf (bouton) (petite blind) a caché la main perdante. [2d 5c]
+Siège 3 : psychoman59 (grosse blind) a montré [3d Kh] et a gagné (60) avec double paire, Dames et Dix
+
+
+
+Main PokerStars n°255970758399 : Tournoi #3885269093, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 02/05/2025 7:47:33 CET [02/05/2025 1:47:33 ET]
+Table '3885269093 1' 3-max Siège #3 est au bouton.
+Place 1: dadouf (1220 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 15
+dadouf : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 5s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à dadouf.
+dadouf a remporté 30  lors du pot .
+dadouf : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : dadouf (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°255970758825 : Tournoi #3885269093, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 02/05/2025 7:47:39 CET [02/05/2025 1:47:39 ET]
+Table '3885269093 1' 3-max Siège #1 est au bouton.
+Place 1: dadouf (1235 en jetons) 
+Place 3: psychoman59 (265 en jetons) 
+dadouf : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 4s]
+dadouf : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Jc Ks 2s]
+psychoman59 : parole 
+dadouf : parole 
+*** TOURNANT *** [Jc Ks 2s] [6d]
+psychoman59 : parole 
+dadouf : parole 
+*** RIVIÈRE *** [Jc Ks 2s 6d] [Jd]
+psychoman59 : mise. 60
+dadouf : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Jc Ks 2s 6d Jd]
+Siège 1 : dadouf (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°255970759855 : Tournoi #3885269093, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 02/05/2025 7:47:54 CET [02/05/2025 1:47:54 ET]
+Table '3885269093 1' 3-max Siège #3 est au bouton.
+Place 1: dadouf (1205 en jetons) 
+Place 3: psychoman59 (295 en jetons) 
+psychoman59 : met la petite blind. 15
+dadouf : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Kc]
+psychoman59 : relance. 265 à 295 et est all-in.
+dadouf : suit. 265
+*** FLOP *** [3s 5d 6s]
+*** TOURNANT *** [3s 5d 6s] [8s]
+*** RIVIÈRE *** [3s 5d 6s 8s] [5h]
+*** ABATTAGE ***
+dadouf : montre [Ks 9h] (une paire de Cinq)
+psychoman59 : montre [Jc Kc] (une paire de Cinq - Roi+Valet kicker)
+psychoman59 a remporté 590  lors du pot .
+*** SYNTHÈSE ***
+Pot total 590 | Commission 0 
+Tableau [3s 5d 6s 8s 5h]
+Siège 1 : dadouf (grosse blind) a montré [Ks 9h] et a perdu avec une paire de Cinq
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Jc Kc] et a gagné (590) avec une paire de Cinq
+
+
+
+Main PokerStars n°255970760823 : Tournoi #3885269093, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 02/05/2025 7:48:08 CET [02/05/2025 1:48:08 ET]
+Table '3885269093 1' 3-max Siège #1 est au bouton.
+Place 1: dadouf (910 en jetons) 
+Place 3: psychoman59 (590 en jetons) 
+dadouf : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Kh]
+dadouf : relance. 880 à 910 et est all-in.
+psychoman59 : suit. 560 et est all-in.
+Personne n'a suivi. (320) sont retournés à dadouf.
+*** FLOP *** [Ks 9d 9c]
+*** TOURNANT *** [Ks 9d 9c] [8h]
+*** RIVIÈRE *** [Ks 9d 9c 8h] [6h]
+*** ABATTAGE ***
+psychoman59 : montre [As Kh] (double paire, Rois et Neuf)
+dadouf : montre [Js Kd] (double paire, Rois et Neuf - plus basse kicker)
+psychoman59 a remporté 1180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1180 | Commission 0 
+Tableau [Ks 9d 9c 8h 6h]
+Siège 1 : dadouf (bouton) (petite blind) a montré [Js Kd] et a perdu avec double paire, Rois et Neuf
+Siège 3 : psychoman59 (grosse blind) a montré [As Kh] et a gagné (1180) avec double paire, Rois et Neuf
+
+
+
+Main PokerStars n°255970761824 : Tournoi #3885269093, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 02/05/2025 7:48:22 CET [02/05/2025 1:48:22 ET]
+Table '3885269093 1' 3-max Siège #3 est au bouton.
+Place 1: dadouf (320 en jetons) 
+Place 3: psychoman59 (1180 en jetons) 
+psychoman59 : met la petite blind. 15
+dadouf : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Kh]
+psychoman59 : suit. 15
+dadouf : relance. 290 à 320 et est all-in.
+psychoman59 : suit. 290
+*** FLOP *** [8h 9c Ah]
+*** TOURNANT *** [8h 9c Ah] [7d]
+*** RIVIÈRE *** [8h 9c Ah 7d] [6d]
+*** ABATTAGE ***
+dadouf : montre [5h Ac] (une suite, Cinq à Neuf)
+psychoman59 : montre [6c Kh] (une paire de Six)
+dadouf a remporté 640  lors du pot .
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [8h 9c Ah 7d 6d]
+Siège 1 : dadouf (grosse blind) a montré [5h Ac] et a gagné (640) avec une suite, Cinq à Neuf
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [6c Kh] et a perdu avec une paire de Six
+
+
+
+Main PokerStars n°255970762919 : Tournoi #3885269093, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 02/05/2025 7:48:38 CET [02/05/2025 1:48:38 ET]
+Table '3885269093 1' 3-max Siège #1 est au bouton.
+Place 1: dadouf (640 en jetons) 
+Place 3: psychoman59 (860 en jetons) 
+dadouf : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Th]
+dadouf : relance. 610 à 640 et est all-in.
+psychoman59 : suit. 610
+*** FLOP *** [8s 4c 6c]
+*** TOURNANT *** [8s 4c 6c] [Ah]
+*** RIVIÈRE *** [8s 4c 6c Ah] [Td]
+*** ABATTAGE ***
+psychoman59 : montre [Ad Th] (double paire, As et Dix)
+dadouf : montre [7h 3d] (Hauteur As)
+psychoman59 a remporté 1280  lors du pot .
+dadouf a fini le tournoi en 2e position.
+psychoman59 gagne le tournoi - félicitations !
+psychoman59 gagne un ticket " €1.50 Step 2 SnG Power Path ticket "
+*** SYNTHÈSE ***
+Pot total 1280 | Commission 0 
+Tableau [8s 4c 6c Ah Td]
+Siège 1 : dadouf (bouton) (petite blind) a montré [7h 3d] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (grosse blind) a montré [Ad Th] et a gagné (1280) avec double paire, As et Dix
+
+
+

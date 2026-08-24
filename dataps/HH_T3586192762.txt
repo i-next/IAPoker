@@ -1,0 +1,478 @@
+﻿Main PokerStars n°243471568154 : Tournoi #3586192762, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 03/05/2023 22:56:25 CET [03/05/2023 16:56:25 ET]
+Table '3586192762 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: avelgornog (300 en jetons) 
+Place 3: rayanou2409 (300 en jetons) 
+avelgornog : met la petite blind. 10
+rayanou2409 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 4d]
+psychoman59 : passe. 
+avelgornog : suit. 10
+rayanou2409 : parole 
+*** FLOP *** [4c 6s 6c]
+avelgornog : parole 
+rayanou2409 : parole 
+*** TOURNANT *** [4c 6s 6c] [2s]
+avelgornog : mise. 20
+rayanou2409 : suit. 20
+*** RIVIÈRE *** [4c 6s 6c 2s] [Qs]
+avelgornog : mise. 20
+rayanou2409 : passe. 
+Personne n'a suivi. (20) sont retournés à avelgornog.
+avelgornog a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [4c 6s 6c 2s Qs]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : avelgornog (petite blind) a remporté (80)
+Siège 3 : rayanou2409 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°243471575366 : Tournoi #3586192762, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 03/05/2023 22:56:49 CET [03/05/2023 16:56:49 ET]
+Table '3586192762 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: avelgornog (340 en jetons) 
+Place 3: rayanou2409 (260 en jetons) 
+rayanou2409 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Qh]
+avelgornog : passe. 
+rayanou2409 : relance. 20 à 40
+psychoman59 : suit. 20
+*** FLOP *** [9s Jc Ts]
+rayanou2409 : mise. 80
+psychoman59 : suit. 80
+*** TOURNANT *** [9s Jc Ts] [Qd]
+rayanou2409 : parole 
+psychoman59 : mise. 180 et est all-in.
+rayanou2409 : passe. 
+Personne n'a suivi. (180) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [9s Jc Ts Qd]
+Siège 1 : psychoman59 (grosse blind) a remporté (240)
+Siège 2 : avelgornog (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : rayanou2409 (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°243471585901 : Tournoi #3586192762, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 03/05/2023 22:57:25 CET [03/05/2023 16:57:25 ET]
+Table '3586192762 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (420 en jetons) 
+Place 2: avelgornog (340 en jetons) 
+Place 3: rayanou2409 (140 en jetons) 
+psychoman59 : met la petite blind. 10
+avelgornog : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Tc]
+rayanou2409 : relance. 120 à 140 et est all-in.
+psychoman59 : passe. 
+avelgornog : suit. 120
+*** FLOP *** [Qd 2s 3c]
+*** TOURNANT *** [Qd 2s 3c] [9h]
+*** RIVIÈRE *** [Qd 2s 3c 9h] [Jc]
+*** ABATTAGE ***
+avelgornog : montre [Ac Qh] (une paire de Dames)
+rayanou2409 : montre [6d 6c] (une paire de Six)
+avelgornog a remporté 290  lors du pot .
+rayanou2409 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 290 | Commission 0 
+Tableau [Qd 2s 3c 9h Jc]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : avelgornog (grosse blind) a montré [Ac Qh] et a gagné (290) avec une paire de Dames
+Siège 3 : rayanou2409 (bouton) a montré [6d 6c] et a perdu avec une paire de Six
+
+
+
+Main PokerStars n°243471594372 : Tournoi #3586192762, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 03/05/2023 22:57:54 CET [03/05/2023 16:57:54 ET]
+Table '3586192762 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (410 en jetons) 
+Place 2: avelgornog (490 en jetons) 
+avelgornog : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Qd]
+avelgornog : suit. 15
+psychoman59 : parole 
+*** FLOP *** [2c Ad Jd]
+psychoman59 : parole 
+avelgornog : parole 
+*** TOURNANT *** [2c Ad Jd] [8h]
+psychoman59 : parole 
+avelgornog : mise. 30
+psychoman59 : suit. 30
+*** RIVIÈRE *** [2c Ad Jd 8h] [Qh]
+psychoman59 : parole 
+avelgornog : parole 
+*** ABATTAGE ***
+psychoman59 : montre [7d Qd] (une paire de Dames)
+avelgornog : cache la main perdante. 
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [2c Ad Jd 8h Qh]
+Siège 1 : psychoman59 (grosse blind) a montré [7d Qd] et a gagné (120) avec une paire de Dames
+Siège 2 : avelgornog (bouton) (petite blind) a caché la main perdante. [8c 4d]
+
+
+
+Main PokerStars n°243471600794 : Tournoi #3586192762, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 03/05/2023 22:58:15 CET [03/05/2023 16:58:15 ET]
+Table '3586192762 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (470 en jetons) 
+Place 2: avelgornog (430 en jetons) 
+psychoman59 : met la petite blind. 15
+avelgornog : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Qc]
+psychoman59 : suit. 15
+avelgornog : relance. 30 à 60
+psychoman59 : suit. 30
+*** FLOP *** [5c 6d 3c]
+avelgornog : mise. 30
+psychoman59 : relance. 380 à 410 et est all-in.
+avelgornog : passe. 
+Personne n'a suivi. (380) sont retournés à psychoman59.
+psychoman59 a remporté 180  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [5c 6d 3c]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (180)
+Siège 2 : avelgornog (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°243471608617 : Tournoi #3586192762, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 03/05/2023 22:58:41 CET [03/05/2023 16:58:41 ET]
+Table '3586192762 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (560 en jetons) 
+Place 2: avelgornog (340 en jetons) 
+avelgornog : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Qc]
+avelgornog : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Ac Ad 4d]
+psychoman59 : parole 
+avelgornog : parole 
+*** TOURNANT *** [Ac Ad 4d] [Ts]
+psychoman59 : parole 
+avelgornog : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à avelgornog.
+avelgornog a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Ac Ad 4d Ts]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : avelgornog (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°243471613496 : Tournoi #3586192762, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 03/05/2023 22:58:58 CET [03/05/2023 16:58:58 ET]
+Table '3586192762 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (520 en jetons) 
+Place 2: avelgornog (380 en jetons) 
+psychoman59 : met la petite blind. 20
+avelgornog : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 6d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à avelgornog.
+avelgornog a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : avelgornog (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°243471615100 : Tournoi #3586192762, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 03/05/2023 22:59:03 CET [03/05/2023 16:59:03 ET]
+Table '3586192762 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: avelgornog (400 en jetons) 
+avelgornog : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 3c]
+avelgornog : relance. 40 à 80
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à avelgornog.
+avelgornog a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : avelgornog (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°243471616917 : Tournoi #3586192762, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 03/05/2023 22:59:09 CET [03/05/2023 16:59:09 ET]
+Table '3586192762 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (460 en jetons) 
+Place 2: avelgornog (440 en jetons) 
+psychoman59 : met la petite blind. 20
+avelgornog : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Ks]
+psychoman59 : relance. 40 à 80
+avelgornog : suit. 40
+*** FLOP *** [Kd Tc 8h]
+avelgornog : parole 
+psychoman59 : mise. 80
+avelgornog : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Kd Tc 8h]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (160)
+Siège 2 : avelgornog (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°243471621172 : Tournoi #3586192762, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 03/05/2023 22:59:23 CET [03/05/2023 16:59:23 ET]
+Table '3586192762 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (540 en jetons) 
+Place 2: avelgornog (360 en jetons) 
+avelgornog : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 6c]
+avelgornog : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Kd 8d Qc]
+psychoman59 : parole 
+avelgornog : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à avelgornog.
+avelgornog a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Kd 8d Qc]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : avelgornog (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°243471625681 : Tournoi #3586192762, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 03/05/2023 22:59:39 CET [03/05/2023 16:59:39 ET]
+Table '3586192762 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: avelgornog (400 en jetons) 
+psychoman59 : met la petite blind. 30
+avelgornog : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 4c]
+psychoman59 : relance. 60 à 120
+avelgornog : suit. 60
+*** FLOP *** [Qc 5h 6c]
+avelgornog : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Qc 5h 6c] [9h]
+avelgornog : mise. 180
+psychoman59 : passe. 
+Personne n'a suivi. (180) sont retournés à avelgornog.
+avelgornog a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Qc 5h 6c 9h]
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. sur le Tournant
+Siège 2 : avelgornog (grosse blind) a remporté (240)
+
+
+
+Main PokerStars n°243471631939 : Tournoi #3586192762, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 03/05/2023 22:59:59 CET [03/05/2023 16:59:59 ET]
+Table '3586192762 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (380 en jetons) 
+Place 2: avelgornog (520 en jetons) 
+avelgornog : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 5c]
+avelgornog : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Ad 4d 8s]
+psychoman59 : parole 
+avelgornog : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à avelgornog.
+avelgornog a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Ad 4d 8s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : avelgornog (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°243471636610 : Tournoi #3586192762, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 03/05/2023 23:00:15 CET [03/05/2023 17:00:15 ET]
+Table '3586192762 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (320 en jetons) 
+Place 2: avelgornog (580 en jetons) 
+psychoman59 : met la petite blind. 30
+avelgornog : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Jd]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à avelgornog.
+avelgornog a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : avelgornog (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°243471638180 : Tournoi #3586192762, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 03/05/2023 23:00:20 CET [03/05/2023 17:00:20 ET]
+Table '3586192762 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (290 en jetons) 
+Place 2: avelgornog (610 en jetons) 
+avelgornog : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Ah]
+avelgornog : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 2 : avelgornog (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243471639461 : Tournoi #3586192762, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 03/05/2023 23:00:24 CET [03/05/2023 17:00:24 ET]
+Table '3586192762 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (320 en jetons) 
+Place 2: avelgornog (580 en jetons) 
+psychoman59 : met la petite blind. 30
+avelgornog : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 7s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à avelgornog.
+avelgornog a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : avelgornog (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°243471642112 : Tournoi #3586192762, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 03/05/2023 23:00:32 CET [03/05/2023 17:00:32 ET]
+Table '3586192762 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (290 en jetons) 
+Place 2: avelgornog (610 en jetons) 
+avelgornog : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Th]
+avelgornog : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (80)
+Siège 2 : avelgornog (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243471643494 : Tournoi #3586192762, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 03/05/2023 23:00:36 CET [03/05/2023 17:00:36 ET]
+Table '3586192762 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (330 en jetons) 
+Place 2: avelgornog (570 en jetons) 
+psychoman59 : met la petite blind. 40
+avelgornog : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Jd]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à avelgornog.
+avelgornog a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : avelgornog (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°243471645191 : Tournoi #3586192762, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 03/05/2023 23:00:42 CET [03/05/2023 17:00:42 ET]
+Table '3586192762 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (290 en jetons) 
+Place 2: avelgornog (610 en jetons) 
+avelgornog : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Qh]
+avelgornog : relance. 160 à 240
+psychoman59 : relance. 50 à 290 et est all-in.
+avelgornog : suit. 50
+*** FLOP *** [Qs 5d 3c]
+*** TOURNANT *** [Qs 5d 3c] [Jh]
+*** RIVIÈRE *** [Qs 5d 3c Jh] [Td]
+*** ABATTAGE ***
+psychoman59 : montre [Ac Qh] (une paire de Dames)
+avelgornog : montre [4h Ah] (Hauteur As)
+psychoman59 a remporté 580  lors du pot .
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [Qs 5d 3c Jh Td]
+Siège 1 : psychoman59 (grosse blind) a montré [Ac Qh] et a gagné (580) avec une paire de Dames
+Siège 2 : avelgornog (bouton) (petite blind) a montré [4h Ah] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°243471650064 : Tournoi #3586192762, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 03/05/2023 23:00:56 CET [03/05/2023 17:00:56 ET]
+Table '3586192762 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (580 en jetons) 
+Place 2: avelgornog (320 en jetons) 
+psychoman59 : met la petite blind. 40
+avelgornog : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Qh]
+psychoman59 : relance. 160 à 240
+avelgornog : passe. 
+Personne n'a suivi. (160) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (160)
+Siège 2 : avelgornog (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243471653163 : Tournoi #3586192762, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 03/05/2023 23:01:05 CET [03/05/2023 17:01:05 ET]
+Table '3586192762 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (660 en jetons) 
+Place 2: avelgornog (240 en jetons) 
+avelgornog : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 8c]
+avelgornog : relance. 160 à 240 et est all-in.
+psychoman59 : suit. 160
+*** FLOP *** [4d 8h 5h]
+*** TOURNANT *** [4d 8h 5h] [8s]
+*** RIVIÈRE *** [4d 8h 5h 8s] [Qs]
+*** ABATTAGE ***
+psychoman59 : montre [Qh 8c] (un full, full aux Huit par les Dames)
+avelgornog : montre [Qc Js] (double paire, Dames et Huit)
+psychoman59 a remporté 480  lors du pot .
+avelgornog a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [4d 8h 5h 8s Qs]
+Siège 1 : psychoman59 (grosse blind) a montré [Qh 8c] et a gagné (480) avec un full, full aux Huit par les Dames
+Siège 2 : avelgornog (bouton) (petite blind) a montré [Qc Js] et a perdu avec double paire, Dames et Huit
+
+
+

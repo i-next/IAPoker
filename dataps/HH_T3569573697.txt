@@ -1,0 +1,530 @@
+﻿Main PokerStars n°242770566846 : Tournoi #3569573697, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 30/03/2023 7:07:46 CET [30/03/2023 1:07:46 ET]
+Table '3569573697 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: kevin0320687 (300 en jetons) 
+Place 3: __pierre1269 (300 en jetons) 
+kevin0320687 : met la petite blind. 10
+__pierre1269 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 5s]
+psychoman59 : passe. 
+kevin0320687 : suit. 10
+__pierre1269 : parole 
+*** FLOP *** [2c Td 3h]
+kevin0320687 : parole 
+__pierre1269 : parole 
+*** TOURNANT *** [2c Td 3h] [Jd]
+kevin0320687 : mise. 20
+__pierre1269 : passe. 
+Personne n'a suivi. (20) sont retournés à kevin0320687.
+kevin0320687 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [2c Td 3h Jd]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : kevin0320687 (petite blind) a remporté (40)
+Siège 3 : __pierre1269 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°242770569300 : Tournoi #3569573697, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 30/03/2023 7:08:10 CET [30/03/2023 1:08:10 ET]
+Table '3569573697 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: kevin0320687 (320 en jetons) 
+Place 3: __pierre1269 (280 en jetons) 
+__pierre1269 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 4s]
+kevin0320687 : suit. 20
+__pierre1269 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [7h 5c Ah]
+__pierre1269 : parole 
+psychoman59 : parole 
+kevin0320687 : parole 
+*** TOURNANT *** [7h 5c Ah] [8c]
+__pierre1269 : parole 
+psychoman59 : parole 
+kevin0320687 : parole 
+*** RIVIÈRE *** [7h 5c Ah 8c] [Ts]
+__pierre1269 : parole 
+psychoman59 : parole 
+kevin0320687 : parole 
+*** ABATTAGE ***
+__pierre1269 : montre [3h 3c] (une paire de Trois)
+psychoman59 : montre [Th 4s] (une paire de Dix)
+kevin0320687 : cache la main perdante. 
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [7h 5c Ah 8c Ts]
+Siège 1 : psychoman59 (grosse blind) a montré [Th 4s] et a gagné (60) avec une paire de Dix
+Siège 2 : kevin0320687 (bouton) a caché la main perdante. [3d 9h]
+Siège 3 : __pierre1269 (petite blind) a montré [3h 3c] et a perdu avec une paire de Trois
+
+
+
+Main PokerStars n°242770573137 : Tournoi #3569573697, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 30/03/2023 7:08:46 CET [30/03/2023 1:08:46 ET]
+Table '3569573697 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (340 en jetons) 
+Place 2: kevin0320687 (300 en jetons) 
+Place 3: __pierre1269 (260 en jetons) 
+psychoman59 : met la petite blind. 10
+kevin0320687 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Ah]
+__pierre1269 : suit. 20
+psychoman59 : suit. 10
+kevin0320687 : parole 
+*** FLOP *** [3h 3d Ts]
+psychoman59 : parole 
+kevin0320687 : parole 
+__pierre1269 : parole 
+*** TOURNANT *** [3h 3d Ts] [Qh]
+psychoman59 : mise. 30
+kevin0320687 : passe. 
+__pierre1269 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [3h 3d Ts Qh]
+Siège 1 : psychoman59 (petite blind) a remporté (60)
+Siège 2 : kevin0320687 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : __pierre1269 (bouton) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°242770577473 : Tournoi #3569573697, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 30/03/2023 7:09:28 CET [30/03/2023 1:09:28 ET]
+Table '3569573697 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (380 en jetons) 
+Place 2: kevin0320687 (280 en jetons) 
+Place 3: __pierre1269 (240 en jetons) 
+kevin0320687 : met la petite blind. 15
+__pierre1269 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 7h]
+psychoman59 : passe. 
+kevin0320687 : suit. 15
+__pierre1269 : parole 
+*** FLOP *** [4d Ac 9c]
+kevin0320687 : parole 
+__pierre1269 : mise. 30
+kevin0320687 : relance. 220 à 250 et est all-in.
+__pierre1269 : suit. 180 et est all-in.
+Personne n'a suivi. (40) sont retournés à kevin0320687.
+*** TOURNANT *** [4d Ac 9c] [Qh]
+*** RIVIÈRE *** [4d Ac 9c Qh] [3s]
+*** ABATTAGE ***
+kevin0320687 : montre [3d 9d] (double paire, Neuf et Trois)
+__pierre1269 : montre [Ah 3c] (double paire, As et Trois)
+__pierre1269 a remporté 480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [4d Ac 9c Qh 3s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : kevin0320687 (petite blind) a montré [3d 9d] et a perdu avec double paire, Neuf et Trois
+Siège 3 : __pierre1269 (grosse blind) a montré [Ah 3c] et a gagné (480) avec double paire, As et Trois
+
+
+
+Main PokerStars n°242770580011 : Tournoi #3569573697, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 30/03/2023 7:09:53 CET [30/03/2023 1:09:53 ET]
+Table '3569573697 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (380 en jetons) 
+Place 2: kevin0320687 (40 en jetons) 
+Place 3: __pierre1269 (480 en jetons) 
+__pierre1269 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h As]
+kevin0320687 : suit. 40 et est all-in.
+__pierre1269 : passe. 
+*** FLOP *** [9s 4c 7h]
+*** TOURNANT *** [9s 4c 7h] [5c]
+*** RIVIÈRE *** [9s 4c 7h 5c] [3s]
+*** ABATTAGE ***
+psychoman59 : montre [6h As] (une suite, Trois à Sept)
+kevin0320687 : montre [7d 8h] (une paire de Sept)
+psychoman59 a remporté 100  lors du pot .
+kevin0320687 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [9s 4c 7h 5c 3s]
+Siège 1 : psychoman59 (grosse blind) a montré [6h As] et a gagné (100) avec une suite, Trois à Sept
+Siège 2 : kevin0320687 (bouton) a montré [7d 8h] et a perdu avec une paire de Sept
+Siège 3 : __pierre1269 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242770582821 : Tournoi #3569573697, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 30/03/2023 7:10:19 CET [30/03/2023 1:10:19 ET]
+Table '3569573697 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (440 en jetons) 
+Place 3: __pierre1269 (460 en jetons) 
+psychoman59 : met la petite blind. 20
+__pierre1269 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Qs]
+psychoman59 : suit. 20
+__pierre1269 : parole 
+*** FLOP *** [Kc 6c 4s]
+__pierre1269 : parole 
+psychoman59 : mise. 80
+__pierre1269 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Kc 6c 4s]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 3 : __pierre1269 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°242770584138 : Tournoi #3569573697, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 30/03/2023 7:10:31 CET [30/03/2023 1:10:31 ET]
+Table '3569573697 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (480 en jetons) 
+Place 3: __pierre1269 (420 en jetons) 
+__pierre1269 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Ts]
+__pierre1269 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : __pierre1269 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242770584590 : Tournoi #3569573697, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 30/03/2023 7:10:36 CET [30/03/2023 1:10:36 ET]
+Table '3569573697 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 3: __pierre1269 (400 en jetons) 
+psychoman59 : met la petite blind. 20
+__pierre1269 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 3h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à __pierre1269.
+__pierre1269 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : __pierre1269 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°242770585170 : Tournoi #3569573697, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 30/03/2023 7:10:41 CET [30/03/2023 1:10:41 ET]
+Table '3569573697 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (480 en jetons) 
+Place 3: __pierre1269 (420 en jetons) 
+__pierre1269 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 4h]
+__pierre1269 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [4s 8s Js]
+psychoman59 : parole 
+__pierre1269 : parole 
+*** TOURNANT *** [4s 8s Js] [6h]
+psychoman59 : parole 
+__pierre1269 : parole 
+*** RIVIÈRE *** [4s 8s Js 6h] [Kd]
+psychoman59 : parole 
+__pierre1269 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [5c 4h] (une paire de Quatre)
+__pierre1269 : cache la main perdante. 
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [4s 8s Js 6h Kd]
+Siège 1 : psychoman59 (grosse blind) a montré [5c 4h] et a gagné (80) avec une paire de Quatre
+Siège 3 : __pierre1269 (bouton) (petite blind) a caché la main perdante. [5h 3h]
+
+
+
+Main PokerStars n°242770587481 : Tournoi #3569573697, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 30/03/2023 7:11:03 CET [30/03/2023 1:11:03 ET]
+Table '3569573697 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (520 en jetons) 
+Place 3: __pierre1269 (380 en jetons) 
+psychoman59 : met la petite blind. 30
+__pierre1269 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 4c]
+psychoman59 : suit. 30
+__pierre1269 : parole 
+*** FLOP *** [6h 2s 5d]
+__pierre1269 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6h 2s 5d] [5h]
+__pierre1269 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à __pierre1269.
+__pierre1269 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [6h 2s 5d 5h]
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. sur le Tournant
+Siège 3 : __pierre1269 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°242770589061 : Tournoi #3569573697, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 30/03/2023 7:11:18 CET [30/03/2023 1:11:18 ET]
+Table '3569573697 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (460 en jetons) 
+Place 3: __pierre1269 (440 en jetons) 
+__pierre1269 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Js]
+__pierre1269 : relance. 60 à 120
+psychoman59 : suit. 60
+*** FLOP *** [Jh Qh Kh]
+psychoman59 : parole 
+__pierre1269 : mise. 120
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à __pierre1269.
+__pierre1269 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Jh Qh Kh]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : __pierre1269 (bouton) (petite blind) a remporté (240)
+
+
+
+Main PokerStars n°242770591331 : Tournoi #3569573697, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 30/03/2023 7:11:40 CET [30/03/2023 1:11:40 ET]
+Table '3569573697 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (340 en jetons) 
+Place 3: __pierre1269 (560 en jetons) 
+psychoman59 : met la petite blind. 30
+__pierre1269 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 5s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à __pierre1269.
+__pierre1269 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : __pierre1269 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°242770591767 : Tournoi #3569573697, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 30/03/2023 7:11:44 CET [30/03/2023 1:11:44 ET]
+Table '3569573697 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (310 en jetons) 
+Place 3: __pierre1269 (590 en jetons) 
+__pierre1269 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 3s]
+__pierre1269 : relance. 60 à 120
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à __pierre1269.
+__pierre1269 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : __pierre1269 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°242770592739 : Tournoi #3569573697, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 30/03/2023 7:11:54 CET [30/03/2023 1:11:54 ET]
+Table '3569573697 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (250 en jetons) 
+Place 3: __pierre1269 (650 en jetons) 
+psychoman59 : met la petite blind. 40
+__pierre1269 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 4h]
+psychoman59 : relance. 170 à 250 et est all-in.
+__pierre1269 : passe. 
+Personne n'a suivi. (170) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (160)
+Siège 3 : __pierre1269 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242770593713 : Tournoi #3569573697, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 30/03/2023 7:12:03 CET [30/03/2023 1:12:03 ET]
+Table '3569573697 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (330 en jetons) 
+Place 3: __pierre1269 (570 en jetons) 
+__pierre1269 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 4d]
+__pierre1269 : suit. 40
+psychoman59 : parole 
+*** FLOP *** [5d 2h Jh]
+psychoman59 : parole 
+__pierre1269 : parole 
+*** TOURNANT *** [5d 2h Jh] [Th]
+psychoman59 : parole 
+__pierre1269 : parole 
+*** RIVIÈRE *** [5d 2h Jh Th] [8h]
+psychoman59 : parole 
+__pierre1269 : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à __pierre1269.
+__pierre1269 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [5d 2h Jh Th 8h]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : __pierre1269 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°242770595911 : Tournoi #3569573697, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 30/03/2023 7:12:23 CET [30/03/2023 1:12:23 ET]
+Table '3569573697 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (250 en jetons) 
+Place 3: __pierre1269 (650 en jetons) 
+psychoman59 : met la petite blind. 40
+__pierre1269 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Qs]
+psychoman59 : relance. 170 à 250 et est all-in.
+__pierre1269 : passe. 
+Personne n'a suivi. (170) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (160)
+Siège 3 : __pierre1269 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242770596897 : Tournoi #3569573697, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 30/03/2023 7:12:33 CET [30/03/2023 1:12:33 ET]
+Table '3569573697 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (330 en jetons) 
+Place 3: __pierre1269 (570 en jetons) 
+__pierre1269 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 8h]
+__pierre1269 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : __pierre1269 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242770597368 : Tournoi #3569573697, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 30/03/2023 7:12:37 CET [30/03/2023 1:12:37 ET]
+Table '3569573697 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (370 en jetons) 
+Place 3: __pierre1269 (530 en jetons) 
+psychoman59 : met la petite blind. 40
+__pierre1269 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Ad]
+psychoman59 : relance. 80 à 160
+__pierre1269 : suit. 80
+*** FLOP *** [7c 9d 3h]
+__pierre1269 : mise. 370 et est all-in.
+psychoman59 : suit. 210 et est all-in.
+Personne n'a suivi. (160) sont retournés à __pierre1269.
+*** TOURNANT *** [7c 9d 3h] [8d]
+*** RIVIÈRE *** [7c 9d 3h 8d] [Kd]
+*** ABATTAGE ***
+__pierre1269 : montre [2h 2d] (une paire de Deux)
+psychoman59 : montre [Ac Ad] (une paire de As)
+psychoman59 a remporté 740  lors du pot .
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Tableau [7c 9d 3h 8d Kd]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Ac Ad] et a gagné (740) avec une paire de As
+Siège 3 : __pierre1269 (grosse blind) a montré [2h 2d] et a perdu avec une paire de Deux
+
+
+
+Main PokerStars n°242770599179 : Tournoi #3569573697, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 30/03/2023 7:12:55 CET [30/03/2023 1:12:55 ET]
+Table '3569573697 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (740 en jetons) 
+Place 3: __pierre1269 (160 en jetons) 
+__pierre1269 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 9s]
+__pierre1269 : relance. 60 à 160 et est all-in.
+psychoman59 : suit. 60
+*** FLOP *** [3s Th Kh]
+*** TOURNANT *** [3s Th Kh] [2s]
+*** RIVIÈRE *** [3s Th Kh 2s] [2c]
+*** ABATTAGE ***
+psychoman59 : montre [Ac 9s] (une paire de Deux)
+__pierre1269 : montre [3d Ah] (double paire, Trois et Deux)
+__pierre1269 a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [3s Th Kh 2s 2c]
+Siège 1 : psychoman59 (grosse blind) a montré [Ac 9s] et a perdu avec une paire de Deux
+Siège 3 : __pierre1269 (bouton) (petite blind) a montré [3d Ah] et a gagné (320) avec double paire, Trois et Deux
+
+
+
+Main PokerStars n°242770600823 : Tournoi #3569573697, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 30/03/2023 7:13:11 CET [30/03/2023 1:13:11 ET]
+Table '3569573697 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (580 en jetons) 
+Place 3: __pierre1269 (320 en jetons) 
+psychoman59 : met la petite blind. 50
+__pierre1269 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Th]
+psychoman59 : passe. 
+Personne n'a suivi. (50) sont retournés à __pierre1269.
+__pierre1269 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : __pierre1269 (grosse blind) a remporté (100)
+
+
+
+Main PokerStars n°242770601391 : Tournoi #3569573697, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 30/03/2023 7:13:16 CET [30/03/2023 1:13:16 ET]
+Table '3569573697 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (530 en jetons) 
+Place 3: __pierre1269 (370 en jetons) 
+__pierre1269 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 8h]
+__pierre1269 : suit. 50
+psychoman59 : parole 
+*** FLOP *** [9s Jd 3h]
+psychoman59 : mise. 430 et est all-in.
+__pierre1269 : suit. 270 et est all-in.
+Personne n'a suivi. (160) sont retournés à psychoman59.
+*** TOURNANT *** [9s Jd 3h] [Jc]
+*** RIVIÈRE *** [9s Jd 3h Jc] [Tc]
+*** ABATTAGE ***
+psychoman59 : montre [3d 8h] (double paire, Valets et Trois)
+__pierre1269 : montre [Kh 5s] (une paire de Valets)
+psychoman59 a remporté 740  lors du pot .
+__pierre1269 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Tableau [9s Jd 3h Jc Tc]
+Siège 1 : psychoman59 (grosse blind) a montré [3d 8h] et a gagné (740) avec double paire, Valets et Trois
+Siège 3 : __pierre1269 (bouton) (petite blind) a montré [Kh 5s] et a perdu avec une paire de Valets
+
+
+

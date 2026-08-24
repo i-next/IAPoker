@@ -1,0 +1,132 @@
+﻿Main PokerStars n°258018680158 : Tournoi #3934474857, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 06/10/2025 10:19:59 CET [06/10/2025 4:19:59 ET]
+Table '3934474857 1' 3-max Siège #1 est au bouton.
+Place 1: agneau34 (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: RICARDO L60 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+RICARDO L60 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 5h]
+agneau34 : suit. 20
+psychoman59 : passe. 
+RICARDO L60 : parole 
+*** FLOP *** [Qc Ah 2c]
+RICARDO L60 : parole 
+agneau34 : mise. 20
+RICARDO L60 : suit. 20
+*** TOURNANT *** [Qc Ah 2c] [8d]
+RICARDO L60 : parole 
+agneau34 : mise. 20
+RICARDO L60 : suit. 20
+*** RIVIÈRE *** [Qc Ah 2c 8d] [Qh]
+RICARDO L60 : parole 
+agneau34 : parole 
+*** ABATTAGE ***
+RICARDO L60 : montre [2d Jc] (double paire, Dames et Deux)
+agneau34 : montre [7c 8c] (double paire, Dames et Huit)
+agneau34 a remporté 130  lors du pot .
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Tableau [Qc Ah 2c 8d Qh]
+Siège 1 : agneau34 (bouton) a montré [7c 8c] et a gagné (130) avec double paire, Dames et Huit
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : RICARDO L60 (grosse blind) a montré [2d Jc] et a perdu avec double paire, Dames et Deux
+
+
+
+Main PokerStars n°258018682253 : Tournoi #3934474857, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 06/10/2025 10:20:29 CET [06/10/2025 4:20:29 ET]
+Table '3934474857 1' 3-max Siège #2 est au bouton.
+Place 1: agneau34 (570 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: RICARDO L60 (440 en jetons) 
+RICARDO L60 : met la petite blind. 10
+agneau34 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s As]
+psychoman59 : suit. 20
+RICARDO L60 : suit. 10
+agneau34 : parole 
+*** FLOP *** [7d Js Jh]
+RICARDO L60 : mise. 20
+agneau34 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à RICARDO L60.
+RICARDO L60 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [7d Js Jh]
+Siège 1 : agneau34 (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 3 : RICARDO L60 (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°258018683196 : Tournoi #3934474857, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 06/10/2025 10:20:43 CET [06/10/2025 4:20:43 ET]
+Table '3934474857 1' 3-max Siège #3 est au bouton.
+Place 1: agneau34 (550 en jetons) 
+Place 2: psychoman59 (470 en jetons) 
+Place 3: RICARDO L60 (480 en jetons) 
+agneau34 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 7s]
+RICARDO L60 : suit. 20
+agneau34 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [6d 5h 9h]
+agneau34 : parole 
+psychoman59 : parole 
+RICARDO L60 : parole 
+*** TOURNANT *** [6d 5h 9h] [Js]
+agneau34 : parole 
+psychoman59 : parole 
+RICARDO L60 : parole 
+*** RIVIÈRE *** [6d 5h 9h Js] [2h]
+agneau34 : parole 
+psychoman59 : parole 
+RICARDO L60 : parole 
+*** ABATTAGE ***
+agneau34 : montre [Qs 5s] (une paire de Cinq)
+psychoman59 : cache la main perdante. 
+RICARDO L60 : cache la main perdante. 
+agneau34 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [6d 5h 9h Js 2h]
+Siège 1 : agneau34 (petite blind) a montré [Qs 5s] et a gagné (60) avec une paire de Cinq
+Siège 2 : psychoman59 (grosse blind) a caché la main perdante. [Qc 7s]
+Siège 3 : RICARDO L60 (bouton) a caché la main perdante. [Ac Th]
+
+
+
+Main PokerStars n°258018685024 : Tournoi #3934474857, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 06/10/2025 10:21:10 CET [06/10/2025 4:21:10 ET]
+Table '3934474857 1' 3-max Siège #1 est au bouton.
+Place 1: agneau34 (590 en jetons) 
+Place 2: psychoman59 (450 en jetons) 
+Place 3: RICARDO L60 (460 en jetons) 
+psychoman59 : met la petite blind. 10
+RICARDO L60 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c As]
+agneau34 : passe. 
+psychoman59 : relance. 40 à 60
+RICARDO L60 : relance. 400 à 460 et est all-in.
+psychoman59 : suit. 390 et est all-in.
+Personne n'a suivi. (10) sont retournés à RICARDO L60.
+*** FLOP *** [5d 9h 2d]
+*** TOURNANT *** [5d 9h 2d] [Jc]
+*** RIVIÈRE *** [5d 9h 2d Jc] [3d]
+*** ABATTAGE ***
+psychoman59 : montre [7c As] (Hauteur As)
+RICARDO L60 : montre [Jh Jd] (un brelan de Valets)
+RICARDO L60 a remporté 900  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Tableau [5d 9h 2d Jc 3d]
+Siège 1 : agneau34 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [7c As] et a perdu avec Hauteur As
+Siège 3 : RICARDO L60 (grosse blind) a montré [Jh Jd] et a gagné (900) avec un brelan de Valets
+
+
+

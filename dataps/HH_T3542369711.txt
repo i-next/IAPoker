@@ -1,0 +1,89 @@
+﻿Main PokerStars n°241594381665 : Tournoi #3542369711, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 03/02/2023 23:03:55 CET [03/02/2023 17:03:55 ET]
+Table '3542369711 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Val1991916 (300 en jetons) 
+Place 3: bakkol (300 en jetons) 
+Val1991916 : met la petite blind. 10
+bakkol : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Qc]
+psychoman59 : suit. 20
+Val1991916 : suit. 10
+bakkol : relance. 280 à 300 et est all-in.
+psychoman59 : passe. 
+Val1991916 : suit. 280 et est all-in.
+*** FLOP *** [Ac 3h 5d]
+*** TOURNANT *** [Ac 3h 5d] [2c]
+*** RIVIÈRE *** [Ac 3h 5d 2c] [3d]
+*** ABATTAGE ***
+Val1991916 : montre [5s 5h] (un full, full aux Cinq par les Trois)
+bakkol : montre [3s 3c] (un carré de Trois)
+bakkol a remporté 620  lors du pot .
+Val1991916 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [Ac 3h 5d 2c 3d]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 2 : Val1991916 (petite blind) a montré [5s 5h] et a perdu avec un full, full aux Cinq par les Trois
+Siège 3 : bakkol (grosse blind) a montré [3s 3c] et a gagné (620) avec un carré de Trois
+
+
+
+Main PokerStars n°241594393125 : Tournoi #3542369711, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 03/02/2023 23:04:20 CET [03/02/2023 17:04:20 ET]
+Table '3542369711 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 3: bakkol (620 en jetons) 
+bakkol : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Qd]
+bakkol : suit. 10
+psychoman59 : parole 
+*** FLOP *** [7d 7c 5d]
+psychoman59 : parole 
+bakkol : parole 
+*** TOURNANT *** [7d 7c 5d] [4h]
+psychoman59 : parole 
+bakkol : parole 
+*** RIVIÈRE *** [7d 7c 5d 4h] [4c]
+psychoman59 : parole 
+bakkol : mise. 600 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (600) sont retournés à bakkol.
+bakkol a remporté 40  lors du pot .
+bakkol : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [7d 7c 5d 4h 4c]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : bakkol (bouton) (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°241594406065 : Tournoi #3542369711, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 03/02/2023 23:04:49 CET [03/02/2023 17:04:49 ET]
+Table '3542369711 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (260 en jetons) 
+Place 3: bakkol (640 en jetons) 
+psychoman59 : met la petite blind. 10
+bakkol : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 3c]
+psychoman59 : relance. 240 à 260 et est all-in.
+bakkol : suit. 240
+*** FLOP *** [3s As Ts]
+*** TOURNANT *** [3s As Ts] [Ac]
+*** RIVIÈRE *** [3s As Ts Ac] [Jc]
+*** ABATTAGE ***
+bakkol : montre [9c Ah] (un brelan de As)
+psychoman59 : montre [Kc 3c] (double paire, As et Trois)
+bakkol a remporté 520  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+bakkol remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 520 | Commission 0 
+Tableau [3s As Ts Ac Jc]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Kc 3c] et a perdu avec double paire, As et Trois
+Siège 3 : bakkol (grosse blind) a montré [9c Ah] et a gagné (520) avec un brelan de As
+
+
+

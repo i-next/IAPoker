@@ -1,0 +1,484 @@
+﻿Main PokerStars n°258393775580 : Tournoi #3944351329, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/11/2025 16:12:59 CET [05/11/2025 10:12:59 ET]
+Table '3944351329 1' 3-max Siège #1 est au bouton.
+Place 1: mondada2 (500 en jetons) 
+Place 2: bid_maker (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+bid_maker : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 5c]
+mondada2 : relance. 20 à 40
+bid_maker : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à mondada2.
+mondada2 a remporté 50  lors du pot .
+mondada2 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : mondada2 (bouton) a remporté (50)
+Siège 2 : bid_maker (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258393777438 : Tournoi #3944351329, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/11/2025 16:13:11 CET [05/11/2025 10:13:11 ET]
+Table '3944351329 1' 3-max Siège #2 est au bouton.
+Place 1: mondada2 (530 en jetons) 
+Place 2: bid_maker (490 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 10
+mondada2 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Ad]
+bid_maker : passe. 
+psychoman59 : suit. 10
+mondada2 : parole 
+*** FLOP *** [3s Tc Js]
+psychoman59 : parole 
+mondada2 : parole 
+*** TOURNANT *** [3s Tc Js] [4h]
+psychoman59 : mise. 20
+mondada2 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [3s Tc Js 4h]
+Siège 1 : mondada2 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : bid_maker (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°258393780200 : Tournoi #3944351329, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/11/2025 16:13:29 CET [05/11/2025 10:13:29 ET]
+Table '3944351329 1' 3-max Siège #3 est au bouton.
+Place 1: mondada2 (510 en jetons) 
+Place 2: bid_maker (490 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+mondada2 : met la petite blind. 10
+bid_maker : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Ks]
+psychoman59 : suit. 20
+mondada2 : suit. 10
+bid_maker : parole 
+*** FLOP *** [3s 7d 5s]
+mondada2 : mise. 20
+bid_maker : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à mondada2.
+mondada2 a remporté 60  lors du pot .
+mondada2 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [3s 7d 5s]
+Siège 1 : mondada2 (petite blind) a remporté (60)
+Siège 2 : bid_maker (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°258393782528 : Tournoi #3944351329, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/11/2025 16:13:44 CET [05/11/2025 10:13:44 ET]
+Table '3944351329 1' 3-max Siège #1 est au bouton.
+Place 1: mondada2 (550 en jetons) 
+Place 2: bid_maker (470 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+bid_maker : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 2d]
+mondada2 : passe. 
+bid_maker : suit. 10
+psychoman59 : parole 
+*** FLOP *** [5s 9c Jh]
+bid_maker : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à bid_maker.
+bid_maker a remporté 40  lors du pot .
+bid_maker : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [5s 9c Jh]
+Siège 1 : mondada2 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : bid_maker (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°258393785062 : Tournoi #3944351329, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/11/2025 16:14:01 CET [05/11/2025 10:14:01 ET]
+Table '3944351329 1' 3-max Siège #2 est au bouton.
+Place 1: mondada2 (550 en jetons) 
+Place 2: bid_maker (490 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+psychoman59 : met la petite blind. 10
+mondada2 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 8d]
+bid_maker : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à mondada2.
+mondada2 a remporté 20  lors du pot .
+mondada2 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : mondada2 (grosse blind) a remporté (20)
+Siège 2 : bid_maker (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258393786263 : Tournoi #3944351329, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/11/2025 16:14:09 CET [05/11/2025 10:14:09 ET]
+Table '3944351329 1' 3-max Siège #3 est au bouton.
+Place 1: mondada2 (560 en jetons) 
+Place 2: bid_maker (490 en jetons) 
+Place 3: psychoman59 (450 en jetons) 
+mondada2 : met la petite blind. 10
+bid_maker : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 5c]
+psychoman59 : passe. 
+mondada2 : suit. 10
+bid_maker : parole 
+*** FLOP *** [Ah Kh 6s]
+mondada2 : parole 
+bid_maker : mise. 20
+mondada2 : suit. 20
+*** TOURNANT *** [Ah Kh 6s] [2d]
+mondada2 : parole 
+bid_maker : mise. 40
+mondada2 : suit. 40
+*** RIVIÈRE *** [Ah Kh 6s 2d] [Qh]
+mondada2 : parole 
+bid_maker : mise. 120
+mondada2 : passe. 
+Personne n'a suivi. (120) sont retournés à bid_maker.
+bid_maker a remporté 160  lors du pot .
+bid_maker : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Ah Kh 6s 2d Qh]
+Siège 1 : mondada2 (petite blind) s'est couché. sur le Rivière
+Siège 2 : bid_maker (grosse blind) a remporté (160)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°258393791486 : Tournoi #3944351329, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 05/11/2025 16:14:44 CET [05/11/2025 10:14:44 ET]
+Table '3944351329 1' 3-max Siège #1 est au bouton.
+Place 1: mondada2 (480 en jetons) 
+Place 2: bid_maker (570 en jetons) 
+Place 3: psychoman59 (450 en jetons) 
+bid_maker : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 2h]
+mondada2 : suit. 20
+bid_maker : passe. 
+psychoman59 : parole 
+*** FLOP *** [Qc 4s Ac]
+psychoman59 : parole 
+mondada2 : parole 
+*** TOURNANT *** [Qc 4s Ac] [6s]
+psychoman59 : mise. 50
+mondada2 : passe. 
+Personne n'a suivi. (50) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [Qc 4s Ac 6s]
+Siège 1 : mondada2 (bouton) s'est couché. sur le Tournant
+Siège 2 : bid_maker (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (50)
+
+
+
+Main PokerStars n°258393795396 : Tournoi #3944351329, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 05/11/2025 16:15:10 CET [05/11/2025 10:15:10 ET]
+Table '3944351329 1' 3-max Siège #2 est au bouton.
+Place 1: mondada2 (460 en jetons) 
+Place 2: bid_maker (560 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 15
+mondada2 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Ks]
+bid_maker : suit. 30
+psychoman59 : suit. 15
+mondada2 : relance. 90 à 120
+bid_maker : suit. 90
+psychoman59 : passe. 
+*** FLOP *** [4d 5h 9s]
+mondada2 : mise. 30
+bid_maker : suit. 30
+*** TOURNANT *** [4d 5h 9s] [Ts]
+mondada2 : mise. 30
+bid_maker : suit. 30
+*** RIVIÈRE *** [4d 5h 9s Ts] [6c]
+mondada2 : mise. 30
+bid_maker : suit. 30
+*** ABATTAGE ***
+mondada2 : montre [Qd Ac] (Hauteur As)
+bid_maker : cache la main perdante. 
+mondada2 a remporté 450  lors du pot .
+*** SYNTHÈSE ***
+Pot total 450 | Commission 0 
+Tableau [4d 5h 9s Ts 6c]
+Siège 1 : mondada2 (grosse blind) a montré [Qd Ac] et a gagné (450) avec Hauteur As
+Siège 2 : bid_maker (bouton) a caché la main perdante. [Kc Qs]
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258393800202 : Tournoi #3944351329, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 05/11/2025 16:15:40 CET [05/11/2025 10:15:40 ET]
+Table '3944351329 1' 3-max Siège #3 est au bouton.
+Place 1: mondada2 (700 en jetons) 
+Place 2: bid_maker (350 en jetons) 
+Place 3: psychoman59 (450 en jetons) 
+mondada2 : met la petite blind. 15
+bid_maker : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Qc]
+psychoman59 : passe. 
+mondada2 : suit. 15
+bid_maker : relance. 60 à 90
+mondada2 : suit. 60
+*** FLOP *** [Ts 8c 2h]
+mondada2 : parole 
+bid_maker : mise. 30
+mondada2 : suit. 30
+*** TOURNANT *** [Ts 8c 2h] [4d]
+mondada2 : parole 
+bid_maker : mise. 30
+mondada2 : suit. 30
+*** RIVIÈRE *** [Ts 8c 2h 4d] [3d]
+mondada2 : parole 
+bid_maker : mise. 200 et est all-in.
+mondada2 : passe. 
+Personne n'a suivi. (200) sont retournés à bid_maker.
+bid_maker a remporté 300  lors du pot .
+bid_maker : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [Ts 8c 2h 4d 3d]
+Siège 1 : mondada2 (petite blind) s'est couché. sur le Rivière
+Siège 2 : bid_maker (grosse blind) a remporté (300)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°258393805515 : Tournoi #3944351329, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 05/11/2025 16:16:14 CET [05/11/2025 10:16:14 ET]
+Table '3944351329 1' 3-max Siège #1 est au bouton.
+Place 1: mondada2 (550 en jetons) 
+Place 2: bid_maker (500 en jetons) 
+Place 3: psychoman59 (450 en jetons) 
+bid_maker : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 9d]
+mondada2 : relance. 30 à 60
+bid_maker : suit. 45
+psychoman59 : suit. 30
+*** FLOP *** [6c Kd 3c]
+bid_maker : parole 
+psychoman59 : parole 
+mondada2 : parole 
+*** TOURNANT *** [6c Kd 3c] [Ah]
+bid_maker : mise. 60
+psychoman59 : passe. 
+mondada2 : passe. 
+Personne n'a suivi. (60) sont retournés à bid_maker.
+bid_maker a remporté 180  lors du pot .
+bid_maker : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [6c Kd 3c Ah]
+Siège 1 : mondada2 (bouton) s'est couché. sur le Tournant
+Siège 2 : bid_maker (petite blind) a remporté (180)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°258393809374 : Tournoi #3944351329, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 05/11/2025 16:16:39 CET [05/11/2025 10:16:39 ET]
+Table '3944351329 1' 3-max Siège #2 est au bouton.
+Place 1: mondada2 (490 en jetons) 
+Place 2: bid_maker (620 en jetons) 
+Place 3: psychoman59 (390 en jetons) 
+psychoman59 : met la petite blind. 15
+mondada2 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 4c]
+bid_maker : suit. 30
+psychoman59 : passe. 
+mondada2 : parole 
+*** FLOP *** [Qd 6s 2s]
+mondada2 : parole 
+bid_maker : parole 
+*** TOURNANT *** [Qd 6s 2s] [Kh]
+mondada2 : mise. 30
+bid_maker : suit. 30
+*** RIVIÈRE *** [Qd 6s 2s Kh] [3h]
+mondada2 : mise. 135
+bid_maker : passe. 
+Personne n'a suivi. (135) sont retournés à mondada2.
+mondada2 a remporté 135  lors du pot .
+mondada2 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 135 | Commission 0 
+Tableau [Qd 6s 2s Kh 3h]
+Siège 1 : mondada2 (grosse blind) a remporté (135)
+Siège 2 : bid_maker (bouton) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258393814051 : Tournoi #3944351329, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 05/11/2025 16:17:09 CET [05/11/2025 10:17:09 ET]
+Table '3944351329 1' 3-max Siège #3 est au bouton.
+Place 1: mondada2 (565 en jetons) 
+Place 2: bid_maker (560 en jetons) 
+Place 3: psychoman59 (375 en jetons) 
+mondada2 : met la petite blind. 20
+bid_maker : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 9d]
+psychoman59 : passe. 
+mondada2 : suit. 20
+bid_maker : parole 
+*** FLOP *** [8c 9s 2s]
+mondada2 : parole 
+bid_maker : mise. 40
+mondada2 : suit. 40
+*** TOURNANT *** [8c 9s 2s] [2h]
+mondada2 : parole 
+bid_maker : mise. 40
+mondada2 : suit. 40
+*** RIVIÈRE *** [8c 9s 2s 2h] [2d]
+mondada2 : parole 
+bid_maker : mise. 80
+mondada2 : passe. 
+Personne n'a suivi. (80) sont retournés à bid_maker.
+bid_maker a remporté 240  lors du pot .
+bid_maker : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [8c 9s 2s 2h 2d]
+Siège 1 : mondada2 (petite blind) s'est couché. sur le Rivière
+Siège 2 : bid_maker (grosse blind) a remporté (240)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°258393818751 : Tournoi #3944351329, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 05/11/2025 16:17:40 CET [05/11/2025 10:17:40 ET]
+Table '3944351329 1' 3-max Siège #1 est au bouton.
+Place 1: mondada2 (445 en jetons) 
+Place 2: bid_maker (680 en jetons) 
+Place 3: psychoman59 (375 en jetons) 
+bid_maker : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 4s]
+mondada2 : suit. 40
+bid_maker : passe. 
+psychoman59 : parole 
+*** FLOP *** [Qc 9h 6d]
+psychoman59 : parole 
+mondada2 : parole 
+*** TOURNANT *** [Qc 9h 6d] [9c]
+psychoman59 : parole 
+mondada2 : parole 
+*** RIVIÈRE *** [Qc 9h 6d 9c] [Qh]
+psychoman59 : parole 
+mondada2 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [7s 4s] (double paire, Dames et Neuf)
+mondada2 : montre [7c 3c] (double paire, Dames et Neuf)
+psychoman59 a remporté 50  lors du pot .
+mondada2 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [Qc 9h 6d 9c Qh]
+Siège 1 : mondada2 (bouton) a montré [7c 3c] et a gagné (50) avec double paire, Dames et Neuf
+Siège 2 : bid_maker (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [7s 4s] et a gagné (50) avec double paire, Dames et Neuf
+
+
+
+Main PokerStars n°258393822153 : Tournoi #3944351329, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 05/11/2025 16:18:01 CET [05/11/2025 10:18:01 ET]
+Table '3944351329 1' 3-max Siège #2 est au bouton.
+Place 1: mondada2 (455 en jetons) 
+Place 2: bid_maker (660 en jetons) 
+Place 3: psychoman59 (385 en jetons) 
+psychoman59 : met la petite blind. 20
+mondada2 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 3d]
+bid_maker : relance. 80 à 120
+psychoman59 : passe. 
+mondada2 : passe. 
+Personne n'a suivi. (80) sont retournés à bid_maker.
+bid_maker a remporté 100  lors du pot .
+bid_maker : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : mondada2 (grosse blind) s'est couché. avant Flop
+Siège 2 : bid_maker (bouton) a remporté (100)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258393823817 : Tournoi #3944351329, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 05/11/2025 16:18:12 CET [05/11/2025 10:18:12 ET]
+Table '3944351329 1' 3-max Siège #3 est au bouton.
+Place 1: mondada2 (415 en jetons) 
+Place 2: bid_maker (720 en jetons) 
+Place 3: psychoman59 (365 en jetons) 
+mondada2 : met la petite blind. 20
+bid_maker : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 4s]
+psychoman59 : passe. 
+mondada2 : passe. 
+Personne n'a suivi. (20) sont retournés à bid_maker.
+bid_maker a remporté 40  lors du pot .
+bid_maker : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : mondada2 (petite blind) s'est couché. avant Flop
+Siège 2 : bid_maker (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°258393824884 : Tournoi #3944351329, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 05/11/2025 16:18:19 CET [05/11/2025 10:18:19 ET]
+Table '3944351329 1' 3-max Siège #1 est au bouton.
+Place 1: mondada2 (395 en jetons) 
+Place 2: bid_maker (740 en jetons) 
+Place 3: psychoman59 (365 en jetons) 
+bid_maker : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Qd]
+mondada2 : suit. 40
+bid_maker : suit. 20
+psychoman59 : parole 
+*** FLOP *** [5d 7h 4h]
+bid_maker : mise. 40
+psychoman59 : relance. 285 à 325 et est all-in.
+mondada2 : relance. 30 à 355 et est all-in.
+bid_maker : passe. 
+Personne n'a suivi. (30) sont retournés à mondada2.
+*** TOURNANT *** [5d 7h 4h] [8h]
+*** RIVIÈRE *** [5d 7h 4h 8h] [2c]
+*** ABATTAGE ***
+psychoman59 : montre [7d Qd] (une paire de Sept)
+mondada2 : montre [6h 8d] (une suite, Quatre à Huit)
+mondada2 a remporté 810  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 810 | Commission 0 
+Tableau [5d 7h 4h 8h 2c]
+Siège 1 : mondada2 (bouton) a montré [6h 8d] et a gagné (810) avec une suite, Quatre à Huit
+Siège 2 : bid_maker (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a montré [7d Qd] et a perdu avec une paire de Sept
+
+
+

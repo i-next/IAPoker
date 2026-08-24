@@ -1,0 +1,528 @@
+﻿Main PokerStars n°254762876530 : Tournoi #3856570913, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/02/2025 10:11:59 CET [08/02/2025 4:11:59 ET]
+Table '3856570913 1' 3-max Siège #1 est au bouton.
+Place 1: aligator378 (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: pokalexy (500 en jetons) 
+psychoman59 : met la petite blind. 10
+pokalexy : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Jc]
+aligator378 : passe. 
+psychoman59 : suit. 10
+pokalexy : parole 
+*** FLOP *** [7h 8c 8h]
+psychoman59 : parole 
+pokalexy : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à pokalexy.
+pokalexy a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [7h 8c 8h]
+Siège 1 : aligator378 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 3 : pokalexy (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°254762877801 : Tournoi #3856570913, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/02/2025 10:12:12 CET [08/02/2025 4:12:12 ET]
+Table '3856570913 1' 3-max Siège #2 est au bouton.
+Place 1: aligator378 (500 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+Place 3: pokalexy (520 en jetons) 
+pokalexy : met la petite blind. 10
+aligator378 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Td]
+psychoman59 : passe. 
+pokalexy : suit. 10
+aligator378 : parole 
+*** FLOP *** [6s 2h Th]
+pokalexy : parole 
+aligator378 : parole 
+*** TOURNANT *** [6s 2h Th] [Ts]
+pokalexy : parole 
+aligator378 : parole 
+*** RIVIÈRE *** [6s 2h Th Ts] [7d]
+pokalexy : parole 
+aligator378 : parole 
+*** ABATTAGE ***
+pokalexy : montre [8h 5s] (une paire de Dix)
+aligator378 : montre [9d Qc] (une paire de Dix - Dame kicker)
+aligator378 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [6s 2h Th Ts 7d]
+Siège 1 : aligator378 (grosse blind) a montré [9d Qc] et a gagné (40) avec une paire de Dix
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : pokalexy (petite blind) a montré [8h 5s] et a perdu avec une paire de Dix
+
+
+
+Main PokerStars n°254762879215 : Tournoi #3856570913, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/02/2025 10:12:26 CET [08/02/2025 4:12:26 ET]
+Table '3856570913 1' 3-max Siège #3 est au bouton.
+Place 1: aligator378 (520 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+Place 3: pokalexy (500 en jetons) 
+aligator378 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 8h]
+pokalexy : suit. 20
+aligator378 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Qd 5d 8c]
+aligator378 : parole 
+psychoman59 : parole 
+pokalexy : parole 
+*** TOURNANT *** [Qd 5d 8c] [8d]
+aligator378 : parole 
+psychoman59 : parole 
+pokalexy : parole 
+*** RIVIÈRE *** [Qd 5d 8c 8d] [Js]
+aligator378 : mise. 60
+psychoman59 : suit. 60
+pokalexy : suit. 60
+*** ABATTAGE ***
+aligator378 : montre [9d Ts] (une suite, Huit à Dame)
+psychoman59 : cache la main perdante. 
+pokalexy : cache la main perdante. 
+aligator378 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Qd 5d 8c 8d Js]
+Siège 1 : aligator378 (petite blind) a montré [9d Ts] et a gagné (240) avec une suite, Huit à Dame
+Siège 2 : psychoman59 (grosse blind) a caché la main perdante. [Td 8h]
+Siège 3 : pokalexy (bouton) a caché la main perdante. [Jd 6h]
+
+
+
+Main PokerStars n°254762881703 : Tournoi #3856570913, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/02/2025 10:12:51 CET [08/02/2025 4:12:51 ET]
+Table '3856570913 1' 3-max Siège #1 est au bouton.
+Place 1: aligator378 (680 en jetons) 
+Place 2: psychoman59 (400 en jetons) 
+Place 3: pokalexy (420 en jetons) 
+psychoman59 : met la petite blind. 10
+pokalexy : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 9d]
+aligator378 : passe. 
+psychoman59 : suit. 10
+pokalexy : parole 
+*** FLOP *** [Js Ac 2h]
+psychoman59 : parole 
+pokalexy : parole 
+*** TOURNANT *** [Js Ac 2h] [6d]
+psychoman59 : parole 
+pokalexy : parole 
+*** RIVIÈRE *** [Js Ac 2h 6d] [4c]
+psychoman59 : parole 
+pokalexy : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Td 9d] (Hauteur As)
+pokalexy : montre [9h Qc] (Hauteur As - Dame kicker)
+pokalexy a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Js Ac 2h 6d 4c]
+Siège 1 : aligator378 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [Td 9d] et a perdu avec Hauteur As
+Siège 3 : pokalexy (grosse blind) a montré [9h Qc] et a gagné (40) avec Hauteur As
+
+
+
+Main PokerStars n°254762883788 : Tournoi #3856570913, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/02/2025 10:13:12 CET [08/02/2025 4:13:12 ET]
+Table '3856570913 1' 3-max Siège #2 est au bouton.
+Place 1: aligator378 (680 en jetons) 
+Place 2: psychoman59 (380 en jetons) 
+Place 3: pokalexy (440 en jetons) 
+pokalexy : met la petite blind. 10
+aligator378 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 4d]
+psychoman59 : passe. 
+pokalexy : suit. 10
+aligator378 : relance. 40 à 60
+pokalexy : suit. 40
+*** FLOP *** [Jh 2h 6s]
+pokalexy : mise. 120
+aligator378 : suit. 120
+*** TOURNANT *** [Jh 2h 6s] [5d]
+pokalexy : mise. 260 et est all-in.
+aligator378 : suit. 260
+*** RIVIÈRE *** [Jh 2h 6s 5d] [9d]
+*** ABATTAGE ***
+pokalexy : montre [Jc 7h] (une paire de Valets)
+aligator378 : montre [Jd Ah] (une paire de Valets - As kicker)
+aligator378 a remporté 880  lors du pot .
+pokalexy a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 880 | Commission 0 
+Tableau [Jh 2h 6s 5d 9d]
+Siège 1 : aligator378 (grosse blind) a montré [Jd Ah] et a gagné (880) avec une paire de Valets
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : pokalexy (petite blind) a montré [Jc 7h] et a perdu avec une paire de Valets
+
+
+
+Main PokerStars n°254762886771 : Tournoi #3856570913, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/02/2025 10:13:42 CET [08/02/2025 4:13:42 ET]
+Table '3856570913 1' 3-max Siège #1 est au bouton.
+Place 1: aligator378 (1120 en jetons) 
+Place 2: psychoman59 (380 en jetons) 
+aligator378 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 2d]
+aligator378 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Qd Kh Ac]
+psychoman59 : parole 
+aligator378 : parole 
+*** TOURNANT *** [Qd Kh Ac] [2c]
+psychoman59 : parole 
+aligator378 : parole 
+*** RIVIÈRE *** [Qd Kh Ac 2c] [9s]
+psychoman59 : parole 
+aligator378 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [7d 2d] (une paire de Deux)
+aligator378 : cache la main perdante. 
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Qd Kh Ac 2c 9s]
+Siège 1 : aligator378 (bouton) (petite blind) a caché la main perdante. [3s 5d]
+Siège 2 : psychoman59 (grosse blind) a montré [7d 2d] et a gagné (40) avec une paire de Deux
+
+
+
+Main PokerStars n°254762888348 : Tournoi #3856570913, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 08/02/2025 10:13:58 CET [08/02/2025 4:13:58 ET]
+Table '3856570913 1' 3-max Siège #2 est au bouton.
+Place 1: aligator378 (1100 en jetons) 
+Place 2: psychoman59 (400 en jetons) 
+psychoman59 : met la petite blind. 10
+aligator378 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 4d]
+psychoman59 : suit. 10
+aligator378 : parole 
+*** FLOP *** [As 8h 5s]
+aligator378 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à aligator378.
+aligator378 a remporté 40  lors du pot .
+aligator378 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [As 8h 5s]
+Siège 1 : aligator378 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°254762889780 : Tournoi #3856570913, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/02/2025 10:14:12 CET [08/02/2025 4:14:12 ET]
+Table '3856570913 1' 3-max Siège #1 est au bouton.
+Place 1: aligator378 (1120 en jetons) 
+Place 2: psychoman59 (380 en jetons) 
+aligator378 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 9s]
+aligator378 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Js Ts Kd]
+psychoman59 : parole 
+aligator378 : parole 
+*** TOURNANT *** [Js Ts Kd] [Ks]
+psychoman59 : parole 
+aligator378 : parole 
+*** RIVIÈRE *** [Js Ts Kd Ks] [6s]
+psychoman59 : mise. 60
+aligator378 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Js Ts Kd Ks 6s]
+Siège 1 : aligator378 (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°254762891685 : Tournoi #3856570913, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/02/2025 10:14:31 CET [08/02/2025 4:14:31 ET]
+Table '3856570913 1' 3-max Siège #2 est au bouton.
+Place 1: aligator378 (1090 en jetons) 
+Place 2: psychoman59 (410 en jetons) 
+psychoman59 : met la petite blind. 15
+aligator378 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 9c]
+psychoman59 : relance. 380 à 410 et est all-in.
+aligator378 : passe. 
+Personne n'a suivi. (380) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : aligator378 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°254762892410 : Tournoi #3856570913, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/02/2025 10:14:38 CET [08/02/2025 4:14:38 ET]
+Table '3856570913 1' 3-max Siège #1 est au bouton.
+Place 1: aligator378 (1060 en jetons) 
+Place 2: psychoman59 (440 en jetons) 
+aligator378 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Kh]
+aligator378 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [6d 2d 8h]
+psychoman59 : parole 
+aligator378 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à aligator378.
+aligator378 a remporté 60  lors du pot .
+aligator378 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [6d 2d 8h]
+Siège 1 : aligator378 (bouton) (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°254762893696 : Tournoi #3856570913, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/02/2025 10:14:50 CET [08/02/2025 4:14:50 ET]
+Table '3856570913 1' 3-max Siège #2 est au bouton.
+Place 1: aligator378 (1090 en jetons) 
+Place 2: psychoman59 (410 en jetons) 
+psychoman59 : met la petite blind. 15
+aligator378 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 7h]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à aligator378.
+aligator378 a remporté 30  lors du pot .
+aligator378 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : aligator378 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254762894155 : Tournoi #3856570913, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/02/2025 10:14:54 CET [08/02/2025 4:14:54 ET]
+Table '3856570913 1' 3-max Siège #1 est au bouton.
+Place 1: aligator378 (1105 en jetons) 
+Place 2: psychoman59 (395 en jetons) 
+aligator378 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Js]
+aligator378 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Ac 6h 8s]
+psychoman59 : parole 
+aligator378 : parole 
+*** TOURNANT *** [Ac 6h 8s] [8d]
+psychoman59 : parole 
+aligator378 : parole 
+*** RIVIÈRE *** [Ac 6h 8s 8d] [8h]
+psychoman59 : parole 
+aligator378 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [7d Js] (un brelan de Huit)
+aligator378 : montre [4d Qh] (un brelan de Huit - As+Dame kicker)
+aligator378 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ac 6h 8s 8d 8h]
+Siège 1 : aligator378 (bouton) (petite blind) a montré [4d Qh] et a gagné (60) avec un brelan de Huit
+Siège 2 : psychoman59 (grosse blind) a montré [7d Js] et a perdu avec un brelan de Huit
+
+
+
+Main PokerStars n°254762895984 : Tournoi #3856570913, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/02/2025 10:15:13 CET [08/02/2025 4:15:13 ET]
+Table '3856570913 1' 3-max Siège #2 est au bouton.
+Place 1: aligator378 (1135 en jetons) 
+Place 2: psychoman59 (365 en jetons) 
+psychoman59 : met la petite blind. 15
+aligator378 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 3d]
+psychoman59 : suit. 15
+aligator378 : relance. 30 à 60
+psychoman59 : suit. 30
+*** FLOP *** [4c Ks Th]
+aligator378 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [4c Ks Th] [Ad]
+aligator378 : mise. 30
+psychoman59 : suit. 30
+*** RIVIÈRE *** [4c Ks Th Ad] [5h]
+aligator378 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à aligator378.
+aligator378 a remporté 180  lors du pot .
+aligator378 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [4c Ks Th Ad 5h]
+Siège 1 : aligator378 (grosse blind) a remporté (180)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°254762898567 : Tournoi #3856570913, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/02/2025 10:15:39 CET [08/02/2025 4:15:39 ET]
+Table '3856570913 1' 3-max Siège #1 est au bouton.
+Place 1: aligator378 (1225 en jetons) 
+Place 2: psychoman59 (275 en jetons) 
+aligator378 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 3s]
+aligator378 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : aligator378 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°254762899088 : Tournoi #3856570913, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/02/2025 10:15:44 CET [08/02/2025 4:15:44 ET]
+Table '3856570913 1' 3-max Siège #2 est au bouton.
+Place 1: aligator378 (1210 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+psychoman59 : met la petite blind. 15
+aligator378 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Td]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à aligator378.
+aligator378 a remporté 30  lors du pot .
+aligator378 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : aligator378 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254762899527 : Tournoi #3856570913, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 08/02/2025 10:15:48 CET [08/02/2025 4:15:48 ET]
+Table '3856570913 1' 3-max Siège #1 est au bouton.
+Place 1: aligator378 (1225 en jetons) 
+Place 2: psychoman59 (275 en jetons) 
+aligator378 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Qd]
+aligator378 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Jc 7s 9s]
+psychoman59 : parole 
+aligator378 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à aligator378.
+aligator378 a remporté 60  lors du pot .
+aligator378 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Jc 7s 9s]
+Siège 1 : aligator378 (bouton) (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°254762901110 : Tournoi #3856570913, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 08/02/2025 10:16:04 CET [08/02/2025 4:16:04 ET]
+Table '3856570913 1' 3-max Siège #2 est au bouton.
+Place 1: aligator378 (1255 en jetons) 
+Place 2: psychoman59 (245 en jetons) 
+psychoman59 : met la petite blind. 20
+aligator378 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 3d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à aligator378.
+aligator378 a remporté 40  lors du pot .
+aligator378 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : aligator378 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254762901542 : Tournoi #3856570913, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 08/02/2025 10:16:08 CET [08/02/2025 4:16:08 ET]
+Table '3856570913 1' 3-max Siège #1 est au bouton.
+Place 1: aligator378 (1275 en jetons) 
+Place 2: psychoman59 (225 en jetons) 
+aligator378 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 6d]
+aligator378 : suit. 20
+psychoman59 : relance. 185 à 225 et est all-in.
+aligator378 : passe. 
+Personne n'a suivi. (185) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : aligator378 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°254762902355 : Tournoi #3856570913, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 08/02/2025 10:16:16 CET [08/02/2025 4:16:16 ET]
+Table '3856570913 1' 3-max Siège #2 est au bouton.
+Place 1: aligator378 (1235 en jetons) 
+Place 2: psychoman59 (265 en jetons) 
+psychoman59 : met la petite blind. 20
+aligator378 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 4h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à aligator378.
+aligator378 a remporté 40  lors du pot .
+aligator378 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : aligator378 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254762902868 : Tournoi #3856570913, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 08/02/2025 10:16:21 CET [08/02/2025 4:16:21 ET]
+Table '3856570913 1' 3-max Siège #1 est au bouton.
+Place 1: aligator378 (1255 en jetons) 
+Place 2: psychoman59 (245 en jetons) 
+aligator378 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Qs]
+aligator378 : relance. 40 à 80
+psychoman59 : relance. 165 à 245 et est all-in.
+aligator378 : suit. 165
+*** FLOP *** [9d 5s Kh]
+*** TOURNANT *** [9d 5s Kh] [2c]
+*** RIVIÈRE *** [9d 5s Kh 2c] [Js]
+*** ABATTAGE ***
+psychoman59 : montre [Qh Qs] (une paire de Dames)
+aligator378 : montre [Ks Th] (une paire de Rois)
+aligator378 a remporté 490  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+aligator378 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 490 | Commission 0 
+Tableau [9d 5s Kh 2c Js]
+Siège 1 : aligator378 (bouton) (petite blind) a montré [Ks Th] et a gagné (490) avec une paire de Rois
+Siège 2 : psychoman59 (grosse blind) a montré [Qh Qs] et a perdu avec une paire de Dames
+
+
+

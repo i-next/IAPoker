@@ -1,0 +1,457 @@
+﻿Main PokerStars n°251135346695 : Tournoi #3769678516, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 22/06/2024 7:53:01 CET [22/06/2024 1:53:01 ET]
+Table '3769678516 1' 3-max Siège #1 est au bouton.
+Place 1: nshokk8 (500 en jetons) 
+Place 2: bilycrispy (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+bilycrispy : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Jh]
+nshokk8 : relance. 40 à 60
+bilycrispy : suit. 50
+psychoman59 : passe. 
+*** FLOP *** [5d Js 7c]
+bilycrispy : parole 
+nshokk8 : parole 
+*** TOURNANT *** [5d Js 7c] [8d]
+bilycrispy : parole 
+nshokk8 : mise. 60
+bilycrispy : passe. 
+Personne n'a suivi. (60) sont retournés à nshokk8.
+nshokk8 a remporté 140  lors du pot .
+nshokk8 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [5d Js 7c 8d]
+Siège 1 : nshokk8 (bouton) a remporté (140)
+Siège 2 : bilycrispy (petite blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°251135349047 : Tournoi #3769678516, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 22/06/2024 7:53:26 CET [22/06/2024 1:53:26 ET]
+Table '3769678516 1' 3-max Siège #2 est au bouton.
+Place 1: nshokk8 (580 en jetons) 
+Place 2: bilycrispy (440 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 10
+nshokk8 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Ts]
+bilycrispy : passe. 
+psychoman59 : suit. 10
+nshokk8 : relance. 80 à 100
+psychoman59 : relance. 380 à 480 et est all-in.
+nshokk8 : suit. 380
+*** FLOP *** [6s 6c Js]
+*** TOURNANT *** [6s 6c Js] [7h]
+*** RIVIÈRE *** [6s 6c Js 7h] [Ks]
+*** ABATTAGE ***
+psychoman59 : montre [As Ts] (une couleur, hauteur As)
+nshokk8 : montre [Ac Kc] (double paire, Rois et Six)
+psychoman59 a remporté 960  lors du pot .
+*** SYNTHÈSE ***
+Pot total 960 | Commission 0 
+Tableau [6s 6c Js 7h Ks]
+Siège 1 : nshokk8 (grosse blind) a montré [Ac Kc] et a perdu avec double paire, Rois et Six
+Siège 2 : bilycrispy (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [As Ts] et a gagné (960) avec une couleur, hauteur As
+
+
+
+Main PokerStars n°251135350747 : Tournoi #3769678516, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 22/06/2024 7:53:44 CET [22/06/2024 1:53:44 ET]
+Table '3769678516 1' 3-max Siège #3 est au bouton.
+Place 1: nshokk8 (100 en jetons) 
+Place 2: bilycrispy (440 en jetons) 
+Place 3: psychoman59 (960 en jetons) 
+nshokk8 : met la petite blind. 10
+bilycrispy : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 9h]
+psychoman59 : passe. 
+nshokk8 : relance. 80 à 100 et est all-in.
+bilycrispy : suit. 80
+*** FLOP *** [3h 9c Td]
+*** TOURNANT *** [3h 9c Td] [Ad]
+*** RIVIÈRE *** [3h 9c Td Ad] [5d]
+*** ABATTAGE ***
+nshokk8 : montre [Jd 4c] (Hauteur As)
+bilycrispy : montre [Kh As] (une paire de As)
+bilycrispy a remporté 200  lors du pot .
+nshokk8 ne joue pas.
+nshokk8 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [3h 9c Td Ad 5d]
+Siège 1 : nshokk8 (petite blind) a montré [Jd 4c] et a perdu avec Hauteur As
+Siège 2 : bilycrispy (grosse blind) a montré [Kh As] et a gagné (200) avec une paire de As
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°251135353024 : Tournoi #3769678516, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 22/06/2024 7:54:07 CET [22/06/2024 1:54:07 ET]
+Table '3769678516 1' 3-max Siège #2 est au bouton.
+Place 2: bilycrispy (540 en jetons) 
+Place 3: psychoman59 (960 en jetons) 
+bilycrispy : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 9d]
+bilycrispy : suit. 10
+psychoman59 : parole 
+*** FLOP *** [3h Qd 8s]
+psychoman59 : parole 
+bilycrispy : parole 
+*** TOURNANT *** [3h Qd 8s] [Jd]
+psychoman59 : parole 
+bilycrispy : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [3h Qd 8s Jd] [2s]
+psychoman59 : parole 
+bilycrispy : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à bilycrispy.
+bilycrispy a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [3h Qd 8s Jd 2s]
+Siège 2 : bilycrispy (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°251135354923 : Tournoi #3769678516, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 22/06/2024 7:54:27 CET [22/06/2024 1:54:27 ET]
+Table '3769678516 1' 3-max Siège #3 est au bouton.
+Place 2: bilycrispy (580 en jetons) 
+Place 3: psychoman59 (920 en jetons) 
+psychoman59 : met la petite blind. 10
+bilycrispy : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 9d]
+psychoman59 : relance. 40 à 60
+bilycrispy : suit. 40
+*** FLOP *** [Kd Js 2c]
+bilycrispy : mise. 120
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à bilycrispy.
+bilycrispy a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Kd Js 2c]
+Siège 2 : bilycrispy (grosse blind) a remporté (120)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°251135356191 : Tournoi #3769678516, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 22/06/2024 7:54:39 CET [22/06/2024 1:54:39 ET]
+Table '3769678516 1' 3-max Siège #2 est au bouton.
+Place 2: bilycrispy (640 en jetons) 
+Place 3: psychoman59 (860 en jetons) 
+bilycrispy : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 3h]
+bilycrispy : suit. 10
+psychoman59 : parole 
+*** FLOP *** [5h Tc 4d]
+psychoman59 : parole 
+bilycrispy : mise. 60
+psychoman59 : suit. 60
+*** TOURNANT *** [5h Tc 4d] [Qh]
+psychoman59 : parole 
+bilycrispy : parole 
+*** RIVIÈRE *** [5h Tc 4d Qh] [6d]
+psychoman59 : parole 
+bilycrispy : mise. 60
+psychoman59 : relance. 60 à 120
+bilycrispy : suit. 60
+*** ABATTAGE ***
+psychoman59 : montre [7c 3h] (une suite, Trois à Sept)
+bilycrispy : cache la main perdante. 
+psychoman59 a remporté 400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [5h Tc 4d Qh 6d]
+Siège 2 : bilycrispy (bouton) (petite blind) a caché la main perdante. [Td 7d]
+Siège 3 : psychoman59 (grosse blind) a montré [7c 3h] et a gagné (400) avec une suite, Trois à Sept
+
+
+
+Main PokerStars n°251135359081 : Tournoi #3769678516, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 22/06/2024 7:55:10 CET [22/06/2024 1:55:10 ET]
+Table '3769678516 1' 3-max Siège #3 est au bouton.
+Place 2: bilycrispy (440 en jetons) 
+Place 3: psychoman59 (1060 en jetons) 
+psychoman59 : met la petite blind. 15
+bilycrispy : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Kc]
+psychoman59 : suit. 15
+bilycrispy : relance. 30 à 60
+psychoman59 : suit. 30
+*** FLOP *** [8c Ah 9s]
+bilycrispy : parole 
+psychoman59 : mise. 120
+bilycrispy : suit. 120
+*** TOURNANT *** [8c Ah 9s] [9d]
+bilycrispy : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [8c Ah 9s 9d] [9h]
+bilycrispy : parole 
+psychoman59 : mise. 180
+bilycrispy : passe. 
+Personne n'a suivi. (180) sont retournés à psychoman59.
+psychoman59 a remporté 360  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [8c Ah 9s 9d 9h]
+Siège 2 : bilycrispy (grosse blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (360)
+
+
+
+Main PokerStars n°251135361150 : Tournoi #3769678516, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 22/06/2024 7:55:34 CET [22/06/2024 1:55:34 ET]
+Table '3769678516 1' 3-max Siège #2 est au bouton.
+Place 2: bilycrispy (260 en jetons) 
+Place 3: psychoman59 (1240 en jetons) 
+bilycrispy : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 5s]
+bilycrispy : relance. 230 à 260 et est all-in.
+psychoman59 : suit. 230
+*** FLOP *** [9c 5h Qd]
+*** TOURNANT *** [9c 5h Qd] [7h]
+*** RIVIÈRE *** [9c 5h Qd 7h] [Jd]
+*** ABATTAGE ***
+psychoman59 : montre [Kc 5s] (une paire de Cinq)
+bilycrispy : montre [As 9s] (une paire de Neuf)
+bilycrispy a remporté 520  lors du pot .
+*** SYNTHÈSE ***
+Pot total 520 | Commission 0 
+Tableau [9c 5h Qd 7h Jd]
+Siège 2 : bilycrispy (bouton) (petite blind) a montré [As 9s] et a gagné (520) avec une paire de Neuf
+Siège 3 : psychoman59 (grosse blind) a montré [Kc 5s] et a perdu avec une paire de Cinq
+
+
+
+Main PokerStars n°251135362282 : Tournoi #3769678516, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 22/06/2024 7:55:48 CET [22/06/2024 1:55:48 ET]
+Table '3769678516 1' 3-max Siège #3 est au bouton.
+Place 2: bilycrispy (520 en jetons) 
+Place 3: psychoman59 (980 en jetons) 
+psychoman59 : met la petite blind. 15
+bilycrispy : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 3d]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à bilycrispy.
+bilycrispy a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : bilycrispy (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°251135362644 : Tournoi #3769678516, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 22/06/2024 7:55:52 CET [22/06/2024 1:55:52 ET]
+Table '3769678516 1' 3-max Siège #2 est au bouton.
+Place 2: bilycrispy (535 en jetons) 
+Place 3: psychoman59 (965 en jetons) 
+bilycrispy : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 4d]
+bilycrispy : relance. 505 à 535 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (505) sont retournés à bilycrispy.
+bilycrispy a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : bilycrispy (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°251135363194 : Tournoi #3769678516, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 22/06/2024 7:55:59 CET [22/06/2024 1:55:59 ET]
+Table '3769678516 1' 3-max Siège #3 est au bouton.
+Place 2: bilycrispy (565 en jetons) 
+Place 3: psychoman59 (935 en jetons) 
+psychoman59 : met la petite blind. 15
+bilycrispy : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 2c]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à bilycrispy.
+bilycrispy a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : bilycrispy (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°251135363615 : Tournoi #3769678516, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 22/06/2024 7:56:03 CET [22/06/2024 1:56:03 ET]
+Table '3769678516 1' 3-max Siège #2 est au bouton.
+Place 2: bilycrispy (580 en jetons) 
+Place 3: psychoman59 (920 en jetons) 
+bilycrispy : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 6s]
+bilycrispy : suit. 15
+psychoman59 : parole 
+*** FLOP *** [5s Qh 5d]
+psychoman59 : parole 
+bilycrispy : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à bilycrispy.
+bilycrispy a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [5s Qh 5d]
+Siège 2 : bilycrispy (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°251135364733 : Tournoi #3769678516, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 22/06/2024 7:56:17 CET [22/06/2024 1:56:17 ET]
+Table '3769678516 1' 3-max Siège #3 est au bouton.
+Place 2: bilycrispy (610 en jetons) 
+Place 3: psychoman59 (890 en jetons) 
+psychoman59 : met la petite blind. 15
+bilycrispy : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Ad]
+psychoman59 : relance. 860 à 890 et est all-in.
+bilycrispy : passe. 
+Personne n'a suivi. (860) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : bilycrispy (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°251135365299 : Tournoi #3769678516, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 22/06/2024 7:56:24 CET [22/06/2024 1:56:24 ET]
+Table '3769678516 1' 3-max Siège #2 est au bouton.
+Place 2: bilycrispy (580 en jetons) 
+Place 3: psychoman59 (920 en jetons) 
+bilycrispy : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 6s]
+bilycrispy : suit. 15
+psychoman59 : parole 
+*** FLOP *** [3s 6c Qh]
+psychoman59 : parole 
+bilycrispy : parole 
+*** TOURNANT *** [3s 6c Qh] [Qd]
+psychoman59 : mise. 30
+bilycrispy : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [3s 6c Qh Qd]
+Siège 2 : bilycrispy (bouton) (petite blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°251135366347 : Tournoi #3769678516, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 22/06/2024 7:56:37 CET [22/06/2024 1:56:37 ET]
+Table '3769678516 1' 3-max Siège #3 est au bouton.
+Place 2: bilycrispy (550 en jetons) 
+Place 3: psychoman59 (950 en jetons) 
+psychoman59 : met la petite blind. 15
+bilycrispy : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 6s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à bilycrispy.
+bilycrispy a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : bilycrispy (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°251135366689 : Tournoi #3769678516, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 22/06/2024 7:56:41 CET [22/06/2024 1:56:41 ET]
+Table '3769678516 1' 3-max Siège #2 est au bouton.
+Place 2: bilycrispy (565 en jetons) 
+Place 3: psychoman59 (935 en jetons) 
+bilycrispy : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Ah]
+bilycrispy : suit. 15
+psychoman59 : relance. 905 à 935 et est all-in.
+bilycrispy : passe. 
+Personne n'a suivi. (905) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : bilycrispy (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°251135367320 : Tournoi #3769678516, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 22/06/2024 7:56:49 CET [22/06/2024 1:56:49 ET]
+Table '3769678516 1' 3-max Siège #3 est au bouton.
+Place 2: bilycrispy (535 en jetons) 
+Place 3: psychoman59 (965 en jetons) 
+psychoman59 : met la petite blind. 15
+bilycrispy : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Js]
+psychoman59 : suit. 15
+bilycrispy : parole 
+*** FLOP *** [Ad Kd 7h]
+bilycrispy : parole 
+psychoman59 : mise. 30
+bilycrispy : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ad Kd 7h]
+Siège 2 : bilycrispy (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°251135368306 : Tournoi #3769678516, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 22/06/2024 7:57:00 CET [22/06/2024 1:57:00 ET]
+Table '3769678516 1' 3-max Siège #2 est au bouton.
+Place 2: bilycrispy (505 en jetons) 
+Place 3: psychoman59 (995 en jetons) 
+bilycrispy : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Jc]
+bilycrispy : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Ts 3s Tc]
+psychoman59 : parole 
+bilycrispy : mise. 475 et est all-in.
+psychoman59 : suit. 475
+*** TOURNANT *** [Ts 3s Tc] [4c]
+*** RIVIÈRE *** [Ts 3s Tc 4c] [2c]
+*** ABATTAGE ***
+psychoman59 : montre [Td Jc] (un brelan de Dix)
+bilycrispy : montre [8d 7s] (une paire de Dix)
+psychoman59 a remporté 1010  lors du pot .
+bilycrispy a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 0.50 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 1010 | Commission 0 
+Tableau [Ts 3s Tc 4c 2c]
+Siège 2 : bilycrispy (bouton) (petite blind) a montré [8d 7s] et a perdu avec une paire de Dix
+Siège 3 : psychoman59 (grosse blind) a montré [Td Jc] et a gagné (1010) avec un brelan de Dix
+
+
+

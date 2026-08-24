@@ -1,0 +1,48 @@
+﻿Main PokerStars n°250597512365 : Tournoi #3756637779, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 20/05/2024 9:12:44 CET [20/05/2024 3:12:44 ET]
+Table '3756637779 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: juanpolillo (500 en jetons) 
+Place 3: aymerick79 (500 en jetons) 
+juanpolillo : met la petite blind. 10
+aymerick79 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 4d]
+psychoman59 : passe. 
+juanpolillo : relance. 480 à 500 et est all-in.
+aymerick79 : suit. 480 et est all-in.
+*** FLOP *** [Ts 6s Jc]
+*** TOURNANT *** [Ts 6s Jc] [3d]
+*** RIVIÈRE *** [Ts 6s Jc 3d] [Kd]
+*** ABATTAGE ***
+juanpolillo : montre [As 8h] (Hauteur As)
+aymerick79 : montre [Kc 9s] (une paire de Rois)
+aymerick79 a remporté 1000  lors du pot .
+juanpolillo a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 1000 | Commission 0 
+Tableau [Ts 6s Jc 3d Kd]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : juanpolillo (petite blind) a montré [As 8h] et a perdu avec Hauteur As
+Siège 3 : aymerick79 (grosse blind) a montré [Kc 9s] et a gagné (1000) avec une paire de Rois
+
+
+
+Main PokerStars n°250597513968 : Tournoi #3756637779, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 20/05/2024 9:13:02 CET [20/05/2024 3:13:02 ET]
+Table '3756637779 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 3: aymerick79 (1000 en jetons) 
+aymerick79 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Qd]
+aymerick79 : relance. 980 à 1000 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (980) sont retournés à aymerick79.
+aymerick79 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : aymerick79 (bouton) (petite blind) a remporté (40)
+
+
+

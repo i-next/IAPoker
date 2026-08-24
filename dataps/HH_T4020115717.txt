@@ -1,0 +1,79 @@
+﻿Main PokerStars n°261598733128 : Tournoi #4020115717, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 31/07/2026 7:12:21 CET [31/07/2026 1:12:21 ET]
+Table '4020115717 1' 3-max Siège #1 est au bouton.
+Place 1: muger2804 (500 en jetons) 
+Place 2: Dayon99 (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+Dayon99 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 7d]
+muger2804 : passe. 
+Dayon99 : relance. 20 à 40
+psychoman59 : suit. 20
+*** FLOP *** [8h 5d Js]
+Dayon99 : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Dayon99.
+Dayon99 a remporté 80  lors du pot .
+Dayon99 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [8h 5d Js]
+Siège 1 : muger2804 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Dayon99 (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261598734487 : Tournoi #4020115717, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 31/07/2026 7:12:44 CET [31/07/2026 1:12:44 ET]
+Table '4020115717 1' 3-max Siège #2 est au bouton.
+Place 1: muger2804 (500 en jetons) 
+Place 2: Dayon99 (540 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+psychoman59 : met la petite blind. 10
+muger2804 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 8c]
+Dayon99 : relance. 40 à 60
+psychoman59 : passe. 
+muger2804 : passe. 
+Personne n'a suivi. (40) sont retournés à Dayon99.
+Dayon99 a remporté 50  lors du pot .
+Dayon99 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : muger2804 (grosse blind) s'est couché. avant Flop
+Siège 2 : Dayon99 (bouton) a remporté (50)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261598735206 : Tournoi #4020115717, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 31/07/2026 7:12:58 CET [31/07/2026 1:12:58 ET]
+Table '4020115717 1' 3-max Siège #3 est au bouton.
+Place 1: muger2804 (480 en jetons) 
+Place 2: Dayon99 (570 en jetons) 
+Place 3: psychoman59 (450 en jetons) 
+muger2804 : met la petite blind. 10
+Dayon99 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 8d]
+psychoman59 : relance. 430 à 450 et est all-in.
+muger2804 : suit. 440
+Dayon99 : passe. 
+*** FLOP *** [7d 9s 8h]
+*** TOURNANT *** [7d 9s 8h] [Tc]
+*** RIVIÈRE *** [7d 9s 8h Tc] [Qc]
+*** ABATTAGE ***
+muger2804 : montre [Js Ac] (une suite, Huit à Dame)
+psychoman59 : montre [8s 8d] (un brelan de Huit)
+muger2804 a remporté 920  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 920 | Commission 0 
+Tableau [7d 9s 8h Tc Qc]
+Siège 1 : muger2804 (petite blind) a montré [Js Ac] et a gagné (920) avec une suite, Huit à Dame
+Siège 2 : Dayon99 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a montré [8s 8d] et a perdu avec un brelan de Huit
+
+
+

@@ -1,0 +1,140 @@
+﻿Main PokerStars n°243911096316 : Tournoi #3596188453, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/05/2023 7:17:24 CET [26/05/2023 1:17:24 ET]
+Table '3596188453 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: freeway1785 (300 en jetons) 
+Place 3: ortega4240 (300 en jetons) 
+freeway1785 : met la petite blind. 10
+ortega4240 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 2h]
+psychoman59 : passe. 
+freeway1785 : suit. 10
+ortega4240 : parole 
+*** FLOP *** [8s Qd Tc]
+freeway1785 : parole 
+ortega4240 : parole 
+*** TOURNANT *** [8s Qd Tc] [7c]
+freeway1785 : parole 
+ortega4240 : mise. 60
+freeway1785 : passe. 
+Personne n'a suivi. (60) sont retournés à ortega4240.
+ortega4240 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [8s Qd Tc 7c]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : freeway1785 (petite blind) s'est couché. sur le Tournant
+Siège 3 : ortega4240 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°243911098794 : Tournoi #3596188453, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 26/05/2023 7:17:47 CET [26/05/2023 1:17:47 ET]
+Table '3596188453 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: freeway1785 (280 en jetons) 
+Place 3: ortega4240 (320 en jetons) 
+ortega4240 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Ts]
+freeway1785 : suit. 20
+ortega4240 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Jc 7c 2s]
+ortega4240 : parole 
+psychoman59 : parole 
+freeway1785 : parole 
+*** TOURNANT *** [Jc 7c 2s] [4h]
+ortega4240 : parole 
+psychoman59 : parole 
+freeway1785 : parole 
+*** RIVIÈRE *** [Jc 7c 2s 4h] [4s]
+ortega4240 : parole 
+psychoman59 : mise. 30
+freeway1785 : passe. 
+ortega4240 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Jc 7c 2s 4h 4s]
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 2 : freeway1785 (bouton) s'est couché. sur le Rivière
+Siège 3 : ortega4240 (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°243911103452 : Tournoi #3596188453, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 26/05/2023 7:18:30 CET [26/05/2023 1:18:30 ET]
+Table '3596188453 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (340 en jetons) 
+Place 2: freeway1785 (260 en jetons) 
+Place 3: ortega4240 (300 en jetons) 
+psychoman59 : met la petite blind. 15
+freeway1785 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 2h]
+ortega4240 : relance. 30 à 60
+psychoman59 : passe. 
+freeway1785 : suit. 30
+*** FLOP *** [2s 8h Tc]
+freeway1785 : parole 
+ortega4240 : mise. 60
+freeway1785 : suit. 60
+*** TOURNANT *** [2s 8h Tc] [7d]
+freeway1785 : parole 
+ortega4240 : parole 
+*** RIVIÈRE *** [2s 8h Tc 7d] [3s]
+freeway1785 : parole 
+ortega4240 : parole 
+*** ABATTAGE ***
+freeway1785 : montre [Kc Qh] (Hauteur Roi)
+ortega4240 : montre [Ad 6s] (Hauteur As)
+ortega4240 a remporté 255  lors du pot .
+*** SYNTHÈSE ***
+Pot total 255 | Commission 0 
+Tableau [2s 8h Tc 7d 3s]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : freeway1785 (grosse blind) a montré [Kc Qh] et a perdu avec Hauteur Roi
+Siège 3 : ortega4240 (bouton) a montré [Ad 6s] et a gagné (255) avec Hauteur As
+
+
+
+Main PokerStars n°243911106302 : Tournoi #3596188453, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 26/05/2023 7:18:56 CET [26/05/2023 1:18:56 ET]
+Table '3596188453 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (325 en jetons) 
+Place 2: freeway1785 (140 en jetons) 
+Place 3: ortega4240 (435 en jetons) 
+freeway1785 : met la petite blind. 15
+ortega4240 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Kh]
+psychoman59 : relance. 30 à 60
+freeway1785 : suit. 45
+ortega4240 : suit. 30
+*** FLOP *** [Kd 6s 3h]
+freeway1785 : parole 
+ortega4240 : mise. 90
+psychoman59 : suit. 90
+freeway1785 : suit. 80 et est all-in.
+*** TOURNANT *** [Kd 6s 3h] [7s]
+ortega4240 : mise. 285 et est all-in.
+psychoman59 : suit. 175 et est all-in.
+Personne n'a suivi. (110) sont retournés à ortega4240.
+*** RIVIÈRE *** [Kd 6s 3h 7s] [8s]
+*** ABATTAGE ***
+ortega4240 : montre [7c Kc] (double paire, Rois et Sept)
+psychoman59 : montre [Tc Kh] (une paire de Rois)
+ortega4240 a remporté 370  parallèle lors du pot .
+freeway1785 : montre [4d 5d] (une suite, Quatre à Huit)
+freeway1785 a remporté 420  principal lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 790 Principal pot 420. Parallèle pot 370. | Commission 0 
+Tableau [Kd 6s 3h 7s 8s]
+Siège 1 : psychoman59 (bouton) a montré [Tc Kh] et a perdu avec une paire de Rois
+Siège 2 : freeway1785 (petite blind) a montré [4d 5d] et a gagné (420) avec une suite, Quatre à Huit
+Siège 3 : ortega4240 (grosse blind) a montré [7c Kc] et a gagné (370) avec double paire, Rois et Sept
+
+
+

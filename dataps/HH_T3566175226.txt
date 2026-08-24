@@ -1,0 +1,350 @@
+﻿Main PokerStars n°242622761851 : Tournoi #3566175226, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 23/03/2023 7:19:54 CET [23/03/2023 2:19:54 ET]
+Table '3566175226 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: ragnardd (300 en jetons) 
+Place 3: julgaby76 (300 en jetons) 
+ragnardd : met la petite blind. 10
+julgaby76 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 4c]
+psychoman59 : passe. 
+ragnardd : suit. 10
+julgaby76 : parole 
+*** FLOP *** [Js 2h 8d]
+ragnardd : mise. 20
+julgaby76 : passe. 
+Personne n'a suivi. (20) sont retournés à ragnardd.
+ragnardd a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Js 2h 8d]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : ragnardd (petite blind) a remporté (40)
+Siège 3 : julgaby76 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°242622763186 : Tournoi #3566175226, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 23/03/2023 7:20:09 CET [23/03/2023 2:20:09 ET]
+Table '3566175226 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: ragnardd (320 en jetons) 
+Place 3: julgaby76 (280 en jetons) 
+julgaby76 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Kh]
+ragnardd : passe. 
+julgaby76 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [3h 7c Qs]
+julgaby76 : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à julgaby76.
+julgaby76 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [3h 7c Qs]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : ragnardd (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : julgaby76 (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°242622764835 : Tournoi #3566175226, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 23/03/2023 7:20:27 CET [23/03/2023 2:20:27 ET]
+Table '3566175226 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: ragnardd (320 en jetons) 
+Place 3: julgaby76 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+ragnardd : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Ac]
+julgaby76 : passe. 
+psychoman59 : relance. 260 à 280 et est all-in.
+ragnardd : suit. 260
+*** FLOP *** [5h 8s 7d]
+*** TOURNANT *** [5h 8s 7d] [2h]
+*** RIVIÈRE *** [5h 8s 7d 2h] [Ah]
+*** ABATTAGE ***
+psychoman59 : montre [3h Ac] (une paire de As)
+ragnardd : montre [9s 9d] (une paire de Neuf)
+psychoman59 a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [5h 8s 7d 2h Ah]
+Siège 1 : psychoman59 (petite blind) a montré [3h Ac] et a gagné (560) avec une paire de As
+Siège 2 : ragnardd (grosse blind) a montré [9s 9d] et a perdu avec une paire de Neuf
+Siège 3 : julgaby76 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°242622766274 : Tournoi #3566175226, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 23/03/2023 7:20:43 CET [23/03/2023 2:20:43 ET]
+Table '3566175226 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (560 en jetons) 
+Place 2: ragnardd (40 en jetons) 
+Place 3: julgaby76 (300 en jetons) 
+ragnardd : met la petite blind. 10
+julgaby76 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Td]
+psychoman59 : relance. 20 à 40
+ragnardd : suit. 30 et est all-in.
+julgaby76 : suit. 20
+*** FLOP *** [6s As 9s]
+julgaby76 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6s As 9s] [9h]
+julgaby76 : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à julgaby76.
+*** RIVIÈRE *** [6s As 9s 9h] [Jc]
+*** ABATTAGE ***
+ragnardd : montre [2d Kd] (une paire de Neuf)
+julgaby76 : montre [9c 8d] (un brelan de Neuf)
+julgaby76 a remporté 120  lors du pot .
+ragnardd a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [6s As 9s 9h Jc]
+Siège 1 : psychoman59 (bouton) s'est couché. sur le Tournant
+Siège 2 : ragnardd (petite blind) a montré [2d Kd] et a perdu avec une paire de Neuf
+Siège 3 : julgaby76 (grosse blind) a montré [9c 8d] et a gagné (120) avec un brelan de Neuf
+
+
+
+Main PokerStars n°242622769495 : Tournoi #3566175226, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 23/03/2023 7:21:19 CET [23/03/2023 2:21:19 ET]
+Table '3566175226 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (520 en jetons) 
+Place 3: julgaby76 (380 en jetons) 
+julgaby76 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Jd]
+julgaby76 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [9c Kh Ah]
+psychoman59 : parole 
+julgaby76 : parole 
+*** TOURNANT *** [9c Kh Ah] [5c]
+psychoman59 : parole 
+julgaby76 : parole 
+*** RIVIÈRE *** [9c Kh Ah 5c] [Ad]
+psychoman59 : parole 
+julgaby76 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [2c Jd] (une paire de As)
+julgaby76 : montre [Jc Td] (une paire de As - Roi+Valet+Dix kicker)
+julgaby76 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [9c Kh Ah 5c Ad]
+Siège 1 : psychoman59 (grosse blind) a montré [2c Jd] et a perdu avec une paire de As
+Siège 3 : julgaby76 (bouton) (petite blind) a montré [Jc Td] et a gagné (60) avec une paire de As
+
+
+
+Main PokerStars n°242622772376 : Tournoi #3566175226, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 23/03/2023 7:21:51 CET [23/03/2023 2:21:51 ET]
+Table '3566175226 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (490 en jetons) 
+Place 3: julgaby76 (410 en jetons) 
+psychoman59 : met la petite blind. 15
+julgaby76 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 9c]
+psychoman59 : suit. 15
+julgaby76 : parole 
+*** FLOP *** [Tc 8s Qc]
+julgaby76 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Tc 8s Qc] [Ts]
+julgaby76 : mise. 30
+psychoman59 : suit. 30
+*** RIVIÈRE *** [Tc 8s Qc Ts] [9s]
+julgaby76 : mise. 60
+psychoman59 : suit. 60
+*** ABATTAGE ***
+julgaby76 : montre [Qh Js] (une suite, Huit à Dame)
+psychoman59 : cache la main perdante. 
+julgaby76 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Tc 8s Qc Ts 9s]
+Siège 1 : psychoman59 (bouton) (petite blind) a caché la main perdante. [Kc 9c]
+Siège 3 : julgaby76 (grosse blind) a montré [Qh Js] et a gagné (240) avec une suite, Huit à Dame
+
+
+
+Main PokerStars n°242622774773 : Tournoi #3566175226, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 23/03/2023 7:22:17 CET [23/03/2023 2:22:17 ET]
+Table '3566175226 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (370 en jetons) 
+Place 3: julgaby76 (530 en jetons) 
+julgaby76 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Ts]
+julgaby76 : relance. 490 à 530 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (490) sont retournés à julgaby76.
+julgaby76 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : julgaby76 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°242622775811 : Tournoi #3566175226, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 23/03/2023 7:22:28 CET [23/03/2023 2:22:28 ET]
+Table '3566175226 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (330 en jetons) 
+Place 3: julgaby76 (570 en jetons) 
+psychoman59 : met la petite blind. 20
+julgaby76 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 7s]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à julgaby76.
+julgaby76 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : julgaby76 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°242622776276 : Tournoi #3566175226, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 23/03/2023 7:22:33 CET [23/03/2023 2:22:33 ET]
+Table '3566175226 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (310 en jetons) 
+Place 3: julgaby76 (590 en jetons) 
+julgaby76 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 2d]
+julgaby76 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Ad 7d Ts]
+psychoman59 : parole 
+julgaby76 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à julgaby76.
+julgaby76 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Ad 7d Ts]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : julgaby76 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°242622777448 : Tournoi #3566175226, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 23/03/2023 7:22:46 CET [23/03/2023 2:22:46 ET]
+Table '3566175226 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 3: julgaby76 (630 en jetons) 
+psychoman59 : met la petite blind. 20
+julgaby76 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 8d]
+psychoman59 : relance. 40 à 80
+julgaby76 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 3 : julgaby76 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242622778039 : Tournoi #3566175226, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 23/03/2023 7:22:52 CET [23/03/2023 2:22:52 ET]
+Table '3566175226 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (310 en jetons) 
+Place 3: julgaby76 (590 en jetons) 
+julgaby76 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Jc]
+julgaby76 : relance. 550 à 590 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (550) sont retournés à julgaby76.
+julgaby76 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : julgaby76 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°242622778908 : Tournoi #3566175226, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 23/03/2023 7:23:01 CET [23/03/2023 2:23:01 ET]
+Table '3566175226 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 3: julgaby76 (630 en jetons) 
+psychoman59 : met la petite blind. 30
+julgaby76 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 6s]
+psychoman59 : relance. 210 à 270 et est all-in.
+julgaby76 : passe. 
+Personne n'a suivi. (210) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 3 : julgaby76 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242622779506 : Tournoi #3566175226, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 23/03/2023 7:23:08 CET [23/03/2023 2:23:08 ET]
+Table '3566175226 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (330 en jetons) 
+Place 3: julgaby76 (570 en jetons) 
+julgaby76 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 2d]
+julgaby76 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [4c 4d Kh]
+psychoman59 : parole 
+julgaby76 : parole 
+*** TOURNANT *** [4c 4d Kh] [Ac]
+psychoman59 : parole 
+julgaby76 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à julgaby76.
+julgaby76 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [4c 4d Kh Ac]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : julgaby76 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°242622781058 : Tournoi #3566175226, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 23/03/2023 7:23:25 CET [23/03/2023 2:23:25 ET]
+Table '3566175226 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 3: julgaby76 (630 en jetons) 
+psychoman59 : met la petite blind. 30
+julgaby76 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 6h]
+psychoman59 : relance. 210 à 270 et est all-in.
+julgaby76 : suit. 210
+*** FLOP *** [5h 8d 6c]
+*** TOURNANT *** [5h 8d 6c] [As]
+*** RIVIÈRE *** [5h 8d 6c As] [Ah]
+*** ABATTAGE ***
+julgaby76 : montre [Ad 3d] (un brelan de As)
+psychoman59 : montre [Ks 6h] (double paire, As et Six)
+julgaby76 a remporté 540  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+julgaby76 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [5h 8d 6c As Ah]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Ks 6h] et a perdu avec double paire, As et Six
+Siège 3 : julgaby76 (grosse blind) a montré [Ad 3d] et a gagné (540) avec un brelan de As
+
+
+

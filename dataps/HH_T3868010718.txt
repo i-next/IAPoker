@@ -1,0 +1,719 @@
+﻿Main PokerStars n°255251475127 : Tournoi #3868010718, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/03/2025 9:46:51 CET [12/03/2025 4:46:51 ET]
+Table '3868010718 1' 3-max Siège #1 est au bouton.
+Place 1: chpmtp (500 en jetons) 
+Place 2: Fépetlamaille (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+Fépetlamaille : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Th]
+chpmtp : suit. 20
+Fépetlamaille : relance. 60 à 80
+psychoman59 : passe. 
+chpmtp : passe. 
+Personne n'a suivi. (60) sont retournés à Fépetlamaille.
+Fépetlamaille a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : chpmtp (bouton) s'est couché. avant Flop
+Siège 2 : Fépetlamaille (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°255251476062 : Tournoi #3868010718, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/03/2025 9:47:02 CET [12/03/2025 4:47:02 ET]
+Table '3868010718 1' 3-max Siège #2 est au bouton.
+Place 1: chpmtp (480 en jetons) 
+Place 2: Fépetlamaille (540 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 10
+chpmtp : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 5c]
+Fépetlamaille : suit. 20
+psychoman59 : passe. 
+chpmtp : parole 
+*** FLOP *** [Kd Jd 9c]
+chpmtp : mise. 20
+Fépetlamaille : passe. 
+Personne n'a suivi. (20) sont retournés à chpmtp.
+chpmtp a remporté 50  lors du pot .
+chpmtp : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [Kd Jd 9c]
+Siège 1 : chpmtp (grosse blind) a remporté (50)
+Siège 2 : Fépetlamaille (bouton) s'est couché. sur le Flop
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°255251477259 : Tournoi #3868010718, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/03/2025 9:47:17 CET [12/03/2025 4:47:17 ET]
+Table '3868010718 1' 3-max Siège #3 est au bouton.
+Place 1: chpmtp (510 en jetons) 
+Place 2: Fépetlamaille (520 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+chpmtp : met la petite blind. 10
+Fépetlamaille : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 2s]
+psychoman59 : suit. 20
+chpmtp : suit. 10
+Fépetlamaille : parole 
+*** FLOP *** [Ad Qs Qc]
+chpmtp : parole 
+Fépetlamaille : parole 
+psychoman59 : mise. 60
+chpmtp : suit. 60
+Fépetlamaille : passe. 
+*** TOURNANT *** [Ad Qs Qc] [Ts]
+chpmtp : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à chpmtp.
+chpmtp a remporté 180  lors du pot .
+chpmtp : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Ad Qs Qc Ts]
+Siège 1 : chpmtp (petite blind) a remporté (180)
+Siège 2 : Fépetlamaille (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°255251480332 : Tournoi #3868010718, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/03/2025 9:47:54 CET [12/03/2025 4:47:54 ET]
+Table '3868010718 1' 3-max Siège #1 est au bouton.
+Place 1: chpmtp (610 en jetons) 
+Place 2: Fépetlamaille (500 en jetons) 
+Place 3: psychoman59 (390 en jetons) 
+Fépetlamaille : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 6c]
+chpmtp : suit. 20
+Fépetlamaille : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Ts Ks 8d]
+Fépetlamaille : mise. 40
+psychoman59 : passe. 
+chpmtp : suit. 40
+*** TOURNANT *** [Ts Ks 8d] [8c]
+Fépetlamaille : mise. 20
+chpmtp : relance. 40 à 60
+Fépetlamaille : suit. 40
+*** RIVIÈRE *** [Ts Ks 8d 8c] [Qd]
+Fépetlamaille : mise. 40
+chpmtp : relance. 100 à 140
+Fépetlamaille : suit. 100
+*** ABATTAGE ***
+chpmtp : montre [Ac Jh] (une suite, Dix à As)
+Fépetlamaille : cache la main perdante. 
+chpmtp a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [Ts Ks 8d 8c Qd]
+Siège 1 : chpmtp (bouton) a montré [Ac Jh] et a gagné (540) avec une suite, Dix à As
+Siège 2 : Fépetlamaille (petite blind) a caché la main perdante. [8s 6s]
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°255251483604 : Tournoi #3868010718, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/03/2025 9:48:35 CET [12/03/2025 4:48:35 ET]
+Table '3868010718 1' 3-max Siège #2 est au bouton.
+Place 1: chpmtp (890 en jetons) 
+Place 2: Fépetlamaille (240 en jetons) 
+Place 3: psychoman59 (370 en jetons) 
+psychoman59 : met la petite blind. 10
+chpmtp : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 5s]
+Fépetlamaille : suit. 20
+psychoman59 : passe. 
+chpmtp : parole 
+*** FLOP *** [Kh Td 6s]
+chpmtp : parole 
+Fépetlamaille : mise. 20
+chpmtp : passe. 
+Personne n'a suivi. (20) sont retournés à Fépetlamaille.
+Fépetlamaille a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [Kh Td 6s]
+Siège 1 : chpmtp (grosse blind) s'est couché. sur le Flop
+Siège 2 : Fépetlamaille (bouton) a remporté (50)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°255251485034 : Tournoi #3868010718, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/03/2025 9:48:52 CET [12/03/2025 4:48:52 ET]
+Table '3868010718 1' 3-max Siège #3 est au bouton.
+Place 1: chpmtp (870 en jetons) 
+Place 2: Fépetlamaille (270 en jetons) 
+Place 3: psychoman59 (360 en jetons) 
+chpmtp : met la petite blind. 10
+Fépetlamaille : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 9s]
+psychoman59 : suit. 20
+chpmtp : suit. 10
+Fépetlamaille : parole 
+*** FLOP *** [4c 8d Jc]
+chpmtp : parole 
+Fépetlamaille : mise. 40
+psychoman59 : suit. 40
+chpmtp : passe. 
+*** TOURNANT *** [4c 8d Jc] [Jd]
+Fépetlamaille : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [4c 8d Jc Jd] [6c]
+Fépetlamaille : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Fépetlamaille.
+Fépetlamaille a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [4c 8d Jc Jd 6c]
+Siège 1 : chpmtp (petite blind) s'est couché. sur le Flop
+Siège 2 : Fépetlamaille (grosse blind) a remporté (180)
+Siège 3 : psychoman59 (bouton) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°255251487222 : Tournoi #3868010718, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/03/2025 9:49:21 CET [12/03/2025 4:49:21 ET]
+Table '3868010718 1' 3-max Siège #1 est au bouton.
+Place 1: chpmtp (850 en jetons) 
+Place 2: Fépetlamaille (370 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+Fépetlamaille : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 8s]
+chpmtp : passe. 
+Fépetlamaille : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Qd 3s Ad]
+Fépetlamaille : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à Fépetlamaille.
+Fépetlamaille a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Qd 3s Ad]
+Siège 1 : chpmtp (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Fépetlamaille (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°255251488270 : Tournoi #3868010718, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/03/2025 9:49:33 CET [12/03/2025 4:49:33 ET]
+Table '3868010718 1' 3-max Siège #2 est au bouton.
+Place 1: chpmtp (850 en jetons) 
+Place 2: Fépetlamaille (390 en jetons) 
+Place 3: psychoman59 (260 en jetons) 
+psychoman59 : met la petite blind. 10
+chpmtp : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 8s]
+Fépetlamaille : relance. 370 à 390 et est all-in.
+psychoman59 : passe. 
+chpmtp : passe. 
+Personne n'a suivi. (370) sont retournés à Fépetlamaille.
+Fépetlamaille a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : chpmtp (grosse blind) s'est couché. avant Flop
+Siège 2 : Fépetlamaille (bouton) a remporté (50)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°255251488882 : Tournoi #3868010718, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 12/03/2025 9:49:41 CET [12/03/2025 4:49:41 ET]
+Table '3868010718 1' 3-max Siège #3 est au bouton.
+Place 1: chpmtp (830 en jetons) 
+Place 2: Fépetlamaille (420 en jetons) 
+Place 3: psychoman59 (250 en jetons) 
+chpmtp : met la petite blind. 10
+Fépetlamaille : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 9c]
+psychoman59 : passe. 
+chpmtp : suit. 10
+Fépetlamaille : parole 
+*** FLOP *** [6h 2d 5s]
+chpmtp : mise. 20
+Fépetlamaille : suit. 20
+*** TOURNANT *** [6h 2d 5s] [Ts]
+chpmtp : mise. 20
+Fépetlamaille : suit. 20
+*** RIVIÈRE *** [6h 2d 5s Ts] [As]
+chpmtp : mise. 40
+Fépetlamaille : passe. 
+Personne n'a suivi. (40) sont retournés à chpmtp.
+chpmtp a remporté 120  lors du pot .
+chpmtp : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [6h 2d 5s Ts As]
+Siège 1 : chpmtp (petite blind) a remporté (120)
+Siège 2 : Fépetlamaille (grosse blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°255251490830 : Tournoi #3868010718, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 12/03/2025 9:50:06 CET [12/03/2025 4:50:06 ET]
+Table '3868010718 1' 3-max Siège #1 est au bouton.
+Place 1: chpmtp (890 en jetons) 
+Place 2: Fépetlamaille (360 en jetons) 
+Place 3: psychoman59 (250 en jetons) 
+Fépetlamaille : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 4d]
+chpmtp : passe. 
+Fépetlamaille : suit. 15
+psychoman59 : relance. 220 à 250 et est all-in.
+Fépetlamaille : passe. 
+Personne n'a suivi. (220) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : chpmtp (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Fépetlamaille (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°255251491888 : Tournoi #3868010718, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 12/03/2025 9:50:19 CET [12/03/2025 4:50:19 ET]
+Table '3868010718 1' 3-max Siège #2 est au bouton.
+Place 1: chpmtp (890 en jetons) 
+Place 2: Fépetlamaille (330 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 15
+chpmtp : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Ks]
+Fépetlamaille : suit. 30
+psychoman59 : relance. 250 à 280 et est all-in.
+chpmtp : passe. 
+Fépetlamaille : passe. 
+Personne n'a suivi. (250) sont retournés à psychoman59.
+psychoman59 a remporté 90  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Siège 1 : chpmtp (grosse blind) s'est couché. avant Flop
+Siège 2 : Fépetlamaille (bouton) s'est couché. avant Flop
+Siège 3 : psychoman59 (petite blind) a remporté (90)
+
+
+
+Main PokerStars n°255251493658 : Tournoi #3868010718, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 12/03/2025 9:50:41 CET [12/03/2025 4:50:41 ET]
+Table '3868010718 1' 3-max Siège #3 est au bouton.
+Place 1: chpmtp (860 en jetons) 
+Place 2: Fépetlamaille (300 en jetons) 
+Place 3: psychoman59 (340 en jetons) 
+chpmtp : met la petite blind. 15
+Fépetlamaille : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 9h]
+psychoman59 : passe. 
+chpmtp : suit. 15
+Fépetlamaille : parole 
+*** FLOP *** [Js 3c Qs]
+chpmtp : mise. 30
+Fépetlamaille : suit. 30
+*** TOURNANT *** [Js 3c Qs] [Tc]
+chpmtp : mise. 30
+Fépetlamaille : relance. 30 à 60
+chpmtp : suit. 30
+*** RIVIÈRE *** [Js 3c Qs Tc] [6s]
+chpmtp : parole 
+Fépetlamaille : parole 
+*** ABATTAGE ***
+chpmtp : montre [Td Kd] (une paire de Dix)
+Fépetlamaille : montre [8d 9d] (une suite, Huit à Dame)
+Fépetlamaille a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Js 3c Qs Tc 6s]
+Siège 1 : chpmtp (petite blind) a montré [Td Kd] et a perdu avec une paire de Dix
+Siège 2 : Fépetlamaille (grosse blind) a montré [8d 9d] et a gagné (240) avec une suite, Huit à Dame
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°255251495328 : Tournoi #3868010718, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 12/03/2025 9:51:02 CET [12/03/2025 4:51:02 ET]
+Table '3868010718 1' 3-max Siège #1 est au bouton.
+Place 1: chpmtp (740 en jetons) 
+Place 2: Fépetlamaille (420 en jetons) 
+Place 3: psychoman59 (340 en jetons) 
+Fépetlamaille : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 3s]
+chpmtp : passe. 
+Fépetlamaille : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : chpmtp (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Fépetlamaille (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°255251495954 : Tournoi #3868010718, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 12/03/2025 9:51:10 CET [12/03/2025 4:51:10 ET]
+Table '3868010718 1' 3-max Siège #2 est au bouton.
+Place 1: chpmtp (740 en jetons) 
+Place 2: Fépetlamaille (405 en jetons) 
+Place 3: psychoman59 (355 en jetons) 
+psychoman59 : met la petite blind. 15
+chpmtp : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 7d]
+Fépetlamaille : relance. 60 à 90
+psychoman59 : passe. 
+chpmtp : passe. 
+Personne n'a suivi. (60) sont retournés à Fépetlamaille.
+Fépetlamaille a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : chpmtp (grosse blind) s'est couché. avant Flop
+Siège 2 : Fépetlamaille (bouton) a remporté (75)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°255251496821 : Tournoi #3868010718, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 12/03/2025 9:51:22 CET [12/03/2025 4:51:22 ET]
+Table '3868010718 1' 3-max Siège #3 est au bouton.
+Place 1: chpmtp (710 en jetons) 
+Place 2: Fépetlamaille (450 en jetons) 
+Place 3: psychoman59 (340 en jetons) 
+chpmtp : met la petite blind. 15
+Fépetlamaille : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 9h]
+psychoman59 : passe. 
+chpmtp : suit. 15
+Fépetlamaille : parole 
+*** FLOP *** [5d Jc 9s]
+chpmtp : parole 
+Fépetlamaille : mise. 30
+chpmtp : passe. 
+Personne n'a suivi. (30) sont retournés à Fépetlamaille.
+Fépetlamaille a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [5d Jc 9s]
+Siège 1 : chpmtp (petite blind) s'est couché. sur le Flop
+Siège 2 : Fépetlamaille (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°255251497924 : Tournoi #3868010718, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 12/03/2025 9:51:36 CET [12/03/2025 4:51:36 ET]
+Table '3868010718 1' 3-max Siège #1 est au bouton.
+Place 1: chpmtp (680 en jetons) 
+Place 2: Fépetlamaille (480 en jetons) 
+Place 3: psychoman59 (340 en jetons) 
+Fépetlamaille : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Ac]
+chpmtp : passe. 
+Fépetlamaille : suit. 15
+psychoman59 : relance. 310 à 340 et est all-in.
+Fépetlamaille : passe. 
+Personne n'a suivi. (310) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : chpmtp (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Fépetlamaille (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°255251499117 : Tournoi #3868010718, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 12/03/2025 9:51:51 CET [12/03/2025 4:51:51 ET]
+Table '3868010718 1' 3-max Siège #2 est au bouton.
+Place 1: chpmtp (680 en jetons) 
+Place 2: Fépetlamaille (450 en jetons) 
+Place 3: psychoman59 (370 en jetons) 
+psychoman59 : met la petite blind. 15
+chpmtp : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 2d]
+Fépetlamaille : passe. 
+psychoman59 : suit. 15
+chpmtp : parole 
+*** FLOP *** [Ks 3s Js]
+psychoman59 : parole 
+chpmtp : mise. 60
+psychoman59 : relance. 280 à 340 et est all-in.
+chpmtp : passe. 
+Personne n'a suivi. (280) sont retournés à psychoman59.
+psychoman59 a remporté 180  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Ks 3s Js]
+Siège 1 : chpmtp (grosse blind) s'est couché. sur le Flop
+Siège 2 : Fépetlamaille (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (180)
+
+
+
+Main PokerStars n°255251500599 : Tournoi #3868010718, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 12/03/2025 9:52:09 CET [12/03/2025 4:52:09 ET]
+Table '3868010718 1' 3-max Siège #3 est au bouton.
+Place 1: chpmtp (590 en jetons) 
+Place 2: Fépetlamaille (450 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+chpmtp : met la petite blind. 15
+Fépetlamaille : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Js]
+psychoman59 : suit. 30
+chpmtp : relance. 560 à 590 et est all-in.
+Fépetlamaille : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (560) sont retournés à chpmtp.
+chpmtp a remporté 90  lors du pot .
+chpmtp : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Siège 1 : chpmtp (petite blind) a remporté (90)
+Siège 2 : Fépetlamaille (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°255251501328 : Tournoi #3868010718, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 12/03/2025 9:52:19 CET [12/03/2025 4:52:19 ET]
+Table '3868010718 1' 3-max Siège #1 est au bouton.
+Place 1: chpmtp (650 en jetons) 
+Place 2: Fépetlamaille (420 en jetons) 
+Place 3: psychoman59 (430 en jetons) 
+Fépetlamaille : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 4h]
+chpmtp : passe. 
+Fépetlamaille : suit. 15
+psychoman59 : parole 
+*** FLOP *** [6s Tc Th]
+Fépetlamaille : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6s Tc Th] [4s]
+Fépetlamaille : parole 
+psychoman59 : mise. 60
+Fépetlamaille : suit. 60
+*** RIVIÈRE *** [6s Tc Th 4s] [Ks]
+Fépetlamaille : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Fépetlamaille : montre [Jc 8h] (une paire de Dix)
+psychoman59 : montre [9c 4h] (double paire, Dix et Quatre)
+psychoman59 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [6s Tc Th 4s Ks]
+Siège 1 : chpmtp (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Fépetlamaille (petite blind) a montré [Jc 8h] et a perdu avec une paire de Dix
+Siège 3 : psychoman59 (grosse blind) a montré [9c 4h] et a gagné (180) avec double paire, Dix et Quatre
+
+
+
+Main PokerStars n°255251506318 : Tournoi #3868010718, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/03/2025 9:53:22 CET [12/03/2025 4:53:22 ET]
+Table '3868010718 1' 3-max Siège #2 est au bouton.
+Place 1: chpmtp (650 en jetons) 
+Place 2: Fépetlamaille (330 en jetons) 
+Place 3: psychoman59 (520 en jetons) 
+psychoman59 : met la petite blind. 20
+chpmtp : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 7c]
+Fépetlamaille : suit. 40
+psychoman59 : passe. 
+chpmtp : parole 
+*** FLOP *** [6h 2d 2h]
+chpmtp : parole 
+Fépetlamaille : mise. 290 et est all-in.
+chpmtp : passe. 
+Personne n'a suivi. (290) sont retournés à Fépetlamaille.
+Fépetlamaille a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [6h 2d 2h]
+Siège 1 : chpmtp (grosse blind) s'est couché. sur le Flop
+Siège 2 : Fépetlamaille (bouton) a remporté (100)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°255251508167 : Tournoi #3868010718, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/03/2025 9:53:45 CET [12/03/2025 4:53:45 ET]
+Table '3868010718 1' 3-max Siège #3 est au bouton.
+Place 1: chpmtp (610 en jetons) 
+Place 2: Fépetlamaille (390 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+chpmtp : met la petite blind. 20
+Fépetlamaille : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 3h]
+psychoman59 : passe. 
+chpmtp : suit. 20
+Fépetlamaille : relance. 350 à 390 et est all-in.
+chpmtp : passe. 
+Personne n'a suivi. (350) sont retournés à Fépetlamaille.
+Fépetlamaille a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : chpmtp (petite blind) s'est couché. avant Flop
+Siège 2 : Fépetlamaille (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°255251509081 : Tournoi #3868010718, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/03/2025 9:53:57 CET [12/03/2025 4:53:57 ET]
+Table '3868010718 1' 3-max Siège #1 est au bouton.
+Place 1: chpmtp (570 en jetons) 
+Place 2: Fépetlamaille (430 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+Fépetlamaille : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 7h]
+chpmtp : passe. 
+Fépetlamaille : suit. 20
+psychoman59 : parole 
+*** FLOP *** [2h Kh Ac]
+Fépetlamaille : parole 
+psychoman59 : parole 
+*** TOURNANT *** [2h Kh Ac] [5h]
+Fépetlamaille : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [2h Kh Ac 5h] [4d]
+Fépetlamaille : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Fépetlamaille : montre [Qd 8s] (Hauteur As)
+psychoman59 : cache la main perdante. 
+Fépetlamaille a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [2h Kh Ac 5h 4d]
+Siège 1 : chpmtp (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Fépetlamaille (petite blind) a montré [Qd 8s] et a gagné (80) avec Hauteur As
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [Js 7h]
+
+
+
+Main PokerStars n°255251511246 : Tournoi #3868010718, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/03/2025 9:54:25 CET [12/03/2025 4:54:25 ET]
+Table '3868010718 1' 3-max Siège #2 est au bouton.
+Place 1: chpmtp (570 en jetons) 
+Place 2: Fépetlamaille (470 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+psychoman59 : met la petite blind. 20
+chpmtp : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Ah]
+Fépetlamaille : suit. 40
+psychoman59 : relance. 420 à 460 et est all-in.
+chpmtp : passe. 
+Fépetlamaille : passe. 
+Personne n'a suivi. (420) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : chpmtp (grosse blind) s'est couché. avant Flop
+Siège 2 : Fépetlamaille (bouton) s'est couché. avant Flop
+Siège 3 : psychoman59 (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°255251513024 : Tournoi #3868010718, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/03/2025 9:54:48 CET [12/03/2025 4:54:48 ET]
+Table '3868010718 1' 3-max Siège #3 est au bouton.
+Place 1: chpmtp (530 en jetons) 
+Place 2: Fépetlamaille (430 en jetons) 
+Place 3: psychoman59 (540 en jetons) 
+chpmtp : met la petite blind. 20
+Fépetlamaille : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Qd]
+psychoman59 : passe. 
+chpmtp : suit. 20
+Fépetlamaille : relance. 80 à 120
+chpmtp : passe. 
+Personne n'a suivi. (80) sont retournés à Fépetlamaille.
+Fépetlamaille a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : chpmtp (petite blind) s'est couché. avant Flop
+Siège 2 : Fépetlamaille (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°255251514079 : Tournoi #3868010718, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/03/2025 9:55:01 CET [12/03/2025 4:55:01 ET]
+Table '3868010718 1' 3-max Siège #1 est au bouton.
+Place 1: chpmtp (490 en jetons) 
+Place 2: Fépetlamaille (470 en jetons) 
+Place 3: psychoman59 (540 en jetons) 
+Fépetlamaille : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Ah]
+chpmtp : passe. 
+Fépetlamaille : suit. 20
+psychoman59 : relance. 500 à 540 et est all-in.
+Fépetlamaille : suit. 430 et est all-in.
+Personne n'a suivi. (70) sont retournés à psychoman59.
+*** FLOP *** [5h Jh 8c]
+*** TOURNANT *** [5h Jh 8c] [4d]
+*** RIVIÈRE *** [5h Jh 8c 4d] [5d]
+*** ABATTAGE ***
+Fépetlamaille : montre [Js Tc] (double paire, Valets et Cinq)
+psychoman59 : montre [9d Ah] (une paire de Cinq)
+Fépetlamaille a remporté 940  lors du pot .
+*** SYNTHÈSE ***
+Pot total 940 | Commission 0 
+Tableau [5h Jh 8c 4d 5d]
+Siège 1 : chpmtp (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Fépetlamaille (petite blind) a montré [Js Tc] et a gagné (940) avec double paire, Valets et Cinq
+Siège 3 : psychoman59 (grosse blind) a montré [9d Ah] et a perdu avec une paire de Cinq
+
+
+
+Main PokerStars n°255251515491 : Tournoi #3868010718, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 12/03/2025 9:55:20 CET [12/03/2025 4:55:20 ET]
+Table '3868010718 1' 3-max Siège #2 est au bouton.
+Place 1: chpmtp (490 en jetons) 
+Place 2: Fépetlamaille (940 en jetons) 
+Place 3: psychoman59 (70 en jetons) 
+psychoman59 : met la petite blind. 20
+chpmtp : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Jh]
+Fépetlamaille : relance. 80 à 120
+psychoman59 : suit. 50 et est all-in.
+chpmtp : passe. 
+Personne n'a suivi. (50) sont retournés à Fépetlamaille.
+*** FLOP *** [Tc 7s 3s]
+*** TOURNANT *** [Tc 7s 3s] [Kd]
+*** RIVIÈRE *** [Tc 7s 3s Kd] [6c]
+*** ABATTAGE ***
+psychoman59 : montre [Qc Jh] (Hauteur Roi)
+Fépetlamaille : montre [6d Ac] (une paire de Six)
+Fépetlamaille a remporté 180  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Tc 7s 3s Kd 6c]
+Siège 1 : chpmtp (grosse blind) s'est couché. avant Flop
+Siège 2 : Fépetlamaille (bouton) a montré [6d Ac] et a gagné (180) avec une paire de Six
+Siège 3 : psychoman59 (petite blind) a montré [Qc Jh] et a perdu avec Hauteur Roi
+
+
+

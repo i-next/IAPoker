@@ -1,0 +1,868 @@
+﻿Main PokerStars n°256013006591 : Tournoi #3886258755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 05/05/2025 8:14:02 CET [05/05/2025 2:14:02 ET]
+Table '3886258755 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: jma379 (500 en jetons) 
+Place 3: ReiRamO (500 en jetons) 
+jma379 : met la petite blind. 10
+ReiRamO : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Kh]
+psychoman59 : suit. 20
+jma379 : suit. 10
+ReiRamO : parole 
+*** FLOP *** [3h 2s 3c]
+jma379 : parole 
+ReiRamO : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3h 2s 3c] [9h]
+jma379 : mise. 20
+ReiRamO : passe. 
+psychoman59 : suit. 20
+*** RIVIÈRE *** [3h 2s 3c 9h] [As]
+jma379 : mise. 20
+psychoman59 : suit. 20
+*** ABATTAGE ***
+jma379 : montre [Jc 6h] (une paire de Trois)
+psychoman59 : montre [9d Kh] (double paire, Neuf et Trois)
+psychoman59 a remporté 140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [3h 2s 3c 9h As]
+Siège 1 : psychoman59 (bouton) a montré [9d Kh] et a gagné (140) avec double paire, Neuf et Trois
+Siège 2 : jma379 (petite blind) a montré [Jc 6h] et a perdu avec une paire de Trois
+Siège 3 : ReiRamO (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°256013008985 : Tournoi #3886258755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 05/05/2025 8:14:42 CET [05/05/2025 2:14:42 ET]
+Table '3886258755 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (580 en jetons) 
+Place 2: jma379 (440 en jetons) 
+Place 3: ReiRamO (480 en jetons) 
+ReiRamO : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 6s]
+jma379 : relance. 20 à 40
+ReiRamO : suit. 30
+psychoman59 : suit. 20
+*** FLOP *** [Js 4s 4c]
+ReiRamO : mise. 20
+psychoman59 : suit. 20
+jma379 : passe. 
+*** TOURNANT *** [Js 4s 4c] [5d]
+ReiRamO : mise. 40
+psychoman59 : suit. 40
+*** RIVIÈRE *** [Js 4s 4c 5d] [9s]
+ReiRamO : mise. 60
+psychoman59 : suit. 60
+*** ABATTAGE ***
+ReiRamO : montre [7s Ks] (une couleur, hauteur Roi)
+psychoman59 : cache la main perdante. 
+ReiRamO a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [Js 4s 4c 5d 9s]
+Siège 1 : psychoman59 (grosse blind) a caché la main perdante. [Ts 6s]
+Siège 2 : jma379 (bouton) s'est couché. sur le Flop
+Siège 3 : ReiRamO (petite blind) a montré [7s Ks] et a gagné (360) avec une couleur, hauteur Roi
+
+
+
+Main PokerStars n°256013011427 : Tournoi #3886258755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 05/05/2025 8:15:22 CET [05/05/2025 2:15:22 ET]
+Table '3886258755 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (420 en jetons) 
+Place 2: jma379 (400 en jetons) 
+Place 3: ReiRamO (680 en jetons) 
+psychoman59 : met la petite blind. 10
+jma379 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Td]
+ReiRamO : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à jma379.
+jma379 a remporté 20  lors du pot .
+jma379 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : jma379 (grosse blind) a remporté (20)
+Siège 3 : ReiRamO (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°256013011801 : Tournoi #3886258755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 05/05/2025 8:15:28 CET [05/05/2025 2:15:28 ET]
+Table '3886258755 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (410 en jetons) 
+Place 2: jma379 (410 en jetons) 
+Place 3: ReiRamO (680 en jetons) 
+jma379 : met la petite blind. 10
+ReiRamO : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Js]
+psychoman59 : passe. 
+jma379 : passe. 
+Personne n'a suivi. (10) sont retournés à ReiRamO.
+ReiRamO a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : jma379 (petite blind) s'est couché. avant Flop
+Siège 3 : ReiRamO (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°256013012293 : Tournoi #3886258755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 05/05/2025 8:15:36 CET [05/05/2025 2:15:36 ET]
+Table '3886258755 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (410 en jetons) 
+Place 2: jma379 (400 en jetons) 
+Place 3: ReiRamO (690 en jetons) 
+ReiRamO : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Td]
+jma379 : suit. 20
+ReiRamO : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Ah 3s 3d]
+ReiRamO : parole 
+psychoman59 : parole 
+jma379 : parole 
+*** TOURNANT *** [Ah 3s 3d] [6h]
+ReiRamO : parole 
+psychoman59 : parole 
+jma379 : mise. 20
+ReiRamO : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à jma379.
+jma379 a remporté 60  lors du pot .
+jma379 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ah 3s 3d 6h]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : jma379 (bouton) a remporté (60)
+Siège 3 : ReiRamO (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°256013014314 : Tournoi #3886258755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 05/05/2025 8:16:10 CET [05/05/2025 2:16:10 ET]
+Table '3886258755 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (390 en jetons) 
+Place 2: jma379 (440 en jetons) 
+Place 3: ReiRamO (670 en jetons) 
+psychoman59 : met la petite blind. 15
+jma379 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Kd]
+ReiRamO : passe. 
+psychoman59 : suit. 15
+jma379 : parole 
+*** FLOP *** [3d 8s 6d]
+psychoman59 : parole 
+jma379 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à jma379.
+jma379 a remporté 60  lors du pot .
+jma379 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [3d 8s 6d]
+Siège 1 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 2 : jma379 (grosse blind) a remporté (60)
+Siège 3 : ReiRamO (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°256013015649 : Tournoi #3886258755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 05/05/2025 8:16:31 CET [05/05/2025 2:16:31 ET]
+Table '3886258755 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (360 en jetons) 
+Place 2: jma379 (470 en jetons) 
+Place 3: ReiRamO (670 en jetons) 
+jma379 : met la petite blind. 15
+ReiRamO : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 8h]
+psychoman59 : suit. 30
+jma379 : suit. 15
+ReiRamO : parole 
+*** FLOP *** [Kh Qd Ah]
+jma379 : parole 
+ReiRamO : parole 
+psychoman59 : mise. 90
+jma379 : passe. 
+ReiRamO : passe. 
+Personne n'a suivi. (90) sont retournés à psychoman59.
+psychoman59 a remporté 90  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [Kh Qd Ah]
+Siège 1 : psychoman59 (bouton) a remporté (90)
+Siège 2 : jma379 (petite blind) s'est couché. sur le Flop
+Siège 3 : ReiRamO (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°256013016811 : Tournoi #3886258755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 05/05/2025 8:16:50 CET [05/05/2025 2:16:50 ET]
+Table '3886258755 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (420 en jetons) 
+Place 2: jma379 (440 en jetons) 
+Place 3: ReiRamO (640 en jetons) 
+ReiRamO : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Kc]
+jma379 a dépassé le temps imparti.
+jma379 : passe. 
+jma379 ne joue pas.
+jma379 est revenu.
+ReiRamO : suit. 15
+psychoman59 : relance. 390 à 420 et est all-in.
+ReiRamO : passe. 
+Personne n'a suivi. (390) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 2 : jma379 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : ReiRamO (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°256013018979 : Tournoi #3886258755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 05/05/2025 8:17:25 CET [05/05/2025 2:17:25 ET]
+Table '3886258755 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (450 en jetons) 
+Place 2: jma379 (440 en jetons) 
+Place 3: ReiRamO (610 en jetons) 
+psychoman59 : met la petite blind. 15
+jma379 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Ac]
+ReiRamO : suit. 30
+psychoman59 : suit. 15
+jma379 : parole 
+*** FLOP *** [8h Ad Th]
+psychoman59 : mise. 90
+jma379 : passe. 
+ReiRamO : passe. 
+Personne n'a suivi. (90) sont retournés à psychoman59.
+psychoman59 a remporté 90  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [8h Ad Th]
+Siège 1 : psychoman59 (petite blind) a remporté (90)
+Siège 2 : jma379 (grosse blind) s'est couché. sur le Flop
+Siège 3 : ReiRamO (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°256013019862 : Tournoi #3886258755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 05/05/2025 8:17:39 CET [05/05/2025 2:17:39 ET]
+Table '3886258755 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (510 en jetons) 
+Place 2: jma379 (410 en jetons) 
+Place 3: ReiRamO (580 en jetons) 
+jma379 : met la petite blind. 15
+ReiRamO : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 7d]
+psychoman59 : suit. 30
+jma379 : suit. 15
+ReiRamO : parole 
+*** FLOP *** [5s 8s 9s]
+jma379 : parole 
+ReiRamO : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5s 8s 9s] [7s]
+jma379 : parole 
+ReiRamO : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [5s 8s 9s 7s] [Td]
+jma379 : parole 
+ReiRamO : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+jma379 : montre [7c 5c] (double paire, Sept et Cinq)
+ReiRamO : cache la main perdante. 
+psychoman59 : cache la main perdante. 
+jma379 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [5s 8s 9s 7s Td]
+Siège 1 : psychoman59 (bouton) a caché la main perdante. [Kd 7d]
+Siège 2 : jma379 (petite blind) a montré [7c 5c] et a gagné (90) avec double paire, Sept et Cinq
+Siège 3 : ReiRamO (grosse blind) a caché la main perdante. [8c Qd]
+
+
+
+Main PokerStars n°256013021122 : Tournoi #3886258755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 05/05/2025 8:17:59 CET [05/05/2025 2:17:59 ET]
+Table '3886258755 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (480 en jetons) 
+Place 2: jma379 (470 en jetons) 
+Place 3: ReiRamO (550 en jetons) 
+ReiRamO : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Jd]
+jma379 : relance. 30 à 60
+ReiRamO : suit. 45
+psychoman59 : passe. 
+*** FLOP *** [8d 7s Tc]
+ReiRamO : mise. 30
+jma379 : relance. 30 à 60
+ReiRamO : suit. 30
+*** TOURNANT *** [8d 7s Tc] [3d]
+ReiRamO : parole 
+jma379 : mise. 60
+ReiRamO : suit. 60
+*** RIVIÈRE *** [8d 7s Tc 3d] [9c]
+ReiRamO : parole 
+jma379 : parole 
+*** ABATTAGE ***
+ReiRamO : montre [2h 8h] (une paire de Huit)
+jma379 : montre [Th Ah] (une paire de Dix)
+jma379 a remporté 390  lors du pot .
+*** SYNTHÈSE ***
+Pot total 390 | Commission 0 
+Tableau [8d 7s Tc 3d 9c]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : jma379 (bouton) a montré [Th Ah] et a gagné (390) avec une paire de Dix
+Siège 3 : ReiRamO (petite blind) a montré [2h 8h] et a perdu avec une paire de Huit
+
+
+
+Main PokerStars n°256013023896 : Tournoi #3886258755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 05/05/2025 8:18:43 CET [05/05/2025 2:18:43 ET]
+Table '3886258755 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (450 en jetons) 
+Place 2: jma379 (680 en jetons) 
+Place 3: ReiRamO (370 en jetons) 
+psychoman59 : met la petite blind. 20
+jma379 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 6c]
+ReiRamO : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à jma379.
+jma379 a remporté 40  lors du pot .
+jma379 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : jma379 (grosse blind) a remporté (40)
+Siège 3 : ReiRamO (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°256013024339 : Tournoi #3886258755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 05/05/2025 8:18:51 CET [05/05/2025 2:18:51 ET]
+Table '3886258755 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (430 en jetons) 
+Place 2: jma379 (700 en jetons) 
+Place 3: ReiRamO (370 en jetons) 
+jma379 : met la petite blind. 20
+ReiRamO : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 6c]
+psychoman59 : passe. 
+jma379 : relance. 40 à 80
+ReiRamO : suit. 40
+*** FLOP *** [Kd Kh 5s]
+jma379 : parole 
+ReiRamO : parole 
+*** TOURNANT *** [Kd Kh 5s] [7c]
+jma379 : parole 
+ReiRamO : parole 
+*** RIVIÈRE *** [Kd Kh 5s 7c] [3c]
+jma379 : mise. 80
+ReiRamO : passe. 
+Personne n'a suivi. (80) sont retournés à jma379.
+jma379 a remporté 160  lors du pot .
+jma379 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Kd Kh 5s 7c 3c]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : jma379 (petite blind) a remporté (160)
+Siège 3 : ReiRamO (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°256013027086 : Tournoi #3886258755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 05/05/2025 8:19:35 CET [05/05/2025 2:19:35 ET]
+Table '3886258755 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (430 en jetons) 
+Place 2: jma379 (780 en jetons) 
+Place 3: ReiRamO (290 en jetons) 
+ReiRamO : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Qs]
+jma379 : passe. 
+ReiRamO : suit. 20
+psychoman59 : parole 
+*** FLOP *** [7c 7d 7s]
+ReiRamO : parole 
+psychoman59 : parole 
+*** TOURNANT *** [7c 7d 7s] [8c]
+ReiRamO : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [7c 7d 7s 8c] [Td]
+ReiRamO : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+ReiRamO : montre [9c Ks] (un brelan de Sept)
+psychoman59 : cache la main perdante. 
+ReiRamO a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [7c 7d 7s 8c Td]
+Siège 1 : psychoman59 (grosse blind) a caché la main perdante. [3h Qs]
+Siège 2 : jma379 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : ReiRamO (petite blind) a montré [9c Ks] et a gagné (80) avec un brelan de Sept
+
+
+
+Main PokerStars n°256013030875 : Tournoi #3886258755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 05/05/2025 8:20:37 CET [05/05/2025 2:20:37 ET]
+Table '3886258755 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (390 en jetons) 
+Place 2: jma379 (780 en jetons) 
+Place 3: ReiRamO (330 en jetons) 
+psychoman59 : met la petite blind. 30
+jma379 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 7h]
+ReiRamO : suit. 60
+psychoman59 : passe. 
+jma379 : parole 
+*** FLOP *** [Ad 8c 6d]
+jma379 : parole 
+ReiRamO : parole 
+*** TOURNANT *** [Ad 8c 6d] [2h]
+jma379 : parole 
+ReiRamO : parole 
+*** RIVIÈRE *** [Ad 8c 6d 2h] [Ts]
+jma379 : mise. 60
+ReiRamO : passe. 
+Personne n'a suivi. (60) sont retournés à jma379.
+jma379 a remporté 150  lors du pot .
+jma379 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Tableau [Ad 8c 6d 2h Ts]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : jma379 (grosse blind) a remporté (150)
+Siège 3 : ReiRamO (bouton) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°256013033568 : Tournoi #3886258755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 05/05/2025 8:21:20 CET [05/05/2025 2:21:20 ET]
+Table '3886258755 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (360 en jetons) 
+Place 2: jma379 (870 en jetons) 
+Place 3: ReiRamO (270 en jetons) 
+jma379 : met la petite blind. 30
+ReiRamO : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 3c]
+psychoman59 : passe. 
+jma379 : relance. 60 à 120
+ReiRamO : relance. 60 à 180
+jma379 : suit. 60
+*** FLOP *** [Kh 9h Qs]
+jma379 : parole 
+ReiRamO : parole 
+*** TOURNANT *** [Kh 9h Qs] [Ts]
+jma379 : parole 
+ReiRamO : mise. 60
+jma379 : suit. 60
+*** RIVIÈRE *** [Kh 9h Qs Ts] [3s]
+jma379 : parole 
+ReiRamO : parole 
+*** ABATTAGE ***
+jma379 : montre [2s Kc] (une paire de Rois)
+ReiRamO : montre [Tc Td] (un brelan de Dix)
+ReiRamO a remporté 480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [Kh 9h Qs Ts 3s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : jma379 (petite blind) a montré [2s Kc] et a perdu avec une paire de Rois
+Siège 3 : ReiRamO (grosse blind) a montré [Tc Td] et a gagné (480) avec un brelan de Dix
+
+
+
+Main PokerStars n°256013034827 : Tournoi #3886258755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 05/05/2025 8:21:40 CET [05/05/2025 2:21:40 ET]
+Table '3886258755 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (360 en jetons) 
+Place 2: jma379 (630 en jetons) 
+Place 3: ReiRamO (510 en jetons) 
+ReiRamO : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 7c]
+jma379 : relance. 60 à 120
+ReiRamO a dépassé le temps imparti.
+ReiRamO : passe. 
+ReiRamO ne joue pas.
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à jma379.
+jma379 a remporté 150  lors du pot .
+jma379 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : jma379 (bouton) a remporté (150)
+Siège 3 : ReiRamO (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°256013036190 : Tournoi #3886258755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau IV (30/60) - 05/05/2025 8:22:01 CET [05/05/2025 2:22:01 ET]
+Table '3886258755 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: jma379 (720 en jetons) 
+Place 3: ReiRamO (480 en jetons) ne joue pas.
+psychoman59 : met la petite blind. 30
+jma379 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 3s]
+ReiRamO : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à jma379.
+jma379 a remporté 60  lors du pot .
+jma379 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : jma379 (grosse blind) a remporté (60)
+Siège 3 : ReiRamO (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°256013036713 : Tournoi #3886258755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 05/05/2025 8:22:10 CET [05/05/2025 2:22:10 ET]
+Table '3886258755 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 2: jma379 (750 en jetons) 
+Place 3: ReiRamO (480 en jetons) 
+jma379 : met la petite blind. 40
+ReiRamO : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Ac]
+psychoman59 : relance. 190 à 270 et est all-in.
+jma379 : passe. 
+ReiRamO : passe. 
+Personne n'a suivi. (190) sont retournés à psychoman59.
+psychoman59 a remporté 200  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Siège 1 : psychoman59 (bouton) a remporté (200)
+Siège 2 : jma379 (petite blind) s'est couché. avant Flop
+Siège 3 : ReiRamO (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°256013037544 : Tournoi #3886258755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 05/05/2025 8:22:23 CET [05/05/2025 2:22:23 ET]
+Table '3886258755 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (390 en jetons) 
+Place 2: jma379 (710 en jetons) 
+Place 3: ReiRamO (400 en jetons) 
+ReiRamO : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Ad]
+jma379 : relance. 80 à 160
+ReiRamO : passe. 
+psychoman59 : relance. 230 à 390 et est all-in.
+jma379 : suit. 230
+*** FLOP *** [Kh 5c 6h]
+*** TOURNANT *** [Kh 5c 6h] [Ac]
+*** RIVIÈRE *** [Kh 5c 6h Ac] [3h]
+*** ABATTAGE ***
+psychoman59 : montre [5h Ad] (double paire, As et Cinq)
+jma379 : montre [2h 2c] (une paire de Deux)
+psychoman59 a remporté 820  lors du pot .
+*** SYNTHÈSE ***
+Pot total 820 | Commission 0 
+Tableau [Kh 5c 6h Ac 3h]
+Siège 1 : psychoman59 (grosse blind) a montré [5h Ad] et a gagné (820) avec double paire, As et Cinq
+Siège 2 : jma379 (bouton) a montré [2h 2c] et a perdu avec une paire de Deux
+Siège 3 : ReiRamO (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°256013038463 : Tournoi #3886258755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 05/05/2025 8:22:38 CET [05/05/2025 2:22:38 ET]
+Table '3886258755 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (820 en jetons) 
+Place 2: jma379 (320 en jetons) 
+Place 3: ReiRamO (360 en jetons) 
+psychoman59 : met la petite blind. 40
+jma379 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Jd]
+ReiRamO a dépassé le temps imparti.
+ReiRamO : passe. 
+ReiRamO ne joue pas.
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à jma379.
+jma379 a remporté 80  lors du pot .
+jma379 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : jma379 (grosse blind) a remporté (80)
+Siège 3 : ReiRamO (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°256013039469 : Tournoi #3886258755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 05/05/2025 8:22:54 CET [05/05/2025 2:22:54 ET]
+Table '3886258755 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (780 en jetons) 
+Place 2: jma379 (360 en jetons) 
+Place 3: ReiRamO (360 en jetons) ne joue pas.
+jma379 : met la petite blind. 40
+ReiRamO : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 2h]
+psychoman59 : relance. 700 à 780 et est all-in.
+jma379 : suit. 320 et est all-in.
+ReiRamO : passe. 
+Personne n'a suivi. (420) sont retournés à psychoman59.
+ReiRamO est revenu.
+*** FLOP *** [Kc 4c 8s]
+*** TOURNANT *** [Kc 4c 8s] [Ks]
+*** RIVIÈRE *** [Kc 4c 8s Ks] [8c]
+*** ABATTAGE ***
+jma379 : montre [Kd Jh] (un full, full aux Rois par les Huit)
+psychoman59 : montre [Ad 2h] (double paire, Rois et Huit)
+jma379 a remporté 800  lors du pot .
+*** SYNTHÈSE ***
+Pot total 800 | Commission 0 
+Tableau [Kc 4c 8s Ks 8c]
+Siège 1 : psychoman59 (bouton) a montré [Ad 2h] et a perdu avec double paire, Rois et Huit
+Siège 2 : jma379 (petite blind) a montré [Kd Jh] et a gagné (800) avec un full, full aux Rois par les Huit
+Siège 3 : ReiRamO (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°256013040292 : Tournoi #3886258755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 05/05/2025 8:23:07 CET [05/05/2025 2:23:07 ET]
+Table '3886258755 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (420 en jetons) 
+Place 2: jma379 (800 en jetons) 
+Place 3: ReiRamO (280 en jetons) 
+ReiRamO : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 4s]
+jma379 : passe. 
+ReiRamO : suit. 40
+psychoman59 : parole 
+*** FLOP *** [Kh 2d 6c]
+ReiRamO : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à ReiRamO.
+ReiRamO a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Kh 2d 6c]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : jma379 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : ReiRamO (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°256013041333 : Tournoi #3886258755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 05/05/2025 8:23:24 CET [05/05/2025 2:23:24 ET]
+Table '3886258755 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (340 en jetons) 
+Place 2: jma379 (800 en jetons) 
+Place 3: ReiRamO (360 en jetons) 
+psychoman59 : met la petite blind. 40
+jma379 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Th]
+ReiRamO : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à jma379.
+jma379 a remporté 80  lors du pot .
+jma379 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : jma379 (grosse blind) a remporté (80)
+Siège 3 : ReiRamO (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°256013041638 : Tournoi #3886258755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 05/05/2025 8:23:29 CET [05/05/2025 2:23:29 ET]
+Table '3886258755 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: jma379 (840 en jetons) 
+Place 3: ReiRamO (360 en jetons) 
+jma379 : met la petite blind. 40
+ReiRamO : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 7c]
+psychoman59 : passe. 
+jma379 : suit. 40
+ReiRamO : parole 
+*** FLOP *** [Js 4c 6c]
+jma379 : parole 
+ReiRamO : mise. 80
+jma379 : suit. 80
+*** TOURNANT *** [Js 4c 6c] [Qd]
+jma379 : parole 
+ReiRamO : parole 
+*** RIVIÈRE *** [Js 4c 6c Qd] [Qh]
+jma379 : parole 
+ReiRamO : parole 
+*** ABATTAGE ***
+jma379 : montre [4d 2c] (double paire, Dames et Quatre)
+ReiRamO : montre [Th 6d] (double paire, Dames et Six)
+ReiRamO a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [Js 4c 6c Qd Qh]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : jma379 (petite blind) a montré [4d 2c] et a perdu avec double paire, Dames et Quatre
+Siège 3 : ReiRamO (grosse blind) a montré [Th 6d] et a gagné (320) avec double paire, Dames et Six
+
+
+
+Main PokerStars n°256013043098 : Tournoi #3886258755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 05/05/2025 8:23:52 CET [05/05/2025 2:23:52 ET]
+Table '3886258755 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: jma379 (680 en jetons) 
+Place 3: ReiRamO (520 en jetons) 
+ReiRamO : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Ts]
+jma379 : relance. 80 à 160
+ReiRamO : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à jma379.
+jma379 a remporté 200  lors du pot .
+jma379 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : jma379 (bouton) a remporté (200)
+Siège 3 : ReiRamO (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°256013043548 : Tournoi #3886258755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau V (40/80) - 05/05/2025 8:24:00 CET [05/05/2025 2:24:00 ET]
+Table '3886258755 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (220 en jetons) 
+Place 2: jma379 (800 en jetons) 
+Place 3: ReiRamO (480 en jetons) 
+psychoman59 : met la petite blind. 40
+jma379 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 8d]
+ReiRamO : passe. 
+psychoman59 : relance. 140 à 220 et est all-in.
+jma379 : passe. 
+Personne n'a suivi. (140) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : psychoman59 (petite blind) a remporté (160)
+Siège 2 : jma379 (grosse blind) s'est couché. avant Flop
+Siège 3 : ReiRamO (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°256013044153 : Tournoi #3886258755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (50/100) - 05/05/2025 8:24:09 CET [05/05/2025 2:24:09 ET]
+Table '3886258755 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: jma379 (720 en jetons) 
+Place 3: ReiRamO (480 en jetons) 
+jma379 : met la petite blind. 50
+ReiRamO : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Th]
+psychoman59 : passe. 
+jma379 : suit. 50
+ReiRamO : parole 
+*** FLOP *** [7s 2c 9h]
+jma379 : parole 
+ReiRamO : parole 
+*** TOURNANT *** [7s 2c 9h] [Jd]
+jma379 : parole 
+ReiRamO : mise. 100
+jma379 : passe. 
+Personne n'a suivi. (100) sont retournés à ReiRamO.
+ReiRamO a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [7s 2c 9h Jd]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : jma379 (petite blind) s'est couché. sur le Tournant
+Siège 3 : ReiRamO (grosse blind) a remporté (200)
+
+
+
+Main PokerStars n°256013045031 : Tournoi #3886258755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (50/100) - 05/05/2025 8:24:23 CET [05/05/2025 2:24:23 ET]
+Table '3886258755 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: jma379 (620 en jetons) 
+Place 3: ReiRamO (580 en jetons) 
+ReiRamO : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 2s]
+jma379 : relance. 100 à 200
+ReiRamO : relance. 380 à 580 et est all-in.
+psychoman59 : passe. 
+jma379 : suit. 380
+*** FLOP *** [4d 3h 2d]
+*** TOURNANT *** [4d 3h 2d] [Ts]
+*** RIVIÈRE *** [4d 3h 2d Ts] [5s]
+*** ABATTAGE ***
+ReiRamO : montre [Ad 5h] (une suite, As à Cinq)
+jma379 : montre [Qs Qd] (une paire de Dames)
+ReiRamO a remporté 1260  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1260 | Commission 0 
+Tableau [4d 3h 2d Ts 5s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : jma379 (bouton) a montré [Qs Qd] et a perdu avec une paire de Dames
+Siège 3 : ReiRamO (petite blind) a montré [Ad 5h] et a gagné (1260) avec une suite, As à Cinq
+
+
+
+Main PokerStars n°256013046269 : Tournoi #3886258755, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau VI (50/100) - 05/05/2025 8:24:43 CET [05/05/2025 2:24:43 ET]
+Table '3886258755 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (200 en jetons) 
+Place 2: jma379 (40 en jetons) 
+Place 3: ReiRamO (1260 en jetons) 
+psychoman59 : met la petite blind. 50
+jma379 : met la grosse blind. 40 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 7h]
+ReiRamO : relance. 1210 à 1260 et est all-in.
+psychoman59 : suit. 150 et est all-in.
+Personne n'a suivi. (1060) sont retournés à ReiRamO.
+*** FLOP *** [6c Qd Jd]
+*** TOURNANT *** [6c Qd Jd] [Ad]
+*** RIVIÈRE *** [6c Qd Jd Ad] [9c]
+*** ABATTAGE ***
+psychoman59 : montre [7d 7h] (une paire de Sept)
+ReiRamO : montre [As Td] (une paire de As)
+ReiRamO a remporté 320  parallèle lors du pot .
+jma379 : montre [4h 8d] (Hauteur As)
+ReiRamO a remporté 120  principal lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+jma379 a fini le tournoi en 3e position.
+ReiRamO gagne le tournoi - félicitations !
+ReiRamO gagne un ticket " €1.50 Step 2 SnG Power Path ticket "
+*** SYNTHÈSE ***
+Pot total 440 Principal pot 120. Parallèle pot 320. | Commission 0 
+Tableau [6c Qd Jd Ad 9c]
+Siège 1 : psychoman59 (petite blind) a montré [7d 7h] et a perdu avec une paire de Sept
+Siège 2 : jma379 (grosse blind) a montré [4h 8d] et a perdu avec Hauteur As
+Siège 3 : ReiRamO (bouton) a montré [As Td] et a gagné (440) avec une paire de As
+
+
+

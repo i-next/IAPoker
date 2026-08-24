@@ -1,0 +1,460 @@
+﻿Main PokerStars n°244841693408 : Tournoi #3617686216, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 16/07/2023 9:54:39 CET [16/07/2023 3:54:39 ET]
+Table '3617686216 1' 3-max Siège #1 est au bouton.
+Place 1: casiano_c (300 en jetons) 
+Place 2: Akilachile (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+Akilachile : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Kc]
+casiano_c : passe. 
+Akilachile : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Ah Kd 4c]
+Akilachile : parole 
+psychoman59 : mise. 40
+Akilachile : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Ah Kd 4c]
+Siège 1 : casiano_c (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Akilachile (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°244841695065 : Tournoi #3617686216, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 16/07/2023 9:54:53 CET [16/07/2023 3:54:53 ET]
+Table '3617686216 1' 3-max Siège #2 est au bouton.
+Place 1: casiano_c (300 en jetons) 
+Place 2: Akilachile (280 en jetons) 
+Place 3: psychoman59 (320 en jetons) 
+psychoman59 : met la petite blind. 10
+casiano_c : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 9h]
+Akilachile : suit. 20
+psychoman59 : suit. 10
+casiano_c : parole 
+*** FLOP *** [2c Qc 6h]
+psychoman59 : parole 
+casiano_c : mise. 40
+Akilachile : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à casiano_c.
+casiano_c a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [2c Qc 6h]
+Siège 1 : casiano_c (grosse blind) a remporté (60)
+Siège 2 : Akilachile (bouton) s'est couché. sur le Flop
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°244841697242 : Tournoi #3617686216, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 16/07/2023 9:55:13 CET [16/07/2023 3:55:13 ET]
+Table '3617686216 1' 3-max Siège #3 est au bouton.
+Place 1: casiano_c (340 en jetons) 
+Place 2: Akilachile (260 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+casiano_c : met la petite blind. 10
+Akilachile : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 4d]
+psychoman59 : relance. 280 à 300 et est all-in.
+casiano_c : passe. 
+Akilachile : passe. 
+Personne n'a suivi. (280) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : casiano_c (petite blind) s'est couché. avant Flop
+Siège 2 : Akilachile (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a remporté (50)
+
+
+
+Main PokerStars n°244841698267 : Tournoi #3617686216, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 16/07/2023 9:55:23 CET [16/07/2023 3:55:23 ET]
+Table '3617686216 1' 3-max Siège #1 est au bouton.
+Place 1: casiano_c (330 en jetons) 
+Place 2: Akilachile (240 en jetons) 
+Place 3: psychoman59 (330 en jetons) 
+Akilachile : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 4d]
+casiano_c : passe. 
+Akilachile : suit. 10
+psychoman59 : parole 
+*** FLOP *** [9c 9h Tc]
+Akilachile : parole 
+psychoman59 : parole 
+*** TOURNANT *** [9c 9h Tc] [Ts]
+Akilachile : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [9c 9h Tc Ts] [5c]
+Akilachile : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Akilachile : montre [Jh 8s] (double paire, Dix et Neuf)
+psychoman59 : montre [Kh 4d] (double paire, Dix et Neuf - Roi kicker)
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [9c 9h Tc Ts 5c]
+Siège 1 : casiano_c (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Akilachile (petite blind) a montré [Jh 8s] et a perdu avec double paire, Dix et Neuf
+Siège 3 : psychoman59 (grosse blind) a montré [Kh 4d] et a gagné (40) avec double paire, Dix et Neuf
+
+
+
+Main PokerStars n°244841699755 : Tournoi #3617686216, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 16/07/2023 9:55:38 CET [16/07/2023 3:55:38 ET]
+Table '3617686216 1' 3-max Siège #2 est au bouton.
+Place 1: casiano_c (330 en jetons) 
+Place 2: Akilachile (220 en jetons) 
+Place 3: psychoman59 (350 en jetons) 
+psychoman59 : met la petite blind. 10
+casiano_c : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Ks]
+Akilachile : passe. 
+psychoman59 : suit. 10
+casiano_c : parole 
+*** FLOP *** [6c Qd 2s]
+psychoman59 : parole 
+casiano_c : parole 
+*** TOURNANT *** [6c Qd 2s] [4c]
+psychoman59 : parole 
+casiano_c : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à casiano_c.
+casiano_c a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [6c Qd 2s 4c]
+Siège 1 : casiano_c (grosse blind) a remporté (40)
+Siège 2 : Akilachile (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°244841702233 : Tournoi #3617686216, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 16/07/2023 9:56:03 CET [16/07/2023 3:56:03 ET]
+Table '3617686216 1' 3-max Siège #3 est au bouton.
+Place 1: casiano_c (350 en jetons) 
+Place 2: Akilachile (220 en jetons) 
+Place 3: psychoman59 (330 en jetons) 
+casiano_c : met la petite blind. 15
+Akilachile : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Qs]
+psychoman59 : passe. 
+casiano_c : passe. 
+Personne n'a suivi. (15) sont retournés à Akilachile.
+Akilachile a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : casiano_c (petite blind) s'est couché. avant Flop
+Siège 2 : Akilachile (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°244841702906 : Tournoi #3617686216, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 16/07/2023 9:56:10 CET [16/07/2023 3:56:10 ET]
+Table '3617686216 1' 3-max Siège #1 est au bouton.
+Place 1: casiano_c (335 en jetons) 
+Place 2: Akilachile (235 en jetons) 
+Place 3: psychoman59 (330 en jetons) 
+Akilachile : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Kd]
+casiano_c : passe. 
+Akilachile : suit. 15
+psychoman59 : relance. 300 à 330 et est all-in.
+Akilachile : passe. 
+Personne n'a suivi. (300) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : casiano_c (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Akilachile (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°244841703928 : Tournoi #3617686216, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 16/07/2023 9:56:20 CET [16/07/2023 3:56:20 ET]
+Table '3617686216 1' 3-max Siège #2 est au bouton.
+Place 1: casiano_c (335 en jetons) 
+Place 2: Akilachile (205 en jetons) 
+Place 3: psychoman59 (360 en jetons) 
+psychoman59 : met la petite blind. 15
+casiano_c : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 8h]
+Akilachile : suit. 30
+psychoman59 : suit. 15
+casiano_c : parole 
+*** FLOP *** [5h Ad 6c]
+psychoman59 : parole 
+casiano_c : parole 
+Akilachile : mise. 175 et est all-in.
+psychoman59 : passe. 
+casiano_c : passe. 
+Personne n'a suivi. (175) sont retournés à Akilachile.
+Akilachile a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [5h Ad 6c]
+Siège 1 : casiano_c (grosse blind) s'est couché. sur le Flop
+Siège 2 : Akilachile (bouton) a remporté (90)
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°244841705467 : Tournoi #3617686216, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 16/07/2023 9:56:36 CET [16/07/2023 3:56:36 ET]
+Table '3617686216 1' 3-max Siège #3 est au bouton.
+Place 1: casiano_c (305 en jetons) 
+Place 2: Akilachile (265 en jetons) 
+Place 3: psychoman59 (330 en jetons) 
+casiano_c : met la petite blind. 15
+Akilachile : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd As]
+psychoman59 : relance. 300 à 330 et est all-in.
+casiano_c : passe. 
+Akilachile : suit. 235 et est all-in.
+Personne n'a suivi. (65) sont retournés à psychoman59.
+*** FLOP *** [8s Kh Ad]
+*** TOURNANT *** [8s Kh Ad] [4s]
+*** RIVIÈRE *** [8s Kh Ad 4s] [5h]
+*** ABATTAGE ***
+Akilachile : montre [Js Ks] (une paire de Rois)
+psychoman59 : montre [Jd As] (une paire de As)
+psychoman59 a remporté 545  lors du pot .
+Akilachile a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 545 | Commission 0 
+Tableau [8s Kh Ad 4s 5h]
+Siège 1 : casiano_c (petite blind) s'est couché. avant Flop
+Siège 2 : Akilachile (grosse blind) a montré [Js Ks] et a perdu avec une paire de Rois
+Siège 3 : psychoman59 (bouton) a montré [Jd As] et a gagné (545) avec une paire de As
+
+
+
+Main PokerStars n°244841707303 : Tournoi #3617686216, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 16/07/2023 9:56:54 CET [16/07/2023 3:56:54 ET]
+Table '3617686216 1' 3-max Siège #1 est au bouton.
+Place 1: casiano_c (290 en jetons) 
+Place 3: psychoman59 (610 en jetons) 
+casiano_c : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Qd]
+casiano_c : relance. 250 à 290 et est all-in.
+psychoman59 : suit. 250
+*** FLOP *** [7c 6c Ad]
+*** TOURNANT *** [7c 6c Ad] [5c]
+*** RIVIÈRE *** [7c 6c Ad 5c] [8d]
+*** ABATTAGE ***
+psychoman59 : montre [Js Qd] (Hauteur As)
+casiano_c : montre [5h 4h] (une suite, Quatre à Huit)
+casiano_c a remporté 580  lors du pot .
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [7c 6c Ad 5c 8d]
+Siège 1 : casiano_c (bouton) (petite blind) a montré [5h 4h] et a gagné (580) avec une suite, Quatre à Huit
+Siège 3 : psychoman59 (grosse blind) a montré [Js Qd] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°244841708628 : Tournoi #3617686216, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 16/07/2023 9:57:07 CET [16/07/2023 3:57:07 ET]
+Table '3617686216 1' 3-max Siège #3 est au bouton.
+Place 1: casiano_c (580 en jetons) 
+Place 3: psychoman59 (320 en jetons) 
+psychoman59 : met la petite blind. 20
+casiano_c : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Ah]
+psychoman59 : relance. 280 à 320 et est all-in.
+casiano_c : passe. 
+Personne n'a suivi. (280) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : casiano_c (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°244841709343 : Tournoi #3617686216, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 16/07/2023 9:57:14 CET [16/07/2023 3:57:14 ET]
+Table '3617686216 1' 3-max Siège #1 est au bouton.
+Place 1: casiano_c (540 en jetons) 
+Place 3: psychoman59 (360 en jetons) 
+casiano_c : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Ks]
+casiano_c : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : casiano_c (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°244841709790 : Tournoi #3617686216, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 16/07/2023 9:57:18 CET [16/07/2023 3:57:18 ET]
+Table '3617686216 1' 3-max Siège #3 est au bouton.
+Place 1: casiano_c (520 en jetons) 
+Place 3: psychoman59 (380 en jetons) 
+psychoman59 : met la petite blind. 20
+casiano_c : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 9h]
+psychoman59 : relance. 340 à 380 et est all-in.
+casiano_c : passe. 
+Personne n'a suivi. (340) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : casiano_c (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°244841710635 : Tournoi #3617686216, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 16/07/2023 9:57:27 CET [16/07/2023 3:57:27 ET]
+Table '3617686216 1' 3-max Siège #1 est au bouton.
+Place 1: casiano_c (480 en jetons) 
+Place 3: psychoman59 (420 en jetons) 
+casiano_c : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 8d]
+casiano_c : suit. 20
+psychoman59 : relance. 380 à 420 et est all-in.
+casiano_c : passe. 
+Personne n'a suivi. (380) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : casiano_c (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°244841711394 : Tournoi #3617686216, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 16/07/2023 9:57:34 CET [16/07/2023 3:57:34 ET]
+Table '3617686216 1' 3-max Siège #3 est au bouton.
+Place 1: casiano_c (440 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+psychoman59 : met la petite blind. 20
+casiano_c : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 2s]
+psychoman59 : relance. 420 à 460 et est all-in.
+casiano_c : passe. 
+Personne n'a suivi. (420) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : casiano_c (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°244841712383 : Tournoi #3617686216, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/07/2023 9:57:44 CET [16/07/2023 3:57:44 ET]
+Table '3617686216 1' 3-max Siège #1 est au bouton.
+Place 1: casiano_c (400 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+casiano_c : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 2c]
+casiano_c : relance. 340 à 400 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (340) sont retournés à casiano_c.
+casiano_c a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : casiano_c (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244841712999 : Tournoi #3617686216, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/07/2023 9:57:50 CET [16/07/2023 3:57:50 ET]
+Table '3617686216 1' 3-max Siège #3 est au bouton.
+Place 1: casiano_c (460 en jetons) 
+Place 3: psychoman59 (440 en jetons) 
+psychoman59 : met la petite blind. 30
+casiano_c : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 5d]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à casiano_c.
+casiano_c a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : casiano_c (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244841713542 : Tournoi #3617686216, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/07/2023 9:57:55 CET [16/07/2023 3:57:55 ET]
+Table '3617686216 1' 3-max Siège #1 est au bouton.
+Place 1: casiano_c (490 en jetons) 
+Place 3: psychoman59 (410 en jetons) 
+casiano_c : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 9d]
+casiano_c : suit. 30
+psychoman59 : parole 
+*** FLOP *** [4c 7c Kc]
+psychoman59 : parole 
+casiano_c : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à casiano_c.
+casiano_c a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [4c 7c Kc]
+Siège 1 : casiano_c (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°244841714935 : Tournoi #3617686216, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 16/07/2023 9:58:09 CET [16/07/2023 3:58:09 ET]
+Table '3617686216 1' 3-max Siège #3 est au bouton.
+Place 1: casiano_c (550 en jetons) 
+Place 3: psychoman59 (350 en jetons) 
+psychoman59 : met la petite blind. 30
+casiano_c : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Qs]
+psychoman59 : relance. 290 à 350 et est all-in.
+casiano_c : suit. 290
+*** FLOP *** [2d 6s As]
+*** TOURNANT *** [2d 6s As] [5c]
+*** RIVIÈRE *** [2d 6s As 5c] [8h]
+*** ABATTAGE ***
+casiano_c : montre [Ad Kd] (une paire de As)
+psychoman59 : montre [Ac Qs] (une paire de As - plus basse kicker)
+casiano_c a remporté 700  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+casiano_c remporte le tournoi et reçoit 4.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 700 | Commission 0 
+Tableau [2d 6s As 5c 8h]
+Siège 1 : casiano_c (grosse blind) a montré [Ad Kd] et a gagné (700) avec une paire de As
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Ac Qs] et a perdu avec une paire de As
+
+
+

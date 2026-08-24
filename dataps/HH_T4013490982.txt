@@ -1,0 +1,798 @@
+﻿Main PokerStars n°261334383939 : Tournoi #4013490982, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/07/2026 15:26:35 CET [04/07/2026 9:26:35 ET]
+Table '4013490982 1' 3-max Siège #1 est au bouton.
+Place 1: manu_c48 (500 en jetons) 
+Place 2: ajhackett (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+ajhackett : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 8h]
+manu_c48 : passe. 
+ajhackett : suit. 10
+psychoman59 : relance. 480 à 500 et est all-in.
+ajhackett : passe. 
+Personne n'a suivi. (480) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : manu_c48 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : ajhackett (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°261334385046 : Tournoi #4013490982, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/07/2026 15:26:43 CET [04/07/2026 9:26:43 ET]
+Table '4013490982 1' 3-max Siège #2 est au bouton.
+Place 1: manu_c48 (500 en jetons) 
+Place 2: ajhackett (480 en jetons) 
+Place 3: psychoman59 (520 en jetons) 
+psychoman59 : met la petite blind. 10
+manu_c48 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Tc]
+ajhackett : suit. 20
+psychoman59 : suit. 10
+manu_c48 : relance. 20 à 40
+ajhackett : suit. 20
+psychoman59 : suit. 20
+*** FLOP *** [4h Qc 2c]
+psychoman59 : parole 
+manu_c48 : parole 
+ajhackett : parole 
+*** TOURNANT *** [4h Qc 2c] [Kh]
+psychoman59 : parole 
+manu_c48 : mise. 30
+ajhackett : suit. 30
+psychoman59 : suit. 30
+*** RIVIÈRE *** [4h Qc 2c Kh] [8d]
+psychoman59 : parole 
+manu_c48 : mise. 72
+ajhackett : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (72) sont retournés à manu_c48.
+manu_c48 a remporté 210  lors du pot .
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Tableau [4h Qc 2c Kh 8d]
+Siège 1 : manu_c48 (grosse blind) a remporté (210)
+Siège 2 : ajhackett (bouton) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°261334390909 : Tournoi #4013490982, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/07/2026 15:27:29 CET [04/07/2026 9:27:29 ET]
+Table '4013490982 1' 3-max Siège #3 est au bouton.
+Place 1: manu_c48 (640 en jetons) 
+Place 2: ajhackett (410 en jetons) 
+Place 3: psychoman59 (450 en jetons) 
+manu_c48 : met la petite blind. 10
+ajhackett : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Js]
+psychoman59 : suit. 20
+manu_c48 : suit. 10
+ajhackett : parole 
+*** FLOP *** [5h Qh Qd]
+manu_c48 : parole 
+ajhackett : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5h Qh Qd] [6s]
+manu_c48 : parole 
+ajhackett : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [5h Qh Qd 6s] [Jd]
+manu_c48 : parole 
+ajhackett : parole 
+psychoman59 : mise. 60
+manu_c48 : passe. 
+ajhackett : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [5h Qh Qd 6s Jd]
+Siège 1 : manu_c48 (petite blind) s'est couché. sur le Rivière
+Siège 2 : ajhackett (grosse blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (bouton) a remporté (60)
+
+
+
+Main PokerStars n°261334394750 : Tournoi #4013490982, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/07/2026 15:27:59 CET [04/07/2026 9:27:59 ET]
+Table '4013490982 1' 3-max Siège #1 est au bouton.
+Place 1: manu_c48 (620 en jetons) 
+Place 2: ajhackett (390 en jetons) 
+Place 3: psychoman59 (490 en jetons) 
+ajhackett : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 9c]
+manu_c48 : passe. 
+ajhackett : suit. 10
+psychoman59 : parole 
+*** FLOP *** [8d 6h 6c]
+ajhackett : parole 
+psychoman59 : parole 
+*** TOURNANT *** [8d 6h 6c] [5c]
+ajhackett : mise. 40
+psychoman59 : suit. 40
+*** RIVIÈRE *** [8d 6h 6c 5c] [Qh]
+ajhackett : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à ajhackett.
+ajhackett a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [8d 6h 6c 5c Qh]
+Siège 1 : manu_c48 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : ajhackett (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°261334397815 : Tournoi #4013490982, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 04/07/2026 15:28:23 CET [04/07/2026 9:28:23 ET]
+Table '4013490982 1' 3-max Siège #2 est au bouton.
+Place 1: manu_c48 (620 en jetons) 
+Place 2: ajhackett (450 en jetons) 
+Place 3: psychoman59 (430 en jetons) 
+psychoman59 : met la petite blind. 10
+manu_c48 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Ks]
+ajhackett : suit. 20
+psychoman59 : suit. 10
+manu_c48 : parole 
+*** FLOP *** [Ts Th 8d]
+psychoman59 : parole 
+manu_c48 : parole 
+ajhackett : parole 
+*** TOURNANT *** [Ts Th 8d] [6h]
+psychoman59 : mise. 30
+manu_c48 : passe. 
+ajhackett : suit. 30
+*** RIVIÈRE *** [Ts Th 8d 6h] [9c]
+psychoman59 : mise. 60
+ajhackett : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Ts Th 8d 6h 9c]
+Siège 1 : manu_c48 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : ajhackett (bouton) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°261334404099 : Tournoi #4013490982, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 04/07/2026 15:29:14 CET [04/07/2026 9:29:14 ET]
+Table '4013490982 1' 3-max Siège #3 est au bouton.
+Place 1: manu_c48 (600 en jetons) 
+Place 2: ajhackett (400 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+manu_c48 : met la petite blind. 15
+ajhackett : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 4d]
+psychoman59 : passe. 
+manu_c48 : suit. 15
+ajhackett : parole 
+*** FLOP *** [4c Jh Qh]
+manu_c48 : mise. 30
+ajhackett : passe. 
+Personne n'a suivi. (30) sont retournés à manu_c48.
+manu_c48 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [4c Jh Qh]
+Siège 1 : manu_c48 (petite blind) a remporté (60)
+Siège 2 : ajhackett (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261334406266 : Tournoi #4013490982, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 04/07/2026 15:29:32 CET [04/07/2026 9:29:32 ET]
+Table '4013490982 1' 3-max Siège #1 est au bouton.
+Place 1: manu_c48 (630 en jetons) 
+Place 2: ajhackett (370 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+ajhackett : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 4h]
+manu_c48 : relance. 30 à 60
+ajhackett : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à manu_c48.
+manu_c48 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : manu_c48 (bouton) a remporté (75)
+Siège 2 : ajhackett (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261334407802 : Tournoi #4013490982, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 04/07/2026 15:29:44 CET [04/07/2026 9:29:44 ET]
+Table '4013490982 1' 3-max Siège #2 est au bouton.
+Place 1: manu_c48 (675 en jetons) 
+Place 2: ajhackett (355 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+psychoman59 : met la petite blind. 15
+manu_c48 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 5c]
+ajhackett : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à manu_c48.
+manu_c48 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : manu_c48 (grosse blind) a remporté (30)
+Siège 2 : ajhackett (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261334408989 : Tournoi #4013490982, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 04/07/2026 15:29:53 CET [04/07/2026 9:29:53 ET]
+Table '4013490982 1' 3-max Siège #3 est au bouton.
+Place 1: manu_c48 (690 en jetons) 
+Place 2: ajhackett (355 en jetons) 
+Place 3: psychoman59 (455 en jetons) 
+manu_c48 : met la petite blind. 15
+ajhackett : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Ks]
+psychoman59 est connecté 
+psychoman59 est connecté 
+psychoman59 : relance. 30 à 60
+manu_c48 : suit. 45
+ajhackett : suit. 30
+*** FLOP *** [Kc Qd 9c]
+manu_c48 : parole 
+ajhackett : parole 
+psychoman59 : mise. 90
+manu_c48 : passe. 
+ajhackett : passe. 
+Personne n'a suivi. (90) sont retournés à psychoman59.
+psychoman59 a remporté 180  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Kc Qd 9c]
+Siège 1 : manu_c48 (petite blind) s'est couché. sur le Flop
+Siège 2 : ajhackett (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) a remporté (180)
+
+
+
+Main PokerStars n°261334416665 : Tournoi #4013490982, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 04/07/2026 15:30:53 CET [04/07/2026 9:30:53 ET]
+Table '4013490982 1' 3-max Siège #1 est au bouton.
+Place 1: manu_c48 (630 en jetons) 
+Place 2: ajhackett (295 en jetons) 
+Place 3: psychoman59 (575 en jetons) 
+ajhackett : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Ks]
+manu_c48 : passe. 
+ajhackett : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Jc 6s 4d]
+ajhackett : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Jc 6s 4d] [2d]
+ajhackett : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Jc 6s 4d 2d] [Qd]
+ajhackett : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à ajhackett.
+ajhackett a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Jc 6s 4d 2d Qd]
+Siège 1 : manu_c48 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : ajhackett (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°261334418933 : Tournoi #4013490982, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 04/07/2026 15:31:10 CET [04/07/2026 9:31:10 ET]
+Table '4013490982 1' 3-max Siège #2 est au bouton.
+Place 1: manu_c48 (630 en jetons) 
+Place 2: ajhackett (335 en jetons) 
+Place 3: psychoman59 (535 en jetons) 
+psychoman59 : met la petite blind. 20
+manu_c48 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 6c]
+ajhackett : relance. 40 à 80
+psychoman59 : relance. 455 à 535 et est all-in.
+manu_c48 : passe. 
+ajhackett : suit. 255 et est all-in.
+Personne n'a suivi. (200) sont retournés à psychoman59.
+*** FLOP *** [6h Jh Kc]
+*** TOURNANT *** [6h Jh Kc] [4s]
+*** RIVIÈRE *** [6h Jh Kc 4s] [Ad]
+*** ABATTAGE ***
+psychoman59 : montre [6s 6c] (un brelan de Six)
+ajhackett : montre [Ks Qs] (une paire de Rois)
+psychoman59 a remporté 710  lors du pot .
+ajhackett a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 710 | Commission 0 
+Tableau [6h Jh Kc 4s Ad]
+Siège 1 : manu_c48 (grosse blind) s'est couché. avant Flop
+Siège 2 : ajhackett (bouton) a montré [Ks Qs] et a perdu avec une paire de Rois
+Siège 3 : psychoman59 (petite blind) a montré [6s 6c] et a gagné (710) avec un brelan de Six
+
+
+
+Main PokerStars n°261334421434 : Tournoi #4013490982, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 04/07/2026 15:31:30 CET [04/07/2026 9:31:30 ET]
+Table '4013490982 1' 3-max Siège #1 est au bouton.
+Place 1: manu_c48 (590 en jetons) 
+Place 3: psychoman59 (910 en jetons) 
+manu_c48 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Js]
+manu_c48 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [9c Jh Kh]
+psychoman59 : parole 
+manu_c48 : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [9c Jh Kh] [Ac]
+psychoman59 : parole 
+manu_c48 : parole 
+*** RIVIÈRE *** [9c Jh Kh Ac] [Jd]
+psychoman59 : mise. 80
+manu_c48 : suit. 80
+*** ABATTAGE ***
+psychoman59 : montre [6c Js] (un brelan de Valets)
+manu_c48 : cache la main perdante. 
+psychoman59 a remporté 320  lors du pot .
+*** SYNTHÈSE ***
+Pot total 320 | Commission 0 
+Tableau [9c Jh Kh Ac Jd]
+Siège 1 : manu_c48 (bouton) (petite blind) a caché la main perdante. [8s 9d]
+Siège 3 : psychoman59 (grosse blind) a montré [6c Js] et a gagné (320) avec un brelan de Valets
+
+
+
+Main PokerStars n°261334424010 : Tournoi #4013490982, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 04/07/2026 15:31:50 CET [04/07/2026 9:31:50 ET]
+Table '4013490982 1' 3-max Siège #3 est au bouton.
+Place 1: manu_c48 (430 en jetons) 
+Place 3: psychoman59 (1070 en jetons) 
+psychoman59 : met la petite blind. 20
+manu_c48 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 4h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à manu_c48.
+manu_c48 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : manu_c48 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261334424842 : Tournoi #4013490982, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 04/07/2026 15:31:57 CET [04/07/2026 9:31:57 ET]
+Table '4013490982 1' 3-max Siège #1 est au bouton.
+Place 1: manu_c48 (450 en jetons) 
+Place 3: psychoman59 (1050 en jetons) 
+manu_c48 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Qc]
+manu_c48 : relance. 410 à 450 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (410) sont retournés à manu_c48.
+manu_c48 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : manu_c48 (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261334425768 : Tournoi #4013490982, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 04/07/2026 15:32:04 CET [04/07/2026 9:32:04 ET]
+Table '4013490982 1' 3-max Siège #3 est au bouton.
+Place 1: manu_c48 (490 en jetons) 
+Place 3: psychoman59 (1010 en jetons) 
+psychoman59 : met la petite blind. 20
+manu_c48 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Qh]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à manu_c48.
+manu_c48 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : manu_c48 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261334426358 : Tournoi #4013490982, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 04/07/2026 15:32:08 CET [04/07/2026 9:32:08 ET]
+Table '4013490982 1' 3-max Siège #1 est au bouton.
+Place 1: manu_c48 (510 en jetons) 
+Place 3: psychoman59 (990 en jetons) 
+manu_c48 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 2d]
+manu_c48 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [9h Tc 4h]
+psychoman59 : parole 
+manu_c48 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à manu_c48.
+manu_c48 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [9h Tc 4h]
+Siège 1 : manu_c48 (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261334428072 : Tournoi #4013490982, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 04/07/2026 15:32:22 CET [04/07/2026 9:32:22 ET]
+Table '4013490982 1' 3-max Siège #3 est au bouton.
+Place 1: manu_c48 (550 en jetons) 
+Place 3: psychoman59 (950 en jetons) 
+psychoman59 : met la petite blind. 20
+manu_c48 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 5d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à manu_c48.
+manu_c48 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : manu_c48 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261334428714 : Tournoi #4013490982, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 04/07/2026 15:32:27 CET [04/07/2026 9:32:27 ET]
+Table '4013490982 1' 3-max Siège #1 est au bouton.
+Place 1: manu_c48 (570 en jetons) 
+Place 3: psychoman59 (930 en jetons) 
+manu_c48 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 3s]
+manu_c48 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Td 2s Qh]
+psychoman59 : parole 
+manu_c48 : parole 
+*** TOURNANT *** [Td 2s Qh] [As]
+psychoman59 : parole 
+manu_c48 : parole 
+*** RIVIÈRE *** [Td 2s Qh As] [Ts]
+psychoman59 : mise. 80
+manu_c48 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Td 2s Qh As Ts]
+Siège 1 : manu_c48 (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°261334431761 : Tournoi #4013490982, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 04/07/2026 15:32:50 CET [04/07/2026 9:32:50 ET]
+Table '4013490982 1' 3-max Siège #3 est au bouton.
+Place 1: manu_c48 (530 en jetons) 
+Place 3: psychoman59 (970 en jetons) 
+psychoman59 : met la petite blind. 30
+manu_c48 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 2h]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à manu_c48.
+manu_c48 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : manu_c48 (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261334432365 : Tournoi #4013490982, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 04/07/2026 15:32:55 CET [04/07/2026 9:32:55 ET]
+Table '4013490982 1' 3-max Siège #1 est au bouton.
+Place 1: manu_c48 (560 en jetons) 
+Place 3: psychoman59 (940 en jetons) 
+manu_c48 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 5c]
+manu_c48 : relance. 500 à 560 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (500) sont retournés à manu_c48.
+manu_c48 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : manu_c48 (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261334433352 : Tournoi #4013490982, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 04/07/2026 15:33:02 CET [04/07/2026 9:33:02 ET]
+Table '4013490982 1' 3-max Siège #3 est au bouton.
+Place 1: manu_c48 (620 en jetons) 
+Place 3: psychoman59 (880 en jetons) 
+psychoman59 : met la petite blind. 30
+manu_c48 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 6d]
+psychoman59 : relance. 820 à 880 et est all-in.
+manu_c48 : passe. 
+Personne n'a suivi. (820) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : manu_c48 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°261334434422 : Tournoi #4013490982, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 04/07/2026 15:33:10 CET [04/07/2026 9:33:10 ET]
+Table '4013490982 1' 3-max Siège #1 est au bouton.
+Place 1: manu_c48 (560 en jetons) 
+Place 3: psychoman59 (940 en jetons) 
+manu_c48 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Ac]
+manu_c48 : relance. 500 à 560 et est all-in.
+psychoman59 : suit. 500
+*** FLOP *** [2s 7d Tc]
+*** TOURNANT *** [2s 7d Tc] [Qd]
+*** RIVIÈRE *** [2s 7d Tc Qd] [4h]
+*** ABATTAGE ***
+psychoman59 : montre [4c Ac] (une paire de Quatre)
+manu_c48 : montre [Qs Kh] (une paire de Dames)
+manu_c48 a remporté 1120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1120 | Commission 0 
+Tableau [2s 7d Tc Qd 4h]
+Siège 1 : manu_c48 (bouton) (petite blind) a montré [Qs Kh] et a gagné (1120) avec une paire de Dames
+Siège 3 : psychoman59 (grosse blind) a montré [4c Ac] et a perdu avec une paire de Quatre
+
+
+
+Main PokerStars n°261334435993 : Tournoi #4013490982, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 04/07/2026 15:33:22 CET [04/07/2026 9:33:22 ET]
+Table '4013490982 1' 3-max Siège #3 est au bouton.
+Place 1: manu_c48 (1120 en jetons) 
+Place 3: psychoman59 (380 en jetons) 
+psychoman59 : met la petite blind. 30
+manu_c48 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 3h]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à manu_c48.
+manu_c48 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : manu_c48 (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261334436724 : Tournoi #4013490982, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 04/07/2026 15:33:28 CET [04/07/2026 9:33:28 ET]
+Table '4013490982 1' 3-max Siège #1 est au bouton.
+Place 1: manu_c48 (1150 en jetons) 
+Place 3: psychoman59 (350 en jetons) 
+manu_c48 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Tc]
+manu_c48 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [9s 9h 5s]
+psychoman59 : parole 
+manu_c48 : mise. 1090 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (1090) sont retournés à manu_c48.
+manu_c48 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [9s 9h 5s]
+Siège 1 : manu_c48 (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261334438372 : Tournoi #4013490982, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 04/07/2026 15:33:40 CET [04/07/2026 9:33:40 ET]
+Table '4013490982 1' 3-max Siège #3 est au bouton.
+Place 1: manu_c48 (1210 en jetons) 
+Place 3: psychoman59 (290 en jetons) 
+psychoman59 : met la petite blind. 30
+manu_c48 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Td]
+psychoman59 : relance. 230 à 290 et est all-in.
+manu_c48 : passe. 
+Personne n'a suivi. (230) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : manu_c48 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°261334439208 : Tournoi #4013490982, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 04/07/2026 15:33:47 CET [04/07/2026 9:33:47 ET]
+Table '4013490982 1' 3-max Siège #1 est au bouton.
+Place 1: manu_c48 (1150 en jetons) 
+Place 3: psychoman59 (350 en jetons) 
+manu_c48 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h Qd]
+manu_c48 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : manu_c48 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°261334439772 : Tournoi #4013490982, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 04/07/2026 15:33:51 CET [04/07/2026 9:33:51 ET]
+Table '4013490982 1' 3-max Siège #3 est au bouton.
+Place 1: manu_c48 (1120 en jetons) 
+Place 3: psychoman59 (380 en jetons) 
+psychoman59 : met la petite blind. 30
+manu_c48 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 7c]
+psychoman59 : suit. 30
+manu_c48 : relance. 1060 à 1120 et est all-in.
+psychoman59 : suit. 320 et est all-in.
+Personne n'a suivi. (740) sont retournés à manu_c48.
+*** FLOP *** [Ac Kd 3h]
+*** TOURNANT *** [Ac Kd 3h] [Tc]
+*** RIVIÈRE *** [Ac Kd 3h Tc] [2c]
+*** ABATTAGE ***
+manu_c48 : montre [2h Ah] (double paire, As et Deux)
+psychoman59 : montre [6c 7c] (une couleur, hauteur As)
+psychoman59 a remporté 760  lors du pot .
+*** SYNTHÈSE ***
+Pot total 760 | Commission 0 
+Tableau [Ac Kd 3h Tc 2c]
+Siège 1 : manu_c48 (grosse blind) a montré [2h Ah] et a perdu avec double paire, As et Deux
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [6c 7c] et a gagné (760) avec une couleur, hauteur As
+
+
+
+Main PokerStars n°261334441810 : Tournoi #4013490982, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 04/07/2026 15:34:07 CET [04/07/2026 9:34:07 ET]
+Table '4013490982 1' 3-max Siège #1 est au bouton.
+Place 1: manu_c48 (740 en jetons) 
+Place 3: psychoman59 (760 en jetons) 
+manu_c48 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Ts]
+manu_c48 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [8c 5d 4s]
+psychoman59 : parole 
+manu_c48 : parole 
+*** TOURNANT *** [8c 5d 4s] [9d]
+psychoman59 : parole 
+manu_c48 : parole 
+*** RIVIÈRE *** [8c 5d 4s 9d] [6d]
+psychoman59 : parole 
+manu_c48 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Jd Ts] (Hauteur Valet)
+manu_c48 : montre [4d Th] (une paire de Quatre)
+manu_c48 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [8c 5d 4s 9d 6d]
+Siège 1 : manu_c48 (bouton) (petite blind) a montré [4d Th] et a gagné (120) avec une paire de Quatre
+Siège 3 : psychoman59 (grosse blind) a montré [Jd Ts] et a perdu avec Hauteur Valet
+
+
+
+Main PokerStars n°261334444409 : Tournoi #4013490982, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 04/07/2026 15:34:27 CET [04/07/2026 9:34:27 ET]
+Table '4013490982 1' 3-max Siège #3 est au bouton.
+Place 1: manu_c48 (800 en jetons) 
+Place 3: psychoman59 (700 en jetons) 
+psychoman59 : met la petite blind. 30
+manu_c48 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 4s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à manu_c48.
+manu_c48 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : manu_c48 (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261334445287 : Tournoi #4013490982, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 04/07/2026 15:34:34 CET [04/07/2026 9:34:34 ET]
+Table '4013490982 1' 3-max Siège #1 est au bouton.
+Place 1: manu_c48 (830 en jetons) 
+Place 3: psychoman59 (670 en jetons) 
+manu_c48 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d As]
+manu_c48 : suit. 30
+psychoman59 : relance. 610 à 670 et est all-in.
+manu_c48 : passe. 
+Personne n'a suivi. (610) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : manu_c48 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°261334446631 : Tournoi #4013490982, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 04/07/2026 15:34:44 CET [04/07/2026 9:34:44 ET]
+Table '4013490982 1' 3-max Siège #3 est au bouton.
+Place 1: manu_c48 (770 en jetons) 
+Place 3: psychoman59 (730 en jetons) 
+psychoman59 : met la petite blind. 40
+manu_c48 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 9h]
+psychoman59 : relance. 650 à 730 et est all-in.
+manu_c48 : passe. 
+Personne n'a suivi. (650) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : manu_c48 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°261334447448 : Tournoi #4013490982, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 04/07/2026 15:34:50 CET [04/07/2026 9:34:50 ET]
+Table '4013490982 1' 3-max Siège #1 est au bouton.
+Place 1: manu_c48 (690 en jetons) 
+Place 3: psychoman59 (810 en jetons) 
+manu_c48 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h As]
+manu_c48 : relance. 610 à 690 et est all-in.
+psychoman59 : suit. 610
+*** FLOP *** [8c Ts 2s]
+*** TOURNANT *** [8c Ts 2s] [8s]
+*** RIVIÈRE *** [8c Ts 2s 8s] [7s]
+*** ABATTAGE ***
+psychoman59 : montre [9h As] (une couleur, hauteur As)
+manu_c48 : montre [Jd Qh] (une paire de Huit)
+psychoman59 a remporté 1380  lors du pot .
+manu_c48 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 1380 | Commission 0 
+Tableau [8c Ts 2s 8s 7s]
+Siège 1 : manu_c48 (bouton) (petite blind) a montré [Jd Qh] et a perdu avec une paire de Huit
+Siège 3 : psychoman59 (grosse blind) a montré [9h As] et a gagné (1380) avec une couleur, hauteur As
+
+
+

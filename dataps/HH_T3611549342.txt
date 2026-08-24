@@ -1,0 +1,424 @@
+﻿Main PokerStars n°244577568210 : Tournoi #3611549342, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 02/07/2023 7:50:05 CET [02/07/2023 1:50:05 ET]
+Table '3611549342 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: gimi31 (300 en jetons) 
+Place 3: bordeta (300 en jetons) 
+gimi31 : met la petite blind. 10
+bordeta : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Qc]
+psychoman59 : relance. 20 à 40
+gimi31 : passe. 
+bordeta : suit. 20
+*** FLOP *** [Th Ac Qh]
+bordeta : parole 
+psychoman59 : mise. 90
+bordeta : passe. 
+Personne n'a suivi. (90) sont retournés à psychoman59.
+psychoman59 a remporté 90  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [Th Ac Qh]
+Siège 1 : psychoman59 (bouton) a remporté (90)
+Siège 2 : gimi31 (petite blind) s'est couché. avant Flop
+Siège 3 : bordeta (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°244577569986 : Tournoi #3611549342, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 02/07/2023 7:50:23 CET [02/07/2023 1:50:23 ET]
+Table '3611549342 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (350 en jetons) 
+Place 2: gimi31 (290 en jetons) 
+Place 3: bordeta (260 en jetons) 
+bordeta : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Th]
+gimi31 : passe. 
+bordeta : suit. 10
+psychoman59 : parole 
+*** FLOP *** [9c 7s 7d]
+bordeta : parole 
+psychoman59 : parole 
+*** TOURNANT *** [9c 7s 7d] [3s]
+bordeta : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [9c 7s 7d 3s] [2c]
+bordeta : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+bordeta : montre [Td 2h] (double paire, Sept et Deux)
+psychoman59 : cache la main perdante. 
+bordeta a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [9c 7s 7d 3s 2c]
+Siège 1 : psychoman59 (grosse blind) a caché la main perdante. [5d Th]
+Siège 2 : gimi31 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : bordeta (petite blind) a montré [Td 2h] et a gagné (40) avec double paire, Sept et Deux
+
+
+
+Main PokerStars n°244577572042 : Tournoi #3611549342, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 02/07/2023 7:50:44 CET [02/07/2023 1:50:44 ET]
+Table '3611549342 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (330 en jetons) 
+Place 2: gimi31 (290 en jetons) 
+Place 3: bordeta (280 en jetons) 
+psychoman59 : met la petite blind. 10
+gimi31 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 5c]
+bordeta : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à gimi31.
+gimi31 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : gimi31 (grosse blind) a remporté (20)
+Siège 3 : bordeta (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°244577572637 : Tournoi #3611549342, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 02/07/2023 7:50:50 CET [02/07/2023 1:50:50 ET]
+Table '3611549342 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (320 en jetons) 
+Place 2: gimi31 (300 en jetons) 
+Place 3: bordeta (280 en jetons) 
+gimi31 : met la petite blind. 10
+bordeta : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 5d]
+psychoman59 : passe. 
+gimi31 : suit. 10
+bordeta : parole 
+*** FLOP *** [6h 4h Ts]
+gimi31 : parole 
+bordeta : parole 
+*** TOURNANT *** [6h 4h Ts] [7c]
+gimi31 : parole 
+bordeta : parole 
+*** RIVIÈRE *** [6h 4h Ts 7c] [3s]
+gimi31 : mise. 40
+bordeta : suit. 40
+*** ABATTAGE ***
+gimi31 : montre [5s 7s] (une suite, Trois à Sept)
+bordeta : cache la main perdante. 
+gimi31 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [6h 4h Ts 7c 3s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : gimi31 (petite blind) a montré [5s 7s] et a gagné (120) avec une suite, Trois à Sept
+Siège 3 : bordeta (grosse blind) a caché la main perdante. [Js Kh]
+
+
+
+Main PokerStars n°244577574777 : Tournoi #3611549342, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 02/07/2023 7:51:11 CET [02/07/2023 1:51:11 ET]
+Table '3611549342 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (320 en jetons) 
+Place 2: gimi31 (360 en jetons) 
+Place 3: bordeta (220 en jetons) 
+bordeta : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Tc]
+gimi31 : passe. 
+bordeta : suit. 15
+psychoman59 : parole 
+*** FLOP *** [3d Td Th]
+bordeta : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3d Td Th] [5c]
+bordeta : parole 
+psychoman59 : mise. 30
+bordeta : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [3d Td Th 5c]
+Siège 1 : psychoman59 (grosse blind) a remporté (60)
+Siège 2 : gimi31 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : bordeta (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°244577577106 : Tournoi #3611549342, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 02/07/2023 7:51:33 CET [02/07/2023 1:51:33 ET]
+Table '3611549342 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (350 en jetons) 
+Place 2: gimi31 (360 en jetons) 
+Place 3: bordeta (190 en jetons) 
+psychoman59 : met la petite blind. 15
+gimi31 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 7c]
+bordeta : passe. 
+psychoman59 : suit. 15
+gimi31 : parole 
+*** FLOP *** [Qc 9d Jc]
+psychoman59 : parole 
+gimi31 : parole 
+*** TOURNANT *** [Qc 9d Jc] [Ad]
+psychoman59 : parole 
+gimi31 : parole 
+*** RIVIÈRE *** [Qc 9d Jc Ad] [8s]
+psychoman59 : mise. 60
+gimi31 : suit. 60
+*** ABATTAGE ***
+psychoman59 : montre [Tc 7c] (une suite, Huit à Dame)
+gimi31 : cache la main perdante. 
+psychoman59 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Qc 9d Jc Ad 8s]
+Siège 1 : psychoman59 (petite blind) a montré [Tc 7c] et a gagné (180) avec une suite, Huit à Dame
+Siège 2 : gimi31 (grosse blind) a caché la main perdante. [8h 5s]
+Siège 3 : bordeta (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°244577579176 : Tournoi #3611549342, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 02/07/2023 7:51:53 CET [02/07/2023 1:51:53 ET]
+Table '3611549342 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (440 en jetons) 
+Place 2: gimi31 (270 en jetons) 
+Place 3: bordeta (190 en jetons) 
+gimi31 : met la petite blind. 15
+bordeta : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Kd]
+psychoman59 : relance. 30 à 60
+gimi31 : passe. 
+bordeta : suit. 30
+*** FLOP *** [7s Kc Js]
+bordeta : parole 
+psychoman59 : mise. 68
+bordeta : suit. 68
+*** TOURNANT *** [7s Kc Js] [6c]
+bordeta : parole 
+psychoman59 : mise. 90
+bordeta : suit. 62 et est all-in.
+Personne n'a suivi. (28) sont retournés à psychoman59.
+*** RIVIÈRE *** [7s Kc Js 6c] [Qd]
+*** ABATTAGE ***
+bordeta : montre [Jd Kh] (double paire, Rois et Valets)
+psychoman59 : montre [Qh Kd] (double paire, Rois et Dames)
+psychoman59 a remporté 395  lors du pot .
+bordeta a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 395 | Commission 0 
+Tableau [7s Kc Js 6c Qd]
+Siège 1 : psychoman59 (bouton) a montré [Qh Kd] et a gagné (395) avec double paire, Rois et Dames
+Siège 2 : gimi31 (petite blind) s'est couché. avant Flop
+Siège 3 : bordeta (grosse blind) a montré [Jd Kh] et a perdu avec double paire, Rois et Valets
+
+
+
+Main PokerStars n°244577582199 : Tournoi #3611549342, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 02/07/2023 7:52:23 CET [02/07/2023 1:52:23 ET]
+Table '3611549342 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (645 en jetons) 
+Place 2: gimi31 (255 en jetons) 
+gimi31 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 7c]
+gimi31 : relance. 80 à 120
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à gimi31.
+gimi31 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : gimi31 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°244577582942 : Tournoi #3611549342, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 02/07/2023 7:52:30 CET [02/07/2023 1:52:30 ET]
+Table '3611549342 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (605 en jetons) 
+Place 2: gimi31 (295 en jetons) 
+psychoman59 : met la petite blind. 20
+gimi31 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Kc]
+psychoman59 : relance. 565 à 605 et est all-in.
+gimi31 : passe. 
+Personne n'a suivi. (565) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 2 : gimi31 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244577583772 : Tournoi #3611549342, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 02/07/2023 7:52:38 CET [02/07/2023 1:52:38 ET]
+Table '3611549342 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (645 en jetons) 
+Place 2: gimi31 (255 en jetons) 
+gimi31 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Js]
+gimi31 : relance. 215 à 255 et est all-in.
+psychoman59 : suit. 215
+*** FLOP *** [4s Kd 3h]
+*** TOURNANT *** [4s Kd 3h] [6s]
+*** RIVIÈRE *** [4s Kd 3h 6s] [6c]
+*** ABATTAGE ***
+psychoman59 : montre [Jc Js] (double paire, Valets et Six)
+gimi31 : montre [5s 7d] (une suite, Trois à Sept)
+gimi31 a remporté 510  lors du pot .
+*** SYNTHÈSE ***
+Pot total 510 | Commission 0 
+Tableau [4s Kd 3h 6s 6c]
+Siège 1 : psychoman59 (grosse blind) a montré [Jc Js] et a perdu avec double paire, Valets et Six
+Siège 2 : gimi31 (bouton) (petite blind) a montré [5s 7d] et a gagné (510) avec une suite, Trois à Sept
+
+
+
+Main PokerStars n°244577585225 : Tournoi #3611549342, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 02/07/2023 7:52:53 CET [02/07/2023 1:52:53 ET]
+Table '3611549342 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (390 en jetons) 
+Place 2: gimi31 (510 en jetons) 
+psychoman59 : met la petite blind. 20
+gimi31 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Kc]
+psychoman59 : relance. 350 à 390 et est all-in.
+gimi31 : passe. 
+Personne n'a suivi. (350) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 2 : gimi31 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244577586040 : Tournoi #3611549342, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 02/07/2023 7:53:00 CET [02/07/2023 1:53:00 ET]
+Table '3611549342 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (430 en jetons) 
+Place 2: gimi31 (470 en jetons) 
+gimi31 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 5s]
+gimi31 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [9s Qc 5h]
+psychoman59 : parole 
+gimi31 : mise. 80
+psychoman59 : suit. 80
+*** TOURNANT *** [9s Qc 5h] [6d]
+psychoman59 : parole 
+gimi31 : parole 
+*** RIVIÈRE *** [9s Qc 5h 6d] [Ah]
+psychoman59 : mise. 120
+gimi31 : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [9s Qc 5h 6d Ah]
+Siège 1 : psychoman59 (grosse blind) a remporté (240)
+Siège 2 : gimi31 (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°244577588386 : Tournoi #3611549342, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 02/07/2023 7:53:24 CET [02/07/2023 1:53:24 ET]
+Table '3611549342 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (550 en jetons) 
+Place 2: gimi31 (350 en jetons) 
+psychoman59 : met la petite blind. 30
+gimi31 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Td]
+psychoman59 : relance. 490 à 550 et est all-in.
+gimi31 : passe. 
+Personne n'a suivi. (490) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 2 : gimi31 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244577589125 : Tournoi #3611549342, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 02/07/2023 7:53:31 CET [02/07/2023 1:53:31 ET]
+Table '3611549342 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (610 en jetons) 
+Place 2: gimi31 (290 en jetons) 
+gimi31 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 3h]
+gimi31 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Qs 4s 3d]
+psychoman59 : parole 
+gimi31 : mise. 230 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (230) sont retournés à gimi31.
+gimi31 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Qs 4s 3d]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : gimi31 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°244577590518 : Tournoi #3611549342, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 02/07/2023 7:53:45 CET [02/07/2023 1:53:45 ET]
+Table '3611549342 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (550 en jetons) 
+Place 2: gimi31 (350 en jetons) 
+psychoman59 : met la petite blind. 30
+gimi31 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 3s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à gimi31.
+gimi31 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : gimi31 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°244577591018 : Tournoi #3611549342, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 02/07/2023 7:53:50 CET [02/07/2023 1:53:50 ET]
+Table '3611549342 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (520 en jetons) 
+Place 2: gimi31 (380 en jetons) 
+gimi31 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 2s]
+gimi31 : suit. 30
+psychoman59 : relance. 460 à 520 et est all-in.
+gimi31 : suit. 320 et est all-in.
+Personne n'a suivi. (140) sont retournés à psychoman59.
+*** FLOP *** [Ks Ad Ac]
+*** TOURNANT *** [Ks Ad Ac] [As]
+*** RIVIÈRE *** [Ks Ad Ac As] [8h]
+*** ABATTAGE ***
+psychoman59 : montre [2h 2s] (un full, full aux As par les Deux)
+gimi31 : montre [7c 6c] (un brelan de As)
+psychoman59 a remporté 760  lors du pot .
+gimi31 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 4.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 760 | Commission 0 
+Tableau [Ks Ad Ac As 8h]
+Siège 1 : psychoman59 (grosse blind) a montré [2h 2s] et a gagné (760) avec un full, full aux As par les Deux
+Siège 2 : gimi31 (bouton) (petite blind) a montré [7c 6c] et a perdu avec un brelan de As
+
+
+

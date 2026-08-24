@@ -1,0 +1,361 @@
+﻿Main PokerStars n°241064408263 : Tournoi #3530175196, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/01/2023 9:20:14 CET [11/01/2023 3:20:14 ET]
+Table '3530175196 1' 3-max Siège #1 est au bouton.
+Place 1: aaron01200 (300 en jetons) 
+Place 2: ducat03 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+ducat03 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 6d]
+aaron01200 : suit. 20
+ducat03 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [8d Qh Jd]
+ducat03 : parole 
+psychoman59 : parole 
+aaron01200 : parole 
+*** TOURNANT *** [8d Qh Jd] [6s]
+ducat03 : parole 
+psychoman59 : mise. 20
+aaron01200 : suit. 20
+ducat03 : suit. 20
+*** RIVIÈRE *** [8d Qh Jd 6s] [5c]
+ducat03 : parole 
+psychoman59 : mise. 60
+aaron01200 : suit. 60
+ducat03 : passe. 
+*** ABATTAGE ***
+psychoman59 : montre [Ts 6d] (une paire de Six)
+aaron01200 : montre [4s 8h] (une paire de Huit)
+aaron01200 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [8d Qh Jd 6s 5c]
+Siège 1 : aaron01200 (bouton) a montré [4s 8h] et a gagné (240) avec une paire de Huit
+Siège 2 : ducat03 (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) a montré [Ts 6d] et a perdu avec une paire de Six
+
+
+
+Main PokerStars n°241064412382 : Tournoi #3530175196, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/01/2023 9:20:49 CET [11/01/2023 3:20:49 ET]
+Table '3530175196 1' 3-max Siège #2 est au bouton.
+Place 1: aaron01200 (440 en jetons) 
+Place 2: ducat03 (260 en jetons) 
+Place 3: psychoman59 (200 en jetons) 
+psychoman59 : met la petite blind. 10
+aaron01200 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 3d]
+ducat03 : suit. 20
+psychoman59 : suit. 10
+aaron01200 : parole 
+*** FLOP *** [Js 2d 4h]
+psychoman59 : parole 
+aaron01200 : parole 
+ducat03 : parole 
+*** TOURNANT *** [Js 2d 4h] [Qh]
+psychoman59 : mise. 180 et est all-in.
+aaron01200 : passe. 
+ducat03 : passe. 
+Personne n'a suivi. (180) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Js 2d 4h Qh]
+Siège 1 : aaron01200 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : ducat03 (bouton) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°241064414936 : Tournoi #3530175196, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/01/2023 9:21:12 CET [11/01/2023 3:21:12 ET]
+Table '3530175196 1' 3-max Siège #3 est au bouton.
+Place 1: aaron01200 (420 en jetons) 
+Place 2: ducat03 (240 en jetons) 
+Place 3: psychoman59 (240 en jetons) 
+aaron01200 : met la petite blind. 10
+ducat03 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Kd]
+psychoman59 : passe. 
+aaron01200 : suit. 10
+ducat03 : parole 
+*** FLOP *** [Kh 8h 6c]
+aaron01200 : parole 
+ducat03 : parole 
+*** TOURNANT *** [Kh 8h 6c] [3s]
+aaron01200 : parole 
+ducat03 : parole 
+*** RIVIÈRE *** [Kh 8h 6c 3s] [2d]
+aaron01200 : parole 
+ducat03 : parole 
+*** ABATTAGE ***
+aaron01200 : montre [9d 7c] (Hauteur Roi)
+ducat03 : montre [Ah 9s] (Hauteur As)
+ducat03 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Kh 8h 6c 3s 2d]
+Siège 1 : aaron01200 (petite blind) a montré [9d 7c] et a perdu avec Hauteur Roi
+Siège 2 : ducat03 (grosse blind) a montré [Ah 9s] et a gagné (40) avec Hauteur As
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°241064417644 : Tournoi #3530175196, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/01/2023 9:21:35 CET [11/01/2023 3:21:35 ET]
+Table '3530175196 1' 3-max Siège #1 est au bouton.
+Place 1: aaron01200 (400 en jetons) 
+Place 2: ducat03 (260 en jetons) 
+Place 3: psychoman59 (240 en jetons) 
+ducat03 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 3h]
+aaron01200 : suit. 30
+ducat03 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Ah 4d As]
+ducat03 : parole 
+psychoman59 : parole 
+aaron01200 : parole 
+*** TOURNANT *** [Ah 4d As] [7c]
+ducat03 : parole 
+psychoman59 : parole 
+aaron01200 : parole 
+*** RIVIÈRE *** [Ah 4d As 7c] [2h]
+ducat03 : parole 
+psychoman59 : parole 
+aaron01200 : parole 
+*** ABATTAGE ***
+ducat03 : montre [Jc 6d] (une paire de As)
+psychoman59 : cache la main perdante. 
+aaron01200 : montre [Js 8h] (une paire de As - Valet+Huit kicker)
+aaron01200 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [Ah 4d As 7c 2h]
+Siège 1 : aaron01200 (bouton) a montré [Js 8h] et a gagné (90) avec une paire de As
+Siège 2 : ducat03 (petite blind) a montré [Jc 6d] et a perdu avec une paire de As
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [8d 3h]
+
+
+
+Main PokerStars n°241064420876 : Tournoi #3530175196, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/01/2023 9:22:03 CET [11/01/2023 3:22:03 ET]
+Table '3530175196 1' 3-max Siège #2 est au bouton.
+Place 1: aaron01200 (460 en jetons) 
+Place 2: ducat03 (230 en jetons) 
+Place 3: psychoman59 (210 en jetons) 
+psychoman59 : met la petite blind. 15
+aaron01200 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Js]
+ducat03 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à aaron01200.
+aaron01200 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : aaron01200 (grosse blind) a remporté (30)
+Siège 2 : ducat03 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241064421493 : Tournoi #3530175196, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/01/2023 9:22:08 CET [11/01/2023 3:22:08 ET]
+Table '3530175196 1' 3-max Siège #3 est au bouton.
+Place 1: aaron01200 (475 en jetons) 
+Place 2: ducat03 (230 en jetons) 
+Place 3: psychoman59 (195 en jetons) 
+aaron01200 : met la petite blind. 15
+ducat03 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 7d]
+psychoman59 : relance. 165 à 195 et est all-in.
+aaron01200 : suit. 180
+ducat03 : passe. 
+*** FLOP *** [3h 8s Jh]
+*** TOURNANT *** [3h 8s Jh] [4c]
+*** RIVIÈRE *** [3h 8s Jh 4c] [4h]
+*** ABATTAGE ***
+aaron01200 : montre [Tc Kd] (une paire de Quatre)
+psychoman59 : montre [7s 7d] (double paire, Sept et Quatre)
+psychoman59 a remporté 420  lors du pot .
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [3h 8s Jh 4c 4h]
+Siège 1 : aaron01200 (petite blind) a montré [Tc Kd] et a perdu avec une paire de Quatre
+Siège 2 : ducat03 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a montré [7s 7d] et a gagné (420) avec double paire, Sept et Quatre
+
+
+
+Main PokerStars n°241064423809 : Tournoi #3530175196, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/01/2023 9:22:29 CET [11/01/2023 3:22:29 ET]
+Table '3530175196 1' 3-max Siège #1 est au bouton.
+Place 1: aaron01200 (280 en jetons) 
+Place 2: ducat03 (200 en jetons) 
+Place 3: psychoman59 (420 en jetons) 
+ducat03 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Qh]
+aaron01200 : suit. 40
+ducat03 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Kc 2s As]
+ducat03 : mise. 40
+psychoman59 : passe. 
+aaron01200 : passe. 
+Personne n'a suivi. (40) sont retournés à ducat03.
+ducat03 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Kc 2s As]
+Siège 1 : aaron01200 (bouton) s'est couché. sur le Flop
+Siège 2 : ducat03 (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°241064426065 : Tournoi #3530175196, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/01/2023 9:22:49 CET [11/01/2023 3:22:49 ET]
+Table '3530175196 1' 3-max Siège #2 est au bouton.
+Place 1: aaron01200 (240 en jetons) 
+Place 2: ducat03 (280 en jetons) 
+Place 3: psychoman59 (380 en jetons) 
+psychoman59 : met la petite blind. 20
+aaron01200 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 6c]
+ducat03 : suit. 40
+psychoman59 : passe. 
+aaron01200 : parole 
+*** FLOP *** [4d Kd 7d]
+aaron01200 : mise. 40
+ducat03 : suit. 40
+*** TOURNANT *** [4d Kd 7d] [8s]
+aaron01200 : mise. 40
+ducat03 : suit. 40
+*** RIVIÈRE *** [4d Kd 7d 8s] [Js]
+aaron01200 : mise. 40
+ducat03 : suit. 40
+*** ABATTAGE ***
+aaron01200 : montre [Ks Th] (une paire de Rois)
+ducat03 : cache la main perdante. 
+aaron01200 a remporté 340  lors du pot .
+*** SYNTHÈSE ***
+Pot total 340 | Commission 0 
+Tableau [4d Kd 7d 8s Js]
+Siège 1 : aaron01200 (grosse blind) a montré [Ks Th] et a gagné (340) avec une paire de Rois
+Siège 2 : ducat03 (bouton) a caché la main perdante. [Ad 8h]
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241064428676 : Tournoi #3530175196, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/01/2023 9:23:12 CET [11/01/2023 3:23:12 ET]
+Table '3530175196 1' 3-max Siège #3 est au bouton.
+Place 1: aaron01200 (420 en jetons) 
+Place 2: ducat03 (120 en jetons) 
+Place 3: psychoman59 (360 en jetons) 
+aaron01200 : met la petite blind. 20
+ducat03 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 4d]
+psychoman59 : passe. 
+aaron01200 : suit. 20
+ducat03 : parole 
+*** FLOP *** [5d 2d Tc]
+aaron01200 : parole 
+ducat03 : mise. 80 et est all-in.
+aaron01200 : suit. 80
+*** TOURNANT *** [5d 2d Tc] [Th]
+*** RIVIÈRE *** [5d 2d Tc Th] [Jc]
+*** ABATTAGE ***
+aaron01200 : montre [4c Kd] (une paire de Dix)
+ducat03 : montre [5c 8s] (double paire, Dix et Cinq)
+ducat03 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [5d 2d Tc Th Jc]
+Siège 1 : aaron01200 (petite blind) a montré [4c Kd] et a perdu avec une paire de Dix
+Siège 2 : ducat03 (grosse blind) a montré [5c 8s] et a gagné (240) avec double paire, Dix et Cinq
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°241064430827 : Tournoi #3530175196, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/01/2023 9:23:30 CET [11/01/2023 3:23:30 ET]
+Table '3530175196 1' 3-max Siège #1 est au bouton.
+Place 1: aaron01200 (300 en jetons) 
+Place 2: ducat03 (240 en jetons) 
+Place 3: psychoman59 (360 en jetons) 
+ducat03 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 2h]
+aaron01200 : suit. 60
+ducat03 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [4c 5s Th]
+ducat03 : mise. 60
+psychoman59 : passe. 
+aaron01200 : passe. 
+Personne n'a suivi. (60) sont retournés à ducat03.
+ducat03 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [4c 5s Th]
+Siège 1 : aaron01200 (bouton) s'est couché. sur le Flop
+Siège 2 : ducat03 (petite blind) a remporté (180)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°241064432315 : Tournoi #3530175196, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/01/2023 9:23:43 CET [11/01/2023 3:23:43 ET]
+Table '3530175196 1' 3-max Siège #2 est au bouton.
+Place 1: aaron01200 (240 en jetons) 
+Place 2: ducat03 (360 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+psychoman59 : met la petite blind. 30
+aaron01200 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 6c]
+ducat03 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à aaron01200.
+aaron01200 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : aaron01200 (grosse blind) a remporté (60)
+Siège 2 : ducat03 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241064432868 : Tournoi #3530175196, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/01/2023 9:23:48 CET [11/01/2023 3:23:48 ET]
+Table '3530175196 1' 3-max Siège #3 est au bouton.
+Place 1: aaron01200 (270 en jetons) 
+Place 2: ducat03 (360 en jetons) 
+Place 3: psychoman59 (270 en jetons) 
+aaron01200 : met la petite blind. 30
+ducat03 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 3h]
+psychoman59 : relance. 210 à 270 et est all-in.
+aaron01200 : suit. 240 et est all-in.
+ducat03 : passe. 
+*** FLOP *** [6c 7d 4c]
+*** TOURNANT *** [6c 7d 4c] [9c]
+*** RIVIÈRE *** [6c 7d 4c 9c] [Jh]
+*** ABATTAGE ***
+aaron01200 : montre [Th 7h] (une paire de Sept)
+psychoman59 : montre [As 3h] (Hauteur As)
+aaron01200 a remporté 600  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [6c 7d 4c 9c Jh]
+Siège 1 : aaron01200 (petite blind) a montré [Th 7h] et a gagné (600) avec une paire de Sept
+Siège 2 : ducat03 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a montré [As 3h] et a perdu avec Hauteur As
+
+
+

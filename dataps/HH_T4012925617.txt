@@ -1,0 +1,1186 @@
+﻿Main PokerStars n°261313175767 : Tournoi #4012925617, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 02/07/2026 11:24:09 CET [02/07/2026 5:24:09 ET]
+Table '4012925617 1' 3-max Siège #1 est au bouton.
+Place 1: Rodu78 (500 en jetons) 
+Place 2: HomerrPT (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+HomerrPT : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 2s]
+Rodu78 : passe. 
+HomerrPT : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Ah Ac 3c]
+HomerrPT : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à HomerrPT.
+HomerrPT a remporté 40  lors du pot .
+HomerrPT : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Ah Ac 3c]
+Siège 1 : Rodu78 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : HomerrPT (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261313178084 : Tournoi #4012925617, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 02/07/2026 11:24:43 CET [02/07/2026 5:24:43 ET]
+Table '4012925617 1' 3-max Siège #2 est au bouton.
+Place 1: Rodu78 (500 en jetons) 
+Place 2: HomerrPT (520 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 10
+Rodu78 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 8d]
+HomerrPT : suit. 20
+psychoman59 : passe. 
+Rodu78 : parole 
+*** FLOP *** [Qc 8h 8c]
+Rodu78 : parole 
+HomerrPT : mise. 20
+Rodu78 : passe. 
+Personne n'a suivi. (20) sont retournés à HomerrPT.
+HomerrPT a remporté 50  lors du pot .
+HomerrPT : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [Qc 8h 8c]
+Siège 1 : Rodu78 (grosse blind) s'est couché. sur le Flop
+Siège 2 : HomerrPT (bouton) a remporté (50)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261313181487 : Tournoi #4012925617, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 02/07/2026 11:25:32 CET [02/07/2026 5:25:32 ET]
+Table '4012925617 1' 3-max Siège #3 est au bouton.
+Place 1: Rodu78 (480 en jetons) 
+Place 2: HomerrPT (550 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+Rodu78 : met la petite blind. 10
+HomerrPT : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 2s]
+psychoman59 : suit. 20
+Rodu78 : relance. 60 à 80
+HomerrPT : suit. 60
+psychoman59 : passe. 
+*** FLOP *** [Jc 9s 3d]
+Rodu78 : parole 
+HomerrPT : mise. 20
+Rodu78 : suit. 20
+*** TOURNANT *** [Jc 9s 3d] [2d]
+Rodu78 : parole 
+HomerrPT : parole 
+*** RIVIÈRE *** [Jc 9s 3d 2d] [Th]
+Rodu78 : mise. 70
+HomerrPT : suit. 70
+*** ABATTAGE ***
+Rodu78 : montre [Ad Td] (une paire de Dix)
+HomerrPT : cache la main perdante. 
+Rodu78 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [Jc 9s 3d 2d Th]
+Siège 1 : Rodu78 (petite blind) a montré [Ad Td] et a gagné (360) avec une paire de Dix
+Siège 2 : HomerrPT (grosse blind) a caché la main perdante. [3h 5s]
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261313183843 : Tournoi #4012925617, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 02/07/2026 11:26:06 CET [02/07/2026 5:26:06 ET]
+Table '4012925617 1' 3-max Siège #1 est au bouton.
+Place 1: Rodu78 (670 en jetons) 
+Place 2: HomerrPT (380 en jetons) 
+Place 3: psychoman59 (450 en jetons) 
+HomerrPT : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Ts]
+Rodu78 : suit. 20
+HomerrPT : passe. 
+psychoman59 : parole 
+*** FLOP *** [7h 2d 9s]
+psychoman59 : parole 
+Rodu78 : parole 
+*** TOURNANT *** [7h 2d 9s] [Jd]
+psychoman59 : parole 
+Rodu78 : parole 
+*** RIVIÈRE *** [7h 2d 9s Jd] [5c]
+psychoman59 : mise. 25
+Rodu78 : suit. 25
+*** ABATTAGE ***
+psychoman59 : montre [Js Ts] (une paire de Valets)
+Rodu78 : cache la main perdante. 
+psychoman59 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [7h 2d 9s Jd 5c]
+Siège 1 : Rodu78 (bouton) a caché la main perdante. [5h Kh]
+Siège 2 : HomerrPT (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [Js Ts] et a gagné (100) avec une paire de Valets
+
+
+
+Main PokerStars n°261313186302 : Tournoi #4012925617, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 02/07/2026 11:26:41 CET [02/07/2026 5:26:41 ET]
+Table '4012925617 1' 3-max Siège #2 est au bouton.
+Place 1: Rodu78 (625 en jetons) 
+Place 2: HomerrPT (370 en jetons) 
+Place 3: psychoman59 (505 en jetons) 
+psychoman59 : met la petite blind. 10
+Rodu78 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Qd]
+HomerrPT : suit. 20
+psychoman59 : suit. 10
+Rodu78 : parole 
+*** FLOP *** [4c 4s Qh]
+psychoman59 : parole 
+Rodu78 : parole 
+HomerrPT : parole 
+*** TOURNANT *** [4c 4s Qh] [3h]
+psychoman59 : mise. 20
+Rodu78 : suit. 20
+HomerrPT : suit. 20
+*** RIVIÈRE *** [4c 4s Qh 3h] [8d]
+psychoman59 : mise. 30
+Rodu78 a dépassé le temps imparti.
+Rodu78 : passe. 
+Rodu78 ne joue pas.
+Rodu78 est revenu.
+HomerrPT : suit. 30
+*** ABATTAGE ***
+psychoman59 : montre [9h Qd] (double paire, Dames et Quatre)
+HomerrPT : cache la main perdante. 
+psychoman59 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [4c 4s Qh 3h 8d]
+Siège 1 : Rodu78 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : HomerrPT (bouton) a caché la main perdante. [6d Js]
+Siège 3 : psychoman59 (petite blind) a montré [9h Qd] et a gagné (180) avec double paire, Dames et Quatre
+
+
+
+Main PokerStars n°261313191618 : Tournoi #4012925617, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 02/07/2026 11:27:55 CET [02/07/2026 5:27:55 ET]
+Table '4012925617 1' 3-max Siège #3 est au bouton.
+Place 1: Rodu78 (585 en jetons) 
+Place 2: HomerrPT (300 en jetons) 
+Place 3: psychoman59 (615 en jetons) 
+Rodu78 : met la petite blind. 15
+HomerrPT : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 4c]
+psychoman59 : passe. 
+Rodu78 : relance. 30 à 60
+HomerrPT : relance. 30 à 90
+Rodu78 : suit. 30
+*** FLOP *** [7c 8d 4s]
+Rodu78 : parole 
+HomerrPT : mise. 90
+Rodu78 : suit. 90
+*** TOURNANT *** [7c 8d 4s] [3s]
+Rodu78 : parole 
+HomerrPT : mise. 90
+Rodu78 : passe. 
+Personne n'a suivi. (90) sont retournés à HomerrPT.
+HomerrPT a remporté 360  lors du pot .
+HomerrPT : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [7c 8d 4s 3s]
+Siège 1 : Rodu78 (petite blind) s'est couché. sur le Tournant
+Siège 2 : HomerrPT (grosse blind) a remporté (360)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261313193812 : Tournoi #4012925617, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 02/07/2026 11:28:26 CET [02/07/2026 5:28:26 ET]
+Table '4012925617 1' 3-max Siège #1 est au bouton.
+Place 1: Rodu78 (405 en jetons) 
+Place 2: HomerrPT (480 en jetons) 
+Place 3: psychoman59 (615 en jetons) 
+HomerrPT : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 5d]
+Rodu78 a dépassé le temps imparti.
+Rodu78 : passe. 
+Rodu78 ne joue pas.
+Rodu78 est revenu.
+HomerrPT : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Qs Ah 7s]
+HomerrPT : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à HomerrPT.
+HomerrPT a remporté 60  lors du pot .
+HomerrPT : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Qs Ah 7s]
+Siège 1 : Rodu78 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : HomerrPT (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261313196352 : Tournoi #4012925617, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 02/07/2026 11:29:01 CET [02/07/2026 5:29:01 ET]
+Table '4012925617 1' 3-max Siège #2 est au bouton.
+Place 1: Rodu78 (405 en jetons) 
+Place 2: HomerrPT (510 en jetons) 
+Place 3: psychoman59 (585 en jetons) 
+psychoman59 : met la petite blind. 15
+Rodu78 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Kc]
+HomerrPT : suit. 30
+psychoman59 : suit. 15
+Rodu78 : parole 
+*** FLOP *** [Ac 7c Ah]
+psychoman59 : parole 
+Rodu78 : parole 
+HomerrPT : parole 
+*** TOURNANT *** [Ac 7c Ah] [3s]
+psychoman59 : parole 
+Rodu78 : parole 
+HomerrPT : parole 
+*** RIVIÈRE *** [Ac 7c Ah 3s] [Qd]
+psychoman59 : parole 
+Rodu78 : parole 
+HomerrPT : parole 
+*** ABATTAGE ***
+psychoman59 : montre [3c Kc] (double paire, As et Trois)
+Rodu78 : cache la main perdante. 
+HomerrPT : cache la main perdante. 
+psychoman59 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [Ac 7c Ah 3s Qd]
+Siège 1 : Rodu78 (grosse blind) a caché la main perdante. [Kd 6h]
+Siège 2 : HomerrPT (bouton) a caché la main perdante. [4h Td]
+Siège 3 : psychoman59 (petite blind) a montré [3c Kc] et a gagné (90) avec double paire, As et Trois
+
+
+
+Main PokerStars n°261313199341 : Tournoi #4012925617, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 02/07/2026 11:29:42 CET [02/07/2026 5:29:42 ET]
+Table '4012925617 1' 3-max Siège #3 est au bouton.
+Place 1: Rodu78 (375 en jetons) 
+Place 2: HomerrPT (480 en jetons) 
+Place 3: psychoman59 (645 en jetons) 
+Rodu78 : met la petite blind. 15
+HomerrPT : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 3d]
+psychoman59 : suit. 30
+Rodu78 : suit. 15
+HomerrPT : parole 
+*** FLOP *** [Qs 7d Jc]
+Rodu78 : parole 
+HomerrPT : mise. 30
+psychoman59 : passe. 
+Rodu78 : passe. 
+Personne n'a suivi. (30) sont retournés à HomerrPT.
+HomerrPT a remporté 90  lors du pot .
+HomerrPT : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [Qs 7d Jc]
+Siège 1 : Rodu78 (petite blind) s'est couché. sur le Flop
+Siège 2 : HomerrPT (grosse blind) a remporté (90)
+Siège 3 : psychoman59 (bouton) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261313202094 : Tournoi #4012925617, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 02/07/2026 11:30:20 CET [02/07/2026 5:30:20 ET]
+Table '4012925617 1' 3-max Siège #1 est au bouton.
+Place 1: Rodu78 (345 en jetons) 
+Place 2: HomerrPT (540 en jetons) 
+Place 3: psychoman59 (615 en jetons) 
+HomerrPT : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 8h]
+Rodu78 : passe. 
+HomerrPT : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Qc 6d 8d]
+HomerrPT : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [Qc 6d 8d] [3c]
+HomerrPT : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à HomerrPT.
+HomerrPT a remporté 160  lors du pot .
+HomerrPT : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Qc 6d 8d 3c]
+Siège 1 : Rodu78 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : HomerrPT (petite blind) a remporté (160)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°261313204296 : Tournoi #4012925617, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 02/07/2026 11:30:51 CET [02/07/2026 5:30:51 ET]
+Table '4012925617 1' 3-max Siège #2 est au bouton.
+Place 1: Rodu78 (345 en jetons) 
+Place 2: HomerrPT (620 en jetons) 
+Place 3: psychoman59 (535 en jetons) 
+psychoman59 : met la petite blind. 20
+Rodu78 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Ks]
+HomerrPT : passe. 
+psychoman59 : relance. 495 à 535 et est all-in.
+Rodu78 : passe. 
+Personne n'a suivi. (495) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : Rodu78 (grosse blind) s'est couché. avant Flop
+Siège 2 : HomerrPT (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°261313205528 : Tournoi #4012925617, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 02/07/2026 11:31:08 CET [02/07/2026 5:31:08 ET]
+Table '4012925617 1' 3-max Siège #3 est au bouton.
+Place 1: Rodu78 (305 en jetons) 
+Place 2: HomerrPT (620 en jetons) 
+Place 3: psychoman59 (575 en jetons) 
+Rodu78 : met la petite blind. 20
+HomerrPT : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 8c]
+psychoman59 : passe. 
+Rodu78 : relance. 265 à 305 et est all-in.
+HomerrPT : passe. 
+Personne n'a suivi. (265) sont retournés à Rodu78.
+Rodu78 a remporté 80  lors du pot .
+Rodu78 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : Rodu78 (petite blind) a remporté (80)
+Siège 2 : HomerrPT (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261313206469 : Tournoi #4012925617, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 02/07/2026 11:31:22 CET [02/07/2026 5:31:22 ET]
+Table '4012925617 1' 3-max Siège #1 est au bouton.
+Place 1: Rodu78 (345 en jetons) 
+Place 2: HomerrPT (580 en jetons) 
+Place 3: psychoman59 (575 en jetons) 
+HomerrPT : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 4h]
+Rodu78 : passe. 
+HomerrPT : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Jh Tc Qs]
+HomerrPT : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [Jh Tc Qs] [3h]
+HomerrPT : mise. 40
+psychoman59 : suit. 40
+*** RIVIÈRE *** [Jh Tc Qs 3h] [6d]
+HomerrPT : mise. 40
+psychoman59 : relance. 140 à 180
+HomerrPT : relance. 140 à 320
+psychoman59 : passe. 
+Personne n'a suivi. (140) sont retournés à HomerrPT.
+HomerrPT a remporté 600  lors du pot .
+HomerrPT : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [Jh Tc Qs 3h 6d]
+Siège 1 : Rodu78 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : HomerrPT (petite blind) a remporté (600)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°261313209238 : Tournoi #4012925617, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 02/07/2026 11:31:59 CET [02/07/2026 5:31:59 ET]
+Table '4012925617 1' 3-max Siège #2 est au bouton.
+Place 1: Rodu78 (345 en jetons) 
+Place 2: HomerrPT (880 en jetons) 
+Place 3: psychoman59 (275 en jetons) 
+psychoman59 : met la petite blind. 20
+Rodu78 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 4c]
+HomerrPT a dépassé le temps imparti.
+HomerrPT : passe. 
+HomerrPT ne joue pas.
+HomerrPT est revenu.
+psychoman59 : suit. 20
+Rodu78 : parole 
+*** FLOP *** [9h Jh 7h]
+psychoman59 : parole 
+Rodu78 : parole 
+*** TOURNANT *** [9h Jh 7h] [4d]
+psychoman59 : parole 
+Rodu78 : parole 
+*** RIVIÈRE *** [9h Jh 7h 4d] [Th]
+psychoman59 : parole 
+Rodu78 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [5c 4c] (une paire de Quatre)
+Rodu78 : cache la main perdante. 
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [9h Jh 7h 4d Th]
+Siège 1 : Rodu78 (grosse blind) a caché la main perdante. [2s 3s]
+Siège 2 : HomerrPT (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [5c 4c] et a gagné (80) avec une paire de Quatre
+
+
+
+Main PokerStars n°261313212491 : Tournoi #4012925617, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 02/07/2026 11:32:43 CET [02/07/2026 5:32:43 ET]
+Table '4012925617 1' 3-max Siège #3 est au bouton.
+Place 1: Rodu78 (305 en jetons) 
+Place 2: HomerrPT (880 en jetons) 
+Place 3: psychoman59 (315 en jetons) 
+Rodu78 : met la petite blind. 20
+HomerrPT : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Ts]
+psychoman59 : relance. 275 à 315 et est all-in.
+Rodu78 : passe. 
+HomerrPT : passe. 
+Personne n'a suivi. (275) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : Rodu78 (petite blind) s'est couché. avant Flop
+Siège 2 : HomerrPT (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a remporté (100)
+
+
+
+Main PokerStars n°261313213696 : Tournoi #4012925617, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 02/07/2026 11:32:59 CET [02/07/2026 5:32:59 ET]
+Table '4012925617 1' 3-max Siège #1 est au bouton.
+Place 1: Rodu78 (285 en jetons) 
+Place 2: HomerrPT (840 en jetons) 
+Place 3: psychoman59 (375 en jetons) 
+HomerrPT : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Qc]
+Rodu78 : relance. 40 à 80
+HomerrPT a dépassé le temps imparti.
+HomerrPT : passe. 
+HomerrPT ne joue pas.
+psychoman59 : suit. 40
+*** FLOP *** [4s 7h 7d]
+HomerrPT est revenu.
+psychoman59 : parole 
+Rodu78 : parole 
+*** TOURNANT *** [4s 7h 7d] [2c]
+psychoman59 : parole 
+Rodu78 : parole 
+*** RIVIÈRE *** [4s 7h 7d 2c] [Kd]
+psychoman59 : parole 
+Rodu78 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Th Qc] (une paire de Sept)
+Rodu78 : montre [Qd Tc] (une paire de Sept)
+psychoman59 a remporté 90  lors du pot .
+Rodu78 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [4s 7h 7d 2c Kd]
+Siège 1 : Rodu78 (bouton) a montré [Qd Tc] et a gagné (90) avec une paire de Sept
+Siège 2 : HomerrPT (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [Th Qc] et a gagné (90) avec une paire de Sept
+
+
+
+Main PokerStars n°261313218063 : Tournoi #4012925617, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 02/07/2026 11:33:59 CET [02/07/2026 5:33:59 ET]
+Table '4012925617 1' 3-max Siège #2 est au bouton.
+Place 1: Rodu78 (295 en jetons) 
+Place 2: HomerrPT (820 en jetons) 
+Place 3: psychoman59 (385 en jetons) 
+psychoman59 : met la petite blind. 30
+Rodu78 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 5c]
+HomerrPT : suit. 60
+psychoman59 : passe. 
+Rodu78 : parole 
+*** FLOP *** [2c 3c 6s]
+Rodu78 : parole 
+HomerrPT : mise. 60
+Rodu78 : relance. 175 à 235 et est all-in.
+HomerrPT : passe. 
+Personne n'a suivi. (175) sont retournés à Rodu78.
+Rodu78 a remporté 270  lors du pot .
+Rodu78 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Tableau [2c 3c 6s]
+Siège 1 : Rodu78 (grosse blind) a remporté (270)
+Siège 2 : HomerrPT (bouton) s'est couché. sur le Flop
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261313220299 : Tournoi #4012925617, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 02/07/2026 11:34:30 CET [02/07/2026 5:34:30 ET]
+Table '4012925617 1' 3-max Siège #3 est au bouton.
+Place 1: Rodu78 (445 en jetons) 
+Place 2: HomerrPT (700 en jetons) 
+Place 3: psychoman59 (355 en jetons) 
+Rodu78 : met la petite blind. 30
+HomerrPT : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 6h]
+psychoman59 : relance. 295 à 355 et est all-in.
+Rodu78 : passe. 
+HomerrPT : suit. 295
+*** FLOP *** [8h 7c Qc]
+*** TOURNANT *** [8h 7c Qc] [Jc]
+*** RIVIÈRE *** [8h 7c Qc Jc] [Jd]
+*** ABATTAGE ***
+HomerrPT : montre [Th 3s] (une paire de Valets)
+psychoman59 : montre [As 6h] (une paire de Valets - As kicker)
+psychoman59 a remporté 740  lors du pot .
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Tableau [8h 7c Qc Jc Jd]
+Siège 1 : Rodu78 (petite blind) s'est couché. avant Flop
+Siège 2 : HomerrPT (grosse blind) a montré [Th 3s] et a perdu avec une paire de Valets
+Siège 3 : psychoman59 (bouton) a montré [As 6h] et a gagné (740) avec une paire de Valets
+
+
+
+Main PokerStars n°261313221904 : Tournoi #4012925617, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 02/07/2026 11:34:52 CET [02/07/2026 5:34:52 ET]
+Table '4012925617 1' 3-max Siège #1 est au bouton.
+Place 1: Rodu78 (415 en jetons) 
+Place 2: HomerrPT (345 en jetons) 
+Place 3: psychoman59 (740 en jetons) 
+HomerrPT : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Qd]
+Rodu78 : relance. 355 à 415 et est all-in.
+HomerrPT : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (355) sont retournés à Rodu78.
+Rodu78 a remporté 150  lors du pot .
+Rodu78 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Siège 1 : Rodu78 (bouton) a remporté (150)
+Siège 2 : HomerrPT (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261313223327 : Tournoi #4012925617, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 02/07/2026 11:35:11 CET [02/07/2026 5:35:11 ET]
+Table '4012925617 1' 3-max Siège #2 est au bouton.
+Place 1: Rodu78 (505 en jetons) 
+Place 2: HomerrPT (315 en jetons) 
+Place 3: psychoman59 (680 en jetons) 
+psychoman59 : met la petite blind. 30
+Rodu78 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Kh]
+HomerrPT : suit. 60
+psychoman59 : relance. 620 à 680 et est all-in.
+Rodu78 : passe. 
+HomerrPT : suit. 255 et est all-in.
+Personne n'a suivi. (365) sont retournés à psychoman59.
+*** FLOP *** [Jc 4d Qd]
+*** TOURNANT *** [Jc 4d Qd] [Kc]
+*** RIVIÈRE *** [Jc 4d Qd Kc] [Kd]
+*** ABATTAGE ***
+psychoman59 : montre [Ah Kh] (un brelan de Rois)
+HomerrPT : montre [6s 6c] (double paire, Rois et Six)
+psychoman59 a remporté 690  lors du pot .
+HomerrPT a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 690 | Commission 0 
+Tableau [Jc 4d Qd Kc Kd]
+Siège 1 : Rodu78 (grosse blind) s'est couché. avant Flop
+Siège 2 : HomerrPT (bouton) a montré [6s 6c] et a perdu avec double paire, Rois et Six
+Siège 3 : psychoman59 (petite blind) a montré [Ah Kh] et a gagné (690) avec un brelan de Rois
+
+
+
+Main PokerStars n°261313225216 : Tournoi #4012925617, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 02/07/2026 11:35:36 CET [02/07/2026 5:35:36 ET]
+Table '4012925617 1' 3-max Siège #1 est au bouton.
+Place 1: Rodu78 (445 en jetons) 
+Place 3: psychoman59 (1055 en jetons) 
+Rodu78 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 4h]
+Rodu78 : relance. 385 à 445 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (385) sont retournés à Rodu78.
+Rodu78 a remporté 120  lors du pot .
+Rodu78 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : Rodu78 (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261313225931 : Tournoi #4012925617, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 02/07/2026 11:35:45 CET [02/07/2026 5:35:45 ET]
+Table '4012925617 1' 3-max Siège #3 est au bouton.
+Place 1: Rodu78 (505 en jetons) 
+Place 3: psychoman59 (995 en jetons) 
+psychoman59 : met la petite blind. 30
+Rodu78 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Td]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Rodu78.
+Rodu78 a remporté 60  lors du pot .
+Rodu78 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Rodu78 (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261313226266 : Tournoi #4012925617, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 02/07/2026 11:35:50 CET [02/07/2026 5:35:50 ET]
+Table '4012925617 1' 3-max Siège #1 est au bouton.
+Place 1: Rodu78 (535 en jetons) 
+Place 3: psychoman59 (965 en jetons) 
+Rodu78 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 8s]
+Rodu78 a dépassé le temps imparti.
+Rodu78 : passe. 
+Rodu78 ne joue pas.
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+Rodu78 est revenu.
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Rodu78 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°261313227383 : Tournoi #4012925617, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 02/07/2026 11:36:05 CET [02/07/2026 5:36:05 ET]
+Table '4012925617 1' 3-max Siège #3 est au bouton.
+Place 1: Rodu78 (505 en jetons) 
+Place 3: psychoman59 (995 en jetons) 
+psychoman59 : met la petite blind. 30
+Rodu78 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 4c]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Rodu78.
+Rodu78 a remporté 60  lors du pot .
+Rodu78 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Rodu78 (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261313227762 : Tournoi #4012925617, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 02/07/2026 11:36:10 CET [02/07/2026 5:36:10 ET]
+Table '4012925617 1' 3-max Siège #1 est au bouton.
+Place 1: Rodu78 (535 en jetons) 
+Place 3: psychoman59 (965 en jetons) 
+Rodu78 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 9c]
+Rodu78 : relance. 475 à 535 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (475) sont retournés à Rodu78.
+Rodu78 a remporté 120  lors du pot .
+Rodu78 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : Rodu78 (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261313228620 : Tournoi #4012925617, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 02/07/2026 11:36:22 CET [02/07/2026 5:36:22 ET]
+Table '4012925617 1' 3-max Siège #3 est au bouton.
+Place 1: Rodu78 (595 en jetons) 
+Place 3: psychoman59 (905 en jetons) 
+psychoman59 : met la petite blind. 40
+Rodu78 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Jd]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Rodu78.
+Rodu78 a remporté 80  lors du pot .
+Rodu78 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : Rodu78 (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261313228980 : Tournoi #4012925617, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 02/07/2026 11:36:26 CET [02/07/2026 5:36:26 ET]
+Table '4012925617 1' 3-max Siège #1 est au bouton.
+Place 1: Rodu78 (635 en jetons) 
+Place 3: psychoman59 (865 en jetons) 
+Rodu78 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 2c]
+Rodu78 : relance. 555 à 635 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (555) sont retournés à Rodu78.
+Rodu78 a remporté 160  lors du pot .
+Rodu78 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : Rodu78 (bouton) (petite blind) a remporté (160)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261313229602 : Tournoi #4012925617, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 02/07/2026 11:36:35 CET [02/07/2026 5:36:35 ET]
+Table '4012925617 1' 3-max Siège #3 est au bouton.
+Place 1: Rodu78 (715 en jetons) 
+Place 3: psychoman59 (785 en jetons) 
+psychoman59 : met la petite blind. 40
+Rodu78 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 3c]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Rodu78.
+Rodu78 a remporté 80  lors du pot .
+Rodu78 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : Rodu78 (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261313229952 : Tournoi #4012925617, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 02/07/2026 11:36:40 CET [02/07/2026 5:36:40 ET]
+Table '4012925617 1' 3-max Siège #1 est au bouton.
+Place 1: Rodu78 (755 en jetons) 
+Place 3: psychoman59 (745 en jetons) 
+Rodu78 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Ad]
+Rodu78 : suit. 40
+psychoman59 : relance. 665 à 745 et est all-in.
+Rodu78 : passe. 
+Personne n'a suivi. (665) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : Rodu78 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (160)
+
+
+
+Main PokerStars n°261313231343 : Tournoi #4012925617, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 02/07/2026 11:36:58 CET [02/07/2026 5:36:58 ET]
+Table '4012925617 1' 3-max Siège #3 est au bouton.
+Place 1: Rodu78 (675 en jetons) 
+Place 3: psychoman59 (825 en jetons) 
+psychoman59 : met la petite blind. 40
+Rodu78 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 8s]
+psychoman59 : relance. 745 à 825 et est all-in.
+Rodu78 : passe. 
+Personne n'a suivi. (745) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : Rodu78 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°261313232047 : Tournoi #4012925617, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 02/07/2026 11:37:07 CET [02/07/2026 5:37:07 ET]
+Table '4012925617 1' 3-max Siège #1 est au bouton.
+Place 1: Rodu78 (595 en jetons) 
+Place 3: psychoman59 (905 en jetons) 
+Rodu78 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 4s]
+Rodu78 : relance. 515 à 595 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (515) sont retournés à Rodu78.
+Rodu78 a remporté 160  lors du pot .
+Rodu78 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : Rodu78 (bouton) (petite blind) a remporté (160)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261313232717 : Tournoi #4012925617, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 02/07/2026 11:37:16 CET [02/07/2026 5:37:16 ET]
+Table '4012925617 1' 3-max Siège #3 est au bouton.
+Place 1: Rodu78 (675 en jetons) 
+Place 3: psychoman59 (825 en jetons) 
+psychoman59 : met la petite blind. 40
+Rodu78 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 4d]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Rodu78.
+Rodu78 a remporté 80  lors du pot .
+Rodu78 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : Rodu78 (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261313233069 : Tournoi #4012925617, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 02/07/2026 11:37:21 CET [02/07/2026 5:37:21 ET]
+Table '4012925617 1' 3-max Siège #1 est au bouton.
+Place 1: Rodu78 (715 en jetons) 
+Place 3: psychoman59 (785 en jetons) 
+Rodu78 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Kd]
+Rodu78 : suit. 40
+psychoman59 : relance. 705 à 785 et est all-in.
+Rodu78 : passe. 
+Personne n'a suivi. (705) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : Rodu78 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (160)
+
+
+
+Main PokerStars n°261313233659 : Tournoi #4012925617, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 02/07/2026 11:37:29 CET [02/07/2026 5:37:29 ET]
+Table '4012925617 1' 3-max Siège #3 est au bouton.
+Place 1: Rodu78 (635 en jetons) 
+Place 3: psychoman59 (865 en jetons) 
+psychoman59 : met la petite blind. 40
+Rodu78 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Jh]
+psychoman59 : suit. 40
+Rodu78 : parole 
+*** FLOP *** [3c Qs Ts]
+Rodu78 : parole 
+psychoman59 : mise. 160
+Rodu78 : passe. 
+Personne n'a suivi. (160) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [3c Qs Ts]
+Siège 1 : Rodu78 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°261313235041 : Tournoi #4012925617, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 02/07/2026 11:37:47 CET [02/07/2026 5:37:47 ET]
+Table '4012925617 1' 3-max Siège #1 est au bouton.
+Place 1: Rodu78 (555 en jetons) 
+Place 3: psychoman59 (945 en jetons) 
+Rodu78 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 9c]
+Rodu78 : suit. 40
+psychoman59 : parole 
+*** FLOP *** [3c 8d Qd]
+psychoman59 : parole 
+Rodu78 : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à Rodu78.
+Rodu78 a remporté 160  lors du pot .
+Rodu78 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [3c 8d Qd]
+Siège 1 : Rodu78 (bouton) (petite blind) a remporté (160)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261313236280 : Tournoi #4012925617, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 02/07/2026 11:38:03 CET [02/07/2026 5:38:03 ET]
+Table '4012925617 1' 3-max Siège #3 est au bouton.
+Place 1: Rodu78 (635 en jetons) 
+Place 3: psychoman59 (865 en jetons) 
+psychoman59 : met la petite blind. 40
+Rodu78 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Ad]
+psychoman59 : relance. 785 à 865 et est all-in.
+Rodu78 : suit. 555 et est all-in.
+Personne n'a suivi. (230) sont retournés à psychoman59.
+*** FLOP *** [Kc 3d 3c]
+*** TOURNANT *** [Kc 3d 3c] [4h]
+*** RIVIÈRE *** [Kc 3d 3c 4h] [Qh]
+*** ABATTAGE ***
+Rodu78 : montre [Ac 9c] (une paire de Trois)
+psychoman59 : montre [Ts Ad] (une paire de Trois)
+Rodu78 a remporté 635  lors du pot .
+psychoman59 a remporté 635  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1270 | Commission 0 
+Tableau [Kc 3d 3c 4h Qh]
+Siège 1 : Rodu78 (grosse blind) a montré [Ac 9c] et a gagné (635) avec une paire de Trois
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Ts Ad] et a gagné (635) avec une paire de Trois
+
+
+
+Main PokerStars n°261313237424 : Tournoi #4012925617, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 02/07/2026 11:38:18 CET [02/07/2026 5:38:18 ET]
+Table '4012925617 1' 3-max Siège #1 est au bouton.
+Place 1: Rodu78 (635 en jetons) 
+Place 3: psychoman59 (865 en jetons) 
+Rodu78 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 4c]
+Rodu78 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : Rodu78 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°261313237976 : Tournoi #4012925617, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 02/07/2026 11:38:25 CET [02/07/2026 5:38:25 ET]
+Table '4012925617 1' 3-max Siège #3 est au bouton.
+Place 1: Rodu78 (595 en jetons) 
+Place 3: psychoman59 (905 en jetons) 
+psychoman59 : met la petite blind. 40
+Rodu78 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 2s]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Rodu78.
+Rodu78 a remporté 80  lors du pot .
+Rodu78 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : Rodu78 (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261313238375 : Tournoi #4012925617, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 02/07/2026 11:38:30 CET [02/07/2026 5:38:30 ET]
+Table '4012925617 1' 3-max Siège #1 est au bouton.
+Place 1: Rodu78 (635 en jetons) 
+Place 3: psychoman59 (865 en jetons) 
+Rodu78 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 4h]
+Rodu78 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : Rodu78 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°261313238843 : Tournoi #4012925617, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 02/07/2026 11:38:36 CET [02/07/2026 5:38:36 ET]
+Table '4012925617 1' 3-max Siège #3 est au bouton.
+Place 1: Rodu78 (595 en jetons) 
+Place 3: psychoman59 (905 en jetons) 
+psychoman59 : met la petite blind. 40
+Rodu78 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 4c]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Rodu78.
+Rodu78 a remporté 80  lors du pot .
+Rodu78 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : Rodu78 (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261313239262 : Tournoi #4012925617, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 02/07/2026 11:38:42 CET [02/07/2026 5:38:42 ET]
+Table '4012925617 1' 3-max Siège #1 est au bouton.
+Place 1: Rodu78 (635 en jetons) 
+Place 3: psychoman59 (865 en jetons) 
+Rodu78 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Kh]
+Rodu78 : suit. 40
+psychoman59 : relance. 785 à 865 et est all-in.
+Rodu78 : passe. 
+Personne n'a suivi. (785) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : Rodu78 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (160)
+
+
+
+Main PokerStars n°261313240579 : Tournoi #4012925617, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 02/07/2026 11:38:59 CET [02/07/2026 5:38:59 ET]
+Table '4012925617 1' 3-max Siège #3 est au bouton.
+Place 1: Rodu78 (555 en jetons) 
+Place 3: psychoman59 (945 en jetons) 
+psychoman59 : met la petite blind. 40
+Rodu78 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 6c]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Rodu78.
+Rodu78 a remporté 80  lors du pot .
+Rodu78 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : Rodu78 (grosse blind) a remporté (80)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261313240957 : Tournoi #4012925617, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 02/07/2026 11:39:04 CET [02/07/2026 5:39:04 ET]
+Table '4012925617 1' 3-max Siège #1 est au bouton.
+Place 1: Rodu78 (595 en jetons) 
+Place 3: psychoman59 (905 en jetons) 
+Rodu78 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 6d]
+Rodu78 : suit. 40
+psychoman59 : relance. 825 à 905 et est all-in.
+Rodu78 : passe. 
+Personne n'a suivi. (825) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : Rodu78 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (160)
+
+
+
+Main PokerStars n°261313242153 : Tournoi #4012925617, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 02/07/2026 11:39:20 CET [02/07/2026 5:39:20 ET]
+Table '4012925617 1' 3-max Siège #3 est au bouton.
+Place 1: Rodu78 (515 en jetons) 
+Place 3: psychoman59 (985 en jetons) 
+psychoman59 : met la petite blind. 50
+Rodu78 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 9s]
+psychoman59 : suit. 50
+Rodu78 : relance. 415 à 515 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (415) sont retournés à Rodu78.
+Rodu78 a remporté 200  lors du pot .
+Rodu78 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Siège 1 : Rodu78 (grosse blind) a remporté (200)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261313243171 : Tournoi #4012925617, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 02/07/2026 11:39:34 CET [02/07/2026 5:39:34 ET]
+Table '4012925617 1' 3-max Siège #1 est au bouton.
+Place 1: Rodu78 (615 en jetons) 
+Place 3: psychoman59 (885 en jetons) 
+Rodu78 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Th]
+Rodu78 : suit. 50
+psychoman59 : parole 
+*** FLOP *** [Ks 8s Ad]
+psychoman59 : parole 
+Rodu78 : mise. 100
+psychoman59 : passe. 
+Personne n'a suivi. (100) sont retournés à Rodu78.
+Rodu78 a remporté 200  lors du pot .
+Rodu78 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [Ks 8s Ad]
+Siège 1 : Rodu78 (bouton) (petite blind) a remporté (200)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261313244930 : Tournoi #4012925617, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 02/07/2026 11:39:57 CET [02/07/2026 5:39:57 ET]
+Table '4012925617 1' 3-max Siège #3 est au bouton.
+Place 1: Rodu78 (715 en jetons) 
+Place 3: psychoman59 (785 en jetons) 
+psychoman59 : met la petite blind. 50
+Rodu78 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 7c]
+psychoman59 : relance. 685 à 785 et est all-in.
+Rodu78 : suit. 615 et est all-in.
+Personne n'a suivi. (70) sont retournés à psychoman59.
+*** FLOP *** [Jd Kh 2d]
+*** TOURNANT *** [Jd Kh 2d] [2h]
+*** RIVIÈRE *** [Jd Kh 2d 2h] [3s]
+*** ABATTAGE ***
+Rodu78 : montre [Qc Jc] (double paire, Valets et Deux)
+psychoman59 : montre [8c 7c] (une paire de Deux)
+Rodu78 a remporté 1430  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1430 | Commission 0 
+Tableau [Jd Kh 2d 2h 3s]
+Siège 1 : Rodu78 (grosse blind) a montré [Qc Jc] et a gagné (1430) avec double paire, Valets et Deux
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [8c 7c] et a perdu avec une paire de Deux
+
+
+
+Main PokerStars n°261313246187 : Tournoi #4012925617, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 02/07/2026 11:40:15 CET [02/07/2026 5:40:15 ET]
+Table '4012925617 1' 3-max Siège #1 est au bouton.
+Place 1: Rodu78 (1430 en jetons) 
+Place 3: psychoman59 (70 en jetons) 
+Rodu78 : met la petite blind. 50
+psychoman59 : met la grosse blind. 70 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 8h]
+Rodu78 : suit. 20
+*** FLOP *** [7s Js 2d]
+*** TOURNANT *** [7s Js 2d] [6h]
+*** RIVIÈRE *** [7s Js 2d 6h] [6c]
+*** ABATTAGE ***
+psychoman59 : montre [5s 8h] (une paire de Six)
+Rodu78 : montre [4d 9c] (une paire de Six - Valet+Neuf kicker)
+Rodu78 a remporté 140  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+Rodu78 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [7s Js 2d 6h 6c]
+Siège 1 : Rodu78 (bouton) (petite blind) a montré [4d 9c] et a gagné (140) avec une paire de Six
+Siège 3 : psychoman59 (grosse blind) a montré [5s 8h] et a perdu avec une paire de Six
+
+
+

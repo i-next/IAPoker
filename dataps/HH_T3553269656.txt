@@ -1,0 +1,197 @@
+﻿Main PokerStars n°242064598829 : Tournoi #3553269656, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/02/2023 9:16:42 CET [25/02/2023 3:16:42 ET]
+Table '3553269656 1' 3-max Siège #1 est au bouton.
+Place 1: zincoutom (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: 8Poool (300 en jetons) 
+psychoman59 : met la petite blind. 10
+8Poool : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 4c]
+zincoutom : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à 8Poool.
+8Poool a remporté 20  lors du pot .
+8Poool : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : zincoutom (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : 8Poool (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°242064599592 : Tournoi #3553269656, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/02/2023 9:16:48 CET [25/02/2023 3:16:48 ET]
+Table '3553269656 1' 3-max Siège #2 est au bouton.
+Place 1: zincoutom (300 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: 8Poool (310 en jetons) 
+8Poool : met la petite blind. 10
+zincoutom : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 8h]
+psychoman59 : passe. 
+8Poool : suit. 10
+zincoutom : parole 
+*** FLOP *** [Qd Ah 6d]
+8Poool : parole 
+zincoutom : parole 
+*** TOURNANT *** [Qd Ah 6d] [Th]
+8Poool : parole 
+zincoutom : parole 
+*** RIVIÈRE *** [Qd Ah 6d Th] [4d]
+8Poool : parole 
+zincoutom : parole 
+*** ABATTAGE ***
+8Poool : montre [8c 6h] (une paire de Six)
+zincoutom : cache la main perdante. 
+8Poool a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Qd Ah 6d Th 4d]
+Siège 1 : zincoutom (grosse blind) a caché la main perdante. [Ks 3c]
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : 8Poool (petite blind) a montré [8c 6h] et a gagné (40) avec une paire de Six
+
+
+
+Main PokerStars n°242064603052 : Tournoi #3553269656, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/02/2023 9:17:14 CET [25/02/2023 3:17:14 ET]
+Table '3553269656 1' 3-max Siège #3 est au bouton.
+Place 1: zincoutom (280 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: 8Poool (330 en jetons) 
+zincoutom : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 4c]
+8Poool : passe. 
+zincoutom : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : zincoutom (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (20)
+Siège 3 : 8Poool (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°242064603861 : Tournoi #3553269656, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 25/02/2023 9:17:20 CET [25/02/2023 3:17:20 ET]
+Table '3553269656 1' 3-max Siège #1 est au bouton.
+Place 1: zincoutom (270 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: 8Poool (330 en jetons) 
+psychoman59 : met la petite blind. 10
+8Poool : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Ad]
+zincoutom : suit. 20
+psychoman59 : suit. 10
+8Poool : parole 
+*** FLOP *** [Kd Td 4s]
+psychoman59 : parole 
+8Poool : parole 
+zincoutom : parole 
+*** TOURNANT *** [Kd Td 4s] [8s]
+psychoman59 : parole 
+8Poool : mise. 40
+zincoutom : suit. 40
+psychoman59 : passe. 
+*** RIVIÈRE *** [Kd Td 4s 8s] [7d]
+8Poool : mise. 40
+zincoutom : passe. 
+Personne n'a suivi. (40) sont retournés à 8Poool.
+8Poool a remporté 140  lors du pot .
+8Poool : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [Kd Td 4s 8s 7d]
+Siège 1 : zincoutom (bouton) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Tournant
+Siège 3 : 8Poool (grosse blind) a remporté (140)
+
+
+
+Main PokerStars n°242064609190 : Tournoi #3553269656, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 25/02/2023 9:18:01 CET [25/02/2023 3:18:01 ET]
+Table '3553269656 1' 3-max Siège #2 est au bouton.
+Place 1: zincoutom (210 en jetons) 
+Place 2: psychoman59 (280 en jetons) 
+Place 3: 8Poool (410 en jetons) 
+8Poool : met la petite blind. 15
+zincoutom : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh As]
+psychoman59 : relance. 250 à 280 et est all-in.
+8Poool : passe. 
+zincoutom : suit. 180 et est all-in.
+Personne n'a suivi. (70) sont retournés à psychoman59.
+*** FLOP *** [9h 2h Th]
+*** TOURNANT *** [9h 2h Th] [3s]
+*** RIVIÈRE *** [9h 2h Th 3s] [9d]
+*** ABATTAGE ***
+zincoutom : montre [4d Ad] (une paire de Neuf)
+psychoman59 : montre [Kh As] (une paire de Neuf - As+Roi kicker)
+psychoman59 a remporté 435  lors du pot .
+zincoutom a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 435 | Commission 0 
+Tableau [9h 2h Th 3s 9d]
+Siège 1 : zincoutom (grosse blind) a montré [4d Ad] et a perdu avec une paire de Neuf
+Siège 2 : psychoman59 (bouton) a montré [Kh As] et a gagné (435) avec une paire de Neuf
+Siège 3 : 8Poool (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242064611744 : Tournoi #3553269656, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 25/02/2023 9:18:21 CET [25/02/2023 3:18:21 ET]
+Table '3553269656 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (505 en jetons) 
+Place 3: 8Poool (395 en jetons) 
+8Poool : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 4h]
+8Poool : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Jh 9d Ks]
+psychoman59 : parole 
+8Poool : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à 8Poool.
+8Poool a remporté 60  lors du pot .
+8Poool : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Jh 9d Ks]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : 8Poool (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°242064613748 : Tournoi #3553269656, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 25/02/2023 9:18:36 CET [25/02/2023 3:18:36 ET]
+Table '3553269656 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (475 en jetons) 
+Place 3: 8Poool (425 en jetons) 
+psychoman59 : met la petite blind. 15
+8Poool : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 9d]
+psychoman59 : relance. 445 à 475 et est all-in.
+8Poool : suit. 395 et est all-in.
+Personne n'a suivi. (50) sont retournés à psychoman59.
+*** FLOP *** [8s 4h 2h]
+*** TOURNANT *** [8s 4h 2h] [Kd]
+*** RIVIÈRE *** [8s 4h 2h Kd] [9c]
+*** ABATTAGE ***
+8Poool : montre [Ah 7s] (Hauteur As)
+psychoman59 : montre [Kc 9d] (double paire, Rois et Neuf)
+psychoman59 a remporté 850  lors du pot .
+8Poool a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 850 | Commission 0 
+Tableau [8s 4h 2h Kd 9c]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Kc 9d] et a gagné (850) avec double paire, Rois et Neuf
+Siège 3 : 8Poool (grosse blind) a montré [Ah 7s] et a perdu avec Hauteur As
+
+
+

@@ -1,0 +1,294 @@
+﻿Main PokerStars n°243236363254 : Tournoi #3580825643, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/04/2023 23:44:50 CET [21/04/2023 17:44:50 ET]
+Table '3580825643 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: 34Sirina (300 en jetons) 
+Place 3: P0ireau (300 en jetons) 
+34Sirina : met la petite blind. 10
+P0ireau : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Kd]
+psychoman59 : suit. 20
+34Sirina : suit. 10
+P0ireau : parole 
+*** FLOP *** [Jc 8h 4h]
+34Sirina : parole 
+P0ireau : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Jc 8h 4h] [Jd]
+34Sirina : parole 
+P0ireau : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Jc 8h 4h Jd] [4c]
+34Sirina : parole 
+P0ireau : parole 
+psychoman59 : mise. 60
+34Sirina : passe. 
+P0ireau : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Jc 8h 4h Jd 4c]
+Siège 1 : psychoman59 (bouton) a remporté (60)
+Siège 2 : 34Sirina (petite blind) s'est couché. sur le Rivière
+Siège 3 : P0ireau (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°243236374105 : Tournoi #3580825643, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/04/2023 23:45:19 CET [21/04/2023 17:45:19 ET]
+Table '3580825643 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (340 en jetons) 
+Place 2: 34Sirina (280 en jetons) 
+Place 3: P0ireau (280 en jetons) 
+P0ireau : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 9s]
+34Sirina : passe. 
+P0ireau : relance. 260 à 280 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (260) sont retournés à P0ireau.
+P0ireau a remporté 40  lors du pot .
+P0ireau : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : 34Sirina (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : P0ireau (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°243236377022 : Tournoi #3580825643, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/04/2023 23:45:27 CET [21/04/2023 17:45:27 ET]
+Table '3580825643 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (320 en jetons) 
+Place 2: 34Sirina (280 en jetons) 
+Place 3: P0ireau (300 en jetons) 
+psychoman59 : met la petite blind. 10
+34Sirina : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Kh]
+P0ireau : relance. 20 à 40
+psychoman59 : passe. 
+34Sirina : suit. 20
+*** FLOP *** [6s 7h Kd]
+34Sirina : parole 
+P0ireau : mise. 20
+34Sirina : suit. 20
+*** TOURNANT *** [6s 7h Kd] [Ah]
+34Sirina : parole 
+P0ireau : parole 
+*** RIVIÈRE *** [6s 7h Kd Ah] [6h]
+34Sirina : parole 
+P0ireau : mise. 65
+34Sirina : passe. 
+Personne n'a suivi. (65) sont retournés à P0ireau.
+P0ireau a remporté 130  lors du pot .
+P0ireau : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Tableau [6s 7h Kd Ah 6h]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : 34Sirina (grosse blind) s'est couché. sur le Rivière
+Siège 3 : P0ireau (bouton) a remporté (130)
+
+
+
+Main PokerStars n°243236393631 : Tournoi #3580825643, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 21/04/2023 23:46:12 CET [21/04/2023 17:46:12 ET]
+Table '3580825643 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (310 en jetons) 
+Place 2: 34Sirina (220 en jetons) 
+Place 3: P0ireau (370 en jetons) 
+34Sirina : met la petite blind. 15
+P0ireau : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 4h]
+psychoman59 : passe. 
+34Sirina : relance. 190 à 220 et est all-in.
+P0ireau : suit. 190
+*** FLOP *** [7s 2c 8c]
+*** TOURNANT *** [7s 2c 8c] [7c]
+*** RIVIÈRE *** [7s 2c 8c 7c] [5d]
+*** ABATTAGE ***
+34Sirina : montre [4c 4s] (double paire, Sept et Quatre)
+P0ireau : montre [Kd Ah] (une paire de Sept)
+34Sirina a remporté 440  lors du pot .
+*** SYNTHÈSE ***
+Pot total 440 | Commission 0 
+Tableau [7s 2c 8c 7c 5d]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : 34Sirina (petite blind) a montré [4c 4s] et a gagné (440) avec double paire, Sept et Quatre
+Siège 3 : P0ireau (grosse blind) a montré [Kd Ah] et a perdu avec une paire de Sept
+
+
+
+Main PokerStars n°243236399026 : Tournoi #3580825643, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 21/04/2023 23:46:27 CET [21/04/2023 17:46:27 ET]
+Table '3580825643 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (310 en jetons) 
+Place 2: 34Sirina (440 en jetons) 
+Place 3: P0ireau (150 en jetons) 
+P0ireau : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 9h]
+34Sirina : passe. 
+P0ireau : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (30)
+Siège 2 : 34Sirina (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : P0ireau (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243236401585 : Tournoi #3580825643, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 21/04/2023 23:46:34 CET [21/04/2023 17:46:34 ET]
+Table '3580825643 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (325 en jetons) 
+Place 2: 34Sirina (440 en jetons) 
+Place 3: P0ireau (135 en jetons) 
+psychoman59 : met la petite blind. 15
+34Sirina : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Qc]
+P0ireau : passe. 
+psychoman59 : relance. 60 à 90
+34Sirina : suit. 60
+*** FLOP *** [7c 3d Qh]
+psychoman59 : mise. 90
+34Sirina : passe. 
+Personne n'a suivi. (90) sont retournés à psychoman59.
+psychoman59 a remporté 180  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [7c 3d Qh]
+Siège 1 : psychoman59 (petite blind) a remporté (180)
+Siège 2 : 34Sirina (grosse blind) s'est couché. sur le Flop
+Siège 3 : P0ireau (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°243236409219 : Tournoi #3580825643, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 21/04/2023 23:46:55 CET [21/04/2023 17:46:55 ET]
+Table '3580825643 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (415 en jetons) 
+Place 2: 34Sirina (350 en jetons) 
+Place 3: P0ireau (135 en jetons) 
+34Sirina : met la petite blind. 20
+P0ireau : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Qs]
+psychoman59 : passe. 
+34Sirina : suit. 20
+P0ireau : parole 
+*** FLOP *** [Qc As 2h]
+34Sirina : parole 
+P0ireau : parole 
+*** TOURNANT *** [Qc As 2h] [8c]
+34Sirina : parole 
+P0ireau : parole 
+*** RIVIÈRE *** [Qc As 2h 8c] [Ac]
+34Sirina : parole 
+P0ireau : parole 
+*** ABATTAGE ***
+34Sirina : montre [9d 3d] (une paire de As)
+P0ireau : cache la main perdante. 
+34Sirina a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Qc As 2h 8c Ac]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : 34Sirina (petite blind) a montré [9d 3d] et a gagné (80) avec une paire de As
+Siège 3 : P0ireau (grosse blind) a caché la main perdante. [4s 5s]
+
+
+
+Main PokerStars n°243236418819 : Tournoi #3580825643, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 21/04/2023 23:47:21 CET [21/04/2023 17:47:21 ET]
+Table '3580825643 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (415 en jetons) 
+Place 2: 34Sirina (390 en jetons) 
+Place 3: P0ireau (95 en jetons) 
+P0ireau : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 2d]
+34Sirina : suit. 40
+P0ireau : relance. 55 à 95 et est all-in.
+psychoman59 : suit. 55
+34Sirina : suit. 55
+*** FLOP *** [4d Qs 9h]
+psychoman59 : parole 
+34Sirina : parole 
+*** TOURNANT *** [4d Qs 9h] [9d]
+psychoman59 : parole 
+34Sirina : parole 
+*** RIVIÈRE *** [4d Qs 9h 9d] [9s]
+psychoman59 : parole 
+34Sirina : parole 
+*** ABATTAGE ***
+P0ireau : montre [Qh 7d] (un full, full aux Neuf par les Dames)
+psychoman59 : cache la main perdante. 
+34Sirina : cache la main perdante. 
+P0ireau a remporté 285  lors du pot .
+*** SYNTHÈSE ***
+Pot total 285 | Commission 0 
+Tableau [4d Qs 9h 9d 9s]
+Siège 1 : psychoman59 (grosse blind) a caché la main perdante. [As 2d]
+Siège 2 : 34Sirina (bouton) a caché la main perdante. [Tc 3c]
+Siège 3 : P0ireau (petite blind) a montré [Qh 7d] et a gagné (285) avec un full, full aux Neuf par les Dames
+
+
+
+Main PokerStars n°243236428176 : Tournoi #3580825643, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 21/04/2023 23:47:47 CET [21/04/2023 17:47:47 ET]
+Table '3580825643 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (320 en jetons) 
+Place 2: 34Sirina (295 en jetons) 
+Place 3: P0ireau (285 en jetons) 
+psychoman59 : met la petite blind. 20
+34Sirina : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 7s]
+P0ireau : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à 34Sirina.
+34Sirina a remporté 40  lors du pot .
+34Sirina : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : 34Sirina (grosse blind) a remporté (40)
+Siège 3 : P0ireau (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°243236431361 : Tournoi #3580825643, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 21/04/2023 23:47:55 CET [21/04/2023 17:47:55 ET]
+Table '3580825643 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: 34Sirina (315 en jetons) 
+Place 3: P0ireau (285 en jetons) 
+34Sirina : met la petite blind. 30
+P0ireau : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 5d]
+psychoman59 : relance. 240 à 300 et est all-in.
+34Sirina : suit. 270
+P0ireau : passe. 
+*** FLOP *** [9c Qd 2h]
+*** TOURNANT *** [9c Qd 2h] [Ad]
+*** RIVIÈRE *** [9c Qd 2h Ad] [Tc]
+*** ABATTAGE ***
+34Sirina : montre [Jh Kd] (une suite, Dix à As)
+psychoman59 : montre [Ac 5d] (une paire de As)
+34Sirina a remporté 660  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 660 | Commission 0 
+Tableau [9c Qd 2h Ad Tc]
+Siège 1 : psychoman59 (bouton) a montré [Ac 5d] et a perdu avec une paire de As
+Siège 2 : 34Sirina (petite blind) a montré [Jh Kd] et a gagné (660) avec une suite, Dix à As
+Siège 3 : P0ireau (grosse blind) s'est couché. avant Flop
+
+
+

@@ -1,0 +1,454 @@
+﻿Main PokerStars n°254874835558 : Tournoi #3859188274, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/02/2025 11:34:50 CET [15/02/2025 5:34:50 ET]
+Table '3859188274 1' 3-max Siège #1 est au bouton.
+Place 1: Makmardigann (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: Bruce_Whey (500 en jetons) 
+psychoman59 : met la petite blind. 10
+Bruce_Whey : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Ac]
+Makmardigann : passe. 
+psychoman59 : suit. 10
+Bruce_Whey : parole 
+*** FLOP *** [Qd 6s Td]
+psychoman59 : parole 
+Bruce_Whey : parole 
+*** TOURNANT *** [Qd 6s Td] [Ad]
+psychoman59 : mise. 40
+Bruce_Whey : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Qd 6s Td Ad]
+Siège 1 : Makmardigann (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (40)
+Siège 3 : Bruce_Whey (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°254874837604 : Tournoi #3859188274, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/02/2025 11:35:07 CET [15/02/2025 5:35:07 ET]
+Table '3859188274 1' 3-max Siège #2 est au bouton.
+Place 1: Makmardigann (500 en jetons) 
+Place 2: psychoman59 (520 en jetons) 
+Place 3: Bruce_Whey (480 en jetons) 
+Bruce_Whey : met la petite blind. 10
+Makmardigann : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 2s]
+psychoman59 : passe. 
+Bruce_Whey : relance. 20 à 40
+Makmardigann : suit. 20
+*** FLOP *** [Qc 6s 7s]
+Bruce_Whey : parole 
+Makmardigann : mise. 60
+Bruce_Whey : suit. 60
+*** TOURNANT *** [Qc 6s 7s] [Qs]
+Bruce_Whey : parole 
+Makmardigann : parole 
+*** RIVIÈRE *** [Qc 6s 7s Qs] [3c]
+Bruce_Whey : parole 
+Makmardigann : parole 
+*** ABATTAGE ***
+Bruce_Whey : montre [Tc Ts] (double paire, Dames et Dix)
+Makmardigann : cache la main perdante. 
+Bruce_Whey a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [Qc 6s 7s Qs 3c]
+Siège 1 : Makmardigann (grosse blind) a caché la main perdante. [6c 7d]
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Bruce_Whey (petite blind) a montré [Tc Ts] et a gagné (200) avec double paire, Dames et Dix
+
+
+
+Main PokerStars n°254874842122 : Tournoi #3859188274, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/02/2025 11:35:44 CET [15/02/2025 5:35:44 ET]
+Table '3859188274 1' 3-max Siège #3 est au bouton.
+Place 1: Makmardigann (400 en jetons) 
+Place 2: psychoman59 (520 en jetons) 
+Place 3: Bruce_Whey (580 en jetons) 
+Makmardigann : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 6h]
+Bruce_Whey : relance. 20 à 40
+Makmardigann : passe. 
+psychoman59 : suit. 20
+*** FLOP *** [4d 8c Qs]
+psychoman59 : parole 
+Bruce_Whey : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [4d 8c Qs] [Ad]
+psychoman59 : parole 
+Bruce_Whey : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à Bruce_Whey.
+Bruce_Whey a remporté 170  lors du pot .
+*** SYNTHÈSE ***
+Pot total 170 | Commission 0 
+Tableau [4d 8c Qs Ad]
+Siège 1 : Makmardigann (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : Bruce_Whey (bouton) a remporté (170)
+
+
+
+Main PokerStars n°254874845840 : Tournoi #3859188274, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/02/2025 11:36:15 CET [15/02/2025 5:36:15 ET]
+Table '3859188274 1' 3-max Siège #1 est au bouton.
+Place 1: Makmardigann (390 en jetons) 
+Place 2: psychoman59 (440 en jetons) 
+Place 3: Bruce_Whey (670 en jetons) 
+psychoman59 : met la petite blind. 10
+Bruce_Whey : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 8s]
+Makmardigann : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à Bruce_Whey.
+Bruce_Whey a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : Makmardigann (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Bruce_Whey (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°254874846508 : Tournoi #3859188274, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/02/2025 11:36:20 CET [15/02/2025 5:36:20 ET]
+Table '3859188274 1' 3-max Siège #2 est au bouton.
+Place 1: Makmardigann (390 en jetons) 
+Place 2: psychoman59 (430 en jetons) 
+Place 3: Bruce_Whey (680 en jetons) 
+Bruce_Whey : met la petite blind. 10
+Makmardigann : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Ts]
+psychoman59 : passe. 
+Bruce_Whey : suit. 10
+Makmardigann : relance. 370 à 390 et est all-in.
+Bruce_Whey : passe. 
+Personne n'a suivi. (370) sont retournés à Makmardigann.
+Makmardigann a remporté 40  lors du pot .
+Makmardigann : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Makmardigann (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Bruce_Whey (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254874848659 : Tournoi #3859188274, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/02/2025 11:36:38 CET [15/02/2025 5:36:38 ET]
+Table '3859188274 1' 3-max Siège #3 est au bouton.
+Place 1: Makmardigann (410 en jetons) 
+Place 2: psychoman59 (430 en jetons) 
+Place 3: Bruce_Whey (660 en jetons) 
+Makmardigann : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 8d]
+Bruce_Whey : passe. 
+Makmardigann : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : Makmardigann (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (20)
+Siège 3 : Bruce_Whey (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°254874849356 : Tournoi #3859188274, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 15/02/2025 11:36:44 CET [15/02/2025 5:36:44 ET]
+Table '3859188274 1' 3-max Siège #1 est au bouton.
+Place 1: Makmardigann (400 en jetons) 
+Place 2: psychoman59 (440 en jetons) 
+Place 3: Bruce_Whey (660 en jetons) 
+psychoman59 : met la petite blind. 10
+Bruce_Whey : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Th]
+Makmardigann : passe. 
+psychoman59 : relance. 420 à 440 et est all-in.
+Bruce_Whey : passe. 
+Personne n'a suivi. (420) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Makmardigann (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (40)
+Siège 3 : Bruce_Whey (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254874850743 : Tournoi #3859188274, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/02/2025 11:36:55 CET [15/02/2025 5:36:55 ET]
+Table '3859188274 1' 3-max Siège #2 est au bouton.
+Place 1: Makmardigann (400 en jetons) 
+Place 2: psychoman59 (460 en jetons) 
+Place 3: Bruce_Whey (640 en jetons) 
+Bruce_Whey : met la petite blind. 15
+Makmardigann : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 4d]
+psychoman59 : passe. 
+Bruce_Whey : passe. 
+Personne n'a suivi. (15) sont retournés à Makmardigann.
+Makmardigann a remporté 30  lors du pot .
+Makmardigann : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : Makmardigann (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Bruce_Whey (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254874851463 : Tournoi #3859188274, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/02/2025 11:37:01 CET [15/02/2025 5:37:01 ET]
+Table '3859188274 1' 3-max Siège #3 est au bouton.
+Place 1: Makmardigann (415 en jetons) 
+Place 2: psychoman59 (460 en jetons) 
+Place 3: Bruce_Whey (625 en jetons) 
+Makmardigann : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 8s]
+Bruce_Whey : passe. 
+Makmardigann : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Makmardigann.
+Makmardigann a remporté 60  lors du pot .
+Makmardigann : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Makmardigann (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : Bruce_Whey (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°254874852711 : Tournoi #3859188274, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/02/2025 11:37:12 CET [15/02/2025 5:37:12 ET]
+Table '3859188274 1' 3-max Siège #1 est au bouton.
+Place 1: Makmardigann (445 en jetons) 
+Place 2: psychoman59 (430 en jetons) 
+Place 3: Bruce_Whey (625 en jetons) 
+psychoman59 : met la petite blind. 15
+Bruce_Whey : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 4h]
+Makmardigann : relance. 30 à 60
+psychoman59 : passe. 
+Bruce_Whey : suit. 30
+*** FLOP *** [5h 2s Td]
+Bruce_Whey : parole 
+Makmardigann : mise. 45
+Bruce_Whey : suit. 45
+*** TOURNANT *** [5h 2s Td] [8c]
+Bruce_Whey : parole 
+Makmardigann : parole 
+*** RIVIÈRE *** [5h 2s Td 8c] [5c]
+Bruce_Whey : parole 
+Makmardigann : mise. 340 et est all-in.
+Bruce_Whey : passe. 
+Personne n'a suivi. (340) sont retournés à Makmardigann.
+Makmardigann a remporté 225  lors du pot .
+Makmardigann : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 225 | Commission 0 
+Tableau [5h 2s Td 8c 5c]
+Siège 1 : Makmardigann (bouton) a remporté (225)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Bruce_Whey (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°254874858464 : Tournoi #3859188274, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/02/2025 11:37:59 CET [15/02/2025 5:37:59 ET]
+Table '3859188274 1' 3-max Siège #2 est au bouton.
+Place 1: Makmardigann (565 en jetons) 
+Place 2: psychoman59 (415 en jetons) 
+Place 3: Bruce_Whey (520 en jetons) 
+Bruce_Whey : met la petite blind. 15
+Makmardigann : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Qh]
+psychoman59 : passe. 
+Bruce_Whey : passe. 
+Personne n'a suivi. (15) sont retournés à Makmardigann.
+Makmardigann a remporté 30  lors du pot .
+Makmardigann : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : Makmardigann (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Bruce_Whey (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254874859433 : Tournoi #3859188274, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/02/2025 11:38:07 CET [15/02/2025 5:38:07 ET]
+Table '3859188274 1' 3-max Siège #3 est au bouton.
+Place 1: Makmardigann (580 en jetons) 
+Place 2: psychoman59 (415 en jetons) 
+Place 3: Bruce_Whey (505 en jetons) 
+Makmardigann : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 8s]
+Bruce_Whey : passe. 
+Makmardigann : relance. 30 à 60
+psychoman59 : suit. 30
+*** FLOP *** [8c 7h Jh]
+Makmardigann : mise. 40
+psychoman59 : relance. 315 à 355 et est all-in.
+Makmardigann : passe. 
+Personne n'a suivi. (315) sont retournés à psychoman59.
+psychoman59 a remporté 200  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [8c 7h Jh]
+Siège 1 : Makmardigann (petite blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (200)
+Siège 3 : Bruce_Whey (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°254874862510 : Tournoi #3859188274, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 15/02/2025 11:38:33 CET [15/02/2025 5:38:33 ET]
+Table '3859188274 1' 3-max Siège #1 est au bouton.
+Place 1: Makmardigann (480 en jetons) 
+Place 2: psychoman59 (515 en jetons) 
+Place 3: Bruce_Whey (505 en jetons) 
+psychoman59 : met la petite blind. 15
+Bruce_Whey : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 5s]
+Makmardigann : relance. 30 à 60
+psychoman59 : passe. 
+Bruce_Whey : suit. 30
+*** FLOP *** [Ks 5h Ah]
+Bruce_Whey : parole 
+Makmardigann : mise. 35
+Bruce_Whey : passe. 
+Personne n'a suivi. (35) sont retournés à Makmardigann.
+Makmardigann a remporté 135  lors du pot .
+Makmardigann : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 135 | Commission 0 
+Tableau [Ks 5h Ah]
+Siège 1 : Makmardigann (bouton) a remporté (135)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Bruce_Whey (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°254874865897 : Tournoi #3859188274, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/02/2025 11:39:01 CET [15/02/2025 5:39:01 ET]
+Table '3859188274 1' 3-max Siège #2 est au bouton.
+Place 1: Makmardigann (555 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: Bruce_Whey (445 en jetons) 
+Bruce_Whey : met la petite blind. 20
+Makmardigann : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 5d]
+psychoman59 : passe. 
+Bruce_Whey : suit. 20
+Makmardigann : relance. 515 à 555 et est all-in.
+Bruce_Whey : passe. 
+Personne n'a suivi. (515) sont retournés à Makmardigann.
+Makmardigann a remporté 80  lors du pot .
+Makmardigann : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : Makmardigann (grosse blind) a remporté (80)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Bruce_Whey (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254874867472 : Tournoi #3859188274, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/02/2025 11:39:14 CET [15/02/2025 5:39:14 ET]
+Table '3859188274 1' 3-max Siège #3 est au bouton.
+Place 1: Makmardigann (595 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: Bruce_Whey (405 en jetons) 
+Makmardigann : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d 2d]
+Bruce_Whey : passe. 
+Makmardigann : relance. 40 à 80
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Makmardigann.
+Makmardigann a remporté 80  lors du pot .
+Makmardigann : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : Makmardigann (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : Bruce_Whey (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°254874868998 : Tournoi #3859188274, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/02/2025 11:39:26 CET [15/02/2025 5:39:26 ET]
+Table '3859188274 1' 3-max Siège #1 est au bouton.
+Place 1: Makmardigann (635 en jetons) 
+Place 2: psychoman59 (460 en jetons) 
+Place 3: Bruce_Whey (405 en jetons) 
+psychoman59 : met la petite blind. 20
+Bruce_Whey : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Ks]
+Makmardigann : passe. 
+psychoman59 : relance. 420 à 460 et est all-in.
+Bruce_Whey : suit. 365 et est all-in.
+Personne n'a suivi. (55) sont retournés à psychoman59.
+*** FLOP *** [Jd 6d 6s]
+*** TOURNANT *** [Jd 6d 6s] [5h]
+*** RIVIÈRE *** [Jd 6d 6s 5h] [7c]
+*** ABATTAGE ***
+psychoman59 : montre [As Ks] (une paire de Six)
+Bruce_Whey : montre [Ac Js] (double paire, Valets et Six)
+Bruce_Whey a remporté 810  lors du pot .
+*** SYNTHÈSE ***
+Pot total 810 | Commission 0 
+Tableau [Jd 6d 6s 5h 7c]
+Siège 1 : Makmardigann (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [As Ks] et a perdu avec une paire de Six
+Siège 3 : Bruce_Whey (grosse blind) a montré [Ac Js] et a gagné (810) avec double paire, Valets et Six
+
+
+
+Main PokerStars n°254874870997 : Tournoi #3859188274, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 15/02/2025 11:39:42 CET [15/02/2025 5:39:42 ET]
+Table '3859188274 1' 3-max Siège #2 est au bouton.
+Place 1: Makmardigann (635 en jetons) 
+Place 2: psychoman59 (55 en jetons) 
+Place 3: Bruce_Whey (810 en jetons) 
+Bruce_Whey : met la petite blind. 20
+Makmardigann : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 7h]
+psychoman59 : relance. 15 à 55 et est all-in.
+Bruce_Whey : suit. 35
+Makmardigann : suit. 15
+*** FLOP *** [5h Qc Jd]
+Bruce_Whey : parole 
+Makmardigann : parole 
+*** TOURNANT *** [5h Qc Jd] [9c]
+Bruce_Whey : mise. 80
+Makmardigann : passe. 
+Personne n'a suivi. (80) sont retournés à Bruce_Whey.
+*** RIVIÈRE *** [5h Qc Jd 9c] [Kc]
+*** ABATTAGE ***
+Bruce_Whey : montre [Ts 8s] (une suite, Neuf à Roi)
+psychoman59 : montre [7s 7h] (une paire de Sept)
+Bruce_Whey a remporté 165  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 165 | Commission 0 
+Tableau [5h Qc Jd 9c Kc]
+Siège 1 : Makmardigann (grosse blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (bouton) a montré [7s 7h] et a perdu avec une paire de Sept
+Siège 3 : Bruce_Whey (petite blind) a montré [Ts 8s] et a gagné (165) avec une suite, Neuf à Roi
+
+
+

@@ -1,0 +1,125 @@
+﻿Main PokerStars n°242437123894 : Tournoi #3561858876, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 14/03/2023 7:15:42 CET [14/03/2023 2:15:42 ET]
+Table '3561858876 1' 3-max Siège #1 est au bouton.
+Place 1: Napo19261 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: podogan5 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+podogan5 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Jd]
+Napo19261 : suit. 20
+psychoman59 : passe. 
+podogan5 : parole 
+*** FLOP *** [4d Ac 2c]
+podogan5 : mise. 20
+Napo19261 : passe. 
+Personne n'a suivi. (20) sont retournés à podogan5.
+podogan5 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [4d Ac 2c]
+Siège 1 : Napo19261 (bouton) s'est couché. sur le Flop
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : podogan5 (grosse blind) a remporté (50)
+
+
+
+Main PokerStars n°242437126088 : Tournoi #3561858876, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 14/03/2023 7:16:05 CET [14/03/2023 2:16:05 ET]
+Table '3561858876 1' 3-max Siège #2 est au bouton.
+Place 1: Napo19261 (280 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: podogan5 (330 en jetons) 
+podogan5 : met la petite blind. 10
+Napo19261 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 6d]
+psychoman59 : passe. 
+podogan5 : suit. 10
+Napo19261 : parole 
+*** FLOP *** [Qh Th 7s]
+podogan5 : parole 
+Napo19261 : parole 
+*** TOURNANT *** [Qh Th 7s] [Ah]
+podogan5 : parole 
+Napo19261 : parole 
+*** RIVIÈRE *** [Qh Th 7s Ah] [9d]
+podogan5 : parole 
+Napo19261 : parole 
+*** ABATTAGE ***
+podogan5 : montre [4d 5h] (Hauteur As)
+Napo19261 : montre [6s 3d] (Hauteur As)
+podogan5 a remporté 20  lors du pot .
+Napo19261 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Qh Th 7s Ah 9d]
+Siège 1 : Napo19261 (grosse blind) a montré [6s 3d] et a gagné (20) avec Hauteur As
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : podogan5 (petite blind) a montré [4d 5h] et a gagné (20) avec Hauteur As
+
+
+
+Main PokerStars n°242437127927 : Tournoi #3561858876, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 14/03/2023 7:16:26 CET [14/03/2023 2:16:26 ET]
+Table '3561858876 1' 3-max Siège #3 est au bouton.
+Place 1: Napo19261 (280 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: podogan5 (330 en jetons) 
+Napo19261 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Kd]
+podogan5 : passe. 
+Napo19261 : relance. 260 à 280 et est all-in.
+psychoman59 : suit. 260
+*** FLOP *** [9s Qs 3s]
+*** TOURNANT *** [9s Qs 3s] [7h]
+*** RIVIÈRE *** [9s Qs 3s 7h] [3d]
+*** ABATTAGE ***
+Napo19261 : montre [Qh Qc] (un full, full aux Dames par les Trois)
+psychoman59 : montre [Jh Kd] (une paire de Trois)
+Napo19261 a remporté 560  lors du pot .
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [9s Qs 3s 7h 3d]
+Siège 1 : Napo19261 (petite blind) a montré [Qh Qc] et a gagné (560) avec un full, full aux Dames par les Trois
+Siège 2 : psychoman59 (grosse blind) a montré [Jh Kd] et a perdu avec une paire de Trois
+Siège 3 : podogan5 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°242437129362 : Tournoi #3561858876, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 14/03/2023 7:16:41 CET [14/03/2023 2:16:41 ET]
+Table '3561858876 1' 3-max Siège #1 est au bouton.
+Place 1: Napo19261 (560 en jetons) 
+Place 2: psychoman59 (10 en jetons) 
+Place 3: podogan5 (330 en jetons) 
+psychoman59 : met la petite blind. 10 et est all-in.
+podogan5 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Ah]
+Napo19261 : suit. 20
+podogan5 : parole 
+*** FLOP *** [5c Kc 9h]
+podogan5 : parole 
+Napo19261 : parole 
+*** TOURNANT *** [5c Kc 9h] [Jd]
+podogan5 : parole 
+Napo19261 : parole 
+*** RIVIÈRE *** [5c Kc 9h Jd] [Tc]
+podogan5 : parole 
+Napo19261 : parole 
+*** ABATTAGE ***
+podogan5 : montre [8h 3h] (Hauteur Roi)
+Napo19261 : montre [4d 4s] (une paire de Quatre)
+Napo19261 a remporté 20  parallèle lors du pot .
+psychoman59 : cache la main perdante. 
+Napo19261 a remporté 30  principal lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 50 Principal pot 30. Parallèle pot 20. | Commission 0 
+Tableau [5c Kc 9h Jd Tc]
+Siège 1 : Napo19261 (bouton) a montré [4d 4s] et a gagné (50) avec une paire de Quatre
+Siège 2 : psychoman59 (petite blind) a caché la main perdante. [8c Ah]
+Siège 3 : podogan5 (grosse blind) a montré [8h 3h] et a perdu avec Hauteur Roi
+
+
+

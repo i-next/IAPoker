@@ -1,0 +1,818 @@
+﻿Main PokerStars n°258167470904 : Tournoi #3938535170, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/10/2025 8:54:57 CET [18/10/2025 2:54:57 ET]
+Table '3938535170 1' 3-max Siège #1 est au bouton.
+Place 1: SWEET DEATH7 (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: Frederic873 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+Frederic873 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 8s]
+SWEET DEATH7 : passe. 
+psychoman59 : suit. 10
+Frederic873 : relance. 20 à 40
+psychoman59 : suit. 20
+*** FLOP *** [4c 8d Jc]
+psychoman59 : parole 
+Frederic873 : mise. 20
+psychoman59 : relance. 60 à 80
+Frederic873 : suit. 60
+*** TOURNANT *** [4c 8d Jc] [8h]
+psychoman59 : parole 
+Frederic873 : mise. 20
+psychoman59 : relance. 70 à 90
+Frederic873 : suit. 70
+*** RIVIÈRE *** [4c 8d Jc 8h] [Th]
+psychoman59 : mise. 140
+Frederic873 : suit. 140
+*** ABATTAGE ***
+psychoman59 : montre [Jh 8s] (un full, full aux Huit par les Valets)
+Frederic873 : cache la main perdante. 
+psychoman59 a remporté 700  lors du pot .
+*** SYNTHÈSE ***
+Pot total 700 | Commission 0 
+Tableau [4c 8d Jc 8h Th]
+Siège 1 : SWEET DEATH7 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [Jh 8s] et a gagné (700) avec un full, full aux Huit par les Valets
+Siège 3 : Frederic873 (grosse blind) a caché la main perdante. [Qs Ad]
+
+
+
+Main PokerStars n°258167473553 : Tournoi #3938535170, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/10/2025 8:55:38 CET [18/10/2025 2:55:38 ET]
+Table '3938535170 1' 3-max Siège #2 est au bouton.
+Place 1: SWEET DEATH7 (500 en jetons) 
+Place 2: psychoman59 (850 en jetons) 
+Place 3: Frederic873 (150 en jetons) 
+Frederic873 : met la petite blind. 10
+SWEET DEATH7 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Qd]
+psychoman59 : suit. 20
+Frederic873 : suit. 10
+SWEET DEATH7 : parole 
+*** FLOP *** [Tc 3h 2d]
+Frederic873 : parole 
+SWEET DEATH7 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Tc 3h 2d] [7s]
+Frederic873 : parole 
+SWEET DEATH7 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Tc 3h 2d 7s] [Th]
+Frederic873 : parole 
+SWEET DEATH7 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Frederic873 : montre [6s As] (une paire de Dix)
+SWEET DEATH7 : montre [Kd 7c] (double paire, Dix et Sept)
+psychoman59 : cache la main perdante. 
+SWEET DEATH7 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Tc 3h 2d 7s Th]
+Siège 1 : SWEET DEATH7 (grosse blind) a montré [Kd 7c] et a gagné (60) avec double paire, Dix et Sept
+Siège 2 : psychoman59 (bouton) a caché la main perdante. [Jc Qd]
+Siège 3 : Frederic873 (petite blind) a montré [6s As] et a perdu avec une paire de Dix
+
+
+
+Main PokerStars n°258167475222 : Tournoi #3938535170, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/10/2025 8:56:06 CET [18/10/2025 2:56:06 ET]
+Table '3938535170 1' 3-max Siège #3 est au bouton.
+Place 1: SWEET DEATH7 (540 en jetons) 
+Place 2: psychoman59 (830 en jetons) 
+Place 3: Frederic873 (130 en jetons) 
+SWEET DEATH7 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 4s]
+Frederic873 : suit. 20
+SWEET DEATH7 : passe. 
+psychoman59 : parole 
+*** FLOP *** [Js Td 2c]
+psychoman59 : parole 
+Frederic873 : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [Js Td 2c] [Ks]
+psychoman59 : parole 
+Frederic873 : mise. 20
+psychoman59 : relance. 130 à 150
+Frederic873 : suit. 70 et est all-in.
+Personne n'a suivi. (60) sont retournés à psychoman59.
+*** RIVIÈRE *** [Js Td 2c Ks] [Qs]
+*** ABATTAGE ***
+psychoman59 : montre [Ts 4s] (une couleur, hauteur Roi)
+Frederic873 : montre [Qc 2h] (double paire, Dames et Deux)
+psychoman59 a remporté 270  lors du pot .
+Frederic873 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Tableau [Js Td 2c Ks Qs]
+Siège 1 : SWEET DEATH7 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a montré [Ts 4s] et a gagné (270) avec une couleur, hauteur Roi
+Siège 3 : Frederic873 (bouton) a montré [Qc 2h] et a perdu avec double paire, Dames et Deux
+
+
+
+Main PokerStars n°258167477361 : Tournoi #3938535170, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/10/2025 8:56:42 CET [18/10/2025 2:56:42 ET]
+Table '3938535170 1' 3-max Siège #2 est au bouton.
+Place 1: SWEET DEATH7 (530 en jetons) 
+Place 2: psychoman59 (970 en jetons) 
+psychoman59 : met la petite blind. 10
+SWEET DEATH7 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 3d]
+psychoman59 : relance. 950 à 970 et est all-in.
+SWEET DEATH7 : passe. 
+Personne n'a suivi. (950) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : SWEET DEATH7 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°258167477710 : Tournoi #3938535170, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/10/2025 8:56:48 CET [18/10/2025 2:56:48 ET]
+Table '3938535170 1' 3-max Siège #1 est au bouton.
+Place 1: SWEET DEATH7 (510 en jetons) 
+Place 2: psychoman59 (990 en jetons) 
+SWEET DEATH7 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 2s]
+SWEET DEATH7 : relance. 20 à 40
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à SWEET DEATH7.
+SWEET DEATH7 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : SWEET DEATH7 (bouton) (petite blind) a remporté (40)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258167478215 : Tournoi #3938535170, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/10/2025 8:56:57 CET [18/10/2025 2:56:57 ET]
+Table '3938535170 1' 3-max Siège #2 est au bouton.
+Place 1: SWEET DEATH7 (530 en jetons) 
+Place 2: psychoman59 (970 en jetons) 
+psychoman59 : met la petite blind. 10
+SWEET DEATH7 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 9d]
+psychoman59 : suit. 10
+SWEET DEATH7 : relance. 40 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à SWEET DEATH7.
+SWEET DEATH7 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : SWEET DEATH7 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258167478946 : Tournoi #3938535170, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/10/2025 8:57:09 CET [18/10/2025 2:57:09 ET]
+Table '3938535170 1' 3-max Siège #1 est au bouton.
+Place 1: SWEET DEATH7 (550 en jetons) 
+Place 2: psychoman59 (950 en jetons) 
+SWEET DEATH7 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 7d]
+SWEET DEATH7 : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : SWEET DEATH7 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°258167479271 : Tournoi #3938535170, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/10/2025 8:57:14 CET [18/10/2025 2:57:14 ET]
+Table '3938535170 1' 3-max Siège #2 est au bouton.
+Place 1: SWEET DEATH7 (540 en jetons) 
+Place 2: psychoman59 (960 en jetons) 
+psychoman59 : met la petite blind. 10
+SWEET DEATH7 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Jd]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à SWEET DEATH7.
+SWEET DEATH7 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : SWEET DEATH7 (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258167479606 : Tournoi #3938535170, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/10/2025 8:57:19 CET [18/10/2025 2:57:19 ET]
+Table '3938535170 1' 3-max Siège #1 est au bouton.
+Place 1: SWEET DEATH7 (550 en jetons) 
+Place 2: psychoman59 (950 en jetons) 
+SWEET DEATH7 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 3s]
+SWEET DEATH7 : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : SWEET DEATH7 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°258167479890 : Tournoi #3938535170, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/10/2025 8:57:25 CET [18/10/2025 2:57:25 ET]
+Table '3938535170 1' 3-max Siège #2 est au bouton.
+Place 1: SWEET DEATH7 (540 en jetons) 
+Place 2: psychoman59 (960 en jetons) 
+psychoman59 : met la petite blind. 10
+SWEET DEATH7 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 6s]
+psychoman59 : suit. 10
+SWEET DEATH7 : relance. 40 à 60
+psychoman59 : suit. 40
+*** FLOP *** [4s 4c 6d]
+SWEET DEATH7 : mise. 60
+psychoman59 : relance. 840 à 900 et est all-in.
+SWEET DEATH7 : suit. 420 et est all-in.
+Personne n'a suivi. (420) sont retournés à psychoman59.
+*** TOURNANT *** [4s 4c 6d] [3c]
+*** RIVIÈRE *** [4s 4c 6d 3c] [Kh]
+*** ABATTAGE ***
+SWEET DEATH7 : montre [Kd Jh] (double paire, Rois et Quatre)
+psychoman59 : montre [5s 6s] (double paire, Six et Quatre)
+SWEET DEATH7 a remporté 1080  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1080 | Commission 0 
+Tableau [4s 4c 6d 3c Kh]
+Siège 1 : SWEET DEATH7 (grosse blind) a montré [Kd Jh] et a gagné (1080) avec double paire, Rois et Quatre
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [5s 6s] et a perdu avec double paire, Six et Quatre
+
+
+
+Main PokerStars n°258167481090 : Tournoi #3938535170, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/10/2025 8:57:45 CET [18/10/2025 2:57:45 ET]
+Table '3938535170 1' 3-max Siège #1 est au bouton.
+Place 1: SWEET DEATH7 (1080 en jetons) 
+Place 2: psychoman59 (420 en jetons) 
+SWEET DEATH7 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 6c]
+SWEET DEATH7 : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : SWEET DEATH7 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°258167481497 : Tournoi #3938535170, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/10/2025 8:57:52 CET [18/10/2025 2:57:52 ET]
+Table '3938535170 1' 3-max Siège #2 est au bouton.
+Place 1: SWEET DEATH7 (1070 en jetons) 
+Place 2: psychoman59 (430 en jetons) 
+psychoman59 : met la petite blind. 10
+SWEET DEATH7 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 9c]
+psychoman59 : relance. 410 à 430 et est all-in.
+SWEET DEATH7 : passe. 
+Personne n'a suivi. (410) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : SWEET DEATH7 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°258167482170 : Tournoi #3938535170, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/10/2025 8:58:03 CET [18/10/2025 2:58:03 ET]
+Table '3938535170 1' 3-max Siège #1 est au bouton.
+Place 1: SWEET DEATH7 (1050 en jetons) 
+Place 2: psychoman59 (450 en jetons) 
+SWEET DEATH7 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 7c]
+SWEET DEATH7 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [9d Qd 8c]
+psychoman59 : mise. 420 et est all-in.
+SWEET DEATH7 : passe. 
+Personne n'a suivi. (420) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [9d Qd 8c]
+Siège 1 : SWEET DEATH7 (bouton) (petite blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°258167482891 : Tournoi #3938535170, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/10/2025 8:58:15 CET [18/10/2025 2:58:15 ET]
+Table '3938535170 1' 3-max Siège #2 est au bouton.
+Place 1: SWEET DEATH7 (1020 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 15
+SWEET DEATH7 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 8s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à SWEET DEATH7.
+SWEET DEATH7 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : SWEET DEATH7 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258167483219 : Tournoi #3938535170, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/10/2025 8:58:20 CET [18/10/2025 2:58:20 ET]
+Table '3938535170 1' 3-max Siège #1 est au bouton.
+Place 1: SWEET DEATH7 (1035 en jetons) 
+Place 2: psychoman59 (465 en jetons) 
+SWEET DEATH7 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Ks]
+SWEET DEATH7 : relance. 30 à 60
+psychoman59 : relance. 405 à 465 et est all-in.
+SWEET DEATH7 : suit. 405
+*** FLOP *** [Qc 9s Jh]
+*** TOURNANT *** [Qc 9s Jh] [Jc]
+*** RIVIÈRE *** [Qc 9s Jh Jc] [2h]
+*** ABATTAGE ***
+psychoman59 : montre [Jd Ks] (un brelan de Valets)
+SWEET DEATH7 : montre [Ac 4h] (une paire de Valets)
+psychoman59 a remporté 930  lors du pot .
+*** SYNTHÈSE ***
+Pot total 930 | Commission 0 
+Tableau [Qc 9s Jh Jc 2h]
+Siège 1 : SWEET DEATH7 (bouton) (petite blind) a montré [Ac 4h] et a perdu avec une paire de Valets
+Siège 2 : psychoman59 (grosse blind) a montré [Jd Ks] et a gagné (930) avec un brelan de Valets
+
+
+
+Main PokerStars n°258167484150 : Tournoi #3938535170, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/10/2025 8:58:35 CET [18/10/2025 2:58:35 ET]
+Table '3938535170 1' 3-max Siège #2 est au bouton.
+Place 1: SWEET DEATH7 (570 en jetons) 
+Place 2: psychoman59 (930 en jetons) 
+psychoman59 : met la petite blind. 15
+SWEET DEATH7 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Qh]
+psychoman59 : relance. 900 à 930 et est all-in.
+SWEET DEATH7 : suit. 540 et est all-in.
+Personne n'a suivi. (360) sont retournés à psychoman59.
+*** FLOP *** [9c Jc Js]
+*** TOURNANT *** [9c Jc Js] [4s]
+*** RIVIÈRE *** [9c Jc Js 4s] [5d]
+*** ABATTAGE ***
+SWEET DEATH7 : montre [Ts Ac] (une paire de Valets)
+psychoman59 : montre [Kc Qh] (une paire de Valets - plus basse kicker)
+SWEET DEATH7 a remporté 1140  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1140 | Commission 0 
+Tableau [9c Jc Js 4s 5d]
+Siège 1 : SWEET DEATH7 (grosse blind) a montré [Ts Ac] et a gagné (1140) avec une paire de Valets
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Kc Qh] et a perdu avec une paire de Valets
+
+
+
+Main PokerStars n°258167485080 : Tournoi #3938535170, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/10/2025 8:58:51 CET [18/10/2025 2:58:51 ET]
+Table '3938535170 1' 3-max Siège #1 est au bouton.
+Place 1: SWEET DEATH7 (1140 en jetons) 
+Place 2: psychoman59 (360 en jetons) 
+SWEET DEATH7 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 4d]
+SWEET DEATH7 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : SWEET DEATH7 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°258167485517 : Tournoi #3938535170, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/10/2025 8:58:58 CET [18/10/2025 2:58:58 ET]
+Table '3938535170 1' 3-max Siège #2 est au bouton.
+Place 1: SWEET DEATH7 (1125 en jetons) 
+Place 2: psychoman59 (375 en jetons) 
+psychoman59 : met la petite blind. 15
+SWEET DEATH7 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Ts]
+psychoman59 : suit. 15
+SWEET DEATH7 : parole 
+*** FLOP *** [5h Qd 2c]
+SWEET DEATH7 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5h Qd 2c] [3s]
+SWEET DEATH7 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à SWEET DEATH7.
+SWEET DEATH7 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [5h Qd 2c 3s]
+Siège 1 : SWEET DEATH7 (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°258167486340 : Tournoi #3938535170, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/10/2025 8:59:12 CET [18/10/2025 2:59:12 ET]
+Table '3938535170 1' 3-max Siège #1 est au bouton.
+Place 1: SWEET DEATH7 (1155 en jetons) 
+Place 2: psychoman59 (345 en jetons) 
+SWEET DEATH7 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 4s]
+SWEET DEATH7 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : SWEET DEATH7 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°258167486627 : Tournoi #3938535170, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/10/2025 8:59:16 CET [18/10/2025 2:59:16 ET]
+Table '3938535170 1' 3-max Siège #2 est au bouton.
+Place 1: SWEET DEATH7 (1140 en jetons) 
+Place 2: psychoman59 (360 en jetons) 
+psychoman59 : met la petite blind. 15
+SWEET DEATH7 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Ad]
+psychoman59 : relance. 330 à 360 et est all-in.
+SWEET DEATH7 : passe. 
+Personne n'a suivi. (330) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : SWEET DEATH7 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°258167487024 : Tournoi #3938535170, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/10/2025 8:59:23 CET [18/10/2025 2:59:23 ET]
+Table '3938535170 1' 3-max Siège #1 est au bouton.
+Place 1: SWEET DEATH7 (1110 en jetons) 
+Place 2: psychoman59 (390 en jetons) 
+SWEET DEATH7 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 5h]
+SWEET DEATH7 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : SWEET DEATH7 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°258167487289 : Tournoi #3938535170, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/10/2025 8:59:28 CET [18/10/2025 2:59:28 ET]
+Table '3938535170 1' 3-max Siège #2 est au bouton.
+Place 1: SWEET DEATH7 (1095 en jetons) 
+Place 2: psychoman59 (405 en jetons) 
+psychoman59 : met la petite blind. 15
+SWEET DEATH7 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 5d]
+psychoman59 : suit. 15
+SWEET DEATH7 : parole 
+*** FLOP *** [Td Th Jh]
+SWEET DEATH7 : parole 
+psychoman59 : mise. 60
+SWEET DEATH7 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Td Th Jh]
+Siège 1 : SWEET DEATH7 (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°258167488066 : Tournoi #3938535170, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/10/2025 8:59:40 CET [18/10/2025 2:59:40 ET]
+Table '3938535170 1' 3-max Siège #1 est au bouton.
+Place 1: SWEET DEATH7 (1065 en jetons) 
+Place 2: psychoman59 (435 en jetons) 
+SWEET DEATH7 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 3c]
+SWEET DEATH7 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : SWEET DEATH7 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°258167488391 : Tournoi #3938535170, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/10/2025 8:59:46 CET [18/10/2025 2:59:46 ET]
+Table '3938535170 1' 3-max Siège #2 est au bouton.
+Place 1: SWEET DEATH7 (1050 en jetons) 
+Place 2: psychoman59 (450 en jetons) 
+psychoman59 : met la petite blind. 15
+SWEET DEATH7 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 9d]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à SWEET DEATH7.
+SWEET DEATH7 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : SWEET DEATH7 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258167488674 : Tournoi #3938535170, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/10/2025 8:59:51 CET [18/10/2025 2:59:51 ET]
+Table '3938535170 1' 3-max Siège #1 est au bouton.
+Place 1: SWEET DEATH7 (1065 en jetons) 
+Place 2: psychoman59 (435 en jetons) 
+SWEET DEATH7 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 4d]
+SWEET DEATH7 : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à SWEET DEATH7.
+SWEET DEATH7 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : SWEET DEATH7 (bouton) (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258167489343 : Tournoi #3938535170, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/10/2025 9:00:02 CET [18/10/2025 3:00:02 ET]
+Table '3938535170 1' 3-max Siège #2 est au bouton.
+Place 1: SWEET DEATH7 (1095 en jetons) 
+Place 2: psychoman59 (405 en jetons) 
+psychoman59 : met la petite blind. 15
+SWEET DEATH7 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Tc]
+psychoman59 : relance. 375 à 405 et est all-in.
+SWEET DEATH7 : passe. 
+Personne n'a suivi. (375) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : SWEET DEATH7 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°258167489758 : Tournoi #3938535170, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/10/2025 9:00:09 CET [18/10/2025 3:00:09 ET]
+Table '3938535170 1' 3-max Siège #1 est au bouton.
+Place 1: SWEET DEATH7 (1065 en jetons) 
+Place 2: psychoman59 (435 en jetons) 
+SWEET DEATH7 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 3s]
+SWEET DEATH7 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : SWEET DEATH7 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°258167490350 : Tournoi #3938535170, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/10/2025 9:00:19 CET [18/10/2025 3:00:19 ET]
+Table '3938535170 1' 3-max Siège #2 est au bouton.
+Place 1: SWEET DEATH7 (1050 en jetons) 
+Place 2: psychoman59 (450 en jetons) 
+psychoman59 : met la petite blind. 15
+SWEET DEATH7 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 7d]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à SWEET DEATH7.
+SWEET DEATH7 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : SWEET DEATH7 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258167490780 : Tournoi #3938535170, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/10/2025 9:00:26 CET [18/10/2025 3:00:26 ET]
+Table '3938535170 1' 3-max Siège #1 est au bouton.
+Place 1: SWEET DEATH7 (1065 en jetons) 
+Place 2: psychoman59 (435 en jetons) 
+SWEET DEATH7 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 6d]
+SWEET DEATH7 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : SWEET DEATH7 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°258167491044 : Tournoi #3938535170, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/10/2025 9:00:30 CET [18/10/2025 3:00:30 ET]
+Table '3938535170 1' 3-max Siège #2 est au bouton.
+Place 1: SWEET DEATH7 (1050 en jetons) 
+Place 2: psychoman59 (450 en jetons) 
+psychoman59 : met la petite blind. 15
+SWEET DEATH7 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Qh]
+psychoman59 : relance. 420 à 450 et est all-in.
+SWEET DEATH7 : passe. 
+Personne n'a suivi. (420) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : SWEET DEATH7 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°258167491476 : Tournoi #3938535170, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/10/2025 9:00:37 CET [18/10/2025 3:00:37 ET]
+Table '3938535170 1' 3-max Siège #1 est au bouton.
+Place 1: SWEET DEATH7 (1020 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+SWEET DEATH7 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Kd]
+SWEET DEATH7 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : SWEET DEATH7 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°258167491798 : Tournoi #3938535170, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/10/2025 9:00:42 CET [18/10/2025 3:00:42 ET]
+Table '3938535170 1' 3-max Siège #2 est au bouton.
+Place 1: SWEET DEATH7 (1005 en jetons) 
+Place 2: psychoman59 (495 en jetons) 
+psychoman59 : met la petite blind. 15
+SWEET DEATH7 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 7d]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à SWEET DEATH7.
+SWEET DEATH7 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : SWEET DEATH7 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258167492078 : Tournoi #3938535170, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/10/2025 9:00:46 CET [18/10/2025 3:00:46 ET]
+Table '3938535170 1' 3-max Siège #1 est au bouton.
+Place 1: SWEET DEATH7 (1020 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+SWEET DEATH7 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Ks]
+SWEET DEATH7 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [4h Jd 2s]
+psychoman59 : parole 
+SWEET DEATH7 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à SWEET DEATH7.
+SWEET DEATH7 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [4h Jd 2s]
+Siège 1 : SWEET DEATH7 (bouton) (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°258167493175 : Tournoi #3938535170, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 18/10/2025 9:01:03 CET [18/10/2025 3:01:03 ET]
+Table '3938535170 1' 3-max Siège #2 est au bouton.
+Place 1: SWEET DEATH7 (1050 en jetons) 
+Place 2: psychoman59 (450 en jetons) 
+psychoman59 : met la petite blind. 20
+SWEET DEATH7 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 4h]
+psychoman59 : relance. 410 à 450 et est all-in.
+SWEET DEATH7 : passe. 
+Personne n'a suivi. (410) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : SWEET DEATH7 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°258167493619 : Tournoi #3938535170, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 18/10/2025 9:01:10 CET [18/10/2025 3:01:10 ET]
+Table '3938535170 1' 3-max Siège #1 est au bouton.
+Place 1: SWEET DEATH7 (1010 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+SWEET DEATH7 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 6s]
+SWEET DEATH7 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : SWEET DEATH7 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°258167493933 : Tournoi #3938535170, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 18/10/2025 9:01:14 CET [18/10/2025 3:01:14 ET]
+Table '3938535170 1' 3-max Siège #2 est au bouton.
+Place 1: SWEET DEATH7 (990 en jetons) 
+Place 2: psychoman59 (510 en jetons) 
+psychoman59 : met la petite blind. 20
+SWEET DEATH7 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 9d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à SWEET DEATH7.
+SWEET DEATH7 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : SWEET DEATH7 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258167494401 : Tournoi #3938535170, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 18/10/2025 9:01:21 CET [18/10/2025 3:01:21 ET]
+Table '3938535170 1' 3-max Siège #1 est au bouton.
+Place 1: SWEET DEATH7 (1010 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+SWEET DEATH7 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Js]
+SWEET DEATH7 : suit. 20
+psychoman59 : relance. 450 à 490 et est all-in.
+SWEET DEATH7 : suit. 450
+*** FLOP *** [4s 9s 7h]
+*** TOURNANT *** [4s 9s 7h] [3s]
+*** RIVIÈRE *** [4s 9s 7h 3s] [8d]
+*** ABATTAGE ***
+psychoman59 : montre [Kd Js] (Hauteur Roi)
+SWEET DEATH7 : montre [8h As] (une paire de Huit)
+SWEET DEATH7 a remporté 980  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+SWEET DEATH7 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 980 | Commission 0 
+Tableau [4s 9s 7h 3s 8d]
+Siège 1 : SWEET DEATH7 (bouton) (petite blind) a montré [8h As] et a gagné (980) avec une paire de Huit
+Siège 2 : psychoman59 (grosse blind) a montré [Kd Js] et a perdu avec Hauteur Roi
+
+
+

@@ -1,0 +1,34 @@
+﻿Main PokerStars n°243460521606 : Tournoi #3585927016, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 03/05/2023 7:03:30 CET [03/05/2023 1:03:30 ET]
+Table '3585927016 1' 3-max Siège #1 est au bouton.
+Place 1: crayptol (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: jaenmouloude (300 en jetons) 
+psychoman59 : met la petite blind. 10
+jaenmouloude : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac As]
+crayptol : suit. 20
+psychoman59 : relance. 40 à 60
+jaenmouloude : suit. 40
+crayptol : suit. 40
+*** FLOP *** [Jh 5c 2c]
+psychoman59 : mise. 180
+jaenmouloude : passe. 
+crayptol : relance. 60 à 240 et est all-in.
+psychoman59 : suit. 60 et est all-in.
+*** TOURNANT *** [Jh 5c 2c] [6d]
+*** RIVIÈRE *** [Jh 5c 2c 6d] [9c]
+*** ABATTAGE ***
+psychoman59 : montre [Ac As] (une paire de As)
+crayptol : montre [Js 6s] (double paire, Valets et Six)
+crayptol a remporté 660  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 660 | Commission 0 
+Tableau [Jh 5c 2c 6d 9c]
+Siège 1 : crayptol (bouton) a montré [Js 6s] et a gagné (660) avec double paire, Valets et Six
+Siège 2 : psychoman59 (petite blind) a montré [Ac As] et a perdu avec une paire de As
+Siège 3 : jaenmouloude (grosse blind) s'est couché. sur le Flop
+
+
+

@@ -1,0 +1,265 @@
+﻿Main PokerStars n°242622718704 : Tournoi #3566173779, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 23/03/2023 7:12:07 CET [23/03/2023 2:12:07 ET]
+Table '3566173779 1' 3-max Siège #1 est au bouton.
+Place 1: inla 1974 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: klaussswab (300 en jetons) 
+psychoman59 : met la petite blind. 10
+klaussswab : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Qs]
+inla 1974 : relance. 20 à 40
+psychoman59 : suit. 30
+klaussswab : suit. 20
+*** FLOP *** [4d Qc Td]
+psychoman59 : mise. 120
+klaussswab : passe. 
+inla 1974 : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [4d Qc Td]
+Siège 1 : inla 1974 (bouton) s'est couché. sur le Flop
+Siège 2 : psychoman59 (petite blind) a remporté (120)
+Siège 3 : klaussswab (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°242622720432 : Tournoi #3566173779, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 23/03/2023 7:12:26 CET [23/03/2023 2:12:26 ET]
+Table '3566173779 1' 3-max Siège #2 est au bouton.
+Place 1: inla 1974 (260 en jetons) 
+Place 2: psychoman59 (380 en jetons) 
+Place 3: klaussswab (260 en jetons) 
+klaussswab : met la petite blind. 10
+inla 1974 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 2s]
+psychoman59 : passe. 
+klaussswab : relance. 40 à 60
+inla 1974 : passe. 
+Personne n'a suivi. (40) sont retournés à klaussswab.
+klaussswab a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : inla 1974 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : klaussswab (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°242622721412 : Tournoi #3566173779, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 23/03/2023 7:12:37 CET [23/03/2023 2:12:37 ET]
+Table '3566173779 1' 3-max Siège #3 est au bouton.
+Place 1: inla 1974 (240 en jetons) 
+Place 2: psychoman59 (380 en jetons) 
+Place 3: klaussswab (280 en jetons) 
+inla 1974 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Ks]
+klaussswab : suit. 20
+inla 1974 : relance. 40 à 60
+psychoman59 : passe. 
+klaussswab : suit. 40
+*** FLOP *** [Tc 7s 6c]
+inla 1974 : mise. 140
+klaussswab : relance. 80 à 220 et est all-in.
+inla 1974 : suit. 40 et est all-in.
+Personne n'a suivi. (40) sont retournés à klaussswab.
+*** TOURNANT *** [Tc 7s 6c] [Qs]
+*** RIVIÈRE *** [Tc 7s 6c Qs] [Ad]
+*** ABATTAGE ***
+inla 1974 : montre [As Ac] (un brelan de As)
+klaussswab : montre [6h 4s] (une paire de Six)
+inla 1974 a remporté 500  lors du pot .
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Tableau [Tc 7s 6c Qs Ad]
+Siège 1 : inla 1974 (petite blind) a montré [As Ac] et a gagné (500) avec un brelan de As
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : klaussswab (bouton) a montré [6h 4s] et a perdu avec une paire de Six
+
+
+
+Main PokerStars n°242622724099 : Tournoi #3566173779, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 23/03/2023 7:13:06 CET [23/03/2023 2:13:06 ET]
+Table '3566173779 1' 3-max Siège #1 est au bouton.
+Place 1: inla 1974 (500 en jetons) 
+Place 2: psychoman59 (360 en jetons) 
+Place 3: klaussswab (40 en jetons) 
+psychoman59 : met la petite blind. 10
+klaussswab : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Qh]
+inla 1974 : relance. 20 à 40
+psychoman59 : suit. 30
+klaussswab : suit. 20 et est all-in.
+*** FLOP *** [7d 5s As]
+psychoman59 : parole 
+inla 1974 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à inla 1974.
+*** TOURNANT *** [7d 5s As] [Kc]
+*** RIVIÈRE *** [7d 5s As Kc] [3h]
+*** ABATTAGE ***
+klaussswab : montre [2c Qd] (Hauteur As)
+inla 1974 : montre [Jd Ad] (une paire de As)
+inla 1974 a remporté 120  lors du pot .
+klaussswab a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [7d 5s As Kc 3h]
+Siège 1 : inla 1974 (bouton) a montré [Jd Ad] et a gagné (120) avec une paire de As
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Flop
+Siège 3 : klaussswab (grosse blind) a montré [2c Qd] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°242622726562 : Tournoi #3566173779, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 23/03/2023 7:13:32 CET [23/03/2023 2:13:32 ET]
+Table '3566173779 1' 3-max Siège #2 est au bouton.
+Place 1: inla 1974 (580 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+psychoman59 : met la petite blind. 15
+inla 1974 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 7c]
+psychoman59 : relance. 290 à 320 et est all-in.
+inla 1974 : passe. 
+Personne n'a suivi. (290) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : inla 1974 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°242622727414 : Tournoi #3566173779, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 23/03/2023 7:13:41 CET [23/03/2023 2:13:41 ET]
+Table '3566173779 1' 3-max Siège #1 est au bouton.
+Place 1: inla 1974 (550 en jetons) 
+Place 2: psychoman59 (350 en jetons) 
+inla 1974 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Ad]
+inla 1974 : suit. 15
+psychoman59 : relance. 320 à 350 et est all-in.
+inla 1974 : passe. 
+Personne n'a suivi. (320) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : inla 1974 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°242622728416 : Tournoi #3566173779, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 23/03/2023 7:13:52 CET [23/03/2023 2:13:52 ET]
+Table '3566173779 1' 3-max Siège #2 est au bouton.
+Place 1: inla 1974 (520 en jetons) 
+Place 2: psychoman59 (380 en jetons) 
+psychoman59 : met la petite blind. 15
+inla 1974 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 9c]
+psychoman59 : suit. 15
+inla 1974 : parole 
+*** FLOP *** [Ts 8s Jh]
+inla 1974 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Ts 8s Jh] [6d]
+inla 1974 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Ts 8s Jh 6d] [8c]
+inla 1974 : parole 
+psychoman59 : mise. 60
+inla 1974 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ts 8s Jh 6d 8c]
+Siège 1 : inla 1974 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°242622730965 : Tournoi #3566173779, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 23/03/2023 7:14:19 CET [23/03/2023 2:14:19 ET]
+Table '3566173779 1' 3-max Siège #1 est au bouton.
+Place 1: inla 1974 (490 en jetons) 
+Place 2: psychoman59 (410 en jetons) 
+inla 1974 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 3d]
+inla 1974 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : inla 1974 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°242622731499 : Tournoi #3566173779, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 23/03/2023 7:14:25 CET [23/03/2023 2:14:25 ET]
+Table '3566173779 1' 3-max Siège #2 est au bouton.
+Place 1: inla 1974 (470 en jetons) 
+Place 2: psychoman59 (430 en jetons) 
+psychoman59 : met la petite blind. 20
+inla 1974 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 5h]
+psychoman59 : suit. 20
+inla 1974 : parole 
+*** FLOP *** [9c 2d 7s]
+inla 1974 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [9c 2d 7s] [6c]
+inla 1974 : mise. 40
+psychoman59 : suit. 40
+*** RIVIÈRE *** [9c 2d 7s 6c] [Jd]
+inla 1974 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+inla 1974 : montre [Kd 5s] (Hauteur Roi)
+psychoman59 : montre [As 5h] (Hauteur As)
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [9c 2d 7s 6c Jd]
+Siège 1 : inla 1974 (grosse blind) a montré [Kd 5s] et a perdu avec Hauteur Roi
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [As 5h] et a gagné (160) avec Hauteur As
+
+
+
+Main PokerStars n°242622733880 : Tournoi #3566173779, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 23/03/2023 7:14:51 CET [23/03/2023 2:14:51 ET]
+Table '3566173779 1' 3-max Siège #1 est au bouton.
+Place 1: inla 1974 (390 en jetons) 
+Place 2: psychoman59 (510 en jetons) 
+inla 1974 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Jh]
+inla 1974 : relance. 350 à 390 et est all-in.
+psychoman59 : suit. 350
+*** FLOP *** [Ah Td Kd]
+*** TOURNANT *** [Ah Td Kd] [7h]
+*** RIVIÈRE *** [Ah Td Kd 7h] [5c]
+*** ABATTAGE ***
+psychoman59 : montre [Qs Jh] (une suite, Dix à As)
+inla 1974 : montre [9c Kc] (une paire de Rois)
+psychoman59 a remporté 780  lors du pot .
+inla 1974 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 780 | Commission 0 
+Tableau [Ah Td Kd 7h 5c]
+Siège 1 : inla 1974 (bouton) (petite blind) a montré [9c Kc] et a perdu avec une paire de Rois
+Siège 2 : psychoman59 (grosse blind) a montré [Qs Jh] et a gagné (780) avec une suite, Dix à As
+
+
+

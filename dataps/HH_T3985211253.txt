@@ -1,0 +1,75 @@
+﻿Main PokerStars n°260168122242 : Tournoi #3985211253, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/03/2026 10:24:30 CET [21/03/2026 5:24:30 ET]
+Table '3985211253 1' 3-max Siège #1 est au bouton.
+Place 1: flow363792 (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: Rabaco (500 en jetons) 
+psychoman59 : met la petite blind. 10
+Rabaco : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 6c]
+flow363792 : suit. 20
+psychoman59 : suit. 10
+Rabaco : parole 
+*** FLOP *** [9d 9s 6h]
+psychoman59 : parole 
+Rabaco : parole 
+flow363792 : mise. 20
+psychoman59 : suit. 20
+Rabaco : passe. 
+*** TOURNANT *** [9d 9s 6h] [3c]
+psychoman59 : mise. 50
+flow363792 : suit. 50
+*** RIVIÈRE *** [9d 9s 6h 3c] [Qd]
+psychoman59 : mise. 100
+flow363792 : passe. 
+Personne n'a suivi. (100) sont retournés à psychoman59.
+psychoman59 a remporté 200  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [9d 9s 6h 3c Qd]
+Siège 1 : flow363792 (bouton) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (petite blind) a remporté (200)
+Siège 3 : Rabaco (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°260168124730 : Tournoi #3985211253, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/03/2026 10:25:04 CET [21/03/2026 5:25:04 ET]
+Table '3985211253 1' 3-max Siège #2 est au bouton.
+Place 1: flow363792 (410 en jetons) 
+Place 2: psychoman59 (610 en jetons) 
+Place 3: Rabaco (480 en jetons) 
+Rabaco : met la petite blind. 10
+flow363792 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad As]
+psychoman59 : relance. 20 à 40
+Rabaco : suit. 30
+flow363792 : suit. 20
+*** FLOP *** [7c 2h Th]
+Rabaco : mise. 60
+flow363792 : suit. 60
+psychoman59 : relance. 510 à 570 et est all-in.
+Rabaco : suit. 380 et est all-in.
+flow363792 : suit. 310 et est all-in.
+Personne n'a suivi. (130) sont retournés à psychoman59.
+*** TOURNANT *** [7c 2h Th] [7d]
+*** RIVIÈRE *** [7c 2h Th 7d] [Ac]
+*** ABATTAGE ***
+Rabaco : montre [3h 6h] (une paire de Sept)
+psychoman59 : montre [Ad As] (un full, full aux As par les Sept)
+psychoman59 a remporté 140  parallèle lors du pot .
+flow363792 : montre [Td Qc] (double paire, Dix et Sept)
+psychoman59 a remporté 1230  principal lors du pot .
+Rabaco a fini le tournoi en 2e position.
+flow363792 a fini le tournoi en 3e position.
+psychoman59 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 1370 Principal pot 1230. Parallèle pot 140. | Commission 0 
+Tableau [7c 2h Th 7d Ac]
+Siège 1 : flow363792 (grosse blind) a montré [Td Qc] et a perdu avec double paire, Dix et Sept
+Siège 2 : psychoman59 (bouton) a montré [Ad As] et a gagné (1370) avec un full, full aux As par les Sept
+Siège 3 : Rabaco (petite blind) a montré [3h 6h] et a perdu avec une paire de Sept
+
+
+

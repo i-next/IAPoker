@@ -1,0 +1,60 @@
+﻿Main PokerStars n°244969605273 : Tournoi #3621236964, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 23/07/2023 7:48:37 CET [23/07/2023 1:48:37 ET]
+Table '3621236964 1' 3-max Siège #1 est au bouton.
+Place 1: jonathan6jo (300 en jetons) 
+Place 2: vippypok (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+vippypok : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Th]
+jonathan6jo : suit. 20
+vippypok : relance. 20 à 40
+psychoman59 : relance. 260 à 300 et est all-in.
+jonathan6jo : passe. 
+vippypok : suit. 260 et est all-in.
+*** FLOP *** [6s 2d 4s]
+*** TOURNANT *** [6s 2d 4s] [4c]
+*** RIVIÈRE *** [6s 2d 4s 4c] [6h]
+*** ABATTAGE ***
+vippypok : montre [Kh Ah] (double paire, Six et Quatre)
+psychoman59 : montre [Ts Th] (double paire, Dix et Six)
+psychoman59 a remporté 620  lors du pot .
+vippypok a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [6s 2d 4s 4c 6h]
+Siège 1 : jonathan6jo (bouton) s'est couché. avant Flop
+Siège 2 : vippypok (petite blind) a montré [Kh Ah] et a perdu avec double paire, Six et Quatre
+Siège 3 : psychoman59 (grosse blind) a montré [Ts Th] et a gagné (620) avec double paire, Dix et Six
+
+
+
+Main PokerStars n°244969607581 : Tournoi #3621236964, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 23/07/2023 7:49:00 CET [23/07/2023 1:49:00 ET]
+Table '3621236964 1' 3-max Siège #3 est au bouton.
+Place 1: jonathan6jo (280 en jetons) 
+Place 3: psychoman59 (620 en jetons) 
+psychoman59 : met la petite blind. 10
+jonathan6jo : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 7h]
+psychoman59 : relance. 60 à 80
+jonathan6jo : suit. 60
+*** FLOP *** [Qd 7c Qh]
+jonathan6jo : mise. 200 et est all-in.
+psychoman59 : suit. 200
+*** TOURNANT *** [Qd 7c Qh] [8h]
+*** RIVIÈRE *** [Qd 7c Qh 8h] [7s]
+*** ABATTAGE ***
+jonathan6jo : montre [3s 3c] (double paire, Dames et Sept)
+psychoman59 : montre [Ah 7h] (un full, full aux Sept par les Dames)
+psychoman59 a remporté 560  lors du pot .
+jonathan6jo a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 6.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [Qd 7c Qh 8h 7s]
+Siège 1 : jonathan6jo (grosse blind) a montré [3s 3c] et a perdu avec double paire, Dames et Sept
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Ah 7h] et a gagné (560) avec un full, full aux Sept par les Dames
+
+
+

@@ -1,0 +1,658 @@
+﻿Main PokerStars n°258774113949 : Tournoi #3953194167, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 05/12/2025 7:27:41 CET [05/12/2025 1:27:41 ET]
+Table '3953194167 1' 3-max Siège #1 est au bouton.
+Place 1: MaantjeBoon (500 en jetons) 
+Place 2: pokar212 (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+pokar212 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 8s]
+MaantjeBoon : passe. 
+pokar212 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [2c 5h 3s]
+pokar212 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [2c 5h 3s] [6d]
+pokar212 : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [2c 5h 3s 6d] [Td]
+pokar212 : mise. 20
+psychoman59 : suit. 20
+*** ABATTAGE ***
+pokar212 : montre [Js 9c] (Hauteur Valet)
+psychoman59 : montre [6c 8s] (une paire de Six)
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [2c 5h 3s 6d Td]
+Siège 1 : MaantjeBoon (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : pokar212 (petite blind) a montré [Js 9c] et a perdu avec Hauteur Valet
+Siège 3 : psychoman59 (grosse blind) a montré [6c 8s] et a gagné (120) avec une paire de Six
+
+
+
+Main PokerStars n°258774115006 : Tournoi #3953194167, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 05/12/2025 7:27:59 CET [05/12/2025 1:27:59 ET]
+Table '3953194167 1' 3-max Siège #2 est au bouton.
+Place 1: MaantjeBoon (500 en jetons) 
+Place 2: pokar212 (440 en jetons) 
+Place 3: psychoman59 (560 en jetons) 
+psychoman59 : met la petite blind. 10
+MaantjeBoon : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 5s]
+pokar212 : suit. 20
+psychoman59 : passe. 
+MaantjeBoon : parole 
+*** FLOP *** [4c 5h Jc]
+MaantjeBoon : mise. 20
+pokar212 : passe. 
+Personne n'a suivi. (20) sont retournés à MaantjeBoon.
+MaantjeBoon a remporté 50  lors du pot .
+MaantjeBoon : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [4c 5h Jc]
+Siège 1 : MaantjeBoon (grosse blind) a remporté (50)
+Siège 2 : pokar212 (bouton) s'est couché. sur le Flop
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258774115810 : Tournoi #3953194167, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 05/12/2025 7:28:13 CET [05/12/2025 1:28:13 ET]
+Table '3953194167 1' 3-max Siège #3 est au bouton.
+Place 1: MaantjeBoon (530 en jetons) 
+Place 2: pokar212 (420 en jetons) 
+Place 3: psychoman59 (550 en jetons) 
+MaantjeBoon : met la petite blind. 10
+pokar212 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 5d]
+psychoman59 : passe. 
+MaantjeBoon : relance. 40 à 60
+pokar212 : suit. 40
+*** FLOP *** [9d 6h As]
+MaantjeBoon : mise. 470 et est all-in.
+pokar212 : passe. 
+Personne n'a suivi. (470) sont retournés à MaantjeBoon.
+MaantjeBoon a remporté 120  lors du pot .
+MaantjeBoon : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [9d 6h As]
+Siège 1 : MaantjeBoon (petite blind) a remporté (120)
+Siège 2 : pokar212 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°258774116791 : Tournoi #3953194167, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 05/12/2025 7:28:29 CET [05/12/2025 1:28:29 ET]
+Table '3953194167 1' 3-max Siège #1 est au bouton.
+Place 1: MaantjeBoon (590 en jetons) 
+Place 2: pokar212 (360 en jetons) 
+Place 3: psychoman59 (550 en jetons) 
+pokar212 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 7s]
+MaantjeBoon : suit. 20
+pokar212 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [8d As 2h]
+pokar212 : parole 
+psychoman59 : parole 
+MaantjeBoon : parole 
+*** TOURNANT *** [8d As 2h] [8h]
+pokar212 : parole 
+psychoman59 : parole 
+MaantjeBoon : parole 
+*** RIVIÈRE *** [8d As 2h 8h] [3h]
+pokar212 : parole 
+psychoman59 : parole 
+MaantjeBoon : mise. 20
+pokar212 : suit. 20
+psychoman59 : passe. 
+*** ABATTAGE ***
+MaantjeBoon : montre [Qc Jd] (une paire de Huit)
+pokar212 : montre [Jc 2d] (double paire, Huit et Deux)
+pokar212 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [8d As 2h 8h 3h]
+Siège 1 : MaantjeBoon (bouton) a montré [Qc Jd] et a perdu avec une paire de Huit
+Siège 2 : pokar212 (petite blind) a montré [Jc 2d] et a gagné (100) avec double paire, Huit et Deux
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°258774118730 : Tournoi #3953194167, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 05/12/2025 7:29:03 CET [05/12/2025 1:29:03 ET]
+Table '3953194167 1' 3-max Siège #2 est au bouton.
+Place 1: MaantjeBoon (550 en jetons) 
+Place 2: pokar212 (420 en jetons) 
+Place 3: psychoman59 (530 en jetons) 
+psychoman59 : met la petite blind. 10
+MaantjeBoon : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Js]
+pokar212 : suit. 20
+psychoman59 : suit. 10
+MaantjeBoon : parole 
+*** FLOP *** [Qc 8c 5c]
+psychoman59 : parole 
+MaantjeBoon : parole 
+pokar212 : parole 
+*** TOURNANT *** [Qc 8c 5c] [Ah]
+psychoman59 : parole 
+MaantjeBoon : parole 
+pokar212 : mise. 20
+psychoman59 : suit. 20
+MaantjeBoon : passe. 
+*** RIVIÈRE *** [Qc 8c 5c Ah] [5s]
+psychoman59 : parole 
+pokar212 : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à pokar212.
+pokar212 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [Qc 8c 5c Ah 5s]
+Siège 1 : MaantjeBoon (grosse blind) s'est couché. sur le Tournant
+Siège 2 : pokar212 (bouton) a remporté (100)
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°258774120453 : Tournoi #3953194167, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 05/12/2025 7:29:32 CET [05/12/2025 1:29:32 ET]
+Table '3953194167 1' 3-max Siège #3 est au bouton.
+Place 1: MaantjeBoon (530 en jetons) 
+Place 2: pokar212 (480 en jetons) 
+Place 3: psychoman59 (490 en jetons) 
+MaantjeBoon : met la petite blind. 10
+pokar212 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Qd]
+psychoman59 : passe. 
+MaantjeBoon : passe. 
+Personne n'a suivi. (10) sont retournés à pokar212.
+pokar212 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : MaantjeBoon (petite blind) s'est couché. avant Flop
+Siège 2 : pokar212 (grosse blind) a remporté (20)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°258774120816 : Tournoi #3953194167, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 05/12/2025 7:29:38 CET [05/12/2025 1:29:38 ET]
+Table '3953194167 1' 3-max Siège #1 est au bouton.
+Place 1: MaantjeBoon (520 en jetons) 
+Place 2: pokar212 (490 en jetons) 
+Place 3: psychoman59 (490 en jetons) 
+pokar212 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 7s]
+MaantjeBoon : passe. 
+pokar212 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Ts Tc Kd]
+pokar212 : parole 
+psychoman59 : mise. 40
+pokar212 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Ts Tc Kd]
+Siège 1 : MaantjeBoon (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : pokar212 (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°258774121654 : Tournoi #3953194167, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 05/12/2025 7:29:52 CET [05/12/2025 1:29:52 ET]
+Table '3953194167 1' 3-max Siège #2 est au bouton.
+Place 1: MaantjeBoon (520 en jetons) 
+Place 2: pokar212 (470 en jetons) 
+Place 3: psychoman59 (510 en jetons) 
+psychoman59 : met la petite blind. 10
+MaantjeBoon : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 3d]
+pokar212 : suit. 20
+psychoman59 : suit. 10
+MaantjeBoon : parole 
+*** FLOP *** [8c Qd 2s]
+psychoman59 : parole 
+MaantjeBoon : parole 
+pokar212 : mise. 20
+psychoman59 : passe. 
+MaantjeBoon : passe. 
+Personne n'a suivi. (20) sont retournés à pokar212.
+pokar212 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [8c Qd 2s]
+Siège 1 : MaantjeBoon (grosse blind) s'est couché. sur le Flop
+Siège 2 : pokar212 (bouton) a remporté (60)
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°258774122812 : Tournoi #3953194167, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 05/12/2025 7:30:12 CET [05/12/2025 1:30:12 ET]
+Table '3953194167 1' 3-max Siège #3 est au bouton.
+Place 1: MaantjeBoon (500 en jetons) 
+Place 2: pokar212 (510 en jetons) 
+Place 3: psychoman59 (490 en jetons) 
+MaantjeBoon : met la petite blind. 10
+pokar212 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 9c]
+psychoman59 : suit. 20
+MaantjeBoon : passe. 
+pokar212 : parole 
+*** FLOP *** [9s Ah 4d]
+pokar212 : parole 
+psychoman59 : mise. 20
+pokar212 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [9s Ah 4d]
+Siège 1 : MaantjeBoon (petite blind) s'est couché. avant Flop
+Siège 2 : pokar212 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) a remporté (50)
+
+
+
+Main PokerStars n°258774123882 : Tournoi #3953194167, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 05/12/2025 7:30:30 CET [05/12/2025 1:30:30 ET]
+Table '3953194167 1' 3-max Siège #1 est au bouton.
+Place 1: MaantjeBoon (490 en jetons) 
+Place 2: pokar212 (490 en jetons) 
+Place 3: psychoman59 (520 en jetons) 
+pokar212 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Ad]
+MaantjeBoon : passe. 
+pokar212 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [6d 4c Kh]
+pokar212 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6d 4c Kh] [6h]
+pokar212 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [6d 4c Kh 6h] [6s]
+pokar212 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+pokar212 : montre [Ac 8c] (un brelan de Six)
+psychoman59 : montre [2s Ad] (un brelan de Six)
+pokar212 a remporté 20  lors du pot .
+psychoman59 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [6d 4c Kh 6h 6s]
+Siège 1 : MaantjeBoon (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : pokar212 (petite blind) a montré [Ac 8c] et a gagné (20) avec un brelan de Six
+Siège 3 : psychoman59 (grosse blind) a montré [2s Ad] et a gagné (20) avec un brelan de Six
+
+
+
+Main PokerStars n°258774125310 : Tournoi #3953194167, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 05/12/2025 7:30:54 CET [05/12/2025 1:30:54 ET]
+Table '3953194167 1' 3-max Siège #2 est au bouton.
+Place 1: MaantjeBoon (490 en jetons) 
+Place 2: pokar212 (490 en jetons) 
+Place 3: psychoman59 (520 en jetons) 
+psychoman59 : met la petite blind. 15
+MaantjeBoon : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 8c]
+pokar212 : suit. 30
+psychoman59 : passe. 
+MaantjeBoon : relance. 105 à 135
+pokar212 : passe. 
+Personne n'a suivi. (105) sont retournés à MaantjeBoon.
+MaantjeBoon a remporté 75  lors du pot .
+MaantjeBoon : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : MaantjeBoon (grosse blind) a remporté (75)
+Siège 2 : pokar212 (bouton) s'est couché. avant Flop
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258774126330 : Tournoi #3953194167, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 05/12/2025 7:31:11 CET [05/12/2025 1:31:11 ET]
+Table '3953194167 1' 3-max Siège #3 est au bouton.
+Place 1: MaantjeBoon (535 en jetons) 
+Place 2: pokar212 (460 en jetons) 
+Place 3: psychoman59 (505 en jetons) 
+MaantjeBoon : met la petite blind. 15
+pokar212 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Qc]
+psychoman59 : passe. 
+MaantjeBoon : relance. 505 à 535 et est all-in.
+pokar212 : suit. 430 et est all-in.
+Personne n'a suivi. (75) sont retournés à MaantjeBoon.
+*** FLOP *** [3h 9d Ac]
+*** TOURNANT *** [3h 9d Ac] [Kh]
+*** RIVIÈRE *** [3h 9d Ac Kh] [Kd]
+*** ABATTAGE ***
+MaantjeBoon : montre [4d 4c] (double paire, Rois et Quatre)
+pokar212 : montre [6h 6c] (double paire, Rois et Six)
+pokar212 a remporté 920  lors du pot .
+*** SYNTHÈSE ***
+Pot total 920 | Commission 0 
+Tableau [3h 9d Ac Kh Kd]
+Siège 1 : MaantjeBoon (petite blind) a montré [4d 4c] et a perdu avec double paire, Rois et Quatre
+Siège 2 : pokar212 (grosse blind) a montré [6h 6c] et a gagné (920) avec double paire, Rois et Six
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°258774127339 : Tournoi #3953194167, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 05/12/2025 7:31:27 CET [05/12/2025 1:31:27 ET]
+Table '3953194167 1' 3-max Siège #1 est au bouton.
+Place 1: MaantjeBoon (75 en jetons) 
+Place 2: pokar212 (920 en jetons) 
+Place 3: psychoman59 (505 en jetons) 
+pokar212 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 2s]
+MaantjeBoon : relance. 45 à 75 et est all-in.
+pokar212 : suit. 60
+psychoman59 : suit. 45
+*** FLOP *** [7c Th Qd]
+pokar212 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [7c Th Qd] [Kd]
+pokar212 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [7c Th Qd Kd] [2h]
+pokar212 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à pokar212.
+*** ABATTAGE ***
+pokar212 : montre [4h 6h] (Hauteur Roi)
+MaantjeBoon : montre [Kc Jc] (une paire de Rois)
+MaantjeBoon a remporté 225  lors du pot .
+*** SYNTHÈSE ***
+Pot total 225 | Commission 0 
+Tableau [7c Th Qd Kd 2h]
+Siège 1 : MaantjeBoon (bouton) a montré [Kc Jc] et a gagné (225) avec une paire de Rois
+Siège 2 : pokar212 (petite blind) a montré [4h 6h] et a perdu avec Hauteur Roi
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°258774128908 : Tournoi #3953194167, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 05/12/2025 7:31:54 CET [05/12/2025 1:31:54 ET]
+Table '3953194167 1' 3-max Siège #2 est au bouton.
+Place 1: MaantjeBoon (225 en jetons) 
+Place 2: pokar212 (845 en jetons) 
+Place 3: psychoman59 (430 en jetons) 
+psychoman59 : met la petite blind. 15
+MaantjeBoon : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 8c]
+pokar212 : suit. 30
+psychoman59 : passe. 
+MaantjeBoon : parole 
+*** FLOP *** [7h 2h 2d]
+MaantjeBoon : parole 
+pokar212 : parole 
+*** TOURNANT *** [7h 2h 2d] [8d]
+MaantjeBoon : mise. 195 et est all-in.
+pokar212 : suit. 195
+*** RIVIÈRE *** [7h 2h 2d 8d] [Jc]
+*** ABATTAGE ***
+MaantjeBoon : montre [3s 8h] (double paire, Huit et Deux)
+pokar212 : montre [Qc Kc] (une paire de Deux)
+MaantjeBoon a remporté 465  lors du pot .
+*** SYNTHÈSE ***
+Pot total 465 | Commission 0 
+Tableau [7h 2h 2d 8d Jc]
+Siège 1 : MaantjeBoon (grosse blind) a montré [3s 8h] et a gagné (465) avec double paire, Huit et Deux
+Siège 2 : pokar212 (bouton) a montré [Qc Kc] et a perdu avec une paire de Deux
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258774130148 : Tournoi #3953194167, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 05/12/2025 7:32:14 CET [05/12/2025 1:32:14 ET]
+Table '3953194167 1' 3-max Siège #3 est au bouton.
+Place 1: MaantjeBoon (465 en jetons) 
+Place 2: pokar212 (620 en jetons) 
+Place 3: psychoman59 (415 en jetons) 
+MaantjeBoon : met la petite blind. 15
+pokar212 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Kc]
+psychoman59 : relance. 30 à 60
+MaantjeBoon : passe. 
+pokar212 : relance. 560 à 620 et est all-in.
+psychoman59 : suit. 355 et est all-in.
+Personne n'a suivi. (205) sont retournés à pokar212.
+*** FLOP *** [8d Td 7d]
+*** TOURNANT *** [8d Td 7d] [Ks]
+*** RIVIÈRE *** [8d Td 7d Ks] [Qh]
+*** ABATTAGE ***
+pokar212 : montre [4c Ah] (Hauteur As)
+psychoman59 : montre [Kh Kc] (un brelan de Rois)
+psychoman59 a remporté 845  lors du pot .
+*** SYNTHÈSE ***
+Pot total 845 | Commission 0 
+Tableau [8d Td 7d Ks Qh]
+Siège 1 : MaantjeBoon (petite blind) s'est couché. avant Flop
+Siège 2 : pokar212 (grosse blind) a montré [4c Ah] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (bouton) a montré [Kh Kc] et a gagné (845) avec un brelan de Rois
+
+
+
+Main PokerStars n°258774131202 : Tournoi #3953194167, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 05/12/2025 7:32:31 CET [05/12/2025 1:32:31 ET]
+Table '3953194167 1' 3-max Siège #1 est au bouton.
+Place 1: MaantjeBoon (450 en jetons) 
+Place 2: pokar212 (205 en jetons) 
+Place 3: psychoman59 (845 en jetons) 
+pokar212 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 8s]
+MaantjeBoon : passe. 
+pokar212 : relance. 175 à 205 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (175) sont retournés à pokar212.
+pokar212 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : MaantjeBoon (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : pokar212 (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258774131805 : Tournoi #3953194167, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 05/12/2025 7:32:41 CET [05/12/2025 1:32:41 ET]
+Table '3953194167 1' 3-max Siège #2 est au bouton.
+Place 1: MaantjeBoon (450 en jetons) 
+Place 2: pokar212 (235 en jetons) 
+Place 3: psychoman59 (815 en jetons) 
+psychoman59 : met la petite blind. 15
+MaantjeBoon : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 3s]
+pokar212 : suit. 30
+psychoman59 : passe. 
+MaantjeBoon : relance. 420 à 450 et est all-in.
+pokar212 : suit. 205 et est all-in.
+Personne n'a suivi. (215) sont retournés à MaantjeBoon.
+*** FLOP *** [Jc Qc Tc]
+*** TOURNANT *** [Jc Qc Tc] [6s]
+*** RIVIÈRE *** [Jc Qc Tc 6s] [5s]
+*** ABATTAGE ***
+MaantjeBoon : montre [Ad Ah] (une paire de As)
+pokar212 : montre [Td 4d] (une paire de Dix)
+MaantjeBoon a remporté 485  lors du pot .
+pokar212 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 485 | Commission 0 
+Tableau [Jc Qc Tc 6s 5s]
+Siège 1 : MaantjeBoon (grosse blind) a montré [Ad Ah] et a gagné (485) avec une paire de As
+Siège 2 : pokar212 (bouton) a montré [Td 4d] et a perdu avec une paire de Dix
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258774133052 : Tournoi #3953194167, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 05/12/2025 7:33:02 CET [05/12/2025 1:33:02 ET]
+Table '3953194167 1' 3-max Siège #1 est au bouton.
+Place 1: MaantjeBoon (700 en jetons) 
+Place 3: psychoman59 (800 en jetons) 
+MaantjeBoon : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s 5s]
+MaantjeBoon : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : MaantjeBoon (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°258774133327 : Tournoi #3953194167, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 05/12/2025 7:33:06 CET [05/12/2025 1:33:06 ET]
+Table '3953194167 1' 3-max Siège #3 est au bouton.
+Place 1: MaantjeBoon (685 en jetons) 
+Place 3: psychoman59 (815 en jetons) 
+psychoman59 : met la petite blind. 15
+MaantjeBoon : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 4h]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à MaantjeBoon.
+MaantjeBoon a remporté 30  lors du pot .
+MaantjeBoon : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : MaantjeBoon (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258774133630 : Tournoi #3953194167, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 05/12/2025 7:33:11 CET [05/12/2025 1:33:11 ET]
+Table '3953194167 1' 3-max Siège #1 est au bouton.
+Place 1: MaantjeBoon (700 en jetons) 
+Place 3: psychoman59 (800 en jetons) 
+MaantjeBoon : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 2s]
+MaantjeBoon : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : MaantjeBoon (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°258774133950 : Tournoi #3953194167, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 05/12/2025 7:33:16 CET [05/12/2025 1:33:16 ET]
+Table '3953194167 1' 3-max Siège #3 est au bouton.
+Place 1: MaantjeBoon (685 en jetons) 
+Place 3: psychoman59 (815 en jetons) 
+psychoman59 : met la petite blind. 15
+MaantjeBoon : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Ah]
+psychoman59 : relance. 30 à 60
+MaantjeBoon : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : MaantjeBoon (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°258774134311 : Tournoi #3953194167, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 05/12/2025 7:33:23 CET [05/12/2025 1:33:23 ET]
+Table '3953194167 1' 3-max Siège #1 est au bouton.
+Place 1: MaantjeBoon (655 en jetons) 
+Place 3: psychoman59 (845 en jetons) 
+MaantjeBoon : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Qc]
+MaantjeBoon : relance. 30 à 60
+psychoman59 : suit. 30
+*** FLOP *** [Jh Kh Js]
+psychoman59 : parole 
+MaantjeBoon : mise. 150
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à MaantjeBoon.
+MaantjeBoon a remporté 120  lors du pot .
+MaantjeBoon : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Jh Kh Js]
+Siège 1 : MaantjeBoon (bouton) (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°258774135265 : Tournoi #3953194167, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 05/12/2025 7:33:38 CET [05/12/2025 1:33:38 ET]
+Table '3953194167 1' 3-max Siège #3 est au bouton.
+Place 1: MaantjeBoon (715 en jetons) 
+Place 3: psychoman59 (785 en jetons) 
+psychoman59 : met la petite blind. 15
+MaantjeBoon : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Th]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à MaantjeBoon.
+MaantjeBoon a remporté 30  lors du pot .
+MaantjeBoon : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : MaantjeBoon (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258774135744 : Tournoi #3953194167, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 05/12/2025 7:33:47 CET [05/12/2025 1:33:47 ET]
+Table '3953194167 1' 3-max Siège #1 est au bouton.
+Place 1: MaantjeBoon (730 en jetons) 
+Place 3: psychoman59 (770 en jetons) 
+MaantjeBoon : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 4s]
+MaantjeBoon : relance. 40 à 80
+psychoman59 : relance. 690 à 770 et est all-in.
+MaantjeBoon : suit. 650 et est all-in.
+Personne n'a suivi. (40) sont retournés à psychoman59.
+*** FLOP *** [3c Tc Jd]
+*** TOURNANT *** [3c Tc Jd] [Ac]
+*** RIVIÈRE *** [3c Tc Jd Ac] [9d]
+*** ABATTAGE ***
+psychoman59 : montre [Ad 4s] (une paire de As)
+MaantjeBoon : montre [4d 4h] (une paire de Quatre)
+psychoman59 a remporté 1460  lors du pot .
+MaantjeBoon a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 1.50 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 1460 | Commission 0 
+Tableau [3c Tc Jd Ac 9d]
+Siège 1 : MaantjeBoon (bouton) (petite blind) a montré [4d 4h] et a perdu avec une paire de Quatre
+Siège 3 : psychoman59 (grosse blind) a montré [Ad 4s] et a gagné (1460) avec une paire de As
+
+
+

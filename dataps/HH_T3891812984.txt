@@ -1,0 +1,98 @@
+﻿Main PokerStars n°256232936882 : Tournoi #3891812984, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 21/05/2025 7:27:51 CET [21/05/2025 1:27:51 ET]
+Table '3891812984 1' 3-max Siège #1 est au bouton.
+Place 1: tjochep (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: vinzcardot (500 en jetons) 
+psychoman59 : met la petite blind. 10
+vinzcardot : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Qc]
+tjochep : suit. 20
+psychoman59 : suit. 10
+vinzcardot : parole 
+*** FLOP *** [8s Td 4h]
+psychoman59 : parole 
+tjochep est déconnecté 
+vinzcardot : parole 
+tjochep est connecté 
+tjochep est déconnecté 
+tjochep est connecté 
+tjochep est connecté 
+tjochep est déconnecté 
+tjochep est connecté 
+tjochep : parole 
+*** TOURNANT *** [8s Td 4h] [Jc]
+psychoman59 : parole 
+vinzcardot : mise. 20
+tjochep : suit. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [8s Td 4h Jc] [8d]
+psychoman59 : parole 
+vinzcardot : parole 
+tjochep : mise. 120
+psychoman59 : passe. 
+vinzcardot : passe. 
+Personne n'a suivi. (120) sont retournés à tjochep.
+tjochep a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [8s Td 4h Jc 8d]
+Siège 1 : tjochep (bouton) a remporté (120)
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Rivière
+Siège 3 : vinzcardot (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°256232939398 : Tournoi #3891812984, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 21/05/2025 7:28:27 CET [21/05/2025 1:28:27 ET]
+Table '3891812984 1' 3-max Siège #2 est au bouton.
+Place 1: tjochep (580 en jetons) 
+Place 2: psychoman59 (460 en jetons) 
+Place 3: vinzcardot (460 en jetons) 
+vinzcardot : met la petite blind. 10
+tjochep : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 8c]
+psychoman59 : relance. 440 à 460 et est all-in.
+vinzcardot : passe. 
+tjochep : passe. 
+Personne n'a suivi. (440) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : tjochep (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a remporté (50)
+Siège 3 : vinzcardot (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°256232939964 : Tournoi #3891812984, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 21/05/2025 7:28:35 CET [21/05/2025 1:28:35 ET]
+Table '3891812984 1' 3-max Siège #3 est au bouton.
+Place 1: tjochep (560 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: vinzcardot (450 en jetons) 
+tjochep : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Qs]
+vinzcardot : passe. 
+tjochep : relance. 540 à 560 et est all-in.
+psychoman59 : suit. 470 et est all-in.
+Personne n'a suivi. (70) sont retournés à tjochep.
+*** FLOP *** [8s Ah 6c]
+*** TOURNANT *** [8s Ah 6c] [3s]
+*** RIVIÈRE *** [8s Ah 6c 3s] [5s]
+*** ABATTAGE ***
+tjochep : montre [Js As] (une couleur, hauteur As)
+psychoman59 : montre [Ad Qs] (une paire de As)
+tjochep a remporté 980  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 980 | Commission 0 
+Tableau [8s Ah 6c 3s 5s]
+Siège 1 : tjochep (petite blind) a montré [Js As] et a gagné (980) avec une couleur, hauteur As
+Siège 2 : psychoman59 (grosse blind) a montré [Ad Qs] et a perdu avec une paire de As
+Siège 3 : vinzcardot (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+

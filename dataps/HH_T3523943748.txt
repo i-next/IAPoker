@@ -1,0 +1,352 @@
+﻿Main PokerStars n°240814021367 : Tournoi #3523943748, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 31/12/2022 9:41:35 CET [31/12/2022 3:41:35 ET]
+Table '3523943748 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: PrMangue (300 en jetons) 
+Place 3: zac14000 (300 en jetons) 
+PrMangue : met la petite blind. 10
+zac14000 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 4d]
+psychoman59 : passe. 
+PrMangue : relance. 280 à 300 et est all-in.
+zac14000 : passe. 
+Personne n'a suivi. (280) sont retournés à PrMangue.
+PrMangue a remporté 40  lors du pot .
+PrMangue : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : PrMangue (petite blind) a remporté (40)
+Siège 3 : zac14000 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240814022728 : Tournoi #3523943748, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 31/12/2022 9:41:46 CET [31/12/2022 3:41:46 ET]
+Table '3523943748 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: PrMangue (320 en jetons) 
+Place 3: zac14000 (280 en jetons) 
+zac14000 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 2d]
+PrMangue : suit. 20
+zac14000 : passe. 
+psychoman59 : parole 
+*** FLOP *** [Qc 2s Ad]
+psychoman59 : parole 
+PrMangue : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à PrMangue.
+PrMangue a remporté 50  lors du pot .
+PrMangue : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [Qc 2s Ad]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : PrMangue (bouton) a remporté (50)
+Siège 3 : zac14000 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240814025659 : Tournoi #3523943748, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 31/12/2022 9:42:10 CET [31/12/2022 3:42:10 ET]
+Table '3523943748 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: PrMangue (350 en jetons) 
+Place 3: zac14000 (270 en jetons) 
+psychoman59 : met la petite blind. 10
+PrMangue : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 8s]
+zac14000 : suit. 20
+psychoman59 : passe. 
+PrMangue : relance. 330 à 350 et est all-in.
+zac14000 : passe. 
+Personne n'a suivi. (330) sont retournés à PrMangue.
+PrMangue a remporté 50  lors du pot .
+PrMangue : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : PrMangue (grosse blind) a remporté (50)
+Siège 3 : zac14000 (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240814027493 : Tournoi #3523943748, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 31/12/2022 9:42:25 CET [31/12/2022 3:42:25 ET]
+Table '3523943748 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 2: PrMangue (380 en jetons) 
+Place 3: zac14000 (250 en jetons) 
+PrMangue : met la petite blind. 10
+zac14000 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 5s]
+psychoman59 : passe. 
+PrMangue : relance. 40 à 60
+zac14000 : suit. 40
+*** FLOP *** [Ts Js Qh]
+PrMangue : mise. 120
+zac14000 : relance. 70 à 190 et est all-in.
+PrMangue : suit. 70
+*** TOURNANT *** [Ts Js Qh] [6c]
+*** RIVIÈRE *** [Ts Js Qh 6c] [9s]
+*** ABATTAGE ***
+PrMangue : montre [6d Kd] (une suite, Neuf à Roi)
+zac14000 : montre [Jh Qd] (double paire, Dames et Valets)
+PrMangue a remporté 500  lors du pot .
+zac14000 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 500 | Commission 0 
+Tableau [Ts Js Qh 6c 9s]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : PrMangue (petite blind) a montré [6d Kd] et a gagné (500) avec une suite, Neuf à Roi
+Siège 3 : zac14000 (grosse blind) a montré [Jh Qd] et a perdu avec double paire, Dames et Valets
+
+
+
+Main PokerStars n°240814031296 : Tournoi #3523943748, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 31/12/2022 9:42:56 CET [31/12/2022 3:42:56 ET]
+Table '3523943748 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 2: PrMangue (630 en jetons) 
+PrMangue : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Js]
+PrMangue : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Ts 3d Jd]
+psychoman59 : parole 
+PrMangue : parole 
+*** TOURNANT *** [Ts 3d Jd] [7h]
+psychoman59 : parole 
+PrMangue : mise. 30
+psychoman59 : suit. 30
+*** RIVIÈRE *** [Ts 3d Jd 7h] [6c]
+psychoman59 : parole 
+PrMangue : parole 
+*** ABATTAGE ***
+psychoman59 : montre [9s Js] (une paire de Valets)
+PrMangue : cache la main perdante. 
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Ts 3d Jd 7h 6c]
+Siège 1 : psychoman59 (grosse blind) a montré [9s Js] et a gagné (120) avec une paire de Valets
+Siège 2 : PrMangue (bouton) (petite blind) a caché la main perdante. [8h 6d]
+
+
+
+Main PokerStars n°240814033967 : Tournoi #3523943748, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 31/12/2022 9:43:18 CET [31/12/2022 3:43:18 ET]
+Table '3523943748 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (330 en jetons) 
+Place 2: PrMangue (570 en jetons) 
+psychoman59 : met la petite blind. 15
+PrMangue : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 9d]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à PrMangue.
+PrMangue a remporté 30  lors du pot .
+PrMangue : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : PrMangue (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°240814034713 : Tournoi #3523943748, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 31/12/2022 9:43:24 CET [31/12/2022 3:43:24 ET]
+Table '3523943748 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (315 en jetons) 
+Place 2: PrMangue (585 en jetons) 
+PrMangue : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 9h]
+PrMangue : relance. 555 à 585 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (555) sont retournés à PrMangue.
+PrMangue a remporté 60  lors du pot .
+PrMangue : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : PrMangue (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°240814035435 : Tournoi #3523943748, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 31/12/2022 9:43:30 CET [31/12/2022 3:43:30 ET]
+Table '3523943748 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (285 en jetons) 
+Place 2: PrMangue (615 en jetons) 
+psychoman59 : met la petite blind. 15
+PrMangue : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Qs]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à PrMangue.
+PrMangue a remporté 30  lors du pot .
+PrMangue : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : PrMangue (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°240814036909 : Tournoi #3523943748, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 31/12/2022 9:43:41 CET [31/12/2022 3:43:41 ET]
+Table '3523943748 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (270 en jetons) 
+Place 2: PrMangue (630 en jetons) 
+PrMangue : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 8c]
+PrMangue : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 2 : PrMangue (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240814037582 : Tournoi #3523943748, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 31/12/2022 9:43:47 CET [31/12/2022 3:43:47 ET]
+Table '3523943748 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (290 en jetons) 
+Place 2: PrMangue (610 en jetons) 
+psychoman59 : met la petite blind. 20
+PrMangue : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Qd]
+psychoman59 : relance. 80 à 120
+PrMangue : suit. 80
+*** FLOP *** [Th 8c Kd]
+PrMangue : parole 
+psychoman59 : mise. 170 et est all-in.
+PrMangue : passe. 
+Personne n'a suivi. (170) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Th 8c Kd]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (240)
+Siège 2 : PrMangue (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°240814039242 : Tournoi #3523943748, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 31/12/2022 9:44:01 CET [31/12/2022 3:44:01 ET]
+Table '3523943748 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (410 en jetons) 
+Place 2: PrMangue (490 en jetons) 
+PrMangue : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 5s]
+PrMangue : relance. 450 à 490 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (450) sont retournés à PrMangue.
+PrMangue a remporté 80  lors du pot .
+PrMangue : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : PrMangue (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°240814040051 : Tournoi #3523943748, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 31/12/2022 9:44:07 CET [31/12/2022 3:44:07 ET]
+Table '3523943748 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (370 en jetons) 
+Place 2: PrMangue (530 en jetons) 
+psychoman59 : met la petite blind. 20
+PrMangue : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 5h]
+psychoman59 : relance. 330 à 370 et est all-in.
+PrMangue : suit. 330
+*** FLOP *** [2c Jd 5s]
+*** TOURNANT *** [2c Jd 5s] [2s]
+*** RIVIÈRE *** [2c Jd 5s 2s] [Jh]
+*** ABATTAGE ***
+PrMangue : montre [Qs Td] (double paire, Valets et Deux)
+psychoman59 : montre [Ah 5h] (double paire, Valets et Cinq)
+psychoman59 a remporté 740  lors du pot .
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Tableau [2c Jd 5s 2s Jh]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Ah 5h] et a gagné (740) avec double paire, Valets et Cinq
+Siège 2 : PrMangue (grosse blind) a montré [Qs Td] et a perdu avec double paire, Valets et Deux
+
+
+
+Main PokerStars n°240814041654 : Tournoi #3523943748, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 31/12/2022 9:44:20 CET [31/12/2022 3:44:20 ET]
+Table '3523943748 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (740 en jetons) 
+Place 2: PrMangue (160 en jetons) 
+PrMangue : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 5c]
+PrMangue : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 2 : PrMangue (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240814042217 : Tournoi #3523943748, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 31/12/2022 9:44:25 CET [31/12/2022 3:44:25 ET]
+Table '3523943748 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (760 en jetons) 
+Place 2: PrMangue (140 en jetons) 
+psychoman59 : met la petite blind. 20
+PrMangue : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 9h]
+psychoman59 : relance. 80 à 120
+PrMangue : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 2 : PrMangue (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°240814043089 : Tournoi #3523943748, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 31/12/2022 9:44:32 CET [31/12/2022 3:44:32 ET]
+Table '3523943748 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (800 en jetons) 
+Place 2: PrMangue (100 en jetons) 
+PrMangue : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Ks]
+PrMangue : relance. 60 à 100 et est all-in.
+psychoman59 : suit. 60
+*** FLOP *** [7h Kd 4c]
+*** TOURNANT *** [7h Kd 4c] [Th]
+*** RIVIÈRE *** [7h Kd 4c Th] [Kc]
+*** ABATTAGE ***
+psychoman59 : montre [Ah Ks] (un brelan de Rois)
+PrMangue : montre [2h As] (une paire de Rois)
+psychoman59 a remporté 200  lors du pot .
+PrMangue a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 5.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [7h Kd 4c Th Kc]
+Siège 1 : psychoman59 (grosse blind) a montré [Ah Ks] et a gagné (200) avec un brelan de Rois
+Siège 2 : PrMangue (bouton) (petite blind) a montré [2h As] et a perdu avec une paire de Rois
+
+
+

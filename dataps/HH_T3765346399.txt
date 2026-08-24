@@ -1,0 +1,366 @@
+﻿Main PokerStars n°250975899516 : Tournoi #3765346399, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 12/06/2024 9:00:15 CET [12/06/2024 3:00:15 ET]
+Table '3765346399 1' 3-max Siège #1 est au bouton.
+Place 1: 7sau6 (500 en jetons) 
+Place 2: LaBenz37 (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+LaBenz37 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Ad]
+7sau6 : passe. 
+LaBenz37 : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : 7sau6 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : LaBenz37 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°250975899972 : Tournoi #3765346399, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 12/06/2024 9:00:21 CET [12/06/2024 3:00:21 ET]
+Table '3765346399 1' 3-max Siège #2 est au bouton.
+Place 1: 7sau6 (500 en jetons) 
+Place 2: LaBenz37 (490 en jetons) 
+Place 3: psychoman59 (510 en jetons) 
+psychoman59 : met la petite blind. 10
+7sau6 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Ah]
+LaBenz37 : passe. 
+psychoman59 : suit. 10
+7sau6 : parole 
+*** FLOP *** [Jc 7s Qc]
+psychoman59 : parole 
+7sau6 : parole 
+*** TOURNANT *** [Jc 7s Qc] [5c]
+psychoman59 : parole 
+7sau6 : parole 
+*** RIVIÈRE *** [Jc 7s Qc 5c] [8h]
+psychoman59 : parole 
+7sau6 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [5s Ah] (une paire de Cinq)
+7sau6 : cache la main perdante. 
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Jc 7s Qc 5c 8h]
+Siège 1 : 7sau6 (grosse blind) a caché la main perdante. [4h 2s]
+Siège 2 : LaBenz37 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [5s Ah] et a gagné (40) avec une paire de Cinq
+
+
+
+Main PokerStars n°250975901410 : Tournoi #3765346399, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 12/06/2024 9:00:39 CET [12/06/2024 3:00:39 ET]
+Table '3765346399 1' 3-max Siège #3 est au bouton.
+Place 1: 7sau6 (480 en jetons) 
+Place 2: LaBenz37 (490 en jetons) 
+Place 3: psychoman59 (530 en jetons) 
+7sau6 : met la petite blind. 10
+LaBenz37 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 5d]
+psychoman59 : passe. 
+7sau6 : passe. 
+Personne n'a suivi. (10) sont retournés à LaBenz37.
+LaBenz37 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : 7sau6 (petite blind) s'est couché. avant Flop
+Siège 2 : LaBenz37 (grosse blind) a remporté (20)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°250975901771 : Tournoi #3765346399, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 12/06/2024 9:00:44 CET [12/06/2024 3:00:44 ET]
+Table '3765346399 1' 3-max Siège #1 est au bouton.
+Place 1: 7sau6 (470 en jetons) 
+Place 2: LaBenz37 (500 en jetons) 
+Place 3: psychoman59 (530 en jetons) 
+LaBenz37 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 6s]
+7sau6 : relance. 450 à 470 et est all-in.
+LaBenz37 : relance. 30 à 500 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à LaBenz37.
+*** FLOP *** [Js Tc 4h]
+*** TOURNANT *** [Js Tc 4h] [9c]
+*** RIVIÈRE *** [Js Tc 4h 9c] [Ac]
+*** ABATTAGE ***
+LaBenz37 : montre [Ah Kc] (une paire de As)
+7sau6 : montre [As Qd] (une paire de As - plus basse kicker)
+LaBenz37 a remporté 960  lors du pot .
+7sau6 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 960 | Commission 0 
+Tableau [Js Tc 4h 9c Ac]
+Siège 1 : 7sau6 (bouton) a montré [As Qd] et a perdu avec une paire de As
+Siège 2 : LaBenz37 (petite blind) a montré [Ah Kc] et a gagné (960) avec une paire de As
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°250975903251 : Tournoi #3765346399, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 12/06/2024 9:01:02 CET [12/06/2024 3:01:02 ET]
+Table '3765346399 1' 3-max Siège #3 est au bouton.
+Place 2: LaBenz37 (990 en jetons) 
+Place 3: psychoman59 (510 en jetons) 
+psychoman59 : met la petite blind. 10
+LaBenz37 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Kc]
+psychoman59 : suit. 10
+LaBenz37 : relance. 40 à 60
+psychoman59 : suit. 40
+*** FLOP *** [6h 3d Td]
+LaBenz37 : mise. 120
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à LaBenz37.
+LaBenz37 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [6h 3d Td]
+Siège 2 : LaBenz37 (grosse blind) a remporté (120)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°250975904299 : Tournoi #3765346399, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 12/06/2024 9:01:15 CET [12/06/2024 3:01:15 ET]
+Table '3765346399 1' 3-max Siège #2 est au bouton.
+Place 2: LaBenz37 (1050 en jetons) 
+Place 3: psychoman59 (450 en jetons) 
+LaBenz37 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Tc]
+LaBenz37 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [2d 3h 8h]
+psychoman59 : parole 
+LaBenz37 : parole 
+*** TOURNANT *** [2d 3h 8h] [Qd]
+psychoman59 : parole 
+LaBenz37 : parole 
+*** RIVIÈRE *** [2d 3h 8h Qd] [Jc]
+psychoman59 : parole 
+LaBenz37 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à LaBenz37.
+LaBenz37 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [2d 3h 8h Qd Jc]
+Siège 2 : LaBenz37 (bouton) (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°250975905860 : Tournoi #3765346399, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 12/06/2024 9:01:33 CET [12/06/2024 3:01:33 ET]
+Table '3765346399 1' 3-max Siège #3 est au bouton.
+Place 2: LaBenz37 (1070 en jetons) 
+Place 3: psychoman59 (430 en jetons) 
+psychoman59 : met la petite blind. 10
+LaBenz37 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 4h]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à LaBenz37.
+LaBenz37 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 2 : LaBenz37 (grosse blind) a remporté (20)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°250975906251 : Tournoi #3765346399, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 12/06/2024 9:01:37 CET [12/06/2024 3:01:37 ET]
+Table '3765346399 1' 3-max Siège #2 est au bouton.
+Place 2: LaBenz37 (1080 en jetons) 
+Place 3: psychoman59 (420 en jetons) 
+LaBenz37 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 6c]
+LaBenz37 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [5d 3d Jc]
+psychoman59 : parole 
+LaBenz37 : parole 
+*** TOURNANT *** [5d 3d Jc] [Kd]
+psychoman59 : parole 
+LaBenz37 : parole 
+*** RIVIÈRE *** [5d 3d Jc Kd] [7h]
+psychoman59 : mise. 40
+LaBenz37 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [5d 3d Jc Kd 7h]
+Siège 2 : LaBenz37 (bouton) (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°250975907768 : Tournoi #3765346399, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 12/06/2024 9:01:55 CET [12/06/2024 3:01:55 ET]
+Table '3765346399 1' 3-max Siège #3 est au bouton.
+Place 2: LaBenz37 (1060 en jetons) 
+Place 3: psychoman59 (440 en jetons) 
+psychoman59 : met la petite blind. 10
+LaBenz37 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Qs]
+psychoman59 : suit. 10
+LaBenz37 : parole 
+*** FLOP *** [6h 5d 3h]
+LaBenz37 : mise. 1040 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (1040) sont retournés à LaBenz37.
+LaBenz37 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [6h 5d 3h]
+Siège 2 : LaBenz37 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°250975908632 : Tournoi #3765346399, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 12/06/2024 9:02:05 CET [12/06/2024 3:02:05 ET]
+Table '3765346399 1' 3-max Siège #2 est au bouton.
+Place 2: LaBenz37 (1080 en jetons) 
+Place 3: psychoman59 (420 en jetons) 
+LaBenz37 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Qc]
+LaBenz37 : suit. 10
+psychoman59 : relance. 400 à 420 et est all-in.
+LaBenz37 : passe. 
+Personne n'a suivi. (400) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : LaBenz37 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°250975909295 : Tournoi #3765346399, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 12/06/2024 9:02:13 CET [12/06/2024 3:02:13 ET]
+Table '3765346399 1' 3-max Siège #3 est au bouton.
+Place 2: LaBenz37 (1060 en jetons) 
+Place 3: psychoman59 (440 en jetons) 
+psychoman59 : met la petite blind. 10
+LaBenz37 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 7c]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à LaBenz37.
+LaBenz37 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 2 : LaBenz37 (grosse blind) a remporté (20)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°250975909946 : Tournoi #3765346399, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 12/06/2024 9:02:20 CET [12/06/2024 3:02:20 ET]
+Table '3765346399 1' 3-max Siège #2 est au bouton.
+Place 2: LaBenz37 (1070 en jetons) 
+Place 3: psychoman59 (430 en jetons) 
+LaBenz37 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 5h]
+LaBenz37 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : LaBenz37 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°250975910377 : Tournoi #3765346399, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 12/06/2024 9:02:25 CET [12/06/2024 3:02:25 ET]
+Table '3765346399 1' 3-max Siège #3 est au bouton.
+Place 2: LaBenz37 (1055 en jetons) 
+Place 3: psychoman59 (445 en jetons) 
+psychoman59 : met la petite blind. 15
+LaBenz37 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 3s]
+psychoman59 : relance. 415 à 445 et est all-in.
+LaBenz37 : passe. 
+Personne n'a suivi. (415) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : LaBenz37 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°250975910916 : Tournoi #3765346399, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 12/06/2024 9:02:31 CET [12/06/2024 3:02:31 ET]
+Table '3765346399 1' 3-max Siège #2 est au bouton.
+Place 2: LaBenz37 (1025 en jetons) 
+Place 3: psychoman59 (475 en jetons) 
+LaBenz37 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Jc]
+LaBenz37 : relance. 995 à 1025 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (995) sont retournés à LaBenz37.
+LaBenz37 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : LaBenz37 (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°250975911993 : Tournoi #3765346399, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 12/06/2024 9:02:43 CET [12/06/2024 3:02:43 ET]
+Table '3765346399 1' 3-max Siège #3 est au bouton.
+Place 2: LaBenz37 (1055 en jetons) 
+Place 3: psychoman59 (445 en jetons) 
+psychoman59 : met la petite blind. 15
+LaBenz37 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Kd]
+psychoman59 : suit. 15
+LaBenz37 : parole 
+*** FLOP *** [5h Kc Qh]
+LaBenz37 : parole 
+psychoman59 : mise. 30
+LaBenz37 : suit. 30
+*** TOURNANT *** [5h Kc Qh] [Td]
+LaBenz37 : parole 
+psychoman59 : mise. 30
+LaBenz37 : relance. 90 à 120
+psychoman59 : suit. 90
+*** RIVIÈRE *** [5h Kc Qh Td] [2d]
+LaBenz37 : mise. 270
+psychoman59 : suit. 265 et est all-in.
+Personne n'a suivi. (5) sont retournés à LaBenz37.
+*** ABATTAGE ***
+LaBenz37 : montre [Js 9c] (une suite, Neuf à Roi)
+psychoman59 : montre [4d Kd] (une paire de Rois)
+LaBenz37 a remporté 890  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+LaBenz37 remporte le tournoi et reçoit 0.50 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 890 | Commission 0 
+Tableau [5h Kc Qh Td 2d]
+Siège 2 : LaBenz37 (grosse blind) a montré [Js 9c] et a gagné (890) avec une suite, Neuf à Roi
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [4d Kd] et a perdu avec une paire de Rois
+
+
+

@@ -1,0 +1,197 @@
+﻿Main PokerStars n°261362171824 : Tournoi #4014169257, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2026 7:09:22 CET [07/07/2026 1:09:22 ET]
+Table '4014169257 1' 3-max Siège #1 est au bouton.
+Place 1: Sequisha (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: LeNueve44 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+LeNueve44 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 3h]
+Sequisha : relance. 20 à 40
+psychoman59 : passe. 
+LeNueve44 : passe. 
+Personne n'a suivi. (20) sont retournés à Sequisha.
+Sequisha a remporté 50  lors du pot .
+Sequisha : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : Sequisha (bouton) a remporté (50)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : LeNueve44 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261362172412 : Tournoi #4014169257, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2026 7:09:33 CET [07/07/2026 1:09:33 ET]
+Table '4014169257 1' 3-max Siège #2 est au bouton.
+Place 1: Sequisha (530 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: LeNueve44 (480 en jetons) 
+LeNueve44 : met la petite blind. 10
+Sequisha : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 8c]
+psychoman59 : suit. 20
+LeNueve44 : relance. 20 à 40
+Sequisha : passe. 
+psychoman59 : suit. 20
+*** FLOP *** [2c 7h 4d]
+LeNueve44 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [2c 7h 4d] [6d]
+LeNueve44 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [2c 7h 4d 6d] [2d]
+LeNueve44 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+LeNueve44 : montre [Kc Td] (une paire de Deux)
+psychoman59 : cache la main perdante. 
+LeNueve44 a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [2c 7h 4d 6d 2d]
+Siège 1 : Sequisha (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a caché la main perdante. [Qs 8c]
+Siège 3 : LeNueve44 (petite blind) a montré [Kc Td] et a gagné (100) avec une paire de Deux
+
+
+
+Main PokerStars n°261362173891 : Tournoi #4014169257, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2026 7:10:03 CET [07/07/2026 1:10:03 ET]
+Table '4014169257 1' 3-max Siège #3 est au bouton.
+Place 1: Sequisha (510 en jetons) 
+Place 2: psychoman59 (450 en jetons) 
+Place 3: LeNueve44 (540 en jetons) 
+Sequisha : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Jd]
+LeNueve44 : suit. 20
+Sequisha : suit. 10
+psychoman59 : parole 
+*** FLOP *** [6h 8d 2h]
+Sequisha : parole 
+psychoman59 : parole 
+LeNueve44 : parole 
+*** TOURNANT *** [6h 8d 2h] [Ts]
+Sequisha : mise. 25
+psychoman59 : suit. 25
+LeNueve44 : relance. 25 à 50
+Sequisha : suit. 25
+psychoman59 : passe. 
+*** RIVIÈRE *** [6h 8d 2h Ts] [7s]
+Sequisha : mise. 26
+LeNueve44 : relance. 26 à 52
+Sequisha : suit. 26
+*** ABATTAGE ***
+LeNueve44 : montre [3s Td] (une paire de Dix)
+Sequisha : cache la main perdante. 
+LeNueve44 a remporté 289  lors du pot .
+*** SYNTHÈSE ***
+Pot total 289 | Commission 0 
+Tableau [6h 8d 2h Ts 7s]
+Siège 1 : Sequisha (petite blind) a caché la main perdante. [Js 8c]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : LeNueve44 (bouton) a montré [3s Td] et a gagné (289) avec une paire de Dix
+
+
+
+Main PokerStars n°261362176435 : Tournoi #4014169257, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2026 7:10:54 CET [07/07/2026 1:10:54 ET]
+Table '4014169257 1' 3-max Siège #1 est au bouton.
+Place 1: Sequisha (388 en jetons) 
+Place 2: psychoman59 (405 en jetons) 
+Place 3: LeNueve44 (707 en jetons) 
+psychoman59 : met la petite blind. 10
+LeNueve44 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Th]
+Sequisha : relance. 20 à 40
+psychoman59 : suit. 30
+LeNueve44 : suit. 20
+*** FLOP *** [2c 4d 2h]
+psychoman59 : parole 
+LeNueve44 : parole 
+Sequisha : mise. 20
+psychoman59 : suit. 20
+LeNueve44 : passe. 
+*** TOURNANT *** [2c 4d 2h] [7c]
+psychoman59 : parole 
+Sequisha : mise. 22
+psychoman59 : suit. 22
+*** RIVIÈRE *** [2c 4d 2h 7c] [6h]
+psychoman59 : parole 
+Sequisha : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Ks Th] (une paire de Deux)
+Sequisha : montre [9d Ad] (une paire de Deux - As kicker)
+Sequisha a remporté 204  lors du pot .
+*** SYNTHÈSE ***
+Pot total 204 | Commission 0 
+Tableau [2c 4d 2h 7c 6h]
+Siège 1 : Sequisha (bouton) a montré [9d Ad] et a gagné (204) avec une paire de Deux
+Siège 2 : psychoman59 (petite blind) a montré [Ks Th] et a perdu avec une paire de Deux
+Siège 3 : LeNueve44 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261362179448 : Tournoi #4014169257, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 07/07/2026 7:11:53 CET [07/07/2026 1:11:53 ET]
+Table '4014169257 1' 3-max Siège #2 est au bouton.
+Place 1: Sequisha (510 en jetons) 
+Place 2: psychoman59 (323 en jetons) 
+Place 3: LeNueve44 (667 en jetons) 
+LeNueve44 : met la petite blind. 15
+Sequisha : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 8h]
+psychoman59 : passe. 
+LeNueve44 : suit. 15
+Sequisha : relance. 60 à 90
+LeNueve44 : suit. 60
+*** FLOP *** [8s Ts 9h]
+LeNueve44 : parole 
+Sequisha : parole 
+*** TOURNANT *** [8s Ts 9h] [2c]
+LeNueve44 : parole 
+Sequisha : mise. 37
+LeNueve44 : passe. 
+Personne n'a suivi. (37) sont retournés à Sequisha.
+Sequisha a remporté 180  lors du pot .
+Sequisha : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [8s Ts 9h 2c]
+Siège 1 : Sequisha (grosse blind) a remporté (180)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : LeNueve44 (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°261362181420 : Tournoi #4014169257, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 07/07/2026 7:12:33 CET [07/07/2026 1:12:33 ET]
+Table '4014169257 1' 3-max Siège #3 est au bouton.
+Place 1: Sequisha (600 en jetons) 
+Place 2: psychoman59 (323 en jetons) 
+Place 3: LeNueve44 (577 en jetons) 
+Sequisha : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 4h]
+LeNueve44 : relance. 30 à 60
+Sequisha : passe. 
+psychoman59 : relance. 263 à 323 et est all-in.
+LeNueve44 : suit. 263
+*** FLOP *** [Ah Qd Ad]
+*** TOURNANT *** [Ah Qd Ad] [Qh]
+*** RIVIÈRE *** [Ah Qd Ad Qh] [5h]
+*** ABATTAGE ***
+psychoman59 : montre [4s 4h] (double paire, As et Dames)
+LeNueve44 : montre [Kd 7d] (double paire, As et Dames - Roi kicker)
+LeNueve44 a remporté 661  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 661 | Commission 0 
+Tableau [Ah Qd Ad Qh 5h]
+Siège 1 : Sequisha (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a montré [4s 4h] et a perdu avec double paire, As et Dames
+Siège 3 : LeNueve44 (bouton) a montré [Kd 7d] et a gagné (661) avec double paire, As et Dames
+
+
+

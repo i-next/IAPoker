@@ -1,0 +1,594 @@
+﻿Main PokerStars n°254000875206 : Tournoi #3837592301, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 24/12/2024 9:12:07 CET [24/12/2024 3:12:07 ET]
+Table '3837592301 1' 3-max Siège #1 est au bouton.
+Place 1: PT_SASHA (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: 50COOLS50 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+50COOLS50 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 3c]
+PT_SASHA : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à 50COOLS50.
+50COOLS50 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : PT_SASHA (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : 50COOLS50 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°254000875653 : Tournoi #3837592301, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 24/12/2024 9:12:12 CET [24/12/2024 3:12:12 ET]
+Table '3837592301 1' 3-max Siège #2 est au bouton.
+Place 1: PT_SASHA (500 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: 50COOLS50 (510 en jetons) 
+50COOLS50 : met la petite blind. 10
+PT_SASHA : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 8d]
+psychoman59 : suit. 20
+50COOLS50 : suit. 10
+PT_SASHA : parole 
+*** FLOP *** [2h Th Js]
+50COOLS50 : mise. 30
+PT_SASHA : suit. 30
+psychoman59 : passe. 
+*** TOURNANT *** [2h Th Js] [Ts]
+50COOLS50 : mise. 60
+PT_SASHA : suit. 60
+*** RIVIÈRE *** [2h Th Js Ts] [2d]
+50COOLS50 : parole 
+PT_SASHA : mise. 60
+50COOLS50 : passe. 
+Personne n'a suivi. (60) sont retournés à PT_SASHA.
+PT_SASHA a remporté 240  lors du pot .
+PT_SASHA : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [2h Th Js Ts 2d]
+Siège 1 : PT_SASHA (grosse blind) a remporté (240)
+Siège 2 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 3 : 50COOLS50 (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°254000878649 : Tournoi #3837592301, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 24/12/2024 9:12:50 CET [24/12/2024 3:12:50 ET]
+Table '3837592301 1' 3-max Siège #3 est au bouton.
+Place 1: PT_SASHA (630 en jetons) 
+Place 2: psychoman59 (470 en jetons) 
+Place 3: 50COOLS50 (400 en jetons) 
+PT_SASHA : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 2h]
+50COOLS50 : relance. 60 à 80
+PT_SASHA : suit. 70
+psychoman59 : passe. 
+*** FLOP *** [3d 3h Th]
+PT_SASHA : parole 
+50COOLS50 : mise. 180
+PT_SASHA : suit. 180
+*** TOURNANT *** [3d 3h Th] [9c]
+PT_SASHA : parole 
+50COOLS50 : parole 
+*** RIVIÈRE *** [3d 3h Th 9c] [2d]
+PT_SASHA : mise. 140
+50COOLS50 : passe. 
+Personne n'a suivi. (140) sont retournés à PT_SASHA.
+PT_SASHA a remporté 540  lors du pot .
+PT_SASHA : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [3d 3h Th 9c 2d]
+Siège 1 : PT_SASHA (petite blind) a remporté (540)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : 50COOLS50 (bouton) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°254000881183 : Tournoi #3837592301, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 24/12/2024 9:13:20 CET [24/12/2024 3:13:20 ET]
+Table '3837592301 1' 3-max Siège #1 est au bouton.
+Place 1: PT_SASHA (910 en jetons) 
+Place 2: psychoman59 (450 en jetons) 
+Place 3: 50COOLS50 (140 en jetons) 
+psychoman59 : met la petite blind. 10
+50COOLS50 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 8d]
+PT_SASHA : suit. 20
+psychoman59 : passe. 
+50COOLS50 : parole 
+*** FLOP *** [Td 5c 4h]
+50COOLS50 : parole 
+PT_SASHA : mise. 70
+50COOLS50 : passe. 
+Personne n'a suivi. (70) sont retournés à PT_SASHA.
+PT_SASHA a remporté 50  lors du pot .
+PT_SASHA : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [Td 5c 4h]
+Siège 1 : PT_SASHA (bouton) a remporté (50)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : 50COOLS50 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°254000882654 : Tournoi #3837592301, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 24/12/2024 9:13:39 CET [24/12/2024 3:13:39 ET]
+Table '3837592301 1' 3-max Siège #2 est au bouton.
+Place 1: PT_SASHA (940 en jetons) 
+Place 2: psychoman59 (440 en jetons) 
+Place 3: 50COOLS50 (120 en jetons) 
+50COOLS50 : met la petite blind. 10
+PT_SASHA : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Th]
+psychoman59 : suit. 20
+50COOLS50 : relance. 100 à 120 et est all-in.
+PT_SASHA : passe. 
+psychoman59 : suit. 100
+*** FLOP *** [7d 8d 2s]
+*** TOURNANT *** [7d 8d 2s] [Ts]
+*** RIVIÈRE *** [7d 8d 2s Ts] [2c]
+*** ABATTAGE ***
+50COOLS50 : montre [Td Ad] (double paire, Dix et Deux)
+psychoman59 : montre [Kh Th] (double paire, Dix et Deux - plus basse kicker)
+50COOLS50 a remporté 260  lors du pot .
+*** SYNTHÈSE ***
+Pot total 260 | Commission 0 
+Tableau [7d 8d 2s Ts 2c]
+Siège 1 : PT_SASHA (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a montré [Kh Th] et a perdu avec double paire, Dix et Deux
+Siège 3 : 50COOLS50 (petite blind) a montré [Td Ad] et a gagné (260) avec double paire, Dix et Deux
+
+
+
+Main PokerStars n°254000884321 : Tournoi #3837592301, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 24/12/2024 9:14:00 CET [24/12/2024 3:14:00 ET]
+Table '3837592301 1' 3-max Siège #3 est au bouton.
+Place 1: PT_SASHA (920 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: 50COOLS50 (260 en jetons) 
+PT_SASHA : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 4s]
+50COOLS50 : passe. 
+PT_SASHA : relance. 40 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à PT_SASHA.
+PT_SASHA a remporté 40  lors du pot .
+PT_SASHA : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : PT_SASHA (petite blind) a remporté (40)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : 50COOLS50 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°254000885160 : Tournoi #3837592301, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 24/12/2024 9:14:11 CET [24/12/2024 3:14:11 ET]
+Table '3837592301 1' 3-max Siège #1 est au bouton.
+Place 1: PT_SASHA (940 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: 50COOLS50 (260 en jetons) 
+psychoman59 : met la petite blind. 10
+50COOLS50 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Td]
+PT_SASHA : relance. 60 à 80
+psychoman59 : passe. 
+50COOLS50 : passe. 
+Personne n'a suivi. (60) sont retournés à PT_SASHA.
+PT_SASHA a remporté 50  lors du pot .
+PT_SASHA : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : PT_SASHA (bouton) a remporté (50)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : 50COOLS50 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254000886313 : Tournoi #3837592301, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 24/12/2024 9:14:26 CET [24/12/2024 3:14:26 ET]
+Table '3837592301 1' 3-max Siège #2 est au bouton.
+Place 1: PT_SASHA (970 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: 50COOLS50 (240 en jetons) 
+50COOLS50 : met la petite blind. 10
+PT_SASHA : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 8c]
+psychoman59 : passe. 
+50COOLS50 : passe. 
+Personne n'a suivi. (10) sont retournés à PT_SASHA.
+PT_SASHA a remporté 20  lors du pot .
+PT_SASHA : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : PT_SASHA (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : 50COOLS50 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254000886946 : Tournoi #3837592301, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 24/12/2024 9:14:34 CET [24/12/2024 3:14:34 ET]
+Table '3837592301 1' 3-max Siège #3 est au bouton.
+Place 1: PT_SASHA (980 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: 50COOLS50 (230 en jetons) 
+PT_SASHA : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad As]
+50COOLS50 : passe. 
+PT_SASHA : suit. 10
+psychoman59 : parole 
+*** FLOP *** [7h 2s Qc]
+PT_SASHA : parole 
+psychoman59 : parole 
+*** TOURNANT *** [7h 2s Qc] [6c]
+PT_SASHA : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [7h 2s Qc 6c] [Qs]
+PT_SASHA : parole 
+psychoman59 : mise. 40
+PT_SASHA : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [7h 2s Qc 6c Qs]
+Siège 1 : PT_SASHA (petite blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : 50COOLS50 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°254000889045 : Tournoi #3837592301, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 24/12/2024 9:14:59 CET [24/12/2024 3:14:59 ET]
+Table '3837592301 1' 3-max Siège #1 est au bouton.
+Place 1: PT_SASHA (960 en jetons) 
+Place 2: psychoman59 (310 en jetons) 
+Place 3: 50COOLS50 (230 en jetons) 
+psychoman59 : met la petite blind. 10
+50COOLS50 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 6d]
+PT_SASHA : passe. 
+psychoman59 : suit. 10
+50COOLS50 : relance. 40 à 60
+psychoman59 : suit. 40
+*** FLOP *** [6c 7c 5d]
+psychoman59 : mise. 250 et est all-in.
+50COOLS50 : passe. 
+Personne n'a suivi. (250) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [6c 7c 5d]
+Siège 1 : PT_SASHA (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (120)
+Siège 3 : 50COOLS50 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°254000890677 : Tournoi #3837592301, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 24/12/2024 9:15:20 CET [24/12/2024 3:15:20 ET]
+Table '3837592301 1' 3-max Siège #2 est au bouton.
+Place 1: PT_SASHA (960 en jetons) 
+Place 2: psychoman59 (370 en jetons) 
+Place 3: 50COOLS50 (170 en jetons) 
+50COOLS50 : met la petite blind. 15
+PT_SASHA : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 5h]
+psychoman59 : passe. 
+50COOLS50 : relance. 140 à 170 et est all-in.
+PT_SASHA : passe. 
+Personne n'a suivi. (140) sont retournés à 50COOLS50.
+50COOLS50 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : PT_SASHA (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : 50COOLS50 (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°254000891613 : Tournoi #3837592301, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 24/12/2024 9:15:32 CET [24/12/2024 3:15:32 ET]
+Table '3837592301 1' 3-max Siège #3 est au bouton.
+Place 1: PT_SASHA (930 en jetons) 
+Place 2: psychoman59 (370 en jetons) 
+Place 3: 50COOLS50 (200 en jetons) 
+PT_SASHA : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Qd]
+50COOLS50 : suit. 30
+PT_SASHA : suit. 15
+psychoman59 : parole 
+*** FLOP *** [9h Kh 3s]
+PT_SASHA : parole 
+psychoman59 : parole 
+50COOLS50 : mise. 90
+PT_SASHA : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (90) sont retournés à 50COOLS50.
+50COOLS50 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [9h Kh 3s]
+Siège 1 : PT_SASHA (petite blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : 50COOLS50 (bouton) a remporté (90)
+
+
+
+Main PokerStars n°254000893135 : Tournoi #3837592301, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 24/12/2024 9:15:50 CET [24/12/2024 3:15:50 ET]
+Table '3837592301 1' 3-max Siège #1 est au bouton.
+Place 1: PT_SASHA (900 en jetons) 
+Place 2: psychoman59 (340 en jetons) 
+Place 3: 50COOLS50 (260 en jetons) 
+psychoman59 : met la petite blind. 15
+50COOLS50 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Kh]
+PT_SASHA : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à 50COOLS50.
+50COOLS50 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : PT_SASHA (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : 50COOLS50 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°254000893760 : Tournoi #3837592301, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 24/12/2024 9:15:58 CET [24/12/2024 3:15:58 ET]
+Table '3837592301 1' 3-max Siège #2 est au bouton.
+Place 1: PT_SASHA (900 en jetons) 
+Place 2: psychoman59 (325 en jetons) 
+Place 3: 50COOLS50 (275 en jetons) 
+50COOLS50 : met la petite blind. 15
+PT_SASHA : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 6d]
+psychoman59 : suit. 30
+50COOLS50 : suit. 15
+PT_SASHA : parole 
+*** FLOP *** [Ah As 3c]
+50COOLS50 : parole 
+PT_SASHA : mise. 30
+psychoman59 : passe. 
+50COOLS50 : passe. 
+Personne n'a suivi. (30) sont retournés à PT_SASHA.
+PT_SASHA a remporté 90  lors du pot .
+PT_SASHA : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [Ah As 3c]
+Siège 1 : PT_SASHA (grosse blind) a remporté (90)
+Siège 2 : psychoman59 (bouton) s'est couché. sur le Flop
+Siège 3 : 50COOLS50 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°254000895335 : Tournoi #3837592301, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 24/12/2024 9:16:17 CET [24/12/2024 3:16:17 ET]
+Table '3837592301 1' 3-max Siège #3 est au bouton.
+Place 1: PT_SASHA (960 en jetons) 
+Place 2: psychoman59 (295 en jetons) 
+Place 3: 50COOLS50 (245 en jetons) 
+PT_SASHA : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Ts]
+50COOLS50 : suit. 30
+PT_SASHA : passe. 
+psychoman59 : parole 
+*** FLOP *** [5d 7d 8d]
+psychoman59 : parole 
+50COOLS50 : mise. 215 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (215) sont retournés à 50COOLS50.
+50COOLS50 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Tableau [5d 7d 8d]
+Siège 1 : PT_SASHA (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : 50COOLS50 (bouton) a remporté (75)
+
+
+
+Main PokerStars n°254000897064 : Tournoi #3837592301, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 24/12/2024 9:16:39 CET [24/12/2024 3:16:39 ET]
+Table '3837592301 1' 3-max Siège #1 est au bouton.
+Place 1: PT_SASHA (945 en jetons) 
+Place 2: psychoman59 (265 en jetons) 
+Place 3: 50COOLS50 (290 en jetons) 
+psychoman59 : met la petite blind. 15
+50COOLS50 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 2h]
+PT_SASHA : relance. 60 à 90
+psychoman59 : passe. 
+50COOLS50 : suit. 60
+*** FLOP *** [9s 9d 3s]
+50COOLS50 : parole 
+PT_SASHA : parole 
+*** TOURNANT *** [9s 9d 3s] [3c]
+50COOLS50 : mise. 30
+PT_SASHA : relance. 128 à 158
+50COOLS50 : passe. 
+Personne n'a suivi. (128) sont retournés à PT_SASHA.
+PT_SASHA a remporté 255  lors du pot .
+PT_SASHA : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 255 | Commission 0 
+Tableau [9s 9d 3s 3c]
+Siège 1 : PT_SASHA (bouton) a remporté (255)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : 50COOLS50 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°254000899402 : Tournoi #3837592301, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 24/12/2024 9:17:07 CET [24/12/2024 3:17:07 ET]
+Table '3837592301 1' 3-max Siège #2 est au bouton.
+Place 1: PT_SASHA (1080 en jetons) 
+Place 2: psychoman59 (250 en jetons) 
+Place 3: 50COOLS50 (170 en jetons) 
+50COOLS50 : met la petite blind. 15
+PT_SASHA : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 6c]
+psychoman59 : passe. 
+50COOLS50 : suit. 15
+PT_SASHA : parole 
+*** FLOP *** [6h 8c 3d]
+50COOLS50 : parole 
+PT_SASHA : mise. 30
+50COOLS50 : suit. 30
+*** TOURNANT *** [6h 8c 3d] [7h]
+50COOLS50 : parole 
+PT_SASHA : mise. 60
+50COOLS50 : suit. 60
+*** RIVIÈRE *** [6h 8c 3d 7h] [5s]
+50COOLS50 : parole 
+PT_SASHA : parole 
+*** ABATTAGE ***
+50COOLS50 : montre [Ts 6s] (une paire de Six)
+PT_SASHA : montre [Qs 9d] (une suite, Cinq à Neuf)
+PT_SASHA a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [6h 8c 3d 7h 5s]
+Siège 1 : PT_SASHA (grosse blind) a montré [Qs 9d] et a gagné (240) avec une suite, Cinq à Neuf
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : 50COOLS50 (petite blind) a montré [Ts 6s] et a perdu avec une paire de Six
+
+
+
+Main PokerStars n°254000902160 : Tournoi #3837592301, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau II (15/30) - 24/12/2024 9:17:41 CET [24/12/2024 3:17:41 ET]
+Table '3837592301 1' 3-max Siège #3 est au bouton.
+Place 1: PT_SASHA (1200 en jetons) 
+Place 2: psychoman59 (250 en jetons) 
+Place 3: 50COOLS50 (50 en jetons) 
+PT_SASHA : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 7h]
+50COOLS50 : suit. 30
+PT_SASHA : suit. 15
+psychoman59 : parole 
+*** FLOP *** [5h 8s Ac]
+PT_SASHA : parole 
+psychoman59 : parole 
+50COOLS50 : parole 
+*** TOURNANT *** [5h 8s Ac] [9d]
+PT_SASHA : parole 
+psychoman59 : parole 
+50COOLS50 : mise. 20 et est all-in.
+PT_SASHA : suit. 20
+psychoman59 : passe. 
+*** RIVIÈRE *** [5h 8s Ac 9d] [5c]
+*** ABATTAGE ***
+PT_SASHA : montre [9h 2h] (double paire, Neuf et Cinq)
+50COOLS50 : montre [9s Jc] (double paire, Neuf et Cinq)
+PT_SASHA a remporté 65  lors du pot .
+50COOLS50 a remporté 65  lors du pot .
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Tableau [5h 8s Ac 9d 5c]
+Siège 1 : PT_SASHA (petite blind) a montré [9h 2h] et a gagné (65) avec double paire, Neuf et Cinq
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : 50COOLS50 (bouton) a montré [9s Jc] et a gagné (65) avec double paire, Neuf et Cinq
+
+
+
+Main PokerStars n°254000904695 : Tournoi #3837592301, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 24/12/2024 9:18:11 CET [24/12/2024 3:18:11 ET]
+Table '3837592301 1' 3-max Siège #1 est au bouton.
+Place 1: PT_SASHA (1215 en jetons) 
+Place 2: psychoman59 (220 en jetons) 
+Place 3: 50COOLS50 (65 en jetons) 
+psychoman59 : met la petite blind. 20
+50COOLS50 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 2d]
+PT_SASHA : suit. 40
+psychoman59 : suit. 20
+50COOLS50 : parole 
+*** FLOP *** [2h 6c 4s]
+psychoman59 : mise. 180 et est all-in.
+50COOLS50 : suit. 25 et est all-in.
+PT_SASHA : passe. 
+Personne n'a suivi. (155) sont retournés à psychoman59.
+*** TOURNANT *** [2h 6c 4s] [7s]
+*** RIVIÈRE *** [2h 6c 4s 7s] [4h]
+*** ABATTAGE ***
+psychoman59 : montre [Qd 2d] (double paire, Quatre et Deux)
+50COOLS50 : montre [6s 4c] (un full, full aux Quatre par les Six)
+50COOLS50 a remporté 170  lors du pot .
+*** SYNTHÈSE ***
+Pot total 170 | Commission 0 
+Tableau [2h 6c 4s 7s 4h]
+Siège 1 : PT_SASHA (bouton) s'est couché. sur le Flop
+Siège 2 : psychoman59 (petite blind) a montré [Qd 2d] et a perdu avec double paire, Quatre et Deux
+Siège 3 : 50COOLS50 (grosse blind) a montré [6s 4c] et a gagné (170) avec un full, full aux Quatre par les Six
+
+
+
+Main PokerStars n°254000906345 : Tournoi #3837592301, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 24/12/2024 9:18:31 CET [24/12/2024 3:18:31 ET]
+Table '3837592301 1' 3-max Siège #2 est au bouton.
+Place 1: PT_SASHA (1175 en jetons) 
+Place 2: psychoman59 (155 en jetons) 
+Place 3: 50COOLS50 (170 en jetons) 
+50COOLS50 : met la petite blind. 20
+PT_SASHA : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Ks]
+psychoman59 : relance. 115 à 155 et est all-in.
+50COOLS50 : passe. 
+PT_SASHA : passe. 
+Personne n'a suivi. (115) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : PT_SASHA (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a remporté (100)
+Siège 3 : 50COOLS50 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°254000907300 : Tournoi #3837592301, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau III (20/40) - 24/12/2024 9:18:42 CET [24/12/2024 3:18:42 ET]
+Table '3837592301 1' 3-max Siège #3 est au bouton.
+Place 1: PT_SASHA (1135 en jetons) 
+Place 2: psychoman59 (215 en jetons) 
+Place 3: 50COOLS50 (150 en jetons) 
+PT_SASHA : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 6s]
+50COOLS50 : passe. 
+PT_SASHA : suit. 20
+psychoman59 : relance. 175 à 215 et est all-in.
+PT_SASHA : suit. 175
+*** FLOP *** [Jd Ks 9h]
+*** TOURNANT *** [Jd Ks 9h] [6d]
+*** RIVIÈRE *** [Jd Ks 9h 6d] [6c]
+*** ABATTAGE ***
+PT_SASHA : montre [Jh Js] (un full, full aux Valets par les Six)
+psychoman59 : montre [Ad 6s] (un brelan de Six)
+PT_SASHA a remporté 430  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 430 | Commission 0 
+Tableau [Jd Ks 9h 6d 6c]
+Siège 1 : PT_SASHA (petite blind) a montré [Jh Js] et a gagné (430) avec un full, full aux Valets par les Six
+Siège 2 : psychoman59 (grosse blind) a montré [Ad 6s] et a perdu avec un brelan de Six
+Siège 3 : 50COOLS50 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+

@@ -1,0 +1,104 @@
+﻿Main PokerStars n°240746180614 : Tournoi #3522352356, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/12/2022 11:11:22 CET [28/12/2022 5:11:22 ET]
+Table '3522352356 1' 3-max Siège #1 est au bouton.
+Place 1: louumata (300 en jetons) 
+Place 2: babas94420 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+babas94420 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 2h]
+louumata a dépassé le temps imparti.
+louumata : passe. 
+louumata ne joue pas.
+babas94420 : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : louumata (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : babas94420 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°240746183201 : Tournoi #3522352356, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/12/2022 11:11:37 CET [28/12/2022 5:11:37 ET]
+Table '3522352356 1' 3-max Siège #2 est au bouton.
+Place 1: louumata (300 en jetons) ne joue pas.
+Place 2: babas94420 (290 en jetons) 
+Place 3: psychoman59 (310 en jetons) 
+psychoman59 : met la petite blind. 10
+louumata : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Ac]
+babas94420 : suit. 20
+psychoman59 : relance. 40 à 60
+louumata : passe. 
+babas94420 : relance. 230 à 290 et est all-in.
+psychoman59 : suit. 230
+*** FLOP *** [6s 8h Ts]
+*** TOURNANT *** [6s 8h Ts] [As]
+*** RIVIÈRE *** [6s 8h Ts As] [7h]
+*** ABATTAGE ***
+psychoman59 : montre [Ad Ac] (un brelan de As)
+babas94420 : montre [Ah 8c] (double paire, As et Huit)
+psychoman59 a remporté 600  lors du pot .
+babas94420 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [6s 8h Ts As 7h]
+Siège 1 : louumata (grosse blind) s'est couché. avant Flop
+Siège 2 : babas94420 (bouton) a montré [Ah 8c] et a perdu avec double paire, As et Huit
+Siège 3 : psychoman59 (petite blind) a montré [Ad Ac] et a gagné (600) avec un brelan de As
+
+
+
+Main PokerStars n°240746186941 : Tournoi #3522352356, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/12/2022 11:11:59 CET [28/12/2022 5:11:59 ET]
+Table '3522352356 1' 3-max Siège #1 est au bouton.
+Place 1: louumata (280 en jetons) 
+Place 3: psychoman59 (620 en jetons) 
+louumata : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Ac]
+louumata : suit. 10
+psychoman59 : relance. 600 à 620 et est all-in.
+louumata : passe. 
+Personne n'a suivi. (600) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : louumata (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°240746189920 : Tournoi #3522352356, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/12/2022 11:12:16 CET [28/12/2022 5:12:16 ET]
+Table '3522352356 1' 3-max Siège #3 est au bouton.
+Place 1: louumata (260 en jetons) 
+Place 3: psychoman59 (640 en jetons) 
+psychoman59 : met la petite blind. 10
+louumata : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Ad]
+psychoman59 : relance. 620 à 640 et est all-in.
+louumata : suit. 240 et est all-in.
+Personne n'a suivi. (380) sont retournés à psychoman59.
+*** FLOP *** [Js Tc 8h]
+*** TOURNANT *** [Js Tc 8h] [6h]
+*** RIVIÈRE *** [Js Tc 8h 6h] [Ah]
+*** ABATTAGE ***
+louumata : montre [Jc 3d] (une paire de Valets)
+psychoman59 : montre [5s Ad] (une paire de As)
+psychoman59 a remporté 520  lors du pot .
+louumata a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 520 | Commission 0 
+Tableau [Js Tc 8h 6h Ah]
+Siège 1 : louumata (grosse blind) a montré [Jc 3d] et a perdu avec une paire de Valets
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [5s Ad] et a gagné (520) avec une paire de As
+
+
+

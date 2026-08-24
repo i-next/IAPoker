@@ -1,0 +1,556 @@
+﻿Main PokerStars n°261755305788 : Tournoi #4024046955, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 15/08/2026 7:43:15 CET [15/08/2026 1:43:15 ET]
+Table '4024046955 1' 3-max Siège #1 est au bouton.
+Place 1: joserra1982 (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: AARAPHAKK (500 en jetons) 
+psychoman59 : met la petite blind. 10
+AARAPHAKK : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Tc]
+joserra1982 : suit. 20
+psychoman59 : passe. 
+AARAPHAKK : relance. 40 à 60
+joserra1982 : suit. 40
+*** FLOP *** [Jd Td Kd]
+AARAPHAKK : mise. 65
+joserra1982 : passe. 
+Personne n'a suivi. (65) sont retournés à AARAPHAKK.
+AARAPHAKK a remporté 130  lors du pot .
+AARAPHAKK : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Tableau [Jd Td Kd]
+Siège 1 : joserra1982 (bouton) s'est couché. sur le Flop
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : AARAPHAKK (grosse blind) a remporté (130)
+
+
+
+Main PokerStars n°261755306794 : Tournoi #4024046955, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 15/08/2026 7:43:31 CET [15/08/2026 1:43:31 ET]
+Table '4024046955 1' 3-max Siège #2 est au bouton.
+Place 1: joserra1982 (440 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: AARAPHAKK (570 en jetons) 
+AARAPHAKK : met la petite blind. 10
+joserra1982 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Td]
+psychoman59 : passe. 
+AARAPHAKK : relance. 20 à 40
+joserra1982 : relance. 80 à 120
+AARAPHAKK : passe. 
+Personne n'a suivi. (80) sont retournés à joserra1982.
+joserra1982 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : joserra1982 (grosse blind) a remporté (80)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : AARAPHAKK (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261755307682 : Tournoi #4024046955, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 15/08/2026 7:43:46 CET [15/08/2026 1:43:46 ET]
+Table '4024046955 1' 3-max Siège #3 est au bouton.
+Place 1: joserra1982 (480 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: AARAPHAKK (530 en jetons) 
+joserra1982 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 5h]
+AARAPHAKK : passe. 
+joserra1982 : suit. 10
+psychoman59 : relance. 470 à 490 et est all-in.
+joserra1982 : passe. 
+Personne n'a suivi. (470) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : joserra1982 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+Siège 3 : AARAPHAKK (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°261755308241 : Tournoi #4024046955, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 15/08/2026 7:43:55 CET [15/08/2026 1:43:55 ET]
+Table '4024046955 1' 3-max Siège #1 est au bouton.
+Place 1: joserra1982 (460 en jetons) 
+Place 2: psychoman59 (510 en jetons) 
+Place 3: AARAPHAKK (530 en jetons) 
+psychoman59 : met la petite blind. 10
+AARAPHAKK : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 7s]
+joserra1982 : relance. 60 à 80
+psychoman59 : passe. 
+AARAPHAKK : relance. 450 à 530 et est all-in.
+joserra1982 : suit. 380 et est all-in.
+Personne n'a suivi. (70) sont retournés à AARAPHAKK.
+*** FLOP *** [9h Kh 6h]
+*** TOURNANT *** [9h Kh 6h] [Ts]
+*** RIVIÈRE *** [9h Kh 6h Ts] [Qd]
+*** ABATTAGE ***
+AARAPHAKK : montre [2h Ac] (Hauteur As)
+joserra1982 : montre [3c 3d] (une paire de Trois)
+joserra1982 a remporté 930  lors du pot .
+*** SYNTHÈSE ***
+Pot total 930 | Commission 0 
+Tableau [9h Kh 6h Ts Qd]
+Siège 1 : joserra1982 (bouton) a montré [3c 3d] et a gagné (930) avec une paire de Trois
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : AARAPHAKK (grosse blind) a montré [2h Ac] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°261755309540 : Tournoi #4024046955, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 15/08/2026 7:44:16 CET [15/08/2026 1:44:16 ET]
+Table '4024046955 1' 3-max Siège #2 est au bouton.
+Place 1: joserra1982 (930 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: AARAPHAKK (70 en jetons) 
+AARAPHAKK : met la petite blind. 10
+joserra1982 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Td]
+psychoman59 : suit. 20
+AARAPHAKK : relance. 50 à 70 et est all-in.
+joserra1982 : suit. 50
+psychoman59 : relance. 430 à 500 et est all-in.
+joserra1982 : passe. 
+Personne n'a suivi. (430) sont retournés à psychoman59.
+*** FLOP *** [8d 5d Kh]
+*** TOURNANT *** [8d 5d Kh] [Ac]
+*** RIVIÈRE *** [8d 5d Kh Ac] [8s]
+*** ABATTAGE ***
+AARAPHAKK : montre [2c 7c] (une paire de Huit)
+psychoman59 : montre [Tc Td] (double paire, Dix et Huit)
+psychoman59 a remporté 210  lors du pot .
+AARAPHAKK a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 210 | Commission 0 
+Tableau [8d 5d Kh Ac 8s]
+Siège 1 : joserra1982 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a montré [Tc Td] et a gagné (210) avec double paire, Dix et Huit
+Siège 3 : AARAPHAKK (petite blind) a montré [2c 7c] et a perdu avec une paire de Huit
+
+
+
+Main PokerStars n°261755311021 : Tournoi #4024046955, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 15/08/2026 7:44:40 CET [15/08/2026 1:44:40 ET]
+Table '4024046955 1' 3-max Siège #1 est au bouton.
+Place 1: joserra1982 (860 en jetons) 
+Place 2: psychoman59 (640 en jetons) 
+joserra1982 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 2h]
+joserra1982 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Ks 9d 5c]
+psychoman59 : parole 
+joserra1982 : parole 
+*** TOURNANT *** [Ks 9d 5c] [3h]
+psychoman59 : parole 
+joserra1982 : parole 
+*** RIVIÈRE *** [Ks 9d 5c 3h] [9c]
+psychoman59 : parole 
+joserra1982 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [7h 2h] (une paire de Neuf)
+joserra1982 : montre [7d Jc] (une paire de Neuf - Roi+Valet kicker)
+joserra1982 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Ks 9d 5c 3h 9c]
+Siège 1 : joserra1982 (bouton) (petite blind) a montré [7d Jc] et a gagné (40) avec une paire de Neuf
+Siège 2 : psychoman59 (grosse blind) a montré [7h 2h] et a perdu avec une paire de Neuf
+
+
+
+Main PokerStars n°261755312184 : Tournoi #4024046955, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 15/08/2026 7:44:59 CET [15/08/2026 1:44:59 ET]
+Table '4024046955 1' 3-max Siège #2 est au bouton.
+Place 1: joserra1982 (880 en jetons) 
+Place 2: psychoman59 (620 en jetons) 
+psychoman59 : met la petite blind. 10
+joserra1982 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 5c]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à joserra1982.
+joserra1982 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : joserra1982 (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261755312504 : Tournoi #4024046955, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 15/08/2026 7:45:03 CET [15/08/2026 1:45:03 ET]
+Table '4024046955 1' 3-max Siège #1 est au bouton.
+Place 1: joserra1982 (890 en jetons) 
+Place 2: psychoman59 (610 en jetons) 
+joserra1982 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 6h]
+joserra1982 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [4d Js Jc]
+psychoman59 : parole 
+joserra1982 : parole 
+*** TOURNANT *** [4d Js Jc] [6d]
+psychoman59 : mise. 20
+joserra1982 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [4d Js Jc 6d]
+Siège 1 : joserra1982 (bouton) (petite blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°261755313717 : Tournoi #4024046955, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 15/08/2026 7:45:23 CET [15/08/2026 1:45:23 ET]
+Table '4024046955 1' 3-max Siège #2 est au bouton.
+Place 1: joserra1982 (870 en jetons) 
+Place 2: psychoman59 (630 en jetons) 
+psychoman59 : met la petite blind. 15
+joserra1982 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 5h]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à joserra1982.
+joserra1982 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : joserra1982 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261755313970 : Tournoi #4024046955, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 15/08/2026 7:45:27 CET [15/08/2026 1:45:27 ET]
+Table '4024046955 1' 3-max Siège #1 est au bouton.
+Place 1: joserra1982 (885 en jetons) 
+Place 2: psychoman59 (615 en jetons) 
+joserra1982 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Qc]
+joserra1982 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : joserra1982 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°261755314297 : Tournoi #4024046955, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 15/08/2026 7:45:32 CET [15/08/2026 1:45:32 ET]
+Table '4024046955 1' 3-max Siège #2 est au bouton.
+Place 1: joserra1982 (870 en jetons) 
+Place 2: psychoman59 (630 en jetons) 
+psychoman59 : met la petite blind. 15
+joserra1982 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 4d]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à joserra1982.
+joserra1982 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : joserra1982 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261755314584 : Tournoi #4024046955, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 15/08/2026 7:45:37 CET [15/08/2026 1:45:37 ET]
+Table '4024046955 1' 3-max Siège #1 est au bouton.
+Place 1: joserra1982 (885 en jetons) 
+Place 2: psychoman59 (615 en jetons) 
+joserra1982 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Jd]
+joserra1982 : relance. 60 à 90
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à joserra1982.
+joserra1982 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : joserra1982 (bouton) (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261755315118 : Tournoi #4024046955, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 15/08/2026 7:45:46 CET [15/08/2026 1:45:46 ET]
+Table '4024046955 1' 3-max Siège #2 est au bouton.
+Place 1: joserra1982 (915 en jetons) 
+Place 2: psychoman59 (585 en jetons) 
+psychoman59 : met la petite blind. 15
+joserra1982 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Kc]
+psychoman59 : relance. 60 à 90
+joserra1982 : suit. 60
+*** FLOP *** [6s Qd Kd]
+joserra1982 : parole 
+psychoman59 : mise. 90
+joserra1982 : suit. 90
+*** TOURNANT *** [6s Qd Kd] [3d]
+joserra1982 : parole 
+psychoman59 : mise. 180
+joserra1982 : passe. 
+Personne n'a suivi. (180) sont retournés à psychoman59.
+psychoman59 a remporté 360  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [6s Qd Kd 3d]
+Siège 1 : joserra1982 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (360)
+
+
+
+Main PokerStars n°261755316182 : Tournoi #4024046955, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 15/08/2026 7:46:02 CET [15/08/2026 1:46:02 ET]
+Table '4024046955 1' 3-max Siège #1 est au bouton.
+Place 1: joserra1982 (735 en jetons) 
+Place 2: psychoman59 (765 en jetons) 
+joserra1982 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Td]
+joserra1982 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [4h Th Qs]
+psychoman59 : parole 
+joserra1982 : mise. 30
+psychoman59 : suit. 30
+*** TOURNANT *** [4h Th Qs] [6h]
+psychoman59 : parole 
+joserra1982 : mise. 90
+psychoman59 : passe. 
+Personne n'a suivi. (90) sont retournés à joserra1982.
+joserra1982 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [4h Th Qs 6h]
+Siège 1 : joserra1982 (bouton) (petite blind) a remporté (120)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°261755317355 : Tournoi #4024046955, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 15/08/2026 7:46:22 CET [15/08/2026 1:46:22 ET]
+Table '4024046955 1' 3-max Siège #2 est au bouton.
+Place 1: joserra1982 (795 en jetons) 
+Place 2: psychoman59 (705 en jetons) 
+psychoman59 : met la petite blind. 15
+joserra1982 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 3h]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à joserra1982.
+joserra1982 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : joserra1982 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261755317670 : Tournoi #4024046955, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 15/08/2026 7:46:26 CET [15/08/2026 1:46:26 ET]
+Table '4024046955 1' 3-max Siège #1 est au bouton.
+Place 1: joserra1982 (810 en jetons) 
+Place 2: psychoman59 (690 en jetons) 
+joserra1982 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 9c]
+joserra1982 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Td Qd 3c]
+psychoman59 : parole 
+joserra1982 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à joserra1982.
+joserra1982 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Td Qd 3c]
+Siège 1 : joserra1982 (bouton) (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261755318531 : Tournoi #4024046955, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 15/08/2026 7:46:40 CET [15/08/2026 1:46:40 ET]
+Table '4024046955 1' 3-max Siège #2 est au bouton.
+Place 1: joserra1982 (840 en jetons) 
+Place 2: psychoman59 (660 en jetons) 
+psychoman59 : met la petite blind. 15
+joserra1982 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Qs]
+psychoman59 : relance. 30 à 60
+joserra1982 : suit. 30
+*** FLOP *** [Jd 4c 4h]
+joserra1982 : parole 
+psychoman59 : mise. 60
+joserra1982 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Jd 4c 4h]
+Siège 1 : joserra1982 (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°261755319632 : Tournoi #4024046955, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 15/08/2026 7:46:58 CET [15/08/2026 1:46:58 ET]
+Table '4024046955 1' 3-max Siège #1 est au bouton.
+Place 1: joserra1982 (780 en jetons) 
+Place 2: psychoman59 (720 en jetons) 
+joserra1982 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Qd]
+joserra1982 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [8h 6c Kh]
+psychoman59 : parole 
+joserra1982 : mise. 30
+psychoman59 : suit. 30
+*** TOURNANT *** [8h 6c Kh] [Kc]
+psychoman59 : parole 
+joserra1982 : mise. 90
+psychoman59 : passe. 
+Personne n'a suivi. (90) sont retournés à joserra1982.
+joserra1982 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [8h 6c Kh Kc]
+Siège 1 : joserra1982 (bouton) (petite blind) a remporté (120)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°261755321270 : Tournoi #4024046955, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 15/08/2026 7:47:24 CET [15/08/2026 1:47:24 ET]
+Table '4024046955 1' 3-max Siège #2 est au bouton.
+Place 1: joserra1982 (840 en jetons) 
+Place 2: psychoman59 (660 en jetons) 
+psychoman59 : met la petite blind. 20
+joserra1982 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd Ks]
+psychoman59 : relance. 80 à 120
+joserra1982 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : joserra1982 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°261755321767 : Tournoi #4024046955, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 15/08/2026 7:47:33 CET [15/08/2026 1:47:33 ET]
+Table '4024046955 1' 3-max Siège #1 est au bouton.
+Place 1: joserra1982 (800 en jetons) 
+Place 2: psychoman59 (700 en jetons) 
+joserra1982 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 6s]
+joserra1982 : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : joserra1982 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°261755322063 : Tournoi #4024046955, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 15/08/2026 7:47:37 CET [15/08/2026 1:47:37 ET]
+Table '4024046955 1' 3-max Siège #2 est au bouton.
+Place 1: joserra1982 (780 en jetons) 
+Place 2: psychoman59 (720 en jetons) 
+psychoman59 : met la petite blind. 20
+joserra1982 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 8h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à joserra1982.
+joserra1982 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : joserra1982 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261755322350 : Tournoi #4024046955, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 15/08/2026 7:47:42 CET [15/08/2026 1:47:42 ET]
+Table '4024046955 1' 3-max Siège #1 est au bouton.
+Place 1: joserra1982 (800 en jetons) 
+Place 2: psychoman59 (700 en jetons) 
+joserra1982 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Jc]
+joserra1982 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Jh 6d 5s]
+psychoman59 : parole 
+joserra1982 : mise. 40
+psychoman59 : relance. 620 à 660 et est all-in.
+joserra1982 : passe. 
+Personne n'a suivi. (620) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Jh 6d 5s]
+Siège 1 : joserra1982 (bouton) (petite blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (160)
+
+
+
+Main PokerStars n°261755323243 : Tournoi #4024046955, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 15/08/2026 7:47:56 CET [15/08/2026 1:47:56 ET]
+Table '4024046955 1' 3-max Siège #2 est au bouton.
+Place 1: joserra1982 (720 en jetons) 
+Place 2: psychoman59 (780 en jetons) 
+psychoman59 : met la petite blind. 20
+joserra1982 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 8s]
+psychoman59 : suit. 20
+joserra1982 : parole 
+*** FLOP *** [6c Ts 3s]
+joserra1982 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [6c Ts 3s] [9c]
+joserra1982 : mise. 120
+psychoman59 : relance. 620 à 740 et est all-in.
+joserra1982 : suit. 560 et est all-in.
+Personne n'a suivi. (60) sont retournés à psychoman59.
+*** RIVIÈRE *** [6c Ts 3s 9c] [2s]
+*** ABATTAGE ***
+joserra1982 : montre [3d Th] (double paire, Dix et Trois)
+psychoman59 : montre [As 8s] (une couleur, hauteur As)
+psychoman59 a remporté 1440  lors du pot .
+joserra1982 a fini le tournoi en 2e position.
+psychoman59 gagne le tournoi - félicitations !
+psychoman59 gagne un ticket " €1.50 Step 2 SnG Power Path ticket "
+*** SYNTHÈSE ***
+Pot total 1440 | Commission 0 
+Tableau [6c Ts 3s 9c 2s]
+Siège 1 : joserra1982 (grosse blind) a montré [3d Th] et a perdu avec double paire, Dix et Trois
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [As 8s] et a gagné (1440) avec une couleur, hauteur As
+
+
+

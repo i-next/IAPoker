@@ -1,0 +1,293 @@
+﻿Main PokerStars n°245050651771 : Tournoi #3623133318, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 27/07/2023 19:02:42 CET [27/07/2023 13:02:42 ET]
+Table '3623133318 1' 3-max Siège #1 est au bouton.
+Place 1: eloypadmir (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: opinionnoueuse (300 en jetons) 
+psychoman59 : met la petite blind. 10
+opinionnoueuse : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 5d]
+eloypadmir : relance. 20 à 40
+psychoman59 : suit. 30
+opinionnoueuse : suit. 20
+*** FLOP *** [Jd 6c Td]
+psychoman59 : parole 
+opinionnoueuse : parole 
+eloypadmir : parole 
+*** TOURNANT *** [Jd 6c Td] [3s]
+psychoman59 : parole 
+opinionnoueuse : mise. 60
+eloypadmir : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à opinionnoueuse.
+opinionnoueuse a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Jd 6c Td 3s]
+Siège 1 : eloypadmir (bouton) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Tournant
+Siège 3 : opinionnoueuse (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°245050661264 : Tournoi #3623133318, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 27/07/2023 19:03:17 CET [27/07/2023 13:03:17 ET]
+Table '3623133318 1' 3-max Siège #2 est au bouton.
+Place 1: eloypadmir (260 en jetons) 
+Place 2: psychoman59 (260 en jetons) 
+Place 3: opinionnoueuse (380 en jetons) 
+opinionnoueuse : met la petite blind. 10
+eloypadmir : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 8c]
+psychoman59 : relance. 240 à 260 et est all-in.
+opinionnoueuse : passe. 
+eloypadmir : passe. 
+Personne n'a suivi. (240) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : eloypadmir (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a remporté (50)
+Siège 3 : opinionnoueuse (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°245050663933 : Tournoi #3623133318, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 27/07/2023 19:03:27 CET [27/07/2023 13:03:27 ET]
+Table '3623133318 1' 3-max Siège #3 est au bouton.
+Place 1: eloypadmir (240 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: opinionnoueuse (370 en jetons) 
+eloypadmir : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Qd]
+opinionnoueuse : suit. 20
+eloypadmir : passe. 
+psychoman59 : relance. 270 à 290 et est all-in.
+opinionnoueuse : suit. 270
+*** FLOP *** [9h 8h Ad]
+*** TOURNANT *** [9h 8h Ad] [6d]
+*** RIVIÈRE *** [9h 8h Ad 6d] [5h]
+*** ABATTAGE ***
+psychoman59 : montre [As Qd] (une paire de As)
+opinionnoueuse : montre [Jh Kd] (Hauteur As)
+psychoman59 a remporté 590  lors du pot .
+*** SYNTHÈSE ***
+Pot total 590 | Commission 0 
+Tableau [9h 8h Ad 6d 5h]
+Siège 1 : eloypadmir (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a montré [As Qd] et a gagné (590) avec une paire de As
+Siège 3 : opinionnoueuse (bouton) a montré [Jh Kd] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°245050669667 : Tournoi #3623133318, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 27/07/2023 19:03:48 CET [27/07/2023 13:03:48 ET]
+Table '3623133318 1' 3-max Siège #1 est au bouton.
+Place 1: eloypadmir (230 en jetons) 
+Place 2: psychoman59 (590 en jetons) 
+Place 3: opinionnoueuse (80 en jetons) 
+psychoman59 : met la petite blind. 15
+opinionnoueuse : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 7s]
+eloypadmir : suit. 30
+psychoman59 : suit. 15
+opinionnoueuse : relance. 50 à 80 et est all-in.
+eloypadmir : suit. 50
+psychoman59 : suit. 50
+*** FLOP *** [Qs 6h 4c]
+psychoman59 : parole 
+eloypadmir : parole 
+*** TOURNANT *** [Qs 6h 4c] [2d]
+psychoman59 : parole 
+eloypadmir : parole 
+*** RIVIÈRE *** [Qs 6h 4c 2d] [3d]
+psychoman59 : parole 
+eloypadmir : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Jd 7s] (Hauteur Dame)
+opinionnoueuse : montre [Ad 2h] (une paire de Deux)
+eloypadmir : cache la main perdante. 
+opinionnoueuse a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Qs 6h 4c 2d 3d]
+Siège 1 : eloypadmir (bouton) a caché la main perdante. [9h As]
+Siège 2 : psychoman59 (petite blind) a montré [Jd 7s] et a perdu avec Hauteur Dame
+Siège 3 : opinionnoueuse (grosse blind) a montré [Ad 2h] et a gagné (240) avec une paire de Deux
+
+
+
+Main PokerStars n°245050677837 : Tournoi #3623133318, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 27/07/2023 19:04:18 CET [27/07/2023 13:04:18 ET]
+Table '3623133318 1' 3-max Siège #2 est au bouton.
+Place 1: eloypadmir (150 en jetons) 
+Place 2: psychoman59 (510 en jetons) 
+Place 3: opinionnoueuse (240 en jetons) 
+opinionnoueuse : met la petite blind. 15
+eloypadmir : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 2s]
+psychoman59 : passe. 
+opinionnoueuse : relance. 210 à 240 et est all-in.
+eloypadmir : passe. 
+Personne n'a suivi. (210) sont retournés à opinionnoueuse.
+opinionnoueuse a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : eloypadmir (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : opinionnoueuse (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°245050680098 : Tournoi #3623133318, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 27/07/2023 19:04:26 CET [27/07/2023 13:04:26 ET]
+Table '3623133318 1' 3-max Siège #3 est au bouton.
+Place 1: eloypadmir (120 en jetons) 
+Place 2: psychoman59 (510 en jetons) 
+Place 3: opinionnoueuse (270 en jetons) 
+eloypadmir : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 7c]
+opinionnoueuse : relance. 240 à 270 et est all-in.
+eloypadmir : suit. 105 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (150) sont retournés à opinionnoueuse.
+*** FLOP *** [Js 8s Kc]
+*** TOURNANT *** [Js 8s Kc] [6h]
+*** RIVIÈRE *** [Js 8s Kc 6h] [7h]
+*** ABATTAGE ***
+eloypadmir : montre [3c Jc] (une paire de Valets)
+opinionnoueuse : montre [4d 4c] (une paire de Quatre)
+eloypadmir a remporté 270  lors du pot .
+*** SYNTHÈSE ***
+Pot total 270 | Commission 0 
+Tableau [Js 8s Kc 6h 7h]
+Siège 1 : eloypadmir (petite blind) a montré [3c Jc] et a gagné (270) avec une paire de Valets
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : opinionnoueuse (bouton) a montré [4d 4c] et a perdu avec une paire de Quatre
+
+
+
+Main PokerStars n°245050684226 : Tournoi #3623133318, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 27/07/2023 19:04:41 CET [27/07/2023 13:04:41 ET]
+Table '3623133318 1' 3-max Siège #1 est au bouton.
+Place 1: eloypadmir (270 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+Place 3: opinionnoueuse (150 en jetons) 
+psychoman59 : met la petite blind. 15
+opinionnoueuse : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Qh]
+eloypadmir : passe. 
+psychoman59 : relance. 450 à 480 et est all-in.
+opinionnoueuse : suit. 120 et est all-in.
+Personne n'a suivi. (330) sont retournés à psychoman59.
+*** FLOP *** [8c Td 4s]
+*** TOURNANT *** [8c Td 4s] [Jd]
+*** RIVIÈRE *** [8c Td 4s Jd] [Ac]
+*** ABATTAGE ***
+psychoman59 : montre [5s Qh] (Hauteur As)
+opinionnoueuse : montre [6h Ad] (une paire de As)
+opinionnoueuse a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [8c Td 4s Jd Ac]
+Siège 1 : eloypadmir (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [5s Qh] et a perdu avec Hauteur As
+Siège 3 : opinionnoueuse (grosse blind) a montré [6h Ad] et a gagné (300) avec une paire de As
+
+
+
+Main PokerStars n°245050689356 : Tournoi #3623133318, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 27/07/2023 19:05:00 CET [27/07/2023 13:05:00 ET]
+Table '3623133318 1' 3-max Siège #2 est au bouton.
+Place 1: eloypadmir (270 en jetons) 
+Place 2: psychoman59 (330 en jetons) 
+Place 3: opinionnoueuse (300 en jetons) 
+opinionnoueuse : met la petite blind. 20
+eloypadmir : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Tc]
+psychoman59 : passe. 
+opinionnoueuse : suit. 20
+eloypadmir : parole 
+*** FLOP *** [7d 8d Jd]
+opinionnoueuse : parole 
+eloypadmir : parole 
+*** TOURNANT *** [7d 8d Jd] [6c]
+opinionnoueuse : parole 
+eloypadmir : mise. 40
+opinionnoueuse : suit. 40
+*** RIVIÈRE *** [7d 8d Jd 6c] [Qc]
+opinionnoueuse : parole 
+eloypadmir : mise. 40
+opinionnoueuse : suit. 40
+*** ABATTAGE ***
+eloypadmir : montre [Jh Qs] (double paire, Dames et Valets)
+opinionnoueuse : cache la main perdante. 
+eloypadmir a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [7d 8d Jd 6c Qc]
+Siège 1 : eloypadmir (grosse blind) a montré [Jh Qs] et a gagné (240) avec double paire, Dames et Valets
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : opinionnoueuse (petite blind) a caché la main perdante. [Ks 6h]
+
+
+
+Main PokerStars n°245050697137 : Tournoi #3623133318, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 27/07/2023 19:05:27 CET [27/07/2023 13:05:27 ET]
+Table '3623133318 1' 3-max Siège #3 est au bouton.
+Place 1: eloypadmir (390 en jetons) 
+Place 2: psychoman59 (330 en jetons) 
+Place 3: opinionnoueuse (180 en jetons) 
+eloypadmir : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 8c]
+opinionnoueuse : relance. 140 à 180 et est all-in.
+eloypadmir : suit. 160
+psychoman59 : passe. 
+*** FLOP *** [9d Qs Jd]
+*** TOURNANT *** [9d Qs Jd] [4s]
+*** RIVIÈRE *** [9d Qs Jd 4s] [Jh]
+*** ABATTAGE ***
+eloypadmir : montre [Qd Jc] (un full, full aux Valets par les Dames)
+opinionnoueuse : montre [5c Ac] (une paire de Valets)
+eloypadmir a remporté 400  lors du pot .
+opinionnoueuse a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [9d Qs Jd 4s Jh]
+Siège 1 : eloypadmir (petite blind) a montré [Qd Jc] et a gagné (400) avec un full, full aux Valets par les Dames
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : opinionnoueuse (bouton) a montré [5c Ac] et a perdu avec une paire de Valets
+
+
+
+Main PokerStars n°245050702934 : Tournoi #3623133318, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 27/07/2023 19:05:48 CET [27/07/2023 13:05:48 ET]
+Table '3623133318 1' 3-max Siège #2 est au bouton.
+Place 1: eloypadmir (610 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+psychoman59 : met la petite blind. 30
+eloypadmir : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 8s]
+psychoman59 : relance. 230 à 290 et est all-in.
+eloypadmir : suit. 230
+*** FLOP *** [4s 4d Jd]
+*** TOURNANT *** [4s 4d Jd] [7s]
+*** RIVIÈRE *** [4s 4d Jd 7s] [Ad]
+*** ABATTAGE ***
+eloypadmir : montre [9h Kc] (une paire de Quatre)
+psychoman59 : montre [Qd 8s] (une paire de Quatre - plus basse kicker)
+eloypadmir a remporté 580  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+eloypadmir remporte le tournoi et reçoit 4.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [4s 4d Jd 7s Ad]
+Siège 1 : eloypadmir (grosse blind) a montré [9h Kc] et a gagné (580) avec une paire de Quatre
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Qd 8s] et a perdu avec une paire de Quatre
+
+
+

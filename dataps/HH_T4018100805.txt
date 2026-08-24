@@ -1,0 +1,109 @@
+﻿Main PokerStars n°261517862167 : Tournoi #4018100805, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 23/07/2026 7:00:22 CET [23/07/2026 1:00:22 ET]
+Table '4018100805 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: ferher1964 (500 en jetons) 
+Place 3: hazallana (500 en jetons) 
+ferher1964 : met la petite blind. 10
+hazallana : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Ah]
+psychoman59 : suit. 20
+ferher1964 : suit. 10
+hazallana : parole 
+*** FLOP *** [9h 8d As]
+ferher1964 : parole 
+hazallana : parole 
+psychoman59 : mise. 30
+ferher1964 : passe. 
+hazallana : suit. 30
+*** TOURNANT *** [9h 8d As] [7d]
+hazallana : parole 
+psychoman59 : mise. 60
+hazallana : suit. 60
+*** RIVIÈRE *** [9h 8d As 7d] [6d]
+hazallana : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+hazallana : montre [4d Td] (une couleur, hauteur Dix)
+psychoman59 : cache la main perdante. 
+hazallana a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [9h 8d As 7d 6d]
+Siège 1 : psychoman59 (bouton) a caché la main perdante. [4c Ah]
+Siège 2 : ferher1964 (petite blind) s'est couché. sur le Flop
+Siège 3 : hazallana (grosse blind) a montré [4d Td] et a gagné (240) avec une couleur, hauteur Dix
+
+
+
+Main PokerStars n°261517863588 : Tournoi #4018100805, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 23/07/2026 7:00:49 CET [23/07/2026 1:00:49 ET]
+Table '4018100805 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (390 en jetons) 
+Place 2: ferher1964 (480 en jetons) 
+Place 3: hazallana (630 en jetons) 
+hazallana : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Ac]
+ferher1964 : suit. 20
+hazallana : relance. 60 à 80
+psychoman59 : suit. 60
+ferher1964 : passe. 
+*** FLOP *** [8h 7d Jc]
+hazallana : parole 
+psychoman59 : parole 
+*** TOURNANT *** [8h 7d Jc] [3h]
+hazallana : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [8h 7d Jc 3h] [Jd]
+hazallana : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+hazallana : montre [Ah Ks] (une paire de Valets)
+psychoman59 : cache la main perdante. 
+hazallana a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [8h 7d Jc 3h Jd]
+Siège 1 : psychoman59 (grosse blind) a caché la main perdante. [Qc Ac]
+Siège 2 : ferher1964 (bouton) s'est couché. avant Flop
+Siège 3 : hazallana (petite blind) a montré [Ah Ks] et a gagné (180) avec une paire de Valets
+
+
+
+Main PokerStars n°261517864838 : Tournoi #4018100805, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 23/07/2026 7:01:11 CET [23/07/2026 1:01:11 ET]
+Table '4018100805 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (310 en jetons) 
+Place 2: ferher1964 (460 en jetons) 
+Place 3: hazallana (730 en jetons) 
+psychoman59 : met la petite blind. 10
+ferher1964 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Kd]
+hazallana : suit. 20
+psychoman59 : suit. 10
+ferher1964 : parole 
+*** FLOP *** [6h 4s Ts]
+psychoman59 : mise. 60
+ferher1964 : passe. 
+hazallana : suit. 60
+*** TOURNANT *** [6h 4s Ts] [Ah]
+psychoman59 : mise. 90
+hazallana : suit. 90
+*** RIVIÈRE *** [6h 4s Ts Ah] [7h]
+psychoman59 : mise. 140 et est all-in.
+hazallana : suit. 140
+*** ABATTAGE ***
+psychoman59 : montre [Tc Kd] (une paire de Dix)
+hazallana : montre [As Qd] (une paire de As)
+hazallana a remporté 640  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 640 | Commission 0 
+Tableau [6h 4s Ts Ah 7h]
+Siège 1 : psychoman59 (petite blind) a montré [Tc Kd] et a perdu avec une paire de Dix
+Siège 2 : ferher1964 (grosse blind) s'est couché. sur le Flop
+Siège 3 : hazallana (bouton) a montré [As Qd] et a gagné (640) avec une paire de As
+
+
+

@@ -1,0 +1,371 @@
+﻿Main PokerStars n°244192969388 : Tournoi #3602652116, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/06/2023 12:03:50 CET [10/06/2023 6:03:50 ET]
+Table '3602652116 1' 3-max Siège #1 est au bouton.
+Place 1: Hyoniis (300 en jetons) 
+Place 2: jonquille62 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+jonquille62 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Td]
+Hyoniis : passe. 
+jonquille62 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [7d 8s 5d]
+jonquille62 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [7d 8s 5d] [Qh]
+jonquille62 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [7d 8s 5d Qh] [Kh]
+jonquille62 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+jonquille62 : montre [9c 4h] (Hauteur Roi)
+psychoman59 : montre [Jc Td] (Hauteur Roi - Dame+Valet kicker)
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [7d 8s 5d Qh Kh]
+Siège 1 : Hyoniis (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : jonquille62 (petite blind) a montré [9c 4h] et a perdu avec Hauteur Roi
+Siège 3 : psychoman59 (grosse blind) a montré [Jc Td] et a gagné (40) avec Hauteur Roi
+
+
+
+Main PokerStars n°244192972373 : Tournoi #3602652116, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/06/2023 12:04:10 CET [10/06/2023 6:04:10 ET]
+Table '3602652116 1' 3-max Siège #2 est au bouton.
+Place 1: Hyoniis (300 en jetons) 
+Place 2: jonquille62 (280 en jetons) 
+Place 3: psychoman59 (320 en jetons) 
+psychoman59 : met la petite blind. 10
+Hyoniis : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 9s]
+jonquille62 : passe. 
+psychoman59 : suit. 10
+Hyoniis : parole 
+*** FLOP *** [2c Ac Jc]
+psychoman59 : parole 
+Hyoniis : parole 
+*** TOURNANT *** [2c Ac Jc] [6c]
+psychoman59 : parole 
+Hyoniis : parole 
+*** RIVIÈRE *** [2c Ac Jc 6c] [Kh]
+psychoman59 : parole 
+Hyoniis : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Hyoniis.
+Hyoniis a remporté 40  lors du pot .
+Hyoniis : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [2c Ac Jc 6c Kh]
+Siège 1 : Hyoniis (grosse blind) a remporté (40)
+Siège 2 : jonquille62 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°244192977500 : Tournoi #3602652116, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 10/06/2023 12:04:45 CET [10/06/2023 6:04:45 ET]
+Table '3602652116 1' 3-max Siège #3 est au bouton.
+Place 1: Hyoniis (320 en jetons) 
+Place 2: jonquille62 (280 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+Hyoniis : met la petite blind. 10
+jonquille62 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Js]
+psychoman59 : passe. 
+Hyoniis : passe. 
+Personne n'a suivi. (10) sont retournés à jonquille62.
+jonquille62 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : Hyoniis (petite blind) s'est couché. avant Flop
+Siège 2 : jonquille62 (grosse blind) a remporté (20)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°244192979437 : Tournoi #3602652116, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/06/2023 12:04:58 CET [10/06/2023 6:04:58 ET]
+Table '3602652116 1' 3-max Siège #1 est au bouton.
+Place 1: Hyoniis (310 en jetons) 
+Place 2: jonquille62 (290 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+jonquille62 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 4c]
+Hyoniis : passe. 
+jonquille62 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [2d As 8s]
+jonquille62 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [2d As 8s] [7s]
+jonquille62 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [2d As 8s 7s] [9s]
+jonquille62 : parole 
+psychoman59 : mise. 60
+jonquille62 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [2d As 8s 7s 9s]
+Siège 1 : Hyoniis (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : jonquille62 (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°244192984286 : Tournoi #3602652116, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 10/06/2023 12:05:32 CET [10/06/2023 6:05:32 ET]
+Table '3602652116 1' 3-max Siège #2 est au bouton.
+Place 1: Hyoniis (310 en jetons) 
+Place 2: jonquille62 (260 en jetons) 
+Place 3: psychoman59 (330 en jetons) 
+psychoman59 : met la petite blind. 15
+Hyoniis : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 3c]
+jonquille62 : suit. 30
+psychoman59 : passe. 
+Hyoniis : parole 
+*** FLOP *** [Kc 6d 4c]
+Hyoniis : parole 
+jonquille62 : parole 
+*** TOURNANT *** [Kc 6d 4c] [6s]
+Hyoniis : parole 
+jonquille62 : parole 
+*** RIVIÈRE *** [Kc 6d 4c 6s] [3s]
+Hyoniis : mise. 30
+jonquille62 : suit. 30
+*** ABATTAGE ***
+Hyoniis : montre [3h Kd] (double paire, Rois et Six)
+jonquille62 : cache la main perdante. 
+Hyoniis a remporté 135  lors du pot .
+*** SYNTHÈSE ***
+Pot total 135 | Commission 0 
+Tableau [Kc 6d 4c 6s 3s]
+Siège 1 : Hyoniis (grosse blind) a montré [3h Kd] et a gagné (135) avec double paire, Rois et Six
+Siège 2 : jonquille62 (bouton) a caché la main perdante. [5c 5s]
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244192988168 : Tournoi #3602652116, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/06/2023 12:05:59 CET [10/06/2023 6:05:59 ET]
+Table '3602652116 1' 3-max Siège #3 est au bouton.
+Place 1: Hyoniis (385 en jetons) 
+Place 2: jonquille62 (200 en jetons) 
+Place 3: psychoman59 (315 en jetons) 
+Hyoniis : met la petite blind. 20
+jonquille62 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 8d]
+psychoman59 : passe. 
+Hyoniis : relance. 345 à 385 et est all-in.
+jonquille62 : passe. 
+Personne n'a suivi. (345) sont retournés à Hyoniis.
+Hyoniis a remporté 80  lors du pot .
+Hyoniis : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : Hyoniis (petite blind) a remporté (80)
+Siège 2 : jonquille62 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°244192989858 : Tournoi #3602652116, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/06/2023 12:06:11 CET [10/06/2023 6:06:11 ET]
+Table '3602652116 1' 3-max Siège #1 est au bouton.
+Place 1: Hyoniis (425 en jetons) 
+Place 2: jonquille62 (160 en jetons) 
+Place 3: psychoman59 (315 en jetons) 
+jonquille62 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Tc]
+Hyoniis : relance. 385 à 425 et est all-in.
+jonquille62 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (385) sont retournés à Hyoniis.
+Hyoniis a remporté 100  lors du pot .
+Hyoniis : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : Hyoniis (bouton) a remporté (100)
+Siège 2 : jonquille62 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244192992441 : Tournoi #3602652116, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/06/2023 12:06:29 CET [10/06/2023 6:06:29 ET]
+Table '3602652116 1' 3-max Siège #2 est au bouton.
+Place 1: Hyoniis (485 en jetons) 
+Place 2: jonquille62 (140 en jetons) 
+Place 3: psychoman59 (275 en jetons) 
+psychoman59 : met la petite blind. 20
+Hyoniis : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Ts]
+jonquille62 : suit. 40
+psychoman59 : relance. 235 à 275 et est all-in.
+Hyoniis : passe. 
+jonquille62 : passe. 
+Personne n'a suivi. (235) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : Hyoniis (grosse blind) s'est couché. avant Flop
+Siège 2 : jonquille62 (bouton) s'est couché. avant Flop
+Siège 3 : psychoman59 (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°244192995097 : Tournoi #3602652116, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 10/06/2023 12:06:47 CET [10/06/2023 6:06:47 ET]
+Table '3602652116 1' 3-max Siège #3 est au bouton.
+Place 1: Hyoniis (445 en jetons) 
+Place 2: jonquille62 (100 en jetons) 
+Place 3: psychoman59 (355 en jetons) 
+Hyoniis : met la petite blind. 20
+jonquille62 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 7s]
+psychoman59 : passe. 
+Hyoniis : relance. 405 à 445 et est all-in.
+jonquille62 : suit. 60 et est all-in.
+Personne n'a suivi. (345) sont retournés à Hyoniis.
+*** FLOP *** [2h 6s 9h]
+*** TOURNANT *** [2h 6s 9h] [4h]
+*** RIVIÈRE *** [2h 6s 9h 4h] [9s]
+*** ABATTAGE ***
+Hyoniis : montre [Qc Ac] (une paire de Neuf)
+jonquille62 : montre [Ah 7h] (une couleur, hauteur As)
+jonquille62 a remporté 200  lors du pot .
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [2h 6s 9h 4h 9s]
+Siège 1 : Hyoniis (petite blind) a montré [Qc Ac] et a perdu avec une paire de Neuf
+Siège 2 : jonquille62 (grosse blind) a montré [Ah 7h] et a gagné (200) avec une couleur, hauteur As
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°244192998199 : Tournoi #3602652116, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 10/06/2023 12:07:09 CET [10/06/2023 6:07:09 ET]
+Table '3602652116 1' 3-max Siège #1 est au bouton.
+Place 1: Hyoniis (345 en jetons) 
+Place 2: jonquille62 (200 en jetons) 
+Place 3: psychoman59 (355 en jetons) 
+jonquille62 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 7c]
+Hyoniis : passe. 
+jonquille62 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [6c 2d Jh]
+jonquille62 : parole 
+psychoman59 : mise. 120
+jonquille62 : suit. 120
+*** TOURNANT *** [6c 2d Jh] [2c]
+jonquille62 : parole 
+psychoman59 : mise. 60
+jonquille62 : suit. 20 et est all-in.
+Personne n'a suivi. (40) sont retournés à psychoman59.
+*** RIVIÈRE *** [6c 2d Jh 2c] [Kc]
+*** ABATTAGE ***
+jonquille62 : montre [7h 8h] (une paire de Deux)
+psychoman59 : montre [Js 7c] (double paire, Valets et Deux)
+psychoman59 a remporté 400  lors du pot .
+jonquille62 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [6c 2d Jh 2c Kc]
+Siège 1 : Hyoniis (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : jonquille62 (petite blind) a montré [7h 8h] et a perdu avec une paire de Deux
+Siège 3 : psychoman59 (grosse blind) a montré [Js 7c] et a gagné (400) avec double paire, Valets et Deux
+
+
+
+Main PokerStars n°244193004893 : Tournoi #3602652116, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 10/06/2023 12:07:55 CET [10/06/2023 6:07:55 ET]
+Table '3602652116 1' 3-max Siège #3 est au bouton.
+Place 1: Hyoniis (345 en jetons) 
+Place 3: psychoman59 (555 en jetons) 
+psychoman59 : met la petite blind. 40
+Hyoniis : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Ks]
+psychoman59 : suit. 40
+Hyoniis : parole 
+*** FLOP *** [8s Qh 8c]
+Hyoniis : parole 
+psychoman59 : parole 
+*** TOURNANT *** [8s Qh 8c] [3s]
+Hyoniis : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à Hyoniis.
+Hyoniis a remporté 160  lors du pot .
+Hyoniis : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [8s Qh 8c 3s]
+Siège 1 : Hyoniis (grosse blind) a remporté (160)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°244193008372 : Tournoi #3602652116, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 10/06/2023 12:08:19 CET [10/06/2023 6:08:19 ET]
+Table '3602652116 1' 3-max Siège #1 est au bouton.
+Place 1: Hyoniis (425 en jetons) 
+Place 3: psychoman59 (475 en jetons) 
+Hyoniis : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 9h]
+Hyoniis : relance. 345 à 425 et est all-in.
+psychoman59 : suit. 345
+*** FLOP *** [8h 2c 7h]
+*** TOURNANT *** [8h 2c 7h] [3d]
+*** RIVIÈRE *** [8h 2c 7h 3d] [6c]
+*** ABATTAGE ***
+psychoman59 : montre [Qh 9h] (Hauteur Dame)
+Hyoniis : montre [Ad Qs] (Hauteur As)
+Hyoniis a remporté 850  lors du pot .
+*** SYNTHÈSE ***
+Pot total 850 | Commission 0 
+Tableau [8h 2c 7h 3d 6c]
+Siège 1 : Hyoniis (bouton) (petite blind) a montré [Ad Qs] et a gagné (850) avec Hauteur As
+Siège 3 : psychoman59 (grosse blind) a montré [Qh 9h] et a perdu avec Hauteur Dame
+
+
+
+Main PokerStars n°244193010390 : Tournoi #3602652116, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 10/06/2023 12:08:33 CET [10/06/2023 6:08:33 ET]
+Table '3602652116 1' 3-max Siège #3 est au bouton.
+Place 1: Hyoniis (850 en jetons) 
+Place 3: psychoman59 (50 en jetons) 
+psychoman59 : met la petite blind. 40
+Hyoniis : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 9d]
+psychoman59 : suit. 10 et est all-in.
+Personne n'a suivi. (30) sont retournés à Hyoniis.
+*** FLOP *** [2s Ad Th]
+*** TOURNANT *** [2s Ad Th] [Js]
+*** RIVIÈRE *** [2s Ad Th Js] [8h]
+*** ABATTAGE ***
+Hyoniis : montre [3s Kc] (Hauteur As)
+psychoman59 : montre [6h 9d] (Hauteur As - plus basse kicker)
+Hyoniis a remporté 100  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+Hyoniis remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [2s Ad Th Js 8h]
+Siège 1 : Hyoniis (grosse blind) a montré [3s Kc] et a gagné (100) avec Hauteur As
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [6h 9d] et a perdu avec Hauteur As
+
+
+

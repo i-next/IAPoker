@@ -1,0 +1,91 @@
+﻿Main PokerStars n°254873616116 : Tournoi #3859152830, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 15/02/2025 8:03:29 CET [15/02/2025 2:03:29 ET]
+Table '3859152830 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: carbalas47 (500 en jetons) 
+Place 3: robertovt935 (500 en jetons) 
+carbalas47 : met la petite blind. 10
+robertovt935 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 5s]
+psychoman59 : passe. 
+carbalas47 : relance. 40 à 60
+robertovt935 : suit. 40
+*** FLOP *** [3c Ks Ah]
+carbalas47 : mise. 100
+robertovt935 : passe. 
+Personne n'a suivi. (100) sont retournés à carbalas47.
+carbalas47 a remporté 120  lors du pot .
+carbalas47 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [3c Ks Ah]
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : carbalas47 (petite blind) a remporté (120)
+Siège 3 : robertovt935 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°254873617439 : Tournoi #3859152830, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 15/02/2025 8:03:45 CET [15/02/2025 2:03:45 ET]
+Table '3859152830 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: carbalas47 (560 en jetons) 
+Place 3: robertovt935 (440 en jetons) 
+robertovt935 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Jc]
+carbalas47 : relance. 60 à 80
+robertovt935 : relance. 360 à 440 et est all-in.
+psychoman59 : passe. 
+carbalas47 : suit. 360
+*** FLOP *** [3s 9s Jd]
+*** TOURNANT *** [3s 9s Jd] [Js]
+*** RIVIÈRE *** [3s 9s Jd Js] [Qh]
+*** ABATTAGE ***
+robertovt935 : montre [Kc 9h] (double paire, Valets et Neuf)
+carbalas47 : montre [Ac Th] (une paire de Valets)
+robertovt935 a remporté 900  lors du pot .
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Tableau [3s 9s Jd Js Qh]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : carbalas47 (bouton) a montré [Ac Th] et a perdu avec une paire de Valets
+Siège 3 : robertovt935 (petite blind) a montré [Kc 9h] et a gagné (900) avec double paire, Valets et Neuf
+
+
+
+Main PokerStars n°254873619028 : Tournoi #3859152830, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 15/02/2025 8:04:04 CET [15/02/2025 2:04:04 ET]
+Table '3859152830 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (480 en jetons) 
+Place 2: carbalas47 (120 en jetons) 
+Place 3: robertovt935 (900 en jetons) 
+psychoman59 : met la petite blind. 10
+carbalas47 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s As]
+robertovt935 : relance. 880 à 900 et est all-in.
+psychoman59 : suit. 470 et est all-in.
+carbalas47 : suit. 100 et est all-in.
+Personne n'a suivi. (420) sont retournés à robertovt935.
+*** FLOP *** [Qh 2h Kh]
+*** TOURNANT *** [Qh 2h Kh] [Qd]
+*** RIVIÈRE *** [Qh 2h Kh Qd] [8h]
+*** ABATTAGE ***
+psychoman59 : montre [7s As] (une paire de Dames)
+robertovt935 : montre [Jh Th] (une couleur, hauteur Roi)
+robertovt935 a remporté 720  parallèle lors du pot .
+carbalas47 : montre [3h Ac] (une couleur, hauteur Roi - plus basse cartes)
+robertovt935 a remporté 360  principal lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+carbalas47 a fini le tournoi en 3e position.
+robertovt935 gagne le tournoi - félicitations !
+robertovt935 gagne un ticket " €1 Step 2 MTT Power Path ticket "
+*** SYNTHÈSE ***
+Pot total 1080 Principal pot 360. Parallèle pot 720. | Commission 0 
+Tableau [Qh 2h Kh Qd 8h]
+Siège 1 : psychoman59 (petite blind) a montré [7s As] et a perdu avec une paire de Dames
+Siège 2 : carbalas47 (grosse blind) a montré [3h Ac] et a perdu avec une couleur, hauteur Roi
+Siège 3 : robertovt935 (bouton) a montré [Jh Th] et a gagné (1080) avec une couleur, hauteur Roi
+
+
+

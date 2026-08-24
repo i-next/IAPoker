@@ -1,0 +1,304 @@
+﻿Main PokerStars n°261284070955 : Tournoi #4012186101, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 29/06/2026 7:28:45 CET [29/06/2026 1:28:45 ET]
+Table '4012186101 1' 3-max Siège #1 est au bouton.
+Place 1: aquiles10712 (500 en jetons) 
+Place 2: 7bornes (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+7bornes : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Js]
+aquiles10712 : suit. 20
+7bornes : suit. 10
+psychoman59 : parole 
+*** FLOP *** [9h Qs 5h]
+7bornes : mise. 20
+psychoman59 : passe. 
+aquiles10712 : suit. 20
+*** TOURNANT *** [9h Qs 5h] [Ad]
+7bornes : parole 
+aquiles10712 : parole 
+*** RIVIÈRE *** [9h Qs 5h Ad] [5c]
+7bornes : mise. 100
+aquiles10712 : passe. 
+Personne n'a suivi. (100) sont retournés à 7bornes.
+7bornes a remporté 100  lors du pot .
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Tableau [9h Qs 5h Ad 5c]
+Siège 1 : aquiles10712 (bouton) s'est couché. sur le Rivière
+Siège 2 : 7bornes (petite blind) a remporté (100)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261284072455 : Tournoi #4012186101, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 29/06/2026 7:29:17 CET [29/06/2026 1:29:17 ET]
+Table '4012186101 1' 3-max Siège #2 est au bouton.
+Place 1: aquiles10712 (460 en jetons) 
+Place 2: 7bornes (560 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 10
+aquiles10712 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 2h]
+7bornes : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à aquiles10712.
+aquiles10712 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : aquiles10712 (grosse blind) a remporté (20)
+Siège 2 : 7bornes (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261284072804 : Tournoi #4012186101, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 29/06/2026 7:29:25 CET [29/06/2026 1:29:25 ET]
+Table '4012186101 1' 3-max Siège #3 est au bouton.
+Place 1: aquiles10712 (470 en jetons) 
+Place 2: 7bornes (560 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+aquiles10712 : met la petite blind. 10
+7bornes : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d As]
+psychoman59 : relance. 20 à 40
+aquiles10712 : suit. 30
+7bornes : suit. 20
+*** FLOP *** [7s Kd Qc]
+aquiles10712 : parole 
+7bornes : parole 
+psychoman59 : mise. 60
+aquiles10712 : suit. 60
+7bornes : passe. 
+*** TOURNANT *** [7s Kd Qc] [3d]
+aquiles10712 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [7s Kd Qc 3d] [8c]
+aquiles10712 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+aquiles10712 : montre [4d 7c] (une paire de Sept)
+psychoman59 : montre [7d As] (une paire de Sept - As kicker)
+psychoman59 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [7s Kd Qc 3d 8c]
+Siège 1 : aquiles10712 (petite blind) a montré [4d 7c] et a perdu avec une paire de Sept
+Siège 2 : 7bornes (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) a montré [7d As] et a gagné (240) avec une paire de Sept
+
+
+
+Main PokerStars n°261284074602 : Tournoi #4012186101, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 29/06/2026 7:30:04 CET [29/06/2026 1:30:04 ET]
+Table '4012186101 1' 3-max Siège #1 est au bouton.
+Place 1: aquiles10712 (370 en jetons) 
+Place 2: 7bornes (520 en jetons) 
+Place 3: psychoman59 (610 en jetons) 
+7bornes : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 6s]
+aquiles10712 : relance. 50 à 70
+7bornes : passe. 
+psychoman59 : suit. 50
+*** FLOP *** [Qc 9d Kc]
+psychoman59 : parole 
+aquiles10712 : parole 
+*** TOURNANT *** [Qc 9d Kc] [6c]
+psychoman59 : parole 
+aquiles10712 : parole 
+*** RIVIÈRE *** [Qc 9d Kc 6c] [3h]
+psychoman59 : parole 
+aquiles10712 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [As 6s] (une paire de Six)
+aquiles10712 : cache la main perdante. 
+psychoman59 a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Tableau [Qc 9d Kc 6c 3h]
+Siège 1 : aquiles10712 (bouton) a caché la main perdante. [6h Td]
+Siège 2 : 7bornes (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [As 6s] et a gagné (150) avec une paire de Six
+
+
+
+Main PokerStars n°261284076008 : Tournoi #4012186101, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 29/06/2026 7:30:34 CET [29/06/2026 1:30:34 ET]
+Table '4012186101 1' 3-max Siège #2 est au bouton.
+Place 1: aquiles10712 (300 en jetons) 
+Place 2: 7bornes (510 en jetons) 
+Place 3: psychoman59 (690 en jetons) 
+psychoman59 : met la petite blind. 10
+aquiles10712 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 6c]
+7bornes : suit. 20
+psychoman59 : passe. 
+aquiles10712 : parole 
+*** FLOP *** [Td 3h 4h]
+aquiles10712 : parole 
+7bornes : mise. 20
+aquiles10712 : suit. 20
+*** TOURNANT *** [Td 3h 4h] [3c]
+aquiles10712 : parole 
+7bornes : mise. 90
+aquiles10712 : suit. 90
+*** RIVIÈRE *** [Td 3h 4h 3c] [8c]
+aquiles10712 : mise. 170 et est all-in.
+7bornes : suit. 170
+*** ABATTAGE ***
+aquiles10712 : montre [4s 5s] (double paire, Quatre et Trois)
+7bornes : montre [Ac 3s] (un brelan de Trois)
+7bornes a remporté 610  lors du pot .
+aquiles10712 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 610 | Commission 0 
+Tableau [Td 3h 4h 3c 8c]
+Siège 1 : aquiles10712 (grosse blind) a montré [4s 5s] et a perdu avec double paire, Quatre et Trois
+Siège 2 : 7bornes (bouton) a montré [Ac 3s] et a gagné (610) avec un brelan de Trois
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261284077670 : Tournoi #4012186101, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 29/06/2026 7:31:08 CET [29/06/2026 1:31:08 ET]
+Table '4012186101 1' 3-max Siège #3 est au bouton.
+Place 2: 7bornes (820 en jetons) 
+Place 3: psychoman59 (680 en jetons) 
+psychoman59 : met la petite blind. 10
+7bornes : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Jc]
+psychoman59 : suit. 10
+7bornes : parole 
+*** FLOP *** [5d 5h 4d]
+7bornes : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à 7bornes.
+7bornes a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [5d 5h 4d]
+Siège 2 : 7bornes (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261284078545 : Tournoi #4012186101, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 29/06/2026 7:31:27 CET [29/06/2026 1:31:27 ET]
+Table '4012186101 1' 3-max Siège #2 est au bouton.
+Place 2: 7bornes (840 en jetons) 
+Place 3: psychoman59 (660 en jetons) 
+7bornes : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Ah]
+7bornes : suit. 10
+psychoman59 : relance. 640 à 660 et est all-in.
+7bornes : passe. 
+Personne n'a suivi. (640) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : 7bornes (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°261284079117 : Tournoi #4012186101, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 29/06/2026 7:31:39 CET [29/06/2026 1:31:39 ET]
+Table '4012186101 1' 3-max Siège #3 est au bouton.
+Place 2: 7bornes (820 en jetons) 
+Place 3: psychoman59 (680 en jetons) 
+psychoman59 : met la petite blind. 10
+7bornes : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 5d]
+psychoman59 : suit. 10
+7bornes : parole 
+*** FLOP *** [9h Qh Kd]
+7bornes : parole 
+psychoman59 : mise. 40
+7bornes : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [9h Qh Kd]
+Siège 2 : 7bornes (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°261284079776 : Tournoi #4012186101, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 29/06/2026 7:31:53 CET [29/06/2026 1:31:53 ET]
+Table '4012186101 1' 3-max Siège #2 est au bouton.
+Place 2: 7bornes (800 en jetons) 
+Place 3: psychoman59 (700 en jetons) 
+7bornes : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Ac]
+7bornes : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : 7bornes (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°261284080001 : Tournoi #4012186101, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 29/06/2026 7:31:58 CET [29/06/2026 1:31:58 ET]
+Table '4012186101 1' 3-max Siège #3 est au bouton.
+Place 2: 7bornes (785 en jetons) 
+Place 3: psychoman59 (715 en jetons) 
+psychoman59 : met la petite blind. 15
+7bornes : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Ac]
+psychoman59 : relance. 30 à 60
+7bornes : relance. 120 à 180
+psychoman59 : relance. 535 à 715 et est all-in.
+7bornes : suit. 535
+*** FLOP *** [6s As Qc]
+*** TOURNANT *** [6s As Qc] [4c]
+*** RIVIÈRE *** [6s As Qc 4c] [2h]
+*** ABATTAGE ***
+7bornes : montre [Kh Tc] (Hauteur As)
+psychoman59 : montre [Ah Ac] (un brelan de As)
+psychoman59 a remporté 1430  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1430 | Commission 0 
+Tableau [6s As Qc 4c 2h]
+Siège 2 : 7bornes (grosse blind) a montré [Kh Tc] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Ah Ac] et a gagné (1430) avec un brelan de As
+
+
+
+Main PokerStars n°261284080939 : Tournoi #4012186101, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 29/06/2026 7:32:17 CET [29/06/2026 1:32:17 ET]
+Table '4012186101 1' 3-max Siège #2 est au bouton.
+Place 2: 7bornes (70 en jetons) 
+Place 3: psychoman59 (1430 en jetons) 
+7bornes : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 4s]
+7bornes : relance. 40 à 70 et est all-in.
+psychoman59 : suit. 40
+*** FLOP *** [4h 5h 4d]
+*** TOURNANT *** [4h 5h 4d] [7c]
+*** RIVIÈRE *** [4h 5h 4d 7c] [Td]
+*** ABATTAGE ***
+psychoman59 : montre [Jh 4s] (un brelan de Quatre)
+7bornes : montre [Ts 9d] (double paire, Dix et Quatre)
+psychoman59 a remporté 140  lors du pot .
+7bornes a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 1.50 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 140 | Commission 0 
+Tableau [4h 5h 4d 7c Td]
+Siège 2 : 7bornes (bouton) (petite blind) a montré [Ts 9d] et a perdu avec double paire, Dix et Quatre
+Siège 3 : psychoman59 (grosse blind) a montré [Jh 4s] et a gagné (140) avec un brelan de Quatre
+
+
+

@@ -1,0 +1,39 @@
+﻿Main PokerStars n°245050858913 : Tournoi #3623138005, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 27/07/2023 19:15:10 CET [27/07/2023 13:15:10 ET]
+Table '3623138005 1' 3-max Siège #1 est au bouton.
+Place 1: Morrudo123 (300 en jetons) 
+Place 2: AMFR91 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+AMFR91 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 2d]
+Morrudo123 : suit. 20
+AMFR91 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [3c 2s Kd]
+AMFR91 : mise. 20
+psychoman59 : suit. 20
+Morrudo123 : suit. 20
+*** TOURNANT *** [3c 2s Kd] [Js]
+AMFR91 : parole 
+psychoman59 : parole 
+Morrudo123 : mise. 60
+AMFR91 : suit. 60
+psychoman59 : relance. 200 à 260 et est all-in.
+Morrudo123 : suit. 200 et est all-in.
+AMFR91 : passe. 
+*** RIVIÈRE *** [3c 2s Kd Js] [Jc]
+*** ABATTAGE ***
+psychoman59 : montre [3d 2d] (double paire, Valets et Trois)
+Morrudo123 : montre [8c Kh] (double paire, Rois et Valets)
+Morrudo123 a remporté 700  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 700 | Commission 0 
+Tableau [3c 2s Kd Js Jc]
+Siège 1 : Morrudo123 (bouton) a montré [8c Kh] et a gagné (700) avec double paire, Rois et Valets
+Siège 2 : AMFR91 (petite blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (grosse blind) a montré [3d 2d] et a perdu avec double paire, Valets et Trois
+
+
+

@@ -1,0 +1,56 @@
+﻿Main PokerStars n°240746084896 : Tournoi #3522349645, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/12/2022 11:01:35 CET [28/12/2022 5:01:35 ET]
+Table '3522349645 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: Xenom94 (300 en jetons) 
+Place 3: Eddy1807 (300 en jetons) 
+Xenom94 : met la petite blind. 10
+Eddy1807 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 5c]
+psychoman59 : suit. 20
+Xenom94 : passe. 
+Eddy1807 : relance. 280 à 300 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (280) sont retournés à Eddy1807.
+Eddy1807 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop
+Siège 2 : Xenom94 (petite blind) s'est couché. avant Flop
+Siège 3 : Eddy1807 (grosse blind) a remporté (50)
+
+
+
+Main PokerStars n°240746086803 : Tournoi #3522349645, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 28/12/2022 11:01:47 CET [28/12/2022 5:01:47 ET]
+Table '3522349645 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: Xenom94 (290 en jetons) 
+Place 3: Eddy1807 (330 en jetons) 
+Eddy1807 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 2s]
+Xenom94 : relance. 20 à 40
+Eddy1807 : relance. 290 à 330 et est all-in.
+psychoman59 : suit. 260 et est all-in.
+Xenom94 : suit. 250 et est all-in.
+Personne n'a suivi. (40) sont retournés à Eddy1807.
+*** FLOP *** [5s 7c 4h]
+*** TOURNANT *** [5s 7c 4h] [Qc]
+*** RIVIÈRE *** [5s 7c 4h Qc] [Ks]
+*** ABATTAGE ***
+Eddy1807 : montre [Qh 8h] (une paire de Dames)
+Xenom94 : montre [Kh Js] (une paire de Rois)
+Xenom94 a remporté 20  parallèle lors du pot .
+psychoman59 : montre [Ad 2s] (Hauteur As)
+Xenom94 a remporté 840  principal lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 860 Principal pot 840. Parallèle pot 20. | Commission 0 
+Tableau [5s 7c 4h Qc Ks]
+Siège 1 : psychoman59 (grosse blind) a montré [Ad 2s] et a perdu avec Hauteur As
+Siège 2 : Xenom94 (bouton) a montré [Kh Js] et a gagné (860) avec une paire de Rois
+Siège 3 : Eddy1807 (petite blind) a montré [Qh 8h] et a perdu avec une paire de Dames
+
+
+

@@ -1,0 +1,473 @@
+﻿Main PokerStars n°261381920175 : Tournoi #4014665542, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 09/07/2026 7:47:23 CET [09/07/2026 1:47:23 ET]
+Table '4014665542 1' 3-max Siège #1 est au bouton.
+Place 1: valnied2 (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: BlitzkriegPS (500 en jetons) 
+psychoman59 : met la petite blind. 10
+BlitzkriegPS : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 3d]
+valnied2 : relance. 480 à 500 et est all-in.
+psychoman59 : passe. 
+BlitzkriegPS : passe. 
+Personne n'a suivi. (480) sont retournés à valnied2.
+valnied2 a remporté 50  lors du pot .
+valnied2 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : valnied2 (bouton) a remporté (50)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : BlitzkriegPS (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261381920666 : Tournoi #4014665542, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 09/07/2026 7:47:32 CET [09/07/2026 1:47:32 ET]
+Table '4014665542 1' 3-max Siège #2 est au bouton.
+Place 1: valnied2 (530 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+Place 3: BlitzkriegPS (480 en jetons) 
+BlitzkriegPS : met la petite blind. 10
+valnied2 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Th]
+psychoman59 : passe. 
+BlitzkriegPS : relance. 460 à 480 et est all-in.
+valnied2 : suit. 460
+*** FLOP *** [Jh 7d 8d]
+*** TOURNANT *** [Jh 7d 8d] [8c]
+*** RIVIÈRE *** [Jh 7d 8d 8c] [3d]
+*** ABATTAGE ***
+BlitzkriegPS : montre [5h Ah] (une paire de Huit)
+valnied2 : montre [As 7s] (double paire, Huit et Sept)
+valnied2 a remporté 960  lors du pot .
+BlitzkriegPS a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 960 | Commission 0 
+Tableau [Jh 7d 8d 8c 3d]
+Siège 1 : valnied2 (grosse blind) a montré [As 7s] et a gagné (960) avec double paire, Huit et Sept
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : BlitzkriegPS (petite blind) a montré [5h Ah] et a perdu avec une paire de Huit
+
+
+
+Main PokerStars n°261381921652 : Tournoi #4014665542, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 09/07/2026 7:47:49 CET [09/07/2026 1:47:49 ET]
+Table '4014665542 1' 3-max Siège #1 est au bouton.
+Place 1: valnied2 (1010 en jetons) 
+Place 2: psychoman59 (490 en jetons) 
+valnied2 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 9d]
+valnied2 : relance. 40 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à valnied2.
+valnied2 a remporté 40  lors du pot .
+valnied2 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : valnied2 (bouton) (petite blind) a remporté (40)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261381922074 : Tournoi #4014665542, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 09/07/2026 7:47:57 CET [09/07/2026 1:47:57 ET]
+Table '4014665542 1' 3-max Siège #2 est au bouton.
+Place 1: valnied2 (1030 en jetons) 
+Place 2: psychoman59 (470 en jetons) 
+psychoman59 : met la petite blind. 10
+valnied2 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Jc]
+psychoman59 : relance. 20 à 40
+valnied2 : suit. 20
+*** FLOP *** [Kc 5h 4c]
+valnied2 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Kc 5h 4c] [Qc]
+valnied2 : mise. 60
+psychoman59 : suit. 60
+*** RIVIÈRE *** [Kc 5h 4c Qc] [9d]
+valnied2 : mise. 100
+psychoman59 : relance. 270 à 370 et est all-in.
+valnied2 : suit. 270
+*** ABATTAGE ***
+psychoman59 : montre [Ac Jc] (une couleur, hauteur As)
+valnied2 : montre [5d Kd] (double paire, Rois et Cinq)
+psychoman59 a remporté 940  lors du pot .
+*** SYNTHÈSE ***
+Pot total 940 | Commission 0 
+Tableau [Kc 5h 4c Qc 9d]
+Siège 1 : valnied2 (grosse blind) a montré [5d Kd] et a perdu avec double paire, Rois et Cinq
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Ac Jc] et a gagné (940) avec une couleur, hauteur As
+
+
+
+Main PokerStars n°261381923501 : Tournoi #4014665542, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 09/07/2026 7:48:23 CET [09/07/2026 1:48:23 ET]
+Table '4014665542 1' 3-max Siège #1 est au bouton.
+Place 1: valnied2 (560 en jetons) 
+Place 2: psychoman59 (940 en jetons) 
+valnied2 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 9h]
+valnied2 : relance. 20 à 40
+psychoman59 : suit. 20
+*** FLOP *** [Qs 4h Qd]
+psychoman59 : parole 
+valnied2 : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à valnied2.
+valnied2 a remporté 80  lors du pot .
+valnied2 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Qs 4h Qd]
+Siège 1 : valnied2 (bouton) (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261381924339 : Tournoi #4014665542, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 09/07/2026 7:48:37 CET [09/07/2026 1:48:37 ET]
+Table '4014665542 1' 3-max Siège #2 est au bouton.
+Place 1: valnied2 (600 en jetons) 
+Place 2: psychoman59 (900 en jetons) 
+psychoman59 : met la petite blind. 10
+valnied2 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 5s]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à valnied2.
+valnied2 a remporté 20  lors du pot .
+valnied2 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : valnied2 (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261381924613 : Tournoi #4014665542, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 09/07/2026 7:48:43 CET [09/07/2026 1:48:43 ET]
+Table '4014665542 1' 3-max Siège #1 est au bouton.
+Place 1: valnied2 (610 en jetons) 
+Place 2: psychoman59 (890 en jetons) 
+valnied2 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 4h]
+valnied2 : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : valnied2 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°261381924885 : Tournoi #4014665542, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 09/07/2026 7:48:48 CET [09/07/2026 1:48:48 ET]
+Table '4014665542 1' 3-max Siège #2 est au bouton.
+Place 1: valnied2 (600 en jetons) 
+Place 2: psychoman59 (900 en jetons) 
+psychoman59 : met la petite blind. 10
+valnied2 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 5d]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à valnied2.
+valnied2 a remporté 20  lors du pot .
+valnied2 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : valnied2 (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261381925156 : Tournoi #4014665542, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 09/07/2026 7:48:53 CET [09/07/2026 1:48:53 ET]
+Table '4014665542 1' 3-max Siège #1 est au bouton.
+Place 1: valnied2 (610 en jetons) 
+Place 2: psychoman59 (890 en jetons) 
+valnied2 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 4d]
+valnied2 : relance. 20 à 40
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à valnied2.
+valnied2 a remporté 40  lors du pot .
+valnied2 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : valnied2 (bouton) (petite blind) a remporté (40)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261381925537 : Tournoi #4014665542, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 09/07/2026 7:49:00 CET [09/07/2026 1:49:00 ET]
+Table '4014665542 1' 3-max Siège #2 est au bouton.
+Place 1: valnied2 (630 en jetons) 
+Place 2: psychoman59 (870 en jetons) 
+psychoman59 : met la petite blind. 10
+valnied2 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 9s]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à valnied2.
+valnied2 a remporté 20  lors du pot .
+valnied2 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : valnied2 (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261381925819 : Tournoi #4014665542, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 09/07/2026 7:49:04 CET [09/07/2026 1:49:04 ET]
+Table '4014665542 1' 3-max Siège #1 est au bouton.
+Place 1: valnied2 (640 en jetons) 
+Place 2: psychoman59 (860 en jetons) 
+valnied2 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d 2c]
+valnied2 : relance. 20 à 40
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à valnied2.
+valnied2 a remporté 40  lors du pot .
+valnied2 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : valnied2 (bouton) (petite blind) a remporté (40)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261381926184 : Tournoi #4014665542, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 09/07/2026 7:49:11 CET [09/07/2026 1:49:11 ET]
+Table '4014665542 1' 3-max Siège #2 est au bouton.
+Place 1: valnied2 (660 en jetons) 
+Place 2: psychoman59 (840 en jetons) 
+psychoman59 : met la petite blind. 10
+valnied2 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Js]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à valnied2.
+valnied2 a remporté 20  lors du pot .
+valnied2 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : valnied2 (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261381926475 : Tournoi #4014665542, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 09/07/2026 7:49:16 CET [09/07/2026 1:49:16 ET]
+Table '4014665542 1' 3-max Siège #1 est au bouton.
+Place 1: valnied2 (670 en jetons) 
+Place 2: psychoman59 (830 en jetons) 
+valnied2 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 9d]
+valnied2 : relance. 650 à 670 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (650) sont retournés à valnied2.
+valnied2 a remporté 40  lors du pot .
+valnied2 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : valnied2 (bouton) (petite blind) a remporté (40)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261381926873 : Tournoi #4014665542, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 09/07/2026 7:49:23 CET [09/07/2026 1:49:23 ET]
+Table '4014665542 1' 3-max Siège #2 est au bouton.
+Place 1: valnied2 (690 en jetons) 
+Place 2: psychoman59 (810 en jetons) 
+psychoman59 : met la petite blind. 10
+valnied2 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Jd]
+psychoman59 : relance. 790 à 810 et est all-in.
+valnied2 : passe. 
+Personne n'a suivi. (790) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : valnied2 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°261381927513 : Tournoi #4014665542, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 09/07/2026 7:49:35 CET [09/07/2026 1:49:35 ET]
+Table '4014665542 1' 3-max Siège #1 est au bouton.
+Place 1: valnied2 (670 en jetons) 
+Place 2: psychoman59 (830 en jetons) 
+valnied2 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Kd]
+valnied2 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [3c 4s 9s]
+psychoman59 : parole 
+valnied2 : parole 
+*** TOURNANT *** [3c 4s 9s] [6c]
+psychoman59 : parole 
+valnied2 : mise. 30
+psychoman59 : suit. 30
+*** RIVIÈRE *** [3c 4s 9s 6c] [Kh]
+psychoman59 : parole 
+valnied2 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [5c Kd] (une paire de Rois)
+valnied2 : cache la main perdante. 
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [3c 4s 9s 6c Kh]
+Siège 1 : valnied2 (bouton) (petite blind) a caché la main perdante. [3d 2d]
+Siège 2 : psychoman59 (grosse blind) a montré [5c Kd] et a gagné (120) avec une paire de Rois
+
+
+
+Main PokerStars n°261381928523 : Tournoi #4014665542, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 09/07/2026 7:49:54 CET [09/07/2026 1:49:54 ET]
+Table '4014665542 1' 3-max Siège #2 est au bouton.
+Place 1: valnied2 (610 en jetons) 
+Place 2: psychoman59 (890 en jetons) 
+psychoman59 : met la petite blind. 15
+valnied2 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 3h]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à valnied2.
+valnied2 a remporté 30  lors du pot .
+valnied2 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : valnied2 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261381928868 : Tournoi #4014665542, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 09/07/2026 7:50:00 CET [09/07/2026 1:50:00 ET]
+Table '4014665542 1' 3-max Siège #1 est au bouton.
+Place 1: valnied2 (625 en jetons) 
+Place 2: psychoman59 (875 en jetons) 
+valnied2 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Jh]
+valnied2 : relance. 30 à 60
+psychoman59 : relance. 815 à 875 et est all-in.
+valnied2 : passe. 
+Personne n'a suivi. (815) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : valnied2 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°261381929313 : Tournoi #4014665542, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 09/07/2026 7:50:08 CET [09/07/2026 1:50:08 ET]
+Table '4014665542 1' 3-max Siège #2 est au bouton.
+Place 1: valnied2 (565 en jetons) 
+Place 2: psychoman59 (935 en jetons) 
+psychoman59 : met la petite blind. 15
+valnied2 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Kd]
+psychoman59 : suit. 15
+valnied2 : parole 
+*** FLOP *** [Qs 7h 9s]
+valnied2 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à valnied2.
+valnied2 a remporté 60  lors du pot .
+valnied2 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Qs 7h 9s]
+Siège 1 : valnied2 (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261381929917 : Tournoi #4014665542, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 09/07/2026 7:50:20 CET [09/07/2026 1:50:20 ET]
+Table '4014665542 1' 3-max Siège #1 est au bouton.
+Place 1: valnied2 (595 en jetons) 
+Place 2: psychoman59 (905 en jetons) 
+valnied2 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 5s]
+valnied2 : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à valnied2.
+valnied2 a remporté 60  lors du pot .
+valnied2 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : valnied2 (bouton) (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261381930243 : Tournoi #4014665542, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 09/07/2026 7:50:26 CET [09/07/2026 1:50:26 ET]
+Table '4014665542 1' 3-max Siège #2 est au bouton.
+Place 1: valnied2 (625 en jetons) 
+Place 2: psychoman59 (875 en jetons) 
+psychoman59 : met la petite blind. 15
+valnied2 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 3s]
+psychoman59 : suit. 15
+valnied2 : parole 
+*** FLOP *** [2d 2h 3h]
+valnied2 : parole 
+psychoman59 : mise. 845 et est all-in.
+valnied2 : passe. 
+Personne n'a suivi. (845) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [2d 2h 3h]
+Siège 1 : valnied2 (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°261381930919 : Tournoi #4014665542, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 09/07/2026 7:50:39 CET [09/07/2026 1:50:39 ET]
+Table '4014665542 1' 3-max Siège #1 est au bouton.
+Place 1: valnied2 (595 en jetons) 
+Place 2: psychoman59 (905 en jetons) 
+valnied2 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td As]
+valnied2 : relance. 565 à 595 et est all-in.
+psychoman59 : suit. 565
+*** FLOP *** [8d Th 6h]
+*** TOURNANT *** [8d Th 6h] [6s]
+*** RIVIÈRE *** [8d Th 6h 6s] [2c]
+*** ABATTAGE ***
+psychoman59 : montre [Td As] (double paire, Dix et Six)
+valnied2 : montre [Jh Qc] (une paire de Six)
+psychoman59 a remporté 1190  lors du pot .
+valnied2 a fini le tournoi en 2e position.
+psychoman59 gagne le tournoi - félicitations !
+psychoman59 gagne un ticket " €1 Step 2 MTT Power Path ticket "
+*** SYNTHÈSE ***
+Pot total 1190 | Commission 0 
+Tableau [8d Th 6h 6s 2c]
+Siège 1 : valnied2 (bouton) (petite blind) a montré [Jh Qc] et a perdu avec une paire de Six
+Siège 2 : psychoman59 (grosse blind) a montré [Td As] et a gagné (1190) avec double paire, Dix et Six
+
+
+

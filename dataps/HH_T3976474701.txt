@@ -1,0 +1,84 @@
+﻿Main PokerStars n°259784835618 : Tournoi #3976474701, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 19/02/2026 8:08:33 CET [19/02/2026 2:08:33 ET]
+Table '3976474701 1' 3-max Siège #1 est au bouton.
+Place 1: Romeo22901 (500 en jetons) 
+Place 2: Tief256 (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+Tief256 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Jd]
+Romeo22901 : passe. 
+Tief256 : relance. 480 à 500 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (480) sont retournés à Tief256.
+Tief256 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Romeo22901 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Tief256 (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°259784836157 : Tournoi #3976474701, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 19/02/2026 8:08:42 CET [19/02/2026 2:08:42 ET]
+Table '3976474701 1' 3-max Siège #2 est au bouton.
+Place 1: Romeo22901 (500 en jetons) 
+Place 2: Tief256 (520 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 10
+Romeo22901 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 5d]
+Tief256 : relance. 500 à 520 et est all-in.
+psychoman59 : passe. 
+Romeo22901 : passe. 
+Personne n'a suivi. (500) sont retournés à Tief256.
+Tief256 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : Romeo22901 (grosse blind) s'est couché. avant Flop
+Siège 2 : Tief256 (bouton) a remporté (50)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°259784836575 : Tournoi #3976474701, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 19/02/2026 8:08:50 CET [19/02/2026 2:08:50 ET]
+Table '3976474701 1' 3-max Siège #3 est au bouton.
+Place 1: Romeo22901 (480 en jetons) 
+Place 2: Tief256 (550 en jetons) 
+Place 3: psychoman59 (470 en jetons) 
+Romeo22901 : met la petite blind. 10
+Tief256 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Kh]
+psychoman59 : suit. 20
+Romeo22901 : suit. 10
+Tief256 : parole 
+*** FLOP *** [8h Qc 5c]
+Romeo22901 : parole 
+Tief256 : parole 
+psychoman59 : mise. 30
+Romeo22901 : passe. 
+Tief256 : suit. 30
+*** TOURNANT *** [8h Qc 5c] [Jc]
+Tief256 : parole 
+psychoman59 : mise. 120
+Tief256 : suit. 120
+*** RIVIÈRE *** [8h Qc 5c Jc] [4h]
+Tief256 : mise. 380 et est all-in.
+psychoman59 : suit. 300 et est all-in.
+Personne n'a suivi. (80) sont retournés à Tief256.
+*** ABATTAGE ***
+Tief256 : montre [7s 6s] (une suite, Quatre à Huit)
+psychoman59 : montre [Kd Kh] (une paire de Rois)
+Tief256 a remporté 960  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 960 | Commission 0 
+Tableau [8h Qc 5c Jc 4h]
+Siège 1 : Romeo22901 (petite blind) s'est couché. sur le Flop
+Siège 2 : Tief256 (grosse blind) a montré [7s 6s] et a gagné (960) avec une suite, Quatre à Huit
+Siège 3 : psychoman59 (bouton) a montré [Kd Kh] et a perdu avec une paire de Rois
+
+
+

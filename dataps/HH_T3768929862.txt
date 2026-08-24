@@ -1,0 +1,529 @@
+﻿Main PokerStars n°251104211235 : Tournoi #3768929862, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 20/06/2024 7:50:43 CET [20/06/2024 1:50:43 ET]
+Table '3768929862 1' 3-max Siège #1 est au bouton.
+Place 1: Chicobo30 (500 en jetons) 
+Place 2: ayusp001 (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+ayusp001 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 3s]
+Chicobo30 : passe. 
+ayusp001 : relance. 20 à 40
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à ayusp001.
+ayusp001 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Chicobo30 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : ayusp001 (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°251104212487 : Tournoi #3768929862, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 20/06/2024 7:50:59 CET [20/06/2024 1:50:59 ET]
+Table '3768929862 1' 3-max Siège #2 est au bouton.
+Place 1: Chicobo30 (500 en jetons) 
+Place 2: ayusp001 (520 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 10
+Chicobo30 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 9h]
+ayusp001 : passe. 
+psychoman59 : relance. 40 à 60
+Chicobo30 : relance. 440 à 500 et est all-in.
+psychoman59 : suit. 420 et est all-in.
+Personne n'a suivi. (20) sont retournés à Chicobo30.
+*** FLOP *** [5d 7h 6c]
+*** TOURNANT *** [5d 7h 6c] [2s]
+*** RIVIÈRE *** [5d 7h 6c 2s] [7d]
+*** ABATTAGE ***
+psychoman59 : montre [9s 9h] (double paire, Neuf et Sept)
+Chicobo30 : montre [Ks Qc] (une paire de Sept)
+psychoman59 a remporté 960  lors du pot .
+*** SYNTHÈSE ***
+Pot total 960 | Commission 0 
+Tableau [5d 7h 6c 2s 7d]
+Siège 1 : Chicobo30 (grosse blind) a montré [Ks Qc] et a perdu avec une paire de Sept
+Siège 2 : ayusp001 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [9s 9h] et a gagné (960) avec double paire, Neuf et Sept
+
+
+
+Main PokerStars n°251104213869 : Tournoi #3768929862, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 20/06/2024 7:51:16 CET [20/06/2024 1:51:16 ET]
+Table '3768929862 1' 3-max Siège #3 est au bouton.
+Place 1: Chicobo30 (20 en jetons) 
+Place 2: ayusp001 (520 en jetons) 
+Place 3: psychoman59 (960 en jetons) 
+Chicobo30 : met la petite blind. 10
+ayusp001 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Kd]
+psychoman59 : suit. 20
+Chicobo30 : suit. 10 et est all-in.
+ayusp001 : parole 
+*** FLOP *** [5d 7s Qs]
+ayusp001 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5d 7s Qs] [3c]
+ayusp001 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [5d 7s Qs 3c] [Th]
+ayusp001 : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à ayusp001.
+*** ABATTAGE ***
+ayusp001 : montre [5s 8s] (une paire de Cinq)
+Chicobo30 : montre [Qc 5c] (double paire, Dames et Cinq)
+Chicobo30 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [5d 7s Qs 3c Th]
+Siège 1 : Chicobo30 (petite blind) a montré [Qc 5c] et a gagné (60) avec double paire, Dames et Cinq
+Siège 2 : ayusp001 (grosse blind) a montré [5s 8s] et a perdu avec une paire de Cinq
+Siège 3 : psychoman59 (bouton) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°251104216266 : Tournoi #3768929862, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 20/06/2024 7:51:46 CET [20/06/2024 1:51:46 ET]
+Table '3768929862 1' 3-max Siège #1 est au bouton.
+Place 1: Chicobo30 (60 en jetons) 
+Place 2: ayusp001 (500 en jetons) 
+Place 3: psychoman59 (940 en jetons) 
+ayusp001 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 9c]
+Chicobo30 : passe. 
+ayusp001 : relance. 20 à 40
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à ayusp001.
+ayusp001 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Chicobo30 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : ayusp001 (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°251104216808 : Tournoi #3768929862, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 20/06/2024 7:51:53 CET [20/06/2024 1:51:53 ET]
+Table '3768929862 1' 3-max Siège #2 est au bouton.
+Place 1: Chicobo30 (60 en jetons) 
+Place 2: ayusp001 (520 en jetons) 
+Place 3: psychoman59 (920 en jetons) 
+psychoman59 : met la petite blind. 10
+Chicobo30 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Jc]
+ayusp001 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à Chicobo30.
+Chicobo30 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : Chicobo30 (grosse blind) a remporté (20)
+Siège 2 : ayusp001 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°251104217329 : Tournoi #3768929862, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 20/06/2024 7:51:59 CET [20/06/2024 1:51:59 ET]
+Table '3768929862 1' 3-max Siège #3 est au bouton.
+Place 1: Chicobo30 (70 en jetons) 
+Place 2: ayusp001 (520 en jetons) 
+Place 3: psychoman59 (910 en jetons) 
+Chicobo30 : met la petite blind. 10
+ayusp001 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Ac]
+psychoman59 : relance. 20 à 40
+Chicobo30 : relance. 30 à 70 et est all-in.
+ayusp001 : passe. 
+psychoman59 : suit. 30
+*** FLOP *** [3s 9d 7d]
+*** TOURNANT *** [3s 9d 7d] [5h]
+*** RIVIÈRE *** [3s 9d 7d 5h] [5c]
+*** ABATTAGE ***
+Chicobo30 : montre [Kh 7h] (double paire, Sept et Cinq)
+psychoman59 : montre [6s Ac] (une paire de Cinq)
+Chicobo30 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [3s 9d 7d 5h 5c]
+Siège 1 : Chicobo30 (petite blind) a montré [Kh 7h] et a gagné (160) avec double paire, Sept et Cinq
+Siège 2 : ayusp001 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a montré [6s Ac] et a perdu avec une paire de Cinq
+
+
+
+Main PokerStars n°251104218778 : Tournoi #3768929862, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 20/06/2024 7:52:18 CET [20/06/2024 1:52:18 ET]
+Table '3768929862 1' 3-max Siège #1 est au bouton.
+Place 1: Chicobo30 (160 en jetons) 
+Place 2: ayusp001 (500 en jetons) 
+Place 3: psychoman59 (840 en jetons) 
+ayusp001 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Jd]
+Chicobo30 : relance. 140 à 160 et est all-in.
+ayusp001 : relance. 340 à 500 et est all-in.
+psychoman59 : suit. 480
+*** FLOP *** [6d 6h 2d]
+*** TOURNANT *** [6d 6h 2d] [Kd]
+*** RIVIÈRE *** [6d 6h 2d Kd] [Ac]
+*** ABATTAGE ***
+ayusp001 : montre [8s Ah] (double paire, As et Six)
+psychoman59 : montre [Kc Jd] (double paire, Rois et Six)
+ayusp001 a remporté 680  parallèle lors du pot .
+Chicobo30 : montre [4h Ad] (double paire, As et Six)
+ayusp001 a remporté 240  principal lors du pot .
+Chicobo30 a remporté 240  principal lors du pot .
+*** SYNTHÈSE ***
+Pot total 1160 Principal pot 480. Parallèle pot 680. | Commission 0 
+Tableau [6d 6h 2d Kd Ac]
+Siège 1 : Chicobo30 (bouton) a montré [4h Ad] et a gagné (240) avec double paire, As et Six
+Siège 2 : ayusp001 (petite blind) a montré [8s Ah] et a gagné (920) avec double paire, As et Six
+Siège 3 : psychoman59 (grosse blind) a montré [Kc Jd] et a perdu avec double paire, Rois et Six
+
+
+
+Main PokerStars n°251104220126 : Tournoi #3768929862, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 20/06/2024 7:52:35 CET [20/06/2024 1:52:35 ET]
+Table '3768929862 1' 3-max Siège #2 est au bouton.
+Place 1: Chicobo30 (240 en jetons) 
+Place 2: ayusp001 (920 en jetons) 
+Place 3: psychoman59 (340 en jetons) 
+psychoman59 : met la petite blind. 10
+Chicobo30 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 7h]
+ayusp001 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à Chicobo30.
+Chicobo30 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : Chicobo30 (grosse blind) a remporté (20)
+Siège 2 : ayusp001 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°251104220702 : Tournoi #3768929862, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 20/06/2024 7:52:42 CET [20/06/2024 1:52:42 ET]
+Table '3768929862 1' 3-max Siège #3 est au bouton.
+Place 1: Chicobo30 (250 en jetons) 
+Place 2: ayusp001 (920 en jetons) 
+Place 3: psychoman59 (330 en jetons) 
+Chicobo30 : met la petite blind. 10
+ayusp001 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Kd]
+psychoman59 : suit. 20
+Chicobo30 : passe. 
+ayusp001 : parole 
+*** FLOP *** [6c 2c 3c]
+ayusp001 : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [6c 2c 3c] [5h]
+ayusp001 : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [6c 2c 3c 5h] [4d]
+ayusp001 : mise. 20
+psychoman59 : suit. 20
+*** ABATTAGE ***
+ayusp001 : montre [2d Js] (une suite, Deux à Six)
+psychoman59 : montre [5c Kd] (une suite, Deux à Six)
+ayusp001 a remporté 85  lors du pot .
+psychoman59 a remporté 85  lors du pot .
+*** SYNTHÈSE ***
+Pot total 170 | Commission 0 
+Tableau [6c 2c 3c 5h 4d]
+Siège 1 : Chicobo30 (petite blind) s'est couché. avant Flop
+Siège 2 : ayusp001 (grosse blind) a montré [2d Js] et a gagné (85) avec une suite, Deux à Six
+Siège 3 : psychoman59 (bouton) a montré [5c Kd] et a gagné (85) avec une suite, Deux à Six
+
+
+
+Main PokerStars n°251104222599 : Tournoi #3768929862, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 20/06/2024 7:53:06 CET [20/06/2024 1:53:06 ET]
+Table '3768929862 1' 3-max Siège #1 est au bouton.
+Place 1: Chicobo30 (240 en jetons) 
+Place 2: ayusp001 (925 en jetons) 
+Place 3: psychoman59 (335 en jetons) 
+ayusp001 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s 2d]
+Chicobo30 : passe. 
+ayusp001 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [9h Ad 2c]
+ayusp001 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à ayusp001.
+ayusp001 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [9h Ad 2c]
+Siège 1 : Chicobo30 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : ayusp001 (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°251104223709 : Tournoi #3768929862, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 20/06/2024 7:53:21 CET [20/06/2024 1:53:21 ET]
+Table '3768929862 1' 3-max Siège #2 est au bouton.
+Place 1: Chicobo30 (240 en jetons) 
+Place 2: ayusp001 (955 en jetons) 
+Place 3: psychoman59 (305 en jetons) 
+psychoman59 : met la petite blind. 15
+Chicobo30 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d Qc]
+ayusp001 : passe. 
+psychoman59 : suit. 15
+Chicobo30 : relance. 210 à 240 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (210) sont retournés à Chicobo30.
+Chicobo30 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Chicobo30 (grosse blind) a remporté (60)
+Siège 2 : ayusp001 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°251104224622 : Tournoi #3768929862, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 20/06/2024 7:53:33 CET [20/06/2024 1:53:33 ET]
+Table '3768929862 1' 3-max Siège #3 est au bouton.
+Place 1: Chicobo30 (270 en jetons) 
+Place 2: ayusp001 (955 en jetons) 
+Place 3: psychoman59 (275 en jetons) 
+Chicobo30 : met la petite blind. 15
+ayusp001 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Ts]
+psychoman59 : passe. 
+Chicobo30 : relance. 240 à 270 et est all-in.
+ayusp001 : passe. 
+Personne n'a suivi. (240) sont retournés à Chicobo30.
+Chicobo30 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : Chicobo30 (petite blind) a remporté (60)
+Siège 2 : ayusp001 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°251104225282 : Tournoi #3768929862, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 20/06/2024 7:53:41 CET [20/06/2024 1:53:41 ET]
+Table '3768929862 1' 3-max Siège #1 est au bouton.
+Place 1: Chicobo30 (300 en jetons) 
+Place 2: ayusp001 (925 en jetons) 
+Place 3: psychoman59 (275 en jetons) 
+ayusp001 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 9h]
+Chicobo30 : passe. 
+ayusp001 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Ks 2s 4h]
+ayusp001 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Ks 2s 4h] [Kd]
+ayusp001 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [Ks 2s 4h Kd] [5d]
+ayusp001 : mise. 30
+psychoman59 : suit. 30
+*** ABATTAGE ***
+ayusp001 : montre [Td 9s] (une paire de Rois)
+psychoman59 : montre [Jd 9h] (une paire de Rois - Valet kicker)
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Ks 2s 4h Kd 5d]
+Siège 1 : Chicobo30 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : ayusp001 (petite blind) a montré [Td 9s] et a perdu avec une paire de Rois
+Siège 3 : psychoman59 (grosse blind) a montré [Jd 9h] et a gagné (120) avec une paire de Rois
+
+
+
+Main PokerStars n°251104226828 : Tournoi #3768929862, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 20/06/2024 7:54:00 CET [20/06/2024 1:54:00 ET]
+Table '3768929862 1' 3-max Siège #2 est au bouton.
+Place 1: Chicobo30 (300 en jetons) 
+Place 2: ayusp001 (865 en jetons) 
+Place 3: psychoman59 (335 en jetons) 
+psychoman59 : met la petite blind. 15
+Chicobo30 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Kd]
+ayusp001 : passe. 
+psychoman59 : suit. 15
+Chicobo30 : parole 
+*** FLOP *** [2c 8c Ks]
+psychoman59 : parole 
+Chicobo30 : parole 
+*** TOURNANT *** [2c 8c Ks] [7s]
+psychoman59 : parole 
+Chicobo30 : parole 
+*** RIVIÈRE *** [2c 8c Ks 7s] [2h]
+psychoman59 : mise. 30
+Chicobo30 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [2c 8c Ks 7s 2h]
+Siège 1 : Chicobo30 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : ayusp001 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°251104228929 : Tournoi #3768929862, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 20/06/2024 7:54:27 CET [20/06/2024 1:54:27 ET]
+Table '3768929862 1' 3-max Siège #3 est au bouton.
+Place 1: Chicobo30 (270 en jetons) 
+Place 2: ayusp001 (865 en jetons) 
+Place 3: psychoman59 (365 en jetons) 
+Chicobo30 : met la petite blind. 15
+ayusp001 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Qc]
+psychoman59 : passe. 
+Chicobo30 : relance. 60 à 90
+ayusp001 : relance. 775 à 865 et est all-in.
+Chicobo30 : suit. 180 et est all-in.
+Personne n'a suivi. (595) sont retournés à ayusp001.
+*** FLOP *** [Ks Qh 8d]
+*** TOURNANT *** [Ks Qh 8d] [Ts]
+*** RIVIÈRE *** [Ks Qh 8d Ts] [Td]
+*** ABATTAGE ***
+Chicobo30 : montre [Jh Ah] (une suite, Dix à As)
+ayusp001 : montre [Qd Kh] (double paire, Rois et Dames)
+Chicobo30 a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [Ks Qh 8d Ts Td]
+Siège 1 : Chicobo30 (petite blind) a montré [Jh Ah] et a gagné (540) avec une suite, Dix à As
+Siège 2 : ayusp001 (grosse blind) a montré [Qd Kh] et a perdu avec double paire, Rois et Dames
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°251104230323 : Tournoi #3768929862, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 20/06/2024 7:54:45 CET [20/06/2024 1:54:45 ET]
+Table '3768929862 1' 3-max Siège #1 est au bouton.
+Place 1: Chicobo30 (540 en jetons) 
+Place 2: ayusp001 (595 en jetons) 
+Place 3: psychoman59 (365 en jetons) 
+ayusp001 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 2h]
+Chicobo30 : passe. 
+ayusp001 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [3d Tc 5d]
+ayusp001 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3d Tc 5d] [Qh]
+ayusp001 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à ayusp001.
+ayusp001 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [3d Tc 5d Qh]
+Siège 1 : Chicobo30 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : ayusp001 (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°251104231778 : Tournoi #3768929862, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 20/06/2024 7:55:03 CET [20/06/2024 1:55:03 ET]
+Table '3768929862 1' 3-max Siège #2 est au bouton.
+Place 1: Chicobo30 (540 en jetons) 
+Place 2: ayusp001 (625 en jetons) 
+Place 3: psychoman59 (335 en jetons) 
+psychoman59 : met la petite blind. 20
+Chicobo30 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 7d]
+ayusp001 : passe. 
+psychoman59 : suit. 20
+Chicobo30 : parole 
+*** FLOP *** [9c Kc 6c]
+psychoman59 : parole 
+Chicobo30 : parole 
+*** TOURNANT *** [9c Kc 6c] [Tc]
+psychoman59 : parole 
+Chicobo30 : parole 
+*** RIVIÈRE *** [9c Kc 6c Tc] [Ts]
+psychoman59 : parole 
+Chicobo30 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Jd 7d] (une paire de Dix)
+Chicobo30 : cache la main perdante. 
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [9c Kc 6c Tc Ts]
+Siège 1 : Chicobo30 (grosse blind) a caché la main perdante. [3s 4s]
+Siège 2 : ayusp001 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [Jd 7d] et a gagné (80) avec une paire de Dix
+
+
+
+Main PokerStars n°251104233863 : Tournoi #3768929862, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 20/06/2024 7:55:33 CET [20/06/2024 1:55:33 ET]
+Table '3768929862 1' 3-max Siège #3 est au bouton.
+Place 1: Chicobo30 (500 en jetons) 
+Place 2: ayusp001 (625 en jetons) 
+Place 3: psychoman59 (375 en jetons) 
+Chicobo30 : met la petite blind. 20
+ayusp001 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 7h]
+psychoman59 : passe. 
+Chicobo30 : relance. 80 à 120
+ayusp001 : passe. 
+Personne n'a suivi. (80) sont retournés à Chicobo30.
+Chicobo30 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : Chicobo30 (petite blind) a remporté (80)
+Siège 2 : ayusp001 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°251104234550 : Tournoi #3768929862, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 20/06/2024 7:55:43 CET [20/06/2024 1:55:43 ET]
+Table '3768929862 1' 3-max Siège #1 est au bouton.
+Place 1: Chicobo30 (540 en jetons) 
+Place 2: ayusp001 (585 en jetons) 
+Place 3: psychoman59 (375 en jetons) 
+ayusp001 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Ks]
+Chicobo30 : relance. 100 à 140
+ayusp001 : passe. 
+psychoman59 : relance. 235 à 375 et est all-in.
+Chicobo30 : suit. 235
+*** FLOP *** [2s Jh Js]
+*** TOURNANT *** [2s Jh Js] [7d]
+*** RIVIÈRE *** [2s Jh Js 7d] [3c]
+*** ABATTAGE ***
+psychoman59 : montre [Qc Ks] (une paire de Valets)
+Chicobo30 : montre [As Qd] (une paire de Valets - As kicker)
+Chicobo30 a remporté 770  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 770 | Commission 0 
+Tableau [2s Jh Js 7d 3c]
+Siège 1 : Chicobo30 (bouton) a montré [As Qd] et a gagné (770) avec une paire de Valets
+Siège 2 : ayusp001 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [Qc Ks] et a perdu avec une paire de Valets
+
+
+

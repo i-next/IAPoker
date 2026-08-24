@@ -1,0 +1,90 @@
+﻿Main PokerStars n°259467066781 : Tournoi #3969222632, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 26/01/2026 8:01:04 CET [26/01/2026 2:01:04 ET]
+Table '3969222632 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: Horachh (500 en jetons) 
+Place 3: khheureux (500 en jetons) 
+Horachh : met la petite blind. 10
+khheureux : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Td]
+psychoman59 : suit. 20
+Horachh : relance. 20 à 40
+khheureux : suit. 20
+psychoman59 : suit. 20
+*** FLOP *** [2s 6s Th]
+Horachh : mise. 20
+khheureux : suit. 20
+psychoman59 : relance. 440 à 460 et est all-in.
+Horachh : passe. 
+khheureux : passe. 
+Personne n'a suivi. (440) sont retournés à psychoman59.
+psychoman59 a remporté 180  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [2s 6s Th]
+Siège 1 : psychoman59 (bouton) a remporté (180)
+Siège 2 : Horachh (petite blind) s'est couché. sur le Flop
+Siège 3 : khheureux (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°259467067745 : Tournoi #3969222632, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 26/01/2026 8:01:23 CET [26/01/2026 2:01:23 ET]
+Table '3969222632 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (620 en jetons) 
+Place 2: Horachh (440 en jetons) 
+Place 3: khheureux (440 en jetons) 
+khheureux : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 8h]
+Horachh : relance. 80 à 100
+khheureux : relance. 80 à 180
+psychoman59 : passe. 
+Horachh : relance. 260 à 440 et est all-in.
+khheureux : suit. 260 et est all-in.
+*** FLOP *** [6h Kd 7d]
+*** TOURNANT *** [6h Kd 7d] [Jc]
+*** RIVIÈRE *** [6h Kd 7d Jc] [Qc]
+*** ABATTAGE ***
+khheureux : montre [3d 6d] (une paire de Six)
+Horachh : montre [As Tc] (une suite, Dix à As)
+Horachh a remporté 900  lors du pot .
+khheureux a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 900 | Commission 0 
+Tableau [6h Kd 7d Jc Qc]
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : Horachh (bouton) a montré [As Tc] et a gagné (900) avec une suite, Dix à As
+Siège 3 : khheureux (petite blind) a montré [3d 6d] et a perdu avec une paire de Six
+
+
+
+Main PokerStars n°259467068703 : Tournoi #3969222632, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 26/01/2026 8:01:43 CET [26/01/2026 2:01:43 ET]
+Table '3969222632 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (600 en jetons) 
+Place 2: Horachh (900 en jetons) 
+psychoman59 : met la petite blind. 10
+Horachh : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 9c]
+psychoman59 : relance. 580 à 600 et est all-in.
+Horachh : suit. 580
+*** FLOP *** [3h Kd Ad]
+*** TOURNANT *** [3h Kd Ad] [7s]
+*** RIVIÈRE *** [3h Kd Ad 7s] [2s]
+*** ABATTAGE ***
+Horachh : montre [7d Ah] (double paire, As et Sept)
+psychoman59 : montre [9h 9c] (une paire de Neuf)
+Horachh a remporté 1200  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+Horachh gagne le tournoi - félicitations !
+Horachh gagne un ticket " €1 Step 2 MTT Power Path ticket "
+*** SYNTHÈSE ***
+Pot total 1200 | Commission 0 
+Tableau [3h Kd Ad 7s 2s]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [9h 9c] et a perdu avec une paire de Neuf
+Siège 2 : Horachh (grosse blind) a montré [7d Ah] et a gagné (1200) avec double paire, As et Sept
+
+
+

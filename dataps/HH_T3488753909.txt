@@ -1,0 +1,257 @@
+﻿Main PokerStars n°239357576879 : Tournoi #3488753909, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/10/2022 9:34:00 CET [21/10/2022 3:34:00 ET]
+Table '3488753909 1' 3-max Siège #1 est au bouton.
+Place 1: bonito785 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: JJJBusto (300 en jetons) 
+psychoman59 : met la petite blind. 10
+JJJBusto : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 5c]
+bonito785 : relance. 40 à 60
+psychoman59 : passe. 
+JJJBusto : suit. 40
+*** FLOP *** [9c 7d Jc]
+JJJBusto : parole 
+bonito785 : parole 
+*** TOURNANT *** [9c 7d Jc] [Js]
+JJJBusto : parole 
+bonito785 : mise. 65
+JJJBusto : passe. 
+Personne n'a suivi. (65) sont retournés à bonito785.
+bonito785 a remporté 130  lors du pot .
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Tableau [9c 7d Jc Js]
+Siège 1 : bonito785 (bouton) a remporté (130)
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : JJJBusto (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°239357579345 : Tournoi #3488753909, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/10/2022 9:34:23 CET [21/10/2022 3:34:23 ET]
+Table '3488753909 1' 3-max Siège #2 est au bouton.
+Place 1: bonito785 (370 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: JJJBusto (240 en jetons) 
+JJJBusto : met la petite blind. 10
+bonito785 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 2s]
+psychoman59 : relance. 270 à 290 et est all-in.
+JJJBusto : passe. 
+bonito785 : passe. 
+Personne n'a suivi. (270) sont retournés à psychoman59.
+psychoman59 a remporté 50  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : bonito785 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a remporté (50)
+Siège 3 : JJJBusto (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239357580725 : Tournoi #3488753909, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/10/2022 9:34:35 CET [21/10/2022 3:34:35 ET]
+Table '3488753909 1' 3-max Siège #3 est au bouton.
+Place 1: bonito785 (350 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+Place 3: JJJBusto (230 en jetons) 
+bonito785 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s As]
+JJJBusto : relance. 40 à 60
+bonito785 : passe. 
+psychoman59 : suit. 40
+*** FLOP *** [6c Jd Kd]
+psychoman59 : parole 
+JJJBusto : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à JJJBusto.
+JJJBusto a remporté 130  lors du pot .
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Tableau [6c Jd Kd]
+Siège 1 : bonito785 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : JJJBusto (bouton) a remporté (130)
+
+
+
+Main PokerStars n°239357582752 : Tournoi #3488753909, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/10/2022 9:34:54 CET [21/10/2022 3:34:54 ET]
+Table '3488753909 1' 3-max Siège #1 est au bouton.
+Place 1: bonito785 (340 en jetons) 
+Place 2: psychoman59 (260 en jetons) 
+Place 3: JJJBusto (300 en jetons) 
+psychoman59 : met la petite blind. 10
+JJJBusto : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Th]
+bonito785 : suit. 20
+psychoman59 : passe. 
+JJJBusto : parole 
+*** FLOP *** [3s 6h 2h]
+JJJBusto : mise. 100
+bonito785 : relance. 220 à 320 et est all-in.
+JJJBusto : suit. 180 et est all-in.
+Personne n'a suivi. (40) sont retournés à bonito785.
+*** TOURNANT *** [3s 6h 2h] [8d]
+*** RIVIÈRE *** [3s 6h 2h 8d] [Qd]
+*** ABATTAGE ***
+JJJBusto : montre [6s 5s] (une paire de Six)
+bonito785 : montre [4h 3h] (une paire de Trois)
+JJJBusto a remporté 610  lors du pot .
+*** SYNTHÈSE ***
+Pot total 610 | Commission 0 
+Tableau [3s 6h 2h 8d Qd]
+Siège 1 : bonito785 (bouton) a montré [4h 3h] et a perdu avec une paire de Trois
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : JJJBusto (grosse blind) a montré [6s 5s] et a gagné (610) avec une paire de Six
+
+
+
+Main PokerStars n°239357585899 : Tournoi #3488753909, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 21/10/2022 9:35:23 CET [21/10/2022 3:35:23 ET]
+Table '3488753909 1' 3-max Siège #2 est au bouton.
+Place 1: bonito785 (40 en jetons) 
+Place 2: psychoman59 (250 en jetons) 
+Place 3: JJJBusto (610 en jetons) 
+JJJBusto : met la petite blind. 15
+bonito785 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Td]
+psychoman59 : passe. 
+JJJBusto : suit. 15
+bonito785 : relance. 10 à 40 et est all-in.
+JJJBusto : suit. 10
+*** FLOP *** [4h 3s Ts]
+*** TOURNANT *** [4h 3s Ts] [4s]
+*** RIVIÈRE *** [4h 3s Ts 4s] [6s]
+*** ABATTAGE ***
+JJJBusto : montre [As 3h] (une couleur, hauteur As)
+bonito785 : montre [9h 2h] (une paire de Quatre)
+JJJBusto a remporté 80  lors du pot .
+bonito785 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [4h 3s Ts 4s 6s]
+Siège 1 : bonito785 (grosse blind) a montré [9h 2h] et a perdu avec une paire de Quatre
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : JJJBusto (petite blind) a montré [As 3h] et a gagné (80) avec une couleur, hauteur As
+
+
+
+Main PokerStars n°239357588225 : Tournoi #3488753909, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 21/10/2022 9:35:44 CET [21/10/2022 3:35:44 ET]
+Table '3488753909 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (250 en jetons) 
+Place 3: JJJBusto (650 en jetons) 
+JJJBusto : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c Ad]
+JJJBusto : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (30)
+Siège 3 : JJJBusto (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°239357588889 : Tournoi #3488753909, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 21/10/2022 9:35:50 CET [21/10/2022 3:35:50 ET]
+Table '3488753909 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (265 en jetons) 
+Place 3: JJJBusto (635 en jetons) 
+psychoman59 : met la petite blind. 15
+JJJBusto : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Th]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à JJJBusto.
+JJJBusto a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : JJJBusto (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°239357589554 : Tournoi #3488753909, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 21/10/2022 9:35:56 CET [21/10/2022 3:35:56 ET]
+Table '3488753909 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (250 en jetons) 
+Place 3: JJJBusto (650 en jetons) 
+JJJBusto : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 9h]
+JJJBusto : suit. 15
+psychoman59 : parole 
+*** FLOP *** [8d Ts As]
+psychoman59 : parole 
+JJJBusto : parole 
+*** TOURNANT *** [8d Ts As] [Qs]
+psychoman59 : parole 
+JJJBusto : parole 
+*** RIVIÈRE *** [8d Ts As Qs] [2d]
+psychoman59 : parole 
+JJJBusto : parole 
+*** ABATTAGE ***
+psychoman59 : montre [4c 9h] (Hauteur As)
+JJJBusto : montre [4s Kh] (Hauteur As - Roi kicker)
+JJJBusto a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [8d Ts As Qs 2d]
+Siège 2 : psychoman59 (grosse blind) a montré [4c 9h] et a perdu avec Hauteur As
+Siège 3 : JJJBusto (bouton) (petite blind) a montré [4s Kh] et a gagné (60) avec Hauteur As
+
+
+
+Main PokerStars n°239357592692 : Tournoi #3488753909, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 21/10/2022 9:36:25 CET [21/10/2022 3:36:25 ET]
+Table '3488753909 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (220 en jetons) 
+Place 3: JJJBusto (680 en jetons) 
+psychoman59 : met la petite blind. 20
+JJJBusto : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 6c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à JJJBusto.
+JJJBusto a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : JJJBusto (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°239357593450 : Tournoi #3488753909, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 21/10/2022 9:36:32 CET [21/10/2022 3:36:32 ET]
+Table '3488753909 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (200 en jetons) 
+Place 3: JJJBusto (700 en jetons) 
+JJJBusto : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 7c]
+JJJBusto : relance. 80 à 120
+psychoman59 : suit. 80
+*** FLOP *** [Kh 6s Ts]
+psychoman59 : mise. 80 et est all-in.
+JJJBusto : suit. 80
+*** TOURNANT *** [Kh 6s Ts] [Ac]
+*** RIVIÈRE *** [Kh 6s Ts Ac] [2h]
+*** ABATTAGE ***
+psychoman59 : montre [6c 7c] (une paire de Six)
+JJJBusto : montre [Ah 4c] (une paire de As)
+JJJBusto a remporté 400  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+JJJBusto remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [Kh 6s Ts Ac 2h]
+Siège 2 : psychoman59 (grosse blind) a montré [6c 7c] et a perdu avec une paire de Six
+Siège 3 : JJJBusto (bouton) (petite blind) a montré [Ah 4c] et a gagné (400) avec une paire de As
+
+
+

@@ -1,0 +1,126 @@
+﻿Main PokerStars n°256079922667 : Tournoi #3888360454, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 10/05/2025 8:14:12 CET [10/05/2025 2:14:12 ET]
+Table '3888360454 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: Shh__all (500 en jetons) 
+Place 3: aaboga (500 en jetons) 
+Shh__all : met la petite blind. 10
+aaboga : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 8s]
+psychoman59 : passe. 
+Shh__all : passe. 
+Personne n'a suivi. (10) sont retournés à aaboga.
+aaboga a remporté 20  lors du pot .
+aaboga : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Shh__all (petite blind) s'est couché. avant Flop
+Siège 3 : aaboga (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°256079923027 : Tournoi #3888360454, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 10/05/2025 8:14:17 CET [10/05/2025 2:14:17 ET]
+Table '3888360454 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: Shh__all (490 en jetons) 
+Place 3: aaboga (510 en jetons) 
+aaboga : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 2s]
+Shh__all : suit. 20
+aaboga : relance. 20 à 40
+psychoman59 : suit. 20
+Shh__all : suit. 20
+*** FLOP *** [As 4s 5s]
+aaboga : parole 
+psychoman59 : parole 
+Shh__all : parole 
+*** TOURNANT *** [As 4s 5s] [Qh]
+aaboga : mise. 120
+psychoman59 : suit. 120
+Shh__all : passe. 
+*** RIVIÈRE *** [As 4s 5s Qh] [Jd]
+aaboga : mise. 350 et est all-in.
+psychoman59 : suit. 340 et est all-in.
+Personne n'a suivi. (10) sont retournés à aaboga.
+*** ABATTAGE ***
+aaboga : montre [8s 9s] (une couleur, hauteur As)
+psychoman59 : montre [Js 2s] (une couleur, hauteur As - Valet plus haute)
+psychoman59 a remporté 1040  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1040 | Commission 0 
+Tableau [As 4s 5s Qh Jd]
+Siège 1 : psychoman59 (grosse blind) a montré [Js 2s] et a gagné (1040) avec une couleur, hauteur As
+Siège 2 : Shh__all (bouton) s'est couché. sur le Tournant
+Siège 3 : aaboga (petite blind) a montré [8s 9s] et a perdu avec une couleur, hauteur As
+
+
+
+Main PokerStars n°256079925963 : Tournoi #3888360454, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 10/05/2025 8:14:52 CET [10/05/2025 2:14:52 ET]
+Table '3888360454 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (1040 en jetons) 
+Place 2: Shh__all (450 en jetons) 
+Place 3: aaboga (10 en jetons) 
+psychoman59 : met la petite blind. 10
+Shh__all : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 9d]
+aaboga : suit. 10 et est all-in.
+psychoman59 : suit. 10
+Shh__all : relance. 40 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à Shh__all.
+*** FLOP *** [Jd 5c 8s]
+*** TOURNANT *** [Jd 5c 8s] [9s]
+*** RIVIÈRE *** [Jd 5c 8s 9s] [8c]
+*** ABATTAGE ***
+Shh__all : montre [Ac Ad] (double paire, As et Huit)
+Shh__all a remporté 20  parallèle lors du pot .
+aaboga : montre [6c Jh] (double paire, Valets et Huit)
+Shh__all a remporté 30  principal lors du pot .
+aaboga a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 50 Principal pot 30. Parallèle pot 20. | Commission 0 
+Tableau [Jd 5c 8s 9s 8c]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : Shh__all (grosse blind) a montré [Ac Ad] et a gagné (50) avec double paire, As et Huit
+Siège 3 : aaboga (bouton) a montré [6c Jh] et a perdu avec double paire, Valets et Huit
+
+
+
+Main PokerStars n°256079927689 : Tournoi #3888360454, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 10/05/2025 8:15:13 CET [10/05/2025 2:15:13 ET]
+Table '3888360454 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (1020 en jetons) 
+Place 2: Shh__all (480 en jetons) 
+Shh__all : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Ah]
+Shh__all : suit. 10
+psychoman59 : parole 
+*** FLOP *** [4c 6s 9h]
+psychoman59 : parole 
+Shh__all : mise. 20
+psychoman59 : relance. 40 à 60
+Shh__all : relance. 40 à 100
+psychoman59 : relance. 900 à 1000 et est all-in.
+Shh__all : suit. 360 et est all-in.
+Personne n'a suivi. (540) sont retournés à psychoman59.
+*** TOURNANT *** [4c 6s 9h] [Ks]
+*** RIVIÈRE *** [4c 6s 9h Ks] [Qs]
+*** ABATTAGE ***
+psychoman59 : montre [Ad Ah] (une paire de As)
+Shh__all : montre [7h 5s] (Hauteur Roi)
+psychoman59 a remporté 960  lors du pot .
+Shh__all a fini le tournoi à la 2e place et a reçu 0.50 €.
+psychoman59 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 960 | Commission 0 
+Tableau [4c 6s 9h Ks Qs]
+Siège 1 : psychoman59 (grosse blind) a montré [Ad Ah] et a gagné (960) avec une paire de As
+Siège 2 : Shh__all (bouton) (petite blind) a montré [7h 5s] et a perdu avec Hauteur Roi
+
+
+

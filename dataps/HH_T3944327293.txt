@@ -1,0 +1,939 @@
+﻿Main PokerStars n°258392860872 : Tournoi #3944327293, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 05/11/2025 14:22:38 CET [05/11/2025 8:22:38 ET]
+Table '3944327293 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: SLOOP84 (500 en jetons) 
+Place 3: denraku (500 en jetons) 
+SLOOP84 : met la petite blind. 10
+denraku : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 7d]
+psychoman59 : passe. 
+SLOOP84 : relance. 20 à 40
+denraku : passe. 
+Personne n'a suivi. (20) sont retournés à SLOOP84.
+SLOOP84 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : SLOOP84 (petite blind) a remporté (40)
+Siège 3 : denraku (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258392862267 : Tournoi #3944327293, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 05/11/2025 14:22:49 CET [05/11/2025 8:22:49 ET]
+Table '3944327293 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (500 en jetons) 
+Place 2: SLOOP84 (520 en jetons) 
+Place 3: denraku (480 en jetons) 
+denraku : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 9d]
+SLOOP84 : suit. 20
+denraku : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Th 7c 5s]
+denraku : mise. 20
+psychoman59 : suit. 20
+SLOOP84 : passe. 
+*** TOURNANT *** [Th 7c 5s] [6d]
+denraku : mise. 33
+psychoman59 : suit. 33
+*** RIVIÈRE *** [Th 7c 5s 6d] [Jh]
+denraku : mise. 55
+psychoman59 : passe. 
+Personne n'a suivi. (55) sont retournés à denraku.
+denraku a remporté 166  lors du pot .
+*** SYNTHÈSE ***
+Pot total 166 | Commission 0 
+Tableau [Th 7c 5s 6d Jh]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : SLOOP84 (bouton) s'est couché. sur le Flop
+Siège 3 : denraku (petite blind) a remporté (166)
+
+
+
+Main PokerStars n°258392867114 : Tournoi #3944327293, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 05/11/2025 14:23:26 CET [05/11/2025 8:23:26 ET]
+Table '3944327293 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (427 en jetons) 
+Place 2: SLOOP84 (500 en jetons) 
+Place 3: denraku (573 en jetons) 
+psychoman59 : met la petite blind. 10
+SLOOP84 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Ks]
+denraku : relance. 24 à 44
+psychoman59 : passe. 
+SLOOP84 : suit. 24
+*** FLOP *** [2c 2s Jh]
+SLOOP84 : mise. 456 et est all-in.
+denraku : suit. 456
+*** TOURNANT *** [2c 2s Jh] [5c]
+*** RIVIÈRE *** [2c 2s Jh 5c] [8d]
+*** ABATTAGE ***
+SLOOP84 : montre [8h Jc] (double paire, Valets et Huit)
+denraku : montre [Ac 7s] (une paire de Deux)
+SLOOP84 a remporté 1010  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1010 | Commission 0 
+Tableau [2c 2s Jh 5c 8d]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : SLOOP84 (grosse blind) a montré [8h Jc] et a gagné (1010) avec double paire, Valets et Huit
+Siège 3 : denraku (bouton) a montré [Ac 7s] et a perdu avec une paire de Deux
+
+
+
+Main PokerStars n°258392869442 : Tournoi #3944327293, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 05/11/2025 14:23:44 CET [05/11/2025 8:23:44 ET]
+Table '3944327293 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (417 en jetons) 
+Place 2: SLOOP84 (1010 en jetons) 
+Place 3: denraku (73 en jetons) 
+SLOOP84 : met la petite blind. 10
+denraku : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js As]
+psychoman59 : relance. 40 à 60
+SLOOP84 : suit. 50
+denraku : relance. 13 à 73 et est all-in.
+psychoman59 : suit. 13
+SLOOP84 : suit. 13
+*** FLOP *** [9h Tc 2c]
+SLOOP84 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [9h Tc 2c] [5d]
+SLOOP84 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [9h Tc 2c 5d] [Ah]
+SLOOP84 : parole 
+psychoman59 : mise. 110
+SLOOP84 : passe. 
+Personne n'a suivi. (110) sont retournés à psychoman59.
+*** ABATTAGE ***
+psychoman59 : montre [Js As] (une paire de As)
+denraku : montre [8c 6d] (Hauteur As)
+psychoman59 a remporté 219  lors du pot .
+denraku a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 219 | Commission 0 
+Tableau [9h Tc 2c 5d Ah]
+Siège 1 : psychoman59 (bouton) a montré [Js As] et a gagné (219) avec une paire de As
+Siège 2 : SLOOP84 (petite blind) s'est couché. sur le Rivière
+Siège 3 : denraku (grosse blind) a montré [8c 6d] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°258392874042 : Tournoi #3944327293, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 05/11/2025 14:24:19 CET [05/11/2025 8:24:19 ET]
+Table '3944327293 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (563 en jetons) 
+Place 2: SLOOP84 (937 en jetons) 
+SLOOP84 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 3d]
+SLOOP84 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Qh 2c Qc]
+psychoman59 : parole 
+SLOOP84 : parole 
+*** TOURNANT *** [Qh 2c Qc] [Jh]
+psychoman59 : parole 
+SLOOP84 : parole 
+*** RIVIÈRE *** [Qh 2c Qc Jh] [Tc]
+psychoman59 : parole 
+SLOOP84 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Kh 3d] (une paire de Dames)
+SLOOP84 : cache la main perdante. 
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Qh 2c Qc Jh Tc]
+Siège 1 : psychoman59 (grosse blind) a montré [Kh 3d] et a gagné (40) avec une paire de Dames
+Siège 2 : SLOOP84 (bouton) (petite blind) a caché la main perdante. [9c 3s]
+
+
+
+Main PokerStars n°258392877092 : Tournoi #3944327293, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 05/11/2025 14:24:43 CET [05/11/2025 8:24:43 ET]
+Table '3944327293 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (583 en jetons) 
+Place 2: SLOOP84 (917 en jetons) 
+psychoman59 : met la petite blind. 10
+SLOOP84 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 4c]
+psychoman59 : suit. 10
+SLOOP84 : parole 
+*** FLOP *** [2c Ad 5s]
+SLOOP84 : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [2c Ad 5s] [4s]
+SLOOP84 : mise. 40
+psychoman59 : suit. 40
+*** RIVIÈRE *** [2c Ad 5s 4s] [8d]
+SLOOP84 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+SLOOP84 : montre [Jh 9h] (Hauteur As)
+psychoman59 : montre [5c 4c] (double paire, Cinq et Quatre)
+psychoman59 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [2c Ad 5s 4s 8d]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [5c 4c] et a gagné (160) avec double paire, Cinq et Quatre
+Siège 2 : SLOOP84 (grosse blind) a montré [Jh 9h] et a perdu avec Hauteur As
+
+
+
+Main PokerStars n°258392879567 : Tournoi #3944327293, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 05/11/2025 14:25:01 CET [05/11/2025 8:25:01 ET]
+Table '3944327293 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (663 en jetons) 
+Place 2: SLOOP84 (837 en jetons) 
+SLOOP84 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Qd]
+SLOOP84 : relance. 817 à 837 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (817) sont retournés à SLOOP84.
+SLOOP84 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : SLOOP84 (bouton) (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°258392880565 : Tournoi #3944327293, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 05/11/2025 14:25:09 CET [05/11/2025 8:25:09 ET]
+Table '3944327293 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (643 en jetons) 
+Place 2: SLOOP84 (857 en jetons) 
+psychoman59 : met la petite blind. 10
+SLOOP84 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 7s]
+psychoman59 : suit. 10
+SLOOP84 : parole 
+*** FLOP *** [6c 5s 4h]
+SLOOP84 : mise. 40
+psychoman59 : relance. 583 à 623 et est all-in.
+SLOOP84 : passe. 
+Personne n'a suivi. (583) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [6c 5s 4h]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (120)
+Siège 2 : SLOOP84 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°258392882676 : Tournoi #3944327293, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 05/11/2025 14:25:25 CET [05/11/2025 8:25:25 ET]
+Table '3944327293 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (703 en jetons) 
+Place 2: SLOOP84 (797 en jetons) 
+SLOOP84 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 5h]
+SLOOP84 : relance. 20 à 40
+psychoman59 : relance. 663 à 703 et est all-in.
+SLOOP84 : passe. 
+Personne n'a suivi. (663) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (80)
+Siège 2 : SLOOP84 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258392883712 : Tournoi #3944327293, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 05/11/2025 14:25:33 CET [05/11/2025 8:25:33 ET]
+Table '3944327293 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (743 en jetons) 
+Place 2: SLOOP84 (757 en jetons) 
+psychoman59 : met la petite blind. 10
+SLOOP84 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 9d]
+psychoman59 : suit. 10
+SLOOP84 : parole 
+*** FLOP *** [5c Kd 3d]
+SLOOP84 : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [5c Kd 3d] [6d]
+SLOOP84 : mise. 60
+psychoman59 : suit. 60
+*** RIVIÈRE *** [5c Kd 3d 6d] [Ac]
+SLOOP84 : parole 
+psychoman59 : mise. 120
+SLOOP84 : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 240  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [5c Kd 3d 6d Ac]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (240)
+Siège 2 : SLOOP84 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°258392887135 : Tournoi #3944327293, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 05/11/2025 14:25:59 CET [05/11/2025 8:25:59 ET]
+Table '3944327293 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (863 en jetons) 
+Place 2: SLOOP84 (637 en jetons) 
+SLOOP84 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 4d]
+SLOOP84 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [6d 5c 5h]
+psychoman59 : parole 
+SLOOP84 : parole 
+*** TOURNANT *** [6d 5c 5h] [5d]
+psychoman59 : parole 
+SLOOP84 : parole 
+*** RIVIÈRE *** [6d 5c 5h 5d] [4c]
+psychoman59 : parole 
+SLOOP84 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Ts 4d] (un full, full aux Cinq par les Quatre)
+SLOOP84 : cache la main perdante. 
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [6d 5c 5h 5d 4c]
+Siège 1 : psychoman59 (grosse blind) a montré [Ts 4d] et a gagné (60) avec un full, full aux Cinq par les Quatre
+Siège 2 : SLOOP84 (bouton) (petite blind) a caché la main perdante. [Js 3c]
+
+
+
+Main PokerStars n°258392889629 : Tournoi #3944327293, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 05/11/2025 14:26:18 CET [05/11/2025 8:26:18 ET]
+Table '3944327293 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (893 en jetons) 
+Place 2: SLOOP84 (607 en jetons) 
+psychoman59 : met la petite blind. 15
+SLOOP84 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 6d]
+psychoman59 : relance. 863 à 893 et est all-in.
+SLOOP84 : passe. 
+Personne n'a suivi. (863) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 2 : SLOOP84 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258392890777 : Tournoi #3944327293, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 05/11/2025 14:26:27 CET [05/11/2025 8:26:27 ET]
+Table '3944327293 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (923 en jetons) 
+Place 2: SLOOP84 (577 en jetons) 
+SLOOP84 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 3h]
+SLOOP84 : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à SLOOP84.
+SLOOP84 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : SLOOP84 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°258392891746 : Tournoi #3944327293, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 05/11/2025 14:26:34 CET [05/11/2025 8:26:34 ET]
+Table '3944327293 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (893 en jetons) 
+Place 2: SLOOP84 (607 en jetons) 
+psychoman59 : met la petite blind. 15
+SLOOP84 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 5d]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à SLOOP84.
+SLOOP84 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : SLOOP84 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°258392892341 : Tournoi #3944327293, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 05/11/2025 14:26:39 CET [05/11/2025 8:26:39 ET]
+Table '3944327293 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (878 en jetons) 
+Place 2: SLOOP84 (622 en jetons) 
+SLOOP84 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Jc]
+SLOOP84 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [9d 5h Js]
+psychoman59 : parole 
+SLOOP84 : mise. 60
+psychoman59 : suit. 60
+*** TOURNANT *** [9d 5h Js] [Ah]
+psychoman59 : parole 
+SLOOP84 : parole 
+*** RIVIÈRE *** [9d 5h Js Ah] [2s]
+psychoman59 : mise. 90
+SLOOP84 : passe. 
+Personne n'a suivi. (90) sont retournés à psychoman59.
+psychoman59 a remporté 180  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [9d 5h Js Ah 2s]
+Siège 1 : psychoman59 (grosse blind) a remporté (180)
+Siège 2 : SLOOP84 (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°258392895200 : Tournoi #3944327293, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 05/11/2025 14:27:00 CET [05/11/2025 8:27:00 ET]
+Table '3944327293 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (968 en jetons) 
+Place 2: SLOOP84 (532 en jetons) 
+psychoman59 : met la petite blind. 15
+SLOOP84 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 9h]
+psychoman59 : suit. 15
+SLOOP84 : parole 
+*** FLOP *** [6d Qc 7d]
+SLOOP84 : mise. 502 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (502) sont retournés à SLOOP84.
+SLOOP84 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [6d Qc 7d]
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. sur le Flop
+Siège 2 : SLOOP84 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°258392896697 : Tournoi #3944327293, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 05/11/2025 14:27:12 CET [05/11/2025 8:27:12 ET]
+Table '3944327293 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (938 en jetons) 
+Place 2: SLOOP84 (562 en jetons) 
+SLOOP84 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h Ad]
+SLOOP84 : relance. 532 à 562 et est all-in.
+psychoman59 : suit. 532
+*** FLOP *** [Th 9s 2d]
+*** TOURNANT *** [Th 9s 2d] [Qd]
+*** RIVIÈRE *** [Th 9s 2d Qd] [3s]
+*** ABATTAGE ***
+psychoman59 : montre [5h Ad] (Hauteur As)
+SLOOP84 : montre [4d 4h] (une paire de Quatre)
+SLOOP84 a remporté 1124  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1124 | Commission 0 
+Tableau [Th 9s 2d Qd 3s]
+Siège 1 : psychoman59 (grosse blind) a montré [5h Ad] et a perdu avec Hauteur As
+Siège 2 : SLOOP84 (bouton) (petite blind) a montré [4d 4h] et a gagné (1124) avec une paire de Quatre
+
+
+
+Main PokerStars n°258392898361 : Tournoi #3944327293, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 05/11/2025 14:27:24 CET [05/11/2025 8:27:24 ET]
+Table '3944327293 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (376 en jetons) 
+Place 2: SLOOP84 (1124 en jetons) 
+psychoman59 : met la petite blind. 15
+SLOOP84 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Ac]
+psychoman59 : relance. 346 à 376 et est all-in.
+SLOOP84 : passe. 
+Personne n'a suivi. (346) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 2 : SLOOP84 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258392899562 : Tournoi #3944327293, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 05/11/2025 14:27:33 CET [05/11/2025 8:27:33 ET]
+Table '3944327293 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (406 en jetons) 
+Place 2: SLOOP84 (1094 en jetons) 
+SLOOP84 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Ts]
+SLOOP84 : relance. 1064 à 1094 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (1064) sont retournés à SLOOP84.
+SLOOP84 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : SLOOP84 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°258392900241 : Tournoi #3944327293, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 05/11/2025 14:27:39 CET [05/11/2025 8:27:39 ET]
+Table '3944327293 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (376 en jetons) 
+Place 2: SLOOP84 (1124 en jetons) 
+psychoman59 : met la petite blind. 15
+SLOOP84 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 5h]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à SLOOP84.
+SLOOP84 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : SLOOP84 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°258392900871 : Tournoi #3944327293, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 05/11/2025 14:27:43 CET [05/11/2025 8:27:43 ET]
+Table '3944327293 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (361 en jetons) 
+Place 2: SLOOP84 (1139 en jetons) 
+SLOOP84 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Ad]
+SLOOP84 : relance. 60 à 90
+psychoman59 : relance. 271 à 361 et est all-in.
+SLOOP84 : suit. 271
+*** FLOP *** [4h 9c 2s]
+*** TOURNANT *** [4h 9c 2s] [2c]
+*** RIVIÈRE *** [4h 9c 2s 2c] [Jc]
+*** ABATTAGE ***
+psychoman59 : montre [2h Ad] (un brelan de Deux)
+SLOOP84 : montre [5d Kh] (une paire de Deux)
+psychoman59 a remporté 722  lors du pot .
+*** SYNTHÈSE ***
+Pot total 722 | Commission 0 
+Tableau [4h 9c 2s 2c Jc]
+Siège 1 : psychoman59 (grosse blind) a montré [2h Ad] et a gagné (722) avec un brelan de Deux
+Siège 2 : SLOOP84 (bouton) (petite blind) a montré [5d Kh] et a perdu avec une paire de Deux
+
+
+
+Main PokerStars n°258392902792 : Tournoi #3944327293, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 05/11/2025 14:27:57 CET [05/11/2025 8:27:57 ET]
+Table '3944327293 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (722 en jetons) 
+Place 2: SLOOP84 (778 en jetons) 
+psychoman59 : met la petite blind. 15
+SLOOP84 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs Jd]
+psychoman59 : suit. 15
+SLOOP84 : parole 
+*** FLOP *** [8h 6d 3h]
+SLOOP84 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [8h 6d 3h] [Kh]
+SLOOP84 : parole 
+psychoman59 : mise. 60
+SLOOP84 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [8h 6d 3h Kh]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 2 : SLOOP84 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°258392904961 : Tournoi #3944327293, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 05/11/2025 14:28:14 CET [05/11/2025 8:28:14 ET]
+Table '3944327293 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (752 en jetons) 
+Place 2: SLOOP84 (748 en jetons) 
+SLOOP84 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 4d]
+SLOOP84 : relance. 718 à 748 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (718) sont retournés à SLOOP84.
+SLOOP84 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : SLOOP84 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°258392905842 : Tournoi #3944327293, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 05/11/2025 14:28:21 CET [05/11/2025 8:28:21 ET]
+Table '3944327293 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (722 en jetons) 
+Place 2: SLOOP84 (778 en jetons) 
+psychoman59 : met la petite blind. 15
+SLOOP84 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c 2s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à SLOOP84.
+SLOOP84 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : SLOOP84 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°258392906452 : Tournoi #3944327293, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 05/11/2025 14:28:26 CET [05/11/2025 8:28:26 ET]
+Table '3944327293 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (707 en jetons) 
+Place 2: SLOOP84 (793 en jetons) 
+SLOOP84 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Th]
+SLOOP84 : relance. 763 à 793 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (763) sont retournés à SLOOP84.
+SLOOP84 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : SLOOP84 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°258392907158 : Tournoi #3944327293, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 05/11/2025 14:28:32 CET [05/11/2025 8:28:32 ET]
+Table '3944327293 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (677 en jetons) 
+Place 2: SLOOP84 (823 en jetons) 
+psychoman59 : met la petite blind. 15
+SLOOP84 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d 3h]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à SLOOP84.
+SLOOP84 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : SLOOP84 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°258392907853 : Tournoi #3944327293, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 05/11/2025 14:28:37 CET [05/11/2025 8:28:37 ET]
+Table '3944327293 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (662 en jetons) 
+Place 2: SLOOP84 (838 en jetons) 
+SLOOP84 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 7c]
+SLOOP84 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [2d 7h Kh]
+psychoman59 : parole 
+SLOOP84 : parole 
+*** TOURNANT *** [2d 7h Kh] [Td]
+psychoman59 : parole 
+SLOOP84 : parole 
+*** RIVIÈRE *** [2d 7h Kh Td] [9h]
+psychoman59 : parole 
+SLOOP84 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Jd 7c] (une paire de Sept)
+SLOOP84 : cache la main perdante. 
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [2d 7h Kh Td 9h]
+Siège 1 : psychoman59 (grosse blind) a montré [Jd 7c] et a gagné (60) avec une paire de Sept
+Siège 2 : SLOOP84 (bouton) (petite blind) a caché la main perdante. [Js 2h]
+
+
+
+Main PokerStars n°258392910790 : Tournoi #3944327293, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 05/11/2025 14:28:59 CET [05/11/2025 8:28:59 ET]
+Table '3944327293 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (692 en jetons) 
+Place 2: SLOOP84 (808 en jetons) 
+psychoman59 : met la petite blind. 20
+SLOOP84 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 2s]
+psychoman59 : relance. 652 à 692 et est all-in.
+SLOOP84 : passe. 
+Personne n'a suivi. (652) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 2 : SLOOP84 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°258392911634 : Tournoi #3944327293, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 05/11/2025 14:29:06 CET [05/11/2025 8:29:06 ET]
+Table '3944327293 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (732 en jetons) 
+Place 2: SLOOP84 (768 en jetons) 
+SLOOP84 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 4h]
+SLOOP84 : relance. 40 à 80
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à SLOOP84.
+SLOOP84 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : SLOOP84 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°258392912460 : Tournoi #3944327293, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 05/11/2025 14:29:12 CET [05/11/2025 8:29:12 ET]
+Table '3944327293 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (692 en jetons) 
+Place 2: SLOOP84 (808 en jetons) 
+psychoman59 : met la petite blind. 20
+SLOOP84 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d Jc]
+psychoman59 : suit. 20
+SLOOP84 : parole 
+*** FLOP *** [Ac Ah 6s]
+SLOOP84 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Ac Ah 6s] [Tc]
+SLOOP84 : parole 
+psychoman59 : mise. 80
+SLOOP84 : passe. 
+Personne n'a suivi. (80) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Ac Ah 6s Tc]
+Siège 1 : psychoman59 (bouton) (petite blind) a remporté (80)
+Siège 2 : SLOOP84 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°258392914554 : Tournoi #3944327293, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 05/11/2025 14:29:28 CET [05/11/2025 8:29:28 ET]
+Table '3944327293 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (732 en jetons) 
+Place 2: SLOOP84 (768 en jetons) 
+SLOOP84 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 9s]
+SLOOP84 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [8d 2c Kc]
+psychoman59 : parole 
+SLOOP84 : parole 
+*** TOURNANT *** [8d 2c Kc] [2d]
+psychoman59 : parole 
+SLOOP84 : parole 
+*** RIVIÈRE *** [8d 2c Kc 2d] [Js]
+psychoman59 : parole 
+SLOOP84 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [4h 9s] (une paire de Deux)
+SLOOP84 : cache la main perdante. 
+psychoman59 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [8d 2c Kc 2d Js]
+Siège 1 : psychoman59 (grosse blind) a montré [4h 9s] et a gagné (80) avec une paire de Deux
+Siège 2 : SLOOP84 (bouton) (petite blind) a caché la main perdante. [3s 4s]
+
+
+
+Main PokerStars n°258392917228 : Tournoi #3944327293, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 05/11/2025 14:29:49 CET [05/11/2025 8:29:49 ET]
+Table '3944327293 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (772 en jetons) 
+Place 2: SLOOP84 (728 en jetons) 
+psychoman59 : met la petite blind. 20
+SLOOP84 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 9d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à SLOOP84.
+SLOOP84 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : SLOOP84 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°258392918074 : Tournoi #3944327293, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 05/11/2025 14:29:55 CET [05/11/2025 8:29:55 ET]
+Table '3944327293 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (752 en jetons) 
+Place 2: SLOOP84 (748 en jetons) 
+SLOOP84 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c Th]
+SLOOP84 : relance. 40 à 80
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à SLOOP84.
+SLOOP84 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 2 : SLOOP84 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°258392918955 : Tournoi #3944327293, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 05/11/2025 14:30:02 CET [05/11/2025 8:30:02 ET]
+Table '3944327293 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (712 en jetons) 
+Place 2: SLOOP84 (788 en jetons) 
+psychoman59 : met la petite blind. 20
+SLOOP84 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 6d]
+psychoman59 : suit. 20
+SLOOP84 : parole 
+*** FLOP *** [Kc Kh 3c]
+SLOOP84 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Kc Kh 3c] [9c]
+SLOOP84 : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à SLOOP84.
+SLOOP84 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Kc Kh 3c 9c]
+Siège 1 : psychoman59 (bouton) (petite blind) s'est couché. sur le Tournant
+Siège 2 : SLOOP84 (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°258392920717 : Tournoi #3944327293, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 05/11/2025 14:30:15 CET [05/11/2025 8:30:15 ET]
+Table '3944327293 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (672 en jetons) 
+Place 2: SLOOP84 (828 en jetons) 
+SLOOP84 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2d Js]
+SLOOP84 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Ad 4s 9s]
+psychoman59 : parole 
+SLOOP84 : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à SLOOP84.
+SLOOP84 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Ad 4s 9s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : SLOOP84 (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°258392922728 : Tournoi #3944327293, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 05/11/2025 14:30:30 CET [05/11/2025 8:30:30 ET]
+Table '3944327293 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (632 en jetons) 
+Place 2: SLOOP84 (868 en jetons) 
+psychoman59 : met la petite blind. 20
+SLOOP84 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 9c]
+psychoman59 : relance. 592 à 632 et est all-in.
+SLOOP84 : suit. 592
+*** FLOP *** [Qh Jc 6s]
+*** TOURNANT *** [Qh Jc 6s] [Kd]
+*** RIVIÈRE *** [Qh Jc 6s Kd] [Jh]
+*** ABATTAGE ***
+SLOOP84 : montre [Ah 5h] (une paire de Valets)
+psychoman59 : montre [Kc 9c] (double paire, Rois et Valets)
+psychoman59 a remporté 1264  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1264 | Commission 0 
+Tableau [Qh Jc 6s Kd Jh]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [Kc 9c] et a gagné (1264) avec double paire, Rois et Valets
+Siège 2 : SLOOP84 (grosse blind) a montré [Ah 5h] et a perdu avec une paire de Valets
+
+
+
+Main PokerStars n°258392924350 : Tournoi #3944327293, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 05/11/2025 14:30:42 CET [05/11/2025 8:30:42 ET]
+Table '3944327293 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (1264 en jetons) 
+Place 2: SLOOP84 (236 en jetons) 
+SLOOP84 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 5s]
+SLOOP84 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [Ah 7c Js]
+psychoman59 : parole 
+SLOOP84 : parole 
+*** TOURNANT *** [Ah 7c Js] [3s]
+psychoman59 : parole 
+SLOOP84 : parole 
+*** RIVIÈRE *** [Ah 7c Js 3s] [5d]
+psychoman59 : parole 
+SLOOP84 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [4h 5s] (une paire de Cinq)
+SLOOP84 : montre [4d 5h] (une paire de Cinq)
+psychoman59 a remporté 40  lors du pot .
+SLOOP84 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Ah 7c Js 3s 5d]
+Siège 1 : psychoman59 (grosse blind) a montré [4h 5s] et a gagné (40) avec une paire de Cinq
+Siège 2 : SLOOP84 (bouton) (petite blind) a montré [4d 5h] et a gagné (40) avec une paire de Cinq
+
+
+
+Main PokerStars n°258392926856 : Tournoi #3944327293, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 05/11/2025 14:31:01 CET [05/11/2025 8:31:01 ET]
+Table '3944327293 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (1264 en jetons) 
+Place 2: SLOOP84 (236 en jetons) 
+psychoman59 : met la petite blind. 20
+SLOOP84 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Jc]
+psychoman59 : suit. 20
+SLOOP84 : parole 
+*** FLOP *** [7c 5s Qd]
+SLOOP84 : parole 
+psychoman59 : mise. 80
+SLOOP84 : suit. 80
+*** TOURNANT *** [7c 5s Qd] [Jh]
+SLOOP84 : mise. 116 et est all-in.
+psychoman59 : suit. 116
+*** RIVIÈRE *** [7c 5s Qd Jh] [9d]
+*** ABATTAGE ***
+SLOOP84 : montre [4d 3s] (Hauteur Dame)
+psychoman59 : montre [8s Jc] (une paire de Valets)
+psychoman59 a remporté 472  lors du pot .
+SLOOP84 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 6.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 472 | Commission 0 
+Tableau [7c 5s Qd Jh 9d]
+Siège 1 : psychoman59 (bouton) (petite blind) a montré [8s Jc] et a gagné (472) avec une paire de Valets
+Siège 2 : SLOOP84 (grosse blind) a montré [4d 3s] et a perdu avec Hauteur Dame
+
+
+

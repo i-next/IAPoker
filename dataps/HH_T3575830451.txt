@@ -1,0 +1,653 @@
+﻿Main PokerStars n°243019949847 : Tournoi #3575830451, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/04/2023 7:15:05 CET [11/04/2023 1:15:05 ET]
+Table '3575830451 1' 3-max Siège #1 est au bouton.
+Place 1: podogan5 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: babeth70 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+babeth70 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 9s]
+podogan5 : passe. 
+psychoman59 : suit. 10
+babeth70 : parole 
+*** FLOP *** [Tc 9h Ts]
+psychoman59 : parole 
+babeth70 : parole 
+*** TOURNANT *** [Tc 9h Ts] [3h]
+psychoman59 : parole 
+babeth70 : mise. 40
+psychoman59 : suit. 40
+*** RIVIÈRE *** [Tc 9h Ts 3h] [5d]
+psychoman59 : parole 
+babeth70 : mise. 120
+psychoman59 : suit. 120
+*** ABATTAGE ***
+babeth70 : montre [5s 3c] (double paire, Dix et Cinq)
+psychoman59 : montre [8h 9s] (double paire, Dix et Neuf)
+psychoman59 a remporté 360  lors du pot .
+*** SYNTHÈSE ***
+Pot total 360 | Commission 0 
+Tableau [Tc 9h Ts 3h 5d]
+Siège 1 : podogan5 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [8h 9s] et a gagné (360) avec double paire, Dix et Neuf
+Siège 3 : babeth70 (grosse blind) a montré [5s 3c] et a perdu avec double paire, Dix et Cinq
+
+
+
+Main PokerStars n°243019952338 : Tournoi #3575830451, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/04/2023 7:15:29 CET [11/04/2023 1:15:29 ET]
+Table '3575830451 1' 3-max Siège #2 est au bouton.
+Place 1: podogan5 (300 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+Place 3: babeth70 (120 en jetons) 
+babeth70 : met la petite blind. 10
+podogan5 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 7c]
+psychoman59 : passe. 
+babeth70 : suit. 10
+podogan5 : parole 
+*** FLOP *** [Qc 5d Ac]
+babeth70 : parole 
+podogan5 : parole 
+*** TOURNANT *** [Qc 5d Ac] [8h]
+babeth70 : mise. 100 et est all-in.
+podogan5 : passe. 
+Personne n'a suivi. (100) sont retournés à babeth70.
+babeth70 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Qc 5d Ac 8h]
+Siège 1 : podogan5 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : babeth70 (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°243019954411 : Tournoi #3575830451, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 11/04/2023 7:15:50 CET [11/04/2023 1:15:50 ET]
+Table '3575830451 1' 3-max Siège #3 est au bouton.
+Place 1: podogan5 (280 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+Place 3: babeth70 (140 en jetons) 
+podogan5 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js Jd]
+babeth70 : suit. 20
+podogan5 : relance. 60 à 80
+psychoman59 : relance. 400 à 480 et est all-in.
+babeth70 : passe. 
+podogan5 : suit. 200 et est all-in.
+Personne n'a suivi. (200) sont retournés à psychoman59.
+*** FLOP *** [Qc 9c 2d]
+*** TOURNANT *** [Qc 9c 2d] [3d]
+*** RIVIÈRE *** [Qc 9c 2d 3d] [Ks]
+*** ABATTAGE ***
+podogan5 : montre [Qs Qd] (un brelan de Dames)
+psychoman59 : montre [Js Jd] (une paire de Valets)
+podogan5 a remporté 580  lors du pot .
+*** SYNTHÈSE ***
+Pot total 580 | Commission 0 
+Tableau [Qc 9c 2d 3d Ks]
+Siège 1 : podogan5 (petite blind) a montré [Qs Qd] et a gagné (580) avec un brelan de Dames
+Siège 2 : psychoman59 (grosse blind) a montré [Js Jd] et a perdu avec une paire de Valets
+Siège 3 : babeth70 (bouton) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243019956701 : Tournoi #3575830451, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/04/2023 7:16:13 CET [11/04/2023 1:16:13 ET]
+Table '3575830451 1' 3-max Siège #1 est au bouton.
+Place 1: podogan5 (580 en jetons) 
+Place 2: psychoman59 (200 en jetons) 
+Place 3: babeth70 (120 en jetons) 
+psychoman59 : met la petite blind. 15
+babeth70 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 6h]
+podogan5 : passe. 
+psychoman59 : suit. 15
+babeth70 : parole 
+*** FLOP *** [6d 4s Jd]
+psychoman59 : parole 
+babeth70 : mise. 90 et est all-in.
+psychoman59 : suit. 90
+*** TOURNANT *** [6d 4s Jd] [Ad]
+*** RIVIÈRE *** [6d 4s Jd Ad] [Qc]
+*** ABATTAGE ***
+psychoman59 : montre [Qs 6h] (double paire, Dames et Six)
+babeth70 : montre [9h Jc] (une paire de Valets)
+psychoman59 a remporté 240  lors du pot .
+babeth70 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [6d 4s Jd Ad Qc]
+Siège 1 : podogan5 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [Qs 6h] et a gagné (240) avec double paire, Dames et Six
+Siège 3 : babeth70 (grosse blind) a montré [9h Jc] et a perdu avec une paire de Valets
+
+
+
+Main PokerStars n°243019958774 : Tournoi #3575830451, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/04/2023 7:16:34 CET [11/04/2023 1:16:34 ET]
+Table '3575830451 1' 3-max Siège #2 est au bouton.
+Place 1: podogan5 (580 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+psychoman59 : met la petite blind. 15
+podogan5 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 4h]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à podogan5.
+podogan5 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : podogan5 (grosse blind) a remporté (30)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243019959462 : Tournoi #3575830451, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/04/2023 7:16:41 CET [11/04/2023 1:16:41 ET]
+Table '3575830451 1' 3-max Siège #1 est au bouton.
+Place 1: podogan5 (595 en jetons) 
+Place 2: psychoman59 (305 en jetons) 
+podogan5 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 3d]
+podogan5 : relance. 60 à 90
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à podogan5.
+podogan5 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : podogan5 (bouton) (petite blind) a remporté (60)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243019960373 : Tournoi #3575830451, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/04/2023 7:16:50 CET [11/04/2023 1:16:50 ET]
+Table '3575830451 1' 3-max Siège #2 est au bouton.
+Place 1: podogan5 (625 en jetons) 
+Place 2: psychoman59 (275 en jetons) 
+psychoman59 : met la petite blind. 15
+podogan5 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Td]
+psychoman59 : relance. 245 à 275 et est all-in.
+podogan5 : passe. 
+Personne n'a suivi. (245) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : podogan5 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°243019961294 : Tournoi #3575830451, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 11/04/2023 7:16:59 CET [11/04/2023 1:16:59 ET]
+Table '3575830451 1' 3-max Siège #1 est au bouton.
+Place 1: podogan5 (595 en jetons) 
+Place 2: psychoman59 (305 en jetons) 
+podogan5 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 9s]
+podogan5 : suit. 15
+psychoman59 : relance. 275 à 305 et est all-in.
+podogan5 : passe. 
+Personne n'a suivi. (275) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : podogan5 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°243019962502 : Tournoi #3575830451, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/04/2023 7:17:11 CET [11/04/2023 1:17:11 ET]
+Table '3575830451 1' 3-max Siège #2 est au bouton.
+Place 1: podogan5 (565 en jetons) 
+Place 2: psychoman59 (335 en jetons) 
+psychoman59 : met la petite blind. 20
+podogan5 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 9d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à podogan5.
+podogan5 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : podogan5 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243019962984 : Tournoi #3575830451, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/04/2023 7:17:16 CET [11/04/2023 1:17:16 ET]
+Table '3575830451 1' 3-max Siège #1 est au bouton.
+Place 1: podogan5 (585 en jetons) 
+Place 2: psychoman59 (315 en jetons) 
+podogan5 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 6c]
+podogan5 : relance. 40 à 80
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à podogan5.
+podogan5 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : podogan5 (bouton) (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243019963680 : Tournoi #3575830451, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/04/2023 7:17:23 CET [11/04/2023 1:17:23 ET]
+Table '3575830451 1' 3-max Siège #2 est au bouton.
+Place 1: podogan5 (625 en jetons) 
+Place 2: psychoman59 (275 en jetons) 
+psychoman59 : met la petite blind. 20
+podogan5 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 5h]
+psychoman59 : relance. 40 à 80
+podogan5 : suit. 40
+*** FLOP *** [Jd 3d 4h]
+podogan5 : parole 
+psychoman59 : mise. 195 et est all-in.
+podogan5 : passe. 
+Personne n'a suivi. (195) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [Jd 3d 4h]
+Siège 1 : podogan5 (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°243019965314 : Tournoi #3575830451, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 11/04/2023 7:17:39 CET [11/04/2023 1:17:39 ET]
+Table '3575830451 1' 3-max Siège #1 est au bouton.
+Place 1: podogan5 (545 en jetons) 
+Place 2: psychoman59 (355 en jetons) 
+podogan5 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 3d]
+podogan5 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [6d 9s Ah]
+psychoman59 : parole 
+podogan5 : parole 
+*** TOURNANT *** [6d 9s Ah] [As]
+psychoman59 : parole 
+podogan5 : parole 
+*** RIVIÈRE *** [6d 9s Ah As] [7s]
+psychoman59 : parole 
+podogan5 : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à podogan5.
+podogan5 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [6d 9s Ah As 7s]
+Siège 1 : podogan5 (bouton) (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°243019968463 : Tournoi #3575830451, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/04/2023 7:18:10 CET [11/04/2023 1:18:10 ET]
+Table '3575830451 1' 3-max Siège #2 est au bouton.
+Place 1: podogan5 (585 en jetons) 
+Place 2: psychoman59 (315 en jetons) 
+psychoman59 : met la petite blind. 30
+podogan5 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s Jh]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à podogan5.
+podogan5 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : podogan5 (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243019969151 : Tournoi #3575830451, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/04/2023 7:18:17 CET [11/04/2023 1:18:17 ET]
+Table '3575830451 1' 3-max Siège #1 est au bouton.
+Place 1: podogan5 (615 en jetons) 
+Place 2: psychoman59 (285 en jetons) 
+podogan5 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Ks]
+podogan5 : suit. 30
+psychoman59 : relance. 225 à 285 et est all-in.
+podogan5 : passe. 
+Personne n'a suivi. (225) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : podogan5 (bouton) (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°243019970066 : Tournoi #3575830451, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/04/2023 7:18:26 CET [11/04/2023 1:18:26 ET]
+Table '3575830451 1' 3-max Siège #2 est au bouton.
+Place 1: podogan5 (555 en jetons) 
+Place 2: psychoman59 (345 en jetons) 
+psychoman59 : met la petite blind. 30
+podogan5 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 7s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à podogan5.
+podogan5 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : podogan5 (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243019970642 : Tournoi #3575830451, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/04/2023 7:18:31 CET [11/04/2023 1:18:31 ET]
+Table '3575830451 1' 3-max Siège #1 est au bouton.
+Place 1: podogan5 (585 en jetons) 
+Place 2: psychoman59 (315 en jetons) 
+podogan5 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 7c]
+podogan5 : suit. 30
+psychoman59 : parole 
+*** FLOP *** [Ac 6d 3c]
+psychoman59 : parole 
+podogan5 : mise. 60
+psychoman59 : suit. 60
+*** TOURNANT *** [Ac 6d 3c] [5h]
+psychoman59 : parole 
+podogan5 : mise. 240
+psychoman59 : suit. 195 et est all-in.
+Personne n'a suivi. (45) sont retournés à podogan5.
+*** RIVIÈRE *** [Ac 6d 3c 5h] [Jc]
+*** ABATTAGE ***
+psychoman59 : montre [Tc 7c] (une couleur, hauteur As)
+podogan5 : montre [5c 9d] (une paire de Cinq)
+psychoman59 a remporté 630  lors du pot .
+*** SYNTHÈSE ***
+Pot total 630 | Commission 0 
+Tableau [Ac 6d 3c 5h Jc]
+Siège 1 : podogan5 (bouton) (petite blind) a montré [5c 9d] et a perdu avec une paire de Cinq
+Siège 2 : psychoman59 (grosse blind) a montré [Tc 7c] et a gagné (630) avec une couleur, hauteur As
+
+
+
+Main PokerStars n°243019972947 : Tournoi #3575830451, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/04/2023 7:18:55 CET [11/04/2023 1:18:55 ET]
+Table '3575830451 1' 3-max Siège #2 est au bouton.
+Place 1: podogan5 (270 en jetons) 
+Place 2: psychoman59 (630 en jetons) 
+psychoman59 : met la petite blind. 30
+podogan5 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c 3s]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à podogan5.
+podogan5 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : podogan5 (grosse blind) a remporté (60)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243019973438 : Tournoi #3575830451, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 11/04/2023 7:19:00 CET [11/04/2023 1:19:00 ET]
+Table '3575830451 1' 3-max Siège #1 est au bouton.
+Place 1: podogan5 (300 en jetons) 
+Place 2: psychoman59 (600 en jetons) 
+podogan5 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Jd]
+podogan5 : relance. 120 à 180
+psychoman59 : passe. 
+Personne n'a suivi. (120) sont retournés à podogan5.
+podogan5 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : podogan5 (bouton) (petite blind) a remporté (120)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243019974496 : Tournoi #3575830451, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 11/04/2023 7:19:11 CET [11/04/2023 1:19:11 ET]
+Table '3575830451 1' 3-max Siège #2 est au bouton.
+Place 1: podogan5 (360 en jetons) 
+Place 2: psychoman59 (540 en jetons) 
+psychoman59 : met la petite blind. 40
+podogan5 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 9d]
+psychoman59 : relance. 460 à 540 et est all-in.
+podogan5 : passe. 
+Personne n'a suivi. (460) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : podogan5 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°243019975179 : Tournoi #3575830451, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 11/04/2023 7:19:17 CET [11/04/2023 1:19:17 ET]
+Table '3575830451 1' 3-max Siège #1 est au bouton.
+Place 1: podogan5 (280 en jetons) 
+Place 2: psychoman59 (620 en jetons) 
+podogan5 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 6d]
+podogan5 : suit. 40
+psychoman59 : parole 
+*** FLOP *** [7s Tc 4s]
+psychoman59 : parole 
+podogan5 : parole 
+*** TOURNANT *** [7s Tc 4s] [As]
+psychoman59 : parole 
+podogan5 : parole 
+*** RIVIÈRE *** [7s Tc 4s As] [3s]
+psychoman59 : parole 
+podogan5 : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à podogan5.
+podogan5 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [7s Tc 4s As 3s]
+Siège 1 : podogan5 (bouton) (petite blind) a remporté (160)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°243019977939 : Tournoi #3575830451, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 11/04/2023 7:19:45 CET [11/04/2023 1:19:45 ET]
+Table '3575830451 1' 3-max Siège #2 est au bouton.
+Place 1: podogan5 (360 en jetons) 
+Place 2: psychoman59 (540 en jetons) 
+psychoman59 : met la petite blind. 40
+podogan5 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5h 8c]
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à podogan5.
+podogan5 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : podogan5 (grosse blind) a remporté (80)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243019978398 : Tournoi #3575830451, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 11/04/2023 7:19:50 CET [11/04/2023 1:19:50 ET]
+Table '3575830451 1' 3-max Siège #1 est au bouton.
+Place 1: podogan5 (400 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+podogan5 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 5d]
+podogan5 : relance. 160 à 240
+psychoman59 : passe. 
+Personne n'a suivi. (160) sont retournés à podogan5.
+podogan5 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : podogan5 (bouton) (petite blind) a remporté (160)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243019979222 : Tournoi #3575830451, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 11/04/2023 7:19:58 CET [11/04/2023 1:19:58 ET]
+Table '3575830451 1' 3-max Siège #2 est au bouton.
+Place 1: podogan5 (480 en jetons) 
+Place 2: psychoman59 (420 en jetons) 
+psychoman59 : met la petite blind. 40
+podogan5 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Qd]
+psychoman59 : relance. 340 à 420 et est all-in.
+podogan5 : passe. 
+Personne n'a suivi. (340) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : podogan5 (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (160)
+
+
+
+Main PokerStars n°243019979843 : Tournoi #3575830451, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau V (40/80) - 11/04/2023 7:20:04 CET [11/04/2023 1:20:04 ET]
+Table '3575830451 1' 3-max Siège #1 est au bouton.
+Place 1: podogan5 (400 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+podogan5 : met la petite blind. 40
+psychoman59 : met la grosse blind. 80
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 4s]
+podogan5 : relance. 80 à 160
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à podogan5.
+podogan5 a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : podogan5 (bouton) (petite blind) a remporté (160)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243019980842 : Tournoi #3575830451, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 11/04/2023 7:20:14 CET [11/04/2023 1:20:14 ET]
+Table '3575830451 1' 3-max Siège #2 est au bouton.
+Place 1: podogan5 (480 en jetons) 
+Place 2: psychoman59 (420 en jetons) 
+psychoman59 : met la petite blind. 50
+podogan5 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 9c]
+psychoman59 : relance. 320 à 420 et est all-in.
+podogan5 : suit. 320
+*** FLOP *** [3c Qd 7d]
+*** TOURNANT *** [3c Qd 7d] [6s]
+*** RIVIÈRE *** [3c Qd 7d 6s] [7h]
+*** ABATTAGE ***
+podogan5 : montre [8d 8s] (double paire, Huit et Sept)
+psychoman59 : montre [Qs 9c] (double paire, Dames et Sept)
+psychoman59 a remporté 840  lors du pot .
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Tableau [3c Qd 7d 6s 7h]
+Siège 1 : podogan5 (grosse blind) a montré [8d 8s] et a perdu avec double paire, Huit et Sept
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Qs 9c] et a gagné (840) avec double paire, Dames et Sept
+
+
+
+Main PokerStars n°243019982177 : Tournoi #3575830451, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 11/04/2023 7:20:28 CET [11/04/2023 1:20:28 ET]
+Table '3575830451 1' 3-max Siège #1 est au bouton.
+Place 1: podogan5 (60 en jetons) 
+Place 2: psychoman59 (840 en jetons) 
+podogan5 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 7h]
+podogan5 : suit. 10 et est all-in.
+Personne n'a suivi. (40) sont retournés à psychoman59.
+*** FLOP *** [6d 2s 7c]
+*** TOURNANT *** [6d 2s 7c] [Tc]
+*** RIVIÈRE *** [6d 2s 7c Tc] [Ac]
+*** ABATTAGE ***
+psychoman59 : montre [8d 7h] (une paire de Sept)
+podogan5 : montre [Td Qh] (une paire de Dix)
+podogan5 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [6d 2s 7c Tc Ac]
+Siège 1 : podogan5 (bouton) (petite blind) a montré [Td Qh] et a gagné (120) avec une paire de Dix
+Siège 2 : psychoman59 (grosse blind) a montré [8d 7h] et a perdu avec une paire de Sept
+
+
+
+Main PokerStars n°243019983289 : Tournoi #3575830451, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 11/04/2023 7:20:39 CET [11/04/2023 1:20:39 ET]
+Table '3575830451 1' 3-max Siège #2 est au bouton.
+Place 1: podogan5 (120 en jetons) 
+Place 2: psychoman59 (780 en jetons) 
+psychoman59 : met la petite blind. 50
+podogan5 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 2d]
+psychoman59 : relance. 100 à 200
+podogan5 : suit. 20 et est all-in.
+Personne n'a suivi. (80) sont retournés à psychoman59.
+*** FLOP *** [9c As 5d]
+*** TOURNANT *** [9c As 5d] [7h]
+*** RIVIÈRE *** [9c As 5d 7h] [Ah]
+*** ABATTAGE ***
+podogan5 : montre [Jd 9s] (double paire, As et Neuf)
+psychoman59 : montre [Ks 2d] (une paire de As)
+podogan5 a remporté 240  lors du pot .
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [9c As 5d 7h Ah]
+Siège 1 : podogan5 (grosse blind) a montré [Jd 9s] et a gagné (240) avec double paire, As et Neuf
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Ks 2d] et a perdu avec une paire de As
+
+
+
+Main PokerStars n°243019984480 : Tournoi #3575830451, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau VI (50/100) - 11/04/2023 7:20:51 CET [11/04/2023 1:20:51 ET]
+Table '3575830451 1' 3-max Siège #1 est au bouton.
+Place 1: podogan5 (240 en jetons) 
+Place 2: psychoman59 (660 en jetons) 
+podogan5 : met la petite blind. 50
+psychoman59 : met la grosse blind. 100
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h Jd]
+podogan5 : relance. 140 à 240 et est all-in.
+psychoman59 : suit. 140
+*** FLOP *** [Kd Kh 9d]
+*** TOURNANT *** [Kd Kh 9d] [3s]
+*** RIVIÈRE *** [Kd Kh 9d 3s] [2h]
+*** ABATTAGE ***
+psychoman59 : montre [9h Jd] (double paire, Rois et Neuf)
+podogan5 : montre [9s 4h] (double paire, Rois et Neuf - plus basse kicker)
+psychoman59 a remporté 480  lors du pot .
+podogan5 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [Kd Kh 9d 3s 2h]
+Siège 1 : podogan5 (bouton) (petite blind) a montré [9s 4h] et a perdu avec double paire, Rois et Neuf
+Siège 2 : psychoman59 (grosse blind) a montré [9h Jd] et a gagné (480) avec double paire, Rois et Neuf
+
+
+

@@ -1,0 +1,110 @@
+﻿Main PokerStars n°241290119593 : Tournoi #3535384656, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/01/2023 8:35:32 CET [21/01/2023 2:35:32 ET]
+Table '3535384656 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: bakkol (300 en jetons) 
+Place 3: mahdi66966 (300 en jetons) 
+bakkol : met la petite blind. 10
+mahdi66966 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 9s]
+psychoman59 : passe. 
+bakkol : passe. 
+Personne n'a suivi. (10) sont retournés à mahdi66966.
+mahdi66966 a remporté 20  lors du pot .
+mahdi66966 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : bakkol (petite blind) s'est couché. avant Flop
+Siège 3 : mahdi66966 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°241290121289 : Tournoi #3535384656, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/01/2023 8:35:47 CET [21/01/2023 2:35:47 ET]
+Table '3535384656 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: bakkol (290 en jetons) 
+Place 3: mahdi66966 (310 en jetons) 
+mahdi66966 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 5d]
+bakkol : passe. 
+mahdi66966 : suit. 10
+psychoman59 : relance. 280 à 300 et est all-in.
+mahdi66966 : passe. 
+Personne n'a suivi. (280) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (grosse blind) a remporté (40)
+Siège 2 : bakkol (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : mahdi66966 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241290122779 : Tournoi #3535384656, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/01/2023 8:35:59 CET [21/01/2023 2:35:59 ET]
+Table '3535384656 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (320 en jetons) 
+Place 2: bakkol (290 en jetons) 
+Place 3: mahdi66966 (290 en jetons) 
+psychoman59 : met la petite blind. 10
+bakkol : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d Ks]
+mahdi66966 : relance. 20 à 40
+psychoman59 : passe. 
+bakkol : suit. 20
+*** FLOP *** [Qc 7h Ts]
+bakkol : parole 
+mahdi66966 : mise. 20
+bakkol : passe. 
+Personne n'a suivi. (20) sont retournés à mahdi66966.
+mahdi66966 a remporté 90  lors du pot .
+mahdi66966 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [Qc 7h Ts]
+Siège 1 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 2 : bakkol (grosse blind) s'est couché. sur le Flop
+Siège 3 : mahdi66966 (bouton) a remporté (90)
+
+
+
+Main PokerStars n°241290129153 : Tournoi #3535384656, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 21/01/2023 8:36:54 CET [21/01/2023 2:36:54 ET]
+Table '3535384656 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (310 en jetons) 
+Place 2: bakkol (250 en jetons) 
+Place 3: mahdi66966 (340 en jetons) 
+bakkol : met la petite blind. 15
+mahdi66966 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Td]
+psychoman59 : relance. 30 à 60
+bakkol : relance. 190 à 250 et est all-in.
+mahdi66966 : suit. 220
+psychoman59 : suit. 190
+*** FLOP *** [9d Ad 5d]
+mahdi66966 : mise. 60
+psychoman59 : suit. 60 et est all-in.
+*** TOURNANT *** [9d Ad 5d] [4s]
+*** RIVIÈRE *** [9d Ad 5d 4s] [Kh]
+*** ABATTAGE ***
+mahdi66966 : montre [Qs Ac] (une paire de As)
+psychoman59 : montre [Qc Td] (Hauteur As)
+mahdi66966 a remporté 120  parallèle lors du pot .
+bakkol : montre [2d 2s] (une paire de Deux)
+mahdi66966 a remporté 750  principal lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+bakkol a fini le tournoi en 3e position.
+mahdi66966 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 870 Principal pot 750. Parallèle pot 120. | Commission 0 
+Tableau [9d Ad 5d 4s Kh]
+Siège 1 : psychoman59 (bouton) a montré [Qc Td] et a perdu avec Hauteur As
+Siège 2 : bakkol (petite blind) a montré [2d 2s] et a perdu avec une paire de Deux
+Siège 3 : mahdi66966 (grosse blind) a montré [Qs Ac] et a gagné (870) avec une paire de As
+
+
+

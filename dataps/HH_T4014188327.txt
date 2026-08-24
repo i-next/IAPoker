@@ -1,0 +1,822 @@
+﻿Main PokerStars n°261362820066 : Tournoi #4014188327, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2026 10:42:46 CET [07/07/2026 4:42:46 ET]
+Table '4014188327 1' 3-max Siège #1 est au bouton.
+Place 1: breezin5 (500 en jetons) 
+Place 2: tailorx (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+tailorx : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 4s]
+breezin5 : relance. 30 à 50
+tailorx : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à breezin5.
+breezin5 a remporté 50  lors du pot .
+breezin5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : breezin5 (bouton) a remporté (50)
+Siège 2 : tailorx (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261362820583 : Tournoi #4014188327, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2026 10:42:54 CET [07/07/2026 4:42:54 ET]
+Table '4014188327 1' 3-max Siège #2 est au bouton.
+Place 1: breezin5 (530 en jetons) 
+Place 2: tailorx (490 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+psychoman59 : met la petite blind. 10
+breezin5 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 8c]
+tailorx : suit. 20
+psychoman59 : suit. 10
+breezin5 : parole 
+*** FLOP *** [Ks 9c 9d]
+psychoman59 : parole 
+breezin5 : parole 
+tailorx : mise. 30
+psychoman59 : passe. 
+breezin5 : suit. 30
+*** TOURNANT *** [Ks 9c 9d] [3d]
+breezin5 : parole 
+tailorx : parole 
+*** RIVIÈRE *** [Ks 9c 9d 3d] [4d]
+breezin5 : mise. 36
+tailorx : suit. 36
+*** ABATTAGE ***
+breezin5 : montre [Kd 7d] (une couleur, hauteur Roi)
+tailorx : cache la main perdante. 
+breezin5 a remporté 192  lors du pot .
+*** SYNTHÈSE ***
+Pot total 192 | Commission 0 
+Tableau [Ks 9c 9d 3d 4d]
+Siège 1 : breezin5 (grosse blind) a montré [Kd 7d] et a gagné (192) avec une couleur, hauteur Roi
+Siège 2 : tailorx (bouton) a caché la main perdante. [As 4c]
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°261362822962 : Tournoi #4014188327, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2026 10:43:32 CET [07/07/2026 4:43:32 ET]
+Table '4014188327 1' 3-max Siège #3 est au bouton.
+Place 1: breezin5 (636 en jetons) 
+Place 2: tailorx (404 en jetons) 
+Place 3: psychoman59 (460 en jetons) 
+breezin5 : met la petite blind. 10
+tailorx : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Qd]
+psychoman59 : suit. 20
+breezin5 : suit. 10
+tailorx : parole 
+*** FLOP *** [3s 9d Jd]
+breezin5 : mise. 30
+tailorx : relance. 30 à 60
+psychoman59 : suit. 60
+breezin5 : suit. 30
+*** TOURNANT *** [3s 9d Jd] [8s]
+breezin5 : parole 
+tailorx : mise. 120
+psychoman59 : relance. 260 à 380 et est all-in.
+breezin5 : passe. 
+tailorx : suit. 204 et est all-in.
+Personne n'a suivi. (56) sont retournés à psychoman59.
+*** RIVIÈRE *** [3s 9d Jd 8s] [8c]
+*** ABATTAGE ***
+tailorx : montre [Jh 9h] (double paire, Valets et Neuf)
+psychoman59 : montre [Ts Qd] (une suite, Huit à Dame)
+psychoman59 a remporté 888  lors du pot .
+tailorx a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 888 | Commission 0 
+Tableau [3s 9d Jd 8s 8c]
+Siège 1 : breezin5 (petite blind) s'est couché. sur le Tournant
+Siège 2 : tailorx (grosse blind) a montré [Jh 9h] et a perdu avec double paire, Valets et Neuf
+Siège 3 : psychoman59 (bouton) a montré [Ts Qd] et a gagné (888) avec une suite, Huit à Dame
+
+
+
+Main PokerStars n°261362825960 : Tournoi #4014188327, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2026 10:44:21 CET [07/07/2026 4:44:21 ET]
+Table '4014188327 1' 3-max Siège #1 est au bouton.
+Place 1: breezin5 (556 en jetons) 
+Place 3: psychoman59 (944 en jetons) 
+breezin5 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 4h]
+breezin5 : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : breezin5 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°261362826238 : Tournoi #4014188327, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2026 10:44:26 CET [07/07/2026 4:44:26 ET]
+Table '4014188327 1' 3-max Siège #3 est au bouton.
+Place 1: breezin5 (546 en jetons) 
+Place 3: psychoman59 (954 en jetons) 
+psychoman59 : met la petite blind. 10
+breezin5 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c As]
+psychoman59 : suit. 10
+breezin5 : parole 
+*** FLOP *** [9s 3c 3s]
+breezin5 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [9s 3c 3s] [9d]
+breezin5 : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [9s 3c 3s 9d] [5s]
+breezin5 : mise. 20
+psychoman59 : suit. 20
+*** ABATTAGE ***
+breezin5 : montre [4s Ad] (double paire, Neuf et Trois)
+psychoman59 : montre [4c As] (double paire, Neuf et Trois)
+breezin5 a remporté 60  lors du pot .
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [9s 3c 3s 9d 5s]
+Siège 1 : breezin5 (grosse blind) a montré [4s Ad] et a gagné (60) avec double paire, Neuf et Trois
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [4c As] et a gagné (60) avec double paire, Neuf et Trois
+
+
+
+Main PokerStars n°261362827377 : Tournoi #4014188327, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2026 10:44:44 CET [07/07/2026 4:44:44 ET]
+Table '4014188327 1' 3-max Siège #1 est au bouton.
+Place 1: breezin5 (546 en jetons) 
+Place 3: psychoman59 (954 en jetons) 
+breezin5 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Qs]
+breezin5 : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : breezin5 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°261362827817 : Tournoi #4014188327, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2026 10:44:51 CET [07/07/2026 4:44:51 ET]
+Table '4014188327 1' 3-max Siège #3 est au bouton.
+Place 1: breezin5 (536 en jetons) 
+Place 3: psychoman59 (964 en jetons) 
+psychoman59 : met la petite blind. 10
+breezin5 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h 2h]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à breezin5.
+breezin5 a remporté 20  lors du pot .
+breezin5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : breezin5 (grosse blind) a remporté (20)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261362828094 : Tournoi #4014188327, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2026 10:44:56 CET [07/07/2026 4:44:56 ET]
+Table '4014188327 1' 3-max Siège #1 est au bouton.
+Place 1: breezin5 (546 en jetons) 
+Place 3: psychoman59 (954 en jetons) 
+breezin5 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3s Td]
+breezin5 : relance. 30 à 50
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à breezin5.
+breezin5 a remporté 40  lors du pot .
+breezin5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : breezin5 (bouton) (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261362828662 : Tournoi #4014188327, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2026 10:45:04 CET [07/07/2026 4:45:04 ET]
+Table '4014188327 1' 3-max Siège #3 est au bouton.
+Place 1: breezin5 (566 en jetons) 
+Place 3: psychoman59 (934 en jetons) 
+psychoman59 : met la petite blind. 10
+breezin5 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h Kd]
+psychoman59 : suit. 10
+breezin5 : parole 
+*** FLOP *** [7s 4c Ac]
+breezin5 : parole 
+psychoman59 : mise. 40
+breezin5 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [7s 4c Ac]
+Siège 1 : breezin5 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°261362829406 : Tournoi #4014188327, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2026 10:45:16 CET [07/07/2026 4:45:16 ET]
+Table '4014188327 1' 3-max Siège #1 est au bouton.
+Place 1: breezin5 (546 en jetons) 
+Place 3: psychoman59 (954 en jetons) 
+breezin5 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 8h]
+breezin5 : relance. 30 à 50
+psychoman59 : suit. 30
+*** FLOP *** [Qh 8c Jd]
+psychoman59 : parole 
+breezin5 : parole 
+*** TOURNANT *** [Qh 8c Jd] [6h]
+psychoman59 : mise. 50
+breezin5 : suit. 50
+*** RIVIÈRE *** [Qh 8c Jd 6h] [7s]
+psychoman59 : mise. 100
+breezin5 : suit. 100
+*** ABATTAGE ***
+psychoman59 : montre [Kd 8h] (une paire de Huit)
+breezin5 : montre [6c 7h] (double paire, Sept et Six)
+breezin5 a remporté 400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [Qh 8c Jd 6h 7s]
+Siège 1 : breezin5 (bouton) (petite blind) a montré [6c 7h] et a gagné (400) avec double paire, Sept et Six
+Siège 3 : psychoman59 (grosse blind) a montré [Kd 8h] et a perdu avec une paire de Huit
+
+
+
+Main PokerStars n°261362831069 : Tournoi #4014188327, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2026 10:45:41 CET [07/07/2026 4:45:41 ET]
+Table '4014188327 1' 3-max Siège #3 est au bouton.
+Place 1: breezin5 (746 en jetons) 
+Place 3: psychoman59 (754 en jetons) 
+psychoman59 : met la petite blind. 10
+breezin5 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Jc]
+psychoman59 : suit. 10
+breezin5 : parole 
+*** FLOP *** [9d 3d 9c]
+breezin5 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [9d 3d 9c] [8c]
+breezin5 : parole 
+psychoman59 : mise. 40
+breezin5 : passe. 
+Personne n'a suivi. (40) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [9d 3d 9c 8c]
+Siège 1 : breezin5 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°261362832187 : Tournoi #4014188327, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2026 10:45:59 CET [07/07/2026 4:45:59 ET]
+Table '4014188327 1' 3-max Siège #1 est au bouton.
+Place 1: breezin5 (726 en jetons) 
+Place 3: psychoman59 (774 en jetons) 
+breezin5 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s 8c]
+breezin5 : relance. 30 à 50
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à breezin5.
+breezin5 a remporté 40  lors du pot .
+breezin5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : breezin5 (bouton) (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261362832675 : Tournoi #4014188327, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2026 10:46:07 CET [07/07/2026 4:46:07 ET]
+Table '4014188327 1' 3-max Siège #3 est au bouton.
+Place 1: breezin5 (746 en jetons) 
+Place 3: psychoman59 (754 en jetons) 
+psychoman59 : met la petite blind. 10
+breezin5 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 5d]
+psychoman59 : suit. 10
+breezin5 : parole 
+*** FLOP *** [Jd Ts Jc]
+breezin5 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Jd Ts Jc] [4d]
+breezin5 : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à breezin5.
+breezin5 a remporté 40  lors du pot .
+breezin5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Jd Ts Jc 4d]
+Siège 1 : breezin5 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°261362833607 : Tournoi #4014188327, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2026 10:46:21 CET [07/07/2026 4:46:21 ET]
+Table '4014188327 1' 3-max Siège #1 est au bouton.
+Place 1: breezin5 (766 en jetons) 
+Place 3: psychoman59 (734 en jetons) 
+breezin5 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 2s]
+breezin5 : passe. 
+Personne n'a suivi. (10) sont retournés à psychoman59.
+psychoman59 a remporté 20  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : breezin5 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (20)
+
+
+
+Main PokerStars n°261362833889 : Tournoi #4014188327, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2026 10:46:25 CET [07/07/2026 4:46:25 ET]
+Table '4014188327 1' 3-max Siège #3 est au bouton.
+Place 1: breezin5 (756 en jetons) 
+Place 3: psychoman59 (744 en jetons) 
+psychoman59 : met la petite blind. 10
+breezin5 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 7h]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à breezin5.
+breezin5 a remporté 20  lors du pot .
+breezin5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : breezin5 (grosse blind) a remporté (20)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261362834209 : Tournoi #4014188327, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2026 10:46:30 CET [07/07/2026 4:46:30 ET]
+Table '4014188327 1' 3-max Siège #1 est au bouton.
+Place 1: breezin5 (766 en jetons) 
+Place 3: psychoman59 (734 en jetons) 
+breezin5 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5d Js]
+breezin5 : relance. 30 à 50
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à breezin5.
+breezin5 a remporté 40  lors du pot .
+breezin5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : breezin5 (bouton) (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261362834734 : Tournoi #4014188327, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2026 10:46:38 CET [07/07/2026 4:46:38 ET]
+Table '4014188327 1' 3-max Siège #3 est au bouton.
+Place 1: breezin5 (786 en jetons) 
+Place 3: psychoman59 (714 en jetons) 
+psychoman59 : met la petite blind. 10
+breezin5 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Jc]
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à breezin5.
+breezin5 a remporté 20  lors du pot .
+breezin5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : breezin5 (grosse blind) a remporté (20)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261362835001 : Tournoi #4014188327, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/07/2026 10:46:42 CET [07/07/2026 4:46:42 ET]
+Table '4014188327 1' 3-max Siège #1 est au bouton.
+Place 1: breezin5 (796 en jetons) 
+Place 3: psychoman59 (704 en jetons) 
+breezin5 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc 2h]
+breezin5 : relance. 30 à 50
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à breezin5.
+breezin5 a remporté 40  lors du pot .
+breezin5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : breezin5 (bouton) (petite blind) a remporté (40)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261362835706 : Tournoi #4014188327, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 07/07/2026 10:46:53 CET [07/07/2026 4:46:53 ET]
+Table '4014188327 1' 3-max Siège #3 est au bouton.
+Place 1: breezin5 (816 en jetons) 
+Place 3: psychoman59 (684 en jetons) 
+psychoman59 : met la petite blind. 15
+breezin5 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 6s]
+psychoman59 : suit. 15
+breezin5 : parole 
+*** FLOP *** [Jd Ac 9h]
+breezin5 : parole 
+psychoman59 : mise. 60
+breezin5 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Jd Ac 9h]
+Siège 1 : breezin5 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°261362836586 : Tournoi #4014188327, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 07/07/2026 10:47:07 CET [07/07/2026 4:47:07 ET]
+Table '4014188327 1' 3-max Siège #1 est au bouton.
+Place 1: breezin5 (786 en jetons) 
+Place 3: psychoman59 (714 en jetons) 
+breezin5 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 6c]
+breezin5 : relance. 45 à 75
+psychoman59 : passe. 
+Personne n'a suivi. (45) sont retournés à breezin5.
+breezin5 a remporté 60  lors du pot .
+breezin5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : breezin5 (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261362837069 : Tournoi #4014188327, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 07/07/2026 10:47:15 CET [07/07/2026 4:47:15 ET]
+Table '4014188327 1' 3-max Siège #3 est au bouton.
+Place 1: breezin5 (816 en jetons) 
+Place 3: psychoman59 (684 en jetons) 
+psychoman59 : met la petite blind. 15
+breezin5 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Js]
+psychoman59 : suit. 15
+breezin5 : parole 
+*** FLOP *** [Ks 2d 3c]
+breezin5 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Ks 2d 3c] [9d]
+breezin5 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à breezin5.
+breezin5 a remporté 60  lors du pot .
+breezin5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Ks 2d 3c 9d]
+Siège 1 : breezin5 (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°261362837924 : Tournoi #4014188327, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 07/07/2026 10:47:28 CET [07/07/2026 4:47:28 ET]
+Table '4014188327 1' 3-max Siège #1 est au bouton.
+Place 1: breezin5 (846 en jetons) 
+Place 3: psychoman59 (654 en jetons) 
+breezin5 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 5c]
+breezin5 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : breezin5 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°261362838218 : Tournoi #4014188327, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 07/07/2026 10:47:33 CET [07/07/2026 4:47:33 ET]
+Table '4014188327 1' 3-max Siège #3 est au bouton.
+Place 1: breezin5 (831 en jetons) 
+Place 3: psychoman59 (669 en jetons) 
+psychoman59 : met la petite blind. 15
+breezin5 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 4d]
+psychoman59 : relance. 639 à 669 et est all-in.
+breezin5 : passe. 
+Personne n'a suivi. (639) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : breezin5 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°261362838666 : Tournoi #4014188327, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 07/07/2026 10:47:40 CET [07/07/2026 4:47:40 ET]
+Table '4014188327 1' 3-max Siège #1 est au bouton.
+Place 1: breezin5 (801 en jetons) 
+Place 3: psychoman59 (699 en jetons) 
+breezin5 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c Jh]
+breezin5 : relance. 45 à 75
+psychoman59 : passe. 
+Personne n'a suivi. (45) sont retournés à breezin5.
+breezin5 a remporté 60  lors du pot .
+breezin5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : breezin5 (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261362839146 : Tournoi #4014188327, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 07/07/2026 10:47:47 CET [07/07/2026 4:47:47 ET]
+Table '4014188327 1' 3-max Siège #3 est au bouton.
+Place 1: breezin5 (831 en jetons) 
+Place 3: psychoman59 (669 en jetons) 
+psychoman59 : met la petite blind. 15
+breezin5 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 3c]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à breezin5.
+breezin5 a remporté 30  lors du pot .
+breezin5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : breezin5 (grosse blind) a remporté (30)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261362839427 : Tournoi #4014188327, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 07/07/2026 10:47:52 CET [07/07/2026 4:47:52 ET]
+Table '4014188327 1' 3-max Siège #1 est au bouton.
+Place 1: breezin5 (846 en jetons) 
+Place 3: psychoman59 (654 en jetons) 
+breezin5 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Qd]
+breezin5 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : breezin5 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°261362839754 : Tournoi #4014188327, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 07/07/2026 10:47:57 CET [07/07/2026 4:47:57 ET]
+Table '4014188327 1' 3-max Siège #3 est au bouton.
+Place 1: breezin5 (831 en jetons) 
+Place 3: psychoman59 (669 en jetons) 
+psychoman59 : met la petite blind. 15
+breezin5 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7c 8d]
+psychoman59 : suit. 15
+breezin5 : parole 
+*** FLOP *** [4c 3s 5d]
+breezin5 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [4c 3s 5d] [9h]
+breezin5 : parole 
+psychoman59 : mise. 60
+breezin5 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [4c 3s 5d 9h]
+Siège 1 : breezin5 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°261362840803 : Tournoi #4014188327, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 07/07/2026 10:48:13 CET [07/07/2026 4:48:13 ET]
+Table '4014188327 1' 3-max Siège #1 est au bouton.
+Place 1: breezin5 (801 en jetons) 
+Place 3: psychoman59 (699 en jetons) 
+breezin5 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Jc]
+breezin5 : relance. 45 à 75
+psychoman59 : relance. 624 à 699 et est all-in.
+breezin5 : passe. 
+Personne n'a suivi. (624) sont retournés à psychoman59.
+psychoman59 a remporté 150  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Siège 1 : breezin5 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (150)
+
+
+
+Main PokerStars n°261362841804 : Tournoi #4014188327, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 07/07/2026 10:48:29 CET [07/07/2026 4:48:29 ET]
+Table '4014188327 1' 3-max Siège #3 est au bouton.
+Place 1: breezin5 (726 en jetons) 
+Place 3: psychoman59 (774 en jetons) 
+psychoman59 : met la petite blind. 15
+breezin5 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Js]
+psychoman59 : suit. 15
+breezin5 : parole 
+*** FLOP *** [7s Ah 8s]
+breezin5 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [7s Ah 8s] [Tc]
+breezin5 : parole 
+psychoman59 : mise. 60
+breezin5 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [7s Ah 8s Tc]
+Siège 1 : breezin5 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°261362842810 : Tournoi #4014188327, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 07/07/2026 10:48:45 CET [07/07/2026 4:48:45 ET]
+Table '4014188327 1' 3-max Siège #1 est au bouton.
+Place 1: breezin5 (696 en jetons) 
+Place 3: psychoman59 (804 en jetons) 
+breezin5 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 6s]
+breezin5 : relance. 45 à 75
+psychoman59 : passe. 
+Personne n'a suivi. (45) sont retournés à breezin5.
+breezin5 a remporté 60  lors du pot .
+breezin5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : breezin5 (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261362843275 : Tournoi #4014188327, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 07/07/2026 10:48:52 CET [07/07/2026 4:48:52 ET]
+Table '4014188327 1' 3-max Siège #3 est au bouton.
+Place 1: breezin5 (726 en jetons) 
+Place 3: psychoman59 (774 en jetons) 
+psychoman59 : met la petite blind. 15
+breezin5 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 9s]
+psychoman59 : suit. 15
+breezin5 : parole 
+*** FLOP *** [Th 4c 8s]
+breezin5 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Th 4c 8s] [Kd]
+breezin5 : parole 
+psychoman59 : mise. 60
+breezin5 : passe. 
+Personne n'a suivi. (60) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Th 4c 8s Kd]
+Siège 1 : breezin5 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°261362844249 : Tournoi #4014188327, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 07/07/2026 10:49:07 CET [07/07/2026 4:49:07 ET]
+Table '4014188327 1' 3-max Siège #1 est au bouton.
+Place 1: breezin5 (696 en jetons) 
+Place 3: psychoman59 (804 en jetons) 
+breezin5 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 4h]
+breezin5 : passe. 
+Personne n'a suivi. (15) sont retournés à psychoman59.
+psychoman59 a remporté 30  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : breezin5 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°261362844541 : Tournoi #4014188327, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 07/07/2026 10:49:12 CET [07/07/2026 4:49:12 ET]
+Table '4014188327 1' 3-max Siège #3 est au bouton.
+Place 1: breezin5 (681 en jetons) 
+Place 3: psychoman59 (819 en jetons) 
+psychoman59 : met la petite blind. 15
+breezin5 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 7c]
+psychoman59 : relance. 789 à 819 et est all-in.
+breezin5 : suit. 651 et est all-in.
+Personne n'a suivi. (138) sont retournés à psychoman59.
+*** FLOP *** [Ts Jc 2d]
+*** TOURNANT *** [Ts Jc 2d] [9d]
+*** RIVIÈRE *** [Ts Jc 2d 9d] [Th]
+*** ABATTAGE ***
+breezin5 : montre [Tc Kc] (un brelan de Dix)
+psychoman59 : montre [7s 7c] (double paire, Dix et Sept)
+breezin5 a remporté 1362  lors du pot .
+*** SYNTHÈSE ***
+Pot total 1362 | Commission 0 
+Tableau [Ts Jc 2d 9d Th]
+Siège 1 : breezin5 (grosse blind) a montré [Tc Kc] et a gagné (1362) avec un brelan de Dix
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [7s 7c] et a perdu avec double paire, Dix et Sept
+
+
+
+Main PokerStars n°261362845370 : Tournoi #4014188327, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 07/07/2026 10:49:25 CET [07/07/2026 4:49:25 ET]
+Table '4014188327 1' 3-max Siège #1 est au bouton.
+Place 1: breezin5 (1362 en jetons) 
+Place 3: psychoman59 (138 en jetons) 
+breezin5 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 3s]
+breezin5 : relance. 45 à 75
+psychoman59 : passe. 
+Personne n'a suivi. (45) sont retournés à breezin5.
+breezin5 a remporté 60  lors du pot .
+breezin5 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : breezin5 (bouton) (petite blind) a remporté (60)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°261362845991 : Tournoi #4014188327, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 07/07/2026 10:49:35 CET [07/07/2026 4:49:35 ET]
+Table '4014188327 1' 3-max Siège #3 est au bouton.
+Place 1: breezin5 (1392 en jetons) 
+Place 3: psychoman59 (108 en jetons) 
+psychoman59 : met la petite blind. 15
+breezin5 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Ad]
+psychoman59 : relance. 78 à 108 et est all-in.
+breezin5 : suit. 78
+*** FLOP *** [2d Qc 8s]
+*** TOURNANT *** [2d Qc 8s] [3h]
+*** RIVIÈRE *** [2d Qc 8s 3h] [5s]
+*** ABATTAGE ***
+breezin5 : montre [Qs 6d] (une paire de Dames)
+psychoman59 : montre [6s Ad] (Hauteur As)
+breezin5 a remporté 216  lors du pot .
+psychoman59 a fini le tournoi à la 2e place et a reçu 2.00 €.
+breezin5 remporte le tournoi et reçoit 8.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 216 | Commission 0 
+Tableau [2d Qc 8s 3h 5s]
+Siège 1 : breezin5 (grosse blind) a montré [Qs 6d] et a gagné (216) avec une paire de Dames
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [6s Ad] et a perdu avec Hauteur As
+
+
+

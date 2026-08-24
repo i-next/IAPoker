@@ -1,0 +1,419 @@
+﻿Main PokerStars n°241290219401 : Tournoi #3535387298, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/01/2023 8:49:53 CET [21/01/2023 2:49:53 ET]
+Table '3535387298 1' 3-max Siège #1 est au bouton.
+Place 1: questewige (300 en jetons) 
+Place 2: Vaness18 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+Vaness18 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd Js]
+questewige : relance. 40 à 60
+Vaness18 : passe. 
+psychoman59 : suit. 40
+*** FLOP *** [As 9d 6s]
+psychoman59 : parole 
+questewige : mise. 65
+psychoman59 : passe. 
+Personne n'a suivi. (65) sont retournés à questewige.
+questewige a remporté 130  lors du pot .
+*** SYNTHÈSE ***
+Pot total 130 | Commission 0 
+Tableau [As 9d 6s]
+Siège 1 : questewige (bouton) a remporté (130)
+Siège 2 : Vaness18 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°241290221470 : Tournoi #3535387298, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/01/2023 8:50:11 CET [21/01/2023 2:50:11 ET]
+Table '3535387298 1' 3-max Siège #2 est au bouton.
+Place 1: questewige (370 en jetons) 
+Place 2: Vaness18 (290 en jetons) 
+Place 3: psychoman59 (240 en jetons) 
+psychoman59 : met la petite blind. 10
+questewige : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Jh]
+Vaness18 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à questewige.
+questewige a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : questewige (grosse blind) a remporté (20)
+Siège 2 : Vaness18 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241290222079 : Tournoi #3535387298, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/01/2023 8:50:16 CET [21/01/2023 2:50:16 ET]
+Table '3535387298 1' 3-max Siège #3 est au bouton.
+Place 1: questewige (380 en jetons) 
+Place 2: Vaness18 (290 en jetons) 
+Place 3: psychoman59 (230 en jetons) 
+questewige : met la petite blind. 10
+Vaness18 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 7h]
+psychoman59 : passe. 
+questewige : suit. 10
+Vaness18 : parole 
+*** FLOP *** [5d As 6h]
+questewige : parole 
+Vaness18 : parole 
+*** TOURNANT *** [5d As 6h] [Ad]
+questewige : parole 
+Vaness18 : mise. 40
+questewige : suit. 40
+*** RIVIÈRE *** [5d As 6h Ad] [Jd]
+questewige : parole 
+Vaness18 : mise. 120
+questewige : passe. 
+Personne n'a suivi. (120) sont retournés à Vaness18.
+Vaness18 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [5d As 6h Ad Jd]
+Siège 1 : questewige (petite blind) s'est couché. sur le Rivière
+Siège 2 : Vaness18 (grosse blind) a remporté (120)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°241290225004 : Tournoi #3535387298, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 21/01/2023 8:50:42 CET [21/01/2023 2:50:42 ET]
+Table '3535387298 1' 3-max Siège #1 est au bouton.
+Place 1: questewige (320 en jetons) 
+Place 2: Vaness18 (350 en jetons) 
+Place 3: psychoman59 (230 en jetons) 
+Vaness18 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 7c]
+questewige : suit. 20
+Vaness18 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [4h Tc 8d]
+Vaness18 : parole 
+psychoman59 : parole 
+questewige : parole 
+*** TOURNANT *** [4h Tc 8d] [Kh]
+Vaness18 : parole 
+psychoman59 : parole 
+questewige : parole 
+*** RIVIÈRE *** [4h Tc 8d Kh] [9h]
+Vaness18 : parole 
+psychoman59 : mise. 60
+questewige : relance. 60 à 120
+Vaness18 : passe. 
+psychoman59 : suit. 60
+*** ABATTAGE ***
+questewige : montre [7h Kc] (une paire de Rois)
+psychoman59 : montre [Ks 7c] (une paire de Rois)
+psychoman59 a remporté 150  lors du pot .
+questewige a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [4h Tc 8d Kh 9h]
+Siège 1 : questewige (bouton) a montré [7h Kc] et a gagné (150) avec une paire de Rois
+Siège 2 : Vaness18 (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) a montré [Ks 7c] et a gagné (150) avec une paire de Rois
+
+
+
+Main PokerStars n°241290228229 : Tournoi #3535387298, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 21/01/2023 8:51:10 CET [21/01/2023 2:51:10 ET]
+Table '3535387298 1' 3-max Siège #2 est au bouton.
+Place 1: questewige (330 en jetons) 
+Place 2: Vaness18 (330 en jetons) 
+Place 3: psychoman59 (240 en jetons) 
+psychoman59 : met la petite blind. 15
+questewige : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 4h]
+Vaness18 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à questewige.
+questewige a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : questewige (grosse blind) a remporté (30)
+Siège 2 : Vaness18 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241290228817 : Tournoi #3535387298, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 21/01/2023 8:51:15 CET [21/01/2023 2:51:15 ET]
+Table '3535387298 1' 3-max Siège #3 est au bouton.
+Place 1: questewige (345 en jetons) 
+Place 2: Vaness18 (330 en jetons) 
+Place 3: psychoman59 (225 en jetons) 
+questewige : met la petite blind. 15
+Vaness18 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah Ac]
+psychoman59 : relance. 30 à 60
+questewige : suit. 45
+Vaness18 : passe. 
+*** FLOP *** [Qd 3c 3d]
+questewige : parole 
+psychoman59 : mise. 30
+questewige : relance. 255 à 285 et est all-in.
+psychoman59 : suit. 135 et est all-in.
+Personne n'a suivi. (120) sont retournés à questewige.
+*** TOURNANT *** [Qd 3c 3d] [4c]
+*** RIVIÈRE *** [Qd 3c 3d 4c] [9s]
+*** ABATTAGE ***
+questewige : montre [8s Qh] (double paire, Dames et Trois)
+psychoman59 : montre [Ah Ac] (double paire, As et Trois)
+psychoman59 a remporté 480  lors du pot .
+*** SYNTHÈSE ***
+Pot total 480 | Commission 0 
+Tableau [Qd 3c 3d 4c 9s]
+Siège 1 : questewige (petite blind) a montré [8s Qh] et a perdu avec double paire, Dames et Trois
+Siège 2 : Vaness18 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a montré [Ah Ac] et a gagné (480) avec double paire, As et Trois
+
+
+
+Main PokerStars n°241290231315 : Tournoi #3535387298, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 21/01/2023 8:51:36 CET [21/01/2023 2:51:36 ET]
+Table '3535387298 1' 3-max Siège #1 est au bouton.
+Place 1: questewige (120 en jetons) 
+Place 2: Vaness18 (300 en jetons) 
+Place 3: psychoman59 (480 en jetons) 
+Vaness18 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 5d]
+questewige : suit. 30
+Vaness18 : passe. 
+psychoman59 : parole 
+*** FLOP *** [3h Ac Qd]
+psychoman59 : parole 
+questewige : parole 
+*** TOURNANT *** [3h Ac Qd] [7d]
+psychoman59 : parole 
+questewige : parole 
+*** RIVIÈRE *** [3h Ac Qd 7d] [Td]
+psychoman59 : parole 
+questewige : mise. 90 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (90) sont retournés à questewige.
+questewige a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Tableau [3h Ac Qd 7d Td]
+Siège 1 : questewige (bouton) a remporté (75)
+Siège 2 : Vaness18 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°241290234226 : Tournoi #3535387298, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 21/01/2023 8:52:01 CET [21/01/2023 2:52:01 ET]
+Table '3535387298 1' 3-max Siège #2 est au bouton.
+Place 1: questewige (165 en jetons) 
+Place 2: Vaness18 (285 en jetons) 
+Place 3: psychoman59 (450 en jetons) 
+psychoman59 : met la petite blind. 20
+questewige : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 2c]
+Vaness18 : relance. 245 à 285 et est all-in.
+psychoman59 : passe. 
+questewige : suit. 125 et est all-in.
+Personne n'a suivi. (120) sont retournés à Vaness18.
+*** FLOP *** [3d 9s Kh]
+*** TOURNANT *** [3d 9s Kh] [6c]
+*** RIVIÈRE *** [3d 9s Kh 6c] [Th]
+*** ABATTAGE ***
+questewige : montre [Jc Ks] (une paire de Rois)
+Vaness18 : montre [As Qs] (Hauteur As)
+questewige a remporté 350  lors du pot .
+*** SYNTHÈSE ***
+Pot total 350 | Commission 0 
+Tableau [3d 9s Kh 6c Th]
+Siège 1 : questewige (grosse blind) a montré [Jc Ks] et a gagné (350) avec une paire de Rois
+Siège 2 : Vaness18 (bouton) a montré [As Qs] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241290235813 : Tournoi #3535387298, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 21/01/2023 8:52:15 CET [21/01/2023 2:52:15 ET]
+Table '3535387298 1' 3-max Siège #3 est au bouton.
+Place 1: questewige (350 en jetons) 
+Place 2: Vaness18 (120 en jetons) 
+Place 3: psychoman59 (430 en jetons) 
+questewige : met la petite blind. 20
+Vaness18 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 8h]
+psychoman59 : suit. 40
+questewige : passe. 
+Vaness18 : parole 
+*** FLOP *** [9s 2d 8c]
+Vaness18 : mise. 80 et est all-in.
+psychoman59 : suit. 80
+*** TOURNANT *** [9s 2d 8c] [Ac]
+*** RIVIÈRE *** [9s 2d 8c Ac] [Qc]
+*** ABATTAGE ***
+Vaness18 : montre [5s Kc] (Hauteur As)
+psychoman59 : montre [Qs 8h] (double paire, Dames et Huit)
+psychoman59 a remporté 260  lors du pot .
+Vaness18 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 260 | Commission 0 
+Tableau [9s 2d 8c Ac Qc]
+Siège 1 : questewige (petite blind) s'est couché. avant Flop
+Siège 2 : Vaness18 (grosse blind) a montré [5s Kc] et a perdu avec Hauteur As
+Siège 3 : psychoman59 (bouton) a montré [Qs 8h] et a gagné (260) avec double paire, Dames et Huit
+
+
+
+Main PokerStars n°241290238307 : Tournoi #3535387298, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 21/01/2023 8:52:36 CET [21/01/2023 2:52:36 ET]
+Table '3535387298 1' 3-max Siège #1 est au bouton.
+Place 1: questewige (330 en jetons) 
+Place 3: psychoman59 (570 en jetons) 
+questewige : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 9c]
+questewige : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : questewige (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°241290238819 : Tournoi #3535387298, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 21/01/2023 8:52:40 CET [21/01/2023 2:52:40 ET]
+Table '3535387298 1' 3-max Siège #3 est au bouton.
+Place 1: questewige (310 en jetons) 
+Place 3: psychoman59 (590 en jetons) 
+psychoman59 : met la petite blind. 20
+questewige : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 2h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à questewige.
+questewige a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : questewige (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241290239453 : Tournoi #3535387298, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 21/01/2023 8:52:45 CET [21/01/2023 2:52:45 ET]
+Table '3535387298 1' 3-max Siège #1 est au bouton.
+Place 1: questewige (330 en jetons) 
+Place 3: psychoman59 (570 en jetons) 
+questewige : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 7h]
+questewige : relance. 290 à 330 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (290) sont retournés à questewige.
+questewige a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : questewige (bouton) (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241290240308 : Tournoi #3535387298, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 21/01/2023 8:52:53 CET [21/01/2023 2:52:53 ET]
+Table '3535387298 1' 3-max Siège #3 est au bouton.
+Place 1: questewige (370 en jetons) 
+Place 3: psychoman59 (530 en jetons) 
+psychoman59 : met la petite blind. 20
+questewige : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 9d]
+psychoman59 : relance. 40 à 80
+questewige : relance. 80 à 160
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à questewige.
+questewige a remporté 160  lors du pot .
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Siège 1 : questewige (grosse blind) a remporté (160)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241290242255 : Tournoi #3535387298, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 21/01/2023 8:53:09 CET [21/01/2023 2:53:09 ET]
+Table '3535387298 1' 3-max Siège #1 est au bouton.
+Place 1: questewige (450 en jetons) 
+Place 3: psychoman59 (450 en jetons) 
+questewige : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 2s]
+questewige : suit. 30
+psychoman59 : relance. 390 à 450 et est all-in.
+questewige : passe. 
+Personne n'a suivi. (390) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : questewige (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (120)
+
+
+
+Main PokerStars n°241290243592 : Tournoi #3535387298, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 21/01/2023 8:53:21 CET [21/01/2023 2:53:21 ET]
+Table '3535387298 1' 3-max Siège #3 est au bouton.
+Place 1: questewige (390 en jetons) 
+Place 3: psychoman59 (510 en jetons) 
+psychoman59 : met la petite blind. 30
+questewige : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 7h]
+psychoman59 : relance. 450 à 510 et est all-in.
+questewige : suit. 330 et est all-in.
+Personne n'a suivi. (120) sont retournés à psychoman59.
+*** FLOP *** [8h Td Qd]
+*** TOURNANT *** [8h Td Qd] [Js]
+*** RIVIÈRE *** [8h Td Qd Js] [Tc]
+*** ABATTAGE ***
+questewige : montre [8c Ks] (double paire, Dix et Huit)
+psychoman59 : montre [Kc 7h] (une paire de Dix)
+questewige a remporté 780  lors du pot .
+*** SYNTHÈSE ***
+Pot total 780 | Commission 0 
+Tableau [8h Td Qd Js Tc]
+Siège 1 : questewige (grosse blind) a montré [8c Ks] et a gagné (780) avec double paire, Dix et Huit
+Siège 3 : psychoman59 (bouton) (petite blind) a montré [Kc 7h] et a perdu avec une paire de Dix
+
+
+
+Main PokerStars n°241290245353 : Tournoi #3535387298, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 21/01/2023 8:53:36 CET [21/01/2023 2:53:36 ET]
+Table '3535387298 1' 3-max Siège #1 est au bouton.
+Place 1: questewige (780 en jetons) 
+Place 3: psychoman59 (120 en jetons) 
+questewige : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Jd]
+questewige : relance. 60 à 120
+psychoman59 : suit. 60 et est all-in.
+*** FLOP *** [Td Ks 4c]
+*** TOURNANT *** [Td Ks 4c] [4h]
+*** RIVIÈRE *** [Td Ks 4c 4h] [As]
+*** ABATTAGE ***
+psychoman59 : montre [Kc Jd] (double paire, Rois et Quatre)
+questewige : montre [Qh Jc] (une suite, Dix à As)
+questewige a remporté 240  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+questewige remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [Td Ks 4c 4h As]
+Siège 1 : questewige (bouton) (petite blind) a montré [Qh Jc] et a gagné (240) avec une suite, Dix à As
+Siège 3 : psychoman59 (grosse blind) a montré [Kc Jd] et a perdu avec double paire, Rois et Quatre
+
+
+

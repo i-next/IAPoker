@@ -1,0 +1,325 @@
+﻿Main PokerStars n°241019326567 : Tournoi #3529125779, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 09/01/2023 9:10:35 CET [09/01/2023 3:10:35 ET]
+Table '3529125779 1' 3-max Siège #1 est au bouton.
+Place 1: yannyann b (300 en jetons) 
+Place 2: suertte58 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+suertte58 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Ts]
+yannyann b : passe. 
+suertte58 : relance. 20 à 40
+psychoman59 : suit. 20
+*** FLOP *** [3s 5s Ah]
+suertte58 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3s 5s Ah] [Tc]
+suertte58 : mise. 60
+psychoman59 : suit. 60
+*** RIVIÈRE *** [3s 5s Ah Tc] [8s]
+suertte58 : parole 
+psychoman59 : mise. 70
+suertte58 : passe. 
+Personne n'a suivi. (70) sont retournés à psychoman59.
+psychoman59 a remporté 200  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 200 | Commission 0 
+Tableau [3s 5s Ah Tc 8s]
+Siège 1 : yannyann b (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : suertte58 (petite blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (grosse blind) a remporté (200)
+
+
+
+Main PokerStars n°241019331087 : Tournoi #3529125779, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 09/01/2023 9:11:20 CET [09/01/2023 3:11:20 ET]
+Table '3529125779 1' 3-max Siège #2 est au bouton.
+Place 1: yannyann b (300 en jetons) 
+Place 2: suertte58 (200 en jetons) 
+Place 3: psychoman59 (400 en jetons) 
+psychoman59 : met la petite blind. 10
+yannyann b : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 2c]
+suertte58 : relance. 180 à 200 et est all-in.
+psychoman59 : passe. 
+yannyann b : passe. 
+Personne n'a suivi. (180) sont retournés à suertte58.
+suertte58 a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : yannyann b (grosse blind) s'est couché. avant Flop
+Siège 2 : suertte58 (bouton) a remporté (50)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241019332706 : Tournoi #3529125779, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 09/01/2023 9:11:35 CET [09/01/2023 3:11:35 ET]
+Table '3529125779 1' 3-max Siège #3 est au bouton.
+Place 1: yannyann b (280 en jetons) 
+Place 2: suertte58 (230 en jetons) 
+Place 3: psychoman59 (390 en jetons) 
+yannyann b : met la petite blind. 10
+suertte58 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 2d]
+psychoman59 : passe. 
+yannyann b : relance. 260 à 280 et est all-in.
+suertte58 : suit. 210 et est all-in.
+Personne n'a suivi. (50) sont retournés à yannyann b.
+*** FLOP *** [9h 3h 8d]
+*** TOURNANT *** [9h 3h 8d] [Kc]
+*** RIVIÈRE *** [9h 3h 8d Kc] [Qc]
+*** ABATTAGE ***
+yannyann b : montre [8c Ad] (une paire de Huit)
+suertte58 : montre [Qs Qh] (un brelan de Dames)
+suertte58 a remporté 460  lors du pot .
+*** SYNTHÈSE ***
+Pot total 460 | Commission 0 
+Tableau [9h 3h 8d Kc Qc]
+Siège 1 : yannyann b (petite blind) a montré [8c Ad] et a perdu avec une paire de Huit
+Siège 2 : suertte58 (grosse blind) a montré [Qs Qh] et a gagné (460) avec un brelan de Dames
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°241019334813 : Tournoi #3529125779, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 09/01/2023 9:11:55 CET [09/01/2023 3:11:55 ET]
+Table '3529125779 1' 3-max Siège #1 est au bouton.
+Place 1: yannyann b (50 en jetons) 
+Place 2: suertte58 (460 en jetons) 
+Place 3: psychoman59 (390 en jetons) 
+suertte58 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3c 9c]
+yannyann b : relance. 20 à 50 et est all-in.
+suertte58 : passe. 
+psychoman59 : suit. 20
+*** FLOP *** [Ah 2s 2h]
+*** TOURNANT *** [Ah 2s 2h] [2c]
+*** RIVIÈRE *** [Ah 2s 2h 2c] [7s]
+*** ABATTAGE ***
+psychoman59 : montre [3c 9c] (un brelan de Deux)
+yannyann b : montre [9h 5h] (un brelan de Deux)
+psychoman59 a remporté 58  lors du pot .
+yannyann b a remporté 57  lors du pot .
+*** SYNTHÈSE ***
+Pot total 115 | Commission 0 
+Tableau [Ah 2s 2h 2c 7s]
+Siège 1 : yannyann b (bouton) a montré [9h 5h] et a gagné (57) avec un brelan de Deux
+Siège 2 : suertte58 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a montré [3c 9c] et a gagné (58) avec un brelan de Deux
+
+
+
+Main PokerStars n°241019337180 : Tournoi #3529125779, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 09/01/2023 9:12:19 CET [09/01/2023 3:12:19 ET]
+Table '3529125779 1' 3-max Siège #2 est au bouton.
+Place 1: yannyann b (57 en jetons) 
+Place 2: suertte58 (445 en jetons) 
+Place 3: psychoman59 (398 en jetons) 
+psychoman59 : met la petite blind. 15
+yannyann b : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Jd]
+suertte58 : passe. 
+psychoman59 : relance. 30 à 60
+yannyann b : suit. 27 et est all-in.
+Personne n'a suivi. (3) sont retournés à psychoman59.
+*** FLOP *** [Ad 4d 3h]
+*** TOURNANT *** [Ad 4d 3h] [4c]
+*** RIVIÈRE *** [Ad 4d 3h 4c] [8s]
+*** ABATTAGE ***
+psychoman59 : montre [Td Jd] (une paire de Quatre)
+yannyann b : montre [Ks 7d] (une paire de Quatre - As+Roi kicker)
+yannyann b a remporté 114  lors du pot .
+*** SYNTHÈSE ***
+Pot total 114 | Commission 0 
+Tableau [Ad 4d 3h 4c 8s]
+Siège 1 : yannyann b (grosse blind) a montré [Ks 7d] et a gagné (114) avec une paire de Quatre
+Siège 2 : suertte58 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [Td Jd] et a perdu avec une paire de Quatre
+
+
+
+Main PokerStars n°241019338716 : Tournoi #3529125779, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 09/01/2023 9:12:34 CET [09/01/2023 3:12:34 ET]
+Table '3529125779 1' 3-max Siège #3 est au bouton.
+Place 1: yannyann b (114 en jetons) 
+Place 2: suertte58 (445 en jetons) 
+Place 3: psychoman59 (341 en jetons) 
+yannyann b : met la petite blind. 15
+suertte58 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Td]
+psychoman59 : passe. 
+yannyann b : relance. 84 à 114 et est all-in.
+suertte58 : passe. 
+Personne n'a suivi. (84) sont retournés à yannyann b.
+yannyann b a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 1 : yannyann b (petite blind) a remporté (60)
+Siège 2 : suertte58 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°241019340246 : Tournoi #3529125779, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 09/01/2023 9:12:49 CET [09/01/2023 3:12:49 ET]
+Table '3529125779 1' 3-max Siège #1 est au bouton.
+Place 1: yannyann b (144 en jetons) 
+Place 2: suertte58 (415 en jetons) 
+Place 3: psychoman59 (341 en jetons) 
+suertte58 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 3h]
+yannyann b : relance. 104 à 144 et est all-in.
+suertte58 : relance. 104 à 248
+psychoman59 : passe. 
+Personne n'a suivi. (104) sont retournés à suertte58.
+*** FLOP *** [9c 9s Jh]
+*** TOURNANT *** [9c 9s Jh] [Js]
+*** RIVIÈRE *** [9c 9s Jh Js] [5h]
+*** ABATTAGE ***
+suertte58 : montre [5c Ac] (double paire, Valets et Neuf)
+yannyann b : montre [8c Qd] (double paire, Valets et Neuf - plus basse kicker)
+suertte58 a remporté 328  lors du pot .
+yannyann b a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 328 | Commission 0 
+Tableau [9c 9s Jh Js 5h]
+Siège 1 : yannyann b (bouton) a montré [8c Qd] et a perdu avec double paire, Valets et Neuf
+Siège 2 : suertte58 (petite blind) a montré [5c Ac] et a gagné (328) avec double paire, Valets et Neuf
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241019342406 : Tournoi #3529125779, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 09/01/2023 9:13:10 CET [09/01/2023 3:13:10 ET]
+Table '3529125779 1' 3-max Siège #3 est au bouton.
+Place 2: suertte58 (599 en jetons) 
+Place 3: psychoman59 (301 en jetons) 
+psychoman59 : met la petite blind. 20
+suertte58 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 6d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à suertte58.
+suertte58 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : suertte58 (grosse blind) a remporté (40)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241019342985 : Tournoi #3529125779, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 09/01/2023 9:13:16 CET [09/01/2023 3:13:16 ET]
+Table '3529125779 1' 3-max Siège #2 est au bouton.
+Place 2: suertte58 (619 en jetons) 
+Place 3: psychoman59 (281 en jetons) 
+suertte58 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Kd]
+suertte58 : suit. 20
+psychoman59 : relance. 241 à 281 et est all-in.
+suertte58 : suit. 241
+*** FLOP *** [8s 7s 6s]
+*** TOURNANT *** [8s 7s 6s] [Tc]
+*** RIVIÈRE *** [8s 7s 6s Tc] [9h]
+*** ABATTAGE ***
+psychoman59 : montre [9s Kd] (une suite, Six à Dix)
+suertte58 : montre [7h 6c] (une suite, Six à Dix)
+psychoman59 a remporté 281  lors du pot .
+suertte58 a remporté 281  lors du pot .
+*** SYNTHÈSE ***
+Pot total 562 | Commission 0 
+Tableau [8s 7s 6s Tc 9h]
+Siège 2 : suertte58 (bouton) (petite blind) a montré [7h 6c] et a gagné (281) avec une suite, Six à Dix
+Siège 3 : psychoman59 (grosse blind) a montré [9s Kd] et a gagné (281) avec une suite, Six à Dix
+
+
+
+Main PokerStars n°241019345572 : Tournoi #3529125779, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 09/01/2023 9:13:41 CET [09/01/2023 3:13:41 ET]
+Table '3529125779 1' 3-max Siège #3 est au bouton.
+Place 2: suertte58 (619 en jetons) 
+Place 3: psychoman59 (281 en jetons) 
+psychoman59 : met la petite blind. 30
+suertte58 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Td]
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à suertte58.
+suertte58 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : suertte58 (grosse blind) a remporté (60)
+Siège 3 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241019346108 : Tournoi #3529125779, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 09/01/2023 9:13:46 CET [09/01/2023 3:13:46 ET]
+Table '3529125779 1' 3-max Siège #2 est au bouton.
+Place 2: suertte58 (649 en jetons) 
+Place 3: psychoman59 (251 en jetons) 
+suertte58 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Qd]
+suertte58 : passe. 
+Personne n'a suivi. (30) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : suertte58 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°241019347088 : Tournoi #3529125779, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 09/01/2023 9:13:56 CET [09/01/2023 3:13:56 ET]
+Table '3529125779 1' 3-max Siège #3 est au bouton.
+Place 2: suertte58 (619 en jetons) 
+Place 3: psychoman59 (281 en jetons) 
+psychoman59 : met la petite blind. 30
+suertte58 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 3d]
+psychoman59 : relance. 221 à 281 et est all-in.
+suertte58 : passe. 
+Personne n'a suivi. (221) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 2 : suertte58 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°241019348086 : Tournoi #3529125779, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 09/01/2023 9:14:05 CET [09/01/2023 3:14:05 ET]
+Table '3529125779 1' 3-max Siège #2 est au bouton.
+Place 2: suertte58 (559 en jetons) 
+Place 3: psychoman59 (341 en jetons) 
+suertte58 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Kd]
+suertte58 : relance. 499 à 559 et est all-in.
+psychoman59 : suit. 281 et est all-in.
+Personne n'a suivi. (218) sont retournés à suertte58.
+*** FLOP *** [6c 8c Jc]
+*** TOURNANT *** [6c 8c Jc] [8h]
+*** RIVIÈRE *** [6c 8c Jc 8h] [7s]
+*** ABATTAGE ***
+psychoman59 : montre [Qh Kd] (une paire de Huit)
+suertte58 : montre [6h Ad] (double paire, Huit et Six)
+suertte58 a remporté 682  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+suertte58 remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 682 | Commission 0 
+Tableau [6c 8c Jc 8h 7s]
+Siège 2 : suertte58 (bouton) (petite blind) a montré [6h Ad] et a gagné (682) avec double paire, Huit et Six
+Siège 3 : psychoman59 (grosse blind) a montré [Qh Kd] et a perdu avec une paire de Huit
+
+
+

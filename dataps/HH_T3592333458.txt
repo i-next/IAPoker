@@ -1,0 +1,291 @@
+﻿Main PokerStars n°243738862173 : Tournoi #3592333458, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 17/05/2023 7:16:25 CET [17/05/2023 1:16:25 ET]
+Table '3592333458 1' 3-max Siège #1 est au bouton.
+Place 1: ortega4240 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: Maynaar (300 en jetons) 
+psychoman59 : met la petite blind. 10
+Maynaar : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Kc]
+ortega4240 : suit. 20
+psychoman59 : suit. 10
+Maynaar : parole 
+*** FLOP *** [5s 8c 8d]
+psychoman59 : parole 
+Maynaar : parole 
+ortega4240 : parole 
+*** TOURNANT *** [5s 8c 8d] [Ah]
+psychoman59 : parole 
+Maynaar : parole 
+ortega4240 : parole 
+*** RIVIÈRE *** [5s 8c 8d Ah] [7s]
+psychoman59 : parole 
+Maynaar : parole 
+ortega4240 : mise. 60
+psychoman59 : passe. 
+Maynaar : passe. 
+Personne n'a suivi. (60) sont retournés à ortega4240.
+ortega4240 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [5s 8c 8d Ah 7s]
+Siège 1 : ortega4240 (bouton) a remporté (60)
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Rivière
+Siège 3 : Maynaar (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°243738867190 : Tournoi #3592333458, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 17/05/2023 7:17:12 CET [17/05/2023 1:17:12 ET]
+Table '3592333458 1' 3-max Siège #2 est au bouton.
+Place 1: ortega4240 (340 en jetons) 
+Place 2: psychoman59 (280 en jetons) 
+Place 3: Maynaar (280 en jetons) 
+Maynaar : met la petite blind. 10
+ortega4240 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d Qc]
+psychoman59 : passe. 
+Maynaar : relance. 260 à 280 et est all-in.
+ortega4240 : suit. 260
+*** FLOP *** [5c 6c Jc]
+*** TOURNANT *** [5c 6c Jc] [6h]
+*** RIVIÈRE *** [5c 6c Jc 6h] [Jd]
+*** ABATTAGE ***
+Maynaar : montre [4d 4s] (double paire, Valets et Six)
+ortega4240 : montre [9c Ah] (double paire, Valets et Six - As kicker)
+ortega4240 a remporté 560  lors du pot .
+Maynaar a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [5c 6c Jc 6h Jd]
+Siège 1 : ortega4240 (grosse blind) a montré [9c Ah] et a gagné (560) avec double paire, Valets et Six
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Maynaar (petite blind) a montré [4d 4s] et a perdu avec double paire, Valets et Six
+
+
+
+Main PokerStars n°243738870037 : Tournoi #3592333458, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 17/05/2023 7:17:38 CET [17/05/2023 1:17:38 ET]
+Table '3592333458 1' 3-max Siège #1 est au bouton.
+Place 1: ortega4240 (620 en jetons) 
+Place 2: psychoman59 (280 en jetons) 
+ortega4240 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d 3d]
+ortega4240 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Jh 3c Jc]
+psychoman59 : mise. 250 et est all-in.
+ortega4240 : passe. 
+Personne n'a suivi. (250) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Jh 3c Jc]
+Siège 1 : ortega4240 (bouton) (petite blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+
+
+
+Main PokerStars n°243738872264 : Tournoi #3592333458, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 17/05/2023 7:17:59 CET [17/05/2023 1:17:59 ET]
+Table '3592333458 1' 3-max Siège #2 est au bouton.
+Place 1: ortega4240 (590 en jetons) 
+Place 2: psychoman59 (310 en jetons) 
+psychoman59 : met la petite blind. 15
+ortega4240 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6h 6s]
+psychoman59 : relance. 280 à 310 et est all-in.
+ortega4240 : suit. 280
+*** FLOP *** [4h 7d 7c]
+*** TOURNANT *** [4h 7d 7c] [4s]
+*** RIVIÈRE *** [4h 7d 7c 4s] [4d]
+*** ABATTAGE ***
+ortega4240 : montre [5h 5s] (un full, full aux Quatre par les Sept)
+psychoman59 : montre [6h 6s] (un full, full aux Quatre par les Sept)
+ortega4240 a remporté 310  lors du pot .
+psychoman59 a remporté 310  lors du pot .
+*** SYNTHÈSE ***
+Pot total 620 | Commission 0 
+Tableau [4h 7d 7c 4s 4d]
+Siège 1 : ortega4240 (grosse blind) a montré [5h 5s] et a gagné (310) avec un full, full aux Quatre par les Sept
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [6h 6s] et a gagné (310) avec un full, full aux Quatre par les Sept
+
+
+
+Main PokerStars n°243738873716 : Tournoi #3592333458, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 17/05/2023 7:18:13 CET [17/05/2023 1:18:13 ET]
+Table '3592333458 1' 3-max Siège #1 est au bouton.
+Place 1: ortega4240 (590 en jetons) 
+Place 2: psychoman59 (310 en jetons) 
+ortega4240 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9c Jh]
+ortega4240 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [6h Ts 4d]
+psychoman59 : parole 
+ortega4240 : parole 
+*** TOURNANT *** [6h Ts 4d] [Qc]
+psychoman59 : parole 
+ortega4240 : mise. 60
+psychoman59 : relance. 220 à 280 et est all-in.
+ortega4240 : passe. 
+Personne n'a suivi. (220) sont retournés à psychoman59.
+psychoman59 a remporté 180  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [6h Ts 4d Qc]
+Siège 1 : ortega4240 (bouton) (petite blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (grosse blind) a remporté (180)
+
+
+
+Main PokerStars n°243738877255 : Tournoi #3592333458, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 17/05/2023 7:18:46 CET [17/05/2023 1:18:46 ET]
+Table '3592333458 1' 3-max Siège #2 est au bouton.
+Place 1: ortega4240 (500 en jetons) 
+Place 2: psychoman59 (400 en jetons) 
+psychoman59 : met la petite blind. 20
+ortega4240 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 7d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à ortega4240.
+ortega4240 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : ortega4240 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243738877842 : Tournoi #3592333458, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 17/05/2023 7:18:52 CET [17/05/2023 1:18:52 ET]
+Table '3592333458 1' 3-max Siège #1 est au bouton.
+Place 1: ortega4240 (520 en jetons) 
+Place 2: psychoman59 (380 en jetons) 
+ortega4240 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4d 6s]
+ortega4240 : relance. 40 à 80
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à ortega4240.
+ortega4240 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : ortega4240 (bouton) (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243738878959 : Tournoi #3592333458, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 17/05/2023 7:19:02 CET [17/05/2023 1:19:02 ET]
+Table '3592333458 1' 3-max Siège #2 est au bouton.
+Place 1: ortega4240 (560 en jetons) 
+Place 2: psychoman59 (340 en jetons) 
+psychoman59 : met la petite blind. 20
+ortega4240 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 7c]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à ortega4240.
+ortega4240 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : ortega4240 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243738879504 : Tournoi #3592333458, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 17/05/2023 7:19:07 CET [17/05/2023 1:19:07 ET]
+Table '3592333458 1' 3-max Siège #1 est au bouton.
+Place 1: ortega4240 (580 en jetons) 
+Place 2: psychoman59 (320 en jetons) 
+ortega4240 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h 8d]
+ortega4240 : relance. 40 à 80
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à ortega4240.
+ortega4240 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : ortega4240 (bouton) (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243738880384 : Tournoi #3592333458, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 17/05/2023 7:19:16 CET [17/05/2023 1:19:16 ET]
+Table '3592333458 1' 3-max Siège #2 est au bouton.
+Place 1: ortega4240 (620 en jetons) 
+Place 2: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 20
+ortega4240 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 6h]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à ortega4240.
+ortega4240 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : ortega4240 (grosse blind) a remporté (40)
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243738880846 : Tournoi #3592333458, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 17/05/2023 7:19:20 CET [17/05/2023 1:19:20 ET]
+Table '3592333458 1' 3-max Siège #1 est au bouton.
+Place 1: ortega4240 (640 en jetons) 
+Place 2: psychoman59 (260 en jetons) 
+ortega4240 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qs 2s]
+ortega4240 : suit. 20
+psychoman59 : relance. 220 à 260 et est all-in.
+ortega4240 : suit. 220
+*** FLOP *** [7h 9c 9s]
+*** TOURNANT *** [7h 9c 9s] [5d]
+*** RIVIÈRE *** [7h 9c 9s 5d] [2c]
+*** ABATTAGE ***
+psychoman59 : montre [Qs 2s] (double paire, Neuf et Deux)
+ortega4240 : montre [Ac 4d] (une paire de Neuf)
+psychoman59 a remporté 520  lors du pot .
+*** SYNTHÈSE ***
+Pot total 520 | Commission 0 
+Tableau [7h 9c 9s 5d 2c]
+Siège 1 : ortega4240 (bouton) (petite blind) a montré [Ac 4d] et a perdu avec une paire de Neuf
+Siège 2 : psychoman59 (grosse blind) a montré [Qs 2s] et a gagné (520) avec double paire, Neuf et Deux
+
+
+
+Main PokerStars n°243738883048 : Tournoi #3592333458, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau IV (30/60) - 17/05/2023 7:19:41 CET [17/05/2023 1:19:41 ET]
+Table '3592333458 1' 3-max Siège #2 est au bouton.
+Place 1: ortega4240 (380 en jetons) 
+Place 2: psychoman59 (520 en jetons) 
+psychoman59 : met la petite blind. 30
+ortega4240 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As Ac]
+psychoman59 : relance. 60 à 120
+ortega4240 : relance. 260 à 380 et est all-in.
+psychoman59 : suit. 260
+*** FLOP *** [3h 6h Tc]
+*** TOURNANT *** [3h 6h Tc] [Kh]
+*** RIVIÈRE *** [3h 6h Tc Kh] [Qh]
+*** ABATTAGE ***
+ortega4240 : montre [Jd Td] (une paire de Dix)
+psychoman59 : montre [As Ac] (une paire de As)
+psychoman59 a remporté 760  lors du pot .
+ortega4240 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 760 | Commission 0 
+Tableau [3h 6h Tc Kh Qh]
+Siège 1 : ortega4240 (grosse blind) a montré [Jd Td] et a perdu avec une paire de Dix
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [As Ac] et a gagné (760) avec une paire de As
+
+
+

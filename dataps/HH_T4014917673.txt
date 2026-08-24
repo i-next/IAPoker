@@ -1,0 +1,156 @@
+﻿Main PokerStars n°261391729612 : Tournoi #4014917673, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 10/07/2026 7:20:57 CET [10/07/2026 1:20:57 ET]
+Table '4014917673 1' 3-max Siège #1 est au bouton.
+Place 1: welvor (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: hazallana (500 en jetons) 
+psychoman59 : met la petite blind. 10
+hazallana : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 6d]
+welvor : passe. 
+psychoman59 : suit. 10
+hazallana : parole 
+*** FLOP *** [5c Kh 7c]
+psychoman59 : parole 
+hazallana : parole 
+*** TOURNANT *** [5c Kh 7c] [Ac]
+psychoman59 : parole 
+hazallana : parole 
+*** RIVIÈRE *** [5c Kh 7c Ac] [8d]
+psychoman59 : parole 
+hazallana : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Js 6d] (Hauteur As)
+hazallana : cache la main perdante. 
+psychoman59 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [5c Kh 7c Ac 8d]
+Siège 1 : welvor (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [Js 6d] et a gagné (40) avec Hauteur As
+Siège 3 : hazallana (grosse blind) a caché la main perdante. [Th 6s]
+
+
+
+Main PokerStars n°261391730793 : Tournoi #4014917673, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 10/07/2026 7:21:19 CET [10/07/2026 1:21:19 ET]
+Table '4014917673 1' 3-max Siège #2 est au bouton.
+Place 1: welvor (500 en jetons) 
+Place 2: psychoman59 (520 en jetons) 
+Place 3: hazallana (480 en jetons) 
+hazallana : met la petite blind. 10
+welvor : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 2d]
+psychoman59 : passe. 
+hazallana : suit. 10
+welvor : parole 
+*** FLOP *** [Ks 3h 8c]
+hazallana : parole 
+welvor : parole 
+*** TOURNANT *** [Ks 3h 8c] [Ah]
+hazallana : parole 
+welvor : parole 
+*** RIVIÈRE *** [Ks 3h 8c Ah] [2h]
+hazallana : parole 
+welvor : parole 
+*** ABATTAGE ***
+hazallana : montre [7d Qc] (Hauteur As)
+welvor : cache la main perdante. 
+hazallana a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Ks 3h 8c Ah 2h]
+Siège 1 : welvor (grosse blind) a caché la main perdante. [4c Tc]
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : hazallana (petite blind) a montré [7d Qc] et a gagné (40) avec Hauteur As
+
+
+
+Main PokerStars n°261391731739 : Tournoi #4014917673, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 10/07/2026 7:21:36 CET [10/07/2026 1:21:36 ET]
+Table '4014917673 1' 3-max Siège #3 est au bouton.
+Place 1: welvor (480 en jetons) 
+Place 2: psychoman59 (520 en jetons) 
+Place 3: hazallana (500 en jetons) 
+welvor : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s 6d]
+hazallana : suit. 20
+welvor : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Qs 2d 2c]
+welvor : parole 
+psychoman59 : parole 
+hazallana : mise. 60
+welvor : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à hazallana.
+hazallana a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Qs 2d 2c]
+Siège 1 : welvor (petite blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : hazallana (bouton) a remporté (60)
+
+
+
+Main PokerStars n°261391732899 : Tournoi #4014917673, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 10/07/2026 7:21:58 CET [10/07/2026 1:21:58 ET]
+Table '4014917673 1' 3-max Siège #1 est au bouton.
+Place 1: welvor (460 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: hazallana (540 en jetons) 
+psychoman59 : met la petite blind. 10
+hazallana : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 4s]
+welvor : passe. 
+psychoman59 : suit. 10
+hazallana : parole 
+*** FLOP *** [Qc Kc Qd]
+psychoman59 : parole 
+hazallana : parole 
+*** TOURNANT *** [Qc Kc Qd] [9d]
+psychoman59 : mise. 20
+hazallana : passe. 
+Personne n'a suivi. (20) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [Qc Kc Qd 9d]
+Siège 1 : welvor (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (40)
+Siège 3 : hazallana (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°261391733774 : Tournoi #4014917673, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 10/07/2026 7:22:13 CET [10/07/2026 1:22:13 ET]
+Table '4014917673 1' 3-max Siège #2 est au bouton.
+Place 1: welvor (460 en jetons) 
+Place 2: psychoman59 (520 en jetons) 
+Place 3: hazallana (520 en jetons) 
+hazallana : met la petite blind. 10
+welvor : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Ah]
+psychoman59 : relance. 500 à 520 et est all-in.
+hazallana : suit. 510 et est all-in.
+welvor : passe. 
+*** FLOP *** [3s 6d 9d]
+*** TOURNANT *** [3s 6d 9d] [Js]
+*** RIVIÈRE *** [3s 6d 9d Js] [Td]
+*** ABATTAGE ***
+hazallana : montre [Th As] (une paire de Dix)
+psychoman59 : montre [Qh Ah] (Hauteur As)
+hazallana a remporté 1060  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 1060 | Commission 0 
+Tableau [3s 6d 9d Js Td]
+Siège 1 : welvor (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a montré [Qh Ah] et a perdu avec Hauteur As
+Siège 3 : hazallana (petite blind) a montré [Th As] et a gagné (1060) avec une paire de Dix
+
+
+

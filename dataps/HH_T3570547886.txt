@@ -1,0 +1,80 @@
+﻿Main PokerStars n°242811604388 : Tournoi #3570547886, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 01/04/2023 8:16:28 CET [01/04/2023 2:16:28 ET]
+Table '3570547886 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: KKvsZZ (300 en jetons) 
+Place 3: PokerlandyAA (300 en jetons) 
+KKvsZZ : met la petite blind. 10
+PokerlandyAA : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7d Td]
+psychoman59 : passe. 
+KKvsZZ : relance. 20 à 40
+PokerlandyAA : passe. 
+Personne n'a suivi. (20) sont retournés à KKvsZZ.
+KKvsZZ a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : KKvsZZ (petite blind) a remporté (40)
+Siège 3 : PokerlandyAA (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°242811605659 : Tournoi #3570547886, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 01/04/2023 8:16:39 CET [01/04/2023 2:16:39 ET]
+Table '3570547886 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: KKvsZZ (320 en jetons) 
+Place 3: PokerlandyAA (280 en jetons) 
+PokerlandyAA : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Kc]
+KKvsZZ : suit. 20
+PokerlandyAA : suit. 10
+psychoman59 : parole 
+*** FLOP *** [3c 9s 4s]
+PokerlandyAA : parole 
+psychoman59 : parole 
+KKvsZZ : mise. 60
+PokerlandyAA : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à KKvsZZ.
+KKvsZZ a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [3c 9s 4s]
+Siège 1 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 2 : KKvsZZ (bouton) a remporté (60)
+Siège 3 : PokerlandyAA (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°242811608425 : Tournoi #3570547886, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 01/04/2023 8:17:03 CET [01/04/2023 2:17:03 ET]
+Table '3570547886 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (280 en jetons) 
+Place 2: KKvsZZ (360 en jetons) 
+Place 3: PokerlandyAA (260 en jetons) 
+psychoman59 : met la petite blind. 10
+KKvsZZ : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac 6c]
+PokerlandyAA : passe. 
+psychoman59 : relance. 260 à 280 et est all-in.
+KKvsZZ : suit. 260
+*** FLOP *** [2h 2d 3d]
+*** TOURNANT *** [2h 2d 3d] [Js]
+*** RIVIÈRE *** [2h 2d 3d Js] [8c]
+*** ABATTAGE ***
+psychoman59 : montre [Ac 6c] (une paire de Deux)
+KKvsZZ : montre [Jh Ks] (double paire, Valets et Deux)
+KKvsZZ a remporté 560  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 560 | Commission 0 
+Tableau [2h 2d 3d Js 8c]
+Siège 1 : psychoman59 (petite blind) a montré [Ac 6c] et a perdu avec une paire de Deux
+Siège 2 : KKvsZZ (grosse blind) a montré [Jh Ks] et a gagné (560) avec double paire, Valets et Deux
+Siège 3 : PokerlandyAA (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+

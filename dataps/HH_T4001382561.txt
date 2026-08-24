@@ -1,0 +1,505 @@
+﻿Main PokerStars n°260846839347 : Tournoi #4001382561, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/05/2026 10:27:58 CET [18/05/2026 4:27:58 ET]
+Table '4001382561 1' 3-max Siège #1 est au bouton.
+Place 1: BigBrainLuc (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: josemilara (500 en jetons) 
+psychoman59 : met la petite blind. 10
+josemilara : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Ts]
+BigBrainLuc : passe. 
+psychoman59 : suit. 10
+josemilara : parole 
+*** FLOP *** [9s 7h 4s]
+psychoman59 : parole 
+josemilara : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [9s 7h 4s] [Ad]
+psychoman59 : parole 
+josemilara : mise. 40
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à josemilara.
+josemilara a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [9s 7h 4s Ad]
+Siège 1 : BigBrainLuc (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Tournant
+Siège 3 : josemilara (grosse blind) a remporté (80)
+
+
+
+Main PokerStars n°260846840645 : Tournoi #4001382561, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/05/2026 10:28:20 CET [18/05/2026 4:28:20 ET]
+Table '4001382561 1' 3-max Siège #2 est au bouton.
+Place 1: BigBrainLuc (500 en jetons) 
+Place 2: psychoman59 (460 en jetons) 
+Place 3: josemilara (540 en jetons) 
+josemilara : met la petite blind. 10
+BigBrainLuc : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6c Ah]
+psychoman59 : suit. 20
+josemilara : relance. 40 à 60
+BigBrainLuc : passe. 
+psychoman59 : suit. 40
+*** FLOP *** [6s 2s 4c]
+josemilara : parole 
+psychoman59 : mise. 140
+josemilara : suit. 140
+*** TOURNANT *** [6s 2s 4c] [5h]
+josemilara : parole 
+psychoman59 : mise. 260 et est all-in.
+josemilara : passe. 
+Personne n'a suivi. (260) sont retournés à psychoman59.
+psychoman59 a remporté 420  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 420 | Commission 0 
+Tableau [6s 2s 4c 5h]
+Siège 1 : BigBrainLuc (grosse blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (bouton) a remporté (420)
+Siège 3 : josemilara (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°260846842262 : Tournoi #4001382561, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/05/2026 10:28:46 CET [18/05/2026 4:28:46 ET]
+Table '4001382561 1' 3-max Siège #3 est au bouton.
+Place 1: BigBrainLuc (480 en jetons) 
+Place 2: psychoman59 (680 en jetons) 
+Place 3: josemilara (340 en jetons) 
+BigBrainLuc : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5s Ad]
+josemilara : relance. 320 à 340 et est all-in.
+BigBrainLuc : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (320) sont retournés à josemilara.
+josemilara a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Siège 1 : BigBrainLuc (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : josemilara (bouton) a remporté (50)
+
+
+
+Main PokerStars n°260846842850 : Tournoi #4001382561, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/05/2026 10:28:56 CET [18/05/2026 4:28:56 ET]
+Table '4001382561 1' 3-max Siège #1 est au bouton.
+Place 1: BigBrainLuc (470 en jetons) 
+Place 2: psychoman59 (660 en jetons) 
+Place 3: josemilara (370 en jetons) 
+psychoman59 : met la petite blind. 10
+josemilara : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh Ks]
+BigBrainLuc : passe. 
+psychoman59 : suit. 10
+josemilara : parole 
+*** FLOP *** [5s Ac Ah]
+psychoman59 : parole 
+josemilara : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [5s Ac Ah] [8c]
+psychoman59 : parole 
+josemilara : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [5s Ac Ah 8c] [Qh]
+psychoman59 : parole 
+josemilara : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Kh Ks] (double paire, As et Rois)
+josemilara : cache la main perdante. 
+psychoman59 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [5s Ac Ah 8c Qh]
+Siège 1 : BigBrainLuc (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [Kh Ks] et a gagné (120) avec double paire, As et Rois
+Siège 3 : josemilara (grosse blind) a caché la main perdante. [5d Jc]
+
+
+
+Main PokerStars n°260846844185 : Tournoi #4001382561, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/05/2026 10:29:17 CET [18/05/2026 4:29:17 ET]
+Table '4001382561 1' 3-max Siège #2 est au bouton.
+Place 1: BigBrainLuc (470 en jetons) 
+Place 2: psychoman59 (720 en jetons) 
+Place 3: josemilara (310 en jetons) 
+josemilara : met la petite blind. 10
+BigBrainLuc : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 5h]
+psychoman59 : passe. 
+josemilara : relance. 20 à 40
+BigBrainLuc : suit. 20
+*** FLOP *** [8h Kc 5c]
+josemilara : parole 
+BigBrainLuc : parole 
+*** TOURNANT *** [8h Kc 5c] [Qs]
+josemilara : parole 
+BigBrainLuc : parole 
+*** RIVIÈRE *** [8h Kc 5c Qs] [3d]
+josemilara : parole 
+BigBrainLuc : parole 
+*** ABATTAGE ***
+josemilara : montre [7h Th] (Hauteur Roi)
+BigBrainLuc : cache la main perdante. 
+josemilara a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [8h Kc 5c Qs 3d]
+Siège 1 : BigBrainLuc (grosse blind) a caché la main perdante. [4d 6d]
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : josemilara (petite blind) a montré [7h Th] et a gagné (80) avec Hauteur Roi
+
+
+
+Main PokerStars n°260846845486 : Tournoi #4001382561, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/05/2026 10:29:38 CET [18/05/2026 4:29:38 ET]
+Table '4001382561 1' 3-max Siège #3 est au bouton.
+Place 1: BigBrainLuc (430 en jetons) 
+Place 2: psychoman59 (720 en jetons) 
+Place 3: josemilara (350 en jetons) 
+BigBrainLuc : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 8s]
+josemilara : relance. 20 à 40
+BigBrainLuc : suit. 30
+psychoman59 : suit. 20
+*** FLOP *** [Ah Jd 5s]
+BigBrainLuc : mise. 20
+psychoman59 : passe. 
+josemilara : suit. 20
+*** TOURNANT *** [Ah Jd 5s] [Th]
+BigBrainLuc : mise. 80
+josemilara : relance. 210 à 290 et est all-in.
+BigBrainLuc : suit. 210
+*** RIVIÈRE *** [Ah Jd 5s Th] [Js]
+*** ABATTAGE ***
+BigBrainLuc : montre [Ts As] (double paire, As et Valets)
+josemilara : montre [Jh 9c] (un brelan de Valets)
+josemilara a remporté 740  lors du pot .
+*** SYNTHÈSE ***
+Pot total 740 | Commission 0 
+Tableau [Ah Jd 5s Th Js]
+Siège 1 : BigBrainLuc (petite blind) a montré [Ts As] et a perdu avec double paire, As et Valets
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : josemilara (bouton) a montré [Jh 9c] et a gagné (740) avec un brelan de Valets
+
+
+
+Main PokerStars n°260846847025 : Tournoi #4001382561, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/05/2026 10:30:03 CET [18/05/2026 4:30:03 ET]
+Table '4001382561 1' 3-max Siège #1 est au bouton.
+Place 1: BigBrainLuc (80 en jetons) 
+Place 2: psychoman59 (680 en jetons) 
+Place 3: josemilara (740 en jetons) 
+psychoman59 : met la petite blind. 10
+josemilara : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c Ac]
+BigBrainLuc : passe. 
+psychoman59 : suit. 10
+josemilara : relance. 40 à 60
+psychoman59 : suit. 40
+*** FLOP *** [2d 3s 9s]
+psychoman59 : parole 
+josemilara : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [2d 3s 9s] [9c]
+psychoman59 : parole 
+josemilara : parole 
+*** RIVIÈRE *** [2d 3s 9s 9c] [Jh]
+psychoman59 : mise. 100
+josemilara : suit. 100
+*** ABATTAGE ***
+psychoman59 : montre [8c Ac] (une paire de Neuf)
+josemilara : cache la main perdante. 
+psychoman59 a remporté 400  lors du pot .
+*** SYNTHÈSE ***
+Pot total 400 | Commission 0 
+Tableau [2d 3s 9s 9c Jh]
+Siège 1 : BigBrainLuc (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [8c Ac] et a gagné (400) avec une paire de Neuf
+Siège 3 : josemilara (grosse blind) a caché la main perdante. [5s As]
+
+
+
+Main PokerStars n°260846849551 : Tournoi #4001382561, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 18/05/2026 10:30:44 CET [18/05/2026 4:30:44 ET]
+Table '4001382561 1' 3-max Siège #2 est au bouton.
+Place 1: BigBrainLuc (80 en jetons) 
+Place 2: psychoman59 (880 en jetons) 
+Place 3: josemilara (540 en jetons) 
+josemilara : met la petite blind. 10
+BigBrainLuc : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kh 7h]
+psychoman59 : suit. 20
+josemilara : suit. 10
+BigBrainLuc : relance. 60 à 80 et est all-in.
+psychoman59 : suit. 60
+josemilara : suit. 60
+*** FLOP *** [5c 4s Ah]
+josemilara : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5c 4s Ah] [8c]
+josemilara : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [5c 4s Ah 8c] [9d]
+josemilara : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+josemilara : montre [Qs 5s] (une paire de Cinq)
+psychoman59 : cache la main perdante. 
+josemilara a remporté 40  parallèle lors du pot .
+BigBrainLuc : cache la main perdante. 
+josemilara a remporté 240  principal lors du pot .
+BigBrainLuc a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 280 Principal pot 240. Parallèle pot 40. | Commission 0 
+Tableau [5c 4s Ah 8c 9d]
+Siège 1 : BigBrainLuc (grosse blind) a caché la main perdante. [Tc 4h]
+Siège 2 : psychoman59 (bouton) a caché la main perdante. [Kh 7h]
+Siège 3 : josemilara (petite blind) a montré [Qs 5s] et a gagné (280) avec une paire de Cinq
+
+
+
+Main PokerStars n°260846851497 : Tournoi #4001382561, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/05/2026 10:31:15 CET [18/05/2026 4:31:15 ET]
+Table '4001382561 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (780 en jetons) 
+Place 3: josemilara (720 en jetons) 
+josemilara : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 7d]
+josemilara : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à josemilara.
+josemilara a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : josemilara (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°260846851862 : Tournoi #4001382561, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/05/2026 10:31:22 CET [18/05/2026 4:31:22 ET]
+Table '4001382561 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (750 en jetons) 
+Place 3: josemilara (750 en jetons) 
+psychoman59 : met la petite blind. 15
+josemilara : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 5c]
+psychoman59 : relance. 720 à 750 et est all-in.
+josemilara : passe. 
+Personne n'a suivi. (720) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 3 : josemilara (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260846852295 : Tournoi #4001382561, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/05/2026 10:31:28 CET [18/05/2026 4:31:28 ET]
+Table '4001382561 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (780 en jetons) 
+Place 3: josemilara (720 en jetons) 
+josemilara : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6d 2h]
+josemilara : relance. 30 à 60
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à josemilara.
+josemilara a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : josemilara (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°260846852677 : Tournoi #4001382561, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/05/2026 10:31:34 CET [18/05/2026 4:31:34 ET]
+Table '4001382561 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (750 en jetons) 
+Place 3: josemilara (750 en jetons) 
+psychoman59 : met la petite blind. 15
+josemilara : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 4c]
+psychoman59 : relance. 720 à 750 et est all-in.
+josemilara : passe. 
+Personne n'a suivi. (720) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 3 : josemilara (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260846853095 : Tournoi #4001382561, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/05/2026 10:31:41 CET [18/05/2026 4:31:41 ET]
+Table '4001382561 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (780 en jetons) 
+Place 3: josemilara (720 en jetons) 
+josemilara : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 8h]
+josemilara : relance. 60 à 90
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à josemilara.
+josemilara a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : josemilara (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°260846853627 : Tournoi #4001382561, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/05/2026 10:31:49 CET [18/05/2026 4:31:49 ET]
+Table '4001382561 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (750 en jetons) 
+Place 3: josemilara (750 en jetons) 
+psychoman59 : met la petite blind. 15
+josemilara : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 4s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à josemilara.
+josemilara a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : josemilara (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°260846853894 : Tournoi #4001382561, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/05/2026 10:31:54 CET [18/05/2026 4:31:54 ET]
+Table '4001382561 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (735 en jetons) 
+Place 3: josemilara (765 en jetons) 
+josemilara : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d Ad]
+josemilara : suit. 15
+psychoman59 : relance. 705 à 735 et est all-in.
+josemilara : passe. 
+Personne n'a suivi. (705) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) a remporté (60)
+Siège 3 : josemilara (bouton) (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260846854363 : Tournoi #4001382561, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/05/2026 10:32:02 CET [18/05/2026 4:32:02 ET]
+Table '4001382561 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (765 en jetons) 
+Place 3: josemilara (735 en jetons) 
+psychoman59 : met la petite blind. 15
+josemilara : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8c 6h]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à josemilara.
+josemilara a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : josemilara (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°260846854684 : Tournoi #4001382561, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/05/2026 10:32:07 CET [18/05/2026 4:32:07 ET]
+Table '4001382561 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (750 en jetons) 
+Place 3: josemilara (750 en jetons) 
+josemilara : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 2c]
+josemilara : suit. 15
+psychoman59 : parole 
+*** FLOP *** [6h 8d 8c]
+psychoman59 : parole 
+josemilara : parole 
+*** TOURNANT *** [6h 8d 8c] [Kd]
+psychoman59 : parole 
+josemilara : parole 
+*** RIVIÈRE *** [6h 8d 8c Kd] [7d]
+psychoman59 : parole 
+josemilara : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à josemilara.
+josemilara a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [6h 8d 8c Kd 7d]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : josemilara (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°260846856152 : Tournoi #4001382561, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/05/2026 10:32:30 CET [18/05/2026 4:32:30 ET]
+Table '4001382561 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (720 en jetons) 
+Place 3: josemilara (780 en jetons) 
+psychoman59 : met la petite blind. 15
+josemilara : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s 6c]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à josemilara.
+josemilara a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : josemilara (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°260846856456 : Tournoi #4001382561, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 18/05/2026 10:32:35 CET [18/05/2026 4:32:35 ET]
+Table '4001382561 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (705 en jetons) 
+Place 3: josemilara (795 en jetons) 
+josemilara : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Th]
+josemilara : relance. 30 à 60
+psychoman59 : suit. 30
+*** FLOP *** [Qs 7s 3d]
+psychoman59 : parole 
+josemilara : mise. 60
+psychoman59 : suit. 60
+*** TOURNANT *** [Qs 7s 3d] [Ts]
+psychoman59 : parole 
+josemilara : mise. 30
+psychoman59 : relance. 150 à 180
+josemilara : suit. 150
+*** RIVIÈRE *** [Qs 7s 3d Ts] [7c]
+psychoman59 : mise. 300
+josemilara : relance. 195 à 495 et est all-in.
+psychoman59 : suit. 105 et est all-in.
+Personne n'a suivi. (90) sont retournés à josemilara.
+*** ABATTAGE ***
+josemilara : montre [9s 3s] (une couleur, hauteur Dame)
+psychoman59 : montre [Qd Th] (double paire, Dames et Dix)
+josemilara a remporté 1410  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+josemilara remporte le tournoi et reçoit 3.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 1410 | Commission 0 
+Tableau [Qs 7s 3d Ts 7c]
+Siège 2 : psychoman59 (grosse blind) a montré [Qd Th] et a perdu avec double paire, Dames et Dix
+Siège 3 : josemilara (bouton) (petite blind) a montré [9s 3s] et a gagné (1410) avec une couleur, hauteur Dame
+
+
+

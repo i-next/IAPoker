@@ -1,0 +1,97 @@
+﻿Main PokerStars n°254001581074 : Tournoi #3837613633, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/12/2024 11:16:37 CET [24/12/2024 5:16:37 ET]
+Table '3837613633 1' 3-max Siège #1 est au bouton.
+Place 1: Ms01630 (500 en jetons) 
+Place 2: kzob83 (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+kzob83 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc Qc]
+Ms01630 : passe. 
+kzob83 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [4d 8d Kc]
+kzob83 : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [4d 8d Kc] [7c]
+kzob83 : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [4d 8d Kc 7c] [5s]
+kzob83 : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à kzob83.
+kzob83 a remporté 120  lors du pot .
+kzob83 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [4d 8d Kc 7c 5s]
+Siège 1 : Ms01630 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : kzob83 (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°254001583180 : Tournoi #3837613633, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/12/2024 11:16:55 CET [24/12/2024 5:16:55 ET]
+Table '3837613633 1' 3-max Siège #2 est au bouton.
+Place 1: Ms01630 (500 en jetons) 
+Place 2: kzob83 (560 en jetons) 
+Place 3: psychoman59 (440 en jetons) 
+psychoman59 : met la petite blind. 10
+Ms01630 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks Ah]
+kzob83 : passe. 
+psychoman59 : relance. 40 à 60
+Ms01630 : suit. 40
+*** FLOP *** [6d 6s 5s]
+psychoman59 : parole 
+Ms01630 : parole 
+*** TOURNANT *** [6d 6s 5s] [8s]
+psychoman59 : parole 
+Ms01630 : mise. 440 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (440) sont retournés à Ms01630.
+Ms01630 a remporté 120  lors du pot .
+Ms01630 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [6d 6s 5s 8s]
+Siège 1 : Ms01630 (grosse blind) a remporté (120)
+Siège 2 : kzob83 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°254001585671 : Tournoi #3837613633, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 24/12/2024 11:17:18 CET [24/12/2024 5:17:18 ET]
+Table '3837613633 1' 3-max Siège #3 est au bouton.
+Place 1: Ms01630 (560 en jetons) 
+Place 2: kzob83 (560 en jetons) 
+Place 3: psychoman59 (380 en jetons) 
+Ms01630 : met la petite blind. 10
+kzob83 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Ah]
+psychoman59 : suit. 20
+Ms01630 : suit. 10
+kzob83 : parole 
+*** FLOP *** [8c Ac 5s]
+Ms01630 : mise. 60
+kzob83 : passe. 
+psychoman59 : relance. 300 à 360 et est all-in.
+Ms01630 : suit. 300
+*** TOURNANT *** [8c Ac 5s] [Kc]
+*** RIVIÈRE *** [8c Ac 5s Kc] [2s]
+*** ABATTAGE ***
+Ms01630 : montre [4c Jc] (une couleur, hauteur As)
+psychoman59 : montre [4s Ah] (une paire de As)
+Ms01630 a remporté 780  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 780 | Commission 0 
+Tableau [8c Ac 5s Kc 2s]
+Siège 1 : Ms01630 (petite blind) a montré [4c Jc] et a gagné (780) avec une couleur, hauteur As
+Siège 2 : kzob83 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) a montré [4s Ah] et a perdu avec une paire de As
+
+
+

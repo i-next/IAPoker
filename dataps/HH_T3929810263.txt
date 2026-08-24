@@ -1,0 +1,36 @@
+﻿Main PokerStars n°257814332269 : Tournoi #3929810263, 0.23 €+0.02 € EUR Hold'em No Limit - Niveau I (10/20) - 20/09/2025 11:01:23 CET [20/09/2025 5:01:23 ET]
+Table '3929810263 1' 3-max Siège #1 est au bouton.
+Place 1: patryktejea2003 (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: SOLEIL63 (500 en jetons) 
+psychoman59 : met la petite blind. 10
+SOLEIL63 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh Tc]
+patryktejea2003 : passe. 
+psychoman59 : suit. 10
+SOLEIL63 : parole 
+*** FLOP *** [2d Ts 7s]
+psychoman59 : mise. 60
+SOLEIL63 : suit. 60
+*** TOURNANT *** [2d Ts 7s] [Ad]
+psychoman59 : mise. 80
+SOLEIL63 : suit. 80
+*** RIVIÈRE *** [2d Ts 7s Ad] [7h]
+psychoman59 : mise. 160
+SOLEIL63 : relance. 180 à 340 et est all-in.
+psychoman59 : suit. 180 et est all-in.
+*** ABATTAGE ***
+SOLEIL63 : montre [7c 6d] (un brelan de Sept)
+psychoman59 : montre [Qh Tc] (double paire, Dix et Sept)
+SOLEIL63 a remporté 1000  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 1000 | Commission 0 
+Tableau [2d Ts 7s Ad 7h]
+Siège 1 : patryktejea2003 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a montré [Qh Tc] et a perdu avec double paire, Dix et Sept
+Siège 3 : SOLEIL63 (grosse blind) a montré [7c 6d] et a gagné (1000) avec un brelan de Sept
+
+
+

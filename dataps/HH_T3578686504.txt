@@ -1,0 +1,196 @@
+﻿Main PokerStars n°243143841128 : Tournoi #3578686504, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 17/04/2023 7:02:12 CET [17/04/2023 1:02:12 ET]
+Table '3578686504 1' 3-max Siège #1 est au bouton.
+Place 1: Vistiik (300 en jetons) 
+Place 2: Lotusbleu01 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+Lotusbleu01 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 6h]
+Vistiik : suit. 20
+Lotusbleu01 : relance. 60 à 80
+psychoman59 : passe. 
+Vistiik : suit. 60
+*** FLOP *** [9d 6s Ah]
+Lotusbleu01 : parole 
+Vistiik : mise. 180
+Lotusbleu01 : passe. 
+Personne n'a suivi. (180) sont retournés à Vistiik.
+Vistiik a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [9d 6s Ah]
+Siège 1 : Vistiik (bouton) a remporté (180)
+Siège 2 : Lotusbleu01 (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243143843910 : Tournoi #3578686504, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 17/04/2023 7:02:41 CET [17/04/2023 1:02:41 ET]
+Table '3578686504 1' 3-max Siège #2 est au bouton.
+Place 1: Vistiik (400 en jetons) 
+Place 2: Lotusbleu01 (220 en jetons) 
+Place 3: psychoman59 (280 en jetons) 
+psychoman59 : met la petite blind. 10
+Vistiik : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Qh]
+Lotusbleu01 : passe. 
+psychoman59 : relance. 260 à 280 et est all-in.
+Vistiik : passe. 
+Personne n'a suivi. (260) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Vistiik (grosse blind) s'est couché. avant Flop
+Siège 2 : Lotusbleu01 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°243143844908 : Tournoi #3578686504, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 17/04/2023 7:02:51 CET [17/04/2023 1:02:51 ET]
+Table '3578686504 1' 3-max Siège #3 est au bouton.
+Place 1: Vistiik (380 en jetons) 
+Place 2: Lotusbleu01 (220 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+Vistiik : met la petite blind. 10
+Lotusbleu01 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c Jd]
+psychoman59 : passe. 
+Vistiik : relance. 40 à 60
+Lotusbleu01 : relance. 160 à 220 et est all-in.
+Vistiik : suit. 160
+*** FLOP *** [2s Ks Kd]
+*** TOURNANT *** [2s Ks Kd] [6c]
+*** RIVIÈRE *** [2s Ks Kd 6c] [8c]
+*** ABATTAGE ***
+Vistiik : montre [As Ts] (une paire de Rois)
+Lotusbleu01 : montre [Qs 8d] (double paire, Rois et Huit)
+Lotusbleu01 a remporté 440  lors du pot .
+*** SYNTHÈSE ***
+Pot total 440 | Commission 0 
+Tableau [2s Ks Kd 6c 8c]
+Siège 1 : Vistiik (petite blind) a montré [As Ts] et a perdu avec une paire de Rois
+Siège 2 : Lotusbleu01 (grosse blind) a montré [Qs 8d] et a gagné (440) avec double paire, Rois et Huit
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°243143846578 : Tournoi #3578686504, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 17/04/2023 7:03:07 CET [17/04/2023 1:03:07 ET]
+Table '3578686504 1' 3-max Siège #1 est au bouton.
+Place 1: Vistiik (160 en jetons) 
+Place 2: Lotusbleu01 (440 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+Lotusbleu01 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ac Jh]
+Vistiik : passe. 
+Lotusbleu01 : relance. 420 à 440 et est all-in.
+psychoman59 : suit. 280 et est all-in.
+Personne n'a suivi. (140) sont retournés à Lotusbleu01.
+*** FLOP *** [Jc 5c 2c]
+*** TOURNANT *** [Jc 5c 2c] [8c]
+*** RIVIÈRE *** [Jc 5c 2c 8c] [Qc]
+*** ABATTAGE ***
+Lotusbleu01 : montre [2d 2s] (une couleur, hauteur Dame)
+psychoman59 : montre [Ac Jh] (une couleur, hauteur As)
+psychoman59 a remporté 600  lors du pot .
+*** SYNTHÈSE ***
+Pot total 600 | Commission 0 
+Tableau [Jc 5c 2c 8c Qc]
+Siège 1 : Vistiik (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Lotusbleu01 (petite blind) a montré [2d 2s] et a perdu avec une couleur, hauteur Dame
+Siège 3 : psychoman59 (grosse blind) a montré [Ac Jh] et a gagné (600) avec une couleur, hauteur As
+
+
+
+Main PokerStars n°243143848326 : Tournoi #3578686504, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 17/04/2023 7:03:26 CET [17/04/2023 1:03:26 ET]
+Table '3578686504 1' 3-max Siège #2 est au bouton.
+Place 1: Vistiik (160 en jetons) 
+Place 2: Lotusbleu01 (140 en jetons) 
+Place 3: psychoman59 (600 en jetons) 
+psychoman59 : met la petite blind. 15
+Vistiik : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3h Qh]
+Lotusbleu01 : relance. 110 à 140 et est all-in.
+psychoman59 : passe. 
+Vistiik : passe. 
+Personne n'a suivi. (110) sont retournés à Lotusbleu01.
+Lotusbleu01 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Siège 1 : Vistiik (grosse blind) s'est couché. avant Flop
+Siège 2 : Lotusbleu01 (bouton) a remporté (75)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°243143849017 : Tournoi #3578686504, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 17/04/2023 7:03:33 CET [17/04/2023 1:03:33 ET]
+Table '3578686504 1' 3-max Siège #3 est au bouton.
+Place 1: Vistiik (130 en jetons) 
+Place 2: Lotusbleu01 (185 en jetons) 
+Place 3: psychoman59 (585 en jetons) 
+Vistiik : met la petite blind. 15
+Lotusbleu01 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4c 3h]
+psychoman59 : passe. 
+Vistiik : relance. 30 à 60
+Lotusbleu01 : relance. 125 à 185 et est all-in.
+Vistiik : suit. 70 et est all-in.
+Personne n'a suivi. (55) sont retournés à Lotusbleu01.
+*** FLOP *** [5s Js Ts]
+*** TOURNANT *** [5s Js Ts] [2c]
+*** RIVIÈRE *** [5s Js Ts 2c] [Qh]
+*** ABATTAGE ***
+Vistiik : montre [Jc Kc] (une paire de Valets)
+Lotusbleu01 : montre [8d 6s] (Hauteur Dame)
+Vistiik a remporté 260  lors du pot .
+*** SYNTHÈSE ***
+Pot total 260 | Commission 0 
+Tableau [5s Js Ts 2c Qh]
+Siège 1 : Vistiik (petite blind) a montré [Jc Kc] et a gagné (260) avec une paire de Valets
+Siège 2 : Lotusbleu01 (grosse blind) a montré [8d 6s] et a perdu avec Hauteur Dame
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°243143851716 : Tournoi #3578686504, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 17/04/2023 7:04:00 CET [17/04/2023 1:04:00 ET]
+Table '3578686504 1' 3-max Siège #1 est au bouton.
+Place 1: Vistiik (260 en jetons) 
+Place 2: Lotusbleu01 (55 en jetons) 
+Place 3: psychoman59 (585 en jetons) 
+Lotusbleu01 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9d As]
+Vistiik : relance. 30 à 60
+Lotusbleu01 : suit. 40 et est all-in.
+psychoman59 : relance. 525 à 585 et est all-in.
+Vistiik : suit. 200 et est all-in.
+Personne n'a suivi. (325) sont retournés à psychoman59.
+*** FLOP *** [9h 6h 2s]
+*** TOURNANT *** [9h 6h 2s] [3s]
+*** RIVIÈRE *** [9h 6h 2s 3s] [8c]
+*** ABATTAGE ***
+psychoman59 : montre [9d As] (une paire de Neuf)
+Vistiik : montre [Qh 8h] (une paire de Huit)
+psychoman59 a remporté 410  parallèle lors du pot .
+Lotusbleu01 : montre [6c 7s] (une paire de Six)
+psychoman59 a remporté 165  principal lors du pot .
+Vistiik a fini le tournoi en 2e position.
+Lotusbleu01 a fini le tournoi en 3e position.
+psychoman59 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 575 Principal pot 165. Parallèle pot 410. | Commission 0 
+Tableau [9h 6h 2s 3s 8c]
+Siège 1 : Vistiik (bouton) a montré [Qh 8h] et a perdu avec une paire de Huit
+Siège 2 : Lotusbleu01 (petite blind) a montré [6c 7s] et a perdu avec une paire de Six
+Siège 3 : psychoman59 (grosse blind) a montré [9d As] et a gagné (575) avec une paire de Neuf
+
+
+

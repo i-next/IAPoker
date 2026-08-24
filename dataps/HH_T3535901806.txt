@@ -1,0 +1,246 @@
+﻿Main PokerStars n°241312849023 : Tournoi #3535901806, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/01/2023 8:26:17 CET [22/01/2023 2:26:17 ET]
+Table '3535901806 1' 3-max Siège #1 est au bouton.
+Place 1: feeling168 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: petra59280 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+petra59280 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8h Qs]
+feeling168 : relance. 20 à 40
+psychoman59 : passe. 
+petra59280 : suit. 20
+*** FLOP *** [5d Jd 7h]
+petra59280 : mise. 90
+feeling168 : passe. 
+Personne n'a suivi. (90) sont retournés à petra59280.
+petra59280 a remporté 90  lors du pot .
+petra59280 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [5d Jd 7h]
+Siège 1 : feeling168 (bouton) s'est couché. sur le Flop
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : petra59280 (grosse blind) a remporté (90)
+
+
+
+Main PokerStars n°241312850524 : Tournoi #3535901806, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/01/2023 8:26:31 CET [22/01/2023 2:26:31 ET]
+Table '3535901806 1' 3-max Siège #2 est au bouton.
+Place 1: feeling168 (260 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: petra59280 (350 en jetons) 
+petra59280 : met la petite blind. 10
+feeling168 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc 5c]
+psychoman59 : passe. 
+petra59280 : suit. 10
+feeling168 : parole 
+*** FLOP *** [9s Qd 6d]
+petra59280 : mise. 40
+feeling168 : passe. 
+Personne n'a suivi. (40) sont retournés à petra59280.
+petra59280 a remporté 40  lors du pot .
+petra59280 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [9s Qd 6d]
+Siège 1 : feeling168 (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : petra59280 (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°241312852515 : Tournoi #3535901806, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/01/2023 8:26:48 CET [22/01/2023 2:26:48 ET]
+Table '3535901806 1' 3-max Siège #3 est au bouton.
+Place 1: feeling168 (240 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: petra59280 (370 en jetons) 
+feeling168 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7h 5s]
+petra59280 : suit. 20
+feeling168 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Qd Ac 7c]
+feeling168 : parole 
+psychoman59 : parole 
+petra59280 : parole 
+*** TOURNANT *** [Qd Ac 7c] [Jh]
+feeling168 : parole 
+psychoman59 : parole 
+petra59280 : mise. 60
+feeling168 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à petra59280.
+petra59280 a remporté 60  lors du pot .
+petra59280 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Qd Ac 7c Jh]
+Siège 1 : feeling168 (petite blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : petra59280 (bouton) a remporté (60)
+
+
+
+Main PokerStars n°241312855349 : Tournoi #3535901806, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 22/01/2023 8:27:14 CET [22/01/2023 2:27:14 ET]
+Table '3535901806 1' 3-max Siège #1 est au bouton.
+Place 1: feeling168 (220 en jetons) 
+Place 2: psychoman59 (270 en jetons) 
+Place 3: petra59280 (410 en jetons) 
+psychoman59 : met la petite blind. 10
+petra59280 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kc Th]
+feeling168 : suit. 20
+psychoman59 : suit. 10
+petra59280 : relance. 60 à 80
+feeling168 : relance. 60 à 140
+psychoman59 : passe. 
+petra59280 : suit. 60
+*** FLOP *** [8s 7s 3c]
+petra59280 : parole 
+feeling168 : mise. 80 et est all-in.
+petra59280 : suit. 80
+*** TOURNANT *** [8s 7s 3c] [Ad]
+*** RIVIÈRE *** [8s 7s 3c Ad] [5s]
+*** ABATTAGE ***
+petra59280 : montre [As Qs] (une couleur, hauteur As)
+feeling168 : montre [5h Ah] (double paire, As et Cinq)
+petra59280 a remporté 460  lors du pot .
+feeling168 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 460 | Commission 0 
+Tableau [8s 7s 3c Ad 5s]
+Siège 1 : feeling168 (bouton) a montré [5h Ah] et a perdu avec double paire, As et Cinq
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : petra59280 (grosse blind) a montré [As Qs] et a gagné (460) avec une couleur, hauteur As
+
+
+
+Main PokerStars n°241312859010 : Tournoi #3535901806, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 22/01/2023 8:27:47 CET [22/01/2023 2:27:47 ET]
+Table '3535901806 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (250 en jetons) 
+Place 3: petra59280 (650 en jetons) 
+petra59280 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 9h]
+petra59280 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [5s 8s Qc]
+psychoman59 : parole 
+petra59280 : parole 
+*** TOURNANT *** [5s 8s Qc] [6d]
+psychoman59 : parole 
+petra59280 : parole 
+*** RIVIÈRE *** [5s 8s Qc 6d] [2s]
+psychoman59 : parole 
+petra59280 : parole 
+*** ABATTAGE ***
+psychoman59 : montre [Th 9h] (Hauteur Dame)
+petra59280 : cache la main perdante. 
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [5s 8s Qc 6d 2s]
+Siège 2 : psychoman59 (grosse blind) a montré [Th 9h] et a gagné (60) avec Hauteur Dame
+Siège 3 : petra59280 (bouton) (petite blind) a caché la main perdante. [3c 7h]
+
+
+
+Main PokerStars n°241312861395 : Tournoi #3535901806, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 22/01/2023 8:28:09 CET [22/01/2023 2:28:09 ET]
+Table '3535901806 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (280 en jetons) 
+Place 3: petra59280 (620 en jetons) 
+psychoman59 : met la petite blind. 15
+petra59280 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Ac]
+psychoman59 : relance. 250 à 280 et est all-in.
+petra59280 : passe. 
+Personne n'a suivi. (250) sont retournés à psychoman59.
+psychoman59 a remporté 60  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) a remporté (60)
+Siège 3 : petra59280 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°241312862246 : Tournoi #3535901806, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 22/01/2023 8:28:17 CET [22/01/2023 2:28:17 ET]
+Table '3535901806 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (310 en jetons) 
+Place 3: petra59280 (590 en jetons) 
+petra59280 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2s Jh]
+petra59280 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [Qc 8c Tc]
+psychoman59 : parole 
+petra59280 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à petra59280.
+petra59280 a remporté 60  lors du pot .
+petra59280 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [Qc 8c Tc]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Flop
+Siège 3 : petra59280 (bouton) (petite blind) a remporté (60)
+
+
+
+Main PokerStars n°241312864038 : Tournoi #3535901806, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 22/01/2023 8:28:33 CET [22/01/2023 2:28:33 ET]
+Table '3535901806 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (280 en jetons) 
+Place 3: petra59280 (620 en jetons) 
+psychoman59 : met la petite blind. 20
+petra59280 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc 4d]
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à petra59280.
+petra59280 a remporté 40  lors du pot .
+petra59280 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : petra59280 (grosse blind) a remporté (40)
+
+
+
+Main PokerStars n°241312864760 : Tournoi #3535901806, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 22/01/2023 8:28:40 CET [22/01/2023 2:28:40 ET]
+Table '3535901806 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (260 en jetons) 
+Place 3: petra59280 (640 en jetons) 
+petra59280 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th Ad]
+petra59280 : relance. 600 à 640 et est all-in.
+psychoman59 : suit. 220 et est all-in.
+Personne n'a suivi. (380) sont retournés à petra59280.
+*** FLOP *** [Td 5d Ks]
+*** TOURNANT *** [Td 5d Ks] [9c]
+*** RIVIÈRE *** [Td 5d Ks 9c] [As]
+*** ABATTAGE ***
+psychoman59 : montre [Th Ad] (double paire, As et Dix)
+petra59280 : montre [Kc Ah] (double paire, As et Rois)
+petra59280 a remporté 520  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+petra59280 remporte le tournoi et reçoit 5.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 520 | Commission 0 
+Tableau [Td 5d Ks 9c As]
+Siège 2 : psychoman59 (grosse blind) a montré [Th Ad] et a perdu avec double paire, As et Dix
+Siège 3 : petra59280 (bouton) (petite blind) a montré [Kc Ah] et a gagné (520) avec double paire, As et Rois
+
+
+

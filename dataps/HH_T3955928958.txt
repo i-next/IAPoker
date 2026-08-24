@@ -1,0 +1,68 @@
+﻿Main PokerStars n°258891611837 : Tournoi #3955928958, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 14/12/2025 10:18:49 CET [14/12/2025 4:18:49 ET]
+Table '3955928958 1' 3-max Siège #1 est au bouton.
+Place 1: 66ocb (500 en jetons) 
+Place 2: joseginga336 (500 en jetons) 
+Place 3: psychoman59 (500 en jetons) 
+joseginga336 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Kd 3h]
+66ocb : suit. 20
+joseginga336 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [6d Jd 4d]
+joseginga336 : mise. 60
+psychoman59 : suit. 60
+66ocb : suit. 60
+*** TOURNANT *** [6d Jd 4d] [2c]
+joseginga336 : mise. 420 et est all-in.
+psychoman59 : passe. 
+66ocb : passe. 
+Personne n'a suivi. (420) sont retournés à joseginga336.
+joseginga336 a remporté 240  lors du pot .
+joseginga336 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 240 | Commission 0 
+Tableau [6d Jd 4d 2c]
+Siège 1 : 66ocb (bouton) s'est couché. sur le Tournant
+Siège 2 : joseginga336 (petite blind) a remporté (240)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+
+
+
+Main PokerStars n°258891614158 : Tournoi #3955928958, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 14/12/2025 10:19:19 CET [14/12/2025 4:19:19 ET]
+Table '3955928958 1' 3-max Siège #2 est au bouton.
+Place 1: 66ocb (420 en jetons) 
+Place 2: joseginga336 (660 en jetons) 
+Place 3: psychoman59 (420 en jetons) 
+psychoman59 : met la petite blind. 10
+66ocb : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Js 8c]
+joseginga336 : passe. 
+psychoman59 : suit. 10
+66ocb : parole 
+*** FLOP *** [9c 3c Qs]
+psychoman59 : parole 
+66ocb : mise. 40
+psychoman59 : suit. 40
+*** TOURNANT *** [9c 3c Qs] [Ts]
+psychoman59 : parole 
+66ocb : mise. 120
+psychoman59 : relance. 240 à 360 et est all-in.
+66ocb : suit. 240 et est all-in.
+*** RIVIÈRE *** [9c 3c Qs Ts] [3s]
+*** ABATTAGE ***
+psychoman59 : montre [Js 8c] (une suite, Huit à Dame)
+66ocb : montre [9d 3d] (un full, full aux Trois par les Neuf)
+66ocb a remporté 840  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 840 | Commission 0 
+Tableau [9c 3c Qs Ts 3s]
+Siège 1 : 66ocb (grosse blind) a montré [9d 3d] et a gagné (840) avec un full, full aux Trois par les Neuf
+Siège 2 : joseginga336 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [Js 8c] et a perdu avec une suite, Huit à Dame
+
+
+

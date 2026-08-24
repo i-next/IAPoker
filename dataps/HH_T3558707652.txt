@@ -1,0 +1,222 @@
+﻿Main PokerStars n°242300447493 : Tournoi #3558707652, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/03/2023 22:58:14 CET [07/03/2023 16:58:14 ET]
+Table '3558707652 1' 3-max Siège #1 est au bouton.
+Place 1: Lolo196937 (300 en jetons) 
+Place 2: psychoman59 (300 en jetons) 
+Place 3: Mwa000 (300 en jetons) 
+psychoman59 : met la petite blind. 10
+Mwa000 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh 6c]
+Lolo196937 : suit. 20
+psychoman59 : passe. 
+Mwa000 : relance. 50 à 70
+Lolo196937 : suit. 50
+*** FLOP *** [5s 2d Ks]
+Mwa000 : parole 
+Lolo196937 : parole 
+*** TOURNANT *** [5s 2d Ks] [3h]
+Mwa000 : parole 
+Lolo196937 : parole 
+*** RIVIÈRE *** [5s 2d Ks 3h] [4h]
+Mwa000 : mise. 150
+Lolo196937 : passe. 
+Personne n'a suivi. (150) sont retournés à Mwa000.
+Mwa000 a remporté 150  lors du pot .
+*** SYNTHÈSE ***
+Pot total 150 | Commission 0 
+Tableau [5s 2d Ks 3h 4h]
+Siège 1 : Lolo196937 (bouton) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : Mwa000 (grosse blind) a remporté (150)
+
+
+
+Main PokerStars n°242300454404 : Tournoi #3558707652, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/03/2023 22:58:37 CET [07/03/2023 16:58:37 ET]
+Table '3558707652 1' 3-max Siège #2 est au bouton.
+Place 1: Lolo196937 (230 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: Mwa000 (380 en jetons) 
+Mwa000 : met la petite blind. 10
+Lolo196937 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Jh]
+psychoman59 : passe. 
+Mwa000 : suit. 10
+Lolo196937 : parole 
+*** FLOP *** [3h 8s 3s]
+Mwa000 : parole 
+Lolo196937 : parole 
+*** TOURNANT *** [3h 8s 3s] [5d]
+Mwa000 : mise. 20
+Lolo196937 : passe. 
+Personne n'a suivi. (20) sont retournés à Mwa000.
+Mwa000 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [3h 8s 3s 5d]
+Siège 1 : Lolo196937 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : Mwa000 (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°242300458896 : Tournoi #3558707652, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/03/2023 22:58:52 CET [07/03/2023 16:58:52 ET]
+Table '3558707652 1' 3-max Siège #3 est au bouton.
+Place 1: Lolo196937 (210 en jetons) 
+Place 2: psychoman59 (290 en jetons) 
+Place 3: Mwa000 (400 en jetons) 
+Lolo196937 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qh 4d]
+Mwa000 : suit. 20
+Lolo196937 : relance. 190 à 210 et est all-in.
+psychoman59 : passe. 
+Mwa000 : suit. 190
+*** FLOP *** [2c Kd 5d]
+*** TOURNANT *** [2c Kd 5d] [As]
+*** RIVIÈRE *** [2c Kd 5d As] [2h]
+*** ABATTAGE ***
+Lolo196937 : montre [Qs Th] (une paire de Deux)
+Mwa000 : montre [8d Ad] (double paire, As et Deux)
+Mwa000 a remporté 440  lors du pot .
+Lolo196937 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 440 | Commission 0 
+Tableau [2c Kd 5d As 2h]
+Siège 1 : Lolo196937 (petite blind) a montré [Qs Th] et a perdu avec une paire de Deux
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : Mwa000 (bouton) a montré [8d Ad] et a gagné (440) avec double paire, As et Deux
+
+
+
+Main PokerStars n°242300466300 : Tournoi #3558707652, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 07/03/2023 22:59:17 CET [07/03/2023 16:59:17 ET]
+Table '3558707652 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (270 en jetons) 
+Place 3: Mwa000 (630 en jetons) 
+psychoman59 : met la petite blind. 10
+Mwa000 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [As 7s]
+psychoman59 : relance. 250 à 270 et est all-in.
+Mwa000 : suit. 250
+*** FLOP *** [2d Qc 3c]
+*** TOURNANT *** [2d Qc 3c] [5d]
+*** RIVIÈRE *** [2d Qc 3c 5d] [Qs]
+*** ABATTAGE ***
+Mwa000 : montre [Jh 9s] (une paire de Dames)
+psychoman59 : montre [As 7s] (une paire de Dames - As kicker)
+psychoman59 a remporté 540  lors du pot .
+*** SYNTHÈSE ***
+Pot total 540 | Commission 0 
+Tableau [2d Qc 3c 5d Qs]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [As 7s] et a gagné (540) avec une paire de Dames
+Siège 3 : Mwa000 (grosse blind) a montré [Jh 9s] et a perdu avec une paire de Dames
+
+
+
+Main PokerStars n°242300471424 : Tournoi #3558707652, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 07/03/2023 22:59:34 CET [07/03/2023 16:59:34 ET]
+Table '3558707652 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (540 en jetons) 
+Place 3: Mwa000 (360 en jetons) 
+Mwa000 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Jd]
+Mwa000 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [6h 7h 9d]
+psychoman59 : parole 
+Mwa000 : mise. 30
+psychoman59 : suit. 30
+*** TOURNANT *** [6h 7h 9d] [5d]
+psychoman59 : parole 
+Mwa000 : parole 
+*** RIVIÈRE *** [6h 7h 9d 5d] [7d]
+psychoman59 : mise. 120
+Mwa000 : passe. 
+Personne n'a suivi. (120) sont retournés à psychoman59.
+psychoman59 a remporté 120  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [6h 7h 9d 5d 7d]
+Siège 2 : psychoman59 (grosse blind) a remporté (120)
+Siège 3 : Mwa000 (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°242300478400 : Tournoi #3558707652, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 07/03/2023 22:59:58 CET [07/03/2023 16:59:58 ET]
+Table '3558707652 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (600 en jetons) 
+Place 3: Mwa000 (300 en jetons) 
+psychoman59 : met la petite blind. 15
+Mwa000 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jd 5s]
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à Mwa000.
+Mwa000 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 2 : psychoman59 (bouton) (petite blind) s'est couché. avant Flop
+Siège 3 : Mwa000 (grosse blind) a remporté (30)
+
+
+
+Main PokerStars n°242300480099 : Tournoi #3558707652, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau II (15/30) - 07/03/2023 23:00:04 CET [07/03/2023 17:00:04 ET]
+Table '3558707652 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (585 en jetons) 
+Place 3: Mwa000 (315 en jetons) 
+Mwa000 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [3d 5c]
+Mwa000 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [3s 6s 7c]
+psychoman59 : parole 
+Mwa000 : mise. 30
+psychoman59 : suit. 30
+*** TOURNANT *** [3s 6s 7c] [8s]
+psychoman59 : parole 
+Mwa000 : mise. 60
+psychoman59 : passe. 
+Personne n'a suivi. (60) sont retournés à Mwa000.
+Mwa000 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [3s 6s 7c 8s]
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : Mwa000 (bouton) (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°242300489486 : Tournoi #3558707652, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau III (20/40) - 07/03/2023 23:00:34 CET [07/03/2023 17:00:34 ET]
+Table '3558707652 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (525 en jetons) 
+Place 3: Mwa000 (375 en jetons) 
+psychoman59 : met la petite blind. 20
+Mwa000 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ah 6d]
+psychoman59 : relance. 485 à 525 et est all-in.
+Mwa000 : suit. 335 et est all-in.
+Personne n'a suivi. (150) sont retournés à psychoman59.
+*** FLOP *** [8h 6h Ad]
+*** TOURNANT *** [8h 6h Ad] [Ac]
+*** RIVIÈRE *** [8h 6h Ad Ac] [Kh]
+*** ABATTAGE ***
+Mwa000 : montre [2s 6s] (double paire, As et Six)
+psychoman59 : montre [Ah 6d] (un full, full aux As par les Six)
+psychoman59 a remporté 750  lors du pot .
+Mwa000 a fini le tournoi en 2e position.
+psychoman59 remporte le tournoi et reçoit 2.00 € - félicitations !
+*** SYNTHÈSE ***
+Pot total 750 | Commission 0 
+Tableau [8h 6h Ad Ac Kh]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Ah 6d] et a gagné (750) avec un full, full aux As par les Six
+Siège 3 : Mwa000 (grosse blind) a montré [2s 6s] et a perdu avec double paire, As et Six
+
+
+

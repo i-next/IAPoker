@@ -1,0 +1,465 @@
+﻿Main PokerStars n°244577359552 : Tournoi #3611543864, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 02/07/2023 7:16:39 CET [02/07/2023 1:16:39 ET]
+Table '3611543864 1' 3-max Siège #1 est au bouton.
+Place 1: Camarinha696 (300 en jetons) 
+Place 2: Arturike_777 (300 en jetons) 
+Place 3: psychoman59 (300 en jetons) 
+Arturike_777 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts 7d]
+Camarinha696 : passe. 
+Arturike_777 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Jc 9c 4h]
+Arturike_777 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Jc 9c 4h] [3c]
+Arturike_777 : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [Jc 9c 4h 3c] [5d]
+Arturike_777 : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Arturike_777.
+Arturike_777 a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Jc 9c 4h 3c 5d]
+Siège 1 : Camarinha696 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Arturike_777 (petite blind) a remporté (80)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°244577362526 : Tournoi #3611543864, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 02/07/2023 7:17:07 CET [02/07/2023 1:17:07 ET]
+Table '3611543864 1' 3-max Siège #2 est au bouton.
+Place 1: Camarinha696 (300 en jetons) 
+Place 2: Arturike_777 (340 en jetons) 
+Place 3: psychoman59 (260 en jetons) 
+psychoman59 : met la petite blind. 10
+Camarinha696 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 7h]
+Arturike_777 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (10) sont retournés à Camarinha696.
+Camarinha696 a remporté 20  lors du pot .
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : Camarinha696 (grosse blind) a remporté (20)
+Siège 2 : Arturike_777 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244577363177 : Tournoi #3611543864, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 02/07/2023 7:17:13 CET [02/07/2023 1:17:13 ET]
+Table '3611543864 1' 3-max Siège #3 est au bouton.
+Place 1: Camarinha696 (310 en jetons) 
+Place 2: Arturike_777 (340 en jetons) 
+Place 3: psychoman59 (250 en jetons) 
+Camarinha696 : met la petite blind. 10
+Arturike_777 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s Jh]
+psychoman59 : passe. 
+Camarinha696 : suit. 10
+Arturike_777 : parole 
+*** FLOP *** [2c 3h Js]
+Camarinha696 : parole 
+Arturike_777 : parole 
+*** TOURNANT *** [2c 3h Js] [4c]
+Camarinha696 : parole 
+Arturike_777 : parole 
+*** RIVIÈRE *** [2c 3h Js 4c] [5d]
+Camarinha696 : mise. 20
+Arturike_777 : passe. 
+Personne n'a suivi. (20) sont retournés à Camarinha696.
+Camarinha696 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [2c 3h Js 4c 5d]
+Siège 1 : Camarinha696 (petite blind) a remporté (40)
+Siège 2 : Arturike_777 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°244577364759 : Tournoi #3611543864, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau I (10/20) - 02/07/2023 7:17:28 CET [02/07/2023 1:17:28 ET]
+Table '3611543864 1' 3-max Siège #1 est au bouton.
+Place 1: Camarinha696 (330 en jetons) 
+Place 2: Arturike_777 (320 en jetons) 
+Place 3: psychoman59 (250 en jetons) 
+Arturike_777 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2c 5c]
+Camarinha696 : suit. 20
+Arturike_777 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Qc 3d 6d]
+Arturike_777 : parole 
+psychoman59 : parole 
+Camarinha696 : parole 
+*** TOURNANT *** [Qc 3d 6d] [2s]
+Arturike_777 : mise. 30
+psychoman59 : suit. 30
+Camarinha696 : passe. 
+*** RIVIÈRE *** [Qc 3d 6d 2s] [Ks]
+Arturike_777 : mise. 80
+psychoman59 : passe. 
+Personne n'a suivi. (80) sont retournés à Arturike_777.
+Arturike_777 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Qc 3d 6d 2s Ks]
+Siège 1 : Camarinha696 (bouton) s'est couché. sur le Tournant
+Siège 2 : Arturike_777 (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°244577367907 : Tournoi #3611543864, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 02/07/2023 7:17:57 CET [02/07/2023 1:17:57 ET]
+Table '3611543864 1' 3-max Siège #2 est au bouton.
+Place 1: Camarinha696 (310 en jetons) 
+Place 2: Arturike_777 (390 en jetons) 
+Place 3: psychoman59 (200 en jetons) 
+psychoman59 : met la petite blind. 15
+Camarinha696 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s 6s]
+Arturike_777 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (15) sont retournés à Camarinha696.
+Camarinha696 a remporté 30  lors du pot .
+*** SYNTHÈSE ***
+Pot total 30 | Commission 0 
+Siège 1 : Camarinha696 (grosse blind) a remporté (30)
+Siège 2 : Arturike_777 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244577368474 : Tournoi #3611543864, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 02/07/2023 7:18:02 CET [02/07/2023 1:18:02 ET]
+Table '3611543864 1' 3-max Siège #3 est au bouton.
+Place 1: Camarinha696 (325 en jetons) 
+Place 2: Arturike_777 (390 en jetons) 
+Place 3: psychoman59 (185 en jetons) 
+Camarinha696 : met la petite blind. 15
+Arturike_777 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd 4h]
+psychoman59 : passe. 
+Camarinha696 : suit. 15
+Arturike_777 : parole 
+*** FLOP *** [Kc 5c 7s]
+Camarinha696 : parole 
+Arturike_777 : parole 
+*** TOURNANT *** [Kc 5c 7s] [2d]
+Camarinha696 : mise. 30
+Arturike_777 : suit. 30
+*** RIVIÈRE *** [Kc 5c 7s 2d] [Ac]
+Camarinha696 : parole 
+Arturike_777 : parole 
+*** ABATTAGE ***
+Camarinha696 : montre [Qh Th] (Hauteur As)
+Arturike_777 : montre [4s 2h] (une paire de Deux)
+Arturike_777 a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [Kc 5c 7s 2d Ac]
+Siège 1 : Camarinha696 (petite blind) a montré [Qh Th] et a perdu avec Hauteur As
+Siège 2 : Arturike_777 (grosse blind) a montré [4s 2h] et a gagné (120) avec une paire de Deux
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°244577370032 : Tournoi #3611543864, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau II (15/30) - 02/07/2023 7:18:17 CET [02/07/2023 1:18:17 ET]
+Table '3611543864 1' 3-max Siège #1 est au bouton.
+Place 1: Camarinha696 (265 en jetons) 
+Place 2: Arturike_777 (450 en jetons) 
+Place 3: psychoman59 (185 en jetons) 
+Arturike_777 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h 7c]
+Camarinha696 : suit. 30
+Arturike_777 : passe. 
+psychoman59 : parole 
+*** FLOP *** [6s Ah Td]
+psychoman59 : parole 
+Camarinha696 : parole 
+*** TOURNANT *** [6s Ah Td] [Ad]
+psychoman59 : parole 
+Camarinha696 : parole 
+*** RIVIÈRE *** [6s Ah Td Ad] [8d]
+psychoman59 : parole 
+Camarinha696 : mise. 30
+psychoman59 : passe. 
+Personne n'a suivi. (30) sont retournés à Camarinha696.
+Camarinha696 a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Tableau [6s Ah Td Ad 8d]
+Siège 1 : Camarinha696 (bouton) a remporté (75)
+Siège 2 : Arturike_777 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°244577372737 : Tournoi #3611543864, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 02/07/2023 7:18:43 CET [02/07/2023 1:18:43 ET]
+Table '3611543864 1' 3-max Siège #2 est au bouton.
+Place 1: Camarinha696 (310 en jetons) 
+Place 2: Arturike_777 (435 en jetons) 
+Place 3: psychoman59 (155 en jetons) 
+psychoman59 : met la petite blind. 20
+Camarinha696 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ts Jc]
+Arturike_777 : passe. 
+psychoman59 : relance. 115 à 155 et est all-in.
+Camarinha696 : passe. 
+Personne n'a suivi. (115) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 1 : Camarinha696 (grosse blind) s'est couché. avant Flop
+Siège 2 : Arturike_777 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°244577374231 : Tournoi #3611543864, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 02/07/2023 7:18:57 CET [02/07/2023 1:18:57 ET]
+Table '3611543864 1' 3-max Siège #3 est au bouton.
+Place 1: Camarinha696 (270 en jetons) 
+Place 2: Arturike_777 (435 en jetons) 
+Place 3: psychoman59 (195 en jetons) 
+Camarinha696 : met la petite blind. 20
+Arturike_777 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Qs]
+psychoman59 : relance. 155 à 195 et est all-in.
+Camarinha696 : passe. 
+Arturike_777 : passe. 
+Personne n'a suivi. (155) sont retournés à psychoman59.
+psychoman59 a remporté 100  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 100 | Commission 0 
+Siège 1 : Camarinha696 (petite blind) s'est couché. avant Flop
+Siège 2 : Arturike_777 (grosse blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (bouton) a remporté (100)
+
+
+
+Main PokerStars n°244577375064 : Tournoi #3611543864, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 02/07/2023 7:19:04 CET [02/07/2023 1:19:04 ET]
+Table '3611543864 1' 3-max Siège #1 est au bouton.
+Place 1: Camarinha696 (250 en jetons) 
+Place 2: Arturike_777 (395 en jetons) 
+Place 3: psychoman59 (255 en jetons) 
+Arturike_777 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [6s Qs]
+Camarinha696 : passe. 
+Arturike_777 : suit. 20
+psychoman59 : parole 
+*** FLOP *** [3h 2s 6c]
+Arturike_777 : mise. 40
+psychoman59 : relance. 175 à 215 et est all-in.
+Arturike_777 : passe. 
+Personne n'a suivi. (175) sont retournés à psychoman59.
+psychoman59 a remporté 160  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 160 | Commission 0 
+Tableau [3h 2s 6c]
+Siège 1 : Camarinha696 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Arturike_777 (petite blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (grosse blind) a remporté (160)
+
+
+
+Main PokerStars n°244577376599 : Tournoi #3611543864, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 02/07/2023 7:19:18 CET [02/07/2023 1:19:18 ET]
+Table '3611543864 1' 3-max Siège #2 est au bouton.
+Place 1: Camarinha696 (250 en jetons) 
+Place 2: Arturike_777 (315 en jetons) 
+Place 3: psychoman59 (335 en jetons) 
+psychoman59 : met la petite blind. 20
+Camarinha696 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 7d]
+Arturike_777 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Camarinha696.
+Camarinha696 a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Camarinha696 (grosse blind) a remporté (40)
+Siège 2 : Arturike_777 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244577377185 : Tournoi #3611543864, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 02/07/2023 7:19:24 CET [02/07/2023 1:19:24 ET]
+Table '3611543864 1' 3-max Siège #3 est au bouton.
+Place 1: Camarinha696 (270 en jetons) 
+Place 2: Arturike_777 (315 en jetons) 
+Place 3: psychoman59 (315 en jetons) 
+Camarinha696 : met la petite blind. 20
+Arturike_777 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qc Ts]
+psychoman59 : relance. 40 à 80
+Camarinha696 : passe. 
+Arturike_777 : suit. 40
+*** FLOP *** [8c Kc 4c]
+Arturike_777 : parole 
+psychoman59 : mise. 235 et est all-in.
+Arturike_777 : passe. 
+Personne n'a suivi. (235) sont retournés à psychoman59.
+psychoman59 a remporté 180  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [8c Kc 4c]
+Siège 1 : Camarinha696 (petite blind) s'est couché. avant Flop
+Siège 2 : Arturike_777 (grosse blind) s'est couché. sur le Flop
+Siège 3 : psychoman59 (bouton) a remporté (180)
+
+
+
+Main PokerStars n°244577378693 : Tournoi #3611543864, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau III (20/40) - 02/07/2023 7:19:38 CET [02/07/2023 1:19:38 ET]
+Table '3611543864 1' 3-max Siège #1 est au bouton.
+Place 1: Camarinha696 (250 en jetons) 
+Place 2: Arturike_777 (235 en jetons) 
+Place 3: psychoman59 (415 en jetons) 
+Arturike_777 : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Js]
+Camarinha696 : suit. 40
+Arturike_777 : passe. 
+psychoman59 : parole 
+*** FLOP *** [Qh Ks 6h]
+psychoman59 : parole 
+Camarinha696 : parole 
+*** TOURNANT *** [Qh Ks 6h] [4d]
+psychoman59 : parole 
+Camarinha696 : parole 
+*** RIVIÈRE *** [Qh Ks 6h 4d] [Kc]
+psychoman59 : parole 
+Camarinha696 : mise. 40
+psychoman59 : suit. 40
+*** ABATTAGE ***
+Camarinha696 : montre [Kd Qc] (un full, full aux Rois par les Dames)
+psychoman59 : cache la main perdante. 
+Camarinha696 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Tableau [Qh Ks 6h 4d Kc]
+Siège 1 : Camarinha696 (bouton) a montré [Kd Qc] et a gagné (180) avec un full, full aux Rois par les Dames
+Siège 2 : Arturike_777 (petite blind) s'est couché. avant Flop
+Siège 3 : psychoman59 (grosse blind) a caché la main perdante. [9s Js]
+
+
+
+Main PokerStars n°244577381204 : Tournoi #3611543864, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 02/07/2023 7:20:02 CET [02/07/2023 1:20:02 ET]
+Table '3611543864 1' 3-max Siège #2 est au bouton.
+Place 1: Camarinha696 (350 en jetons) 
+Place 2: Arturike_777 (215 en jetons) 
+Place 3: psychoman59 (335 en jetons) 
+psychoman59 : met la petite blind. 30
+Camarinha696 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c Kh]
+Arturike_777 : suit. 60
+psychoman59 : suit. 30
+Camarinha696 : relance. 180 à 240
+Arturike_777 : passe. 
+psychoman59 : passe. 
+Personne n'a suivi. (180) sont retournés à Camarinha696.
+Camarinha696 a remporté 180  lors du pot .
+*** SYNTHÈSE ***
+Pot total 180 | Commission 0 
+Siège 1 : Camarinha696 (grosse blind) a remporté (180)
+Siège 2 : Arturike_777 (bouton) s'est couché. avant Flop
+Siège 3 : psychoman59 (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244577382749 : Tournoi #3611543864, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 02/07/2023 7:20:16 CET [02/07/2023 1:20:16 ET]
+Table '3611543864 1' 3-max Siège #3 est au bouton.
+Place 1: Camarinha696 (470 en jetons) 
+Place 2: Arturike_777 (155 en jetons) 
+Place 3: psychoman59 (275 en jetons) 
+Camarinha696 : met la petite blind. 30
+Arturike_777 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 7c]
+psychoman59 : passe. 
+Camarinha696 : suit. 30
+Arturike_777 : relance. 95 à 155 et est all-in.
+Camarinha696 : passe. 
+Personne n'a suivi. (95) sont retournés à Arturike_777.
+Arturike_777 a remporté 120  lors du pot .
+Arturike_777 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : Camarinha696 (petite blind) s'est couché. avant Flop
+Siège 2 : Arturike_777 (grosse blind) a remporté (120)
+Siège 3 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°244577383805 : Tournoi #3611543864, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 02/07/2023 7:20:26 CET [02/07/2023 1:20:26 ET]
+Table '3611543864 1' 3-max Siège #1 est au bouton.
+Place 1: Camarinha696 (410 en jetons) 
+Place 2: Arturike_777 (215 en jetons) 
+Place 3: psychoman59 (275 en jetons) 
+Arturike_777 : met la petite blind. 30
+psychoman59 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Jc]
+Camarinha696 : passe. 
+Arturike_777 : relance. 155 à 215 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (155) sont retournés à Arturike_777.
+Arturike_777 a remporté 120  lors du pot .
+Arturike_777 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Siège 1 : Camarinha696 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : Arturike_777 (petite blind) a remporté (120)
+Siège 3 : psychoman59 (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°244577384729 : Tournoi #3611543864, 1.86 €+0.14 € EUR Hold'em No Limit - Niveau IV (30/60) - 02/07/2023 7:20:35 CET [02/07/2023 1:20:35 ET]
+Table '3611543864 1' 3-max Siège #2 est au bouton.
+Place 1: Camarinha696 (410 en jetons) 
+Place 2: Arturike_777 (275 en jetons) 
+Place 3: psychoman59 (215 en jetons) 
+psychoman59 : met la petite blind. 30
+Camarinha696 : met la grosse blind. 60
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ks 2c]
+Arturike_777 : passe. 
+psychoman59 : relance. 155 à 215 et est all-in.
+Camarinha696 : suit. 155
+*** FLOP *** [8d 6d 7s]
+*** TOURNANT *** [8d 6d 7s] [Ac]
+*** RIVIÈRE *** [8d 6d 7s Ac] [8s]
+*** ABATTAGE ***
+psychoman59 : montre [Ks 2c] (une paire de Huit)
+Camarinha696 : montre [As 6c] (double paire, As et Huit)
+Camarinha696 a remporté 430  lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 430 | Commission 0 
+Tableau [8d 6d 7s Ac 8s]
+Siège 1 : Camarinha696 (grosse blind) a montré [As 6c] et a gagné (430) avec double paire, As et Huit
+Siège 2 : Arturike_777 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : psychoman59 (petite blind) a montré [Ks 2c] et a perdu avec une paire de Huit
+
+
+

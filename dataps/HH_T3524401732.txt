@@ -1,0 +1,92 @@
+﻿Main PokerStars n°240831817824 : Tournoi #3524401732, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 01/01/2023 10:21:31 CET [01/01/2023 4:21:31 ET]
+Table '3524401732 1' 3-max Siège #1 est au bouton.
+Place 1: psychoman59 (300 en jetons) 
+Place 2: 59herve59 (300 en jetons) 
+Place 3: max06700 (300 en jetons) 
+59herve59 : met la petite blind. 10
+max06700 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td Kh]
+psychoman59 : relance. 20 à 40
+59herve59 : passe. 
+max06700 : relance. 20 à 60
+psychoman59 : suit. 20
+*** FLOP *** [Qc As 2c]
+max06700 : mise. 20
+psychoman59 : suit. 20
+*** TOURNANT *** [Qc As 2c] [2d]
+max06700 : mise. 220 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (220) sont retournés à max06700.
+max06700 a remporté 170  lors du pot .
+*** SYNTHÈSE ***
+Pot total 170 | Commission 0 
+Tableau [Qc As 2c 2d]
+Siège 1 : psychoman59 (bouton) s'est couché. sur le Tournant
+Siège 2 : 59herve59 (petite blind) s'est couché. avant Flop
+Siège 3 : max06700 (grosse blind) a remporté (170)
+
+
+
+Main PokerStars n°240831820606 : Tournoi #3524401732, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 01/01/2023 10:21:53 CET [01/01/2023 4:21:53 ET]
+Table '3524401732 1' 3-max Siège #2 est au bouton.
+Place 1: psychoman59 (220 en jetons) 
+Place 2: 59herve59 (290 en jetons) 
+Place 3: max06700 (390 en jetons) 
+max06700 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 8c]
+59herve59 : passe. 
+max06700 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Ac Ks As]
+max06700 : mise. 20
+psychoman59 : relance. 180 à 200 et est all-in.
+max06700 : passe. 
+Personne n'a suivi. (180) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Ac Ks As]
+Siège 1 : psychoman59 (grosse blind) a remporté (80)
+Siège 2 : 59herve59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : max06700 (petite blind) s'est couché. sur le Flop
+
+
+
+Main PokerStars n°240831822398 : Tournoi #3524401732, 0.93 €+0.07 € EUR Hold'em No Limit - Niveau I (10/20) - 01/01/2023 10:22:07 CET [01/01/2023 4:22:07 ET]
+Table '3524401732 1' 3-max Siège #3 est au bouton.
+Place 1: psychoman59 (260 en jetons) 
+Place 2: 59herve59 (290 en jetons) 
+Place 3: max06700 (350 en jetons) 
+psychoman59 : met la petite blind. 10
+59herve59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Jc]
+max06700 : relance. 20 à 40
+psychoman59 : relance. 220 à 260 et est all-in.
+59herve59 : suit. 240
+max06700 : suit. 220
+*** FLOP *** [6s Td Kc]
+59herve59 : mise. 30 et est all-in.
+max06700 : suit. 30
+*** TOURNANT *** [6s Td Kc] [Th]
+*** RIVIÈRE *** [6s Td Kc Th] [As]
+*** ABATTAGE ***
+59herve59 : montre [2c Tc] (un brelan de Dix)
+max06700 : montre [Qh Ks] (double paire, Rois et Dix)
+59herve59 a remporté 60  parallèle lors du pot .
+psychoman59 : montre [Jh Jc] (double paire, Valets et Dix)
+59herve59 a remporté 780  principal lors du pot .
+psychoman59 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 840 Principal pot 780. Parallèle pot 60. | Commission 0 
+Tableau [6s Td Kc Th As]
+Siège 1 : psychoman59 (petite blind) a montré [Jh Jc] et a perdu avec double paire, Valets et Dix
+Siège 2 : 59herve59 (grosse blind) a montré [2c Tc] et a gagné (840) avec un brelan de Dix
+Siège 3 : max06700 (bouton) a montré [Qh Ks] et a perdu avec double paire, Rois et Dix
+
+
+

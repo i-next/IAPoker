@@ -1,0 +1,24 @@
+﻿Main PokerStars n°257891968110 : Tournoi #3920432095, Freeroll  Hold'em No Limit - Match Round I, Niveau I (2000000/4000000) - 26/09/2025 10:05:00 CET [26/09/2025 4:05:00 ET]
+Table '3920432095 709' 2-max Siège #1 est au bouton.
+Place 1: carramiñana (252 en jetons) ne joue pas.
+Place 2: psychoman59 (252 en jetons) 
+carramiñana : met l'ante. 252 et est all-in.
+psychoman59 : met l'ante. 252 et est all-in.
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Tc Qc]
+*** FLOP *** [9h 6h Ah]
+*** TOURNANT *** [9h 6h Ah] [4h]
+*** RIVIÈRE *** [9h 6h Ah 4h] [8c]
+*** ABATTAGE ***
+psychoman59 : montre [Tc Qc] (Hauteur As)
+carramiñana : montre [Ts Ks] (Hauteur As - Roi kicker)
+carramiñana a remporté 504  lors du pot .
+psychoman59 a fini le tournoi en 2126e position.
+*** SYNTHÈSE ***
+Pot total 504 | Commission 0 
+Tableau [9h 6h Ah 4h 8c]
+Siège 1 : carramiñana (bouton) a montré [Ts Ks] et a gagné (504) avec Hauteur As
+Siège 2 : psychoman59 a montré [Tc Qc] et a perdu avec Hauteur As
+
+
+

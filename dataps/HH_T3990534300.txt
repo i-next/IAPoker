@@ -1,0 +1,533 @@
+﻿Main PokerStars n°260398193865 : Tournoi #3990534300, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 09/04/2026 7:56:50 CET [09/04/2026 1:56:50 ET]
+Table '3990534300 1' 3-max Siège #1 est au bouton.
+Place 1: Hugokeeper1 (500 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: easoteam (500 en jetons) 
+psychoman59 : met la petite blind. 10
+easoteam : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad Kc]
+Hugokeeper1 : passe. 
+psychoman59 : relance. 480 à 500 et est all-in.
+easoteam : passe. 
+Personne n'a suivi. (480) sont retournés à psychoman59.
+psychoman59 a remporté 40  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Siège 1 : Hugokeeper1 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 2 : psychoman59 (petite blind) a remporté (40)
+Siège 3 : easoteam (grosse blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260398194321 : Tournoi #3990534300, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 09/04/2026 7:56:59 CET [09/04/2026 1:56:59 ET]
+Table '3990534300 1' 3-max Siège #2 est au bouton.
+Place 1: Hugokeeper1 (500 en jetons) 
+Place 2: psychoman59 (520 en jetons) 
+Place 3: easoteam (480 en jetons) 
+easoteam : met la petite blind. 10
+Hugokeeper1 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4h Qs]
+psychoman59 : passe. 
+easoteam : suit. 10
+Hugokeeper1 : parole 
+*** FLOP *** [9d 2c 5h]
+easoteam : parole 
+Hugokeeper1 : parole 
+*** TOURNANT *** [9d 2c 5h] [Th]
+easoteam : mise. 20
+Hugokeeper1 : passe. 
+Personne n'a suivi. (20) sont retournés à easoteam.
+easoteam a remporté 40  lors du pot .
+*** SYNTHÈSE ***
+Pot total 40 | Commission 0 
+Tableau [9d 2c 5h Th]
+Siège 1 : Hugokeeper1 (grosse blind) s'est couché. sur le Tournant
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : easoteam (petite blind) a remporté (40)
+
+
+
+Main PokerStars n°260398195179 : Tournoi #3990534300, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 09/04/2026 7:57:16 CET [09/04/2026 1:57:16 ET]
+Table '3990534300 1' 3-max Siège #3 est au bouton.
+Place 1: Hugokeeper1 (480 en jetons) 
+Place 2: psychoman59 (520 en jetons) 
+Place 3: easoteam (500 en jetons) 
+Hugokeeper1 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h Jh]
+easoteam : passe. 
+Hugokeeper1 : suit. 10
+psychoman59 : parole 
+*** FLOP *** [Ah 5h 9c]
+Hugokeeper1 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [Ah 5h 9c] [4d]
+Hugokeeper1 : mise. 20
+psychoman59 : suit. 20
+*** RIVIÈRE *** [Ah 5h 9c 4d] [7d]
+Hugokeeper1 : mise. 20
+psychoman59 : passe. 
+Personne n'a suivi. (20) sont retournés à Hugokeeper1.
+Hugokeeper1 a remporté 80  lors du pot .
+Hugokeeper1 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [Ah 5h 9c 4d 7d]
+Siège 1 : Hugokeeper1 (petite blind) a remporté (80)
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Rivière
+Siège 3 : easoteam (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260398196203 : Tournoi #3990534300, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 09/04/2026 7:57:37 CET [09/04/2026 1:57:37 ET]
+Table '3990534300 1' 3-max Siège #1 est au bouton.
+Place 1: Hugokeeper1 (520 en jetons) 
+Place 2: psychoman59 (480 en jetons) 
+Place 3: easoteam (500 en jetons) 
+psychoman59 : met la petite blind. 10
+easoteam : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [5c 6d]
+Hugokeeper1 : suit. 20
+psychoman59 : passe. 
+easoteam : parole 
+*** FLOP *** [4s 2s 7s]
+easoteam : parole 
+Hugokeeper1 : parole 
+*** TOURNANT *** [4s 2s 7s] [Jc]
+easoteam : parole 
+Hugokeeper1 : parole 
+*** RIVIÈRE *** [4s 2s 7s Jc] [5d]
+easoteam : parole 
+Hugokeeper1 : mise. 20
+easoteam : suit. 20
+*** ABATTAGE ***
+Hugokeeper1 : montre [3h Ac] (une suite, As à Cinq)
+easoteam : cache la main perdante. 
+Hugokeeper1 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [4s 2s 7s Jc 5d]
+Siège 1 : Hugokeeper1 (bouton) a montré [3h Ac] et a gagné (90) avec une suite, As à Cinq
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : easoteam (grosse blind) a caché la main perdante. [7d 6h]
+
+
+
+Main PokerStars n°260398197239 : Tournoi #3990534300, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 09/04/2026 7:57:57 CET [09/04/2026 1:57:57 ET]
+Table '3990534300 1' 3-max Siège #2 est au bouton.
+Place 1: Hugokeeper1 (570 en jetons) 
+Place 2: psychoman59 (470 en jetons) 
+Place 3: easoteam (460 en jetons) 
+easoteam : met la petite blind. 10
+Hugokeeper1 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Th 8d]
+psychoman59 : passe. 
+easoteam : passe. 
+Personne n'a suivi. (10) sont retournés à Hugokeeper1.
+Hugokeeper1 a remporté 20  lors du pot .
+Hugokeeper1 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 20 | Commission 0 
+Siège 1 : Hugokeeper1 (grosse blind) a remporté (20)
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : easoteam (petite blind) s'est couché. avant Flop
+
+
+
+Main PokerStars n°260398197631 : Tournoi #3990534300, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 09/04/2026 7:58:04 CET [09/04/2026 1:58:04 ET]
+Table '3990534300 1' 3-max Siège #3 est au bouton.
+Place 1: Hugokeeper1 (580 en jetons) 
+Place 2: psychoman59 (470 en jetons) 
+Place 3: easoteam (450 en jetons) 
+Hugokeeper1 : met la petite blind. 10
+psychoman59 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9h 7d]
+easoteam : suit. 20
+Hugokeeper1 : passe. 
+psychoman59 : parole 
+*** FLOP *** [Ac 4d 5h]
+psychoman59 : parole 
+easoteam : parole 
+*** TOURNANT *** [Ac 4d 5h] [Tc]
+psychoman59 : parole 
+easoteam : mise. 25
+psychoman59 : passe. 
+Personne n'a suivi. (25) sont retournés à easoteam.
+easoteam a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [Ac 4d 5h Tc]
+Siège 1 : Hugokeeper1 (petite blind) s'est couché. avant Flop
+Siège 2 : psychoman59 (grosse blind) s'est couché. sur le Tournant
+Siège 3 : easoteam (bouton) a remporté (50)
+
+
+
+Main PokerStars n°260398198593 : Tournoi #3990534300, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 09/04/2026 7:58:24 CET [09/04/2026 1:58:24 ET]
+Table '3990534300 1' 3-max Siège #1 est au bouton.
+Place 1: Hugokeeper1 (570 en jetons) 
+Place 2: psychoman59 (450 en jetons) 
+Place 3: easoteam (480 en jetons) 
+psychoman59 : met la petite blind. 10
+easoteam : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [2h 8s]
+Hugokeeper1 : suit. 20
+psychoman59 : passe. 
+easoteam : parole 
+*** FLOP *** [4s 2d 6c]
+easoteam : parole 
+Hugokeeper1 : parole 
+*** TOURNANT *** [4s 2d 6c] [5c]
+easoteam : parole 
+Hugokeeper1 : parole 
+*** RIVIÈRE *** [4s 2d 6c 5c] [Qd]
+easoteam : parole 
+Hugokeeper1 : parole 
+*** ABATTAGE ***
+easoteam : montre [4d 7s] (une paire de Quatre)
+Hugokeeper1 : cache la main perdante. 
+easoteam a remporté 50  lors du pot .
+*** SYNTHÈSE ***
+Pot total 50 | Commission 0 
+Tableau [4s 2d 6c 5c Qd]
+Siège 1 : Hugokeeper1 (bouton) a caché la main perdante. [Kd 9h]
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : easoteam (grosse blind) a montré [4d 7s] et a gagné (50) avec une paire de Quatre
+
+
+
+Main PokerStars n°260398199541 : Tournoi #3990534300, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau I (10/20) - 09/04/2026 7:58:42 CET [09/04/2026 1:58:42 ET]
+Table '3990534300 1' 3-max Siège #2 est au bouton.
+Place 1: Hugokeeper1 (550 en jetons) 
+Place 2: psychoman59 (440 en jetons) 
+Place 3: easoteam (510 en jetons) 
+easoteam : met la petite blind. 10
+Hugokeeper1 : met la grosse blind. 20
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8d 5c]
+psychoman59 : passe. 
+easoteam : suit. 10
+Hugokeeper1 : parole 
+*** FLOP *** [6c Qh 7s]
+easoteam : mise. 20
+Hugokeeper1 : suit. 20
+*** TOURNANT *** [6c Qh 7s] [As]
+easoteam : mise. 20
+Hugokeeper1 : suit. 20
+*** RIVIÈRE *** [6c Qh 7s As] [9d]
+easoteam : mise. 20
+Hugokeeper1 : passe. 
+Personne n'a suivi. (20) sont retournés à easoteam.
+easoteam a remporté 120  lors du pot .
+*** SYNTHÈSE ***
+Pot total 120 | Commission 0 
+Tableau [6c Qh 7s As 9d]
+Siège 1 : Hugokeeper1 (grosse blind) s'est couché. sur le Rivière
+Siège 2 : psychoman59 (bouton) s'est couché. avant Flop (n'a pas misé)
+Siège 3 : easoteam (petite blind) a remporté (120)
+
+
+
+Main PokerStars n°260398200909 : Tournoi #3990534300, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 09/04/2026 7:59:10 CET [09/04/2026 1:59:10 ET]
+Table '3990534300 1' 3-max Siège #3 est au bouton.
+Place 1: Hugokeeper1 (490 en jetons) 
+Place 2: psychoman59 (440 en jetons) 
+Place 3: easoteam (570 en jetons) 
+Hugokeeper1 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Ad 8c]
+easoteam : suit. 30
+Hugokeeper1 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [4d 5s 4s]
+Hugokeeper1 : parole 
+psychoman59 : parole 
+easoteam : parole 
+*** TOURNANT *** [4d 5s 4s] [7d]
+Hugokeeper1 : parole 
+psychoman59 : parole 
+easoteam : parole 
+*** RIVIÈRE *** [4d 5s 4s 7d] [As]
+Hugokeeper1 : parole 
+psychoman59 : parole 
+easoteam : parole 
+*** ABATTAGE ***
+Hugokeeper1 : montre [8h Jc] (une paire de Quatre)
+psychoman59 : montre [Ad 8c] (double paire, As et Quatre)
+easoteam : cache la main perdante. 
+psychoman59 a remporté 90  lors du pot .
+*** SYNTHÈSE ***
+Pot total 90 | Commission 0 
+Tableau [4d 5s 4s 7d As]
+Siège 1 : Hugokeeper1 (petite blind) a montré [8h Jc] et a perdu avec une paire de Quatre
+Siège 2 : psychoman59 (grosse blind) a montré [Ad 8c] et a gagné (90) avec double paire, As et Quatre
+Siège 3 : easoteam (bouton) a caché la main perdante. [8s Td]
+
+
+
+Main PokerStars n°260398202163 : Tournoi #3990534300, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 09/04/2026 7:59:35 CET [09/04/2026 1:59:35 ET]
+Table '3990534300 1' 3-max Siège #1 est au bouton.
+Place 1: Hugokeeper1 (460 en jetons) 
+Place 2: psychoman59 (500 en jetons) 
+Place 3: easoteam (540 en jetons) 
+psychoman59 : met la petite blind. 15
+easoteam : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jc 7s]
+Hugokeeper1 : suit. 30
+psychoman59 : passe. 
+easoteam : parole 
+*** FLOP *** [2h As 3d]
+easoteam : parole 
+Hugokeeper1 : parole 
+*** TOURNANT *** [2h As 3d] [Kh]
+easoteam : parole 
+Hugokeeper1 : parole 
+*** RIVIÈRE *** [2h As 3d Kh] [6h]
+easoteam : parole 
+Hugokeeper1 : parole 
+*** ABATTAGE ***
+easoteam : montre [Qd 6s] (une paire de Six)
+Hugokeeper1 : cache la main perdante. 
+easoteam a remporté 75  lors du pot .
+*** SYNTHÈSE ***
+Pot total 75 | Commission 0 
+Tableau [2h As 3d Kh 6h]
+Siège 1 : Hugokeeper1 (bouton) a caché la main perdante. [9d Td]
+Siège 2 : psychoman59 (petite blind) s'est couché. avant Flop
+Siège 3 : easoteam (grosse blind) a montré [Qd 6s] et a gagné (75) avec une paire de Six
+
+
+
+Main PokerStars n°260398203288 : Tournoi #3990534300, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 09/04/2026 7:59:58 CET [09/04/2026 1:59:58 ET]
+Table '3990534300 1' 3-max Siège #2 est au bouton.
+Place 1: Hugokeeper1 (430 en jetons) 
+Place 2: psychoman59 (485 en jetons) 
+Place 3: easoteam (585 en jetons) 
+easoteam : met la petite blind. 15
+Hugokeeper1 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Qd Jh]
+psychoman59 : suit. 30
+easoteam : suit. 15
+Hugokeeper1 : parole 
+*** FLOP *** [Qc Kc 4s]
+easoteam : parole 
+Hugokeeper1 : parole 
+psychoman59 : mise. 45
+easoteam : suit. 45
+Hugokeeper1 : passe. 
+*** TOURNANT *** [Qc Kc 4s] [Ks]
+easoteam : parole 
+psychoman59 : mise. 60
+easoteam : suit. 60
+*** RIVIÈRE *** [Qc Kc 4s Ks] [Td]
+easoteam : mise. 450 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (450) sont retournés à easoteam.
+easoteam a remporté 300  lors du pot .
+*** SYNTHÈSE ***
+Pot total 300 | Commission 0 
+Tableau [Qc Kc 4s Ks Td]
+Siège 1 : Hugokeeper1 (grosse blind) s'est couché. sur le Flop
+Siège 2 : psychoman59 (bouton) s'est couché. sur le Rivière
+Siège 3 : easoteam (petite blind) a remporté (300)
+
+
+
+Main PokerStars n°260398204676 : Tournoi #3990534300, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 09/04/2026 8:00:26 CET [09/04/2026 2:00:26 ET]
+Table '3990534300 1' 3-max Siège #3 est au bouton.
+Place 1: Hugokeeper1 (400 en jetons) 
+Place 2: psychoman59 (350 en jetons) 
+Place 3: easoteam (750 en jetons) 
+Hugokeeper1 : met la petite blind. 15
+psychoman59 : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [4s Jd]
+easoteam : passe. 
+Hugokeeper1 : suit. 15
+psychoman59 : parole 
+*** FLOP *** [5h Qc Tc]
+Hugokeeper1 : parole 
+psychoman59 : parole 
+*** TOURNANT *** [5h Qc Tc] [Jh]
+Hugokeeper1 : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [5h Qc Tc Jh] [7s]
+Hugokeeper1 : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+Hugokeeper1 : montre [4h 6h] (Hauteur Dame)
+psychoman59 : montre [4s Jd] (une paire de Valets)
+psychoman59 a remporté 60  lors du pot .
+*** SYNTHÈSE ***
+Pot total 60 | Commission 0 
+Tableau [5h Qc Tc Jh 7s]
+Siège 1 : Hugokeeper1 (petite blind) a montré [4h 6h] et a perdu avec Hauteur Dame
+Siège 2 : psychoman59 (grosse blind) a montré [4s Jd] et a gagné (60) avec une paire de Valets
+Siège 3 : easoteam (bouton) s'est couché. avant Flop (n'a pas misé)
+
+
+
+Main PokerStars n°260398205599 : Tournoi #3990534300, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau II (15/30) - 09/04/2026 8:00:43 CET [09/04/2026 2:00:43 ET]
+Table '3990534300 1' 3-max Siège #1 est au bouton.
+Place 1: Hugokeeper1 (370 en jetons) 
+Place 2: psychoman59 (380 en jetons) 
+Place 3: easoteam (750 en jetons) 
+psychoman59 : met la petite blind. 15
+easoteam : met la grosse blind. 30
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [9s Ts]
+Hugokeeper1 : relance. 30 à 60
+psychoman59 : suit. 45
+easoteam : suit. 30
+*** FLOP *** [3d Qh Jh]
+psychoman59 : parole 
+easoteam : parole 
+Hugokeeper1 : mise. 30
+psychoman59 : suit. 30
+easoteam : suit. 30
+*** TOURNANT *** [3d Qh Jh] [Ks]
+psychoman59 : parole 
+easoteam : parole 
+Hugokeeper1 : mise. 30
+psychoman59 : relance. 105 à 135
+easoteam : suit. 135
+Hugokeeper1 : suit. 105
+*** RIVIÈRE *** [3d Qh Jh Ks] [Th]
+psychoman59 : parole 
+easoteam : mise. 525 et est all-in.
+Hugokeeper1 : suit. 145 et est all-in.
+psychoman59 : passe. 
+Personne n'a suivi. (380) sont retournés à easoteam.
+*** ABATTAGE ***
+easoteam : montre [3h Ah] (une couleur, hauteur As)
+Hugokeeper1 : montre [Qd Ad] (une suite, Dix à As)
+easoteam a remporté 965  lors du pot .
+Hugokeeper1 a fini le tournoi en 3e position.
+*** SYNTHÈSE ***
+Pot total 965 | Commission 0 
+Tableau [3d Qh Jh Ks Th]
+Siège 1 : Hugokeeper1 (bouton) a montré [Qd Ad] et a perdu avec une suite, Dix à As
+Siège 2 : psychoman59 (petite blind) s'est couché. sur le Rivière
+Siège 3 : easoteam (grosse blind) a montré [3h Ah] et a gagné (965) avec une couleur, hauteur As
+
+
+
+Main PokerStars n°260398208323 : Tournoi #3990534300, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 09/04/2026 8:01:32 CET [09/04/2026 2:01:32 ET]
+Table '3990534300 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (155 en jetons) 
+Place 3: easoteam (1345 en jetons) 
+easoteam : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [8s 7h]
+easoteam : suit. 20
+psychoman59 : parole 
+*** FLOP *** [6s 4s Qs]
+psychoman59 : parole 
+easoteam : parole 
+*** TOURNANT *** [6s 4s Qs] [6d]
+psychoman59 : parole 
+easoteam : parole 
+*** RIVIÈRE *** [6s 4s Qs 6d] [7s]
+psychoman59 : mise. 115 et est all-in.
+easoteam : passe. 
+Personne n'a suivi. (115) sont retournés à psychoman59.
+psychoman59 a remporté 80  lors du pot .
+psychoman59 : ne montre pas sa main. 
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [6s 4s Qs 6d 7s]
+Siège 2 : psychoman59 (grosse blind) a remporté (80)
+Siège 3 : easoteam (bouton) (petite blind) s'est couché. sur le Rivière
+
+
+
+Main PokerStars n°260398209590 : Tournoi #3990534300, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 09/04/2026 8:01:53 CET [09/04/2026 2:01:53 ET]
+Table '3990534300 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (195 en jetons) 
+Place 3: easoteam (1305 en jetons) 
+psychoman59 : met la petite blind. 20
+easoteam : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Td 8d]
+psychoman59 : suit. 20
+easoteam : parole 
+*** FLOP *** [3h 5s Ks]
+easoteam : parole 
+psychoman59 : parole 
+*** TOURNANT *** [3h 5s Ks] [9h]
+easoteam : parole 
+psychoman59 : parole 
+*** RIVIÈRE *** [3h 5s Ks 9h] [Kc]
+easoteam : parole 
+psychoman59 : parole 
+*** ABATTAGE ***
+easoteam : montre [6c Jh] (une paire de Rois)
+psychoman59 : cache la main perdante. 
+easoteam a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Tableau [3h 5s Ks 9h Kc]
+Siège 2 : psychoman59 (bouton) (petite blind) a caché la main perdante. [Td 8d]
+Siège 3 : easoteam (grosse blind) a montré [6c Jh] et a gagné (80) avec une paire de Rois
+
+
+
+Main PokerStars n°260398210619 : Tournoi #3990534300, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 09/04/2026 8:02:11 CET [09/04/2026 2:02:11 ET]
+Table '3990534300 1' 3-max Siège #3 est au bouton.
+Place 2: psychoman59 (155 en jetons) 
+Place 3: easoteam (1345 en jetons) 
+easoteam : met la petite blind. 20
+psychoman59 : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [7s 3d]
+easoteam : relance. 40 à 80
+psychoman59 : passe. 
+Personne n'a suivi. (40) sont retournés à easoteam.
+easoteam a remporté 80  lors du pot .
+*** SYNTHÈSE ***
+Pot total 80 | Commission 0 
+Siège 2 : psychoman59 (grosse blind) s'est couché. avant Flop
+Siège 3 : easoteam (bouton) (petite blind) a remporté (80)
+
+
+
+Main PokerStars n°260398211110 : Tournoi #3990534300, 0.46 €+0.04 € EUR Hold'em No Limit - Niveau III (20/40) - 09/04/2026 8:02:21 CET [09/04/2026 2:02:21 ET]
+Table '3990534300 1' 3-max Siège #2 est au bouton.
+Place 2: psychoman59 (115 en jetons) 
+Place 3: easoteam (1385 en jetons) 
+psychoman59 : met la petite blind. 20
+easoteam : met la grosse blind. 40
+*** CARTES FERMÉES ***
+Distribuées psychoman59 [Jh Ts]
+psychoman59 : relance. 75 à 115 et est all-in.
+easoteam : suit. 75
+*** FLOP *** [5d 7s Ah]
+*** TOURNANT *** [5d 7s Ah] [3h]
+*** RIVIÈRE *** [5d 7s Ah 3h] [Qd]
+*** ABATTAGE ***
+easoteam : montre [2s 2c] (une paire de Deux)
+psychoman59 : montre [Jh Ts] (Hauteur As)
+easoteam a remporté 230  lors du pot .
+psychoman59 a fini le tournoi en 2e position.
+easoteam gagne le tournoi - félicitations !
+easoteam gagne un ticket " €1.50 Step 2 SnG Power Path ticket "
+*** SYNTHÈSE ***
+Pot total 230 | Commission 0 
+Tableau [5d 7s Ah 3h Qd]
+Siège 2 : psychoman59 (bouton) (petite blind) a montré [Jh Ts] et a perdu avec Hauteur As
+Siège 3 : easoteam (grosse blind) a montré [2s 2c] et a gagné (230) avec une paire de Deux
+
+
+
