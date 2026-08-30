@@ -2,14 +2,20 @@ import historic_file_parser.historic_file_parser as hfp
 import historic_file_parser.sync_files as sync_files
 import files_saved_parser.new_files_parser as new_files_parser
 import models.settings as settings_db
-import fixtures.cards_fix as card_fix
-import fixtures.com_fix as combinaison_fix
+import fixtures.fixtures as fixtures
+import functions.transfertfiles as transfertfile
+
+from models.migrations import migrate_database
 from models import db
+
 def run_parser():
+    transfertfile.main()
+    migrate_database(settings_db.db_params['filename'])
     db.bind(settings_db.db_params)
     db.generate_mapping(create_tables=True)
-    card_fix.main()
-    combinaison_fix.main()
+
+    fixtures.main()
+        
     sync_files_Data = sync_files.sync_files()
     new_files = sync_files_Data.sync_new_tournaments()
 

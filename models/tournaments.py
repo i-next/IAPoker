@@ -10,3 +10,4 @@ class Tournament(db.Entity):
     position = database.Required(int)
     gain = database.Required(float, default=0)
     profit = database.Required(float)
+    hands = database.Set('Hands', reverse='tournament_id')
