@@ -1,2 +1,0 @@
-FILE_SOURCE_HISTORIC = "historique.txt"
-PREFIX_TOURNAMENT_HISTORIC_FILE = "PokerStars Tournoi"
