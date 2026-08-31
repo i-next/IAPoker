@@ -13,7 +13,7 @@ def main():
                 with db_session:
                     e = Cards_obj.Card(card_value = str(val), card_color = color, card_indice = 1)
             except TransactionIntegrityError as e:
-                print("duplicate")
+                print("Fixture error integrity cards color")
 
     values_high = ["J","Q"]
     for val in values_high:
@@ -22,7 +22,7 @@ def main():
                 with db_session:
                     e = Cards_obj.Card(card_value = val, card_color = color, card_indice = 2)
             except TransactionIntegrityError as e:
-                print("duplicate")        
+                print("Fixture error integrity cards color")        
 
     values_premium = ["K","A"]
     for val in values_premium:
@@ -31,13 +31,13 @@ def main():
                 with db_session:
                     e = Cards_obj.Card(card_value = val, card_color = color, card_indice = 3)
             except TransactionIntegrityError as e:
-                print("duplicate")        
+                print("Fixture error integrity cards color")        
 
     try:
         with db_session:
                 commit()
     except TransactionIntegrityError as e:
-                    print("duplicate")        
+                    print("Fixture error integrity cards")        
                     
 # if __name__ == "__main__":
 #     main()

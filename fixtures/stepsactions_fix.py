@@ -16,4 +16,4 @@ def main():
         with db_session:
             commit()
     except TransactionIntegrityError as e:
-        print("duplicate")
+        print("Fixture stepsactions integrity error")

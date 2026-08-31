@@ -1,6 +1,11 @@
 import re
+from datetime import datetime, timedelta
 from pathlib import Path
 import shutil
+
+from pony.orm import db_session
+
+import models.tournaments as tournaments
 
 # --- Configuration -----------------------------------------------------
 DEFAULT_DEST_DIR = Path(r"D:\IA\Softwares\IA Poker\dataps")
@@ -44,7 +49,7 @@ def sync_new_tournaments(source_dirs: list[Path], dest_dir: Path) -> list[str]:
                 continue
             prefix = detect_prefix(file_path.name)
             tournament_id = extract_tournament_id(file_path.name)
-            print(tournament_id)
+            # print(tournament_id)
             if prefix is None or tournament_id is None:
                 continue
 
@@ -54,6 +59,22 @@ def sync_new_tournaments(source_dirs: list[Path], dest_dir: Path) -> list[str]:
 
             try:
                 shutil.copy2(file_path, dest_path)
+
+                now = datetime.now()
+                print(int(tournament_id.replace('T', '')) if tournament_id.startswith('T') else int(tournament_id))
+                with db_session():
+                    newtour = tournaments.Tournament(
+                        tournament_id=int(tournament_id.replace('T', '')) if tournament_id.startswith('T') else int(tournament_id),
+                        date=now.strftime('%Y-%m-%dT%H:%M:%S'),
+                        nb_players=0,
+                        buy_in_total=0,
+                        dotation=0,
+                        position=0,
+                        gain=0,
+                        profit=0,
+                        newone=True,
+                    )
+
                 copied.append(dest_path.name)
             except OSError:
                 pass  # fichier verrouillé/inaccessible : on l'ignore silencieusement
