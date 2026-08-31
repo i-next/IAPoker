@@ -45,11 +45,7 @@ def convert_data(file_content: str):
         )
 
     for line in lines:
-        if line.startswith("PokerStars Tournoi"):
-            id_match = re.search(r"#(\d+)", line)
-            if id_match:
-                data.tournament_id = int(id_match.group(1))
-        elif "Tournoi commencé" in line:
+        if "Tournoi commencé" in line:
             date_match = re.search(r"(\d{2}/\d{2}/\d{4}\s+\d{1,2}:\d{2}:\d{2})", line)
             if date_match:
                 raw = date_match.group(1)
