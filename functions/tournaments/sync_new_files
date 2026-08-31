@@ -1,5 +1,0 @@
-def main():
-    sync_new_tournaments(SOURCE_DIRS, DEFAULT_DEST_DIR)
-
-if __name__ == "__main__":
-    main()
