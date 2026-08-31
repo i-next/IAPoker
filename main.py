@@ -4,6 +4,7 @@
 import models.settings as settings_db
 import fixtures.fixtures as fixtures
 import functions.transfertfiles as transfertfile
+from functions.tournaments.sync_new_files import main as sync_new_files_main
 
 import models.countrycity  # noqa: F401
 import models.players  # noqa: F401
@@ -23,15 +24,8 @@ def run_parser():
     fixtures.main()
 
     # Traitement des tournois
-    #     
-    # sync_files_Data = sync_files.sync_files()
-    # print(sync_files_Data)
-    # new_files = sync_files_Data.sync_new_tournaments()
+    print(sync_new_files_main())
 
-    # new_files_parser_data = new_files_parser.new_files_parser()
-    # new_tournament = new_files_parser_data.add_new_files(new_files)
-    # print(new_tournament)
-    
 
 if __name__ == "__main__":
     run_parser()
