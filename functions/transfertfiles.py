@@ -14,7 +14,8 @@ DEFAULT_DEST_DIR = Path(r"D:\IA\Softwares\IA Poker\dataps")
 # clic sur "Rafraîchir"), l'application copie automatiquement vers DEFAULT_DEST_DIR
 # tout fichier HH/TS présent ici mais pas encore importé (sans écraser l'existant).
 SOURCE_DIRS = [
-    Path(r"C:\Users\euchi\web\statspoker\app\datasrc\psychoman59"),
+    # Path(r"C:\Users\euchi\web\statspoker\app\datasrc\psychoman59"),
+    Path(r"D:\IA\temp"),
 ]
 
 TOURNAMENT_ID_PATTERN = re.compile(r"T\d+")
@@ -62,18 +63,31 @@ def sync_new_tournaments(source_dirs: list[Path], dest_dir: Path) -> list[str]:
 
                 now = datetime.now()
                 print(int(tournament_id.replace('T', '')) if tournament_id.startswith('T') else int(tournament_id))
+                tournament_key = int(tournament_id.replace('T', '')) if tournament_id.startswith('T') else int(tournament_id)
                 with db_session():
-                    newtour = tournaments.Tournament(
-                        tournament_id=int(tournament_id.replace('T', '')) if tournament_id.startswith('T') else int(tournament_id),
-                        date=now.strftime('%Y-%m-%dT%H:%M:%S'),
-                        nb_players=0,
-                        buy_in_total=0,
-                        dotation=0,
-                        position=0,
-                        gain=0,
-                        profit=0,
-                        newone=True,
-                    )
+                    existing = tournaments.Tournament.get(tournament_id=tournament_key)
+                    if existing is None:
+                        newtour = tournaments.Tournament(
+                            tournament_id=tournament_key,
+                            date=now.strftime('%Y-%m-%dT%H:%M:%S'),
+                            nb_players=0,
+                            buy_in_total=0,
+                            dotation=0,
+                            position=0,
+                            gain=0,
+                            profit=0,
+                            newone=True,
+                        )
+                    else:
+                        existing.date = now.strftime('%Y-%m-%dT%H:%M:%S')
+                        existing.nb_players = 0
+                        existing.buy_in_total = 0
+                        existing.dotation = 0
+                        existing.position = 0
+                        existing.gain = 0
+                        existing.profit = 0
+                        existing.newone = True
+                        newtour = existing
 
                 copied.append(dest_path.name)
             except OSError:
