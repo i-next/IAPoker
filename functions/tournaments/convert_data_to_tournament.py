@@ -3,7 +3,36 @@ from datetime import datetime
 
 from pony.orm import db_session
 
+from models.countrycity import CountryCity
+from models.players import Players
 from models.tournaments import Tournament
+
+
+def _parse_players_from_text(file_content: str):
+    players = []
+    player_pattern = re.compile(
+        r"^\s*(?:Place\s+)?(\d+)\s*:\s*([^\s(]+)\s*\(([^)]+)\),\s*(?:€([0-9]+(?:[.,][0-9]*)?)|ticket\s+([0-9]+(?:[.,][0-9]*)?) €)?",
+        re.IGNORECASE,
+    )
+    
+    for line in file_content.splitlines():
+        match = player_pattern.match(line.strip())
+       
+        if not match:
+            continue
+        pseudo = match.group(2).strip()
+        country_name = match.group(3).strip()
+        gain = None
+       
+        # Extract gain: either "€x,xx" or "ticket x €" format
+        if match.group(4):  # €x,xx format
+            gain = float(match.group(4).replace(",", "."))
+        elif match.group(5):  # ticket x € format
+            gain = float(match.group(5).replace(",", "."))
+        
+        players.append({"pseudo": pseudo, "countrycity": country_name, "gain": gain})
+
+    return players
 
 
 @db_session
@@ -74,6 +103,27 @@ def convert_data(file_content: str):
         data.gain = 0.0
     if not data.profit:
         data.profit = 0.0
+
+    for player_data in _parse_players_from_text(file_content):
+        country = CountryCity.get(name=player_data["countrycity"])
+        if country is None:
+            country = CountryCity(name=player_data["countrycity"])
+
+        player = Players.get(pseudo=player_data["pseudo"])
+        if player is None:
+            player = Players(pseudo=player_data["pseudo"], countrycity=country)
+
+        # Add player to tournament
+        data.players.add(player)
+        player.nb_tour += 1
+        
+        # If this is psychoman59 (the user player), update gain from player data
+        if player_data["pseudo"] == "psychoman59" and player_data.get("gain") is not None:
+            data.gain = player_data["gain"]
+    
+    # Calculate profit = gain - buy_in_total
+    data.profit = data.gain - data.buy_in_total
+
     data.newone = True
     return data
 
